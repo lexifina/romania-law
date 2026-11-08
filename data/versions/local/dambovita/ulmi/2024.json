@@ -1578,6 +1578,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-70-2024",
+   "path": "local/dambovita/ulmi/2024/70",
+   "short": "HCL Ulmi nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 70/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-73-2024",
    "path": "local/dambovita/ulmi/2024/73",
    "short": "HCL Ulmi nr. 73/2024",

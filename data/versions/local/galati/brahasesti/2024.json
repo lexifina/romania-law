@@ -3,6 +3,786 @@
  "shard": "local/galati/brahasesti/2024",
  "acts": [
   {
+   "slug": "hcl-galati--brahasesti-1-2024",
+   "path": "local/galati/brahasesti/2024/1",
+   "short": "HCL Brăhășești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 1/2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148362",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-12-2024",
+   "path": "local/galati/brahasesti/2024/12",
+   "short": "HCL Brăhășești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 12/2024 privind aprobarea Studiului de fundamentare , delegarea serviciilor de operare , documentației de atribuire precum și acordarea unui mandat special pentru reprezentantul UAT Comuna Brăhășești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148653",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-14-2024",
+   "path": "local/galati/brahasesti/2024/14",
+   "short": "HCL Brăhășești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 14/2024 privind aprobarea Studiului de oportunitate și fundamentare pentru delegarea gestiunii activităților de sortare a deșeurilor de hârtie, carton, metal, plastic şi sticlă colectate separat din deşeurile municipale în staţia de sortare Valea Mărului, inclusiv transportul reziduurilor rezultate din sortare la depozitul de deşeuri sau la instalaţia de tratare mecano-biologică respectiv eliminarea, prin depozitare, a deşeurilor reziduale, a deşeurilor stradale, a deşeurilor de pământ şi pietre provenite de pe căile publice, a reziduurilor rezultate de la instalaţiile de tratare a deşeurilor municipale, precum şi a deşeurilor care nu pot fi valorificate provenite din activităţi de reamenajare şi reabilitare interioară şi/sau exterioară a locuinţelor la depozitul de deşeuri nepericuloase Valea Mărului, din județul Galați”,delegării gestiunii serviciului de salubrizare pentru activitățile de sortare și eliminare prin depozitare aferentă proiectului ,, Sistem de Management Inegrat al Deșeurilor în Județul Galați ,, , documentației de atribuire precum și acordarea unui mandat special pentru reprezentantul UAT Comuna Brăhășești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148655",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-17-2024",
+   "path": "local/galati/brahasesti/2024/17",
+   "short": "HCL Brăhășești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 17/2024 privind modificarea indicatorilor tehnico-economici, și a Devizului General actualizat , pentru obiectivul de investiții ,, Amenajare Parc Sat Brăhășești Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148658",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-18-2024",
+   "path": "local/galati/brahasesti/2024/18",
+   "short": "HCL Brăhășești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 18/2024 privind aprobarea Planului local de acțiune și lucrări de interes local ce urmează a fi efectuate de beneficiarii de ajutor minim de incluziune , conform Legii 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148659",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-2-2024",
+   "path": "local/galati/brahasesti/2024/2",
+   "short": "HCL Brăhășești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 2/2024 privind utilizarea sumei de 1.500.000 lei din excedentul bugetar al anului 2023 pentru acoperirea golurilor de casa ale sectiunii de functionare si sectiunii de dezvoltare în anul 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148364",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-23-2024",
+   "path": "local/galati/brahasesti/2024/23",
+   "short": "HCL Brăhășești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 23/2024 privind aprobarea Raportului de informare si consultare a publicului în vederea elaborării PUZ pentru CONSTRUIRE CENTRALĂ ELECTRICĂ EOLIANĂ ÎN NORD-VESTUL JUDEȚULUI GALAȚI, CU MAXIMUM 63 GRUPURI GENERATOARE EOLIENE ȘI CONSTRUIRE STATII DE RACORDARE,CONSTRUIRE/REABILITARE,DRUMURI/PLATFORME, CONSTRUIRE LINII ELECTRICE/CABLURI PENTRU RACORD INTERN SI RACORD SEN, ACTUALIZARE SI MODIFICARI DE AMPLASAMENT A UNOR GENERATOARE EOLIENE DIN CADRUL PROIECTULUI ”CONSTRUIRE CENTRALĂ ELECTRICĂ EOLIANĂ ÎN NORD-VESTUL JUDEȚULUI GALAȚI, CU MAXIMUM 63 GRUPURI GENERATOARE EOLIENE,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148681",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-24-2024",
+   "path": "local/galati/brahasesti/2024/24",
+   "short": "HCL Brăhășești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 24/2024 privind aprobarea tarifului pentru colectarea deșeului menajer , ,,fracție umedă,, și ,,fracție uscată,, ce va fi aplicat de societatea S.C ECOPREST BRAHA 2015 S.R",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148683",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-25-2024",
+   "path": "local/galati/brahasesti/2024/25",
+   "short": "HCL Brăhășești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 25/2024 privind aprobarea taxelor și tarifelor pentru serviciile prestate și practicate populației și agenților economici, ce vor fi aplicate de societatea S.C ECOPREST BRAHA 2015 S.R.L",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148684",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-26-2024",
+   "path": "local/galati/brahasesti/2024/26",
+   "short": "HCL Brăhășești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 26/2024 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâre cu caracter normativ care se supun adoptării Consiliului local al Comunei Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148682",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-29-2024",
+   "path": "local/galati/brahasesti/2024/29",
+   "short": "HCL Brăhășești nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 29/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul I al anului 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148614",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-30-2024",
+   "path": "local/galati/brahasesti/2024/30",
+   "short": "HCL Brăhășești nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 30/2024 privind modificarea indicatorilor tehnico-economici, și a Devizului General actualizat , pentru obiectivul de investiții ,, Amenajare Parc Sat Brăhășești Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148615",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-31-2024",
+   "path": "local/galati/brahasesti/2024/31",
+   "short": "HCL Brăhășești nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 31/2024 privind acordul de participare în cadrul programului de finanțare și acordul privind asigurarea şi susţinerea, din surse proprii, a cheltuielilor care nu sunt acoperite prin finanţarea acordată de AFM şi a cheltuielilor neeligibile pentru proiectul “EXTINDERE CANALIZARE ÎN COMUNA BRĂHĂȘEȘTI, JUDEȚUL GALAȚI - ETAPA I”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/151846",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/151846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-32-2024",
+   "path": "local/galati/brahasesti/2024/32",
+   "short": "HCL Brăhășești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 32/2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/151847",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/151847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-33-2024",
+   "path": "local/galati/brahasesti/2024/33",
+   "short": "HCL Brăhășești nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 33/2024 privind privind : aprobarea Planului de actiune pentru anul 2024 privind serviciile sociale administrate și finanțate din bugetul UAT Comuna Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/151848",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/151848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-34-2024",
+   "path": "local/galati/brahasesti/2024/34",
+   "short": "HCL Brăhășești nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 34/2024 privind privind aprobarea Regulamentului pentru decontarea cheltuielilor de transport pentru salariații din cadrul aparatului de specialitate al primarului comunei Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/151849",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/151849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-35-2024",
+   "path": "local/galati/brahasesti/2024/35",
+   "short": "HCL Brăhășești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 35/2024 privind privind modificarea Anexei nr.1 la HCL nr.113 din 21.12.2023 privind : stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Brăhășești , judeţul Galați , și din cadrul serviciilor publice cu personalitate juridică aflate în subordinea Consiliului Local Brăhășești , începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/151850",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/151850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-36-2024",
+   "path": "local/galati/brahasesti/2024/36",
+   "short": "HCL Brăhășești nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 36/2024 privind privind : aprobarea indicatorilor tehnico-economici, și a Devizului General, pentru obiectivul de investiții ,, Reabilitare Drumuri Locale în Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/151851",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/151851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-37-2024",
+   "path": "local/galati/brahasesti/2024/37",
+   "short": "HCL Brăhășești nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 37/2024 privind privind : aprobarea indicatorilor tehnico-economici, și a Devizului General, pentru obiectivul de investiții ,, Modernizare străzi, Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/151852",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/151852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-38-2024",
+   "path": "local/galati/brahasesti/2024/38",
+   "short": "HCL Brăhășești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 38/2024 privind privind : aprobarea indicatorilor tehnico-economici, și a Devizului General, pentru obiectivul de investiții ,,Reparații , modificări și construcții în Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/151853",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/151853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-39-2024",
+   "path": "local/galati/brahasesti/2024/39",
+   "short": "HCL Brăhășești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 39/2024 privind aprobarea înființării ,,Clubului Sportiv Brăhășești,, la nivelul UAT Comuna Brăhășești și aprobarea Regulamentului de organizare și funcționare al clubului sportiv de drept public",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162030",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-40-2024",
+   "path": "local/galati/brahasesti/2024/40",
+   "short": "HCL Brăhășești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 40/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul II al anului 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162031",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-41-2024",
+   "path": "local/galati/brahasesti/2024/41",
+   "short": "HCL Brăhășești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 41/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență , altele decât cele stabilite de art.84 - Legea nr.196/2016 , privind venitul minim de incluziune , cu modificările și completările ulterioare",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162032",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-44-2024",
+   "path": "local/galati/brahasesti/2024/44",
+   "short": "HCL Brăhășești nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 44/2024 privind aprobarea delegarii prin concesiune a Serviciului pentru gestionarea cainilor fara stapan al Comunei Brăhășești, Judetul Galați, a studiului de fundamentare a deciziei de pdelegare a Serviciului pentru gestionarea cainilor fara stapan al Comunei Brăhășești Judetul Galați, a Regulamentului de Organizare și funcționare al serviciului pentru gestionarea cainilor fara stapan, a Caietului de Sarcini, a documentatiei de atribuire prin procedura simplificata;",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162035",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-45-2024",
+   "path": "local/galati/brahasesti/2024/45",
+   "short": "HCL Brăhășești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 45/2024 modificarea HCL nr.38 din 28.03.2024 privind aprobarea indicatorilor tehnico-economici, și a Devizului General, pentru obiectivul de investiții ,,Reparații , modificări și construcții în Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162036",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-47-2024",
+   "path": "local/galati/brahasesti/2024/47",
+   "short": "HCL Brăhășești nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 47/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul II al anului 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162038",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-48-2024",
+   "path": "local/galati/brahasesti/2024/48",
+   "short": "HCL Brăhășești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 48/2024 privind : aprobarea menținerii în forma juridică actuală a Serviciului de Alimentare cu Apă Brăhășești ,serviciu public de interes local , cu personalitate juridică , organizat în subordinea Consiliului Local Brăhășești , județul Galați , pentru continuarea activității de alimentare cu apă",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162039",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-5-2024",
+   "path": "local/galati/brahasesti/2024/5",
+   "short": "HCL Brăhășești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 5/2024 privind aprobarea indicatorilor tehnico-economici si a cofinantării, pentru obiectivul de investiție „Actualizare Plan Urbanistic General , Comuna Brăhășești, județul Galați”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148642",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-50-2024",
+   "path": "local/galati/brahasesti/2024/50",
+   "short": "HCL Brăhășești nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 50/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul II al anului 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162043",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-51-2024",
+   "path": "local/galati/brahasesti/2024/51",
+   "short": "HCL Brăhășești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 51/2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162044",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-52-2024",
+   "path": "local/galati/brahasesti/2024/52",
+   "short": "HCL Brăhășești nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 52/2024 privind aprobarea documentelor necesare implementării Strategiei Naționale Anticorupție 2021-2025, pentru societatea S.C Ecoprest Braha 2015 SRL",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162045",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-53-2024",
+   "path": "local/galati/brahasesti/2024/53",
+   "short": "HCL Brăhășești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 53/2024 privind : aprobarea parteneriatului dintre UAT Judeţul Galaţi prin Consiliul Judeţean Galaţi şi UAT Comuna Brăhășești prin Consiliul Local al comunei Brăhășești, judeţul Galaţi, pentru derularea Programului multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism pentru perioada 2024-2027",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162046",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-54-2024",
+   "path": "local/galati/brahasesti/2024/54",
+   "short": "HCL Brăhășești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 54/2024 privind aprobarea Regulamentului Intern privind acordarea voucherelor de vacanță pentru salariații aparatului de specialitate al Primarului Comunei Brahasesti și serviciilor cu personalitate juridică subordonate Consiliului Local al Comunei Brahasesti",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162047",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-55-2024",
+   "path": "local/galati/brahasesti/2024/55",
+   "short": "HCL Brăhășești nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 55/2024 privind aprobarea indicatorilor tehnico-economici, și a Devizului General, pentru obiectivul de investiții ,, Racordarea la rețeaua electrică a locului de consum permanent ,,Stație epurare ape uzate,, amplasată în județul Galați , comuna Brăhășești , CP 807055 – Volum I-Tarif de racordare și Volum II – Instalație de utilizare ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162982",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-56-2024",
+   "path": "local/galati/brahasesti/2024/56",
+   "short": "HCL Brăhășești nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 56/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul III al anului 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/162983",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/162983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-57-2024",
+   "path": "local/galati/brahasesti/2024/57",
+   "short": "HCL Brăhășești nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 57/2024 privind aderarea la sistemul de cooperare pentru activitatea de audit public intern , aprobarea și însușirea Acordului de cooperare nr.1/22.04.2024 pentru activitatea de audit public intern",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176260",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-58-2024",
+   "path": "local/galati/brahasesti/2024/58",
+   "short": "HCL Brăhășești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 58/2024 privind modificarea Anexei nr.1 la HCL nr.113 din 21.12.2023 privind : stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Brăhășești , judeţul Galați , și din cadrul serviciilor publice cu personalitate juridică aflate în subordinea Consiliului Local Brăhășești , începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176261",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-59-2024",
+   "path": "local/galati/brahasesti/2024/59",
+   "short": "HCL Brăhășești nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 59/2024 privind modificarea salariilor de bază pentru personalul din cadrul societății S.C ECOPREST BRAHA 2015 SRL pentru anul 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176262",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-61-2024",
+   "path": "local/galati/brahasesti/2024/61",
+   "short": "HCL Brăhășești nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 61/2024 privind actualizarea Programului anual al achizitiilor publice al comunei Brahasesti , judetul Galati , pe anul 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176274",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-62-2024",
+   "path": "local/galati/brahasesti/2024/62",
+   "short": "HCL Brăhășești nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 62/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati pe trimestrul III al anului 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176275",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-63-2024",
+   "path": "local/galati/brahasesti/2024/63",
+   "short": "HCL Brăhășești nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 63/2024 privind aprobarea Raportului de informare si consultare a publicului asupra propunerilor pentru intenție elaborare PUZ pentru CONSTRUIRE CENTRALĂ ELECTRICĂ EOLIANĂ ÎN NORD-VESTUL JUDEȚULUI GALAȚI, CU MAXIMUM 63 GRUPURI GENERATOARE EOLIENE ȘI CONSTRUIRE STATII DE RACORDARE,CONSTRUIRE/REABILITARE,DRUMURI/PLATFORME, CONSTRUIRE LINII ELECTRICE/CABLURI PENTRU RACORD INTERN SI RACORD SEN, ACTUALIZARE SI MODIFICARI DE AMPLASAMENT A UNOR GENERATOARE EOLIENE DIN CADRUL PROIECTULUI ”CONSTRUIRE CENTRALĂ ELECTRICĂ EOLIANĂ ÎN NORD-VESTUL JUDEȚULUI GALAȚI, CU MAXIMUM 63 GRUPURI GENERATOARE EOLIENE,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176276",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-64-2024",
+   "path": "local/galati/brahasesti/2024/64",
+   "short": "HCL Brăhășești nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 64/2024 privind revocarea HCL nr.18/31.01.2024 privind aprobarea Planului de acțiuni sau lucrări de interes local ce urmează a fi efectuate de beneficiarii de ajutor minim de incluziune",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176277",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-65-2024",
+   "path": "local/galati/brahasesti/2024/65",
+   "short": "HCL Brăhășești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 65/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul III al anului 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176278",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-66-2024",
+   "path": "local/galati/brahasesti/2024/66",
+   "short": "HCL Brăhășești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 66/2024 privind necesitatea aprobarii solicitarii prelungirii scrisorii de garantie din partea Fondului de Garantare a Creditului Rural - IFN SA pentru proiectul finantat prin masura 7.2 al comunei Brahasesti “AMENAJARE PARC SAT BRAHASESTI, COMUNA BRAHASESTI, JUDETUL GALATI”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176279",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-67-2024",
+   "path": "local/galati/brahasesti/2024/67",
+   "short": "HCL Brăhășești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 67/2024 privind aprobarea Procedurii de acordare a anulării accesoriilor aferente obligațiilor bugetare principale restante la data de 31 august 2024 , datorate bugetului local al comunei Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176280",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-69-2024",
+   "path": "local/galati/brahasesti/2024/69",
+   "short": "HCL Brăhășești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 69/2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176282",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-7-2024",
+   "path": "local/galati/brahasesti/2024/7",
+   "short": "HCL Brăhășești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 7/2024 privind aprobarea Programului anual al achizitiilor publice al comunei Brahasesti , judetul Galati , pe anul 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/148648",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/148648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-70-2024",
+   "path": "local/galati/brahasesti/2024/70",
+   "short": "HCL Brăhășești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 70/2024 privind implementarea și achiziționarea unui autovehicul de către UAT Comuna Brăhășești , prin Programul privind reducerile emisiilor de gaze cu efect de seră în transporturi prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic , 2020-2024 – Programul Rabla Plus 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176283",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-71-2024",
+   "path": "local/galati/brahasesti/2024/71",
+   "short": "HCL Brăhășești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 71/2024 privind necesitatea aprobarii solicitarii prelungirii scrisorii de garanție din partea Fondului de Garantare a Creditului Rural - IFN SA pentru proiectul finanțat prin masura 7.2 al comunei Brăhășești, \" Înființare sistem de canalizare a apelor uzate în localitatea Brăhășești, comuna Brăhășești, judetul Galați\";",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176284",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-72-2024",
+   "path": "local/galati/brahasesti/2024/72",
+   "short": "HCL Brăhășești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 72/2024 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati pe trimestrul IV al anului 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176288",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-73-2024",
+   "path": "local/galati/brahasesti/2024/73",
+   "short": "HCL Brăhășești nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 73/2024 privind participarea UAT Comuna Brăhășești la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și pentru aprobarea indicatorilor tehnico-economici pentru proiectul ,, Modernizare Sistem Iluminat Public în Comuna Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176289",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-74-2024",
+   "path": "local/galati/brahasesti/2024/74",
+   "short": "HCL Brăhășești nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 74/2024 privind aprobarea Procedurii de acordare a unor facilități fiscale , urmare a achitării până la data de 25.11.2024 a obligațiilor restante la data de 31 august 2024 , datorate bugetului local al comunei Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/176290",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/176290",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--brahasesti-76-2024",
    "path": "local/galati/brahasesti/2024/76",
    "short": "HCL Brăhășești nr. 76/2024",

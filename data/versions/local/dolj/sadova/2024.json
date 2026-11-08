@@ -3,6 +3,96 @@
  "shard": "local/dolj/sadova/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--sadova-1-2024",
+   "path": "local/dolj/sadova/2024/1",
+   "short": "HCL Sadova nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 1/2024 privind organizarea retelei scolare la nivelul UAT comuna Sadova pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/136614",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/136614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-10-2024",
+   "path": "local/dolj/sadova/2024/10",
+   "short": "HCL Sadova nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 10/2024 privind aprobarea Strategiei Anuale a Achizițiilor Publice pentru anul 2024 cât și a Programului Anual al Achizitiilor Publice , la nivelul comunei Sadova, pentru anul 2024",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/143737",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/143737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-11-2024",
+   "path": "local/dolj/sadova/2024/11",
+   "short": "HCL Sadova nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 11/2024 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul lV, anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/143738",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/143738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-15-2024",
+   "path": "local/dolj/sadova/2024/15",
+   "short": "HCL Sadova nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 15/2024 privind aprobarea Planului de Pază al comunei Sadova, județul Dolj",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/150165",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/150165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-4-2024",
+   "path": "local/dolj/sadova/2024/4",
+   "short": "HCL Sadova nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 4/2024 pentru aprobarea raportului activitatii asistentilor personali angajati in cadrul Primariei comunei Sadova pe semestrul ll, anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/136617",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/136617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-5-2024",
+   "path": "local/dolj/sadova/2024/5",
+   "short": "HCL Sadova nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 5/2024 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de venit minim de incluziune pe anul 2024",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/141856",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/141856",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-50-2024",
    "path": "local/dolj/sadova/2024/50",
    "short": "HCL Sadova nr. 50/2024",
@@ -298,6 +388,21 @@
      "from": "2024-12-18",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/183328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-8-2024",
+   "path": "local/dolj/sadova/2024/8",
+   "short": "HCL Sadova nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 8/2024 privind aprobarea bugetului local al comunei Sadova pe anul 2024",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/141859",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/141859",
      "sha256": null
     }
    ]

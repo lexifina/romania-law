@@ -3,6 +3,73 @@
 "shard": "local/dolj/plenita/2022",
 "acts": [
 {
+"slug": "hcl-dolj--plenita-12-2022",
+"path": "local/dolj/plenita/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 12/2022",
+"short": "HCL Plenița nr. 12/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/70082",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--plenita-14-2022",
+"path": "local/dolj/plenita/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 14/2022 privind aprobarea indicatorilor tehnico-economici si aprobarea cererii de finantare in cadrul Programului National de Investitii ,,Anghel Saligny’’ pentru obiectivul de investitii “ INFIINTARE SISTEM DE DISTRIBUTIE GAZE NATURALE ÎN COMUNA PLENITA ȘI LOCALITĂȚILE APARȚINĂTOARE ( PLENITA SI CASTRELE TRAIANE), JUDEȚUL DOLJ’’",
+"short": "HCL Plenița nr. 14/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-01",
+"latest": "2022-09-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/70086",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-36-2022",
+"path": "local/dolj/plenita/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 36/2022 privind aprobarea actualizarii Devizului general pentru Proiectul: ,, Modernizare drumuri de interes local in comuna Plenita, judetul Dolj",
+"short": "HCL Plenița nr. 36/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/103189",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-dolj--plenita-38-2022",
 "path": "local/dolj/plenita/2022/38",
 "kind": "local",

@@ -3,6 +3,171 @@
  "shard": "local/dambovita/vulcana-bai/2020",
  "acts": [
   {
+   "slug": "hcl-dambovita--vulcana-bai-10-2020",
+   "path": "local/dambovita/vulcana-bai/2020/10",
+   "short": "HCL Vulcana-Băi nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 10/2020 privind aprobarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/1958",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/1958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-13-2020",
+   "path": "local/dambovita/vulcana-bai/2020/13",
+   "short": "HCL Vulcana-Băi nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 13/2020 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol pentru perioada 2020-2024",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/5457",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/5457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-14-2020",
+   "path": "local/dambovita/vulcana-bai/2020/14",
+   "short": "HCL Vulcana-Băi nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 14/2020 privind stabilirea de măsuri necesare pentru desfășurarea în bune condiții a ședințelor Consiliului Local al Comunei Vulcana-Băi, prin utilizarea de mijloace electronice",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/5458",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/5458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-16-2020",
+   "path": "local/dambovita/vulcana-bai/2020/16",
+   "short": "HCL Vulcana-Băi nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 16/2020 privind aprobarea implementării proiectului „Dezvoltarea sistemului de asistență socială și combaterea sărăciei și a excluziunii socialeˮ cod SMIS 126924",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/5460",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/5460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-17-2020",
+   "path": "local/dambovita/vulcana-bai/2020/17",
+   "short": "HCL Vulcana-Băi nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 17/2020 privind aprobarea Planului pentru asigurarea resurselor umane, materiale și financiare destinate prevenirii și gestionării situațiilor de urgență pe anul 2020",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/5461",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/5461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-18-2020",
+   "path": "local/dambovita/vulcana-bai/2020/18",
+   "short": "HCL Vulcana-Băi nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 18/2020 privind aprobarea Planul de ordine și siguranță publică al poliției locale a comunei Vulcana-Băi pe anul 2020",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/5462",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/5462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-19-2020",
+   "path": "local/dambovita/vulcana-bai/2020/19",
+   "short": "HCL Vulcana-Băi nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 19/2020 privind aprobarea Planul de pază al comunei Vulcana-Băi",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/5463",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/5463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-21-2020",
+   "path": "local/dambovita/vulcana-bai/2020/21",
+   "short": "HCL Vulcana-Băi nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 21/2020 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul I/2020",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/5465",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/5465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-3-2020",
+   "path": "local/dambovita/vulcana-bai/2020/3",
+   "short": "HCL Vulcana-Băi nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 3/2020 privind stabilirea de măsuri privind Registrul agricol pentru perioada 2020-2024",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/1946",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/1946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-4-2020",
+   "path": "local/dambovita/vulcana-bai/2020/4",
+   "short": "HCL Vulcana-Băi nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 4/2020 privind stabilirea de măsuri privind utilizarea sigiliului autorității deliberative, începând cu data de 1 ianuarie 2020",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/1947",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/1947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-65-2020",
+   "path": "local/dambovita/vulcana-bai/2020/65",
+   "short": "HCL Vulcana-Băi nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 65/2020 privind aprobarea modelului legitimației și a semnului distinctiv pentru calitatea de ales",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/16701",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/16701",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-68-2020",
    "path": "local/dambovita/vulcana-bai/2020/68",
    "short": "HCL Vulcana-Băi nr. 68/2020",
@@ -28,6 +193,21 @@
      "from": "2020-11-26",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/16715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-7-2020",
+   "path": "local/dambovita/vulcana-bai/2020/7",
+   "short": "HCL Vulcana-Băi nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 7/2020 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2019",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/1950",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/1950",
      "sha256": null
     }
    ]
@@ -298,6 +478,21 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/23815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-9-2020",
+   "path": "local/dambovita/vulcana-bai/2020/9",
+   "short": "HCL Vulcana-Băi nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 9/2020 privind utilizarea excedentului de la finele anului 2019 și anilor precedenți pentru finanțarea cheltuielilor secțiunilor de funcționare și dezvoltare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/1957",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/1957",
      "sha256": null
     }
    ]

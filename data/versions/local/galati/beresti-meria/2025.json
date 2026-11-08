@@ -3,6 +3,591 @@
  "shard": "local/galati/beresti-meria/2025",
  "acts": [
   {
+   "slug": "hcl-galati--beresti-meria-1-2025",
+   "path": "local/galati/beresti-meria/2025/1",
+   "short": "HCL Berești-Meria nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 1/2025 privind acoperirea definitivă a deficitului secțiunii de dezvoltare pentru anul 2024 din excedentul bugetului local, din anii precedenți",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/186077",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/186077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-11-2025",
+   "path": "local/galati/beresti-meria/2025/11",
+   "short": "HCL Berești-Meria nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 11/2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/193842",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/193842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-12-2025",
+   "path": "local/galati/beresti-meria/2025/12",
+   "short": "HCL Berești-Meria nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 12/2025 privind aprobarea tipului de suport alimentar acordat în cadrul Programul național „Masă sănătoasă” pentru preșcolarii și elevii din cadrul Școlii Gimnaziale nr.1 sat Slivna, județul Galați, precum și a măsurilor de implementare",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/196252",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/196252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-13-2025",
+   "path": "local/galati/beresti-meria/2025/13",
+   "short": "HCL Berești-Meria nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 13/2025 privind aprobarea președintelui de ședință al Consiliului Local Berești-Meria pentru perioada: aprilie, mai și iunie 2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/197473",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/197473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-14-2025",
+   "path": "local/galati/beresti-meria/2025/14",
+   "short": "HCL Berești-Meria nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 14/2025 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2025 și estimările pentru anii 2026 – 2028",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/197474",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/197474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-16-2025",
+   "path": "local/galati/beresti-meria/2025/16",
+   "short": "HCL Berești-Meria nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 16/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/197476",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/197476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-17-2025",
+   "path": "local/galati/beresti-meria/2025/17",
+   "short": "HCL Berești-Meria nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 17/2025 privind aderarea Comunei Berești-Meria, județul Galați, la sistemul de cooperare pentru exercitarea funcției de audit public intern, prin intermediul entității organizatoare Filiala Județeană Galați a Asociației Comunelor din România",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/200480",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/200480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-18-2025",
+   "path": "local/galati/beresti-meria/2025/18",
+   "short": "HCL Berești-Meria nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 18/2025 privind introducerea unui bun imobil în domeniul public al comunei Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/200481",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/200481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-19-2025",
+   "path": "local/galati/beresti-meria/2025/19",
+   "short": "HCL Berești-Meria nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 19/2025 privind utilizarea în cursul anului 2025 a excedentului bugetar din anii precedenţi",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/200482",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/200482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-2-2025",
+   "path": "local/galati/beresti-meria/2025/2",
+   "short": "HCL Berești-Meria nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 2/2025 privind utilizarea unei sume din excedentul anilor precedenți pentru acoperirea temporară a golurilor de casă provenite din decalajele dintre veniturile și cheltuielile secțiunilor de dezvoltare și funcționare în anul curent",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/186078",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/186078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-20-2025",
+   "path": "local/galati/beresti-meria/2025/20",
+   "short": "HCL Berești-Meria nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 20/2025 privind rectificarea bugetului de venituri și cheltuieli al Comunei Berești – Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/200483",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/200483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-21-2025",
+   "path": "local/galati/beresti-meria/2025/21",
+   "short": "HCL Berești-Meria nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 21/2025 privind aprobarea ”Studiului de oportunitate și fundamentare pentru delegarea gestiunii activităților de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, transferul deșeurilor municipale în stații de transfer, inclusiv transportul separat al deșeurilor reziduale la depozitul de deșeuri nepericuloase sau la instalația de tratare mecanico-biologică, al deșeurilor de hârtie, metal, plastic și sticlă colectate separat la stația de sortare și al biodeșeurilor la instalația de tratare mecanico-biologică, respectiv tratarea aerobă a biodeșeurilor colectate separat în instalațiile de compostare, inclusiv transportul reziduurilor la stațiile de transfer în județul Galați”, delegării gestiunii serviciului de salubrizare pentru activitățile de colectare, transport și compostare, aferente proiectului „Sistem de Management Integrat al Deșeurilor în Județul Galați”, documentației de atribuire precum și acordarea unui mandat special pentru reprezentantul UAT comuna Berești-Meria în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/204131",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/204131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-22-2025",
+   "path": "local/galati/beresti-meria/2025/22",
+   "short": "HCL Berești-Meria nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 22/2025 privind aprobarea Regulamentului de organizare şi funcţionare a parcului din satul Balintești, comuna Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/204132",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/204132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-23-2025",
+   "path": "local/galati/beresti-meria/2025/23",
+   "short": "HCL Berești-Meria nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 23/2025 privind rectificarea bugetului de venituri și cheltuieli al Comunei Berești – Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/204133",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/204133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-24-2025",
+   "path": "local/galati/beresti-meria/2025/24",
+   "short": "HCL Berești-Meria nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 24/2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/204134",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/204134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-25-2025",
+   "path": "local/galati/beresti-meria/2025/25",
+   "short": "HCL Berești-Meria nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 25/2025 privind aprobarea documentatiei cadastrale de actualizare date imobil - modificare categorie de folosință - înscris în cartea funciara nr. 106239 UAT Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/209475",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/209475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-26-2025",
+   "path": "local/galati/beresti-meria/2025/26",
+   "short": "HCL Berești-Meria nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 26/2025 privind aprobarea documentatiei cadastrale de actualizare date imobil - modificare categorie de folosință - înscris în cartea funciara nr. 106241 UAT Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/209476",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/209476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-27-2025",
+   "path": "local/galati/beresti-meria/2025/27",
+   "short": "HCL Berești-Meria nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 27/2025 privind aprobarea participării comunei Berești-Meria, județul Galați, la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2025-2030” în vederea achiziționării a două autoturisme electrice",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/209477",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/209477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-28-2025",
+   "path": "local/galati/beresti-meria/2025/28",
+   "short": "HCL Berești-Meria nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 28/2025 privind aprobarea Regulamentului Serviciului Județean de Salubrizare Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/213753",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/213753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-29-2025",
+   "path": "local/galati/beresti-meria/2025/29",
+   "short": "HCL Berești-Meria nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 29/2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/213754",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/213754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-3-2025",
+   "path": "local/galati/beresti-meria/2025/3",
+   "short": "HCL Berești-Meria nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 3/2025 privind aprobarea planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate și a gestionării neconforme a deșeurilor, pe raza teritorial administrativă a comunei Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/189103",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/189103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-30-2025",
+   "path": "local/galati/beresti-meria/2025/30",
+   "short": "HCL Berești-Meria nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 30/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/213755",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/213755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-31-2025",
+   "path": "local/galati/beresti-meria/2025/31",
+   "short": "HCL Berești-Meria nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 31/2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/214323",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/214323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-32-2025",
+   "path": "local/galati/beresti-meria/2025/32",
+   "short": "HCL Berești-Meria nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 32/2025 privind aprobarea președintelui de ședință al Consiliului Local Berești-Meria pentru perioada: iulie, august și septembrie 2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/214324",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/214324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-33-2025",
+   "path": "local/galati/beresti-meria/2025/33",
+   "short": "HCL Berești-Meria nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 33/2025 privind demararea proiectului de investiții „Achiziție buldoexcavator și tractor pentru dotarea Serviciului Voluntar pentru Situații de Urgență, în comuna Berești-Meria, județul Galați” prin Programul INTERREG NEXT România-Republica Moldova",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/214325",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/214325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-34-2025",
+   "path": "local/galati/beresti-meria/2025/34",
+   "short": "HCL Berești-Meria nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 34/2025 privind rectificarea bugetului de venituri și cheltuieli al Comunei Berești – Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/216847",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/216847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-35-2025",
+   "path": "local/galati/beresti-meria/2025/35",
+   "short": "HCL Berești-Meria nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 35/2025 privind demararea proiectului de investiții „TRAFIC-SIGUR în comuna Berești-Meria, județul Galați prin: Monitorizare Video și Educație pentru Siguranță Rutieră în Comunitățile Transfrontaliere” prin Programul INTERREG NEXT România-Republica Moldova",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/216848",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/216848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-36-2025",
+   "path": "local/galati/beresti-meria/2025/36",
+   "short": "HCL Berești-Meria nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 36/2025 privind utilizarea în cursul anului 2025 a excedentului bugetar din anii precedenţi",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/216849",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/216849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-37-2025",
+   "path": "local/galati/beresti-meria/2025/37",
+   "short": "HCL Berești-Meria nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 37/2025 privind aprobarea Raportului privind activitatea asistenților personali ai personalelor cu handicap grav din comuna Berești-Meria, județul Galați, pe semestrul I al anului 2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/222278",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/222278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-38-2025",
+   "path": "local/galati/beresti-meria/2025/38",
+   "short": "HCL Berești-Meria nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 38/2025 privind acordarea în anul 2025 a voucherelor de vacanță pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/222279",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/222279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-39-2025",
+   "path": "local/galati/beresti-meria/2025/39",
+   "short": "HCL Berești-Meria nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 39/2025 privind rectificarea bugetului de venituri și cheltuieli pe anul 2025 și estimările pentru anii 2025-2026 al comunei Berești – Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/222280",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/222280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-40-2025",
+   "path": "local/galati/beresti-meria/2025/40",
+   "short": "HCL Berești-Meria nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 40/2025 privind punerea la dispoziție cu titlu gratuit a spațiului din incinta Terenului de Sport sat Pleșa în vederea organizării manifestării cultural-artistice din data de 29.08.2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/222281",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/222281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-41-2025",
+   "path": "local/galati/beresti-meria/2025/41",
+   "short": "HCL Berești-Meria nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 41/2025 privind alegerea președintelui de ședință al Consiliului Local Berești-Meria pentru ședința ordinară din data de 28.08.2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/222282",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/222282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-42-2025",
+   "path": "local/galati/beresti-meria/2025/42",
+   "short": "HCL Berești-Meria nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 42/2025 privind acceptarea donaţiei de la EE BERESTI WIND SRL prin asumarea de a plati livrarea si instalarea unui Sistem Fotovoltaic pe acoperișul Sălii de Sport din satul Balintesti, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/222283",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/222283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-43-2025",
+   "path": "local/galati/beresti-meria/2025/43",
+   "short": "HCL Berești-Meria nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 43/2025 privind aprobarea președintelui de ședință al Consiliului Local Berești-Meria pentru perioada: octombrie, noiembrie și decembrie 2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/226155",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/226155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-44-2025",
+   "path": "local/galati/beresti-meria/2025/44",
+   "short": "HCL Berești-Meria nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 44/2025 privind acordarea dreptului de acces gratuit la o suprafață de 1 mp pentru realizarea investiției „Realizarea unui branșament nou pentru racordarea la rețeaua de energie electrică existentă a Punctului Local de Acces în Bandă Largă din localitatea Șipote, u.a.t. Berești-Meria, județul Galați” din cadrului proiectului „Investiții în infrastructura broadband în județele Brăila, Buzău, Galați și Vrancea”",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/226156",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/226156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-45-2025",
+   "path": "local/galati/beresti-meria/2025/45",
+   "short": "HCL Berești-Meria nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 45/2025 privind modificarea Anexei nr. 2 din Hotărârea Consiliului Local nr. 8 din 30.01.2025 privind aprobarea Organigramei şi Statului de funcţii din cadrul aparatului de specialitate al primarului comunei Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/226157",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/226157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-46-2025",
+   "path": "local/galati/beresti-meria/2025/46",
+   "short": "HCL Berești-Meria nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 46/2025 privind aprobarea participării Comunei Berești-Meria, județul Galați, la Programul - cheie 1: Surse regenerabile de energie și stocarea energie din Fondul pentru modernizare",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/226158",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/226158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-48-2025",
+   "path": "local/galati/beresti-meria/2025/48",
+   "short": "HCL Berești-Meria nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 48/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare strazi in comuna Beresti Meria, judetul Galati”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/226160",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/226160",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--beresti-meria-49-2025",
    "path": "local/galati/beresti-meria/2025/49",
    "short": "HCL Berești-Meria nr. 49/2025",
@@ -13,6 +598,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/228773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-5-2025",
+   "path": "local/galati/beresti-meria/2025/5",
+   "short": "HCL Berești-Meria nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 5/2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/189105",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/189105",
      "sha256": null
     }
    ]
@@ -168,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--beresti-meria-6-2025",
+   "path": "local/galati/beresti-meria/2025/6",
+   "short": "HCL Berești-Meria nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 6/2025 privind aprobarea Raportului privind activitatea asistenților personali ai personalelor cu handicap grav din comuna Berești-Meria, pe semestrul II al anului 2024",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/189106",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/189106",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--beresti-meria-60-2025",
    "path": "local/galati/beresti-meria/2025/60",
    "short": "HCL Berești-Meria nr. 60/2025",
@@ -298,6 +913,51 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/243352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-7-2025",
+   "path": "local/galati/beresti-meria/2025/7",
+   "short": "HCL Berești-Meria nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 7/2025 privind aprobarea Planului local de acţiune pentru anul 2025 privind serviciile sociale administrate şi finanţate din bugetul Consiliului Local al comunei Bereşti-Meria, judeţul Galaţi",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/189107",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/189107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-8-2025",
+   "path": "local/galati/beresti-meria/2025/8",
+   "short": "HCL Berești-Meria nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 8/2025 privind aprobarea Organigramei şi Statului de funcţii din cadrul aparatului de specialitate al primarului comunei Berești-Meria, județul Galați",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/189108",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/189108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-9-2025",
+   "path": "local/galati/beresti-meria/2025/9",
+   "short": "HCL Berești-Meria nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 9/2025 privind aprobarea Programului de activitate al Bibliotecii Comunei Berești-Meria, județul Galați, pe anul 2025",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/189109",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/189109",
      "sha256": null
     }
    ]

@@ -3,6 +3,126 @@
  "shard": "local/galati/corni/2022",
  "acts": [
   {
+   "slug": "hcl-galati--corni-1-2022",
+   "path": "local/galati/corni/2022/1",
+   "short": "HCL Corni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 1/2022 privind acoperirea definitivă a deficitului sectiunii de dezvoltare pe anul 2021",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59797",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-10-2022",
+   "path": "local/galati/corni/2022/10",
+   "short": "HCL Corni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 10/2022 privind aprobarea bugetului local al comunei Corni , Judetul Galati , pe anul 2022",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59806",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-11-2022",
+   "path": "local/galati/corni/2022/11",
+   "short": "HCL Corni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 11/2022 privind aprobarea Strategiei și Programul anual de achiziție publică, pentru anul 2022, a Comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59807",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-12-2022",
+   "path": "local/galati/corni/2022/12",
+   "short": "HCL Corni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 12/2022 privind acordarea unui mandat special pentru reprezentantul Comunei în Adunarea Generală a Asociațioei de Dezvolatare „Intercomunitară Serviciul Regional Apa Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59808",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-13-2022",
+   "path": "local/galati/corni/2022/13",
+   "short": "HCL Corni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 13/2022 Privind: aprobarea rectificarii bugetului local al comunei Corni , Judetul Galati , pe anul 2022",
+   "url": "https://emol.ro/corni-gl/registru-hcl/60107",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/60107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-14-2022",
+   "path": "local/galati/corni/2022/14",
+   "short": "HCL Corni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 14/2022 pentru modificarea si completarea Hotărârii Consiliului Local nr.11 din 11.02.2022 privind aprobarea Strategiei și Programul anual de achiziție publică, pentru anul 2022, a Comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/60108",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/60108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-15-2022",
+   "path": "local/galati/corni/2022/15",
+   "short": "HCL Corni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 15/2022 privind acoperirea definitivă a deficitului sectiunii de dezvoltare pe anul 2021",
+   "url": "https://emol.ro/corni-gl/registru-hcl/60109",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/60109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-16-2022",
+   "path": "local/galati/corni/2022/16",
+   "short": "HCL Corni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 16/2022 privind acordarea unui mandat special pentru reprezentantul Comunei în Adunarea Generală a Asociațioei de Dezvolatare „Intercomunitară Serviciul Regional Apa Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/60110",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/60110",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-17-2022",
    "path": "local/galati/corni/2022/17",
    "short": "HCL Corni nr. 17/2022",
@@ -43,6 +163,21 @@
      "from": "2022-05-12",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/60113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-2-2022",
+   "path": "local/galati/corni/2022/2",
+   "short": "HCL Corni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 2/2022 privind utilizarea sumei de 200.000 lei din excedentul anului precedent pentru acoperirea golurilor temporare de casă ale secțiunii de fucționare",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59798",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59798",
      "sha256": null
     }
    ]
@@ -198,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--corni-3-2022",
+   "path": "local/galati/corni/2022/3",
+   "short": "HCL Corni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 3/2022 privind aprobarea proiectului reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de ia nivelul comunei Corni pe anul şcolar 2022-2023, în vederea emiterii avizului conform de către Inspectoratul Şcolar Judeţean Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59799",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59799",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-30-2022",
    "path": "local/galati/corni/2022/30",
    "short": "HCL Corni nr. 30/2022",
@@ -298,6 +448,96 @@
      "from": "2022-08-01",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/67627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-4-2022",
+   "path": "local/galati/corni/2022/4",
+   "short": "HCL Corni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 4/2022 Privind : alegerea presedintelui de sedinta ,pe o perioada de 3 luni ,care va conduce sedintele consiliului si va semna hotararile adoptate de acesta",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59800",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-5-2022",
+   "path": "local/galati/corni/2022/5",
+   "short": "HCL Corni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 5/2022 Privind prelungirea termenului de valabilitate a documentațiilor Planului Urbanistic General al comunei Corni şi a Regulamentului Local de Urbanism, aprobat prin HCL nr.23 din 07.07.2011",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59801",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-6-2022",
+   "path": "local/galati/corni/2022/6",
+   "short": "HCL Corni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 6/2022 Pentru modificarea și completarea Hotărârii Consiliului Local al Comumei Corni nr.32 din 30.09.2021 privind aprobarea cererii de finantare si a devizului general estimativ pentru obiectivul de investitie: ” Modernizare drumuri de interes local , în comuna Corni, Judetul Galati”, prin Programul National de Investitii “Anghel Saligny",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59802",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-7-2022",
+   "path": "local/galati/corni/2022/7",
+   "short": "HCL Corni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 7/2022 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de la nivelul comunei Corni pe anul şcolar 2022-2023",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59803",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-8-2022",
+   "path": "local/galati/corni/2022/8",
+   "short": "HCL Corni nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 8/2022 privind aprobarea achiziției de servicii pentru colectarea , transportul si depozitarea deșeurilor municipale stradale, la nivelul unitatii administrativ- teritoriale Corni , Județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59804",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-9-2022",
+   "path": "local/galati/corni/2022/9",
+   "short": "HCL Corni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 9/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Lucrări de decolmatare și întreținere/reparații șanțuri și podețe de acces proprietăți în comuna Corni, județul Galați ”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/59805",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/59805",
      "sha256": null
     }
    ]

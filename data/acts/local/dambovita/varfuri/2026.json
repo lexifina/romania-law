@@ -3,6 +3,94 @@
 "shard": "local/dambovita/varfuri/2026",
 "acts": [
 {
+"slug": "hcl-dambovita--varfuri-1-2026",
+"path": "local/dambovita/varfuri/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 1/2026 Proiect de hotărâre privind acoperirea deficitului înregistrat la finalul anului 2025, la Secţiunea de Dezvoltare",
+"short": "HCL Vârfuri nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117020",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-2-2026",
+"path": "local/dambovita/varfuri/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 2/2026 Proiect de hotărâre privind aprobarea utilizării excedentului bugetului local existent la finele anului 2025",
+"short": "HCL Vârfuri nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117021",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-3-2026",
+"path": "local/dambovita/varfuri/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 3/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „Consolidare și reabilitare termică bloc de locuințe sat Șuvița, comuna Vârfuri, judetul Dâmbovița”,",
+"short": "HCL Vârfuri nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117022",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--varfuri-4-2026",
+"path": "local/dambovita/varfuri/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 4/2026 privind aprobarea suportului alimentar acordat preșcolarilor și elevilor în cadrul Programului naţional \"Masă sănătoasă\" în anul 2026",
+"short": "HCL Vârfuri nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117025",
+"council": "dambovita/varfuri",
+"council_name": "Consiliul Local al Comunei Vârfuri",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-dambovita--varfuri-5-2026",
 "path": "local/dambovita/varfuri/2026/5",
 "kind": "local",

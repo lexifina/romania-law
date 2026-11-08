@@ -3,6 +3,28 @@
 "shard": "local/dolj/cioroiasi/2022",
 "acts": [
 {
+"slug": "hcl-dolj--cioroiasi-8-2022",
+"path": "local/dolj/cioroiasi/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 8/2022 privind menținerea unor facilități fiscale aplicabile obligațiilor bugetare restante datorate bugetului local al UAT Cioroiași și a Procedurii de anulare a obligațiilor de plată accesorii",
+"short": "HCL Cioroiași nr. 8/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/55622",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-dolj--cioroiasi-40-2022",
 "path": "local/dolj/cioroiasi/2022/40",
 "kind": "local",

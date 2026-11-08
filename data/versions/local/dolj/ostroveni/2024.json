@@ -3,6 +3,411 @@
  "shard": "local/dolj/ostroveni/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--ostroveni-10-2024",
+   "path": "local/dolj/ostroveni/2024/10",
+   "short": "HCL Ostroveni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 10/2024 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitia produselor de panificatie, laptelui si produselor lactate si fructelor sau legumelor aferente programului si a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea masurilor educative in comuna Ostroveni, judetul Dolj pentru anii scolari 2024-2025;2025-2026;2026-2027",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/142121",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/142121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-12-2024",
+   "path": "local/dolj/ostroveni/2024/12",
+   "short": "HCL Ostroveni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 12/2024 privind aprobarea Planului de actiuni sau de lucrari de interes local pentru repartizarea orelor la VMG pe anul 2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/146303",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/146303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-13-2024",
+   "path": "local/dolj/ostroveni/2024/13",
+   "short": "HCL Ostroveni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 13/2024 privind aprobarea raportului de activitate al asistentilor personali la 31.12.2023",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/146304",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/146304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-15-2024",
+   "path": "local/dolj/ostroveni/2024/15",
+   "short": "HCL Ostroveni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 15/2024 privind aprobarea Programului anual al achizitiilor publice pe anul 2024 corelat cu bugetul pe anul 2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/146306",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/146306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-16-2024",
+   "path": "local/dolj/ostroveni/2024/16",
+   "short": "HCL Ostroveni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 16/2024 privind aprobarea Studiului de Oportunitate/Fundamentare privind delegarea gestiunii activității de tratare mecanobiologică a deșeurilor reziduale din județul Dolj în instalațiile de tratare mecanobiologice sau, după caz, în instalațiile integrate de tratare, inclusiv transportul deșeurilor stabilizate biologic și al deșeurilor reziduale care nu mai pot fi valorificate la depozitele de deșeuri și al deșeurilor reziduale valorificabile energetic la instalațiile de valorificare energetică",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/146307",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/146307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-17-2024",
+   "path": "local/dolj/ostroveni/2024/17",
+   "short": "HCL Ostroveni nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 17/2024 privind aprobarea executiei bugetului comunei Ostroveni la 31.12.2023",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/146308",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/146308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-19-2024",
+   "path": "local/dolj/ostroveni/2024/19",
+   "short": "HCL Ostroveni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 19/2024 privind aprobarea Regulamentului pentru emiterea adeverintei privind edificarea constructiei si aprobarea modelului cadru al acesteia",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/150721",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/150721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-2-2024",
+   "path": "local/dolj/ostroveni/2024/2",
+   "short": "HCL Ostroveni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 2/2024 privind organizarea retelei scolare la nivelul UAT comuna Ostroveni pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/137055",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/137055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-20-2024",
+   "path": "local/dolj/ostroveni/2024/20",
+   "short": "HCL Ostroveni nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 20/2024 privind aprobarea executiei bugetului comunei Ostroveni la 31.03.2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/155972",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/155972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-21-2024",
+   "path": "local/dolj/ostroveni/2024/21",
+   "short": "HCL Ostroveni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 21/2024 privind aprobarea incheierii unui contract de prestari servicii mentenanta ,asistenta,actualizare program de contabilitate",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/155973",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/155973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-22-2024",
+   "path": "local/dolj/ostroveni/2024/22",
+   "short": "HCL Ostroveni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 22/2024 privind incheierea unui contract de furnizare carburant pentru utilajele si mijloacele de trasport din proprietatea comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/155974",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/155974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-24-2024",
+   "path": "local/dolj/ostroveni/2024/24",
+   "short": "HCL Ostroveni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 24/2024 privind incheierea unui contract de prestari servicii in materie juridica",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/158485",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/158485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-25-2024",
+   "path": "local/dolj/ostroveni/2024/25",
+   "short": "HCL Ostroveni nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 25/2024 privind rectificarea bugetului comunei Ostroveni pe anul 2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/160071",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/160071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-26-2024",
+   "path": "local/dolj/ostroveni/2024/26",
+   "short": "HCL Ostroveni nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 26/2024 privind incheierea unui contract de prestare servicii de asistenta si consultanta informatica(servicii intretinere tehnica si legislativa suport tehnic diverse module-mentenanta) necesare pentru buna desfasurare a activitatii Compartimentelor Taxe si Impozite si Agricol",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/160072",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/160072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-29-2024",
+   "path": "local/dolj/ostroveni/2024/29",
+   "short": "HCL Ostroveni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 29/2024 privind rectificarea bugetului comunei Ostroveni pe anul 2024 si a Liste obiectivelor de investitii pe anul 2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/162143",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/162143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-30-2024",
+   "path": "local/dolj/ostroveni/2024/30",
+   "short": "HCL Ostroveni nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 30/2024 privind aprobarea executiei bugetului comunei Ostroveni la 30.06.2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/164386",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/164386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-31-2024",
+   "path": "local/dolj/ostroveni/2024/31",
+   "short": "HCL Ostroveni nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 31/2024 privind organizarea evenimentului ,,Ziua comunei Ostroveni,, si alocarea sumelor necesare pentru organizarea acestui eveniment in anul 2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/164387",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/164387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-32-2024",
+   "path": "local/dolj/ostroveni/2024/32",
+   "short": "HCL Ostroveni nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 32/2024 privind aprobarea participării Comunei Ostroveni in cadrul Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic, 2020-2024- ”RABLA PLUS 2024” finantat AFM",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/165672",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/165672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-33-2024",
+   "path": "local/dolj/ostroveni/2024/33",
+   "short": "HCL Ostroveni nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 33/2024 privind aprobarea Statului de functii ale aparatului de specialitate al primarului comunei Ostroveni, judetul Dolj si serviciilor publice locale Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/169281",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/169281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-34-2024",
+   "path": "local/dolj/ostroveni/2024/34",
+   "short": "HCL Ostroveni nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 34/2024 privind rectificarea bugetului comunei Ostroveni pe anul 2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/169282",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/169282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-37-2024",
+   "path": "local/dolj/ostroveni/2024/37",
+   "short": "HCL Ostroveni nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 37/2024 privind modificarea si completarea HCL OSTROVENI NR. 66/19.10.2021",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/169285",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/169285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-38-2024",
+   "path": "local/dolj/ostroveni/2024/38",
+   "short": "HCL Ostroveni nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 38/2024 privind modificarea si completarea HCL OSTROVENI NR. 67/19.10.2021",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/169286",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/169286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-39-2024",
+   "path": "local/dolj/ostroveni/2024/39",
+   "short": "HCL Ostroveni nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 39/2024 privind declararea unor imobile de uz public local",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/169657",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/169657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-41-2024",
+   "path": "local/dolj/ostroveni/2024/41",
+   "short": "HCL Ostroveni nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 41/2024 privind rectificarea bugetului comunei Ostroveni pe anul 2024 si a Liste obiectivelor de investitii pe anul 2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/169659",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/169659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-42-2024",
+   "path": "local/dolj/ostroveni/2024/42",
+   "short": "HCL Ostroveni nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 42/2024 privind rectificarea bugetului comunei Ostroveni pe anul 2024 si a Listei obiectivelor de investitii pe anul 2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/172348",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/172348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-43-2024",
+   "path": "local/dolj/ostroveni/2024/43",
+   "short": "HCL Ostroveni nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 43/2024 privind aprobarea executiei bugetului comunei Ostroveni la 30.09.2024",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/172349",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/172349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-44-2024",
+   "path": "local/dolj/ostroveni/2024/44",
+   "short": "HCL Ostroveni nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 44/2024 privind anularea unor obligații bugetare principale și a accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/172350",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/172350",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-46-2024",
    "path": "local/dolj/ostroveni/2024/46",
    "short": "HCL Ostroveni nr. 46/2024",

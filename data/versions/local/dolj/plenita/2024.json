@@ -3,6 +3,426 @@
  "shard": "local/dolj/plenita/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--plenita-10-2024",
+   "path": "local/dolj/plenita/2024/10",
+   "short": "HCL Plenița nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 10/2024 privind reglementarea acordarii ajutoarelor de urgenta si ajutoarelor de inmormantare",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156125",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-11-2024",
+   "path": "local/dolj/plenita/2024/11",
+   "short": "HCL Plenița nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 11/2024 privind aprobarea Strategiei anuale de achiziție publice pe anul 2024 și Programul anual al achizițiilor publice pentru anul 2024, comuna Plenita, Judetulețul Dolj",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156126",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-12-2024",
+   "path": "local/dolj/plenita/2024/12",
+   "short": "HCL Plenița nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 12/2024 privind înființarea cabinetului primarului și a unui post de consilier personal în cadrul cabinetului primarului comunei Plenita, prin transformarea unei funcții contractuale de execuție vacante, modificarea organigramei și a statului de funcții",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156127",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-14-2024",
+   "path": "local/dolj/plenita/2024/14",
+   "short": "HCL Plenița nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 14/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156129",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-16-2024",
+   "path": "local/dolj/plenita/2024/16",
+   "short": "HCL Plenița nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 16/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156134",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-17-2024",
+   "path": "local/dolj/plenita/2024/17",
+   "short": "HCL Plenița nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 17/2024 privind aprobarea unei dezmembrari",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156135",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-18-2024",
+   "path": "local/dolj/plenita/2024/18",
+   "short": "HCL Plenița nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 18/2024 privind completarea anexei nr.2 la HCL nr. 48 din14.11.2023 privind aprobarea impozitelor si taxelor locale pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156136",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-19-2024",
+   "path": "local/dolj/plenita/2024/19",
+   "short": "HCL Plenița nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 19/2024 privind aprobarea indexarii cu rata inflatiei de 10,4 % a impozitelor si taxelor locale pe anul 2025",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156137",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-2-2024",
+   "path": "local/dolj/plenita/2024/2",
+   "short": "HCL Plenița nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 2/2024 privind aprobarea Proiectului Tehnic (PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drumuri de interes local in comuna Plenita, judeţul Dolj”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144907",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-21-2024",
+   "path": "local/dolj/plenita/2024/21",
+   "short": "HCL Plenița nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 21/2024 privind organizarea “Sarbatoarea Bujorului de la Plenita”",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156139",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-22-2024",
+   "path": "local/dolj/plenita/2024/22",
+   "short": "HCL Plenița nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 22/2024 privind aprobarea contului de incheiere si situatiile finaciare ale exercitiului bugetar pe anul 2023",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/157441",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/157441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-23-2024",
+   "path": "local/dolj/plenita/2024/23",
+   "short": "HCL Plenița nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 23/2024 privind aprobarea contractarii/garantarii unei finantari rambursabile interne/externe in valoare de 591430 lei",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/157442",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/157442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-25-2024",
+   "path": "local/dolj/plenita/2024/25",
+   "short": "HCL Plenița nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 25/2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/157444",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/157444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-26-2024",
+   "path": "local/dolj/plenita/2024/26",
+   "short": "HCL Plenița nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 26/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174525",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-27-2024",
+   "path": "local/dolj/plenita/2024/27",
+   "short": "HCL Plenița nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 27/2024 privind includerea in domeniul privat al comunei Plenita a unui teren extravilan",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174526",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-28-2024",
+   "path": "local/dolj/plenita/2024/28",
+   "short": "HCL Plenița nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 28/2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174527",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-3-2024",
+   "path": "local/dolj/plenita/2024/3",
+   "short": "HCL Plenița nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 3/2024 privind organizarea retelei scolare la nivelul u.a.t.Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144908",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-30-2024",
+   "path": "local/dolj/plenita/2024/30",
+   "short": "HCL Plenița nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 30/2024 privind delegarea către Unitatea Administrativ-Teritorială Județul Dolj a depunerii aplicației de finanțare pentru proiectul „Transport școlar verde pentru elevii din județul Dolj”",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174531",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-31-2024",
+   "path": "local/dolj/plenita/2024/31",
+   "short": "HCL Plenița nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 31/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174532",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-32-2024",
+   "path": "local/dolj/plenita/2024/32",
+   "short": "HCL Plenița nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 32/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174539",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-33-2024",
+   "path": "local/dolj/plenita/2024/33",
+   "short": "HCL Plenița nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 33/2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174540",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-34-2024",
+   "path": "local/dolj/plenita/2024/34",
+   "short": "HCL Plenița nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 34/2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174541",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-35-2024",
+   "path": "local/dolj/plenita/2024/35",
+   "short": "HCL Plenița nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 35/2024 privind aprobarea incheierii contractului de asociere intre Comuna Plenita si Asociatia Fotbal Club ,,VICTORIA” Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174542",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-36-2024",
+   "path": "local/dolj/plenita/2024/36",
+   "short": "HCL Plenița nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 36/2024 privind aprobarea folosirii bazei sportive din comuna Plenita de catre echipa de fotbal a Asociatiei Fotbal Club ,,VICTORIA” si repartizarea sumelor necesare desfasurarii activitatii acesteia",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174543",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-37-2024",
+   "path": "local/dolj/plenita/2024/37",
+   "short": "HCL Plenița nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 37/2024 privind aprobarea contractarii de la CEC Bank a unui credit de investitii",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174550",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-38-2024",
+   "path": "local/dolj/plenita/2024/38",
+   "short": "HCL Plenița nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 38/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174551",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-39-2024",
+   "path": "local/dolj/plenita/2024/39",
+   "short": "HCL Plenița nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 39/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174552",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-4-2024",
+   "path": "local/dolj/plenita/2024/4",
+   "short": "HCL Plenița nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 4/2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144909",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144909",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-40-2024",
    "path": "local/dolj/plenita/2024/40",
    "short": "HCL Plenița nr. 40/2024",
@@ -153,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-5-2024",
+   "path": "local/dolj/plenita/2024/5",
+   "short": "HCL Plenița nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 5/2024 privind aprobarea actualizarii Planului Urbanistic General al comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144910",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-50-2024",
    "path": "local/dolj/plenita/2024/50",
    "short": "HCL Plenița nr. 50/2024",
@@ -298,6 +733,66 @@
      "from": "2024-12-24",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/182454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-6-2024",
+   "path": "local/dolj/plenita/2024/6",
+   "short": "HCL Plenița nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 6/2024 privind aporbarea Studiului de Oportunitate/Fundamentare privind delegarea gestiunii activității de tratare mecano biologică a deșeurilor reziduale din județul Dolj în instalațiile de tratare mecanobiologice sau, după caz, în instalațiile integrate de tratare, inclusiv transportul deșeurilor stabilizate biologic și al deșeurilor reziduale care nu mai pot fi valorificate la depozitele de deșeuri și al deșeurilor reziduale valorificabile energetic la instalațiile de valorificare energetică",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144911",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-7-2024",
+   "path": "local/dolj/plenita/2024/7",
+   "short": "HCL Plenița nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 7/2024 privind aprobarea majorarii cu 5% a salariilor de baza lunare pentru personalul din cadrul aparatului de specialitate al primarului comunei Plenita si ale serviciilor infiintate de catre consiliul local",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144912",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-8-2024",
+   "path": "local/dolj/plenita/2024/8",
+   "short": "HCL Plenița nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 8/2024 privind parobarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144930",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-9-2024",
+   "path": "local/dolj/plenita/2024/9",
+   "short": "HCL Plenița nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 9/2024 privind procedura de organizare si derulare a Programului pentru scoli al Romaniei pentru anii scolari 2024 – 2025, 2025 – 2026 si 2026-2027",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144931",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144931",
      "sha256": null
     }
    ]

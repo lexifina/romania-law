@@ -3,6 +3,306 @@
  "shard": "local/galati/grivita/2021",
  "acts": [
   {
+   "slug": "hcl-galati--grivita-1-2021",
+   "path": "local/galati/grivita/2021/1",
+   "short": "HCL Grivița nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 1/2021 privind achiziţionarea serviciilor de salubrizare pentru anul 2021, la comuna Grivita, judetul Galati",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/18605",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/18605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-10-2021",
+   "path": "local/galati/grivita/2021/10",
+   "short": "HCL Grivița nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 10/2021 privind : modificarea organigramei si a statului de functii pentru aparatul de specialitate al primarului comunei Grivița, jud.Galati",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21915",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-13-2021",
+   "path": "local/galati/grivita/2021/13",
+   "short": "HCL Grivița nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 13/2021 privind: schimbarea destinatiei unui imobil – clădire C5, suprafată 38 mp., care apartine bazei materiale a Școlii Gimnaziale nr.1, situată în Comuna Grivița, județul Galați, din spațiu de învățământ, în spațiu necesar înființării unui târg săptămânal",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21918",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-14-2021",
+   "path": "local/galati/grivita/2021/14",
+   "short": "HCL Grivița nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 14/2021 privind: neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor şi a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru şcoli al României în perioada 2017 – 2023, la comuna Grivita, jud.Galați;",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21919",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-15-2021",
+   "path": "local/galati/grivita/2021/15",
+   "short": "HCL Grivița nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 15/2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21920",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-16-2021",
+   "path": "local/galati/grivita/2021/16",
+   "short": "HCL Grivița nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 16/2021 privind: aprobarea utilizarii excedentului bugetului local al comunei Grivita, judetul Galati ca sursa de finantare a cheltuielilor sectiunii de dezvoltare in anul 2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/22961",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/22961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-17-2021",
+   "path": "local/galati/grivita/2021/17",
+   "short": "HCL Grivița nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 17/2021 Privind: aprobarea bugetului pentru anul 2021 si estimari pe anii 2022-2024",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/22962",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/22962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-18-2021",
+   "path": "local/galati/grivita/2021/18",
+   "short": "HCL Grivița nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 18/2021 Privind: aprobarea bugetului pentru anul 2021 si estimari pe anii 2022-2024",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/22963",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/22963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-2-2021",
+   "path": "local/galati/grivita/2021/2",
+   "short": "HCL Grivița nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 2/2021 privind achiziţionarea serviciilor juridice pentru reprezentare in instanta, pentru anul 2021, la comuna Grivita, jud. Galati",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/18606",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/18606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-20-2021",
+   "path": "local/galati/grivita/2021/20",
+   "short": "HCL Grivița nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 20/2021 privind: actualizarea indicatorilor tehnico-economici ca urmare a dispoziției de șantier, a notelor de renunțare și a notelor de comandă suplimentare, și asigurarea finanțării de la bugetul local pentru cheltuielile ce nu pot fi finanțate de la bugetul de stat prin PNDL conform prevederilor art. 8 alin (3) din OMDRAP nr. 1851/2013, aferente obiectivului “Modernizare gradiniţă cu program normal Griviţa, comuna Griviţa, judeţul Galaţi”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/22965",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/22965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-21-2021",
+   "path": "local/galati/grivita/2021/21",
+   "short": "HCL Grivița nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 21/2021 privind: achiziția a 100 de copaci și plantarea acestora în curtea Școlii Gimnaziale nr. 1 Grivița (Școala veche) și pe raza comunei Grivița, județul Galați",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/22966",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/22966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-22-2021",
+   "path": "local/galati/grivita/2021/22",
+   "short": "HCL Grivița nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 22/2021 Privind rectificarea bugetului pentru anul 2021si estimari pe anii 2022-2024",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/26356",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/26356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-23-2021",
+   "path": "local/galati/grivita/2021/23",
+   "short": "HCL Grivița nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 23/2021 privind: actualizarea indicatorilor tehnico-economici ca urmare a dispoziției de șantier, a notelor de renunțare și a notelor de comandă suplimentare, și asigurarea finanțării de la bugetul local pentru cheltuielile ce nu pot fi finanțate de la bugetul de stat prin PNDL conform prevederilor art. 8 alin (3) din OMDRAP nr. 1851/2013, aferente obiectivului “Reabilitare, modernizare, extinderea si dotare dispensar medical in sat Grivita, comuna Grivita, judetul Galati”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/26357",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/26357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-24-2021",
+   "path": "local/galati/grivita/2021/24",
+   "short": "HCL Grivița nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 24/2021 privind modificarea organigramei si a statului de functii pentru aparatul de specialitate al primarului comunei Grivița, judetul Galați;",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/30771",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/30771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-25-2021",
+   "path": "local/galati/grivita/2021/25",
+   "short": "HCL Grivița nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 25/2021 privind actualizarea indicatorilor economici ca urmare a finalizarii proiectului ”Achiziție Buldoexcavator pentru comuna Grivița, Județul Galați”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/30772",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/30772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-26-2021",
+   "path": "local/galati/grivita/2021/26",
+   "short": "HCL Grivița nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 26/2021 privind privind stabilirea domeniilor serviciilor publice in care persoanele care au savarsit infractiuni sau persoanele care au fost sanctionate contraventional vor presta munca neremunerata in folosul comunitatii, ca obligatie stabilita de catre instant de judecata; privind stabilirea domeniilor serviciilor publice in care persoanele care au savarsit infractiuni sau persoanele care au fost sanctionate contraventional vor presta munca neremunerata in folosul comunitatii, ca obligatie stabilita de catre instant de judecata;",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/30773",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/30773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-27-2021",
+   "path": "local/galati/grivita/2021/27",
+   "short": "HCL Grivița nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 27/2021 privind însușirea Acordului de cooperare privind organizarea şi exercitarea activităţii de urbanism şi autorizare construcţii dintre comuna Grivita și Asociația comunelor din România – Filiala județeană Galati",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/30774",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/30774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-28-2021",
+   "path": "local/galati/grivita/2021/28",
+   "short": "HCL Grivița nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 28/2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/32963",
+   "versions": [
+    {
+     "from": "2021-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/32963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-3-2021",
+   "path": "local/galati/grivita/2021/3",
+   "short": "HCL Grivița nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 3/2021 privind aprobarea Planului de actiuni si lucrari de interes local pe anul 2021,ce vor fi executate de către beneficiarii de ajutor social din Comuna Grivita, judetul Galati, conform Legii nr.416/2001",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/18607",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/18607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-33-2021",
+   "path": "local/galati/grivita/2021/33",
+   "short": "HCL Grivița nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 33/2021 Privind: modificarea Hotararii Consiliului Local nr. 29 din 23 octombrie 2020 privind aprobarea documentatiei tehnico-economice aferente obiectivului de investitii “Infiintarea distributiei de gaze naturale in comuna Grivita, judetul Galati”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/36270",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/36270",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-34-2021",
    "path": "local/galati/grivita/2021/34",
    "short": "HCL Grivița nr. 34/2021",
@@ -88,6 +388,21 @@
      "from": "2021-10-15",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/40803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-4-2021",
+   "path": "local/galati/grivita/2021/4",
+   "short": "HCL Grivița nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 4/2021 Privind: aprobarea indicatorilor tehnico- economici si a Devizului General , la investiția “Reparatii Capitale si Autorizare Iaz Calmatui”, comuna Griviţa",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/18608",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/18608",
      "sha256": null
     }
    ]
@@ -243,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-galati--grivita-5-2021",
+   "path": "local/galati/grivita/2021/5",
+   "short": "HCL Grivița nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 5/2021 privind: aprobarea Strategiei de Dezvoltare Locală a comunei Grivița, jud. Galati , pentru perioada 2021 -2027",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/18609",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/18609",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--grivita-50-2021",
    "path": "local/galati/grivita/2021/50",
    "short": "HCL Grivița nr. 50/2021",
@@ -298,6 +628,66 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/grivita-gl/registru-hcl/51865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-6-2021",
+   "path": "local/galati/grivita/2021/6",
+   "short": "HCL Grivița nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 6/2021 Privind: aprobarea Studiul de fezabilitate si a indicatorilor tehnico-economici rezultati din Studiul de fezabilitate la investitia „MODERNIZARE CAMIN CULTURAL IN SAT GRIVITA COMUNA GRIVITA, JUDETUL GALATI”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/18610",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/18610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-7-2021",
+   "path": "local/galati/grivita/2021/7",
+   "short": "HCL Grivița nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 7/2021 Privind: aprobarea indicatorilor tehnico-economici actualizati in urma procedurii de achizitie și asigurarea finanțării de la bugetul local pentru cheltuielile ce nu pot fi finanțate de la bugetul de stat prin PNDL conform prevederilor art. 8 alin (3) din OMDRAP nr. 1851/2013, aferente obiectivului “Reabilitarea, modernizare, extinderea şi dotare dispensar medical în sat Griviţa, comuna Griviţa",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21912",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-8-2021",
+   "path": "local/galati/grivita/2021/8",
+   "short": "HCL Grivița nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 8/2021 privind: aprobarea Regulamentului de acordare a titlului de „Cetățean de Onoare al comunei Grivita, judetul Galați”",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21913",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--grivita-9-2021",
+   "path": "local/galati/grivita/2021/9",
+   "short": "HCL Grivița nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Grivița nr. 9/2021",
+   "url": "https://emol.ro/grivita-gl/registru-hcl/21914",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/grivita-gl/registru-hcl/21914",
      "sha256": null
     }
    ]

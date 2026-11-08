@@ -3,6 +3,666 @@
  "shard": "local/dolj/afumati/2025",
  "acts": [
   {
+   "slug": "hcl-dolj--afumati-1-2025",
+   "path": "local/dolj/afumati/2025/1",
+   "short": "HCL Afumați nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 1/2025 privind utilizarea excedentului bugetului local al anului 2024, în cursul anului 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293215",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-10-2025",
+   "path": "local/dolj/afumati/2025/10",
+   "short": "HCL Afumați nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 10/2025 privind aprobarea Raportului privind activitatea desfasurata de asistentii persoanli ai persoanelor cu handicap grav pentru semestrul II a! anului 2024",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293224",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-11-2025",
+   "path": "local/dolj/afumati/2025/11",
+   "short": "HCL Afumați nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 11/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293225",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-12-2025",
+   "path": "local/dolj/afumati/2025/12",
+   "short": "HCL Afumați nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 12/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293226",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-13-2025",
+   "path": "local/dolj/afumati/2025/13",
+   "short": "HCL Afumați nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 13/2025 privind aprobarea tipului de suport alimentar acordat preșcolarilor și elevilor Școlii Gimnaziale Afumați în cadrul Programului Național Masă sănătoasă",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293227",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-14-2025",
+   "path": "local/dolj/afumati/2025/14",
+   "short": "HCL Afumați nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 14/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293228",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-15-2025",
+   "path": "local/dolj/afumati/2025/15",
+   "short": "HCL Afumați nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 15/2025 privind aprobarea bugetului de venituri li cheltuieli al Comunei Afumați, județul Dolj, pentru anul 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293229",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-16-2025",
+   "path": "local/dolj/afumati/2025/16",
+   "short": "HCL Afumați nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 16/2025 privind schimbarea denumirii si destinatiei cladirii ”Anexa Consiliul Local - Garaj” în „ Centru multifuncțional\" având destinația desfășurării unor activități administrative",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293230",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-17-2025",
+   "path": "local/dolj/afumati/2025/17",
+   "short": "HCL Afumați nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 17/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale — facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293231",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-18-2025",
+   "path": "local/dolj/afumati/2025/18",
+   "short": "HCL Afumați nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 18/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293232",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-19-2025",
+   "path": "local/dolj/afumati/2025/19",
+   "short": "HCL Afumați nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 19/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293233",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-2-2025",
+   "path": "local/dolj/afumati/2025/2",
+   "short": "HCL Afumați nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 2/2025 privind aprobarea proiectului „IMPLEMENTAREA PLATFORMEI INTEGRATE DE SERVICII PUBLICE DIGITALE Șl BIBLIOTECĂ DIGITALĂ\", a cheltuielilor legate de proiect si aprobarea Acordului de parteneriat",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293216",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-21-2025",
+   "path": "local/dolj/afumati/2025/21",
+   "short": "HCL Afumați nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 21/2025 privind actualizarea domeniului public al Comunei Afumați județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293235",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-22-2025",
+   "path": "local/dolj/afumati/2025/22",
+   "short": "HCL Afumați nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 22/2025 privind aprobarea Structurii organizatorice, a Statului de funcții și al numărului de personal al aparatului de specialitate al Primarului comunei Ąfumati,Judetul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293236",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-23-2025",
+   "path": "local/dolj/afumati/2025/23",
+   "short": "HCL Afumați nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 23/2025 privind aprobarea Regulamentului defuncționare și exploatare a stafiei de reîncărcare a vehiculelor electrice și hybrid plug-in în Comuna Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293237",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-24-2025",
+   "path": "local/dolj/afumati/2025/24",
+   "short": "HCL Afumați nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 24/2025 privind aprobarea organigramei și a statului defuncții ale SC UTILITATI PUBLICE AFUMATI SRL",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293238",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-25-2025",
+   "path": "local/dolj/afumati/2025/25",
+   "short": "HCL Afumați nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 25/2025 privind aprobarea devizului general actualizat aferent proiectului ”Realizarea unei ca acitati noi de roducere a ener iei electrice din surse regenerabile pentru autoconsumul Comunei Afumati, Jud. Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293239",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-26-2025",
+   "path": "local/dolj/afumati/2025/26",
+   "short": "HCL Afumați nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 26/2025 privind aprobarea participării UAT Comuna Ąfumați la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2025-2020",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293240",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-27-2025",
+   "path": "local/dolj/afumati/2025/27",
+   "short": "HCL Afumați nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 27/2025 privind organizarea unor mani,festări în Comuna Afumați, Județul Dolj, cu ocazia zilei de 1 iunie — Ziua Copilului",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293241",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-28-2025",
+   "path": "local/dolj/afumati/2025/28",
+   "short": "HCL Afumați nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 28/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293242",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-29-2025",
+   "path": "local/dolj/afumati/2025/29",
+   "short": "HCL Afumați nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 29/2025 privind aprobarea aprobarea Regulamentului de decontare a cheltuielilor de transport pentrufuncționarii publici și personalul contractual din cadrul Primăriei Comunei Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293243",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-3-2025",
+   "path": "local/dolj/afumati/2025/3",
+   "short": "HCL Afumați nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 3/2025 privind aprobarea studiului defezabilitate si a indicatorilor tehnicoeconomici aferenti proiectului „IMPLEMENTAREA PLATFORMEI INTEGRATE DE SERVICII PUBLICE DIGITALE Șl BIBLIOTECĂ DIGITALĂ”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293217",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-30-2025",
+   "path": "local/dolj/afumati/2025/30",
+   "short": "HCL Afumați nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 30/2025 privind rectificarea nr.1 a bugetului local al Comunei Afumați pentru anu 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293244",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-31-2025",
+   "path": "local/dolj/afumati/2025/31",
+   "short": "HCL Afumați nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 31/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293318",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-32-2025",
+   "path": "local/dolj/afumati/2025/32",
+   "short": "HCL Afumați nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 32/2025 privind aprobarea procedurii de acordare a unor înlesniri la platăę constând în scutirea de mqiorări de întârziere aferente obligațiilorfiscale principale cuvenite bugetului local de către persoanelefizice care au calitatea de contribuabili ai bugetului local al Comunei Afumati",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293319",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-33-2025",
+   "path": "local/dolj/afumati/2025/33",
+   "short": "HCL Afumați nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 33/2025 privind aprobarea încheierii unui contract de comodat privind darea în folosință gratuită a unui microbuz achiziționat în cadrul proiectului „ Transport școlar verde pentru elevii din județul Dolj\", finanțat prin Planul Național de Redresare și Reziliență, Componenta C15: Educație",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293320",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-34-2025",
+   "path": "local/dolj/afumati/2025/34",
+   "short": "HCL Afumați nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 34/2025 privind modicarea Reulamentului de funcționare și exploatare a statiei de reîncărcare a vehiculelor electrice și hybrid plug-in în Comuna Afionați, aprobat prin HCL 23/_2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293321",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-35-2025",
+   "path": "local/dolj/afumati/2025/35",
+   "short": "HCL Afumați nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 35/2025 privind schimbareą denumirii si destinatiei clădirii ”Brutărie nouă Afumați” în „ Centru administrativ ” având destinația desfășurării unor activități administrative",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293323",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-36-2025",
+   "path": "local/dolj/afumati/2025/36",
+   "short": "HCL Afumați nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 36/2025 privind aprobarea Documentatiei de avizare a lucrarilor de interventii (DALI) aferentă investitiei ”Reabilitare și modernizare Centru Administrativ ( Brutărie nouă)",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293324",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-37-2025",
+   "path": "local/dolj/afumati/2025/37",
+   "short": "HCL Afumați nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 37/2025 privind aprobarea organizării și desfășurării manifestării Ziua Comunei Afumați pentru anul 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293326",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-38-2025",
+   "path": "local/dolj/afumati/2025/38",
+   "short": "HCL Afumați nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 38/2025 privind rectificarea nr.2 a bugetului local al Comunei Afumați pentru anul 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293328",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-39-2025",
+   "path": "local/dolj/afumati/2025/39",
+   "short": "HCL Afumați nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 39/2025 privind alocarea sumei de 15.000 lei din bugetul local al Comunei Afumați în vederea organizarii unei excursii pentru copiii premianti ai Scolii Gimnaziale Ąfumati",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293330",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-4-2025",
+   "path": "local/dolj/afumati/2025/4",
+   "short": "HCL Afumați nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 4/2025 privind îąființarea serviciului social de tipul CENTRUL DE CONSILIERE Șl SPRIJIN PENTRU PĂRINȚI Șl COPII (cod nomenclator servicii sociale 8890CZ-F-I) în cadrul Compartimentului Asistență Socială al Primăriei Afumați, aprobarea regulamentului de organizare și funcționare al serviciului social",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293218",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-40-2025",
+   "path": "local/dolj/afumati/2025/40",
+   "short": "HCL Afumați nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 40/2025 privind aprobarea Documentatiei de avizare a lucrarilor de interventii (DALI) aferentă investitiei ”înlocuire învelitoare la clădirea Centru de evenimente”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293331",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-41-2025",
+   "path": "local/dolj/afumati/2025/41",
+   "short": "HCL Afumați nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 41/2025 privind aprobarea și însușirea Raportului de evaluare a domeniului public și privat al Comunei Afumați, judetul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293333",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-42-2025",
+   "path": "local/dolj/afumati/2025/42",
+   "short": "HCL Afumați nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 42/2025 privind aprobarea Raportului privind activitatea desfasurata de asistentii persoanli ai persoanelor cu handicap pentru semestrul I al anului 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293335",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-43-2025",
+   "path": "local/dolj/afumati/2025/43",
+   "short": "HCL Afumați nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 43/2025 privind rectificarea nr.3 a bugetului local al Comunei Afumați pentru anul 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293337",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-44-2025",
+   "path": "local/dolj/afumati/2025/44",
+   "short": "HCL Afumați nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 44/2025 privind aprobarea proiectului și a indicatorilor tehnico-economici aferenti proiectului „Construire și dotare Grădiniță cu program prelungit în Comuna Afumați, Str.Principală, nr.97, Județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293339",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-45-2025",
+   "path": "local/dolj/afumati/2025/45",
+   "short": "HCL Afumați nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 45/2025 privind rectificarea nr.4 a bugetului local al Comunei Afumați pentru anul 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293341",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-46-2025",
+   "path": "local/dolj/afumati/2025/46",
+   "short": "HCL Afumați nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 46/2025 privind actualizarea devizului general aferent proiectului ”Realizarea unei capacitati noi de producere a energiei electrice din surse regenerabile pentru autoconsumul Comunei Afumati, Jud. Dolj ”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293344",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-48-2025",
+   "path": "local/dolj/afumati/2025/48",
+   "short": "HCL Afumați nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 48/2025 privind aprobarea Structurii organizatorice, a Statului defuncții și al numărului de personal al aparatului de specialitate al Primarului comunei Afumati Judetul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293348",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-50-2025",
+   "path": "local/dolj/afumati/2025/50",
+   "short": "HCL Afumați nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 50/2025 privind rectificarea nr.5 a bugetului local al Comunei Afumați pentru anul 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293350",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-51-2025",
+   "path": "local/dolj/afumati/2025/51",
+   "short": "HCL Afumați nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 51/2025 privind rectificarea nr.6 a bugetului local al Comunei Afumați pentru anul 2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293351",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-52-2025",
+   "path": "local/dolj/afumati/2025/52",
+   "short": "HCL Afumați nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 52/2025 privind aprobarea Devizului general și a Documentației tehnice necesare obținerii autorizației de securitate la incendiu aferentă investiției „Înființarea unui centru de zi pentru consiliere și sprijin pentru părinți și copii, în Comuna Afumați în județul Doli ”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293352",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293352",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-53-2025",
    "path": "local/dolj/afumati/2025/53",
    "short": "HCL Afumați nr. 53/2025",
@@ -103,6 +763,21 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/293370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-6-2025",
+   "path": "local/dolj/afumati/2025/6",
+   "short": "HCL Afumați nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 6/2025 privind aprobarea Regulamentului pentru acordarea unui premiu persoanelor care au împlinit sau împlinesc vârsta de 100 de ani sau peste 100 de ani și au domiciliul în Comuna Afumați, Județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293220",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293220",
      "sha256": null
     }
    ]
@@ -243,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-7-2025",
+   "path": "local/dolj/afumati/2025/7",
+   "short": "HCL Afumați nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 7/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293221",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293221",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-70-2025",
    "path": "local/dolj/afumati/2025/70",
    "short": "HCL Afumați nr. 70/2025",
@@ -298,6 +988,21 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/293383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-9-2025",
+   "path": "local/dolj/afumati/2025/9",
+   "short": "HCL Afumați nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 9/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293223",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293223",
      "sha256": null
     }
    ]

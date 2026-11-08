@@ -3,6 +3,366 @@
  "shard": "local/dolj/sadova/2023",
  "acts": [
   {
+   "slug": "hcl-dolj--sadova-10-2023",
+   "path": "local/dolj/sadova/2023/10",
+   "short": "HCL Sadova nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 10/2023 privind aprobarea bugetului general consolidat al comunei Sadova pe anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/90089",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/90089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-11-2023",
+   "path": "local/dolj/sadova/2023/11",
+   "short": "HCL Sadova nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 11/2023 privind aprobarea planului anual de actiune al sericiilor sociale pentru anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/90090",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/90090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-12-2023",
+   "path": "local/dolj/sadova/2023/12",
+   "short": "HCL Sadova nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 12/2023 privind\" Infiintare loc de joaca in comuna Sadova, judetul Dolj\" in cadrul masurii M9/6B 'Dezvoltarea satelor\"",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/90091",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/90091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-13-2023",
+   "path": "local/dolj/sadova/2023/13",
+   "short": "HCL Sadova nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 13/2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/90092",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/90092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-15-2023",
+   "path": "local/dolj/sadova/2023/15",
+   "short": "HCL Sadova nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 15/2023 privind aprobarea Strategiei Anuale a Achizitiilor Publice pentru anul 2023 cat si a Programului anual al achizitiilor publice pe anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/94728",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/94728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-17-2023",
+   "path": "local/dolj/sadova/2023/17",
+   "short": "HCL Sadova nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 17/2023 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul lV , anul 2022",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/94730",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/94730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-18-2023",
+   "path": "local/dolj/sadova/2023/18",
+   "short": "HCL Sadova nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 18/2023 privind aprobarea REGULAMENTULUI de organizare şi funcţionare a Pieței Agroalimentare Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/94731",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/94731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-2-2023",
+   "path": "local/dolj/sadova/2023/2",
+   "short": "HCL Sadova nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 2/2023 privind aprobarea protocolului de colaborare între Unitatea Administrativ- Teritorială COMUNA SADOVA și Unitatea Administrativ Teritoriala JUDETUL DOLJ pentru susținerea financiară parțială a funcționării Centrului Comunitar Integrat din Comuna SADOVA, județul Dolj, ce se va implementa prin proiectul „PNRR/2022/C12/MS/I1.4 – I1.4 Centre Comunitare integrate” Componenta C12 – Sănătate, Investiția 1. Dezvoltarea infrastructurii medicale prespitalicești I1.4 Centre comunitare integrate",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/86980",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/86980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-20-2023",
+   "path": "local/dolj/sadova/2023/20",
+   "short": "HCL Sadova nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 20/2023 privind aprobarea schimbării de destinație a imobilului Camin cultural, aflat în domeniul public al comunei Sadova, sat Piscu Sadovei județul Dolj, strada Dunarii, nr.86, din \"Camin cultural\" in \"Centru comunitar Integrat\"",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/94733",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/94733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-22-2023",
+   "path": "local/dolj/sadova/2023/22",
+   "short": "HCL Sadova nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 22/2023 privind aprobarea dezlipirii imobilului -teren in suprafata de 33403 mp , proprietate publica a comunei Sadova, situat in intravilanul comunei Sadova, avand nr. cadastral 35767",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/98311",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/98311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-24-2023",
+   "path": "local/dolj/sadova/2023/24",
+   "short": "HCL Sadova nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 24/2023 privind aprobarea proiectului ”Biblioteca - hub activ de învățare digitală pentru comunitatea județului Dolj,, din Planul Național de Redresare și Reziliență (PNRR), Pilonul II, Componenta 7 – Transformare digitală, Investiția I17, a cheltuielilor legate de proiect și a acordului de parteneriat",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/101031",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/101031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-25-2023",
+   "path": "local/dolj/sadova/2023/25",
+   "short": "HCL Sadova nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 25/2023 privind aprobarea Planului de Pază al comunei Sadova, județul Dolj",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/103032",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/103032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-28-2023",
+   "path": "local/dolj/sadova/2023/28",
+   "short": "HCL Sadova nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 28/2023 privind aprobarea dării în folosință gratuită a terenului de sport din incinta Scolii Gimnaziale Piscu-Sadovei, comuna Sadova, Asociației Box Universitatea Craiova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/103035",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/103035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-33-2023",
+   "path": "local/dolj/sadova/2023/33",
+   "short": "HCL Sadova nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 33/2023 privind aprobarea Regulamentului pentru emiterea adeverinței privind edificarea construcției și aprobarea modelului cadru al acesteia",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/104822",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/104822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-34-2023",
+   "path": "local/dolj/sadova/2023/34",
+   "short": "HCL Sadova nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 34/2023 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul l , anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/104823",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/104823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-36-2023",
+   "path": "local/dolj/sadova/2023/36",
+   "short": "HCL Sadova nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 36/2023 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâre cu caracter normativ care se supun adoptării Consiliului local al Comunei SADOVA",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/104825",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/104825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-39-2023",
+   "path": "local/dolj/sadova/2023/39",
+   "short": "HCL Sadova nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 39/2023 privind aprobarea Regulamentului de eliberare a Acordului pentru realizarea lucrărilor aferente reţelelor tehnico-edilitare pe proprietăți apartinand domeniului public al comunei Sadova si care afecteaza structura cailor de comunicatii rutiere, strazilor, podurilor, trotuarelor / aleilor, terenurilor de sport precum si spatiilor verzi",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/104828",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/104828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-43-2023",
+   "path": "local/dolj/sadova/2023/43",
+   "short": "HCL Sadova nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 43/2023 privind aprobarea REGULAMENTULUI de organizare şi funcţionare a Consiliului Local Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/111647",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/111647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-5-2023",
+   "path": "local/dolj/sadova/2023/5",
+   "short": "HCL Sadova nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 5/2023 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de ajutor social pe anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/88299",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/88299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-50-2023",
+   "path": "local/dolj/sadova/2023/50",
+   "short": "HCL Sadova nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 50/2023 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul ll, anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/114665",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/114665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-51-2023",
+   "path": "local/dolj/sadova/2023/51",
+   "short": "HCL Sadova nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 51/2023 privind aprobarea contului de executie al bugetului de venituri si cheltuieli pe trimestrul II 2023 al Serviciului Public de Alimentare cu Apa si de Canalizare Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/114666",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/114666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-55-2023",
+   "path": "local/dolj/sadova/2023/55",
+   "short": "HCL Sadova nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 55/2023 privind aprobarea proiectului ”Biblioteca - hub activ de învățare digitală pentru comunitatea județului Dolj,, din Planul Național de Redresare și Reziliență (PNRR), Pilonul II, Componenta 7 – Transformare digitală, Investiția I17, a cheltuielilor legate de proiect și a acordului de parteneriat",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/115888",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/115888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-56-2023",
+   "path": "local/dolj/sadova/2023/56",
+   "short": "HCL Sadova nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 56/2023 privind aprobarea prețului pentru furnizarea apei, la 6 lei/mc, atât pentru consumatorii casnici cât și pentru persoanele juridice, precum si Stabilirea procentului de pierderi tehnologice de apă",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/122192",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/122192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-6-2023",
+   "path": "local/dolj/sadova/2023/6",
+   "short": "HCL Sadova nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 6/2023 pentru aprobarea raportului activitatii asistentilor personali angajati in cadrul Primariei comunei Sadova pe semestrul ll, anul 2022",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/88300",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/88300",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-63-2023",
    "path": "local/dolj/sadova/2023/63",
    "short": "HCL Sadova nr. 63/2023",
@@ -298,6 +658,21 @@
      "from": "2024-02-19",
      "units": 1,
      "source_url": "https://emol.ro/sadova-dj/registru-hcl/135280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-9-2023",
+   "path": "local/dolj/sadova/2023/9",
+   "short": "HCL Sadova nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 9/2023 privind aprobarea infiintarii Serviciului Public de Alimentare cu Apa si de Canalizare al Comunei Sadova, denumit ,,SERVICIUL Public de Alimentare cu Apa si de Canalizare al Comunei Sadova \", cu personalitate juridica, organizat in subordinea Consiliului Local al Comunei SADOVA",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/90088",
+   "versions": [
+    {
+     "from": "2023-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/90088",
      "sha256": null
     }
    ]

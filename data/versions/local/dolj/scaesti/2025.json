@@ -3,6 +3,216 @@
  "shard": "local/dolj/scaesti/2025",
  "acts": [
   {
+   "slug": "hcl-dolj--scaesti-1-2025",
+   "path": "local/dolj/scaesti/2025/1",
+   "short": "HCL Scăești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 1/2025 privind aprobare dare de seama trim III, an 2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/185860",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/185860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-10-2025",
+   "path": "local/dolj/scaesti/2025/10",
+   "short": "HCL Scăești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 10/2025 privind aprobarea cererii de finantare pentru Proiectul '' Construire gradinita in comuna Scaesti, judetul Dolj''",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/197054",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/197054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-11-2025",
+   "path": "local/dolj/scaesti/2025/11",
+   "short": "HCL Scăești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 11/2025 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investitie '' Construire locuinte sociale in Comuna Scaesti, judetul Dolj''",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/197055",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/197055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-13-2025",
+   "path": "local/dolj/scaesti/2025/13",
+   "short": "HCL Scăești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 13/2025 privind aprobarea colaborarii interinstitutionale din cadrul Proiectului ''Furnizare de servicii integrate in comunitatile rurale- facilitatea accesului persoanelor vulnerabile la servicii de baza eficiente si de calitate.''",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/200560",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/200560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-14-2025",
+   "path": "local/dolj/scaesti/2025/14",
+   "short": "HCL Scăești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 14/2025 privind aprobare stabilire modalitate de gestiune a serviciului de alimentare cu apă în comuna Scaesti, jud. Dolj",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/200561",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/200561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-15-2025",
+   "path": "local/dolj/scaesti/2025/15",
+   "short": "HCL Scăești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 15/2025 privind aprobarea caietului de sarcini pentru Serviciul de Utilitati Publice al comunei Scaesti, judeţul Dolj",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/200562",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/200562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-16-2025",
+   "path": "local/dolj/scaesti/2025/16",
+   "short": "HCL Scăești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 16/2025 privind aprobarea bugetului de venituri si cheltuieli pentru SC Serviciul de Utilitati Publice SRL pentru anul 2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/200563",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/200563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-17-2025",
+   "path": "local/dolj/scaesti/2025/17",
+   "short": "HCL Scăești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 17/2025 privind aprobarea proiectului ” CONSTRUIRE GRADINIȚĂ PARTER IN COMUNA SCĂEȘTI, JUDEȚUL DOLJ” si a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/203593",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/203593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-18-2025",
+   "path": "local/dolj/scaesti/2025/18",
+   "short": "HCL Scăești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 18/2025 privind aprobare dare de seama trim IV, an 2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/210778",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/210778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-19-2025",
+   "path": "local/dolj/scaesti/2025/19",
+   "short": "HCL Scăești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 19/2025 privind aprobare dare de seama trim I, an 2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/210779",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/210779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-2-2025",
+   "path": "local/dolj/scaesti/2025/2",
+   "short": "HCL Scăești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 2/2025 privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de dezvoltare( sursa A)",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/185861",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/185861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-20-2025",
+   "path": "local/dolj/scaesti/2025/20",
+   "short": "HCL Scăești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 20/2025 privind aprobarea impozitelor si taxelor locale pe anul 2026",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/210780",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/210780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-21-2025",
+   "path": "local/dolj/scaesti/2025/21",
+   "short": "HCL Scăești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 21/2025 privind alegerea preşedintelui de şedinţă pentru perioada mai-iulie 2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/210781",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/210781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-22-2025",
+   "path": "local/dolj/scaesti/2025/22",
+   "short": "HCL Scăești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 22/2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/213808",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/213808",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-24-2025",
    "path": "local/dolj/scaesti/2025/24",
    "short": "HCL Scăești nr. 24/2025",
@@ -243,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-4-2025",
+   "path": "local/dolj/scaesti/2025/4",
+   "short": "HCL Scăești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 4/2025 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Scaești, județul Dolj",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/189743",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/189743",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-40-2025",
    "path": "local/dolj/scaesti/2025/40",
    "short": "HCL Scăești nr. 40/2025",
@@ -298,6 +523,81 @@
      "from": "2026-02-11",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/243826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-5-2025",
+   "path": "local/dolj/scaesti/2025/5",
+   "short": "HCL Scăești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 5/2025 privind stabilirea tarifelor pentru gestionarea deseurilor din gospodarie pentru locuitorii comunei Scaesti, judetul Dolj, începănd cu data de 01.02.2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/189744",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/189744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-6-2025",
+   "path": "local/dolj/scaesti/2025/6",
+   "short": "HCL Scăești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 6/2025 pentru revocare Hotarare Consiliu Local nr. 3 din data de 08.01.2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/189745",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/189745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-7-2025",
+   "path": "local/dolj/scaesti/2025/7",
+   "short": "HCL Scăești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 7/2025 privind alegerea preşedintelui de şedinţă pentru perioada februarie-aprilie 2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/196836",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/196836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-8-2025",
+   "path": "local/dolj/scaesti/2025/8",
+   "short": "HCL Scăești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 8/2025 privind aprobarea bugetului local de venituri si cheltuieli pentru anul 2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/197052",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/197052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-9-2025",
+   "path": "local/dolj/scaesti/2025/9",
+   "short": "HCL Scăești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 9/2025 privind repartizarea excedentului bugetar aferent anului 2024 pentru investitiile anului 2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/197053",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/197053",
      "sha256": null
     }
    ]

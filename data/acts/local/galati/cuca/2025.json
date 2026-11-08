@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/galati/cuca/2025",
+"acts": [
+{
+"slug": "hcl-galati--cuca-7-2025",
+"path": "local/galati/cuca/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 7/2025 pentru aprobarea modelului orientativ al statutului unității administrativ - teritoriale, precum și a modelului orientativ al regulamentului de organizare și funcționare a consiliului local; Având în vedere prevederile Legii nr.24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art",
+"short": "HCL Cuca nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/03/HCL-aprobarea-Regulamentului-de-organizare-si-functionare-al-Consiliului-local-al-comunei-Cuca-judetul-Galati.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-galati--cuca-28-2025",
+"path": "local/galati/cuca/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 28/2025 privind finanțele publice locale, cu modificările și completările ulterioare; În conformitate cu Legea contabilității nr.82/1991, republicată, cu modificările și completările ulterioare; Luând act de prevederile Ordinului M.F.P.107/20.01.2025 privind aprobarea Normelor metodologice privind încheierea exercițiului bugetar al anului 2024 ; Având în vedere art.129 alin.(4) lit. a) din Ordonanța de ur",
+"short": "HCL Cuca nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/06/HCL.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-galati--cuca-37-2025",
+"path": "local/galati/cuca/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 37/2025 privind aprobarea Regulamentului Serviciului Județean de Salubrizare Galați; Având în vedere prevederile Art. 13 alin. 3, art. 22 din Legea serviciilor comunitare de utilități publice nr. 51/2006, cu modificările și completările ulterioare; Având în vedere prevederile Art. 6 și Art.11 alin. 2 din Legea serviciului de salubrizare a localităților nr. 101/2006, cu modificările și completările ulterio",
+"short": "HCL Cuca nr. 37/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-23",
+"latest": "2025-06-23",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/07/HCL-Regulament.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-galati--cuca-58-2025",
+"path": "local/galati/cuca/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 58/2025 privind aprobarea tipului de suport alimentar constând într-o masă caldă în regim de catering, acordat elevilor și preșcolarilor din cadrul Școlii Gimnaziale ”Sf. Gheorghe” comuna Cuca , județul Galați , prin Programul național ”Masă sănătoasă (PNMS).” Având în vedere art.II , pct.42 din Legea nr. 141/25.07.2025 privind unele măsuri fiscal bugetare, potrivit căreia cota TVA a fost majorată de la 1",
+"short": "HCL Cuca nr. 58/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/10/HCL-nr.58.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-galati--cuca-59-2025",
+"path": "local/galati/cuca/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cuca nr. 59/2025 pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public și privat al comunelor, al orașelor, al municipiilor și al județelor, la Hotărârea Guvernului României nr.392/2020 privind aprobarea Normelor tehnice pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public și privat al comunelor, al orașelor, al municipiilor și al județelor ; În conformitate cu prevederile ar",
+"short": "HCL Cuca nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "http://www.comunacuca.ro/wp-content/uploads/2025/10/HCL-nr.59.pdf",
+"council": "galati/cuca",
+"council_name": "Consiliul Local al Comunei Cuca",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

@@ -3,6 +3,111 @@
  "shard": "local/galati/beresti-meria/2020",
  "acts": [
   {
+   "slug": "hcl-galati--beresti-meria-20-2020",
+   "path": "local/galati/beresti-meria/2020/20",
+   "short": "HCL Berești-Meria nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 20/2020 privind modificarea Hotărârii nr. 88/20.12.2019 privind aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amenzile aplicabile în anul fiscal 2020",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/14265",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/14265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-21-2020",
+   "path": "local/galati/beresti-meria/2020/21",
+   "short": "HCL Berești-Meria nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 21/2020 privind achiziționarea de coșuri de gunoi stradele și montarea acestora în toate satele componente ale comunei Berești-Meria",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/14264",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/14264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-22-2020",
+   "path": "local/galati/beresti-meria/2020/22",
+   "short": "HCL Berești-Meria nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 22/2020 privind rectificarea bugetului de venituri și cheltuieli al UAT Comuna Berești Meria",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/16015",
+   "versions": [
+    {
+     "from": "2020-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/16015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-23-2020",
+   "path": "local/galati/beresti-meria/2020/23",
+   "short": "HCL Berești-Meria nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 23/2020 privind accesul public, gratuit la investiția „Modernizarea rețelei de drumuri de interes local în comuna Berești-Meria, județu Galați”",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/16016",
+   "versions": [
+    {
+     "from": "2020-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/16016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-24-2020",
+   "path": "local/galati/beresti-meria/2020/24",
+   "short": "HCL Berești-Meria nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 24/2020 privind aprobarea actualizării valorii de inventar a obiectivului ”Modernizarea rețelei de drumuri de interes local în comuna Berești-Meria, județul Galați”",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/16017",
+   "versions": [
+    {
+     "from": "2020-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/16017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-26-2020",
+   "path": "local/galati/beresti-meria/2020/26",
+   "short": "HCL Berești-Meria nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 26/2020 privind modificarea Organigramei și Statului de funcții al Aparatului de specialitate al Primarului Comunei Berești-Meria și a serviciilor publice de interes local",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/16019",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/16019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--beresti-meria-29-2020",
+   "path": "local/galati/beresti-meria/2020/29",
+   "short": "HCL Berești-Meria nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berești-Meria nr. 29/2020 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al comunei Berești-Meria, județul Galați, pentru anul 2020",
+   "url": "https://emol.ro/beresti-meria-gl/registru-hcl/16171",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/beresti-meria-gl/registru-hcl/16171",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--beresti-meria-33-2020",
    "path": "local/galati/beresti-meria/2020/33",
    "short": "HCL Berești-Meria nr. 33/2020",

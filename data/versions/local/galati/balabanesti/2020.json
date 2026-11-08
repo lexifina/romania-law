@@ -3,6 +3,21 @@
  "shard": "local/galati/balabanesti/2020",
  "acts": [
   {
+   "slug": "hcl-galati--balabanesti-1-2020",
+   "path": "local/galati/balabanesti/2020/1",
+   "short": "HCL Bălăbănești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 1/2020 privind acoperirea definitiva a deficitului sectiunii de dezvoltare , sursa A a bugetului local al comunei Balabanesti, jud.Galati, pe anul 2019",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4105",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--balabanesti-100-2020",
    "path": "local/galati/balabanesti/2020/100",
    "short": "HCL Bălăbănești nr. 100/2020",
@@ -43,6 +58,1116 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-11-2020",
+   "path": "local/galati/balabanesti/2020/11",
+   "short": "HCL Bălăbănești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 11/2020 privind aprobarea bugetului local al comunei Balabanesti pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4115",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-12-2020",
+   "path": "local/galati/balabanesti/2020/12",
+   "short": "HCL Bălăbănești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 12/2020 privind folosirea excedentului constituit la sfarsitul anului 2019 ca sursa de finantare a cheltuielilor sectiunii de dezvoltare in anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4116",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-13-2020",
+   "path": "local/galati/balabanesti/2020/13",
+   "short": "HCL Bălăbănești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 13/2020 privind actualizarea programului anual al achizitiilor publice- instrument magerial in cadrul Strategiei anuale de achizitii publice a comunei Balabanesti pentru anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4117",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-14-2020",
+   "path": "local/galati/balabanesti/2020/14",
+   "short": "HCL Bălăbănești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 14/2020 privind aprobarea indicatorilor tehnico-economici pentru investitia „Infiintare sistem de canalizare menajera in comuna Balabanesti , judetul Galati",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4118",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-15-2020",
+   "path": "local/galati/balabanesti/2020/15",
+   "short": "HCL Bălăbănești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 15/2020 privind aprobarea organigramei si a statului d efunctii a aparatului de specialitate al primarului comunei Balabanesti , judetul Galati",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4119",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-16-2020",
+   "path": "local/galati/balabanesti/2020/16",
+   "short": "HCL Bălăbănești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 16/2020 privind modificarea si completarea HCL Balabanesti inregistrat cu nr.50 din 31.10.2019 privind aprobarea Studiului de fezabilitate si a indicatorilor tehnico-economici rezultati din Studiul de fezabilitate , precum si a unor obligatii si a cheltuielilor aferente proiectului „sistem de management integrat al deseurilor in judetul Galati „",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4120",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-17-2020",
+   "path": "local/galati/balabanesti/2020/17",
+   "short": "HCL Bălăbănești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 17/2020 privind dezmembrarea imobilului cu numar cadastral 102852 , teren aflat in rezerva primariei comunei Balabanesti , judetul Galati , categoria arabil",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4121",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-18-2020",
+   "path": "local/galati/balabanesti/2020/18",
+   "short": "HCL Bălăbănești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 18/2020 privind aprobarea numarului de posturi pentru asistentii personali ai persoanelor cu handicap grav pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4122",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-19-2020",
+   "path": "local/galati/balabanesti/2020/19",
+   "short": "HCL Bălăbănești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 19/2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4123",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-2-2020",
+   "path": "local/galati/balabanesti/2020/2",
+   "short": "HCL Bălăbănești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 2/2020 privind indexarea cu indicele de inflatie a taxei paza comunala",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4106",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-20-2020",
+   "path": "local/galati/balabanesti/2020/20",
+   "short": "HCL Bălăbănești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 20/2020 privind alegerea presedintelui de sedinta al Consiliului local al comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4124",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-21-2020",
+   "path": "local/galati/balabanesti/2020/21",
+   "short": "HCL Bălăbănești nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 21/2020 privind modificarea HCL nr. 68 din 29.11.2019 privind modificarea HCL nr. 5 din 21.01.2015 privind stabilirea taxelor de habitat pentru functionarea unor servicii de colectare , transport, depozitarea deseurilor de pe raza comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4125",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-22-2020",
+   "path": "local/galati/balabanesti/2020/22",
+   "short": "HCL Bălăbănești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 22/2020 privind aprobarea amenajamentului pastoral al pajistilor din comuna Balabanesti , a regulamentului de pasunat pentru pajistile proprietate privata a comunei Balabanesti , judetul Galati si a procedurii de inchiriere a pajistii proprietatea privata a comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4126",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-23-2020",
+   "path": "local/galati/balabanesti/2020/23",
+   "short": "HCL Bălăbănești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 23/2020 privind aprobarea achizitionarii de tuburi ce vor fi folosite pe pasunea comunala",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4127",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-24-2020",
+   "path": "local/galati/balabanesti/2020/24",
+   "short": "HCL Bălăbănești nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 24/2020 privind aprobarea achizitionarii unui servar –legare in retea calculatoare din birourile din cadrul primariei Balabanesti si a programului informatic la impozite si taxe, asistenta sociala si registrul agricole",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4128",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-25-2020",
+   "path": "local/galati/balabanesti/2020/25",
+   "short": "HCL Bălăbănești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 25/2020 privind aprobarea achizitionarii mobilier –dulap arhiva –rafturi la compartimentul financiar contabilitate- birou impozite si taxe din cadrul Primariei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4129",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-26-2020",
+   "path": "local/galati/balabanesti/2020/26",
+   "short": "HCL Bălăbănești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 26/2020 privind aprobarea achizitionarii de tichete sociale pentru copii din comuna Balabanesti care frecventeaza in mod regulat unitatile de invatamant",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4130",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-27-2020",
+   "path": "local/galati/balabanesti/2020/27",
+   "short": "HCL Bălăbănești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 27/2020 privind aprobarea intocmirii documentatiei cadastrale pentru continuarea lucrarii de actualizare PUG al comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4131",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-28-2020",
+   "path": "local/galati/balabanesti/2020/28",
+   "short": "HCL Bălăbănești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 28/2020 privind aprobarea intocmirii strategiei de dezvoltare locala a comunei Balabanesti , judetul Galati pentru perioada 2021-2027",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4132",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-3-2020",
+   "path": "local/galati/balabanesti/2020/3",
+   "short": "HCL Bălăbănești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 3/2020 privind aprobarea retelei scolare de pe raza UAT Balabanesti pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4107",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-30-2020",
+   "path": "local/galati/balabanesti/2020/30",
+   "short": "HCL Bălăbănești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 30/2020 privind aprobarea taierii in vegetatie forestiera din afara fondului forestier pe o suprafata de 1,00 ha proprietate privata a comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4134",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-31-2020",
+   "path": "local/galati/balabanesti/2020/31",
+   "short": "HCL Bălăbănești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 31/2020 privind aprobarea modificarii art.8 din HCL nr. 56 din 29.11.2029 privind stabilirea si aprobarea impozitelor si taxelor locale pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10027",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-32-2020",
+   "path": "local/galati/balabanesti/2020/32",
+   "short": "HCL Bălăbănești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 32/2020 privind completarea regulamentului de organizare si functionare a Consiliului local al comunei Balabanesti , judetul Galati , aprobat prin HCL nr. 57 din 29 noiembrie 2029",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10028",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-33-2020",
+   "path": "local/galati/balabanesti/2020/33",
+   "short": "HCL Bălăbănești nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 33/2020 privind aprobarea intocmirii Documentatiei de Avizare a Lucrarilor de Interventie (DALI ) pentru realizarea obicetivului :Modernizarea si eficientizarea sistemului d eiluminat public in comuna Balabanesti , judetul Galati",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10029",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-34-2020",
+   "path": "local/galati/balabanesti/2020/34",
+   "short": "HCL Bălăbănești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 34/2020 privind acordul Consiliului local al comunei Balabanesti pentru realizarea de catre SC Network Innovation Future SRL de lucrari aferente investitiei pe drumurile de interes local la obiectivul „Investitii in infrastructura broadband in judetul Galati si racordarea la reteaua de energie electrica existent printr-un bransament nou",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10030",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-35-2020",
+   "path": "local/galati/balabanesti/2020/35",
+   "short": "HCL Bălăbănești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 35/2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10031",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-36-2020",
+   "path": "local/galati/balabanesti/2020/36",
+   "short": "HCL Bălăbănești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 36/2020 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10032",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-38-2020",
+   "path": "local/galati/balabanesti/2020/38",
+   "short": "HCL Bălăbănești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 38/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10034",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-39-2020",
+   "path": "local/galati/balabanesti/2020/39",
+   "short": "HCL Bălăbănești nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 39/2020 privind încheierea cu un operator autorizat a unui contract de prestări servicii pentru transportul și neutralizarea cadavrelor și deseurilor de origine animală găsite pe UAT Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10035",
+   "versions": [
+    {
+     "from": "2020-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-4-2020",
+   "path": "local/galati/balabanesti/2020/4",
+   "short": "HCL Bălăbănești nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 4/2020 privind rezilerea contractului de concesiune nr. 1492/19.04.2020 incheiat cu SC Edile SRL cu sediul social in Vaslui",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4108",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-40-2020",
+   "path": "local/galati/balabanesti/2020/40",
+   "short": "HCL Bălăbănești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 40/2020 privind aprobarea întocmirii documentației pentru actualizare și completare Plan Urbanistic General al comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10036",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-41-2020",
+   "path": "local/galati/balabanesti/2020/41",
+   "short": "HCL Bălăbănești nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 41/2020 privind aprobarea regulamentului privind concesionarea, închirierea bunurilor aparținând domeniului public/privat al comunei Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10037",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-42-2020",
+   "path": "local/galati/balabanesti/2020/42",
+   "short": "HCL Bălăbănești nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 42/2020 privind aprobarea caietului de sarcini și a devizului privind reparații curente la clădirea sediul primariei comunei Bălăbănești, judetul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10038",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-43-2020",
+   "path": "local/galati/balabanesti/2020/43",
+   "short": "HCL Bălăbănești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 43/2020 privind completarea programului de achiziții publice pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10039",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-44-2020",
+   "path": "local/galati/balabanesti/2020/44",
+   "short": "HCL Bălăbănești nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 44/2020 privind aprobarea modificării organigramei și a statului de funcții a aparatului de specialitate al primarului comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10040",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-46-2020",
+   "path": "local/galati/balabanesti/2020/46",
+   "short": "HCL Bălăbănești nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 46/2020 privind aprobarea studiului de oportunitate privind stabilirea modalității de gestiune a serviciului de iluminat public",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10042",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-47-2020",
+   "path": "local/galati/balabanesti/2020/47",
+   "short": "HCL Bălăbănești nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 47/2020 privind modificarea HCL nr. 14 din 30.04.2009 privind înființarea serviciului de salubrizare a comunei Bălăbănești și aprobarea caietului de sarcini și a regulamentului de organizare și funcționare a serviciului de salubrizare",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10043",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-48-2020",
+   "path": "local/galati/balabanesti/2020/48",
+   "short": "HCL Bălăbănești nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 48/2020 privind aprobarea trecerii energiei Cabinet medical Individual Dr.Anwar Abdelnasir către spațiul folosit de Centrul de Permanenta fix Bălăbănești –Dispensar uman Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10044",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-49-2020",
+   "path": "local/galati/balabanesti/2020/49",
+   "short": "HCL Bălăbănești nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 49/2020 privind aprobarea sumelor de bani de la bugetul local pentru schimbarea rețelei electrice din monofazic în trifazic la centrul de Permanenta fix ce funcționează în dispensarul uman Bălăbănești din sat Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10045",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-5-2020",
+   "path": "local/galati/balabanesti/2020/5",
+   "short": "HCL Bălăbănești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 5/2020 privind aprobarea planului de actiuni/program de lucrari/ de interes local pentru repartizarea orelor de munca persoanelor care beneficiaza de ajutor social",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4109",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-50-2020",
+   "path": "local/galati/balabanesti/2020/50",
+   "short": "HCL Bălăbănești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 50/2020 privind încheierea unui act adițional la contractul de prestare a serviciului de salubrizare a comunei Bălăbănești , înregistrat cu nr. 504 din 12.02.2020 încheiat între UAT comuna Bălăbănești și SC Leonmar SRL",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10046",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-51-2020",
+   "path": "local/galati/balabanesti/2020/51",
+   "short": "HCL Bălăbănești nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 51/2020 privind modificarea și completarea HCL al comunei Bălăbănești nr.15 din 29.05.2009 privind însușirea inventarului bunurilor domeniului public , reactualizat. Ce aparțin comunei Bălăbănești, județul Galați, cu drumurile ce au făcut obiectul lucrării „Modernizare drumuri locale, in comuna Bălăbănești, județul Galați„",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10047",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-52-2020",
+   "path": "local/galati/balabanesti/2020/52",
+   "short": "HCL Bălăbănești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 52/2020 privind alegerea președintelui de sedință al Consiliului local al comunei Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10048",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-53-2020",
+   "path": "local/galati/balabanesti/2020/53",
+   "short": "HCL Bălăbănești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 53/2020 privind aprobarea decontării transportului pe lunile martie și iunie a anului 2020 a cadrelor didactice care își desfășoară activitatea la școlile de pe raza comunei Bălăbănești și care nu dispun de locuința în localitatea unde au postul",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10049",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-54-2020",
+   "path": "local/galati/balabanesti/2020/54",
+   "short": "HCL Bălăbănești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 54/2020 privind revocarea HCL nr. 15 din 19.02.2020 privind aprobarea organigramei și a statului de funcții a aparatului de specialitate al primarului comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10050",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-55-2020",
+   "path": "local/galati/balabanesti/2020/55",
+   "short": "HCL Bălăbănești nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 55/2020 privind revocarea HCL nr. 17 din 19.02.2020 privind aprobarea dezmembrării imobilului cu nr. cadastral 102852, categorie de folosință arabil, aflat în rezerva primariei comunei Bălăbănești, situat în tarlaua 38 parcela 646/1/1/ în două loturi",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10051",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-56-2020",
+   "path": "local/galati/balabanesti/2020/56",
+   "short": "HCL Bălăbănești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 56/2020 privind aprobarea cheltuielilor legate de funcționarea Centrului de Permanenta fix Bălăbănești ce funcționează în dispensarul uman Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10052",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-57-2020",
+   "path": "local/galati/balabanesti/2020/57",
+   "short": "HCL Bălăbănești nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 57/2020 privind aprobarea achiziționării de materiale pentru montare tuburi pe pășunea comunală",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10053",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-58-2020",
+   "path": "local/galati/balabanesti/2020/58",
+   "short": "HCL Bălăbănești nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 58/2020 privind aprobarea regulamentului intern privind acordarea voucherelor de vacanță",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10054",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-59-2020",
+   "path": "local/galati/balabanesti/2020/59",
+   "short": "HCL Bălăbănești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 59/2020 privind modificarea si completarea HCL al comunei Bălăbănești nr.15 din 29.05.2009 privind insușirea inventarului bunurilor domeniului public, reactualizat, ce aparțin comunei Bălăbănești, județul Galați, cu drumurile ce au facut obiectul lucrării „Modernizare drumuri locale, in comuna Bălăbănești , judetul Galați„",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10055",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-6-2020",
+   "path": "local/galati/balabanesti/2020/6",
+   "short": "HCL Bălăbănești nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 6/2020 privind stabilirea taxelor de folosire temporara a caminelor culturale a comunei Balabanesti , jud Galati",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4110",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-60-2020",
+   "path": "local/galati/balabanesti/2020/60",
+   "short": "HCL Bălăbănești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 60/2020 privind aprobarea plății din bugetul local al UAT Bălăbănești a cotizației de membru al Asociației de Dezvoltare Intercomunitara ECOSERV Galați, pentru anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10056",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-61-2020",
+   "path": "local/galati/balabanesti/2020/61",
+   "short": "HCL Bălăbănești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 61/2020 privind aprobarea plații din bugetul local al UAT Bălăbănești a cotizației anuale de membru al Asociației de Dezvoltare Intercomunitara „Serviciul Regional SC Apa Canal SA Galati „ aferenta anului 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10057",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-62-2020",
+   "path": "local/galati/balabanesti/2020/62",
+   "short": "HCL Bălăbănești nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 62/2020 privind implementarea proiectului ”Modernizarea și eficientizarea sistemului de iluminat public în comuna Bălăbănești, județul Galați”",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10058",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-63-2020",
+   "path": "local/galati/balabanesti/2020/63",
+   "short": "HCL Bălăbănești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 63/2020 privind alegerea președintelui de ședință al Consiliului local al comunei Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10059",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-64-2020",
+   "path": "local/galati/balabanesti/2020/64",
+   "short": "HCL Bălăbănești nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 64/2020 privind stabilirea situațiilor deosebite și procedura de acordare a ajutoarelor de urgență de la bugetul local",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10060",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-65-2020",
+   "path": "local/galati/balabanesti/2020/65",
+   "short": "HCL Bălăbănești nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 65/2020 privind îndreptare eroare materială la anexa – plan de amplasament si delimitare a imobilului aprobată prin HCL nr.21 din 28.aprilie 2017 privind atestarea apartenenței la domeniul privat al comunei Bălăbănești a imobilului teren in suprafata de 329,00 mp situat in intravilanul satului Lungești , comuna Bălăbănești, judetul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10061",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-66-2020",
+   "path": "local/galati/balabanesti/2020/66",
+   "short": "HCL Bălăbănești nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 66/2020 privind aprobarea încheierii unui contract de asistență juridica si reprezentare în instanță pentru aprobarea intereselor unității administrativ teritoriale comuna Bălăbănești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10062",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-67-2020",
+   "path": "local/galati/balabanesti/2020/67",
+   "short": "HCL Bălăbănești nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 67/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10063",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-68-2020",
+   "path": "local/galati/balabanesti/2020/68",
+   "short": "HCL Bălăbănești nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 68/2020 privind stabilirea modului de calcul a veniturilor solicitanților pentru acordarea sprijin educațional pe baza de tichete sociale pe suport electronic pentru sprijin educațional acordate din fonduri externe nerambursabile în baza OUG nr.133/07.08.2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10071",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-69-2020",
+   "path": "local/galati/balabanesti/2020/69",
+   "short": "HCL Bălăbănești nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 69/2020 privind completarea HCL nr. 56 din 09.07.2020 privind aprobarea cheltuielilor legate de funcționarea Centrului de Permanența fix ce funcționeaza in dispensarul uman Balabanești",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10072",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-7-2020",
+   "path": "local/galati/balabanesti/2020/7",
+   "short": "HCL Bălăbănești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 7/2020 privind aprobarea incheierii unui contract de prestari servicii colectare deseuri municipale si transportul acestora catre rampele de depozitare autorizate",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4111",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-70-2020",
+   "path": "local/galati/balabanesti/2020/70",
+   "short": "HCL Bălăbănești nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 70/2020 privind aprobarea achizitionarii unei instalatii de incalzire la Centrul de Permanenta Fix Balabanesti , judetul Galati",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10073",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-71-2020",
+   "path": "local/galati/balabanesti/2020/71",
+   "short": "HCL Bălăbănești nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 71/2020 privind completarea programului de achiziții publice pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10074",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-72-2020",
+   "path": "local/galati/balabanesti/2020/72",
+   "short": "HCL Bălăbănești nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 72/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10075",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-73-2020",
+   "path": "local/galati/balabanesti/2020/73",
+   "short": "HCL Bălăbănești nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 73/2020 privind aprobarea devizului reparatii curente la parcare sediu primaria comunei Balabanesti",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10076",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-74-2020",
+   "path": "local/galati/balabanesti/2020/74",
+   "short": "HCL Bălăbănești nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 74/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/10077",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/10077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-76-2020",
+   "path": "local/galati/balabanesti/2020/76",
+   "short": "HCL Bălăbănești nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 76/2020 privind alegerea viceprimarului",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18620",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-77-2020",
+   "path": "local/galati/balabanesti/2020/77",
+   "short": "HCL Bălăbănești nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 77/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18621",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-78-2020",
+   "path": "local/galati/balabanesti/2020/78",
+   "short": "HCL Bălăbănești nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 78/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18677",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-79-2020",
+   "path": "local/galati/balabanesti/2020/79",
+   "short": "HCL Bălăbănești nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 79/2020 privind completarea programului de achiziții publice pe anul 2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18678",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-80-2020",
+   "path": "local/galati/balabanesti/2020/80",
+   "short": "HCL Bălăbănești nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 80/2020 privind aprobarea modificării organigramei și a statului de funcții a aparatului de specialitate al primarului comunei Bălăbănești, județul Galați",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18679",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-81-2020",
+   "path": "local/galati/balabanesti/2020/81",
+   "short": "HCL Bălăbănești nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 81/2020 privind stabilirea și aprobarea impozitelor și taxelor locale pe anul 2021",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18680",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-82-2020",
+   "path": "local/galati/balabanesti/2020/82",
+   "short": "HCL Bălăbănești nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 82/2020",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/18681",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18681",
      "sha256": null
     }
    ]
@@ -148,6 +1273,21 @@
      "from": "2020-11-16",
      "units": 1,
      "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/18688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--balabanesti-9-2020",
+   "path": "local/galati/balabanesti/2020/9",
+   "short": "HCL Bălăbănești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 9/2020 privind aprobarea modului de intocmire si tinere la zi a registrului agricol pe raza comunei Balabanesti, judetul Galati",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/4113",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/4113",
      "sha256": null
     }
    ]

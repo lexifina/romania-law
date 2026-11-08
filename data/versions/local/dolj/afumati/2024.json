@@ -3,6 +3,66 @@
  "shard": "local/dolj/afumati/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--afumati-1-2024",
+   "path": "local/dolj/afumati/2024/1",
+   "short": "HCL Afumați nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 1/2024 privind utilizarea excedentului bugetului local al anului 2023, în cursul anului 2024",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155279",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-10-2024",
+   "path": "local/dolj/afumati/2024/10",
+   "short": "HCL Afumați nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 10/2024 privind aprobarea cuantumului taxei speciale de salubrizare pentru anul 2024",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155300",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-11-2024",
+   "path": "local/dolj/afumati/2024/11",
+   "short": "HCL Afumați nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 11/2024 privind aprobarea încheieri prin atribuire directă a suprafețelor de islaz proprietate privată a comunei Afumați, județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155301",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-12-2024",
+   "path": "local/dolj/afumati/2024/12",
+   "short": "HCL Afumați nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 12/2024 privind rectificarea nr.1 a bugetului local al Comunei Afumați pentru anul 2024",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155302",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155302",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-13-2024",
    "path": "local/dolj/afumati/2024/13",
    "short": "HCL Afumați nr. 13/2024",
@@ -103,6 +163,21 @@
      "from": "2024-09-13",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/168704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-2-2024",
+   "path": "local/dolj/afumati/2024/2",
+   "short": "HCL Afumați nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 2/2024 privind relocarea activității Primăriei Comunei Afumați din sediul situat în Comuna Afumați, Sat Afumați în clădirea Școlii Gimnaziale Boureni situată în Comuna Afumați, Str. Școlii , Nr. 4",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155280",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155280",
      "sha256": null
     }
    ]
@@ -258,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-3-2024",
+   "path": "local/dolj/afumati/2024/3",
+   "short": "HCL Afumați nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 3/2024 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor de planificație, laptelui și produselor lactate și fructelor sau legumelor precum și a contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155281",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155281",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-30-2024",
    "path": "local/dolj/afumati/2024/30",
    "short": "HCL Afumați nr. 30/2024",
@@ -298,6 +388,96 @@
      "from": "2024-09-13",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/168717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-4-2024",
+   "path": "local/dolj/afumati/2024/4",
+   "short": "HCL Afumați nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 4/2024 privind aprobarea organizării rețelei școlare începând cu data de 01.09.2024 la nivelul Comunei Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155294",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-5-2024",
+   "path": "local/dolj/afumati/2024/5",
+   "short": "HCL Afumați nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 5/2024 privind aprobarea bugetului de venituri și cheltuieli al Comunei Afumați, pentru anul 2024",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155295",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-6-2024",
+   "path": "local/dolj/afumati/2024/6",
+   "short": "HCL Afumați nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 6/2024 privind aprobarea Documentației de avizare a lucrărilor de intervenții ( DALI ) aferentă investiției \" Reparații curente și modernizare Grădiniță Boureni \"",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155296",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-7-2024",
+   "path": "local/dolj/afumati/2024/7",
+   "short": "HCL Afumați nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 7/2024 privind aprobarea Documentației de avizare a lucrărilor de investiții ( DALI) aferentă investiției \" Reabilitare școlară structura Covei \"",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155297",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-8-2024",
+   "path": "local/dolj/afumati/2024/8",
+   "short": "HCL Afumați nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 8/2024 privind stabilirea salariilor de bază și a coeficienților ce stau la baza determinării acestora pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale \" Administrație \" ai aparatului de specialitate al primarului Comunei Afumați, județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155298",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-9-2024",
+   "path": "local/dolj/afumati/2024/9",
+   "short": "HCL Afumați nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 9/2024 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap pentru semestrul II al anului 2023",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/155299",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/155299",
      "sha256": null
     }
    ]

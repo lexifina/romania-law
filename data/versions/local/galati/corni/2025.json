@@ -3,6 +3,21 @@
  "shard": "local/galati/corni/2025",
  "acts": [
   {
+   "slug": "hcl-galati--corni-1-2025",
+   "path": "local/galati/corni/2025/1",
+   "short": "HCL Corni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 1/2025 privind acoperirea definitivă a deficitului sectiunii de dezvoltare pe anul 2024",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208921",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208921",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-100-2025",
    "path": "local/galati/corni/2025/100",
    "short": "HCL Corni nr. 100/2025",
@@ -78,6 +93,1041 @@
    ]
   },
   {
+   "slug": "hcl-galati--corni-12-2025",
+   "path": "local/galati/corni/2025/12",
+   "short": "HCL Corni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 12/2025 Privind aprobarea bugetului local al comunei Corni , Judetul Galati , pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208995",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-13-2025",
+   "path": "local/galati/corni/2025/13",
+   "short": "HCL Corni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 13/2025 privind aprobarea Programului anual al achizițiilor publice, pentru anul 2025, a Comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208996",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-14-2025",
+   "path": "local/galati/corni/2025/14",
+   "short": "HCL Corni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 14/2025 privind aprobarea Programului de Investitii Publice al comunei Corni , Județul Galați , pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208997",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-15-2025",
+   "path": "local/galati/corni/2025/15",
+   "short": "HCL Corni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 15/2025 privind aprobarea utilizării excedentului bugetului local al comunei Corni rezultat la încheierea exercitiului bugetar al anului 2024, in suma de 3.000.000 lei ca sursă de finantare a sectiunii de dezvoltare",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208998",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-16-2025",
+   "path": "local/galati/corni/2025/16",
+   "short": "HCL Corni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 16/2025 Privind: aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României şi Comuna Corni, pentru asigurarea cadrului interinstituţional necesar înrolării în aplicaţia ROelD",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208999",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-17-2025",
+   "path": "local/galati/corni/2025/17",
+   "short": "HCL Corni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 17/2025 privind aprobarea indicatorilor economici actualizați și a majorării cheltuielilor neeligibile pentru obiectivul „Achiziție dotări pentru modernizare cabinet medical, Comuna Corni, Județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209000",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-18-2025",
+   "path": "local/galati/corni/2025/18",
+   "short": "HCL Corni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 18/2025 privind aprobarea tipului de suport alimentar acordat preșcolarilor și elevilor Şcolii Gimnaziale Nr.1 Corni, în cadrul Programului naţional \"Masă sănătoasă\" , pentru anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209001",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-19-2025",
+   "path": "local/galati/corni/2025/19",
+   "short": "HCL Corni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 19/2025 privind completarea ,moderinzarea și dezvoltarea sistemului de instiințare a autorităților administrației publice și de avertizare –alarmare a populației –comuna Corni , Județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209002",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-2-2025",
+   "path": "local/galati/corni/2025/2",
+   "short": "HCL Corni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 2/2025 privind utilizarea sumei de 200.000 lei din excedentul anului precedent pentru acoperirea golurilor temporare de casă ale secțiunii de fucționare și utlizarea sumei de 100.000 lei din excedentul anilor precedenți pentru finanțarea secțiunii de dezvoltare",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208922",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-20-2025",
+   "path": "local/galati/corni/2025/20",
+   "short": "HCL Corni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 20/2025 pentru modificarea Hotărârii Consiliului Local Nr.56 din 22.11.2024 privind aprobarea Regulamentului pentru stabilirea metodologiei cadru de atribuire a terenurilor în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209003",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-21-2025",
+   "path": "local/galati/corni/2025/21",
+   "short": "HCL Corni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 21/2025 pentru revocarea Hotărârii Consiliului Local al Comunei Corni nr. 54 din 22.11.2024 Privind : acordarea unor facilităţi personalului angajat în cadrul apratului de specialitate al primarului comunei Corni",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209004",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-22-2025",
+   "path": "local/galati/corni/2025/22",
+   "short": "HCL Corni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 22/2025 Privind: aprobarea aderării comunei Corni, județul Galați , la sistemul de cooperare pentru exercitarea funcției de audit public intern ,prin intermediul entității organizatoare Filiala Județeană Galați a Asociației Comunelor din România",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209005",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-24-2025",
+   "path": "local/galati/corni/2025/24",
+   "short": "HCL Corni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 24/2025 privind: rectificarea bugetului local al comunei Corni , judeţul Galaţi, în anul 2024",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209068",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-25-2025",
+   "path": "local/galati/corni/2025/25",
+   "short": "HCL Corni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 25/2025 pentru modificarea Hotărârii Consiliului Local nr.14 din 24.03.2025 privind aprobarea Programului de Investitii Publice al comunei Corni , Județul Galați , pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209069",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-26-2025",
+   "path": "local/galati/corni/2025/26",
+   "short": "HCL Corni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 26/2025 pentru completarea Hotărârii Consiliului Local nr.13 din 24.03.2025 privind aprobarea Programului anual de achiziție publică, pentru anul 2025, a Comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209070",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-27-2025",
+   "path": "local/galati/corni/2025/27",
+   "short": "HCL Corni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 27/2025 privind: aprobarea ”Studiului de oportunitate și fundamentare pentru delegarea gestiunii activităților de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, transferul deșeurilor municipale în stații de transfer, inclusiv transportul separat al deșeurilor reziduale la depozitul de deșeuri nepericuloase sau la instalația de tratare mecanico-biologică, al deșeurilor de hârtie, metal, plastic și sticlă colectate separat la stația de sortare și al biodeșeurilor la instalația de tratare mecanico-biologică, respectiv tratarea aerobă a biodeșeurilor colectate separat în instalațiile de compostare, inclusiv transportul reziduurilor la stațiile de transfer în județul Galați”, delegării gestiunii serviciului de salubrizare pentru activitățile de colectare, transport și compostare, aferente proiectului „Sistem de Management Integrat al Deșeurilor în Județul Galați”, documentației de atribuire precum și acordarea unui mandat special pentru reprezentantul UAT CORNI în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209071",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-28-2025",
+   "path": "local/galati/corni/2025/28",
+   "short": "HCL Corni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 28/2025 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav, pentru anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209072",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-29-2025",
+   "path": "local/galati/corni/2025/29",
+   "short": "HCL Corni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 29/2025 pentru modificarea și completarea Hotărârii Consiliului Local al comunei Corni nr.37 din 27.07.2024 privind reorganizarea aparatului de specialitate al primarului comunei Corni, precum și aprobarea organigramei și a statului de funcții pentru organizarea executării în concret a prevederilor Legii nr. 296/2023",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209073",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-3-2025",
+   "path": "local/galati/corni/2025/3",
+   "short": "HCL Corni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 3/2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208947",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-30-2025",
+   "path": "local/galati/corni/2025/30",
+   "short": "HCL Corni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 30/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”. cod SMIS 339395",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209074",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-31-2025",
+   "path": "local/galati/corni/2025/31",
+   "short": "HCL Corni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 31/2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/209075",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/209075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-32-2025",
+   "path": "local/galati/corni/2025/32",
+   "short": "HCL Corni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 32/2025 privind .rectificarea bugetului local al comunei Corni , judeţul Galaţi, în anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245944",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-33-2025",
+   "path": "local/galati/corni/2025/33",
+   "short": "HCL Corni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 33/2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245945",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-34-2025",
+   "path": "local/galati/corni/2025/34",
+   "short": "HCL Corni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 34/2025 privind : aprobarea achiziției de servicii pentru activității de colectare separată și transport separat a deșeurilor menajere și al deșeurilor similare provenind din activități comerciale, din industrie și instituții, inclusiv fracții colectate separat la nivelul unitatii administrativ- teritoriale Corni , Județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245946",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-35-2025",
+   "path": "local/galati/corni/2025/35",
+   "short": "HCL Corni nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 35/2025 privind aprobarea Regulamentului și decontarea cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245947",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-36-2025",
+   "path": "local/galati/corni/2025/36",
+   "short": "HCL Corni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 36/2025 privind atestarea apartenenței la domeniul public al comunei Corni, Județul Galați , a unor bunuri imobile-terenuri",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245948",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-4-2025",
+   "path": "local/galati/corni/2025/4",
+   "short": "HCL Corni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 4/2025 privind aprobarea organizării reţelei şcolare de pe raza administrativ-teritorială a comunei Corni ,județul Galați , pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208948",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-41-2025",
+   "path": "local/galati/corni/2025/41",
+   "short": "HCL Corni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 41/2025 privind însușirea variantei finale a proiectului de stemă a comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245953",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-42-2025",
+   "path": "local/galati/corni/2025/42",
+   "short": "HCL Corni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 42/2025 privind aderarea comunei Corni la Asociația Comunelor din România",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245954",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-43-2025",
+   "path": "local/galati/corni/2025/43",
+   "short": "HCL Corni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 43/2025 privind aprobarea contului de executie a bugetului local si a bugetului activitatilor finantate integral din venituri proprii, a comunei Corni judetul Galati, pe anul 2024",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245955",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-45-2025",
+   "path": "local/galati/corni/2025/45",
+   "short": "HCL Corni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 45/2025 pentru îndreptarea unei erori materiale înscrise în anexa 1 la Hotărârea Consiliului Local nr. 9 din 28.02.2025 privind atribuirea de denumiri de străzi în satele Corni, Măcișeni și Urlești, sate componente comunei Corni, judetul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245957",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-46-2025",
+   "path": "local/galati/corni/2025/46",
+   "short": "HCL Corni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 46/2025 privind îndreptarea unei erori materiale înscrise în anexa 2 la Hotărârea Consiliului Local al comunei Corni nr. 29 din 14.04.2025 pentru modificarea și completarea Hotărârii Consiliului Local al comunei Corni nr. 37 din 27.07.2024 privind reorganizarea aparatului de specialitate al primarului comunei Corni, precum și aprobarea organigramei și a statului de funcții pentru organizarea executării în concret a prevederilor Legii nr. 296/2023",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245958",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-47-2025",
+   "path": "local/galati/corni/2025/47",
+   "short": "HCL Corni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 47/2025 privind rectificarea bugetului local al comunei Corni, judeţul Galaţi, în anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245959",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-48-2025",
+   "path": "local/galati/corni/2025/48",
+   "short": "HCL Corni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 48/2025 pentru modificarea și completarea HCL nr. 14 din 24.03.2025 privind aprobarea Programului de Investitii Publice al comunei Corni, Județul Galați, pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245960",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-49-2025",
+   "path": "local/galati/corni/2025/49",
+   "short": "HCL Corni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 49/2025 privind modificarea si completrea Hotărârii Consiliului Local al Comunei Corni nr. 13 din 24.03.2025 privind aprobarea Programului anual al achizițiilor publice, pentru anul 2025, a Comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245961",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-5-2025",
+   "path": "local/galati/corni/2025/5",
+   "short": "HCL Corni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 5/2025 privind modificarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare drumuri de interes local în comuna Corni, județul Galați”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208949",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-50-2025",
+   "path": "local/galati/corni/2025/50",
+   "short": "HCL Corni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 50/2025 privind aprobarea cotizației anuale a Unității Administrativ-Teritoriale Comuna Corni, Județul Galați, la Asociația de Dezvoltare Intercomunitară ”SERVICIUL REGIONAL APĂ GALAȚI”, pentru anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245962",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-51-2025",
+   "path": "local/galati/corni/2025/51",
+   "short": "HCL Corni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 51/2025 privind emiterea acordului pentru includerea în Programul național de investiții \"Școli sigure și sănătoase\" a obiectului de investiții „Modernizare corp C1 - școală și grădiniță în sat Corni, județul Galați”, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245963",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-52-2025",
+   "path": "local/galati/corni/2025/52",
+   "short": "HCL Corni nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 52/2025 privind îndreptarea unei erori materiale înscrise în anexa 1 la Hotărârea Consiliului Local nr. 9 din 28.02.2025 privind atribuirea de denumiri de străzi în satele Corni , Măcișeni și Urlești, sate componente comunei Corni, judetul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245964",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-53-2025",
+   "path": "local/galati/corni/2025/53",
+   "short": "HCL Corni nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 53/2025 privind aprobarea Regulamentului Serviciului Județean de Salubrizare Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245965",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-54-2025",
+   "path": "local/galati/corni/2025/54",
+   "short": "HCL Corni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 54/2025 pentru modificarea si completarea hotărârii consiliului local al comunei Corni nr. 37 din 31.08.2022 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Local al Comunei Corni, Judeţul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/245966",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/245966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-55-2025",
+   "path": "local/galati/corni/2025/55",
+   "short": "HCL Corni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 55/2025 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Modernizare corp C1 - școală și grădiniță în sat Corni, județul Galați”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246700",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-56-2025",
+   "path": "local/galati/corni/2025/56",
+   "short": "HCL Corni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 56/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Reabilitare teren de sport după inundații, sat Măcișeni, comuna Corni, județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246701",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-57-2025",
+   "path": "local/galati/corni/2025/57",
+   "short": "HCL Corni nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 57/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Reabilitare loc de joacă după inundații, sat Măcișeni, comuna Corni, județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246702",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-58-2025",
+   "path": "local/galati/corni/2025/58",
+   "short": "HCL Corni nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 58/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ”Reabilitare loc de joacă după inundații, sat Măcișeni ,comuna Corni, județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246703",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-59-2025",
+   "path": "local/galati/corni/2025/59",
+   "short": "HCL Corni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 59/2025 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente precum și pentru alte situații deosebite",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246704",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-6-2025",
+   "path": "local/galati/corni/2025/6",
+   "short": "HCL Corni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 6/2025 Privind aprobarea Planului anual de evuoluție a tarifelor la apă și canalizare în perioada 2023-2027",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208950",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-60-2025",
+   "path": "local/galati/corni/2025/60",
+   "short": "HCL Corni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 60/2025 privind însușirea Raportului de evaluare ”proprietăți imobiliare și bunuri mobile” - loc de joacă Corni” situat în comuna Corni, sat Corni, județul Galați, ca urmare a inundațiilor din perioada 13-15 septembrie 2024 cauzate de precipitații de peste 200 l/mp",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246705",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-61-2025",
+   "path": "local/galati/corni/2025/61",
+   "short": "HCL Corni nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 61/2025 privind însușirea Raportului de evaluare ''proprietăți imobiliare și bunuri mobile - Loc de joacă Măcșineni''",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246706",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-62-2025",
+   "path": "local/galati/corni/2025/62",
+   "short": "HCL Corni nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 62/2025 privind însușirea Raportului de evaluare ”proprietăți imobiliare și bunuri mobile –”teren sport Măcișeni” situat în comuna Corni, sat Măcișeni, județul Galați, ca urmare a inundațiilor din perioada 13-15 septembrie 2024 cauzate de precipitații de peste 200 l/mp",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246707",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-63-2025",
+   "path": "local/galati/corni/2025/63",
+   "short": "HCL Corni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 63/2025 privind rectificarea bugetului local al comunei Corni, judeţul Galaţi, în anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246708",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-64-2025",
+   "path": "local/galati/corni/2025/64",
+   "short": "HCL Corni nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 64/2025 pentru modificarea și completarea HCL nr. 14 din 24.03.2025 privind aprobarea Programului de Investitii Publice al comunei Corni, Județul Galați, pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246709",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-65-2025",
+   "path": "local/galati/corni/2025/65",
+   "short": "HCL Corni nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 65/2025 privind modificarea si completrea Hotărârii Consiliului Local al Comunei Corni nr. 13 din 24.03.2025 privind aprobarea Programului anual al achizițiilor publice, pentru anul 2025, a Comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246710",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-67-2025",
+   "path": "local/galati/corni/2025/67",
+   "short": "HCL Corni nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 67/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare drumuri de interes local în comuna Corni, județul Galați”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246712",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-68-2025",
+   "path": "local/galati/corni/2025/68",
+   "short": "HCL Corni nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 68/2025 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiții „Modernizare corp C1 - școală și grădiniță în sat Corni, județul Galați”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246713",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-69-2025",
+   "path": "local/galati/corni/2025/69",
+   "short": "HCL Corni nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 69/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”Reabilitare teren de sport după inundații, sat Măcișeni, comuna Corni, județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246714",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-70-2025",
+   "path": "local/galati/corni/2025/70",
+   "short": "HCL Corni nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 70/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții indicatorilor tehnico-economici pentru obiectivul de investiții ”Reabilitare loc de joacă după inundații, sat Măcișeni, comuna Corni, județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246715",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-71-2025",
+   "path": "local/galati/corni/2025/71",
+   "short": "HCL Corni nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 71/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții” Reabilitare loc de joacă după inundații, sat Corni, comuna Corni, județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246716",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-73-2025",
+   "path": "local/galati/corni/2025/73",
+   "short": "HCL Corni nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 73/2025 privind aprobarea tipului de suport alimentar acordat preșcolarilor și elevilor Şcolii Gimnaziale Nr.1 sat Măcișeni, comuna Corni, județul Galați, în cadrul Programului naţional \"Masă sănătoasă\", pentru anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246718",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-74-2025",
+   "path": "local/galati/corni/2025/74",
+   "short": "HCL Corni nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 74/2025 privind aprobarea cotizației anuale a Unității Administrativ -Teritoriale Comuna Corni, Județul Galați, la Asociația de Dezvoltare Intercomunitară ”ECOSERV”, pentru anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246719",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-75-2025",
+   "path": "local/galati/corni/2025/75",
+   "short": "HCL Corni nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 75/2025 pentru modificarea și completarea Hotărârii Consiliului Local nr. 62 din 23.12.2024 privind stabilirea impozitelor și taxelor locale, a taxelor speciale, precum și a altor taxe, pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246720",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-77-2025",
+   "path": "local/galati/corni/2025/77",
+   "short": "HCL Corni nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 77/2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246722",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-78-2025",
+   "path": "local/galati/corni/2025/78",
+   "short": "HCL Corni nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 78/2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ” Întreținere drumuri comunale după inundațiile din septembrie 2024, în sat Corni și sat Măcișeni, comuna Corni, județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246723",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-79-2025",
+   "path": "local/galati/corni/2025/79",
+   "short": "HCL Corni nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 79/2025 privind rectificarea bugetului local al comunei Corni, judeţul Galaţi, în anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246724",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-80-2025",
+   "path": "local/galati/corni/2025/80",
+   "short": "HCL Corni nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 80/2025 pentru modificarea și completarea HCL nr. 14 din 24.03.2025 privind aprobarea Programului de Investitii Publice al comunei Corni, Județul Galați, pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246725",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-81-2025",
+   "path": "local/galati/corni/2025/81",
+   "short": "HCL Corni nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 81/2025 privind modificarea si completarea Hotărârii Consiliului Local al Comunei Corni nr. 13 din 24.03.2025 privind aprobarea Programului anual al achizițiilor publice, pentru anul 2025, a Comunei Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246726",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-82-2025",
+   "path": "local/galati/corni/2025/82",
+   "short": "HCL Corni nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 82/2025 privind actualizarea Regulamentului de organizare şi funcţionare al Consiliului Local al Comunei Corni, Judeţul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246727",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-83-2025",
+   "path": "local/galati/corni/2025/83",
+   "short": "HCL Corni nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 83/2025 privind stabilirea unor suprafețe de teren in vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții si demolări de pe raza comunei Corni",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246728",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-84-2025",
+   "path": "local/galati/corni/2025/84",
+   "short": "HCL Corni nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 84/2025 privind aprobarea „Planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme a deșeurilor pe raza comunei Corni, județul Galați”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/246729",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/246729",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-85-2025",
    "path": "local/galati/corni/2025/85",
    "short": "HCL Corni nr. 85/2025",
@@ -148,6 +1198,21 @@
      "from": "2026-01-14",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/246734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-9-2025",
+   "path": "local/galati/corni/2025/9",
+   "short": "HCL Corni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 9/2025 privind atribuirea de denumiri de străzi în satele Corni , Măcișeni și Urlești ,sate componente comunei Corni , județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/208956",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/208956",
      "sha256": null
     }
    ]

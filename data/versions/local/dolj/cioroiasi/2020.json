@@ -3,6 +3,81 @@
  "shard": "local/dolj/cioroiasi/2020",
  "acts": [
   {
+   "slug": "hcl-dolj--cioroiasi-1-2020",
+   "path": "local/dolj/cioroiasi/2020/1",
+   "short": "HCL Cioroiași nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 1/2020 privind aprobare deficit si utilizare excedent",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1977",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-11-2020",
+   "path": "local/dolj/cioroiasi/2020/11",
+   "short": "HCL Cioroiași nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 11/2020 privind scutirea de la plata taxelor şi impozitelor locale a bunurilor mobile şi imobile a persoanelor care fac parte din SVSU Cioroiaşi",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1987",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-12-2020",
+   "path": "local/dolj/cioroiasi/2020/12",
+   "short": "HCL Cioroiași nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 12/2020 privind aprobarea aprobarea bugetului local si bugetul de veniturii proprii pe anul 2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1988",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-13-2020",
+   "path": "local/dolj/cioroiasi/2020/13",
+   "short": "HCL Cioroiași nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 13/2020 privind aprobarea aprobarea executiei bugetelor de venituri si cheltuieli pe trimestrul IV an 2019",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1989",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-15-2020",
+   "path": "local/dolj/cioroiasi/2020/15",
+   "short": "HCL Cioroiași nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 15/2020 privind infiintarea Serviciului Voluntar pentru Situatii de Urgenta",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1991",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1991",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-17-2020",
    "path": "local/dolj/cioroiasi/2020/17",
    "short": "HCL Cioroiași nr. 17/2020",
@@ -43,6 +118,21 @@
      "from": "2020-05-29",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/20086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-2-2020",
+   "path": "local/dolj/cioroiasi/2020/2",
+   "short": "HCL Cioroiași nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 2/2020 privind aprobarea utilizarii sumei 1.262.552.35 lei pentru ,,Alimentare cu apa si canalizare sat Cioroiu-Nou,comuna Cioroiasi , judet Dolj,, primite de la MDRAP",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1978",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1978",
      "sha256": null
     }
    ]
@@ -198,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-3-2020",
+   "path": "local/dolj/cioroiasi/2020/3",
+   "short": "HCL Cioroiași nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 3/2020 privind declararea Buldoexcavatorului Cukurova 888ca bun de utilitate publica de interes local al UAT comuna Cioroiasi , judet Dolj si reactualizarea Inventarul bunurilor care apartin domeniului public al comunei Cioroiasi, judetul Dolj",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1979",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1979",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-30-2020",
    "path": "local/dolj/cioroiasi/2020/30",
    "short": "HCL Cioroiași nr. 30/2020",
@@ -298,6 +403,96 @@
      "from": "2020-12-15",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-4-2020",
+   "path": "local/dolj/cioroiasi/2020/4",
+   "short": "HCL Cioroiași nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 4/2020 privind aprobarea denumirii unitatii de invatamant si a retelei scolare pentru anul scolar 2020-2021 de la nivelul comunei Cioroiasi",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1980",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-5-2020",
+   "path": "local/dolj/cioroiasi/2020/5",
+   "short": "HCL Cioroiași nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 5/2020 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor –cadru pentru achizitia produselor de panificatie , laptelui si produselor lactate si fructelor sau legumelor aferente programului si a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea masurilor eduvative la nivel local pentru anii 2021 si 2021-2022",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1981",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-6-2020",
+   "path": "local/dolj/cioroiasi/2020/6",
+   "short": "HCL Cioroiași nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 6/2020 privind aprobarea organigramei si statului de functii pentru aparatul de specialitate al primarului si activitatile subordonate Consiliului local al comunei Cioroiasi in anul 2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1982",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-7-2020",
+   "path": "local/dolj/cioroiasi/2020/7",
+   "short": "HCL Cioroiași nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 7/2020 privind aprobarea Planului de ocupare a functiilor publice pentru anul 2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1983",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-8-2020",
+   "path": "local/dolj/cioroiasi/2020/8",
+   "short": "HCL Cioroiași nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 8/2020 privind stabilirea salariilor de baza pentru functiile publice si contractuale din cadrul aparatului de specialitate al primarului , aparatul permanent de lucru al consiliului local si serviciilor publice din subordinea primarului comunei Cioroiasi",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1984",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-9-2020",
+   "path": "local/dolj/cioroiasi/2020/9",
+   "short": "HCL Cioroiași nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 9/2020 privind aprobarea planului de acţiunii pentru beneficiarii Legii nr. 416/2001,Lista bunurilor ce conduc la excluderea acordării ajutorului social și criterii privind limitele minime și maxime ale veniturilor potențiale provenite din valorificarea bunurilor",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1985",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1985",
      "sha256": null
     }
    ]

@@ -301,6 +301,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-8-2022",
+   "path": "local/dolj/cioroiasi/2022/8",
+   "short": "HCL Cioroiași nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 8/2022 privind menținerea unor facilități fiscale aplicabile obligațiilor bugetare restante datorate bugetului local al UAT Cioroiași și a Procedurii de anulare a obligațiilor de plată accesorii",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/55622",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55622",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

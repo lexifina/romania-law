@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/cuca/2024",
+ "acts": [
+  {
+   "slug": "hcl-galati--cuca-11-2024",
+   "path": "local/galati/cuca/2024/11",
+   "short": "HCL Cuca nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 11/2024",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2024/12/HCL-Regulament.pdf",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2024/12/HCL-Regulament.pdf",
+     "sha256": "c3d71d69dd38bc69bad1ac17f5449550b073032a9565bb50da9fc9cb5fa290c3"
+    }
+   ]
+  }
+ ]
+}

@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-pandele-21-2026",
+   "path": "local/dambovita/vulcana-pandele/2026/21",
+   "short": "HCL Vulcana-Pandele nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 21/2026 privind organizarea activităţii de apărare împotriva incendiilor la nivelul comunei Vulcana-Pandele judetul Dambovita",
+   "url": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#119042",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://vulcanapandele.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24ZTIKXJJOIxgGPBrhGTD.U.MXkr6kQ.vr.PRp0xiT/RC/wFCacxtuq/2954",
+     "sha256": "b5f6016c56ccd73d6692a80c2251c1ed6029503095e327458bd2ee38e17d549d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-pandele-22-2026",
    "path": "local/dambovita/vulcana-pandele/2026/22",
    "short": "HCL Vulcana-Pandele nr. 22/2026",
@@ -179,6 +194,21 @@
      "units": 1,
      "source_url": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#121402",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-pandele-25-2026",
+   "path": "local/dambovita/vulcana-pandele/2026/25",
+   "short": "HCL Vulcana-Pandele nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 25/2026 privind aprobarea bugetului local pe anul 2026",
+   "url": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#121218",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://vulcanapandele.regista.ro/counter/download_approved_council_decision_files/%242y%2410%244bHzyU4luclllLlADP1AWeRZJzKNjktaSM45P4qOhdK176gFJqGSS/2954",
+     "sha256": "a02bf542a45e9123f7a05e229662d4cf8d9b1e40fecc39a860afa29906d02542"
     }
    ]
   },
@@ -449,6 +479,21 @@
      "units": 1,
      "source_url": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#127865",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-pandele-48-2026",
+   "path": "local/dambovita/vulcana-pandele/2026/48",
+   "short": "HCL Vulcana-Pandele nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 48/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#128908",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://vulcanapandele.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24aQw8E4a99n2VJLqE9dh2YuNcXqr7whN6g3JEJPhl/3ao8GhqIEBqu/2954",
+     "sha256": "6957ee4a856a4ec031e68603699fdde4b49c30030ac8ce458fbe501b4c64bd1f"
     }
    ]
   },

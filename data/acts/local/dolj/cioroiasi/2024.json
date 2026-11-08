@@ -3,6 +3,116 @@
 "shard": "local/dolj/cioroiasi/2024",
 "acts": [
 {
+"slug": "hcl-dolj--cioroiasi-2-2024",
+"path": "local/dolj/cioroiasi/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 2/2024 privind aprobare a rețelei școlare pentru anul școlar 2024-2025 de la nivelul comunei Cioroiași",
+"short": "HCL Cioroiași nr. 2/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144519",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-3-2024",
+"path": "local/dolj/cioroiasi/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 3/2024 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor de panificație, laptelui și produselor lactate și fructelor sau legumelor, precum și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României pentru anii școlari 2024-2025, 2025-2026 și 2026-2027 pentru unitățile de învățământ din comuna Cioroiași",
+"short": "HCL Cioroiași nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144520",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-5-2024",
+"path": "local/dolj/cioroiasi/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 5/2024 privind aprobarea Planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă efectuate de beneficiarii de venit minim de incluziunea în anul 2024 și Lista bunurilor ce conduc la excluderea acordării venitului minim de incluziune",
+"short": "HCL Cioroiași nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144522",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-9-2024",
+"path": "local/dolj/cioroiasi/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 9/2024 privind aprobarea bugetului local al comunei Cioroiași pe anul 2024 și estimări pe anii 2025-2027",
+"short": "HCL Cioroiași nr. 9/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144526",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-10-2024",
+"path": "local/dolj/cioroiasi/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 10/2024 privind aprobarea modificării organigramei și a statului de funcții al aparatului de specialitate al primarului Comunei Cioroiași, județul Dolj",
+"short": "HCL Cioroiași nr. 10/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/155436",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-dolj--cioroiasi-23-2024",
 "path": "local/dolj/cioroiasi/2024/23",
 "kind": "local",

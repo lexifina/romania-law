@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-pandele-21-2022",
+   "path": "local/dambovita/vulcana-pandele/2022/21",
+   "short": "HCL Vulcana-Pandele nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 21/2022 privind indexarea, ţinând cont de rata inflaţiei, a taxelor şi impozitelor locale în comuna Vulcana-Pandele pentru anul 2023",
+   "url": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#16960",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://vulcanapandele.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24cRJookPwHAmmJ.KqiB/TIuDzQQR2XsguYgevEpgIg7Ufw1BTUgBuG/2954",
+     "sha256": "de099e359d8492b3ae81b49144b6a1a79a173b1af9907453e86fa44b06d39a43"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-pandele-22-2022",
    "path": "local/dambovita/vulcana-pandele/2022/22",
    "short": "HCL Vulcana-Pandele nr. 22/2022",

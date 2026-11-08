@@ -3,6 +3,156 @@
  "shard": "local/galati/corni/2026",
  "acts": [
   {
+   "slug": "hcl-galati--corni-1-2026",
+   "path": "local/galati/corni/2026/1",
+   "short": "HCL Corni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 1/2026 privind acoperirea definitivă a deficitului secțiunii de dezvoltare pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/255079",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/255079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-11-2026",
+   "path": "local/galati/corni/2026/11",
+   "short": "HCL Corni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 11/2026 privind aprobarea contului de executie a bugetului local si a bugetului activitatilor finantate integral din venituri proprii, a comunei Corni, judetul Galati, pe anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/277734",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/277734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-13-2026",
+   "path": "local/galati/corni/2026/13",
+   "short": "HCL Corni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 13/2026 privind aprobarea bugetului local al comunei Corni, Judetul Galati, pe anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/277736",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/277736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-14-2026",
+   "path": "local/galati/corni/2026/14",
+   "short": "HCL Corni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 14/2026 privind aprobarea Programului de Investitii Publice al comunei Corni, Județul Galați, pe anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/277737",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/277737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-17-2026",
+   "path": "local/galati/corni/2026/17",
+   "short": "HCL Corni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 17/2026 privind aprobarea utilizării excedentului bugetului local al comunei Corni rezultat la încheierea exercitiului bugetar al anului 2025, in suma de 3.200.000 lei ca sursă de finantare a sectiunii de dezvoltare",
+   "url": "https://emol.ro/corni-gl/registru-hcl/277740",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/277740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-18-2026",
+   "path": "local/galati/corni/2026/18",
+   "short": "HCL Corni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 18/2026 privind aprobarea achiziției de servicii pentru activității de colectare separată și transport separat a deșeurilor menajere și al deșeurilor similare provenind din activități comerciale, din industrie și instituții, inclusiv fracții colectate separat la nivelul unitatii administrativ- teritoriale Corni, Județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/281654",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/281654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-19-2026",
+   "path": "local/galati/corni/2026/19",
+   "short": "HCL Corni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 19/2026 privind aprobarea Documentului de poziție privind modul de implementare a proiectului ’’Sistem de management integrat al deșeurilor în județul Galaţi”",
+   "url": "https://emol.ro/corni-gl/registru-hcl/281655",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/281655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-2-2026",
+   "path": "local/galati/corni/2026/2",
+   "short": "HCL Corni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 2/2026 privind utilizarea sumei de 200.000 lei din excedentul anului precedent pentru acoperirea golurilor temporare de casă ale secțiunii de funcționare si utilizarea sumei de 600.000 lei din excedentul anilor precedenți pentru finanțarea secțiunii de dezvoltare",
+   "url": "https://emol.ro/corni-gl/registru-hcl/255080",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/255080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-20-2026",
+   "path": "local/galati/corni/2026/20",
+   "short": "HCL Corni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 20/2026 privind aprobarea Studiului de fundamentare și oportunitate, delegarea gestiunii serviciului de salubrizare pentru activitățile de transfer și tratare mecano - biologică cu digestie anaerobă, documentației de atribuire pentru contractul Proiectare – execuție-operare „Stație de tratare mecano-biologică cu digestie anaerobă și recuperare de energie și stație de transfer Galați”, precum și acordarea unui mandat special pentru reprezentantul UAT Comuna Corni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/281656",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/281656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-22-2026",
+   "path": "local/galati/corni/2026/22",
+   "short": "HCL Corni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 22/2026 privind rectificarea bugetului local al comunei Corni, judeţul Galaţi, în anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/281673",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/281673",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--corni-24-2026",
    "path": "local/galati/corni/2026/24",
    "short": "HCL Corni nr. 24/2026",
@@ -88,6 +238,21 @@
      "from": "2026-08-03",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/281740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-3-2026",
+   "path": "local/galati/corni/2026/3",
+   "short": "HCL Corni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 3/2026 privind aprobarea tipului de suport alimentar acordat preșcolarilor și elevilor Şcolii Gimnaziale Nr.1 sat Măcișeni, comuna Corni, în cadrul Programului naţional \"Masă sănătoasă\", pentru anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/255186",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/255186",
      "sha256": null
     }
    ]
@@ -298,6 +463,21 @@
      "from": "2026-09-30",
      "units": 1,
      "source_url": "https://emol.ro/corni-gl/registru-hcl/290752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-8-2026",
+   "path": "local/galati/corni/2026/8",
+   "short": "HCL Corni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 8/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 100 din 15.12.2025 privind aprobarea devizului pentru achiziționarea și înlocuirea unor camere de supraveghere cuprinse în sistemul de supraveghere din satul Corni și satul Măcișeni, comuna Corni, judeţul Galaţi, în anul 2025",
+   "url": "https://emol.ro/corni-gl/registru-hcl/264497",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/264497",
      "sha256": null
     }
    ]

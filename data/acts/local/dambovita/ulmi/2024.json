@@ -159,6 +159,29 @@
 }
 },
 {
+"slug": "hcl-dambovita--ulmi-70-2024",
+"path": "local/dambovita/ulmi/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 70/2024",
+"short": "HCL Ulmi nr. 70/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-25",
+"latest": "2024-06-25",
+"portal": null,
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--ulmi-73-2024",
 "path": "local/dambovita/ulmi/2024/73",
 "kind": "local",

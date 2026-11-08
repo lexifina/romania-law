@@ -3,6 +3,36 @@
  "shard": "local/galati/brahasesti/2025",
  "acts": [
   {
+   "slug": "hcl-galati--brahasesti-1-2025",
+   "path": "local/galati/brahasesti/2025/1",
+   "short": "HCL Brăhășești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 1/2025 privind acoperirea deficitului sectiunii de dezvoltare în suma de 4.071.327,92 lei din contul de excedent al bugetului local",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195811",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-10-2025",
+   "path": "local/galati/brahasesti/2025/10",
+   "short": "HCL Brăhășești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 10/2025 privind darea în folosință gratuită, în vederea desfășurării activității, a unui spațiu în suprafață de 54,64 mp , CF 101989-C1-U4 , către serviciul social ,Unități de îngrijire la domiciliu-COD 8810ID-1, destinat persoanelor vârstnice aflate în risc de marginalizare socială de pe raza UAT Comuna Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195822",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195822",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--brahasesti-100-2025",
    "path": "local/galati/brahasesti/2025/100",
    "short": "HCL Brăhășești nr. 100/2025",
@@ -93,6 +123,1086 @@
    ]
   },
   {
+   "slug": "hcl-galati--brahasesti-11-2025",
+   "path": "local/galati/brahasesti/2025/11",
+   "short": "HCL Brăhășești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 11/2025 privind aprobarea Raportului de activitate al administratorului, Raportului Controlului financiar de gestiune și a Controlului intern managerial la data de 31.12.2024,pentru societatea S.C.Ecoprest Braha 2015 S.R.L",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/196831",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/196831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-12-2025",
+   "path": "local/galati/brahasesti/2025/12",
+   "short": "HCL Brăhășești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 12/2025 privind aprobarea Strategiei de Dezvoltare Locală a Comunei Brăhășești pentru perioada 2023-2027",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/196832",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/196832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-13-2025",
+   "path": "local/galati/brahasesti/2025/13",
+   "short": "HCL Brăhășești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 13/2025 privind menținerea cuantumului brut al salariului de bază pentru funcționarii publici și personalul contractual din cadrul UAT Comuna Brăhășești , pentru anul 2025 , la nivelul lunii noiembrie 2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/196833",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/196833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-14-2025",
+   "path": "local/galati/brahasesti/2025/14",
+   "short": "HCL Brăhășești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 14/2025 privind aprobarea dezmembrării unui imobil, teren extravilan ,categoria de folosință pășune , situat în T 32 , P 239 , comuna Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/196834",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/196834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-15-2025",
+   "path": "local/galati/brahasesti/2025/15",
+   "short": "HCL Brăhășești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 15/2025 privind privind aprobarea unor măsuri privind procedura de selecție pentru desemnarea membrilor Consiliului de Administrație al societății S.C Ecoprest Braha 2015 S.R.L, pentru perioada 2025-2029",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/196835",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/196835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-16-2025",
+   "path": "local/galati/brahasesti/2025/16",
+   "short": "HCL Brăhășești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 16/2025 privind aprobarea trecerii unui imobil , teren extravilan ,categoria de folosință pășune , situat în T 32, P 239 , în suprafață de 78000 mp, din domeniul privat al UAT Comuna Brăhășești , județul Galați în domeniul public al UAT Comuna Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/199044",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/199044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-17-2025",
+   "path": "local/galati/brahasesti/2025/17",
+   "short": "HCL Brăhășești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 17/2025 privind aprobarea trecerii unui imobil , teren extravilan ,categoria de folosință pășune , situat în T 32, P 239 , în suprafață de 78000 mp, din domeniul public al comunei Brăhășești și administrarea Consiliului Local al comunei Brăhășești în domeniul public al Județului Galați și administrarea Consiliului Județean Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/199045",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/199045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-18-2025",
+   "path": "local/galati/brahasesti/2025/18",
+   "short": "HCL Brăhășești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 18/2025 privind necesitatea aprobarii solicitarii prelungirii scrisorii de garantie din partea Fondului de Garantare a Creditului Rural - IFN SA pentru proiectul finantat prin masura 7.2 al comunei Brahasesti “AMENAJARE PARC SAT BRAHASESTI, COMUNA BRAHASESTI, JUDETUL GALATI”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/199046",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/199046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-19-2025",
+   "path": "local/galati/brahasesti/2025/19",
+   "short": "HCL Brăhășești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 19/2025 privind aprobarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati , pe anul 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/202134",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/202134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-2-2025",
+   "path": "local/galati/brahasesti/2025/2",
+   "short": "HCL Brăhășești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 2/2025 privind utilizarea sumei de 1.200.000 lei din excedentul bugetar al anului 2024 pentru acoperirea golurilor de casa ale sectiunii de functionare si sectiunii de dezvoltare în anul 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195812",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-20-2025",
+   "path": "local/galati/brahasesti/2025/20",
+   "short": "HCL Brăhășești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 20/2025 privind aprobarea Programului anual al achizitiilor publice al comunei Brahasesti , judetul Galati , pe anul 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/202135",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/202135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-21-2025",
+   "path": "local/galati/brahasesti/2025/21",
+   "short": "HCL Brăhășești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 21/2025 privind aprobarea bugetului de venituri si cheltuieli al societatii S.C ECOPREST BRAHA 2015 SRL , judetul Galati , pe anul 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/202136",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/202136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-22-2025",
+   "path": "local/galati/brahasesti/2025/22",
+   "short": "HCL Brăhășești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 22/2025 privind modificarea Anexei nr.1 la HCL nr.93/17.12.2024 privind aprobarea impozitelor și taxelor locale la nivelul UAT Comuna Brăhășești pentru anul 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/202137",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/202137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-24-2025",
+   "path": "local/galati/brahasesti/2025/24",
+   "short": "HCL Brăhășești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 24/2025 privind necesitatea aprobarii solicitarii prelungirii scrisorii de garantie din partea Fondului de Garantare a Creditului Rural - IFN SA pentru proiectul finantat prin masura 7.2 al comunei Brahasesti, \" Înfiintare sistem de canalizare a apelor uzate în localitatea Brahasesti, comuna Brahasesti, judetul Galati\"",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/202139",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/202139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-26-2025",
+   "path": "local/galati/brahasesti/2025/26",
+   "short": "HCL Brăhășești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 26/2025 privind actualizarea echipei mobile pentru intervenția de urgență în cazurile de violență domestică la nivelul UAT Comuna Brăhășești , Județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/202141",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/202141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-27-2025",
+   "path": "local/galati/brahasesti/2025/27",
+   "short": "HCL Brăhășești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 27/2025 privind aprobarea modificării prețului la apa potabilă transportată și distribuită , ca urmare a trecerii Serviciului de Alimentare cu apă Brăhășești , județul Galați , la plătitor de TVA în cotă de 9% , începând cu data de 01.04.2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/202142",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/202142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-29-2025",
+   "path": "local/galati/brahasesti/2025/29",
+   "short": "HCL Brăhășești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 29/2025 privind aprobarea aderării UAT Comuna Brăhășești , județul Galați,la sistemul de cooperare pentru exercitarea funcției de audit public intern , prin intermediul entității organizatoare Filiala Județeană Galați a Asociației Comunelor din România",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/202144",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/202144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-3-2025",
+   "path": "local/galati/brahasesti/2025/3",
+   "short": "HCL Brăhășești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 3/2025 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Brăhășești , județul Galați , pe perioada mandatului 2024-2028",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195815",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-30-2025",
+   "path": "local/galati/brahasesti/2025/30",
+   "short": "HCL Brăhășești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 30/2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul I al anului 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/206856",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/206856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-31-2025",
+   "path": "local/galati/brahasesti/2025/31",
+   "short": "HCL Brăhășești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 31/2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul II al anului 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/207856",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/207856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-32-2025",
+   "path": "local/galati/brahasesti/2025/32",
+   "short": "HCL Brăhășești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 32/2025 privind aprobarea cotei corespunzătoare pierderilor justificate de starea tehnică a sistemelor de alimentare cu apă , conform Balanței Apei , întocmită de Serviciul de Alimentare cu Apă Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/207857",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/207857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-33-2025",
+   "path": "local/galati/brahasesti/2025/33",
+   "short": "HCL Brăhășești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 33/2025 privind aprobarea redevenței la nivelul de 2.826,37 lei/an pentru Serviciul de Alimentare cu Apă Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/207858",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/207858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-34-2025",
+   "path": "local/galati/brahasesti/2025/34",
+   "short": "HCL Brăhășești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 34/2025 privind aprobarea Studiului de oportunitate și fundamentare pentru delegarea gestiunii activităților de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, transferul deșeurilor municipale în stații de transfer, inclusiv transportul separat al deșeurilor reziduale la depozitul de deșeuri nepericuloase sau la instalația de tratare mecanico-biologică, al deșeurilor de hârtie, metal, plastic și sticlă colectate separat la stația de sortare și al biodeșeurilor la instalația de tratare mecanico-biologică, respectiv tratarea aerobă a biodeșeurilor colectate separat în instalațiile de compostare, inclusiv transportul reziduurilor la stațiile de transfer în județul Galați”, delegării gestiunii serviciului de salubrizare pentru activitățile de colectare, transport și compostare, aferente proiectului „Sistem de Management Integrat al Deșeurilor în Județul Galați”, documentației de atribuire precum și acordarea unui mandat special pentru reprezentantul UAT Comuna Brăhășești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECOSERV Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/207859",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/207859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-35-2025",
+   "path": "local/galati/brahasesti/2025/35",
+   "short": "HCL Brăhășești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 35/2025 privind aprobarea actualizării datelor tehnice și diminuarea suprafeței de teren , înscris în CF 103245 , nr.cadastral 103245 , aflat în domeniul public al UAT Comuna Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/207860",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/207860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-36-2025",
+   "path": "local/galati/brahasesti/2025/36",
+   "short": "HCL Brăhășești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 36/2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/207861",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/207861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-37-2025",
+   "path": "local/galati/brahasesti/2025/37",
+   "short": "HCL Brăhășești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 37/2025 privind modificarea HCL nr.15 din 18.02.2025 privind aprobarea unor măsuri privind procedura de selecție pentru desemnarea membrilor Consiliului de Administrație al societății S.C Ecoprest Braha 2015 S.R.L, pentru perioada 2025-2029",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/207862",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/207862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-38-2025",
+   "path": "local/galati/brahasesti/2025/38",
+   "short": "HCL Brăhășești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 38/2025 privind aprobarea Proiectului tehnic, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții “Înființare sistem de apă și canalizare în satele Corcioveni și Cosițeni, comuna Brăhășești, județul Galați”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/207863",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/207863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-4-2025",
+   "path": "local/galati/brahasesti/2025/4",
+   "short": "HCL Brăhășești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 4/2025 privind aprobarea documentației faza studiu de fezabilitate,a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții “Înființare sistem de apă și canalizare în satele Corcioveni și Cosițeni, comuna Brăhășești, județul Galați”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195816",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-40-2025",
+   "path": "local/galati/brahasesti/2025/40",
+   "short": "HCL Brăhășești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 40/2025 privind aprobarea prelungirii mandatului administratorilor provizorii ai societății S.C Ecoprest Braha 2015 S.R.L",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/211030",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/211030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-41-2025",
+   "path": "local/galati/brahasesti/2025/41",
+   "short": "HCL Brăhășești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 41/2025 privind aprobarea unor tarife ce vor fi aplicate de societatea S.C ECOPREST BRAHA 2015 S.R.L",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/211031",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/211031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-42-2025",
+   "path": "local/galati/brahasesti/2025/42",
+   "short": "HCL Brăhășești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 42/2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/211032",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/211032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-44-2025",
+   "path": "local/galati/brahasesti/2025/44",
+   "short": "HCL Brăhășești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 44/2025 privind aprobarea actualizării indicatorilor tehnico-economici, conform OUG 64/2022,pentru obiectivul de investiții ,,Amenajare Parc,Sat Brăhășești , Comuna Brăhășești,județul Galati,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/215486",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/215486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-45-2025",
+   "path": "local/galati/brahasesti/2025/45",
+   "short": "HCL Brăhășești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 45/2025 privind acordarea cu titlu gratuit a drepturilor de uz și servitute asupra unor terenuri aparținând UAT Comuna Brăhășești , județul Galați , către Green Labs Advertising SRL",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/215487",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/215487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-46-2025",
+   "path": "local/galati/brahasesti/2025/46",
+   "short": "HCL Brăhășești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 46/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale din Comuna Brăhășești , pentru perioada 2025-2028",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/215488",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/215488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-47-2025",
+   "path": "local/galati/brahasesti/2025/47",
+   "short": "HCL Brăhășești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 47/2025 Proiect de hotărâre privind modificarea HCL nr.44/26.05.2025 privind aprobarea actualizării indicatorilor tehnico-economici, conform OUG 64/2022,pentru obiectivul de investiții ,,Amenajare Parc,Sat Brăhășești, Comuna Brăhășești,județul Galati,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/215550",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/215550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-48-2025",
+   "path": "local/galati/brahasesti/2025/48",
+   "short": "HCL Brăhășești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 48/2025 privind aprobarea actualizării indicatorilor tehnico-economici și Devizului general actualizat,conform O.U.G 64/2022,pentru obiectivul de investiții,,Înființare Sistem de Canalizare a Apelor Uzate în localitatea Brăhășești , Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221864",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-49-2025",
+   "path": "local/galati/brahasesti/2025/49",
+   "short": "HCL Brăhășești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 49/2025 privind aprobarea Planului de acțiune comunitară destinat pevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221865",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-5-2025",
+   "path": "local/galati/brahasesti/2025/5",
+   "short": "HCL Brăhășești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 5/2025 privind modificarea Anexei nr.1 la HCL nr.93/17.12.2024 privind aprobarea impozitelor și taxelor locale la nivelul UAT Comuna Brăhășești pentru anul 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195817",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-50-2025",
+   "path": "local/galati/brahasesti/2025/50",
+   "short": "HCL Brăhășești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 50/2025 privind aprobarea Proiectului tehnic și a indicatorilor tehnico-economici rezultați din devizul general actualizat faza PTE pentru realizarea obiectivului de investiţii „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221866",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-51-2025",
+   "path": "local/galati/brahasesti/2025/51",
+   "short": "HCL Brăhășești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 51/2025 privind modificarea HCL nr.67/19.07.2023 privind aprobarea proiectului și a acordului de parteneriat pentru realizarea obiectivului de investiții „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221867",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-52-2025",
+   "path": "local/galati/brahasesti/2025/52",
+   "short": "HCL Brăhășești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 52/2025 privind aprobarea indicatorilor tehnico-economici rezultați din documentația ,,Studiu de fezabilitate pentru acțiunile compensatorii de împădurire aferente obiectivului de investiţii „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221868",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-53-2025",
+   "path": "local/galati/brahasesti/2025/53",
+   "short": "HCL Brăhășești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 53/2025 privind aprobarea Regulamentului Județean al Serviciului de Salubrizare Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221869",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-55-2025",
+   "path": "local/galati/brahasesti/2025/55",
+   "short": "HCL Brăhășești nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 55/2025 privind darea în administrare către Școala Gimnazială nr.1 Brăhășești și Școala Gimnazială nr.1 Toflea a bunurilor ce fac obiectul proiectului \"Dotarea cu mobilier,materiale didactice si echipamente digitale a Scolii gimnaziale nr. 1 Brahasesti si a Scolii gimnaziale nr. 1 Toflea,Comuna Brahasesti \" prin \"Planul National de Redresare si Reziliența Componenta C15: Educație Investiția 11. Asigurarea dotărilor pentru sălile de clasă preuniversitare și laboratoarele/atelierele școlare \"",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221871",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-56-2025",
+   "path": "local/galati/brahasesti/2025/56",
+   "short": "HCL Brăhășești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 56/2025 privind privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati pe trimestrul III al anului 2025 și validarea modificărilor efectuate prin Dispoziția nr.198 din 25.06.2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , județul Galați, pe trimestrul II , al anului 2025 , prin virarea de credite din trimestrul II în trimestrul III , atât la partea de venituri cât și la partea de cheltuieli",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221872",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-57-2025",
+   "path": "local/galati/brahasesti/2025/57",
+   "short": "HCL Brăhășești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 57/2025 privind rectificarea bugetului Serviciului de Alimentare cu apă Brahasesti , judetul Galati pe trimestrul III al anului 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221873",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-58-2025",
+   "path": "local/galati/brahasesti/2025/58",
+   "short": "HCL Brăhășești nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 58/2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221874",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-59-2025",
+   "path": "local/galati/brahasesti/2025/59",
+   "short": "HCL Brăhășești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 59/2025 privind modificarea organigramei și a statului de funcții al Serviciului de Alimentare cu apă Brahasesti , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221875",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-6-2025",
+   "path": "local/galati/brahasesti/2025/6",
+   "short": "HCL Brăhășești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 6/2025 privind modificarea Regulamentului privind organizarea și desfășurarea activităților operatorilor economici în Comuna Brăhășești , aprobat prin HCL nr.15/31.01.2024",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195818",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-60-2025",
+   "path": "local/galati/brahasesti/2025/60",
+   "short": "HCL Brăhășești nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 60/2025 privind aprobarea înscrierii în cartea funciară ,,prima înregistrare imobil,, și declararea de interes public local a imobilului în suprafață de 2707 mp , situat în Cv 6 , P 77,sat Cosițeni , comuna Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221876",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-61-2025",
+   "path": "local/galati/brahasesti/2025/61",
+   "short": "HCL Brăhășești nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 61/2025 privind aprobarea modificării și completării Regulamentului privind activitatea de comerț stradal și ambulant pe raza comunei Brahașești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221877",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-62-2025",
+   "path": "local/galati/brahasesti/2025/62",
+   "short": "HCL Brăhășești nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 62/2025 privind alegerea președintelui de ședință al Consiliului Local Brăhășești pe o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221878",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-64-2025",
+   "path": "local/galati/brahasesti/2025/64",
+   "short": "HCL Brăhășești nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 64/2025 privind actualizarea poziției nr.5 din inventarul bunurilor care aparțin domenului privat al UAT Comuna Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221880",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-65-2025",
+   "path": "local/galati/brahasesti/2025/65",
+   "short": "HCL Brăhășești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 65/2025 privind acordul pentru inițieirea procedurii de scoatere definitivă din circuitul agricol a suprafeței de teren în suprafață de 39.185 mp, CF 104184, teren extravilan, arabil, în vederea realizării obiectivului de investiții de interes public local: „Construire sisteme integrate comunale de gestionare a gunoiului de grajd în comuna Brăhășești, județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/221881",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/221881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-66-2025",
+   "path": "local/galati/brahasesti/2025/66",
+   "short": "HCL Brăhășești nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 66/2025 privind aprobarea actualizării indicatorilor tehnico-economici, faza PTE (Proiect tehnic de execuție) pentru realizarea obiectivului de investiţii „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/225742",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/225742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-67-2025",
+   "path": "local/galati/brahasesti/2025/67",
+   "short": "HCL Brăhășești nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 67/2025 privind aprobarea actualizării indicatorilor tehnico-economici rezultați din documentația ,,Studiu de fezabilitate pentru acțiunile compensatorii de împădurire aferente obiectivului de investiţii „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/225743",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/225743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-68-2025",
+   "path": "local/galati/brahasesti/2025/68",
+   "short": "HCL Brăhășești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 68/2025 privind modificarea HCL nr.67/19.07.2023 privind aprobarea proiectului , a cheltuielilor legate de proiect precum și a acordului de parteneriat pentru realizarea obiectivului de investiții „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/225744",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/225744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-69-2025",
+   "path": "local/galati/brahasesti/2025/69",
+   "short": "HCL Brăhășești nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 69/2025 privind aprobarea indicatorilor tehnico - economici rezultati din devizul general centralizat pentru realizarea obiectivului de investiţii „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 – DJ 241 – DJ 241 A – DJ 241 G",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/225745",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/225745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-7-2025",
+   "path": "local/galati/brahasesti/2025/7",
+   "short": "HCL Brăhășești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 7/2025 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară ,,Serviciul Regional Apă Galați,, pentru desfășurarea procedurii de selecție a membrilor Consiliului de Administrație al Operatorului Regional Societatea Apă Canal S.A Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195819",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-70-2025",
+   "path": "local/galati/brahasesti/2025/70",
+   "short": "HCL Brăhășești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 70/2025 privind realizarea a unor lucrări de aducere la conformitate, modernizare, reabilitare, lărgire si îmbunatațire a drumurilor existente și acordarea cu titlu gratuit a drepturilor de uz si servitute asupra unor terenuri aparținând UAT Comuna Brăhășești , către GREEN LABS ADVERTISING SRL",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/225746",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/225746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-71-2025",
+   "path": "local/galati/brahasesti/2025/71",
+   "short": "HCL Brăhășești nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 71/2025 privind reorganizarea rețelei școlare de pe raza localitații Brahasesti , judetul Galati , pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/225839",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/225839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-72-2025",
+   "path": "local/galati/brahasesti/2025/72",
+   "short": "HCL Brăhășești nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 72/2025 privind aprobarea Planului de actiune pentru anul 2025 privind serviciile sociale administrate și finanțate din bugetul UAT Comuna Brăhășești",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/225840",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/225840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-73-2025",
+   "path": "local/galati/brahasesti/2025/73",
+   "short": "HCL Brăhășești nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 73/2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahașești , județul Galați pe trimestrul III al anului 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/226030",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/226030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-74-2025",
+   "path": "local/galati/brahasesti/2025/74",
+   "short": "HCL Brăhășești nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 74/2025 privind aprobarea actualizării indicatorilor tehnico-economici și Devizului general actualizat,pentru obiectivul de investiții,,Înființare Sistem de Canalizare a Apelor Uzate în localitatea Brăhășești , Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/226031",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/226031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-75-2025",
+   "path": "local/galati/brahasesti/2025/75",
+   "short": "HCL Brăhășești nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 75/2025 privind implementarea proiectului ,,Montare panouri fotovoltaice pentru clădiri publice și servicii publice ,Comuna Brăhășești , județul Galați ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/226032",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/226032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-76-2025",
+   "path": "local/galati/brahasesti/2025/76",
+   "short": "HCL Brăhășești nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 76/2025 privind aprobarea actualizării indicatorilor tehnico-economici, faza PTE (Proiect tehnic de execuție) pentru realizarea obiectivului de investiţii „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/228865",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/228865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-77-2025",
+   "path": "local/galati/brahasesti/2025/77",
+   "short": "HCL Brăhășești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 77/2025 privind aprobarea actualizării indicatorilor tehnico-economici rezultați din documentația ,,Studiu de fezabilitate pentru acțiunile compensatorii de împădurire aferente obiectivului de investiţii „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/228866",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/228866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-78-2025",
+   "path": "local/galati/brahasesti/2025/78",
+   "short": "HCL Brăhășești nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 78/2025 privind modificarea HCL nr.67/19.07.2023 privind aprobarea proiectului , a cheltuielilor legate de proiect precum și a acordului de parteneriat pentru realizarea obiectivului de investiții „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 - DJ 241 - DJ 241A - DJ 241G”, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/228867",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/228867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-79-2025",
+   "path": "local/galati/brahasesti/2025/79",
+   "short": "HCL Brăhășești nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 79/2025 privind aprobarea actualizării indicatorilor tehnico - economici rezultati din devizul general centralizat pentru realizarea obiectivului de investiţii „Reabilitarea și modernizarea infrastructurii de transport regional pe tronsonul funcțional E 581 – DJ 241 – DJ 241 A – DJ 241 G“",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/228868",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/228868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-80-2025",
+   "path": "local/galati/brahasesti/2025/80",
+   "short": "HCL Brăhășești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 80/2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Brahasesti , judetul Galati pe trimestrul IV al anului 2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/232876",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/232876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-81-2025",
+   "path": "local/galati/brahasesti/2025/81",
+   "short": "HCL Brăhășești nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 81/2025",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/232877",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/232877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-84-2025",
+   "path": "local/galati/brahasesti/2025/84",
+   "short": "HCL Brăhășești nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 84/2025 privind completarea și actualizarea inventarului bunurilor imobile care alcătuiesc domeniul privat al comunei Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/232880",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/232880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-85-2025",
+   "path": "local/galati/brahasesti/2025/85",
+   "short": "HCL Brăhășești nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 85/2025 privind aprobarea dezmembrării unui imobil, teren intravilan în suprafață de 2.231 mp, situat în T 15 , P 200 , comuna Brăhășești , județul Galați",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/232881",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/232881",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--brahasesti-86-2025",
    "path": "local/galati/brahasesti/2025/86",
    "short": "HCL Brăhășești nr. 86/2025",
@@ -148,6 +1258,21 @@
      "from": "2025-12-12",
      "units": 1,
      "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/238769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--brahasesti-9-2025",
+   "path": "local/galati/brahasesti/2025/9",
+   "short": "HCL Brăhășești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 9/2025 privind aprobarea actualizării indicatorilor tehnico-economici și Devizului general actualizat,conform O.U.G 64/2022,pentru obiectivul de investiții,,Înființare Sistem de Canalizare a Apelor Uzate în localitatea Brăhășești , Comuna Brăhășești , județul Galati ,,",
+   "url": "https://emol.ro/brahasesti-gl/registru-hcl/195821",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brahasesti-gl/registru-hcl/195821",
      "sha256": null
     }
    ]

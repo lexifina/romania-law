@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/goiesti/2012",
+ "acts": [
+  {
+   "slug": "hcl-dolj--goiesti-12-2012",
+   "path": "local/dolj/goiesti/2012/12",
+   "short": "HCL Goiești nr. 12/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 12/2012",
+   "url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/Hotararea_nr.12_din_28.09.2012-1.pdf",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/Hotararea_nr.12_din_28.09.2012-1.pdf",
+     "sha256": "5120c9ead36f68789ba80fab299c2b7028b7291af73810005eb530a84546606a"
+    }
+   ]
+  }
+ ]
+}

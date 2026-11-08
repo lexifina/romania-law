@@ -754,6 +754,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--ulmi-106-2023",
+"path": "local/dambovita/ulmi/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 106/2023 privind stabilirea modalității de executare a lucrărilor de reparații pe domeniul public și privat al unității administrativ teritoriale comuna Ulmi, județ Dâmbovița",
+"short": "HCL Ulmi nr. 106/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#59055",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-dambovita--ulmi-107-2023",
 "path": "local/dambovita/ulmi/2023/107",
 "kind": "local",

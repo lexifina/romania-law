@@ -3,6 +3,50 @@
 "shard": "local/galati/grivita/2024",
 "acts": [
 {
+"slug": "hcl-galati--grivita-3-2024",
+"path": "local/galati/grivita/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 3/2024 privind aprobarea achizitionarii serviciilor de salubrizare pentru trimestrul I anul 2024 la comuna Grivita, judetul Galati",
+"short": "HCL Grivița nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/137680",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-41-2024",
+"path": "local/galati/grivita/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 41/2024 privind aprobarea, Devizului general –Anexa 2.1 ,caracteristicile si indicatorii tehnico-economici - Anexa 2.2. a obiectivului de investitie ,,Infiintarea distributiei de gaze naturale in comuna Grivita, judetul Galati,,",
+"short": "HCL Grivița nr. 41/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/158511",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-galati--grivita-55-2024",
 "path": "local/galati/grivita/2024/55",
 "kind": "local",

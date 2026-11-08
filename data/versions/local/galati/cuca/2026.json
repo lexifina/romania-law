@@ -376,6 +376,21 @@
      "sha256": "0fd9d44f0b4d08c33a93dcc2dfcb32e5accc31e979d134f207201890c909fa63"
     }
    ]
+  },
+  {
+   "slug": "hcl-galati--cuca-8-2026",
+   "path": "local/galati/cuca/2026/8",
+   "short": "HCL Cuca nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cuca nr. 8/2026 privind stabilirea de impozite și taxe locale pentru anul fiscal 2026",
+   "url": "http://www.comunacuca.ro/wp-content/uploads/2026/03/HCL.pdf",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "http://www.comunacuca.ro/wp-content/uploads/2026/03/HCL.pdf",
+     "sha256": "2224f190340febb00f31cfa4ad2883542fcdc2a3b7d0500007ca76d2c3792177"
+    }
+   ]
   }
  ]
 }

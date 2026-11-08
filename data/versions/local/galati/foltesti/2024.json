@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/foltesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-galati--foltesti-4-2024",
+   "path": "local/galati/foltesti/2024/4",
+   "short": "HCL Foltești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 4/2024",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2024/03/HCL-4.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2024/03/HCL-4.2024.pdf",
+     "sha256": "2e67d72764d0477ebf73c6eb2f43094fa769453eee2ce3b4c31ada45ba501f3a"
+    }
+   ]
+  }
+ ]
+}

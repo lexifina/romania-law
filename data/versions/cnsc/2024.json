@@ -3,6 +3,81 @@
  "shard": "cnsc/2024",
  "acts": [
   {
+   "slug": "cnsc-decizie-2024-1380",
+   "path": "cnsc/decizie/2024/1380",
+   "short": "Decizia CNSC nr. 1380/C6/1643 din 20.05.2024",
+   "title": "Decizia CNSC nr. 1380/C6/1643 din 20.05.2024: contestația PP PROTECT SECURITY SRL în contradictoriu cu SPITALUL CLINIC DE RECUPERARE CLUJ-NAPOCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzVjMDU5MjktZGRhMy00NjQ4LTk3NzItMTVhOTI0OGE0MDdl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzgwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzVjMDU5MjktZGRhMy00NjQ4LTk3NzItMTVhOTI0OGE0MDdl&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzgwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "47090f0b2f1a4301fcd83fee2de9fbf13918de240b16b793601f6559a5383b8a"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-1384",
+   "path": "cnsc/decizie/2024/1384",
+   "short": "Decizia CNSC nr. 1384/C6/1677 din 20.05.2024",
+   "title": "Decizia CNSC nr. 1384/C6/1677 din 20.05.2024: contestația PANIMAC SRL în contradictoriu cu COMUNA COLCEAG",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTE5YzVkNTgtOGNlZi00OWQ0LTgzNWItMzYzNGEzYmUzODU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzg0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTE5YzVkNTgtOGNlZi00OWQ0LTgzNWItMzYzNGEzYmUzODU5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzg0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "1cb593471022e1f3e4d5bf05acd6d1f716e0b8f361e6491e779be0f360745d17"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-1510",
+   "path": "cnsc/decizie/2024/1510",
+   "short": "Decizia CNSC nr. 1510/C1/1123 din 02.06.2024",
+   "title": "Decizia CNSC nr. 1510/C1/1123 din 02.06.2024: contestația CORAMED MEDIZINISCHE PRODUKTE SRL , DELUXE MEDICRAFTS SRL în contradictoriu cu SPITALUL MUNICIPAL DE URGENTA \\\"ELENA BELDIMAN\\\" BARLAD",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjkzYTQ2MGYtZjI0MC00NmIxLThiOTAtODIyYWEwMTIyYmY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTEwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-06-02",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjkzYTQ2MGYtZjI0MC00NmIxLThiOTAtODIyYWEwMTIyYmY2&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTEwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "554d55c2bd38b7162da6f00db80b1fd0dbffaaa3ecf9016a4f2d90f8ef3e2945"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-1554",
+   "path": "cnsc/decizie/2024/1554",
+   "short": "Decizia CNSC nr. 1554/C1/1264 din 05.06.2024",
+   "title": "Decizia CNSC nr. 1554/C1/1264 din 05.06.2024: contestația GEIGER TRANSILVANIASRL, FAR FOUNDATION SRL în contradictoriu cu PRIMARIA MUNICIPIULUI REGHIN JUDETUL MURES",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDg3NTMyOTItMjIzYy00YzZkLTkzOTAtZDNkMzRhOWRiZWY1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTU0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDg3NTMyOTItMjIzYy00YzZkLTkzOTAtZDNkMzRhOWRiZWY1&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNTU0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "cfe0506ddefa28a594e0b5e1161b9812f6f4ac893e83b1186967abaebc059ff3"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2024-1689",
+   "path": "cnsc/decizie/2024/1689",
+   "short": "Decizia CNSC nr. 1689/C1/1931 din 18.06.2024",
+   "title": "Decizia CNSC nr. 1689/C1/1931 din 18.06.2024: contestația ANDRANI HOME OFFICE SRL în contradictoriu cu ORASUL SOMCUTA MARE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjIzYzkzZjgtMmI5Ni00YTU0LWFjN2MtMTRiODYwNGY4NzY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjg5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjIzYzkzZjgtMmI5Ni00YTU0LWFjN2MtMTRiODYwNGY4NzY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNjg5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "ae843f4259774efce0299fb69c5b914e8038b8cf01b860b70298baab58d7992f"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2024-1821",
    "path": "cnsc/decizie/2024/1821",
    "short": "Decizia CNSC nr. 1821/C1/1531 din 30.06.2024",

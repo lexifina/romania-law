@@ -3,6 +3,51 @@
  "shard": "local/dolj/pielesti/2022",
  "acts": [
   {
+   "slug": "hcl-dolj--pielesti-100-2022",
+   "path": "local/dolj/pielesti/2022/100",
+   "short": "HCL Pielești nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 100/2022 privind ... Aprobarea Indicatorilor tehnico - economici pentru lucrarea,, Reparații străzi în Comuna Pielești, Sat Pielești: Dc 87 și zona Braniște,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78396",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-101-2022",
+   "path": "local/dolj/pielesti/2022/101",
+   "short": "HCL Pielești nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 101/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78397",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-102-2022",
+   "path": "local/dolj/pielesti/2022/102",
+   "short": "HCL Pielești nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 102/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78398",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78398",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-103-2022",
    "path": "local/dolj/pielesti/2022/103",
    "short": "HCL Pielești nr. 103/2022",
@@ -298,6 +343,891 @@
      "from": "2023-06-26",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/83722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-26-2022",
+   "path": "local/dolj/pielesti/2022/26",
+   "short": "HCL Pielești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 26/2022 privind ...Aprobarea Organigramei și a Statului de Funcții al Aparatului de specialitate al Primarului Comunei Pielești pentru anul 2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/57952",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/57952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-27-2022",
+   "path": "local/dolj/pielesti/2022/27",
+   "short": "HCL Pielești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 27/2022 privind ,, Perfectarea unui acord între UAT Comuna Pielești și SC Tirrena Scavi SPA Italia sucursala Cluj, în vederea executării lucrărilor de reparații a Drumului Comuna DC 87 Pielești",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/57953",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/57953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-29-2022",
+   "path": "local/dolj/pielesti/2022/29",
+   "short": "HCL Pielești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 29/2022 privind ,, Aprobarea Contului de execuție al bugetului local al Comunei Pielești, pe trimestrul al IV lea 2021,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/57955",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/57955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-30-2022",
+   "path": "local/dolj/pielesti/2022/30",
+   "short": "HCL Pielești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 30/2022 privind ,, Aprobarea cheltuielilor eligibile și neeligibile pentru ,, I.1.2 Asigurarea Infrastructurii pentru Transportul Verde- ITS/alte infrastructuri TIC 9 (sisteme inteligente de management urban/local) în Comuna Pielești prin PNRR/2022/C10",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/60634",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/60634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-31-2022",
+   "path": "local/dolj/pielesti/2022/31",
+   "short": "HCL Pielești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 31/2022 privind ,, Aprobarea Cheltuielilor eligibile și neeligibile pentru ,, I.4 - Elaborarea/actualizarea în format GIS a Documentelor de amenajare a teritoriului și de planificare urbană ,, în Comuna Pielești prin PNRR/2022/C10",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/60635",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/60635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-32-2022",
+   "path": "local/dolj/pielesti/2022/32",
+   "short": "HCL Pielești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 32/2022 privind ,, Rectificarea bugetului local al UAT Com Pielești pe trimestrul al II lea și al III lea 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62357",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-33-2022",
+   "path": "local/dolj/pielesti/2022/33",
+   "short": "HCL Pielești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 33/2022 privind ,, Aprobarea Contului de Execuție al bugetului local al UAT Com Pielești, pe trimestrul I al anului 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62358",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-34-2022",
+   "path": "local/dolj/pielesti/2022/34",
+   "short": "HCL Pielești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 34/2022 privind ,, Aprobarea decontării cheltuielilor cu naveta a cadrelor didactice și a cadrelor auxiliar didactice din cadrul Școlii Gimnaziale Pielești pentru lunile decembrie 2021, ianuarie- aprilie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62359",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-35-2022",
+   "path": "local/dolj/pielesti/2022/35",
+   "short": "HCL Pielești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 35/2022 privind ,, Stabilirea numărului de burse școlare și cuantumul acestora pentru elevii Școlii Gimnaziale Pielești aferent anului școlar2021-2022, semestrul al II lea,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62360",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-36-2022",
+   "path": "local/dolj/pielesti/2022/36",
+   "short": "HCL Pielești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 36/2022 privind ,, Aprobarea Organigramei și a Statului de Funcții al Căminului Cultural Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62361",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-38-2022",
+   "path": "local/dolj/pielesti/2022/38",
+   "short": "HCL Pielești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 38/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62363",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-39-2022",
+   "path": "local/dolj/pielesti/2022/39",
+   "short": "HCL Pielești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 39/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62364",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-40-2022",
+   "path": "local/dolj/pielesti/2022/40",
+   "short": "HCL Pielești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 40/2022 privind ,, Atribuirea și încheierea contractului de ,, Delegare prin concesiune a operării instalațiilor de gestionare a deșeurilor municipale realizate în cadrul proiectului - Sistem de Management Integrat al deșeurilor în Județul Dolj- precum și a tarifelor aferente ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62365",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-41-2022",
+   "path": "local/dolj/pielesti/2022/41",
+   "short": "HCL Pielești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 41/2022 privind ,, Predarea către SC Apă Canal Pielești a investiției,, Sistem de canalizare a apelor uzate în Comuna Pielești, Sat Câmpeni,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62366",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-42-2022",
+   "path": "local/dolj/pielesti/2022/42",
+   "short": "HCL Pielești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 42/2022 privind ,, Aprobarea planului de muncă al beneficiarilor de ajutor social pentru luna iunie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62367",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-43-2022",
+   "path": "local/dolj/pielesti/2022/43",
+   "short": "HCL Pielești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 43/2022 privind ,, Aprobarea planului de muncă al buldoescavatoristului pentru luna iunie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62368",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-44-2022",
+   "path": "local/dolj/pielesti/2022/44",
+   "short": "HCL Pielești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 44/2022 privind ,, Aprobarea planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Comunei Pielești, pentru luna iunie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62369",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-45-2022",
+   "path": "local/dolj/pielesti/2022/45",
+   "short": "HCL Pielești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 45/2022 privind ,, Aprobarea Planului de Formare Profesională a aleșilor locali și a funcționarilor publici din cadrul Aparatului de specialitate al Primarului Comunei Pielești, pentru anul 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62370",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-46-2022",
+   "path": "local/dolj/pielesti/2022/46",
+   "short": "HCL Pielești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 46/2022 privind ,, Modificarea inventarului domeniului privat al UAT Comuna Pielești prin includerea a două suprafețe de teren, având Carte Funciară nr 39114 Pielești și respectiv, nr 39112 Pielești, cu destinația de alee de acces - Strada Liliacului,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62371",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-47-2022",
+   "path": "local/dolj/pielesti/2022/47",
+   "short": "HCL Pielești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 47/2022 privind ,, Acordarea sumei de 80.000 lei, Parohiei ,, Nașterea Maicii Domnului,,- Magnolia, în vederea realizării lucrării de construire Anexă clopotniță P+1,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/62372",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/62372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-48-2022",
+   "path": "local/dolj/pielesti/2022/48",
+   "short": "HCL Pielești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 48/2022 privind ,, Rectificarea bugetului local al UAT Com Pielești pe trimestrul al II lea 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/66472",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/66472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-49-2022",
+   "path": "local/dolj/pielesti/2022/49",
+   "short": "HCL Pielești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 49/2022 privind ,, Încetarea prin acordul părților a contractului de concesiune nr 4908/2009 încheiat între UAT Com Pielești și SNGN ROMGAZ SA,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/66473",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/66473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-50-2022",
+   "path": "local/dolj/pielesti/2022/50",
+   "short": "HCL Pielești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 50/2022 privind ,, Aprobarea Planului de muncă al beneficiarilor de ajutor social pentru luna iulie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/66474",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/66474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-53-2022",
+   "path": "local/dolj/pielesti/2022/53",
+   "short": "HCL Pielești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 53/2022 privind ,, Aprobarea studiului de fezabilitate privind lucrarea,, Extindere sistem de iluminat public în Comuna Pielești , strada Calea București, strada Tinca Liza și zona Piața Magnolia,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/66477",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/66477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-54-2022",
+   "path": "local/dolj/pielesti/2022/54",
+   "short": "HCL Pielești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 54/2022 privind ,, Revocarea HCL Pielești nr 21/2022 privind Aprobarea utilizării excedentului bugetar din anii anteriori,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/66478",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/66478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-55-2022",
+   "path": "local/dolj/pielesti/2022/55",
+   "short": "HCL Pielești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 55/2022 privind ,, Aprobarea coeficientului de salarizare pentru muncitorii calificați III, din cadrul Aparatului de specialitate al Primarului Comunei Pielești ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/66479",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/66479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-56-2022",
+   "path": "local/dolj/pielesti/2022/56",
+   "short": "HCL Pielești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 56/2022 privind ,, Rectificarea bugetului de venituri și cheltuieli al Căminului Cultural Pielești pe trimestrul al II lea 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/66480",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/66480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-57-2022",
+   "path": "local/dolj/pielesti/2022/57",
+   "short": "HCL Pielești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 57/2022 privind ,, Rectificarea bugetului local al UAT Comuna Pieleștipe trimestrul al III lea 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/68280",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/68280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-58-2022",
+   "path": "local/dolj/pielesti/2022/58",
+   "short": "HCL Pielești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 58/2022 privind ,, Rectificarea bugetului de venituri și cheltuieli al Căminului Cultural Pielești pe trimestrul al III lea 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/68281",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/68281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-59-2022",
+   "path": "local/dolj/pielesti/2022/59",
+   "short": "HCL Pielești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 59/2022 privind ,, Aprobarea bugetului de venituri și cheltuieli al Sc Apa Canal Pielești SRL pentru anul 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/68282",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/68282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-60-2022",
+   "path": "local/dolj/pielesti/2022/60",
+   "short": "HCL Pielești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 60/2022 privind ,, Aprobarea utilizării excedentului din anii anteriori,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/68283",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/68283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-61-2022",
+   "path": "local/dolj/pielesti/2022/61",
+   "short": "HCL Pielești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 61/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/68284",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/68284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-62-2022",
+   "path": "local/dolj/pielesti/2022/62",
+   "short": "HCL Pielești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 62/2022 privind ,, Aprobarea Planului de muncă al beneficiarilor de ajutor social pentru luna august 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/68285",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/68285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-67-2022",
+   "path": "local/dolj/pielesti/2022/67",
+   "short": "HCL Pielești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 67/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/68290",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/68290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-68-2022",
+   "path": "local/dolj/pielesti/2022/68",
+   "short": "HCL Pielești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 68/2022 privind ,, Preluarea de către UAT Comuna Pielești a dreptului de administrare asupra terenurilor intravilane și a clădirilor în care își desfășoară activitatea Școala Gimnazială Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/68504",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/68504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-69-2022",
+   "path": "local/dolj/pielesti/2022/69",
+   "short": "HCL Pielești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 69/2022 privind ... Rectificarea bugetului local al UAT Comuna Pielești pe trimestrul al III lea 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/70657",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/70657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-70-2022",
+   "path": "local/dolj/pielesti/2022/70",
+   "short": "HCL Pielești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 70/2022 privind ... Aprobarea implementării Proiectului - Centru Social de Zi, în Comuna Pielești, județul Dolj ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/70658",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/70658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-72-2022",
+   "path": "local/dolj/pielesti/2022/72",
+   "short": "HCL Pielești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 72/2022 privind ...Aprobarea Planului de muncă al buldoescavatoristului pentru luna septembrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/70660",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/70660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-73-2022",
+   "path": "local/dolj/pielesti/2022/73",
+   "short": "HCL Pielești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 73/2022 privind ... Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Comunei Pielești, pentru luna septembrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/70661",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/70661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-77-2022",
+   "path": "local/dolj/pielesti/2022/77",
+   "short": "HCL Pielești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 77/2022 privind ...Aprobarea Planului de muncă al beneficiarilor de ajutor social pentru luna septembrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/70665",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/70665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-78-2022",
+   "path": "local/dolj/pielesti/2022/78",
+   "short": "HCL Pielești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 78/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/70666",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/70666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-79-2022",
+   "path": "local/dolj/pielesti/2022/79",
+   "short": "HCL Pielești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 79/2022 privind ...Rectificarea bugetului local al UAT Comuna Pielești pe trimestrul al III lea ți al IV lea 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/73091",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/73091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-80-2022",
+   "path": "local/dolj/pielesti/2022/80",
+   "short": "HCL Pielești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 80/2022 privind ... Rectificarea bugetului de venituri și cheltuieli al Câminului Cultural Pielești pe trimestrul al III lea 2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/73092",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/73092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-82-2022",
+   "path": "local/dolj/pielesti/2022/82",
+   "short": "HCL Pielești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 82/2022 privind ,, Prelungirea valabilității contractului de delegare a gestiunii Serviciului Public de Alimentare cu Apă și Canalizare din Comuna Pielești",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/73094",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/73094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-83-2022",
+   "path": "local/dolj/pielesti/2022/83",
+   "short": "HCL Pielești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 83/2022 privind ... Rectificarea bugetului de venituri și cheltuieli pe trimestrul al III lea 2022 al SC Apă Canal Pielești SRL ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/73095",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/73095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-85-2022",
+   "path": "local/dolj/pielesti/2022/85",
+   "short": "HCL Pielești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 85/2022 privind ...Aprobarea Planului de muncă al beneficiarilor de ajutor social pentru luna octombrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/73097",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/73097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-86-2022",
+   "path": "local/dolj/pielesti/2022/86",
+   "short": "HCL Pielești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 86/2022 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna octombrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/73098",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/73098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-87-2022",
+   "path": "local/dolj/pielesti/2022/87",
+   "short": "HCL Pielești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 87/2022 privind ...Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Comunei Pielești pentru luna octombrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/73099",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/73099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-88-2022",
+   "path": "local/dolj/pielesti/2022/88",
+   "short": "HCL Pielești nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 88/2022 privind ... Aprobarea cheltuielilor eligibile și neeligibile pentru,, ,, Sisteme inteligente de management urban/local- Dezvoltarea de servicii și structuri de sprijin foarte specializate pentru administrația publică în Comuna Pielești prin PNRR/2022/C10,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/75080",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/75080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-89-2022",
+   "path": "local/dolj/pielesti/2022/89",
+   "short": "HCL Pielești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 89/2022 privind ... Rectificarea bugetului local al UAT Comuna Pielești pe trimestrul al IV lea 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78385",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-90-2022",
+   "path": "local/dolj/pielesti/2022/90",
+   "short": "HCL Pielești nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 90/2022 privind ... Modificarea HCL Pielești nr 60/21.07.2022 privind utilizarea excedentului provenit din anii anteriori,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78386",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-91-2022",
+   "path": "local/dolj/pielesti/2022/91",
+   "short": "HCL Pielești nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 91/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78387",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-92-2022",
+   "path": "local/dolj/pielesti/2022/92",
+   "short": "HCL Pielești nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 92/2022",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78388",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-93-2022",
+   "path": "local/dolj/pielesti/2022/93",
+   "short": "HCL Pielești nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 93/2022 privind ... Aprobarea indicatorilor tehnico-economici pentru investiția,, Amenajare bază sportivă- Vidin, actualizare etapa a II a,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78389",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-94-2022",
+   "path": "local/dolj/pielesti/2022/94",
+   "short": "HCL Pielești nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 94/2022 privind ... Aprobarea Planului de muncă al beneficiarilor de ajutor social pentru luna noiembrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78390",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-95-2022",
+   "path": "local/dolj/pielesti/2022/95",
+   "short": "HCL Pielești nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 95/2022 privind ... Aprobarea Planului de muncă al buldoescavatoristului pentru luna noiembrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78391",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-96-2022",
+   "path": "local/dolj/pielesti/2022/96",
+   "short": "HCL Pielești nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 96/2022 privind ... Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna noiembrie 2022,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78392",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-97-2022",
+   "path": "local/dolj/pielesti/2022/97",
+   "short": "HCL Pielești nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 97/2022 privind ... Aprobarea Statutului UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78393",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-98-2022",
+   "path": "local/dolj/pielesti/2022/98",
+   "short": "HCL Pielești nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 98/2022 privind ... Aprobarea Strategiei de Dezvoltare Economico-Socială a Comunei Pielești pentru perioada 2021-2027,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/78394",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/78394",
      "sha256": null
     }
    ]

@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-pandele-10-2024",
+"path": "local/dambovita/vulcana-pandele/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 10/2024 privind aprobarea bugetului local pe anul 2024",
+"short": "HCL Vulcana-Pandele nr. 10/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#69087",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-11-2024",
 "path": "local/dambovita/vulcana-pandele/2024/11",
 "kind": "local",

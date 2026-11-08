@@ -3,6 +3,141 @@
  "shard": "local/dambovita/vulcana-bai/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--vulcana-bai-13-2025",
+   "path": "local/dambovita/vulcana-bai/2025/13",
+   "short": "HCL Vulcana-Băi nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 13/2025 privind stabilirea de măsuri privind administrarea sistemului de supraveghere video al comunei Vulcana-Băi",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/193366",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/193366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-29-2025",
+   "path": "local/dambovita/vulcana-bai/2025/29",
+   "short": "HCL Vulcana-Băi nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 29/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul I/2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/206289",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/206289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-3-2025",
+   "path": "local/dambovita/vulcana-bai/2025/3",
+   "short": "HCL Vulcana-Băi nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 3/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2024",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/190637",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/190637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-34-2025",
+   "path": "local/dambovita/vulcana-bai/2025/34",
+   "short": "HCL Vulcana-Băi nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 34/2025 pentru validarea dispozițiilor primarului comunei nr. 121 din 03 aprilie 2025 și nr. 159 din 12 mai 2025 privind rectificarea bugetului local pe anul 2024, emisă prin autorizarea dată de Consiliul Local, cu Hotărârea nr. 20 din 13 martie 2025 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/211183",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/211183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-49-2025",
+   "path": "local/dambovita/vulcana-bai/2025/49",
+   "short": "HCL Vulcana-Băi nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 49/2025 privind aprobarea proiectului „SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR DIN JUDEȚUL DÂMBOVIȚA – OBIECTIV – INSTALAȚIE DE TRATARE DEȘEURI COLECTATE SEPARAT ȘI CENTRU DE APORT VOLUNTAR ȘOTÂNGA” - 2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/223218",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/223218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-50-2025",
+   "path": "local/dambovita/vulcana-bai/2025/50",
+   "short": "HCL Vulcana-Băi nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 50/2025 pentru validarea Dispoziției primarului nr. 283 din 19 august 2025 privind rectificarea bugetului local pe anul 2025, emisă prin autorizarea dată de Consiliul Local cu Hotărârea nr. 20 din 13 martie 2025 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/223219",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/223219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-63-2025",
+   "path": "local/dambovita/vulcana-bai/2025/63",
+   "short": "HCL Vulcana-Băi nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 63/2025 pentru validarea Dispozițiilor primarului nr. 323 din 1 octombrie 2025 și nr. 332 din 17 octombrie 205 privind rectificarea bugetului local pe anul 2025, emise prin autorizarea dată de Consiliul Local cu Hotărârea nr. 20 din 13 martie 2025 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/234683",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/234683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-64-2025",
+   "path": "local/dambovita/vulcana-bai/2025/64",
+   "short": "HCL Vulcana-Băi nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 64/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul III/2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/234684",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/234684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-65-2025",
+   "path": "local/dambovita/vulcana-bai/2025/65",
+   "short": "HCL Vulcana-Băi nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 65/2025 privind indexarea impozitului pe mijloacele de transport prevăzut la art. 470 alin. (5) și alin. (6) din Codul fiscal prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2025, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/234685",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/234685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-66-2025",
    "path": "local/dambovita/vulcana-bai/2025/66",
    "short": "HCL Vulcana-Băi nr. 66/2025",
@@ -208,6 +343,21 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/245877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-8-2025",
+   "path": "local/dambovita/vulcana-bai/2025/8",
+   "short": "HCL Vulcana-Băi nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 8/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici pe anul 2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/193361",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/193361",
      "sha256": null
     }
    ]

@@ -3,6 +3,81 @@
  "shard": "local/dolj/afumati/2023",
  "acts": [
   {
+   "slug": "hcl-dolj--afumati-26-2023",
+   "path": "local/dolj/afumati/2023/26",
+   "short": "HCL Afumați nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 26/2023 privind aprobarea documentației tehnico-economice șia indicatorilor tehnico-economici pentru proiectul ''Creșterea eficienței energetice a infrastructurii de iluminat public în Comuna Afumați, județul Dolj'' finanțat prin Programul privind creșterea eficienței energetice a infrastructurii de iluminat public, respectiv acordul privind asigurarea și susținerea contribuției financiare aferente cheltuielilor implementării proiectului și care nu sunt finanțate de AFM",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132345",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-27-2023",
+   "path": "local/dolj/afumati/2023/27",
+   "short": "HCL Afumați nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 27/2023 privind tarifele pentru gestionarea deșeurilor aferente activităților desfășurate de operatori pe fluxul deșeurilor municipale în județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132346",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-28-2023",
+   "path": "local/dolj/afumati/2023/28",
+   "short": "HCL Afumați nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 28/2023 privind organizarea unor manifestări în Comuna Afumați, județul Dolj, cu ocazia zilei de 1 iunie - Ziua Copilului",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132347",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-3-2023",
+   "path": "local/dolj/afumati/2023/3",
+   "short": "HCL Afumați nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 3/2023 privind aprobarea cuantumului taxei speciale de salubrizare pentru anul 2023",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110355",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-31-2023",
+   "path": "local/dolj/afumati/2023/31",
+   "short": "HCL Afumați nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 31/2023 privind aprobarea implementării proiectului ''Înființarea unui centru de zi pentru consiliere și sprijin pentru părinți și copii, în comuna Afumați, județul Dolj'' în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență, Componenta C13 - Reforme Sociale, Investiția (I1) Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132350",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132350",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-32-2023",
    "path": "local/dolj/afumati/2023/32",
    "short": "HCL Afumați nr. 32/2023",
@@ -298,6 +373,21 @@
      "from": "2023-12-07",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/132374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-6-2023",
+   "path": "local/dolj/afumati/2023/6",
+   "short": "HCL Afumați nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 6/2023 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare drumuri de interes local în Comuna Afumați, satele Afumați, Boureni și Covei, Județul Dolj”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110358",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110358",
      "sha256": null
     }
    ]

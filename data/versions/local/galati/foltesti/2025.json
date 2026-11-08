@@ -3,6 +3,21 @@
  "shard": "local/galati/foltesti/2025",
  "acts": [
   {
+   "slug": "hcl-galati--foltesti-24-2025",
+   "path": "local/galati/foltesti/2025/24",
+   "short": "HCL Foltești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 24/2025",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2025/07/HCL-24.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2025/07/HCL-24.2025.pdf",
+     "sha256": "d3ba8c4e51a270a14417a658baffd01ade8a2a6ffac0deebffb534bb22b413ed"
+    }
+   ]
+  },
+  {
    "slug": "hcl-galati--foltesti-41-2025",
    "path": "local/galati/foltesti/2025/41",
    "short": "HCL Foltești nr. 41/2025",

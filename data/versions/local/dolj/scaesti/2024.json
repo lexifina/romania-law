@@ -3,6 +3,231 @@
  "shard": "local/dolj/scaesti/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--scaesti-10-2024",
+   "path": "local/dolj/scaesti/2024/10",
+   "short": "HCL Scăești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 10/2024 privind aprobare dare de seamă aferentă trimestrului lV al anului 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/147848",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/147848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-11-2024",
+   "path": "local/dolj/scaesti/2024/11",
+   "short": "HCL Scăești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 11/2024 privind rectificarea bugetului de venituri şi cheltuieli pe trimestrul I, anul 2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/147849",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/147849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-12-2024",
+   "path": "local/dolj/scaesti/2024/12",
+   "short": "HCL Scăești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 12/2024 privind aprobarea Cererii de finantare pentru obiectivul de investitii '' Elaborarea/actualizarea PUG în format GIS a documentelor de amenajare a teritoriului în Comuna Scaești, județul Dolj''",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/152753",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/152753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-13-2024",
+   "path": "local/dolj/scaesti/2024/13",
+   "short": "HCL Scăești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 13/2024 privind aprobarea indicatorilor tehnico-economici si a devizului general la proiectul de investitie ''ÎNFIINȚARE CENTRU COMUNITAR INTEGRAT IN COMUNA SCAESTI, JUDETUL DOLJ''",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/152754",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/152754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-14-2024",
+   "path": "local/dolj/scaesti/2024/14",
+   "short": "HCL Scăești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 14/2024 privind aprobarea indicatorilor tehnico- economici actualizati si a devizului general actualizat pentru obiectivul de investiții „Modernizare infrastructura rutieră în comuna Scăești, județul Dolj”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/155823",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/155823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-15-2024",
+   "path": "local/dolj/scaesti/2024/15",
+   "short": "HCL Scăești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 15/2024 privind însușirea Documentației tehnice de dezmembrare a imobilelor cu nr. cadastral 30618, 32824 si 32825, situate în UAT Scaești, pentru proiectul de investitie '' INFIINTAREA CAPACITATII NOI DE PRODUCERE A ENERGIEI ELECTRICE PENTRU AUTOCONSUM IN COMUNA SCAESTI, DOLJ''",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/157552",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/157552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-16-2024",
+   "path": "local/dolj/scaesti/2024/16",
+   "short": "HCL Scăești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 16/2024 privind aprobare infiintare Ansamblu de dansuri populare in cadrul Scolii Gimnaziale Scaesti si cheltuielile de functionare si intretinere a acestuia",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/157553",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/157553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-17-2024",
+   "path": "local/dolj/scaesti/2024/17",
+   "short": "HCL Scăești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 17/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/159321",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/159321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-18-2024",
+   "path": "local/dolj/scaesti/2024/18",
+   "short": "HCL Scăești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 18/2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/159322",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/159322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-2-2024",
+   "path": "local/dolj/scaesti/2024/2",
+   "short": "HCL Scăești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 2/2024 privind aprobarea retelei scolare pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/138022",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/138022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-21-2024",
+   "path": "local/dolj/scaesti/2024/21",
+   "short": "HCL Scăești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 21/2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/160162",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/160162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-23-2024",
+   "path": "local/dolj/scaesti/2024/23",
+   "short": "HCL Scăești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 23/2024 privind rectificare bugetara",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/160164",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/160164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-25-2024",
+   "path": "local/dolj/scaesti/2024/25",
+   "short": "HCL Scăești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 25/2024 privind aprobare dare de seamă aferentă trimestrului l al anului 2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/166494",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/166494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-26-2024",
+   "path": "local/dolj/scaesti/2024/26",
+   "short": "HCL Scăești nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 26/2024 privind rectificare bugetara de venituri si cheltuieli trim. III",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/166495",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/166495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-27-2024",
+   "path": "local/dolj/scaesti/2024/27",
+   "short": "HCL Scăești nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 27/2024 privind stabilirea tarifului pentru apa distribuita cetatenilor din Comuna Scaesti, judetul Dolj",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/166496",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/166496",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-28-2024",
    "path": "local/dolj/scaesti/2024/28",
    "short": "HCL Scăești nr. 28/2024",
@@ -28,6 +253,21 @@
      "from": "2024-09-20",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/170037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-3-2024",
+   "path": "local/dolj/scaesti/2024/3",
+   "short": "HCL Scăești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 3/2024 privind propunerea de NEASUMARE a responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor de panificatie, laptelui si produselor lactate si fructelor sau legumelor precum si a acordurilor –cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru perioada 2024-2025,2025-2026 si 2026-2027",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/138023",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/138023",
      "sha256": null
     }
    ]
@@ -183,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--scaesti-4-2024",
+   "path": "local/dolj/scaesti/2024/4",
+   "short": "HCL Scăești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 4/2024 privind aporbarea Studiului de Oportunitate/Fundamentare privind delegarea gestiunii activității de tratare mecanobiologică a deșeurilor reziduale din județul Dolj",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/138024",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/138024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--scaesti-40-2024",
    "path": "local/dolj/scaesti/2024/40",
    "short": "HCL Scăești nr. 40/2024",
@@ -298,6 +553,51 @@
      "from": "2025-01-17",
      "units": 1,
      "source_url": "https://emol.ro/scaesti-dj/registru-hcl/183461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-5-2024",
+   "path": "local/dolj/scaesti/2024/5",
+   "short": "HCL Scăești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 5/2024 privind aprobarea Planului anual de actiuni si lucrari de interes local pe anul 2024, conform Lg. 196/2016",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/138025",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/138025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-6-2024",
+   "path": "local/dolj/scaesti/2024/6",
+   "short": "HCL Scăești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 6/2024 privind repartizarea excedentului bugetar aferent anului 2023 pentru investitiile anului 2024",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/141777",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/141777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-9-2024",
+   "path": "local/dolj/scaesti/2024/9",
+   "short": "HCL Scăești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 9/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/147847",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/147847",
      "sha256": null
     }
    ]

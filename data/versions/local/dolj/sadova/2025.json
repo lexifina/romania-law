@@ -3,6 +3,276 @@
  "shard": "local/dolj/sadova/2025",
  "acts": [
   {
+   "slug": "hcl-dolj--sadova-1-2025",
+   "path": "local/dolj/sadova/2025/1",
+   "short": "HCL Sadova nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 1/2025 privind aprobarea acoperirii definitive din excedentul bugetului local al Comunei Sadova a deficitului sectiunii de dezvoltare înregistrat la data de 31.12.2024",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/186126",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/186126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-14-2025",
+   "path": "local/dolj/sadova/2025/14",
+   "short": "HCL Sadova nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 14/2025 privind aprobarea bugetului local al comunei Sadova pe anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/198861",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/198861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-15-2025",
+   "path": "local/dolj/sadova/2025/15",
+   "short": "HCL Sadova nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 15/2025 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul lV, anul 2024",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/198862",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/198862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-18-2025",
+   "path": "local/dolj/sadova/2025/18",
+   "short": "HCL Sadova nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 18/2025 privind modificarea taxei speciale de salubrizare începând cu data de 01.04.2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/198865",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/198865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-2-2025",
+   "path": "local/dolj/sadova/2025/2",
+   "short": "HCL Sadova nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 2/2025 pentru aprobarea raportului activitatii asistentilor personali angajati in cadrul Primariei comunei Sadova pe semestrul ll, anul 2024",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/189120",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/189120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-21-2025",
+   "path": "local/dolj/sadova/2025/21",
+   "short": "HCL Sadova nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 21/2025 privind aprobarea Strategiei Anuale a Achizițiilor Publice pentru anul 2025 cât și a Programului Anual al Achizitiilor Publice , la nivelul comunei Sadova, pentru anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/198868",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/198868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-22-2025",
+   "path": "local/dolj/sadova/2025/22",
+   "short": "HCL Sadova nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 22/2025 privind aprobarea bugetului de venituri si cheltuieli , anul 2025, al SERVICIULUI DE APA si de CANALIZARE al COMUNEI SADOVA, denumit \"Serviciul Public de Alimentare cu Apa si de Canalizare al Comunei Sadova\", cu personalitate juridică, organizat în subordinea Consiliului Local al Comunei Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/201666",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/201666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-23-2025",
+   "path": "local/dolj/sadova/2025/23",
+   "short": "HCL Sadova nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 23/2025 privind aprobarea programului de acțiune comunitară al comunei Sadova destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/201667",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/201667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-24-2025",
+   "path": "local/dolj/sadova/2025/24",
+   "short": "HCL Sadova nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 24/2025 privind aprobarea planului de pază al comunei Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/201668",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/201668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-28-2025",
+   "path": "local/dolj/sadova/2025/28",
+   "short": "HCL Sadova nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 28/2025 privind darea în administrare a serviciului și sistemului de alimentare cu apă și de canalizare ale comunei Sadova, județul Dolj, către Serviciul Public de Alimentare cu Apă și de Canalizare Sadova, serviciu public de interes local, cu personalitate juridică, organizat în subordinea Consiliului Local Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/204689",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/204689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-3-2025",
+   "path": "local/dolj/sadova/2025/3",
+   "short": "HCL Sadova nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 3/2025 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de venit minim de incluziune pe anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/189121",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/189121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-32-2025",
+   "path": "local/dolj/sadova/2025/32",
+   "short": "HCL Sadova nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 32/2025 privind aprobarea Regulamentului cadru de organizare si functionare al Serviciului public de alimentare cu apa și de canalizare , din subordinea Consiliului local al comunei Sadova , judetul Dolj",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/207836",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/207836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-36-2025",
+   "path": "local/dolj/sadova/2025/36",
+   "short": "HCL Sadova nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 36/2025 privind stabilirea prețului pentru furnizarea apei, la 8 lei/mc, atât pentru consumatorii casnici cât și pentru persoanele juridice",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/214097",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/214097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-4-2025",
+   "path": "local/dolj/sadova/2025/4",
+   "short": "HCL Sadova nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 4/2025 privind aprobarea strategiei de dezvoltare a serviciilor sociale la nivelul comunei Sadova, judetul Dolj, pentru perioada 2025-2030",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/189122",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/189122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-42-2025",
+   "path": "local/dolj/sadova/2025/42",
+   "short": "HCL Sadova nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 42/2025 privind aprobarea completării denumirii unui obiectiv din lista de investiții pe anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/216528",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/216528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-43-2025",
+   "path": "local/dolj/sadova/2025/43",
+   "short": "HCL Sadova nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 43/2025 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul l si pe trimestrul ll anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/218269",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/218269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-45-2025",
+   "path": "local/dolj/sadova/2025/45",
+   "short": "HCL Sadova nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 45/2025 pentru aprobarea raportului activitatii asistentilor personali angajati in cadrul Primariei comunei Sadova pe semestrul l, anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/218271",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/218271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-51-2025",
+   "path": "local/dolj/sadova/2025/51",
+   "short": "HCL Sadova nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 51/2025 privind includerea în inventarul domeniului public al comunei Sadova a imobilului-construcție, strada Craiovei, nr.165, având destinația -sediu Primăria Sadova",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/227006",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/227006",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--sadova-52-2025",
    "path": "local/dolj/sadova/2025/52",
    "short": "HCL Sadova nr. 52/2025",

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/foltesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-galati--foltesti-38-2021",
+   "path": "local/galati/foltesti/2021/38",
+   "short": "HCL Foltești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 38/2021",
+   "url": "https://www.comunafoltesti.ro/wp-content/uploads/2021/10/HCL-38.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2021/10/HCL-38.2021.pdf",
+     "sha256": "b45375aad7e622c48a1a80f36203e384348c933027cdd7efb73324f9723a78d4"
+    }
+   ]
+  }
+ ]
+}

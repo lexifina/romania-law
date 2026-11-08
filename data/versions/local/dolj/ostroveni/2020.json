@@ -3,6 +3,336 @@
  "shard": "local/dolj/ostroveni/2020",
  "acts": [
   {
+   "slug": "hcl-dolj--ostroveni-20-2020",
+   "path": "local/dolj/ostroveni/2020/20",
+   "short": "HCL Ostroveni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 20/2020 privind modificarea cuantumului cotizatiei anuale datorate de comuna Ostroveni catre Asociatia de Dezvoltare Intercomunitara Oltenia",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/2918",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/2918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-21-2020",
+   "path": "local/dolj/ostroveni/2020/21",
+   "short": "HCL Ostroveni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 21/2020 privind revocarea Hotararii Consiliului Local Ostroveni nr.12/28.02.2020 privind aprobarea incheierii unui contract de prestari servicii cu o firma specializata pentru asigurarea serviciilor de paza a obiectivelor ,bunurilor si valorilor publice si private ale comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/2919",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/2919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-22-2020",
+   "path": "local/dolj/ostroveni/2020/22",
+   "short": "HCL Ostroveni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 22/2020 privind aprobarea Planului de paza al comunei Ostroveni,judetul Dolj",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/2920",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/2920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-23-2020",
+   "path": "local/dolj/ostroveni/2020/23",
+   "short": "HCL Ostroveni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 23/2020 privind incheierea unui contract de prestari servicii cu o firma specializata in servicii de paza si protectie pentru asigurarea serviciilor de paza a obiectivelor,bunurilor si valorilor publice si private ale comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/2921",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/2921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-24-2020",
+   "path": "local/dolj/ostroveni/2020/24",
+   "short": "HCL Ostroveni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 24/2020 privind revocarea H.C.L.Ostroveni nr. 8/2019 privind introducerea in domeniul public al comunei Ostroveni a imobilelor inscrise in Anexa 1",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/4993",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/4993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-25-2020",
+   "path": "local/dolj/ostroveni/2020/25",
+   "short": "HCL Ostroveni nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 25/2020 privind declararea unor imobile de uz public local",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/4994",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/4994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-26-2020",
+   "path": "local/dolj/ostroveni/2020/26",
+   "short": "HCL Ostroveni nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 26/2020 privind acordarea unor facilitati fiscale",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/4995",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/4995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-27-2020",
+   "path": "local/dolj/ostroveni/2020/27",
+   "short": "HCL Ostroveni nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 27/2020 privind modificarea Anexei 1 la HCL OSTROVENI nr. 35/2019 privind aprobarea Nomenclatorului stradal al comunei Ostroveni,judetul Dolj",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/6648",
+   "versions": [
+    {
+     "from": "2020-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/6648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-28-2020",
+   "path": "local/dolj/ostroveni/2020/28",
+   "short": "HCL Ostroveni nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 28/2020 privind virarea sumei de 11117,71 lei din sursa de finantare E a Scolii Gimnaziale Ostroveni la bugetul Consiliului Local Ostroveni si stabilirea cotei din chirii ce ramane la dispozitia ordonatorului tertiar",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/7519",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/7519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-29-2020",
+   "path": "local/dolj/ostroveni/2020/29",
+   "short": "HCL Ostroveni nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 29/2020 privind aprobarea statului de functii al aparatului de specialitate al primarului comunei Ostroveni, judetul Dolj si serviciilor publice locale din subordinea Consiliului Local Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/8273",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/8273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-30-2020",
+   "path": "local/dolj/ostroveni/2020/30",
+   "short": "HCL Ostroveni nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 30/2020 privind rectificarea bugetului Consiliului Local Ostroveni si a Listei obiectivelor de investitii pe anul 2020",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/8274",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/8274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-32-2020",
+   "path": "local/dolj/ostroveni/2020/32",
+   "short": "HCL Ostroveni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 32/2020 privind actualizarea Programului anual al achizitiilor publice pe anul 2020",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/8276",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/8276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-33-2020",
+   "path": "local/dolj/ostroveni/2020/33",
+   "short": "HCL Ostroveni nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 33/2020 privind rectificarea bugetului Consiliului Local Ostroveni si a Listei obiectivelor de investitii pe anul 2020",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/9776",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/9776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-34-2020",
+   "path": "local/dolj/ostroveni/2020/34",
+   "short": "HCL Ostroveni nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 34/2020 privind aprobarea traseului microbuzului scolar in anul scolar 2020-2021",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/9777",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/9777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-37-2020",
+   "path": "local/dolj/ostroveni/2020/37",
+   "short": "HCL Ostroveni nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 37/2020 privind privind actualizarea indicatorilor tehnico-economici in urma actualizarii devizului general al investitiei \"REABILITARE ȘI MODERNIZARE ȘCOALĂ GIMNAZIALĂ LISTEAVA”, investitie finantata PNDL, prin Ministerul Lucrarilor Publice, Dezvoltarii si Administratiei (MLPDA)",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/9780",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/9780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-38-2020",
+   "path": "local/dolj/ostroveni/2020/38",
+   "short": "HCL Ostroveni nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 38/2020 privind aprobarea proiectului si a cheltuielilor legate de proiect pentru obiectivul de investitii:,,Dotarea elevilor cu tablete scolare precum dotarea cadrelor didactice cu echipamente /dispozitive electronice necesare desfasurarii activitatii didactice in mediu on-line pentru Scoala Gimnaziala Ostroveni,judetul Dolj''",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/10153",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/10153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-39-2020",
+   "path": "local/dolj/ostroveni/2020/39",
+   "short": "HCL Ostroveni nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 39/2020 privind darea in folosinta gratuita a suprafetei de 4347 mp teren intravilan, catre SC ERPIA SA ,pentru organizarea santierului in vederea inceperii lucrarilor in Proiectul Regional a Infrastructurii de Apa si Apa uzata in judetul Dolj",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/10154",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/10154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-40-2020",
+   "path": "local/dolj/ostroveni/2020/40",
+   "short": "HCL Ostroveni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 40/2020 privind incheierea unui contract de prestari servicii in vederea intocmirii inventarierii elementelor de natura activelor ,datoriilor si capitalurilor proprii ale UAT COM.OSTROVENI",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/10155",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/10155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-41-2020",
+   "path": "local/dolj/ostroveni/2020/41",
+   "short": "HCL Ostroveni nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 41/2020 privind incheierea unui contract de prestari servicii cu o firma specializata in reevaluarea activele fixe corporale de natura constructiilor si terenurilor aflate in patrimoniul comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/10156",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/10156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-42-2020",
+   "path": "local/dolj/ostroveni/2020/42",
+   "short": "HCL Ostroveni nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 42/2020 privind modificarea şi completarea inventarului bunurilor care aparţin domeniului public al comunei Ostroveni însuşit prin HCL nr.5 /1999 ,atestat prin HG 965/2002 cu valoarea investitiei realizata prin Programul FEADR -Submăsura 19.2 - Sprijin pentru implementarea acțiunilor în cadrul strategiei de dezvoltare locală",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/10157",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/10157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-43-2020",
+   "path": "local/dolj/ostroveni/2020/43",
+   "short": "HCL Ostroveni nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 43/2020 privind intretinerea si/sau repararea infrastructurii pe toata perioada de monitorizare a investitiei si accesul public fara perceperea de taxe pentru o perioada de 5 ani de la finalizarea investitiei finantata prin FEADR “REABILITARE SI MODERNIZARE TEATRU DE VARA COMUNA OSTROVENI, JUDETUL DOLJ",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/10158",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/10158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-44-2020",
+   "path": "local/dolj/ostroveni/2020/44",
+   "short": "HCL Ostroveni nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 44/2020 privind modificarea Art.2 din HCL OSTROVENI NR.38/20.10.2020 privind aprobarea proiectului si a cheltuielilor legate de proiect pentru obiectivul de investitii:,,Dotarea elevilor cu tablete scolare precum dotarea cadrelor didactice cu echipamente /dispozitive electronice necesare desfasurarii activitatii didactice in mediu on-line pentru Scoala Gimnaziala Ostroveni,judetul Dolj''",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/10424",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/10424",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-45-2020",
    "path": "local/dolj/ostroveni/2020/45",
    "short": "HCL Ostroveni nr. 45/2020",

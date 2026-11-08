@@ -3,6 +3,21 @@
  "shard": "local/dambovita/varfuri/2025",
  "acts": [
   {
+   "slug": "hcl-dambovita--varfuri-1-2025",
+   "path": "local/dambovita/varfuri/2025/1",
+   "short": "HCL Vârfuri nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 1/2025 acoperirea deficitului înregistrat la finalul anului 2024, la Secţiunea de Dezvoltare",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#91667",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#91667",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--varfuri-10-2025",
    "path": "local/dambovita/varfuri/2025/10",
    "short": "HCL Vârfuri nr. 10/2025",
@@ -148,6 +163,21 @@
      "from": "2025-03-19",
      "units": 1,
      "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#97624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-2-2025",
+   "path": "local/dambovita/varfuri/2025/2",
+   "short": "HCL Vârfuri nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 2/2025 aprobarea utilizării excedentului bugetului local existent la finele anului 2024",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#91669",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#91669",
      "sha256": null
     }
    ]
@@ -303,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--varfuri-3-2025",
+   "path": "local/dambovita/varfuri/2025/3",
+   "short": "HCL Vârfuri nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 3/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#93776",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#93776",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--varfuri-30-2025",
    "path": "local/dambovita/varfuri/2025/30",
    "short": "HCL Vârfuri nr. 30/2025",
@@ -448,6 +493,21 @@
      "from": "2025-07-31",
      "units": 1,
      "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#107430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-4-2025",
+   "path": "local/dambovita/varfuri/2025/4",
+   "short": "HCL Vârfuri nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 4/2025 privind stabilirea si aprobarea cotizației/contribuției, la nivel județean, pentru anul 2025, în cuantumul stabilit pentru anul 2024,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#93778",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#93778",
      "sha256": null
     }
    ]

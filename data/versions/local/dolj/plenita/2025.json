@@ -3,6 +3,21 @@
  "shard": "local/dolj/plenita/2025",
  "acts": [
   {
+   "slug": "hcl-dolj--plenita-1-2025",
+   "path": "local/dolj/plenita/2025/1",
+   "short": "HCL Plenița nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 1/2025 privind aprobarea utilizarii excedentului anilor precedenti ca sursa de finatare a sectiunii de dezvoltare",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/196188",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/196188",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-10-2025",
    "path": "local/dolj/plenita/2025/10",
    "short": "HCL Plenița nr. 10/2025",
@@ -223,6 +238,36 @@
      "from": "2025-08-06",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/220302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-3-2025",
+   "path": "local/dolj/plenita/2025/3",
+   "short": "HCL Plenița nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 3/2025 privind aprobarea Regulamentului Organizare şi Funcţionare al Consiliului Local al Comunei Plenița, judeţul Dolj",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/196190",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/196190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-4-2025",
+   "path": "local/dolj/plenita/2025/4",
+   "short": "HCL Plenița nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 4/2025 privind reorganizarea organigramei si statului de functii al aparatului de specialitate al primarului si structurilor din subordinea consiliului local",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/196191",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/196191",
      "sha256": null
     }
    ]

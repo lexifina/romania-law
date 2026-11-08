@@ -3,6 +3,201 @@
  "shard": "local/dolj/pielesti/2026",
  "acts": [
   {
+   "slug": "hcl-dolj--pielesti-1-2026",
+   "path": "local/dolj/pielesti/2026/1",
+   "short": "HCL Pielești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 1/2026 privind ,, Aprobarea acoperirii deficitului Secțiunii de Dezvoltare pe anul 2025 în sumă de 8.387.936,57 lei din excedentul anilor anteriori conform OMFP nr. 1983/2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/246289",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/246289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-10-2026",
+   "path": "local/dolj/pielesti/2026/10",
+   "short": "HCL Pielești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 10/2026 privind ,, Trecerea din domeniul privat în domeniul public al UAT Comuna Pielești a bunurilor imobile - terenuri intravilane, prevăzute în anexă ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/249445",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/249445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-100-2026",
+   "path": "local/dolj/pielesti/2026/100",
+   "short": "HCL Pielești nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 100/2026",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/289014",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/289014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-101-2026",
+   "path": "local/dolj/pielesti/2026/101",
+   "short": "HCL Pielești nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 101/2026",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/289015",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/289015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-103-2026",
+   "path": "local/dolj/pielesti/2026/103",
+   "short": "HCL Pielești nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 103/2026",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/289017",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/289017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-108-2026",
+   "path": "local/dolj/pielesti/2026/108",
+   "short": "HCL Pielești nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 108/2026 privind ,, Aprobarea Studiului de oportunitate privind modalitatea de gestiune a activității de dezinsecție, dezinfecție și deratizare de pe raza Comunei Pielești, județul Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/289022",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/289022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-109-2026",
+   "path": "local/dolj/pielesti/2026/109",
+   "short": "HCL Pielești nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 109/2026 privind ,, Aprobarea modalității de gestiune directă pentru activitățile de dezinsecție,dezinfecție, deratizare de pe raza Comunei Pielești, județul Dolj ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/289023",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/289023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-110-2026",
+   "path": "local/dolj/pielesti/2026/110",
+   "short": "HCL Pielești nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 110/2026 privind ,, Aprobarea caracteristicilor tehnice minimale actualizate pentru unele echipamente aferente obiectivului „Achiziționare autoutilitară echipată pentru Serviciul Voluntar pentru Situații de Urgență din Comuna Pielești, județul Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/289024",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/289024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-111-2026",
+   "path": "local/dolj/pielesti/2026/111",
+   "short": "HCL Pielești nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 111/2026",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/289025",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/289025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-112-2026",
+   "path": "local/dolj/pielesti/2026/112",
+   "short": "HCL Pielești nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 112/2026 privind ,, Aprobarea preluării fără plată a autospecialei PSI ZIEGLER ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/289026",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/289026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-113-2026",
+   "path": "local/dolj/pielesti/2026/113",
+   "short": "HCL Pielești nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 113/2026 privind ,, Aprobarea proiectului „Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile, cu capacități de stocare integrate, pentru autoconsum pentru entități publice în Comuna Pielești, județul Dolj\", a Studiului de fezabilitate și a indicatorilor tehnico-economici ai obiectivului de investiții, a valorii proiectului și a finanțării cheltuielilor din proiect, altele decât ajutorul public nerambursabil, precum și a participării Comunei Pielești la apelul de proiecte „Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice\", finanțat din Fondul pentru Modernizare – Programul-cheie 1,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/290068",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/290068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-114-2026",
+   "path": "local/dolj/pielesti/2026/114",
+   "short": "HCL Pielești nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 114/2026 privind ,,Acordarea dreptului de utilizare a terenurilor proprietatea Comunei Pielești pentru amplasarea LES 110KV și a stâlpilor LEA 110KV –Oltețul Energy SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/296683",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/296683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-115-2026",
+   "path": "local/dolj/pielesti/2026/115",
+   "short": "HCL Pielești nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 115/2026",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/296684",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/296684",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-117-2026",
    "path": "local/dolj/pielesti/2026/117",
    "short": "HCL Pielești nr. 117/2026",
@@ -198,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-13-2026",
+   "path": "local/dolj/pielesti/2026/13",
+   "short": "HCL Pielești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 13/2026 privind ,, Acceptarea intenției formulată de către SC Aurvila SRL de a dona UAT-lui Comuna Pielești - Sistemul de alimentare cu apă și canalizare existent în Cartierul Magnolia respectiv pe Aleea 6, Aleea 7 și Aleea 8,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/249448",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/249448",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-130-2026",
    "path": "local/dolj/pielesti/2026/130",
    "short": "HCL Pielești nr. 130/2026",
@@ -298,6 +508,1101 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/296705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-14-2026",
+   "path": "local/dolj/pielesti/2026/14",
+   "short": "HCL Pielești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 14/2026 privind ,, Aprobarea Modificării Actului Constitutiv al Societății Serviciu de Gospodărie Comunală Pielești SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/253485",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/253485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-15-2026",
+   "path": "local/dolj/pielesti/2026/15",
+   "short": "HCL Pielești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 15/2026 privind ,,Aprobarea efectuării operațiunilor notariale de dezmembrare în trei corpuri de proprietate a imobilului situat în T 14 P 69 având CF 51543- Domeniul Privat al UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/253486",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/253486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-16-2026",
+   "path": "local/dolj/pielesti/2026/16",
+   "short": "HCL Pielești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 16/2026 privind ,,Preluarea de către UAT Comuna Pielești a dreptului de administrare acordat Școlii Gimnaziale Pielești( Școala Generală nr 2 Pielești) asupra bunurilor imobile : terenuri și construcții în care își desfășoară activitatea școala și grădinița din satele Cpmpeni și Pielești ( Pârșani)",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/255297",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/255297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-17-2026",
+   "path": "local/dolj/pielesti/2026/17",
+   "short": "HCL Pielești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 17/2026 privind ,, Aprobarea Regulamentului pentru conferirea titlului de ,, Cetățean de onoare al Comunei Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/255298",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/255298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-18-2026",
+   "path": "local/dolj/pielesti/2026/18",
+   "short": "HCL Pielești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 18/2026 privind ,, Completarea,modificarea și actualizarea hotărârii Consiliului Local Pielești nr 18/2006 de inventariere a domeniului privat al Comunei Pielești și intabularea definitivă în favoarea UAT Comuna Pielești a dreptului de proprietate privată asupra imobilului situat în T 66P108/1 având CF 38019 Pielești",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/255299",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/255299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-19-2026",
+   "path": "local/dolj/pielesti/2026/19",
+   "short": "HCL Pielești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 19/2026 privind ,,Aprobarea documentației tehnice faza PT și a indicatorilor tehnico-economici aferenți obiectivului ,, Construire Grădiniță și Creșă cu Program Prelungit în Comuna Pielești, județul Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/255300",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/255300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-2-2026",
+   "path": "local/dolj/pielesti/2026/2",
+   "short": "HCL Pielești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 2/2026 privind,, Aprobarea Componenței integrale a Planului de Selecția a Administratorilor la SC Serviciu de Gospodărie Comunală Pielești SRL precum și a Profilului Consiliului de Administrație al SC Gospodărie Comunală Pielești SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/248014",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/248014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-20-2026",
+   "path": "local/dolj/pielesti/2026/20",
+   "short": "HCL Pielești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 20/2026 privind ,, Aprobarea implementarii, a necesitatii si a oportunitatii depunerii proiectului, a indicatorilor tehnico-economici, precum si a Devizului General aferenti obiectivului “ACHIZIȚIONARE AUTOUTILITARĂ ECHIPATĂ PENTRU SERVICIUL VOLUNTAR PENTRU SITUATII DE URGENTA DIN COMUNA PIELEȘTI, JUDETUL DOLJ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/257860",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/257860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-21-2026",
+   "path": "local/dolj/pielesti/2026/21",
+   "short": "HCL Pielești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 21/2026 privind ,, Modificarea Regulamentului Serviciului de Salubrizare în Județul Dolj și aprobarea Actului Adițional nr 9 la Contractul nr 370/22.05.2018,, Delegare prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în județul Dolj și operarea stației de sortare și transfer Goicea,, în Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260234",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-22-2026",
+   "path": "local/dolj/pielesti/2026/22",
+   "short": "HCL Pielești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 22/2026 privind ,,Acceptarea propunerii de donație formulată în cauză de către coproprietarii bunului imobil - teren intravilan situat în Comuna Pielești , sat Pielești, T 47 P 89 în suprafață de 1975 mp, având CF nr 39714 Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260235",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-23-2026",
+   "path": "local/dolj/pielesti/2026/23",
+   "short": "HCL Pielești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 23/2026 privind ,,Acceptarea propunerii de donație formulată în cauză de către coproprietarii bunului imobil - teren intravilan situat în Comuna Pielești , sat Pielești, T 47 P 88 în suprafață de 1999 mp, având CF nr 39191 Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260236",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-24-2026",
+   "path": "local/dolj/pielesti/2026/24",
+   "short": "HCL Pielești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 24/2026 privind ,, Trecerea din domeniul privat în domeniul public al UAT Comuna Pielești a bunului imobil - teren intravilan, situat în T 47 P 14,15,131,132,133,125,126,127,128,129,130 având CF 52350 Pielești precum și schimbarea categoriei de folosință a acestuia din arabil în drum,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260237",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-25-2026",
+   "path": "local/dolj/pielesti/2026/25",
+   "short": "HCL Pielești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 25/2026 privind ,, Trecerea din domeniul privat în domeniul public al UAT Comuna Pielești a bunurilor imobile – având Cf 38019 și Cf 38911 Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260238",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-26-2026",
+   "path": "local/dolj/pielesti/2026/26",
+   "short": "HCL Pielești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 26/2026 privind ,, Acceptarea propunerii de donație, formulată în cauză de către SC Texin SRL și dl Butăriță Damian în calitate de coproprietarii ai bunurilor imobile - terenuri intravilane situate în T 47 P 74, în suprafață de 7458 mp având CF 52533 Pielești și respectiv în suprafață de 1325 mp având CF 52839 Pielești, precum și a rețelei edilitare de apă și canalizare executată pe aceste terenuri,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260239",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-28-2026",
+   "path": "local/dolj/pielesti/2026/28",
+   "short": "HCL Pielești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 28/2026 privind ,,Aprobarea documentației tehnice, faza SF și a indicatorilor tehnico-economici pentru obiectivul de investiții „I.1.3 – Asigurarea infrastructurii pentru transportul verde- puncte de reîncărcare vehicule electrice, Titlu apel: PNRR/2022/C10/I.1.3”",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260241",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-29-2026",
+   "path": "local/dolj/pielesti/2026/29",
+   "short": "HCL Pielești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 29/2026 privind ,, Aprobarea inițierii demersurilor pentru delegarea gestiunii serviciului de alimentare cu apă și de canalizare al UAT Comuna Pielești și a transmiterii în administrare a bunurilor aferente sistemului de alimentare cu apă și de canalizare către Compania de Apă Oltenia S.A",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260242",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-3-2026",
+   "path": "local/dolj/pielesti/2026/3",
+   "short": "HCL Pielești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 3/2026 privind ,, Aprobarea Componenței integrale a Planului de Selecția a Administratorilor la SC SPADIA Pielești SRL precum și a Profilului Consiliului de Administrație al SC SPADIA Pielești SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/248015",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/248015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-30-2026",
+   "path": "local/dolj/pielesti/2026/30",
+   "short": "HCL Pielești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 30/2026 privind ,, Reorganizarea aparatului de specialitate al Primarului Comunei Pielești, județul Dolj precum și aprobarea Organigramei și a Statului de Funcții ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260243",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-31-2026",
+   "path": "local/dolj/pielesti/2026/31",
+   "short": "HCL Pielești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 31/2026",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/260244",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/260244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-32-2026",
+   "path": "local/dolj/pielesti/2026/32",
+   "short": "HCL Pielești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 32/2026 privind ,, Aprobarea schimbării destinației imobilului Școală Primară Câmpeni (Corp C1) înscris în cartea Funciară nr 41597 Pielești, aflat în domeniul public al Comunei Pielești, județul Dolj, în vederea demolării și edificării unei noi construcții cu destinația de unitate de învățământ, care va fi înscris în baza materială a învățământului preuniversitar,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/264126",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/264126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-33-2026",
+   "path": "local/dolj/pielesti/2026/33",
+   "short": "HCL Pielești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 33/2026 privind ,,Actualizarea indicatorilor economici și a cofinanțării investiției, privind Actualizarea Planului Urbanistic General și a Regulamentului Local de Urbanism al Comunei Pielești, Județul Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/264127",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/264127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-36-2026",
+   "path": "local/dolj/pielesti/2026/36",
+   "short": "HCL Pielești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 36/2026 privind ,, Trecerea din domeniul privat în domeniul public al UAT Comuna Pielești a bunului imobil - teren intravilan, situat în T 45 P 45 având CF 52659 Pielești precum și schimbarea categoriei de folosință a acestuia din arabil în drum,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/265816",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/265816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-37-2026",
+   "path": "local/dolj/pielesti/2026/37",
+   "short": "HCL Pielești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 37/2026 privind ,, Trecerea din domeniul privat în domeniul public al UAT Comuna Pielești a bunului imobil - teren intravilan, situat în T 45 P 47 având CF 52665 Pielești precum și schimbarea categoriei de folosință a acestuia din curți construcții în drum,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/265817",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/265817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-38-2026",
+   "path": "local/dolj/pielesti/2026/38",
+   "short": "HCL Pielești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 38/2026 privind ,, Trecerea din domeniul privat în domeniul public al UAT Comuna Pielești a bunurilor imobile - terenuri intravilane, situate în T 45 P 51 având CF 46000 Pielești, T 45 P 48 având CF 52661 Pielești și T 45 P 48 având CF 45996 Pielești precum și schimbarea categoriei de folosință a acestora din curți construcții în drum,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/265818",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/265818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-39-2026",
+   "path": "local/dolj/pielesti/2026/39",
+   "short": "HCL Pielești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 39/2026 privind ,, Efectuarea operațiunilor cadastrale și notariale de alipire a suprafețelor de teren prevăzute în anexă la terenul intravilan în suprafață de 1696 mp reprezentat de drumul de exploatare - DE 62 având CF 46025 Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/265819",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/265819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-4-2026",
+   "path": "local/dolj/pielesti/2026/4",
+   "short": "HCL Pielești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 4/2026 privind ,, Actualizarea Hotărârii 149 din 30.10.2025 privind ,,Aprobarea realizării investiției, a indicatorilor economici la faza DALI și a documentației tehnico economice aferente obiectivului de investiții ,,Creșterea eficienței energetice a Școlii Gimnazile Pielești CF 52509-C1,C2”",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/248016",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/248016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-42-2026",
+   "path": "local/dolj/pielesti/2026/42",
+   "short": "HCL Pielești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 42/2026 privind ,, Aprobarea indicatorilor tehnico-economici, faza PT , actualizați , aferenți obiectivului ,, Construire Grădiniță și Creșă cu Program Prelungit în Comuna Pielești, Județul Dolj ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/265822",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/265822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-43-2026",
+   "path": "local/dolj/pielesti/2026/43",
+   "short": "HCL Pielești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 43/2026 privind ,,Aprobarea introducerii în inventarul domeniului public al UAT Comuna Pielești a unor bunuri rezultate din realizarea investițiilor,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/267535",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/267535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-44-2026",
+   "path": "local/dolj/pielesti/2026/44",
+   "short": "HCL Pielești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 44/2026 privind ,, Aprobarea bugetului de venituri și cheltuieli al UAT Comuna Pielești aferent anului 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/267536",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/267536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-45-2026",
+   "path": "local/dolj/pielesti/2026/45",
+   "short": "HCL Pielești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 45/2026 privind ,, Aprobarea utilizării excedentului bugetar existent la finalul anului 2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/267537",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/267537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-46-2026",
+   "path": "local/dolj/pielesti/2026/46",
+   "short": "HCL Pielești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 46/2026 privind ,, Aprobarea Programului anual al achizițiilor publice pentru anul 2026 la nivelul UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/267538",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/267538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-47-2026",
+   "path": "local/dolj/pielesti/2026/47",
+   "short": "HCL Pielești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 47/2026 privind ,, Aprobarea derulării și finanțării din bugetul local al UAT Comuna Pielești a Programului ,, Școală după Școală,, în unitățile de invățământ de pe raza Comunei Pielești, în anul școlar 2026-2027, pentru perioada septembrie -31 decembrie 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/267539",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/267539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-48-2026",
+   "path": "local/dolj/pielesti/2026/48",
+   "short": "HCL Pielești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 48/2026 privind ,, Aprobarea organizării și desfășurării evenimentelor culturale la nivelul UAT Comuna Pielești, aferente anului 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/267540",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/267540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-49-2026",
+   "path": "local/dolj/pielesti/2026/49",
+   "short": "HCL Pielești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 49/2026",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/268439",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/268439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-50-2026",
+   "path": "local/dolj/pielesti/2026/50",
+   "short": "HCL Pielești nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 50/2026 privind ,, Aprobarea completării HCL Pielești nr 44/7.05.2026 - ,,Aprobarea Bugetului de Venituri și Cheltuieli a UAT Comuna Pielești aferent anului 2026,, în sensul aprobării Raportului privind rezultatele etichetării cheltuielilor bugetare detaliate pe capitole și surse de finanțare,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/268440",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/268440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-51-2026",
+   "path": "local/dolj/pielesti/2026/51",
+   "short": "HCL Pielești nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 51/2026 privind ,, Aprobarea documentației faza SF și actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „I.1.3 – Asigurarea infrastructurii pentru transportul verde- puncte de reîncărcare vehicule electrice, Titlu apel: PNRR/2022/C10/I.1.3.,”",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/268441",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/268441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-52-2026",
+   "path": "local/dolj/pielesti/2026/52",
+   "short": "HCL Pielești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 52/2026 privind ,, Aprobarea Rectificării bugetului de venituri și cheltuieli al UAT Comuna Pielești pe trimestrul al II lea 2026 pe Secțiunea de Dezvoltare precum și a raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare aferente bugetului de venituri și cheltuieli al UAT Comuna Pielești pentru anul 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/269230",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/269230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-53-2026",
+   "path": "local/dolj/pielesti/2026/53",
+   "short": "HCL Pielești nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 53/2026 privind ,,Aprobarea efectuării operațiunilor cadastrale și notariale de dezmembrare a imobilelor - domeniul public al UAT Comuna Pielești având CF 52509 și respectiv CF 50107 Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/271037",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/271037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-56-2026",
+   "path": "local/dolj/pielesti/2026/56",
+   "short": "HCL Pielești nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 56/2026 privind ,, Acordarea de premii în bani preșcolarilor și elevilor Școlii Gimnaziale Pielești ce au obținut premii la concursurile județene, interjudețene și naționale ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/271040",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/271040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-57-2026",
+   "path": "local/dolj/pielesti/2026/57",
+   "short": "HCL Pielești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 57/2026 privind ,, Aprobarea Bugetului de Venituri și Cheltuieli al Sc Apă Canal Pielești SRL aferent anului 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/271041",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/271041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-58-2026",
+   "path": "local/dolj/pielesti/2026/58",
+   "short": "HCL Pielești nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 58/2026 privind ,, Stabilirea locațiilor de depozitare temporară a materialelor rezultate în urma lucrărilor aferente proiectului de modernizare a DJ 641 - pe raza administrativă a Comunei Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/271042",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/271042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-6-2026",
+   "path": "local/dolj/pielesti/2026/6",
+   "short": "HCL Pielești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 6/2026 privind ,, Aprobarea Regulamentului de Organizare și Funcționare a Serviciului Social de zi din cadrul Proiectului,, Centru de zi de recuperare pentru copiii cu dizabilități,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/248018",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/248018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-60-2026",
+   "path": "local/dolj/pielesti/2026/60",
+   "short": "HCL Pielești nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 60/2026 privind ,, Aprobarea indicatorilor tehnico-economici, faza PT , actualizați , aferenți obiectivului ,, Construire Grădiniță și Creșă cu Program Prelungit în Comuna Pielești, Județul Dolj ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/272518",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/272518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-61-2026",
+   "path": "local/dolj/pielesti/2026/61",
+   "short": "HCL Pielești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 61/2026 privind ,, Aprobarea documentației tehnice, faza PT și a indicatorilor tehnico-economici pentru obiectivul de investiții „I.1.3 – Asigurarea infrastructurii pentru transportul verde- puncte de reîncărcare vehicule electrice, Titlu apel: PNRR/2022/C10/I.1.3.,”",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/272519",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/272519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-64-2026",
+   "path": "local/dolj/pielesti/2026/64",
+   "short": "HCL Pielești nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 64/2026 privind ,,Aprobarea schimbării categoriei de folosință din ,,arabil/ curți construcții,, în ,,drum,, a bunurilor imobile- terenuri, proprietatea UAT Comuna Pielești ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/275735",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/275735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-66-2026",
+   "path": "local/dolj/pielesti/2026/66",
+   "short": "HCL Pielești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 66/2026 privind ,, Aprobarea Modificării Actului Constitutiv al Societății ,, SC Apă Canal Pielești SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/275737",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/275737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-68-2026",
+   "path": "local/dolj/pielesti/2026/68",
+   "short": "HCL Pielești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 68/2026 privind ,,Aprobarea introducerii în inventarul domeniului public al UAT Comuna Pielești a mijloacelor fixe ce fac obiectul investițiilor în Sistemul de Apă și Canalizare al UAT Comuna Pielești ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/278611",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/278611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-69-2026",
+   "path": "local/dolj/pielesti/2026/69",
+   "short": "HCL Pielești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 69/2026 privind ,,Aprobarea modelului Contractului de mandat ce urmează a fi încheiat cu administratorii SC SPADIA Pielești SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/278612",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/278612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-70-2026",
+   "path": "local/dolj/pielesti/2026/70",
+   "short": "HCL Pielești nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 70/2026 privind ,, Aprobarea modelului Contractului de mandat ce urmează a fi încheiat cu administratorii SC Serviciu de Gospodărie Comunală Pielești SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/278613",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/278613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-72-2026",
+   "path": "local/dolj/pielesti/2026/72",
+   "short": "HCL Pielești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 72/2026 privind ,,Aprobarea decontării cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru luna iunie 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/282167",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/282167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-74-2026",
+   "path": "local/dolj/pielesti/2026/74",
+   "short": "HCL Pielești nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 74/2026 privind ,,Aprobarea modificării conținutului art 6 din HCL Pielești nr 65/3.062025 privind proiectul ,, Furnizare de servicii integrate în comunitățile rurale- facilitate accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/282169",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/282169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-75-2026",
+   "path": "local/dolj/pielesti/2026/75",
+   "short": "HCL Pielești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 75/2026 privind ,, Aprobarea Regulamentului privind Utilizarea, Administrarea și Exploatarea locurilor de joacă și a terenurilor de sport din Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/282170",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/282170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-77-2026",
+   "path": "local/dolj/pielesti/2026/77",
+   "short": "HCL Pielești nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 77/2026 privind ,, Aprobarea tarifului aferent utilizării stațiilor de încărcare pentru vehicule electrice/hibride amplasate pe domeniul public al Comunei Pielești, județul Dolj, precum și a Regulamentului privind utilizarea și exploatarea acestora,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283115",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-79-2026",
+   "path": "local/dolj/pielesti/2026/79",
+   "short": "HCL Pielești nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 79/2026 privind ,,Demararea procedurii de achiziționare și amplasare a containerelor modulare necesare relocării temporare a activității Școlii Primare Câmpeni pe perioada implementării proiectului din cadrul Programului național de investiții \"Școli sigure și sănătoase,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283117",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-8-2026",
+   "path": "local/dolj/pielesti/2026/8",
+   "short": "HCL Pielești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 8/2026 privind ,, Aprobarea Planului de acțiuni și interes local pentru anul 2026 al beneficiarilor de ajutor social la nivelul UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/249443",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/249443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-80-2026",
+   "path": "local/dolj/pielesti/2026/80",
+   "short": "HCL Pielești nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 80/2026 privind ,, Acordarea cu titlu oneros a unui drept neexclusiv de acces, uz și folosință, pentru amplasarea în subterarul drumurilor de explotare înregistrate în CF 42360- De 677/3, CF 42393-DE 694, CF 42387 - De806, CF-42384- De800, CF 42383-De796,CF 42382-De736, în vederea subtraversării canalului CF 42398-HC681/1și a terenului având CF 42340 precum și amplasarea stâlpilor de susținere ai LEA 110 – în ampriza drumului de exploatare DE 736-având CF 42382 Pielești pe durata existenței construcției, în favoarea SC Danube Solar Eight SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283118",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-81-2026",
+   "path": "local/dolj/pielesti/2026/81",
+   "short": "HCL Pielești nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 81/2026 privind ,, Acordarea cu titlu oneros a unui drept neexclusiv de acces, uz și folosință, pentru amplasarea în subterarul drumurilor de explotare înregistrate în CF 42360- De 677/3, CF 42393-DE 694, CF 42387 - De806, CF-42384- De800, CF 42383-De796,CF 42382-De736, în vederea subtraversării canalului CF 42398-HC681/1și a terenului având CF 42340 precum și amplasarea stâlpilor de susținere ai LEA 110 – în ampriza drumului de exploatare DE 736-având CF 42382 Pielești pe durata existenței construcției, în favoarea SC Danube Solar Nine SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283119",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-82-2026",
+   "path": "local/dolj/pielesti/2026/82",
+   "short": "HCL Pielești nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 82/2026 privind ,, Acordarea cu titlu oneros a unui drept neexclusiv de acces, uz și folosință, pentru amplasarea în subterarul drumurilor de explotare înregistrate în CF 42360- De 677/3, CF 42393-DE 694, CF 42387 - De806, CF-42384- De800, CF 42383-De796,CF 42382-De736, în vederea subtraversării canalului CF 42398-HC681/1și a terenului având CF 42340 precum și amplasarea stâlpilor de susținere ai LEA 110 – în ampriza drumului de exploatare DE 736-având CF 42382 Pielești pe durata existenței construcției, în favoarea SC Danube Solar Three SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283120",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-83-2026",
+   "path": "local/dolj/pielesti/2026/83",
+   "short": "HCL Pielești nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 83/2026 privind ,, Aprobarea ,,Notei Conceptuale,, și a ,,Temei de proiectare,, pentru obiectivul de investiții ,, Construire incubator de afaceri - faza de proiectare PT,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283937",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-84-2026",
+   "path": "local/dolj/pielesti/2026/84",
+   "short": "HCL Pielești nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 84/2026 privind ,, Aprobarea ,,Notei Conceptuale,, și a ,,Temei de proiectare,, pentru obiectivul de investiții ,, Creșterea Eficienței Energetice a Școlii Gimnaziale Pielești - CF 52509-C1, C2 - Faza de proiectare PT,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283938",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-85-2026",
+   "path": "local/dolj/pielesti/2026/85",
+   "short": "HCL Pielești nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 85/2026 privind ,, Aprobarea ,,Notei Conceptuale,, și a ,,Temei de proiectare,, pentru obiectivul de investiții ,, Creșterea Eficienței Energetice a Sistemului de Iluminat Public în Comuna Pielești, județul Dolj - Faza de proiectare PT,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283939",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-86-2026",
+   "path": "local/dolj/pielesti/2026/86",
+   "short": "HCL Pielești nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 86/2026 privind ,, Aprobarea Actualizării nr 1 a Programului Anual al Achiziții Publice pentru anul 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283940",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-87-2026",
+   "path": "local/dolj/pielesti/2026/87",
+   "short": "HCL Pielești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 87/2026 privind ,, Aprobarea Rectificării bugetului de venituri și cheltuieli pe Secțiunea de Funcționare al UAT Comuna Pielești pe trimestrul al III lea 2026 ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283941",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-88-2026",
+   "path": "local/dolj/pielesti/2026/88",
+   "short": "HCL Pielești nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 88/2026 privind ,, Aprobarea Rectificării bugetului de venituri și cheltuieli pe Secțiunea de Dezvoltare al UAT Comuna Pielești pe trimestrul al III lea 2026 precum și a raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare aferente bugetului de venituri și cheltuieli al UAT Comuna Pielești aferent anului 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283942",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-9-2026",
+   "path": "local/dolj/pielesti/2026/9",
+   "short": "HCL Pielești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 9/2026 privind ,, Aprobarea realizării operațiunilor cadastrale și notariale de alipire a imobilelor – terenuri intravilane identificate cu CF nr 52642 și CF nr 52509 Pielești în scopul constituirii unui singur corp de proprietate – domeniul public al UAT Comuna Pielești ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/249444",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/249444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-90-2026",
+   "path": "local/dolj/pielesti/2026/90",
+   "short": "HCL Pielești nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 90/2026 privind ,, Aprobarea demarării procedurii de introducere a imobilului având CF nr 39191 Pielești în Programul anual de investiții locale al UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283944",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-91-2026",
+   "path": "local/dolj/pielesti/2026/91",
+   "short": "HCL Pielești nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 91/2026 privind ,, Aprobarea alocării Asociației Clubul Sportiv Viitorul Pielești a sumei de 38.500 lei din bugetul local al UAT Comuna Pielești ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/283945",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/283945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-92-2026",
+   "path": "local/dolj/pielesti/2026/92",
+   "short": "HCL Pielești nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 92/2026 privind ,, Prezentarea conținutului Raportului de Follow-up nr 53372/10.08.2026 emis de către Curtea de Conturi a României - Camera de Conturi Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/286354",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/286354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-93-2026",
+   "path": "local/dolj/pielesti/2026/93",
+   "short": "HCL Pielești nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 93/2026 privind,, Prezentarea conținutului Raportului de Follow-up nr 55529/18.08.2026 emis de către Curtea de Conturi a României Camera de Conturi Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/286355",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/286355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-94-2026",
+   "path": "local/dolj/pielesti/2026/94",
+   "short": "HCL Pielești nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 94/2026 privind,, Aprobarea documentației tehnice, faza PT și a indicatorilor tehnico-economici, pentru obiectivul de investiții,, Creșterea eficienței energetice a sistemului de iluminat public în Comuna Pielești, județul Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/286356",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/286356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-97-2026",
+   "path": "local/dolj/pielesti/2026/97",
+   "short": "HCL Pielești nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 97/2026 privind,, Aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici, pentru obiectivul de investiții,, Construire incubator de afaceri,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/287790",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/287790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-98-2026",
+   "path": "local/dolj/pielesti/2026/98",
+   "short": "HCL Pielești nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 98/2026 privind,, Aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici, pentru obiectivul de investiții,, Reprofilare și pietruire drumuri și ulițe comunale,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/287791",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/287791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-99-2026",
+   "path": "local/dolj/pielesti/2026/99",
+   "short": "HCL Pielești nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 99/2026 privind,, Aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici, pentru obiectivul de investiții,, Lucrări de reparații și plombări structuri asfaltice,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/287792",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/287792",
      "sha256": null
     }
    ]

@@ -3,6 +3,51 @@
  "shard": "local/dolj/cioroiasi/2021",
  "acts": [
   {
+   "slug": "hcl-dolj--cioroiasi-1-2021",
+   "path": "local/dolj/cioroiasi/2021/1",
+   "short": "HCL Cioroiași nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 1/2021 privind utilizarea excedentului anual al bugetului pe anul 2020 al comunei Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24898",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-13-2021",
+   "path": "local/dolj/cioroiasi/2021/13",
+   "short": "HCL Cioroiași nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 13/2021 privind înființarea serviciului de iluminat public al comunei Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/40960",
+   "versions": [
+    {
+     "from": "2021-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/40960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-2-2021",
+   "path": "local/dolj/cioroiasi/2021/2",
+   "short": "HCL Cioroiași nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 2/2021 privind modificarea hotărârii Consiliului Local Cioroiași nr.36/15.12.2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24899",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24899",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-34-2021",
    "path": "local/dolj/cioroiasi/2021/34",
    "short": "HCL Cioroiași nr. 34/2021",
@@ -238,6 +283,21 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/55585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-5-2021",
+   "path": "local/dolj/cioroiasi/2021/5",
+   "short": "HCL Cioroiași nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 5/2021 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului comunei Cioroiași precum și cadrul serviciilor publice de interes local ale Comunei Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/24949",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/24949",
      "sha256": null
     }
    ]
