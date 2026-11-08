@@ -1,0 +1,1416 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/popesti-leordeni/2012",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-1-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/1",
+   "short": "HCL Popești-Leordeni nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 1/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/001",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_001.pdf",
+     "sha256": "1060496602c7716b507932383cc5a1119695a7ba730865f8f9525d195be15fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-10-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/10",
+   "short": "HCL Popești-Leordeni nr. 10/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 10/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/010",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_010.pdf",
+     "sha256": "6d13d95f577bd9ecc22437d3ee97171280876c91a5dd577098efefd331ec3336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-11-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/11",
+   "short": "HCL Popești-Leordeni nr. 11/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 11/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/011",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_011.pdf",
+     "sha256": "afdc0ec89f7bd687e4b4166779c250da3a3cd29b482a171d77b36b593e26d9ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-12-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/12",
+   "short": "HCL Popești-Leordeni nr. 12/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 12/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/012",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_012.pdf",
+     "sha256": "f276e8cd9b213158f12b2dff4235edc224602f511b646da5247a46723dcf2fb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-13-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/13",
+   "short": "HCL Popești-Leordeni nr. 13/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 13/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/013",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_013.pdf",
+     "sha256": "f04318dc9c920216b0a5f7766e8f1efdbb7ade326f291ea7c5a259c563c50894"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-14-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/14",
+   "short": "HCL Popești-Leordeni nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 14/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/014",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_014.pdf",
+     "sha256": "0d63bf5cd77fb43858da6b370fe5d9d28bf379e1a1220b2c4de8aac80fb80fe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-15-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/15",
+   "short": "HCL Popești-Leordeni nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 15/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/015",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_015.pdf",
+     "sha256": "9ba92be1c9c6cde4c033b2bf276389eac70d621c0475a37c9605c9c02739060e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-16-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/16",
+   "short": "HCL Popești-Leordeni nr. 16/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 16/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/016",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_016.pdf",
+     "sha256": "881b3c6c21939080e48a29c8d1742c0cde7c1f2a5a5033b505d1a312be012b3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-17-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/17",
+   "short": "HCL Popești-Leordeni nr. 17/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 17/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/017",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_017.pdf",
+     "sha256": "0a73416a69e34a117509b0747a70314ef2b0554499d796768f9cf17f97a1459e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-18-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/18",
+   "short": "HCL Popești-Leordeni nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 18/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/018",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_018.pdf",
+     "sha256": "53b53c03e0882daca91bb36ddafa2d786ff2110b84f910787b823c617c3fe0ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-19-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/19",
+   "short": "HCL Popești-Leordeni nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 19/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/019",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_019.pdf",
+     "sha256": "e9f9238fda8f2fbaaa2c965a1cb0acd5d9b648979cd26e205b4bb7036b413d63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-2-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/2",
+   "short": "HCL Popești-Leordeni nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 2/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/002",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_002.pdf",
+     "sha256": "fbef5a07226f49c087d9014379eb2d1f2127ab0627c91bb1817cd93c026fed59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-20-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/20",
+   "short": "HCL Popești-Leordeni nr. 20/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 20/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/020",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_020.pdf",
+     "sha256": "717bd16d8916a1cc03b8c4ce733b0e2fcdfcd88b410554ede4a338ca3f7eb707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-21-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/21",
+   "short": "HCL Popești-Leordeni nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 21/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/021",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_021.pdf",
+     "sha256": "28550425317070cf798ca2a2f4449c1a2c40f503f2a971b799fc444397a9bce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-23-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/23",
+   "short": "HCL Popești-Leordeni nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 23/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/023",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_023.pdf",
+     "sha256": "6214ad29c45f8ceb1cbc504de6ebbfe3244e6e4601b5b85c9e69691fd238c6ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-24-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/24",
+   "short": "HCL Popești-Leordeni nr. 24/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 24/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/024",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_024.pdf",
+     "sha256": "407aa6f181a9b247a2fe437b27b994ab199b6fb5bf224a1ac148e01f3f252463"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-25-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/25",
+   "short": "HCL Popești-Leordeni nr. 25/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 25/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/025",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_025.pdf",
+     "sha256": "07e51335dec35336a60b2bb192ecfac3710c2dfce7b2f73e18de602a2e86c35c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-26-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/26",
+   "short": "HCL Popești-Leordeni nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 26/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/026",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_026.pdf",
+     "sha256": "c3bd551a554c5c1fb3befb9e63f14f6aded4a6a51fe33c9ef450203954c295bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-27-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/27",
+   "short": "HCL Popești-Leordeni nr. 27/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 27/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/027",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_027.pdf",
+     "sha256": "d52cb27484267c4553cf81b9d271ea1fb28ec4f34ae0f4f5ea5e000bcb5ab120"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-28-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/28",
+   "short": "HCL Popești-Leordeni nr. 28/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 28/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/028",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_028.pdf",
+     "sha256": "f649722c7b07ab7972562a8e8d65c33e72d2d4d1fe0ae65e6b094449deb76028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-29-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/29",
+   "short": "HCL Popești-Leordeni nr. 29/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 29/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/029",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_029.pdf",
+     "sha256": "6534a76654f0ef45e03d704ea4eddb8f4b2b1452f3799157ee1bc91b7ec4dfb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-3-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/3",
+   "short": "HCL Popești-Leordeni nr. 3/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 3/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/003",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_003.pdf",
+     "sha256": "e9294408c7758b9345a4518ded0efccec95b3123c0dc4cf6e927eb08db7ea379"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-30-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/30",
+   "short": "HCL Popești-Leordeni nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 30/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/030",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_030.pdf",
+     "sha256": "7e41d7a4b83bfb181ef7a73e36aba09c7fc50590543816201895daa928846f30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-31-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/31",
+   "short": "HCL Popești-Leordeni nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 31/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/031",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_031.pdf",
+     "sha256": "7fe844b939af7682a9d7d3a153f504f792620d6d16e84080fa1b40ef7b64ec23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-32-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/32",
+   "short": "HCL Popești-Leordeni nr. 32/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 32/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/032",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_032.pdf",
+     "sha256": "6265b792f4e5007c449143e9f496665320e0f09af2d979fbe96f08cb26e6d6c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-33-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/33",
+   "short": "HCL Popești-Leordeni nr. 33/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 33/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/033",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_033.pdf",
+     "sha256": "6681eb142661c5ceb6e8275a3ce3fb049c54ad192ae4519222007063408701ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-34-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/34",
+   "short": "HCL Popești-Leordeni nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 34/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/034",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_034.pdf",
+     "sha256": "19e55f90591d6c4be8b495b14feedcdafed24c7c95a7275e759dc9084676e6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-35-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/35",
+   "short": "HCL Popești-Leordeni nr. 35/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 35/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/035",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_035.pdf",
+     "sha256": "eb346c0be468e0a849554ffbc74e1a337133895f04684d1ef4bf2f4b3de01bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-36-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/36",
+   "short": "HCL Popești-Leordeni nr. 36/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 36/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/036",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_036.pdf",
+     "sha256": "4802d41b61e5786d9dd6908615035fd18465d8562ae817848a66a6b0de7896ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-37-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/37",
+   "short": "HCL Popești-Leordeni nr. 37/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 37/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/037",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_037.pdf",
+     "sha256": "6d16c893b230c91a70b822edee78c3887cb76eb5da56062a5be1520fedb90ce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-38-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/38",
+   "short": "HCL Popești-Leordeni nr. 38/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 38/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/038",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_038.pdf",
+     "sha256": "b8144318c2bdc682eee57af781207c927667ab2185e49a0514144835db1cc02e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-39-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/39",
+   "short": "HCL Popești-Leordeni nr. 39/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 39/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/039",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_039.pdf",
+     "sha256": "a44e3a06e012851f11b4c12c66854ce13240e8a79a2b3dfc73963aab48eb973f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-4-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/4",
+   "short": "HCL Popești-Leordeni nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 4/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/004",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_004.pdf",
+     "sha256": "9ca7d4f1cfc1c0e77349528881c7c166c88baedb4ae79ead03a86f2cec7e8593"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-40-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/40",
+   "short": "HCL Popești-Leordeni nr. 40/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 40/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/040",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_040.pdf",
+     "sha256": "e1ceea90c1f2d113bac306c10b99636ac76b2be3f5f45453eb7b33850a127e9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-41-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/41",
+   "short": "HCL Popești-Leordeni nr. 41/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 41/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/041",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_041.pdf",
+     "sha256": "840ecdb6f474216cd9289ace29547e02162b8bd7bd6871bd4b62a1871c066618"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-42-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/42",
+   "short": "HCL Popești-Leordeni nr. 42/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 42/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/042",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_042.pdf",
+     "sha256": "bf95970d5cb6ffb7216044c929855a13ba220da78824e37bc3008261e17e638d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-43-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/43",
+   "short": "HCL Popești-Leordeni nr. 43/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 43/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/043",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_043.pdf",
+     "sha256": "b868d484e05981ed232cb682fae3e978d31b1da285a28186d45e1a22e27cedf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-44-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/44",
+   "short": "HCL Popești-Leordeni nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 44/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/044",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_044.pdf",
+     "sha256": "83d1ce61263bad41bc54dc4bd06b95270dcac17e69453d7533d82f4fc986c975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-45-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/45",
+   "short": "HCL Popești-Leordeni nr. 45/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 45/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/045",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_045.pdf",
+     "sha256": "4ac27f3948272039d74bbaccc9f6484fbb2c72bda5d94d3121e03f3beb1aa087"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-46-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/46",
+   "short": "HCL Popești-Leordeni nr. 46/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 46/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/046",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_046.pdf",
+     "sha256": "61aceea820bc2be31354c8182c8880e0a2bf8e4b3817bee264e2d6156e347d20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-47-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/47",
+   "short": "HCL Popești-Leordeni nr. 47/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 47/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/047",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_047.pdf",
+     "sha256": "71d998418fc785bdc6fa45b4920e47d9f8aa4be3a8c4658dd71cf3bb8b06f16b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-48-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/48",
+   "short": "HCL Popești-Leordeni nr. 48/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 48/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/048",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_048.pdf",
+     "sha256": "c2701ce30b1829114610939d186e994b35b1e8cd14d025bef6611675bca3c377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-49-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/49",
+   "short": "HCL Popești-Leordeni nr. 49/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 49/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/049",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_049.pdf",
+     "sha256": "3c07fbcb56bed44691f75c9084f1cd4ef7f6fcd71f4fd5327411ca37a795da7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-5-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/5",
+   "short": "HCL Popești-Leordeni nr. 5/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 5/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/005",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_005.pdf",
+     "sha256": "4d780b5c72776343ebad52cb0e3a6c7ab4d83924234b14043f745e0bda694822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-50-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/50",
+   "short": "HCL Popești-Leordeni nr. 50/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 50/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/050",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_050.pdf",
+     "sha256": "987ee1aba5b46e52ea184d33a6d3729f1705543c03ffd2455496780dd99b80a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-51-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/51",
+   "short": "HCL Popești-Leordeni nr. 51/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 51/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/051",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_051.pdf",
+     "sha256": "32112d36158b5124d5729570ad8395d3f616c022cc4f8e2df0f28b5da477037e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-52-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/52",
+   "short": "HCL Popești-Leordeni nr. 52/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 52/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/052",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_052.pdf",
+     "sha256": "9a4d3fb09e29a09b47cd2ed9538f9af62459da6cf683edd7eac552a65ac1fbec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-53-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/53",
+   "short": "HCL Popești-Leordeni nr. 53/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 53/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/053",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_053.pdf",
+     "sha256": "a78b852acc88a95ed5051471d3f01e403dd3f0e587cb7b037dbbb074c3d916b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-54-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/54",
+   "short": "HCL Popești-Leordeni nr. 54/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 54/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/054",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_054.pdf",
+     "sha256": "897e8dec5148d7c528a19fbbddd19193bc89b1aff7efc9e3088d829584a3f10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-55-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/55",
+   "short": "HCL Popești-Leordeni nr. 55/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 55/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/055",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_055.pdf",
+     "sha256": "1b0d87f8120fb51f960cdfe31fff42b5a76e111c1c66d9c782e4ac69ef77c985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-56-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/56",
+   "short": "HCL Popești-Leordeni nr. 56/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 56/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/056",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_056.pdf",
+     "sha256": "6d70369590f584b8f0d1bd84ac7769db19391acf691b7259a50de735f33570e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-57-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/57",
+   "short": "HCL Popești-Leordeni nr. 57/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 57/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/057",
+   "versions": [
+    {
+     "from": "2012-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_057.pdf",
+     "sha256": "284d7f53416632a52c5f7f9d2cd6cc3723f68b553d0a1789d9f31eabed1763bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-58-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/58",
+   "short": "HCL Popești-Leordeni nr. 58/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 58/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/058",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_058.pdf",
+     "sha256": "a0fae6ae81b31c5fcbb1945b5076e4e12700f5dc395e5c306d3cd7b935d3ee57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-59-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/59",
+   "short": "HCL Popești-Leordeni nr. 59/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 59/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/059",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_059.pdf",
+     "sha256": "cceb737e1bc2338ebde21c3cd26f2456d50b3d228b79861a23c6a25f2a311bf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-6-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/6",
+   "short": "HCL Popești-Leordeni nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 6/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/006",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_006.pdf",
+     "sha256": "35ad13f42e67571e5d192dd3bb6fbad4debfcaf94ac109df944815b6ddac2138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-60-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/60",
+   "short": "HCL Popești-Leordeni nr. 60/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 60/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/060",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_060.pdf",
+     "sha256": "c0583febe06f2b49db2e803be3b5c1fb51ed4c2b845713cc33e603cc96aae10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-61-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/61",
+   "short": "HCL Popești-Leordeni nr. 61/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 61/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/061",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_061.pdf",
+     "sha256": "9713b58d8998b46d8679a1e481a14b55ee5987b8aecde56a160a51ad47bbfed5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-62-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/62",
+   "short": "HCL Popești-Leordeni nr. 62/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 62/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/062",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_062.pdf",
+     "sha256": "0352488d73916e9714137e41a0e561b1b76818301a76aee07087794f10d540fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-63-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/63",
+   "short": "HCL Popești-Leordeni nr. 63/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 63/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/063",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_063.pdf",
+     "sha256": "c0f6eeae0f793f4f9644c83f723b4bc2de7aa8d1547d084058f3e557a7b95a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-64-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/64",
+   "short": "HCL Popești-Leordeni nr. 64/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 64/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/064",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_064.pdf",
+     "sha256": "ee7ff177bc42bf5f7d4c2d4253dfd2e9032bbd1b9c291d03c82f9ab55ee7e1b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-65-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/65",
+   "short": "HCL Popești-Leordeni nr. 65/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 65/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/065",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_065.pdf",
+     "sha256": "eb0886114cff92c7d7de1cbbe5329a2a15723116a6fa34c32146c23782659c16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-66-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/66",
+   "short": "HCL Popești-Leordeni nr. 66/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 66/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/066",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_066.pdf",
+     "sha256": "440cd1c15d930ad7230774ba962406a9dc1d7ec3cc63d68d332ef89450ccda68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-67-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/67",
+   "short": "HCL Popești-Leordeni nr. 67/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 67/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/067",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_067.pdf",
+     "sha256": "d7809e7ea5b8b0ba51f97047627138fc1e99ee711da5e34a504a68cd9f0e6256"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-68-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/68",
+   "short": "HCL Popești-Leordeni nr. 68/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 68/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/068",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_068.pdf",
+     "sha256": "52c71d90d2eb557d6825e93f8460a9b4a9972ee5630319a4bc0796c11543f0e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-69-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/69",
+   "short": "HCL Popești-Leordeni nr. 69/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 69/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/069",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_069.pdf",
+     "sha256": "3931205a57ddc7818edf32d90afe7d2fdc0cdd91ab4ec29e8c53cc6531766c05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-7-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/7",
+   "short": "HCL Popești-Leordeni nr. 7/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 7/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/007",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_007.pdf",
+     "sha256": "1a312eb4b0d4ddad3767c5c483ae721b78a578d8ecee6939da0f2260a4ff4c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-70-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/70",
+   "short": "HCL Popești-Leordeni nr. 70/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 70/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/070",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_070.pdf",
+     "sha256": "ec0a96d4dd6aee80825af73b01fd17ac7bea451dc46fc9d2313bb718132a44d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-71-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/71",
+   "short": "HCL Popești-Leordeni nr. 71/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 71/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/071",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_071.pdf",
+     "sha256": "8dca096f682f8c9a5bb4d2604960eafe45d4c363186d4655a1cdb5e22c9b14d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-72-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/72",
+   "short": "HCL Popești-Leordeni nr. 72/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 72/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/072",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_072.pdf",
+     "sha256": "8d3e212b204b7bceb75fd3f1e5562714ba8750d86c042fa6dfcab0a95ea6c9b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-73-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/73",
+   "short": "HCL Popești-Leordeni nr. 73/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 73/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/073",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_073.pdf",
+     "sha256": "3ad52d1ad2088f7548f8fa43073bb9b4f5ffdb603213cc0251b12ae729dbc513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-74-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/74",
+   "short": "HCL Popești-Leordeni nr. 74/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 74/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/074",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_074.pdf",
+     "sha256": "7e60c1938b0003ec0966fd7d4fd1792e81af537d4717fc296ce87cb888cbd9f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-75-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/75",
+   "short": "HCL Popești-Leordeni nr. 75/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 75/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/075",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_075.pdf",
+     "sha256": "672b40983ae6635ed93b2105ca1122abefd3a050cc846c8487b68fdebb3f68e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-76-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/76",
+   "short": "HCL Popești-Leordeni nr. 76/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 76/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/076",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_076.pdf",
+     "sha256": "7c8761865096d9ac21a28bd16b0370acc943dcac8b96d2312932d0df8bbee1dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-77-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/77",
+   "short": "HCL Popești-Leordeni nr. 77/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 77/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/077",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_077.pdf",
+     "sha256": "cfafeb06cf80749f435ba8288baf4a972d3a3647ea5e30d3f408f1491b12e982"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-78-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/78",
+   "short": "HCL Popești-Leordeni nr. 78/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 78/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/078",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_078.pdf",
+     "sha256": "879d620e5da87d9e656fc9070db3429d7f2ed0e298959b3f642fde93cf78e0b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-79-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/79",
+   "short": "HCL Popești-Leordeni nr. 79/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 79/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/079",
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_079.pdf",
+     "sha256": "4adc4e169e77113d5e84b58d6de5baaf173825f970c5c23063302dd96dca9787"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-8-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/8",
+   "short": "HCL Popești-Leordeni nr. 8/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 8/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/008",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_008.pdf",
+     "sha256": "fb92b59c12b7b9a65fe52d8d988843d91a958092f635b806299be388ed031b5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-80-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/80",
+   "short": "HCL Popești-Leordeni nr. 80/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 80/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/080",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_080.pdf",
+     "sha256": "5801f4992447d2b2426e9be8d244cdb20e201904635f808c40d7d0942c1a121c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-81-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/81",
+   "short": "HCL Popești-Leordeni nr. 81/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 81/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/081",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_081.pdf",
+     "sha256": "6a3308ead445d821c2132f17857e1858765241b6837a73a73ca42ce159e05659"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-82-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/82",
+   "short": "HCL Popești-Leordeni nr. 82/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 82/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/082",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_082.pdf",
+     "sha256": "33e7a69562a4343a521633232a78cb4271f2ba5bc9bcb6ad910e30d8c8d3bfde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-83-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/83",
+   "short": "HCL Popești-Leordeni nr. 83/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 83/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/083",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_083.pdf",
+     "sha256": "7c2b00207eb256196e1c14a6f2365d7e775225d3d41e9109636406c3b8dc162e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-84-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/84",
+   "short": "HCL Popești-Leordeni nr. 84/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 84/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/084",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_084.pdf",
+     "sha256": "7309d908b529df6bc6cab2be64470d49229a6d8e8954349b736adc10137c2ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-85-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/85",
+   "short": "HCL Popești-Leordeni nr. 85/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 85/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/085",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_085.pdf",
+     "sha256": "ee856d5d4d413a3d0cd5885597155a295026499625087ec4b1c0ceebd20e66a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-86-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/86",
+   "short": "HCL Popești-Leordeni nr. 86/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 86/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/086",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_086.pdf",
+     "sha256": "b7956852f79a7a969366760d37a2335d6d8feb7e3b037484ed23e2d22dd2e456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-87-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/87",
+   "short": "HCL Popești-Leordeni nr. 87/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 87/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/087",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_087.pdf",
+     "sha256": "10e183f2a130df3c166f30fa75ddc30ed3512b6517eebed0a6bcfa9bc41199ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-88-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/88",
+   "short": "HCL Popești-Leordeni nr. 88/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 88/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/088",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_088.pdf",
+     "sha256": "964fe25bcf8d70d4874e56a837b67279f4973c2207d257a19755a6e2ff5651c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-89-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/89",
+   "short": "HCL Popești-Leordeni nr. 89/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 89/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/089",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_089.pdf",
+     "sha256": "a45a42ab191672deaaa0440e7a6e6398256d943416c4ebbf0d58a2d7f933b2cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-9-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/9",
+   "short": "HCL Popești-Leordeni nr. 9/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 9/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/009",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_009.pdf",
+     "sha256": "f176fac1bb3835f0d719189b94c63582f784674b7d878787574312115c6a7234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-90-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/90",
+   "short": "HCL Popești-Leordeni nr. 90/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 90/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/090",
+   "versions": [
+    {
+     "from": "2012-12-13",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_090.pdf",
+     "sha256": "a8b1d411c81b1911c7514927ef5092099700eb3c3ded06726566a020d5fd9484"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-91-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/91",
+   "short": "HCL Popești-Leordeni nr. 91/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 91/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/091",
+   "versions": [
+    {
+     "from": "2012-12-13",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_091.pdf",
+     "sha256": "e96ebfaee5c464d578de6382dfeb4d0f48903418e9c641f3ed564d492b1b2286"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-92-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/92",
+   "short": "HCL Popești-Leordeni nr. 92/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 92/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/092",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_092.pdf",
+     "sha256": "d74828f35f323dd5416a1a9fd4391e9440df609ff06351d0968a53de8bb5385d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-93-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/93",
+   "short": "HCL Popești-Leordeni nr. 93/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 93/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/093",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_093.pdf",
+     "sha256": "97b2dffb4c526bb24a484a238822044e91682777d992d6db3746c01801e63c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-94-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/94",
+   "short": "HCL Popești-Leordeni nr. 94/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 94/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/094",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_094.pdf",
+     "sha256": "b4f74c0e34a4887c6bf55a8713ae015143a90c963355cb1e09f58b5847e9b2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-95-2012",
+   "path": "local/ilfov/popesti-leordeni/2012/95",
+   "short": "HCL Popești-Leordeni nr. 95/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 95/2012",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2012/095",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2012/2012--hcl_095.pdf",
+     "sha256": "c59ba81abee0d5c72815d51bb016935144a213ba5360af1ef87fd65ebe7393d5"
+    }
+   ]
+  }
+ ]
+}

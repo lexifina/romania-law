@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-100-2020",
+   "path": "local/judet/olt/2020/100",
+   "short": "HCJ Olt nr. 100/2020",
+   "title": "Hotărârea Consiliului Județean Olt nr. 100/2020 cu privire la darea in folosinta gratuita Serviciului de Ambulanta Judetean Olt a unor spatii dintr-un imobil aflat in domeniul public al Judetului Olt si in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/11559.pdf",
+     "sha256": "f51c8ff7927ee1b6bf4c9ed7dc1268ad712b76393ff547aae53be2a2b9503d63"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-102-2020",
    "path": "local/judet/olt/2020/102",
    "short": "HCJ Olt nr. 102/2020",
@@ -408,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-145-2020",
+   "path": "local/judet/olt/2020/145",
+   "short": "HCJ Olt nr. 145/2020",
+   "title": "Hotărârea Consiliului Județean Olt nr. 145/2020 cu privire la dezmembrarea unui imobil aflat in domeniul public al judetului Olt si in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2020/",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/11989.pdf",
+     "sha256": "7fd5f21d461de04d17ada3334396bf339fa4a0b8a5c465f9f641eb1ed468b66c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-150-2020",
    "path": "local/judet/olt/2020/150",
    "short": "HCJ Olt nr. 150/2020",
@@ -449,6 +479,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/12453.pdf",
      "sha256": "5bd0a43764e124c5460c88c82a6c9e69fc56db0e74b490ae7eb909215d7c5504"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-156-2020",
+   "path": "local/judet/olt/2020/156",
+   "short": "HCJ Olt nr. 156/2020",
+   "title": "Hotărârea Consiliului Județean Olt nr. 156/2020 cu privire la imputernicirea Presedintelui Consiliului Judetean Olt pentru acordarea unui ajutor banesc persoanelor din judetul Olt care implinesc varsta de 100 ani Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/12456.pdf",
+     "sha256": "509c29ce7579bb5e779680c93a2a10ec1631c575e76e40b272c6a17537390a87"
     }
    ]
   },
@@ -1739,6 +1784,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/11555.pdf",
      "sha256": "1286419be354bf827ffd585cee09d5c0ead3f93664b19655e123f8ec2c918b93"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-98-2020",
+   "path": "local/judet/olt/2020/98",
+   "short": "HCJ Olt nr. 98/2020",
+   "title": "Hotărârea Consiliului Județean Olt nr. 98/2020 privind aprobarea cererii de transmitere a imobilului ” Situl Arheologic Romula Malva” din domeniul public al comunei Dobrosloveni, judetul Olt, in domeniul public al judetului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/11557.pdf",
+     "sha256": "803c4597c39e4d8b5636f25598140aead89727724252f23f0edd2d1e58846d62"
     }
    ]
   }

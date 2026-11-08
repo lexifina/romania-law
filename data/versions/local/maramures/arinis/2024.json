@@ -3,6 +3,171 @@
  "shard": "local/maramures/arinis/2024",
  "acts": [
   {
+   "slug": "hcl-maramures--arinis-1-2024",
+   "path": "local/maramures/arinis/2024/1",
+   "short": "HCL Ariniș nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 1/2024 privind alegerea președintelui pentru ședința ordinară din data de 30 ianuarie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/143716",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/143716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-10-2024",
+   "path": "local/maramures/arinis/2024/10",
+   "short": "HCL Ariniș nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 10/2024 privind constatarea încetării de drept, ca urmare a demisiei, a mandatului de consilier local al d-lui Sabou Traian-Daniel și vacantarea mandatului de consilier local în cadrul Consiliului Local Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/144470",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/144470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-11-2024",
+   "path": "local/maramures/arinis/2024/11",
+   "short": "HCL Ariniș nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 11/2024 privind aprobarea prețului la materialul lemnos în volum de 1304,14 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/144471",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/144471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-12-2024",
+   "path": "local/maramures/arinis/2024/12",
+   "short": "HCL Ariniș nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 12/2024 privind alegerea președintelui pentru ședința ordinară din data de 29 februarie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/147150",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/147150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-13-2024",
+   "path": "local/maramures/arinis/2024/13",
+   "short": "HCL Ariniș nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 13/2024 privind aprobarea cuantumului chiriei pentru anul 2024 actualizată cu rata inflației pentru locuințele construite de Agenția Națională pentru Locuințe",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/147151",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/147151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-14-2024",
+   "path": "local/maramures/arinis/2024/14",
+   "short": "HCL Ariniș nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 14/2024 privind aderarea la sistemul de cooperare pentru asigurarea funcției de audit public intern și însușirea Acordului de cooperare privind organizarea și exercitarea funcției de audit intern",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/147152",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/147152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-15-2024",
+   "path": "local/maramures/arinis/2024/15",
+   "short": "HCL Ariniș nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 15/2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/147153",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/147153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-16-2024",
+   "path": "local/maramures/arinis/2024/16",
+   "short": "HCL Ariniș nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 16/2024 privind alegerea președintelui pentru ședința ordinară din data de 28 martie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167121",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-17-2024",
+   "path": "local/maramures/arinis/2024/17",
+   "short": "HCL Ariniș nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 17/2024 privind aprobarea rezilierii contractului de închiriere pășuni nr. 494 din 04/04/2022 încheiat între Comuna Ariniș şi Sabou Lia",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167122",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-18-2024",
+   "path": "local/maramures/arinis/2024/18",
+   "short": "HCL Ariniș nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 18/2024 privind aprobarea contului de execuţie a bugetului de venituri şi cheltuieli al Comunei Ariniș pentru anul 2023, la data de 31.12.2023, precum şi ,,Darea de seamă la data de 31.12.2023”",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167123",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-19-2024",
+   "path": "local/maramures/arinis/2024/19",
+   "short": "HCL Ariniș nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 19/2024 privind rectificarea bugetului local al comunei Ariniş, luna martie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167124",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167124",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-2-2024",
    "path": "local/maramures/arinis/2024/2",
    "short": "HCL Ariniș nr. 2/2024",
@@ -18,6 +183,321 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-20-2024",
+   "path": "local/maramures/arinis/2024/20",
+   "short": "HCL Ariniș nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 20/2024 privind alegerea președintelui pentru ședința ordinară din data de 18 aprilie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167255",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-21-2024",
+   "path": "local/maramures/arinis/2024/21",
+   "short": "HCL Ariniș nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 21/2024 privind aprobarea prețului la materialul lemnos în volum de 838,05 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167256",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-22-2024",
+   "path": "local/maramures/arinis/2024/22",
+   "short": "HCL Ariniș nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 22/2024 privind alegerea președintelui pentru ședința extraordinară (de îndată) din data de 25 aprilie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167278",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-23-2024",
+   "path": "local/maramures/arinis/2024/23",
+   "short": "HCL Ariniș nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 23/2024 privind rectificarea bugetului local al comunei Ariniş, luna aprilie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167279",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-24-2024",
+   "path": "local/maramures/arinis/2024/24",
+   "short": "HCL Ariniș nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 24/2024 privind aprobarea prețului la materialul lemnos în volum de 253,09 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167280",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-25-2024",
+   "path": "local/maramures/arinis/2024/25",
+   "short": "HCL Ariniș nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 25/2024 privind aprobarea actualizării Regulamentului privind organizare și funcționarea Serviciului Public Comunitar Local de Evidență a Persoanelor al Comunei Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167320",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-26-2024",
+   "path": "local/maramures/arinis/2024/26",
+   "short": "HCL Ariniș nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 26/2024 privind alegerea președintelui pentru ședința ordinară din data de 04 iulie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167321",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-27-2024",
+   "path": "local/maramures/arinis/2024/27",
+   "short": "HCL Ariniș nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 27/2024 privind privind aprobarea proiectului tehnic si detaliilor de execuție, a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare drumuri de interes local în comuna Ariniș, județul Maramureș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/167322",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/167322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-28-2024",
+   "path": "local/maramures/arinis/2024/28",
+   "short": "HCL Ariniș nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 28/2024 privind alegerea președintelui pentru ședința extraordinară (de îndată) din data de 19 iulie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185858",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-29-2024",
+   "path": "local/maramures/arinis/2024/29",
+   "short": "HCL Ariniș nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 29/2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185859",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-3-2024",
+   "path": "local/maramures/arinis/2024/3",
+   "short": "HCL Ariniș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 3/2024 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2023",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/143718",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/143718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-30-2024",
+   "path": "local/maramures/arinis/2024/30",
+   "short": "HCL Ariniș nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 30/2024 privind alegerea președintelui pentru ședința extraordinară (de îndată) din data de 26 iulie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185885",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-31-2024",
+   "path": "local/maramures/arinis/2024/31",
+   "short": "HCL Ariniș nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 31/2024 privind trecerea din domeniul public în domeniul privat și aprobarea lucrărilor de demolare a imobilului – CLĂDIRE – din Piața și Oborul localității Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185886",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-32-2024",
+   "path": "local/maramures/arinis/2024/32",
+   "short": "HCL Ariniș nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 32/2024 privind alegerea președintelui pentru ședința extraordinară (de îndată) din data de 06 august 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185897",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-33-2024",
+   "path": "local/maramures/arinis/2024/33",
+   "short": "HCL Ariniș nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 33/2024 privind instrumentarea dosarului tehnic pentru accesarea schemei de ajutor de stat, ”Silvo-mediu și climă” elaborat în baza intervenției DR-07 ”Silvo-mediu și climă” din cadrul PS PAC 2023-2027 pentru corpurile de pădure aflate în domeniul public al Comunei Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185898",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-34-2024",
+   "path": "local/maramures/arinis/2024/34",
+   "short": "HCL Ariniș nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 34/2024 privind alegerea președintelui pentru ședința extraordinară (de îndată) din data de 17 septembrie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185920",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-35-2024",
+   "path": "local/maramures/arinis/2024/35",
+   "short": "HCL Ariniș nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 35/2024 privind rectificarea bugetului local al comunei Ariniş, luna septembrie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185921",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-36-2024",
+   "path": "local/maramures/arinis/2024/36",
+   "short": "HCL Ariniș nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 36/2024 privind aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General al comunei Ariniș și a Regulamentului Local de Urbanism",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185922",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-37-2024",
+   "path": "local/maramures/arinis/2024/37",
+   "short": "HCL Ariniș nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 37/2024 privind aprobarea prețului la materialul lemnos în volum de 330,84 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/185923",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/185923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-38-2024",
+   "path": "local/maramures/arinis/2024/38",
+   "short": "HCL Ariniș nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 38/2024 privind alegerea președintelui pentru ședința extraordinară din data de 11 octombrie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/186133",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/186133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-39-2024",
+   "path": "local/maramures/arinis/2024/39",
+   "short": "HCL Ariniș nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 39/2024 privind aprobarea participării Comunei Ariniș în cadrul Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2020-2024 (Etapa II) derulat prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/186134",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/186134",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-4-2024",
    "path": "local/maramures/arinis/2024/4",
    "short": "HCL Ariniș nr. 4/2024",
@@ -28,6 +508,36 @@
      "from": "2024-02-23",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/143719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-40-2024",
+   "path": "local/maramures/arinis/2024/40",
+   "short": "HCL Ariniș nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 40/2024 privind rectificarea bugetului local al comunei Ariniş, luna octombrie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/186135",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/186135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-41-2024",
+   "path": "local/maramures/arinis/2024/41",
+   "short": "HCL Ariniș nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 41/2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/186136",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/186136",
      "sha256": null
     }
    ]
@@ -318,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-6-2024",
+   "path": "local/maramures/arinis/2024/6",
+   "short": "HCL Ariniș nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 6/2024 privind alegerea președintelui pentru ședința extraordinară din data de 08 februarie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/143743",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/143743",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-60-2024",
    "path": "local/maramures/arinis/2024/60",
    "short": "HCL Ariniș nr. 60/2024",
@@ -343,6 +868,51 @@
      "from": "2024-12-12",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/195719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-7-2024",
+   "path": "local/maramures/arinis/2024/7",
+   "short": "HCL Ariniș nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 7/2024 privind aprobarea bugetului local al comunei Ariniș, pe anul 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/143744",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/143744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-8-2024",
+   "path": "local/maramures/arinis/2024/8",
+   "short": "HCL Ariniș nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 8/2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/143745",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/143745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-9-2024",
+   "path": "local/maramures/arinis/2024/9",
+   "short": "HCL Ariniș nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 9/2024 privind alegerea președintelui pentru ședința extraordinară din data de 14 februarie 2024",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/144469",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/144469",
      "sha256": null
     }
    ]

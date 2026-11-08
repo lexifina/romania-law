@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-124-2024",
+   "path": "local/judet/olt/2024/124",
+   "short": "HCJ Olt nr. 124/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 124/2024 cu privire la darea în folosință gratuită Serviciului Român de Informații – Direcția Regională de Informații Oltenia a unor spații dintr-un imobil aflat în domeniul public al Județului Olt și în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/20431.pdf",
+     "sha256": "5f953a5372373fd82d077225cd55dc65b0899222a99a27f1bdc7cebc06388dbe"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-125-2024",
    "path": "local/judet/olt/2024/125",
    "short": "HCJ Olt nr. 125/2024",
@@ -314,6 +329,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/formidable/223/20735.pdf",
      "sha256": "fe6e2e3b1a2ba2354c044781a381934ff751159ca3436464b20f07dcb18204b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-14-2024",
+   "path": "local/judet/olt/2024/14",
+   "short": "HCJ Olt nr. 14/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 14/2024 cu privire la dezmembrarea unui imobil aflat in domeniul public al Judetului Olt si in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19080-1.pdf",
+     "sha256": "e8d66ce5723f4a1d05e00c4d86fbf48d01daa102fe09167452c26385d7a045ea"
     }
    ]
   },
@@ -494,6 +524,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/formidable/223/21104.pdf",
      "sha256": "161726d892bbc04cc16698ed3b3a782cd3434f54a8a86aa977a17d7a1e5a04ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-167-2024",
+   "path": "local/judet/olt/2024/167",
+   "short": "HCJ Olt nr. 167/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 167/2024 cu privire la aprobarea tarifelor de călătorie pentru biletele și abonamentele practicate de asocierea declarată câștigătoare în cadrul procedurii de atribuire a contractului de deleg",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/21107-1.pdf",
+     "sha256": "2af802841d261763beb8ea6267ee4ce310318c9cad7288e61aa10ccd79279e77"
     }
    ]
   },
@@ -993,6 +1038,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-223-2024",
+   "path": "local/judet/olt/2024/223",
+   "short": "HCJ Olt nr. 223/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 223/2024 cu privire la dezmembrarea unui imobil teren în suprafață de 2928 mp, situat în municipiul Slatina, strada Plevnei, nr. 6, județul Olt, aflat în domeniul public al Județului Olt și în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/21738.pdf",
+     "sha256": "7ed5b1895856d9265a980a0df80fadd0a962ccce7f1aebcc15921cab2624eb22"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-227-2024",
    "path": "local/judet/olt/2024/227",
    "short": "HCJ Olt nr. 227/2024",
@@ -1173,6 +1233,111 @@
    ]
   },
   {
+   "slug": "hcj-olt-37-2024",
+   "path": "local/judet/olt/2024/37",
+   "short": "HCJ Olt nr. 37/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 37/2024 cu privire la aprobarea cotizației Județului Olt la Asociația de Dezvoltare Intercomunitară Sud-Vest Oltenia pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19653.pdf",
+     "sha256": "f6dccad1105d83fb6574f1d8c56b55ebb9b1d137ba8d62e24fd55e6d04eb4911"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-38-2024",
+   "path": "local/judet/olt/2024/38",
+   "short": "HCJ Olt nr. 38/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 38/2024 cu privire la aprobarea contribuției Consiliului Județean Olt la bugetele de venituri și cheltuieli ale Agenției pentru Dezvoltare Regională Sud-Vest Oltenia și Biroului Regional de Cooperare Transfrontalieră Călărași pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19654.pdf",
+     "sha256": "1c9afa611590145a7f2657ba357057c51f340a180e62aad348442d566e092fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-39-2024",
+   "path": "local/judet/olt/2024/39",
+   "short": "HCJ Olt nr. 39/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 39/2024 cu privire la aprobarea cotizației Județului Olt la Asociația “Grupul Local Prietenii Pescarilor Olteni” pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19655.pdf",
+     "sha256": "6e175e81731df3ee339ed020d3f8f64be7075db723b91d94365e9cd91371a4d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-40-2024",
+   "path": "local/judet/olt/2024/40",
+   "short": "HCJ Olt nr. 40/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 40/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19656.pdf",
+     "sha256": "9ade52fe57716e470014f6e7ec19ed508e13f1be1e226da7bc706b5264df2004"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-41-2024",
+   "path": "local/judet/olt/2024/41",
+   "short": "HCJ Olt nr. 41/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 41/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19657.pdf",
+     "sha256": "7bf4f0354de6881f6d7f528f5580094ac7826c587da32f54f0006ca37f3837f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-42-2024",
+   "path": "local/judet/olt/2024/42",
+   "short": "HCJ Olt nr. 42/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 42/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19658.pdf",
+     "sha256": "0bdecebc58c7161efcdb2da974d22b9dc062959487211cb023af987f43dbed49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-43-2024",
+   "path": "local/judet/olt/2024/43",
+   "short": "HCJ Olt nr. 43/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 43/2024 pentru obiectivul de investiție Proiectul C11-PI1-8: „Traseu Euro Velo 6 Mehedinți-Dolj-Olt”, din Investiția I.4 „Implementarea a 3000 km de trasee cicloturistice la nivel național” finanțat din Planului Național de Redresare și Reziliență al României, Componenta 11 – Turism și cultură Vizualizar",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19659.pdf",
+     "sha256": "e9326a2584d3d0eddd0e731994c52e972ab3f85d5ff5f02bb405cb4ee391d104"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-46-2024",
    "path": "local/judet/olt/2024/46",
    "short": "HCJ Olt nr. 46/2024",
@@ -1278,6 +1443,51 @@
    ]
   },
   {
+   "slug": "hcj-olt-58-2024",
+   "path": "local/judet/olt/2024/58",
+   "short": "HCJ Olt nr. 58/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 58/2024 cu privire la aprobarea proiectului „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Complexului servicii Sf",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19816.pdf",
+     "sha256": "d3a432cad34f5598cdbeddac2971ac5bf6d764dca0bd6dee6dedef6e5f2d5497"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-59-2024",
+   "path": "local/judet/olt/2024/59",
+   "short": "HCJ Olt nr. 59/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 59/2024 cu privire la aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Complexului servicii Sf",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19817.pdf",
+     "sha256": "cc37d451485d71581c56016a28849086c0f491490110fe702459098898bcc548"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-60-2024",
+   "path": "local/judet/olt/2024/60",
+   "short": "HCJ Olt nr. 60/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 60/2024 cu privire la aprobarea proiectului „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Centrului de zi de recuperare pentru copii cu dizabilități Caracal și Centrului de abilitare și reabilitare Caracal” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19818.pdf",
+     "sha256": "bda3ff64981bba3b7d609720e6a5b9d4ac67b145d32e7c684f4ca3b299cfc891"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-61-2024",
    "path": "local/judet/olt/2024/61",
    "short": "HCJ Olt nr. 61/2024",
@@ -1289,6 +1499,51 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/formidable/223/19819.pdf",
      "sha256": "9f8d855f329942ca561b030316ad2a169b7ed1c1427be87b3f5be8c0836e12de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-62-2024",
+   "path": "local/judet/olt/2024/62",
+   "short": "HCJ Olt nr. 62/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 62/2024 cu privire la aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Centrului de zi de recuperare pentru copii cu dizabilități Caracal și Centrului de abilitare și reabilitare Caracal” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19820.pdf",
+     "sha256": "0aad1470ff3df98f51a28591b756313985aaff4b5a7e67046b17cd1be86b45ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-63-2024",
+   "path": "local/judet/olt/2024/63",
+   "short": "HCJ Olt nr. 63/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 63/2024 cu privire la aprobarea proiectului „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Centrului de zi de recuperare pentru copii cu dizabilități Slatina și Complexului de Servicii Sf",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19821.pdf",
+     "sha256": "570193a1b874409d95a57e591799227c293cf832b22b4098e0f64db6dd6ac685"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-64-2024",
+   "path": "local/judet/olt/2024/64",
+   "short": "HCJ Olt nr. 64/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 64/2024 cu privire la aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Centrului de zi de recuperare pentru copii cu dizabilități Slatina și Complexului de Servicii Sf",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19822.pdf",
+     "sha256": "68be84b3572237cf29d3b820fa342339e552181b85b7e1067da7f20295c066fb"
     }
    ]
   },
@@ -1383,6 +1638,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-79-2024",
+   "path": "local/judet/olt/2024/79",
+   "short": "HCJ Olt nr. 79/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 79/2024 pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19887.pdf",
+     "sha256": "a1732fee2f67dec9281fa905393fcd501b0f3f2e7a86e1f7616a71c3a14ef46a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-80-2024",
    "path": "local/judet/olt/2024/80",
    "short": "HCJ Olt nr. 80/2024",
@@ -1458,6 +1728,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-89-2024",
+   "path": "local/judet/olt/2024/89",
+   "short": "HCJ Olt nr. 89/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 89/2024 cu privire la aprobarea proiectului „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Complexului Servicii Persoane Adulte Corabia” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19897.pdf",
+     "sha256": "4956da72d052a67e2d0515a27e7a030f605e3cc99f6ea1aff01fdcd857d7496c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-9-2024",
    "path": "local/judet/olt/2024/9",
    "short": "HCJ Olt nr. 9/2024",
@@ -1469,6 +1754,66 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/formidable/223/19075-1.pdf",
      "sha256": "166568b5d22d8af50bb58d561c661487734f9dc89d866fd02125fac706710625"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-90-2024",
+   "path": "local/judet/olt/2024/90",
+   "short": "HCJ Olt nr. 90/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 90/2024 cu privire la aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Complexului Servicii Persoane Adulte Corabia” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19898.pdf",
+     "sha256": "ca3f48a2373ce1fe217f78872127a85fb92ead980c58b99eb4a31bffe3744e69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-91-2024",
+   "path": "local/judet/olt/2024/91",
+   "short": "HCJ Olt nr. 91/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 91/2024 cu privire la aprobarea proiectului „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Inspectoratului de Protecție Civilă Olt” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19899.pdf",
+     "sha256": "38eb9648784962ebc9d94bdc23e8bf7730b40294e871aecac71e38ae5200ea52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-92-2024",
+   "path": "local/judet/olt/2024/92",
+   "short": "HCJ Olt nr. 92/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 92/2024 cu privire la aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiție „Reabilitare termică pentru îmbunătățirea eficienței energetice la clădirea Inspectoratului de Protecție Civilă Olt” Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19900.pdf",
+     "sha256": "1945f03aeca9f2f3b06cd82c638c5c6227083d53932d29fe42ab6374d9acfa15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-93-2024",
+   "path": "local/judet/olt/2024/93",
+   "short": "HCJ Olt nr. 93/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 93/2024 cu privire la aprobarea cotizației Consiliului Județean Olt la Uniunea Națională a Consiliilor Județene din România (UNCJR) pentru anul 2024 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19901.pdf",
+     "sha256": "95ae8267cbedca4ced105019a3b1817045f078621e66d11c64ecc5787ce1922e"
     }
    ]
   },

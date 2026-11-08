@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-12-2024",
+   "path": "local/maramures/cernesti/2024/12",
+   "short": "HCL Cernești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 12/2024 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/159301",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/159301",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-13-2024",
    "path": "local/maramures/cernesti/2024/13",
    "short": "HCL Cernești nr. 13/2024",
@@ -103,6 +118,21 @@
      "from": "2024-08-26",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/165411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-17-2024",
+   "path": "local/maramures/cernesti/2024/17",
+   "short": "HCL Cernești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 17/2024 privind aprobarea prețului de închiriere pentru spațiile unde funcționează Poșta Română și Orange România Communications S.A",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/165412",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/165412",
      "sha256": null
     }
    ]

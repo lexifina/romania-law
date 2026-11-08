@@ -3,6 +3,66 @@
  "shard": "local/judet/bihor/2020",
  "acts": [
   {
+   "slug": "hcj-bihor-186-2020",
+   "path": "local/judet/bihor/2020/186",
+   "short": "HCJ Bihor nr. 186/2020",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 186/2020",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h186-4.pdf",
+     "sha256": "56d77b58a1737ca640d90076f1c2f21df58f8a9a85f323c46fa7772060fcbeb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-196-2020",
+   "path": "local/judet/bihor/2020/196",
+   "short": "HCJ Bihor nr. 196/2020",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 196/2020",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h196-3.pdf",
+     "sha256": "bcecbb0b8bc304ec371e69ed759b97b7c02f5024b73d03fbf2fa81e7e1bd9ef0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-211-2020",
+   "path": "local/judet/bihor/2020/211",
+   "short": "HCJ Bihor nr. 211/2020",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 211/2020",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h211-2.pdf",
+     "sha256": "8f02a522bf64195fb51fc3b881567695b9a572cf8670517f0b6170d6d300f41b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-214-2020",
+   "path": "local/judet/bihor/2020/214",
+   "short": "HCJ Bihor nr. 214/2020",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 214/2020",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h214-2.pdf",
+     "sha256": "98f612b48409b0fdc73c76042a84f678ed636cf38317ce186cc4556db2f48ef7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-226-2020",
    "path": "local/judet/bihor/2020/226",
    "short": "HCJ Bihor nr. 226/2020",
@@ -14,6 +74,21 @@
      "units": 1,
      "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/03/rectificare-HCJB-nr.226-din-15.12.2020.pdf",
      "sha256": "f2c0850e1490302fccd9c84c5b2ae0c3f66c29b1a1643447f1e5ed471cdf98a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-bihor-231-2020",
+   "path": "local/judet/bihor/2020/231",
+   "short": "HCJ Bihor nr. 231/2020",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 231/2020",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h231-3.pdf",
+     "sha256": "69b0c4adea8e549e46f23c1b5cf1446428c077e6813c6cf0e89a75d24578e431"
     }
    ]
   }

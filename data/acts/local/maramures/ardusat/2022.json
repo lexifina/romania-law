@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-maramures--ardusat-5-2022",
+"path": "local/maramures/ardusat/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 5/2022 privind desemnarea unui reprezentant si al unui membru supleant al consiliului local Ardusat, care vor face parte din comisia de evaluare a probei de interviu pentru concursul de ocupare a functiei de director la Scoala Gimnaziala Ardusat",
+"short": "HCL Ardusat nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-22",
+"latest": "2022-02-22",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/53388",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-6-2022",
 "path": "local/maramures/ardusat/2022/6",
 "kind": "local",
@@ -553,6 +575,28 @@
 "council_name": "Consiliul Local al Comunei Ardusat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-27-2022",
+"path": "local/maramures/ardusat/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 27/2022 privind desemnarea reprezentantilor Consiliului Local al comunei Ardusat in Consiliul de Administratie al Scolii Gimnaziale Ardusat, jud.Maramures, pentru anul 2022-2023",
+"short": "HCL Ardusat nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/70837",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

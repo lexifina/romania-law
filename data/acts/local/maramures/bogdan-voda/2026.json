@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-maramures--bogdan-voda-5-2026",
+"path": "local/maramures/bogdan-voda/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 5/2026 privind respingerea plângerii prealabile înregistrată la Consiliul Local al Comunei Bogdan Vodă sub nr. 1/ 13.01.2026 împotriva H.C.L nr. 45/30.12.2025 privind aprobarea cotelor și nivelurilor impozitelor și taxelor locale pentru anul fiscal 2026",
+"short": "HCL Bogdan Vodă nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/248602",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-6-2026",
 "path": "local/maramures/bogdan-voda/2026/6",
 "kind": "local",
@@ -110,6 +132,94 @@
 "council_name": "Consiliul Local al Comunei Bogdan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-7-2026",
+"path": "local/maramures/bogdan-voda/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 7/2026 privind înfiinţarea Centru de zi pentru copii aflați în situație de risc de separare de părinți, instituţie fară personalitate juridică, în subordinea Compartimentului Asistență Socială, Organigrama, Statul de functii si Regulamentul de Organizare si functionare al Centru de zi pentru copii aflați în situație de risc de separare de părinți",
+"short": "HCL Bogdan Vodă nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/248604",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-8-2026",
+"path": "local/maramures/bogdan-voda/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 8/2026 privind aprobarea REGULAMENT-CADRU de organizare şi funcţionare a Serviciului social de zi:Centru de zi pentru copii aflati în situatie de risc de separare de parinti;",
+"short": "HCL Bogdan Vodă nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/248605",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-9-2026",
+"path": "local/maramures/bogdan-voda/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 9/2026 privind efectuarea unor operatiuni de cadastru și publicitate imobiliară pentru imobilul situat în comuna Bogdan Vodă, sat Bogdan Vodă, teren intravilan nr.vechi 102, actual FN, identificat în cartea albă la pozitia 34",
+"short": "HCL Bogdan Vodă nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-02",
+"latest": "2026-03-02",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/256399",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-10-2026",
+"path": "local/maramures/bogdan-voda/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 10/2026 Privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții “ ÎNFIINȚARE CENTRU DE ZI PENTRU COPIII EXPUSI RISCULUI DE A FI SEPARATI DE FAMILIE, IN COMUNA BOGDAN VODA, JUDETUL MARAMURES",
+"short": "HCL Bogdan Vodă nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-24",
+"latest": "2026-04-24",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/263603",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

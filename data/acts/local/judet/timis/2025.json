@@ -3,6 +3,29 @@
 "shard": "local/judet/timis/2025",
 "acts": [
 {
+"slug": "hcj-timis-6-2025",
+"path": "local/judet/timis/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 6/2025",
+"short": "HCJ Timiș nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/06_HCJT_2025.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-timis-57-2025",
 "path": "local/judet/timis/2025/57",
 "kind": "local",

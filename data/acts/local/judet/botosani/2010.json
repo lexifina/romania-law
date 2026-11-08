@@ -625,6 +625,28 @@
 }
 },
 {
+"slug": "hcj-botosani-37-2010",
+"path": "local/judet/botosani/2010/37",
+"kind": "local",
+"year": "2010",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 37/2010 privind aprobarea contului anual de executie a utilizarii fondului de rulment, la 31 decembrie 2009",
+"short": "HCJ Botoșani nr. 37/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-03-04",
+"latest": "2010-03-04",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-botosani-41-2010",
 "path": "local/judet/botosani/2010/41",
 "kind": "local",
@@ -2451,6 +2473,29 @@
 "council_name": "Consiliul Județean Botoșani",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-727-2010",
+"path": "local/judet/botosani/2010/727",
+"kind": "local",
+"year": "2010",
+"number": "727",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 727/2010",
+"short": "HCJ Botoșani nr. 727/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-09-27",
+"latest": "2010-09-27",
+"portal": null,
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

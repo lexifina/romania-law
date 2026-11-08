@@ -888,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-347-2014",
+   "path": "local/judet/botosani/2014/347",
+   "short": "HCJ Botoșani nr. 347/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 347/2014 privind aprobarea rețelei școlare a învățământului special din Județul Botoșani, pentru anul școlar 2014 - 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_27.03.2014.pdf",
+     "sha256": "603d44e95d7e2aeddc54ff3b5484c1378696124a01b2e82c5d16f7b031263414"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-35-2014",
    "path": "local/judet/botosani/2014/35",
    "short": "HCJ Botoșani nr. 35/2014",
@@ -974,6 +989,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h004_31.01.2014.pdf",
      "sha256": "46f75b4a8a410f9c6ad01eee005f0f7a746bf2e56e8e0d5374edf0c35a56c2ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2014",
+   "path": "local/judet/botosani/2014/40",
+   "short": "HCJ Botoșani nr. 40/2014",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2014 privind aprobarea Regulamentului de organizare și funcționare a Comisiei de evaluare a persoanelor adulte cu handicap a județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h050_30.04.2014.pdf",
+     "sha256": "7adc37b08e4c3f6c0dbd6acfb3452eec5a4dd30491967e90c2a1c78422e7d00d"
     }
    ]
   },

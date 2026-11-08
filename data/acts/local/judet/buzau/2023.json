@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcj-buzau-4-2023",
+"path": "local/judet/buzau/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 4/2023 privind aprobarea utilizării în anul 2023 a excedentului anual al bugetului propriu al judeţului Buzău rezultat la încheierea exerciţiului bugetar la 31 decembrie 2022",
+"short": "HCJ Buzău nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-27",
+"latest": "2023-01-27",
+"portal": "https://cjbuzau.ro/hotarari-cj-2023/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-buzau-5-2023",
 "path": "local/judet/buzau/2023/5",
 "kind": "local",
@@ -2486,6 +2508,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Buzău nr. 144/2023 privind aprobarea concesionării unui teren în suprafață de 4.064 mp. aflat în domeniul privat al județului Buzău, situat în municipiul Rm. Sărat, strada Industriei, Carte funciară nr. 33549, prin licitație publică",
 "short": "HCJ Buzău nr. 144/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://cjbuzau.ro/hotarari-cj-2023/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-buzau-146-2023",
+"path": "local/judet/buzau/2023/146",
+"kind": "local",
+"year": "2023",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 146/2023 pentru aprobarea declanșării procedurii de achiziție a unui teren proprietate privată în suprafață de 1698 mp., situat în sat Pietroasele, comuna Pietroasele, în scopul implementării proiectului „Valorificarea potențialului turistic natural și antropic pentru dezvoltarea durabilă a județului Buzău” * Modificată prin Hotărârea nr.177 din 2023",
+"short": "HCJ Buzău nr. 146/2023",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

@@ -3,6 +3,94 @@
 "shard": "local/judet/bihor/2020",
 "acts": [
 {
+"slug": "hcj-bihor-186-2020",
+"path": "local/judet/bihor/2020/186",
+"kind": "local",
+"year": "2020",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 186/2020",
+"short": "HCJ Bihor nr. 186/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-196-2020",
+"path": "local/judet/bihor/2020/196",
+"kind": "local",
+"year": "2020",
+"number": "196",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 196/2020",
+"short": "HCJ Bihor nr. 196/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-211-2020",
+"path": "local/judet/bihor/2020/211",
+"kind": "local",
+"year": "2020",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 211/2020",
+"short": "HCJ Bihor nr. 211/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-214-2020",
+"path": "local/judet/bihor/2020/214",
+"kind": "local",
+"year": "2020",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 214/2020",
+"short": "HCJ Bihor nr. 214/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-bihor-226-2020",
 "path": "local/judet/bihor/2020/226",
 "kind": "local",
@@ -12,6 +100,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Bihor nr. 226/2020 privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Bihor și aprobarea Organigramei, a Statelor de funcţii și Regulamentului de Organizare și Funcționare",
 "short": "HCJ Bihor nr. 226/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2020/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-231-2020",
+"path": "local/judet/bihor/2020/231",
+"kind": "local",
+"year": "2020",
+"number": "231",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 231/2020",
+"short": "HCJ Bihor nr. 231/2020",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

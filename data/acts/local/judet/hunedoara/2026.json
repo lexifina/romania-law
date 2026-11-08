@@ -1900,6 +1900,28 @@
 }
 },
 {
+"slug": "hcj-hunedoara-96-2026",
+"path": "local/judet/hunedoara/2026/96",
+"kind": "local",
+"year": "2026",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Hunedoara nr. 96/2026 privind aprobarea contractării unei finanțări rambursabile interne în valoare de maximum 56,883 milioane lei",
+"short": "HCJ Hunedoara nr. 96/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-19",
+"latest": "2026-06-19",
+"portal": "https://www.cjhunedoara.ro/index.php/raportari-in-sensul-legii-nr-361-din-2022-privind-protectia-avertizorilor-in-interes-public/78-noutati-publicate/945-anunt-de-achizitie-servicii-de-creditare-bancara",
+"council": "judet/hunedoara",
+"council_name": "Consiliul Județean Hunedoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-hunedoara-97-2026",
 "path": "local/judet/hunedoara/2026/97",
 "kind": "local",

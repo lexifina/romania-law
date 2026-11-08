@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/buzau/2015",
+"acts": [
+{
+"slug": "hcj-buzau-248-2015",
+"path": "local/judet/buzau/2015/248",
+"kind": "local",
+"year": "2015",
+"number": "248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 248/2015 privind alegerea Președintelui Consiliului Județean Buzău",
+"short": "HCJ Buzău nr. 248/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-11-13",
+"latest": "2015-11-13",
+"portal": "http://cjbuzau.ro/hotarari-cj-2015/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-buzau-271-2015",
+"path": "local/judet/buzau/2015/271",
+"kind": "local",
+"year": "2015",
+"number": "271",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 271/2015 pentru unele unități de cult religios recunoscute în România",
+"short": "HCJ Buzău nr. 271/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-12-17",
+"latest": "2015-12-17",
+"portal": "http://cjbuzau.ro/hotarari-cj-2015/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

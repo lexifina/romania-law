@@ -4923,6 +4923,28 @@
 }
 },
 {
+"slug": "hcj-bihor-258-2024",
+"path": "local/judet/bihor/2024/258",
+"kind": "local",
+"year": "2024",
+"number": "258",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 258/2024",
+"short": "HCJ Bihor nr. 258/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-bihor-259-2024",
 "path": "local/judet/bihor/2024/259",
 "kind": "local",

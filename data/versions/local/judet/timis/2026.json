@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-timis-59-2026",
+   "path": "local/judet/timis/2026/59",
+   "short": "HCJ Timiș nr. 59/2026",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 59/2026",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/59_HCJT_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/59_HCJT_2026.pdf",
+     "sha256": "8aff5ac39252fcdfc3d7b54113e15990e275c7ec1f0c8d0c53e9446dace234db"
+    }
+   ]
+  },
+  {
    "slug": "hcj-timis-7-2026",
    "path": "local/judet/timis/2026/7",
    "short": "HCJ Timiș nr. 7/2026",

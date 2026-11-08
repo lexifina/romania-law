@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--ardusat-13-2025",
+   "path": "local/maramures/ardusat/2025/13",
+   "short": "HCL Ardusat nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 13/2025 privind identificarea topografică a unor imobile aparţinând domeniului public al comunei ARDUSAT",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253151",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253151",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ardusat-14-2025",
    "path": "local/maramures/ardusat/2025/14",
    "short": "HCL Ardusat nr. 14/2025",

@@ -267,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-maramures--ardusat-13-2024",
+"path": "local/maramures/ardusat/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 13/2024 privind aprobarea documentatiei tehnice de dezmembrare a imobilului situat in comuna Ardusat evidentiat in C.F.52161 si C.F.52162 (50846), apartinand domeniului public al comunei Ardusat",
+"short": "HCL Ardusat nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/198093",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-14-2024",
 "path": "local/maramures/ardusat/2024/14",
 "kind": "local",
@@ -286,6 +308,28 @@
 "council_name": "Consiliul Local al Comunei Ardusat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-15-2024",
+"path": "local/maramures/ardusat/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 15/2024 privind aprobarea Studiului de Fundamentare a deciziei de concesionare a serviciului de utilitate publica de distributie a gazelor naturale in comuna Ardusat, județul Maramureș",
+"short": "HCL Ardusat nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/198096",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -462,6 +506,52 @@
 "council_name": "Consiliul Local al Comunei Ardusat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-24-2024",
+"path": "local/maramures/ardusat/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 24/2024",
+"short": "HCL Ardusat nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/198130",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-25-2024",
+"path": "local/maramures/ardusat/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 25/2024",
+"short": "HCL Ardusat nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/198131",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

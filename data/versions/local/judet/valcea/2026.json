@@ -3,6 +3,621 @@
  "shard": "local/judet/valcea/2026",
  "acts": [
   {
+   "slug": "hcj-valcea-1-2026",
+   "path": "local/judet/valcea/2026/1",
+   "short": "HCJ Vâlcea nr. 1/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 1/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot1.pdf",
+     "sha256": "e3713335c44b40ada76d6c947536dda466a120ede17f68f266b2b8aa91ba2667"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-10-2026",
+   "path": "local/judet/valcea/2026/10",
+   "short": "HCJ Vâlcea nr. 10/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 10/2026 privind aprobarea documentației tehnico-economice faza: Documentație de avizare a lucrărilor de intervenție și a indicatorilor tehnico-economici pentru obiectivul de investiții: ”REABILITAREA ȘI MODERNIZAREA UNEI PĂRȚI DIN BUNUL IMOBIL SITUAT ÎN STRADA TUDOR VLADIMIRESCU, NR.8 (FOST NR.18), MUNICIPIUL RÂMNICU VÂLCEA” Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot10.pdf",
+     "sha256": "fe4e6250a429206066a4d98df103a8d7d0d6e6d8b580092081e5e85229c4914b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-101-2026",
+   "path": "local/judet/valcea/2026/101",
+   "short": "HCJ Vâlcea nr. 101/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 101/2026 privind modificarea Anexei nr. 3 la Regulamentul de Organizare și Funcționare al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vâlcea, aprobat prin Hotărârea Consiliului Județean Vâlcea nr. 51 din 15 aprilie 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot101_2026.pdf",
+     "sha256": "1606e3cda44046bbcb71e45b061d46d3bf39092fb19921a65d5945fefd38fc37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-102-2026",
+   "path": "local/judet/valcea/2026/102",
+   "short": "HCJ Vâlcea nr. 102/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 102/2026 privind aprobarea înființării a 11 posturi în afara organigramei Direcției Generale de Asistență Socială și Protecția Copilului Vâlcea, respectiv Serviciul social ”Unitate de îngrijire la domiciliu pentru persoane vârstnice”, cod serviciu social 8810-ID-I Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot102_2026.pdf",
+     "sha256": "1bf58b9f4d9e146be73fe75186d096db3d79434278a29bec4a5af36fd06e9ec6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-103-2026",
+   "path": "local/judet/valcea/2026/103",
+   "short": "HCJ Vâlcea nr. 103/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 103/2026 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului social furnizat la domiciliu “Unitate de îngrijire la domiciliu pentru persoane vârstnice” – cod serviciu social 8810-ID-I Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot103_2026.pdf",
+     "sha256": "49bf8c87f42c169cba37a65fdcaef004c43143f32fcadcc62a98ca4fe2899b04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-104-2026",
+   "path": "local/judet/valcea/2026/104",
+   "short": "HCJ Vâlcea nr. 104/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 104/2026 privind aprobarea arondării activităţilor de evidenţă a persoanelor din localităţile judeţului Vâlcea la Serviciile Publice Locale de Evidenţă a Persoanelor Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot104_2026.pdf",
+     "sha256": "691c320b76aa23ee962e2c84ed3ea11aac8b87c6c1f9e90cf31a053c0eaa3302"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-105-2026",
+   "path": "local/judet/valcea/2026/105",
+   "short": "HCJ Vâlcea nr. 105/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 105/2026 privind modificarea nominalizărilor de la poziția 4, punctul I – Comisia pentru buget, finanțe și administrarea domeniului public și privat al județului și de la poziția 2, punctul VIII – Comisia pentru relații cu societatea civilă și servicii publice deconcentrate din anexa nr.2 la Hotărârea Consiliului Județean Vâlcea nr.288 din 31 octombrie 2024 privind organizarea comisiilor de specialitate al",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot105_2026.pdf",
+     "sha256": "ded34196b9190fa4bad07cc3573d688af27fa1f169da902f54f503073f93cf49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-106-2026",
+   "path": "local/judet/valcea/2026/106",
+   "short": "HCJ Vâlcea nr. 106/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 106/2026 privind rectificarea Anexei nr.1 la Hotărârea Consiliului Județean Vâlcea nr.13 din 25 februarie 2026, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot106_2026.pdf",
+     "sha256": "bd162d18bd11114eebbc54233bdb31c942577e83ebc1f72d4c483201bf856929"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-108-2026",
+   "path": "local/judet/valcea/2026/108",
+   "short": "HCJ Vâlcea nr. 108/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 108/2026 privind aprobarea Bugetului de venituri şi cheltuieli al Regiei Autonome Județene de Drumuri și Poduri Vâlcea, pe anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot108_2026.pdf",
+     "sha256": "4f5d3edfebed55fedad5538e3d65d9413ced1964be65c9d57d1ef82d4c31f1be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-109-2026",
+   "path": "local/judet/valcea/2026/109",
+   "short": "HCJ Vâlcea nr. 109/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 109/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot109_2026.pdf",
+     "sha256": "b305e931bc1e869de306669f7348c0a584d4a3130071a4ca26937faccfe83998"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-111-2026",
+   "path": "local/judet/valcea/2026/111",
+   "short": "HCJ Vâlcea nr. 111/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 111/2026 privind încheierea unui Acord de Parteneriat între Judeţul Vâlcea, prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot111_2026.pdf",
+     "sha256": "88227c53a08eb7ee5f8a51b75d0d3c31e998068b7864074e10400334bfe3ffd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-115-2026",
+   "path": "local/judet/valcea/2026/115",
+   "short": "HCJ Vâlcea nr. 115/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 115/2026 privind darea în administrarea Clubului Sportiv Vâlcea -1924 a bunurilor aflate în domeniul public și privat al Județului Vâlcea aferente obiectivului de investiții „Mirajul Oltului – extinderea infrastructurii turistice de agrement a staţiunii Călimăneşti – Căciulata”, urmare a transferului activității și personalului încadrat la Serviciul Public de Turism, Agrement și Servicii în cadrul Clubului",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot115_2026.pdf",
+     "sha256": "a48542ab4fa787e603b7daeb467f9078d1eebc5a28e461502f5fc8faaf74d4f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-116-2026",
+   "path": "local/judet/valcea/2026/116",
+   "short": "HCJ Vâlcea nr. 116/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 116/2026 privind declararea de interes public județean a investiției denumită ”Construire sursă alternativă de alimentare cu apă pentru zona de captare Brădișor“ Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot116_2026.pdf",
+     "sha256": "4db0a55d4db2f4a07d8f6ff1d82a2af270bc7accc79c7732ebe76a779ba9ba8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-117-2026",
+   "path": "local/judet/valcea/2026/117",
+   "short": "HCJ Vâlcea nr. 117/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 117/2026 privind încheierea unui Acord de Parteneriat între Unitatea Administrativ-Teritorială – Judeţul Vâlcea prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot117_2026.pdf",
+     "sha256": "f44e5a291658f4d689f28ac4a4a5736c47b78a56d3319ea9e57ca986d02f5ab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-118-2026",
+   "path": "local/judet/valcea/2026/118",
+   "short": "HCJ Vâlcea nr. 118/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 118/2026 privind scoaterea din funcțiune a unor imobile aflate în domeniul privat al Județului Vâlcea și în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot118_2026.pdf",
+     "sha256": "12a69e79231e8315796732e0fd40adffb60844b0c3bbf85ff01fb3dc873d5f2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-119-2026",
+   "path": "local/judet/valcea/2026/119",
+   "short": "HCJ Vâlcea nr. 119/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 119/2026 privind neexercitarea dreptului de preempţiune al Unității administrativ-teritoriale – Județul Vâlcea referitor la cumpărarea imobilului situat în municipiul Râmnicu Vâlcea, localitatea componentă Căzănești, punct “La Plute”, judeţul Vâlcea, identificat potrivit Cărții funciare nr. 61776 Râmnicu Vâlcea, amplasat în perimetrul Sitului arheologic de la Râmnicu Vâlcea, Punct “Cartier Căzănești” cod L",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot119_2026.pdf",
+     "sha256": "3ca93668dccb15e1fb3d310f1d45e33998d3a548a228b9f5fe5fbc02e934e768"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-12-2026",
+   "path": "local/judet/valcea/2026/12",
+   "short": "HCJ Vâlcea nr. 12/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 12/2026 privind mandatarea reprezentantului Judeţului Vâlcea în Adunarea Generală a Acționarilor la Societatea APAVIL SA Vâlcea să aprobe numirea unui membru în Consiliul de Administrație, la propunerea comisiei de selecţie şi nominalizare, în urma finalizării procedurii de selecție Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot12.pdf",
+     "sha256": "59c01818838635acd7e3168b49e456973e1648d0dae34bf0242b67b76ca9873a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-120-2026",
+   "path": "local/judet/valcea/2026/120",
+   "short": "HCJ Vâlcea nr. 120/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 120/2026 privind modificarea componenţei nominale a Comisiei Tehnice de Amenajare a Teritoriului şi Urbanism, constituită prin Hotărârea Consiliului Judeţean Vâlcea nr.21 din 31 ianuarie 2019, cu modificările şi completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot120_2026.pdf",
+     "sha256": "6a055ec783da7b114ce62b6eacac627eee0e6b5384d715ec67737577f0416b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-121-2026",
+   "path": "local/judet/valcea/2026/121",
+   "short": "HCJ Vâlcea nr. 121/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 121/2026 privind mandatarea reprezentantului Județului Vâlcea în Adunarea Generală a Acționarilor la Societatea Apavil S.A",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot121_2026.pdf",
+     "sha256": "15f6c96236eada6c47622a84c0a872ea062416eccd3a591f98adbe4f0588ffc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-122-2026",
+   "path": "local/judet/valcea/2026/122",
+   "short": "HCJ Vâlcea nr. 122/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 122/2026 privind rectificarea Anexei nr.1 și a Anexei nr.2, la Hotărârea Consiliului Județean Vâlcea nr.13 din 25 februarie 2026, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot122_2026.pdf",
+     "sha256": "8ff2d07b238a918c3d46e029e4d47a58208ffec265138f86f0c71949146ea5be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-124-2026",
+   "path": "local/judet/valcea/2026/124",
+   "short": "HCJ Vâlcea nr. 124/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 124/2026 privind modificarea și completarea Hotărârii Consiliului Județean Vâlcea nr.31 din 31 martie 2026 privind aprobarea plății cotizațiilor și contribuțiilor Județului Vâlcea în calitate de membru al unor asociații, pentru anul 2026, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot124_2026.pdf",
+     "sha256": "963ecf701d7b888b31c6d5d251c2786fa8af82c8d7f8508ffe7ca68ebbd8f3d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-13-2026",
+   "path": "local/judet/valcea/2026/13",
+   "short": "HCJ Vâlcea nr. 13/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 13/2026 privind utilizarea sumei de 23.115.539 lei din Excedentul bugetului local și a sumei de 5.730.000 lei, din Fondul de Întreținere, Înlocuire și Dezvoltare, pe anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot13.pdf",
+     "sha256": "c114e1cb6f09d4ff4457b270be942ce91daf04ab75dd319a78ee90512ff146c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-130-2026",
+   "path": "local/judet/valcea/2026/130",
+   "short": "HCJ Vâlcea nr. 130/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 130/2026 privind aprobarea documentației tehnico-economice, faza Studiu de fezabilitate și a indicatorilor tehnico-economici aferenți investiției „Centrul de Sănătate Mintală și pentru Prevenirea Adicțiilor Vâlcea” Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot130_2026.pdf",
+     "sha256": "c1f9d08a96db6e2e74182c22fd6e389fedd03dd2c103a2ff0e2a42405d83cdda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-131-2026",
+   "path": "local/judet/valcea/2026/131",
+   "short": "HCJ Vâlcea nr. 131/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 131/2026 privind aprobarea proiectului „Centrul de Sănătate Mintală și pentru Prevenirea Adicțiilor Vâlcea”, a Acordului de parteneriat și a cheltuielilor legate de implementarea și durabilitatea acestuia Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot131_2026.pdf",
+     "sha256": "a1ce6079db988b84dc1131d6d9409bc1bbf5a87c2a233a87e3de323570afe7c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-132-2026",
+   "path": "local/judet/valcea/2026/132",
+   "short": "HCJ Vâlcea nr. 132/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 132/2026 privind aprobarea încheierii de către Județul Vâlcea prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot132_2026.pdf",
+     "sha256": "4410d4d68c6650fe9b7f4d75ce93ebad470363bc13ae4828d5a34228da6d8c19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-133-2026",
+   "path": "local/judet/valcea/2026/133",
+   "short": "HCJ Vâlcea nr. 133/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 133/2026 privind aprobarea constituirii dreptului de uz, servitute și folosință comună asupra instalațiilor electrice aparținând U.A.T",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot133_2026.pdf",
+     "sha256": "427408cb609dd2ae8d6b792193edd0ce9df5cf485cf39b36a15a3ded1169964b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-134-2026",
+   "path": "local/judet/valcea/2026/134",
+   "short": "HCJ Vâlcea nr. 134/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 134/2026 privind declararea de interes public județean a unui bun imobil – clădire şi darea acestuia în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot134_2026.pdf",
+     "sha256": "7bda44049f2bbec6a86efc137c83db3226c3b0885b52fefc938b0b286cd9f761"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-135-2026",
+   "path": "local/judet/valcea/2026/135",
+   "short": "HCJ Vâlcea nr. 135/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 135/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot135_2026.pdf",
+     "sha256": "74901644ea31505690435c4fa4095bfa3075cc64f66672aaf2dca4dc10c7a033"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-136-2026",
+   "path": "local/judet/valcea/2026/136",
+   "short": "HCJ Vâlcea nr. 136/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 136/2026 privind aprobarea asocierii Județului Vâlcea prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot136_2026.pdf",
+     "sha256": "dc6b9436d110c6582b4779f45ecfc19a92d824283b2c2c269b0539ad514cb622"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-137-2026",
+   "path": "local/judet/valcea/2026/137",
+   "short": "HCJ Vâlcea nr. 137/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 137/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot137_2026.pdf",
+     "sha256": "1c6dacf70d9563eb0cb1a30d0303cfabf311fb33e50ac7b1199ac9adbba1d3fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-138-2026",
+   "path": "local/judet/valcea/2026/138",
+   "short": "HCJ Vâlcea nr. 138/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 138/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot138_2026.pdf",
+     "sha256": "6d4507f487fe532231b5ff4bc5bb6e77d23b5172c3b59b32a22d0325f3f593a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-139-2026",
+   "path": "local/judet/valcea/2026/139",
+   "short": "HCJ Vâlcea nr. 139/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 139/2026 privind aprobarea alocării de finanțare nerambursabilă de la bugetul propriu al Judeţului Vâlcea pentru proiectele culturale, pe anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot139_2026.pdf",
+     "sha256": "befec54c39c09cba6d436faf8fb16fdb3e8bf1acf27ca127c545ce86054e1e8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-14-2026",
+   "path": "local/judet/valcea/2026/14",
+   "short": "HCJ Vâlcea nr. 14/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 14/2026 privind rectificarea Bugetului de venituri și cheltuieli al Spitalului Județean de Urgență Vâlcea și al Spitalului de Psihiatrie Drăgoești și a Listei obiectivelor de investiții, pe anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot14.pdf",
+     "sha256": "3ff0f7e66f1ab2297f7f216e4c8c280d36b106487224d852dabdbd435be9ef87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-140-2026",
+   "path": "local/judet/valcea/2026/140",
+   "short": "HCJ Vâlcea nr. 140/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 140/2026 privind aprobarea alocării de finanţare nerambursabilă de la bugetul propriu al Judeţului Vâlcea, pentru proiectele din domeniul de promovare și dezvoltare a turismului local, pentru anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot140_2026.pdf",
+     "sha256": "511f3ddbfb70090c09ff04317dbd3eae7b3f0de503845137ceea64eecae5b86a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-141-2026",
+   "path": "local/judet/valcea/2026/141",
+   "short": "HCJ Vâlcea nr. 141/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 141/2026 privind aprobarea alocării de finanțare nerambursabilă, de la bugetul propriu al Judeţului Vâlcea, pentru proiectele în domeniul tineretului, pentru anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot141_2026.pdf",
+     "sha256": "23f71325f8569870ce50a02e9904de752b2d11423ed5d908b045e76bb0433571"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-142-2026",
+   "path": "local/judet/valcea/2026/142",
+   "short": "HCJ Vâlcea nr. 142/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 142/2026 privind aprobarea alocării de finanțare nerambursabilă de la bugetul propriu al Judeţului Vâlcea pentru proiectele sportive de utilitate publică, în anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot142_2026.pdf",
+     "sha256": "747a7401e1d8981ec91379b633c5341dc1115190f1f1c53165ec80d15c4030fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-143-2026",
+   "path": "local/judet/valcea/2026/143",
+   "short": "HCJ Vâlcea nr. 143/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 143/2026 privind aprobarea alocării de finanțare nerambursabilă de la bugetul propriu al Județului Vâlcea pentru activitățile nonprofit de interes general organizate de unitățile de cult din Județul Vâlcea care aparţin cultelor religioase recunoscute din România, în anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot143_2026.pdf",
+     "sha256": "809f22b78b54dfd3c312a65bb91a17d0e4323abd3ed21467a14fe23599d2b9fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-144-2026",
+   "path": "local/judet/valcea/2026/144",
+   "short": "HCJ Vâlcea nr. 144/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 144/2026 privind modificarea Hotărârii Consiliului Județean Vâlcea nr. 33 din 9 februarie 2022, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot144_2026.pdf",
+     "sha256": "325e10abd73b1021b78579df0839002ca34312152160b279ebd1c8ac30654886"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-145-2026",
+   "path": "local/judet/valcea/2026/145",
+   "short": "HCJ Vâlcea nr. 145/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 145/2026 privind rectificarea Programului lucrărilor de întreținere și reparații drumuri și poduri județene, pe anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot145_2026.pdf",
+     "sha256": "5f01c8bd94f05e98fa92f522ad6588ab785443b19cda9105e38ed4a321964ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-146-2026",
+   "path": "local/judet/valcea/2026/146",
+   "short": "HCJ Vâlcea nr. 146/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 146/2026 privind actualizarea valorii pentru obiectivul de investiții „Reabilitare și modernizare DJ 677A Crețeni (DN 67B) – Mreneşti – Izvoru – Nemoiu – Amărăști – Glăvile – Cermegeşti – Pesceana – Șirineasa (DJ 677F), km 0+000 – 35+020”, aprobată prin Hotărârea Consiliului Județean Vâlcea nr. 46 din 30 martie 2018, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot146_2026.pdf",
+     "sha256": "624c7a40f2e543846f61074c2ea726ef62af57107745d562b9e2214687f5d10b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-151-2026",
+   "path": "local/judet/valcea/2026/151",
+   "short": "HCJ Vâlcea nr. 151/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 151/2026 privind repartizarea pe unități administrativ-teritoriale a sumei de 43.793 mii lei, din Fondul la dispoziția Consiliului Județean Vâlcea, constituit potrivit prevederilor art.7, alin.(6) din Legea bugetului de stat pe anul 2026, nr. 43/2026, pentru susținerea programelor de dezvoltare locală, pentru susținerea proiectelor de infrastructură care necesită cofinanțare locală, precum și pentru cheltu",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot151_2026.pdf",
+     "sha256": "c81648fe2f9e086e361cf7fc46f928e0e28dcf161824e5ed9a934c360f217d0b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-153-2026",
    "path": "local/judet/valcea/2026/153",
    "short": "HCJ Vâlcea nr. 153/2026",
@@ -14,6 +629,366 @@
      "units": 1,
      "source_url": "https://cjvalcea.ro/storage/formidable/127/hot153_2026.pdf",
      "sha256": "bf77c48bd1ca7a501a0655e1709b5d0b5bb989a022bd53afb2ca88a60d2b99ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-154-2026",
+   "path": "local/judet/valcea/2026/154",
+   "short": "HCJ Vâlcea nr. 154/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 154/2026 privind stabilirea valorii unitare lei/kilometru aferentă sumei forfetare lunare, precum și a sumei forfetare pe zi, în vederea acordării facilităților de transport pentru elevi, pentru anul şcolar 2026-2027 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot154_2026.pdf",
+     "sha256": "7026d8ad7eb254283330d7d3d5ec9ac03af3363a173258ec5c64fcda46d08748"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-156-2026",
+   "path": "local/judet/valcea/2026/156",
+   "short": "HCJ Vâlcea nr. 156/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 156/2026 privind aprobarea organigramei și a statului de funcții ale Teatrului ”Anton Pann” Râmnicu Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot156_2026.pdf",
+     "sha256": "ed46bcf6a152fb1e9d0eadb0857e4a76ba634f7cf607dc32ef5f2aa7809703fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-157-2026",
+   "path": "local/judet/valcea/2026/157",
+   "short": "HCJ Vâlcea nr. 157/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 157/2026 privind modificarea Anexelor nr.1 și nr.2 la Hotărârea Consiliului Județean Vâlcea nr.6 din 23 ianuarie 2026 privind aprobarea organigramei și a statului de funcții ale Spitalului de Psihiatrie Drăgoești Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot157_2026.pdf",
+     "sha256": "ad6dcc99dd0c8964e1b6efb87fd91627d410184a47eaf42f4c99288fda95d0a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-160-2026",
+   "path": "local/judet/valcea/2026/160",
+   "short": "HCJ Vâlcea nr. 160/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 160/2026 privind modificarea și completarea Regulamentului de Organizare și Funcționare al Serviciului social furnizat la domiciliu ,,Unitate de îngrijire la domiciliu pentru persoane vârstnice”, aprobat prin Hotărârea Consiliului Județean Vâlcea nr.103 din 12 iunie 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot160_2026.pdf",
+     "sha256": "e539bea406595104957c791bc9d699b0e7b3749b692a420e241a5c7546d0be9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-162-2026",
+   "path": "local/judet/valcea/2026/162",
+   "short": "HCJ Vâlcea nr. 162/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 162/2026 privind aprobarea asocierii Judeţului Vâlcea prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot162_2026.pdf",
+     "sha256": "21361b4180fd4dfd82c5cf498157b221a83fa60a74ab46e0d3b7f7d4ad0fc426"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-163-2026",
+   "path": "local/judet/valcea/2026/163",
+   "short": "HCJ Vâlcea nr. 163/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 163/2026 privind aprobarea încheierii contractului de constituire a dreptului de superficie Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot163_2026.pdf",
+     "sha256": "a77a63fe95be34a7890896e0a3f4d7d2d6c6a1c8eea490532d9820d83a4aa35d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-168-2026",
+   "path": "local/judet/valcea/2026/168",
+   "short": "HCJ Vâlcea nr. 168/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 168/2026 privind numirea unui membru provizoriu în Consiliul de Administrație al Regiei Autonome Județene de Drumuri și Poduri Vâlcea, până la desemnarea noului administrator Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot168_2026.pdf",
+     "sha256": "b19213397f8e75ce735820cdbba28bd41094c9ee1d3dcc15ed20792ff95b2d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-169-2026",
+   "path": "local/judet/valcea/2026/169",
+   "short": "HCJ Vâlcea nr. 169/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 169/2026 privind rectificarea Anexei nr.1 la Hotărârea Consiliului Județean Vâlcea nr.13 din 25 februarie 2026, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot169_2026.pdf",
+     "sha256": "aac8b091bb990b11143582543dcc5d1246cdebda056596f6f84ae5a1b844fe59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-171-2026",
+   "path": "local/judet/valcea/2026/171",
+   "short": "HCJ Vâlcea nr. 171/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 171/2026 privind stabilirea costului mediu lunar de întreținere pentru beneficiarii din centrele rezidențiale publice pentru persoanele adulte cu handicap din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot171_2026.pdf",
+     "sha256": "4cdfbf041ac710c396e1722314b0544252f23ac01f17cce827d1587c0804da7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-172-2026",
+   "path": "local/judet/valcea/2026/172",
+   "short": "HCJ Vâlcea nr. 172/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 172/2026 privind modificarea și completarea Anexelor nr.3 și nr.8 la Regulamentul de Organizare și Funcționare al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vâlcea aprobat prin Hotărârea Consiliului Județean Vâlcea nr.51 din 15 aprilie 2026, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot172_2026.pdf",
+     "sha256": "59eeb2f18069c6dd304029c07a71845dba8d31dfbf3dbf38ecabb13f0c1be435"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-177-2026",
+   "path": "local/judet/valcea/2026/177",
+   "short": "HCJ Vâlcea nr. 177/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 177/2026 privind încetarea dreptului de folosință gratuită a Județului Vâlcea asupra unor terenuri aflate în proprietatea Arhiepiscopiei Râmnicului – Mănăstirea Bistrița Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot177_2026.pdf",
+     "sha256": "33e89c18d6a433ab12d3bd6b4cf1cb3fb2bd967129c70914b0b1ea19721760d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-181-2026",
+   "path": "local/judet/valcea/2026/181",
+   "short": "HCJ Vâlcea nr. 181/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 181/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot181_2026.pdf",
+     "sha256": "03f0a9913f2d59481cd957a86d34cd1405a2b0c5f3b8c1883aad3fff45a2bc9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-184-2026",
+   "path": "local/judet/valcea/2026/184",
+   "short": "HCJ Vâlcea nr. 184/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 184/2026 privind aprobarea componentei iniţiale a planului de selecţie a candidaţilor pentru postul de membru în Consiliul de administrație al Regiei Autonome Județene de Drumuri și Poduri Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot184_2026.pdf",
+     "sha256": "d6a8431e8064b3c308b157720cc71ba6b16e4203b210beaa6fc9b724f8ba226a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-186-2026",
+   "path": "local/judet/valcea/2026/186",
+   "short": "HCJ Vâlcea nr. 186/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 186/2026 privind desemnarea reprezentanților Consiliului Judeţean Vâlcea în Comisia de Orientare Școlară și Profesională, respectiv în Comisia de Contestaţii pentru Orientare Şcolară şi Profesională din cadrul Centrului Judeţean de Resurse şi Asistenţă Educaţională Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot186_2026.pdf",
+     "sha256": "e518f25ea5a22b5e79b7437b96ab61d56b9e5b64e9a5fbf1b6ff076d2625c7e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-187-2026",
+   "path": "local/judet/valcea/2026/187",
+   "short": "HCJ Vâlcea nr. 187/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 187/2026 privind desemnarea reprezentanților Consiliului Judeţean Vâlcea în Consiliul de Administraţie al Centrului Școlar pentru Educație Incluzivă Băbeni, în anul școlar 2026-2027 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot187_2026.pdf",
+     "sha256": "3587b7e3a22b8de5a27c9037737f819400304749110c1422d35a05fd4b08ceeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-188-2026",
+   "path": "local/judet/valcea/2026/188",
+   "short": "HCJ Vâlcea nr. 188/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 188/2026 privind desemnarea reprezentantului Consiliului Judeţean Vâlcea în Comisia pentru evaluarea și asigurarea calității educației a Centrului Școlar pentru Educație Incluzivă Băbeni, în anul școlar 2026-2027 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot188_2026.pdf",
+     "sha256": "604279e700817ba602cf692d46379a6151347cee674bbc48adbef428aa268c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-189-2026",
+   "path": "local/judet/valcea/2026/189",
+   "short": "HCJ Vâlcea nr. 189/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 189/2026 privind desemnarea reprezentanților Consiliului Judeţean Vâlcea în Consiliul de Administraţie al Liceului Tehnologic Special Bistrița, în anul școlar 2026-2027 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot189_2026.pdf",
+     "sha256": "b8142cfe58038f4ec1d996e43bc4c4792f4f3ba0a0871466efbd12cfc72df011"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-19-2026",
+   "path": "local/judet/valcea/2026/19",
+   "short": "HCJ Vâlcea nr. 19/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 19/2026 privind solicitarea de trecere a unui imobil-teren din domeniul public al Statului, în domeniul public al Județului Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot19.pdf",
+     "sha256": "e5358407595146612187c3c9ea38fc81f50bb34ce0b474a95056e5897e35334a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-190-2026",
+   "path": "local/judet/valcea/2026/190",
+   "short": "HCJ Vâlcea nr. 190/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 190/2026 privind desemnarea reprezentantului Consiliului Judeţean Vâlcea în Comisia pentru evaluarea și asigurarea calității educației a Liceului Tehnologic Special Bistrița, în anul școlar 2026-2027 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot190_2026.pdf",
+     "sha256": "085a0138b2892d0db7123de7258c02da2b130c88e9b96f92829e93dd96df48f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-194-2026",
+   "path": "local/judet/valcea/2026/194",
+   "short": "HCJ Vâlcea nr. 194/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 194/2026 privind acordarea unui ajutor financiar U.A.T",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot194_2026.pdf",
+     "sha256": "81557be390e15b5b087f7e39fd9e7ecd99aa8d8dc7034dc072c1662f5730ea73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-196-2026",
+   "path": "local/judet/valcea/2026/196",
+   "short": "HCJ Vâlcea nr. 196/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 196/2026 privind declararea de interes public județean a unor bunuri Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot196_2026.pdf",
+     "sha256": "a7d13025583205216f81682cccc3d6d3c9151b9d3640dd55ea5a89122d49415b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-197-2026",
+   "path": "local/judet/valcea/2026/197",
+   "short": "HCJ Vâlcea nr. 197/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 197/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot197_2026.pdf",
+     "sha256": "2f3755b911ed48ab6ae23ba10070b75321fcb8adc18f2c9950fc06cd03bb47a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-198-2026",
+   "path": "local/judet/valcea/2026/198",
+   "short": "HCJ Vâlcea nr. 198/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 198/2026 privind rectificarea Anexei nr.1 și a Anexei nr.2 la Hotărârea Consiliului Județean Vâlcea nr.13 din 25 februarie 2026, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot198_2026.pdf",
+     "sha256": "ca7e6a5dcccd998b888e030594651f3cd5462ee5f59083a2bbd7cd8aed037ff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-20-2026",
+   "path": "local/judet/valcea/2026/20",
+   "short": "HCJ Vâlcea nr. 20/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 20/2026 privind completarea Strategiei Integrate de Dezvoltare Durabilă a Județului Vâlcea pentru perioada 2023-2030, anexă la Hotărârea Consiliului Județean Vâlcea nr.61 din 28 martie 2023, cu modificările şi completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot20.pdf",
+     "sha256": "5fbbb91925fe26a0a3e9e4a65b20061e0e4a8589a09237161172a98ccb988701"
     }
    ]
   },
@@ -33,6 +1008,471 @@
    ]
   },
   {
+   "slug": "hcj-valcea-201-2026",
+   "path": "local/judet/valcea/2026/201",
+   "short": "HCJ Vâlcea nr. 201/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 201/2026 privind stabilirea preţului mediu la masa verde obţinută de pe pajişte, pentru anul 2027 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot201_2026.pdf",
+     "sha256": "108b3da7d534956455fe62ed84f001b30da48c2aed4009837cfca6d01022178a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-203-2026",
+   "path": "local/judet/valcea/2026/203",
+   "short": "HCJ Vâlcea nr. 203/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 203/2026 privind modificarea și completarea Hotărârii Consiliului Județean Vâlcea nr.116 din 30 iunie 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot203_2026.pdf",
+     "sha256": "626952c99dc6056c1af582e183c92ffab86e2a945da957ebe21f377a6c6ba5fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-204-2026",
+   "path": "local/judet/valcea/2026/204",
+   "short": "HCJ Vâlcea nr. 204/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 204/2026 privind aprobarea majorării valorii de inventar a bunului imobil – “Drum judeţean DJ 646 Băbeni – Tomșani – Costești- Arnota”, aflat în domeniul public al judeţului Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot204_2026.pdf",
+     "sha256": "e118ac4c8168de97b9340c24b5b0bfdf285396bbb1b88617408fe77b54765453"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-206-2026",
+   "path": "local/judet/valcea/2026/206",
+   "short": "HCJ Vâlcea nr. 206/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 206/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot206_2026.pdf",
+     "sha256": "533b62d57d376ba031e161f30b4d05c0f841b251fb61b01d36faaf62daa26531"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-207-2026",
+   "path": "local/judet/valcea/2026/207",
+   "short": "HCJ Vâlcea nr. 207/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 207/2026 privind neexercitarea dreptului de preempţiune al Unității Administrativ-Teritoriale – Județul Vâlcea, referitor la cumpărarea imobilului-teren, situat în comuna Costești, punctul ”Săliștea Casei“, judeţul Vâlcea, identificat potrivit Cărţii funciare nr. 37803 Costești, amplasat în perimetrul Sitului arheologic Necropolă tumulară de incinerație, sat Costești, comuna Costești, județul Vâlcea, cod L",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot207_2026.pdf",
+     "sha256": "982354248aaf17a7f6bcf96483492abe067cbbb9313841daf386cd9bec550f77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-210-2026",
+   "path": "local/judet/valcea/2026/210",
+   "short": "HCJ Vâlcea nr. 210/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 210/2026 privind aprobarea finalizării şi închiderii obiectelor de investiții: CAV Drăgoești și CAV Stoilești din cadrul proiectului „Înființarea de centre de colectare prin aport voluntar în Judeţul Vâlcea – zona 2”, cod proiect C3I1A0122000565/nr.10591/12 iunie 2023, finanţat în cadrul Planului Naţional de Redresare şi Rezilienţă prin apelul nr. PNRR/2022/C3/S/I.1, precum şi asigurarea sustenabilității i",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot210_2026.pdf",
+     "sha256": "f807b885509e565e9b04a1a32fb12848386eb2f292a5b58099d6e79089a7b934"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-211-2026",
+   "path": "local/judet/valcea/2026/211",
+   "short": "HCJ Vâlcea nr. 211/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 211/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot211_2026.pdf",
+     "sha256": "be091227007cd9cf0ad01b3841e340b4d8b369b0d5aa8542d578c6622d2920f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-22-2026",
+   "path": "local/judet/valcea/2026/22",
+   "short": "HCJ Vâlcea nr. 22/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 22/2026 privind aprobarea participării Unității Administrativ Teritoriale – Județul Vâlcea la apelul de proiecte privind achiziția de mobilier și achiziția de echipamente IT necesare desfășurării activității de consiliere și funcționare a ghișeului aferent PNRR – Reforma 2, Ținta 525 – Înființarea ghișeelor unice de consiliere energetică Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot22.pdf",
+     "sha256": "2d907f4ab89e0192daa69d7b1fb78f792230813a78ecb54015d5707269f02bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-23-2026",
+   "path": "local/judet/valcea/2026/23",
+   "short": "HCJ Vâlcea nr. 23/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 23/2026 privind aprobarea Acordului de Cooperare dintre Regiunea Samtskhe – Javakheti din Georgia și Județul Vâlcea din România, prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot23.pdf",
+     "sha256": "9507262ea99b57ae7bd514bb7af3f470162ae50b70e6670e882a06b1c0934180"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-24-2026",
+   "path": "local/judet/valcea/2026/24",
+   "short": "HCJ Vâlcea nr. 24/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 24/2026 pentru modificarea și completarea art. 1 alin. (1), punctele 2), 3), 4) și 6) din Hotărârea Consiliului Judeţean Vâlcea nr. 26 din 26 februarie 2018 privind stabilirea componenţei Colegiului Director al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Vâlcea, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot24.pdf",
+     "sha256": "233405d9205bac918eca43f7f4580b1696b763c73c9f3ffdd52d621999178658"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-25-2026",
+   "path": "local/judet/valcea/2026/25",
+   "short": "HCJ Vâlcea nr. 25/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 25/2026 privind modificarea componenței nominale a Comisiei pentru coordonarea implementării măsurilor necesare pentru îmbunătăţirea condiţiilor de viaţă a locuitorilor din aşezările informale, constituită prin Hotărârea Consiliului Județean Vâlcea nr.32 din 31 ianuarie 2020 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot25.pdf",
+     "sha256": "8d2a4362e2380dab289c58b21b11ea258e85fe4d88476d31bc0be3b1e60189f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-27-2026",
+   "path": "local/judet/valcea/2026/27",
+   "short": "HCJ Vâlcea nr. 27/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 27/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot27.pdf",
+     "sha256": "58160df143b8d8bf2d9415191b0b0d0a02dabbdeaa3a8246c34777d4a3b0c7d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-28-2026",
+   "path": "local/judet/valcea/2026/28",
+   "short": "HCJ Vâlcea nr. 28/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 28/2026 privind rectificarea Anexei nr.1 la Hotărârea Consiliului Județean Vâlcea nr.13 din 25 februarie 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot28.pdf",
+     "sha256": "b5e8c4d734fa1fcefdd626c7222dc9a1e86cff069fd557b63d0f23a807adfb3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-29-2026",
+   "path": "local/judet/valcea/2026/29",
+   "short": "HCJ Vâlcea nr. 29/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 29/2026 privind aprobarea contractării unui împrumut în valoare de 10.858.000 lei, în conformitate cu prevederile art. XXXI din Ordonanţa de Urgenţă a Guvernului nr.89/2025 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot29.pdf",
+     "sha256": "b7d76205feb2f773b580f2d2a156a8ac5a1f56e6d9e324b6e38623d03125deda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-30-2026",
+   "path": "local/judet/valcea/2026/30",
+   "short": "HCJ Vâlcea nr. 30/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 30/2026 privind rectificarea Bugetului de venituri și cheltuieli al Spitalului Județean de Urgență Vâlcea și a Listei obiectivelor de investiţii, pe anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot30.pdf",
+     "sha256": "25f39a3c2841c2d7fbb158bb13d940c009f1628a776d48967af84d00ccd33b60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-31-2026",
+   "path": "local/judet/valcea/2026/31",
+   "short": "HCJ Vâlcea nr. 31/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 31/2026 privind aprobarea plății cotizațiilor și contribuțiilor Județului Vâlcea în calitate de membru al unor asociații, pentru anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot31.pdf",
+     "sha256": "907f9dee483fca93630b7cc7541e3a03d9c3f4d48a5ec37db612868a772399d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-32-2026",
+   "path": "local/judet/valcea/2026/32",
+   "short": "HCJ Vâlcea nr. 32/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 32/2026 privind aprobarea indicatorilor tehnico-economici – faza Proiect Tehnic – pentru obiectivul de investiții „Consolidarea și reabilitarea energetică a Școlii Profesionale Speciale Bistrița, județul Vâlcea” Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot32.pdf",
+     "sha256": "b4ae4a2236fb31678609046fa9b1f516e5b3062e7f51f27de304072d7fe87053"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-38-2026",
+   "path": "local/judet/valcea/2026/38",
+   "short": "HCJ Vâlcea nr. 38/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 38/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot38.pdf",
+     "sha256": "d157d089b43f59a9013092e188e2bf62709cad7e349a7abef7e58a7191a0ffe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-40-2026",
+   "path": "local/judet/valcea/2026/40",
+   "short": "HCJ Vâlcea nr. 40/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 40/2026 privind darea în folosință gratuită, a unui spațiu aflat în domeniul public al Județului Vâlcea, Agenției pentru Dezvoltare Regională Sud-Vest Oltenia – Biroul Regional din județul Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot40.pdf",
+     "sha256": "49fe48e99165b2e0f6ac87652950c8214e90e2c3e0e45b1782930e52d3e8a8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-42-2026",
+   "path": "local/judet/valcea/2026/42",
+   "short": "HCJ Vâlcea nr. 42/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 42/2026 privind modificarea Hotărârii Consiliului Județean Vâlcea nr.40 din 28 februarie 2025 privind desemnarea de către",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot42.pdf",
+     "sha256": "bfe39ff93509e3c91746ccdeba210904b35cbfa35a0e5250ca4bfc6e35362be0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-43-2026",
+   "path": "local/judet/valcea/2026/43",
+   "short": "HCJ Vâlcea nr. 43/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 43/2026 privind rectificarea Anexei nr.1 la Hotărârea Consiliului Județean Vâlcea nr.13 din 25 februarie 2026, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot43-1.pdf",
+     "sha256": "935593f313e8731425c970eebb3a83b2f5dfd52313f1c061dea1eb21c268a45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-44-2026",
+   "path": "local/judet/valcea/2026/44",
+   "short": "HCJ Vâlcea nr. 44/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 44/2026 privind aprobarea plății din bugetul local a 20% din suma aferentă contribuției de la bugetul de stat estimată a se deconta în anul 2026, pentru obiectivul de investiții ”Reabilitare și modernizare DJ 703 L Jiblea Veche (DJ 703G) – Dăești – Sâmbotin – Fedeleșoiu (DJ 703F)”, finanțat prin Programul național de investiții „Anghel Saligny”, conform Ordonanței de Urgență a Guvernului nr.87/2025 Vizual",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot44-1.pdf",
+     "sha256": "6d4931c94bcabc6fbc03c769bdd1919b76c0599550f03da61b999db9002521bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-45-2026",
+   "path": "local/judet/valcea/2026/45",
+   "short": "HCJ Vâlcea nr. 45/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 45/2026 privind aprobarea plății din bugetul local a 20% din suma aferentă contribuției de la bugetul de stat estimată a se deconta în anul 2026, pentru obiectivul de investiții ”Reabilitare și modernizare DJ 703 H Limită jud.Argeș – Perișani – Titești – Boișoara – Câineni (DN7)”, finanțat prin Programul național de investiții „Anghel Saligny”, conform Ordonanței de Urgență a Guvernului nr.87/2025 Vizuali",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot45-1.pdf",
+     "sha256": "934c8b3be8f0ace9fedc6245f08b405a6feac1adc2258fdf5bb8606fdac73bc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-46-2026",
+   "path": "local/judet/valcea/2026/46",
+   "short": "HCJ Vâlcea nr. 46/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 46/2026 privind aprobarea Organigramei și a Statului de funcții ale Consiliului Judeţean Vâlcea, ca urmare a aplicării numărului maxim de posturi comunicat de Instituția Prefectului-Județul Vâlcea, potrivit art.XL din Ordonanța de Urgență a Guvernului nr.7/2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot46-1.pdf",
+     "sha256": "0c44a153c5178571752d6d229d65086bf8ac95687cb9d2bd4b8565368776c8eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-47-2026",
+   "path": "local/judet/valcea/2026/47",
+   "short": "HCJ Vâlcea nr. 47/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 47/2026 privind aprobarea Organigramei şi a Statului de funcţii ale Serviciului Public Judeţean de Pază Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot47.pdf",
+     "sha256": "7b7109ce0498a812d3a8dc7ca11aea0a844b3d0ad08878423eda2e5c40baae54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-49-2026",
+   "path": "local/judet/valcea/2026/49",
+   "short": "HCJ Vâlcea nr. 49/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 49/2026 privind modificarea și completarea Regulamentului de Organizare și Funcționare a Clubului Sportiv Vâlcea – 1924, aprobat prin Hotărârea Consiliului Judeţean Vâlcea nr.118 din 24 iunie 2022, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot49.pdf",
+     "sha256": "571fbd8c175c9f37b0a2bd4a9dc8ed6383a1dcde67ebe83ca1c8638847797589"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-58-2026",
+   "path": "local/judet/valcea/2026/58",
+   "short": "HCJ Vâlcea nr. 58/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 58/2026 privind desemnarea reprezentantului Consiliului Județean Vâlcea în Consiliul Consultativ al Inspectoratului Școlar Județean Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot58.pdf",
+     "sha256": "7026485ad9569588dc28f3bc7dcc4e30b6a4d2d4a71195a0cbaaf531d8351be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-59-2026",
+   "path": "local/judet/valcea/2026/59",
+   "short": "HCJ Vâlcea nr. 59/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 59/2026 privind rectificarea Anexei nr.1 la Hotărârea Consiliului Județean Vâlcea nr.13 din 25 februarie 2026, cu modificările și completările ulterioare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot80_2026.pdf",
+     "sha256": "a57a76b9129626bd3b081bab20705cce48045890d2abcaba11bfa930f2cd42e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-6-2026",
+   "path": "local/judet/valcea/2026/6",
+   "short": "HCJ Vâlcea nr. 6/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 6/2026 privind aprobarea organigramei și a statului de funcții ale Spitalului de Psihiatrie Drăgoești Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot6.pdf",
+     "sha256": "3af8b9fa1c91ec0c4b34e355ee2d9963767b88304be20717bedb9dab202ee465"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-61-2026",
+   "path": "local/judet/valcea/2026/61",
+   "short": "HCJ Vâlcea nr. 61/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 61/2026 privind rectificarea Bugetului de venituri și cheltuieli al Spitalului Județean de Urgență Vâlcea și a Listei obiectivelor de investiții, pe anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot61.pdf",
+     "sha256": "8d2b848b9de532bf9439520dab45c0d683c1b2dfa3ec71cb7d80cec601736909"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-64-2026",
+   "path": "local/judet/valcea/2026/64",
+   "short": "HCJ Vâlcea nr. 64/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 64/2026 privind modificarea si completarea Hotărârii Consiliului Județean Vâlcea nr. 31 din 31 martie 2026 privind aprobarea plății cotizațiilor și contribuțiilor Județului Vâlcea în calitate de membru al unor asociații, pentru anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot64.pdf",
+     "sha256": "3c7e6b7d1c5210e75a677ea6cc8b0c51ec8aa66cac97da3f5fa6fc0f6b68d15e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-65-2026",
    "path": "local/judet/valcea/2026/65",
    "short": "HCJ Vâlcea nr. 65/2026",
@@ -44,6 +1484,156 @@
      "units": 1,
      "source_url": "https://cjvalcea.ro/storage/formidable/127/hot65.pdf",
      "sha256": "73b9023d9556094344e4713df90f367c3cb1d406a99bb4e9c368fb9c164c2fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-67-2026",
+   "path": "local/judet/valcea/2026/67",
+   "short": "HCJ Vâlcea nr. 67/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 67/2026 privind darea în administrarea Clubului Sportiv Vâlcea-1924 a unor bunuri mobile, aflate în domeniul privat al Judeţului Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot67.pdf",
+     "sha256": "d349f6b97f68119bde493f63c6090933515b86eef4c4f4702c2a8fa3905d1dc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-68-2026",
+   "path": "local/judet/valcea/2026/68",
+   "short": "HCJ Vâlcea nr. 68/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 68/2026 privind darea în folosință gratuită, a unor spații aflate în domeniul public al Județului Vâlcea, Agenției pentru Dezvoltare Regională Sud-Vest Oltenia – Biroul Regional Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot68.pdf",
+     "sha256": "12bbacece65e44945e0c23ba0f8114f593332b36461ea16a81193594245eff1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-69-2026",
+   "path": "local/judet/valcea/2026/69",
+   "short": "HCJ Vâlcea nr. 69/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 69/2026 privind darea în administrare, a unor spații care aparțin domeniului public al Județului Vâlcea, Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot69.pdf",
+     "sha256": "86c861260fcc72383069990fc1530faedfd008270cffc48230179629a44e6ee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-70-2026",
+   "path": "local/judet/valcea/2026/70",
+   "short": "HCJ Vâlcea nr. 70/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 70/2026 privind aprobarea solicitării de trecere a imobilelor „Tabăra Brădișor” și „Tabăra Cozia” din domeniul public al statului și administrarea Agenției Naționale pentru Sport – Direcția Județeană de Sport Vâlcea, în domeniul public al Județului Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot70.pdf",
+     "sha256": "36631c1f60881cca49ba94826439b4fec1620b4bebc54d36bc308e5a0165a99f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-71-2026",
+   "path": "local/judet/valcea/2026/71",
+   "short": "HCJ Vâlcea nr. 71/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 71/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot71.pdf",
+     "sha256": "dc564c84d6d03a34586cade7101c545742c4fd56fa6a7ef98a1ef82eb2026331"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-72-2026",
+   "path": "local/judet/valcea/2026/72",
+   "short": "HCJ Vâlcea nr. 72/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 72/2026 privind aprobarea documentației tehnico-economice – faza Proiect tehnic pentru obiectivul de investiții „Construire și dotare ambulatoriu integrat Spitalul de Psihiatrie Drăgoești” și a indicatorilor tehnico-economici Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot72.pdf",
+     "sha256": "6418fcd8e0980bbdec14b51ec3b3125d09007a26edaf8cb2ceb2fe0ecdaa246f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-76-2026",
+   "path": "local/judet/valcea/2026/76",
+   "short": "HCJ Vâlcea nr. 76/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 76/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot76.pdf",
+     "sha256": "466bc6ffa600997ae85fcd2ed8cbbc0e556a761f1aa5f7d532361e8cf40a4de0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-77-2026",
+   "path": "local/judet/valcea/2026/77",
+   "short": "HCJ Vâlcea nr. 77/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 77/2026 privind neexercitarea dreptului de preempţiune al Unității Administrativ-Teritoriale – Județul Vâlcea, referitor la cumpărarea imobilului situat în strada Calea Eroilor ( fostă strada Eroilor), nr.130, bloc 126, ap.8, localitatea Brezoi, județul Vâlcea, identificat potrivit Cărții funciare nr.35167-C1-U8 Brezoi, monument istoric, înscris în LMI cu denumirea Locuințele societății ”Carpatina”, cod L",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot77.pdf",
+     "sha256": "a966d7e205a218e393ae4789fe27f5b19c1b0ea56d3ab0f75147935488ebdae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-78-2026",
+   "path": "local/judet/valcea/2026/78",
+   "short": "HCJ Vâlcea nr. 78/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 78/2026 privind aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare prin cabinet de avocat sau societate civilă profesională de avocați pentru Teatrul „Anton Pann” Râmnicu Vâlcea, instituție publică de cultură, de artă a spectacolelor, aflată în subordinea Consiliului Județean Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot78.pdf",
+     "sha256": "f724cfacba5e8e5c79ab790e07b53dc76ebb44a0ad6df9296c8638560465b5c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-8-2026",
+   "path": "local/judet/valcea/2026/8",
+   "short": "HCJ Vâlcea nr. 8/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 8/2026 privind aprobarea acordării de stimulente financiare lunare unor categorii de personal din cadrul Spitalului de Psihiatrie Drăgoești, din veniturile proprii ale acestuia, pe anul 2026 Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot8.pdf",
+     "sha256": "f99ec24b177b2a644145083fbc044b6491598428e9d57f75a767f286832a3186"
     }
    ]
   },
@@ -63,6 +1653,21 @@
    ]
   },
   {
+   "slug": "hcj-valcea-85-2026",
+   "path": "local/judet/valcea/2026/85",
+   "short": "HCJ Vâlcea nr. 85/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 85/2026 privind încheierea unui Acord de Parteneriat între Unitatea Administrativ – Teritorială – Judeţul Vâlcea, prin",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot85_2026.pdf",
+     "sha256": "7e92882b67641431cf256b392e7b65883964f1ae8cff02d38a42a18916a82684"
+    }
+   ]
+  },
+  {
    "slug": "hcj-valcea-89-2026",
    "path": "local/judet/valcea/2026/89",
    "short": "HCJ Vâlcea nr. 89/2026",
@@ -74,6 +1679,36 @@
      "units": 1,
      "source_url": "https://cjvalcea.ro/storage/formidable/127/hot89_2026.pdf",
      "sha256": "2c4856e0b21b4368187d9eea948555ebbeba9fb30862b098fa32e262e1a07c97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-9-2026",
+   "path": "local/judet/valcea/2026/9",
+   "short": "HCJ Vâlcea nr. 9/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 9/2026 privind aprobarea majorării valorii de inventar a unui imobil-Clădire, aflat în domeniul public al Judeţului Vâlcea, precum și darea în administrare a unui bun mobil – Sistem fotovoltaic on grid 80-120 kWp trifazat, aflat în domeniul privat al Județului Vâlcea, gestiunea Teatrul ”Anton Pann” Râmnicu Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot9.pdf",
+     "sha256": "41a3fabfbdc710874a1ed9848c656a37871be60c3a04600d19d70304ec4567ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-91-2026",
+   "path": "local/judet/valcea/2026/91",
+   "short": "HCJ Vâlcea nr. 91/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 91/2026 privind punerea la dispoziție a terenurilor aferente “Proiectului Regional de Dezvoltare a Infrastructurii de Apă și Apă Uzată în Județul Vâlcea” Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot91_2026.pdf",
+     "sha256": "d9334925535fddf19d72e2659701f0c43aa926b797ae9442c1c43009fbb83032"
     }
    ]
   },
@@ -104,6 +1739,66 @@
      "units": 1,
      "source_url": "https://cjvalcea.ro/storage/formidable/127/hot94_2026.pdf",
      "sha256": "1acdd4ecb86720909cdc6a55244cdb5fe9d0708b572afe3fddb1061de4ee4fa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-95-2026",
+   "path": "local/judet/valcea/2026/95",
+   "short": "HCJ Vâlcea nr. 95/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 95/2026 privind aprobarea cofinanțării „Proiectului Regional de Dezvoltare a Infrastructurii de Apă și Apă Uzată în Județul Vâlcea” Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot95_2026.pdf",
+     "sha256": "e949d4ad92b261f4e85ba06a56ad2d6ec3d0a209d403fd48c485ab520a8f9821"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-96-2026",
+   "path": "local/judet/valcea/2026/96",
+   "short": "HCJ Vâlcea nr. 96/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 96/2026 privind neexercitarea dreptului de preempţiune al Unității Administrativ-Teritoriale – Județul Vâlcea cu privire la cumpărarea unui imobil-teren având categoria de folosință pădure, situat în municipiul Râmnicu Vâlcea, judeţul Vâlcea Vizualizare",
+   "url": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot96_2026.pdf",
+     "sha256": "8fcd7821a1a2d65842539c13a7c1c00d6d928e722808051ef48b443d76397e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-97-2026",
+   "path": "local/judet/valcea/2026/97",
+   "short": "HCJ Vâlcea nr. 97/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 97/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot97_2026.pdf",
+     "sha256": "f06a14427a0c82860cdb60c72f61a4f8f6537025df7f8e9aa3672882454a8b15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-valcea-98-2026",
+   "path": "local/judet/valcea/2026/98",
+   "short": "HCJ Vâlcea nr. 98/2026",
+   "title": "Hotărârea Consiliului Județean Vâlcea nr. 98/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://cjvalcea.ro/storage/formidable/127/hot98_2026.pdf",
+     "sha256": "5570abd9f16eb6a2ee0e11ffd082f1c1d7346c378c1c0056d5c77f16c2672f82"
     }
    ]
   }

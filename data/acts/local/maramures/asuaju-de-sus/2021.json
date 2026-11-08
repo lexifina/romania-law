@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-2-2021",
+"path": "local/maramures/asuaju-de-sus/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 2/2021 privind desemnarea reprezentantilor Consiliului Local in Consiliul de administratie si in Comisia de Evaluare si Asigurare a Calitatii (CEAC) la nivelul Scolii gimnaziale Asuaju de Sus judetul Maramures",
+"short": "HCL Asuaju de Sus nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-14",
+"latest": "2021-01-14",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/60664",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-3-2021",
 "path": "local/maramures/asuaju-de-sus/2021/3",
 "kind": "local",
@@ -88,6 +110,50 @@
 "council_name": "Consiliul Local al Comunei Asuaju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--asuaju-de-sus-6-2021",
+"path": "local/maramures/asuaju-de-sus/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 6/2021 privind stabilirea pretului de inchiriere a pasunilor aflate in proprietate privata a comunei Asuaju de Sus , judetul Maramures, pentru crescatorii de animale din cadrul UAT-ului Asuaju de Sus",
+"short": "HCL Asuaju de Sus nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/60668",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--asuaju-de-sus-7-2021",
+"path": "local/maramures/asuaju-de-sus/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 7/2021 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+"short": "HCL Asuaju de Sus nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/60669",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -265,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Asuaju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--asuaju-de-sus-16-2021",
+"path": "local/maramures/asuaju-de-sus/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 16/2021 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+"short": "HCL Asuaju de Sus nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/60705",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

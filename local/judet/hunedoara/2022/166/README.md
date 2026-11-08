@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Hunedoara nr. 166/2022 privind utilizarea excedentului anual al bugetului propriu al Județului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2021, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al județului Hunedoara pe anul 2022
+
+HCJ Hunedoara nr. 166/2022 · 1 versions, from 2022-06-09 (latest in force: 2022-06-09) · <https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-hunedoara-166-2022` (tags `hcj-hunedoara-166-2022/<day>`; `python tools/on.py <day> hcj-hunedoara-166-2022`).
+
+## Decisions made by hand
+
+- HCJ Hunedoara nr. 166/2022: listed from Consiliul Județean Hunedoara (www.cjhunedoara.ro); an individual decision: metadata only.
+- HCJ Hunedoara nr. 166/2022: dated from 9 June 2022, the day it was adopted (the register gives no later day of publication).
+- HCJ Hunedoara nr. 166/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

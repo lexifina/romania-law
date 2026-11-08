@@ -3,6 +3,21 @@
  "shard": "local/judet/botosani/2001",
  "acts": [
   {
+   "slug": "hcj-botosani-106-2001",
+   "path": "local/judet/botosani/2001/106",
+   "short": "HCJ Botoșani nr. 106/2001",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 106/2001",
+   "url": null,
+   "versions": [
+    {
+     "from": "2001-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/99.pdf",
+     "sha256": "c5e10cf384549c4b7ba5614bd6a82b893fa8597d590ecd65bbe83b869e314369"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-108-2001",
    "path": "local/judet/botosani/2001/108",
    "short": "HCJ Botoșani nr. 108/2001",

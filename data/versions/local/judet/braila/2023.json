@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-152-2023",
+   "path": "local/judet/braila/2023/152",
+   "short": "HCJ Brăila nr. 152/2023",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 152/2023 privind aprobarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Braila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2023-II-00041532?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/AFD2B43FD1019B6DC2258E270040D9AB/$FILE/HOT%20152.pdf",
+     "sha256": "3b70ab7094646f6cb9510a5400f95956e726238160dc58f5bb6bbdb96621ccbe"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-16-2023",
    "path": "local/judet/braila/2023/16",
    "short": "HCJ Brăila nr. 16/2023",
@@ -164,6 +179,21 @@
      "units": 1,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/5B09082EAC8EF926C225897F002530B4/$FILE/Hotararea%20nr.%2020%20din%2028%20februarie%202023.pdf",
      "sha256": "8964f2b101d6c2edef1e795601da0d70158fe91482f3fcfd4a35f4a2e052b7c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-202-2023",
+   "path": "local/judet/braila/2023/202",
+   "short": "HCJ Brăila nr. 202/2023",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 202/2023 cu privire la aprobarea contractului cadru de inchiriere și a cuantumului chiriilor pentru locuințele construite de Agenția Nationala pentru Locuințe destinate tinerilor specialiști din domeniul sanatatii",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2023-II-00041532?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/CC110C12F32E113CC2258E270040DA7F/$FILE/HOT%20202.pdf",
+     "sha256": "41371405c090e89f9520cfcef2c0ccfeb9523c7fbb100494383f313501ea3f78"
     }
    ]
   },
@@ -2099,6 +2129,21 @@
      "units": 1,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/60E56493ABF856EDC225897400370493/$FILE/Hotararea%20nr.%208%20din%2031%20ianuarie%202023.pdf",
      "sha256": "3c2cd1f61895226de506eee7cc73e9c2649871731d547317b89594a98f6762f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-88-2023",
+   "path": "local/judet/braila/2023/88",
+   "short": "HCJ Brăila nr. 88/2023",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 88/2023 privind aprobarea organigramei și a statului de funcții ale Bibliotecii Județene « Panait Istrati » Braila nr.11042/19.05.2023, precum și raportul de specialitate al Direcției Administrație publica, contencios nr. 11038/19.05.2023; Vazand avizul Comisiei pentru administrație publica locala, juridica, relații publice, integrare și relații internaționale, adresa Bibliotecii Județene «Panait Istrati",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2023-II-00041532?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/9E131FD6BA4012D3C2258E270040D932/$FILE/HOT%2088.pdf",
+     "sha256": "1a1a8505ba96fa328da21f3d97f5eb198d5a412b64eb6aa8773012fb2eccfacc"
     }
    ]
   },

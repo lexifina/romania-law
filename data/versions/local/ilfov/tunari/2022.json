@@ -3,6 +3,156 @@
  "shard": "local/ilfov/tunari/2022",
  "acts": [
   {
+   "slug": "hcl-ilfov--tunari-1-2022",
+   "path": "local/ilfov/tunari/2022/1",
+   "short": "HCL Tunari nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 1/2022 privind acoperirea integrală a deficitului secțiunii de dezvoltare aferentă anului 2021 din excedentul anilor precedenți",
+   "url": "https://emol.ro/tunari-if/registru-hcl/46480",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/46480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-10-2022",
+   "path": "local/ilfov/tunari/2022/10",
+   "short": "HCL Tunari nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 10/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/48563",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/48563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-100-2022",
+   "path": "local/ilfov/tunari/2022/100",
+   "short": "HCL Tunari nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 100/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/74673",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/74673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-101-2022",
+   "path": "local/ilfov/tunari/2022/101",
+   "short": "HCL Tunari nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 101/2022 privind aprobarea documentatei tehnico-economica pentru investitia: “Realizare Sediu Primărie, strada Mihai Eminescu, nr. 7A, tarla 34, parcela 116, sat Tunari, Comuna Tunari, Județul Ilfov\"",
+   "url": "https://emol.ro/tunari-if/registru-hcl/75325",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/75325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-102-2022",
+   "path": "local/ilfov/tunari/2022/102",
+   "short": "HCL Tunari nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 102/2022 privind aprobarea participării Unității Administrativ-Teritoriale Comuna Tunari din județul Ilfov - în calitate de partener, prin asocierea cu Unitatea Administrativ-Teritorială - Orașul Voluntari (Lider), Unitatea Administrativ-Teritorială Județul Ilfov, precum și cu alte Unități Administrativ-Teritoriale din județul Ilfov în cadrul proiectului „Sistem ITS integrat Smart & Green Mobility pentru regiunea București-Ilfov - Informarea călătorilor în stațiile de transport public”, apelul de proiecte PNRR/2022/C10",
+   "url": "https://emol.ro/tunari-if/registru-hcl/75326",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/75326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-103-2022",
+   "path": "local/ilfov/tunari/2022/103",
+   "short": "HCL Tunari nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 103/2022 privind desemnarea reprezentantilor Consiliului Local Tunari in Comisia pentru evaluarea si asigurarea calităţii în unităţile de învăţământ preuniversitar din comuna Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/76268",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/76268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-104-2022",
+   "path": "local/ilfov/tunari/2022/104",
+   "short": "HCL Tunari nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 104/2022 privind aprobarea documentației de dezmembrare a unui imobil-teren, proprietate publică a comunei Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/76269",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/76269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-105-2022",
+   "path": "local/ilfov/tunari/2022/105",
+   "short": "HCL Tunari nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 105/2022 privind acordarea unui sprijin financiar in suma de 30.000 lei de la bugetul local al comunei Tunari pentru Parohia Dimieni",
+   "url": "https://emol.ro/tunari-if/registru-hcl/76270",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/76270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-106-2022",
+   "path": "local/ilfov/tunari/2022/106",
+   "short": "HCL Tunari nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 106/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/76271",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/76271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-107-2022",
+   "path": "local/ilfov/tunari/2022/107",
+   "short": "HCL Tunari nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 107/2022 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv Tunari pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/76272",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/76272",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-108-2022",
    "path": "local/ilfov/tunari/2022/108",
    "short": "HCL Tunari nr. 108/2022",
@@ -13,6 +163,36 @@
      "from": "2022-10-28",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/76273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-109-2022",
+   "path": "local/ilfov/tunari/2022/109",
+   "short": "HCL Tunari nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 109/2022 privind repartizarea și închirierea locuințelor de serviciu din fondul locativ al comunei Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/76274",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/76274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-11-2022",
+   "path": "local/ilfov/tunari/2022/11",
+   "short": "HCL Tunari nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 11/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/48564",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/48564",
      "sha256": null
     }
    ]
@@ -33,6 +213,141 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-111-2022",
+   "path": "local/ilfov/tunari/2022/111",
+   "short": "HCL Tunari nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 111/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/76276",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/76276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-112-2022",
+   "path": "local/ilfov/tunari/2022/112",
+   "short": "HCL Tunari nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 112/2022 privind actualizarea indicatorilor tehnico – economici la obiectivul de investitii: “REMEDIERE PROBLEME PIATA AGROALIMENTARA TUNARI”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/76277",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/76277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-113-2022",
+   "path": "local/ilfov/tunari/2022/113",
+   "short": "HCL Tunari nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 113/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/78728",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/78728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-114-2022",
+   "path": "local/ilfov/tunari/2022/114",
+   "short": "HCL Tunari nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 114/2022 privind aprobarea împuternicirii Asociației de Dezvoltare Intercomunitară pentru Transport Public București-Ilfov, de a înființa, organiza, exploata, monitoriza, gestiona și după caz, modifica serviciul public de transport feroviar de călători de interes local",
+   "url": "https://emol.ro/tunari-if/registru-hcl/78729",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/78729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-115-2022",
+   "path": "local/ilfov/tunari/2022/115",
+   "short": "HCL Tunari nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 115/2022 privind acordarea de mandat special în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov (Asociația)",
+   "url": "https://emol.ro/tunari-if/registru-hcl/78730",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/78730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-116-2022",
+   "path": "local/ilfov/tunari/2022/116",
+   "short": "HCL Tunari nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 116/2022 privind aprobarea Studiului de Oportunitate și indicatorilor tehnico-economici, a Planului de evoluție a tarifelor și taxelor și a Documentului de Poziție pentru proiectul ”Sistem de Management Integrat al Deșeurilor în județul Ilfov – Componenta 1. Colectarea separată și transportul deșeurilor municipale”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/78731",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/78731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-117-2022",
+   "path": "local/ilfov/tunari/2022/117",
+   "short": "HCL Tunari nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 117/2022 privind implementarea proiectului “Înființarea unui centru de colectare prin aport voluntar în comuna Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/80221",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/80221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-118-2022",
+   "path": "local/ilfov/tunari/2022/118",
+   "short": "HCL Tunari nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 118/2022 privind alocarea sumei de 33.650 lei, în vederea procurării cadourilor de Crăciun pentru preşcolarii şi elevii din comuna Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/80222",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/80222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-119-2022",
+   "path": "local/ilfov/tunari/2022/119",
+   "short": "HCL Tunari nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 119/2022 privind aprobarea Planului Urbanistic Zonal PARC LOGISTIC, SERVICII PUBLICE, FUNCTIUNI CONEXE SI STABILIREA TRAMEI STRADALE Sat Dimieni, Comuna Tunari, Jud Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/80223",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/80223",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-12-2022",
    "path": "local/ilfov/tunari/2022/12",
    "short": "HCL Tunari nr. 12/2022",
@@ -43,6 +358,36 @@
      "from": "2022-02-21",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/51787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-120-2022",
+   "path": "local/ilfov/tunari/2022/120",
+   "short": "HCL Tunari nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 120/2022 privind aprobarea Planului Urbanistic Zonal ZONA DE AGREMENT, SPORT, LOCUINTE SOCIALE, FUNCTIUNI COMPLEMENTARE, STABILIREA TRAMEI STRADALE, AMENAJARE CIRCULATII AUTO SI PIETONALE, PARCARI, SPATII VERZI, IMPREJMUIRE TEREN, RACORD UTILITATI Sat Tunari, Comuna Tunari, Jud Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/80224",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/80224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-121-2022",
+   "path": "local/ilfov/tunari/2022/121",
+   "short": "HCL Tunari nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 121/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/80225",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/80225",
      "sha256": null
     }
    ]
@@ -333,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-14-2022",
+   "path": "local/ilfov/tunari/2022/14",
+   "short": "HCL Tunari nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 14/2022 privind aprobarea Bugetului de venituri şi cheltuieli al S.C Tunari Salubrizare S.R.L, pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/51789",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/51789",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-140-2022",
    "path": "local/ilfov/tunari/2022/140",
    "short": "HCL Tunari nr. 140/2022",
@@ -408,6 +768,81 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-18-2022",
+   "path": "local/ilfov/tunari/2022/18",
+   "short": "HCL Tunari nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 18/2022 privind acordarea burselor sociale, burse de studiu, burse de merit si performanță pentru elevii din unităţile de învăţământ preuniversitar de stat (primar şi gimnazial) din comuna Tunari, judeţul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/51793",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/51793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-19-2022",
+   "path": "local/ilfov/tunari/2022/19",
+   "short": "HCL Tunari nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 19/2022 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului Local al comunei Tunari pentru o perioada de 3 luni",
+   "url": "https://emol.ro/tunari-if/registru-hcl/51794",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/51794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-2-2022",
+   "path": "local/ilfov/tunari/2022/2",
+   "short": "HCL Tunari nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 2/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/46481",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/46481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-20-2022",
+   "path": "local/ilfov/tunari/2022/20",
+   "short": "HCL Tunari nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 20/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/51795",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/51795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-21-2022",
+   "path": "local/ilfov/tunari/2022/21",
+   "short": "HCL Tunari nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 21/2022 privind aprobarea încheierii protocolului de cooperare între Județul Ilfov - Consiliul Județean, Serviciul Județean de Dezinsecție și Ecologizare Mediu Ilfov și unitățile administrativ - teritoriale din Județul Ilfov în vederea realizării proiectului „ Ilfov fără țânțari”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/51796",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/51796",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-22-2022",
    "path": "local/ilfov/tunari/2022/22",
    "short": "HCL Tunari nr. 22/2022",
@@ -423,6 +858,96 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-23-2022",
+   "path": "local/ilfov/tunari/2022/23",
+   "short": "HCL Tunari nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 23/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: “Realizare Sediu Primărie Comuna Tunari, strada Mihai Eminescu, Județul Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/51798",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/51798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-24-2022",
+   "path": "local/ilfov/tunari/2022/24",
+   "short": "HCL Tunari nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 24/2022 privind modificarea și completarea Statutului CLUBULUI SPORTIV TUNARI având Codul de identificare fiscală 16675845 și Număr de Identificare în registrul Sportiv IF/A1/00007/2004, persoană juridică de drept public, fără scop lucrativ, apolitic și neguvernamental în subordinea Consiliului Local Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/51799",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/51799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-25-2022",
+   "path": "local/ilfov/tunari/2022/25",
+   "short": "HCL Tunari nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 25/2022 privind participarea comunei Tunari la realizarea proiectului „Cooperarea privind creșterea capacității operaționale la nivelul Județului Ilfov în vederea asigurării eficiente și unitare a asistenței umanitare adecvate pentru persoanele refugiate/intrate pe teritoriul județului Ilfov în urma conflictului declanșat în Ucraina”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/52895",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/52895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-26-2022",
+   "path": "local/ilfov/tunari/2022/26",
+   "short": "HCL Tunari nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 26/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/55059",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/55059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-27-2022",
+   "path": "local/ilfov/tunari/2022/27",
+   "short": "HCL Tunari nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 27/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/55060",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/55060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-28-2022",
+   "path": "local/ilfov/tunari/2022/28",
+   "short": "HCL Tunari nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 28/2022 privind schimbarea destinației unui imobil aparținând domeniului public al comunei Tunari din imobil cu destinația Centrul de Pregătire după Programul Școlar în imobil cu destinația Creșă și arondarea acesteia la Grădinița cu Program Prelungit Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/55061",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/55061",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-29-2022",
    "path": "local/ilfov/tunari/2022/29",
    "short": "HCL Tunari nr. 29/2022",
@@ -433,6 +958,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/55062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-3-2022",
+   "path": "local/ilfov/tunari/2022/3",
+   "short": "HCL Tunari nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 3/2022 privind aprobarea structurii retelei scolare a comunei Tunari pentru anul scolar 2022-2023",
+   "url": "https://emol.ro/tunari-if/registru-hcl/48556",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/48556",
      "sha256": null
     }
    ]
@@ -483,6 +1023,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-33-2022",
+   "path": "local/ilfov/tunari/2022/33",
+   "short": "HCL Tunari nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 33/2022 privind modificarea HCL nr. 126/22.05.2019 privind acceptarea ofertei de donatie a SC MAGNET DEVELOPMENT SA, pentru terenul in suprafata de 400 mp, situat in Jud. Ilfov, Comuna Tunari, Satul Tunari, Sola 17, Parcela 758-760, lot 2",
+   "url": "https://emol.ro/tunari-if/registru-hcl/55066",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/55066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-34-2022",
+   "path": "local/ilfov/tunari/2022/34",
+   "short": "HCL Tunari nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 34/2022 privind aprobarea ajustării prețului contractului de achiziție publică, conform Ordonanței Guvernului nr. 15/2021, pentru obiectivul de investiții: „Centrul Integrat de Educație Incluzivă”, Comuna Tunari, Județul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/55067",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/55067",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-35-2022",
    "path": "local/ilfov/tunari/2022/35",
    "short": "HCL Tunari nr. 35/2022",
@@ -493,6 +1063,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/55068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-36-2022",
+   "path": "local/ilfov/tunari/2022/36",
+   "short": "HCL Tunari nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 36/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: “Realizare Sediu Primărie Comuna Tunari, strada Mihai Eminescu, Județul Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/55069",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/55069",
      "sha256": null
     }
    ]
@@ -513,6 +1098,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-38-2022",
+   "path": "local/ilfov/tunari/2022/38",
+   "short": "HCL Tunari nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 38/2022 privind aprobarea Cererii de finantare si devizului general estimativ pentru obiectivul de investitii: \"Extindere retea gaze naturale si bransamente pe strada Gherghinei, strada Baltii comuna Tunari, sat Tunari si strada 22 Decembrie, comuna Tunari, sat Dimieni\", Comuna Tunari, Județul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/57950",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/57950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-39-2022",
+   "path": "local/ilfov/tunari/2022/39",
+   "short": "HCL Tunari nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 39/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: “CONSTRUIRE CLINICA S+P+1E+2Er, BRANSAMENTE UTILITATI SI ORGANIZARE DE SANTIER”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/57951",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/57951",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-4-2022",
    "path": "local/ilfov/tunari/2022/4",
    "short": "HCL Tunari nr. 4/2022",
@@ -528,6 +1143,156 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-40-2022",
+   "path": "local/ilfov/tunari/2022/40",
+   "short": "HCL Tunari nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 40/2022 privind acordarea de mandate speciale Asociaţiei de Dezvoltare Intercomunitară pentru Transport Public Bucureşti-Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/58618",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/58618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-41-2022",
+   "path": "local/ilfov/tunari/2022/41",
+   "short": "HCL Tunari nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 41/2022 privind acordarea de mandat special Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov (A.D.I.G.I.D.I)",
+   "url": "https://emol.ro/tunari-if/registru-hcl/58619",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/58619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-42-2022",
+   "path": "local/ilfov/tunari/2022/42",
+   "short": "HCL Tunari nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 42/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/58620",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/58620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-43-2022",
+   "path": "local/ilfov/tunari/2022/43",
+   "short": "HCL Tunari nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 43/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: “Amenajare parcare Strada Balta Pasarea, comuna Tunari, judetul Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59951",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-44-2022",
+   "path": "local/ilfov/tunari/2022/44",
+   "short": "HCL Tunari nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 44/2022 privind asocierea dintre Consiliului local Tunari si Consiliul Judetean Ilfov in vederea realizarii obiectivului de investitii: “Amenajare parcare Strada Balta Pasarea, comuna Tunari, judetul Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59952",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-45-2022",
+   "path": "local/ilfov/tunari/2022/45",
+   "short": "HCL Tunari nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 45/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: „AMENAJARE TROTUARE – STRADA PRIMAVERII, COMUNA TUNARI",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59953",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-46-2022",
+   "path": "local/ilfov/tunari/2022/46",
+   "short": "HCL Tunari nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 46/2022 privind asocierea dintre Consiliului local Tunari si Consiliul Judetean Ilfov in vederea realizarii obiectivului de investitii: „AMENAJARE TROTUARE – STRADA PRIMAVERII, COMUNA TUNARI",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59954",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-47-2022",
+   "path": "local/ilfov/tunari/2022/47",
+   "short": "HCL Tunari nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 47/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: “Amenajare parcare Piata Tunari, comuna Tunari, judetul Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59955",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-48-2022",
+   "path": "local/ilfov/tunari/2022/48",
+   "short": "HCL Tunari nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 48/2022 privind asocierea dintre Consiliului local Tunari si Consiliul Judetean Ilfov in vederea realizarii obiectivului de investitii: “Amenajare parcare Piata Tunari, comuna Tunari, judetul Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59956",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-49-2022",
+   "path": "local/ilfov/tunari/2022/49",
+   "short": "HCL Tunari nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 49/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: „Amenajare exterioara gradinita– Cartier Tineretului”, Comuna Tunari, jud. Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59957",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59957",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-5-2022",
    "path": "local/ilfov/tunari/2022/5",
    "short": "HCL Tunari nr. 5/2022",
@@ -538,6 +1303,381 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/48558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-50-2022",
+   "path": "local/ilfov/tunari/2022/50",
+   "short": "HCL Tunari nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 50/2022 privind asocierea dintre Consiliului local Tunari si Consiliul Judetean Ilfov in vederea realizarii obiectivului de investitii: „Amenajare exterioara gradinita– Cartier Tineretului”, Comuna Tunari, jud. Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59958",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-51-2022",
+   "path": "local/ilfov/tunari/2022/51",
+   "short": "HCL Tunari nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 51/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: CONSTRUIRE HALA SORTARE, IMPREJMUIRE SI UTILITATI, COMUNA TUNARI, jud. Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59959",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-52-2022",
+   "path": "local/ilfov/tunari/2022/52",
+   "short": "HCL Tunari nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 52/2022 privind asocierea dintre Consiliului local Tunari si Consiliul Judetean Ilfov in vederea realizarii obiectivului de investitii: CONSTRUIRE HALA SORTARE, IMPREJMUIRE SI UTILITATI, COMUNA TUNARI, jud. Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59960",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-53-2022",
+   "path": "local/ilfov/tunari/2022/53",
+   "short": "HCL Tunari nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 53/2022 privind asocierea dintre Consiliului local Tunari si Consiliul Judetean Ilfov in vederea realizarii obiectivului de investitii: “MODERNIZARE SI EXTINDERE ILUMINAT STRADAL TUNARI-DIMIENI” Comuna Tunari, Jud. Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59961",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-54-2022",
+   "path": "local/ilfov/tunari/2022/54",
+   "short": "HCL Tunari nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 54/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59962",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-55-2022",
+   "path": "local/ilfov/tunari/2022/55",
+   "short": "HCL Tunari nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 55/2022 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului Local al comunei Tunari pentru o perioada de 3 luni",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59963",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-56-2022",
+   "path": "local/ilfov/tunari/2022/56",
+   "short": "HCL Tunari nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 56/2022 privind contul anual de executie al bugetului local pe anul 2021",
+   "url": "https://emol.ro/tunari-if/registru-hcl/59964",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/59964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-57-2022",
+   "path": "local/ilfov/tunari/2022/57",
+   "short": "HCL Tunari nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 57/2022 privind aprobarea depunerii proiectului ”Sistem de supraveghere video, Extinderea sistemului Wi-Fi în spațiile publice și Platformă de servicii publice digitale” pentru Comuna Tunari, Județul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/60192",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/60192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-58-2022",
+   "path": "local/ilfov/tunari/2022/58",
+   "short": "HCL Tunari nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 58/2022 privind aprobarea situatiilor financiare la data de 31.12.2021 al Societății Tunari Salubrizare S.R.L",
+   "url": "https://emol.ro/tunari-if/registru-hcl/61824",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/61824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-59-2022",
+   "path": "local/ilfov/tunari/2022/59",
+   "short": "HCL Tunari nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 59/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/61825",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/61825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-6-2022",
+   "path": "local/ilfov/tunari/2022/6",
+   "short": "HCL Tunari nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 6/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/48559",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/48559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-60-2022",
+   "path": "local/ilfov/tunari/2022/60",
+   "short": "HCL Tunari nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 60/2022 privind aprobarea încheierii unui Protocol de cooperare între Județul Ilfov – Consiliul Județean, Inspectoratul Școlar Județean Ilfov și Unitățile Administrativ Teritoriale din județul Ilfov în vederea realizării campaniei de informare privind risipa alimentară „Tu câți bani ai în coșul de gunoi? Nu arunca mâncarea!”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/61826",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/61826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-61-2022",
+   "path": "local/ilfov/tunari/2022/61",
+   "short": "HCL Tunari nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 61/2022 privind gestionarea situației câinilor fără stăpân pe raza comunei Tunari, Județul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/61827",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/61827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-62-2022",
+   "path": "local/ilfov/tunari/2022/62",
+   "short": "HCL Tunari nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 62/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/64370",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/64370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-63-2022",
+   "path": "local/ilfov/tunari/2022/63",
+   "short": "HCL Tunari nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 63/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/64371",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/64371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-64-2022",
+   "path": "local/ilfov/tunari/2022/64",
+   "short": "HCL Tunari nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 64/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/64372",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/64372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-65-2022",
+   "path": "local/ilfov/tunari/2022/65",
+   "short": "HCL Tunari nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 65/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/64373",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/64373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-66-2022",
+   "path": "local/ilfov/tunari/2022/66",
+   "short": "HCL Tunari nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 66/2022 privind aprobarea Organigramei, a Statului de Funcţii și a Regulamentului de Organizare și Funcționare, aferente aparatului de specialitate al Primarului Comunei Tunari, Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/64374",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/64374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-67-2022",
+   "path": "local/ilfov/tunari/2022/67",
+   "short": "HCL Tunari nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 67/2022 privind aprobarea trecerii unor suprafețe de teren din domeniul public al Comunei Tunari și administrarea Consiliului Local Tunari, în domeniul public al Județului Ilfov și administrarea Consiliului Judeţean",
+   "url": "https://emol.ro/tunari-if/registru-hcl/64375",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/64375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-68-2022",
+   "path": "local/ilfov/tunari/2022/68",
+   "short": "HCL Tunari nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 68/2022 privind aprobarea actualizarii proiectului “Reabilitare si modernizare Scoala Gimnaziala nr.1, Tunari” si a actualizarii cheltuielilor legate de proiect",
+   "url": "https://emol.ro/tunari-if/registru-hcl/64376",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/64376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-69-2022",
+   "path": "local/ilfov/tunari/2022/69",
+   "short": "HCL Tunari nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 69/2022 privind indicatorilor tehnico – economici actualizati la obiectivul de investitii : “Reabilitare si modernizare Scoala Gimnaziala nr.1, Tunari”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/64377",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/64377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-7-2022",
+   "path": "local/ilfov/tunari/2022/7",
+   "short": "HCL Tunari nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 7/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/48560",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/48560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-70-2022",
+   "path": "local/ilfov/tunari/2022/70",
+   "short": "HCL Tunari nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 70/2022 privind aprobarea indicatorilor tehnico – economici la obiectivul de investitii: “EXTINDERE PE VERTICALA CONSTRUCTII EXISTENTE-C1 SI C2 ALIPITE LA CALCAN REZULTAND UN IMOBIL BIROURI CU FUNCTIUNE PUBLICA P+1E, IMPREJMUIRE, UTILITATI SI DTOE”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/65635",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/65635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-71-2022",
+   "path": "local/ilfov/tunari/2022/71",
+   "short": "HCL Tunari nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 71/2022 privind aprobarea indicatorilor tehnico – economici actualizati la obiectivul de investitii: “Amenajare trotuare, modernizare retea electrica iluminat public si sistem preluare ape pluviale, Comuna Tunari, Judetul Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/65636",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/65636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-72-2022",
+   "path": "local/ilfov/tunari/2022/72",
+   "short": "HCL Tunari nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 72/2022 privind aprobarea documentaţiei de alipire a patru imobile situate comuna Tunari, str. Luminiș, avand nr. Cadastrale 62367, 63354, 63359 și 64190",
+   "url": "https://emol.ro/tunari-if/registru-hcl/65637",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/65637",
      "sha256": null
     }
    ]
@@ -573,6 +1713,231 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-75-2022",
+   "path": "local/ilfov/tunari/2022/75",
+   "short": "HCL Tunari nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 75/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66208",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-76-2022",
+   "path": "local/ilfov/tunari/2022/76",
+   "short": "HCL Tunari nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 76/2022 privind aprobarea utilizarii in anul 2022 a sumelor incasate din sponsorizari de catre Clubul sportiv Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66209",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-77-2022",
+   "path": "local/ilfov/tunari/2022/77",
+   "short": "HCL Tunari nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 77/2022 privind aprobarea rectificării Bugetului de venituri şi cheltuieli al S.C Tunari Salubrizare S.R.L, pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66210",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-78-2022",
+   "path": "local/ilfov/tunari/2022/78",
+   "short": "HCL Tunari nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 78/2022 privind aprobarea documentației de dezmembrare a imobilului identificat în Tarlaua 34, Parcela 116/1, având numărul cadastral 62992, înscris în cartea funciară nr. 62992, în suprafață de 3395 mp, în două loturi",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66211",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-79-2022",
+   "path": "local/ilfov/tunari/2022/79",
+   "short": "HCL Tunari nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 79/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66212",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-8-2022",
+   "path": "local/ilfov/tunari/2022/8",
+   "short": "HCL Tunari nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 8/2022 privind aprobarea documentaţiei de alipire a trei imobile situate comuna Tunari, Tarlaua 31, Parcela 109, avand nr. Cadastrale 58610, 58611 si 58612",
+   "url": "https://emol.ro/tunari-if/registru-hcl/48561",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/48561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-80-2022",
+   "path": "local/ilfov/tunari/2022/80",
+   "short": "HCL Tunari nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 80/2022 privind acceptarea ofertei de donatie a Societatii MAGNET DEVELOPMENTS S.A, pentru terenul in suprafata de 6309 mp, situat in Jud. Ilfov, Comuna Tunari, Satul Tunari, TARLA 39, Parcela 124/19/3, lot 84, nr. cad. 62551",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66213",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-81-2022",
+   "path": "local/ilfov/tunari/2022/81",
+   "short": "HCL Tunari nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 81/2022 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv Tunari pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66214",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-82-2022",
+   "path": "local/ilfov/tunari/2022/82",
+   "short": "HCL Tunari nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 82/2022 privind aprobarea majorării capitalului social al S.C Tunari Salubrizare S.R.L",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66215",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-83-2022",
+   "path": "local/ilfov/tunari/2022/83",
+   "short": "HCL Tunari nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 83/2022 privind aprobarea Contractului de Servicii cazare si restaurant nr. 7809 din 07.07.2022 pentru elevi si insotitori ce vor participa la excursiile organizate de Primaria Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66216",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-84-2022",
+   "path": "local/ilfov/tunari/2022/84",
+   "short": "HCL Tunari nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 84/2022 privind modificarea unor reglementari urbanistice in tarlaua 23, NC 63610, 63611, 63612, 63613, 63614, 63615, 63620, 63621 si 63622",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66217",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-85-2022",
+   "path": "local/ilfov/tunari/2022/85",
+   "short": "HCL Tunari nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 85/2022 privind stabilirea nivelului de salarizare al funcţionarilor publici şi personalului contractual din cadrul primăriei comunei Tunari cu luna Iulie 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/66218",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/66218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-86-2022",
+   "path": "local/ilfov/tunari/2022/86",
+   "short": "HCL Tunari nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 86/2022 privind aprobarea trecerii unor suprafețe de teren din domeniul public al Comunei Tunari și administrarea Consiliului Local Tunari, în domeniul public al Județului Ilfov și administrarea Consiliului Judeţean",
+   "url": "https://emol.ro/tunari-if/registru-hcl/68138",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/68138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-87-2022",
+   "path": "local/ilfov/tunari/2022/87",
+   "short": "HCL Tunari nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 87/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/68139",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/68139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-88-2022",
+   "path": "local/ilfov/tunari/2022/88",
+   "short": "HCL Tunari nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 88/2022 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului Local al comunei Tunari pentru o perioada de 3 luni",
+   "url": "https://emol.ro/tunari-if/registru-hcl/68140",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/68140",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-89-2022",
    "path": "local/ilfov/tunari/2022/89",
    "short": "HCL Tunari nr. 89/2022",
@@ -583,6 +1948,171 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/68141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-9-2022",
+   "path": "local/ilfov/tunari/2022/9",
+   "short": "HCL Tunari nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 9/2022 privind acordarea de mandat special Asociației de Dezvoltare Intercomunitară pentru Transport Public București – Ilfov în vederea aprobării stabilirii, ajustării sau modificării prețurilor și tarifelor",
+   "url": "https://emol.ro/tunari-if/registru-hcl/48562",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/48562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-90-2022",
+   "path": "local/ilfov/tunari/2022/90",
+   "short": "HCL Tunari nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 90/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/71000",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/71000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-91-2022",
+   "path": "local/ilfov/tunari/2022/91",
+   "short": "HCL Tunari nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 91/2022 privind modificarea HCL nr. 107/21.10.2021 privind încheierea unui protocol de cooperare între Județul Ilfov Consiliul Judeţean și Unitatea Administrativ Teritorială ComunaTunari, în vederea realizării proiectului pilot de interes public „Mai multă responsabilitate, mai puțină suferință”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/71001",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/71001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-92-2022",
+   "path": "local/ilfov/tunari/2022/92",
+   "short": "HCL Tunari nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 92/2022 privind aprobarea neasumarii responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor /acordurilor cadru pentru achizitia produselor si a contractelor/ acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative aferente Programului pentru scoli in Romania",
+   "url": "https://emol.ro/tunari-if/registru-hcl/71002",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/71002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-93-2022",
+   "path": "local/ilfov/tunari/2022/93",
+   "short": "HCL Tunari nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 93/2022 privind modificarea și completarea HCL nr. 28/28.03.2022 privind schimbarea destinației unui imobil aparținând domeniului public al comunei Tunari din imobil cu destinația Centrul de Pregătire după Programul Școlar în imobil cu destinația Creșă și arondarea acesteia la Grădinița cu Program Prelungit Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/71003",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/71003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-94-2022",
+   "path": "local/ilfov/tunari/2022/94",
+   "short": "HCL Tunari nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 94/2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/71004",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/71004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-95-2022",
+   "path": "local/ilfov/tunari/2022/95",
+   "short": "HCL Tunari nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 95/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/73090",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/73090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-96-2022",
+   "path": "local/ilfov/tunari/2022/96",
+   "short": "HCL Tunari nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 96/2022 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Tunari nr. 57 din 12.05.2022 privind aprobarea depunerii proiectului ”Sistem de supraveghere video, Extinderea sistemului wi-fi în spațiile publice și Platformă de servicii publice digitale” pentru Comuna Tunari, județul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/74669",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/74669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-97-2022",
+   "path": "local/ilfov/tunari/2022/97",
+   "short": "HCL Tunari nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 97/2022 privind asocierea dintre Consiliului local Tunari si Consiliul Judetean Ilfov in vederea realizarii obiectivului de investitii: “EXTINDERE PE VERTICALA CONSTRUCTII EXISTENTE-C1 SI C2 ALIPITE LA CALCAN REZULTAND UN IMOBIL BIROURI CU FUNCTIUNE PUBLICA P+1E, IMPREJMUIRE, UTILITATI SI DTOE”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/74670",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/74670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-98-2022",
+   "path": "local/ilfov/tunari/2022/98",
+   "short": "HCL Tunari nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 98/2022 privind indicatorilor tehnico – economici actualizati la obiectivul de investitii : “CONSTRUIRE SALA MESE, UTILITATI SI DTOE- Scoala Gimnaziala nr. 1 Tunari, Jud. Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/74671",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/74671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-99-2022",
+   "path": "local/ilfov/tunari/2022/99",
+   "short": "HCL Tunari nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 99/2022 privind asocierea dintre Consiliului local Tunari si Consiliul Judetean Ilfov in vederea realizarii obiectivului de investitii: “CONSTRUIRE SALA MESE, UTILITATI SI DTOE- Scoala Gimnaziala nr. 1 Tunari, Jud. Ilfov”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/74672",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/74672",
      "sha256": null
     }
    ]

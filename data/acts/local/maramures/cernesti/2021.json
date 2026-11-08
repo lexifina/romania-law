@@ -579,6 +579,28 @@
 }
 },
 {
+"slug": "hcl-maramures--cernesti-27-2021",
+"path": "local/maramures/cernesti/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 27/2021 privind acordarea unui ajutor de urgență",
+"short": "HCL Cernești nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/21200",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--cernesti-28-2021",
 "path": "local/maramures/cernesti/2021/28",
 "kind": "local",
@@ -910,6 +932,28 @@
 }
 },
 {
+"slug": "hcl-maramures--cernesti-43-2021",
+"path": "local/maramures/cernesti/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 43/2021 privind aprobarea efectuării unui schimb de teren forestier, cu Composesoratul Bloaja;",
+"short": "HCL Cernești nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-10",
+"latest": "2021-05-10",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/24065",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--cernesti-44-2021",
 "path": "local/maramures/cernesti/2021/44",
 "kind": "local",
@@ -973,6 +1017,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-47-2021",
+"path": "local/maramures/cernesti/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 47/2021 privind desemnarea unui reprezentant al Consiliului Local în Comisia pentru Evaluarea și Asigurarea Calității",
+"short": "HCL Cernești nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-14",
+"latest": "2021-06-14",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/26699",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1061,6 +1127,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-52-2021",
+"path": "local/maramures/cernesti/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 52/2021 privind aprobarea acordării cu titlu gratuit a unei cantități de material lemnos",
+"short": "HCL Cernești nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/28277",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1237,6 +1325,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-61-2021",
+"path": "local/maramures/cernesti/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 61/2021 privind desemnarea reprezentanților Consiliului Local Cernești în consiliul de administrație și în Comisia bullying ale Școlii Gimnaziale Cernești",
+"short": "HCL Cernești nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/37011",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

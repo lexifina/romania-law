@@ -1098,6 +1098,21 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-3-2023",
+   "path": "local/judet/teleorman/2023/3",
+   "short": "HCJ Teleorman nr. 3/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 3/2023 privind: darea în folosință gratuită Municipiului Alexandria prin Consiliul Local al Municipiului Alexandria - Direcția de Asistență Socială Alexandria, a unui spațiu medical în imobilul situat în municipiul Alexandria, str. Mihăiță Filipescu, nr. 32, proprietate privată a județului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/24.pdf",
+     "sha256": "79695a8231689b4a9f15cb84ca22d7ad6ce413cb43c8ba9ba5fda38f727a9886"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-30-2023",
    "path": "local/judet/teleorman/2023/30",
    "short": "HCJ Teleorman nr. 30/2023",
@@ -1229,6 +1244,21 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/87.pdf",
      "sha256": "60ecf0d2762905269542c0703ff8bb0d19b12386cabee22fa9780bcfa09130ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-88-2023",
+   "path": "local/judet/teleorman/2023/88",
+   "short": "HCJ Teleorman nr. 88/2023",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 88/2023 privind : repartizarea pe unități administrativ — teritoriale a sumei ce reprezintă 20 % din limita de sume defalcate din unele venituri ale bugetului de stat pentru echilibrarea bugetelor locale și din cota de 14 % din impozitul pe venit, precum și a sumelor reținute ca urmare a --diminuării cu gradul de necolectare.a veniturilor proprii_pe-anul 2022 pentru anul 2024 și estimările pe anii 2025 — 2027",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202023/188.pdf",
+     "sha256": "7de68c2770f0193ba9871bb7a66ebb1f6cab7003c23bf460579b07a63c90d4bd"
     }
    ]
   },

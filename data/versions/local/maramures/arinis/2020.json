@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-13-2020",
+   "path": "local/maramures/arinis/2020/13",
+   "short": "HCL Ariniș nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 13/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 01 martie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3080",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3080",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-14-2020",
    "path": "local/maramures/arinis/2020/14",
    "short": "HCL Ariniș nr. 14/2020",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-25-2020",
+   "path": "local/maramures/arinis/2020/25",
+   "short": "HCL Ariniș nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 25/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 29 mai 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3103",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3103",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-26-2020",
    "path": "local/maramures/arinis/2020/26",
    "short": "HCL Ariniș nr. 26/2020",
@@ -253,6 +283,21 @@
      "from": "2020-05-29",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/3104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-27-2020",
+   "path": "local/maramures/arinis/2020/27",
+   "short": "HCL Ariniș nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 27/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 18 iunie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/4990",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/4990",
      "sha256": null
     }
    ]
@@ -333,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-32-2020",
+   "path": "local/maramures/arinis/2020/32",
+   "short": "HCL Ariniș nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 32/2020 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local Ariniș din 20 iulie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/6802",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/6802",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-33-2020",
    "path": "local/maramures/arinis/2020/33",
    "short": "HCL Ariniș nr. 33/2020",
@@ -343,6 +403,21 @@
      "from": "2020-07-20",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/6803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-34-2020",
+   "path": "local/maramures/arinis/2020/34",
+   "short": "HCL Ariniș nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 34/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 31 iulie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/7971",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/7971",
      "sha256": null
     }
    ]
@@ -378,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-37-2020",
+   "path": "local/maramures/arinis/2020/37",
+   "short": "HCL Ariniș nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 37/2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/7974",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/7974",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-38-2020",
    "path": "local/maramures/arinis/2020/38",
    "short": "HCL Ariniș nr. 38/2020",
@@ -388,6 +478,21 @@
      "from": "2020-07-31",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/7975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-39-2020",
+   "path": "local/maramures/arinis/2020/39",
+   "short": "HCL Ariniș nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 39/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 11 august 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/8758",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/8758",
      "sha256": null
     }
    ]
@@ -423,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-41-2020",
+   "path": "local/maramures/arinis/2020/41",
+   "short": "HCL Ariniș nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 41/2020 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local Ariniș din 21 august 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/8772",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/8772",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-42-2020",
    "path": "local/maramures/arinis/2020/42",
    "short": "HCL Ariniș nr. 42/2020",
@@ -438,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-43-2020",
+   "path": "local/maramures/arinis/2020/43",
+   "short": "HCL Ariniș nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 43/2020 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local Ariniș din 26 august 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/8875",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/8875",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-44-2020",
    "path": "local/maramures/arinis/2020/44",
    "short": "HCL Ariniș nr. 44/2020",
@@ -448,6 +583,21 @@
      "from": "2020-08-26",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/8874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-45-2020",
+   "path": "local/maramures/arinis/2020/45",
+   "short": "HCL Ariniș nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 45/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 19 septembrie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/10667",
+   "versions": [
+    {
+     "from": "2020-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/10667",
      "sha256": null
     }
    ]
@@ -823,6 +973,36 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/3074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-8-2020",
+   "path": "local/maramures/arinis/2020/8",
+   "short": "HCL Ariniș nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 8/2020 privind vânzarea fără licitație publică a unui teren în suprafață totală de 15.000 mp, situat în Comuna Ariniș, Județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3075",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-9-2020",
+   "path": "local/maramures/arinis/2020/9",
+   "short": "HCL Ariniș nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 9/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 16 februarie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3076",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3076",
      "sha256": null
     }
    ]

@@ -978,6 +978,51 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-29-2013",
+   "path": "local/judet/teleorman/2013/29",
+   "short": "HCJ Teleorman nr. 29/2013",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 29/2013 pentru: modificarea Hotărârii Consiliului Județean Teleorman nr. 53 din 22 aprilie 2011",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202013.htm",
+   "versions": [
+    {
+     "from": "2013-11-04",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202013/180.pdf",
+     "sha256": "b4430bcfa52684c65c7c3de181a3de9c745a6e0de7af86120dcb0affc9a11b91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-34-2013",
+   "path": "local/judet/teleorman/2013/34",
+   "short": "HCJ Teleorman nr. 34/2013",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 34/2013 pentru: modificarea Hotărârii Consiliului Județean Teleorman nr. 130 din 28 octombrie 2011",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202013.htm",
+   "versions": [
+    {
+     "from": "2013-05-02",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202013/94.pdf",
+     "sha256": "96bda47b46ea55ef6c59bc82c08e29855b5050ff3ec90f12c74d02b2e684bc3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-403-2013",
+   "path": "local/judet/teleorman/2013/403",
+   "short": "HCJ Teleorman nr. 403/2013",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 403/2013",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202013.htm",
+   "versions": [
+    {
+     "from": "2013-07-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202013/Hot%20109-2013.pdf",
+     "sha256": "56c6b15c9b3c640da0a2e18b01e333287d4cc0cffb8048d4c7c5c7d52f9dbeaf"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-46-2013",
    "path": "local/judet/teleorman/2013/46",
    "short": "HCJ Teleorman nr. 46/2013",

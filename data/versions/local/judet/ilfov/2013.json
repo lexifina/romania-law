@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/ilfov/2013",
+ "acts": [
+  {
+   "slug": "hcj-ilfov-44-2013",
+   "path": "local/judet/ilfov/2013/44",
+   "short": "HCJ Ilfov nr. 44/2013",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 44/2013 privind aprobarea contului de execuție pe anul 2012",
+   "url": "https://cjilfov.ro/consiliul-judetean/hotarari/arhiva-2008-2015/",
+   "versions": [
+    {
+     "from": "2013-05-29",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/arhiva-hotarari-2008-2020/2013/44.pdf",
+     "sha256": "1dc1650703b8027a2e9ac4dda62429ad8e3558d37f24c58fffb13beb1ac02953"
+    }
+   ]
+  }
+ ]
+}

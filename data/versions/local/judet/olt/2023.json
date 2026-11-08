@@ -1068,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-207-2023",
+   "path": "local/judet/olt/2023/207",
+   "short": "HCJ Olt nr. 207/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 207/2023 cu privire la trecerea unei constructii aflate in administrarea Consiliului Judetean Olt, din domeniul public al Judetului Olt in domeniul privat al acestuia, in vederea scoaterii din functiune si a demolarii Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18745.pdf",
+     "sha256": "a21df14014c231bd0f6d0b6809f35217c7b50d848118e38ee9c8315136dce388"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-208-2023",
    "path": "local/judet/olt/2023/208",
    "short": "HCJ Olt nr. 208/2023",
@@ -1124,6 +1139,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18749.pdf",
      "sha256": "fa211354a1c7329c54ad9fec036a2dd436e1c89b53c19c4677b6d2d49f0c0490"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-212-2023",
+   "path": "local/judet/olt/2023/212",
+   "short": "HCJ Olt nr. 212/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 212/2023 privind declararea de interes public judetean a unui imobil teren in suprafata de 300.000 mp, situat in Balteni, judetul Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/18750.pdf",
+     "sha256": "faaa8eb88ebe08801d99d86de8b3fc6ca1a74a729e4e4957bd273fa7a441e57f"
     }
    ]
   },
@@ -1683,6 +1713,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-5-2023",
+   "path": "local/judet/olt/2023/5",
+   "short": "HCJ Olt nr. 5/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 5/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/16900.pdf",
+     "sha256": "364b565f48ce669296e90b63f7f1484cd84078355e9ba89c104373fc44e4dc83"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-50-2023",
    "path": "local/judet/olt/2023/50",
    "short": "HCJ Olt nr. 50/2023",
@@ -1949,6 +1994,36 @@
      "units": 1,
      "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17573.pdf",
      "sha256": "3ebdc6c51c964c738eff5b39d799594cf76572a38bf78ae8f00f5f480cf9edb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-79-2023",
+   "path": "local/judet/olt/2023/79",
+   "short": "HCJ Olt nr. 79/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 79/2023 cu privire la darea in administrarea Serviciului de Ambulanta Judetean Olt a unor spatii dintr-un imobil aflat in domeniul public al Judetului Olt si in administrarea Consiliului Judetean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17574.pdf",
+     "sha256": "66b6f1e6d4607f20644ae0972ad23c21cc4507c1a3d6747814721dd4c46566fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-80-2023",
+   "path": "local/judet/olt/2023/80",
+   "short": "HCJ Olt nr. 80/2023",
+   "title": "Hotărârea Consiliului Județean Olt nr. 80/2023 cu privire la darea in folosinta gratuita Inspectoratului pentru Situatii de Urgenta “Matei Basarab” al judetului Olt a unor spatii dintr-un imobil aflat in domeniul public al Judetului Olt si in administrarea Consiliului Judetean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/../../core/tabele/hcj-2023/17575.pdf",
+     "sha256": "2c40be719b3484915ca1116e29e7a656b141787781f6fb06dc854dd4e71dd224"
     }
    ]
   },

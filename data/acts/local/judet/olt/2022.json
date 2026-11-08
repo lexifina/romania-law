@@ -1127,6 +1127,28 @@
 }
 },
 {
+"slug": "hcj-olt-101-2022",
+"path": "local/judet/olt/2022/101",
+"kind": "local",
+"year": "2022",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 101/2022 privind aprobarea cererii de transmitere din domeniul public al municipiului Slatina in domeniul public al Judetului Olt, a unor parti dintr-un imobil Vizualizare",
+"short": "HCJ Olt nr. 101/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-olt-104-2022",
 "path": "local/judet/olt/2022/104",
 "kind": "local",
@@ -1622,6 +1644,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Olt nr. 142/2022 cu privire la aprobarea efectuării inventarierii anuale a bunurilor care alcătuiesc domeniul public și privat al unității administrativ-teritoriale Județul Olt Vizualizare",
 "short": "HCJ Olt nr. 142/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-olt-145-2022",
+"path": "local/judet/olt/2022/145",
+"kind": "local",
+"year": "2022",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 145/2022 cu privire la revocarea dreptului de administrare al Directiei de Sanatate Publica Judeteana Olt asupra unor spatii in suprafata totala de 655,78 mp, situate in doua imobile aflate in domeniul public al Judetului Olt si darea acestora in administrarea Spitalului Judetean de Urgenta Slatina Vizualizare",
+"short": "HCJ Olt nr. 145/2022",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

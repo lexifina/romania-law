@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-maramures--baita-de-sub-codru-2-2025",
+"path": "local/maramures/baita-de-sub-codru/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 2/2025 privind aprobarea numărului asistenţilor personali ai persoanelor cu handicap pe anul 2025, precum și a celor care au optat pentru indemnizație",
+"short": "HCL Băița de sub Codru nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/baitadesubcodru-mm/registru-hcl/212104",
+"council": "maramures/baita-de-sub-codru",
+"council_name": "Consiliul Local al Comunei Băița de sub Codru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--baita-de-sub-codru-3-2025",
 "path": "local/maramures/baita-de-sub-codru/2025/3",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Băița de sub Codru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--baita-de-sub-codru-4-2025",
+"path": "local/maramures/baita-de-sub-codru/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 4/2025 privind mandatarea reprezentantului UAT Băița de sub Codru pentru propunerea de ajustare a tarifelor pentru activitățile de sortare si transfer a deșeurilor municipale zona de colectare 1 – Sârbi",
+"short": "HCL Băița de sub Codru nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/baitadesubcodru-mm/registru-hcl/212106",
+"council": "maramures/baita-de-sub-codru",
+"council_name": "Consiliul Local al Comunei Băița de sub Codru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Băița de sub Codru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--baita-de-sub-codru-12-2025",
+"path": "local/maramures/baita-de-sub-codru/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 12/2025 privind completarea componenței nominale a unei comisiei de specialitate pe domenii de activitate a consiliului local",
+"short": "HCL Băița de sub Codru nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/baitadesubcodru-mm/registru-hcl/212142",
+"council": "maramures/baita-de-sub-codru",
+"council_name": "Consiliul Local al Comunei Băița de sub Codru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -421,6 +487,28 @@
 }
 },
 {
+"slug": "hcl-maramures--baita-de-sub-codru-23-2025",
+"path": "local/maramures/baita-de-sub-codru/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 23/2025 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Băița de sub Codru nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/baitadesubcodru-mm/registru-hcl/212155",
+"council": "maramures/baita-de-sub-codru",
+"council_name": "Consiliul Local al Comunei Băița de sub Codru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--baita-de-sub-codru-24-2025",
 "path": "local/maramures/baita-de-sub-codru/2025/24",
 "kind": "local",
@@ -440,6 +528,29 @@
 "council_name": "Consiliul Local al Comunei Băița de sub Codru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--baita-de-sub-codru-25-2025",
+"path": "local/maramures/baita-de-sub-codru/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 25/2025",
+"short": "HCL Băița de sub Codru nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/baitadesubcodru-mm/registru-hcl/212157",
+"council": "maramures/baita-de-sub-codru",
+"council_name": "Consiliul Local al Comunei Băița de sub Codru",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -553,6 +664,29 @@
 }
 },
 {
+"slug": "hcl-maramures--baita-de-sub-codru-31-2025",
+"path": "local/maramures/baita-de-sub-codru/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 31/2025",
+"short": "HCL Băița de sub Codru nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-19",
+"latest": "2025-06-19",
+"portal": "https://emol.ro/baitadesubcodru-mm/registru-hcl/212163",
+"council": "maramures/baita-de-sub-codru",
+"council_name": "Consiliul Local al Comunei Băița de sub Codru",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--baita-de-sub-codru-32-2025",
 "path": "local/maramures/baita-de-sub-codru/2025/32",
 "kind": "local",
@@ -660,6 +794,28 @@
 "council_name": "Consiliul Local al Comunei Băița de sub Codru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--baita-de-sub-codru-37-2025",
+"path": "local/maramures/baita-de-sub-codru/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 37/2025 cu privire la actualizarea numărului asistenţilor personali ai persoanelor cu handicap pe anul 2025 ,precum și a celor care au optat pentru indemnizație",
+"short": "HCL Băița de sub Codru nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252233",
+"council": "maramures/baita-de-sub-codru",
+"council_name": "Consiliul Local al Comunei Băița de sub Codru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -2058,6 +2058,28 @@
 "metadata_only": "individual",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcj-botosani-725-2019",
+"path": "local/judet/botosani/2019/725",
+"kind": "local",
+"year": "2019",
+"number": "725",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 725/2019 privind aprobarea participării Unității de Asistență 'Medico- Socială Ștefănești la Programul de stimulare a înnoirii Parcului auto național 2017 -— 2019 și asigurarea din bugetul local a contribuției necesare achiziționării unui autovehicul",
+"short": "HCJ Botoșani nr. 725/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-25",
+"latest": "2019-07-25",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

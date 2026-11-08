@@ -1068,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-93-2007",
+   "path": "local/judet/botosani/2007/93",
+   "short": "HCJ Botoșani nr. 93/2007",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 93/2007 privind modificarea planului de ocupare a funcțiilor publice pentru aparatul de specialitate al Consiliului Județean Botoșani, pe anul 2008",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2007-10-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h114_17.12.2007.pdf",
+     "sha256": "240a8e72fcf3777f5c684224a4c4f04d43ad34f4929915d0565d9fa290085294"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-94-2007",
    "path": "local/judet/botosani/2007/94",
    "short": "HCJ Botoșani nr. 94/2007",

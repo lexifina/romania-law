@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-16-2025",
+   "path": "local/judet/olt/2025/16",
+   "short": "HCJ Olt nr. 16/2025",
+   "title": "Hotărârea Consiliului Județean Olt nr. 16/2025 pentru Agricultură, Silvicultură, Industrie, Servicii Publice și Comerț; - Avizul nr. 991/30.01.2023 al Comisiei pentru Studii Economico-Sociale, Buget- Finanțe, Integrare Europeană, Administrarea Domeniului Public și Privat; - Avizul nr. 990/30.01.2025 al Comisiei pentru Administrație Publică, Juridică, Apărarea Ordinii Publice, Respectarea Drepturilor Omului și Relații cu Cetățenii; - Avizul nr",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/255/016-HCJ-nr.-016-30.01.2025.pdf",
+     "sha256": "37d46b4560bc6fc59a3c7cc0baf414e90360c4631dffe6067073c6a61c7968da"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-17-2025",
    "path": "local/judet/olt/2025/17",
    "short": "HCJ Olt nr. 17/2025",

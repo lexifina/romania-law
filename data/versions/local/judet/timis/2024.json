@@ -16,6 +16,36 @@
      "sha256": "20b9e7df5f47aff4f1a330ad381fedd782d8a7fd8b2d7cf96fb6815281e3ea4b"
     }
    ]
+  },
+  {
+   "slug": "hcj-timis-19-2024",
+   "path": "local/judet/timis/2024/19",
+   "short": "HCJ Timiș nr. 19/2024",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 19/2024",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/19_HCJT_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/19_HCJT_2024.pdf",
+     "sha256": "941436dbc354648463d8cc4c7395c2abb88882a2c2d9853dd103e54813f93d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-timis-309-2024",
+   "path": "local/judet/timis/2024/309",
+   "short": "HCJ Timiș nr. 309/2024",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 309/2024",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/309_HCJT_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/309_HCJT_2024.pdf",
+     "sha256": "94f131878a39fb85ceabf4f7575926d5cde15c012fde7edcb9cb00ce17f99cd7"
+    }
+   ]
   }
  ]
 }

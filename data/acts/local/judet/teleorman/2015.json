@@ -3,6 +3,50 @@
 "shard": "local/judet/teleorman/2015",
 "acts": [
 {
+"slug": "hcj-teleorman-4-2015",
+"path": "local/judet/teleorman/2015/4",
+"kind": "local",
+"year": "2015",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 4/2015 Privind : aprobarea contribuției sub formă de cotizație a Județului Teleorman prim Consiliul Județean Teleorman, la Asociația Club Sportiv Baschet Teleorman - Alexandria, pentru anul 2015",
+"short": "HCJ Teleorman nr. 4/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-01-29",
+"latest": "2015-01-29",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-teleorman-22-2015",
+"path": "local/judet/teleorman/2015/22",
+"kind": "local",
+"year": "2015",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 22/2015",
+"short": "HCJ Teleorman nr. 22/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-02-02",
+"latest": "2015-02-02",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-teleorman-23-2015",
 "path": "local/judet/teleorman/2015/23",
 "kind": "local",
@@ -3607,6 +3651,28 @@
 "versions": 1,
 "from": "2015-12-29",
 "latest": "2015-12-29",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-teleorman-461-2015",
+"path": "local/judet/teleorman/2015/461",
+"kind": "local",
+"year": "2015",
+"number": "461",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 461/2015",
+"short": "HCJ Teleorman nr. 461/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-11-02",
+"latest": "2015-11-02",
 "portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
 "council": "judet/teleorman",
 "council_name": "Consiliul Județean Teleorman",

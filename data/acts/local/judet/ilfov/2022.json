@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/judet/ilfov/2022",
+"acts": [
+{
+"slug": "hcj-ilfov-223-2022",
+"path": "local/judet/ilfov/2022/223",
+"kind": "local",
+"year": "2022",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 223/2022 pentru modificarea și completarea Hotărârii Consiliului Județean lfov nr. 142/2022 privind aprobarea încheierii unui Protocol de cooperare între Unitatea Administrativ-Teritorială - Județul Hfov, Unitatea Administrativ- Teritorială - Orașul Popești-Leordeni și Asociația de Dezvoltare Intercomunitară Transport Public București-lfov în vederea implementării proiectului „Sistem ITS integrat Smart & Green Mobility pentru regiunea București-llfov - Informarea călătorilor în stațiile de transport public”",
+"short": "HCJ Ilfov nr. 223/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2022/",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-264-2022",
+"path": "local/judet/ilfov/2022/264",
+"kind": "local",
+"year": "2022",
+"number": "264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 264/2022 privind soluționarea plângerii prealabile nr.19649/24.10.2022, împotriva Hotărârii Consiliului Județean Ilfov nr. 199/22.09.2022 privind aprobarea demarării procedurilor de expropriere a unei suprafețe de teren necesare realizării sistemului de management integrat al deșeurilor la nivelul județului Ilfov",
+"short": "HCJ Ilfov nr. 264/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2022/",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-273-2022",
+"path": "local/judet/ilfov/2022/273",
+"kind": "local",
+"year": "2022",
+"number": "273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 273/2022 pentru modificarea Hotărârii Consiliului Județean Ilfov nr. 100/2020 privind modificarea Hotărârii Consiliului Județean Ilfov nr. 152/2018 privind aprobarea participării Consiliului Județean Hfov, în parteneriat cu Mănăstirea Căldărușani, în proiectul \"Conservarea, protejarea, promovarea și dezvoltarea patrimoniului cultural din Ansamblul de monumente istorice al Mănăstirii Căldărușani\", în cadrul Programului Operațional Regional 2014-2020, Axa prioritară 5 - Îmbunătățirea mediului urban și conservarea, protecția și valorificarea durabilă a patrimoniului cultural, Prioritatea de investiții 5.1 - Conservarea, protejarea, promovarea și dezvoltarea patrimoniului nataral și cultural",
+"short": "HCJ Ilfov nr. 273/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2022/",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

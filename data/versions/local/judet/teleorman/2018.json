@@ -16,6 +16,66 @@
      "sha256": "f60cc81842395a25561840f47f5f645722dea64d2ecac2f3f27d4a6816517a25"
     }
    ]
+  },
+  {
+   "slug": "hcj-teleorman-235-2018",
+   "path": "local/judet/teleorman/2018/235",
+   "short": "HCJ Teleorman nr. 235/2018",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 235/2018 privind : suplimentarea numărului de posturi pentru personalul neclerical angajat în unitățile de cult la nivelul județului Teleorman, pe anul 2018",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202018.htm",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202018/23.pdf",
+     "sha256": "15dc602cdf61f19eb5d668067eaa1e78409b756b0c5cf1849d9cc7821f8f102e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-42-2018",
+   "path": "local/judet/teleorman/2018/42",
+   "short": "HCJ Teleorman nr. 42/2018",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 42/2018 privind: actualizarea Monografiei economico-militare a județului Teleorman, ediția 2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202018.htm",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202018/85.pdf",
+     "sha256": "3fa90349078cd7440edeeb5ea5971cfdebf8f11576437c4192222924eaad6b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-44-2018",
+   "path": "local/judet/teleorman/2018/44",
+   "short": "HCJ Teleorman nr. 44/2018",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 44/2018 privind : aprobarea execuției bugetului propriu al județului pentru secțiunile de funcționare și dezvoltare, la 30 septembrie 2018",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202018.htm",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202018/125.pdf",
+     "sha256": "6dac5120439a9b328f769c71c0dc38ad362cccb28c4e30f96b3fcc9e64564a1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-70-2018",
+   "path": "local/judet/teleorman/2018/70",
+   "short": "HCJ Teleorman nr. 70/2018",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 70/2018",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202018.htm",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202018/70.pdf",
+     "sha256": "68596ee2500879a6e165ad4c4d4f41409c84c6598763e459b94cbc2e971be93b"
+    }
+   ]
   }
  ]
 }

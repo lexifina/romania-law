@@ -3,6 +3,29 @@
 "shard": "local/judet/olt/2023",
 "acts": [
 {
+"slug": "hcj-olt-5-2023",
+"path": "local/judet/olt/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 5/2023",
+"short": "HCJ Olt nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": null,
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-olt-7-2023",
 "path": "local/judet/olt/2023/7",
 "kind": "local",
@@ -937,6 +960,50 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Olt nr. 78/2023 privind declararea de interes public județean a unor construcții situate în comuna Dobroteasa, str. Principală, nr. 39, județul Olt Vizualizare",
 "short": "HCJ Olt nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-olt-79-2023",
+"path": "local/judet/olt/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 79/2023 cu privire la darea in administrarea Serviciului de Ambulanta Judetean Olt a unor spatii dintr-un imobil aflat in domeniul public al Judetului Olt si in administrarea Consiliului Judetean Olt Vizualizare",
+"short": "HCJ Olt nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-olt-80-2023",
+"path": "local/judet/olt/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 80/2023 cu privire la darea in folosinta gratuita Inspectoratului pentru Situatii de Urgenta “Matei Basarab” al judetului Olt a unor spatii dintr-un imobil aflat in domeniul public al Judetului Olt si in administrarea Consiliului Judetean Olt Vizualizare",
+"short": "HCJ Olt nr. 80/2023",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,
@@ -2650,6 +2717,28 @@
 }
 },
 {
+"slug": "hcj-olt-207-2023",
+"path": "local/judet/olt/2023/207",
+"kind": "local",
+"year": "2023",
+"number": "207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 207/2023 cu privire la trecerea unei constructii aflate in administrarea Consiliului Judetean Olt, din domeniul public al Judetului Olt in domeniul privat al acestuia, in vederea scoaterii din functiune si a demolarii Vizualizare",
+"short": "HCJ Olt nr. 207/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-olt-208-2023",
 "path": "local/judet/olt/2023/208",
 "kind": "local",
@@ -2703,6 +2792,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Olt nr. 211/2023 cu privire la rectificarea bugetului Județului Olt pe anul 2023 Vizualizare",
 "short": "HCJ Olt nr. 211/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-olt-212-2023",
+"path": "local/judet/olt/2023/212",
+"kind": "local",
+"year": "2023",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 212/2023 privind declararea de interes public judetean a unui imobil teren in suprafata de 300.000 mp, situat in Balteni, judetul Olt Vizualizare",
+"short": "HCJ Olt nr. 212/2023",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

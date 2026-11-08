@@ -618,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-424-2022",
+   "path": "local/judet/teleorman/2022/424",
+   "short": "HCJ Teleorman nr. 424/2022",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 424/2022 privind: darea în administrare Serviciului de Deservire, Pază și Protocol al Consiliului Județean Teleorman a unor bunuri imobile, proprietate publică a județului Teleorman",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202022.htm",
+   "versions": [
+    {
+     "from": "2022-08-06",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202022/124.pdf",
+     "sha256": "cd09599976dfb96df12aebd58e3264759f7cb232057bb1a83ea08a37bed382ff"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-5-2022",
    "path": "local/judet/teleorman/2022/5",
    "short": "HCJ Teleorman nr. 5/2022",

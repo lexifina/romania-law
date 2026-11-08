@@ -1173,6 +1173,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-283-2018",
+   "path": "local/judet/botosani/2018/283",
+   "short": "HCJ Botoșani nr. 283/2018",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 283/2018 privind aprobarea modificării statului de funcții al Unității de Asistență Medico - Socială Ștefănești",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H203.pdf",
+     "sha256": "0a2d95115528cf3bd38d4d8ff1e13a4b430930316a254970f343896d3b4b8750"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-30-2018",
    "path": "local/judet/botosani/2018/30",
    "short": "HCJ Botoșani nr. 30/2018",
@@ -1469,6 +1484,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h049_12.04.2018.pdf",
      "sha256": "86609c3f54cdf358bc796daf9b33df485af505c998c82599c9f29fff09fd4a57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-5-2018",
+   "path": "local/judet/botosani/2018/5",
+   "short": "HCJ Botoșani nr. 5/2018",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 5/2018 privind darea în folosință gratuită către Protopopiatul Botoșani a unui spațiu, situat în municipiul Botoșani, aparținând domeniului public al Județului Botoșani, aflat în administrarea Spitalului Județean de Urgențe „Mavromati”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H95_28.06.2018.pdf",
+     "sha256": "ff59ca040824ee4bf46fc81ce48e5fe2f97ae4e071f78d67a3eb8b5231e7d12a"
     }
    ]
   },

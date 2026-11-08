@@ -3,6 +3,21 @@
  "shard": "local/judet/timis/2023",
  "acts": [
   {
+   "slug": "hcj-timis-113-2023",
+   "path": "local/judet/timis/2023/113",
+   "short": "HCJ Timiș nr. 113/2023",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 113/2023",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/Rectificare-nr.-4-HCJT-113_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/Rectificare-nr.-4-HCJT-113_2023.pdf",
+     "sha256": "3b186321bbe9b7b191ed10e7c9d8a1bf72aae69dca08e8ef58c7f962b18ff9f1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-timis-139-2023",
    "path": "local/judet/timis/2023/139",
    "short": "HCJ Timiș nr. 139/2023",
@@ -14,6 +29,81 @@
      "units": 1,
      "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/HCJT_139_din28-06-2023.pdf",
      "sha256": "1413bd46126a16904d98d7be20fc4f831c3e33392d0fd188a35047a6b18eb2af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-timis-14-2023",
+   "path": "local/judet/timis/2023/14",
+   "short": "HCJ Timiș nr. 14/2023",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 14/2023",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/14_HCJT_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/14_HCJT_2023.pdf",
+     "sha256": "a6f0917e90a76c38ad65d0352875adcf888860e5d49caf6fe698d51b0c034ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-timis-206-2023",
+   "path": "local/judet/timis/2023/206",
+   "short": "HCJ Timiș nr. 206/2023",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 206/2023",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/206_HCJT_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/206_HCJT_2023.pdf",
+     "sha256": "d1041e5c89c7026930a300c8ccc98f38af76de850849c808022943eeec1ec060"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-timis-282-2023",
+   "path": "local/judet/timis/2023/282",
+   "short": "HCJ Timiș nr. 282/2023",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 282/2023 privind aprobarea prelungirii valabilității Planului de Amenajare a Teritoriului Județean Timiș aprobat prin Hotărârea Consiliului Județean Timiș nr. 198/2013",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/HCJT_282_2023_prelungire-PATJ.pdf",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/HCJT_282_2023_prelungire-PATJ.pdf",
+     "sha256": "6da6e1f88542e60871ee96488917e8c24b083ab71699c0e0b0dfd1ebda41d718"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-timis-5-2023",
+   "path": "local/judet/timis/2023/5",
+   "short": "HCJ Timiș nr. 5/2023",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 5/2023",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/05_HCJT_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/05_HCJT_2023.pdf",
+     "sha256": "6457fb1cb72e06be3572f19e679b1401c7d76dbd24128a22181f8b5cae4b91d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-timis-86-2023",
+   "path": "local/judet/timis/2023/86",
+   "short": "HCJ Timiș nr. 86/2023",
+   "title": "Hotărârea Consiliului Județean Timiș nr. 86/2023",
+   "url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/Hotararea-nr.-86_HCJT_11.04.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://www.cjtimis.ro/wp-content/uploads/2020/07/Hotararea-nr.-86_HCJT_11.04.2023.pdf",
+     "sha256": "20762ee2c20e314d3abce4702730fd2e2850c21f615ca1c180c6f342cc3cf92e"
     }
    ]
   }

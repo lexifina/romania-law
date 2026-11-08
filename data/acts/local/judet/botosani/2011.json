@@ -625,6 +625,28 @@
 }
 },
 {
+"slug": "hcj-botosani-44-2011",
+"path": "local/judet/botosani/2011/44",
+"kind": "local",
+"year": "2011",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 44/2011 privind aprobarea contului de executie al bugetului propriu judetean, pe cele doua sectiuni, pentru trimestrul I 2011",
+"short": "HCJ Botoșani nr. 44/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-04-24",
+"latest": "2011-04-24",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-botosani-45-2011",
 "path": "local/judet/botosani/2011/45",
 "kind": "local",

@@ -25,6 +25,74 @@
 }
 },
 {
+"slug": "hcl-maramures--coas-2-2025",
+"path": "local/maramures/coas/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 2/2025",
+"short": "HCL Coaș nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254189",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--coas-3-2025",
+"path": "local/maramures/coas/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 3/2025",
+"short": "HCL Coaș nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254191",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--coas-4-2025",
+"path": "local/maramures/coas/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 4/2025 privind aprobarea numărului posturilor de asistent personal al persoanei cu handicap pentru 2025",
+"short": "HCL Coaș nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254194",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coas-5-2025",
 "path": "local/maramures/coas/2025/5",
 "kind": "local",
@@ -70,6 +138,28 @@
 }
 },
 {
+"slug": "hcl-maramures--coas-7-2025",
+"path": "local/maramures/coas/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 7/2025 privind mandatarea reprezentantului UAT Coas pentru propunerea de ajustare a tarifelor pentru activitățile de sortare și transfer a deșeurilor municipale zona de colectare 1 - Sârbi",
+"short": "HCL Coaș nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254202",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coas-8-2025",
 "path": "local/maramures/coas/2025/8",
 "kind": "local",
@@ -92,6 +182,95 @@
 }
 },
 {
+"slug": "hcl-maramures--coas-9-2025",
+"path": "local/maramures/coas/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 9/2025 privind completarea Art. 1 din HCL nr. 44/08.08.2024 privind aprobarea noului deviz general al investiției și a noilor indicatori tehnici economici ai obiectivului de investiții: „Extindere rețea de distribuție gaze naturale pe Str. Valea Grozii și Str. Valea Slav în Comuna Coaș, județul Maramureș” în cadrul Programului Național de Investiții „Anghel Saligny” cu sintagma conform Studiului de fezabilitate elaborat de SC Ofrim Consulting SRL",
+"short": "HCL Coaș nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254204",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-10-2025",
+"path": "local/maramures/coas/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 10/2025",
+"short": "HCL Coaș nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254205",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--coas-11-2025",
+"path": "local/maramures/coas/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 11/2025 privind aprobarea Planului anual de acțiuni și lucrări de interes local ce vor fi realizate în anul 2025 de către persoanele beneficiare de ajutor de incluziune conform Legii nr. 196/2016, cu modificările și completările ulterioare",
+"short": "HCL Coaș nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254206",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-12-2025",
+"path": "local/maramures/coas/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 12/2025 privind însușirea raportului de evaluare a activității de evaluare a activității asistenților personali ai persoanelor cu handicap grav în semestrul II al anului 2024",
+"short": "HCL Coaș nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254207",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coas-13-2025",
 "path": "local/maramures/coas/2025/13",
 "kind": "local",
@@ -111,6 +290,50 @@
 "council_name": "Consiliul Local al Comunei Coaș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coas-15-2025",
+"path": "local/maramures/coas/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 15/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025 la nivelul UAT Comuna Coaș",
+"short": "HCL Coaș nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254209",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-17-2025",
+"path": "local/maramures/coas/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 17/2025 privind modificarea Anexei la HCL nr. 24/2018 privind aprobarea măsurilor edilitar-gospodărești de interes local în vederea păstrării curățeniei, bunei gospodăriri și înfrumusețării Comunei Coaș",
+"short": "HCL Coaș nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254210",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +403,50 @@
 }
 },
 {
+"slug": "hcl-maramures--coas-21-2025",
+"path": "local/maramures/coas/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 21/2025 privind actualizarea indicatorilor tehnico economici și a devizului general al obiectivului de investiții ”MODERNIZARE DC 80 - CORUIA-COAS-REMECIOARA ÎN COMUNA COAȘ, JUDEȚUL MARAMUREȘ”",
+"short": "HCL Coaș nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254214",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-22-2025",
+"path": "local/maramures/coas/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 22/2025 privind validarea rezultatului alegerii delegatului sătesc care să reprezinte interesele locuitorilor din satul Intrerauri în Consiliul Local al UAT Comuna Coaș pe durata mandatului acestuia",
+"short": "HCL Coaș nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254215",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coas-23-2025",
 "path": "local/maramures/coas/2025/23",
 "kind": "local",
@@ -246,6 +513,28 @@
 }
 },
 {
+"slug": "hcl-maramures--coas-27-2025",
+"path": "local/maramures/coas/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 27/2025 privind alegerea președintelui de ședință",
+"short": "HCL Coaș nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254219",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coas-28-2025",
 "path": "local/maramures/coas/2025/28",
 "kind": "local",
@@ -265,6 +554,28 @@
 "council_name": "Consiliul Local al Comunei Coaș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coas-29-2025",
+"path": "local/maramures/coas/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 29/2025 privind rectificarea Bugetului Local al Comunei Coaș Trimestul II 2025",
+"short": "HCL Coaș nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254221",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -335,6 +646,50 @@
 }
 },
 {
+"slug": "hcl-maramures--coas-33-2025",
+"path": "local/maramures/coas/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 33/2025 privind declararea unui imobil ca bun de uz și de interes public local, respectiv aprobarea documentației tehnice cadastrale prin actualizarea elementelor de identificare a imobilului cu denumirea Drum de exploatație Agricola Ses-Gheorghe de la Fantana Tronson II, imobil situat în intravilanul Comunei Coas, Localitatea Coas înscris în CF 50469",
+"short": "HCL Coaș nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254225",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-34-2025",
+"path": "local/maramures/coas/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 34/2025 privind declararea unui imobil ca bun de uz și de interes public local, respectiv aprobarea documentației tehnice cadastrale prin actualizarea elementelor de identificare a imobilului cu denumirea Drum de exploatație Agricola imobil situat în intravilanul Comunei Coas, Localitatea Coas înscris în CF 50481",
+"short": "HCL Coaș nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254226",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coas-35-2025",
 "path": "local/maramures/coas/2025/35",
 "kind": "local",
@@ -354,6 +709,94 @@
 "council_name": "Consiliul Local al Comunei Coaș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coas-36-2025",
+"path": "local/maramures/coas/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 36/2025 privind stabilirea unor măsuri privind delegarea gestiunii activităților componente ale serviciului de salubrizare, prin transferul, sortarea mecano-biologică, compostarea, operarea centrelor de colectare cu aport voluntar și eliminarea prin depozitare a deșeurilor municipale în județul Maramureș„",
+"short": "HCL Coaș nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254228",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-37-2025",
+"path": "local/maramures/coas/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 37/2025 privind mandatarea reprezentantului UAT Comuna Coaș pentru aprobarea Regulamentului serviciului de salubrizare al Județului Maramureș",
+"short": "HCL Coaș nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254229",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-38-2025",
+"path": "local/maramures/coas/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 38/2025 privind aprobarea contului de închiriere a exercițiului bugetar al Comunei Coas trim. II anul 2025",
+"short": "HCL Coaș nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254230",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-39-2025",
+"path": "local/maramures/coas/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 39/2025 privind aprobarea contractării unui împrumut în valoare de 590,042.00 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Coaș nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://emol.ro/coas-mm/registru-hcl/254231",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -398,6 +841,28 @@
 "council_name": "Consiliul Local al Comunei Coaș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coas-42-2025",
+"path": "local/maramures/coas/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 42/2025 privind alegerea președintelui de ședință",
+"short": "HCL Coaș nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://emol.ro/coas-mm/registru-hcl/255771",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -467,6 +932,28 @@
 }
 },
 {
+"slug": "hcl-maramures--coas-46-2025",
+"path": "local/maramures/coas/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 46/2025 privind mandatarea reprezentantului UAT Comuna Coaș pentru avizarea strategiei de contractare, a caietului de sarcini și a contractului pentru activitățile de tratare mecano-biologică și depozitare a deșeurilor municipale din zona 1 a județului Maramureș, UAT Cernești UAT Coroieni și UAT Suciu de Sus",
+"short": "HCL Coaș nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://emol.ro/coas-mm/registru-hcl/255777",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coas-47-2025",
 "path": "local/maramures/coas/2025/47",
 "kind": "local",
@@ -486,6 +973,51 @@
 "council_name": "Consiliul Local al Comunei Coaș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coas-48-2025",
+"path": "local/maramures/coas/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 48/2025 privind avizarea lucrării INTERNET ZONE ALBE-JUD. SATU MARE, MARAMUREȘ, CLUJ ȘI BISTRIȚA NĂSĂUD - ZONA 5 - ÎN Comuna Coaș, Localitatea Întrerâuri, Județul Maramureș",
+"short": "HCL Coaș nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://emol.ro/coas-mm/registru-hcl/255912",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coas-49-2025",
+"path": "local/maramures/coas/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coaș nr. 49/2025",
+"short": "HCL Coaș nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://emol.ro/coas-mm/registru-hcl/255939",
+"council": "maramures/coas",
+"council_name": "Consiliul Local al Comunei Coaș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

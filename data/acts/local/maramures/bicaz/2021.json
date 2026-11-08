@@ -3,6 +3,28 @@
 "shard": "local/maramures/bicaz/2021",
 "acts": [
 {
+"slug": "hcl-maramures--bicaz-1-2021",
+"path": "local/maramures/bicaz/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 1/2021 privind aprobarea numarului posturilor de asistenti personali pentru persoane cu handicap grav si indemnizatii fixe pentru anul 2021",
+"short": "HCL Bicaz nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/20236",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bicaz-2-2021",
 "path": "local/maramures/bicaz/2021/2",
 "kind": "local",

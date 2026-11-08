@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-7-2020",
+"path": "local/maramures/asuaju-de-sus/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 7/2020 privind concesionarea unui spațiu în suprafață de 16 mp din imobilul dispensarului uman în administrarea primăriei comunei Asuaju de sus pentru amenajarea unui punct de lucru",
+"short": "HCL Asuaju de Sus nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/29105",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-8-2020",
 "path": "local/maramures/asuaju-de-sus/2020/8",
 "kind": "local",

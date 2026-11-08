@@ -3,6 +3,21 @@
  "shard": "local/judet/harghita/2026",
  "acts": [
   {
+   "slug": "hcj-harghita-1-2026",
+   "path": "local/judet/harghita/2026/1",
+   "short": "HCJ Harghita nr. 1/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 1/2026 privind constituirea Comisiei de acord unic la nivelul Județului Harghita și aprobarea Regulamentului de organizare și funcționare a acesteia",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/09/Hot-214-2026.pdf",
+     "sha256": "1f01162910c4b61c8c845a02b8d02dfa9925d45403b23a81613f65e4ada60264"
+    }
+   ]
+  },
+  {
    "slug": "hcj-harghita-10-2026",
    "path": "local/judet/harghita/2026/10",
    "short": "HCJ Harghita nr. 10/2026",
@@ -3104,6 +3119,21 @@
      "units": 1,
      "source_url": "https://hargitamegye.ro/wp-content/uploads/2026/03/Hot-047-2026.pdf",
      "sha256": "3b281e2134dabaec722aeadb581f2be696ee18c79c34f5ca377ad63939581d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-harghita-477-2026",
+   "path": "local/judet/harghita/2026/477",
+   "short": "HCJ Harghita nr. 477/2026",
+   "title": "Hotărârea Consiliului Județean Harghita nr. 477/2026 privind modificarea Contractului de Administrare nr. 6297/19.03.2015 încheiat între Orașul Bălan prin Consiliul Local al Orașului Bălan și Județul Harghita prin Consiliul Județean Harghita",
+   "url": "https://judetulharghita.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://judetulharghita.ro/wp-content/uploads/2026/11/Hot-259-2026.pdf",
+     "sha256": "2315dbc4bea51a432f80ff21395d9cdbd478f0c7e29d59713ded8f65aa3495ed"
     }
    ]
   },

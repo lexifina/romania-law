@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-11-2025",
+   "path": "local/maramures/cernesti/2025/11",
+   "short": "HCL Cernești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 11/2025 privind aprobarea închirierii unui spațiu",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/200525",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/200525",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-12-2025",
    "path": "local/maramures/cernesti/2025/12",
    "short": "HCL Cernești nr. 12/2025",
@@ -183,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-21-2025",
+   "path": "local/maramures/cernesti/2025/21",
+   "short": "HCL Cernești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 21/2025 privind aprobarea vânzării de material lemnos prin licitație",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/213248",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/213248",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-22-2025",
    "path": "local/maramures/cernesti/2025/22",
    "short": "HCL Cernești nr. 22/2025",
@@ -298,6 +328,21 @@
      "from": "2025-10-13",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/222809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-3-2025",
+   "path": "local/maramures/cernesti/2025/3",
+   "short": "HCL Cernești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 3/2025",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/188866",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/188866",
      "sha256": null
     }
    ]
@@ -583,6 +628,21 @@
      "from": "2025-05-20",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/200519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-6-2025",
+   "path": "local/maramures/cernesti/2025/6",
+   "short": "HCL Cernești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 6/2025",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/200520",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/200520",
      "sha256": null
     }
    ]

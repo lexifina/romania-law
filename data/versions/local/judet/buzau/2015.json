@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/buzau/2015",
+ "acts": [
+  {
+   "slug": "hcj-buzau-248-2015",
+   "path": "local/judet/buzau/2015/248",
+   "short": "HCJ Buzău nr. 248/2015",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 248/2015 privind alegerea Președintelui Consiliului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2015/",
+   "versions": [
+    {
+     "from": "2015-11-13",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2025/06/H-248.pdf",
+     "sha256": "fd8b1d65c4b95e501eb898daf2ab4da12f278d98c15a0b9b72294852e5b6fca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-271-2015",
+   "path": "local/judet/buzau/2015/271",
+   "short": "HCJ Buzău nr. 271/2015",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 271/2015 pentru unele unități de cult religios recunoscute în România",
+   "url": "http://cjbuzau.ro/hotarari-cj-2015/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2020/12/Hotararea-271.pdf",
+     "sha256": "8e6dc2328abaea68b7f4018d09194f1418c9fd2b597c0dcde2e67bdd6ab0738d"
+    }
+   ]
+  }
+ ]
+}

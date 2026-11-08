@@ -181,6 +181,29 @@
 }
 },
 {
+"slug": "hcl-maramures--ardusat-9-2023",
+"path": "local/maramures/ardusat/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 9/2023",
+"short": "HCL Ardusat nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/197406",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-10-2023",
 "path": "local/maramures/ardusat/2023/10",
 "kind": "local",
@@ -376,6 +399,28 @@
 "council_name": "Consiliul Local al Comunei Ardusat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-19-2023",
+"path": "local/maramures/ardusat/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 19/2023 privind aprobarea participării Comunei Ardusat la Programul privind casarea autovehiculelor uzate denumit „Rabla Local” derulat în cofinanțare cu Administrația Fondului pentru Mediu (AFM)",
+"short": "HCL Ardusat nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/197417",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -599,6 +644,28 @@
 }
 },
 {
+"slug": "hcl-maramures--ardusat-30-2023",
+"path": "local/maramures/ardusat/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 30/2023 privind desemnarea reprezentantilor Consiliului Local al comunei Ardusat in Consiliul de Administratie al Scolii Gimnaziale Ardusat, jud.Maramures, pentru anul 2023-2024",
+"short": "HCL Ardusat nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/197439",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-31-2023",
 "path": "local/maramures/ardusat/2023/31",
 "kind": "local",
@@ -618,6 +685,28 @@
 "council_name": "Consiliul Local al Comunei Ardusat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-32-2023",
+"path": "local/maramures/ardusat/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 32/2023 Privind aprobarea cesiunii Contractului de concesionare nr.1805 din 20.09.2005",
+"short": "HCL Ardusat nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/197441",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

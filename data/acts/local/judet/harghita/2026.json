@@ -3,6 +3,28 @@
 "shard": "local/judet/harghita/2026",
 "acts": [
 {
+"slug": "hcj-harghita-1-2026",
+"path": "local/judet/harghita/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Harghita nr. 1/2026 privind constituirea Comisiei de acord unic la nivelul Județului Harghita și aprobarea Regulamentului de organizare și funcționare a acesteia",
+"short": "HCJ Harghita nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": "https://judetulharghita.ro/monitorul-oficial-local/page/3/",
+"council": "judet/harghita",
+"council_name": "Consiliul Județean Harghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-harghita-2-2026",
 "path": "local/judet/harghita/2026/2",
 "kind": "local",
@@ -5807,6 +5829,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Harghita nr. 267/2026 privind desemnarea reprezentantului Consiliului Județean Harghita în calitate de membru în Consiliul de administrație din cadrul Liceului Tehnologic Special „Szent Anna” Miercurea-Ciuc, respectiv „Szent Anna” Speciális Szaklíceum Csíkszereda; Hotărârea nr. 267/29.10.2026",
 "short": "HCJ Harghita nr. 267/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://judetulharghita.ro/monitorul-oficial-local/",
+"council": "judet/harghita",
+"council_name": "Consiliul Județean Harghita",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-harghita-477-2026",
+"path": "local/judet/harghita/2026/477",
+"kind": "local",
+"year": "2026",
+"number": "477",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Harghita nr. 477/2026 privind modificarea Contractului de Administrare nr. 6297/19.03.2015 încheiat între Orașul Bălan prin Consiliul Local al Orașului Bălan și Județul Harghita prin Consiliul Județean Harghita",
+"short": "HCJ Harghita nr. 477/2026",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

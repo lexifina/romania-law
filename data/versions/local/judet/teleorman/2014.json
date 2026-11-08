@@ -1083,6 +1083,36 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-2-2014",
+   "path": "local/judet/teleorman/2014/2",
+   "short": "HCJ Teleorman nr. 2/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 2/2014 privind : aprobarea utilizarii excedentului bugetar inregistrat la 31 decembrie 2013, pentru finantarea unor cheltuieli ale Sectiunii de dezvoltare in anul 2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-01-03",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/2.pdf",
+     "sha256": "be785ff8fa3d310b85db9accaf6a4ea133435590898ae944ea81e08ff74091d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-20-2014",
+   "path": "local/judet/teleorman/2014/20",
+   "short": "HCJ Teleorman nr. 20/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 20/2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-12-02",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20204.pdf",
+     "sha256": "58bb71a0154cf8e58da10688358ff279d9caf73db99b788e7c60e3d29f48800d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-204-2014",
    "path": "local/judet/teleorman/2014/204",
    "short": "HCJ Teleorman nr. 204/2014",
@@ -1454,6 +1484,81 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%20228.pdf",
      "sha256": "36fe056d25a9bf5a0ca333da58afdc4fb9a356a56f7d5f548236a787cdb188ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-24-2014",
+   "path": "local/judet/teleorman/2014/24",
+   "short": "HCJ Teleorman nr. 24/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 24/2014 privind : aprobarea execuției bugetului propriu al județului pentru secțiunile de funcționare și dezvoltare, la 31 martie 2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-04-28",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/84.pdf",
+     "sha256": "50652666dc4f409b27daaf87f62b1611fee9927eac4cd51b3e50c9a2fa44b141"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-25-2014",
+   "path": "local/judet/teleorman/2014/25",
+   "short": "HCJ Teleorman nr. 25/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 25/2014 pentru anii 2015-2017",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/25.pdf",
+     "sha256": "94d631da1a69b1e98159ad4265ca02caf0c52dec7e551d2cadbb6e233686aee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-32-2014",
+   "path": "local/judet/teleorman/2014/32",
+   "short": "HCJ Teleorman nr. 32/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 32/2014 privind : acordul Consiliului Județean Teleorman pentru realizarea unei stații de neutralizare a deșeurilor medicale periculoase rezultate din activitatea spitalicească la Spitalul Județean de Urgență Alexandria",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-02-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/38.pdf",
+     "sha256": "30360b8224d9d182c0170023c2414d678bc601827e7f15e865649ed351c26ec9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-380-2014",
+   "path": "local/judet/teleorman/2014/380",
+   "short": "HCJ Teleorman nr. 380/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 380/2014 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-03-19",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2095.pdf",
+     "sha256": "27c349feeacfe98bb6e53526b61e2b376eeded810f628b4c05c4d37e22909790"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-41-2014",
+   "path": "local/judet/teleorman/2014/41",
+   "short": "HCJ Teleorman nr. 41/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 41/2014 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2014",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-02-26",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/41.pdf",
+     "sha256": "bea5e6f22f779809cc2f3c3ffd090ec658036f237f100d9da9da7809e0679250"
     }
    ]
   },
@@ -2129,6 +2234,21 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/Hot.%2088.pdf",
      "sha256": "863ff0d48690eddd78c750c43f817e68ad049dbe8fd98181f410b0eb64ef6f51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-9-2014",
+   "path": "local/judet/teleorman/2014/9",
+   "short": "HCJ Teleorman nr. 9/2014",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 9/2014 privind :repartizarea pe unitati administrativ-teritoriale a sumei ce reprezinta 20% din sumele defalcate din taxa pe valoarea adaugata s i din cota de 18,5% din impozitul pe venit pentru echilibrarea bugetelor locale, precum s i a celor retinute din cota de 80% c a urmare a diminuarii c u gradul de ne c ole c tare a unor venituri proprii, pentru achitarea arieratelor provenite din neplata cheltui",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202014.htm",
+   "versions": [
+    {
+     "from": "2014-01-13",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202014/9.pdf",
+     "sha256": "47bdd219776cd7ba405eb93a0458277cc219580b5f346445529e0b879e21500e"
     }
    ]
   },

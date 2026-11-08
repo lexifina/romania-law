@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-122-2026",
+   "path": "local/judet/cluj/2026/122",
+   "short": "HCJ Cluj nr. 122/2026",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 122/2026",
+   "url": "https://cjcluj.ro/hotarare-cjc/2026/08",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2026/08/69e4e884-122_3_modif-hcjc-106_2026_fond-de-rezerva.pdf",
+     "sha256": "20d2eadf76adfe2c4cf3955bb8de5dd74eb66704a1696ab6fb08b493cc020209"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-123-2026",
    "path": "local/judet/cluj/2026/123",
    "short": "HCJ Cluj nr. 123/2026",

@@ -3,6 +3,186 @@
  "shard": "local/judet/teleorman/2016",
  "acts": [
   {
+   "slug": "hcj-teleorman-127-2016",
+   "path": "local/judet/teleorman/2016/127",
+   "short": "HCJ Teleorman nr. 127/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 127/2016 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/127.pdf",
+     "sha256": "aac19495c93f4f884774599e09874b6d3e695b0a64ccefd8cc8dd31844f00eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-148-2016",
+   "path": "local/judet/teleorman/2016/148",
+   "short": "HCJ Teleorman nr. 148/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 148/2016 privind desemnarea a șase consilieri județeni ca membri ai Autorității Teritoriale de Ordine Publică Teleorman; - adresa nr. 8294/19.09.2016, a Comitetului de organizare constituit prin Ordinul nr. 433/din 12 septembrie 2016 al Prefectului Județului Teleorman; - raportul de avizare al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor și liber",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/148.pdf",
+     "sha256": "217984e20ee26229cd14ff0116cfffd6d10de9c5c342a8a09149903d18152c96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-207-2016",
+   "path": "local/judet/teleorman/2016/207",
+   "short": "HCJ Teleorman nr. 207/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 207/2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/207.pdf",
+     "sha256": "c2ef156629e5d8fbf8e8af3013d6a32cf48f3675d696df10f50ae46e60cf6cc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-208-2016",
+   "path": "local/judet/teleorman/2016/208",
+   "short": "HCJ Teleorman nr. 208/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 208/2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/208.pdf",
+     "sha256": "8ee47937de1d0ae77b5ec07286170f192809213cf4ea1d199b91c1d87ec72382"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-209-2016",
+   "path": "local/judet/teleorman/2016/209",
+   "short": "HCJ Teleorman nr. 209/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 209/2016 pentru : modificarea anexei nr. 1 la Hotărârea Consiliului Județean Teleorman nr. 89 din 23 iunie 2016, cu modificările ulterioare",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/209.pdf",
+     "sha256": "60b9b18129a5bbb173dc80921d60b73e18a7e327f9bd465b805993ee7938b4cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-219-2016",
+   "path": "local/judet/teleorman/2016/219",
+   "short": "HCJ Teleorman nr. 219/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 219/2016 pentru exercitarea atribuţiilor preşedintelui Consiliului Judeţean Teleorman, În caz de vacanţă a acestei funcţii",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/219.pdf",
+     "sha256": "3137c93193824645273bbc536958ec6701e26d2eeaf7729baf8653b66820e8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-291-2016",
+   "path": "local/judet/teleorman/2016/291",
+   "short": "HCJ Teleorman nr. 291/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 291/2016 privind: aprobarea contribuției sub formă de cotizație a Județului Teleorman, prin Consiliul Județean Teleorman, la Asociația de Dezvoltare Intercomunitară „Teleormanul”, pentru anul 2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-02-23",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/31.pdf",
+     "sha256": "0aad7780d2e33c0d5f8929931dd9d6df0554aba77328fb4fdd9be6b22c970f83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-415-2016",
+   "path": "local/judet/teleorman/2016/415",
+   "short": "HCJ Teleorman nr. 415/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 415/2016 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/173.pdf",
+     "sha256": "72871354f3f1943a0d78a2df69a15f8adb751bc0a608ce5d08b442f549b53efc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-42-2016",
+   "path": "local/judet/teleorman/2016/42",
+   "short": "HCJ Teleorman nr. 42/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 42/2016 privind : stabilirea prețului mediu al produselor agricole la care arenda se exprimă în natură, pentru anul 2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-02-23",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/42.pdf",
+     "sha256": "fb498de3eb9bec5ab4162eaf764f1e19eea3c12ca23d8318344a33c30a681797"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-43-2016",
+   "path": "local/judet/teleorman/2016/43",
+   "short": "HCJ Teleorman nr. 43/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 43/2016 pentru masa verde de pe pajişti, pentru anul 2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-02-23",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/43.pdf",
+     "sha256": "1ea4ccc69140e75e389291cb2c86757c5e4bd8a8e4874c255e1419302eabc098"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-44-2016",
+   "path": "local/judet/teleorman/2016/44",
+   "short": "HCJ Teleorman nr. 44/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 44/2016 privind : rectificarea bugetului propriu al județului Teleorman pe anul 2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-02-23",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/44.pdf",
+     "sha256": "d127a0813e7053bb0e676f34902fb3b82f30ef528e61e070080d1df53b828364"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-443-2016",
+   "path": "local/judet/teleorman/2016/443",
+   "short": "HCJ Teleorman nr. 443/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 443/2016 pentru: completarea anexei la Hotărârea Consiliului Județean Teleorman nr. 80 din 30 mai 2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-12-09",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/203.pdf",
+     "sha256": "79d6f0d1c6c2b9c61e18348bbf97554e7d611d631a8de8f7cdafbe1096f871d2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-47-2016",
    "path": "local/judet/teleorman/2016/47",
    "short": "HCJ Teleorman nr. 47/2016",
@@ -14,6 +194,21 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/87.pdf",
      "sha256": "ad014ba2f94d6ada1280a3a288c2c413060f7eb0688b153b25602578ec73142f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-80-2016",
+   "path": "local/judet/teleorman/2016/80",
+   "short": "HCJ Teleorman nr. 80/2016",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 80/2016",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202016.htm",
+   "versions": [
+    {
+     "from": "2016-05-30",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202016/211.pdf",
+     "sha256": "bee9f152befbf3dc7ea814bd5b276c473bb2913d30eff8af13be75fc7d1ceb3f"
     }
    ]
   }

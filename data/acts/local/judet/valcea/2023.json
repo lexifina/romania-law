@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/valcea/2023",
+"acts": [
+{
+"slug": "hcj-valcea-1052-2023",
+"path": "local/judet/valcea/2023/1052",
+"kind": "local",
+"year": "2023",
+"number": "1052",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 1052/2023 privind transmiterea temporară a dreptului de administrare către Unitatea Administrativ-Teritorială Comuna Slătioara prin Consiliul Local al Comunei Slătioara, a unei suprafețe de teren aferentă unui sector de drum județean DJ 676, situată pe raza administrativ-teritorială a comunei Slătioara, județul Vâlcea",
+"short": "HCJ Vâlcea nr. 1052/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2026-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

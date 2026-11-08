@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-11-2026",
+"path": "local/maramures/asuaju-de-sus/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 11/2026 privind alegerea presedintelui de sedinta, pe o perioada de 3 luni",
+"short": "HCL Asuaju de Sus nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/263802",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-12-2026",
 "path": "local/maramures/asuaju-de-sus/2026/12",
 "kind": "local",
@@ -377,6 +399,50 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-19-2026",
+"path": "local/maramures/asuaju-de-sus/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 19/2026 privind initierea procedurii licitatie publica in vederea inchirierii spatiului de 70,35 m.p. din cladirea Dispensarului Uman, pentru farmacie",
+"short": "HCL Asuaju de Sus nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-24",
+"latest": "2026-06-24",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/275247",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--asuaju-de-sus-20-2026",
+"path": "local/maramures/asuaju-de-sus/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 20/2026 privind initierea procedurii licitatie publica in vederea inchirierii spatiului de 65 m.p. din cladirea Dispensarului Uman, pentru cabinet medic de familie",
+"short": "HCL Asuaju de Sus nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-24",
+"latest": "2026-06-24",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/275248",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-21-2026",
 "path": "local/maramures/asuaju-de-sus/2026/21",
 "kind": "local",
@@ -396,6 +462,28 @@
 "council_name": "Consiliul Local al Comunei Asuaju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--asuaju-de-sus-22-2026",
+"path": "local/maramures/asuaju-de-sus/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 22/2026 privind alegerea presedintelui de sedinta, pe o perioada de 3 luni",
+"short": "HCL Asuaju de Sus nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/279131",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -462,6 +550,28 @@
 "council_name": "Consiliul Local al Comunei Asuaju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--asuaju-de-sus-26-2026",
+"path": "local/maramures/asuaju-de-sus/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 26/2026 privind mandatarea reprezentantului UAT Comuna ASUAJU DE SUS de a vota în AGA ADIGIDM MM modificarea tarifelor pentru activitățile de sortare si transfer a deșeurilor municipale zona de colectare 1 – Sârbi, UAT Cernești și UAT Coroieni",
+"short": "HCL Asuaju de Sus nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/279136",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

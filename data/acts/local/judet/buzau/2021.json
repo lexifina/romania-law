@@ -535,6 +535,28 @@
 }
 },
 {
+"slug": "hcj-buzau-27-2021",
+"path": "local/judet/buzau/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Buzău nr. 27/2021 privind aprobarea utilizării în anul 2021 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2020",
+"short": "HCJ Buzău nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "http://cjbuzau.ro/hotarari-cj-2021/",
+"council": "judet/buzau",
+"council_name": "Consiliul Județean Buzău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-buzau-29-2021",
 "path": "local/judet/buzau/2021/29",
 "kind": "local",

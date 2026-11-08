@@ -33,6 +33,141 @@
    ]
   },
   {
+   "slug": "hcj-buzau-100-2019",
+   "path": "local/judet/buzau/2019/100",
+   "short": "HCJ Buzău nr. 100/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 100/2019 pentru aprobarea finanțării unor activități desfășurate de Palatul Copiilor Buzău în anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-100.pdf",
+     "sha256": "2b99dc7468f59a0eac5b30bf99db796f0e32239a5d123a8e716e56f8c4c1eca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-101-2019",
+   "path": "local/judet/buzau/2019/101",
+   "short": "HCJ Buzău nr. 101/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 101/2019 pentru aprobarea participării Consiliului Județean Buzău în calitate de coorganizator al festivalului „Drăgaica IarmaFest” ediția 241, Buzău, 9-24.06.2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-101.pdf",
+     "sha256": "d19cd6dba46ab72356286a88de2b345a939dc1e1243130af9311202b4c77e96a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-102-2019",
+   "path": "local/judet/buzau/2019/102",
+   "short": "HCJ Buzău nr. 102/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 102/2019 pentru aprobarea participării Consiliului Județean Buzău în calitate de coorganizator al Campionatului european pe echipe (tenis de câmp, băieți 12 ani), Buzău 22-27 iulie 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-102.pdf",
+     "sha256": "63139ef033b7ca7181d5ed51141a5ca3bde012e4f7c8f97e3d1a49cd995de41c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-103-2019",
+   "path": "local/judet/buzau/2019/103",
+   "short": "HCJ Buzău nr. 103/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 103/2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-103.pdf",
+     "sha256": "c0e243cb532f0836e931e5ab071ad96a66d08de628313a281ae4d061ed632abe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-104-2019",
+   "path": "local/judet/buzau/2019/104",
+   "short": "HCJ Buzău nr. 104/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 104/2019 pentru aprobarea participării Direcției Generale de Asistență Socială și Protecția Copilului Buzău la promovarea proiectului „Școală incluzivă, copii fericiți”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-104.pdf",
+     "sha256": "f0660d257ef743f8aa1061f10f52af09f4a4fdf72b45fe272190ee93b1667b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-105-2019",
+   "path": "local/judet/buzau/2019/105",
+   "short": "HCJ Buzău nr. 105/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 105/2019 pentru un viitor mai bun”, în cadrul POCU AP4/PI9IV/OS 4.12, 4.13 & 4.14, apel complementar: POR 2017/8/8.1/8.3/C, grup vulnerabil: copii * Se completează prin Hotărârea nr. 89/2020 , Modificată prin Hotărârea nr.122/2020",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-105.pdf",
+     "sha256": "8e8f58a133a537905f133035198dff1c12b4ac4e4e4aad96862333acfcb08d95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-106-2019",
+   "path": "local/judet/buzau/2019/106",
+   "short": "HCJ Buzău nr. 106/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 106/2019 pentru închiderea Centrului rezidențial pentru recuperarea și reabilitarea copilului cu tulburări de comportament nr. 5 Beceni, respectiv a Complexului de servicii comunitare nr. 2 Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-106.pdf",
+     "sha256": "a354325f001cd2c87e1d77dfba5a28814ffb7fd615e2d95497081cfcbf3af6a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-107-2019",
+   "path": "local/judet/buzau/2019/107",
+   "short": "HCJ Buzău nr. 107/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 107/2019 pentru aparatul de specialitate al Consiliului judeţean Buzău * Anexa 2 modificată prin Hotărârea nr.125/2019 * Își încetează aplicabilitatea prin Hotărârea nr.127/2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/Hot-107-1.pdf",
+     "sha256": "03a81cfdbec912d4129b5ff8a26340c37ba683abb9bce776e5f60cc99af19de9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-109-2019",
+   "path": "local/judet/buzau/2019/109",
+   "short": "HCJ Buzău nr. 109/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 109/2019 privind modificarea și completarea Regulamentului de Organizare și Funcționare a Consiliului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-109.pdf",
+     "sha256": "a5df42bf32c0b797fb5d26b1a7adebd83d3e4e5ddfdc912a1ae254c53cb6a216"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-11-2019",
    "path": "local/judet/buzau/2019/11",
    "short": "HCJ Buzău nr. 11/2019",
@@ -44,6 +179,126 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2018/12/Hot%C4%83r%C3%A2rea-nr.11.pdf",
      "sha256": "f34d028656fb325763c756283b3f22e81bf2f1639847738ae6b4f2147eab01ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-111-2019",
+   "path": "local/judet/buzau/2019/111",
+   "short": "HCJ Buzău nr. 111/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 111/2019 pentru ședința extraordinară din data de 30.05.2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-111.pdf",
+     "sha256": "69643d103a8bb4400ff3f162d28438d42bc551960d52f268b4873e5f795e722b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-113-2019",
+   "path": "local/judet/buzau/2019/113",
+   "short": "HCJ Buzău nr. 113/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 113/2019 pentru aprobarea modificării și actualizării componenței nominale a Comisiei de evaluare a persoanelor adulte cu handicap Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-113.pdf",
+     "sha256": "f20e8b31b5cd2c7abc083b6c1e65eb274fc071c88ef8022f7559efa283ec93dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-114-2019",
+   "path": "local/judet/buzau/2019/114",
+   "short": "HCJ Buzău nr. 114/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 114/2019 privind rectificarea a II-a a bugetului propriu al județului Buzău pe anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-114.pdf",
+     "sha256": "4ebab20ebc92501f6fca094edcbf35970601c6adf6f2485011bf0e448b2336eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-115-2019",
+   "path": "local/judet/buzau/2019/115",
+   "short": "HCJ Buzău nr. 115/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 115/2019 pentru rectificarea a II-a a bugetului de venituri și cheltuieli pe anul 2019 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-115.pdf",
+     "sha256": "9cc80944a094140b1048b0437b150d29e0abee2e149ea1e68ab045f33fdac172"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-116-2019",
+   "path": "local/judet/buzau/2019/116",
+   "short": "HCJ Buzău nr. 116/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 116/2019 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2019 al Centrului Județean de Cultură și Artă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-116.pdf",
+     "sha256": "0ea8c7c05f284f564bd75d97b7a1fda31c58074c2adeb5cfccc4de42b7a94bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-117-2019",
+   "path": "local/judet/buzau/2019/117",
+   "short": "HCJ Buzău nr. 117/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 117/2019 pentru aprobarea finanțării nerambursabile de către",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-117.pdf",
+     "sha256": "028fdde318fb17ea1c2ef0f3554a4bf0ca0f91daeb9841ddd7ef264a5dac5186"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-118-2019",
+   "path": "local/judet/buzau/2019/118",
+   "short": "HCJ Buzău nr. 118/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 118/2019 privind modificarea și completarea inventarului bunurilor care aparțin domeniului public al județului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-118.pdf",
+     "sha256": "dcfb92951cb5a493b343c4583c6140486459efd0cc2f85d7e73cb577f48c18ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-119-2019",
+   "path": "local/judet/buzau/2019/119",
+   "short": "HCJ Buzău nr. 119/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 119/2019 privind aprobarea alipirii unor terenuri aferente imobilului proprietate publică a Județului Buzău situat în municipiul Buzău, B-dul Nicolae Bălcescu nr. 48",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-119.pdf",
+     "sha256": "42b390f7c736dd035bc67f9b5174d5381d0f14923cdd043e78758c80c219344f"
     }
    ]
   },
@@ -63,6 +318,81 @@
    ]
   },
   {
+   "slug": "hcj-buzau-120-2019",
+   "path": "local/judet/buzau/2019/120",
+   "short": "HCJ Buzău nr. 120/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 120/2019 pentru aprobarea închirierii unei suprafețe de teren din terenul aferent unui bun imobil proprietatea publică a județului Buzău, administrat de Consiliul județean Buzău, situat în comuna Măgura, sat Ciuta",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-120.pdf",
+     "sha256": "426d884043bcf4057b147cf72295b9e4456d6a5de73b375d59d7d730d5a5cdf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-123-2019",
+   "path": "local/judet/buzau/2019/123",
+   "short": "HCJ Buzău nr. 123/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 123/2019 privind aprobarea arondării localităților din județul Buzău pe serviciile publice comunitare de evidență a persoanelor — formă actualizată II",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-123.pdf",
+     "sha256": "b5ba7d29130fbfeac80be00c5d8c1470890a27b85883e02bcaccfd80c4ea9094"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-125-2019",
+   "path": "local/judet/buzau/2019/125",
+   "short": "HCJ Buzău nr. 125/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 125/2019 pentru aparatul de specialitate al Consiliului judeţean Buzău * Anexa 2 modificată prin Hotărârea nr.125/2019 * Își încetează aplicabilitatea prin Hotărârea nr.127/2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-125.pdf",
+     "sha256": "c138574df230cb2dc022696c25566c2db7f9e271390a35b14f26cd48f7b5346b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-126-2019",
+   "path": "local/judet/buzau/2019/126",
+   "short": "HCJ Buzău nr. 126/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 126/2019 pentru aprobarea modificării nivelului unui post din statul de funcții al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-126.pdf",
+     "sha256": "876d072e33d88796be6ebda242539798d9c9820287730dea69ad6598e17964a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-129-2019",
+   "path": "local/judet/buzau/2019/129",
+   "short": "HCJ Buzău nr. 129/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 129/2019 privind execuția bugetului propriu al județului Buzău pe trimestrul II 2019 pe cele două secțiuni",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-129.pdf",
+     "sha256": "b19f52e64566221df3fc4f7db9de451e49f147a7b045855e4fd0066737326f27"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-13-2019",
    "path": "local/judet/buzau/2019/13",
    "short": "HCJ Buzău nr. 13/2019",
@@ -74,6 +404,96 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2018/12/Hot%C4%83r%C3%A2rea-nr.13-1.pdf",
      "sha256": "9031cf0f236e787a236b03d376fc52563f8512383c0992d24bccc51135e5fca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-130-2019",
+   "path": "local/judet/buzau/2019/130",
+   "short": "HCJ Buzău nr. 130/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 130/2019 privind aprobarea utilizării în anul 2019 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2018 - formă actualizată 1",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-130.pdf",
+     "sha256": "f79166974f470cdb35f0fc0c187b0c50c7cace240a0c3fec5d7b1f416efd117e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-132-2019",
+   "path": "local/judet/buzau/2019/132",
+   "short": "HCJ Buzău nr. 132/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 132/2019 pentru Copii cu Deficiențe Auditive Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-132.pdf",
+     "sha256": "fe999723bda8007900215874f51e33c0ea3adc56225e6d632d3ed089c12bf54d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-133-2019",
+   "path": "local/judet/buzau/2019/133",
+   "short": "HCJ Buzău nr. 133/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 133/2019 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2019 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-133.pdf",
+     "sha256": "270d3b73582464154c1d5b16907461b81066d56721818da9de0801b1918d9d22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-134-2019",
+   "path": "local/judet/buzau/2019/134",
+   "short": "HCJ Buzău nr. 134/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 134/2019 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2019 al Bibliotecii județene „V.Voiculescu” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-134.pdf",
+     "sha256": "daf17ff3da0ae1a383c7384f9ae008b2073f7fba52f66388979fdfe516e73325"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-136-2019",
+   "path": "local/judet/buzau/2019/136",
+   "short": "HCJ Buzău nr. 136/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 136/2019 pentru aprobarea finanțării participării unor elevi buzoieni și moldoveni în tabere din Republica Moldova și România",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-136.pdf",
+     "sha256": "9141d1eac2c372ec2fc327ba4308fc1f78cd442e79fb57d7210a16b783fbf35c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-137-2019",
+   "path": "local/judet/buzau/2019/137",
+   "short": "HCJ Buzău nr. 137/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 137/2019 pentru revocarea/ validarea unui membru de drept al Autorității Teritoriale de Ordine Publică a Județului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-137.pdf",
+     "sha256": "6a635ad8cd15524143c788f1f7cb247f4d9f9362c8167e226b79f862ac39517f"
     }
    ]
   },
@@ -108,6 +528,126 @@
    ]
   },
   {
+   "slug": "hcj-buzau-140-2019",
+   "path": "local/judet/buzau/2019/140",
+   "short": "HCJ Buzău nr. 140/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 140/2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-140.pdf",
+     "sha256": "98d846fd87cc412da7aaa3bd4cf6dda863339de0f5060e685372fbfef581ba10"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-142-2019",
+   "path": "local/judet/buzau/2019/142",
+   "short": "HCJ Buzău nr. 142/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 142/2019 pentru aprobarea modificării bugetului proiectului „Modernizare DJ 203K, km. 38+000 — 75+ 000, Mărăcineni — Podu Muncii, Județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-142.pdf",
+     "sha256": "b8bb05d85c11367aaaafb4467af42041198e803c82696ef975d443d5f2c352e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-143-2019",
+   "path": "local/judet/buzau/2019/143",
+   "short": "HCJ Buzău nr. 143/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 143/2019 privind aprobarea modificării nivelului unor posturi din statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-143.pdf",
+     "sha256": "ef8bd0f73ed475bb10863e8669b555d4791c95d60f2855b991add13870541cb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-144-2019",
+   "path": "local/judet/buzau/2019/144",
+   "short": "HCJ Buzău nr. 144/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 144/2019 pentru aprobarea unor modificări în statul de funcții al Direcției Județene de Evidență a Persoanelor Buzău Consiliul județean Buzău, Având în vedere: - referatul Președintelui Consiliului Județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr. 10352/18.07.2019; - raportul de specialitate al Serviciului resurse umane și management unități sanitare, înregistrat la nr. 10353/18.07.2",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-144.pdf",
+     "sha256": "ffa6cecc93a8738fff42b2016488ed5f72572da2a18b0ea405368d06cceb8141"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-145-2019",
+   "path": "local/judet/buzau/2019/145",
+   "short": "HCJ Buzău nr. 145/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 145/2019 pentru aprobarea repartizării profitului realizat în exercițiul financiar 2018 la Societatea „DOMENII PREST SERV” SRL Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-145.pdf",
+     "sha256": "ae943543aae07bfd213eb2b8be4db2bed4f7866a6511ea044827fe4698da11ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-146-2019",
+   "path": "local/judet/buzau/2019/146",
+   "short": "HCJ Buzău nr. 146/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 146/2019 pentru aprobarea unor măsuri la Societatea „DOMENII PREST SERV” SRL Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-146.pdf",
+     "sha256": "adb2fa4583d82889e438efc893dedbe680eb8132642613a5d8db8815ea5c80c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-148-2019",
+   "path": "local/judet/buzau/2019/148",
+   "short": "HCJ Buzău nr. 148/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 148/2019 privind aprobarea participării în anul 2019 a Direcției Generale de Asistență Socială și Protecția Copilului Buzău în cadrul Programului de stimulare a înnoirii Parcului auto național Consiliului Județean Buzău, Având în vedere: — referatul Președintelui Consiliului Județean Buzău de inițiere a proiectului de hotărâre înregistrat sub nr.10438/22.07.2019; — raportul Direcției Economice înregistrat",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-148.pdf",
+     "sha256": "6526cd0927b921d733553f74039a196e77fef1bd933b29ae1374c28d06e711ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-149-2019",
+   "path": "local/judet/buzau/2019/149",
+   "short": "HCJ Buzău nr. 149/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 149/2019 privind aprobarea documentației tehnico-economice - faza Proiect Tehnic - și a indicatorilor tehnico-economici ai obiectivului de investiții „Reabilitare DJ 203A, km 15+000- 22+000, Batogu-Murgești-Livada, județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-149.pdf",
+     "sha256": "2b5fb648676096315d98379abfeb8249af4d30e7dbb05e30b629f1f0e78e53f0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-15-2019",
    "path": "local/judet/buzau/2019/15",
    "short": "HCJ Buzău nr. 15/2019",
@@ -119,6 +659,126 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/02/Hot%C4%83r%C3%A2rea-nr.15.pdf",
      "sha256": "7a1b3e02f8af805cf1101ed5c1148e14e44f1e82f6a5df10c0f7d43050019669"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-150-2019",
+   "path": "local/judet/buzau/2019/150",
+   "short": "HCJ Buzău nr. 150/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 150/2019 privind aprobarea documentației tehnico-economice - faza Proiect Tehnic - și a indicatorilor tehnico-economici ai obiectivului de investiții „Modernizare DJ 220, km 70+000- 78+500, Buda-Valea Salciei, județul Buzău”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-150.pdf",
+     "sha256": "e557cebed19d8351160d0dbb4bbe8b8d4a16b1a6e9704f5a7ed69ccc8e232583"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-151-2019",
+   "path": "local/judet/buzau/2019/151",
+   "short": "HCJ Buzău nr. 151/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 151/2019 privind aprobarea repartizării unei sume din fondul de rezervă bugetară prevăzut în bugetul propriu al județului Buzău pe anul 2019 Municipiului Râmnicu Sărat",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/Hotararea-151.pdf",
+     "sha256": "83a18ca8d7366d7bb1f64ab41b57cbb3306cd00c96bef3f9ecff4a6069846d18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-152-2019",
+   "path": "local/judet/buzau/2019/152",
+   "short": "HCJ Buzău nr. 152/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 152/2019 privind rectificarea a IV-a a bugetului propriu al județului Buzău pe anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-152.pdf",
+     "sha256": "7a61a27f3390f23ebb2a5ad5db4fd0884e4fca7cfd0ea60a31c7e3d9b3ccd330"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-153-2019",
+   "path": "local/judet/buzau/2019/153",
+   "short": "HCJ Buzău nr. 153/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 153/2019 pentru rectificarea a II-a a bugetului de venituri și cheltuieli pe anul 2019 al Centrului Școlar de Educație Incluzivă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-153.pdf",
+     "sha256": "95b539cc6ae5b4eee8081a07e4af30f6b6882103565fa64d27fe39210f242f60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-154-2019",
+   "path": "local/judet/buzau/2019/154",
+   "short": "HCJ Buzău nr. 154/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 154/2019 pentru rectificarea a III-a a bugetului de venituri și cheltuieli pe anul 2019 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-154.pdf",
+     "sha256": "b51078251e87df556359cd46ef24935014af536ca1da151e55877d505d25295f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-156-2019",
+   "path": "local/judet/buzau/2019/156",
+   "short": "HCJ Buzău nr. 156/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 156/2019 pentru rectificarea a II-a a bugetului de venituri și cheltuieli pe anul 2019 al Bibliotecii județene „V. Voiculescu” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-156.pdf",
+     "sha256": "d0849d0b84b7eedc1c0b10a25278e87071de6261f68b2418e819a1823f777b75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-157-2019",
+   "path": "local/judet/buzau/2019/157",
+   "short": "HCJ Buzău nr. 157/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 157/2019 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2019 al Societății Domenii Prest Serv SRL Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-157.pdf",
+     "sha256": "a1e10c2eecde39b6538baaa36039f60fa9d00a9b96e65993c9515f1294d5b9d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-158-2019",
+   "path": "local/judet/buzau/2019/158",
+   "short": "HCJ Buzău nr. 158/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 158/2019 pentru unele unități de cult religios recunoscute în România",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-158.pdf",
+     "sha256": "f2ff435b341781b5dcc50da36d482fc3b46a7f78537d29a69f84a06a0cef0279"
     }
    ]
   },
@@ -138,6 +798,66 @@
    ]
   },
   {
+   "slug": "hcj-buzau-162-2019",
+   "path": "local/judet/buzau/2019/162",
+   "short": "HCJ Buzău nr. 162/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 162/2019 pentru Spitalul Judeţean de Urgenţă Buzău * Modificată prin Hotărârea nr.162/2019 , Hotărârea nr.187/2019 , Hotărârea nr.211/2019 Hotărârea nr.239/2019 * Modificată prin Hotărârea nr. 11/2020 , Hotărârea nr.46 din 2020 , Hotărârea nr. 62/2020 , Hotărârea nr. 73/2020 , Hotărârea nr. 94/2020 , Hotărârea nr.112/2020, Hotărârea nr.127/2020 Hotărârea nr.145/2020 , Hotărârea nr. 176/2020 , Hotărârea nr",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-162.pdf",
+     "sha256": "042acffe8cbf02e3b34b9f0df3b43c15311a928b1fe07e91d287c17d7d136173"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-165-2019",
+   "path": "local/judet/buzau/2019/165",
+   "short": "HCJ Buzău nr. 165/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 165/2019 pentru aprobarea componenței nominale a Comisiei de evaluare a persoanelor adulte cu handicap Buzău — forma actualizată - II",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-165.pdf",
+     "sha256": "7eae086d57bb2bc56cab3dfcda909ca9e7cd9ff5a9eebf0a560a4a53aaecf594"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-166-2019",
+   "path": "local/judet/buzau/2019/166",
+   "short": "HCJ Buzău nr. 166/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 166/2019 pentru aprobarea participării unei delegații a Consiliului Județean Buzău în Republica Moldova la Festivalul Cultural al Românilor de Pretutindeni 13-16 septembrie 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H_166.pdf",
+     "sha256": "95d9aca5b71a8653c7e448ba45903764723cf02b3406fd326469711509a6481b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-167-2019",
+   "path": "local/judet/buzau/2019/167",
+   "short": "HCJ Buzău nr. 167/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 167/2019 pentru aprobarea acordării unor premii elevilor — șefi de promoție 2019 ai Școlii Militare de Maiștri Militari și Subofițeri a Forțelor Aeriene „Traian Vuia” - Boboc",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/08/H-167.pdf",
+     "sha256": "f646511b712f40f9edd46f419b560b125f2a74ab597c37412629a28e955f09f2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-168-2019",
    "path": "local/judet/buzau/2019/168",
    "short": "HCJ Buzău nr. 168/2019",
@@ -153,6 +873,201 @@
    ]
   },
   {
+   "slug": "hcj-buzau-169-2019",
+   "path": "local/judet/buzau/2019/169",
+   "short": "HCJ Buzău nr. 169/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 169/2019 privind rectificarea a V-a a bugetului propriu al județului Buzău pe anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-169.pdf",
+     "sha256": "81898d864223313c064ba688049b6adce43ad1b4584b087d2c73f5b085170d67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-171-2019",
+   "path": "local/judet/buzau/2019/171",
+   "short": "HCJ Buzău nr. 171/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 171/2019 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2019 al Centrului Județean de Resurse și Asistență Educațională Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-171.pdf",
+     "sha256": "4eaec1cc6dc43189af48a6b0d605ebe79350c7b0085546955e06d29a6af62dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-173-2019",
+   "path": "local/judet/buzau/2019/173",
+   "short": "HCJ Buzău nr. 173/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 173/2019 pentru rectificarea a III-a a bugetului de venituri și cheltuieli pe anul 2019 al Bibliotecii județene „V.Voiculescu” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-173.pdf",
+     "sha256": "8152dabfdd7da601ea19c3d6664ab6e500b3ab0a905f6171b1633585648ace38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-174-2019",
+   "path": "local/judet/buzau/2019/174",
+   "short": "HCJ Buzău nr. 174/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 174/2019 pentru rectificarea a II-a a bugetului de venituri și cheltuieli pe anul 2019 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-174.pdf",
+     "sha256": "d8fbaf3586e7abf17442802ba724abe0f6a0107f4dc51cd6ae8b456862ab2ec4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-177-2019",
+   "path": "local/judet/buzau/2019/177",
+   "short": "HCJ Buzău nr. 177/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 177/2019 pentru aprobarea alocării unei sume de la bugetul propriu al județului Buzău în vederea organizării și desfășurării unor acțiuni dedicate Zilei Naționale a României - 2019 și Sărbătorilor de iarnă Consiliul județean Buzău, Având în vedere: - referatul Președintelui Consiliului județean Buzău de inițiere a proiectului de hotărâre înregistrat la nr.13035/17.09.2019; - raportul Direcției economice în",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-177.pdf",
+     "sha256": "acf883cc5e7220fdfd2279290982855dd32a0c3069c5b1f9cab9f8c02d3f50db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-178-2019",
+   "path": "local/judet/buzau/2019/178",
+   "short": "HCJ Buzău nr. 178/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 178/2019 pentru aprobarea parteneriatului dintre",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-178.pdf",
+     "sha256": "ed9cd3f87e12960cf0e59251f265ab9903d39781752cfa07ccc32d8127356bf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-180-2019",
+   "path": "local/judet/buzau/2019/180",
+   "short": "HCJ Buzău nr. 180/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 180/2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-180.pdf",
+     "sha256": "fa39c62b852a2fbf10084bfba1563aec0cd476a8739e106dcb78a0d5011175d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-181-2019",
+   "path": "local/judet/buzau/2019/181",
+   "short": "HCJ Buzău nr. 181/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 181/2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-181.pdf",
+     "sha256": "97717f643b621e35d129b485fb6b8114add97fbdd8482ab59dfe8dfc45832093"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-182-2019",
+   "path": "local/judet/buzau/2019/182",
+   "short": "HCJ Buzău nr. 182/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 182/2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-182-1.pdf",
+     "sha256": "1630656675f9f9a01751824dcd3b2ec21f5e9413b0510a23e53e5458491f4bfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-184-2019",
+   "path": "local/judet/buzau/2019/184",
+   "short": "HCJ Buzău nr. 184/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 184/2019 pentru completarea Capitolului 5 „Planul de acțiuni al unităților administrativ-teritoriale ale județului Buzău”, punctul 5.1.84 Comuna Vintilă Vodă, la Strategia de Dezvoltare Durabilă a județului Buzău și Planul de Acțiuni 2014-2020",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-184.pdf",
+     "sha256": "14bb82d0de5ebb3c776fc3d0afe40b3eb52bb3d658d9326ff858c10ee5aef4ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-187-2019",
+   "path": "local/judet/buzau/2019/187",
+   "short": "HCJ Buzău nr. 187/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 187/2019 pentru Spitalul Judeţean de Urgenţă Buzău * Modificată prin Hotărârea nr.162/2019 , Hotărârea nr.187/2019 , Hotărârea nr.211/2019 Hotărârea nr.239/2019 * Modificată prin Hotărârea nr. 11/2020 , Hotărârea nr.46 din 2020 , Hotărârea nr. 62/2020 , Hotărârea nr. 73/2020 , Hotărârea nr. 94/2020 , Hotărârea nr.112/2020, Hotărârea nr.127/2020 Hotărârea nr.145/2020 , Hotărârea nr. 176/2020 , Hotărârea nr",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-187.pdf",
+     "sha256": "48b7e59527e16d1882198313ce3a84250a2ac2596f316e15f3c0ac64ad67a9ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-188-2019",
+   "path": "local/judet/buzau/2019/188",
+   "short": "HCJ Buzău nr. 188/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 188/2019 pentru aprobarea unei modificări în statul de funcții al Direcției Județene de Evidență a Persoanelor Buzău Consiliul județean Buzău, Având în vedere: referatul Președintelui Consiliului Județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr. 13178/18.09.2019; raportul de specialitate al Serviciului resurse umane și management unități sanitare, înregistrat la nr. 13179/18.09.2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-188.pdf",
+     "sha256": "e4fd5480ffdc0867c4d19cc4f59e1ec0264446fa0bf198e1e38f02efc4d7315b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-189-2019",
+   "path": "local/judet/buzau/2019/189",
+   "short": "HCJ Buzău nr. 189/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 189/2019 pentru aparatul de specialitate al Consiliului Județean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-189-1.pdf",
+     "sha256": "5abce2b65d9ae9ec12e2257e06e6f1ca7e922a378128ae64291a2dd1580985dd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-19-2019",
    "path": "local/judet/buzau/2019/19",
    "short": "HCJ Buzău nr. 19/2019",
@@ -164,6 +1079,51 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/02/Hot%C4%83r%C3%A2rea-nr.19.pdf",
      "sha256": "51e94644d6294b3c531818db15b397077b0aa7a90efb0ce5b7fc57e736e9a343"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-190-2019",
+   "path": "local/judet/buzau/2019/190",
+   "short": "HCJ Buzău nr. 190/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 190/2019 privind aprobarea unor modificări în organigrama și statul de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/09/H-190.pdf",
+     "sha256": "1d2205f0d1b24cf449902ade78f2e2645e867d7fca41afb28223befbc83ca4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-193-2019",
+   "path": "local/judet/buzau/2019/193",
+   "short": "HCJ Buzău nr. 193/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 193/2019 pentru aprobarea valorii investițiilor aferente Județului Buzău și participării Consiliului Județean Buzău la cofinanțarea „Proiectului Regional de dezvoltare a infrastructurii de apă și apă uzată din Județul Buzău în perioada 2014-2020”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-03",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-193.pdf",
+     "sha256": "fdf07391d8c21ab4585517788b673cfb1f03888ae939a1ca17152cf4c4d7a3cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-196-2019",
+   "path": "local/judet/buzau/2019/196",
+   "short": "HCJ Buzău nr. 196/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 196/2019 privind aprobarea utilizării în anul 2019 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea exercițiului bugetar la 31 decembrie 2018 - formă actualizată 2",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-196.pdf",
+     "sha256": "15bc84ff6327e0aef0bc6612ec85752922a07de9dc7788eeb419e49a90fd78f8"
     }
    ]
   },
@@ -198,6 +1158,111 @@
    ]
   },
   {
+   "slug": "hcj-buzau-200-2019",
+   "path": "local/judet/buzau/2019/200",
+   "short": "HCJ Buzău nr. 200/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 200/2019 privind rectificarea a III-a a bugetului propriu al județului Buzău pe anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/07/H-131.pdf",
+     "sha256": "bbb7ddada1608266c4418d1edcf36f7c35e944eec338b872dbf2c0419c3cf113"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-201-2019",
+   "path": "local/judet/buzau/2019/201",
+   "short": "HCJ Buzău nr. 201/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 201/2019 pentru rectificarea a III-a a bugetului de venituri și cheltuieli pe anul 2019 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-201.pdf",
+     "sha256": "19190b3a253771ca2e882ec6dc085e0ef28a89884cce0ec3f9c128cbbe14b08b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-202-2019",
+   "path": "local/judet/buzau/2019/202",
+   "short": "HCJ Buzău nr. 202/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 202/2019 pentru Județul Buzău, a soldului la contractul de credit nr. 522897/2014",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-202.pdf",
+     "sha256": "17850a8d636114aca53c2ba14e9f590332aeca2dc8ed8b761dfe70940c06b868"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-203-2019",
+   "path": "local/judet/buzau/2019/203",
+   "short": "HCJ Buzău nr. 203/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 203/2019 pentru realizarea unui proiect cultural",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-203.pdf",
+     "sha256": "042d44caf56952643b88e93f59c393b9a6ce3b27b663f52d89976c0ebb755a92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-204-2019",
+   "path": "local/judet/buzau/2019/204",
+   "short": "HCJ Buzău nr. 204/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 204/2019 pentru aprobarea participării Consiliului Județean Buzău la proiectul inițiat de Asociația „Forum Art” — „Școala Internațională de Sculptură Măgura, Județul Buzău, ediții anuale”",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-204.pdf",
+     "sha256": "f38456148d137cefe742585b9a516fc12eba5cf3afccaf1ec863c03482306c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-207-2019",
+   "path": "local/judet/buzau/2019/207",
+   "short": "HCJ Buzău nr. 207/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 207/2019 privind darea în administrarea Consiliului Local al comunei Berca a suprafeței de teren în lungime de 2 km. din DJ 102F, situat în intravilanul comunei Berca",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-207.pdf",
+     "sha256": "01f469696a58a2039fcda044834bab659b77ab3a013f59c779c056775ee7852b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-209-2019",
+   "path": "local/judet/buzau/2019/209",
+   "short": "HCJ Buzău nr. 209/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 209/2019 pentru anul 2017 * Încetat aplicabilitatea prin Hotărârea nr.209/2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-209.pdf",
+     "sha256": "7b09122e2c2059b451da4d356070bc6fa3bff586f3d408d0a5c3e5775192e7ba"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-21-2019",
    "path": "local/judet/buzau/2019/21",
    "short": "HCJ Buzău nr. 21/2019",
@@ -209,6 +1274,96 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/02/Hot%C4%83r%C3%A2rea-nr.21.pdf",
      "sha256": "e9cca0eafa0310c86d3c0ce9e6aa902266c9eb38b3bf4d45c36133adea384d72"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-210-2019",
+   "path": "local/judet/buzau/2019/210",
+   "short": "HCJ Buzău nr. 210/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 210/2019 privind organizarea serviciului de pază și a regimului de acces în unitatea sanitară publică cu paturi – Spitalul Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-210.pdf",
+     "sha256": "e3aef8430f9ea93c5953a0861ec05c8f0f01959040c4cdfd1d237ae3e26e7840"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-211-2019",
+   "path": "local/judet/buzau/2019/211",
+   "short": "HCJ Buzău nr. 211/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 211/2019 pentru Spitalul Judeţean de Urgenţă Buzău * Modificată prin Hotărârea nr.162/2019 , Hotărârea nr.187/2019 , Hotărârea nr.211/2019 Hotărârea nr.239/2019 * Modificată prin Hotărârea nr. 11/2020 , Hotărârea nr.46 din 2020 , Hotărârea nr. 62/2020 , Hotărârea nr. 73/2020 , Hotărârea nr. 94/2020 , Hotărârea nr.112/2020, Hotărârea nr.127/2020 Hotărârea nr.145/2020 , Hotărârea nr. 176/2020 , Hotărârea nr",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-211.pdf",
+     "sha256": "027ad777a26afd93df679d748f0eaf223a057b26e8d07d3cd6218311c9a1a0b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-212-2019",
+   "path": "local/judet/buzau/2019/212",
+   "short": "HCJ Buzău nr. 212/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 212/2019 pentru aparatul de specialitate al Consiliului Judeţean Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-212.pdf",
+     "sha256": "9d4596fbd1b85055bb497bbe0ca0daf9b5e063880d28d2564db8690927947df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-213-2019",
+   "path": "local/judet/buzau/2019/213",
+   "short": "HCJ Buzău nr. 213/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 213/2019 pentru aprobarea modificării nivelului unui post din statul de funcții al Centrului Județean de Cultură și Artă Buzău Consiliul județean Buzău, Având în vedere: - referatul Președintelui Consiliului județean Buzău de inițiere a proiectului de hotărâre, înregistrat la nr. 15169/24.10.2019; - raportul Serviciului resurse umane și management unități sanitare, înregistrat la nr.15170/24.10.2019; - avi",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-213.pdf",
+     "sha256": "431110e3b78aa8b3cc26dd6e8c27c654844bcab05b226023e99e66c8ce544be2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-214-2019",
+   "path": "local/judet/buzau/2019/214",
+   "short": "HCJ Buzău nr. 214/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 214/2019 privind aprobarea unor modificări în statul de funcții al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-214.pdf",
+     "sha256": "c1573c2262fedb5662c2ec4c65db2eec72de75d25b844cf89eba465b2e43dce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-217-2019",
+   "path": "local/judet/buzau/2019/217",
+   "short": "HCJ Buzău nr. 217/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 217/2019 privind aprobarea trecerii din domeniul public în domeniul privat a unor construcții - anexe la imobilul proprietate publică a județului Buzău situat în municipiul Buzău, Str",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-217.pdf",
+     "sha256": "6dbba88f96fe08e661f53d1f4e475dbbd857b4fb40145e6cb9218bf19bf3c3c6"
     }
    ]
   },
@@ -303,6 +1458,171 @@
    ]
   },
   {
+   "slug": "hcj-buzau-223-2019",
+   "path": "local/judet/buzau/2019/223",
+   "short": "HCJ Buzău nr. 223/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 223/2019 privind aprobarea utilizării în anul 2019 a excedentului anual al bugetului propriu al județului Buzău rezultat la încheierea În exercițiului bugetar la 31 decembrie 2018 - formă actualizată 3",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-223.pdf",
+     "sha256": "1f2aa6a1403fc783485b8010357138a0def3c6dd3dbb79ab5da4e78d65c63e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-224-2019",
+   "path": "local/judet/buzau/2019/224",
+   "short": "HCJ Buzău nr. 224/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 224/2019 privind rectificarea a VII-a a bugetului propriu al județului Buzău pe anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-224.pdf",
+     "sha256": "e6a05adcab499d8f9b0ac554ea30bb128bf3f152a0c6cccbf26336be7926e7de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-226-2019",
+   "path": "local/judet/buzau/2019/226",
+   "short": "HCJ Buzău nr. 226/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 226/2019 pentru Copii cu Deficiențe Auditive Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-226.pdf",
+     "sha256": "a67f774f10abc54a5c649f300261c2e0b869ae3bfcf6112fa0ed9768be24f707"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-230-2019",
+   "path": "local/judet/buzau/2019/230",
+   "short": "HCJ Buzău nr. 230/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 230/2019 pentru rectificarea a IV-a a bugetului de venituri și cheltuieli pe anul 2019 al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-230.pdf",
+     "sha256": "ed7e4ff2f7168692183423a76d9c83a7a56bacc93f0f0f10c19b80e2238405d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-232-2019",
+   "path": "local/judet/buzau/2019/232",
+   "short": "HCJ Buzău nr. 232/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 232/2019 pentru rectificarea a V-a a bugetului de venituri și cheltuieli pe anul 2019 al Spitalului Județean de Urgență Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-232.pdf",
+     "sha256": "4dbe1e63f70d111f46ddc6deae706dc7df33003de95dd0fc1b83327241a8c4b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-233-2019",
+   "path": "local/judet/buzau/2019/233",
+   "short": "HCJ Buzău nr. 233/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 233/2019 pentru unele unități de cult religios recunoscute în România",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-233.pdf",
+     "sha256": "1400f7228bc395767f586ffbdecad37d7b7c5c310b6cba6e2d5f6c5159b2a03a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-234-2019",
+   "path": "local/judet/buzau/2019/234",
+   "short": "HCJ Buzău nr. 234/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 234/2019 pentru aprobarea Programului anual al finanțărilor nerambursabile acordate de la bugetul propriu al Județului Buzău pentru anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-234.pdf",
+     "sha256": "5e46e239ee5d70ba106da0a7deef38d1abac425acb5dba316471f16dfd5c60a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-236-2019",
+   "path": "local/judet/buzau/2019/236",
+   "short": "HCJ Buzău nr. 236/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 236/2019 pentru anul fiscal 2020 la nivelul Judeţului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/12/H-236.pdf",
+     "sha256": "bccd4d18a51b25bbc784c46329927013b5a996113dcd9944544efa120bba6481"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-237-2019",
+   "path": "local/judet/buzau/2019/237",
+   "short": "HCJ Buzău nr. 237/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 237/2019 pentru aprobarea documentației tehnico-economice – Studiu de fezabilitate pentru „Proiectul Regional de Dezvoltare a infrastructurii de apă și apă uzată din Județul Buzău în perioada 2014-2020” și a indicatorilor tehnico-economici aferenți * Abrogată prin Hotărârea nr. 212 din 2022",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-237.pdf",
+     "sha256": "a28f56fd6123625d97a51a4341ff572344cd25f8f44118bf72bdfd5c0d3317d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-238-2019",
+   "path": "local/judet/buzau/2019/238",
+   "short": "HCJ Buzău nr. 238/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 238/2019 pentru aprobarea documentației tehnico-economice, faza Proiect Tehnic și reaprobare a indicatorilor tehnico- economici ai obiectivului de investiții „Modernizare DJ 204C, km. 60+000-84+ 500, Limită Județ Vrancea — Bisoca - Sărulești — Vintilă Vodă, județul Buzău\" finanțat prin Programul Național de Dezvoltare Locală",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-238.pdf",
+     "sha256": "6b52069ffb774ef6492e11b7ac7e8539563537de5261861a66943f2b9fae316b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-239-2019",
+   "path": "local/judet/buzau/2019/239",
+   "short": "HCJ Buzău nr. 239/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 239/2019 pentru Spitalul Judeţean de Urgenţă Buzău * Modificată prin Hotărârea nr.162/2019 , Hotărârea nr.187/2019 , Hotărârea nr.211/2019 Hotărârea nr.239/2019 * Modificată prin Hotărârea nr. 11/2020 , Hotărârea nr.46 din 2020 , Hotărârea nr. 62/2020 , Hotărârea nr. 73/2020 , Hotărârea nr. 94/2020 , Hotărârea nr.112/2020, Hotărârea nr.127/2020 Hotărârea nr.145/2020 , Hotărârea nr. 176/2020 , Hotărârea nr",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-239.pdf",
+     "sha256": "f42cdcff35583d037cea7d5e70e380d5e7857cca2f22e08efc35dadb8cff47f7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-24-2019",
    "path": "local/judet/buzau/2019/24",
    "short": "HCJ Buzău nr. 24/2019",
@@ -314,6 +1634,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/03/Hot%C4%83r%C3%A2rea-nr.24-din-2019.pdf",
      "sha256": "d11a3642b13e1ce78a3c58700265fe083e859f955405d4103f4adfd731419fc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-240-2019",
+   "path": "local/judet/buzau/2019/240",
+   "short": "HCJ Buzău nr. 240/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 240/2019 pentru aprobarea modificării nivelului unui post din statul de funcții al Teatrului „George Ciprian” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-240.pdf",
+     "sha256": "e8e39fd11cfe4c2963e4a8af2301c5cf0e808bafc19d44e491b4bcb88fcbf357"
     }
    ]
   },
@@ -603,6 +1938,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-329-2019",
+   "path": "local/judet/buzau/2019/329",
+   "short": "HCJ Buzău nr. 329/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 329/2019 privind rectificarea a VI-a a bugetului propriu al județului Buzău pe anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-22",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/10/H-197.pdf",
+     "sha256": "c31369638035e3458e0aa32638e191e05778a958b2d495d52d3e82ce7c2c7a8e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-33-2019",
    "path": "local/judet/buzau/2019/33",
    "short": "HCJ Buzău nr. 33/2019",
@@ -629,6 +1979,51 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/03/Hot%C4%83r%C3%A2rea-nr.34.pdf",
      "sha256": "e8bae87f3f5c5a818bc4b620eacc324629c87831ce992d4b599d2a5c0a026a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-340-2019",
+   "path": "local/judet/buzau/2019/340",
+   "short": "HCJ Buzău nr. 340/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 340/2019 pentru rectificarea a II-a a bugetului de venituri și cheltuieli pe anul 2019 al Centrului Județean de Cultură și Artă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-229.pdf",
+     "sha256": "5c75d0ccf65ddec6155c52761635c5180903ed28d5d340283e57d87ec2160223"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-349-2019",
+   "path": "local/judet/buzau/2019/349",
+   "short": "HCJ Buzău nr. 349/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 349/2019 pentru rectificarea a IV-a a bugetului de venituri și cheltuieli pe anul 2019 al Direcției Generale de Asistență Socială și Protecția Copilului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-231.pdf",
+     "sha256": "e692c28bfc9b97fbbc1111084cab74b19fcafd6d8c6be3a55baa4955e619d3fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-353-2019",
+   "path": "local/judet/buzau/2019/353",
+   "short": "HCJ Buzău nr. 353/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 353/2019 pentru rectificarea a IV-a a bugetului de venituri și cheltuieli pe anul 2019 al Bibliotecii județene „V.Voiculescu” Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-11-11",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/11/H-228.pdf",
+     "sha256": "c4e904d8e9ba80d9e62a2bb557cec80c10cdd34d8257bf1a1e5f2817d17963ae"
     }
    ]
   },
@@ -1274,6 +2669,186 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/Hot%C4%83r%C3%A2rea-nr.85-din-2019.pdf",
      "sha256": "2272749bb55b273012a7085465f802ef51e83cef2554996e00c3de828be273a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-86-2019",
+   "path": "local/judet/buzau/2019/86",
+   "short": "HCJ Buzău nr. 86/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 86/2019 privind aprobarea contului de execuție a exercițiului bugetar al județului Buzău pe anul 2018",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-86.pdf",
+     "sha256": "e4e981bfb71ed29839c7de4b614654a9cc399a98c81a31fb19c9edb30a859a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-87-2019",
+   "path": "local/judet/buzau/2019/87",
+   "short": "HCJ Buzău nr. 87/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 87/2019 privind rectificarea I a bugetului propriu al județului Buzău pe anul 2019",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-87.pdf",
+     "sha256": "b6362ee5fa46baec2327e867551710a32d797ef968d9fda70cc792501ef289c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-88-2019",
+   "path": "local/judet/buzau/2019/88",
+   "short": "HCJ Buzău nr. 88/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 88/2019 pentru rectificarea I a bugetului de venituri și cheltuieli pe anul 2019 al Centrului Școlar de Educație Incluzivă Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-88.pdf",
+     "sha256": "d14c3b59fb53864ac0eb0456fcbd472fdcf346b6832c0c6f71c37b4a1ec878b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-89-2019",
+   "path": "local/judet/buzau/2019/89",
+   "short": "HCJ Buzău nr. 89/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 89/2019 pentru Deficienţi de Vedere Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-89.pdf",
+     "sha256": "9950760b3118b2352507ecb89e398597a67e49567a25d2340cf12cfc7b851317"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-91-2019",
+   "path": "local/judet/buzau/2019/91",
+   "short": "HCJ Buzău nr. 91/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 91/2019 pentru unele unităţi de cult religios recunoscute în România",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-91.pdf",
+     "sha256": "15c16737279ecbd101f38f75d6d2889c4899ff2044c0bdd5032292dc9a2a762f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-92-2019",
+   "path": "local/judet/buzau/2019/92",
+   "short": "HCJ Buzău nr. 92/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 92/2019 privind completarea Secțiunii I din Inventarul bunurilor care aparțin domeniului public al județului Buzău",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/06/H-92-1-1.pdf",
+     "sha256": "59ecaedda96eedecfdc846479f990bc5b89ae5b808d49ce1b37d3ebc77709c77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-93-2019",
+   "path": "local/judet/buzau/2019/93",
+   "short": "HCJ Buzău nr. 93/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 93/2019 pentru aprobarea închirierii imobilului proprietate publică a Județului Buzău, administrat de",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-93.pdf",
+     "sha256": "77df1f38fe6a251dee247952f6c2a2f585edfd463f4f0021560e8b01d6142fb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-95-2019",
+   "path": "local/judet/buzau/2019/95",
+   "short": "HCJ Buzău nr. 95/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 95/2019 pentru aprobarea continuării cofinanțării de către",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-95.pdf",
+     "sha256": "2d5e24f95e6d99ccacf71d87f28f3e22ae8adc27a79e0490d51b9e1ac477fa85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-96-2019",
+   "path": "local/judet/buzau/2019/96",
+   "short": "HCJ Buzău nr. 96/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 96/2019 pentru reabilitarea Cimitirului Ostașilor Români",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-96.pdf",
+     "sha256": "56bf377a127203d0ae32b3f25dde469dc0c7e07ee78b7823d58c9de44a8a6d32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-97-2019",
+   "path": "local/judet/buzau/2019/97",
+   "short": "HCJ Buzău nr. 97/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 97/2019 pentru activități de asistență socială, conform Legii nr. 34/1998",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-97.pdf",
+     "sha256": "da1f188a3d0f78dd692dd806cfe6dae0dc5205368f6842d6551de0cd1d1d3563"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-98-2019",
+   "path": "local/judet/buzau/2019/98",
+   "short": "HCJ Buzău nr. 98/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 98/2019 pentru organizarea unor evenimente omagiale precum și aprobarea participării Consiliului Județean Buzău la Sărbătorirea Centenarului Armei TANC a Armatei Române",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-98.pdf",
+     "sha256": "ad8857834fc617b1c7f498fcf67238bd78fe1019ca25af525ba515882a17a742"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-99-2019",
+   "path": "local/judet/buzau/2019/99",
+   "short": "HCJ Buzău nr. 99/2019",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 99/2019 pentru aprobarea acordării anual de către",
+   "url": "http://cjbuzau.ro/hotarari-cj-2019/",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2019/05/H-99.pdf",
+     "sha256": "aca6d16ec7f8467aa91cde7d0b01b07bd22bbcf0c3bc32cb2addfa55ec5460b8"
     }
    ]
   }

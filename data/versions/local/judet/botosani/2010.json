@@ -1008,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-37-2010",
+   "path": "local/judet/botosani/2010/37",
+   "short": "HCJ Botoșani nr. 37/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 37/2010 privind aprobarea contului anual de executie a utilizarii fondului de rulment, la 31 decembrie 2009",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2010-03-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h037_04.03.2010.pdf",
+     "sha256": "f3005e0462325f65282a15f03e299f53ae2ed5d788d50684030f65a18c348ff6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-4-2010",
    "path": "local/judet/botosani/2010/4",
    "short": "HCJ Botoșani nr. 4/2010",
@@ -1349,6 +1364,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h072_29.04.2009.pdf",
      "sha256": "e691d5b834fa980fe7906f48098b2fcc2e808f8e0f587eb9f9176d510ed657cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-727-2010",
+   "path": "local/judet/botosani/2010/727",
+   "short": "HCJ Botoșani nr. 727/2010",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 727/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h127_27.09.2010.pdf",
+     "sha256": "5d5cb7d49c7b450c79470e991888f3a9f4fb506ffb14e513fe8f9f61cbb3b9b2"
     }
    ]
   },

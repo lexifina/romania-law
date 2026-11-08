@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/judet/ilfov/2023",
+"acts": [
+{
+"slug": "hcj-ilfov-2-2023",
+"path": "local/judet/ilfov/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 2/2023 privind revocarea dreptului de folosință gratuită al Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor lfov pentru imobilul deținut conform Hotărârii Consiliului Județean Ilfov nr. 122/09.10.2018",
+"short": "HCJ Ilfov nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2023/",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-25-2023",
+"path": "local/judet/ilfov/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 25/2023 pentru modificarea Hotărârii Consiliului Județean Hfov nr.77/2022, privind aprobarea contractării unei finanțări rambursabile interne/externe pentru asigurarea finanțării unor obiective de investiții de interes public",
+"short": "HCJ Ilfov nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2023/",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-70-2023",
+"path": "local/judet/ilfov/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 70/2023 pentru modificarea și completarea Hotărârii Consiliului Județean Ilfov nr. 130/2020 privind validarea desemnării nominale a membrilor Autorității Teritoriale de Ordine Publică a Județului Ilfov pentru mandatul 2020-2024",
+"short": "HCJ Ilfov nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2023/",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-74-2023",
+"path": "local/judet/ilfov/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 74/2023 pentru modificarea Hotărârii Consiliului Județean Ilfov nr. 5/2021 privind desemnarea unui reprezentant al județului llfov prin Consiliul Județean Ilfov în Adunarea Generală a Asociației \"Măgurele Science Park”",
+"short": "HCJ Ilfov nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2023/",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-ilfov-270-2023",
+"path": "local/judet/ilfov/2023/270",
+"kind": "local",
+"year": "2023",
+"number": "270",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Ilfov nr. 270/2023 privind retransmiterea unui sector de drum solicitat prin Hotărârea Consiliului Județean Ilfov nr. 27/2022, aflat în domeniul public ai comunei Găneasa, din administrarea Consiliului Județean Ilfov în administrarea Consiliului Local Găneasa",
+"short": "HCJ Ilfov nr. 270/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-01",
+"latest": "2023-10-01",
+"portal": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2023/",
+"council": "judet/ilfov",
+"council_name": "Consiliul Județean Ilfov",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

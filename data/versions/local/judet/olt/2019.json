@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-131-2019",
+   "path": "local/judet/olt/2019/131",
+   "short": "HCJ Olt nr. 131/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 131/2019 cu privire la aprobarea cererii Consiliului Local al municipiului Slatina privind solicitarea de transmitere din domeniul public al judetului Olt si din administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului, in domeniul public al municipiului Slatina, a unor parti de imobil Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10326.pdf",
+     "sha256": "71c1d55af57bf085fceca27a82d92aa843c76d77771ccc2d92fcdea572701d97"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-132-2019",
    "path": "local/judet/olt/2019/132",
    "short": "HCJ Olt nr. 132/2019",
@@ -1113,6 +1128,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-76-2019",
+   "path": "local/judet/olt/2019/76",
+   "short": "HCJ Olt nr. 76/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 76/2019 cu privire la aprobarea Programului de ocupare temporara a fortei de munca din randul somerilor pentru anul 2019 si imputernicire Presedinte al Consiliului Judetean Olt Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9886.pdf",
+     "sha256": "daca7eaabedd01f3efedae88a9c79bfc524e9453536ca1d053996b14cb9808de"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-78-2019",
    "path": "local/judet/olt/2019/78",
    "short": "HCJ Olt nr. 78/2019",
@@ -1259,6 +1289,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/10206.pdf",
      "sha256": "961e6019d1dbce29c70acdc2bf05899dc7ab5b9d913722c32111487a17d13293"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-95-2019",
+   "path": "local/judet/olt/2019/95",
+   "short": "HCJ Olt nr. 95/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 95/2019 pentru modificarea Hotararii Consiliului Judetean Olt nr. 220 din 20.12.2018 cu privire la aprobarea proiectului “Centru de zi pentru persoane varstnice Vitomiresti”, a cheltuielilor legate de proiect si a indicatorilor tehnico-economici aferenti Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10208.pdf",
+     "sha256": "36b2a8fc5bbc3dd5c952e2e6b777e349d92ec2db8df2a5c3bb914360b452be1c"
     }
    ]
   },

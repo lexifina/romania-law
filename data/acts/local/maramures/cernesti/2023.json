@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-maramures--cernesti-9-2023",
+"path": "local/maramures/cernesti/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 9/2023 privind aprobarea conferirii Titlului de cetățean de onoare a Comunei Cernești",
+"short": "HCL Cernești nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/92563",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--cernesti-10-2023",
 "path": "local/maramures/cernesti/2023/10",
 "kind": "local",
@@ -242,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-13-2023",
+"path": "local/maramures/cernesti/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 13/2023 privind aprobarea vânzării de material lemnos prin licitație",
+"short": "HCL Cernești nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/92567",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -443,6 +487,28 @@
 }
 },
 {
+"slug": "hcl-maramures--cernesti-23-2023",
+"path": "local/maramures/cernesti/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 23/2023 privind aprobarea cofinanțării pentru cadastrare imobile situate în intravilan, prin Programul Național de Cadastru și Carte Funciară",
+"short": "HCL Cernești nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-14",
+"latest": "2023-06-14",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/105393",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--cernesti-24-2023",
 "path": "local/maramures/cernesti/2023/24",
 "kind": "local",
@@ -594,6 +660,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-31-2023",
+"path": "local/maramures/cernesti/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 31/2023 privind aprobarea vânzării unui buldoexcavator prin licitație publică cu strigare",
+"short": "HCL Cernești nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/114002",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

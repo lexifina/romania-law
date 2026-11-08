@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-7-2022",
+"path": "local/maramures/asuaju-de-sus/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 7/2022 privind desemnarea unui reprezentant al cl Asuaju de Sus care va avea calitatea de membru în comisia de evaluare a probei de interviu în cadrul concursului pentru ocuparea funcției de director din unitatea învățământ preuniversitar de stat Asuaju de Sus și a unui membru supleant",
+"short": "HCL Asuaju de Sus nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-23",
+"latest": "2022-02-23",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/120484",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-8-2022",
 "path": "local/maramures/asuaju-de-sus/2022/8",
 "kind": "local",

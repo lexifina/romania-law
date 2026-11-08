@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-13-2023",
+   "path": "local/maramures/cernesti/2023/13",
+   "short": "HCL Cernești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 13/2023 privind aprobarea vânzării de material lemnos prin licitație",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/92567",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/92567",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-14-2023",
    "path": "local/maramures/cernesti/2023/14",
    "short": "HCL Cernești nr. 14/2023",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-23-2023",
+   "path": "local/maramures/cernesti/2023/23",
+   "short": "HCL Cernești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 23/2023 privind aprobarea cofinanțării pentru cadastrare imobile situate în intravilan, prin Programul Național de Cadastru și Carte Funciară",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/105393",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/105393",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-24-2023",
    "path": "local/maramures/cernesti/2023/24",
    "short": "HCL Cernești nr. 24/2023",
@@ -328,6 +358,21 @@
      "from": "2023-08-09",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/114001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-31-2023",
+   "path": "local/maramures/cernesti/2023/31",
+   "short": "HCL Cernești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 31/2023 privind aprobarea vânzării unui buldoexcavator prin licitație publică cu strigare",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/114002",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/114002",
      "sha256": null
     }
    ]
@@ -823,6 +868,21 @@
      "from": "2023-03-09",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/92562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-9-2023",
+   "path": "local/maramures/cernesti/2023/9",
+   "short": "HCL Cernești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 9/2023 privind aprobarea conferirii Titlului de cetățean de onoare a Comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/92563",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/92563",
      "sha256": null
     }
    ]

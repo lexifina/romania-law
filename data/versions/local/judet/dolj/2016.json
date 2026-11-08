@@ -3,6 +3,21 @@
  "shard": "local/judet/dolj/2016",
  "acts": [
   {
+   "slug": "hcj-dolj-1088-2016",
+   "path": "local/judet/dolj/2016/1088",
+   "short": "HCJ Dolj nr. 1088/2016",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1088/2016 privind aprobarea modificării statului de funcții pentru Direcția Publică Comunitară de Evidență a Persoanelor Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2016-00001496",
+   "versions": [
+    {
+     "from": "2016-01-19",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%2028.pdf",
+     "sha256": "746e770699e046827fb5137d6a6b15122444216dbfa3cfa2ccc8736aed1923fa"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-109-2016",
    "path": "local/judet/dolj/2016/109",
    "short": "HCJ Dolj nr. 109/2016",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%20109.pdf",
      "sha256": "c91665f580d1493c8817b92d2b02ec3dc1f42f1726dc37bbf2d57529d1a36bfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-1093-2016",
+   "path": "local/judet/dolj/2016/1093",
+   "short": "HCJ Dolj nr. 1093/2016",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1093/2016 privind aprobarea modificării regulamentului de organizare și funcționare pentru Clubul Sportiv Județean Știința “U” Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2016-00001496",
+   "versions": [
+    {
+     "from": "2016-01-19",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%2029.pdf",
+     "sha256": "7a50003bd645a1f3375f9a691fd202c90e49a70969690430520b75dee02cc80f"
     }
    ]
   },
@@ -303,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcj-dolj-2247-2016",
+   "path": "local/judet/dolj/2016/2247",
+   "short": "HCJ Dolj nr. 2247/2016",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2247/2016 privind aprobarea modificării statului de funcții pentru Biblioteca Județeană “Alexandru și Aristia Aman”",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2016-00001496",
+   "versions": [
+    {
+     "from": "2016-02-05",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%2049.pdf",
+     "sha256": "a02061e0da47c0fbee5c463b4be915400784d36a72d6e69f5075b50cfb671cff"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-239-2016",
    "path": "local/judet/dolj/2016/239",
    "short": "HCJ Dolj nr. 239/2016",
@@ -314,6 +359,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%20239.pdf",
      "sha256": "a2af6e9526ff575aba48724d243b6f7b157adfa3a180699c112ff4c6f4e9f0b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2753-2016",
+   "path": "local/judet/dolj/2016/2753",
+   "short": "HCJ Dolj nr. 2753/2016",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2753/2016 privind aprobarea modificării statului de funcții pentru Spitalul de Pneumoftiziologie Leamna",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2016-00001496",
+   "versions": [
+    {
+     "from": "2016-02-11",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%2048.pdf",
+     "sha256": "d9c98b08cc385806b654ab6c8c66dadd0386398a8ae34d3c2c8e42deb213f714"
     }
    ]
   },
@@ -378,6 +438,36 @@
    ]
   },
   {
+   "slug": "hcj-dolj-346-2016",
+   "path": "local/judet/dolj/2016/346",
+   "short": "HCJ Dolj nr. 346/2016",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 346/2016 privind rectificarea bugetului de venituri și cheltuieli al Centrului Județean pentru Protecția Naturii, Turism și Dezvoltare Rurală Durabilă Dolj, pentru perioada 15.09.2016 — 31.12.2016",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2016-00001496",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%20326.pdf",
+     "sha256": "3e2230d232526e0cd5981ddda31e213010275b78c62c626a3c1be23913ad93eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-44-2016",
+   "path": "local/judet/dolj/2016/44",
+   "short": "HCJ Dolj nr. 44/2016",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 44/2016 privind aprobarea bugetului de venituri și cheltuieli al fondurilor externe nerambursabile primite de Școala Gimnazială Specială „Sf. Mina”, pe anul 2016",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2016-00001496",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%20141.pdf",
+     "sha256": "3fd0700c76328395eec719409fa365ee8a79d1312c976f5c68a251a4999950a7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-51-2016",
    "path": "local/judet/dolj/2016/51",
    "short": "HCJ Dolj nr. 51/2016",
@@ -404,6 +494,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%2058.pdf",
      "sha256": "9d4f4ebb0131503501ae17aa3af13a7c5e4afb9f8c6816a754dc7a1ff38e616d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-815-2016",
+   "path": "local/judet/dolj/2016/815",
+   "short": "HCJ Dolj nr. 815/2016",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 815/2016",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2016-00001496",
+   "versions": [
+    {
+     "from": "2016-01-14",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202016/Hotararea%2024.pdf",
+     "sha256": "eab146f4efa448b845db5335de34a6d1c12b27fe5b148459a9bfb178ddfd148f"
     }
    ]
   },

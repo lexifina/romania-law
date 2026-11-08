@@ -802,6 +802,28 @@
 }
 },
 {
+"slug": "hcj-botosani-47-2017",
+"path": "local/judet/botosani/2017/47",
+"kind": "local",
+"year": "2017",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 47/2017",
+"short": "HCJ Botoșani nr. 47/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-05-26",
+"latest": "2017-05-26",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-botosani-48-2017",
 "path": "local/judet/botosani/2017/48",
 "kind": "local",

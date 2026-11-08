@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/judet/bihor/2018",
+"acts": [
+{
+"slug": "hcj-bihor-15-2018",
+"path": "local/judet/bihor/2018/15",
+"kind": "local",
+"year": "2018",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 15/2018",
+"short": "HCJ Bihor nr. 15/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": null,
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-bihor-16-2018",
+"path": "local/judet/bihor/2018/16",
+"kind": "local",
+"year": "2018",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 16/2018 privind eliberarea unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale pentru SC Autoros ABC SRL, pe traseul Săcueni – Oradea ( SC Reropam SRL)",
+"short": "HCJ Bihor nr. 16/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2018/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-17-2018",
+"path": "local/judet/bihor/2018/17",
+"kind": "local",
+"year": "2018",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 17/2018 privind eliberarea unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale pentru SC Acular Com SRL, pe traseul Oradea (Complex Peţa) – Borş (SC Celestica România SRL )",
+"short": "HCJ Bihor nr. 17/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2018/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-18-2018",
+"path": "local/judet/bihor/2018/18",
+"kind": "local",
+"year": "2018",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 18/2018 privind eliberarea unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale pentru SC Acular Com SRL, pe traseul Oradea (Str. Transilvaniei) – Borş (SC Celestica România SRL )",
+"short": "HCJ Bihor nr. 18/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2018/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-19-2018",
+"path": "local/judet/bihor/2018/19",
+"kind": "local",
+"year": "2018",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 19/2018 privind eliberarea unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale pentru SC Acular Com SRL, pe traseul Oradea (Calea Clujului) – Borş (SC Celestica România SRL )",
+"short": "HCJ Bihor nr. 19/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2018/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-20-2018",
+"path": "local/judet/bihor/2018/20",
+"kind": "local",
+"year": "2018",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 20/2018 privind eliberarea unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale pentru SC Acular Com SRL, pe traseul Oradea (P-ţa Nucetului) – Borş (SC Celestica România SRL )",
+"short": "HCJ Bihor nr. 20/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2018/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-21-2018",
+"path": "local/judet/bihor/2018/21",
+"kind": "local",
+"year": "2018",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 21/2018 privind eliberarea unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale pentru SC Fazati Trans SRL, pe traseul Săcueni – Oradea (SC Connectronics România SRL )",
+"short": "HCJ Bihor nr. 21/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2018/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-bihor-188-2018",
+"path": "local/judet/bihor/2018/188",
+"kind": "local",
+"year": "2018",
+"number": "188",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 188/2018 pentru modificarea Hotararii Consiliului Judetean Bihor nr. 131 din 2018",
+"short": "HCJ Bihor nr. 188/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-23",
+"latest": "2018-10-23",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2018/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1158,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-210-2024",
+   "path": "local/judet/botosani/2024/210",
+   "short": "HCJ Botoșani nr. 210/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 210/2024 privind rectificarea bugetului propriu județean, aprobat pe anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H210_20241209.pdf",
+     "sha256": "f4e20be80d82a063e81d502194d05c94acd1cbb5031409f5f08d274078ac7dcd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-213-2024",
    "path": "local/judet/botosani/2024/213",
    "short": "HCJ Botoșani nr. 213/2024",

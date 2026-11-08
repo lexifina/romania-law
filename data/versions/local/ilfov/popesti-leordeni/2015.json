@@ -1,0 +1,1506 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/popesti-leordeni/2015",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-100-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/100",
+   "short": "HCL Popești-Leordeni nr. 100/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 100/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/100",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_100.pdf",
+     "sha256": "6a407169d83043785e321c1a967cafbe8f95c7ef2b6bf783f892cdd5ddbd7b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-101-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/101",
+   "short": "HCL Popești-Leordeni nr. 101/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 101/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/101",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_101.pdf",
+     "sha256": "0a80d7057245994d10268685f392beaee1ef06db6438b54344a8796049e3e98d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-102-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/102",
+   "short": "HCL Popești-Leordeni nr. 102/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 102/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/102",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_102.pdf",
+     "sha256": "e7a2c74c13529777c12c16f203faddab2ee3dec2927e897dffa8b03b9dfd9d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-103-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/103",
+   "short": "HCL Popești-Leordeni nr. 103/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 103/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/103",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_103.pdf",
+     "sha256": "82ef36e630f7565c952ecf5d5997dfd868402da1a5d71af79197eb9fdca66c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-104-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/104",
+   "short": "HCL Popești-Leordeni nr. 104/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 104/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/104",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_104.pdf",
+     "sha256": "6e59ee95690f26368c11c8f3c3d894ee914ff15b04c4e4034fbc4337420d2d98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-105-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/105",
+   "short": "HCL Popești-Leordeni nr. 105/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 105/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/105",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_105.pdf",
+     "sha256": "d04fae853374639a005e7784f904a90fadc9be7efaf6704bdaed42a97e52feea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-106-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/106",
+   "short": "HCL Popești-Leordeni nr. 106/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 106/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/106",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_106.pdf",
+     "sha256": "ebb372231bbd3972347413a41a6c7ea5eb0d46b4b74166a569b5d2de9592ecc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-107-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/107",
+   "short": "HCL Popești-Leordeni nr. 107/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 107/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/107",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_107.pdf",
+     "sha256": "df255d9593099eb72b76ad7bcc14eac621639e9f079710f3bb0983fd6fac20cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-108-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/108",
+   "short": "HCL Popești-Leordeni nr. 108/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 108/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/108",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_108.pdf",
+     "sha256": "e447f1b92595d796597548ec3222aacc869006549434f199eb1a247fe1a85642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-109-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/109",
+   "short": "HCL Popești-Leordeni nr. 109/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 109/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/109",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_109.pdf",
+     "sha256": "a1be3a51d4df462961722f70ad78b26bf26934238a03548aa4f78525e03aa0fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-11-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/11",
+   "short": "HCL Popești-Leordeni nr. 11/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 11/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/011",
+   "versions": [
+    {
+     "from": "2015-03-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_011.pdf",
+     "sha256": "985a7b155190e88b02aef8f580e30c43c2ad5d8753ab6a35012e4605bba6d2eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-110-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/110",
+   "short": "HCL Popești-Leordeni nr. 110/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 110/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/110",
+   "versions": [
+    {
+     "from": "2015-12-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_110.pdf",
+     "sha256": "26eed7fac781a54edaba5a9ea68fc267d037fd4feec00d22f6f028d39e0a9a79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-12-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/12",
+   "short": "HCL Popești-Leordeni nr. 12/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 12/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/012",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_012.pdf",
+     "sha256": "bccbf4535262805f16b9a5ba61cbb77328b82e4ece04e7a3e6f5606658161cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-13-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/13",
+   "short": "HCL Popești-Leordeni nr. 13/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 13/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/013",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_013.pdf",
+     "sha256": "36b60de1c894a72d34fbc9dc47975ffc1ebcf8de31a352f06f7130d0232f5eaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-14-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/14",
+   "short": "HCL Popești-Leordeni nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 14/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/014",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_014.pdf",
+     "sha256": "e7bd9fde87fb883bdf884b6d4225685655927223b2d20a7cf6fd5486fa01e12c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-15-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/15",
+   "short": "HCL Popești-Leordeni nr. 15/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 15/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/015",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_015.pdf",
+     "sha256": "4a74d032866bf083bfd2383cfa075a4ebb4747505bc3de6aed5408789ec0ea40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-16-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/16",
+   "short": "HCL Popești-Leordeni nr. 16/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 16/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/016",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_016.pdf",
+     "sha256": "328bafb2696f46525dab2a952de2029750d491ffdcd4e1c6e2e546a1ffe3f908"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-17-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/17",
+   "short": "HCL Popești-Leordeni nr. 17/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 17/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/017",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_017.pdf",
+     "sha256": "cadf4d89cde3bb5df45813795b58089529668d5e5e3c0ed80fed8b9b88e0b76f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-18-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/18",
+   "short": "HCL Popești-Leordeni nr. 18/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 18/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/018",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_018.pdf",
+     "sha256": "889635f326a6a6280da85d88e377ab4d465ecde043b85ee5ad97f9bde5f93c42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-19-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/19",
+   "short": "HCL Popești-Leordeni nr. 19/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 19/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/019",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_019.pdf",
+     "sha256": "fd392f4bb9126419af9e92eb24696b573c50b6c37e3756edddef4d7b268fc848"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-20-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/20",
+   "short": "HCL Popești-Leordeni nr. 20/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 20/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/020",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_020.pdf",
+     "sha256": "7ddd472c27391f92d045a79f50d13e49442707b0ed29fb27bc37676919d3e910"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-21-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/21",
+   "short": "HCL Popești-Leordeni nr. 21/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 21/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/021",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_021.pdf",
+     "sha256": "b3287e29656958e1881f017afc2dfa003d83c574f7687a34936d63df588f0a0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-22-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/22",
+   "short": "HCL Popești-Leordeni nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 22/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/022",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_022.pdf",
+     "sha256": "cf9993311e116d2875efd106f924db5598fdfc6b242cb46a810e98389ee8366e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-23-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/23",
+   "short": "HCL Popești-Leordeni nr. 23/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 23/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/023",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_023.pdf",
+     "sha256": "ca339a3704a9a4eabe46cc40bc7f7f7744ffc5ff50a0c7bc815f2a9f28698f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-24-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/24",
+   "short": "HCL Popești-Leordeni nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 24/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/024",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_024.pdf",
+     "sha256": "85b34f7e470bcd60af18f9b13778e3beeed8106ec4f252a81003a57474f3936d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-25-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/25",
+   "short": "HCL Popești-Leordeni nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 25/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/025",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_025.pdf",
+     "sha256": "60fa292dccd0bbb7b1bf3e6eb95d9218bef8365401480898c3ae77367b867428"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-26-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/26",
+   "short": "HCL Popești-Leordeni nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 26/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/026",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_026.pdf",
+     "sha256": "6142e35c8e2bc2f26994b8b29ea4bb14a6a693a8e222b5db2c69af34534a3bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-27-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/27",
+   "short": "HCL Popești-Leordeni nr. 27/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 27/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/027",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_027.pdf",
+     "sha256": "2b85b84432a25456d339ce73e4727e2e382a9f1cbcd3df3da19a4a6def34c6af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-28-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/28",
+   "short": "HCL Popești-Leordeni nr. 28/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 28/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/028",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_028.pdf",
+     "sha256": "978c9cbec5da82af591bf525bd11651a0a892cf51c7f22ea6776a30084fa2e83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-29-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/29",
+   "short": "HCL Popești-Leordeni nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 29/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/029",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_029.pdf",
+     "sha256": "d1a461fd561bbd177d1079b7c7fc51f9a62ed8d01ff93be445a36972863e9d27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-30-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/30",
+   "short": "HCL Popești-Leordeni nr. 30/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 30/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/030",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_030.pdf",
+     "sha256": "6ebda98574e1611343046936898bd60b3a1d5ec516fedd6cbc3a4ac6c0f271c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-31-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/31",
+   "short": "HCL Popești-Leordeni nr. 31/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 31/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/031",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_031.pdf",
+     "sha256": "261e29134b2ae72abc878ad2e0602d9505c5293814fadae49c0ff7db936df245"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-32-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/32",
+   "short": "HCL Popești-Leordeni nr. 32/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 32/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/032",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_032.pdf",
+     "sha256": "361bfb33128771881d2a1938d9411c620c0db0e8187a6cf59fa20f994cd8f293"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-33-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/33",
+   "short": "HCL Popești-Leordeni nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 33/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/033",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_033.pdf",
+     "sha256": "3d56f651b4f203c39db739c6da7bb6981cd356bf06eb00cc710e1169865fa09d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-34-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/34",
+   "short": "HCL Popești-Leordeni nr. 34/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 34/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/034",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_034.pdf",
+     "sha256": "02b13d5b1bce5e1b7ce625f937109a97334220a3ffe25ed1ac21b5c2e77b6af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-35-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/35",
+   "short": "HCL Popești-Leordeni nr. 35/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 35/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/035",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_035.pdf",
+     "sha256": "c93c2a3ede97ba118ef44d4a64025f1aeda23d49566e112da8c6b7ed4044e11c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-36-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/36",
+   "short": "HCL Popești-Leordeni nr. 36/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 36/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/036",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_036.pdf",
+     "sha256": "45f260cb50636ee5bd1a7410cbfce63f3a0e1946c7459f1bfbddc50ad5a821fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-37-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/37",
+   "short": "HCL Popești-Leordeni nr. 37/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 37/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/037",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_037.pdf",
+     "sha256": "5adfdf5ed810a698852c7187675d3116e8014f35fdabc857230dc8803f75e3be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-38-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/38",
+   "short": "HCL Popești-Leordeni nr. 38/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 38/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/038",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_038.pdf",
+     "sha256": "eff267c7bba90e8677d0c9f1d8b2a18b77d6e8669e4d3f743807e3a010ebf581"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-39-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/39",
+   "short": "HCL Popești-Leordeni nr. 39/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 39/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/039",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_039.pdf",
+     "sha256": "54e9b6c6e216fb3da11df769d8087ddbecaefd16d8aa38e1dcf6082a87c49ea8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-40-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/40",
+   "short": "HCL Popești-Leordeni nr. 40/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 40/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/040",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_040.pdf",
+     "sha256": "0ede9b40db165e879c47832f3234d1de8bb441f0e5cc00073ddfd626cb798661"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-41-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/41",
+   "short": "HCL Popești-Leordeni nr. 41/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 41/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/041",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_041.pdf",
+     "sha256": "e1a00dde499ed80bb5da2f5cd5eb83498abd7f2e21908b6010d30d1e08dede18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-42-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/42",
+   "short": "HCL Popești-Leordeni nr. 42/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 42/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/042",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_042.pdf",
+     "sha256": "299e5d41db7eee9ea623f33ba844caa5818cc1249fdfaf1187aea5d9be4c3c80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-43-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/43",
+   "short": "HCL Popești-Leordeni nr. 43/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 43/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/043",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_043.pdf",
+     "sha256": "4c5b16d2a2d56bcbf72072417946f91a0a5a0f300f827e3b5bfcedaec3dfad75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-44-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/44",
+   "short": "HCL Popești-Leordeni nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 44/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/044",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_044.pdf",
+     "sha256": "e5943daef6229cdb595fccb86f5afc4e7765da5682e4ac22b4034de3ab0b9036"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-45-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/45",
+   "short": "HCL Popești-Leordeni nr. 45/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 45/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/045",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_045.pdf",
+     "sha256": "8f3c0efe055195ec7fcc1222d7f29b4030224b7be81af642b92ad531b9033e3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-46-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/46",
+   "short": "HCL Popești-Leordeni nr. 46/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 46/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/046",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_046.pdf",
+     "sha256": "9475a78dc5dc6d0d29b535aed4c52d637fc0079c6f036d2efcc1d49ad70064bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-47-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/47",
+   "short": "HCL Popești-Leordeni nr. 47/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 47/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/047",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_047.pdf",
+     "sha256": "54d3ec8110472883197bd6494ebe12f5b9b3b56185f7bf83714dcc311595c314"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-48-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/48",
+   "short": "HCL Popești-Leordeni nr. 48/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 48/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/048",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_048.pdf",
+     "sha256": "bf37f9cdd8c70798ac6d21552bd8882838b1b66f31930a4643b833fcc9791abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-49-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/49",
+   "short": "HCL Popești-Leordeni nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 49/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/049",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_049.pdf",
+     "sha256": "bad92e2ce134cca23029cef84676c61d8ea8e678be0979425777f19b89b6db09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-50-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/50",
+   "short": "HCL Popești-Leordeni nr. 50/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 50/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/050",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_050.pdf",
+     "sha256": "7fa0053d286763122246b3c99935a54210c473d7ddb2134629b7380e21d50aa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-51-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/51",
+   "short": "HCL Popești-Leordeni nr. 51/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 51/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/051",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_051.pdf",
+     "sha256": "f05d5e5aa2aecfc40d869c67b9bea338b6447983365688d05c418319b86e2a93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-52-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/52",
+   "short": "HCL Popești-Leordeni nr. 52/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 52/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/052",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_052.pdf",
+     "sha256": "6b2bc9b0a51140abb8a3586910d422f380b23c0fec203f76d6ae7853ac1a6adb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-53-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/53",
+   "short": "HCL Popești-Leordeni nr. 53/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 53/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/053",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_053.pdf",
+     "sha256": "ebd563b43a052dd55d2087b8b40b364df35b0cfbb01f299965566698f7c62c39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-54-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/54",
+   "short": "HCL Popești-Leordeni nr. 54/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 54/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/054",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_054.pdf",
+     "sha256": "7dd72c0ce0b3dd5fec69e7776778e96a13d440577c80d45423c962e463b7f93a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-55-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/55",
+   "short": "HCL Popești-Leordeni nr. 55/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 55/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/055",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_055.pdf",
+     "sha256": "d34bce3313dd21c49f98a1c6e0f7f5dfd97135a944cca91b11132a560be61397"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-56-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/56",
+   "short": "HCL Popești-Leordeni nr. 56/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 56/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/056",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_056.pdf",
+     "sha256": "d7bc27cbaf90986dd7dbb4ae8a6f348ac3bf37a0e2ea8d22f9b86880b2aa6a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-57-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/57",
+   "short": "HCL Popești-Leordeni nr. 57/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 57/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/057",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_057.pdf",
+     "sha256": "653147e432d5dd8ffcea60ab2ece8eca74ffbf31e149cf39287956a6ce4f6f01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-58-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/58",
+   "short": "HCL Popești-Leordeni nr. 58/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 58/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/058",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_058.pdf",
+     "sha256": "bb85f2dca1ecc7415d2ad2ea7b3826fb6815752d10356db15148f5ed39f815e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-59-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/59",
+   "short": "HCL Popești-Leordeni nr. 59/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 59/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/059",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_059.pdf",
+     "sha256": "8b9de47fdf79a61255eca4c02e40b3d82d9453b0ac11469636e97e2634c0daec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-60-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/60",
+   "short": "HCL Popești-Leordeni nr. 60/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 60/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/060",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_060.pdf",
+     "sha256": "04dcda2e9015d2a6ea1f3154c26a2c04b41e7a93795c5b68c16f970b1b520568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-61-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/61",
+   "short": "HCL Popești-Leordeni nr. 61/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 61/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/061",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_061.pdf",
+     "sha256": "fe6a5b38a1d34a5a8156c9562aa51cec65750b541001d70bedb8f01438e517a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-62-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/62",
+   "short": "HCL Popești-Leordeni nr. 62/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 62/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/062",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_062.pdf",
+     "sha256": "25b1df0128392d3ba2bf2805e9c04de396dea042884c78727649c40318b22372"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-63-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/63",
+   "short": "HCL Popești-Leordeni nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 63/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/063",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_063.pdf",
+     "sha256": "8ce8ce67711e568f7a35bf4e61d88ac25bc5d0e71877b5ff4873e9de249b1f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-64-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/64",
+   "short": "HCL Popești-Leordeni nr. 64/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 64/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/064",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_064.pdf",
+     "sha256": "702dbd8d6f294f242b86b73d198665df86c74636cbb77528186ad945cf347db1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-65-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/65",
+   "short": "HCL Popești-Leordeni nr. 65/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 65/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/065",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_065.pdf",
+     "sha256": "e03dd91d487232ab0486e7e083b7ba9aa8d330ecd8b1b0bf0136086472915995"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-66-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/66",
+   "short": "HCL Popești-Leordeni nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 66/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/066",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_066.pdf",
+     "sha256": "d3017c75438edb580d016383ca5af352c256767cab20af9ae519ad7784b6fb65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-67-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/67",
+   "short": "HCL Popești-Leordeni nr. 67/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 67/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/067",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_067.pdf",
+     "sha256": "05181ce244fbb81237e724e9be31715eb32e8041e114780fa4ead6aefd19831d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-68-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/68",
+   "short": "HCL Popești-Leordeni nr. 68/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 68/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/068",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_068.pdf",
+     "sha256": "e5ad0ab56f40d80dcedc8809826ca9d034f2c87dcf3eda75563625a3f714b235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-69-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/69",
+   "short": "HCL Popești-Leordeni nr. 69/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 69/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/069",
+   "versions": [
+    {
+     "from": "2015-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_069.pdf",
+     "sha256": "67fd1bdc0e006fb011cab03b9b974b3c73a7a394b0417df033d71f98d68ae3c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-70-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/70",
+   "short": "HCL Popești-Leordeni nr. 70/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 70/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/070",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_070.pdf",
+     "sha256": "7984f9f56a5d073ad85e843928921f37670013a2f301b744fb3a18468886d682"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-71-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/71",
+   "short": "HCL Popești-Leordeni nr. 71/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 71/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/071",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_071.pdf",
+     "sha256": "80b7c8697bea83e1f62e2c57002c869a6ae3acd6cdf35c6abd8c02b20c25524b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-72-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/72",
+   "short": "HCL Popești-Leordeni nr. 72/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 72/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/072",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_072.pdf",
+     "sha256": "266b600ed51f5f7f934da550a80cc84863eed1cce667a0604300056fd05cf0f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-73-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/73",
+   "short": "HCL Popești-Leordeni nr. 73/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 73/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/073",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_073.pdf",
+     "sha256": "6262abb08f78b07efe0c21b669f64cac4c0a54e99040365a261346043d4c6115"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-74-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/74",
+   "short": "HCL Popești-Leordeni nr. 74/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 74/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/074",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_074.pdf",
+     "sha256": "73e587c3c2b73cc64ff7752196d5a5308495c8b2a89dd8df4f6bf60caa9e99c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-75-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/75",
+   "short": "HCL Popești-Leordeni nr. 75/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 75/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/075",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_075.pdf",
+     "sha256": "c553350b4d333c3def3bb45c1a60b0f965348b69defe2f570c7a337fafe1d528"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-76-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/76",
+   "short": "HCL Popești-Leordeni nr. 76/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 76/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/076",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_076.pdf",
+     "sha256": "27bdf9e381b23218f05a5faaa143415d7b4673cc197814043437c265401474a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-77-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/77",
+   "short": "HCL Popești-Leordeni nr. 77/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 77/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/077",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_077.pdf",
+     "sha256": "bd696aa75224f524cf1e0b8d3b67bc6e81d8c635169de0d0b52c46be003aa36b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-78-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/78",
+   "short": "HCL Popești-Leordeni nr. 78/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 78/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/078",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_078.pdf",
+     "sha256": "5e13b995a6b2e26835f44acb3aeb14dd6836e025fa7259f9d59464ba52ca1992"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-79-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/79",
+   "short": "HCL Popești-Leordeni nr. 79/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 79/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/079",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_079.pdf",
+     "sha256": "9ed9767ef02b2d95d7e8dfd2b967661130cae78ccc4bc5a36a811e899c758d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-80-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/80",
+   "short": "HCL Popești-Leordeni nr. 80/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 80/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/080",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_080.pdf",
+     "sha256": "6d79e32404387a046310d878f169c9d4a1ddbf63496caf93ff09e2ec43a9436c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-81-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/81",
+   "short": "HCL Popești-Leordeni nr. 81/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 81/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/081",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_081.pdf",
+     "sha256": "613d87453c5c68d58ca6085044aa650c1daf76c004cf1fc681a1c35b20f9404a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-82-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/82",
+   "short": "HCL Popești-Leordeni nr. 82/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 82/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/082",
+   "versions": [
+    {
+     "from": "2015-09-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_082.pdf",
+     "sha256": "3a6e388b07e06b13c51ba086596fa1b8fe0e567ff2d7ce4aa7b7853a981abf39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-83-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/83",
+   "short": "HCL Popești-Leordeni nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 83/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/083",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_083.pdf",
+     "sha256": "b74f73b50dfb164b64866501583794ded25ebf07a83b46224662c91c966d92fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-84-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/84",
+   "short": "HCL Popești-Leordeni nr. 84/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 84/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/084",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_084.pdf",
+     "sha256": "77a8c6df90d0690975a013fc1f8e5eb737f41d3de360d33e52a2ca9366e89b97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-85-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/85",
+   "short": "HCL Popești-Leordeni nr. 85/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 85/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/085",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_085.pdf",
+     "sha256": "9cee95c9764db4a94570bf9a40d6217681c8788e83f76c5b4bc4709a83af1829"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-86-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/86",
+   "short": "HCL Popești-Leordeni nr. 86/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 86/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/086",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_086.pdf",
+     "sha256": "a284c86ebcbc04e2dcfa0c1058a524e6bbe726751d642f75766b8fffd600e4cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-87-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/87",
+   "short": "HCL Popești-Leordeni nr. 87/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 87/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/087",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_087.pdf",
+     "sha256": "9b7e06c9cdd7a78dafe595fafc84e87c8dae51167987a067f5f664c7e84340fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-88-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/88",
+   "short": "HCL Popești-Leordeni nr. 88/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 88/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/088",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_088.pdf",
+     "sha256": "97b7edc0154e1008957060ff54762b0f493a9223f7733f17083345b3793ec95d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-89-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/89",
+   "short": "HCL Popești-Leordeni nr. 89/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 89/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/089",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_089.pdf",
+     "sha256": "79ced7b8e47b6c1b62581bc5260f9e526f808e8e718b11e52689a7e2e17003d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-90-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/90",
+   "short": "HCL Popești-Leordeni nr. 90/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 90/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/090",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_090.pdf",
+     "sha256": "da1cddea943ca0dd7ac62cd4d921564c446daca8ee682e05840543b2415e2d33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-91-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/91",
+   "short": "HCL Popești-Leordeni nr. 91/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 91/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/091",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_091.pdf",
+     "sha256": "4c36b9077847bce843bc0199c432ac18b5df76049d83263d75ce691e7d5d3f9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-92-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/92",
+   "short": "HCL Popești-Leordeni nr. 92/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 92/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/092",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_092.pdf",
+     "sha256": "d8b4c2578b62fc77672c413fe3968bdaae79b04ff747c2cc6cf8ad22ed46eee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-93-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/93",
+   "short": "HCL Popești-Leordeni nr. 93/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 93/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/093",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_093.pdf",
+     "sha256": "d5e7c2ae44c812f7ff8fb0db9f940dad71123d1a92783e7598ab147c3c22a382"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-94-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/94",
+   "short": "HCL Popești-Leordeni nr. 94/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 94/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/094",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_094.pdf",
+     "sha256": "354aa895ad74e5410eb56dbb5fc0c746eee54e20be2f5f765ba79e5e01ecefd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-95-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/95",
+   "short": "HCL Popești-Leordeni nr. 95/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 95/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/095",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_095.pdf",
+     "sha256": "f29216cc34f9e502aae05ef95b351cf9fc4a2140a56800d8705e8fd66b324c3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-96-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/96",
+   "short": "HCL Popești-Leordeni nr. 96/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 96/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/096",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_096.pdf",
+     "sha256": "30d4293d96b291df2bc6fdd6425221903780c77deb8bc488a1907b912a319fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-97-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/97",
+   "short": "HCL Popești-Leordeni nr. 97/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 97/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/097",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_097.pdf",
+     "sha256": "d85c55213d80366adefc9bb303136125369fd53559c7a1ab2dbafb4f44108a37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-98-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/98",
+   "short": "HCL Popești-Leordeni nr. 98/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 98/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/098",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_098.pdf",
+     "sha256": "b52e247218ecc33565c8d4d77a6fa09e7f105f35719362da307258ebe026a095"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-99-2015",
+   "path": "local/ilfov/popesti-leordeni/2015/99",
+   "short": "HCL Popești-Leordeni nr. 99/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 99/2015",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2015/099",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2015/2015--hcl_099.pdf",
+     "sha256": "40f7e7cf09f9a60dbe5216a84ea7d83fc53132b6968b1b17bb44396840aa155a"
+    }
+   ]
+  }
+ ]
+}

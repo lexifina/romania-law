@@ -7005,6 +7005,28 @@
 }
 },
 {
+"slug": "hcj-bihor-385-2023",
+"path": "local/judet/bihor/2023/385",
+"kind": "local",
+"year": "2023",
+"number": "385",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Bihor nr. 385/2023",
+"short": "HCJ Bihor nr. 385/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+"council": "judet/bihor",
+"council_name": "Consiliul Județean Bihor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-bihor-387-2023",
 "path": "local/judet/bihor/2023/387",
 "kind": "local",

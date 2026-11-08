@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-12-2026",
+   "path": "local/maramures/cernesti/2026/12",
+   "short": "HCL Cernești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 12/2026 privind aprobarea închirierii unei cote părți din spațiul Dispensar uman Ciocotiș",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/261841",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/261841",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-13-2026",
    "path": "local/maramures/cernesti/2026/13",
    "short": "HCL Cernești nr. 13/2026",
@@ -178,6 +193,21 @@
      "from": "2026-06-21",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/272916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-21-2026",
+   "path": "local/maramures/cernesti/2026/21",
+   "short": "HCL Cernești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 21/2026 privind aprobarea închirierii unei cote părți din spațiul Dispensar uman Ciocotiș, în vederea funcționării unui cabinet medical medicină de familie",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/272917",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/272917",
      "sha256": null
     }
    ]

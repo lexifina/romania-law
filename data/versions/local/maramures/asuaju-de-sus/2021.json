@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--asuaju-de-sus-16-2021",
+   "path": "local/maramures/asuaju-de-sus/2021/16",
+   "short": "HCL Asuaju de Sus nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 16/2021 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/60705",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/60705",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-17-2021",
    "path": "local/maramures/asuaju-de-sus/2021/17",
    "short": "HCL Asuaju de Sus nr. 17/2021",
@@ -148,6 +163,21 @@
      "from": "2021-06-28",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/60708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-2-2021",
+   "path": "local/maramures/asuaju-de-sus/2021/2",
+   "short": "HCL Asuaju de Sus nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 2/2021 privind desemnarea reprezentantilor Consiliului Local in Consiliul de administratie si in Comisia de Evaluare si Asigurare a Calitatii (CEAC) la nivelul Scolii gimnaziale Asuaju de Sus judetul Maramures",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/60664",
+   "versions": [
+    {
+     "from": "2021-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/60664",
      "sha256": null
     }
    ]
@@ -493,6 +523,36 @@
      "from": "2021-01-14",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/60667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-6-2021",
+   "path": "local/maramures/asuaju-de-sus/2021/6",
+   "short": "HCL Asuaju de Sus nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 6/2021 privind stabilirea pretului de inchiriere a pasunilor aflate in proprietate privata a comunei Asuaju de Sus , judetul Maramures, pentru crescatorii de animale din cadrul UAT-ului Asuaju de Sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/60668",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/60668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-7-2021",
+   "path": "local/maramures/asuaju-de-sus/2021/7",
+   "short": "HCL Asuaju de Sus nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 7/2021 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/60669",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/60669",
      "sha256": null
     }
    ]

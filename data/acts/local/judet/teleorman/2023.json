@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcj-teleorman-3-2023",
+"path": "local/judet/teleorman/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 3/2023 privind: darea în folosință gratuită Municipiului Alexandria prin Consiliul Local al Municipiului Alexandria - Direcția de Asistență Socială Alexandria, a unui spațiu medical în imobilul situat în municipiul Alexandria, str. Mihăiță Filipescu, nr. 32, proprietate privată a județului Teleorman",
+"short": "HCJ Teleorman nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-teleorman-13-2023",
 "path": "local/judet/teleorman/2023/13",
 "kind": "local",
@@ -612,6 +634,28 @@
 "versions": 1,
 "from": "2023-05-12",
 "latest": "2023-05-12",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-teleorman-88-2023",
+"path": "local/judet/teleorman/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 88/2023 privind : repartizarea pe unități administrativ — teritoriale a sumei ce reprezintă 20 % din limita de sume defalcate din unele venituri ale bugetului de stat pentru echilibrarea bugetelor locale și din cota de 14 % din impozitul pe venit, precum și a sumelor reținute ca urmare a --diminuării cu gradul de necolectare.a veniturilor proprii_pe-anul 2022 pentru anul 2024 și estimările pe anii 2025 — 2027",
+"short": "HCJ Teleorman nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
 "portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202023.htm",
 "council": "judet/teleorman",
 "council_name": "Consiliul Județean Teleorman",

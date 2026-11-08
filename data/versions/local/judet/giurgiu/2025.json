@@ -2013,6 +2013,21 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-228-2025",
+   "path": "local/judet/giurgiu/2025/228",
+   "short": "HCJ Giurgiu nr. 228/2025",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 228/2025",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.228-din-20.10.2025-cu-anexa.pdf",
+     "sha256": "90682e1747b1fa3a014bc5b26033606ac442ac58c9090be93fe7ebb6ad8cdda1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-229-2025",
    "path": "local/judet/giurgiu/2025/229",
    "short": "HCJ Giurgiu nr. 229/2025",

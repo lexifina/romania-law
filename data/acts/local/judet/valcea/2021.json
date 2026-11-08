@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/judet/valcea/2021",
+"acts": [
+{
+"slug": "hcj-valcea-56-2021",
+"path": "local/judet/valcea/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vâlcea nr. 56/2021 privind acordarea unui mandat special reprezentantului Județului Vâlcea, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”APA Vâlcea”, să aprobe Planul anual de evoluție a prețuriloritarifelor serviciilor de alimentare cu apă și de canalizare, (Strategia de Tarifare), precum și mandatarea Președintelui Asociației să semneze, în numele și pe seama Județului Vâlcea, Actul Adițional la Contractul de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.1/2008, cu modificările și completările ulterioare, ce se va încheia cu Apavil S.A",
+"short": "HCJ Vâlcea nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-09",
+"latest": "2021-02-09",
+"portal": "https://cjvalcea.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/2024-hotararile-autoritatii-deliberative/",
+"council": "judet/valcea",
+"council_name": "Consiliul Județean Vâlcea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

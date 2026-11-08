@@ -3,6 +3,21 @@
  "shard": "local/judet/dolj/2014",
  "acts": [
   {
+   "slug": "hcj-dolj-1062-2014",
+   "path": "local/judet/dolj/2014/1062",
+   "short": "HCJ Dolj nr. 1062/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1062/2014 privind aprobarea rezultatului final al concursului de management organizat pentru Muzeul de Artă Craiova, a planului de management câștigător și a perioadei pentru care se va încheia contractul de management",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-01-23",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2023.pdf",
+     "sha256": "6473b7e165790e31b21bfceabc1c0c552af945aaad5a21419e35cd17a4ac8b25"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-122-2014",
    "path": "local/judet/dolj/2014/122",
    "short": "HCJ Dolj nr. 122/2014",
@@ -48,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcj-dolj-1974-2014",
+   "path": "local/judet/dolj/2014/1974",
+   "short": "HCJ Dolj nr. 1974/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1974/2014 privind modificarea statului de funcții pentru Unitatea Medico Socială Plenița",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-02-11",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2039.pdf",
+     "sha256": "26261bb66debb77210c2eb39d955ca7e122af2d033045eea92cb152f0634fe35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2-2014",
+   "path": "local/judet/dolj/2014/2",
+   "short": "HCJ Dolj nr. 2/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2/2014 pentru drumurile judetene si comunale, pe unitati administrativ-teritoriale, pe anul 2014 si estimarile pe anii 2015 – 2017, conform anexei nr. 1 ce face parte din prezenta hotarare",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-07-22",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%202.pdf",
+     "sha256": "8a42c965f2511ca58ba2f64071ae4ebebf2b0362d3cd73478c5dbb5ecd027358"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-21-2014",
    "path": "local/judet/dolj/2014/21",
    "short": "HCJ Dolj nr. 21/2014",
@@ -59,6 +104,111 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2021.pdf",
      "sha256": "d824bfcc859b15d95b7157f0a07468bdd0878ea96752eff74d25fcf484507070"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2187-2014",
+   "path": "local/judet/dolj/2014/2187",
+   "short": "HCJ Dolj nr. 2187/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2187/2014 privind modificarea componenței structurii proprii de management al unităților de asistență medicală constituită la nivelul Consiliului Județean Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-02-14",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2040.pdf",
+     "sha256": "d78e97a4851837c65d1f7db5eed0625a779b7c68cb600d5c6c2256ab4c311f21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-22-2014",
+   "path": "local/judet/dolj/2014/22",
+   "short": "HCJ Dolj nr. 22/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 22/2014 privind aprobarea rectificării bugetului propriu al județului Dolj pe anul 2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%20232.pdf",
+     "sha256": "5d9daf921a6a6acf3d90dd8fe24f692ce720f17faa76fc998d7a592a2a2718ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2294-2014",
+   "path": "local/judet/dolj/2014/2294",
+   "short": "HCJ Dolj nr. 2294/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2294/2014 privind evaluarea pe anul 2013 a managementului Bibliotecii Județene „Alexandru și Aristia Aman”",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-02-17",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2044.pdf",
+     "sha256": "1b37302c33f2a5fd8c1a5721ae9d09fc20187c78b9f03a0e76f24a222faab26a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2305-2014",
+   "path": "local/judet/dolj/2014/2305",
+   "short": "HCJ Dolj nr. 2305/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2305/2014 privind aprobarea modificării statului de funcții pentru Spitalul de Pneumottiziologie Leamna",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-02-18",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2042.pdf",
+     "sha256": "0538089829b861af25cd18ceeb0e7fc8d02561341e3abdbded381d6fdae5b568"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2364-2014",
+   "path": "local/judet/dolj/2014/2364",
+   "short": "HCJ Dolj nr. 2364/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2364/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-02-18",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2043.pdf",
+     "sha256": "13d25af06e27a9d496677e444cb722528477129874f56f94cb9c33081177357c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2469-2014",
+   "path": "local/judet/dolj/2014/2469",
+   "short": "HCJ Dolj nr. 2469/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2469/2014 privind aprobarea modificării statului de funcții pentru Direcția Publică Comunitară de Evidență a Persoanelor Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-01-20",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2073.pdf",
+     "sha256": "2ea0d685a384f3c91f7f2dd9f4f96cfc274e88ab09c5c49a96630495235ed1e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-272-2014",
+   "path": "local/judet/dolj/2014/272",
+   "short": "HCJ Dolj nr. 272/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 272/2014 privind aprobarea rectificării bugetului propriu al județului Dolj pe anul 2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-02-07",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%20273.pdf",
+     "sha256": "030d407278d4e7012c9ec5319e41c95a34c5285ec992b8c29e95c0251a75113a"
     }
    ]
   },
@@ -104,6 +254,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2045.pdf",
      "sha256": "e63bd853afe8f0814590d058dfd2ec7ad1bd9164aaa641b8857bc4e1d4bf628f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-46-2014",
+   "path": "local/judet/dolj/2014/46",
+   "short": "HCJ Dolj nr. 46/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 46/2014 privind aprobarea rectificării bugetului propriu al județului Dolj pe anul 2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%20116.pdf",
+     "sha256": "3365475c1fa61cf32f85c8ce76742c0f7e8b1b906d4dfe7960df56afdddb88d5"
     }
    ]
   },
@@ -164,6 +329,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2082.pdf",
      "sha256": "70feaa1bbd0c19b8f4fd7de2ba533958969991fba08417acefb03244a6467994"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-913-2014",
+   "path": "local/judet/dolj/2014/913",
+   "short": "HCJ Dolj nr. 913/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 913/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-01-21",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2022.pdf",
+     "sha256": "61350e545877efc4e1848d1bc1fef31992a054f9e6c3ab5696d9e98f4755eea5"
     }
    ]
   },

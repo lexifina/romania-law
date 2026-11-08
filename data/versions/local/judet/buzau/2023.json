@@ -558,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcj-buzau-146-2023",
+   "path": "local/judet/buzau/2023/146",
+   "short": "HCJ Buzău nr. 146/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 146/2023 pentru aprobarea declanșării procedurii de achiziție a unui teren proprietate privată în suprafață de 1698 mp., situat în sat Pietroasele, comuna Pietroasele, în scopul implementării proiectului „Valorificarea potențialului turistic natural și antropic pentru dezvoltarea durabilă a județului Buzău” * Modificată prin Hotărârea nr.177 din 2023",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/07/Hotararea-nr.146-din-2023.pdf",
+     "sha256": "a7f5db0aa0b45133f5e0eaea7bd3a3be39860cba2f5822d32007bb3aa36ef0bb"
+    }
+   ]
+  },
+  {
    "slug": "hcj-buzau-147-2023",
    "path": "local/judet/buzau/2023/147",
    "short": "HCJ Buzău nr. 147/2023",
@@ -3014,6 +3029,21 @@
      "units": 1,
      "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/02/Hotararea-nr.39-din-2023.pdf",
      "sha256": "850aea766417324106862ef98631351c5305180e921dc27d4bcc5f66e1862bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-buzau-4-2023",
+   "path": "local/judet/buzau/2023/4",
+   "short": "HCJ Buzău nr. 4/2023",
+   "title": "Hotărârea Consiliului Județean Buzău nr. 4/2023 privind aprobarea utilizării în anul 2023 a excedentului anual al bugetului propriu al judeţului Buzău rezultat la încheierea exerciţiului bugetar la 31 decembrie 2022",
+   "url": "https://cjbuzau.ro/hotarari-cj-2023/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "http://cjbuzau.ro/wp-content/uploads/2023/01/Hotararea-nr.4-din-2023.pdf",
+     "sha256": "e6453738bad71a1ebe3c0720d36fdfe68b16e5578280b2163321e33c62f5956f"
     }
    ]
   },

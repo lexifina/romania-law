@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-maramures--cernesti-3-2025",
+"path": "local/maramures/cernesti/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 3/2025",
+"short": "HCL Cernești nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-18",
+"latest": "2025-02-18",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/188866",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--cernesti-4-2025",
 "path": "local/maramures/cernesti/2025/4",
 "kind": "local",
@@ -88,6 +111,29 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-6-2025",
+"path": "local/maramures/cernesti/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 6/2025",
+"short": "HCL Cernești nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/200520",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -176,6 +222,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-11-2025",
+"path": "local/maramures/cernesti/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 11/2025 privind aprobarea închirierii unui spațiu",
+"short": "HCL Cernești nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/200525",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -374,6 +442,28 @@
 "council_name": "Consiliul Local al Comunei Cernești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--cernesti-21-2025",
+"path": "local/maramures/cernesti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernești nr. 21/2025 privind aprobarea vânzării de material lemnos prin licitație",
+"short": "HCL Cernești nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/cernesti-mm/registru-hcl/213248",
+"council": "maramures/cernesti",
+"council_name": "Consiliul Local al Comunei Cernești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

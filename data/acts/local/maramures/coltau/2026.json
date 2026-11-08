@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-maramures--coltau-3-2026",
+"path": "local/maramures/coltau/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 3/2026 Privind alegerea preşedintelui de şedinţă al Consiliului Local Coltău pentru o perioadă de trei luni ( Februarie 2026 – Aprilie 2026)",
+"short": "HCL Coltău nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/250228",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coltau-4-2026",
 "path": "local/maramures/coltau/2026/4",
 "kind": "local",
@@ -89,6 +111,94 @@
 "council_name": "Consiliul Local al Comunei Coltău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coltau-6-2026",
+"path": "local/maramures/coltau/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 6/2026 privind aprobarea dezlipirii unui teren , aflat în proprietatea privată a Comunei Coltău , identificat în CF 50608 Coltău , nr. cadastral 50608",
+"short": "HCL Coltău nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/250231",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coltau-7-2026",
+"path": "local/maramures/coltau/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 7/2026 privind acceptarea unei donații din partea familiei Kandó",
+"short": "HCL Coltău nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/250232",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coltau-8-2026",
+"path": "local/maramures/coltau/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 8/2026 privind aprobarea încetării înțelegerii de înfrățire cu localitatea Tiszapüspőki din Ungaria",
+"short": "HCL Coltău nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/250233",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coltau-9-2026",
+"path": "local/maramures/coltau/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 9/2026 privind acordarea unui mandat special Primarului să voteze în cadrul Adunării Generale a Asociației pentru aprobarea aderării Comunei Groși la Asociația de Dezvoltare Intercomunitară și pentru aprobarea modificării prin act adițional a Statutului Asociației, precum și pentru semnarea Actului adițional și a Statutului Asociației actualizat",
+"short": "HCL Coltău nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-19",
+"latest": "2026-03-19",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/256569",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -156,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Coltău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coltau-13-2026",
+"path": "local/maramures/coltau/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 13/2026 privind aprobarea cumpărării unui imobil , indentificat în CF 52378 Coltău , nr. cadastral 52378 , proprietatea SC VAVIS SRL",
+"short": "HCL Coltău nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/264027",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -247,6 +379,72 @@
 }
 },
 {
+"slug": "hcl-maramures--coltau-18-2026",
+"path": "local/maramures/coltau/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 18/2026 privind aprobarea bilanțului contabil pentru anul 2025 al SC KATCOLT SRL , societate aflată în subordinea Consilului Local al Comunei Coltău",
+"short": "HCL Coltău nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/265734",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coltau-19-2026",
+"path": "local/maramures/coltau/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 19/2026 privind alocarea din bugetul local al Comunei Coltău pentru anul 2026 a unor sume către SC KATCOLT SRL , societate în subordinea Consiliului Local al Comunei Coltău , pentru funcțioanarea serviciului local de transport persoane",
+"short": "HCL Coltău nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/265735",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coltau-20-2026",
+"path": "local/maramures/coltau/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 20/2026 privind indexarea cu rata inflației a impozitelor și taxelor locale pentru anul fiscal 2027",
+"short": "HCL Coltău nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/265736",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coltau-21-2026",
 "path": "local/maramures/coltau/2026/21",
 "kind": "local",
@@ -266,6 +464,50 @@
 "council_name": "Consiliul Local al Comunei Coltău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coltau-22-2026",
+"path": "local/maramures/coltau/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 22/2026 Privind alegerea preşedintelui de şedinţă al Consiliului Local Coltău pentru o perioadă de trei luni ( Mai 2026 – Iulie 2026)",
+"short": "HCL Coltău nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/265738",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coltau-23-2026",
+"path": "local/maramures/coltau/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 23/2026 privind aprobarea modificării și completării HCL nr. 13 din 16.04.2026 privind aprobarea cumpărării unui imobil , indentificat în CF 52378 Coltău , nr. cadastral 52378 , proprietatea SC VAVIS SRL",
+"short": "HCL Coltău nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/267483",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -291,6 +533,28 @@
 }
 },
 {
+"slug": "hcl-maramures--coltau-25-2026",
+"path": "local/maramures/coltau/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 25/2026 privind aprobarea alocării din bugetul local al Comunei Coltău pentru anul 2026 a unui sprijin financiar pentru Parohia Ortodoxă Română Cătălina-Coltău",
+"short": "HCL Coltău nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/269996",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--coltau-26-2026",
 "path": "local/maramures/coltau/2026/26",
 "kind": "local",
@@ -310,6 +574,50 @@
 "council_name": "Consiliul Local al Comunei Coltău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coltau-27-2026",
+"path": "local/maramures/coltau/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 27/2026 privind atribuirea în folosință gratuită , pe o perioadă de 49 de ani , a unui teren în suprafață de 1.000 mp. , aflat în domeniul privat al Comunei Coltău , identificat în CF nr . 53847 Coltău , nr. cadastral 53847 și constituirea unui drept de superficie asupra acestui teren",
+"short": "HCL Coltău nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/276853",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--coltau-28-2026",
+"path": "local/maramures/coltau/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 28/2026 privind stabilirea unor măsuri privind delegarea gestiunii activităților componente ale serviciului de salubrizare privind transferul, sortarea, tratarea mecano-biologică, compostarea, operarea centrelor de colectare cu aport voluntar și eliminarea prin depozitare a deșeurilor municipale în județul Maramureș",
+"short": "HCL Coltău nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/276854",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -464,6 +772,28 @@
 "council_name": "Consiliul Local al Comunei Coltău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--coltau-36-2026",
+"path": "local/maramures/coltau/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coltău nr. 36/2026 Privind alegerea preşedintelui de şedinţă al Consiliului Local Coltău pentru o perioadă de trei luni ( August 2026 – Octombrie 2026)",
+"short": "HCL Coltău nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/coltau-mm/registru-hcl/281160",
+"council": "maramures/coltau",
+"council_name": "Consiliul Local al Comunei Coltău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -157,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-maramures--arinis-8-2020",
+"path": "local/maramures/arinis/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 8/2020 privind vânzarea fără licitație publică a unui teren în suprafață totală de 15.000 mp, situat în Comuna Ariniș, Județul Maramureș",
+"short": "HCL Ariniș nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/3075",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--arinis-9-2020",
+"path": "local/maramures/arinis/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 9/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 16 februarie 2020",
+"short": "HCL Ariniș nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-16",
+"latest": "2020-02-16",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/3076",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--arinis-10-2020",
 "path": "local/maramures/arinis/2020/10",
 "kind": "local",
@@ -221,6 +265,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--arinis-13-2020",
+"path": "local/maramures/arinis/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 13/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 01 martie 2020",
+"short": "HCL Ariniș nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-01",
+"latest": "2020-03-01",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/3080",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -467,6 +533,28 @@
 }
 },
 {
+"slug": "hcl-maramures--arinis-25-2020",
+"path": "local/maramures/arinis/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 25/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 29 mai 2020",
+"short": "HCL Ariniș nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/3103",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--arinis-26-2020",
 "path": "local/maramures/arinis/2020/26",
 "kind": "local",
@@ -486,6 +574,28 @@
 "council_name": "Consiliul Local al Comunei Ariniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-27-2020",
+"path": "local/maramures/arinis/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 27/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 18 iunie 2020",
+"short": "HCL Ariniș nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-18",
+"latest": "2020-06-18",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/4990",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -577,6 +687,28 @@
 }
 },
 {
+"slug": "hcl-maramures--arinis-32-2020",
+"path": "local/maramures/arinis/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 32/2020 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local Ariniș din 20 iulie 2020",
+"short": "HCL Ariniș nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-20",
+"latest": "2020-07-20",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/6802",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--arinis-33-2020",
 "path": "local/maramures/arinis/2020/33",
 "kind": "local",
@@ -596,6 +728,28 @@
 "council_name": "Consiliul Local al Comunei Ariniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-34-2020",
+"path": "local/maramures/arinis/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 34/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 31 iulie 2020",
+"short": "HCL Ariniș nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/7971",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -643,6 +797,29 @@
 }
 },
 {
+"slug": "hcl-maramures--arinis-37-2020",
+"path": "local/maramures/arinis/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 37/2020",
+"short": "HCL Ariniș nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/7974",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--arinis-38-2020",
 "path": "local/maramures/arinis/2020/38",
 "kind": "local",
@@ -662,6 +839,28 @@
 "council_name": "Consiliul Local al Comunei Ariniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-39-2020",
+"path": "local/maramures/arinis/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 39/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 11 august 2020",
+"short": "HCL Ariniș nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/8758",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -687,6 +886,28 @@
 }
 },
 {
+"slug": "hcl-maramures--arinis-41-2020",
+"path": "local/maramures/arinis/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 41/2020 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local Ariniș din 21 august 2020",
+"short": "HCL Ariniș nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-21",
+"latest": "2020-08-21",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/8772",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--arinis-42-2020",
 "path": "local/maramures/arinis/2020/42",
 "kind": "local",
@@ -709,6 +930,28 @@
 }
 },
 {
+"slug": "hcl-maramures--arinis-43-2020",
+"path": "local/maramures/arinis/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 43/2020 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local Ariniș din 26 august 2020",
+"short": "HCL Ariniș nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-26",
+"latest": "2020-08-26",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/8875",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--arinis-44-2020",
 "path": "local/maramures/arinis/2020/44",
 "kind": "local",
@@ -728,6 +971,28 @@
 "council_name": "Consiliul Local al Comunei Ariniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--arinis-45-2020",
+"path": "local/maramures/arinis/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 45/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 19 septembrie 2020",
+"short": "HCL Ariniș nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-19",
+"latest": "2020-09-19",
+"portal": "https://emol.ro/arinis-mm/registru-hcl/10667",
+"council": "maramures/arinis",
+"council_name": "Consiliul Local al Comunei Ariniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

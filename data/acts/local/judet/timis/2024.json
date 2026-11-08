@@ -3,6 +3,29 @@
 "shard": "local/judet/timis/2024",
 "acts": [
 {
+"slug": "hcj-timis-19-2024",
+"path": "local/judet/timis/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 19/2024",
+"short": "HCJ Timiș nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/19_HCJT_2024.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-timis-150-2024",
 "path": "local/judet/timis/2024/150",
 "kind": "local",
@@ -22,6 +45,29 @@
 "council_name": "Consiliul Județean Timiș",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-timis-309-2024",
+"path": "local/judet/timis/2024/309",
+"kind": "local",
+"year": "2024",
+"number": "309",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Timiș nr. 309/2024",
+"short": "HCJ Timiș nr. 309/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://www.cjtimis.ro/wp-content/uploads/2020/07/309_HCJT_2024.pdf",
+"council": "judet/timis",
+"council_name": "Consiliul Județean Timiș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

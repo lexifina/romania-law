@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/ilfov/2018",
+ "acts": [
+  {
+   "slug": "hcj-ilfov-52-2018",
+   "path": "local/judet/ilfov/2018/52",
+   "short": "HCJ Ilfov nr. 52/2018",
+   "title": "Hotărârea Consiliului Județean Ilfov nr. 52/2018 privind aprobarea contului de execuție pe anul 2017",
+   "url": "https://cjilfov.ro/consiliul-judetean/hotarari/an-2018/",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://cjilfov.ro/wp-content/uploads/hotarari/2018/52.pdf",
+     "sha256": "28adbd32a5ae1fb335b4a76463b5dd1d3834077210c50cf4a2f4b5982d43752c"
+    }
+   ]
+  }
+ ]
+}

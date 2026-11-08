@@ -3,6 +3,50 @@
 "shard": "local/judet/teleorman/2013",
 "acts": [
 {
+"slug": "hcj-teleorman-29-2013",
+"path": "local/judet/teleorman/2013/29",
+"kind": "local",
+"year": "2013",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 29/2013 pentru: modificarea Hotărârii Consiliului Județean Teleorman nr. 53 din 22 aprilie 2011",
+"short": "HCJ Teleorman nr. 29/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-11-04",
+"latest": "2013-11-04",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202013.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-teleorman-34-2013",
+"path": "local/judet/teleorman/2013/34",
+"kind": "local",
+"year": "2013",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 34/2013 pentru: modificarea Hotărârii Consiliului Județean Teleorman nr. 130 din 28 octombrie 2011",
+"short": "HCJ Teleorman nr. 34/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-05-02",
+"latest": "2013-05-02",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202013.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-teleorman-46-2013",
 "path": "local/judet/teleorman/2013/46",
 "kind": "local",
@@ -2393,6 +2437,28 @@
 "versions": 1,
 "from": "2013-12-23",
 "latest": "2013-12-23",
+"portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202013.htm",
+"council": "judet/teleorman",
+"council_name": "Consiliul Județean Teleorman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-teleorman-403-2013",
+"path": "local/judet/teleorman/2013/403",
+"kind": "local",
+"year": "2013",
+"number": "403",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Teleorman nr. 403/2013",
+"short": "HCJ Teleorman nr. 403/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-07-26",
+"latest": "2013-07-26",
 "portal": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202013.htm",
 "council": "judet/teleorman",
 "council_name": "Consiliul Județean Teleorman",

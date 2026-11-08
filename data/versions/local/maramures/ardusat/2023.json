@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--ardusat-19-2023",
+   "path": "local/maramures/ardusat/2023/19",
+   "short": "HCL Ardusat nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 19/2023 privind aprobarea participării Comunei Ardusat la Programul privind casarea autovehiculelor uzate denumit „Rabla Local” derulat în cofinanțare cu Administrația Fondului pentru Mediu (AFM)",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/197417",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/197417",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ardusat-2-2023",
    "path": "local/maramures/ardusat/2023/2",
    "short": "HCL Ardusat nr. 2/2023",
@@ -333,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--ardusat-30-2023",
+   "path": "local/maramures/ardusat/2023/30",
+   "short": "HCL Ardusat nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 30/2023 privind desemnarea reprezentantilor Consiliului Local al comunei Ardusat in Consiliul de Administratie al Scolii Gimnaziale Ardusat, jud.Maramures, pentru anul 2023-2024",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/197439",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/197439",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ardusat-31-2023",
    "path": "local/maramures/ardusat/2023/31",
    "short": "HCL Ardusat nr. 31/2023",
@@ -343,6 +373,21 @@
      "from": "2023-09-29",
      "units": 1,
      "source_url": "https://emol.ro/ardusat-mm/registru-hcl/197440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-32-2023",
+   "path": "local/maramures/ardusat/2023/32",
+   "short": "HCL Ardusat nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 32/2023 Privind aprobarea cesiunii Contractului de concesionare nr.1805 din 20.09.2005",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/197441",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/197441",
      "sha256": null
     }
    ]
@@ -718,6 +763,21 @@
      "from": "2023-02-28",
      "units": 1,
      "source_url": "https://emol.ro/ardusat-mm/registru-hcl/197405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-9-2023",
+   "path": "local/maramures/ardusat/2023/9",
+   "short": "HCL Ardusat nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 9/2023",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/197406",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/197406",
      "sha256": null
     }
    ]

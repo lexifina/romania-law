@@ -3,6 +3,111 @@
  "shard": "local/maramures/farcasa/2025",
  "acts": [
   {
+   "slug": "hcl-maramures--farcasa-1-2025",
+   "path": "local/maramures/farcasa/2025/1",
+   "short": "HCL Fărcașa nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 1/2025 privind aprobarea criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, în comuna Fărcașa, județul Maramureș",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/191188",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/191188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-10-2025",
+   "path": "local/maramures/farcasa/2025/10",
+   "short": "HCL Fărcașa nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 10/2025 privind stabilirea apartenenței construcției Sală de sport cu tribună 180 locuri la domeniul public al comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196824",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-11-2025",
+   "path": "local/maramures/farcasa/2025/11",
+   "short": "HCL Fărcașa nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 11/2025 privind stabilirea apartenenței unor construcții înscrise în cartea funciară nr. 51063 la domeniul public al comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196825",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-12-2025",
+   "path": "local/maramures/farcasa/2025/12",
+   "short": "HCL Fărcașa nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 12/2025 privind stabilirea apartenenței construcției anexă la Bazin de înot didactic la domeniul public al comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196826",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-13-2025",
+   "path": "local/maramures/farcasa/2025/13",
+   "short": "HCL Fărcașa nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 13/2025 privind aprobarea Planului Urbanistic de Detaliu ”Construire Hală și amenajări exterioare”, comuna Fărcașa, sat Sârbi, str. Independenței, nr.8A, jud. Maramureș",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196827",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-14-2025",
+   "path": "local/maramures/farcasa/2025/14",
+   "short": "HCL Fărcașa nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 14/2025 privind trecerea unor imobile din domeniul public al comunei Fărcașa în domeniul privat al acesteia",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196828",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-15-2025",
+   "path": "local/maramures/farcasa/2025/15",
+   "short": "HCL Fărcașa nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 15/2025 privind aprobarea tipului de suport alimentar ce se acordă preșcolarilor și elevilor din cadrul Școlii profesionale Fărcașa în cadrul Programului national ”Masă sănătoasă”",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196829",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196829",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--farcasa-16-2025",
    "path": "local/maramures/farcasa/2025/16",
    "short": "HCL Fărcașa nr. 16/2025",
@@ -18,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--farcasa-17-2025",
+   "path": "local/maramures/farcasa/2025/17",
+   "short": "HCL Fărcașa nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 17/2025 privind alegerea preşedintelui de şedinţă pentru conducerea ședinței ordinare a Consiliului local al comunei Fărcașa din data de 20 martie 2025",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/200484",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/200484",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--farcasa-18-2025",
    "path": "local/maramures/farcasa/2025/18",
    "short": "HCL Fărcașa nr. 18/2025",
@@ -28,6 +148,561 @@
      "from": "2025-04-09",
      "units": 1,
      "source_url": "https://emol.ro/farcasa-mm/registru-hcl/200485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-19-2025",
+   "path": "local/maramures/farcasa/2025/19",
+   "short": "HCL Fărcașa nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 19/2025 privind punerea în valoare a pajiștilor aflate în domeniul privat al comunei Fărcașa, prin închireirea acestora crescătorilor de animale",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/200486",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/200486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-2-2025",
+   "path": "local/maramures/farcasa/2025/2",
+   "short": "HCL Fărcașa nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 2/2025 privind aprobarea utilizării parțiale a excedentului bugetului local al comunei Fărcașa rezultat la încheierea exercițiului bugetar al anului 2024 pentru obiectivul de investiții „Dotarea cu mobilier, materiale didactice și echipamente a Școlii Gimnaziale ”Lucian Blaga” Fărcașa, județul Maramureș”",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/191189",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/191189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-20-2025",
+   "path": "local/maramures/farcasa/2025/20",
+   "short": "HCL Fărcașa nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 20/2025 privind modificarea Hotărârii Consiliului local al comunei Fărcașa nr. 10 din 31 ianuarie 2011 privind constituirea comisiei locale de ordine publică la nivelul comunei Fărcașa, cu modificările ulterioare",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/200487",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/200487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-21-2025",
+   "path": "local/maramures/farcasa/2025/21",
+   "short": "HCL Fărcașa nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 21/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/200488",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/200488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-22-2025",
+   "path": "local/maramures/farcasa/2025/22",
+   "short": "HCL Fărcașa nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 22/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2024",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/200489",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/200489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-23-2025",
+   "path": "local/maramures/farcasa/2025/23",
+   "short": "HCL Fărcașa nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 23/2025 privind aprobarea listei de prioritate pentru atribuirea locuinţelor pentru tineri, în regim de închiriere, construite prin Agenția Națională pentru Locuințe și a listei de repartizare",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207283",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-24-2025",
+   "path": "local/maramures/farcasa/2025/24",
+   "short": "HCL Fărcașa nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 24/2025 privind modificarea Hotărârii Consiliului local al comunei Fărcașa nr. 19 din 20 martie 2025 privind punerea în valoare a pajiștilor aflate în domeniul privat al comunei Fărcașa, prin închirierea acestora crescătorilor de animale",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207284",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-25-2025",
+   "path": "local/maramures/farcasa/2025/25",
+   "short": "HCL Fărcașa nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 25/2025 privind actualizarea valorii serviciilor de pază a pădurii proprietatea Comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207285",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-26-2025",
+   "path": "local/maramures/farcasa/2025/26",
+   "short": "HCL Fărcașa nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 26/2025 privind actualizarea Planului de analiză şi acoperire a riscurilor generatoare de situații de urgență la nivelul comunei Fărcaşa pe anul 2025",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207286",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-27-2025",
+   "path": "local/maramures/farcasa/2025/27",
+   "short": "HCL Fărcașa nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 27/2025 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâre cu caracter normativ care se supun adoptării Consiliului local al comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207287",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-28-2025",
+   "path": "local/maramures/farcasa/2025/28",
+   "short": "HCL Fărcașa nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 28/2025 privind aprobarea Ghidului solicitantului pentru finanțarea nerambursabilă din bugetul local a programelor, proiectelor și acțiunilor în domeniul sportului",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207288",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-29-2025",
+   "path": "local/maramures/farcasa/2025/29",
+   "short": "HCL Fărcașa nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 29/2025 privind organizarea așezământului cultural CASA DE CULTURĂ FĂRCAȘA",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207289",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-3-2025",
+   "path": "local/maramures/farcasa/2025/3",
+   "short": "HCL Fărcașa nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 3/2025 privind aderarea la sistemul prin cooperare pentru organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Maramureș a Asociației Comunelor din România",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/191190",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/191190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-30-2025",
+   "path": "local/maramures/farcasa/2025/30",
+   "short": "HCL Fărcașa nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 30/2025 privind modificarea Hotărârii Consiliului local al comunei Fărcașa nr. 29 din 24 iunie 2021 privind aprobarea organigramei și statului de funcții la nivelul instituției publice Comuna Fărcașa, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207290",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-31-2025",
+   "path": "local/maramures/farcasa/2025/31",
+   "short": "HCL Fărcașa nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 31/2025 privind alegerea preşedintelui de şedinţă pentru perioada mai-iulie 2025",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/207291",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/207291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-32-2025",
+   "path": "local/maramures/farcasa/2025/32",
+   "short": "HCL Fărcașa nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 32/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/212910",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/212910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-33-2025",
+   "path": "local/maramures/farcasa/2025/33",
+   "short": "HCL Fărcașa nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 33/2025 privind aprobarea Statutului comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/212911",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/212911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-34-2025",
+   "path": "local/maramures/farcasa/2025/34",
+   "short": "HCL Fărcașa nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 34/2025 privind participarea Comunei Fărcașa la Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic (Rabla Plus)",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/212912",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/212912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-35-2025",
+   "path": "local/maramures/farcasa/2025/35",
+   "short": "HCL Fărcașa nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 35/2025 privind aprobarea depunerii cererii de finanțare pentru implementarea proiectului „Grijă pentru seniorii comunei Fărcașa”",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/212913",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/212913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-36-2025",
+   "path": "local/maramures/farcasa/2025/36",
+   "short": "HCL Fărcașa nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 36/2025 privind aprobarea depunerii cererii de finanțare pentru implementarea proiectului ,, Înființare Centrul Respiro în comuna Fărcașa\"",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/212914",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/212914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-37-2025",
+   "path": "local/maramures/farcasa/2025/37",
+   "short": "HCL Fărcașa nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 37/2025 privind modificarea Hotărârii Consiliului local al comunei Fărcașa nr.18/2012 privind reorganizarea Serviciului voluntar pentru situaţii de urgenţă Fărcaşa, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/217450",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/217450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-38-2025",
+   "path": "local/maramures/farcasa/2025/38",
+   "short": "HCL Fărcașa nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 38/2025 privind aprobarea Regulamentului de funcționare a Bazinului de înot didactic din localitatea Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/217451",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/217451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-39-2025",
+   "path": "local/maramures/farcasa/2025/39",
+   "short": "HCL Fărcașa nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 39/2025 privind aprobarea Regulamentului privind funcționarea și exploatarea stațiilor de reîncărcare a vehiculelor electrice și hybrid plug-in din Comuna Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/217452",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/217452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-4-2025",
+   "path": "local/maramures/farcasa/2025/4",
+   "short": "HCL Fărcașa nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 4/2025 privind aprobarea Planului de acțiune al compartimentului de asistență socială de la nivelul comunei Fărcașa pentru anul 2025",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/191191",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/191191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-40-2025",
+   "path": "local/maramures/farcasa/2025/40",
+   "short": "HCL Fărcașa nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 40/2025 privind aprobarea Regulamentului serviciului de salubrizare al Județului Maramureș",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/217453",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/217453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-41-2025",
+   "path": "local/maramures/farcasa/2025/41",
+   "short": "HCL Fărcașa nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 41/2025 privind stabilirea unor măsuri privind delegarea gestiunii activităților componente ale serviciului de salubrizare privind transferul, sortarea, tratarea mecano-biologică, compostarea, operarea centrelor de colectare cu aport voluntar și eliminarea prin depozitare a deșeurilor municipale în județul Maramureș",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/217454",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/217454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-42-2025",
+   "path": "local/maramures/farcasa/2025/42",
+   "short": "HCL Fărcașa nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 42/2025 privind aprobarea de măsuri pentru implementarea proiectului „Înființare Centru Respiro în comuna Fărcașa\"",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/217455",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/217455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-43-2025",
+   "path": "local/maramures/farcasa/2025/43",
+   "short": "HCL Fărcașa nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 43/2025 privind aprobarea devizului general și a indicatorilor tehnico-economici, actualizate în urma finalizării procedurilor de achiziții publice, pentru obiectivul de investiții „Modernizare și extindere infrastructură apă, canal în comuna Fărcașa, județul Maramureș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/217465",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/217465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-44-2025",
+   "path": "local/maramures/farcasa/2025/44",
+   "short": "HCL Fărcașa nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 44/2025 privind înființarea, organizarea și funcționarea serviciului de utilități publice--serviciul de iluminat public la nivelul comunei Fărcașa, precum și alegerea modalității de gestionare a acestuia",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/221811",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/221811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-45-2025",
+   "path": "local/maramures/farcasa/2025/45",
+   "short": "HCL Fărcașa nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 45/2025 privind aprobarea repartizării finanțărilor nerambursabile pentru programele, proiectele și acțiunile în domeniul sportului",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/221812",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/221812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-46-2025",
+   "path": "local/maramures/farcasa/2025/46",
+   "short": "HCL Fărcașa nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 46/2025 privind alegerea preşedintelui de şedinţă pentru perioada august-octombrie 2025",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/221813",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/221813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-47-2025",
+   "path": "local/maramures/farcasa/2025/47",
+   "short": "HCL Fărcașa nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 47/2025 privind aprobarea listei de prioritate pentru atribuirea locuinţelor pentru tineri, în regim de închiriere, construite prin Agenția Națională pentru Locuințe și a listei de repartizare",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/221814",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/221814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-48-2025",
+   "path": "local/maramures/farcasa/2025/48",
+   "short": "HCL Fărcașa nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 48/2025 privind modificarea Hotărârii Consiliului local al comunei Fărcașa nr. 38 din 26 iunie 2025 privind aprobarea Regulamentului de funcționare a Bazinului de înot didactic din localitatea Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/230493",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/230493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-49-2025",
+   "path": "local/maramures/farcasa/2025/49",
+   "short": "HCL Fărcașa nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 49/2025 privind aprobarea regulamentului de organizare și funcționare a așezământului cultural CASA DE CULTURĂ FĂRCAȘAaa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/230494",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/230494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-5-2025",
+   "path": "local/maramures/farcasa/2025/5",
+   "short": "HCL Fărcașa nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 5/2025 privind aprobarea programului de acțiune comunitară destinat prevenirii şi combaterii riscului de sărăcie şi excluziune socială",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/191192",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/191192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-50-2025",
+   "path": "local/maramures/farcasa/2025/50",
+   "short": "HCL Fărcașa nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 50/2025 privind aprobarea bugetului proiectului și a cofinanțării din bugetul local pentru implementarea proiectului ,, Grijă pentru seniorii comunei Fărcașa”",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/230495",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/230495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-51-2025",
+   "path": "local/maramures/farcasa/2025/51",
+   "short": "HCL Fărcașa nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 51/2025 privind stabilirea unor măsuri pentru derularea procedurii de negociere fără publicarea prealabilă a unui anunț de participare pentru încheierea contractelor de prestari servicii de salubrizare pentru activităţile de tratare mecano-bilogică şi depozitare a deşeurilor municipale din zona 1 a jud. Maramureş, precum și comunele Cernești, Coroieni și Suciu de Sus",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/230496",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/230496",
      "sha256": null
     }
    ]
@@ -148,6 +823,21 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/farcasa-mm/registru-hcl/234963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-6-2025",
+   "path": "local/maramures/farcasa/2025/6",
+   "short": "HCL Fărcașa nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 6/2025 privind alegerea preşedintelui de şedinţă pentru perioada februarie-aprilie 2025",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/191193",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/191193",
      "sha256": null
     }
    ]
@@ -303,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--farcasa-7-2025",
+   "path": "local/maramures/farcasa/2025/7",
+   "short": "HCL Fărcașa nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 7/2025 privind stabilirea chiriei pentru locuințele pentru tineri, destinate închirierii, realizate prin Agenția Națională pentru Locuințe în localitatea Tămaia, precum și pentru actualizarea chiriei pentru locuințele pentru tineri, destinate închirieri, realizate prin Agenția Națională pentru Locuințe, aflate în folosința chiriașilor, în localitatea Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196821",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196821",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--farcasa-70-2025",
    "path": "local/maramures/farcasa/2025/70",
    "short": "HCL Fărcașa nr. 70/2025",
@@ -328,6 +1033,36 @@
      "from": "2026-01-20",
      "units": 1,
      "source_url": "https://emol.ro/farcasa-mm/registru-hcl/247409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-8-2025",
+   "path": "local/maramures/farcasa/2025/8",
+   "short": "HCL Fărcașa nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 8/2025 privind stabilirea documentelor care se depun la dosarul de solicitare a unei locuințe pentru tineri, destinate închirierii, realizate prin Agenția Națională pentru Locuințe în Comuna Fărcașa, județul Maramureș",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196822",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-9-2025",
+   "path": "local/maramures/farcasa/2025/9",
+   "short": "HCL Fărcașa nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 9/2025 privind aprobarea Strategiei de tarifare aferentă planului de afaceri, a Strategiei privind redevența și a altor documente pentru Serviciul public apa canal Farcasa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196823",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196823",
      "sha256": null
     }
    ]

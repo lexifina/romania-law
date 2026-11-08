@@ -4687,6 +4687,29 @@
 }
 },
 {
+"slug": "hcj-giurgiu-228-2025",
+"path": "local/judet/giurgiu/2025/228",
+"kind": "local",
+"year": "2025",
+"number": "228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 228/2025",
+"short": "HCJ Giurgiu nr. 228/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-20",
+"latest": "2025-10-20",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-giurgiu-229-2025",
 "path": "local/judet/giurgiu/2025/229",
 "kind": "local",

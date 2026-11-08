@@ -1,0 +1,816 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/popesti-leordeni/2010",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-1-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/1",
+   "short": "HCL Popești-Leordeni nr. 1/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 1/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/001",
+   "versions": [
+    {
+     "from": "2010-01-07",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_001.pdf",
+     "sha256": "7a88f1d03ed69f653a08496885367a481b1deea8c75c6dd191b1bc922dcfa726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-10-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/10",
+   "short": "HCL Popești-Leordeni nr. 10/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 10/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/010",
+   "versions": [
+    {
+     "from": "2010-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_010.pdf",
+     "sha256": "ec027d5bd77b83619583caa41ffd0f07f0e8fd7f81d3351fd7662bd5b0b7f402"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-11-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/11",
+   "short": "HCL Popești-Leordeni nr. 11/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 11/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/011",
+   "versions": [
+    {
+     "from": "2010-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_011.pdf",
+     "sha256": "0a83df4a6aa394127a8449c8f73efcaf3996e965227915bfb4b96311801ad2f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-12-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/12",
+   "short": "HCL Popești-Leordeni nr. 12/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 12/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/012",
+   "versions": [
+    {
+     "from": "2010-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_012.pdf",
+     "sha256": "59092ec3f3d108c5c0902eee9e9909b13d106580f5a56ddf792b3e57d0b21588"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-13-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/13",
+   "short": "HCL Popești-Leordeni nr. 13/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 13/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/013",
+   "versions": [
+    {
+     "from": "2010-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_013.pdf",
+     "sha256": "cc3e50e1dd3db96cb7fbb957c6e834b8a6e9af1d5d410c12a239883f3b3822fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-14-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/14",
+   "short": "HCL Popești-Leordeni nr. 14/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 14/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/014",
+   "versions": [
+    {
+     "from": "2010-05-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_014.pdf",
+     "sha256": "ca7abebd8f711b8bb5c69c2a3b0ef2913d15f40d77dccd25121f0879f74d948f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-15-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/15",
+   "short": "HCL Popești-Leordeni nr. 15/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 15/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/015",
+   "versions": [
+    {
+     "from": "2010-05-31",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_015.pdf",
+     "sha256": "51d619d9be9d03cafd74c733fa672e34143c7052b6d6642f06bcfc4524047f3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-16-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/16",
+   "short": "HCL Popești-Leordeni nr. 16/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 16/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/016",
+   "versions": [
+    {
+     "from": "2010-05-31",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_016.pdf",
+     "sha256": "53a0f6950d0119e59cdb9b8689a26e0854133d54acb34991d8c73378e759d68e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-17-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/17",
+   "short": "HCL Popești-Leordeni nr. 17/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 17/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/017",
+   "versions": [
+    {
+     "from": "2010-06-09",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_017.pdf",
+     "sha256": "5db404bda2bfe9b060e4ee10f67f6cd7334b844b61cca0d0376633ff7153eb2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-18-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/18",
+   "short": "HCL Popești-Leordeni nr. 18/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 18/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/018",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_018.pdf",
+     "sha256": "e82243060811d82cb7233900d344e1e7a708413358c8d125f9c921e7c5cff988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-19-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/19",
+   "short": "HCL Popești-Leordeni nr. 19/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 19/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/019",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_019.pdf",
+     "sha256": "a0f184b8fe5df8d4d27cbae26e7b42f9d539dfde470caa480898d7aba51c0fd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-2-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/2",
+   "short": "HCL Popești-Leordeni nr. 2/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 2/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/002",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_002.pdf",
+     "sha256": "1f7aca387a1bcdd193fa6c77a070359b86bc8380e3fad877c2b8d277c50fae3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-20-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/20",
+   "short": "HCL Popești-Leordeni nr. 20/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 20/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/020",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_020.pdf",
+     "sha256": "c7eca0a650adcc1cff76a4bbf47a52c42763290c3c1e65a3d29a57482c4c62d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-21-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/21",
+   "short": "HCL Popești-Leordeni nr. 21/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 21/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/021",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_021.pdf",
+     "sha256": "d0e2ddfaf363898791d08c5e8d51b0b33cf587ee2cb316652c8f73b2cc8c5a27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-22-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/22",
+   "short": "HCL Popești-Leordeni nr. 22/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 22/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/022",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_022.pdf",
+     "sha256": "c106326955940c1caa76055366b2dae4f40603ad1feb8afc83d46c1e94aa5b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-23-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/23",
+   "short": "HCL Popești-Leordeni nr. 23/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 23/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/023",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_023.pdf",
+     "sha256": "0546da052c9fa9ca119bbd25f9b9bcde792a2443f0c131c276685a19114794ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-24-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/24",
+   "short": "HCL Popești-Leordeni nr. 24/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 24/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/024",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_024.pdf",
+     "sha256": "0b8fe15c9c4ee936a854a96c683763ec13e5ebf85df8c99d3e311326e877877d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-25-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/25",
+   "short": "HCL Popești-Leordeni nr. 25/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 25/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/025",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_025.pdf",
+     "sha256": "f01836999e4bf9600a8b388deb8625527ab77bdc9a7ddce538434369bd1c636a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-26-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/26",
+   "short": "HCL Popești-Leordeni nr. 26/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 26/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/026",
+   "versions": [
+    {
+     "from": "2010-07-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_026.pdf",
+     "sha256": "bf7e0e4f1760ef5a8988d2d89323df0d558e25456f92843fa16ea91fae7b679c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-27-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/27",
+   "short": "HCL Popești-Leordeni nr. 27/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 27/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/027",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_027.pdf",
+     "sha256": "aaf8a53b2ac1e17748296d1ba1b430d8b864a7575535319d83bcbb8ec4d70155"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-28-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/28",
+   "short": "HCL Popești-Leordeni nr. 28/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 28/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/028",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_028.pdf",
+     "sha256": "adff1c1769181ad75eb2e872ac6dec0012315d295947822d94a1ff68d453d7c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-29-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/29",
+   "short": "HCL Popești-Leordeni nr. 29/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 29/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/029",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_029.pdf",
+     "sha256": "8c244d303586dca71ec09cd1a292b6479d734fe942edf04582a4a7ec2c6fbcaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-3-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/3",
+   "short": "HCL Popești-Leordeni nr. 3/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 3/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/003",
+   "versions": [
+    {
+     "from": "2010-01-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_003.pdf",
+     "sha256": "be910499d14926924b519b35d8f65c53b6a21d8de24f180ae494c893891116bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-30-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/30",
+   "short": "HCL Popești-Leordeni nr. 30/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 30/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/030",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_030.pdf",
+     "sha256": "5c792489e7324b38d2b35b0dab9cf12c552d7863bd83f62b0902d41946ba08ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-31-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/31",
+   "short": "HCL Popești-Leordeni nr. 31/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 31/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/031",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_031.pdf",
+     "sha256": "18160a1e5f5492263d8cbfedbb18f280f47e795306c5026ab205d912a22bf4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-32-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/32",
+   "short": "HCL Popești-Leordeni nr. 32/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 32/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/032",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_032.pdf",
+     "sha256": "3cdc436342e4f8f7ad32bfe099701237fe208cdb4b1ebf9d1ae3dca1503c2f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-33-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/33",
+   "short": "HCL Popești-Leordeni nr. 33/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 33/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/033",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_033.pdf",
+     "sha256": "074a72916fa4ecb8200a6fd9e8000e1fee4b2c67c1f800dc4df34c198a4c2f5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-34-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/34",
+   "short": "HCL Popești-Leordeni nr. 34/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 34/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/034",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_034.pdf",
+     "sha256": "c3f0e1c9092efb71c469875381ac992cdb2533a5421783b129ec4e507aa880c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-35-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/35",
+   "short": "HCL Popești-Leordeni nr. 35/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 35/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/035",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_035.pdf",
+     "sha256": "d5b9ee77229be92d120cfa37cb39b9bd167dae205a67e723d60128fa366dc67c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-36-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/36",
+   "short": "HCL Popești-Leordeni nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 36/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/036",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_036.pdf",
+     "sha256": "81704d696f79ef41dd8fb13833c6971a7006d75b932e3eba12b41c48009e257a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-37-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/37",
+   "short": "HCL Popești-Leordeni nr. 37/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 37/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/037",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_037.pdf",
+     "sha256": "5d2aca45599df7b59ab6619168e16e07e81da8541aa4860b570773a87a1a3d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-38-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/38",
+   "short": "HCL Popești-Leordeni nr. 38/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 38/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/038",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_038.pdf",
+     "sha256": "07d661c7b71d5fb38358d2f617830783799cf8f3cf143ed36f4d477682da2d27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-39-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/39",
+   "short": "HCL Popești-Leordeni nr. 39/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 39/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/039",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_039.pdf",
+     "sha256": "18e779e107f774d27c36397f58e0e6b5047fff2ca7538afa79c4348dd59da63c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-4-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/4",
+   "short": "HCL Popești-Leordeni nr. 4/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 4/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/004",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_004.pdf",
+     "sha256": "a09e3a1c565f1281f961e98fbb30c86e255a2e9ac5c21865fd37cbe61a7da556"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-40-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/40",
+   "short": "HCL Popești-Leordeni nr. 40/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 40/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/040",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_040.pdf",
+     "sha256": "9d3120f9f45dce647916ef9cd43f7ee1c4db67c8a0256e9838014fdd25744f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-41-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/41",
+   "short": "HCL Popești-Leordeni nr. 41/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 41/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/041",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_041.pdf",
+     "sha256": "44dfe42e7e8d74b37dc080390f930c3804b7f2dc6f2bf2a2c5e9fb875e837d01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-42-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/42",
+   "short": "HCL Popești-Leordeni nr. 42/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 42/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/042",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_042.pdf",
+     "sha256": "bdb12518b7f7994d4abfb3bd0dacc308848aeb82b023a9de8b3a1dc3dbd10004"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-43-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/43",
+   "short": "HCL Popești-Leordeni nr. 43/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 43/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/043",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_043.pdf",
+     "sha256": "27f77c60edfd600e930bf11e2a19eb78e4adfc7340db67147932c9b23ba84fc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-44-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/44",
+   "short": "HCL Popești-Leordeni nr. 44/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 44/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/044",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_044.pdf",
+     "sha256": "879857fbf637245751a5ead82652972c881f87b61778131f01a7ef13d03dddf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-45-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/45",
+   "short": "HCL Popești-Leordeni nr. 45/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 45/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/045",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_045.pdf",
+     "sha256": "2617cfddedc013505039d6b5a56c25d7ec51bac7d9e409716d87cfbbc770a78d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-46-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/46",
+   "short": "HCL Popești-Leordeni nr. 46/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 46/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/046",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_046.pdf",
+     "sha256": "285b71b16fed61de5287fcc7dbc82f7b2f280010c4c68b65979807803723ddb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-47-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/47",
+   "short": "HCL Popești-Leordeni nr. 47/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 47/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/047",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_047.pdf",
+     "sha256": "0f6b4c1df578e0c20d756614be32e47a0b96ca8cc4dc6288772cb0ad03273719"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-48-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/48",
+   "short": "HCL Popești-Leordeni nr. 48/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 48/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/048",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_048.pdf",
+     "sha256": "6325644609b953e0863e6bb60c5c18a5fa0f949aff0b4edd26fe09c6dad74da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-49-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/49",
+   "short": "HCL Popești-Leordeni nr. 49/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 49/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/049",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_049.pdf",
+     "sha256": "23475eae4cef9d3c322ad2a9e389e2d49551669ffe17eee7be3c5645dceb790f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-5-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/5",
+   "short": "HCL Popești-Leordeni nr. 5/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 5/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/005",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_005.pdf",
+     "sha256": "88c389c30a21a2cfcdf36c8f1d8468d0e1c1ea122f4a17c1e854ae2ae998f51d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-50-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/50",
+   "short": "HCL Popești-Leordeni nr. 50/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 50/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/050",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_050.pdf",
+     "sha256": "dda9d4ecb301944b726a90854d52813f392d362d0f9740255b8b9976ec8fedc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-51-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/51",
+   "short": "HCL Popești-Leordeni nr. 51/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 51/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/051",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_051.pdf",
+     "sha256": "c7f1e0d9f5657f5aca49accd20d9f9bdab9573ec81f2e20dc1d90fade30c624a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-52-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/52",
+   "short": "HCL Popești-Leordeni nr. 52/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 52/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/052",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_052.pdf",
+     "sha256": "ebe2f9034ee61853840ff11e671c7348913cb287c17c4590000fbc310b832cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-53-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/53",
+   "short": "HCL Popești-Leordeni nr. 53/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 53/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/053",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_053.pdf",
+     "sha256": "eccbc0fc026bfb65fdd789ad8294d46628af830b9cedb6b603f057468c13a5d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-54-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/54",
+   "short": "HCL Popești-Leordeni nr. 54/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 54/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/054",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_054.pdf",
+     "sha256": "822547b5d1273d90f68500274ffc020830138b3a2ea0ea4c3931d29c4a84f49c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-6-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/6",
+   "short": "HCL Popești-Leordeni nr. 6/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 6/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/006",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_006.pdf",
+     "sha256": "f5962c1a109566f167b4cc250a8ebd5c09123cd952098849cbb429f6bddd360a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-7-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/7",
+   "short": "HCL Popești-Leordeni nr. 7/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 7/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/007",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_007.pdf",
+     "sha256": "d73fd391399f0f7689210401c0d311aa72b4fd6d1aad8b43f09396af6e35a9e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-8-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/8",
+   "short": "HCL Popești-Leordeni nr. 8/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 8/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/008",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_008.pdf",
+     "sha256": "732450c62ea28399a165ef9bb555a2a6dc7bae1d843a6349e0009fc7a4e7f4e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-9-2010",
+   "path": "local/ilfov/popesti-leordeni/2010/9",
+   "short": "HCL Popești-Leordeni nr. 9/2010",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 9/2010",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2010/009",
+   "versions": [
+    {
+     "from": "2010-03-10",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2010/2010--hcl_009.pdf",
+     "sha256": "1c5c94c4db69d2b97950f6fcc89bc4889d7c900ccb9c5f636c3eadb584ab797e"
+    }
+   ]
+  }
+ ]
+}

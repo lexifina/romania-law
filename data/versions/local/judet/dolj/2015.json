@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-dolj-1302-2015",
+   "path": "local/judet/dolj/2015/1302",
+   "short": "HCJ Dolj nr. 1302/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1302/2015 privind modificarea articolului S al Hotărârii Consiliului Județean Dolj nr.150/27.06.2013 privind reprezentantul Județului Dolj în Adunarea Generală a Asociației „CRAIOVA CAPITALĂ CULTURALĂ EUROPEANĂ 2021”",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2023.pdf",
+     "sha256": "8a5f68fec086ac0c5f2355b4bef9926df1f96e8d113548fc2a942a2168af3032"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-132-2015",
    "path": "local/judet/dolj/2015/132",
    "short": "HCJ Dolj nr. 132/2015",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20153.pdf",
      "sha256": "cab885997fcee94b47e226338a042f03d659462d631c0fdb3c46147cf3432431"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-165-2015",
+   "path": "local/judet/dolj/2015/165",
+   "short": "HCJ Dolj nr. 165/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 165/2015 privind aprobarea rectificării bugetului de venituri și cheltuieli și a listei de investiții ale R.A",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20165.pdf",
+     "sha256": "1f9eb6181cd03fdb1ef960729d7c174b020c74acfd6bea99280f70ace8bf8e23"
     }
    ]
   },
@@ -123,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcj-dolj-225-2015",
+   "path": "local/judet/dolj/2015/225",
+   "short": "HCJ Dolj nr. 225/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 225/2015 privind aprobarea rectificării bugetului propriu al județului Dolj pe anul 2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20224.pdf",
+     "sha256": "9bcd60701166c260a4c0d72fb0084bb84e87df41ef8d6f39efb2cda75657657b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-226-2015",
    "path": "local/judet/dolj/2015/226",
    "short": "HCJ Dolj nr. 226/2015",
@@ -134,6 +179,51 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20226.pdf",
      "sha256": "ab6b06ab23b3c60bf7485b9bbc7cee2e75ac1bbfcc8e564119a7fef789f7d76c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2311-2015",
+   "path": "local/judet/dolj/2015/2311",
+   "short": "HCJ Dolj nr. 2311/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2311/2015 privind aprobarea modificării statului de funcții pentru Spitalul de Pneumoftiziologie Leamna . Consiliul Județean Dolj, întrunit în ședință ordinară,",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2039.pdf",
+     "sha256": "7e19c27afc728d17f3b3deab809bfcab94f00f711501513c49cb7fb1b3fb03e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2435-2015",
+   "path": "local/judet/dolj/2015/2435",
+   "short": "HCJ Dolj nr. 2435/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2435/2015 privind aprobarea modificării organigramei și statului de funcții pentru Muzeul Olteniei Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2040.pdf",
+     "sha256": "33641cc2dc2b7908cb3a07ed20129c599b27453313f7911a7f7b475f1389709a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-2463-2015",
+   "path": "local/judet/dolj/2015/2463",
+   "short": "HCJ Dolj nr. 2463/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2463/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2038.pdf",
+     "sha256": "abc6701ca6beaeed05ba9e6ea43c45b042f5f1ee24f8bd44406a3c6be7740a61"
     }
    ]
   },
@@ -438,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcj-dolj-286-2015",
+   "path": "local/judet/dolj/2015/286",
+   "short": "HCJ Dolj nr. 286/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 286/2015 privind aprobarea modificării statului de funcții pentru Centrul Medico Social Brabova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-01-09",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2016.pdf",
+     "sha256": "f7186fe64900e32f5f969d2bf2f32edf2cd68f2427d1897215a68eaf9763ad50"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-315-2015",
    "path": "local/judet/dolj/2015/315",
    "short": "HCJ Dolj nr. 315/2015",
@@ -464,6 +569,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20325.pdf",
      "sha256": "d239d2105ec8bae0c8fa66fe550b011c063bd5fd1bcdf96333929072ec2cb93e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-326-2015",
+   "path": "local/judet/dolj/2015/326",
+   "short": "HCJ Dolj nr. 326/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 326/2015 pentru Protejarea si Sprijinirea Ranitilor, Invalizilor si Urmasilor celor Cazuti in Timpul Revolutiei din decembrie 1989 – Dolj in vederea organizarii de activitati festive pentru marcarea zilei de 22 decembrie",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-02-07",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20326.pdf",
+     "sha256": "14c919ba3dce5642f7e0b268b906884ac5e9f5b7e3bafc1e784a280750b96110"
     }
    ]
   },
@@ -633,6 +753,36 @@
    ]
   },
   {
+   "slug": "hcj-dolj-375-2015",
+   "path": "local/judet/dolj/2015/375",
+   "short": "HCJ Dolj nr. 375/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 375/2015 privind aprobarea modificării organigramei și statului de funcții pentru Muzeul Olteniei Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-01-12",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2017.pdf",
+     "sha256": "e7af3211935a891e6aca04986c58f31241784c3bf2c34b1d9f767677aa0137f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-410-2015",
+   "path": "local/judet/dolj/2015/410",
+   "short": "HCJ Dolj nr. 410/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 410/2015 privind aprobarea incheierii Protocolului de colaborare intre Oficiul Național al Registrului Comerțului (ONRC) și Consiliul Județean Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20170.pdf",
+     "sha256": "be6643a51220c62966d54659be18c70e4f5867730da9f821fb06519f0cce44b4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-43-2015",
    "path": "local/judet/dolj/2015/43",
    "short": "HCJ Dolj nr. 43/2015",
@@ -644,6 +794,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2043.pdf",
      "sha256": "c77a87ee5bf84fbd509e91c0823b27ad5d880dbee0334ea41cc6ef1d8113b685"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-49-2015",
+   "path": "local/judet/dolj/2015/49",
+   "short": "HCJ Dolj nr. 49/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 49/2015 privind aprobarea protocolului de cooperare dintre Consiliul Județean Dolj și Universitatea din Craiova — Facultatea de Automatică, Calculatoare și Electronică în vederea organizării Manifestării „Mecatronica și Robotica 2015”",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-03-03",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2049.pdf",
+     "sha256": "bb722078c714760c387a3059342b4ded59acd7ac7b1d30515f03f3cf0081c9a9"
     }
    ]
   },
@@ -663,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcj-dolj-920-2015",
+   "path": "local/judet/dolj/2015/920",
+   "short": "HCJ Dolj nr. 920/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 920/2015 privind aprobarea modificării statului de funcții pentru Spitalul Orășenesc “Așezămintele Brâncovenești” Dăbuleni",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2015.pdf",
+     "sha256": "9cc819f5c943e414076ed0f12b7f23d91cbc154dc9d6bccd6b2e8e326d371113"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-95-2015",
    "path": "local/judet/dolj/2015/95",
    "short": "HCJ Dolj nr. 95/2015",
@@ -674,6 +854,36 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2095.pdf",
      "sha256": "cf3eb3816bcefe51d98cabe62a21a7bb3f531f6e71f97e08f522584696ba5c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-952-2015",
+   "path": "local/judet/dolj/2015/952",
+   "short": "HCJ Dolj nr. 952/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 952/2015 privind evaluarea pe anul 2014 a managementului Muzeului Olteniei Craiova și Muzeului de Artă Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2018.pdf",
+     "sha256": "e8338f96432b139f585219c5ce62c4ab3fdf49171c47ea7c41e473c83de7f43e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-953-2015",
+   "path": "local/judet/dolj/2015/953",
+   "short": "HCJ Dolj nr. 953/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 953/2015 privind evaluarea pe anul 2014 a managementului Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Dolj și a managementului Școlii Populare de Arte și Meserii “Cornetti”",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2019.pdf",
+     "sha256": "090330abb413507877059f25adc22e944e1634b83748c1a2d281719c31d2b98f"
     }
    ]
   },

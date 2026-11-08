@@ -3,6 +3,291 @@
  "shard": "local/maramures/arinis/2026",
  "acts": [
   {
+   "slug": "hcl-maramures--arinis-1-2026",
+   "path": "local/maramures/arinis/2026/1",
+   "short": "HCL Ariniș nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 1/2026 privind alegerea președintelui pentru ședința ordinară a Consiliului Local al Comunei Ariniș din data de 30 ianuarie 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/251905",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/251905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-10-2026",
+   "path": "local/maramures/arinis/2026/10",
+   "short": "HCL Ariniș nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 10/2026 privind aprobarea participării la finanțarea investiției „Înființarea sistemului de distribuție gaze naturale în localitățile Ariniș, Tămășești, Rodina din cadrul UAT Ariniș, județul Maramureș”",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/260192",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/260192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-11-2026",
+   "path": "local/maramures/arinis/2026/11",
+   "short": "HCL Ariniș nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 11/2026 privind alegerea președintelui pentru ședința extraordinară (de îndată) a Consiliului Local al Comunei Ariniș din data de 10 martie 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/260265",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/260265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-12-2026",
+   "path": "local/maramures/arinis/2026/12",
+   "short": "HCL Ariniș nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 12/2026 privind aprobarea prețului la materialul lemnos în volum de 983,39 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/260266",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/260266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-13-2026",
+   "path": "local/maramures/arinis/2026/13",
+   "short": "HCL Ariniș nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 13/2026 privind alegerea președintelui pentru ședința ordinară a Consiliului Local al Comunei Ariniș din data de 31 martie 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/262812",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/262812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-14-2026",
+   "path": "local/maramures/arinis/2026/14",
+   "short": "HCL Ariniș nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 14/2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/262813",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/262813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-15-2026",
+   "path": "local/maramures/arinis/2026/15",
+   "short": "HCL Ariniș nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 15/2026 privind aprobarea contului de execuţie a bugetului de venituri şi cheltuieli al Comunei Ariniș pentru anul 2025, la data de 31.12.2025, precum şi ,,Darea de seamă la data de 31.12.2025”",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/262814",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/262814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-16-2026",
+   "path": "local/maramures/arinis/2026/16",
+   "short": "HCL Ariniș nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 16/2026 privind alegerea președintelui pentru ședința ordinară a Consiliului Local al Comunei Ariniș din data de 15 aprilie 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/266255",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/266255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-17-2026",
+   "path": "local/maramures/arinis/2026/17",
+   "short": "HCL Ariniș nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 17/2026 privind reorganizarea aparatului de specialitate al primarului comunei Ariniș, precum și aprobarea Organigramei și a Statutului de Funcții ca urmare a aplicării prevederilor Ordonanței de Urgență nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/266256",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/266256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-18-2026",
+   "path": "local/maramures/arinis/2026/18",
+   "short": "HCL Ariniș nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 18/2026 privind alegerea președintelui pentru ședința ordinară a Consiliului Local al Comunei Ariniș din data de 11 mai 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/268607",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/268607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-19-2026",
+   "path": "local/maramures/arinis/2026/19",
+   "short": "HCL Ariniș nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 19/2026 privind aprobarea prețului la materialul lemnos în volum de 235,69 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/268608",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/268608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-2-2026",
+   "path": "local/maramures/arinis/2026/2",
+   "short": "HCL Ariniș nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 2/2026 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav şi a numărului de îndemnizaţii pentru anul 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/251906",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/251906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-20-2026",
+   "path": "local/maramures/arinis/2026/20",
+   "short": "HCL Ariniș nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 20/2026 privind aprobarea bugetului local al comunei Ariniș, pe anul 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/268609",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/268609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-21-2026",
+   "path": "local/maramures/arinis/2026/21",
+   "short": "HCL Ariniș nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 21/2026 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local al Comunei Ariniș din data de 17 iunie 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/275016",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/275016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-22-2026",
+   "path": "local/maramures/arinis/2026/22",
+   "short": "HCL Ariniș nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 22/2026 privind rectificarea bugetului local al comunei Ariniş, luna iunie 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/275017",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/275017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-23-2026",
+   "path": "local/maramures/arinis/2026/23",
+   "short": "HCL Ariniș nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 23/2026 privind aprobarea amplasării unei TROIȚE în cimitir sat Rodina, comuna Ariniș, județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/275018",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/275018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-24-2026",
+   "path": "local/maramures/arinis/2026/24",
+   "short": "HCL Ariniș nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 24/2026 privind aprobarea unor modificări de natură tehnică și financiară necesare pentru realizarea investiției: „MODERNIZAREA INFRASTRUCTURII RUTIERE AGRICOLE ÎN COMUNA ARINIȘ JUDEȚUL MARAMUREȘ”",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/275019",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/275019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-25-2026",
+   "path": "local/maramures/arinis/2026/25",
+   "short": "HCL Ariniș nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 25/2026 privind însușirea documentației cadastrale și atestarea apartenenţei la domeniul public al Comunei Ariniș a terenului în suprafaţă de 28.000 mp situat în Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/275020",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/275020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-26-2026",
+   "path": "local/maramures/arinis/2026/26",
+   "short": "HCL Ariniș nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 26/2026 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local al Comunei Ariniș din data de 28 iulie 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/282430",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/282430",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-27-2026",
    "path": "local/maramures/arinis/2026/27",
    "short": "HCL Ariniș nr. 27/2026",
@@ -43,6 +328,21 @@
      "from": "2026-07-28",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/282433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-3-2026",
+   "path": "local/maramures/arinis/2026/3",
+   "short": "HCL Ariniș nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 3/2026 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2025",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/251907",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/251907",
      "sha256": null
     }
    ]
@@ -198,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-4-2026",
+   "path": "local/maramures/arinis/2026/4",
+   "short": "HCL Ariniș nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 4/2026 privind aprobarea Planului de analiză și acoperire a riscurilor identificate la nivelul comunei Ariniș, județul Maramureș, pentru anul 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/251908",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/251908",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-40-2026",
    "path": "local/maramures/arinis/2026/40",
    "short": "HCL Ariniș nr. 40/2026",
@@ -328,6 +643,81 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/297214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-5-2026",
+   "path": "local/maramures/arinis/2026/5",
+   "short": "HCL Ariniș nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 5/2026 privind aprobarea cuantumului chiriei pentru anul 2026 actualizată cu rata inflației pentru locuințele construite de Agenția Națională pentru Locuințe",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/251909",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/251909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-6-2026",
+   "path": "local/maramures/arinis/2026/6",
+   "short": "HCL Ariniș nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 6/2026 privind trecerea din domeniul public în domeniul privat al Comunei Ariniș și vânzarea imobilului prin licitație publică ,,Apartament 2 camere” din localitatea Ariniș nr. 169/2 înscris în CF nr. 50053-C1-U5 proprietatea publică a comunei Ariniș, Județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/251910",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/251910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-7-2026",
+   "path": "local/maramures/arinis/2026/7",
+   "short": "HCL Ariniș nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 7/2026 privind aprobarea utilizării excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2025",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/251911",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/251911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-8-2026",
+   "path": "local/maramures/arinis/2026/8",
+   "short": "HCL Ariniș nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 8/2026 privind aprobarea Planului de acțiuni și lucrări de interes local pentru repartizarea orelor de muncă a beneficiarilor de ajutor de incluziune în condițiile Legii nr. 196/2016 privind venitul minim de incluziune, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/251912",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/251912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-9-2026",
+   "path": "local/maramures/arinis/2026/9",
+   "short": "HCL Ariniș nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 9/2026 privind alegerea președintelui pentru ședința extraordinară (de îndată) a Consiliului Local al Comunei Ariniș din data de 27 februarie 2026",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/260191",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/260191",
      "sha256": null
     }
    ]

@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-101-2022",
+   "path": "local/judet/olt/2022/101",
+   "short": "HCJ Olt nr. 101/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 101/2022 privind aprobarea cererii de transmitere din domeniul public al municipiului Slatina in domeniul public al Judetului Olt, a unor parti dintr-un imobil Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16088.pdf",
+     "sha256": "f20e4f21fbbe82f66a380409bb522ad22fe2d3178edf6b365fb74af10b9569a2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-104-2022",
    "path": "local/judet/olt/2022/104",
    "short": "HCJ Olt nr. 104/2022",
@@ -404,6 +419,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/16389.pdf",
      "sha256": "5ce107e33c94296584f9e99058748ae4e42bbfacdc342e3db34afc2a4aeecc20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-145-2022",
+   "path": "local/judet/olt/2022/145",
+   "short": "HCJ Olt nr. 145/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 145/2022 cu privire la revocarea dreptului de administrare al Directiei de Sanatate Publica Judeteana Olt asupra unor spatii in suprafata totala de 655,78 mp, situate in doua imobile aflate in domeniul public al Judetului Olt si darea acestora in administrarea Spitalului Judetean de Urgenta Slatina Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16392.pdf",
+     "sha256": "b34101b4e6676e6593ee1696c7872282e6007c7957d3cf1571b7022da7213c95"
     }
    ]
   },

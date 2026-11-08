@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-13-2022",
+   "path": "local/maramures/cernesti/2022/13",
+   "short": "HCL Cernești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 13/2022 privind rectificarea bugetului local al Comunei Cernești, pentru aprobarea unui ajutor de urgență în contextul conflictului armat din Ucraina",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/52985",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/52985",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-14-2022",
    "path": "local/maramures/cernesti/2022/14",
    "short": "HCL Cernești nr. 14/2022",
@@ -133,6 +148,21 @@
      "from": "2022-06-06",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/57476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-19-2022",
+   "path": "local/maramures/cernesti/2022/19",
+   "short": "HCL Cernești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 19/2022 privind donarea de către consilierii locali ai Consiliului Local al Comunei Cernești, a unei sume lunare din indemnizație",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/57477",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/57477",
      "sha256": null
     }
    ]
@@ -238,6 +268,21 @@
      "from": "2022-07-19",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/64003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-26-2022",
+   "path": "local/maramures/cernesti/2022/26",
+   "short": "HCL Cernești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 26/2022",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/64004",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/64004",
      "sha256": null
     }
    ]
@@ -358,6 +403,21 @@
      "from": "2022-08-17",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/68914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-34-2022",
+   "path": "local/maramures/cernesti/2022/34",
+   "short": "HCL Cernești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 34/2022 privind modificarea Hotărârii Consiliului Local al Comunei Cernești nr. 19 din 14.04.2022, privind donarea de către consilierii locali ai Consiliului Local al Comunei Cernești, a unei sume lunare din indemnizație",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/72447",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/72447",
      "sha256": null
     }
    ]
@@ -733,6 +793,21 @@
      "from": "2022-02-10",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/50690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-9-2022",
+   "path": "local/maramures/cernesti/2022/9",
+   "short": "HCL Cernești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 9/2022 privind desemnarea unor membrii în comisia de evaluare la concursul organizat de Inspectoratul Școlar Județean Maraureș",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/52981",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/52981",
      "sha256": null
     }
    ]

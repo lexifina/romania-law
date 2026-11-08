@@ -1383,6 +1383,21 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-22-2015",
+   "path": "local/judet/teleorman/2015/22",
+   "short": "HCJ Teleorman nr. 22/2015",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 22/2015",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202015/Hot.%2030.pdf",
+     "sha256": "688f17eeb40e97bc8961d9d2d2ccda52adb67ef737b9212db53fc3ba8d17399b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-23-2015",
    "path": "local/judet/teleorman/2015/23",
    "short": "HCJ Teleorman nr. 23/2015",
@@ -1563,6 +1578,21 @@
    ]
   },
   {
+   "slug": "hcj-teleorman-4-2015",
+   "path": "local/judet/teleorman/2015/4",
+   "short": "HCJ Teleorman nr. 4/2015",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 4/2015 Privind : aprobarea contribuției sub formă de cotizație a Județului Teleorman prim Consiliul Județean Teleorman, la Asociația Club Sportiv Baschet Teleorman - Alexandria, pentru anul 2015",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202015/8.pdf",
+     "sha256": "51bfaabf0821c77c4b7d454e44d7f933fc6833de5d7cdd668413191439f365d4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-teleorman-40-2015",
    "path": "local/judet/teleorman/2015/40",
    "short": "HCJ Teleorman nr. 40/2015",
@@ -1664,6 +1694,21 @@
      "units": 1,
      "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202015/46.pdf",
      "sha256": "9b6d7c771ad9aa52f963b977bf560e046c765434698e1b038f29bc0e45990f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-teleorman-461-2015",
+   "path": "local/judet/teleorman/2015/461",
+   "short": "HCJ Teleorman nr. 461/2015",
+   "title": "Hotărârea Consiliului Județean Teleorman nr. 461/2015",
+   "url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/hotarari%202015.htm",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 1,
+     "source_url": "https://www.cjteleorman.ro/ro/cjt/cjt/hotarari/HOTARARI%202015/161.pdf",
+     "sha256": "ad18de13459f31ab556e5e27040fb9331889c72433946eabb04714bfbc5c1326"
     }
    ]
   },

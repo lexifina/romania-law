@@ -3,6 +3,28 @@
 "shard": "local/maramures/bogdan-voda/2023",
 "acts": [
 {
+"slug": "hcl-maramures--bogdan-voda-1-2023",
+"path": "local/maramures/bogdan-voda/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 1/2023 privind efectuarea unor operatiuni de cadastru pentru imobilul situat în comuna Bogdan Vodă ” Gradina lui Mariș”, apartinând bunurilor domeniului public al Comunei Bogdan Vodă",
+"short": "HCL Bogdan Vodă nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/86509",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-2-2023",
 "path": "local/maramures/bogdan-voda/2023/2",
 "kind": "local",
@@ -154,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Bogdan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-9-2023",
+"path": "local/maramures/bogdan-voda/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 9/2023 privind aprobarea închirierii spațiului din imobilul ”Dispensar Uman” aparținând domeniului public al Comunei Bogdan Vodă, în vederea furnizării de servicii medicale",
+"short": "HCL Bogdan Vodă nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-07",
+"latest": "2023-03-07",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/92731",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -512,6 +556,29 @@
 }
 },
 {
+"slug": "hcl-maramures--bogdan-voda-26-2023",
+"path": "local/maramures/bogdan-voda/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 26/2023",
+"short": "HCL Bogdan Vodă nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-19",
+"latest": "2023-06-19",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/106012",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-27-2023",
 "path": "local/maramures/bogdan-voda/2023/27",
 "kind": "local",
@@ -553,6 +620,28 @@
 "council_name": "Consiliul Local al Comunei Bogdan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-29-2023",
+"path": "local/maramures/bogdan-voda/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 29/2023 privind aprobarea închirierii spațiului din imobilul ”Chioșc Scoală” aparținând domeniului public al Comunei Bogdan Vodă",
+"short": "HCL Bogdan Vodă nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/109783",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -643,6 +732,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-34-2023",
+"path": "local/maramures/bogdan-voda/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 34/2023 privind alegerea președintelui de ședință pentru luna Iulie 2023",
+"short": "HCL Bogdan Vodă nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-06",
+"latest": "2023-07-06",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/111168",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -885,6 +996,72 @@
 "council_name": "Consiliul Local al Comunei Bogdan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-46-2023",
+"path": "local/maramures/bogdan-voda/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 46/2023 privind efectuarea unor operatiuni de cadastru pentru imobilul situat în comuna Bogdan Vodă, sat Bogdan Vodă ”Magazin Krems” nr. 150, județul Maramureș, apartinând bunurilor domeniului public al Comunei Bogdan Vodă",
+"short": "HCL Bogdan Vodă nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/119733",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-47-2023",
+"path": "local/maramures/bogdan-voda/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 47/2023 privind trecerea din domeniul public al Comunei Bogdan Vodă, în domeniul public al Județului Maramureș, a unor terenuri în suprafață de 20.776 mp, pentru realizarea unor obiective de interes județean",
+"short": "HCL Bogdan Vodă nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/119734",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-48-2023",
+"path": "local/maramures/bogdan-voda/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 48/2023 privind închirierea prin încredințare directă a unei suprafețe de teren înscrisă în CF nr. 52691 Bogdan Vodă, proprietatea comunei Bogdan Vodă către S.C VODAFONE ROMĂNIA S.A,în vederea instalării unui shelter și unui generator de curent electric, necesare instalării și întreținerii unor echipamente de telecomunicații, internet și televiziune",
+"short": "HCL Bogdan Vodă nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-09",
+"latest": "2023-10-09",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/122992",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/judet/dolj/2013",
+"acts": [
+{
+"slug": "hcj-dolj-142-2013",
+"path": "local/judet/dolj/2013/142",
+"kind": "local",
+"year": "2013",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 142/2013",
+"short": "HCJ Dolj nr. 142/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-05-29",
+"latest": "2013-05-29",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-dolj-2269-2013",
+"path": "local/judet/dolj/2013/2269",
+"kind": "local",
+"year": "2013",
+"number": "2269",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 2269/2013 privind aprobarea modificării organigramei și a statului de funcții pentru Spitalul Orășenesc “Așezămintele Brâncovenești” Dăbuleni",
+"short": "HCJ Dolj nr. 2269/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-09-13",
+"latest": "2013-09-13",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

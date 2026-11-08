@@ -1503,6 +1503,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-47-2017",
+   "path": "local/judet/botosani/2017/47",
+   "short": "HCJ Botoșani nr. 47/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 47/2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h079_26.05.2017.pdf",
+     "sha256": "b422363e3780e500192b533f658273df1cc0eed2e30cf0e91cc33d1c785703ae"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-48-2017",
    "path": "local/judet/botosani/2017/48",
    "short": "HCJ Botoșani nr. 48/2017",

@@ -492,6 +492,28 @@
 }
 },
 {
+"slug": "hcj-botosani-40-2014",
+"path": "local/judet/botosani/2014/40",
+"kind": "local",
+"year": "2014",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 40/2014 privind aprobarea Regulamentului de organizare și funcționare a Comisiei de evaluare a persoanelor adulte cu handicap a județului Botoșani",
+"short": "HCJ Botoșani nr. 40/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-04-30",
+"latest": "2014-04-30",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-botosani-42-2014",
 "path": "local/judet/botosani/2014/42",
 "kind": "local",
@@ -2516,6 +2538,28 @@
 "versions": 1,
 "from": "2014-01-01",
 "latest": "2014-01-01",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-347-2014",
+"path": "local/judet/botosani/2014/347",
+"kind": "local",
+"year": "2014",
+"number": "347",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 347/2014 privind aprobarea rețelei școlare a învățământului special din Județul Botoșani, pentru anul școlar 2014 - 2015",
+"short": "HCJ Botoșani nr. 347/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-27",
+"latest": "2014-03-27",
 "portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
 "council": "judet/botosani",
 "council_name": "Consiliul Județean Botoșani",

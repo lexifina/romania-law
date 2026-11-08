@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-maramures--bogdan-voda-7-2025",
+"path": "local/maramures/bogdan-voda/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 7/2025 privind încheierea de către Comuna BOGDAN VODĂ a unui acord de cooperare cu Filiala Judeţeană Maramureş a Asociației Comunelor din România și Comuna BUDEȘTI, având ca obiect desfășurarea de activităţi în interes comunitar",
+"short": "HCL Bogdan Vodă nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/194527",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-8-2025",
 "path": "local/maramures/bogdan-voda/2025/8",
 "kind": "local",
@@ -267,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-maramures--bogdan-voda-14-2025",
+"path": "local/maramures/bogdan-voda/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 14/2025 Privind închirierea prin încredințare directă a unor suprafețe de pășuni proprietatea comunei Bogdan Vodă, trup de păşune ,, Gorgoietu TIBĂU’’",
+"short": "HCL Bogdan Vodă nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/197757",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-15-2025",
 "path": "local/maramures/bogdan-voda/2025/15",
 "kind": "local",
@@ -356,6 +400,29 @@
 }
 },
 {
+"slug": "hcl-maramures--bogdan-voda-19-2025",
+"path": "local/maramures/bogdan-voda/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 19/2025",
+"short": "HCL Bogdan Vodă nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/208544",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-20-2025",
 "path": "local/maramures/bogdan-voda/2025/20",
 "kind": "local",
@@ -375,6 +442,28 @@
 "council_name": "Consiliul Local al Comunei Bogdan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-21-2025",
+"path": "local/maramures/bogdan-voda/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 21/2025 privind aprobarea închirierii spațiului din imobilul ”Clădire administrativă” aparținând domeniului public al Comunei Bogdan Vodă, înscris în Carte Funciară nr.52714 Bogdan Vodă, situat în comuna Bogdan Vodă, nr.187, județul Maramureș",
+"short": "HCL Bogdan Vodă nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/208546",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -420,6 +509,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-24-2025",
+"path": "local/maramures/bogdan-voda/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 24/2025 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2025",
+"short": "HCL Bogdan Vodă nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/214848",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcj-botosani-5-2018",
+"path": "local/judet/botosani/2018/5",
+"kind": "local",
+"year": "2018",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 5/2018 privind darea în folosință gratuită către Protopopiatul Botoșani a unui spațiu, situat în municipiul Botoșani, aparținând domeniului public al Județului Botoșani, aflat în administrarea Spitalului Județean de Urgențe „Mavromati”",
+"short": "HCJ Botoșani nr. 5/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-botosani-20-2018",
 "path": "local/judet/botosani/2018/20",
 "kind": "local",
@@ -2873,6 +2895,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Botoșani nr. 211/2018 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
 "short": "HCJ Botoșani nr. 211/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-botosani-283-2018",
+"path": "local/judet/botosani/2018/283",
+"kind": "local",
+"year": "2018",
+"number": "283",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 283/2018 privind aprobarea modificării statului de funcții al Unității de Asistență Medico - Socială Ștefănești",
+"short": "HCJ Botoșani nr. 283/2018",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,

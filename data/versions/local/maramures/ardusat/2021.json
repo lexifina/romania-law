@@ -378,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--ardusat-7-2021",
+   "path": "local/maramures/ardusat/2021/7",
+   "short": "HCL Ardusat nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 7/2021",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/21975",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/21975",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ardusat-8-2021",
    "path": "local/maramures/ardusat/2021/8",
    "short": "HCL Ardusat nr. 8/2021",

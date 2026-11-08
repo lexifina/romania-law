@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-100-2022",
+   "path": "local/judet/hunedoara/2022/100",
+   "short": "HCJ Hunedoara nr. 100/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 100/2022 privind aprobarea depunerii proiectului, a valorii maxime eligibile și a cheltuielilor aferente proiectului ”Creșterea eficienței energetice și reabilitarea imobilului Centrului de Îngrijire și asistență pentru persoane adulte cu dizabilități- Uricani” în cadrul apelurilor de proiecte PNRR/2022/C5/2/B.2.1/1, PNRR/2022/C5/2/B.2.2/1, componenta 5 — Valul renovării, axa 2 —Schema de granturi pentru e",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2018%2020%2027%20APRILIE/HCJHD100_Redacted.pdf",
+     "sha256": "0b2aef167afc7888abc000cf0e499b4cab6f63113c85c42b96ae40457b80eefe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-101-2022",
+   "path": "local/judet/hunedoara/2022/101",
+   "short": "HCJ Hunedoara nr. 101/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 101/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2018%2020%2027%20APRILIE/HCJHD101_Redacted.pdf",
+     "sha256": "4144e4fcf5b8e0ded3176fd07b5161f5fa3a2032e268e22553afa894621b9e22"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-102-2022",
    "path": "local/judet/hunedoara/2022/102",
    "short": "HCJ Hunedoara nr. 102/2022",
@@ -59,6 +89,21 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2018%2020%2027%20APRILIE/HCJH%20103_Redacted.pdf",
      "sha256": "112db21d6d7b1810ad5fbfad80dfe0a77e33920e2c5ea1e01c8848f0bea4ba27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-104-2022",
+   "path": "local/judet/hunedoara/2022/104",
+   "short": "HCJ Hunedoara nr. 104/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 104/2022 privind aprobarea depunerii proiectului, a valorii maxime eligibile și a cheltuielilor aferente proiectului ,,Creșterea eficienței energetice și reabilitarea imobilului Palat Administrativ al Județului Hunedoara, B.dul Decebal,, în cadrul apelului de proiecte PNRR/2022/C5/2/B.2.1/1, PNRR/2022/C5/2/B.2.2/1, Componenta C5 — Valul renovării, Axa 2 —Schema de granturi pentru eficiență energetică și re",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2018%2020%2027%20APRILIE/HCJH%20104_Redacted.pdf",
+     "sha256": "65a199a85805b5b3bfbc277599539ef465d486573141781c4e6a14078b682732"
     }
    ]
   },
@@ -348,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-125-2022",
+   "path": "local/judet/hunedoara/2022/125",
+   "short": "HCJ Hunedoara nr. 125/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 125/2022 privind utilizarea excedentului anual al bugetului propriu al județului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2021, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al județului Hunedoara pe anul 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2013%20MAI/HCJH%20125_Redacted.pdf",
+     "sha256": "ad269f3f5e72312528eac65038611ebec204013da543fe3b0ffdcd1d89ad1cca"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-126-2022",
    "path": "local/judet/hunedoara/2022/126",
    "short": "HCJ Hunedoara nr. 126/2022",
@@ -423,6 +483,51 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-131-2022",
+   "path": "local/judet/hunedoara/2022/131",
+   "short": "HCJ Hunedoara nr. 131/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 131/2022 privind aprobarea devizului general actualizat pentru obiectivul de investiții: ”Montare puțuri și conducte de gaze aferente instalației de colectare a gazului de depozit din celula nr.1 a depozitului de deșeuri din CMID Bârcea Mare”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20131.pdf",
+     "sha256": "e74107a594c5669d7cd35dfa7f5899451e3cf89cb090273098b7e9474689469c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-133-2022",
+   "path": "local/judet/hunedoara/2022/133",
+   "short": "HCJ Hunedoara nr. 133/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 133/2022 privind aprobarea Regulamentului de organizare și funcționare a serviciului social de zi Centrul de zi de recuperare pentru adulți Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20133.pdf",
+     "sha256": "4b16b9090cb8212b9b49b119a61f0ff2b3afc6f6183ca681f48b0a86dbc16a43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-136-2022",
+   "path": "local/judet/hunedoara/2022/136",
+   "short": "HCJ Hunedoara nr. 136/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 136/2022 privind aprobarea Regulamentului de organizare și funcționare a serviciului social – centru de zi Centrul de zi pentru persoane adulte cu dizabilități Simeria",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20136.pdf",
+     "sha256": "aa71e6077afa1f022b068fcea4c11fc008364cdb9b680d5a4bf243046665e4f8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-14-2022",
    "path": "local/judet/hunedoara/2022/14",
    "short": "HCJ Hunedoara nr. 14/2022",
@@ -434,6 +539,66 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/02%20HOTARARI%20SED%20ORD%2028%20IANUARIE%202022/HCJH%2014_Redacted.pdf",
      "sha256": "1bcf9f5c4e721186a614b6b83083370237ac3e908832737b97c2c487f2ee46d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-146-2022",
+   "path": "local/judet/hunedoara/2022/146",
+   "short": "HCJ Hunedoara nr. 146/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 146/2022 privind darea în folosință gratuită a unor spații imobiliare aparținând domeniului public al Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20146.pdf",
+     "sha256": "f7539a935b173177f83884bd4be827aa0c866df39db0d72be1e8aeb704070dac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-147-2022",
+   "path": "local/judet/hunedoara/2022/147",
+   "short": "HCJ Hunedoara nr. 147/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 147/2022 privind aprobarea unui act adițional la Contractul de administrare încheiat între Județul Hunedoara, prin",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20147.pdf",
+     "sha256": "11e6a45a540170dc49a33f6802aac16a68055381f5b376d6c301be6e0ef0ee20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-148-2022",
+   "path": "local/judet/hunedoara/2022/148",
+   "short": "HCJ Hunedoara nr. 148/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 148/2022 privind aprobarea statului de funcții al Serviciului Public Județean Salvamont",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20148.pdf",
+     "sha256": "166a61b5dc3193a93c17628004fd3ef5e624dab8e3dbdb54be924f26adeaad5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-149-2022",
+   "path": "local/judet/hunedoara/2022/149",
+   "short": "HCJ Hunedoara nr. 149/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 149/2022 privind aprobarea Protocolului de colaborare între Județul Hunedoara, prin",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20149.pdf",
+     "sha256": "d43842b92c302357be95614cf8c014a29e38b2b4b110a49548a5c1839142355e"
     }
    ]
   },
@@ -453,6 +618,96 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-151-2022",
+   "path": "local/judet/hunedoara/2022/151",
+   "short": "HCJ Hunedoara nr. 151/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 151/2022 privind aprobarea statului de funcții al Direcției Generale de Administrare Monumente și Promovare Turistică a Județului Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20151.pdf",
+     "sha256": "286a864f66d0587645f101ff1cdb4f34e89f7e24e8598e5581585142f7ce42b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-152-2022",
+   "path": "local/judet/hunedoara/2022/152",
+   "short": "HCJ Hunedoara nr. 152/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 152/2022 privind revocarea mandatului special acordat Asociației de Dezvoltare Intercomunitară „AQUA PREST HUNEDOARA” în vederea exercitării atribuțiilor de autoritate publică tutelară pentru operatorul regional SC APAPROD SA Deva",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20152.pdf",
+     "sha256": "5fe7a302997a258120244b2a52faae556abbe823c460cef6afc933204e39b023"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-153-2022",
+   "path": "local/judet/hunedoara/2022/153",
+   "short": "HCJ Hunedoara nr. 153/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 153/2022 privind revocarea mandatului special acordat Asociației de Dezvoltare Intercomunitară „APA VALEA JIULUI” în vederea exercitării atribuțiilor de autoritate publică tutelară pentru operatorul regional SC APASERV VALEA JIULUI SA Petroșani",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20153.pdf",
+     "sha256": "2ffd3a90b5f8f2578f836e1edd0536733d11fcbc61a11f0de51ddba6f77c4615"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-156-2022",
+   "path": "local/judet/hunedoara/2022/156",
+   "short": "HCJ Hunedoara nr. 156/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 156/2022 privind utilizarea excedentului anual al bugetului propriu al județului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2021, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al județului Hunedoara pe anul 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20156.pdf",
+     "sha256": "93bb8a99a4b713e3f4dfd2a11220004f40ddf17d050295e2bfc7fc1a1012d07a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-158-2022",
+   "path": "local/judet/hunedoara/2022/158",
+   "short": "HCJ Hunedoara nr. 158/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 158/2022 privind aprobarea asocierii Județului Hunedoara, prin",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20158.pdf",
+     "sha256": "b903de3f4273a168dd3325f0f1a1edde9e876b6f02410bcbce0f89c097188a09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-159-2022",
+   "path": "local/judet/hunedoara/2022/159",
+   "short": "HCJ Hunedoara nr. 159/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 159/2022 privind aprobarea încheierii unui Acord de colaborare între Județul Hunedoara – prin",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20159.pdf",
+     "sha256": "c4a217c363cb6294ed886939838448deea8a7a555a725e5e30307658a6d51701"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-16-2022",
    "path": "local/judet/hunedoara/2022/16",
    "short": "HCJ Hunedoara nr. 16/2022",
@@ -468,6 +723,81 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-160-2022",
+   "path": "local/judet/hunedoara/2022/160",
+   "short": "HCJ Hunedoara nr. 160/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 160/2022 privind aprobarea statului de funcții al Sanatoriului de Pneumoftiziologie Geoagiu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20160.pdf",
+     "sha256": "a7ce6029afdab99b4ca8495ea0937628b90e50cd256410d84c4bc0dd51553a9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-162-2022",
+   "path": "local/judet/hunedoara/2022/162",
+   "short": "HCJ Hunedoara nr. 162/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 162/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%202022/HCJH%20162.pdf",
+     "sha256": "353a6e0e3475a771f1361588f783443cee41b7cb884da3688578d45090b96124"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-164-2022",
+   "path": "local/judet/hunedoara/2022/164",
+   "short": "HCJ Hunedoara nr. 164/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 164/2022 privind aprobarea organigramei și a statului de funcții ale Sanatoriului de Pneumoftiziologie Brad",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%209%20iunie/HCJH%20164_Redacted.pdf",
+     "sha256": "b8dbb75c854accf4998eaf4e35a20cacc49424a96d41fd7b789ce19cca3f64d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-166-2022",
+   "path": "local/judet/hunedoara/2022/166",
+   "short": "HCJ Hunedoara nr. 166/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 166/2022 privind utilizarea excedentului anual al bugetului propriu al Județului Hunedoara rezultat la închiderea exercițiului bugetar al anului 2021, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare prevăzute în bugetul propriu al județului Hunedoara pe anul 2022",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%209%20iunie/HCJH%20166_Redacted.pdf",
+     "sha256": "d1b4f1b84ebbff392e37c720d5ed2d56e0963797aa4e4904e878e2107f9ee0c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-168-2022",
+   "path": "local/judet/hunedoara/2022/168",
+   "short": "HCJ Hunedoara nr. 168/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 168/2022 privind aprobarea statului de funcții al aparatului de specialitate al Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%209%20iunie/HCJH%20168_Redacted.pdf",
+     "sha256": "e9fed87ae6033e31bb6ac217cfccc5a0daa92051c8e62049a0ba76dea9a0e35b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-17-2022",
    "path": "local/judet/hunedoara/2022/17",
    "short": "HCJ Hunedoara nr. 17/2022",
@@ -479,6 +809,21 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2011%20FEBRUARIE%202022%20DE%20PUS%20PE%20SITE/HCJH%2017.pdf",
      "sha256": "2bccdc86260713d52b269ba7a42ab5898b9bc6b1eb23379c38fefbd4d6541ae8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-171-2022",
+   "path": "local/judet/hunedoara/2022/171",
+   "short": "HCJ Hunedoara nr. 171/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 171/2022 privind aprobarea statului de funcții al aparatului de specialitate al Consiliului Județean Hunedoara",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/21%20HOTARARI%20169%20-%20172%20IP/HCJH%20171.pdf",
+     "sha256": "d9d729022037ac0bcba109503a23ca6aa11289b7700e6b82b9d000aee30de3d6"
     }
    ]
   },
@@ -809,6 +1154,36 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%20scanate%20sedinta%20extra%2014%20iulie%202022/H%20196_Redacted.pdf",
      "sha256": "5bd80668d616846e5e78747459d97a72cd5604bcb01f4a71487c8affa46fe018"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-197-2022",
+   "path": "local/judet/hunedoara/2022/197",
+   "short": "HCJ Hunedoara nr. 197/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 197/2022 privind aprobarea devizului general actualizat pentru obiectivul de investiții:”Lucrări de relocare și realizare conexiuni post transformare Sanatoriul de Pneumoftiziologie Geoagiu în vederea măririi puterii instalate”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-07-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HCJH%20197_Redacted.pdf",
+     "sha256": "f535e10cf319e95d14379815848a5e4deb0cc2d558808c7e7b9586861c8e1e5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-198-2022",
+   "path": "local/judet/hunedoara/2022/198",
+   "short": "HCJ Hunedoara nr. 198/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 198/2022 privind modificarea Hotărârii Consiliului Județean Hunedoara nr.68/2022 privind aprobarea proiectului „Creșterea siguranței pacienților în structuri spitalicești publice care utilizează fluide medicale – Lucrări de relocare și realizare conexiuni post transformare Sanatoriul de Pneumoftiziologie Geoagiu în vederea măririi puterii instalate”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-07-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HCJH%20198_Redacted.pdf",
+     "sha256": "b8feccd55ae46b860a712173e69b456035e5a04a393f5af7e239c23c8fb08d96"
     }
    ]
   },
@@ -3978,6 +4353,36 @@
    ]
   },
   {
+   "slug": "hcj-hunedoara-53-2022",
+   "path": "local/judet/hunedoara/2022/53",
+   "short": "HCJ Hunedoara nr. 53/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 53/2022 privind aprobarea Protocolului de dezmembrare, separare și stabilire a dreptului de proprietate asupra construcțiilor realizate în comun în cadrul obiectivului de investiții ”Palat Administrativ al Județului Hunedoara”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%2021%20Martie/HCJH%2053_Redacted.pdf",
+     "sha256": "6475c1c5df46d818d4c89983c0ce9a6e646a66f8316fe892620c6eb7925acbdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-54-2022",
+   "path": "local/judet/hunedoara/2022/54",
+   "short": "HCJ Hunedoara nr. 54/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 54/2022 privind modificarea denumirii obiectivului de investiții “ETAJARE CORP EXTINS UNITATE DE PRIMIRI URGENTE A SPITALULUI JUDETEAN DE URGENTA DEVA” în „EXTINDERE SI ETAJARE CORP EXTINS UNITATE DE PRIMIRI URGENTE A SPITALULUI JUDETEAN DE URGENTA DEVA, AFLAT IN CURS DE EXECUTIE”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/Hotarari%2021%20Martie/HCJH%2054_Redacted.pdf",
+     "sha256": "c6aa4994f793abd1368f4ee5e153079a8cb8b135ab66e7294d0f52f51f921fd1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-hunedoara-56-2022",
    "path": "local/judet/hunedoara/2022/56",
    "short": "HCJ Hunedoara nr. 56/2022",
@@ -4574,6 +4979,51 @@
      "units": 1,
      "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%208%20APRILIE%202022%20IP/HCJH%2096_Redacted.pdf",
      "sha256": "80819d5fcac4ac257f2b6a151554993da34e909cc1d0869844293cbf9301e77d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-97-2022",
+   "path": "local/judet/hunedoara/2022/97",
+   "short": "HCJ Hunedoara nr. 97/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 97/2022 privind însușirea în domeniul public al Județului Hunedoara a terenurilor aferente clădirii ”Fosta Bancă Agricolă”",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2018%2020%2027%20APRILIE/HCJHD%2097_Redacted.pdf",
+     "sha256": "0e081522a78214532c44d45b2d1908acde0cced51e28ebbbde8950c13207a98c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-98-2022",
+   "path": "local/judet/hunedoara/2022/98",
+   "short": "HCJ Hunedoara nr. 98/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 98/2022 privind aprobarea depunerii proiectului, a valorii maxime eligibile și a cheltuielilor aferente proiectului Creșterea eficienței energetice și reabilitarea imobilului Palat Administrativ, B-dul 1 Decembrie 1918 nr.28, în cadrul apelurilor de proiecte cu titlul PNRR/2022/C5/2/B.2.1/1, PNNR/2022/C5/2/B.2.2/1, Componenta C5 – Valul Renovării, Axa 2 – Schema de granturi pentru eficiență energetică și",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2018%2020%2027%20APRILIE/HCJHD%2098_Redacted.pdf",
+     "sha256": "83c1626d0656e93e833de38361124d46228f8c2b43ff4060f18c9d5745e95ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-hunedoara-99-2022",
+   "path": "local/judet/hunedoara/2022/99",
+   "short": "HCJ Hunedoara nr. 99/2022",
+   "title": "Hotărârea Consiliului Județean Hunedoara nr. 99/2022 privind aprobarea depunerii proiectului, a valorii maxime eligibile și a cheltuielilor aferente proiectului ”Reparația și modernizarea sediului Direcția Generală de Asistență Socială și Protecția Copilului Hunedoara situat în Municipiul Deva, Piața Gării, nr. 9A” în cadrul apelurilor de proiecte PNRR/2022/C5/2/B.2.1/1, PNRR/2022/C5/2/B.2.2/1, componenta 5 — Valul renovării, axa 2 —Schema de grantu",
+   "url": "https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/599-hotarari-2022",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://www.cjhunedoara.ro/documente/2022/Hotarari/HOTARARI%2018%2020%2027%20APRILIE/HCJHD%2099_Redacted.pdf",
+     "sha256": "6911faefbc70718430f46668099d99545637b45f6464c2c73f62247d0d66b88f"
     }
    ]
   }

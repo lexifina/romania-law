@@ -668,6 +668,29 @@
 }
 },
 {
+"slug": "hcj-botosani-42-2016",
+"path": "local/judet/botosani/2016/42",
+"kind": "local",
+"year": "2016",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 42/2016",
+"short": "HCJ Botoșani nr. 42/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-21",
+"latest": "2016-06-21",
+"portal": null,
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-botosani-45-2016",
 "path": "local/judet/botosani/2016/45",
 "kind": "local",
@@ -3191,6 +3214,29 @@
 "council_name": "Consiliul Județean Botoșani",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-botosani-425-2016",
+"path": "local/judet/botosani/2016/425",
+"kind": "local",
+"year": "2016",
+"number": "425",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 425/2016",
+"short": "HCJ Botoșani nr. 425/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-09-28",
+"latest": "2016-09-28",
+"portal": null,
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

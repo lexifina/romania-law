@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-27-2021",
+   "path": "local/maramures/cernesti/2021/27",
+   "short": "HCL Cernești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 27/2021 privind acordarea unui ajutor de urgență",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/21200",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/21200",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-28-2021",
    "path": "local/maramures/cernesti/2021/28",
    "short": "HCL Cernești nr. 28/2021",
@@ -543,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-43-2021",
+   "path": "local/maramures/cernesti/2021/43",
+   "short": "HCL Cernești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 43/2021 privind aprobarea efectuării unui schimb de teren forestier, cu Composesoratul Bloaja;",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/24065",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/24065",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-44-2021",
    "path": "local/maramures/cernesti/2021/44",
    "short": "HCL Cernești nr. 44/2021",
@@ -583,6 +613,21 @@
      "from": "2021-06-14",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/26698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-47-2021",
+   "path": "local/maramures/cernesti/2021/47",
+   "short": "HCL Cernești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 47/2021 privind desemnarea unui reprezentant al Consiliului Local în Comisia pentru Evaluarea și Asigurarea Calității",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/26699",
+   "versions": [
+    {
+     "from": "2021-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/26699",
      "sha256": null
     }
    ]
@@ -658,6 +703,21 @@
      "from": "2021-06-29",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/28276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-52-2021",
+   "path": "local/maramures/cernesti/2021/52",
+   "short": "HCL Cernești nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 52/2021 privind aprobarea acordării cu titlu gratuit a unei cantități de material lemnos",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/28277",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/28277",
      "sha256": null
     }
    ]
@@ -793,6 +853,21 @@
      "from": "2021-09-30",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/37010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-61-2021",
+   "path": "local/maramures/cernesti/2021/61",
+   "short": "HCL Cernești nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 61/2021 privind desemnarea reprezentanților Consiliului Local Cernești în consiliul de administrație și în Comisia bullying ale Școlii Gimnaziale Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/37011",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/37011",
      "sha256": null
     }
    ]

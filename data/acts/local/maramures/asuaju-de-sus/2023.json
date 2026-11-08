@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-7-2023",
+"path": "local/maramures/asuaju-de-sus/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 7/2023 privind aprobarea numărului asistenților personali ai persoanelor cu handicap și a numărului indemnizațiilor lunare pentru persoanele cu handicap",
+"short": "HCL Asuaju de Sus nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/121214",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-8-2023",
 "path": "local/maramures/asuaju-de-sus/2023/8",
 "kind": "local",

@@ -3873,6 +3873,21 @@
    ]
   },
   {
+   "slug": "hcj-bihor-385-2023",
+   "path": "local/judet/bihor/2023/385",
+   "short": "HCJ Bihor nr. 385/2023",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 385/2023",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2021/02/h-385-din-13.12.2023_Redacted.pdf",
+     "sha256": "a74bd430fcd58709702e4e31e4a1d67878e788ce048e2b1f39d68705b0499bb0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-387-2023",
    "path": "local/judet/bihor/2023/387",
    "short": "HCJ Bihor nr. 387/2023",

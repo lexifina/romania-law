@@ -3,6 +3,36 @@
  "shard": "local/judet/dolj/2018",
  "acts": [
   {
+   "slug": "hcj-dolj-1004-2018",
+   "path": "local/judet/dolj/2018/1004",
+   "short": "HCJ Dolj nr. 1004/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1004/2018 privind aprobarea modificării statului de funcții pentru Spitalul de Pneumoftiziologie Leamna",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%209.pdf",
+     "sha256": "b35b0d0ba73a9cc4f725670841424caa62c26bda1711409a699d3a6da91ef72d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-1045-2018",
+   "path": "local/judet/dolj/2018/1045",
+   "short": "HCJ Dolj nr. 1045/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1045/2018 privind aprobarea modificării statului de funcții pentru Muzeul de Artă Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2011.pdf",
+     "sha256": "31b06f97c842e63a67add39f70c7643e70f6319a40807eff8d7aad5d7cd0db2a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-107-2018",
    "path": "local/judet/dolj/2018/107",
    "short": "HCJ Dolj nr. 107/2018",
@@ -29,6 +59,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2012.pdf",
      "sha256": "626b986f1523b54cbf369dda44f60d78e56b4601325e77eac256a355c8548402"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-126-2018",
+   "path": "local/judet/dolj/2018/126",
+   "short": "HCJ Dolj nr. 126/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 126/2018 privind aprobarea modificării statului de funcții pentru Unitatea Medico - Socială Bechet",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-04",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2010.pdf",
+     "sha256": "da2564e013d379b7fac3b7bf68df12d58e5f0bbcf6aad0144f9b62bbfcf24937"
     }
    ]
   },
@@ -273,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcj-dolj-206-2018",
+   "path": "local/judet/dolj/2018/206",
+   "short": "HCJ Dolj nr. 206/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 206/2018 pentru plata cheltuielilor de personal neclerical angajat în unitățile de cult din județul Dolj, în anul 2018, conform anexei ce face parte din prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%20206.pdf",
+     "sha256": "327f1ce610e97a4accae557ee6ba558732d85cdf77c39b5a7967fd074532bd1f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-21-2018",
    "path": "local/judet/dolj/2018/21",
    "short": "HCJ Dolj nr. 21/2018",
@@ -333,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcj-dolj-2384-2018",
+   "path": "local/judet/dolj/2018/2384",
+   "short": "HCJ Dolj nr. 2384/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2384/2018 privind aprobarea modificării statului de funcții pentru Clubul Sportiv Județean Știința „U” Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2049.pdf",
+     "sha256": "cd999f83ca9ab79b95fe70e42b194a36a28c389c7a438545fa3a9c04f6b14a1a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-239-2018",
    "path": "local/judet/dolj/2018/239",
    "short": "HCJ Dolj nr. 239/2018",
@@ -363,6 +438,66 @@
    ]
   },
   {
+   "slug": "hcj-dolj-43-2018",
+   "path": "local/judet/dolj/2018/43",
+   "short": "HCJ Dolj nr. 43/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 43/2018 privind aprobarea alocării unei sume din fondul de rezervă al bugetului propriu județean pe anul 2018 pentru acordarea unor ajutoare către alte unități administrativ-teritoriale având în vedere apariția unor situații de extremă dificultate",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-02-04",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%20273.pdf",
+     "sha256": "79b53f93d08cdaca31d0a14ea9ddf9be44d7b5e0ca1b5314dc5372d9bd56283f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-433-2018",
+   "path": "local/judet/dolj/2018/433",
+   "short": "HCJ Dolj nr. 433/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 433/2018 privind aprobarea alocării din fondul de rezervă al bugetului propriu județean pe anul 2018 a sumei de 458 mii lei pentru acordarea unor ajutoare către alte unități administrativ-teritoriale având în vedere apariția unor situații urgente și neprevăzute în cursul exercițiului bugetar",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%20133.pdf",
+     "sha256": "447a4deb31881e94d96eec4ad6b7adb674df2e01ec564b0562e6be94716eb34f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-445-2018",
+   "path": "local/judet/dolj/2018/445",
+   "short": "HCJ Dolj nr. 445/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 445/2018 privind aprobarea execuției bugetului propriu al județului Dolj pe primele 6 luni ale anului 2018 și a execuției bugetelor instituțiilor publice și a activităților finanțate integral sau parțial din venituri proprii pe primele 6 luni ale anul 2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-04-30",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%20175.pdf",
+     "sha256": "617ef28c6b918684b9b34ba486122d0e97dc41595b9176506f782941ead37835"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-469-2018",
+   "path": "local/judet/dolj/2018/469",
+   "short": "HCJ Dolj nr. 469/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 469/2018 privind aprobarea modificării statului de funcții pentru Spitalul Orășenesc „Așezămintele Brâncovenești” Dăbuleni",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%208.pdf",
+     "sha256": "ea4617e1a7a5d67461d7ce02a514d0c453d81e3bd8a0c4265e16d229f6a3bdd5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-47-2018",
    "path": "local/judet/dolj/2018/47",
    "short": "HCJ Dolj nr. 47/2018",
@@ -374,6 +509,36 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2047.pdf",
      "sha256": "fb722cbd414749d37e46b33dab48301391cfff3b9e1c227d56847996e6759649"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-486-2018",
+   "path": "local/judet/dolj/2018/486",
+   "short": "HCJ Dolj nr. 486/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 486/2018 privind aprobarea protocolului de cooperare dintre Consiliul Județean Dolj și Universitatea de Medicină și Farmacie din Craiova în vederea organizării celui de-al X-lea Congres Național al Societății Române de Biologie Celulară și a celei de-a 36-a Sesiuni Științifice Anuale a Societății Române de Biologie Celulară",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%20126.pdf",
+     "sha256": "13d7f25ea88b4f0d1beff05c8c377720de84a1b88c8195a8e3ef13d141d1e6bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-499-2018",
+   "path": "local/judet/dolj/2018/499",
+   "short": "HCJ Dolj nr. 499/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 499/2018 privind aprobarea rectificării bugetelor de venituri și cheltuieli ale unităților de asistență medico-sociale Amărăștii de Jos, Bechet, Brabova, Cetate, Melinești, Plenița și Sadova, finanțate din sumele alocate de la bugetul de stat, prin Direcția de Sănătate Publică Dolj, cu sumele ce depășesc costul standard/an/pat, sume ce se vor asigura din sursele bugetului propriu județean, pe anul 2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%20199.pdf",
+     "sha256": "3993299aa203386deb645aa4dc7870087785d07665752efed39c14027422225b"
     }
    ]
   },
@@ -423,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcj-dolj-659-2018",
+   "path": "local/judet/dolj/2018/659",
+   "short": "HCJ Dolj nr. 659/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 659/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-11",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2019.pdf",
+     "sha256": "efb21fe84049f984888c5cfb666eeedb87ca7941f31e331874867e1332ada455"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-75-2018",
    "path": "local/judet/dolj/2018/75",
    "short": "HCJ Dolj nr. 75/2018",
@@ -449,6 +629,156 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2077.pdf",
      "sha256": "f2a8f288bc4b0d9202c3d043627d39f3d60080bad82a0a48db4798cffaadfc6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-780-2018",
+   "path": "local/judet/dolj/2018/780",
+   "short": "HCJ Dolj nr. 780/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 780/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2021.pdf",
+     "sha256": "471f2b4f8a391e860aa206bf46b64390e46a7ec03e2acf037c5647f8a0412a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-784-2018",
+   "path": "local/judet/dolj/2018/784",
+   "short": "HCJ Dolj nr. 784/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 784/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2017.pdf",
+     "sha256": "9230ea06d4ac43419d157198c4ae601d8e78d98ed75f477b370a0360f890f267"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-787-2018",
+   "path": "local/judet/dolj/2018/787",
+   "short": "HCJ Dolj nr. 787/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 787/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2020.pdf",
+     "sha256": "3627b033fb230cbf0877707381aed67968e4b11f470abc477c954a5af364fe8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-802-2018",
+   "path": "local/judet/dolj/2018/802",
+   "short": "HCJ Dolj nr. 802/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 802/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2018.pdf",
+     "sha256": "736cd82ce4fde78df263afe0df700c86237c15dc0f87e20ef25291b924022a16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-817-2018",
+   "path": "local/judet/dolj/2018/817",
+   "short": "HCJ Dolj nr. 817/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 817/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-15",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2012.pdf",
+     "sha256": "626b986f1523b54cbf369dda44f60d78e56b4601325e77eac256a355c8548402"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-876-2018",
+   "path": "local/judet/dolj/2018/876",
+   "short": "HCJ Dolj nr. 876/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 876/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2016.pdf",
+     "sha256": "58f440275a6846cd85cde022d9fd300c4acb312ce52a5691ce97c4571b13a581"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-885-2018",
+   "path": "local/judet/dolj/2018/885",
+   "short": "HCJ Dolj nr. 885/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 885/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2014.pdf",
+     "sha256": "7cbac0d0fc33e2bc43d39f6064aab7285570445ae84635a98a1444c316086e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-887-2018",
+   "path": "local/judet/dolj/2018/887",
+   "short": "HCJ Dolj nr. 887/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 887/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2015.pdf",
+     "sha256": "9fff02468b697b2f777fb5ac22fe15883037b8abaa635b4c30f9bbf636b77528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-892-2018",
+   "path": "local/judet/dolj/2018/892",
+   "short": "HCJ Dolj nr. 892/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 892/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2013.pdf",
+     "sha256": "4cd62fe80bb409dcb9669a790d3c9c026b70d57519407142c4b7c682cd609986"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-899-2018",
+   "path": "local/judet/dolj/2018/899",
+   "short": "HCJ Dolj nr. 899/2018",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 899/2018",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2018-0000148E",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2018/Hotararea%2022.pdf",
+     "sha256": "d9e8e30ffc8db74c5e3dbbc2b0d341926cc6f6a6ee4273084eecfc247ed17a5f"
     }
    ]
   }

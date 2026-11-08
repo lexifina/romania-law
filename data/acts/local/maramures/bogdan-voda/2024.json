@@ -423,6 +423,50 @@
 }
 },
 {
+"slug": "hcl-maramures--bogdan-voda-20-2024",
+"path": "local/maramures/bogdan-voda/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 20/2024 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2024",
+"short": "HCL Bogdan Vodă nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-04",
+"latest": "2024-06-04",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/158444",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-21-2024",
+"path": "local/maramures/bogdan-voda/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 21/2024 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2024",
+"short": "HCL Bogdan Vodă nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/160715",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--bogdan-voda-22-2024",
 "path": "local/maramures/bogdan-voda/2024/22",
 "kind": "local",
@@ -442,6 +486,72 @@
 "council_name": "Consiliul Local al Comunei Bogdan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-23-2024",
+"path": "local/maramures/bogdan-voda/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 23/2024 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2024",
+"short": "HCL Bogdan Vodă nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/164637",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-24-2024",
+"path": "local/maramures/bogdan-voda/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 24/2024 privind solicitarea trecerii unui teren din domeniul public al Județului Maramureș în domeniul public al Comunei Bogdan Vodă",
+"short": "HCL Bogdan Vodă nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/164638",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--bogdan-voda-25-2024",
+"path": "local/maramures/bogdan-voda/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 25/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Reabilitare și extindere sistem de alimentare cu apă, în comuna Bogdan Vodă, județul Maramureș”- Racordare la reteaua electrică a locului de consum permanent stație tratare apă",
+"short": "HCL Bogdan Vodă nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/bogdanvoda-mm/registru-hcl/164639",
+"council": "maramures/bogdan-voda",
+"council_name": "Consiliul Local al Comunei Bogdan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

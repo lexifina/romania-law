@@ -2358,6 +2358,21 @@
    ]
   },
   {
+   "slug": "hcj-bihor-258-2024",
+   "path": "local/judet/bihor/2024/258",
+   "short": "HCJ Bihor nr. 258/2024",
+   "title": "Hotărârea Consiliului Județean Bihor nr. 258/2024",
+   "url": "https://www.cjbihor.ro/informatii-publice/hotarari-ale-consiliului-judetean/hotarari-ale-consiliului-judetean-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbihor.ro/wp-content/uploads/2024/11/h-258-din-29.10.2024_Redacted.pdf",
+     "sha256": "61baf47bed1fe5e985662e26c598012636df932f4e5329864704b0ff0f09681b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-bihor-259-2024",
    "path": "local/judet/bihor/2024/259",
    "short": "HCJ Bihor nr. 259/2024",

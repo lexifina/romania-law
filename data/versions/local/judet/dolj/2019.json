@@ -3,6 +3,21 @@
  "shard": "local/judet/dolj/2019",
  "acts": [
   {
+   "slug": "hcj-dolj-1033-2019",
+   "path": "local/judet/dolj/2019/1033",
+   "short": "HCJ Dolj nr. 1033/2019",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1033/2019 privind aprobarea modificării statului de funcții și a regulamentului de organizare și funcționare pentru Unitatea Medico - Socială Bechet",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2019-0000148A",
+   "versions": [
+    {
+     "from": "2019-01-16",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%2010.pdf",
+     "sha256": "604cb05c225fbc125670217492c0be51b2827e51f8b385a92488e818e2aaaa7f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-12-2019",
    "path": "local/judet/dolj/2019/12",
    "short": "HCJ Dolj nr. 12/2019",
@@ -44,6 +59,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%2013.pdf",
      "sha256": "a9aa1a7e9dbcbe9b895771ed87cf46f424e8483fa659ee7972951a652b272fe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-1301-2019",
+   "path": "local/judet/dolj/2019/1301",
+   "short": "HCJ Dolj nr. 1301/2019",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1301/2019 privind aprobarea modificării organigramei și a statului de funcții pentru Direcția Generală de Asistență Socială și Protecția Copilului Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2019-0000148A",
+   "versions": [
+    {
+     "from": "2019-01-18",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%208.pdf",
+     "sha256": "edf7ef17c51557f3cb871daf3313ea8a323c60a5a6f700985317b706fed486c6"
     }
    ]
   },
@@ -228,6 +258,81 @@
    ]
   },
   {
+   "slug": "hcj-dolj-454-2019",
+   "path": "local/judet/dolj/2019/454",
+   "short": "HCJ Dolj nr. 454/2019",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 454/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli al Direcției Publice Comunitare de Evidență a Persoanelor Dolj, unitate parțial finanțată, pe anul 2019",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2019-0000148A",
+   "versions": [
+    {
+     "from": "2019-04-29",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%20154.pdf",
+     "sha256": "d8ac6ef02e0dc39d6f75a7377fd4c0ded8513afe203c9b4cd739d4e44f544085"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-523-2019",
+   "path": "local/judet/dolj/2019/523",
+   "short": "HCJ Dolj nr. 523/2019",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 523/2019 privind aprobarea modificării statului de funcții pentru Centrul Medico — Social Brabova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2019-0000148A",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%2011.pdf",
+     "sha256": "3c8d7ceef50047abb1b37aa273102eec489edd5000bdf51b4a5c85b692d63619"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-64-2019",
+   "path": "local/judet/dolj/2019/64",
+   "short": "HCJ Dolj nr. 64/2019",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 64/2019 privind aprobarea modificării cotizației Județului Dolj în cadrul Asociației de Dezvoltare Intercomunitară Oltenia la 510.000 lei/an, începând cu anul 2019",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2019-0000148A",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%2064.pdf",
+     "sha256": "8a27b0f10ad5121ef976cdf47a0c69b904ec7efb78064bbeaabb6756cb615dbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-660-2019",
+   "path": "local/judet/dolj/2019/660",
+   "short": "HCJ Dolj nr. 660/2019",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 660/2019",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2019-0000148A",
+   "versions": [
+    {
+     "from": "2019-01-14",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%2013.pdf",
+     "sha256": "a9aa1a7e9dbcbe9b895771ed87cf46f424e8483fa659ee7972951a652b272fe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-663-2019",
+   "path": "local/judet/dolj/2019/663",
+   "short": "HCJ Dolj nr. 663/2019",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 663/2019",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2019-0000148A",
+   "versions": [
+    {
+     "from": "2019-01-14",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%2012.pdf",
+     "sha256": "eeb8b8aa130508357e03ebc511a94dda274be92218302f2576d0176c9d8fa8d4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-76-2019",
    "path": "local/judet/dolj/2019/76",
    "short": "HCJ Dolj nr. 76/2019",
@@ -239,6 +344,21 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%2076.pdf",
      "sha256": "9fdda35a69b173c6aed92dda17b66c4a386daa4708d146cc419ae0acdc84eaed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-83-2019",
+   "path": "local/judet/dolj/2019/83",
+   "short": "HCJ Dolj nr. 83/2019",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 83/2019 privind alocarea sumei de 11.353 mii lei pe anul 2019 și estimările sumelor pe anii 2020-2022, reprezentând plata contribuției pentru personalul neclerical angajat în unitățile de cult din județul Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2019-0000148A",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2019/Hotararea%2063.pdf",
+     "sha256": "97c1f3eef74b36dcc4fdfce6956b1d873b99f4d5ecf87db875d319643a1a32e1"
     }
    ]
   },

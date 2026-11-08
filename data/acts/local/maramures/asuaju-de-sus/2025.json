@@ -290,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-14-2025",
+"path": "local/maramures/asuaju-de-sus/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 14/2025 privind aprobarea numarului asistentilor personali ai persoanelor cu handicap grav si a numarului indemnizatiilor lunare pentru persoanele cu handicap grav",
+"short": "HCL Asuaju de Sus nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/251295",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-15-2025",
 "path": "local/maramures/asuaju-de-sus/2025/15",
 "kind": "local",
@@ -664,6 +686,28 @@
 }
 },
 {
+"slug": "hcl-maramures--asuaju-de-sus-32-2025",
+"path": "local/maramures/asuaju-de-sus/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 32/2025 privind aprobarea vânzarii imobilului identificat cu nr. cadastral nr. 51383, în suprafata de 993 mp, proprietate privata a comunei Asuaju de Sus, situat in localitatea Asuaju de Jos, nr. 164. judetul Maramures",
+"short": "HCL Asuaju de Sus nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-11",
+"latest": "2025-06-11",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/251413",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--asuaju-de-sus-33-2025",
 "path": "local/maramures/asuaju-de-sus/2025/33",
 "kind": "local",
@@ -1013,6 +1057,28 @@
 "council_name": "Consiliul Local al Comunei Asuaju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--asuaju-de-sus-49-2025",
+"path": "local/maramures/asuaju-de-sus/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 49/2025 privind desemnarea reprezentantilor Consiliului local in Consiliul de administratie in Comisia de evaluare si asigurare a calitatii (CEAC) si in grupul de actiune antibullyng la nivelul Scolii gimnaziale Asuaju de Sus, judetul Maramures",
+"short": "HCL Asuaju de Sus nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-23",
+"latest": "2025-09-23",
+"portal": "https://emol.ro/asuajudesus-mm/registru-hcl/251434",
+"council": "maramures/asuaju-de-sus",
+"council_name": "Consiliul Local al Comunei Asuaju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

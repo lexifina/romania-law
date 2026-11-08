@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcj-covasna-13-2020",
+"path": "local/judet/covasna/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 13/2020",
+"short": "HCJ Covasna nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-1-20-ianuarie-2020.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-covasna-20-2020",
 "path": "local/judet/covasna/2020/20",
 "kind": "local",
