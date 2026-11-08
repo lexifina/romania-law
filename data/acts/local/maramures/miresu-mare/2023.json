@@ -487,6 +487,28 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-23-2023",
+"path": "local/maramures/miresu-mare/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 23/2023 privind alegerea unui președinte de ședință Consiliul Local al Comunei Mireșu Mare, județul Maramureș;",
+"short": "HCL Mireșu Mare nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/98576",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-24-2023",
 "path": "local/maramures/miresu-mare/2023/24",
 "kind": "local",
@@ -529,6 +551,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-26-2023",
+"path": "local/maramures/miresu-mare/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 26/2023 privind aprobarea Planului Urbanistic de detaliu pentru ,,Construire Hală cu destinație spațiu comercial,, generat de imobilul teren situat în com. Mireșu Mare, sat Mireșu Mare, FN, înscris în CF 53705 Mireșu Mare, nr. cad. 53705",
+"short": "HCL Mireșu Mare nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/98579",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -598,6 +642,28 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-30-2023",
+"path": "local/maramures/miresu-mare/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 30/2023 Proiect de hotărâre privind desemnarea unui consilier local în calitate de reprezentant al Consiliului Local al Comunei Mireșu Mare în cadrul Rețelei europene a aleșilor locali - Programul Construim Europa împreună cu autoritățile locale (Building Europe with Local Councillors -BBLC)",
+"short": "HCL Mireșu Mare nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-22",
+"latest": "2023-05-22",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/104614",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-31-2023",
 "path": "local/maramures/miresu-mare/2023/31",
 "kind": "local",
@@ -617,6 +683,28 @@
 "council_name": "Consiliul Local al Comunei Mireșu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-32-2023",
+"path": "local/maramures/miresu-mare/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 32/2023 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 30.06.2023 - 30.09.2023",
+"short": "HCL Mireșu Mare nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/109723",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -928,6 +1016,28 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-47-2023",
+"path": "local/maramures/miresu-mare/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 47/2023 privind aprobarea predării bunurilor concesionate necesare realizării serviciului delegat prin sistemul de canalizare în comuna Mireșu Mare, jud.Maramureș, localitățile Dăneștii Chioarului și Lucăcești",
+"short": "HCL Mireșu Mare nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/116312",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-48-2023",
 "path": "local/maramures/miresu-mare/2023/48",
 "kind": "local",
@@ -991,6 +1101,50 @@
 "council_name": "Consiliul Local al Comunei Mireșu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-51-2023",
+"path": "local/maramures/miresu-mare/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 51/2023 privind desemnarea reprezentanților Consiliului local al Comunei Mireșu Mare care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Mireșu Mare în anul scolar 2023 - 2024",
+"short": "HCL Mireșu Mare nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/121295",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-52-2023",
+"path": "local/maramures/miresu-mare/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 52/2023 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 30.09.2023 - 30.12.2023",
+"short": "HCL Mireșu Mare nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-20",
+"latest": "2023-09-20",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/121296",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

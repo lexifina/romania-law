@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-21-2025",
+   "path": "local/maramures/miresu-mare/2025/21",
+   "short": "HCL Mireșu Mare nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 21/2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/200448",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/200448",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-22-2025",
    "path": "local/maramures/miresu-mare/2025/22",
    "short": "HCL Mireșu Mare nr. 22/2025",
@@ -253,6 +268,21 @@
      "from": "2025-04-11",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/202553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-26-2025",
+   "path": "local/maramures/miresu-mare/2025/26",
+   "short": "HCL Mireșu Mare nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 26/2025 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 28.05.2025 - 28.08.2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/209591",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/209591",
      "sha256": null
     }
    ]
@@ -423,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-37-2025",
+   "path": "local/maramures/miresu-mare/2025/37",
+   "short": "HCL Mireșu Mare nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 37/2025 privind aprobarea statului de personal din cadrul aparatului de specialitate al primarului comunei Mireșu Mare, judeţul Maramureș și a indemnizației consilierilor locali",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/209602",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/209602",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-38-2025",
    "path": "local/maramures/miresu-mare/2025/38",
    "short": "HCL Mireșu Mare nr. 38/2025",
@@ -543,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-45-2025",
+   "path": "local/maramures/miresu-mare/2025/45",
+   "short": "HCL Mireșu Mare nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 45/2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/209610",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/209610",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-46-2025",
    "path": "local/maramures/miresu-mare/2025/46",
    "short": "HCL Mireșu Mare nr. 46/2025",
@@ -598,6 +658,21 @@
      "from": "2025-08-05",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/217546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-5-2025",
+   "path": "local/maramures/miresu-mare/2025/5",
+   "short": "HCL Mireșu Mare nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 5/2025 privind modificarea HCL nr. 34/2024 privind desemnarea reprezentanților Consiliului local al Comunei Mireșu Mare care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Mireșu Mare în anul scolar 2024 - 2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/192299",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/192299",
      "sha256": null
     }
    ]
@@ -693,6 +768,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-56-2025",
+   "path": "local/maramures/miresu-mare/2025/56",
+   "short": "HCL Mireșu Mare nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 56/2025 privind aprobarea modificării ,, Organigramei și numărului de personal al Serviciului Voluntar pentru Situații de Urgență al Comunei Mireșu Mare'' și desemnarea șefului Serviciului Voluntar pentru Situații de Urgență al Comunei Mireșu Mare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/220036",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/220036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-57-2025",
+   "path": "local/maramures/miresu-mare/2025/57",
+   "short": "HCL Mireșu Mare nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 57/2025 privind aprobarea statului de personal din cadrul aparatului de specialitate al primarului comunei Mireșu Mare, judeţul Maramureș și a indemnizației consilierilor locali",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/220037",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/220037",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-58-2025",
    "path": "local/maramures/miresu-mare/2025/58",
    "short": "HCL Mireșu Mare nr. 58/2025",
@@ -733,6 +838,21 @@
      "from": "2025-02-24",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/192300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-60-2025",
+   "path": "local/maramures/miresu-mare/2025/60",
+   "short": "HCL Mireșu Mare nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 60/2025 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 29.08.2025 - 29.11.2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/220040",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/220040",
      "sha256": null
     }
    ]
@@ -828,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-67-2025",
+   "path": "local/maramures/miresu-mare/2025/67",
+   "short": "HCL Mireșu Mare nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 67/2025 privind desemnarea reprezentanților Consiliului local al Comunei Mireșu Mare care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Mireșu Mare în anul scolar 2025 - 2026",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/228524",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/228524",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-68-2025",
    "path": "local/maramures/miresu-mare/2025/68",
    "short": "HCL Mireșu Mare nr. 68/2025",
@@ -853,6 +988,21 @@
      "from": "2025-10-14",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/228526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-7-2025",
+   "path": "local/maramures/miresu-mare/2025/7",
+   "short": "HCL Mireșu Mare nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 7/2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/192301",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/192301",
      "sha256": null
     }
    ]
@@ -898,6 +1048,21 @@
      "from": "2025-10-31",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/230288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-73-2025",
+   "path": "local/maramures/miresu-mare/2025/73",
+   "short": "HCL Mireșu Mare nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 73/2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/230289",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/230289",
      "sha256": null
     }
    ]

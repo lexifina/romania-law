@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/drobeta-turnu-severin/2013",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-18-2013",
+   "path": "local/mehedinti/drobeta-turnu-severin/2013/18",
+   "short": "HCL Drobeta-Turnu Severin nr. 18/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 18/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-018.pdf",
+     "sha256": "c35b322bb40496b7e3071790154147d95610b285b68069d45ab1d122bb241558"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-86-2013",
+   "path": "local/mehedinti/drobeta-turnu-severin/2013/86",
+   "short": "HCL Drobeta-Turnu Severin nr. 86/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 86/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-09-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-086.pdf",
+     "sha256": "9537bb6c2500d5d6b8b2a9fc289a053f4db1523fe9ed869c6ce23ea40d1ae8e2"
+    }
+   ]
+  }
+ ]
+}

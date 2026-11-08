@@ -3,6 +3,28 @@
 "shard": "local/maramures/sisesti/2026",
 "acts": [
 {
+"slug": "hcl-maramures--sisesti-1-2026",
+"path": "local/maramures/sisesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 1/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Comunei ȘIȘEȘTI , Județul Maramureș",
+"short": "HCL Șișești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/250689",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sisesti-2-2026",
 "path": "local/maramures/sisesti/2026/2",
 "kind": "local",
@@ -44,6 +66,94 @@
 "council_name": "Consiliul Local al Comunei Șișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-4-2026",
+"path": "local/maramures/sisesti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 4/2026 privind aprobarea contului de executie al bugetului local al Comunei Sisesti pentru al patrulea trimestru al anului 2025",
+"short": "HCL Șișești nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/250692",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-5-2026",
+"path": "local/maramures/sisesti/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 5/2026 privind aprobarea contului de executie al bugetului local al Comunei Sisesti pentru anul 2025",
+"short": "HCL Șișești nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/250693",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-6-2026",
+"path": "local/maramures/sisesti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 6/2026 privind aprobarea prelungirii duratei contractului de comodat incheiat intre Comuna Sisesti si IPJ Maramures",
+"short": "HCL Șișești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/250694",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-7-2026",
+"path": "local/maramures/sisesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 7/2026 privind aprobarea modificarii si completarii organigramei si statului de functii apartinand Aparatului de Specialitate al Primarului Comunei Sisesti",
+"short": "HCL Șișești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/250695",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +201,94 @@
 }
 },
 {
+"slug": "hcl-maramures--sisesti-10-2026",
+"path": "local/maramures/sisesti/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 10/2026 privind aprobarea Programului de actiune comunitara la nivelul Comunei Sisesti pentru anul 2026",
+"short": "HCL Șișești nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/256656",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-11-2026",
+"path": "local/maramures/sisesti/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 11/2026 privind aprobarea pretului de pornire pentru materialul lemnos cuprins in APV nr 851/10.02.2026",
+"short": "HCL Șișești nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/256657",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-12-2026",
+"path": "local/maramures/sisesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 12/2026 privind aderarea Comunei Sisesti , Judetul Maramures la Organizatia de Management al Destinatiei Judetene Maramures ( OMD Maramures )",
+"short": "HCL Șișești nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/259411",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-13-2026",
+"path": "local/maramures/sisesti/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 13/2026 privind aprobarea indicatorilor tehnico- economici actualizati precum si a cofinantarii de la bugetul local a obiectivului de investitii „ Modernizarea infrastructurii rutiere in Comuna Sisesti , Judetul Maramures„",
+"short": "HCL Șișești nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/259412",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sisesti-14-2026",
 "path": "local/maramures/sisesti/2026/14",
 "kind": "local",
@@ -110,6 +308,95 @@
 "council_name": "Consiliul Local al Comunei Șișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-15-2026",
+"path": "local/maramures/sisesti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 15/2026 privind aprobarea prelungirii contractului de concesiune nr . 652 din 26.01 2021 incheiat intre Comuna Sisesti si Green Advertising Solution SRL",
+"short": "HCL Șișești nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/261099",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-16-2026",
+"path": "local/maramures/sisesti/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 16/2026 privind aprobarea noului numar maxim de posturi comunicat de catre Institutia Prefectului Judetul Maramures, precum si reorganizarea Aparatului de Specialitate al Primarului Comunei Sisesti",
+"short": "HCL Șișești nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/263229",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-17-2026",
+"path": "local/maramures/sisesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 17/2026",
+"short": "HCL Șișești nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/263230",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-18-2026",
+"path": "local/maramures/sisesti/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 18/2026 privind acordarea unui mandat special Primarului Comunei Sisesti să voteze în cadrul Adunării Generale a Asociației pentru aprobarea aderării Comunei Groși la Asociația de Dezvoltare Intercomunitară și pentru aprobarea modificării prin act adițional a Statutului Asociației, precum și pentru semnarea Actului adițional și a Statutului Asociației actualizat",
+"short": "HCL Șișești nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/263231",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +422,72 @@
 }
 },
 {
+"slug": "hcl-maramures--sisesti-20-2026",
+"path": "local/maramures/sisesti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 20/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Comunei ȘIȘEȘTI , Județul Maramureș",
+"short": "HCL Șișești nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-05",
+"latest": "2026-06-05",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/268951",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-21-2026",
+"path": "local/maramures/sisesti/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 21/2026 privind desemnarea persoanei responsabile pentru intocmirea Registrului de Evidenta al datoriei publice locale al unitatii administrativ teritoriale Comuna Sisesti si Registrului de Evidenta al garantiilor locale",
+"short": "HCL Șișești nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-05",
+"latest": "2026-06-05",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/268952",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-22-2026",
+"path": "local/maramures/sisesti/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 22/2026 privind aprobarea contului de executie al bugetului local al Comunei Sisesti pentru primul trimestru al anului 2026",
+"short": "HCL Șișești nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-05",
+"latest": "2026-06-05",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/268953",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sisesti-23-2026",
 "path": "local/maramures/sisesti/2026/23",
 "kind": "local",
@@ -154,6 +507,50 @@
 "council_name": "Consiliul Local al Comunei Șișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-24-2026",
+"path": "local/maramures/sisesti/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 24/2026 privind majorarea suprafetei imobilului inscris in CF 53302 apartinand domeniului public al Comunei Sisesti",
+"short": "HCL Șișești nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-05",
+"latest": "2026-06-05",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/268955",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-25-2026",
+"path": "local/maramures/sisesti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 25/2026 privind aprobarea Registrului spatiilor verzi la nivelul Comunei Sisesti , Judetul Maramures",
+"short": "HCL Șișești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/273159",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +642,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sisesti-30-2026",
+"path": "local/maramures/sisesti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 30/2026 privind aprobarea Regulamentului de utilizare al caminelor culturale apartinand domeniului public al Comunei Sisesti",
+"short": "HCL Șișești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/276286",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sisesti-31-2026",
 "path": "local/maramures/sisesti/2026/31",
 "kind": "local",
@@ -264,6 +683,94 @@
 "council_name": "Consiliul Local al Comunei Șișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-32-2026",
+"path": "local/maramures/sisesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 32/2026 privind rectificarea bugetului local al Comunei Sisesti pentru anul 2026",
+"short": "HCL Șișești nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/279715",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-33-2026",
+"path": "local/maramures/sisesti/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 33/2026 privind privind mandatarea reprezentantului UAT Comuna Sisesti de a vota în AGA ADIGIDM MM modificarea tarifelor de colectare și transport a deșeurilor municipale din cadrul Contractului pentru delegarea gestiunii serviciului de salubrizare în zona de colectare 1 – Sârbi nr. 116/2019",
+"short": "HCL Șișești nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/279716",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-34-2026",
+"path": "local/maramures/sisesti/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 34/2026 privind pentru stabilirea unor măsuri privind delegarea gestiunii activităților componente ale serviciului de salubrizare privind transferul, sortarea, tratarea mecano-biologică, compostarea, operarea centrelor de colectare cu aport voluntar și eliminarea prin depozitare a deșeurilor municipale în județul Maramureș",
+"short": "HCL Șișești nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/279717",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sisesti-35-2026",
+"path": "local/maramures/sisesti/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șișești nr. 35/2026 privind mandatarea reprezentantului UATComuna Sisesti de a vota în AGA ADIGIDM MM modificarea tarifelor pentru activitățile de sortare si transfer a deșeurilor municipale zona de colectare 1 – Sârbi, UAT Cernești și UAT Coroieni",
+"short": "HCL Șișești nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/sisesti-mm/registru-hcl/279718",
+"council": "maramures/sisesti",
+"council_name": "Consiliul Local al Comunei Șișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

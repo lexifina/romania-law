@@ -135,6 +135,74 @@
 }
 },
 {
+"slug": "hcl-maramures--grosi-7-2022",
+"path": "local/maramures/grosi/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 7/2022",
+"short": "HCL Groși nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/50504",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--grosi-8-2022",
+"path": "local/maramures/grosi/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 8/2022",
+"short": "HCL Groși nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/50505",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--grosi-9-2022",
+"path": "local/maramures/grosi/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 9/2022 privind concesionarea prin licitație a unei parcele de teren în suprafață de 2274 m², proprietate privată a comunei, situată în localitatea Groși, Comuna Groși, identificat prin CF nr. 52316 – Groși, nr. cadastral 52316",
+"short": "HCL Groși nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/50506",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--grosi-10-2022",
 "path": "local/maramures/grosi/2022/10",
 "kind": "local",
@@ -286,6 +354,28 @@
 "council_name": "Consiliul Local al Comunei Groși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-17-2022",
+"path": "local/maramures/grosi/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 17/2022 pentru aprobarea Regulamentului privind stabilirea condițiilor de majorare a impozitului pentru clădirile/terenurile neîngrijite și terenurile agricole nelucrate de pe raza comunei Groși",
+"short": "HCL Groși nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/55396",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -620,6 +710,29 @@
 }
 },
 {
+"slug": "hcl-maramures--grosi-33-2022",
+"path": "local/maramures/grosi/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 33/2022",
+"short": "HCL Groși nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/64131",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--grosi-34-2022",
 "path": "local/maramures/grosi/2022/34",
 "kind": "local",
@@ -661,6 +774,28 @@
 "council_name": "Consiliul Local al Comunei Groși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-36-2022",
+"path": "local/maramures/grosi/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 36/2022 privind aprobarea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică pe raza comunei Groși",
+"short": "HCL Groși nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/67188",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -752,6 +887,29 @@
 }
 },
 {
+"slug": "hcl-maramures--grosi-41-2022",
+"path": "local/maramures/grosi/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 41/2022",
+"short": "HCL Groși nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/68994",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--grosi-42-2022",
 "path": "local/maramures/grosi/2022/42",
 "kind": "local",
@@ -815,6 +973,29 @@
 "council_name": "Consiliul Local al Comunei Groși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-45-2022",
+"path": "local/maramures/grosi/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 45/2022",
+"short": "HCL Groși nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/69997",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -906,6 +1087,52 @@
 }
 },
 {
+"slug": "hcl-maramures--grosi-50-2022",
+"path": "local/maramures/grosi/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 50/2022",
+"short": "HCL Groși nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-14",
+"latest": "2022-10-14",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/73196",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--grosi-51-2022",
+"path": "local/maramures/grosi/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 51/2022",
+"short": "HCL Groși nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-14",
+"latest": "2022-10-14",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/73197",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--grosi-52-2022",
 "path": "local/maramures/grosi/2022/52",
 "kind": "local",
@@ -925,6 +1152,28 @@
 "council_name": "Consiliul Local al Comunei Groși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-53-2022",
+"path": "local/maramures/grosi/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 53/2022 privind aprobarea unui sprijin financiar din sume de la bugetul local al comunei Groși pe anul 2022 pentru unitățile de cult aparținând cultelor religioase recunoscute din România situate pe raza teritorial-administrativă a comunei Groși",
+"short": "HCL Groși nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-14",
+"latest": "2022-10-14",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/73199",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1102,6 +1351,28 @@
 "council_name": "Consiliul Local al Comunei Groși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-62-2022",
+"path": "local/maramures/grosi/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 62/2022 privind declanșarea procedurii de expropriere a imobilului proprietate privată situat în coridorul de expropriere al lucrării de utilitate publică „Înființare pistă de biciclete în comuna Groși, județul Maramureș\"",
+"short": "HCL Groși nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-07",
+"latest": "2022-11-07",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/77534",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

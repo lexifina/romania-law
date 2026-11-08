@@ -157,6 +157,29 @@
 }
 },
 {
+"slug": "hcl-maramures--giulesti-8-2022",
+"path": "local/maramures/giulesti/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 8/2022",
+"short": "HCL Giulești nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/56323",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--giulesti-9-2022",
 "path": "local/maramures/giulesti/2022/9",
 "kind": "local",
@@ -375,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Giulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-19-2022",
+"path": "local/maramures/giulesti/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 19/2022 privind aprobarea atriburii în folosință gratuită și închiriere unui contract de comodat pentru spațiu situat în comuna Giulești, localitatea Giulești, înscris în CF 53421 Giulești",
+"short": "HCL Giulești nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/65869",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

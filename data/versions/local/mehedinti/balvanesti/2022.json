@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--balvanesti-3-2022",
+   "path": "local/mehedinti/balvanesti/2022/3",
+   "short": "HCL Bâlvănești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 3/2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/50129",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/50129",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balvanesti-30-2022",
    "path": "local/mehedinti/balvanesti/2022/30",
    "short": "HCL Bâlvănești nr. 30/2022",
@@ -418,6 +433,21 @@
      "from": "2022-10-17",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/55888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-7-2022",
+   "path": "local/mehedinti/balvanesti/2022/7",
+   "short": "HCL Bâlvănești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 7/2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/55889",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/55889",
      "sha256": null
     }
    ]

@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--giulesti-18-2023",
+   "path": "local/maramures/giulesti/2023/18",
+   "short": "HCL Giulești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 18/2023 privind aprobarea închirierii prin licitație publică a pajiștilor permanente proprietate publică a comunei Giulești, județul Maramureș",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/112395",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/112395",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-19-2023",
    "path": "local/maramures/giulesti/2023/19",
    "short": "HCL Giulești nr. 19/2023",
@@ -733,6 +748,36 @@
      "from": "2023-12-29",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/135801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-6-2023",
+   "path": "local/maramures/giulesti/2023/6",
+   "short": "HCL Giulești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 6/2023 privind trecerea din domeniul public al comunei Giulești, în domeniul privat al comunei, in administrare Consiliului Local a terenului situat în comuna Giulești, sat Giulești, CF 54558",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/95401",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/95401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-7-2023",
+   "path": "local/maramures/giulesti/2023/7",
+   "short": "HCL Giulești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 7/2023 privind aprobarea închirierii prin licitație publică a pajiștilor permanente proprietate publică a comunei Giulești, județul Maramureș",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/95402",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/95402",
      "sha256": null
     }
    ]

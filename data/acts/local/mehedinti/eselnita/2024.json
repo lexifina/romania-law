@@ -3,6 +3,205 @@
 "shard": "local/mehedinti/eselnita/2024",
 "acts": [
 {
+"slug": "hcl-mehedinti--eselnita-1-2024",
+"path": "local/mehedinti/eselnita/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 1/2024",
+"short": "HCL Eșelnița nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/138910",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-2-2024",
+"path": "local/mehedinti/eselnita/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 2/2024 privind aprobarea proiectul „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A EMERGIEI pentru obiectivul corp C1 -ȘCOALA GIMNAZIALĂ EȘELNIȚA„, a cheltuielilor legate de proiect și depunerea acestuia în cadrul apelului de proiecte în vederea finanțării acestuia în cadrul Programului Regional Sud-Vest Oltenia 2021-2027, Prioritatea 3-Eficiența energetică și infrastructura verde, Obiectiv specific 2.1- Promovarea măsurilor de eficiență energetică și reducerea emisiilor de gaze cu efect de seră, Operațiunea A-Investiții în clădirile publice în vederea asigurării/creșterii eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie, nr. apelului de proiecte PR SV/1/3/2.1/2022",
+"short": "HCL Eșelnița nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/141740",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-3-2024",
+"path": "local/mehedinti/eselnita/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 3/2024 privind scoaterea la casare și valorificarea obiectivelor de inventar degradate și depășite fizic și moral așa cum au rezultat în urmă inventarierii pentru anul 2023 la Școala Gimnazială Eșelnița",
+"short": "HCL Eșelnița nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146242",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-4-2024",
+"path": "local/mehedinti/eselnita/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 4/2024 privind scoaterea la casare și valorificarea obiectivelor de inventar, mijloace fixe, degradate și depășite fizic și moral așa cum au rezultat în urma inventarierii pentru anul 2023 la Primăria Eșelnița",
+"short": "HCL Eșelnița nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146243",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-5-2024",
+"path": "local/mehedinti/eselnita/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 5/2024 privind aprobarea Raportului de activitate a asistenților personali pentru semestrul II-2023",
+"short": "HCL Eșelnița nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146244",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-6-2024",
+"path": "local/mehedinti/eselnita/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 6/2024 privind aprobarea pentru anul 2024 a numărului persoanelor care primesc indemnizația echivalentă cu salariul net al asistentului personal al persoanei cu handicap grav",
+"short": "HCL Eșelnița nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146245",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-7-2024",
+"path": "local/mehedinti/eselnita/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 7/2024 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav din comuna Eșelnița, județul Mehedinți, pentru anul 2024",
+"short": "HCL Eșelnița nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146246",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-8-2024",
+"path": "local/mehedinti/eselnita/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 8/2024 privind aprobarea Raportului Programului economic, social și de mediu al comunei Eșelnița pentru anul 2023",
+"short": "HCL Eșelnița nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146247",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-9-2024",
+"path": "local/mehedinti/eselnita/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 9/2024 privind aprobarea „Programului economic, social și de mediu” pentru anul 2024 în comuna Eșelnița",
+"short": "HCL Eșelnița nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146248",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-10-2024",
 "path": "local/mehedinti/eselnita/2024/10",
 "kind": "local",
@@ -22,6 +221,94 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-11-2024",
+"path": "local/mehedinti/eselnita/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 11/2024 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146250",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-12-2024",
+"path": "local/mehedinti/eselnita/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 12/2024 privind aprobarea demarării procedurii de licitație publică în SEAP în vederea executării lucrării de AMENAJARE CURTE-GRADINIȚĂ ARLECHINO, în comuna Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146251",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-13-2024",
+"path": "local/mehedinti/eselnita/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 13/2024 privind aprobarea rezultatului privind inventarierea generală a elementelor de natura activelor, datoriilor și a capitalurilor proprii aflate în patrimoniul UAT Comuna Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146252",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-14-2024",
+"path": "local/mehedinti/eselnita/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 14/2024 privind aprobarea Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146253",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +334,116 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-16-2024",
+"path": "local/mehedinti/eselnita/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 16/2024 privind aprobarea componenței Consiliului Comunitar Consultativ la nivelul comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/146255",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-17-2024",
+"path": "local/mehedinti/eselnita/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 17/2024 privind prelungirea contractului de închiriere a terenului „fâneață” în suprafață de 6 ha, situat în zona Poiana Mare, înscris în CF 51051 ce face parte din proprietatea privată a comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155669",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-18-2024",
+"path": "local/mehedinti/eselnita/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 18/2024 privind prelungirea contractului de închiriere a terenului „fâneață” în suprafață de 10 ha, situat în zona Poiana Mare, înscris în CF 51051 ce face parte din proprietatea privată a comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155670",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-19-2024",
+"path": "local/mehedinti/eselnita/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 19/2024 privind aprobarea participării comunei Eșelnița în cadrul „Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană, finanțat de către Administrația Fondului de Mediu (AMF)” în vederea depunerii cererii de finanțare împreună cu documentația aferentă în aplicația informatică prin intermediul contului de utilizator creat",
+"short": "HCL Eșelnița nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155671",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-20-2024",
+"path": "local/mehedinti/eselnita/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 20/2024 privind aprobarea participării comunei Eșelnița în cadrul „Programul privind „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi prin promovarea vehiculelor de transport rutier nepoluate și eficiente din punct de vedere energetic, 2020-2024, program al Ministerului Mediului, Apelor și Pădurilor prin AFM în vederea depunerii cererii de finanțare împreună cu documentația aferentă în aplicația informatică prin intermediul contului de utilizator creat în vederea depunerii cererii de finanțare împreună cu documentația aferentă în aplicația informatică prin intermediul contului de utilizator creat",
+"short": "HCL Eșelnița nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155672",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-21-2024",
 "path": "local/mehedinti/eselnita/2024/21",
 "kind": "local",
@@ -66,6 +463,207 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-22-2024",
+"path": "local/mehedinti/eselnita/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 22/2024 privind încheierea unei Convenții de colaborare între RNP Romsilva - Administrația Parcului Natural Porțile de Fier RA și Consiliul Local Eșelnița - Primăria comunei Eșelnița, în vederea protejării biodiversității din arealul Parcului Natural Porțile de Fier",
+"short": "HCL Eșelnița nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155674",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-23-2024",
+"path": "local/mehedinti/eselnita/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 23/2024",
+"short": "HCL Eșelnița nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155686",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-24-2024",
+"path": "local/mehedinti/eselnita/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 24/2024 privind prelungirea contractului de închiriere a terenului „fâneață” în suprafață de 8 ha, situat în zona DEALUL BĂRZUICA, înscris în CF 51051 care face parte din proprietatea privată a comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155687",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-25-2024",
+"path": "local/mehedinti/eselnita/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 25/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155688",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-26-2024",
+"path": "local/mehedinti/eselnita/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 26/2024",
+"short": "HCL Eșelnița nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155689",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-27-2024",
+"path": "local/mehedinti/eselnita/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 27/2024",
+"short": "HCL Eșelnița nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155690",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-28-2024",
+"path": "local/mehedinti/eselnita/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 28/2024 privind aprobarea documentației tehnice-Studiu fezabilitate și a indicatorilor tehnico-economici inițial și actualizați pentru investiția „REALIZAREA INFRASTRUCTURII DE ASFALTARE-STR. SALCAMILOR-PRELUNGIRE PÂNĂ ÎN D.N.57 ÎN COMUNA EȘELNIȚA, JUDEȚUL MEHEDINȚI”, investiție propusă spre finanțare MINISTERULUI DEZVOLTĂRII LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI prin Programul Național „Anghel Saligny”",
+"short": "HCL Eșelnița nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155691",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-29-2024",
+"path": "local/mehedinti/eselnita/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 29/2024 privind aprobarea Bilanțului contabil pentru anul 2023 la SC GOSPODĂRIE COMUNALA EȘELNIȚA SRL",
+"short": "HCL Eșelnița nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155692",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-30-2024",
+"path": "local/mehedinti/eselnita/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 30/2024 privind aprobarea participării comunei Eșelnița în cadrul Programului vizând sisteme de alimentare cu apa, canalizare și epurare a apelor uzate, finanțat de către Administrația Fondului de Mediu (AFM) în Vederea depunerii cererii de finanțare împreună cu documentația aferentă în aplicația informatică prin intermediul contului de utilizator creat pentru finanțarea obiectivului de investiții „Extindere rețea alimentară cu apa și canalizare pe străzile (Duzilor, Narciselor, Liliacului) din comuna Eșelnița, județul Mehedinți”",
+"short": "HCL Eșelnița nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/155693",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +711,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-33-2024",
+"path": "local/mehedinti/eselnita/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 33/2024 privind aprobarea documentației tehnice-proiectului tehnic și a principalilor indicatori tehnico-economici pentru obiectivul de investiții „REABILITAREA ȘI MODERNIZAREA SPAȚIULUI EXTERIOR DIN JURUL CAMINULUI CULTURAL ÎN COMUNA EȘELNIȚA, JUDEȚUL MEHEDINȚI”",
+"short": "HCL Eșelnița nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/158728",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-34-2024",
 "path": "local/mehedinti/eselnita/2024/34",
 "kind": "local",
@@ -135,6 +755,96 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-35-2024",
+"path": "local/mehedinti/eselnita/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 35/2024",
+"short": "HCL Eșelnița nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/158730",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-36-2024",
+"path": "local/mehedinti/eselnita/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 36/2024",
+"short": "HCL Eșelnița nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/158731",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-37-2024",
+"path": "local/mehedinti/eselnita/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 37/2024 privind mandatarea reprezentantului Consiliului Local al comunei Eșelnița în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți, pentru a vota aprobarea modificării Contractului de delegare prin concesiune a serviciului public de salubrizare nr.805/381 din 28.11.2019 Lot 1-Zona Orșova",
+"short": "HCL Eșelnița nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/158732",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-38-2024",
+"path": "local/mehedinti/eselnita/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 38/2024 privind participarea Comunei Eșelnița, județul Mehedinți la implementarea proiectului din Reforma 1 „Operaționalizarea organizațiilor de management al destinației (OMD-uri)” finanțat din PNRR, Componenta 11-Turism și cultură",
+"short": "HCL Eșelnița nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-05",
+"latest": "2024-06-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/158733",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-39-2024",
 "path": "local/mehedinti/eselnita/2024/39",
 "kind": "local",
@@ -154,6 +864,50 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-40-2024",
+"path": "local/mehedinti/eselnita/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 40/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/161543",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-41-2024",
+"path": "local/mehedinti/eselnita/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 41/2024 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2025",
+"short": "HCL Eșelnița nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/161544",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +952,117 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-44-2024",
+"path": "local/mehedinti/eselnita/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 44/2024 privind alocarea sumei de 8800 lei de la Bugetul Local al comunei Eșelnița pe anul 2024 pentru premierea elevilor și a cadrelor didactice coordonatoare din cadrul Școlii Gimnaziale Eșelnița",
+"short": "HCL Eșelnița nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/161547",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-45-2024",
+"path": "local/mehedinti/eselnita/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 45/2024 privind închirierea prin licitație publică a unui teren în suprafață de 12 mp, înscris în CF nr. 52101-proprietate publică a comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/165164",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-46-2024",
+"path": "local/mehedinti/eselnita/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 46/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/165165",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-47-2024",
+"path": "local/mehedinti/eselnita/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 47/2024 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/165166",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-48-2024",
+"path": "local/mehedinti/eselnita/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 48/2024",
+"short": "HCL Eșelnița nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/165167",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -247,6 +1112,94 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-51-2024",
+"path": "local/mehedinti/eselnita/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 51/2024 privind respingerea Proiectului de hotărâre nr. 45 din 31.05.2024 privind scoaterea la licitație publică în vederea vânzării a terenului în suprafață de 112 mp, înscris CF 50841, nr. cadastral 50841, intravilan, situat în comuna Eșelnița, STR. Merilor, categoria curți-construcții, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171057",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-52-2024",
+"path": "local/mehedinti/eselnita/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 52/2024 privind respingerea Proiectului de hotărâre nr. 51 din 28.06.2024 privind scoaterea la licitație publică în vederea vânzării a terenului în suprafață de 111 mp, înscris CF 50978, nr. cadastral 50978, intravilan, situat în comuna Eșelnița, Zona Ogradena, categoria curți-construcții, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171058",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-53-2024",
+"path": "local/mehedinti/eselnita/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 53/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171059",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-54-2024",
+"path": "local/mehedinti/eselnita/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 54/2024 privind aprobarea Raportului de activitate a asistenților personali pentru semestrul I-2024",
+"short": "HCL Eșelnița nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171060",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-55-2024",
 "path": "local/mehedinti/eselnita/2024/55",
 "kind": "local",
@@ -266,6 +1219,185 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-56-2024",
+"path": "local/mehedinti/eselnita/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 56/2024",
+"short": "HCL Eșelnița nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171062",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-57-2024",
+"path": "local/mehedinti/eselnita/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 57/2024 privind aprobarea demarării procedurii de licitație publică în vederea achiziționării pe SEAP a unor indicatoare stradale în vederea montării acestora pe raza comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171099",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-58-2024",
+"path": "local/mehedinti/eselnita/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 58/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171100",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-59-2024",
+"path": "local/mehedinti/eselnita/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 59/2024",
+"short": "HCL Eșelnița nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171101",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-60-2024",
+"path": "local/mehedinti/eselnita/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 60/2024 privind aprobarea demarării procedurii de licitație publică în SEAP în vederea achiziționării servicii de consultanță în domeniul achizițiilor publice pentru obiectivul de investiții-Digitalizare în folosul cetățenilor la nivelul comunei Eșelnița, județul Mehedinți”, finanțat prin PROGRAMUL REGIONAL SUD-MUNTENIA 2021-2027-GHIDUL SOLICITANTULUI-VALORIFICAREA AVANTAJELOR DIGITALIZĂRII, ÎN BENEFICIUL CETĂȚENILOR, AL ORGANIZAȚIILOR DE CERCETARE ȘI AL AUTORITĂȚILOR PUBLICE, PRIN ÎNFIINȚAREA ȘI OPERAȚIONALIZAREA CENTRULUI DE DATE REGIONAL SUD MUNTENIA",
+"short": "HCL Eșelnița nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171102",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-61-2024",
+"path": "local/mehedinti/eselnita/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 61/2024 privind respingerea Proiectului de hotărâre nr. 64 din 20.08.2024 privind demararea procedurii de licitație publică în vederea închirierii unui contract de prestări servicii cu o firmă specializată pentru asigurarea serviciilor de ECARISAJ pe raza comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171103",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-62-2024",
+"path": "local/mehedinti/eselnita/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 62/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171104",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-63-2024",
+"path": "local/mehedinti/eselnita/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 63/2024",
+"short": "HCL Eșelnița nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/171105",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -313,6 +1445,95 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-66-2024",
+"path": "local/mehedinti/eselnita/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 66/2024 privind scoaterea la licitație publică în vederea vânzării a terenului în suprafață de 3164 mp, înscris CF 50568, nr. cadastral 50568, intravilan, situat în comuna Eșelnița, Zona Casapu Nord, categoria faneta, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/173990",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-67-2024",
+"path": "local/mehedinti/eselnita/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 67/2024 privind scoaterea la licitație publică în vederea vânzării a terenului în suprafață de 112 mp, înscris CF 50841, nr. cadastral 50841, intravilan, situat în comuna Eșelnița, STR. Merilor, categoria curți-construcții, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/173991",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-68-2024",
+"path": "local/mehedinti/eselnita/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 68/2024 privind scoaterea la licitație publică în vederea vânzării a terenului în suprafață de 111 mp, înscris CF 50978, nr. cadastral 50978, intravilan, situat în comuna Eșelnița, Zona Ogradena, categoria curți-construcții, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/173992",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-69-2024",
+"path": "local/mehedinti/eselnita/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 69/2024",
+"short": "HCL Eșelnița nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/173993",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-70-2024",
 "path": "local/mehedinti/eselnita/2024/70",
 "kind": "local",
@@ -336,6 +1557,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-71-2024",
+"path": "local/mehedinti/eselnita/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 71/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/173995",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-72-2024",
+"path": "local/mehedinti/eselnita/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 72/2024 privind anularea accesoriilor aferente obligațiilor bugetare restante, în conformitate cu OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024",
+"short": "HCL Eșelnița nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/173996",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-73-2024",
 "path": "local/mehedinti/eselnita/2024/73",
 "kind": "local",
@@ -355,6 +1620,364 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-74-2024",
+"path": "local/mehedinti/eselnita/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 74/2024 privind darea în folosință gratuită către Agenția Națională de Meteorologie a terenului în suprafață de 750 mp, înscris în CF 51051, aparținând domeniului privat al comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/173998",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-75-2024",
+"path": "local/mehedinti/eselnita/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 75/2024",
+"short": "HCL Eșelnița nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/173999",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-76-2024",
+"path": "local/mehedinti/eselnita/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 76/2024",
+"short": "HCL Eșelnița nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/174113",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-77-2024",
+"path": "local/mehedinti/eselnita/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 77/2024 privind actualizarea devizului general după finalizarea procedurilor de achiziție publică și încheierea contractului de execuție de lucrări pentru obiectivul de investiție „REALIZAREA INFRASTRUCTURII PRIN EXTINDEREA ALIMENTĂRII CU APA ȘI CANALIZARE-STR. SALCAMILOR-PRELUNGIRE PÂNĂ ÎN D.N.57 ÎN COMUNA EȘELNIȚA, JUDEȚUL MEHEDINȚI”, investiție propusă spre finanțare MINISTERULUI DEZVOLTĂRII LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI prin Programul Național „Anghel Saligny”",
+"short": "HCL Eșelnița nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/174114",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-78-2024",
+"path": "local/mehedinti/eselnita/2024/78",
+"kind": "local",
+"year": "2024",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 78/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 78/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/174115",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-79-2024",
+"path": "local/mehedinti/eselnita/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 79/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/174116",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-80-2024",
+"path": "local/mehedinti/eselnita/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 80/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2024",
+"short": "HCL Eșelnița nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/174117",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-81-2024",
+"path": "local/mehedinti/eselnita/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 81/2024",
+"short": "HCL Eșelnița nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-30",
+"latest": "2024-10-30",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/174118",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-82-2024",
+"path": "local/mehedinti/eselnita/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 82/2024",
+"short": "HCL Eșelnița nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/176394",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-83-2024",
+"path": "local/mehedinti/eselnita/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 83/2024",
+"short": "HCL Eșelnița nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/176395",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-84-2024",
+"path": "local/mehedinti/eselnita/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 84/2024 privind alegerea președintelui de ședință pentru următoarele 3 luni pentru ședințele Consiliului local al Comunei Eșelnița",
+"short": "HCL Eșelnița nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/176396",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-85-2024",
+"path": "local/mehedinti/eselnita/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 85/2024 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local Eșelnița, Regulamentul de Ordine interioară al aparatului de specialitate al primarului comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/176397",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-86-2024",
+"path": "local/mehedinti/eselnita/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 86/2024 privind constituirea comisiilor pe domenii de specialitate ale Consiliului local al comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/176398",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-87-2024",
+"path": "local/mehedinti/eselnita/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 87/2024 privind stabilirea indemnizației lunare de care beneficiază membrii Consiliului Local ai comunei Eșelnița, județ Mehedinți",
+"short": "HCL Eșelnița nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/176399",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-88-2024",
+"path": "local/mehedinti/eselnita/2024/88",
+"kind": "local",
+"year": "2024",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 88/2024 privind alegerea viceprimarului comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 88/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/176400",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-89-2024",
+"path": "local/mehedinti/eselnita/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 89/2024",
+"short": "HCL Eșelnița nr. 89/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/176401",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

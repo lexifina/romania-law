@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Dubova nr. 20/2021 privind Hotărâre privind aprobarea predării către Ministerul Dezvoltării Regionale și Administrației Publice prin Compania Națională de Investiții “C.N.I.” a amplasamentului din comuna Dubova, județul Mehedinți și asigurarea condițiilor în vederea executării obiectivului de investiții “Modernizare stație de tratare și extindere rețea de alimentare cu apă, localitatea Dubova, Comuna Dubova, Județul Mehedinți”
+
+HCL Dubova nr. 20/2021 · 1 versions, from 2021-03-19 (latest in force: 2021-03-19) · <https://emol.ro/dubova-mh/registru-hcl/23033>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-mehedinti--dubova-20-2021` (tags `hcl-mehedinti--dubova-20-2021/<day>`; `python tools/on.py <day> hcl-mehedinti--dubova-20-2021`).
+
+## Decisions made by hand
+
+- HCL Dubova nr. 20/2021: listed from Consiliul Local al Comunei Dubova (emol.ro); an individual decision: metadata only.
+- HCL Dubova nr. 20/2021: dated from 19 March 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Dubova nr. 20/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

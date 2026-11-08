@@ -377,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--devesel-18-2024",
+"path": "local/mehedinti/devesel/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Devesel nr. 18/2024 privind desemnarea reprezentantului Consiliul Local Devesel in Consiliul de Administratie al Scolii Gimnaziale Devesel in anul scolar 2024 - 2025",
+"short": "HCL Devesel nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#82195",
+"council": "mehedinti/devesel",
+"council_name": "Consiliul Local al Comunei Devesel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--devesel-19-2024",
 "path": "local/mehedinti/devesel/2024/19",
 "kind": "local",

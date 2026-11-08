@@ -3,6 +3,116 @@
 "shard": "local/maramures/sacalaseni/2023",
 "acts": [
 {
+"slug": "hcl-maramures--sacalaseni-1-2023",
+"path": "local/maramures/sacalaseni/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 1/2023 privind alegerea președintelui de ședință pentru luna Februarie 2023",
+"short": "HCL Săcălășeni nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/88757",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-2-2023",
+"path": "local/maramures/sacalaseni/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 2/2023 privind validarea modificărilor intervenite în bugetul local al Comunei Săcălășeni din anul 2022, prin Dispoziția primarului Comunei Săcălășeni nr. 167 din 22.12.2022",
+"short": "HCL Săcălășeni nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/88758",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-3-2023",
+"path": "local/maramures/sacalaseni/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 3/2023 privind aprobarea contului de încheiere a exerciţiului bugetar al Comunei Săcălășeni, judeţul Maramureș, pe anul 2022",
+"short": "HCL Săcălășeni nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/88759",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-4-2023",
+"path": "local/maramures/sacalaseni/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 4/2023 privind aprobarea bugetului local al Comunei Săcălășeni pe anul 2023",
+"short": "HCL Săcălășeni nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/88760",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-5-2023",
+"path": "local/maramures/sacalaseni/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 5/2023 privind aprobarea bugetului instituției de drept public «CLUB SPORTIV „UNIREA SĂCĂLĂȘENI”», pe anul 2023",
+"short": "HCL Săcălășeni nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/88761",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-6-2023",
 "path": "local/maramures/sacalaseni/2023/6",
 "kind": "local",
@@ -136,6 +246,50 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-12-2023",
+"path": "local/maramures/sacalaseni/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 12/2023 privind alegerea președintelui de ședință pentru luna Martie 2023",
+"short": "HCL Săcălășeni nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/93681",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-13-2023",
+"path": "local/maramures/sacalaseni/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 13/2023 privind aprobarea primei rectificări a bugetului local al Comunei Săcălășeni pe anul 2023",
+"short": "HCL Săcălășeni nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/93682",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-14-2023",
 "path": "local/maramures/sacalaseni/2023/14",
 "kind": "local",
@@ -156,6 +310,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-15-2023",
+"path": "local/maramures/sacalaseni/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 15/2023 privind aprobarea situației veniturilor și cheltuielilor realizate în anul 2022 și a bugetului estimat de venituri şi cheltuieli pentru anul 2023, privind fondul forestier al comunei Săcălășeni, administrat de Ocolul Silvic Firiza",
+"short": "HCL Săcălășeni nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/93684",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -181,6 +357,75 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-17-2023",
+"path": "local/maramures/sacalaseni/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 17/2023",
+"short": "HCL Săcălășeni nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/93686",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-18-2023",
+"path": "local/maramures/sacalaseni/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 18/2023",
+"short": "HCL Săcălășeni nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/93687",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-19-2023",
+"path": "local/maramures/sacalaseni/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 19/2023",
+"short": "HCL Săcălășeni nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/93688",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-20-2023",
 "path": "local/maramures/sacalaseni/2023/20",
 "kind": "local",
@@ -200,6 +445,29 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-21-2023",
+"path": "local/maramures/sacalaseni/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 21/2023",
+"short": "HCL Săcălășeni nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/93690",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -225,6 +493,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-23-2023",
+"path": "local/maramures/sacalaseni/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 23/2023 privind aprobarea documentului „ACORD DE COOPERARE PRIVIND PRESTAREA UNOR ACTIVITĂŢI ECONOMICE, ÎN INTERES COMUNITAR”- prestări servicii, încheiat cu Filiala Județeană Maramureș a Asociației Comunelor din România",
+"short": "HCL Săcălășeni nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/93692",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-24-2023",
 "path": "local/maramures/sacalaseni/2023/24",
 "kind": "local",
@@ -244,6 +534,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-25-2023",
+"path": "local/maramures/sacalaseni/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 25/2023 privind alegerea președintelui de ședință pentru luna Aprilie 2023",
+"short": "HCL Săcălășeni nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99130",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -291,6 +603,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-28-2023",
+"path": "local/maramures/sacalaseni/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 28/2023",
+"short": "HCL Săcălășeni nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99133",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-29-2023",
 "path": "local/maramures/sacalaseni/2023/29",
 "kind": "local",
@@ -313,6 +648,94 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-30-2023",
+"path": "local/maramures/sacalaseni/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 30/2023 privind aprobarea situației veniturilor și cheltuielilor realizate în anul 2022 și a bugetului estimat de venituri şi cheltuieli pentru anul 2023, privind fondul forestier al comunei Săcălășeni, administrat de Ocolul Silvic Șomcuta Mare",
+"short": "HCL Săcălășeni nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99135",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-31-2023",
+"path": "local/maramures/sacalaseni/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 31/2023 privind aprobarea finanțării din bugetul local al comunei Săcălășeni a proiectului „Pavilion de vară în grădinița-creșă Ghiocel”, implementate de Comuna Taraclia din raionul Căușeni al Republicii Moldova",
+"short": "HCL Săcălășeni nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99136",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-32-2023",
+"path": "local/maramures/sacalaseni/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 32/2023 privind aprobarea finanțării din bugetul local al comunei Săcălășeni a proiectului: „Pavarea și iluminarea străzii pietonale în satul Ghindeștii Noi”, implementat de Comuna Ghindeşti din raionul Floreşti al Republicii Moldova",
+"short": "HCL Săcălășeni nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99137",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-33-2023",
+"path": "local/maramures/sacalaseni/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 33/2023 privind aprobarea finanțării din bugetul local al comunei Săcălășeni a proiectului: „Organizarea și amenajarea scuarului amplasat pe terenul proprietate publică, situat în Raionul Florești, Orașul Ghindești, str. Fabricii”",
+"short": "HCL Săcălășeni nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99138",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-34-2023",
 "path": "local/maramures/sacalaseni/2023/34",
 "kind": "local",
@@ -332,6 +755,94 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-35-2023",
+"path": "local/maramures/sacalaseni/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 35/2023 privind angajarea unui avocat, în vederea redactării, susținerii și reprezentării intereselor Comunei Săcălășeni/Consiliului Local al Comunei Săcălășeni, în instanță, în dosarul nr. 181/100/2023 al Tribunalului Maramureș",
+"short": "HCL Săcălășeni nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99140",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-36-2023",
+"path": "local/maramures/sacalaseni/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 36/2023 privind utilizarea unei sume din excedentul anual al bugetului local rezultat la încheierea exerciţiului bugetar 2022, pentru realizarea unor investiții și rectificarea bugetului local al Comunei Săcălășeni pe anul 2023",
+"short": "HCL Săcălășeni nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99617",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-37-2023",
+"path": "local/maramures/sacalaseni/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 37/2023 privind aprobarea implementării de către Comuna Săcălășeni a proiectului „Dotarea comunei Săcălășeni cu un autovehicul nou cu sistem de propulsie pur electric”",
+"short": "HCL Săcălășeni nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-12",
+"latest": "2023-04-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/99618",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-38-2023",
+"path": "local/maramures/sacalaseni/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 38/2023 privind alegerea președintelui de ședință pentru luna Mai 2023",
+"short": "HCL Săcălășeni nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/102443",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -402,6 +913,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-42-2023",
+"path": "local/maramures/sacalaseni/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 42/2023 privind premierea dascălilor și elevilor care au obținut rezultate deosebite în cadrul competiției „Comuniada” – faza locală 2023",
+"short": "HCL Săcălășeni nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/102447",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-43-2023",
 "path": "local/maramures/sacalaseni/2023/43",
 "kind": "local",
@@ -446,6 +979,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-45-2023",
+"path": "local/maramures/sacalaseni/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 45/2023",
+"short": "HCL Săcălășeni nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/102450",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-46-2023",
 "path": "local/maramures/sacalaseni/2023/46",
 "kind": "local",
@@ -465,6 +1021,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-47-2023",
+"path": "local/maramures/sacalaseni/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 47/2023 privind încetarea contractului de concesiune nr. 4089 din 7 mai 2021 încheiat între Comuna Săcălășeni și Societatea Comercială UNIC MEGABAU S.R.L",
+"short": "HCL Săcălășeni nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/102452",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -534,6 +1112,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-51-2023",
+"path": "local/maramures/sacalaseni/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 51/2023 privind alegerea președintelui de ședință pentru luna Iunie 2023",
+"short": "HCL Săcălășeni nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-07",
+"latest": "2023-06-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/105543",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-52-2023",
 "path": "local/maramures/sacalaseni/2023/52",
 "kind": "local",
@@ -575,6 +1175,95 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-54-2023",
+"path": "local/maramures/sacalaseni/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 54/2023 privind consituirea Grupului de lucru în vederea identificării așezărilor informale, evaluării situației acestora și stabilirii măsurilor necesare, la nivelul Comunei Săcălășeni",
+"short": "HCL Săcălășeni nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-07",
+"latest": "2023-06-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/105546",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-55-2023",
+"path": "local/maramures/sacalaseni/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 55/2023",
+"short": "HCL Săcălășeni nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-07",
+"latest": "2023-06-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/105547",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-56-2023",
+"path": "local/maramures/sacalaseni/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 56/2023 privind aprobarea documentației ”Studiu de Oportunitate” privind necesitatea concesionării imobilului în suprafață totală de 335.000 m2, identificat prin Cărțile Funciare nr. 53297, 53298, 53299, 53300 și 53301, în vederea realizării investiției „Centrală Electrică Fotovoltaică”, aprobarea proiectului ”Documentație de atribuire-Caiet de sarcini” privind această concesiune, a raportului de evaluare și a comisiei de evaluare a ofertelor",
+"short": "HCL Săcălășeni nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-07",
+"latest": "2023-06-07",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/105548",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-57-2023",
+"path": "local/maramures/sacalaseni/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 57/2023 privind privind alegerea președintelui de ședință pentru luna Iulie 2023",
+"short": "HCL Săcălășeni nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-20",
+"latest": "2023-06-20",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/108794",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -710,6 +1399,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-64-2023",
+"path": "local/maramures/sacalaseni/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 64/2023 privind alegerea președintelui de ședință pentru luna August 2023",
+"short": "HCL Săcălășeni nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-02",
+"latest": "2023-08-02",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/113715",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-65-2023",
 "path": "local/maramures/sacalaseni/2023/65",
 "kind": "local",
@@ -842,6 +1553,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-71-2023",
+"path": "local/maramures/sacalaseni/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 71/2023 privind abrogarea Hotărârii Consiliului Local al Comunei Săcălășeni nr. 56 din data de 23 mai 2023, privind aprobarea documentației ,,Studiu de Oportunitate” privind necesitatea concesionării imobilului în suprafață totală de 335.000 m2, identificat prin Cărțile Funciare nr. 53297, 53298, 53299, 53300 și 53301, în vederea realizării investiției „Centrală Electrică Fotovoltaică”, aprobarea proiectului ,,Documentație de atribuire-Caiet de sarcini” privind această concesiune, a raportului de evaluare și a comisiei de evaluare a ofertelor",
+"short": "HCL Săcălășeni nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-02",
+"latest": "2023-08-02",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/113722",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-72-2023",
 "path": "local/maramures/sacalaseni/2023/72",
 "kind": "local",
@@ -908,6 +1641,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-75-2023",
+"path": "local/maramures/sacalaseni/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 75/2023 privind alegerea președintelui de ședință pentru luna Septembrie 2023",
+"short": "HCL Săcălășeni nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/119289",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-76-2023",
 "path": "local/maramures/sacalaseni/2023/76",
 "kind": "local",
@@ -927,6 +1682,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-77-2023",
+"path": "local/maramures/sacalaseni/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 77/2023 privind completarea cu un membru al CONSILIULUI DE ADMINISTRAȚIE din cadrul instituției de drept public «CLUB SPORTIV „UNIREA SĂCĂLĂȘENI”»",
+"short": "HCL Săcălășeni nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/119291",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -952,6 +1729,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-79-2023",
+"path": "local/maramures/sacalaseni/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 79/2023 privind acordarea unui mandat pentru aprobarea modificării/completării Statutului Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Menajere Maramureș şi aprobarea formei actualizate a Statutului Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Menajere Maramureș",
+"short": "HCL Săcălășeni nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/119293",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-80-2023",
 "path": "local/maramures/sacalaseni/2023/80",
 "kind": "local",
@@ -971,6 +1770,50 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-81-2023",
+"path": "local/maramures/sacalaseni/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 81/2023 privind desemnarea reprezentantului Consiliului local al Comunei Săcălăşeni în Consiliul de administraţie al Şcolii Gimnaziale Săcălăşeni în anul școlar 2023-2024",
+"short": "HCL Săcălășeni nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-12",
+"latest": "2023-09-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/119295",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-82-2023",
+"path": "local/maramures/sacalaseni/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 82/2023 privind aprobarea documentației PLANULUI URBANISTIC ZONAL pentru CONSTRUIRE STAȚIE DE BAZĂ PENTRU SERVICII DE COMUNICAȚII ELECTRONICE, Com. Săcălășeni, Sat Săcălășeni str. Bojenilor, f.nr., Jud. Maramureș, beneficiar RCS&RDS",
+"short": "HCL Săcălășeni nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-09",
+"latest": "2023-10-09",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/122739",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1037,6 +1880,116 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-86-2023",
+"path": "local/maramures/sacalaseni/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 86/2023 privind alegerea președintelui de ședință pentru luna Octombrie 2023",
+"short": "HCL Săcălășeni nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-09",
+"latest": "2023-10-09",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/122743",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-87-2023",
+"path": "local/maramures/sacalaseni/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 87/2023 privind aprobarea celei de-a șaptea rectificări a bugetului local al Comunei Săcălășeni pe anul 2023",
+"short": "HCL Săcălășeni nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-09",
+"latest": "2023-10-09",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/122744",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-88-2023",
+"path": "local/maramures/sacalaseni/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 88/2023 privind transmiterea fără plată de la Comuna Săcălășeni către altă instituţie publică a următorului bun: Autobuz M3 clasa III, marca SCANIA, sau valorificarea acestuia dacă nu se transmite fără plată",
+"short": "HCL Săcălășeni nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-09",
+"latest": "2023-10-09",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/122745",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-89-2023",
+"path": "local/maramures/sacalaseni/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 89/2023 privind alegerea președintelui de ședință pentru luna Noiembrie 2023",
+"short": "HCL Săcălășeni nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/125600",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-90-2023",
+"path": "local/maramures/sacalaseni/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 90/2023 privind aprobarea celei de-a opta rectificări a bugetului local al Comunei Săcălășeni pe anul 2023",
+"short": "HCL Săcălășeni nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-01",
+"latest": "2023-11-01",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/125601",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

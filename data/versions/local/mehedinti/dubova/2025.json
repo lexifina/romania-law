@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-11-2025",
+   "path": "local/mehedinti/dubova/2025/11",
+   "short": "HCL Dubova nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 11/2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/197377",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/197377",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-12-2025",
    "path": "local/mehedinti/dubova/2025/12",
    "short": "HCL Dubova nr. 12/2025",
@@ -88,6 +103,21 @@
      "from": "2025-05-15",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/205344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-16-2025",
+   "path": "local/mehedinti/dubova/2025/16",
+   "short": "HCL Dubova nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 16/2025 privind aprobarea rezilierii contractelor de concesiune pentru nerespectarea de catre concesionari a obligatiilor contractuale",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/205345",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/205345",
      "sha256": null
     }
    ]
@@ -183,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-22-2025",
+   "path": "local/mehedinti/dubova/2025/22",
+   "short": "HCL Dubova nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 22/2025 privind aprobarea concesionarii prin licitatie publica deschisă a terenului de 250 m.p. cu NC 50533 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/210167",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/210167",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-23-2025",
    "path": "local/mehedinti/dubova/2025/23",
    "short": "HCL Dubova nr. 23/2025",
@@ -273,6 +318,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-29-2025",
+   "path": "local/mehedinti/dubova/2025/29",
+   "short": "HCL Dubova nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 29/2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/213563",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/213563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-3-2025",
+   "path": "local/mehedinti/dubova/2025/3",
+   "short": "HCL Dubova nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 3/2025 privind aprobarea vanzarii prin licitatie publica deschisă a terenului de 208 m.p. cu NC 53055 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/194293",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/194293",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-30-2025",
    "path": "local/mehedinti/dubova/2025/30",
    "short": "HCL Dubova nr. 30/2025",
@@ -283,6 +358,21 @@
      "from": "2025-07-16",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/216084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-31-2025",
+   "path": "local/mehedinti/dubova/2025/31",
+   "short": "HCL Dubova nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 31/2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/219739",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/219739",
      "sha256": null
     }
    ]
@@ -373,6 +463,21 @@
      "from": "2025-10-06",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/226337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-38-2025",
+   "path": "local/mehedinti/dubova/2025/38",
+   "short": "HCL Dubova nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 38/2025 privind aprobarea vanzarii prin licitatie publica deschisă a terenului de 500 m.p. cu NC 53180 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/226338",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/226338",
      "sha256": null
     }
    ]
@@ -823,6 +928,21 @@
      "from": "2025-03-27",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/197374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-9-2025",
+   "path": "local/mehedinti/dubova/2025/9",
+   "short": "HCL Dubova nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 9/2025",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/197375",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/197375",
      "sha256": null
     }
    ]

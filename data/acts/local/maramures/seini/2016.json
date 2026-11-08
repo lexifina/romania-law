@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/maramures/seini/2016",
+"acts": [
+{
+"slug": "hcl-maramures--seini-15-2016",
+"path": "local/maramures/seini/2016/15",
+"kind": "local",
+"year": "2016",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 15/2016 privind aprobarea modificarii bugetului de venituri si cheltuieli a orasului Seini pe anul 2016; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 24.03.2016; Avand in vedere :- Decizia nr. 4/29.02.2016 a Administratiei judetene a Finantelor Publice Maramures prin care se modifica repartizarea pe trimestre, pe unitati administrativ teritoriale a sumelor defalcate din TVA pent",
+"short": "HCL Seini nr. 15/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-24",
+"latest": "2016-03-24",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2016/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-16-2016",
+"path": "local/maramures/seini/2016/16",
+"kind": "local",
+"year": "2016",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 16/2016 privind modificarea Hotararii Consiliului Local Seini nr. 37/2013 prin care s-a aprobat vanzarea cladirii vechi a Scolii din Viile Apei si insusirea Raportului de evaluare ; Consiliul Local Orasenesc Seini intrunit in sedinta ordinara la data de 24.03.2016; Avand in vedere : - faptul ca prin Hotararea Consiliului local Seini nr. 37/2013 s-a aprobat vanzarea scolii vechi din Viile Apei si s-a insus",
+"short": "HCL Seini nr. 16/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-24",
+"latest": "2016-03-24",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2016/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-17-2016",
+"path": "local/maramures/seini/2016/17",
+"kind": "local",
+"year": "2016",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 17/2016 privind aprobarea preluarii in domeniul public al orasului Seini a suprafetei de teren de 146 mp de pe str",
+"short": "HCL Seini nr. 17/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-24",
+"latest": "2016-03-24",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2016/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-18-2016",
+"path": "local/maramures/seini/2016/18",
+"kind": "local",
+"year": "2016",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 18/2016 privind aprobarea « Planului de analiza si acoperire a riscurilor » in orasul Seini ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 24.03.2016",
+"short": "HCL Seini nr. 18/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-24",
+"latest": "2016-03-24",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2016/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-19-2016",
+"path": "local/maramures/seini/2016/19",
+"kind": "local",
+"year": "2016",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 19/2016 privind aprobarea extinderii ariei delegarii Serviciului de alimentare cu apa si canalizare in localitatea Viile Apei catre SC Vital SA Baia Mare ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 24.03.2016",
+"short": "HCL Seini nr. 19/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-24",
+"latest": "2016-03-24",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2016/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-20-2016",
+"path": "local/maramures/seini/2016/20",
+"kind": "local",
+"year": "2016",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 20/2016 privind aprobarea concesionarii unei suprafete de teren – pasune de 6 ha in orasul Seini, sat Sabisa ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 24.03.2016",
+"short": "HCL Seini nr. 20/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-24",
+"latest": "2016-03-24",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2016/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-21-2016",
+"path": "local/maramures/seini/2016/21",
+"kind": "local",
+"year": "2016",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 21/2016 privind aprobarea dezmembrarii unui teren de 113 mp si trecerea acestuia in domeniul privat al orasului Seini ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 24.03.2016; Avand in vedere : - Raportul Serviciului urbanism din cadrul Aparatului de specialitate al primarului cu privire la necesitatea trecerii suprafetei de teren de 113 mp in domeniul privat al orasului Sein",
+"short": "HCL Seini nr. 21/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-24",
+"latest": "2016-03-24",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2016/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

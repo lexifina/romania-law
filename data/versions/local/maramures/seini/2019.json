@@ -3,6 +3,171 @@
  "shard": "local/maramures/seini/2019",
  "acts": [
   {
+   "slug": "hcl-maramures--seini-1-2019",
+   "path": "local/maramures/seini/2019/1",
+   "short": "HCL Seini nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 1/2019 privind aprobarea studiului de oportunitate in vederea infiintarii Serviciului de transport public local de persoane si delegarii gestiunii serviciului Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.01.2019 Avand in vedere : - Necesitatea de a infiinta Serviciul de transport public local de persoane pentru implementarea proiectului ,,Reducerea emisiilor de carbon in z",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/01/Hotararea-nr.1.pdf",
+     "sha256": "3d551eaf91e00989722b3b346cf999baf259d3545cf423597d20ba8922161c79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-12-2019",
+   "path": "local/maramures/seini/2019/12",
+   "short": "HCL Seini nr. 12/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 12/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/02/Hotararea-nr.12.pdf",
+     "sha256": "1a891c7221df855c600b6162407f38717f67f68767305b2b0e675018a7208ac3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-13-2019",
+   "path": "local/maramures/seini/2019/13",
+   "short": "HCL Seini nr. 13/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 13/2019 privind aprobarea Indicatorilor tehnico – economici si Devizul General reactualizati pentru obiectivul ”Pod rutier peste raul Somes intre orasul Seini si comuna Pomi in punctul de trecere cu bacul” Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 21.02.2019 Avand in vedere : - Necesitatea de a executa construirea unui pod peste raul Somes ; - Raportul Serviciului urbanism",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/02/Hotararea-nr.13.pdf",
+     "sha256": "3c7b4ae87b6d3f226bad61cfefbb4bbc8eb202499b5c22d011710c2cb1a3e476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-14-2019",
+   "path": "local/maramures/seini/2019/14",
+   "short": "HCL Seini nr. 14/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 14/2019 privind aprobarea Indicatorilor tehnico – economici si Devizul General reactualizati pentru obiectivul ”Modernizarea strazii General Georgescu si a strazilor adiacente” Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 21.02.2019 Avand in vedere : - Necesitatea de a actualiza Indicatorii tehnico - economici ; - Raportul Serviciului urbanism din cadrul Aparatului de speciali",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/02/Hotararea-nr.14.pdf",
+     "sha256": "50eb971f0fad8d231e1525681f3501dd41b37c46bcfcc001def77fea6a08f514"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-16-2019",
+   "path": "local/maramures/seini/2019/16",
+   "short": "HCL Seini nr. 16/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 16/2019 privind aprobarea demararii procedurilor pentru infiintarea unei balastiere in albia raului Somes, pe teritoriul orasului Seini Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.03.2019 Avand in vedere : - Faptul ca pentru intretinerea si repararea strazilor si drumurilor din orasul Seini este necesara o mare cantitate de agregate minerale de rau; - Raportul Serviciului",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.16.pdf",
+     "sha256": "f1a94e398600da3c898de9effb18391b259bad604d6a1680ff5a0461675e1e38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-17-2019",
+   "path": "local/maramures/seini/2019/17",
+   "short": "HCL Seini nr. 17/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 17/2019 privind aprobarea Raportului primarului orasului Seini referitor la starea economico – sociala, gestionarea domeniului public a orasului Seini si a Contului de executie bugetara pe anul 2018 Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.03.2019 Avand in vedere : - Raportul prezentat de primarul orasului Seini cu privire la starea economico – sociala si gestionarea do",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.17.pdf",
+     "sha256": "efbec39099b8a8186d25577d74a9a17014936f5ce5304c166f46c2daeb5129e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-18-2019",
+   "path": "local/maramures/seini/2019/18",
+   "short": "HCL Seini nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 18/2019 privind aprobarea tarifelor distincte pentru gestionarea deseurilor si aprobarea indicatorilor minimi de performanta aferenti contractului de delegare de gestiune Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.03.2019 Avand in vedere : - Adresa SC Romsalserv SA Baia Mare nr. 214/27.03.2019 prin care se transmit tarifele de colectare selectivă pe 2 fracții; - Raportul",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.18.pdf",
+     "sha256": "9b95c17e2eca55d41ee1fd96f3eaf1b944fdfafc4c0650268e745a322c64f687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-19-2019",
+   "path": "local/maramures/seini/2019/19",
+   "short": "HCL Seini nr. 19/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 19/2019 privind aprobarea suportarii din bugetul local al orasului Seini a sumei de 1.000 lei reprezentand taxa cautiune in Dosarul nr.9438/182/2018 si 9 lei contravaloarea copierii Dosarului executional Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.03.2019 Avand in vedere : - Citatia inaintata de Judecatoria Baia Mare referitoare la Dosarul nr.9438/182/2018 avand ca obiect",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.19.pdf",
+     "sha256": "91513343c8ce0e63463fc61444200f98ef4d46b61462f7741630a7b474345bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-2-2019",
+   "path": "local/maramures/seini/2019/2",
+   "short": "HCL Seini nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 2/2019 privind aprobarea asocierii Consiliului local Seini alaturi de Consiliul local al comunei Turt in cadrul Ocolului Silvic Ardud si aprobarea modificarii Statutului si Regulamentului de organizare si functionare a Ocolului Silvic Ardud Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.01.2019 Avand in vedere : - Solicitarea Ocolului Silvic Ardud de a adopta o hotarare prin",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/01/Hotararea-nr.2.pdf",
+     "sha256": "ed7c9f32cd8951dc5bf34f04d0dd5548d67f71e6663aefdf5c453ab348787063"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-20-2019",
+   "path": "local/maramures/seini/2019/20",
+   "short": "HCL Seini nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 20/2019 privind asumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/ acordurilor - cadru pentru achizitia produselor aferente programului si a contractelor/ acordurilor - cadru de prestare a serviciilor pentru derularea masurilor educative la nivel local Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.03.2019 Avand in vedere : - Adresa",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.20.pdf",
+     "sha256": "6dcc18b85f3fb24d1d8811d7d0aa3292c8f8978614e6044e6197002cb9b3507c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-21-2019",
+   "path": "local/maramures/seini/2019/21",
+   "short": "HCL Seini nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 21/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.21.pdf",
+     "sha256": "8026d1b4be383752929ef5076c25f0869668dab42025fd715300c08feddab9a8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-22-2019",
    "path": "local/maramures/seini/2019/22",
    "short": "HCL Seini nr. 22/2019",
@@ -14,6 +179,201 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.22.pdf",
      "sha256": "3130db893ebe010e90fe751e094425069518806a7cf82a70a9fbf0bf264c8bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-23-2019",
+   "path": "local/maramures/seini/2019/23",
+   "short": "HCL Seini nr. 23/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 23/2019 privind aprobarea bugetului de venituri si cheltuieli al orasului Seini pe anul 2019 Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 15.04.2019 Avand in vedere : Decizia nr.1/20.03.2019 a Administratiei Judetene a Finantelor Publice Maramures prin care se repartizeaza pe unitatile administrativ teritoriale ale judetului Maramures sumele defalcate din TVA pentru echilibrar",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.23.pdf",
+     "sha256": "7855084b40e79d76846d79ec2f97859579daa176c5f64fdaf3bc8f13eac48853"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-24-2019",
+   "path": "local/maramures/seini/2019/24",
+   "short": "HCL Seini nr. 24/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 24/2019 privind stabilirea componentei echipei mobile care va interveni in cazurile de violenta domestica Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 15.04.2019 Avand in vedere : - Raportul Directiei sociale din cadrul Aparatului de specialitate al primarului orasului Seini cu privire la necesitatea constituirii echipei mobile care sa intervina de urgenta in cazurile de viole",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/04/Hotararea-nr.24.pdf",
+     "sha256": "0ec4147474c8cd47cb8a59e29863ae6098ce6257003cc5ffce91098eff3d19a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-25-2019",
+   "path": "local/maramures/seini/2019/25",
+   "short": "HCL Seini nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 25/2019 privind aprobarea proiectului „Lucrări de construire în vederea reducerii emisiilor de carbon, în orașul Seini, prin crearea unei infrastructuri de transport eco- frendly’’, a cheltuielilor legate de acesta și a Indicatorilor tehnico-economici și Devizul General reactualizat Consiliul local al orasului Seini intrunit in sedinta extraordinara la data de 7.05.2019 Avand in vedere : - Oportunitatea d",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-05-07",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/05/Hotararea-nr.25.pdf",
+     "sha256": "eec110832357ced46fccc5f6ac82c4db56633a95a22c9c85f163fbc200428d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-26-2019",
+   "path": "local/maramures/seini/2019/26",
+   "short": "HCL Seini nr. 26/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 26/2019 privind aprobarea Proiectului „Modernizarea sistemului de iluminat public în Orașul Seini’’, Indicatorii tehnico-economici și Devizul General Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 23.05.2019 Avand in vedere : - Oportunitatea de a implementa proiectul „Modernizarea sistemului de iluminat public în Orașul Seini’’, care cuprinde înlocuirea a 419 corpuri de iluminat",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.26.pdf",
+     "sha256": "707ceb8035a792b43bd2cd5ab2fa55bdfc32bf50c2058c98616575fa24e2cade"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-27-2019",
+   "path": "local/maramures/seini/2019/27",
+   "short": "HCL Seini nr. 27/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 27/2019 privind aprobarea contribuției UAT Seini și ai beneficiarilor proiectului „Creșterea eficienței energetice a clădirilor rezidențiale colective, din orașul Seini, jud. Maramureș” Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 23.05.2019 Avand in vedere : - Apropierea finalizării lucrărilor de reabilitare in cadrul Proiectului ,,Cresterea eficientei energetice a cladirilor",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.27.pdf",
+     "sha256": "6d9178acbd6906d1e1ee62229940cd7e163be5ddd8b2e4c9fa9725103c058116"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-28-2019",
+   "path": "local/maramures/seini/2019/28",
+   "short": "HCL Seini nr. 28/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 28/2019 privind aprobarea Proiectului „Lucrări de construire în vederea reducerii emisiilor de carbon, în orașul Seini”, prin crearea unei infrastructuri de transport Eco- friendly, a cheltuielilor legate de acesta, a Indicatorilor tehnico-economici și Devizul General reactualizat Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 23.05.2019 Avand in vedere : - Oportunitatea de a im",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.28.pdf",
+     "sha256": "b9a6a98ce9d1fc13cebe831beb1078adcaeba2fd5632a7a47d568a3630354297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-3-2019",
+   "path": "local/maramures/seini/2019/3",
+   "short": "HCL Seini nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 3/2019 privind aprobarea volumului de masa lemnoasa ce se va recolta in 2019 din fondul forestier proprietatea orasului Seini si a modului de valorificare a masei lemnoase ,,pe picior ’’ sau ca ,, lemn fasonat’’ Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.01.2019 Avand in vedere : - Solicitarile Ocolului Silvic Ardud nr.329 si 330/2019 de a se adopta o hotarare cu privire",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/01/Hotararea-nr.3.pdf",
+     "sha256": "dfa69561e9cbd0fe0671db12ab603ec23ab409e510cb99b7483bb57f8d39d9bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-30-2019",
+   "path": "local/maramures/seini/2019/30",
+   "short": "HCL Seini nr. 30/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 30/2019 privind participarea Liceului Tehnologic Agricol Alexiu Berinde ca partener în cadrul proiectului „Educația inclusivă – treaptă spre viitor: de la școala prietenoasă la comunitatea deschisă” Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 23.05.2019 Avand in vedere : - Solicitarea conducerii Liceului Tehnologic Agricol Alexiu Berinde de a intra ca partener în cadrul proie",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.30.pdf",
+     "sha256": "7e2184dd644c70e79da0a2c6272579cc3f22537afbb11fda627ea762a3e59ad4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-31-2019",
+   "path": "local/maramures/seini/2019/31",
+   "short": "HCL Seini nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 31/2019 privind insusirea documentatiei cadastrale pentru imobilul – teren in suprafata de 500 mp identificat in CF 52359 Seini nr.top 4408/1 si aprobarea trecerii acestui teren in domeniul privat al orasului Seini Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 23.05.2019 Avand in vedere : - Necesitatea clarificarii situatiei juridice a unui teren pe care sunt edificate construc",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.31.pdf",
+     "sha256": "4c77e07b710be7e5ddffcaf1edf808b7af44440989cc7c02759a976e295549ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-32-2019",
+   "path": "local/maramures/seini/2019/32",
+   "short": "HCL Seini nr. 32/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 32/2019 privind aprobarea realizarii proiectului Zilele Orasului Seini \" Cetatea Zynir\" in perioada 12-13-14 iulie 2019, a Intalnirii Fiilor Satului – Viile Apei din data de 28 iulie 2019, Balul Cosercilor – Sabisa din 09 Noiembrie 2019 si a declaratiei de parteneriat intre Primaria orasului Seini si",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.32.pdf",
+     "sha256": "3f165b3625e452907473b8d9cf0603c56e494c346bdef8805eb1fa7d4fce406f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-33-2019",
+   "path": "local/maramures/seini/2019/33",
+   "short": "HCL Seini nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 33/2019 privind mandatarea ADIGIDM MM să organizeze, să gestioneze și să coordoneze activitatea de valorificare a deșeurilor de ambalaje din deșeurile municipale în numele orașului Seini Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 27.06.2019 Avand in vedere : - Adresa ADIGIDM nr. 137/11.06.2019 prin care ni se comunică disponibilitatea de a organiza, gestiona și coordona acti",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.33.pdf",
+     "sha256": "c7989e8c56cd614415c7c38d49a3ddc51b4d94b26069c74ff2fd21ded20e0e65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-34-2019",
+   "path": "local/maramures/seini/2019/34",
+   "short": "HCL Seini nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 34/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.34.pdf",
+     "sha256": "a8f04a0701169fa1508cdbf2622e21d6b6d6aafc9c458835fca7dcb40d9f1471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-35-2019",
+   "path": "local/maramures/seini/2019/35",
+   "short": "HCL Seini nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 35/2019 privind aprobarea transmiterii unui teren aflat in domeniul privat al orasului Seini,in folosinta gratuita ANL pentru construirea unui bloc de locuinte pentru tineri in regim de inchiriere ; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 27.06.2019; Avind in vedere: - Numarul mare de solicitari a tinerilor casatoriti de a primi locuinta cu titlu de inchiriere ; - Raportul",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.35.pdf",
+     "sha256": "30a4673e8de9f1a9f6e26e77169ee31e31560edb88ba71e804b76fbe7d5f7ac2"
     }
    ]
   },
@@ -33,6 +393,51 @@
    ]
   },
   {
+   "slug": "hcl-maramures--seini-39-2019",
+   "path": "local/maramures/seini/2019/39",
+   "short": "HCL Seini nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 39/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2019 Consiliul local al orașului Seini întrunit în ședință extraordinară la data de 13.07.2019 Având în vedere : - Adresa Consiliului Județean Maramureș nr.6197 din 28.06.2019, prin care s-au repartizat orașului Seini sume dafalcate din TVA pentru drumuri comunale, Hotărârea Consiliului Județean Maramureș",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-07-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.39.pdf",
+     "sha256": "0153aeb1fa630094b2b19e6125bbaf36c5a915a816b873f2b2a44202e7e801a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-4-2019",
+   "path": "local/maramures/seini/2019/4",
+   "short": "HCL Seini nr. 4/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 4/2019 privind aprobarea Planului de actiuni si lucrarile ce se vor desfasura in anul 2019 de beneficiarii de ajutor social Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.01.2019 Avand in vedere : - Raportul Serviciului Comunitar de utilitati publice; - Planul de actiuni ce se vor desfasura in anul 2019 prezentat pentru beneficiarii de ajutor social; - Proiectul de hotarare",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/01/Hotararea-nr.4.pdf",
+     "sha256": "981ec94ca2fff6c723c6c2abd69eab2565dd50ed2325a129fe1ce263bed2321d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-40-2019",
+   "path": "local/maramures/seini/2019/40",
+   "short": "HCL Seini nr. 40/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 40/2019 privind aprobarea suportării din bugetul local al orașului Seini a sumei de 3.560 lei reprezentând cheltuieli de judecată pentru SC. HWP - ROM Consiliul local al orașului Seini întrunit în sedința extraordinară la data de 13.07.2019 Având în vedere : - Sentința civilă nr.1559/2019 a Tribunalului Maramureș în dosar nr.927/100/2017, având ca obiect contestație act administrativ fiscal prin care obli",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-07-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/07/Hotararea-nr.40.pdf",
+     "sha256": "f4c12bf344c13bbd9f36deae4c9184eca5377ffb3f9115db9d743c6b87b6d5e6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-42-2019",
    "path": "local/maramures/seini/2019/42",
    "short": "HCL Seini nr. 42/2019",
@@ -44,6 +449,51 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2019/08/Hotararea-nr.42.pdf",
      "sha256": "7b02a37766d6d4cfe1da486b8991bc10ce2407872430e9ee656e09ce1c89c2bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-43-2019",
+   "path": "local/maramures/seini/2019/43",
+   "short": "HCL Seini nr. 43/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 43/2019 privind abrogarea Hotărârii Consiliului local Seini nr.20/2019 prin care s-a aprobat asumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/ acordurilor - cadru pentru achiziția produselor aferente Programului pentru școli al României Consiliul local al orasului Seini întrunit în ședință ordinară la data de 19.08.2019 Având în vedere : - Faptul că în majoritat",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/08/Hotararea-nr.43.pdf",
+     "sha256": "373b06416ba96737537d1bea120ccdd20f9cf61b19fe94aa331de28d26123e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-44-2019",
+   "path": "local/maramures/seini/2019/44",
+   "short": "HCL Seini nr. 44/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 44/2019 privind stabilirea prețurilor de valorificare a masei lemnoase din partida 1.495.791 SR.Seini Consiliul local al orașului Seini întrunit în ședință ordinară la data de 19.08.2019 Având în vedere : - Comunicarea Ocolului Silvic Ardud cu privire la prețul de valorificare a masei lemnoase din partida 1.495.791 SR Seini; - Raportul Biroului Administrație și agricol din cadrul Aparatului de specialitat",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/08/Hotararea-nr.44.pdf",
+     "sha256": "aaff618b89fad4d04595c545bb43ef5901e5811557c93b24b2b85b2fe740940d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-45-2019",
+   "path": "local/maramures/seini/2019/45",
+   "short": "HCL Seini nr. 45/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 45/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/08/Hotararea-nr.45.pdf",
+     "sha256": "24e027850b9d7628d5a470db90546c47da125e9fa8346fa1f2609fb65e0109ce"
     }
    ]
   },
@@ -63,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--seini-47-2019",
+   "path": "local/maramures/seini/2019/47",
+   "short": "HCL Seini nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 47/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2019 Consiliul local al orașului Seini întrunit în ședință ordinară la data de 19.08.2019 Având în vedere : - Ordonanta Guvernului nr. 12 din 12.08.2019 cu privire la rectificarea bugetului de stat pe anul 2019 ; - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului. - Proiect",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/08/Hotararea-nr.47.pdf",
+     "sha256": "e560630eed8b53c1ee732dc9197318c9c65ff8c32bb003a38d03e363a1de3873"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-48-2019",
    "path": "local/maramures/seini/2019/48",
    "short": "HCL Seini nr. 48/2019",
@@ -74,6 +539,21 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2019/08/Hotararea-nr.48.pdf",
      "sha256": "a97b0b5d12566ba7ab16e641866cb55be5a220c5a080795efcaa4110a23cba8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-49-2019",
+   "path": "local/maramures/seini/2019/49",
+   "short": "HCL Seini nr. 49/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 49/2019 privind aprobarea suportării din bugetul local al orașului Seini a cheltuielilor de transport , cazare si masa pentru echipa de fotbal a Primariei Orasului Seini care va participa la Etapa Finala- Cupa AOR de fotbal, editia a III-a 2019 la Navodari",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/10/Hotararea-nr.49.pdf",
+     "sha256": "68ebd0563ce084d75ea2451035fa6ba779cfc6db9b03350c53f921a0fa4b9090"
     }
    ]
   },
@@ -93,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--seini-50-2019",
+   "path": "local/maramures/seini/2019/50",
+   "short": "HCL Seini nr. 50/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 50/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2019 Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.09.2019 Având în vedere : - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului orașului Seini cu privire la necesitatea rectificării bugetului pe anul 2019. - Proiectul de hotărâre. - Avizul com",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/10/Hotararea-nr.50.pdf",
+     "sha256": "82a19a0c78699f327fecbb1e89976fe92bd2ecbd484e65a255fe19f30bb3b79a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-51-2019",
    "path": "local/maramures/seini/2019/51",
    "short": "HCL Seini nr. 51/2019",
@@ -104,6 +599,51 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2019/10/Hotararea-nr.51.pdf",
      "sha256": "3458b7de45e68ab707823de5bd8804c52be2c954a039edf51e0a5a15b48b114d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-52-2019",
+   "path": "local/maramures/seini/2019/52",
+   "short": "HCL Seini nr. 52/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 52/2019 privind aprobarea modificării organigramei Primăriei orașului Seini Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.09.2019 Având în vedere : - Expunerea de motive prezentată de d-na primar cu privire la necesitatea modificării organigramei primăriei; - Organigrama prezentată; - Proiectul de hotărâre ; - Avizul comisiei de specialitate din cadrul Consiliului local Sein",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/10/Hotararea-nr.52.pdf",
+     "sha256": "ad6c4f0b5a4a6bc790b542fe64fda4cf14da40423bb387e65c0289f33b078be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-53-2019",
+   "path": "local/maramures/seini/2019/53",
+   "short": "HCL Seini nr. 53/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 53/2019 privind desemnarea a 2 reprezentanți ai Consiliului local în Consiliul de administrație al Liceului Tehnologic Agricol – Alexiu Berinde din Seini Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.09.2019; Având în vedere : - Adresa Liceului Tehnologic Agricol – Alexiu Berinde din Seini nr.2380/2019 prin care solicită desemnarea a doi reprezentanți ai Consiliului local Se",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/10/Hotararea-nr.53.pdf",
+     "sha256": "1e57e00130c69b8b3a4f94d9cca8ae5488acb982b510b73535df66eaf7026fe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-54-2019",
+   "path": "local/maramures/seini/2019/54",
+   "short": "HCL Seini nr. 54/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 54/2019 privind aprobarea prețului de pornire pentru licitația de valorificare a masei lemnoase pe picior la partida 1508393 P și partida 1513612 P Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.09.2019 Având în vedere : Adresa Ocolului Silvic Ardud Nr.4254/2019 prin care se solicită stabilirea prețului de pornire pentru licitația de valorificare a masei lemnoase pe picior pe",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/10/Hotararea-nr.54.pdf",
+     "sha256": "d0d5dfeebd389f01a329445d3acad536c0f3653c978d514cabeb32990ad287de"
     }
    ]
   },
@@ -123,6 +663,81 @@
    ]
   },
   {
+   "slug": "hcl-maramures--seini-56-2019",
+   "path": "local/maramures/seini/2019/56",
+   "short": "HCL Seini nr. 56/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 56/2019 privind înființarea Serviciului Public de Transport Local Seini Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.10.2019 Având în vedere : - Necesitatea de a înființa Serviciul de Transport Public Local Seini; - Proiectele prin Programul Operațional Regional Axa 3 – Sprijinirea tranziției către o economie cu emisii scăzute de carbon – obiectiv specific 3.2 – Reducerea e",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.56.pdf",
+     "sha256": "135178c474e6230baa62e86fb2618a37e128b10a6ae555216bbe45b8288609c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-57-2019",
+   "path": "local/maramures/seini/2019/57",
+   "short": "HCL Seini nr. 57/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 57/2019 privind aprobarea Caietului de sarcini, a Regulamentului Serviciului și a Contractului de delegare a gestiunii Serviciului de Transport Public Local de persoane prin curse regulate pe raza orașului Seini",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.57.pdf",
+     "sha256": "f751f94aee9b85c14ab4fa24632aa8697013c394645056e7256e11d038d62a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-58-2019",
+   "path": "local/maramures/seini/2019/58",
+   "short": "HCL Seini nr. 58/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 58/2019 privind aprobarea dării în administrare a Serviciului de transport public local de persoane prin curse regulate pe raza Orașului Seini și a satelor aparținătoare către „Serviciul Public de Transport Local Seini” pe o perioadă de 6 ani Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.10.2019 Având în vedere : - Necesitatea ca Serviciul de transport public local de persoa",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.58.pdf",
+     "sha256": "c25cb588a2a93ec1bd3098d619406260ad2792b72ed771a45f280f74a9d476ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-59-2019",
+   "path": "local/maramures/seini/2019/59",
+   "short": "HCL Seini nr. 59/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 59/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2019 Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.09.2019 Având în vedere : - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului cu privire la necesitatea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2019. - Adresa",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.59.pdf",
+     "sha256": "b3516c45006be3eb9c82be67cae093477af78e006166b111444b8de520e6b75e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-60-2019",
+   "path": "local/maramures/seini/2019/60",
+   "short": "HCL Seini nr. 60/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 60/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.60.pdf",
+     "sha256": "5c093ca8d5c7d9817eca1eafe3d404b9edadb9a0e7e283208f48099651ed46a7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-61-2019",
    "path": "local/maramures/seini/2019/61",
    "short": "HCL Seini nr. 61/2019",
@@ -134,6 +749,96 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.61.pdf",
      "sha256": "703234f2bb363f394ac2c833857c3e4042b4b15dd3da684f77d03e6fe7489b2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-62-2019",
+   "path": "local/maramures/seini/2019/62",
+   "short": "HCL Seini nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 62/2019 privind aprobarea anularii accesoriilor in cazul obligatiilor restante la 31.12.2018, datorate bugetului local Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 23.10.2019 Avand in vedere: - Raportul serviciului economic din cadrul Aparatului de specialitate al primarului orasului Seini; - Procedurile de anulare a accesoriilor prezentate; - Proiectul de hotarare; - Avizul c",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.62.pdf",
+     "sha256": "f8324b8b1a3e954978ef3fcafc11227ddf7a323dac798794c8c0e7d9f498ec93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-63-2019",
+   "path": "local/maramures/seini/2019/63",
+   "short": "HCL Seini nr. 63/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 63/2019 privind aprobarea cofinanțării cu 1 % a Contractului de Asistență Tehnică ,,Sprijin pentru pregătirea aplicației de finanțare și a documentațiilor de atribuire pentru proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Maramureș în perioada 2014 – 2020 Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.10.2019 Având în vedere : - Adresa nr.2",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.63.pdf",
+     "sha256": "1af3841c20be1f7a325232a1e101ede60baf467000ca4ab981737d257f2745b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-64-2019",
+   "path": "local/maramures/seini/2019/64",
+   "short": "HCL Seini nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 64/2019 privind aprobarea cofinanțării proiectului ,,STEM Education in Vocational and Professional Schools᾽᾽ - ,,Educație STEM în Școlile Vocaționale și Profesionale᾽᾽ Consiliul local al orașului Seini întrunit în ședință ordinară la data de 23.10.2019 Având în vedere : - Oportunitatea de a implementa proiectul ,,STEM Education in Vocational and Professional Schools᾽᾽ - ,,Educație STEM în Școlile Vocațion",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-10-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.64.pdf",
+     "sha256": "b8f9637a9565231c1e04e7e9b1b34f82965485baa5b6bd3204c641ed741361cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-65-2019",
+   "path": "local/maramures/seini/2019/65",
+   "short": "HCL Seini nr. 65/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 65/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2019 Consiliul local al orașului Seini întrunit în ședință extraordinară la data de 7.11.2019 Având în vedere : - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului orașului Seini cu privire la necesitatea rectificării bugetului de venituri și cheltuieli al orașului Seini pe",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.-65.pdf",
+     "sha256": "bdb1aed2cd0166d1ee41b0310dafb3d2585db105d63bf72d8c6b10492ab67ba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-66-2019",
+   "path": "local/maramures/seini/2019/66",
+   "short": "HCL Seini nr. 66/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 66/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-07",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/11/Hotararea-nr.-66.pdf",
+     "sha256": "acfcfc500f24ef4a51241eed1b6b2cf190f53066db2920e26ec1e6718ef60d6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-67-2019",
+   "path": "local/maramures/seini/2019/67",
+   "short": "HCL Seini nr. 67/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 67/2019 privind aprobarea modificării Actului constitutiv și a Statutului Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Menajere în județul Maramureș Consiliul local al orașului Seini întrunit în ședință ordinară la data de 26.11.2019 Având în vedere : - Hotărârea Consiliului local Seini nr.67/2008 de asociere a orașului Seini la Asociația de Dezvoltare Intercomunitară",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.67.pdf",
+     "sha256": "7095bb718d931154abcc197676e60c6e641eaa736a44edbe40a1039da3a4c48a"
     }
    ]
   },
@@ -153,6 +858,81 @@
    ]
   },
   {
+   "slug": "hcl-maramures--seini-69-2019",
+   "path": "local/maramures/seini/2019/69",
+   "short": "HCL Seini nr. 69/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 69/2019 privind aprobarea asocierii Consiliului local al orașului Seini alături de Consiliul local al comunei Batarci în cadrul Ocolului Silvic Ardud și aprobarea modificării Statutului și Regulamentului de organizare și funcționare al Ocolului Silvic Ardud Consiliul local al orașului Seini întrunit în ședință ordinară la data de 26.11.2019 Având în vedere : - Raportul Biroului Administrație publică și ag",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.69.pdf",
+     "sha256": "93959295911cc1ea1c6a3fedca489d12d76ba9a73363693f030bc0d81b3e1078"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-7-2019",
+   "path": "local/maramures/seini/2019/7",
+   "short": "HCL Seini nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 7/2019 privind aprobarea Statelor de functii pentru angajatii din cadrul Aparatului de specialitate al primarului orasului Seini Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.01.2019 Avand in vedere : - Expunerea de motive prezentata de Primarul orasului Seini; - Statele de functii prezentate; - Proiectul de hotarare; - Avizul comisiei de specialitate din Cadrul Consiliului",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-01-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/02/Hotararea-nr.7.pdf",
+     "sha256": "2b39d872150373e35722cac2430cd52eae59019e8d12c38228108b0d1cc7b281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-70-2019",
+   "path": "local/maramures/seini/2019/70",
+   "short": "HCL Seini nr. 70/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 70/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.70.pdf",
+     "sha256": "ade9c21add63295a1553b2b653cb4b4aabe93acdd5c2d4d44b288f2dc144a2a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-71-2019",
+   "path": "local/maramures/seini/2019/71",
+   "short": "HCL Seini nr. 71/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 71/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-11-26",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.71.pdf",
+     "sha256": "00a1e59d49f3cb76023095ecf406b3d33686e1827ffcb9f9238502d0e6630e17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-72-2019",
+   "path": "local/maramures/seini/2019/72",
+   "short": "HCL Seini nr. 72/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 72/2019 privind aprobarea transformarii unui post de executie vacant din cadrul Aparatului de specialitate al primarului orasului Seini - Serviciul Politia locala din Politist local principal, clasa III, in Politist local debutant, clasa III Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 19.12.2019 Avand in vedere: - Raportul Serviciului Politia locala din cadrul Aparatului de s",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.72.pdf",
+     "sha256": "f278491f1c53542bd836965fc5d10d64287060e174fc650009549d926562d7b9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-73-2019",
    "path": "local/maramures/seini/2019/73",
    "short": "HCL Seini nr. 73/2019",
@@ -168,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--seini-74-2019",
+   "path": "local/maramures/seini/2019/74",
+   "short": "HCL Seini nr. 74/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 74/2019 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2019; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 19.12.2019 ; Avand in vedere : - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului orasului Seini cu privire la necesitatea rectificarii bugetului de venituri si cheltuieli al orasului Seini pe a",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.74.pdf",
+     "sha256": "a0512681c17c35c6878511f5743faf670724a7466ac4013eb278788510f69e78"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-75-2019",
    "path": "local/maramures/seini/2019/75",
    "short": "HCL Seini nr. 75/2019",
@@ -179,6 +974,36 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.75.pdf",
      "sha256": "d9375cfcf0a82c3d3a910b044e110748236ffc66e52ff7e47e304c610584a9df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-76-2019",
+   "path": "local/maramures/seini/2019/76",
+   "short": "HCL Seini nr. 76/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 76/2019 privind aprobarea Indicatorilor tehnico – economici actualizati pentru proiectul de investitii ‘’ Restaurarea monumentului istoric Casa Bay din orasul Seini, in vederea infiintarii unui Centru multicultural si aprobarea cofinantarii de la bugetul local in proiectul ‘’Cultura in oglinda – restaurarea Casei Bay din orasul Seini si a Salii de concerte din Kalus - Ucraina Consiliul local al orasului S",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.76.pdf",
+     "sha256": "71018ac9d63ba5cf4acfa496f231250d44e04e6ca6d010f72bfbece6f9659fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-77-2019",
+   "path": "local/maramures/seini/2019/77",
+   "short": "HCL Seini nr. 77/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 77/2019 privind aprobarea retelei scolare ca va functiona incepand cu anul scolar 2020 – 2021 pe raza orasului Seini Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 19.12.2019 ; Avand in vedere : - Adresa nr. 7707/25.11.2019 a Inspectoratului Scolar Judetean Maramures cu privire la organizarea retelei scolare si adresa nr. 3730/02.11.2019 a Liceului Tehnologic Agricol ‘’Alexiu Be",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.77.pdf",
+     "sha256": "1cf5c5fb00dae18d7fc9df54a540cae74fa6b8f36b3e174ec86bfe92c9b0be28"
     }
    ]
   },
@@ -239,6 +1064,66 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.80.pdf",
      "sha256": "79aec0425fd81be599cfb14344ebf2cdf391c857a369601609d967d34077fc4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-81-2019",
+   "path": "local/maramures/seini/2019/81",
+   "short": "HCL Seini nr. 81/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 81/2019 privind însușirea documentației cadastrale, aprobarea dezmembrării și înscrierea în CF, în domeniul privat al orașului Seini a terenului în suprafață de 46 mp, situat în Seini, strada Mihai Eminescu , identificat în CF 3658 , nr.top 1393/3-2/2/2 și 1393/3-2/2/3 Consiliul local al orașului Seini întrunit în ședință ordinară la data de 19.12.2019 Având în vedere : - Raportul Serviciului urbanism din",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.81.pdf",
+     "sha256": "c7b087e1932bf116a5fbee3e07b1579ab9e6c5bbbd85de330e111157d2871bfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-82-2019",
+   "path": "local/maramures/seini/2019/82",
+   "short": "HCL Seini nr. 82/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 82/2019 privind însușirea documentațiilor cadastrale pentru unele imobile- terenuri – strada Gheorghe Doja din Seini, strada Valea Satului și Valea Rodinei din Săbișa și aprobarea înscrierii în CF pe domeniul public al orașului Seini a acestor străzi Consiliul local al orașului Seini întrunit în ședință ordinară la data de 19.12.2019 Având în vedere : - Raportul Serviciului urbanism din cadrul Aparatului",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.82.pdf",
+     "sha256": "9f6b802a3139102335ffe9f8f6c57a8cef5044a5ae40339e830a8fbc9a730a2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-83-2019",
+   "path": "local/maramures/seini/2019/83",
+   "short": "HCL Seini nr. 83/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 83/2019 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2019 Consiliul local al orașului Seini întrunit în ședință extraordinară la data de 23.12.2019 Având în vedere : - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului orasului Seini cu privire la necesitatea rectificarii bugetului orasului Seini. - Decizia nr. 35/2019 emisa de",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2020/01/Hotararea-nr.83.pdf",
+     "sha256": "aded55b7409cadca5f96be8b192b3cb68df238831c3dc5d43f44f25e7b6ab4b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-9-2019",
+   "path": "local/maramures/seini/2019/9",
+   "short": "HCL Seini nr. 9/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 9/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2019/02/Hotararea-nr.9.pdf",
+     "sha256": "d62f713db8ead7fc392331c68acf57ba4c2e32214b871e72899356a4f3cf401d"
     }
    ]
   }

@@ -378,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--corlatel-6-2022",
+   "path": "local/mehedinti/corlatel/2022/6",
+   "short": "HCL Corlățel nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 6/2022 privind atestarea apartenenței la domeniul privat al comunei Corlățel a unui teren situat în intravilanul satului Corlățel",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/52245",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/52245",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--corlatel-7-2022",
    "path": "local/mehedinti/corlatel/2022/7",
    "short": "HCL Corlățel nr. 7/2022",
@@ -403,6 +418,21 @@
      "from": "2022-05-02",
      "units": 1,
      "source_url": "https://emol.ro/corlatel-mh/registru-hcl/57914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-9-2022",
+   "path": "local/mehedinti/corlatel/2022/9",
+   "short": "HCL Corlățel nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 9/2022",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/57915",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/57915",
      "sha256": null
     }
    ]

@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--corlatel-2-2025",
+"path": "local/mehedinti/corlatel/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 2/2025",
+"short": "HCL Corlățel nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-12",
+"latest": "2025-02-12",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/190488",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--corlatel-3-2025",
 "path": "local/mehedinti/corlatel/2025/3",
 "kind": "local",
@@ -44,6 +67,52 @@
 "council_name": "Consiliul Local al Comunei Corlățel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--corlatel-4-2025",
+"path": "local/mehedinti/corlatel/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 4/2025",
+"short": "HCL Corlățel nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/195286",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--corlatel-5-2025",
+"path": "local/mehedinti/corlatel/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 5/2025",
+"short": "HCL Corlățel nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/195287",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -176,6 +245,28 @@
 "council_name": "Consiliul Local al Comunei Corlățel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--corlatel-12-2025",
+"path": "local/mehedinti/corlatel/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 12/2025 privind desemnarea consilierilor locali care vor face parte din comisia de evaluare a performanțelor profesionale individuale ale secretarului general al comunei",
+"short": "HCL Corlățel nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-28",
+"latest": "2025-07-28",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/203950",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/bala/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--bala-1-2023",
+   "path": "local/mehedinti/bala/2023/1",
+   "short": "HCL Bala nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 1/2023 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat și particular de pe raza comunei Bala ,judetul Mehedintipe anul școlar 2023 – 2024",
+   "url": "https://emol.ro/bala-mh/registru-hcl/85931",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/85931",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--bala-10-2023",
    "path": "local/mehedinti/bala/2023/10",
    "short": "HCL Bala nr. 10/2023",
@@ -183,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--bala-21-2023",
+   "path": "local/mehedinti/bala/2023/21",
+   "short": "HCL Bala nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 21/2023 privind aprobarea Programului „Festivalul Cozonacilor”, şi a Bugetului aferent organizării, 10 iunie 2023",
+   "url": "https://emol.ro/bala-mh/registru-hcl/106006",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/106006",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--bala-22-2023",
    "path": "local/mehedinti/bala/2023/22",
    "short": "HCL Bala nr. 22/2023",
@@ -318,6 +348,66 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--bala-30-2023",
+   "path": "local/mehedinti/bala/2023/30",
+   "short": "HCL Bala nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 30/2023 privind inchirierea unei suprafete de teren intravilan si extravilan curtii constructii -5000 mp.,tarla 35,parcela 1 , CF nr. 51962 din domeniul privat al Comunei Bala,Consiliul Local Bala , judetul Mehedinti",
+   "url": "https://emol.ro/bala-mh/registru-hcl/118486",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/118486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-31-2023",
+   "path": "local/mehedinti/bala/2023/31",
+   "short": "HCL Bala nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 31/2023 privind inchirierea unei suprafete de teren intravilan curtii constructii -1462mp.,tarla 35,parcela 1 , CF nr. 50041 din domeniul privat al Comunei Bala,Consiliul Local Bala , judetul Mehedinti",
+   "url": "https://emol.ro/bala-mh/registru-hcl/118487",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/118487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-32-2023",
+   "path": "local/mehedinti/bala/2023/32",
+   "short": "HCL Bala nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 32/2023 privind inchirierea unei suprafete de teren intravilan curtii constructii -3538mp. constructii C1-magazie targ -98 mp.;C2-sopron metalic-193mp.,tarla 35,parcela 1 , CF nr. 51963 din domeniul privat al Comunei Bala,Consiliul Local Bala , judetul Mehedinti",
+   "url": "https://emol.ro/bala-mh/registru-hcl/118488",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/118488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-33-2023",
+   "path": "local/mehedinti/bala/2023/33",
+   "short": "HCL Bala nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 33/2023 privind aprobarea acordării unui sprijin financiar de la bugetul local al Comunei Bala pentru unitatea de cult Parohia Bala -Biserica -Sfantul Nicolae - Sat Bala de Sus , Comuna Bala ,Judetul Mehedinti",
+   "url": "https://emol.ro/bala-mh/registru-hcl/118489",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/118489",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--bala-34-2023",
    "path": "local/mehedinti/bala/2023/34",
    "short": "HCL Bala nr. 34/2023",
@@ -363,6 +453,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--bala-37-2023",
+   "path": "local/mehedinti/bala/2023/37",
+   "short": "HCL Bala nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 37/2023 privind desemnarea reprezentanților Consiliului local în Consiliul de administrație al Școlii Gimnaziale Bala, pentru anul școlar 2023/2024",
+   "url": "https://emol.ro/bala-mh/registru-hcl/120613",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/120613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-38-2023",
+   "path": "local/mehedinti/bala/2023/38",
+   "short": "HCL Bala nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 38/2023",
+   "url": "https://emol.ro/bala-mh/registru-hcl/121484",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/121484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-39-2023",
+   "path": "local/mehedinti/bala/2023/39",
+   "short": "HCL Bala nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 39/2023 privind stabilirea şi sancţionarea unor contravenţii pe raza administrativ teritorială a Comunei Bala",
+   "url": "https://emol.ro/bala-mh/registru-hcl/121485",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/121485",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--bala-4-2023",
    "path": "local/mehedinti/bala/2023/4",
    "short": "HCL Bala nr. 4/2023",
@@ -373,6 +508,21 @@
      "from": "2023-01-30",
      "units": 1,
      "source_url": "https://emol.ro/bala-mh/registru-hcl/87307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-40-2023",
+   "path": "local/mehedinti/bala/2023/40",
+   "short": "HCL Bala nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 40/2023 privind actualizarea indicatorilor tehnico-economici și aprobarea documentației tehnico-economice a obiectivului de investiții “Modernizarea sistemului de iluminat public stradal în Comuna Bala, Județul Mehedinți” la faza PTh",
+   "url": "https://emol.ro/bala-mh/registru-hcl/121486",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/121486",
      "sha256": null
     }
    ]

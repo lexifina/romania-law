@@ -3,6 +3,28 @@
 "shard": "local/mehedinti/cujmir/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--cujmir-1-2025",
+"path": "local/mehedinti/cujmir/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 1/2025 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare pe anul 2024 din excedentul bugetar al anilor precedenți",
+"short": "HCL Cujmir nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-08",
+"latest": "2025-01-08",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/185602",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--cujmir-2-2025",
 "path": "local/mehedinti/cujmir/2025/2",
 "kind": "local",
@@ -69,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--cujmir-5-2025",
+"path": "local/mehedinti/cujmir/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 5/2025",
+"short": "HCL Cujmir nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/193051",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--cujmir-6-2025",
 "path": "local/mehedinti/cujmir/2025/6",
 "kind": "local",
@@ -91,6 +136,94 @@
 }
 },
 {
+"slug": "hcl-mehedinti--cujmir-7-2025",
+"path": "local/mehedinti/cujmir/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 7/2025 privind aprobarea tipului de suport alimentar acordat preșcolarilor si elevilor Liceului Teoretic Cujmir, comuna Cujmir, județul Mehedinți în cadrul Programului național „Masă sănătoasă” pentru anul 2025",
+"short": "HCL Cujmir nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-11",
+"latest": "2025-02-11",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/193053",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-8-2025",
+"path": "local/mehedinti/cujmir/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 8/2025 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Cujmir",
+"short": "HCL Cujmir nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/193755",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-9-2025",
+"path": "local/mehedinti/cujmir/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 9/2025 privind privind aprobarea Documentației de Avizare a Lucrărilor de Intervenție (DALI), a Devizul General si a indicatorilor tehnico-economici aferenți obiectivului de investiție „MODERNIZARE ILUMINAT PUBLIC IN COMUNA CUJMIR, JUDETUL MEHEDINTI”",
+"short": "HCL Cujmir nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/193756",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-10-2025",
+"path": "local/mehedinti/cujmir/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 10/2025 privind aprobarea casării mijloacelor fixe și obiectelor de inventar din patrimoniul Comunei Cujmir",
+"short": "HCL Cujmir nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/193757",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--cujmir-11-2025",
 "path": "local/mehedinti/cujmir/2025/11",
 "kind": "local",
@@ -110,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Cujmir",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-12-2025",
+"path": "local/mehedinti/cujmir/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 12/2025 privind aprobarea încheierii Protocolului de colaborare între UAT Comuna Cujmir si Liceul Teoretic Cujmir privind implementarea proiectului „Educație pentru viitorul tău academic”",
+"short": "HCL Cujmir nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/198845",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +312,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--cujmir-15-2025",
+"path": "local/mehedinti/cujmir/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 15/2025 privind dezmembrarea imobilului-teren în suprafață de 30300 mp având numărul cadastral 50123",
+"short": "HCL Cujmir nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/208576",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-16-2025",
+"path": "local/mehedinti/cujmir/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 16/2025 privind aprobarea rectificării bugetului local al Comunei Cujmir si suplimentarea Listei de Investiții Publice pentru anul 2025",
+"short": "HCL Cujmir nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/208579",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--cujmir-17-2025",
 "path": "local/mehedinti/cujmir/2025/17",
 "kind": "local",
@@ -176,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Cujmir",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-18-2025",
+"path": "local/mehedinti/cujmir/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 18/2025 privind aprobarea concesionarii directe a spatiilor cu destinația de cabinet medical in cadrul clădirii Dispensarului Medical Uman (Policlinica) P+2E situata in sat Cujmir, comuna Cujmir, județul Mehedinți",
+"short": "HCL Cujmir nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/216294",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

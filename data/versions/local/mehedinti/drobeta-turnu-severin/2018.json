@@ -3,6 +3,171 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2018",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-1-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/1",
+   "short": "HCL Drobeta-Turnu Severin nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 1/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-001.pdf",
+     "sha256": "67d6c397077e1bba4d87179445dbbf24233c29643a4bf382a07952252f19a078"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-10-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/10",
+   "short": "HCL Drobeta-Turnu Severin nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 10/2018 privind aprobarea bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Energie Termică din cadrul Consiliului Local al municipiului Drobeta Tr",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-010.pdf",
+     "sha256": "ae64ab0b5f1d3a9bf87b327736ded8c4f5836ecabab71b9bb62bb16c1a45f5b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-106-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/106",
+   "short": "HCL Drobeta-Turnu Severin nr. 106/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 106/2018 privind aprobarea proiectului \"Reabilitarea Grădiniței nr. 2 Drobeta Turnu Severin\" și a cheltuielilor legate de proiect, urmare a adresei nr. 9162 / 11.04.2018 de la ADR SV OLTENIA Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: — referatul Direcției Dezvoltare Locală din aparatul de specialitate al primarului municipiului Drobeta Turnu Severin, înregist",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-106.pdf",
+     "sha256": "41b3d2c59222a034c66506ba2f99243e242921f1ea091567a02b396f49fc60a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-12-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/12",
+   "short": "HCL Drobeta-Turnu Severin nr. 12/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 12/2018 privind modificarea statului de funcții in regim contractual al Direcției de Asistenta Sociala Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinti ; Avand in vedere: - referatul nr.280/10.01.2018 al Direcției de Asistenta Sociala prin care se propune modificarea statului de funcții in regim contractual al Direcției de Asistenta Sociala prin transformarea a doua funcții contrac",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-012.pdf",
+     "sha256": "dac457fa5b4bef4fd2b152f0a113d8731f0fbe480391d6e5b702039f57877f1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-122-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/122",
+   "short": "HCL Drobeta-Turnu Severin nr. 122/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 122/2018 privind aprobarea virării unor sume din veniturile realizate de Serviciul Public Administrația Piețelor, Târgurilor și Oboarelor către Consiliul Local al municipiului Drobeta Turnu Severin Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: — Referatul întocmit de Serviciul administrativ și Biroul Târg Comercial din cadrul Serviciului Public Administrația Pie",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-122.pdf",
+     "sha256": "135bddae4eed9ec7f33b451861b34e6b8201eaef2d758f8f3300ebabcf1c2bb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-134-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/134",
+   "short": "HCL Drobeta-Turnu Severin nr. 134/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 134/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-134.pdf",
+     "sha256": "550192693fef65ab1ee7cf2dcec02946e91ff3485d7eb654e3a9c5579e0d55f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-14-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/14",
+   "short": "HCL Drobeta-Turnu Severin nr. 14/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 14/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-014.pdf",
+     "sha256": "6d8422a47be454ae28d9a20ca5c70f06cedc0285d33e80bca1822ad2554d6d49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-146-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/146",
+   "short": "HCL Drobeta-Turnu Severin nr. 146/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 146/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-15",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-146.pdf",
+     "sha256": "0c0fc536cf693f4f6c40c3473d8170646c46539090010881a40b7dc8f38162f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-147-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/147",
+   "short": "HCL Drobeta-Turnu Severin nr. 147/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 147/2018 privind constituirea și componența Colegiului Director al Direcției de Asistență Socială Drobeta Turnu Severin Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: — referatul întocmit de Direcția de Asistență Socială, înregistrat sub nr. 265 /22.05.2018, prin care propune constituirea și componența Colegiului Director al Direcției de Asistență Socială Drobeta",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-147.pdf",
+     "sha256": "901d9e3f46729d9e12c89c2dcf1f3555ceee75c530992c6bc182389d51e686fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-15-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/15",
+   "short": "HCL Drobeta-Turnu Severin nr. 15/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 15/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-015.pdf",
+     "sha256": "a8271eb68c3d8c9b66cc033210ee8533db47b2aed1dc9cb8f24394253c3967df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-16-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/16",
+   "short": "HCL Drobeta-Turnu Severin nr. 16/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 16/2018 privind aprobarea documentației tehnico-economice, faza S.F, și a indicatorilor tehnico-economici pentru obiectivul de investiții „Sistematizare pe verticală zona locuințe A.N.L",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-016.pdf",
+     "sha256": "a6ab06b53bfa540169038ab7842797ee7509b10b51577586de66de75d33c7c97"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-167-2018",
    "path": "local/mehedinti/drobeta-turnu-severin/2018/167",
    "short": "HCL Drobeta-Turnu Severin nr. 167/2018",
@@ -18,6 +183,111 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-17-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/17",
+   "short": "HCL Drobeta-Turnu Severin nr. 17/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 17/2018 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 20 18-2019 Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: Adresa 1.$.J",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-017.pdf",
+     "sha256": "d08c3e83470edfea4e03c00ece1d111e8527e2c9c39264f6d1ad7c47453c3b01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-201-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/201",
+   "short": "HCL Drobeta-Turnu Severin nr. 201/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 201/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-201.pdf",
+     "sha256": "4e91d9986f30a3b1a84542e2ef0b5bc7acd30739be0dffad32f152b9d710b16f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-207-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/207",
+   "short": "HCL Drobeta-Turnu Severin nr. 207/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 207/2018 privind închirierea, | fără licitație publică, pe o perioadă de S de ani, a imobilului teren în suprafață de ȘI m”, situat în județul Mehedinți, municipiul Drobeta Turnu Severin, str",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-06-18",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-207.pdf",
+     "sha256": "4cde537ec5f8a8ad5071f268ad0d36669c6886796576892ca02688e6fdd32900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-212-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/212",
+   "short": "HCL Drobeta-Turnu Severin nr. 212/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 212/2018 privind aprobarea participării în cadrul proiectului „Achiziție de mijloace de transport public —autobuze electrice”, a indicatorilor tehnico-economici, a cheltuielilor legate de proiect, precum și de aprobare a acordului de parteneriat și a protocolului de asociere privind realizarea în comun a unei achiziții publice ocazionale Consiliul local al municipiului Drobeta Turnu Severin, județul Mehedi",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-07-24",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-212.pdf",
+     "sha256": "d0dd717264606aa2408ba63fde21f97d9f420df37c331cdbf34f656be576f2cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-27-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/27",
+   "short": "HCL Drobeta-Turnu Severin nr. 27/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 27/2018 privind aprobarea criteriilor de punctare (criteriilor de eligibilitate , de selecție și repartiție ) pentru soluționarea cererilor de locuințe sociale și de locuințe din fondul locativ de stat in vederea repartizarii acestora in regim de inchiriere Consiliul Local al municipiului Drobeta Turnu Severin, Județul Mehedinti; Avand in vedere : - nota de fundamentare nr. 433/16.01.2018 intocmita la niv",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-027.pdf",
+     "sha256": "d623a9d7a5a75b2e5c56d9447527073f0fb92b820964cee8ef7bcf31d3f144f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-294-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/294",
+   "short": "HCL Drobeta-Turnu Severin nr. 294/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 294/2018 privind aprobarea actualizării prețului de livrare a energiei termice către populație și agenți economici, pe perioada 01 noiembrie 2018 — 31 martie 2019 Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: - Prevederile art. 35 și art. 40 din Legea 325 / 2006 privind serviciul public de alimentare Cu energie termică; 0.G. 36 / 2006 privind instituirea prețuri",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-11-07",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-294.pdf",
+     "sha256": "f8188a58fc94c4a1cd51889a1aef3ff86332f89ae45aa3058b1efcf2248a6d29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-3-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/3",
+   "short": "HCL Drobeta-Turnu Severin nr. 3/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 3/2018 privind aprobarea bugetului de venituri și cheltuieli al Consiliului Local al municipiului Drobeta Turnu Severin pe anul 2018 Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: - Proiectul de buget întocmit de Primarul municipiului Drobeta Turnu Severin, însoțit de rapoartele de susținere a acestui proiect întocmite de serviciul buget-finanțe-contabilitate ș",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-003.pdf",
+     "sha256": "369684cc39c6300f288a0a11d116a8420d8e488854871e09172134728be813a3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-301-2018",
    "path": "local/mehedinti/drobeta-turnu-severin/2018/301",
    "short": "HCL Drobeta-Turnu Severin nr. 301/2018",
@@ -29,6 +299,276 @@
      "units": 7,
      "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-301.pdf",
      "sha256": "d4d67762c515bacb9a8b9a5ff64e72e69731811a0e1af2d35626af813b590f93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-31-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/31",
+   "short": "HCL Drobeta-Turnu Severin nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 31/2018 privind aprobarea modificarilor organigramei și statului de funcții pentru personalul contractual din cadrul Serviciului Public de Alimentare cu Energie Termică pentru anul 2018 Consiliul Local al municipiului Drobeta Tr. Severin, județul Mehedinți; Având în vedere : expunerea de motive întocmită de către Serviciul Public de Alimentare cu Energie Termică cu propuneri privind aprobarea modificarilo",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-031.pdf",
+     "sha256": "670a6abce2ba20f665f05be8c647039fa72043ec123378de25b82a383d482b7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-316-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/316",
+   "short": "HCL Drobeta-Turnu Severin nr. 316/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 316/2018 privind modificarea și completarea Regulamentului de organizare și funcționare a parcărilor publice cu tarifare orară, cât și procedura de atribuire a locurilor în parcările publice de reședință în municipiul Drobeta Turnu Severin Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere temeiurile juridice, respectiv prevederile: a) 0.G. nr. 71 /2002 privind organi",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-316.pdf",
+     "sha256": "38b7f7489b8c303fed8c8a46e2f3efcd165b2003293122e54be3b0b67050e361"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-319-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/319",
+   "short": "HCL Drobeta-Turnu Severin nr. 319/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 319/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-319.pdf",
+     "sha256": "1cc46eef0f7e9bb21bbe7f6c1f9d5e07069a3af43ecfc56f604bcaf385b776b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-32-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/32",
+   "short": "HCL Drobeta-Turnu Severin nr. 32/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 32/2018 privind aprobarea organigramei și a statului de funcții pe anul 2018 pentru Serviciul Public Administrația Piețelor, Târgurilor și Oboarelor din subordinea Consiliului Local al municipiului Drobeta Turnu Severin Consiliul Local al municipiului Drobeta — Turnu Severin, județul Mehedinți; Având în vedere referatul de specialitate înaintat de Serviciul Public Administrația Piețelor, Târgurilor și Obo",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-032.pdf",
+     "sha256": "c876a9a4ff53f34c25c3a81c22c5545c6634ff8cbcc23ba0b32f56dcec1b45ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-36-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/36",
+   "short": "HCL Drobeta-Turnu Severin nr. 36/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 36/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-036.pdf",
+     "sha256": "0e2378ad13e5896f505c27cf9b41009c3135fd4627af13f803dd91b587657e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-37-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/37",
+   "short": "HCL Drobeta-Turnu Severin nr. 37/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 37/2018 privind aprobarea organigramei și a statelor de funcții în regim contractual pentru Direcția de Patrimoniu Istoric și Turism Cultural Drobeta Turnu Severin, pe anul 2018 Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere : - Referatul prin care se propune aprobarea organigramei și a statelor de funcții în regim contractual pentru Direcția de Patrimoniu Istori",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-037.pdf",
+     "sha256": "c6207b7551c841a8ac2fc9203e9bc598e18b4d6f1e083f418287816d76f7d83e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-4-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/4",
+   "short": "HCL Drobeta-Turnu Severin nr. 4/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 4/2018 privind aprobarea bugetului de venituri și cheltuieli extrabugetare pentru instituțiile publice de învățământ preuniversitar de stat pe anul 2018 Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: - Proiectul de buget întocmit de Direcția economică - Serviciul buget finanțe contabilitate, pe baza propunerilor primite de la instituțiile de învățământ preunive",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-004.pdf",
+     "sha256": "2b991d65ad15f430aabdff287abef6bcfee2278ec8900b563907f0516247d936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-40-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/40",
+   "short": "HCL Drobeta-Turnu Severin nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 40/2018 privind aprobarea bugetului creditelor interne pe anul 2020 Avand in vedere Prevederile Legii nr.5/2020 privind bugetul de stat pe anul 2020 Prevederile Ordonanței de urgenta nr. 64/2007 privind datoria publica, Legea 273/2006, actualizata, cu modificarile și completarile ulterioare, Legea nr. nr. 52/2003 privind transparența decizionala in administrația publica,republicata, cu modificarile și com",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2020/",
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/103/hcl-40.pdf",
+     "sha256": "d988f707a4f5175ba02a84a6656d68b9c6187129fcd8e3204b1c935840a7945b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-400-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/400",
+   "short": "HCL Drobeta-Turnu Severin nr. 400/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 400/2018 privind rectificarea bugetului creditelor interne pe anul 2019 și anul 2020 Avand in vedere Prevederile Legii nr.50/2018 privind bugetul de stat pe anul 2018 Prevederile Ordonanței de urgenta nr. 64/2007 privind datoria publica, Legea 273/2006, actualizata,cumodificarile și completarile ulterioare, Legea nr. nr. 52/2003 privind transparența decizionala in administratiapublica,republicata,cumodific",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2019/",
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/101/hcl-400.pdf",
+     "sha256": "ae382ddd2f4b3a62220f1f0b66be62c24a5c906019119ba5ea777e5a56d2c822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-43-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/43",
+   "short": "HCL Drobeta-Turnu Severin nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 43/2018 privind aprobarea Programului de activități cuprinse în bugetul de venituri și cheltuieli pentru anul 2018 al Direcției de patrimoniu istoric și turism cultural Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere Nota de Fundamentare nr.30/22.02.2018 înregistrată cu nr.84/23.02.2018 a Direcției de Patrimoniu Istoric și Turism Cultural cu propuneri privind apro",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-02-27",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-043.pdf",
+     "sha256": "93df1302fde04a607043051a2822eeeb7d23fa63257cc6c926056a93633e4723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-47-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/47",
+   "short": "HCL Drobeta-Turnu Severin nr. 47/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 47/2018 privind aprobarea contului de încheiere a exercițiului bugetar al Serviciului Public Administrația Piețelor, Târgurilor și Oboarelor pe anul 2017 Consiliul Local al Municipiului Drobeta Turnu-Severin județul Mehedinți; Având în vedere Raportul nr.66/14.02.2018 întocmit de către Serviciul Public Administrația Piețelor, Târgurilor și OBoarelor cu privire la aprobarea încheierii execuției bugetare pe",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-02-27",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-047.pdf",
+     "sha256": "68dbbbe82b410f645320043f92c224fa902adc4502ff4c2c23faa434c65efde4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-49-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/49",
+   "short": "HCL Drobeta-Turnu Severin nr. 49/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 49/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-02-27",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-049.pdf",
+     "sha256": "2068b9d48e00394593146228c5133664999dec7bfdc3c1e7c128e8fbf1f603be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-54-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/54",
+   "short": "HCL Drobeta-Turnu Severin nr. 54/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 54/2018 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local pe anul 2018 Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: - Proiectul de buget întocmit de Primarul municipiului Drobeta Turnu Severin însoțit de rapoartele de susținere a acestui proiect întocmite de serviciul buget-finanțe-contabilitate și serviciul investiții pentru anul 2",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-054.pdf",
+     "sha256": "dd6df625869e8df76af7c91e4c8df90f4758fbc580dc9211ed54bd720333786b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-58-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/58",
+   "short": "HCL Drobeta-Turnu Severin nr. 58/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 58/2018 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local pe anul 2018 Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: — Proiectul de buget întocmit de Primarul municipiului Drobeta Turnu Severin, însoțit de rapoartele de susținere a acestui proiect întocmite de Serviciul buget — finanțe contabilitate și Serviciul Investiții pentru anu",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-058.pdf",
+     "sha256": "ce84dc4aab48d7dfa5f83e1a31b1abe3cd3e6c5e26eac4561f884f294d7dd5a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-6-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/6",
+   "short": "HCL Drobeta-Turnu Severin nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 6/2018 Privind aprobarea bugetului de venituri și cheltuieli al Direcției de Asistență Socială pe anul 2018 Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Analizând proiectul de buget întocmit de Direcția de Asistență Socială, însoțit de raportul de specialitate asupra acestui proiect și avizul favorabil al comisiei buget finanțe; Având în vedere prevederile Legii nr. 2/2018 pr",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-006.pdf",
+     "sha256": "41794e89c196b6574511c3f9bde9fd13ce15f0d26b0979bc5a4703eef8cccb84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-66-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/66",
+   "short": "HCL Drobeta-Turnu Severin nr. 66/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 66/2018 privind aprobarea Regulamentului de organizare și funcționare a parcărilor publice cu tarifare orară, cât și procedura de atribuire a locurilor în parcările publice de reședință în municipiul Drobeta Turnu Severin Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: — temeiurile juridice, respectiv prevederile: a) OG. nr. 71/2002 privind organizarea și funcțio",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-066.pdf",
+     "sha256": "04a405109a9f735ad9605378afc58c3c8ac6be947462b3af393c4e7caa4889e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-7-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/7",
+   "short": "HCL Drobeta-Turnu Severin nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 7/2018 privind aprobarea bugetului de venituri și cheltuieli al Direcției de Poliție Locala pe anul 2018 Consiliul Local al municipiului Drobeta Turnu Severin județul Mehedinți; Având în vedere: - Proiectul de buget întocmit de DIRECȚIA DE POLIȚIE LOCALA însoțit de raportul de susținere a acesteia, proiect întocmit de compartimentul financiar -Prevederile Legii nr. 273/2006 — Legea finanțelor publice loc",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-007.pdf",
+     "sha256": "c74ba47bac69d0c2100bad53ad0b53c37bbe994d6c073c0307c19e2c9d5b3d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-9-2018",
+   "path": "local/mehedinti/drobeta-turnu-severin/2018/9",
+   "short": "HCL Drobeta-Turnu Severin nr. 9/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 9/2018 privind aprobarea bugetului de venituri și cheltuieli al Direcției de Patrimoniu Istoric și Turism Cultural din municipiul Drobeta Turnu Severin pentru anul 2018 Consiliul Local al Municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere Nota de Fundamentare nr.1/23.01.2018 înregistrată cu nr.30/25.01.2018 a Direcției de Patrimoniu Istoric și Turism Cultural cu propuneri privind apro",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-009.pdf",
+     "sha256": "7ffd1713ce3847fdedd3b945ff8d6a6c8e15841d43eaeba3374a2d838e075fd5"
     }
    ]
   }

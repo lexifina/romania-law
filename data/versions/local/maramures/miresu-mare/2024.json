@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-10-2024",
+   "path": "local/maramures/miresu-mare/2024/10",
+   "short": "HCL Mireșu Mare nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 10/2024 privind aprobarea statului de personal si stabilirea salariilor de bază pentru personalul încadrat în funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Mireșu Mare, judeţul Maramureș și a indemnizației consilierilor locali",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/148071",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/148071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-11-2024",
+   "path": "local/maramures/miresu-mare/2024/11",
+   "short": "HCL Mireșu Mare nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 11/2024 privind aprobarea concesionării prin licitație publică a unei suprafețe de teren de 18.000 mp aparținând domeniului public al Comunei Mireșu Mare, Sat Mireșu Mare, FN, Județul Maramureș, nr. cadastral: 51313, în vederea amenajării unei locații pentru activități de echitație și a documentației de atribuire aferentă",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/148072",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/148072",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-12-2024",
    "path": "local/maramures/miresu-mare/2024/12",
    "short": "HCL Mireșu Mare nr. 12/2024",
@@ -168,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-21-2024",
+   "path": "local/maramures/miresu-mare/2024/21",
+   "short": "HCL Mireșu Mare nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 21/2024 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 30.06.2024 - 30.09.2024",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/159726",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/159726",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-22-2024",
    "path": "local/maramures/miresu-mare/2024/22",
    "short": "HCL Mireșu Mare nr. 22/2024",
@@ -183,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-23-2024",
+   "path": "local/maramures/miresu-mare/2024/23",
+   "short": "HCL Mireșu Mare nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 23/2024 privind aprobarea începerii demersurilor pentru concesionarea unei suprafețe de teren de 4 mp aparținând domeniului public al comunei Mireșu Mare, CF 52045 Mireșu Mare în vederea amplasării unui panou publicitar",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/159728",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/159728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-24-2024",
+   "path": "local/maramures/miresu-mare/2024/24",
+   "short": "HCL Mireșu Mare nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 24/2024",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/162295",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/162295",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-25-2024",
    "path": "local/maramures/miresu-mare/2024/25",
    "short": "HCL Mireșu Mare nr. 25/2024",
@@ -193,6 +268,51 @@
      "from": "2024-07-22",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/162296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-26-2024",
+   "path": "local/maramures/miresu-mare/2024/26",
+   "short": "HCL Mireșu Mare nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 26/2024 privind aprobarea modificării contractelor de închiriere pentru suprafețele de pajiști aflate în domeniul public sau privat al comunei Mireșu Mare, prin încheierea unor acte adiționale",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/163804",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/163804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-27-2024",
+   "path": "local/maramures/miresu-mare/2024/27",
+   "short": "HCL Mireșu Mare nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 27/2024",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/163805",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/163805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-28-2024",
+   "path": "local/maramures/miresu-mare/2024/28",
+   "short": "HCL Mireșu Mare nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 28/2024 privind aprobarea concesionării prin licitație publică a unei suprafețe de teren de 4 mp aparținând domeniului public al Comunei Mireșu Mare, Sat Mireșu Mare, FN, Județul Maramureș, nr. cadastral: 52045, în vederea amplasării unui panou publicitar și a documentației de atribuire aferentă",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/163806",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/163806",
      "sha256": null
     }
    ]
@@ -283,6 +403,51 @@
      "from": "2024-08-08",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/164478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-34-2024",
+   "path": "local/maramures/miresu-mare/2024/34",
+   "short": "HCL Mireșu Mare nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 34/2024 privind desemnarea reprezentanților Consiliului local al Comunei Mireșu Mare care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Mireșu Mare în anul scolar 2024 - 2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/170055",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/170055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-35-2024",
+   "path": "local/maramures/miresu-mare/2024/35",
+   "short": "HCL Mireșu Mare nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 35/2024 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 01.10.2024 - 31.10.2024",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/170056",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/170056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-36-2024",
+   "path": "local/maramures/miresu-mare/2024/36",
+   "short": "HCL Mireșu Mare nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 36/2024 privind aprobarea desfășurării lucrărilor de exploatare a agregatelor minerale din albia minoră a Râului Someș, conform fișei de localizare a perimetrului temporar de exploatare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/170057",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/170057",
      "sha256": null
     }
    ]
@@ -423,6 +588,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-45-2024",
+   "path": "local/maramures/miresu-mare/2024/45",
+   "short": "HCL Mireșu Mare nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 45/2024 privind modificarea HCL nr. 34/2024 privind desemnarea reprezentanților Consiliului local al Comunei Mireșu Mare care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Mireșu Mare în anul scolar 2024 - 2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/174834",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/174834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-46-2024",
+   "path": "local/maramures/miresu-mare/2024/46",
+   "short": "HCL Mireșu Mare nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 46/2024 privind alegerea unui președinte de ședință al Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 01.11.2024 - 31.01.2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/174835",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/174835",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-47-2024",
    "path": "local/maramures/miresu-mare/2024/47",
    "short": "HCL Mireșu Mare nr. 47/2024",
@@ -463,6 +658,21 @@
      "from": "2024-12-03",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/176309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-5-2024",
+   "path": "local/maramures/miresu-mare/2024/5",
+   "short": "HCL Mireșu Mare nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 5/2024",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/142128",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/142128",
      "sha256": null
     }
    ]
@@ -618,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-6-2024",
+   "path": "local/maramures/miresu-mare/2024/6",
+   "short": "HCL Mireșu Mare nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 6/2024 privind aprobarea începerii demersurilor pentru concesionarea unei suprafețe de teren de 18.000 mp aparținând domeniului public al comunei Mireșu Mare, CF 51313 Mireșu Mare în vederea amenajării unei locații pentru activități de echitație prin procedura de licitatie publică",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/142129",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/142129",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-60-2024",
    "path": "local/maramures/miresu-mare/2024/60",
    "short": "HCL Mireșu Mare nr. 60/2024",
@@ -763,6 +988,21 @@
      "from": "2024-02-26",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/143699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-9-2024",
+   "path": "local/maramures/miresu-mare/2024/9",
+   "short": "HCL Mireșu Mare nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 9/2024 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 31.03.2024 - 30.06.2024",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/148070",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/148070",
      "sha256": null
     }
    ]

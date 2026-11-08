@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--corlatel-12-2025",
+   "path": "local/mehedinti/corlatel/2025/12",
+   "short": "HCL Corlățel nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 12/2025 privind desemnarea consilierilor locali care vor face parte din comisia de evaluare a performanțelor profesionale individuale ale secretarului general al comunei",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/203950",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/203950",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--corlatel-13-2025",
    "path": "local/mehedinti/corlatel/2025/13",
    "short": "HCL Corlățel nr. 13/2025",
@@ -148,6 +163,21 @@
      "from": "2025-09-09",
      "units": 1,
      "source_url": "https://emol.ro/corlatel-mh/registru-hcl/220466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-2-2025",
+   "path": "local/mehedinti/corlatel/2025/2",
+   "short": "HCL Corlățel nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 2/2025",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/190488",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/190488",
      "sha256": null
     }
    ]
@@ -468,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--corlatel-4-2025",
+   "path": "local/mehedinti/corlatel/2025/4",
+   "short": "HCL Corlățel nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 4/2025",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/195286",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/195286",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--corlatel-40-2025",
    "path": "local/mehedinti/corlatel/2025/40",
    "short": "HCL Corlățel nr. 40/2025",
@@ -508,6 +553,21 @@
      "from": "2026-06-23",
      "units": 1,
      "source_url": "https://emol.ro/corlatel-mh/registru-hcl/245140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--corlatel-5-2025",
+   "path": "local/mehedinti/corlatel/2025/5",
+   "short": "HCL Corlățel nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 5/2025",
+   "url": "https://emol.ro/corlatel-mh/registru-hcl/195287",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/corlatel-mh/registru-hcl/195287",
      "sha256": null
     }
    ]

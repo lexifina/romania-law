@@ -3,6 +3,72 @@
 "shard": "local/maramures/seini/2012",
 "acts": [
 {
+"slug": "hcl-maramures--seini-1-2012",
+"path": "local/maramures/seini/2012/1",
+"kind": "local",
+"year": "2012",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 1/2012 privind aprobarea bugetului de venituri si cheltuieli pe anul 2012 al orasului Seini; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 30.01.2012; Avand in vedere : -Raportul prezentat de Serviciul economic din cadrul Aparatului de specialitate al primarului ; - Decizia nr. 2/2012 a Directorului DGFP Maramures prin care s-au repartizat sumele defalcate si a cotelor defalcate",
+"short": "HCL Seini nr. 1/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-01-30",
+"latest": "2012-01-30",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-2-2012",
+"path": "local/maramures/seini/2012/2",
+"kind": "local",
+"year": "2012",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 2/2012 Privind aprobarea modificarii organigramei Primariei prin reorganizarea serviciului economic Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 30.01.2012 Având în vedere : • Adresa Instituției Prefectului Nr.13194/2011 referitoare la stabilirea numărului maxim de posturi aferent anului 2012 ; • Faptul ca volumul de munca la Serviciul economic este foarte mare si necesita o re",
+"short": "HCL Seini nr. 2/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-01-30",
+"latest": "2012-01-30",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-4-2012",
+"path": "local/maramures/seini/2012/4",
+"kind": "local",
+"year": "2012",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 4/2012 privind aprobarea dezmembrarii, insusirii apartenentei la domeniul public al orasului Seini a imobilului teren in suprafata de 2500 mp situat in Seini- Tag Berenas; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 30.01.2012; Avind in vedere : - Raportul prezentat de Biroul urbanism din cadrul Aparatului de specialitate al primarului orasului ;. - Documentatia cadastrala i",
+"short": "HCL Seini nr. 4/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-01-30",
+"latest": "2012-01-30",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--seini-5-2012",
 "path": "local/maramures/seini/2012/5",
 "kind": "local",
@@ -22,6 +88,183 @@
 "council_name": "Consiliul Local al Orașului Seini",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-maramures--seini-6-2012",
+"path": "local/maramures/seini/2012/6",
+"kind": "local",
+"year": "2012",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 6/2012 privind aprobarea criteriilor si limitelor de venit ce se au in vedere la acordarea ajutorului social ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 30.01.2012; Avind in vedere : - Expunerea de motive prezentata de Serviciul social din cadrul Aparatului de specialitate al primarului cu privire la necesitatea stabilirii veniturilor potentiale care se pot obtine din valo",
+"short": "HCL Seini nr. 6/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-01-30",
+"latest": "2012-01-30",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-7-2012",
+"path": "local/maramures/seini/2012/7",
+"kind": "local",
+"year": "2012",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 7/2012 Privind aprobarea contributiei pe anul 2012 a orasului Seini cuprins in proiectul integrat POS Mediu , AXA 1 – « Extinderea si reabilitarea infrastructurii de apa si apa uzata in judetul Maramures ; Consiliul Local Orasenesc Seini, intrunit in sedinta ordinara la data de 30.01.2012; Avand in vedere :- derularea Programului Operational Sectorial Mediu 2007-2013, Axa 1 si in cadrul acestuia a proiec",
+"short": "HCL Seini nr. 7/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-01-30",
+"latest": "2012-01-30",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-8-2012",
+"path": "local/maramures/seini/2012/8",
+"kind": "local",
+"year": "2012",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 8/2012 Privind modificarea art. 3 al Hotararii Consiliului local Seini nr. 28/2011 pentru aprobarea Studiului de fezabilitate a indicatorilor tehnico-economici, a Planului anual de evolutie a tarifelor si a cofinantarii proiectului «Extinderea si reabilitarea infrastructurii de apa si apa uzata in judetul Maramures» aglomerarea Seini ; Consiliul Local Orasenesc Seini, intrunit in sedinta ordinara la data",
+"short": "HCL Seini nr. 8/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-02-29",
+"latest": "2012-02-29",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-9-2012",
+"path": "local/maramures/seini/2012/9",
+"kind": "local",
+"year": "2012",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 9/2012 privind desemnarea primarului orasului Seini ca reprezentant in cadrul Consiliului de administratie al Asociatiei de Dezvoltare Intercomunitara – Zona Metropolitana Baia Mare; Consiliul local orasenesc Seini intrunit in sedinta extraordinara la data de 29.02.2012; Avind in vedere: - Raportul Biroului urbanism din cadrul Aparatului de specialitate al primarului orasului Seini prin care se propune d",
+"short": "HCL Seini nr. 9/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-02-29",
+"latest": "2012-02-29",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-28-2012",
+"path": "local/maramures/seini/2012/28",
+"kind": "local",
+"year": "2012",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 28/2012 privind alegerea comisiei de validare Consiliul local al Orașului Seini, întrunit în ședința de constituire din data de 27.06.2012; Având în vedere propunerile formulate pentru componența comisiei de validare a mandatelor consilierilor aleși la data de 10 iunie 2012",
+"short": "HCL Seini nr. 28/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-27",
+"latest": "2012-06-27",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-31-2012",
+"path": "local/maramures/seini/2012/31",
+"kind": "local",
+"year": "2012",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 31/2012",
+"short": "HCL Seini nr. 31/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-06-27",
+"latest": "2012-06-27",
+"portal": null,
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--seini-33-2012",
+"path": "local/maramures/seini/2012/33",
+"kind": "local",
+"year": "2012",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 33/2012 privind alegerea comisiilor de specialitate ale Consiliului local orasenesc Seini ; Consiliul local al orasului Seini intrunit in sedinta ordinara din data de 09.07.2012; Avand in vedere propunerile formulate cu privire la organizarea comisiilor de specialitate pe domenii de activitate ; In conformitate cu dispozitiile art. 54 din Legea nr. 215/2001 privind administratia publica locala, republicat",
+"short": "HCL Seini nr. 33/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-07-09",
+"latest": "2012-07-09",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-36-2012",
+"path": "local/maramures/seini/2012/36",
+"kind": "local",
+"year": "2012",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 36/2012 Privind aprobarea contractarii unei finantari rambursabile interne in valoare de 2.000.000 lei; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 09.07.2012; Avand in vedere :- referatul de aprobare prezentat de catre primarul orasului Seini in calitatea sa de initiator ; - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului orasului Seini : - Av",
+"short": "HCL Seini nr. 36/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-07-09",
+"latest": "2012-07-09",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +312,50 @@
 }
 },
 {
+"slug": "hcl-maramures--seini-40-2012",
+"path": "local/maramures/seini/2012/40",
+"kind": "local",
+"year": "2012",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 40/2012 privind aprobarea realizarii investitiei “Testarea si demonstrarea fezabilitatii producerii de biogaz si energie cogenerate de gunoi de grajd si resturi menajere prin fermentatie anaeroba si a studiului de prefezabilitate “Statie pilot de biogaz pentru tratarea anaeroba a gunoiului de grajd si a deseurilor vegetale/organice la Primaria orasului Seini”; Consiliul local al orasului Seini intrunit in",
+"short": "HCL Seini nr. 40/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-08-03",
+"latest": "2012-08-03",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-41-2012",
+"path": "local/maramures/seini/2012/41",
+"kind": "local",
+"year": "2012",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 41/2012 privind aprobarea realizarii investitiei “Camin persoane varstnice” in orasul Seini, str. Cetatii, nr. 1 si a indicatorilor tehnico-economici pentru aceasta investitie; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 3.08.2012; Avind in vedere : - Oportunitatea de a realiza amenajarea unui camin pentru persoane varstnice in orasul Seini; - Devizul general si indicatorii t",
+"short": "HCL Seini nr. 41/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-08-03",
+"latest": "2012-08-03",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--seini-42-2012",
 "path": "local/maramures/seini/2012/42",
 "kind": "local",
@@ -88,6 +375,116 @@
 "council_name": "Consiliul Local al Orașului Seini",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-maramures--seini-50-2012",
+"path": "local/maramures/seini/2012/50",
+"kind": "local",
+"year": "2012",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 50/2012 privind desemnarea primarului orasului Seini ca reprezentant in cadrul Consiliului de administratie al Asociatiei de Dezvoltare Intercomunitara – Zona Metropolitana Baia Mare; Consiliul local orasenesc Seini intrunit in sedinta extraordinara la data de 27.08.2012; Avind in vedere: - Raportul Biroului urbanism din cadrul Aparatului de specialitate al primarului orasului Seini prin care se propune d",
+"short": "HCL Seini nr. 50/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-08-27",
+"latest": "2012-08-27",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-53-2012",
+"path": "local/maramures/seini/2012/53",
+"kind": "local",
+"year": "2012",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 53/2012 Privind aprobarea Politicii Zonale privind Ocuparea ForŃei de Muncă și Incluziunea Socială – Zona Metropolitană Baia Mare Consilul local orasenesc Seini intrunit in sedinta ordinara la data de 17.09.2012 ; Examinând: - proiectul iniŃiat de Primarul localităŃii Seini ; - raportul de specialitate promovat de Serviciul social din cadrul Aparatului de specialitate al primarului orasului, prin care se",
+"short": "HCL Seini nr. 53/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-09-17",
+"latest": "2012-09-17",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-55-2012",
+"path": "local/maramures/seini/2012/55",
+"kind": "local",
+"year": "2012",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 55/2012 Privind aprobarea modificarii Statutului AsociaŃiei de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Menajere în judeŃul Maramureș Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 17.09.2012; Având în vedere: - Expunerea de motive a Primarului orasului Seini și Hotărârea Adunării Generale a AsociaŃiei de Dezvoltare Intercomunitară pentru Gestionarea",
+"short": "HCL Seini nr. 55/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-09-17",
+"latest": "2012-09-17",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-56-2012",
+"path": "local/maramures/seini/2012/56",
+"kind": "local",
+"year": "2012",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 56/2012 privind numirea Primarului orasului Seini ca reprezentant al Orasului Seini in Adunarea Generala a Asociatiilor din cadrul Asociatiei de Dezvoltare Intercomunitara pentru Gestionarea Integrata a Deseurilor Manajere in judetul Maramures; Consiliul Local al orasului Seini, intrunit in sedinta ordinara din data de 17.09.2012; Avand in vedere: - Raportul prezentat de Biroul urbanism din cadrul Aparatu",
+"short": "HCL Seini nr. 56/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-09-17",
+"latest": "2012-09-17",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--seini-67-2012",
+"path": "local/maramures/seini/2012/67",
+"kind": "local",
+"year": "2012",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 67/2012 privind desemnarea unui reprezentant al Consiliului local Seini in Adunarea Generala a SC Vital SA Baia Mare Consiliului Local al orasului Seini, intrunit in sedinta ordinara din data de 21.11.2012; Avand in vedere: - Hotararea Consiliului local Seini nr. 26/2009 prin care activitatea Serviciului de apa si canalizare din cadrul SCUP Seini inceteaza fiind preluat de SC Vital Baia Mare ca unic distr",
+"short": "HCL Seini nr. 67/2012",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2012-11-21",
+"latest": "2012-11-21",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2012/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-4-2020",
+"path": "local/maramures/miresu-mare/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 4/2020 privind propunere inchiriere prin procedura de licitație publică a unui lot de teren -domeniul public nr. cadastral 51906, in suprafata de 550 m.p",
+"short": "HCL Mireșu Mare nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-14",
+"latest": "2020-01-14",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/1362",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-5-2020",
 "path": "local/maramures/miresu-mare/2020/5",
 "kind": "local",
@@ -201,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-11-2020",
+"path": "local/maramures/miresu-mare/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 11/2020 privind aprobarea inceperii demersurilor pentru concesionarea, unui lot de teren apartinând domeniului public al comunei Miresu Mare , nr. cadastral 51906, in suprafată de 550 m.p.,in vederea amenajarii unei spălătorii auto si servicii de vulcanizare auto prin procedura de licitatie publică",
+"short": "HCL Mireșu Mare nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-11",
+"latest": "2020-02-11",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/4349",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-12-2020",
 "path": "local/maramures/miresu-mare/2020/12",
 "kind": "local",
@@ -286,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Mireșu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-16-2020",
+"path": "local/maramures/miresu-mare/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 16/2020 privind aprobarea documentatiei in vederea concesionarii suprafetei de 550 m.p.in localitatea Mireșu Mare, județ Maramureș, apartinând domeniului public al comunei Miresu Mare , nr. cadastral 51906, in vederea amenajarii unei spălătorii auto si servicii de vulcanizare auto prin procedura de licitatie publică",
+"short": "HCL Mireșu Mare nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/4354",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -798,6 +864,51 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-40-2020",
+"path": "local/maramures/miresu-mare/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 40/2020 privind privind aprobarea cumpărării unui imobil teren in suprafață de 3440 m.p. situat in localitatea Iadăra, com. Mireșu Mare, in vederea amplasării rezervorului de stocare apă in cadrul proiectului ,,Proiect regional de dezvoltare a infrastructurii de apă si apă uzată din județul Maramureș,,",
+"short": "HCL Mireșu Mare nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/7734",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-41-2020",
+"path": "local/maramures/miresu-mare/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 41/2020",
+"short": "HCL Mireșu Mare nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/7735",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-42-2020",
 "path": "local/maramures/miresu-mare/2020/42",
 "kind": "local",
@@ -839,6 +950,29 @@
 "council_name": "Consiliul Local al Comunei Mireșu Mare",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-44-2020",
+"path": "local/maramures/miresu-mare/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 44/2020",
+"short": "HCL Mireșu Mare nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-11",
+"latest": "2020-08-11",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/7738",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -928,6 +1062,29 @@
 "council_name": "Consiliul Local al Comunei Mireșu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-49-2020",
+"path": "local/maramures/miresu-mare/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 49/2020",
+"short": "HCL Mireșu Mare nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/9170",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

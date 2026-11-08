@@ -3,6 +3,186 @@
  "shard": "local/maramures/tautii-magheraus/2020",
  "acts": [
   {
+   "slug": "hcl-maramures--tautii-magheraus-200-2020",
+   "path": "local/maramures/tautii-magheraus/2020/200",
+   "short": "HCL Tăuții-Măgherăuș nr. 200/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 200/2020 privind alegerea președintelui de ședință pentru perioada noiembrie 2020 – ianuarie 2021",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl200.pdf",
+     "sha256": "84845c9e9d74872a70765fe23b2d54ef74b03a5cf2d41e2676ce336e03bca4ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-201-2020",
+   "path": "local/maramures/tautii-magheraus/2020/201",
+   "short": "HCL Tăuții-Măgherăuș nr. 201/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 201/2020 Privind actualizarea Regulamentului de Organizare și Funcționare a Consiliului locaL al orașului Tăuții Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl201.pdf",
+     "sha256": "a511de5f8907b9b2769b112933d0713debcf869e9265481d53d89beed1f2968e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-202-2020",
+   "path": "local/maramures/tautii-magheraus/2020/202",
+   "short": "HCL Tăuții-Măgherăuș nr. 202/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 202/2020 Privind alegerea viceprimarului orașului Tăuții Măgherăuș, județul Maramureș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl202.pdf",
+     "sha256": "38d35296288b649f85b0f3ad1f83fcb3cf1e0239df52acbde26155a6c0e8ede8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-203-2020",
+   "path": "local/maramures/tautii-magheraus/2020/203",
+   "short": "HCL Tăuții-Măgherăuș nr. 203/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 203/2020 privind alegerea comisiilor de specialitate din cadrul Consiliului local al orașului Tăuții Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl203.pdf",
+     "sha256": "d1705ba84ecf4db60d02f88bc6c5e594bd0af4bd32e2325b78ed881f2ef3b7f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-205-2020",
+   "path": "local/maramures/tautii-magheraus/2020/205",
+   "short": "HCL Tăuții-Măgherăuș nr. 205/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 205/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl205.pdf",
+     "sha256": "22811774176f843299932d92441f2a45bbbf087ed1acbae28980bedb8c223aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-207-2020",
+   "path": "local/maramures/tautii-magheraus/2020/207",
+   "short": "HCL Tăuții-Măgherăuș nr. 207/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 207/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl207.pdf",
+     "sha256": "50b384b9372e1b2e84e83d5573fce16c974e5f42033597399c129449b95bc252"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-208-2020",
+   "path": "local/maramures/tautii-magheraus/2020/208",
+   "short": "HCL Tăuții-Măgherăuș nr. 208/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 208/2020 Privind aprobarea indicatorilor tehnico-economici pentru proiectul „Achiziții echipamente de protecție pentru prevenirea și diminuarea răspândirii potențiale a infecției cu virusul SARS-CoV-2” Consiliul Local al orașului Tăuții Măgherăuș, întrunit în ședința ordinară în data de 23.11.2020, Ținând cont de referatul de aprobare al primarului nr. 13045 din 16.11.2020 , de raportul de specialitate înt",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl208.pdf",
+     "sha256": "65479e6c559e7460bb9d1dfd053591bed5daaa42bc86b6da47eb8d2be1a0cf89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-209-2020",
+   "path": "local/maramures/tautii-magheraus/2020/209",
+   "short": "HCL Tăuții-Măgherăuș nr. 209/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 209/2020 cu privire la aprobarea cheltuielilor necesare pentru achiziționarea pachetelor cadou ce se vor acorda cu ocazia sărbătorilor de iarnă 2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl209.pdf",
+     "sha256": "b3b7150dd40f10276135edc35355fa53716db9d97e96495e77a8d3830a3a7cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-210-2020",
+   "path": "local/maramures/tautii-magheraus/2020/210",
+   "short": "HCL Tăuții-Măgherăuș nr. 210/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 210/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl210.pdf",
+     "sha256": "e839c090f23709c76263e23fda8c7d2d5cee104d5709b58a5aa0ccd802c223b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-211-2020",
+   "path": "local/maramures/tautii-magheraus/2020/211",
+   "short": "HCL Tăuții-Măgherăuș nr. 211/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 211/2020 Privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție „Reconversia si refunctionalizarea terenurilor vacante si neutilizate din zona centrala a orasului Tautii Magheraus” Consiliul Local al orașului Tăuții Măgherăuș, întrunit în ședință ordinară în data de 23.11.2020, Având la bază: - Contractul de finanțare nr. 2847 / 03.08.2018 pentru investitia „Reconversia și ref",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl211.pdf",
+     "sha256": "17d923a8531d4fb7716a9edb662a2758760c576d0ceb0eb74e8990e89a862fc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-212-2020",
+   "path": "local/maramures/tautii-magheraus/2020/212",
+   "short": "HCL Tăuții-Măgherăuș nr. 212/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 212/2020 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl212.pdf",
+     "sha256": "0a0d3542664731e9232cca63b969ec416c3e3bbc689a089905639a2f5f05fe23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-213-2020",
+   "path": "local/maramures/tautii-magheraus/2020/213",
+   "short": "HCL Tăuții-Măgherăuș nr. 213/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 213/2020 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl213.pdf",
+     "sha256": "16c9f417da8c77a3d3ac485d7894ddae0db11aa883d24b0250bc41f8022d07df"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--tautii-magheraus-214-2020",
    "path": "local/maramures/tautii-magheraus/2020/214",
    "short": "HCL Tăuții-Măgherăuș nr. 214/2020",
@@ -14,6 +194,21 @@
      "units": 13,
      "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl214.pdf",
      "sha256": "0c1097f889377edc852657fed13aff579abaf5b313145e3e9e0b2f126181de68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-215-2020",
+   "path": "local/maramures/tautii-magheraus/2020/215",
+   "short": "HCL Tăuții-Măgherăuș nr. 215/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 215/2020 Cu privire la aprobarea contului de executie a bugetului orasului Tautii Magheraus la data de 30.09.2020 Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință ordinară la data de 21.12.2020.2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl215.pdf",
+     "sha256": "f505f746614fe98a87eebd554606168aa39d7aa9937f691315d15b702d0be5bd"
     }
    ]
   },
@@ -33,6 +228,276 @@
    ]
   },
   {
+   "slug": "hcl-maramures--tautii-magheraus-217-2020",
+   "path": "local/maramures/tautii-magheraus/2020/217",
+   "short": "HCL Tăuții-Măgherăuș nr. 217/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 217/2020 privind aprobarea alocarii drepturilor bănești aferente personalului didactic din cadrul Liceului „Traian Vuia” Tautii Magheraus, care au solicitat decontarea cheltuielilor de deplasare pentru lunile februarie - septembrie 2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl217.pdf",
+     "sha256": "7330ecfb2b28f8b3d908364dd66604687685ecffb25cb1f924e3e1185561ee65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-218-2020",
+   "path": "local/maramures/tautii-magheraus/2020/218",
+   "short": "HCL Tăuții-Măgherăuș nr. 218/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 218/2020 privind aprobarea proiectului organizarii Rețelei Scolare a unitatilor de învațamânt preuniversitar din orasul Tautii Magherauș pentru anul scolar 2021-2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl218.pdf",
+     "sha256": "245b1c07d5d02bc80dbbfcdb1403f3819c75bce4e6123f018ac305d23f1d5df4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-219-2020",
+   "path": "local/maramures/tautii-magheraus/2020/219",
+   "short": "HCL Tăuții-Măgherăuș nr. 219/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 219/2020 privind desemnarea reprezentantului UAT Tăuții Măgherăuș în „Asociația de Dezvoltare Intercomunitară Distribuție Gaz Maramureș” Consiliului Local al orașului Tăuții Măgherăuș, întrunit în ședința ordinară din data de 21.12.2020; Având în vedere: - Adresa nr. 18659/23.11.2020, prin care se solicită desemnarea prin Hotărâre a Consiliului Local al orașului Tăuții Măgherăuș, a unui reprezentant din pa",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl219.pdf",
+     "sha256": "76e9ad70e99660ad9472cdc3ddf057776a93907d1262ff7d43207883cf029108"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-220-2020",
+   "path": "local/maramures/tautii-magheraus/2020/220",
+   "short": "HCL Tăuții-Măgherăuș nr. 220/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 220/2020 pentru spațiul cu destinatie locuinţa socială HCL 220",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl220.pdf",
+     "sha256": "3ab3d3ff156ee752fab4a6dc603553d1e8293bf78433643e9c736bff8275ad39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-221-2020",
+   "path": "local/maramures/tautii-magheraus/2020/221",
+   "short": "HCL Tăuții-Măgherăuș nr. 221/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 221/2020 pentru spațiul cu destinatie locuinţa socială HCL 221",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl221.pdf",
+     "sha256": "e1c09ab36988b3e58bc3b57c3aaba0f94c311ded39b8622274c2406b8721474c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-222-2020",
+   "path": "local/maramures/tautii-magheraus/2020/222",
+   "short": "HCL Tăuții-Măgherăuș nr. 222/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 222/2020 pentru spațiul cu destinatie locuinţa socială HCL 222",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl222.pdf",
+     "sha256": "975615634353734994ca1b0291549b827231abe47b0aa28029de07a284979ec9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-223-2020",
+   "path": "local/maramures/tautii-magheraus/2020/223",
+   "short": "HCL Tăuții-Măgherăuș nr. 223/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 223/2020 pentru a fi amenajat si dotat în vederea utilizarii ca locuinţă socială HCL 223",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl223.pdf",
+     "sha256": "8084d79a8511fba9b40b63539019246baceeb4a41383b88c731dd9dc8b4c0f58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-224-2020",
+   "path": "local/maramures/tautii-magheraus/2020/224",
+   "short": "HCL Tăuții-Măgherăuș nr. 224/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 224/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl224.pdf",
+     "sha256": "8b49f1a97d718db93b5560f6c34bcf75ce7ac89cfcaa50c0fae630e36f4dc253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-225-2020",
+   "path": "local/maramures/tautii-magheraus/2020/225",
+   "short": "HCL Tăuții-Măgherăuș nr. 225/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 225/2020 Privind însuşirea raportului de evaluare si aprobarea concesionarii prin incredintare directa HCL 225",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl225.pdf",
+     "sha256": "eeef1a5957226eb41807404ce8b3fbdfd902b13e791f45349a0e88245b694184"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-226-2020",
+   "path": "local/maramures/tautii-magheraus/2020/226",
+   "short": "HCL Tăuții-Măgherăuș nr. 226/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 226/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl226.pdf",
+     "sha256": "47b7dc2e242bcae92782e4bfbed94e34106a5bb2da977ceec67deb4974225685"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-227-2020",
+   "path": "local/maramures/tautii-magheraus/2020/227",
+   "short": "HCL Tăuții-Măgherăuș nr. 227/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 227/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl227.pdf",
+     "sha256": "d2b1a517fe23646028def67bc6b78bcb1707855b6296b64c038b56d25989bcd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-228-2020",
+   "path": "local/maramures/tautii-magheraus/2020/228",
+   "short": "HCL Tăuții-Măgherăuș nr. 228/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 228/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl228.pdf",
+     "sha256": "6f6285bca896029bbf22c22d8d450cf77c6478320ebee83d24ade3ddb14f4369"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-229-2020",
+   "path": "local/maramures/tautii-magheraus/2020/229",
+   "short": "HCL Tăuții-Măgherăuș nr. 229/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 229/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl229.pdf",
+     "sha256": "8f8f235fc72c09d5bbe7f3ad54be3944c8d965db085a713b7e61156b328dc0e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-230-2020",
+   "path": "local/maramures/tautii-magheraus/2020/230",
+   "short": "HCL Tăuții-Măgherăuș nr. 230/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 230/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl230.pdf",
+     "sha256": "72719bc9f148859b8bb036b744b096da1f1aadbbb10477df88573ff820e25b9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-231-2020",
+   "path": "local/maramures/tautii-magheraus/2020/231",
+   "short": "HCL Tăuții-Măgherăuș nr. 231/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 231/2020",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl231.pdf",
+     "sha256": "1da4122220da2fb4af7ea576cdb2a3ff035a3e950a0f8a818690713d3393a098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-232-2020",
+   "path": "local/maramures/tautii-magheraus/2020/232",
+   "short": "HCL Tăuții-Măgherăuș nr. 232/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 232/2020 Privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului HCL 232",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl232.pdf",
+     "sha256": "cfa3c0e62b3a5d2f1edf84a5a8f641218dd8cfbfc8a1ac634f0a97373956dfc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-233-2020",
+   "path": "local/maramures/tautii-magheraus/2020/233",
+   "short": "HCL Tăuții-Măgherăuș nr. 233/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 233/2020 Privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului HCL 233",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl233.pdf",
+     "sha256": "4c75d9e714e1e7e04ca32038821270b6a83d11659242c3255c4673160cef8227"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-234-2020",
+   "path": "local/maramures/tautii-magheraus/2020/234",
+   "short": "HCL Tăuții-Măgherăuș nr. 234/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 234/2020 Privind aprobarea stabilirii unui număr maxim de 40 posturi de asistenti personali ai persoanelor cu handicap HCL 234",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl234.pdf",
+     "sha256": "473e2abb4829d190b9bee4d76a1b228e38fdbf4ad296d012fe3f99d077289692"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--tautii-magheraus-235-2020",
    "path": "local/maramures/tautii-magheraus/2020/235",
    "short": "HCL Tăuții-Măgherăuș nr. 235/2020",
@@ -44,6 +509,81 @@
      "units": 1,
      "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl235.pdf",
      "sha256": "2bc5cb5dee122c269cc09ddf3ece0abb3af426447f9899036492a75183c8a745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-236-2020",
+   "path": "local/maramures/tautii-magheraus/2020/236",
+   "short": "HCL Tăuții-Măgherăuș nr. 236/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 236/2020 Privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate publică HCL 236",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl236.pdf",
+     "sha256": "63bc5d78ba73189d7083c9e18b0fb277ff3eb849b72a732c6c3c41ab03321233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-237-2020",
+   "path": "local/maramures/tautii-magheraus/2020/237",
+   "short": "HCL Tăuții-Măgherăuș nr. 237/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 237/2020 NR. 237 din 21.12.2020 privind aprobarea prelungirii contractului de închiriere nr. 7445/2017 încheiat cu SC NOVA APOTEKA SRL",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl237.pdf",
+     "sha256": "a3ec8267485a7a0d4067917f06dcf4e2aca45a0065f4166cce188b87485d8d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-238-2020",
+   "path": "local/maramures/tautii-magheraus/2020/238",
+   "short": "HCL Tăuții-Măgherăuș nr. 238/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 238/2020 Privind insusirea unei documentatii cadastrale și atestarea apartenentei la domeniul privat HCL 238",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl238.pdf",
+     "sha256": "0a16d2fa174d47cf4adb8f1ef6cc059991d3f429ee855297404882f4942c1e67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-239-2020",
+   "path": "local/maramures/tautii-magheraus/2020/239",
+   "short": "HCL Tăuții-Măgherăuș nr. 239/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 239/2020 Privind aprobarea participării Orașului Tăuții Măgherăuș la realizarea proiectului Drumul Maramureșului HCL 239",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl239.pdf",
+     "sha256": "359aff7727d769c0268d0dd76f371cba9452b441d130571623624a27fbfb3afc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-240-2020",
+   "path": "local/maramures/tautii-magheraus/2020/240",
+   "short": "HCL Tăuții-Măgherăuș nr. 240/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 240/2020 Privind aprobarea preluării în domeniul public HCL 240",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/cl/hotarari/2020/hcl240.pdf",
+     "sha256": "fec672ca07fb9396894ff7b4d439c855330d746a7888c29b3032ad464d08eb17"
     }
    ]
   }

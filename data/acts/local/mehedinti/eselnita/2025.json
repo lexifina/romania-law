@@ -3,6 +3,29 @@
 "shard": "local/mehedinti/eselnita/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--eselnita-1-2025",
+"path": "local/mehedinti/eselnita/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 1/2025",
+"short": "HCL Eșelnița nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/190493",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-2-2025",
 "path": "local/mehedinti/eselnita/2025/2",
 "kind": "local",
@@ -44,6 +67,50 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-4-2025",
+"path": "local/mehedinti/eselnita/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 4/2025 privind aprobarea pentru anul 2025 a numărului persoanelor care primesc indemnizația echivalentă cu salariul net al asistentului personal al persoanei cu handicap grav",
+"short": "HCL Eșelnița nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/190508",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-5-2025",
+"path": "local/mehedinti/eselnita/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 5/2025 privind aprobarea numărului de asistenți personali al persoanelor cu handicap grav din comuna Eșelnița, județul Mehedinți, pentru anul 2025",
+"short": "HCL Eșelnița nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/190509",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +246,73 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-12-2025",
+"path": "local/mehedinti/eselnita/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 12/2025",
+"short": "HCL Eșelnița nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/190527",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-13-2025",
+"path": "local/mehedinti/eselnita/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 13/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentruanul școlar 2025/2026",
+"short": "HCL Eșelnița nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/190533",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-14-2025",
+"path": "local/mehedinti/eselnita/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 14/2025 privind aprobarea închirierii prin licitație publică, a unui spațiu în suprafață utilă de 49,9 mp, suprafață construită 60 mp cu destinația de „Cabinet medical Veterinar”, situat în incinta imobilului proprietate publică-„Cămin Cultural” situat în comuna Eșelnița, strada Teilor, nr. 548, județul Mehedinți",
+"short": "HCL Eșelnița nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/190536",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-15-2025",
 "path": "local/mehedinti/eselnita/2025/15",
 "kind": "local",
@@ -246,6 +380,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-18-2025",
+"path": "local/mehedinti/eselnita/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 18/2025",
+"short": "HCL Eșelnița nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/195318",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-19-2025",
 "path": "local/mehedinti/eselnita/2025/19",
 "kind": "local",
@@ -265,6 +422,28 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-20-2025",
+"path": "local/mehedinti/eselnita/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 20/2025 privind demararea procedurii de licitație publică în vederea închirierii unui contract de prestări servicii cu o firmă specializată pentru asigurarea serviciilor de ECARISAJ pe raza comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-04",
+"latest": "2025-03-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/195320",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +667,52 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-31-2025",
+"path": "local/mehedinti/eselnita/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 31/2025",
+"short": "HCL Eșelnița nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/201295",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-32-2025",
+"path": "local/mehedinti/eselnita/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 32/2025",
+"short": "HCL Eșelnița nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/201297",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-33-2025",
 "path": "local/mehedinti/eselnita/2025/33",
 "kind": "local",
@@ -529,6 +754,29 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-35-2025",
+"path": "local/mehedinti/eselnita/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 35/2025",
+"short": "HCL Eșelnița nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/206409",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -576,6 +824,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-38-2025",
+"path": "local/mehedinti/eselnita/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 38/2025 privind scoaterea la licitație publică în vederea vânzării a terenului în suprafață de 231 mp, înscris CF 53939, nr cadastral 53939, intravilan, situat în comuna Eșelnița, Zona Ogradena, strada Dunării, nr. 1078, categoria curți-construcții, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/206434",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-39-2025",
+"path": "local/mehedinti/eselnita/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 39/2025 privind aprobarea închirierii, prin licitație publică, a unui teren (pășune) în suprafață de 16 ha situat în zona POIANA MARE, DEALUL EGITA, înscris în CF 54175 care face parte din proprietatea privată a comunei Eșelnița",
+"short": "HCL Eșelnița nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/206435",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-40-2025",
 "path": "local/mehedinti/eselnita/2025/40",
 "kind": "local",
@@ -595,6 +887,52 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-41-2025",
+"path": "local/mehedinti/eselnita/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 41/2025",
+"short": "HCL Eșelnița nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/206437",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-42-2025",
+"path": "local/mehedinti/eselnita/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 42/2025",
+"short": "HCL Eșelnița nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/206441",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -620,6 +958,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-44-2025",
+"path": "local/mehedinti/eselnita/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 44/2025",
+"short": "HCL Eșelnița nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-07",
+"latest": "2025-05-07",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/206454",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-45-2025",
 "path": "local/mehedinti/eselnita/2025/45",
 "kind": "local",
@@ -639,6 +1000,75 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-46-2025",
+"path": "local/mehedinti/eselnita/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 46/2025",
+"short": "HCL Eșelnița nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/211325",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-47-2025",
+"path": "local/mehedinti/eselnita/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 47/2025",
+"short": "HCL Eșelnița nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/211327",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-48-2025",
+"path": "local/mehedinti/eselnita/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 48/2025",
+"short": "HCL Eșelnița nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/211330",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -906,6 +1336,52 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-61-2025",
+"path": "local/mehedinti/eselnita/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 61/2025",
+"short": "HCL Eșelnița nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/215096",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-62-2025",
+"path": "local/mehedinti/eselnita/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 62/2025",
+"short": "HCL Eșelnița nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/220194",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-63-2025",
 "path": "local/mehedinti/eselnita/2025/63",
 "kind": "local",
@@ -947,6 +1423,117 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-65-2025",
+"path": "local/mehedinti/eselnita/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 65/2025",
+"short": "HCL Eșelnița nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/220201",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-66-2025",
+"path": "local/mehedinti/eselnita/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 66/2025 privind acoaterea la licitație publică în vederea vânzării a terenului în suprafață de 416 mp, înscris CF 54226, nr. cadastral 54226, intravilan, situat în comuna Eșelnița, strada Dunării, nr. 1C categoria curți-construcții, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/223491",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-67-2025",
+"path": "local/mehedinti/eselnita/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 67/2025 privind scoaterea la licitație publică în vederea vânzării a terenului în suprafață de 1360 mp, înscris CF 51087, nr. cadastral 51087, intravilan, situat în comuna Eșelnița, strada Dunării, zona Crivița categoria curți-construcții, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/223496",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-68-2025",
+"path": "local/mehedinti/eselnita/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 68/2025 privind aprobarea prețului de vânzare a arborilor care se valorifică pe fir din pădurea de folosință forestieră a comunei Eșelnița",
+"short": "HCL Eșelnița nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/223499",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-69-2025",
+"path": "local/mehedinti/eselnita/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 69/2025 privind modificarea art.1 din Hotărârea Consiliului Local Eșelnița nr. 14 din 16.02.2015",
+"short": "HCL Eșelnița nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-02",
+"latest": "2025-09-02",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/223500",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1057,6 +1644,52 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-75-2025",
+"path": "local/mehedinti/eselnita/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 75/2025",
+"short": "HCL Eșelnița nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/225162",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-76-2025",
+"path": "local/mehedinti/eselnita/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 76/2025",
+"short": "HCL Eșelnița nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/225163",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1258,6 +1891,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-86-2025",
+"path": "local/mehedinti/eselnita/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 86/2025",
+"short": "HCL Eșelnița nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/229768",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-87-2025",
 "path": "local/mehedinti/eselnita/2025/87",
 "kind": "local",
@@ -1277,6 +1933,29 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-88-2025",
+"path": "local/mehedinti/eselnita/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 88/2025",
+"short": "HCL Eșelnița nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/233168",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1324,6 +2003,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-91-2025",
+"path": "local/mehedinti/eselnita/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 91/2025",
+"short": "HCL Eșelnița nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/233185",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-92-2025",
 "path": "local/mehedinti/eselnita/2025/92",
 "kind": "local",
@@ -1343,6 +2045,28 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-93-2025",
+"path": "local/mehedinti/eselnita/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 93/2025 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2026-2027",
+"short": "HCL Eșelnița nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-21",
+"latest": "2025-11-21",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/236215",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

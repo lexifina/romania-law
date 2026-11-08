@@ -3,6 +3,171 @@
  "shard": "local/maramures/seini/2015",
  "acts": [
   {
+   "slug": "hcl-maramures--seini-1-2015",
+   "path": "local/maramures/seini/2015/1",
+   "short": "HCL Seini nr. 1/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 1/2015 privind aprobarea acordarii normei de hrana personalului din cadrul Politiei locale a orasului Seini; Consiliul Local al orasului Seini, intrunit in sedinta ordinara la data de 29.01.2015; Avand in vedere: - Raportul de specialitate nr. 476/19.01.2015 al Serviciului Politiei Locale a orasului Seini privind initierea unui proiect de hotarare pentru acordarea normei de hrana personalului din cadrul",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-1.pdf",
+     "sha256": "28aac58d45b421c53c8a59ba12ab9e5f5cb44b77a69e8d083be1c934f3047324"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-10-2015",
+   "path": "local/maramures/seini/2015/10",
+   "short": "HCL Seini nr. 10/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 10/2015 privind aprobarea contribuirii Consiliului local Seini la finantarea de baza, cheltuieli cu salariile pentru Liceul Tehnologic Agricol “Alexiu Berinde” Seini Consiliul local Seini intrunit in sedinta ordinara la data de 29.01.2015; Avand in vedere: - Solicitarea conducerii Liceului Tehnologic Agricol “Alexiu Berinde” din Seini de a fi sprijiniti in alocarea unor sume pentru acoperirea deficitului",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-10.pdf",
+     "sha256": "fa74912ac9a831de7e3cdca240c471f6e1fc9ff9ffa8ff583e18739c5c517a84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-12-2015",
+   "path": "local/maramures/seini/2015/12",
+   "short": "HCL Seini nr. 12/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 12/2015 privind aprobarea bugetului de venituri si cheltuieli pe anul 2015 al orasului Seini; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 12.02.2015; Avand in vedere : - HG nr. 14/2015 privind repartizarea pe unitati administrativ-teritoriale a sumelor din cota de 18.5 % din impozitul pe venit si a sumelor defalcate din taxa pe valoarea adaugata pentru echilibrarea bugetelor lo",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-12.pdf",
+     "sha256": "a13854742b86d6b76b58ee1a49bddbf8ee95d2f28c7d408b24f727d76ebacb06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-13-2015",
+   "path": "local/maramures/seini/2015/13",
+   "short": "HCL Seini nr. 13/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 13/2015 privind aprobarea dezmembrarii unui teren si trecerea acestuia in domeniul privat al orasului Seini; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 30.03.2015; - Avind in vedere : - Raportul Serviciului urbanism din cadrul Aparatului de specialitate al primarului orasului Seini cu privire la necesitatea dezmembrarii unui teren identificat in CF nr. 52519, nr. topo 3078/9",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-13-1.pdf",
+     "sha256": "7995b646737560fe53a660d3e9bfe172ccd0c8db2be68a817a275299c948fa1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-14-2015",
+   "path": "local/maramures/seini/2015/14",
+   "short": "HCL Seini nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 14/2015 privind aprobarea dezmembrarii unui teren si trecerea acestuia in domeniul privat al orasului Seini; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 30.03.2015; - Avind in vedere : - Raportul Serviciului urbanism din cadrul Aparatului de specialitate al primarului orasului Seini cu privire la necesitatea dezmembrarii unui teren identificat in CF nr. 52517, nr. topo 3078/1",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-14-1.pdf",
+     "sha256": "f1f76560467a5618be8b5a0937baaa406cfedaba86052f99c430a7aa3558f801"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-15-2015",
+   "path": "local/maramures/seini/2015/15",
+   "short": "HCL Seini nr. 15/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 15/2015 privind aprobarea dezmembrarii unui teren si trecerea acestuia in domeniul public al orasului Seini; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 30.03.2015; - Avind in vedere : - Raportul Serviciului urbanism din cadrul Aparatului de specialitate al primarului orasului Seini cu privire la necesitatea dezmembrarii unui teren pentru amplasarea rampei pentru deseuri volu",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-15-1.pdf",
+     "sha256": "a8b0c6c26238139f1a54ddf67270b49dd124779e4715f5716d8c4cf463d45477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-16-2015",
+   "path": "local/maramures/seini/2015/16",
+   "short": "HCL Seini nr. 16/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 16/2015 privind aprobarea dezmembrarii unui teren si trecerea acestuia in domeniul public al orasului Seini; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 30.03.2015; - Avind in vedere : - Raportul Serviciului urbanism din cadrul Aparatului de specialitate al primarului orasului Seini cu privire la necesitatea dezmembrarii unui teren pentru amplasarea rampei pentru deseuri volu",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-16-1.pdf",
+     "sha256": "c9d7de5debd0a6814b8694510bc3ee4df2aee42256c57877a8582a99ae259f34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-18-2015",
+   "path": "local/maramures/seini/2015/18",
+   "short": "HCL Seini nr. 18/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 18/2015 privind aprobarea modificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2015; Consiliul Local al orasului Seini intrunit in sedinta ordinara la data de 30.03.2015 ; Avand in vedere : - Decizia nr. 7 din 11.03.2015 privind modificarea repartizarii pe trimestre pe UAT-uri a sumelor defalcate din TVA pentru finantarea cheltuielilor cu invatamantul preuniversitar ; - Raportul Servi",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-18-1.pdf",
+     "sha256": "baa823879123cc6e4b91c56c52d01703d7828c57fe5c61010d7f8424c892109e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-21-2015",
+   "path": "local/maramures/seini/2015/21",
+   "short": "HCL Seini nr. 21/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 21/2015 Pentru aprobarea Studiului de Fezabilitate, a indicatorilor tehnico-economici și a cofinanŃării proiectului „Extindere și modernizare sisteme de alimentare cu apă și canalizare menajeră în localităŃile Baia Mare, Sighetu MarmaŃiei, TăuŃii Măgherăuș, Târgu Lăpuș, Vișeu de Sus, Baia Sprie și Seini din judetul Maramures” - Investitii din economii, aglomerarea Seini Consiliul Local al orașului Seini i",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-21-1.pdf",
+     "sha256": "3f6f37a3f02f2fe6221677f0c390b17348078bb8a3b76341a119836b92f0fcbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-22-2015",
+   "path": "local/maramures/seini/2015/22",
+   "short": "HCL Seini nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 22/2015 privind punerea la dispoziŃia proiectului POS Mediu, Axa 1 „Extindere si modernizare sisteme de alimentare cu apa si canalizare menajera in localitatile Baia Mare, Sighetu Marmatiei, Tautii Magheraus, Targu Lapus, Viseu de Sus, Baia Sprie si Seini din judetul Maramures”, aglomerarea Seini a terenului pentru construcŃia, extinderea, noilor investiŃii aferente acestuia Consiliul Local al orașului Se",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-22-1.pdf",
+     "sha256": "1a673129e6055d76550cdfbec94e1ad87b20f6cf27f6db52e1a89c03384a62b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-3-2015",
+   "path": "local/maramures/seini/2015/3",
+   "short": "HCL Seini nr. 3/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 3/2015 privind aprobarea acumpararii unui teren in vederea amenajarii accesului la blocul ANL ce se va construi pe str",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-3.pdf",
+     "sha256": "1d0c10da0987575452e04a81bf4da552cd14ced56406cf347ec43e5ac812cb13"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-4-2015",
    "path": "local/maramures/seini/2015/4",
    "short": "HCL Seini nr. 4/2015",
@@ -14,6 +179,66 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-4.pdf",
      "sha256": "c39cc92a1276dca6925ee509cf455670ed4690348a58c4b71500bced38773030"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-5-2015",
+   "path": "local/maramures/seini/2015/5",
+   "short": "HCL Seini nr. 5/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 5/2015 privind identificarea topografica a unui teren si notarea acestuia in domeniul privat al orasului Seini ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 29.01.2015",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-5.pdf",
+     "sha256": "089c6297c90a238a4d055c0328d548a0f8e56e6b498c21da9ca9f5ddef3ebbc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-6-2015",
+   "path": "local/maramures/seini/2015/6",
+   "short": "HCL Seini nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 6/2015 Pentru aprobarea Studiului de Fezabilitate, a indicatorilor tehnico-economici și a cofinanŃării proiectului „Extinderea și reabilitarea infrastructurii de apă și apă uzată în judeŃul Maramureș” – după redistribuire, aglomerarea Seini Consiliul Local al orașului Seini intrunit in sedinta ordinara la data de 29.01.2015; Având în vedere: - Adresa AsociaŃiei de Dezvoltare Intercomunitare pentru servic",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-6.pdf",
+     "sha256": "910d8412fe0b923dbe5bbec83a4a070843bc5cff86558dfa5d11d42eda5955ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-8-2015",
+   "path": "local/maramures/seini/2015/8",
+   "short": "HCL Seini nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 8/2015 privind identificarea topográfica a unor terenuri apartinand domeniului public al orasului Seini si trecerea in domeniul privat al orasului ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 29.01.2015; Avand in vedere: - Raportul prezentat de Serviciul urbanism din cadrul Aparatului de specialitate al primarului cu privire la necesitatea dezmembrarii terenului cuprins in",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-8.pdf",
+     "sha256": "01393ec55034af19d93b0b68cc7274afcd2199ada7a982536a394dcd75631292"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-9-2015",
+   "path": "local/maramures/seini/2015/9",
+   "short": "HCL Seini nr. 9/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 9/2015 privind desemnarea unui reprezentant al Consiliului local Seini in Adunarea Generala a SC Vital SA Baia Mare Consiliului Local al orasului Seini, intrunit in sedinta ordinara din data de 29.01.2015; Avand in vedere: - prin Hotararea Consiliului local Seini nr. 34/2014 dl",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-9.pdf",
+     "sha256": "587866dada37ed988cc17e901fae0d5b5a256547eee7179bf76bac5827713689"
     }
    ]
   }

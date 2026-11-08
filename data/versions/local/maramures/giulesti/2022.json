@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--giulesti-19-2022",
+   "path": "local/maramures/giulesti/2022/19",
+   "short": "HCL Giulești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 19/2022 privind aprobarea atriburii în folosință gratuită și închiriere unui contract de comodat pentru spațiu situat în comuna Giulești, localitatea Giulești, înscris în CF 53421 Giulești",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/65869",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/65869",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-2-2022",
    "path": "local/maramures/giulesti/2022/2",
    "short": "HCL Giulești nr. 2/2022",
@@ -598,6 +613,21 @@
      "from": "2022-11-10",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/56322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-8-2022",
+   "path": "local/maramures/giulesti/2022/8",
+   "short": "HCL Giulești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 8/2022",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/56323",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/56323",
      "sha256": null
     }
    ]

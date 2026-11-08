@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sacalaseni-101-2020",
+   "path": "local/maramures/sacalaseni/2020/101",
+   "short": "HCL Săcălășeni nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 101/2020 privind desemnarea reprezentantului Consiliului Local al comunei Săcălășeni, ca membru în Adunarea Generala a ADI-Maramures, pentru mandatul 2020-2024",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/12589",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/12589",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-102-2020",
    "path": "local/maramures/sacalaseni/2020/102",
    "short": "HCL Săcălășeni nr. 102/2020",
@@ -528,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sacalaseni-20-2020",
+   "path": "local/maramures/sacalaseni/2020/20",
+   "short": "HCL Săcălășeni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 20/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1172",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1172",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-21-2020",
    "path": "local/maramures/sacalaseni/2020/21",
    "short": "HCL Săcălășeni nr. 21/2020",
@@ -843,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sacalaseni-40-2020",
+   "path": "local/maramures/sacalaseni/2020/40",
+   "short": "HCL Săcălășeni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 40/2020 privind actualizarea documentului „Regulament privind regimul concesionării bunurilor imobile-terenuri, aflate în proprietatea Comunei Săcălășeni în vederea realizării unor investiții economice și de dezvoltare a localității",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/1233",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1233",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-41-2020",
    "path": "local/maramures/sacalaseni/2020/41",
    "short": "HCL Săcălășeni nr. 41/2020",
@@ -868,6 +913,81 @@
      "from": "2020-03-26",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/1235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-43-2020",
+   "path": "local/maramures/sacalaseni/2020/43",
+   "short": "HCL Săcălășeni nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 43/2020 privind închirierea unor spații în suprafață totală de 42,99 mp., amplasate în imobilul „Dispensar Uman Săcălășeni”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2504",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-44-2020",
+   "path": "local/maramures/sacalaseni/2020/44",
+   "short": "HCL Săcălășeni nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 44/2020 privind închirierea unor spații în suprafață totală de 34,44 mp., amplasate în imobilul „Dispensar Uman Săcălășeni”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2505",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-45-2020",
+   "path": "local/maramures/sacalaseni/2020/45",
+   "short": "HCL Săcălășeni nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 45/2020 privind închirierea unor spații în suprafață totală de 25 mp., amplasate în imobilul „Dispensar Uman Săcălășeni”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2506",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-46-2020",
+   "path": "local/maramures/sacalaseni/2020/46",
+   "short": "HCL Săcălășeni nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 46/2020 privind închirierea unui spațiu în suprafață de 18,57 mp., amplasat în imobilul „Dispensar Uman Săcălășeni”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2507",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-47-2020",
+   "path": "local/maramures/sacalaseni/2020/47",
+   "short": "HCL Săcălășeni nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 47/2020 privind închirierea unui spațiu în suprafață de 18,57 mp., amplasat în imobilul „Dispensar Uman Săcălășeni”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/2508",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/2508",
      "sha256": null
     }
    ]
@@ -1303,6 +1423,21 @@
      "from": "2020-07-10",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/6753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-74-2020",
+   "path": "local/maramures/sacalaseni/2020/74",
+   "short": "HCL Săcălășeni nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 74/2020",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/6792",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/6792",
      "sha256": null
     }
    ]

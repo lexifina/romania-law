@@ -3,6 +3,28 @@
 "shard": "local/mehedinti/drobeta-turnu-severin/2015",
 "acts": [
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-58-2015",
+"path": "local/mehedinti/drobeta-turnu-severin/2015/58",
+"kind": "local",
+"year": "2015",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 58/2015 privind remiterea de datorie a debitorilor declarați insolvabili în procedura executării silite Consiliul Local al municipiului Drobeta Turnu Severin, județul Mehedinți; Având în vedere: e Referatul nr.36/08 ianuarie 2016 al Direcției de administrare a domeniului public și privat privind informarea asupra declarării insolvabilității unor debitori în procedura executării silite; + Nota de fundament",
+"short": "HCL Drobeta-Turnu Severin nr. 58/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-12-21",
+"latest": "2015-12-21",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2016/",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-998-2015",
 "path": "local/mehedinti/drobeta-turnu-severin/2015/998",
 "kind": "local",

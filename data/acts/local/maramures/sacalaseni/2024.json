@@ -3,6 +3,28 @@
 "shard": "local/maramures/sacalaseni/2024",
 "acts": [
 {
+"slug": "hcl-maramures--sacalaseni-1-2024",
+"path": "local/maramures/sacalaseni/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 1/2024 privind validarea Dispoziției Primarului comunei Săcălășeni nr. 3 din 5 ianuarie 2024",
+"short": "HCL Săcălășeni nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/141422",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-2-2024",
 "path": "local/maramures/sacalaseni/2024/2",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-3-2024",
+"path": "local/maramures/sacalaseni/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 3/2024 privind alegerea președintelui de ședință pentru luna Februarie 2024",
+"short": "HCL Săcălășeni nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/141424",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +224,50 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-11-2024",
+"path": "local/maramures/sacalaseni/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 11/2024 privind aprobarea bugetului local al Comunei Săcălășeni pe anul 2024",
+"short": "HCL Săcălășeni nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/141432",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-12-2024",
+"path": "local/maramures/sacalaseni/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 12/2024 privind aprobarea bugetului instituției de drept public «CLUB SPORTIV „UNIREA SĂCĂLĂȘENI”», pe anul 2024",
+"short": "HCL Săcălășeni nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/141433",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-13-2024",
 "path": "local/maramures/sacalaseni/2024/13",
 "kind": "local",
@@ -199,6 +287,29 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-14-2024",
+"path": "local/maramures/sacalaseni/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 14/2024",
+"short": "HCL Săcălășeni nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/141435",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -243,6 +354,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-17-2024",
+"path": "local/maramures/sacalaseni/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 17/2024 privind alegerea președintelui de ședință pentru luna Martie 2024",
+"short": "HCL Săcălășeni nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-01",
+"latest": "2024-03-01",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/144842",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -401,6 +534,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-25-2024",
+"path": "local/maramures/sacalaseni/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 25/2024",
+"short": "HCL Săcălășeni nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-01",
+"latest": "2024-03-01",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/144850",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-26-2024",
 "path": "local/maramures/sacalaseni/2024/26",
 "kind": "local",
@@ -467,6 +623,50 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-29-2024",
+"path": "local/maramures/sacalaseni/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 29/2024 privind alegerea președintelui de ședință pentru luna Aprilie 2024",
+"short": "HCL Săcălășeni nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/151215",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-30-2024",
+"path": "local/maramures/sacalaseni/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 30/2024 privind aprobarea primei rectificări a bugetului local al Comunei Săcălășeni pe anul 2024",
+"short": "HCL Săcălășeni nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/151216",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-31-2024",
 "path": "local/maramures/sacalaseni/2024/31",
 "kind": "local",
@@ -486,6 +686,95 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-32-2024",
+"path": "local/maramures/sacalaseni/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 32/2024 privind aprobarea închirierii unei suprafețe de 21,9579 hectare din imobilul «Pășune Săcălășeni», în vederea exploatării prin pășunat a acesteia",
+"short": "HCL Săcălășeni nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/151218",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-33-2024",
+"path": "local/maramures/sacalaseni/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 33/2024 privind aprobarea documentației ”Studiu de Oportunitate” privind necesitatea concesionării imobilului în suprafață totală de 88.360 m2, identificat prin Cărțile Funciare nr. 53600 și 53558, în vederea realizării investiției „Baraj şi lac de agrement zona Europa, Comuna Săcălăşeni, judeţul Maramureş\", aprobarea proiectului ”Documentație de atribuire-Caiet de sarcini” privind această concesiune, a raportului de evaluare și a comisiei de evaluare a ofertelor",
+"short": "HCL Săcălășeni nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/151219",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-34-2024",
+"path": "local/maramures/sacalaseni/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 34/2024",
+"short": "HCL Săcălășeni nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/151220",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-35-2024",
+"path": "local/maramures/sacalaseni/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 35/2024 privind încetarea contractului de concesiune nr. 5905 din 22.08.2017 încheiat între Comuna Săcălășeni și Societatea Comercială GREENBERRY FARMICS S.R.L",
+"short": "HCL Săcălășeni nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/151221",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -530,6 +819,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-38-2024",
+"path": "local/maramures/sacalaseni/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 38/2024 privind aprobarea încetării contractului de administrare a fondului forestier nr. 3147 din 21.06.2022, încheiat între Comuna Săcălășeni și Direcția Silvică Maramureș, prin Ocolul Silvic Șomcuta Mare și încheierea unui nou contract de administrare valabil cu anul 2024",
+"short": "HCL Săcălășeni nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/151224",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -621,6 +932,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-43-2024",
+"path": "local/maramures/sacalaseni/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 43/2024 privind aprobarea încetării contractului de administrare a fondului forestier nr. 4839 din 30.10.2019, încheiat între Comuna Săcălășeni și Direcția Silvică Maramureș, prin Ocolul Silvic Firiza și încheierea unui nou contract de administrare valabil cu anul 2024",
+"short": "HCL Săcălășeni nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-04",
+"latest": "2024-04-04",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/151229",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-44-2024",
 "path": "local/maramures/sacalaseni/2024/44",
 "kind": "local",
@@ -665,6 +998,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-46-2024",
+"path": "local/maramures/sacalaseni/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 46/2024 privind alegerea președintelui de ședință pentru luna Mai 2024",
+"short": "HCL Săcălășeni nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/155387",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-47-2024",
 "path": "local/maramures/sacalaseni/2024/47",
 "kind": "local",
@@ -706,6 +1061,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-49-2024",
+"path": "local/maramures/sacalaseni/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 49/2024 privind aprobarea documentației ”Studiu de Oportunitate” privind necesitatea concesionării imobilului în suprafață totală de 335.000 m2, identificat prin Cărțile Funciare nr. 53297, 53298, 53299, 53300 și 53301, în vederea realizării investiției „Centrală Electrică Fotovoltaică”, aprobarea proiectului ”Documentație de atribuire-Caiet de sarcini” privind această concesiune, a raportului de evaluare și a comisiei de evaluare a ofertelor",
+"short": "HCL Săcălășeni nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/155390",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -819,6 +1196,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-55-2024",
+"path": "local/maramures/sacalaseni/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 55/2024 privind alegerea președintelui de ședință pentru luna Iunie 2024",
+"short": "HCL Săcălășeni nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-11",
+"latest": "2024-06-11",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/158628",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-56-2024",
 "path": "local/maramures/sacalaseni/2024/56",
 "kind": "local",
@@ -885,6 +1284,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-59-2024",
+"path": "local/maramures/sacalaseni/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 59/2024 privind aprobarea celei de-a treia rectificări a bugetului local al Comunei Săcălășeni pe anul 2024",
+"short": "HCL Săcălășeni nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-11",
+"latest": "2024-06-11",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/158632",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-60-2024",
 "path": "local/maramures/sacalaseni/2024/60",
 "kind": "local",
@@ -926,6 +1347,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-62-2024",
+"path": "local/maramures/sacalaseni/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 62/2024 privind alegerea președintelui de ședință pentru luna Iulie 2024",
+"short": "HCL Săcălășeni nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-08",
+"latest": "2024-07-08",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/160982",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -973,6 +1416,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-65-2024",
+"path": "local/maramures/sacalaseni/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 65/2024 privind alegerea președintelui de ședință pentru luna August 2024",
+"short": "HCL Săcălășeni nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-12",
+"latest": "2024-08-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/165004",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-66-2024",
 "path": "local/maramures/sacalaseni/2024/66",
 "kind": "local",
@@ -1014,6 +1479,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-68-2024",
+"path": "local/maramures/sacalaseni/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 68/2024 privind aprobarea documentației „Plan de amplasament și delimitare a imobilului cu propunerea de dezlipire”, privind imobilul identificat prin numărul cadastral 115531, Cartea Funciară 115531 a localității Baia Mare, în suprafață de 56900 m2",
+"short": "HCL Săcălășeni nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-12",
+"latest": "2024-08-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/165007",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1061,6 +1548,96 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-71-2024",
+"path": "local/maramures/sacalaseni/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 71/2024",
+"short": "HCL Săcălășeni nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-12",
+"latest": "2024-08-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/165010",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-72-2024",
+"path": "local/maramures/sacalaseni/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 72/2024",
+"short": "HCL Săcălășeni nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/167729",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-73-2024",
+"path": "local/maramures/sacalaseni/2024/73",
+"kind": "local",
+"year": "2024",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 73/2024 privind alegerea președintelui de ședință pentru luna Septembrie 2024",
+"short": "HCL Săcălășeni nr. 73/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/167730",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-74-2024",
+"path": "local/maramures/sacalaseni/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 74/2024 privind aprobarea celei de-a șașea rectificări a bugetului local al Comunei Săcălăşeni pe anul 2024",
+"short": "HCL Săcălășeni nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/167731",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-75-2024",
 "path": "local/maramures/sacalaseni/2024/75",
 "kind": "local",
@@ -1102,6 +1679,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-77-2024",
+"path": "local/maramures/sacalaseni/2024/77",
+"kind": "local",
+"year": "2024",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 77/2024 privind alegerea președintelui de ședință pentru luna Octombrie 2024",
+"short": "HCL Săcălășeni nr. 77/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/169842",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1171,6 +1770,72 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-81-2024",
+"path": "local/maramures/sacalaseni/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 81/2024 privind aprobarea realizării investiției „Lucrari de construcție gard frontal al Centrului de Îngrijire Bătrâni din localitatea Coruia\"",
+"short": "HCL Săcălășeni nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/169846",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-82-2024",
+"path": "local/maramures/sacalaseni/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 82/2024 privind aprobarea atribuirii denumirii „Strada Traian Vuia” imobilului identificat prin numărul cadastral 52318, Cartea Funciară 52318 a localității Săcălășeni",
+"short": "HCL Săcălășeni nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/173369",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-83-2024",
+"path": "local/maramures/sacalaseni/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 83/2024 privind aprobarea celei de-a opta rectificări a bugetului local al Comunei Săcălăşeni pe anul 2024",
+"short": "HCL Săcălășeni nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/173370",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-84-2024",
 "path": "local/maramures/sacalaseni/2024/84",
 "kind": "local",
@@ -1193,6 +1858,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-85-2024",
+"path": "local/maramures/sacalaseni/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 85/2024 privind inițierea demersurilor de elaborare a documentației de urbanism – Plan Urbanistic Zonal (PUZ) pentru „Modificări zone funcționale pentru terenurile identificate prin Cărțile Funciare nr. 52009, 52867 și 51951 situate în intravilanul satului Săcălășeni - Zona Europa”",
+"short": "HCL Săcălășeni nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/173372",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-86-2024",
 "path": "local/maramures/sacalaseni/2024/86",
 "kind": "local",
@@ -1212,6 +1899,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-87-2024",
+"path": "local/maramures/sacalaseni/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 87/2024 privind alegerea președintelui de ședință pentru luna Noiembrie 2024",
+"short": "HCL Săcălășeni nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/177463",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

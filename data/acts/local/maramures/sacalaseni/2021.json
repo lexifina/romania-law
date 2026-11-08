@@ -159,6 +159,51 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-8-2021",
+"path": "local/maramures/sacalaseni/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 8/2021 privind desemnarea reprezentantului Consiliului local al Comunei Săcălăşeni în Consiliul de administraţie al Şcolii Gimnaziale Săcălăşeni în anul școlar 2020-2021",
+"short": "HCL Săcălășeni nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/16611",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-9-2021",
+"path": "local/maramures/sacalaseni/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 9/2021",
+"short": "HCL Săcălășeni nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/16612",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-10-2021",
 "path": "local/maramures/sacalaseni/2021/10",
 "kind": "local",
@@ -271,6 +316,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-15-2021",
+"path": "local/maramures/sacalaseni/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 15/2021",
+"short": "HCL Săcălășeni nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/19591",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-16-2021",
 "path": "local/maramures/sacalaseni/2021/16",
 "kind": "local",
@@ -337,6 +405,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-19-2021",
+"path": "local/maramures/sacalaseni/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 19/2021",
+"short": "HCL Săcălășeni nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/19595",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-20-2021",
 "path": "local/maramures/sacalaseni/2021/20",
 "kind": "local",
@@ -359,6 +450,52 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-21-2021",
+"path": "local/maramures/sacalaseni/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 21/2021",
+"short": "HCL Săcălășeni nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/19597",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-22-2021",
+"path": "local/maramures/sacalaseni/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 22/2021",
+"short": "HCL Săcălășeni nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/19598",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-23-2021",
 "path": "local/maramures/sacalaseni/2021/23",
 "kind": "local",
@@ -378,6 +515,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-24-2021",
+"path": "local/maramures/sacalaseni/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 24/2021 privind desemnarea reprezentantului Consiliului Local al comunei Săcălășeni în „Consiliul consultativ” al „Centrului de Îngrijire Bătrâni din satul Coruia, comuna Săcălășeni, judeţul Maramureș”",
+"short": "HCL Săcălășeni nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-11",
+"latest": "2021-03-11",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/20088",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -689,6 +848,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-39-2021",
+"path": "local/maramures/sacalaseni/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 39/2021 privind încetarea contractului de închiriere nr. 2783 din 3 mai 2018, încheiat între Comuna Săcălășeni și Romulus-Constantin TIBIL",
+"short": "HCL Săcălășeni nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/23749",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-40-2021",
 "path": "local/maramures/sacalaseni/2021/40",
 "kind": "local",
@@ -752,6 +933,52 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-43-2021",
+"path": "local/maramures/sacalaseni/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 43/2021",
+"short": "HCL Săcălășeni nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/23753",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-44-2021",
+"path": "local/maramures/sacalaseni/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 44/2021",
+"short": "HCL Săcălășeni nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/23761",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -951,6 +1178,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-54-2021",
+"path": "local/maramures/sacalaseni/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 54/2021 privind aprobarea închirierii unei suprafețe totale de 60 hectare pășune, din imobilul „Pășune Săcălășeni”, amplasat în intravilanul satelor Săcălășeni și Culcea ale comunei Săcălășeni, în vederea exploatării prin pășunat a acesteia",
+"short": "HCL Săcălășeni nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-05",
+"latest": "2021-05-05",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/24905",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1553,6 +1802,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-82-2021",
+"path": "local/maramures/sacalaseni/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 82/2021 privind desemnarea reprezentantului Consiliului local al Comunei Săcălăşeni în Consiliul de administraţie al Şcolii Gimnaziale Săcălăşeni în anul școlar 2021-2022",
+"short": "HCL Săcălășeni nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-22",
+"latest": "2021-09-22",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/37326",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-83-2021",
 "path": "local/maramures/sacalaseni/2021/83",
 "kind": "local",
@@ -1726,6 +1997,29 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-91-2021",
+"path": "local/maramures/sacalaseni/2021/91",
+"kind": "local",
+"year": "2021",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 91/2021",
+"short": "HCL Săcălășeni nr. 91/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-12",
+"latest": "2021-10-12",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/40686",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

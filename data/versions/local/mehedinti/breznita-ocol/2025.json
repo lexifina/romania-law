@@ -3,6 +3,186 @@
  "shard": "local/mehedinti/breznita-ocol/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--breznita-ocol-1-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/1",
+   "short": "HCL Breznița-Ocol nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 1/2025 privind acoperirea definitiva a deficitului sectiunii de dezvoltare din excedentul bugetului local sursa A, al Primariei comunei Breznita Ocol pe anul 2024",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/186295",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/186295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-10-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/10",
+   "short": "HCL Breznița-Ocol nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 10/2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192890",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-11-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/11",
+   "short": "HCL Breznița-Ocol nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 11/2025 privind mandatarea reprezentantului unităţii administrativ teritoriale comuna Breznita-Ocol, judeţul Mehedinţi în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192891",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-12-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/12",
+   "short": "HCL Breznița-Ocol nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 12/2025 privind mandatarea reprezentantului UAT Breznita-Ocol în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți, pentru a vota aprobarea modificarii Statutului Asociaţiei",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192892",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-13-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/13",
+   "short": "HCL Breznița-Ocol nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 13/2025 privind aprobarea Programului de acțiuni comunitare destinat prevenirii si combaterii riscului de saracie si excluziune sociala la nivelul comunei Breznita Ocol, judetul Mehedinti, pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192893",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-14-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/14",
+   "short": "HCL Breznița-Ocol nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 14/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Breznita Ocol, judetul Mehedinti pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192894",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-15-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/15",
+   "short": "HCL Breznița-Ocol nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 15/2025 privind actualizarea Planului de Analiză şi Acoperire a Riscurilor pentru comuna Breznita Ocol",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192895",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-16-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/16",
+   "short": "HCL Breznița-Ocol nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 16/2025 privind aprobarea Caracteristicilor principale, a indicatorilor tehnico-economici și a Devizului general , actualizate dupa elaborarea proiectului tehnic( faza DTAC PT), pentru obiectivul de investiții „EXTINDERE SISTEM DE ALIMENTARE CU APA IN COMUNA BREZNITA OCOL, JUDETUL MEHEDINTI\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192896",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-17-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/17",
+   "short": "HCL Breznița-Ocol nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 17/2025 privind avizarea studiului de specialitate întocmit de către Asociaţia pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi, şi aprobarea propunerilor de indicatori de performanţă rezultaţi din studiul de specialitate întocmit de către Asociaţie",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192897",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/192897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-18-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/18",
+   "short": "HCL Breznița-Ocol nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 18/2025 privind aprobarea completarii Registrului Agricol pentru perioada 2025 – 2029 in format electronic si pe hartie",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197163",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-19-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/19",
+   "short": "HCL Breznița-Ocol nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 19/2025 privind aprobarea situatiei financiare si incheierea exercitiului financiar pe anul 2024",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197164",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-2-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/2",
+   "short": "HCL Breznița-Ocol nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 2/2025 privind mandatarea reprezentantului Consiliului local Breznita Ocol in Adunarea Generala Ordinara a Actionarilor Societatii SECOM S.A.Dr.Tr.Severin",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189355",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189355",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--breznita-ocol-20-2025",
    "path": "local/mehedinti/breznita-ocol/2025/20",
    "short": "HCL Breznița-Ocol nr. 20/2025",
@@ -13,6 +193,546 @@
      "from": "2025-03-17",
      "units": 1,
      "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-21-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/21",
+   "short": "HCL Breznița-Ocol nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 21/2025 privind aprobarea Programului anual al achizitiilor publice al Comunei Breznita Ocol, pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197166",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-22-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/22",
+   "short": "HCL Breznița-Ocol nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 22/2025 privind aprobarea numarului maxim de posturi ,a organigramei si a statului de functii pentru aparatul de specialitate al Primariei Comunei Breznita Ocol pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197167",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-23-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/23",
+   "short": "HCL Breznița-Ocol nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 23/2025 privind aprobarea numarului de posturi pentru asistentii personali din cadrul Primariei comunei Breznita Ocol pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197168",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-24-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/24",
+   "short": "HCL Breznița-Ocol nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 24/2025 privind participarea Scolii gimnaziale Breznita Ocol la Programul național „Masă sănătoasă“, si aprobarea distribuirii mesei calde, în regim catering, pentru preșcolari și elevi, derulat pe perioada desfășurării cursurilor școlare din anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197169",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/197169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-25-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/25",
+   "short": "HCL Breznița-Ocol nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 25/2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/199845",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/199845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-26-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/26",
+   "short": "HCL Breznița-Ocol nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 26/2025 privind mandatarea reprezentantului Consiliului local Breznita Ocol in Adunarea Generala Ordinara a Actionarilor Societatii SECOM S.A.Dr.Tr.Severin",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/205498",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/205498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-27-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/27",
+   "short": "HCL Breznița-Ocol nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 27/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Breznita Ocol pentru o perioada de 3 luni (mai - iulie 2025)",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/205499",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/205499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-28-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/28",
+   "short": "HCL Breznița-Ocol nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 28/2025 privind mandatarea reprezentantului UAT Breznita Ocol în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi, pentru a vota aprobarea modificării Statutului Asociaţiei",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/205500",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/205500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-29-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/29",
+   "short": "HCL Breznița-Ocol nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 29/2025 privind rectificarea bugetului de venituri si cheltuieli, sursa A, pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/205501",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/205501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-3-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/3",
+   "short": "HCL Breznița-Ocol nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 3/2025 privind mandatarea reprezentantului UAT Breznita Ocol în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi, pentru a vota aprobarea Caietelor de Sarcini aferente condiţiilor de desfăşurare a activităţilor specifice serviciului de alimentare cu apă şi de canalizare, ale unităților administrativ teritoriale, Drobeta Turnu Severin (revizia 1) și Corlăţel",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189356",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-30-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/30",
+   "short": "HCL Breznița-Ocol nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 30/2025 privind modificarea HCL 27/30.04.2025 privind alegerea preşedintelui de şedinţă al Consiliului local Breznita Ocol pentru o perioada de 3 luni (mai - iulie 2025)",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/206971",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/206971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-31-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/31",
+   "short": "HCL Breznița-Ocol nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 31/2025 privind aprobarea încheierii de contracte de consultanță , asistență , reprezentare juridică în vederea apărării intereselor UAT Comuna Breznita -Ocol, judetul Mehedinti , ale autorităților administartiei publice locale ( Primar , Consiliu local ) având ca obiect litigiile complexe și cu grad ridicat de dificultate în care acestea au calitate procesuală",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/206972",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/206972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-32-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/32",
+   "short": "HCL Breznița-Ocol nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 32/2025 privind aprobarea studiului de fezabilitate, a proiectului tehnic si a indicatorilor tehnico-economici actualizati si a devizului general actualizat la faza PT/DTAC pentru obiectivul de investitii \"Extindere sistem de alimentare cu apa in comuna Breznita Ocol, judetul Mehedinti \" aprobat pentru finantare prin Programul national de investitii \"Anghel Saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/206973",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/206973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-33-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/33",
+   "short": "HCL Breznița-Ocol nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 33/2025 privind indexarea cu rata inflaţiei de 5,6% a impozitelor şi taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum şi actualizarea limitelor amenzilor stabilite conform Legii nr. 227/2015 privind Codul Fiscal, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/209215",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/209215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-34-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/34",
+   "short": "HCL Breznița-Ocol nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 34/2025 privind aprobarea inițierii procedurii de cumpărare a terenului în suprafață de 976 mp, NC 51936, CF 51936, situat în satul Breznita-Ocol , comuna Breznita-Ocol, județul Mehedinti",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/209216",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/209216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-35-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/35",
+   "short": "HCL Breznița-Ocol nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 35/2025 privind aprobarea cumpărarii terenului în suprafață de 976 mp, NC 51936, CF 51936, situat în satul Breznita-Ocol , comuna Breznita-Ocol, județul Mehedinti",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/214077",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/214077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-36-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/36",
+   "short": "HCL Breznița-Ocol nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 36/2025 privind reactualizarea HCL 45 din 04.09.2019 privind aprobarea Nomenclatorului stradal al comunei Breznita Ocol, județul Mehedinti",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217589",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-37-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/37",
+   "short": "HCL Breznița-Ocol nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 37/2025 privind aprobarea raportului pentru activitatea desfasurata de catre asistentii personali ai persoanelor cu handicap grav in primul semestru al anului 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217590",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-38-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/38",
+   "short": "HCL Breznița-Ocol nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 38/2025 privind analiza stadiului de inscriere a datelor in Registrul agricol si aprobarea programului de masuri pentru eficientizarea activitatii de inscriere a datelor in registrul agricol al comunei Breznita Ocol pentru semestrul I al anului 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217591",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-39-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/39",
+   "short": "HCL Breznița-Ocol nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 39/2025 privind gestionarea deseurilor voluminoase , deseurilor textile , deseurilor de echipamente electrice si electronice, deseuri de baterii si acumulatori, ulei vegetal uzat, precum si deseuri periculoase de pe teritoriul administrativ al comunei Breznita-Ocol si încheierea de acorduri de colaborare în vederea colectării acestor deșeuri de la populație",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217592",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-4-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/4",
+   "short": "HCL Breznița-Ocol nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 4/2025 privind aprobarea Planului de acţiuni și lucrări de interes local pe anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189357",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-40-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/40",
+   "short": "HCL Breznița-Ocol nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 40/2025 privind rectificarea bugetului de venituri si cheltuieli, sursa A, pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217593",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/217593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-41-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/41",
+   "short": "HCL Breznița-Ocol nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 41/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Breznita Ocol pentru o perioada de 3 luni ( august-octombrie 2025)",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222463",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-42-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/42",
+   "short": "HCL Breznița-Ocol nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 42/2025 privind mandatarea reprezentantului Consiliului local Breznita Ocol in Adunarea Generala Ordinara a Actionarilor Societatii SECOM S.A.Dr.Tr.Severin",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222464",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-43-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/43",
+   "short": "HCL Breznița-Ocol nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 43/2025 privind aprobarea suplimentarii lucrarilor la obiectivul \"Cresterea eficientei energetice la Scoala Gimnaziala Jidostita\", a devizului actualizat si a incheierii Actului Aditional nr. 1 la Contractul de lucrari nr. 1932/07.04.2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222465",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-44-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/44",
+   "short": "HCL Breznița-Ocol nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 44/2025 privind rectificarea bugetului de venituri si cheltuieli, sursa A, pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222466",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-45-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/45",
+   "short": "HCL Breznița-Ocol nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 45/2025 privind aprobarea Devizului General actualizat rest de decontat la 01.08.2025, TVA 21% , privind cheltuielile de capital necesare realizarii obiectivului de investitie “Construire scoala cu 2 sali de clasa si gradinita in sat Magheru, Comuna Breznita Ocol, judetul Mehedinti”",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222467",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/222467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-46-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/46",
+   "short": "HCL Breznița-Ocol nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 46/2025 privind desemnarea reprezentantilor Primarului si Consiliului local al Comunei Breznita Ocol care vor face parte din Consiliul de Administratie al Scolii Gimnaziale Breznita Ocol, judetul Mehedinti, in anul scolar 2025-2026",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/227037",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/227037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-47-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/47",
+   "short": "HCL Breznița-Ocol nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 47/2025 privind rectificarea bugetului de venituri si cheltuieli, sursa A, pentru anul 2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/227038",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/227038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-48-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/48",
+   "short": "HCL Breznița-Ocol nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 48/2025 privind aprobarea participării Comunei Breznita-Ocol la realizarea proiectului Via Transilvanica (Calea Transilvaniei)",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/227039",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/227039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-49-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/49",
+   "short": "HCL Breznița-Ocol nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 49/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Breznita Ocol pentru o perioada de 3 luni ( noiembrie 2025 - ianuarie 2026)",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231705",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-5-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/5",
+   "short": "HCL Breznița-Ocol nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 5/2025 privind analiza stadiului de inscriere a datelor in Registrul agricol si aprobarea programului de masuri pentru eficientizarea activitatii de inscriere a datelor in registrul agricol al comunei Breznita Ocol pentru semestrul II al anului 2024",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189358",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-50-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/50",
+   "short": "HCL Breznița-Ocol nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 50/2025 privind mandatarea reprezentantului UAT Breznita-Ocol în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării prin Act Adiţional a Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231706",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-51-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/51",
+   "short": "HCL Breznița-Ocol nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 51/2025 privind aprobarea caracteristicilor principale si indicatorilor tehnico-economici, a Devizului general \", actualizat dupa achizitie lucrari si decontat pana la 31.07.2025, TVA 19% , a Devizului general, actualizat dupa achizitie lucrari si decontat pana la 01.08.2025, TVA 21% , a Devizului general actualizat dupa achizitie lucrari-total investitie TVA 19% +21% pentru obiectivul de investitii \"EXTINDERE SISTEM DE ALIMENTARE CU APA IN COMUNA BREZNITA OCOL, JUDETUL MEHEDINTI ”, aprobat pentru finantare prin Programul national de investitii \"Anghel Saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231707",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-52-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/52",
+   "short": "HCL Breznița-Ocol nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 52/2025 privind propunerea de desfiintare/demolare a vechii cladiri a Scolii Magheru clasele I-IV din satul Magheru, comuna Breznita-Ocol, judetul Mehedinti",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231708",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-53-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/53",
+   "short": "HCL Breznița-Ocol nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 53/2025 privind aprobarea Caracteristicilor principale si indicatorilor tehnico-economici ai obiectivului de investitii și a Devizului general decontat pana la 31.07.2025, TVA 19%, a Devizului general, rest de decontat pana la 01.08.2025, TVA 21% , a Devizului general- total investitie TVA 19% +21%, aferente obiectivului de investiții „MODERNIZARE SI REABILITARE DRUMURI SATEŞTI IN SATELE JIDOSTIŢA SI SUSIŢA, COMUNA BREZNIŢA OCOL, JUDETUL MEHEDINŢI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231709",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/231709",
      "sha256": null
     }
    ]
@@ -103,6 +823,21 @@
      "from": "2025-12-18",
      "units": 1,
      "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/237395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-6-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/6",
+   "short": "HCL Breznița-Ocol nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 6/2025 privind aprobarea raportului pentru activitatea desfasurata de catre asistentii personali ai persoanelor cu handicap grav in primul semestrul II al anului 2024",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189359",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189359",
      "sha256": null
     }
    ]
@@ -258,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--breznita-ocol-7-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/7",
+   "short": "HCL Breznița-Ocol nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 7/2025",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189360",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189360",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--breznita-ocol-70-2025",
    "path": "local/mehedinti/breznita-ocol/2025/70",
    "short": "HCL Breznița-Ocol nr. 70/2025",
@@ -313,6 +1063,36 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/244909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-8-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/8",
+   "short": "HCL Breznița-Ocol nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 8/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Breznita Ocol pentru o perioada de 3 luni (februarie -aprilie 2025)",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189361",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-ocol-9-2025",
+   "path": "local/mehedinti/breznita-ocol/2025/9",
+   "short": "HCL Breznița-Ocol nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Ocol nr. 9/2025 privind reorganizarea retelei scolare a unitatilor de invatamant preuniversitar de stat din comuna Breznita Ocol,judetul Mehedinti , avizate, pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189362",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-ocol-mh/registru-hcl/189362",
      "sha256": null
     }
    ]

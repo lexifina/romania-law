@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Săcălășeni nr. 36/2025 privind aprobarea documentației „Studiu de Oportunitate” privind necesitatea concesionării imobilului în suprafață de 12650 m2, identificat prin Cartea Funciară nr. 52190 a localității Săcălășeni, număr cadastral atribuit 52190, în vederea realizării investiției „Sistem mobil de reciclare a resturilor din construcții și a concasării rocilor naturale”, aprobarea proiectului „Documentație de atribuire-Caiet de sarcini” privind această concesiune, a raportului de evaluare și a comisiei de evaluare a ofertelor
+
+HCL Săcălășeni nr. 36/2025 · 1 versions, from 2025-04-04 (latest in force: 2025-04-04) · <https://emol.ro/sacalaseni-mm/registru-hcl/200149>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-maramures--sacalaseni-36-2025` (tags `hcl-maramures--sacalaseni-36-2025/<day>`; `python tools/on.py <day> hcl-maramures--sacalaseni-36-2025`).
+
+## Decisions made by hand
+
+- HCL Săcălășeni nr. 36/2025: listed from Consiliul Local al Comunei Săcălășeni (emol.ro); an individual decision: metadata only.
+- HCL Săcălășeni nr. 36/2025: dated from 4 April 2025, the day the council's register gives it as published (adopted 25 March 2025).
+- HCL Săcălășeni nr. 36/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

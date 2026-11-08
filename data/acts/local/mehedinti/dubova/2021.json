@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-2-2021",
+"path": "local/mehedinti/dubova/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 2/2021 privind desemnarea președintelui de ședință pentru următoarele 3 luni",
+"short": "HCL Dubova nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22244",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-3-2021",
 "path": "local/mehedinti/dubova/2021/3",
 "kind": "local",
@@ -44,6 +66,50 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-4-2021",
+"path": "local/mehedinti/dubova/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 4/2021 privind aprobarea transformării postului de Inspector în post Referent – compartiment Proiecte",
+"short": "HCL Dubova nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22246",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-5-2021",
+"path": "local/mehedinti/dubova/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 5/2021 privind aprobarea dezmembrării suprafeței de teren de 25 m.p. din CF top 178/b lunca Coșara, 2728 m.p., domeniul privat, comuna Dubova",
+"short": "HCL Dubova nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22247",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -70,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-7-2021",
+"path": "local/mehedinti/dubova/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 7/2021 privind aprobarea schimbului de terenuri cu Ocolul Sivlic Orșova",
+"short": "HCL Dubova nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22249",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-8-2021",
 "path": "local/mehedinti/dubova/2021/8",
 "kind": "local",
@@ -89,6 +177,97 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-9-2021",
+"path": "local/mehedinti/dubova/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 9/2021",
+"short": "HCL Dubova nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-01",
+"latest": "2021-03-01",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22293",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-10-2021",
+"path": "local/mehedinti/dubova/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 10/2021",
+"short": "HCL Dubova nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-01",
+"latest": "2021-03-01",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22294",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-11-2021",
+"path": "local/mehedinti/dubova/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 11/2021 privind dezmembrarea suprafeței de teren de 57 m.p. și însușirea în domeniul privat al comunei Dubova, în vederea extinderii construcțiilor",
+"short": "HCL Dubova nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-01",
+"latest": "2021-03-01",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22295",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-12-2021",
+"path": "local/mehedinti/dubova/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 12/2021",
+"short": "HCL Dubova nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-01",
+"latest": "2021-03-01",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22296",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -114,6 +293,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-14-2021",
+"path": "local/mehedinti/dubova/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 14/2021",
+"short": "HCL Dubova nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-01",
+"latest": "2021-03-01",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/22298",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-15-2021",
 "path": "local/mehedinti/dubova/2021/15",
 "kind": "local",
@@ -133,6 +335,52 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-16-2021",
+"path": "local/mehedinti/dubova/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 16/2021",
+"short": "HCL Dubova nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-19",
+"latest": "2021-03-19",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23029",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-17-2021",
+"path": "local/mehedinti/dubova/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 17/2021",
+"short": "HCL Dubova nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-19",
+"latest": "2021-03-19",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23030",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -158,6 +406,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-19-2021",
+"path": "local/mehedinti/dubova/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 19/2021 privind aprobarea studiului de fezabilitate şi a indicatorilor tehnico-economici pentru obiectivul de investiții “Modernizare stație de tratare și extindere rețea de alimentare cu apă, localitatea Dubova, Comuna Dubova, Județul Mehedinți”",
+"short": "HCL Dubova nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-19",
+"latest": "2021-03-19",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23032",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-20-2021",
+"path": "local/mehedinti/dubova/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 20/2021 privind Hotărâre privind aprobarea predării către Ministerul Dezvoltării Regionale și Administrației Publice prin Compania Națională de Investiții “C.N.I.” a amplasamentului din comuna Dubova, județul Mehedinți și asigurarea condițiilor în vederea executării obiectivului de investiții “Modernizare stație de tratare și extindere rețea de alimentare cu apă, localitatea Dubova, Comuna Dubova, Județul Mehedinți”",
+"short": "HCL Dubova nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-19",
+"latest": "2021-03-19",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23033",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-21-2021",
 "path": "local/mehedinti/dubova/2021/21",
 "kind": "local",
@@ -177,6 +469,28 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-22-2021",
+"path": "local/mehedinti/dubova/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 22/2021 privind închirierea prin licitație publică deschisă a unui teren în suprafață de 37,80 m.p., în str. Cazane, sat Dubova, Comuna Dubova conform planului de situații",
+"short": "HCL Dubova nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-19",
+"latest": "2021-03-19",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23035",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -243,6 +557,140 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-26-2021",
+"path": "local/mehedinti/dubova/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 26/2021 privind aprobarea vânzării terenului din CF 52864, în vederea extinderii construcției",
+"short": "HCL Dubova nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-26",
+"latest": "2021-04-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23039",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-27-2021",
+"path": "local/mehedinti/dubova/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 27/2021 privind aprobarea vânzării cu drept de preemțiune a terenului, în suprafață de 11 m2, din CF 52134",
+"short": "HCL Dubova nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-26",
+"latest": "2021-04-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23040",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-28-2021",
+"path": "local/mehedinti/dubova/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 28/2021 privind aprobarea închirierii prin licitație publică a terenului din planul de amplasament",
+"short": "HCL Dubova nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-26",
+"latest": "2021-04-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23041",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-29-2021",
+"path": "local/mehedinti/dubova/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 29/2021",
+"short": "HCL Dubova nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-26",
+"latest": "2021-04-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23042",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-30-2021",
+"path": "local/mehedinti/dubova/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 30/2021 privind dezmembrarea suprafeței de teren de 216 m 2, cu NC 50221, lot 4 și însușirea loturilor dezembrate în domeniul privat al comunei Dubova",
+"short": "HCL Dubova nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-26",
+"latest": "2021-04-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23043",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-31-2021",
+"path": "local/mehedinti/dubova/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 31/2021",
+"short": "HCL Dubova nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-26",
+"latest": "2021-04-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/23044",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

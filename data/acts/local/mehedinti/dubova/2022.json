@@ -158,6 +158,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-8-2022",
+"path": "local/mehedinti/dubova/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 8/2022",
+"short": "HCL Dubova nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/50948",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-9-2022",
 "path": "local/mehedinti/dubova/2022/9",
 "kind": "local",
@@ -513,6 +536,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-25-2022",
+"path": "local/mehedinti/dubova/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 25/2022",
+"short": "HCL Dubova nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/59055",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-26-2022",
 "path": "local/mehedinti/dubova/2022/26",
 "kind": "local",
@@ -532,6 +578,29 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-27-2022",
+"path": "local/mehedinti/dubova/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 27/2022",
+"short": "HCL Dubova nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/62026",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -576,6 +645,29 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-30-2022",
+"path": "local/mehedinti/dubova/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 30/2022",
+"short": "HCL Dubova nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/62029",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -690,6 +782,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-36-2022",
+"path": "local/mehedinti/dubova/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 36/2022",
+"short": "HCL Dubova nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/66704",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-37-2022",
 "path": "local/mehedinti/dubova/2022/37",
 "kind": "local",
@@ -709,6 +824,50 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-38-2022",
+"path": "local/mehedinti/dubova/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 38/2022 privind aprobarea vânzarii prin licitatie publica deschisă a terenului de 35 m.p. cu NC 52914 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/69493",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-39-2022",
+"path": "local/mehedinti/dubova/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 39/2022 privind aprobarea vânzarii prin licitatie publica deschisă a terenului de 22 m.p. cu NC 52915 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/69494",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

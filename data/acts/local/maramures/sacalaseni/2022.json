@@ -201,6 +201,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-10-2022",
+"path": "local/maramures/sacalaseni/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 10/2022",
+"short": "HCL Săcălășeni nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/49587",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-11-2022",
 "path": "local/maramures/sacalaseni/2022/11",
 "kind": "local",
@@ -400,6 +423,51 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-20-2022",
+"path": "local/maramures/sacalaseni/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 20/2022",
+"short": "HCL Săcălășeni nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/51966",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-21-2022",
+"path": "local/maramures/sacalaseni/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 21/2022 privind desemnarea reprezentantului Consiliului Local al comunei Săcălășeni și a membrului supleant al acestuia, în Comisia de evaluare a probei de interviu, din cadrul concursului pentru ocuparea funcţiei de Director la Şcoala Gimnazială Săcălășeni",
+"short": "HCL Săcălășeni nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/56692",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-22-2022",
 "path": "local/maramures/sacalaseni/2022/22",
 "kind": "local",
@@ -529,6 +597,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-28-2022",
+"path": "local/maramures/sacalaseni/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 28/2022 privind aprobarea documentației „Studiu de Oportunitate” privind necesitatea concesionării imobilului în suprafață de 54.911 m2, identificat prin Cartea Funciară 51950, în vederea realizării investiției „Plantație de fistic”, aprobarea proiectului ”Documentație de atribuire-Caiet de sarcini” privind această concesiune, a raportului de evaluare și a comisiei de evaluare a ofertelor",
+"short": "HCL Săcălășeni nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-29",
+"latest": "2022-03-29",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/57166",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -972,6 +1062,50 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-49-2022",
+"path": "local/maramures/sacalaseni/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 49/2022 privind darea în folosință gratuită pe o perioadă de 5 ani, a spațiului în suprafață totală de 32,57 m2. din imobilul situat în Comuna Săcălășeni, satul Săcălășeni, strada Crinului, nr. 1, Județul Maramureș",
+"short": "HCL Săcălășeni nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/61503",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-50-2022",
+"path": "local/maramures/sacalaseni/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 50/2022 privind modificarea contractului de închiriere nr. 5854 din 3.08.2020, având ca obiect «Închirierea unor spații în suprafață totală de 34,44 mp., amplasate în imobilul „Dispensar Uman Săcălășeni”», încheiat între Comuna Săcălășeni și Cabinet Medicină Generală DR. SEPSI ILDIKO-ANAMARIA",
+"short": "HCL Săcălășeni nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-30",
+"latest": "2022-05-30",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/61504",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-51-2022",
 "path": "local/maramures/sacalaseni/2022/51",
 "kind": "local",
@@ -1258,6 +1392,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-64-2022",
+"path": "local/maramures/sacalaseni/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 64/2022",
+"short": "HCL Săcălășeni nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-10",
+"latest": "2022-08-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/68370",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-65-2022",
 "path": "local/maramures/sacalaseni/2022/65",
 "kind": "local",
@@ -1302,6 +1459,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-67-2022",
+"path": "local/maramures/sacalaseni/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 67/2022",
+"short": "HCL Săcălășeni nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-10",
+"latest": "2022-08-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/68373",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-68-2022",
 "path": "local/maramures/sacalaseni/2022/68",
 "kind": "local",
@@ -1321,6 +1501,50 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-69-2022",
+"path": "local/maramures/sacalaseni/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 69/2022 privind desemnarea reprezentanților Consiliului Local în echipa mobilă pentru intervenţia de urgenţă în cazurile de violenţă domestică înregistrate pe raza Comunei Săcălășeni",
+"short": "HCL Săcălășeni nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-24",
+"latest": "2022-08-24",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/69447",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-70-2022",
+"path": "local/maramures/sacalaseni/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 70/2022 privind desemnarea reprezentantului Comunei Săcălășeni în Consiliul Director al asociației „SĂCĂLĂȘENI – CONSTRUIM ÎNCREDERE”, în funcția de președinte",
+"short": "HCL Săcălășeni nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-24",
+"latest": "2022-08-24",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/69448",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1456,6 +1680,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-77-2022",
+"path": "local/maramures/sacalaseni/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 77/2022 privind desemnarea reprezentantului Consiliului local al Comunei Săcălăşeni în Consiliul de administraţie al Şcolii Gimnaziale Săcălăşeni în anul școlar 2022-2023",
+"short": "HCL Săcălășeni nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/72611",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-78-2022",
 "path": "local/maramures/sacalaseni/2022/78",
 "kind": "local",
@@ -1564,6 +1810,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-83-2022",
+"path": "local/maramures/sacalaseni/2022/83",
+"kind": "local",
+"year": "2022",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 83/2022 privind clasificarea şi declararea unor imobile situate în Comuna Săcălășeni, judeţul Maramureş în categoria funcţională de stradă",
+"short": "HCL Săcălășeni nr. 83/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/72667",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1677,6 +1945,29 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-89-2022",
+"path": "local/maramures/sacalaseni/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 89/2022",
+"short": "HCL Săcălășeni nr. 89/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/78881",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-90-2022",
 "path": "local/maramures/sacalaseni/2022/90",
 "kind": "local",
@@ -1743,6 +2034,28 @@
 }
 },
 {
+"slug": "hcl-maramures--sacalaseni-93-2022",
+"path": "local/maramures/sacalaseni/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 93/2022 privind clasificarea şi declararea a opt imobile situate în Comuna Săcălășeni, judeţul Maramureş în categoria funcţională de stradă",
+"short": "HCL Săcălășeni nr. 93/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/78885",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--sacalaseni-94-2022",
 "path": "local/maramures/sacalaseni/2022/94",
 "kind": "local",
@@ -1762,6 +2075,28 @@
 "council_name": "Consiliul Local al Comunei Săcălășeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--sacalaseni-95-2022",
+"path": "local/maramures/sacalaseni/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 95/2022 privind aprobarea documentației „Studiu de Oportunitate” privind necesitatea concesionării imobilului în suprafață totală de 9141 m2, identificat prin Cărțile Funciare nr. 53534 și 53532, ale localității Săcălășeni, în vederea realizării investiției „Poligon Tir Sportiv”, aprobarea proiectului ”Documentație de atribuire-Caiet de sarcini” privind această concesiune, a raportului de evaluare și a comisiei de evaluare a ofertelor",
+"short": "HCL Săcălășeni nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/sacalaseni-mm/registru-hcl/78887",
+"council": "maramures/sacalaseni",
+"council_name": "Consiliul Local al Comunei Săcălășeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

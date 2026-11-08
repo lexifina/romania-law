@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--grosi-24-2021",
+   "path": "local/maramures/grosi/2021/24",
+   "short": "HCL Groși nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 24/2021 privind Aprobarea Planului Urbanistic de Detaliu – ,,LOCUINŢĂ PARTER ȘI ETAJ ȘI ÎMPREJMUIRE” în localitatea Groşi, Strada Paltinului f.n., comuna Groşi, judeţul Maramureş",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/32006",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/32006",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--grosi-25-2021",
    "path": "local/maramures/grosi/2021/25",
    "short": "HCL Groși nr. 25/2021",
@@ -363,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--grosi-32-2021",
+   "path": "local/maramures/grosi/2021/32",
+   "short": "HCL Groși nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 32/2021 privind Aprobarea Planului Urbanistic de Detaliu – ,,LOCUINŢĂ UNIFAMILIALA-P+M ȘI ÎMPREJMUIRE” în localitatea Groşi, Strada Paltinului f.n., comuna Groşi, judeţul Maramureş",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/32015",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/32015",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--grosi-33-2021",
    "path": "local/maramures/grosi/2021/33",
    "short": "HCL Groși nr. 33/2021",
@@ -423,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--grosi-37-2021",
+   "path": "local/maramures/grosi/2021/37",
+   "short": "HCL Groși nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 37/2021 privind aprobarea Planului Urbanistic de Detaliu – “CLĂDIRE DEPOZITARE MATERIALE DE CONSTRUCȚII, GARAJ ȘI ÎMPREJMUIRE” în localitatea Ocoliș, Strada Culturii f.n., comuna Groşi, judeţul Maramureş",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/32099",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/32099",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--grosi-38-2021",
    "path": "local/maramures/grosi/2021/38",
    "short": "HCL Groși nr. 38/2021",
@@ -478,6 +523,36 @@
      "from": "2021-09-17",
      "units": 1,
      "source_url": "https://emol.ro/grosi-mm/registru-hcl/35116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-41-2021",
+   "path": "local/maramures/grosi/2021/41",
+   "short": "HCL Groși nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 41/2021",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/35510",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/35510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-42-2021",
+   "path": "local/maramures/grosi/2021/42",
+   "short": "HCL Groși nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 42/2021",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/35511",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/35511",
      "sha256": null
     }
    ]
@@ -583,6 +658,21 @@
      "from": "2021-10-21",
      "units": 1,
      "source_url": "https://emol.ro/grosi-mm/registru-hcl/38714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-5-2021",
+   "path": "local/maramures/grosi/2021/5",
+   "short": "HCL Groși nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 5/2021 privind concesionarea prin licitaţie a unei parcele de teren în suprafaţă de 157.580 m², proprietate privată a comunei, situată în localitatea Groși, Comuna Groşi, indentificat prin CF nr. 54339 – Grosi, nr. Cadastral 54339 în scopul realizării unui proiect complex privind valorificarea potențialului tradițional al zonei și al satului istoric, cu caracter public, în condițiile intocmirii și aprobării unui Plan Urbanistic Zonal prin care va fi stabilită funcțiunea zonei/destinația terenului",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/31987",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/31987",
      "sha256": null
     }
    ]

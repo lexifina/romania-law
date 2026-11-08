@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/drobeta-turnu-severin/2007",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-19-2007",
+   "path": "local/mehedinti/drobeta-turnu-severin/2007/19",
+   "short": "HCL Drobeta-Turnu Severin nr. 19/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 19/2007 privind aprobarea Schemei de ajutor de minimis pentru contribuabilii bugetului local al municipiului Drobeta Turnu Severin, beneficiari, în anii fiscali 2018-2020, de cotă de impozitare redusă la impozitul/taxa pentru clădirile aflate „în clasă energetică A”, care dețin o certificare oficială recunoscută la nivel mondial (BREEM, LEED, DGNB, CASBEE și Green Star) ca și „clădire verde\" Consiliul loc",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2018/",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/99/HCL-019.pdf",
+     "sha256": "b90eb571ac156e80cbb05656b2106c6ffb25244ead75113cc7736a2ded7012df"
+    }
+   ]
+  }
+ ]
+}

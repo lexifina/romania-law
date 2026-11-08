@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/seini/2024",
+ "acts": [
+  {
+   "slug": "hcl-maramures--seini-55-2024",
+   "path": "local/maramures/seini/2024/55",
+   "short": "HCL Seini nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 55/2024 privind alegerea președintelui de ședință al Consiliului Local al orașului Seini entru ședința ordinară din data de 12.07.2024",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2024/10/Hotararea-nr.55-din-2024-privind-alegerea-presedintelui-de-sedinta-al-Consiliului-Local-al-orasului-Seini-entru-sedinta-ordinara-din-data-de-12.07.2024.pdf",
+     "sha256": "8f177b0fc3fd972adfff363b1e2476d7a9c785ca48f72195c48db5ccf3cb1ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-80-2024",
+   "path": "local/maramures/seini/2024/80",
+   "short": "HCL Seini nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 80/2024 Privind anularea accesoriilor aferente obligațiilor principale, restante la data de 31 august 2024 inclusiv, conform OUG nr.107 din 2024 pentru reglementarea unor măsuri fiscal-bugetare",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-31",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2024/10/Hotararea-nr.80-Privind-anularea-accesoriilor-aferente-obligatiilor-principale-restante-la-data-de-31-august-2024-inclusiv-conform-OUG-nr.107-din-2024-pentru-reglementarea-unor-masuri-fiscal-bugetare.pdf",
+     "sha256": "532f7fb804e17b8f8cdae63bf7a89aa24fbc24c21ab2593fa42d141be21d7fda"
+    }
+   ]
+  }
+ ]
+}

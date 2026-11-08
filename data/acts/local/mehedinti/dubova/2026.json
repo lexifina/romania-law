@@ -382,6 +382,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-18-2026",
+"path": "local/mehedinti/dubova/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 18/2026 privind aprobarea concesionarii prin licitatie publica deschisă a terenului de 1020 m.p. cu NC 50455 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/260758",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-19-2026",
+"path": "local/mehedinti/dubova/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 19/2026 privind aprobarea vanzarii prin licitatie publica deschisă a terenului de 321 m.p. cu NC 53218 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-21",
+"latest": "2026-04-21",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/260759",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-20-2026",
 "path": "local/mehedinti/dubova/2026/20",
 "kind": "local",
@@ -512,6 +556,28 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-26-2026",
+"path": "local/mehedinti/dubova/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 26/2026 privind aprobarea vanzarii prin licitatie publica deschisă a terenului de 802 m.p. cu NC 53222 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/264721",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

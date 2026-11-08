@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--balvanesti-10-2023",
+   "path": "local/mehedinti/balvanesti/2023/10",
+   "short": "HCL Bâlvănești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 10/2023",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/96945",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/96945",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balvanesti-11-2023",
    "path": "local/mehedinti/balvanesti/2023/11",
    "short": "HCL Bâlvănești nr. 11/2023",
@@ -73,6 +88,21 @@
      "from": "2023-10-06",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/102977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-15-2023",
+   "path": "local/mehedinti/balvanesti/2023/15",
+   "short": "HCL Bâlvănești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 15/2023 privind stabilirea si actualizarea indemnizatiei consilierilor locali ai comunei BALVANESTI",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/107702",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/107702",
      "sha256": null
     }
    ]

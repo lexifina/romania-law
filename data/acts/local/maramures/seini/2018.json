@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/maramures/seini/2018",
+"acts": [
+{
+"slug": "hcl-maramures--seini-88-2018",
+"path": "local/maramures/seini/2018/88",
+"kind": "local",
+"year": "2018",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 88/2018 privind aprobarea Studiului de Fezabilitate cu elemente de DALI, a Indicatorilor tehnico- economici si Devizul general pentru Proiectul “Sprijinirea mobilitatii nemotorizate in orasul Seini” Consiliul local al orașului Seini întrunit în ședința extraordinară la data de 28.09.2018 Având în vedere: - Oportunitatea de a implementa proiectul “Sprijinirea mobilitatii nemotorizate in orasul Seini”; - Ra",
+"short": "HCL Seini nr. 88/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-28",
+"latest": "2018-09-28",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2018/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

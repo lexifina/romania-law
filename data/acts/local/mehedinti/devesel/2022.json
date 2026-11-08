@@ -466,6 +466,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--devesel-36-2022",
+"path": "local/mehedinti/devesel/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Devesel nr. 36/2022",
+"short": "HCL Devesel nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-13",
+"latest": "2022-10-13",
+"portal": null,
+"council": "mehedinti/devesel",
+"council_name": "Consiliul Local al Comunei Devesel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--devesel-37-2022",
 "path": "local/mehedinti/devesel/2022/37",
 "kind": "local",
@@ -529,6 +552,28 @@
 "council_name": "Consiliul Local al Comunei Devesel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--devesel-40-2022",
+"path": "local/mehedinti/devesel/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Devesel nr. 40/2022 Aprobare inchiriere articole pentru iluminat festiv si decorativ pentru sarbatorile de iarna",
+"short": "HCL Devesel nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://devesel.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/38733#36066",
+"council": "mehedinti/devesel",
+"council_name": "Consiliul Local al Comunei Devesel",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-5-2026",
+"path": "local/maramures/miresu-mare/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 5/2026 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 01.03.2026 - 31.05.2026",
+"short": "HCL Mireșu Mare nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/256739",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-6-2026",
 "path": "local/maramures/miresu-mare/2026/6",
 "kind": "local",
@@ -245,6 +267,29 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-13-2026",
+"path": "local/maramures/miresu-mare/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 13/2026",
+"short": "HCL Mireșu Mare nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-14",
+"latest": "2026-04-14",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/260300",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-14-2026",
 "path": "local/maramures/miresu-mare/2026/14",
 "kind": "local",
@@ -308,6 +353,52 @@
 "council_name": "Consiliul Local al Comunei Mireșu Mare",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-17-2026",
+"path": "local/maramures/miresu-mare/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 17/2026",
+"short": "HCL Mireșu Mare nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/263260",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-18-2026",
+"path": "local/maramures/miresu-mare/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 18/2026",
+"short": "HCL Mireșu Mare nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/263261",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -379,6 +470,29 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-22-2026",
+"path": "local/maramures/miresu-mare/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 22/2026",
+"short": "HCL Mireșu Mare nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-20",
+"latest": "2026-05-20",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/268102",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-23-2026",
 "path": "local/maramures/miresu-mare/2026/23",
 "kind": "local",
@@ -445,6 +559,28 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-26-2026",
+"path": "local/maramures/miresu-mare/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 26/2026 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 01.06.2026 - 31.08.2026",
+"short": "HCL Mireșu Mare nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/271666",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-27-2026",
 "path": "local/maramures/miresu-mare/2026/27",
 "kind": "local",
@@ -486,6 +622,28 @@
 "council_name": "Consiliul Local al Comunei Mireșu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-29-2026",
+"path": "local/maramures/miresu-mare/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 29/2026 privind aprobarea statului de personal din cadrul aparatului de specialitate al primarului Comunei Mireșu Mare, judeţul Maramureș și a indemnizației consilierilor locali",
+"short": "HCL Mireșu Mare nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/271669",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

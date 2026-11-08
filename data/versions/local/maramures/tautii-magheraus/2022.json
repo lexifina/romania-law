@@ -3,6 +3,81 @@
  "shard": "local/maramures/tautii-magheraus/2022",
  "acts": [
   {
+   "slug": "hcl-maramures--tautii-magheraus-1-2022",
+   "path": "local/maramures/tautii-magheraus/2022/1",
+   "short": "HCL Tăuții-Măgherăuș nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 1/2022 privind actualizarea indicatorilor tehnico-economici pentru proiectul: „ÎMBUNĂTĂȚIREA ȘI EXTINDEREA INFRASTRUCTURII DE INTERES LOCAL, PRIN AMENAJARE ALEI PIETONALE, CREARE DRUM DE ACCES ȘI PARCĂRI, LA DISPENSARUL UMAN DIN TĂUŢII-MĂGHERĂUŞ, JUDETUL MARAMUREȘ” HCL nr. 1 – actualizare indicatori TE – Dispensar uman Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/01/HCL-nr.-1-actualizare-indicatori-TE-Dispensar-uman-Tautii-Magheraus.pdf",
+     "sha256": "26029403a2240418192fb8d2558f5dc28e065dc3ca7a759589a0b9d0da772d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-10-2022",
+   "path": "local/maramures/tautii-magheraus/2022/10",
+   "short": "HCL Tăuții-Măgherăuș nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 10/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "e31aaa8f1203967148a4b7b3893148fbd43491b4d882615c1893aa9443c4ccf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-100-2022",
+   "path": "local/maramures/tautii-magheraus/2022/100",
+   "short": "HCL Tăuții-Măgherăuș nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 100/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-100-rectificare-bugetara.pdf",
+     "sha256": "c756c1717d1812c68a309dbb903c31b683fb9a6964d5b09de42ff688d1f24e98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-102-2022",
+   "path": "local/maramures/tautii-magheraus/2022/102",
+   "short": "HCL Tăuții-Măgherăuș nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 102/2022 pentru învățământ, cultură, protecție socială, sănătate, activități sportive și de agrement, raportul primarului și avizul secretarului, prevederile Legii nr.52/2003; În conformitate cu prevederile Legii nr. 273/2006 privind finanțele publice locale cu modificarile ulterioare",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-102-sume-nunta-de-aur.pdf",
+     "sha256": "b921a8cda99247efdfcefaceec56c24b2bd6276caa5f13aae712bfac8ff5568f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-103-2022",
+   "path": "local/maramures/tautii-magheraus/2022/103",
+   "short": "HCL Tăuții-Măgherăuș nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 103/2022 privind aprobarea alocarii drepturilor bănești aferente personalului didactic din cadrul Liceului Tehnologic „Traian Vuia” din Orașul Tautii-Magheraus, care au solicitat decontarea cheltuielilor de deplasare pentru luna mai 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-103-naveta-profesori-mai-2022.pdf",
+     "sha256": "be5806824e9cac1bf74d072fb13b076326215275dd5c53493a1aa4c7412ab618"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--tautii-magheraus-104-2022",
    "path": "local/maramures/tautii-magheraus/2022/104",
    "short": "HCL Tăuții-Măgherăuș nr. 104/2022",
@@ -14,6 +89,501 @@
      "units": 1,
      "source_url": "https://tautiimagheraus.ro/hotarari/",
      "sha256": "1d7ad9764289c0b774fd03e5c73cedbf08223f9cf51e9aed64a06a1c73631007"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-105-2022",
+   "path": "local/maramures/tautii-magheraus/2022/105",
+   "short": "HCL Tăuții-Măgherăuș nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 105/2022 privind modificarea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică la nivelul orașului Tăuții Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-105-modificare-echipa-violenta-domestica.pdf",
+     "sha256": "e9ba89c05fd7a241adc13d08495a6b8d19e0373b29b42272350e12efe444a060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-106-2022",
+   "path": "local/maramures/tautii-magheraus/2022/106",
+   "short": "HCL Tăuții-Măgherăuș nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 106/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "01b64fe06a550ca62eddae9cffaf7b1fe0bf9f289b385d19b5e846fb3069ef7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-107-2022",
+   "path": "local/maramures/tautii-magheraus/2022/107",
+   "short": "HCL Tăuții-Măgherăuș nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 107/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "70016dbb85804fd7c28d42487ce0564d1ec8f893d06c451ebb0b56ccc0d1f52a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-108-2022",
+   "path": "local/maramures/tautii-magheraus/2022/108",
+   "short": "HCL Tăuții-Măgherăuș nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 108/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "5e9006a94e3bccec8307a5d3cbaec6160806722e4b6fe42d84d61695d816284b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-109-2022",
+   "path": "local/maramures/tautii-magheraus/2022/109",
+   "short": "HCL Tăuții-Măgherăuș nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 109/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-109-dezlipire-Matache.pdf",
+     "sha256": "a91c7a8878588c5e9b1b55d7ec54149e631debe8baae9ffdffbcef04bd1d73e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-11-2022",
+   "path": "local/maramures/tautii-magheraus/2022/11",
+   "short": "HCL Tăuții-Măgherăuș nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 11/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "8fc6c2ac061d1add225c3bb45f6f92ba4e47554bd0251df4a3547a989f7ddf70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-110-2022",
+   "path": "local/maramures/tautii-magheraus/2022/110",
+   "short": "HCL Tăuții-Măgherăuș nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 110/2022 Cu privire la aprobarea contului de executie a bugetului orasului Tautii Magheraus la data de 30.06.2022 Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință ordinară la data de 28.07.2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-110-aprobare-cont-executie-bugetara-30.06.2022.pdf",
+     "sha256": "31ec6eaa2db0215cc36a03d36765427488e0b66e610eaa35d1d2cc133af82027"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-111-2022",
+   "path": "local/maramures/tautii-magheraus/2022/111",
+   "short": "HCL Tăuții-Măgherăuș nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 111/2022 privind finantarea nerambursabila a proiectelor culturale si sportive pentru anul 2022 Consiliul local al Orasului Tautii Magheraus întrunit în sedinta ordinara din data de 28.07.2022, Având în vedere: - HCL nr. 59 din 2022 cu privire la aprobarea Programul anual pentru acordarea de finantare nerambursabila din bugetul general al orasului Tautii Magheraus pe anul 2021 si aprobarea componentei comi",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-111-legea-350-aprobare-sume.pdf",
+     "sha256": "ce7b49a48a14a223b26b6e5c8ec173ce62bc59bd118ceb7e6dcca712809c320e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-112-2022",
+   "path": "local/maramures/tautii-magheraus/2022/112",
+   "short": "HCL Tăuții-Măgherăuș nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 112/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș Consiliul local al Orașului Tautii-Magheraus, întrunit în ședință extraordinară la data de 10.08.2022, Având în vedere:  Planurile de amplasament și delimitare, cu propunerea de dezlipire, întocmite de către SC ROBERTOP SURVEY SRL;  Referatul",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-nr.112-dezlipire-teren-rampa-de-gunoi.pdf",
+     "sha256": "dbf047c8d1c9699a9065bd65e61bffc17b01f3750a17222a2277e4825566bf4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-113-2022",
+   "path": "local/maramures/tautii-magheraus/2022/113",
+   "short": "HCL Tăuții-Măgherăuș nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 113/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate publică a Orașului Tăuții-Măgherăuș Consiliul local al Orașului Tautii-Magheraus, întrunit în ședință extraordinară la data de 10.08.2022, Având în vedere:  Planurile de amplasament și delimitare, cu propunerea de dezlipire, întocmite de către SC ROBERTOP SURVEY SRL;  Referatul",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-nr.113-dezlipire-teren-statie-bus-Busag.pdf",
+     "sha256": "800212614e69d6e46ce2dc54f4e33971909e52a4ed54e35ddc2d4fbd470bcb92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-114-2022",
+   "path": "local/maramures/tautii-magheraus/2022/114",
+   "short": "HCL Tăuții-Măgherăuș nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 114/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/08/HCL-114-Iluminat-2022-1.pdf",
+     "sha256": "f7473e797727c7df62a3f6e1325586c95ba0439aac0bb2eeea2850f68bd3d4a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-115-2022",
+   "path": "local/maramures/tautii-magheraus/2022/115",
+   "short": "HCL Tăuții-Măgherăuș nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 115/2022 privind aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 3 loturi, a unui teren, proprietate a Orașului Tăuții-Măgherăuș și aprobarea rectificării înscrierilor din Cartea Funciară nr.62321 UAT Tăuții Măgherăuș, respectiv a sistării și radierii dreptului de proprietate al UAT Tăuții Măgherăuș din acest CF",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/09/HCL-115-aprobare-rectificare-inscrieri-i%CC%82n-CF-respectiv-sista%CC%86rii-s%CC%A6i-radierii-dr.proprietate-al-UAT-TM.pdf",
+     "sha256": "855d34ecf436bb0e7a82a5b602777f488c67d22843953a51ff8beb1c035245dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-116-2022",
+   "path": "local/maramures/tautii-magheraus/2022/116",
+   "short": "HCL Tăuții-Măgherăuș nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 116/2022 privind aprobarea preluării în domeniul public al Orașului Tăuții-Măgherăuș a suprafeței de teren înscrisă în CF nr.54254 Tăuții-Măgherăuș, parte din str.3",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-116-preluare-parte-din-str.3-MCL-PROCONCEPT.pdf",
+     "sha256": "3212d659adeebc86edcb6c4d15abc2c87ea13bb4d28acb832b202477f3d5235a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-117-2022",
+   "path": "local/maramures/tautii-magheraus/2022/117",
+   "short": "HCL Tăuții-Măgherăuș nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 117/2022 cu privire la constatarea încetării Contractului de concesiune nr.2925/15.05.2008, la cererea concesionarului FĂRCAȘ ALIN-CORNEL Consiliul local al Orașului Tăuții-Măgherăuș, întrunit în ședință ordinară în data de 21.09.2022 Avand în vedere: - Cererea nr.10136/17.08.2022 a concesionarului, Fărcaș Alin-Cornel, prin care acesta solicita rezilierea Contractului de concesiune nr.2925/15.05.2008; - Re",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "ba4d135cc72b8116a10ce08ef12ceacd6265393ec900eb0bdaa7c63b6a3b68bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-118-2022",
+   "path": "local/maramures/tautii-magheraus/2022/118",
+   "short": "HCL Tăuții-Măgherăuș nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 118/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 21.09.2022, Având în vedere: - Studiul de oportunitate nr. 11236 din 12.09.2022 al Serviciului Urbanism și Amenajare",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-118-vanzare-teren-546-mp-Pop-Nelica.pdf",
+     "sha256": "64886778323cca0eac6c572ea05af8509f069219488f8756195835270c2186ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-119-2022",
+   "path": "local/maramures/tautii-magheraus/2022/119",
+   "short": "HCL Tăuții-Măgherăuș nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 119/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 21.09.2022, Având în vedere: - Studiul de oportunitate nr. 11236 din 12.09.2022 al Serviciului Urbanism și Amenajare",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "ddd7b5d2dd9c53aa15a19f246ddf09d4444330c5ad2b810543d42a42bab2c268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-12-2022",
+   "path": "local/maramures/tautii-magheraus/2022/12",
+   "short": "HCL Tăuții-Măgherăuș nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 12/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "0eb96449a0be2e7e844889e23468957d52da2bafaa45f7b2fa6a575112a391a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-120-2022",
+   "path": "local/maramures/tautii-magheraus/2022/120",
+   "short": "HCL Tăuții-Măgherăuș nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 120/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 21.09.2022, Având în vedere: - Studiul de oportunitate nr. 11236 din 12.09.2022 al Serviciului Urbanism și Amenajare",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "d77fbbecd4120755abf7f6f5b57ac62c98b528a577647d8ba1d942f0f8fa9ebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-121-2022",
+   "path": "local/maramures/tautii-magheraus/2022/121",
+   "short": "HCL Tăuții-Măgherăuș nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 121/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 21.09.2022, Având în vedere: - Studiul de oportunitate nr.11236 din 12.09.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-121-vanzare-teren-158-mp-Cioran-Patric.pdf",
+     "sha256": "e0144308080ba8183673b812b62f7f9b0a2af29d88f02862bfb8671064f0d817"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-122-2022",
+   "path": "local/maramures/tautii-magheraus/2022/122",
+   "short": "HCL Tăuții-Măgherăuș nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 122/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 21.09.2022, Având în vedere: - Studiul de oportunitate nr. 11236 din 12.09.2022 al Serviciului Urbanism și Amenajare",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-122-vanzare-teren-117-mp-Guz-Georgii.pdf",
+     "sha256": "b90e0f766602977b95f8312c5ac0db91106954c2cfd50f3d97b6e62cb077c55b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-123-2022",
+   "path": "local/maramures/tautii-magheraus/2022/123",
+   "short": "HCL Tăuții-Măgherăuș nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 123/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 21.09.2022, Având în vedere: - Studiul de oportunitate nr. 11236 din 12.09.2022 al Serviciului Urbanism și Amen",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-123-CONCESIONARE-teren-381-mp-Horincar-Loredana.pdf",
+     "sha256": "d6fa0fa7a6f9083462ebdfd95765ec84af3e70154918ef69dbc8349c59d3d730"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-124-2022",
+   "path": "local/maramures/tautii-magheraus/2022/124",
+   "short": "HCL Tăuții-Măgherăuș nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 124/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 21.09.2022, Având în vedere: - Studiul de oportunitate nr. 11236 din 12.09.2022 al Serviciului Urbanism și Amen",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "7831e2c1c779aeb7c1edfdf260aa34c64c50cf85579b06c6e813cc972b5b51c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-125-2022",
+   "path": "local/maramures/tautii-magheraus/2022/125",
+   "short": "HCL Tăuții-Măgherăuș nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 125/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 21.09.2022, Având în vedere: - Studiul de oportunitate nr. 11236 din 12.09.2022 al Serviciului Urbanism și Amen",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "8e5773064f71c12a7bde33b51f1cf9a265f190cdd0e3706cf67dcda932b6d945"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-126-2022",
+   "path": "local/maramures/tautii-magheraus/2022/126",
+   "short": "HCL Tăuții-Măgherăuș nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 126/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privata al Orașului Tăuții Măgherăuș asupra unui teren aflat în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-126-prima-inscriere-Merisor.pdf",
+     "sha256": "b276be73acffa5dafb3ff6a2d38609502efefb68d9f99cf0dfa48e6d1cae2517"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-127-2022",
+   "path": "local/maramures/tautii-magheraus/2022/127",
+   "short": "HCL Tăuții-Măgherăuș nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 127/2022 privind aprobarea Acordului de amplasare și/sau acces la drum comunal/strazi/drumuri publice locale de pe raza UAT Tăuții Măgherăuș pentru Lucrari de construire si de desfiintare pentru inchiderea si ecologizarea Minei Herja –Iaz de Decantare Bozânta , judetul Maramureș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-127-Acord-acces-drum-ecologizare-Iaz-decantare-Boza%CC%82nta.pdf",
+     "sha256": "b4406349f2f283e60e2fd0d0e7c5c281796c578baffa71ae23f6b2af43fd228e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-128-2022",
+   "path": "local/maramures/tautii-magheraus/2022/128",
+   "short": "HCL Tăuții-Măgherăuș nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 128/2022 privind aprobarea Acordului de acces la drum comunal/strazi/drumuri publice locale de pe raza UAT Tăuții Măgherăuș și aviz de execuție lucrări pentru construire «VARIANTĂ DE OCOLIRE BAIA MARE», tronson cuprins în orașul Tăuții Măgherăuș, judetul Maramureș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-128-Acord-acces-drum-varianta-ocolitoare.pdf",
+     "sha256": "9e31fbb26240c5407e2217a1adb4e80f1818d8d318d0acca56c74eec5f28fda0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-129-2022",
+   "path": "local/maramures/tautii-magheraus/2022/129",
+   "short": "HCL Tăuții-Măgherăuș nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 129/2022 Privind desemnarea a trei reprezentanti din partea Consiliului Local Tăuții Măgherăuș în Consiliul de administratie al Liceului „Traian Vuia” Tauții Măgherăuș, pentru anul școlar 2022 – 2023",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-129-reprezentanti-CL-in-Consiliul-de-Administratie-Liceu.pdf",
+     "sha256": "1c879e839c62b642d44ff68b5061a36e3d4009d405a7857f6c173c3c2edbc085"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-13-2022",
+   "path": "local/maramures/tautii-magheraus/2022/13",
+   "short": "HCL Tăuții-Măgherăuș nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 13/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "b2f863037dc35c5a38eb12ae52eb89e78eb7729dd5d282c54ec2844a92d7295c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-130-2022",
+   "path": "local/maramures/tautii-magheraus/2022/130",
+   "short": "HCL Tăuții-Măgherăuș nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 130/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "48720ee1169d391fe717a1af08cc7f632b57b68ee9c7862f80de05a28a7b984a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-131-2022",
+   "path": "local/maramures/tautii-magheraus/2022/131",
+   "short": "HCL Tăuții-Măgherăuș nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 131/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "d6cc653a036b8cd4a0b1ca11a311188472b5561a9e427c689d7034d03c02f11d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-132-2022",
+   "path": "local/maramures/tautii-magheraus/2022/132",
+   "short": "HCL Tăuții-Măgherăuș nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 132/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "0746fc5ae5983e5767203fc4f740a77fdc8ea9ebec605749522208b53727bdd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-133-2022",
+   "path": "local/maramures/tautii-magheraus/2022/133",
+   "short": "HCL Tăuții-Măgherăuș nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 133/2022 Privind aprobarea participării UAT Orașul Tăuții Măgherăuș în cadrul Programului privind casarea autovehiculelor uzate în conformitate cu Ordinul Ministerului Mediului, Apelor și Pădurilor nr. 2261 / 23.08.2022 și a sumelor necesare reprezentând finanțarea pentru casarea și radierea autovehiculelor uzate solicitate în cererea de finanțare Consiliul local al orașului Tăuții-Măgherăuș întrunit de în",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-133-rabla-locala.pdf",
+     "sha256": "d7b23f9f8af33429475ab5c53b3c2897c56e54aff64747e6abb32a826e89e677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-134-2022",
+   "path": "local/maramures/tautii-magheraus/2022/134",
+   "short": "HCL Tăuții-Măgherăuș nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 134/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-134-rectificare-bugetara.pdf",
+     "sha256": "0273abfea0363988b7df4d6e16d7b261dae67dbd712d47b154fec0616e8b57b4"
     }
    ]
   },
@@ -33,6 +603,636 @@
    ]
   },
   {
+   "slug": "hcl-maramures--tautii-magheraus-136-2022",
+   "path": "local/maramures/tautii-magheraus/2022/136",
+   "short": "HCL Tăuții-Măgherăuș nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 136/2022 privind insusirea unei documentatii cadastrale și atestarea apartenentei la domeniul privat al Orasului Tautii-Magheraus a unor terenuri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-136-atestare-apartenenta-la-domeniul-privat.pdf",
+     "sha256": "275159d0e4c5c6794055968e725fdd94ffc205ef1ee0bf9f83db53278b94d82d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-138-2022",
+   "path": "local/maramures/tautii-magheraus/2022/138",
+   "short": "HCL Tăuții-Măgherăuș nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 138/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/10/HCL-138-rectificare-bugetara.pdf",
+     "sha256": "0ffaa12ab3cc36097057c32417b2d5818825af1b8afea3cf482a4a00f0851042"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-14-2022",
+   "path": "local/maramures/tautii-magheraus/2022/14",
+   "short": "HCL Tăuții-Măgherăuș nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 14/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "9e241eb532af5d84dd9cfec8377233c8ba07a558cceb8a460f1e85002255dff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-140-2022",
+   "path": "local/maramures/tautii-magheraus/2022/140",
+   "short": "HCL Tăuții-Măgherăuș nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 140/2022 Privind aprobarea inventarului bunurilor imobile care alcătuiesc domeniul privat al orașului Tăuții Măgherăuș Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință ordinara la data de 31.10.2022 Examinând:  Referatul de aprobare a proiectului de hotărâre privind aprobarea inventarului bunurilor imobile care alcătuiesc domeniul privat al orașului Tăuții Măgherăuș;  Raportul de speciali",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-140-inventar-domeniul-privat.pdf",
+     "sha256": "2644e59b154e23d3a391f1fb214c6817bde609083a356c417e655366ccee38da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-141-2022",
+   "path": "local/maramures/tautii-magheraus/2022/141",
+   "short": "HCL Tăuții-Măgherăuș nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 141/2022 privind însusirea raportului de evaluare, a aprobărrii a caietului de sarcini, a modelului de contact de concesiune și a componenței comisiei de licitație pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Tăuții Măgherăuș, strada 30, nr. 5",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-141-CONCESIONARE-teren-736-mp.pdf",
+     "sha256": "fd496446ef362d6ea93e2936a789b3553d328078bca3adad6f72a1c5e8d80052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-142-2022",
+   "path": "local/maramures/tautii-magheraus/2022/142",
+   "short": "HCL Tăuții-Măgherăuș nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 142/2022 privind însusirea raportului de evaluare, a aprobărrii a caietului de sarcini, a modelului de contact de concesiune și a componenței comisiei de licitație pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Tăuții Măgherăuș, strada 33, nr. 10",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-142-CONCESIONARE-teren-800-mp-nr.-10.pdf",
+     "sha256": "f94cdf658aecbc0ba5ed2e6104cd94a555115a51c3bfcb9573be9f97b0ed2120"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-143-2022",
+   "path": "local/maramures/tautii-magheraus/2022/143",
+   "short": "HCL Tăuții-Măgherăuș nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 143/2022 privind însusirea raportului de evaluare, a aprobărrii a caietului de sarcini, a modelului de contact de concesiune și a componenței comisiei de licitație pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Tăuții Măgherăuș, strada 33, nr. 8",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-143-CONCESIONARE-teren-800-mp-nr.-8.pdf",
+     "sha256": "546d1969ccfa64db20da0b8a31135655eb0cced63c0a1298e64995fa17e04dc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-144-2022",
+   "path": "local/maramures/tautii-magheraus/2022/144",
+   "short": "HCL Tăuții-Măgherăuș nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 144/2022 privind însusirea raportului de evaluare, a aprobărrii a caietului de sarcini, a modelului de contact de concesiune și a componenței comisiei de licitație pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Tăuții Măgherăuș, strada 46, nr. 16",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-144-CONCESIONARE-teren-1.144-mp.pdf",
+     "sha256": "39e4a767b0dba96988462f67a951a7d8f18e50cdbb8a1b08e3ef4f678cdb9e93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-145-2022",
+   "path": "local/maramures/tautii-magheraus/2022/145",
+   "short": "HCL Tăuții-Măgherăuș nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 145/2022 privind însusirea raportului de evaluare, a aprobărrii a caietului de sarcini, a modelului de contact de concesiune și a componenței comisiei de licitație pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Tăuții Măgherăuș, strada 43, nr. 8",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-145-CONCESIONARE-teren-800-mp-str-43.pdf",
+     "sha256": "baa0616ff089e70314af696d12ba555e542166a2f84cc965381c5764b696db25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-146-2022",
+   "path": "local/maramures/tautii-magheraus/2022/146",
+   "short": "HCL Tăuții-Măgherăuș nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 146/2022 privind însusirea raportului de evaluare, a aprobărrii a caietului de sarcini, a modelului de contact de concesiune și a componenței comisiei de licitație pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Tăuții Măgherăuș, strada 44, nr. 15",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-146-CONCESIONARE-teren-800-str.-44.pdf",
+     "sha256": "d3af32f70892a0871fb6ef3e857f60902c1cce4345dc253346a3654f991d6cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-147-2022",
+   "path": "local/maramures/tautii-magheraus/2022/147",
+   "short": "HCL Tăuții-Măgherăuș nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 147/2022 privind exprimarea de către Consiliul local al Orașului Tăuții-Măgherăuș a acordului privind rectificarea înscrierilor cuprinse în CF nr.58823 Tăuții-Măgherăuș Consiliul Local al UATO Tăuții-Măgherăuș, întrunit în ședință ordinară, azi, 31.10.2022 Având în vedere:  Referatul de aprobare al Primarului nr.12615/13.10.2022;  Raportul de specialitate nr.12820/17.10.2022, promovat de către Compartime",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-147-rectificare-inscrieri-cuprinse-in-CF-58823-TM.pdf",
+     "sha256": "2e0fcc01ec5e3aaa18af0d31780607492f312cf333824a8b2038cd7882f840cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-148-2022",
+   "path": "local/maramures/tautii-magheraus/2022/148",
+   "short": "HCL Tăuții-Măgherăuș nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 148/2022 privind aprobarea preluării în domeniul public al Orașului Tăuții-Măgherăuș a suprafeței de teren înscrisă în CF nr.59969 Tăuții-Măgherăuș, parte din str.8",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-148-preluare-parte-din-str.8.pdf",
+     "sha256": "1012d1f2027eb1f8f90250d5a1aa06885109d8e469d2e3318357100ae0ea3f0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-149-2022",
+   "path": "local/maramures/tautii-magheraus/2022/149",
+   "short": "HCL Tăuții-Măgherăuș nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 149/2022 privind aprobarea preluării în domeniul public al Orașului Tăuții-Măgherăuș a suprafeței de teren înscrisă în CF nr.60853 Tăuții-Măgherăuș, parte din str.9",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-149-preluare-parte-din-str.9.pdf",
+     "sha256": "bc197bf92504031f9a4ddc2ec7363d13c2c896ccff4fcd8c205cdf42dbc8d357"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-15-2022",
+   "path": "local/maramures/tautii-magheraus/2022/15",
+   "short": "HCL Tăuții-Măgherăuș nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 15/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "e9eab063fb97f12fedaeee472a2adb2be546828ea75834e1b231bb342d95e67e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-150-2022",
+   "path": "local/maramures/tautii-magheraus/2022/150",
+   "short": "HCL Tăuții-Măgherăuș nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 150/2022 privind aprobarea alocarii drepturilor bănești aferente personalului didactic din cadrul Liceului Tehnologic „Traian Vuia” din Orașul Tautii-Magheraus, care au solicitat decontarea cheltuielilor de deplasare pentru lunile iunie, iulie și august 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-150-naveta-profesori-iunie-iulie-august-2022.pdf",
+     "sha256": "ad86049282dd26310fadd27a676039a796a15d47ddbe944e28a5d54c2eebb700"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-151-2022",
+   "path": "local/maramures/tautii-magheraus/2022/151",
+   "short": "HCL Tăuții-Măgherăuș nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 151/2022 privind aprobarea proiectului organizarii Rețelei Scolare a unitatilor de învațamânt preuniversitar din orasul Tautii Magherauș pentru anul scolar 2022-2023",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-151-organizarea-retelei-scolare-2022-2023.pdf",
+     "sha256": "bf39ee7ca64f9afb82bd1d664d759ca3c9c4874895c7738b269e93cdd02240a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-152-2022",
+   "path": "local/maramures/tautii-magheraus/2022/152",
+   "short": "HCL Tăuții-Măgherăuș nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 152/2022 cu privire la aprobarea alocarii din bugetul local pe anul 2022 a sumei 3.000 lei necesare pentru pregătire și participarea la competiții de Taekwon-do a d-soarei Ivasuc Dora Ernesta",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-152-alocare-3000-lei-Ivasuc-Dora.pdf",
+     "sha256": "cbe228bee58a7f8e803bdb12e39876134c1e89d98b502cac26748a6e7d75487d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-153-2022",
+   "path": "local/maramures/tautii-magheraus/2022/153",
+   "short": "HCL Tăuții-Măgherăuș nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 153/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "f271a82137850b14eb0e2b8adae75ab08bd4543f7ca288830ea0e59d6f8badc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-154-2022",
+   "path": "local/maramures/tautii-magheraus/2022/154",
+   "short": "HCL Tăuții-Măgherăuș nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 154/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "d694b53f953ecf6726207c5d1115095e16206cb21a7670303dc816bc8973e87c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-155-2022",
+   "path": "local/maramures/tautii-magheraus/2022/155",
+   "short": "HCL Tăuții-Măgherăuș nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 155/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "db1f38382400d6a9266c6e8c535a808a7b318f0e7056adb80d082f1bf1d51a30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-156-2022",
+   "path": "local/maramures/tautii-magheraus/2022/156",
+   "short": "HCL Tăuții-Măgherăuș nr. 156/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 156/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-156-dezlipire-Busecan.pdf",
+     "sha256": "34ed217b5523278cb883991010f6aa5f4debe6a9db5f56f0cdfdc7fb3f9e89e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-157-2022",
+   "path": "local/maramures/tautii-magheraus/2022/157",
+   "short": "HCL Tăuții-Măgherăuș nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 157/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-157-dezlipire-RCS-RDS.pdf",
+     "sha256": "6375ac91fa37f1b7d01668abd6ba2b2f5b0a81c8e394f011b97bae3751132160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-158-2022",
+   "path": "local/maramures/tautii-magheraus/2022/158",
+   "short": "HCL Tăuții-Măgherăuș nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 158/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "d2012f27fa3fdd2fd3989dfbc2f82da8739cb7ded9f6124591bf0fb9b750a837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-159-2022",
+   "path": "local/maramures/tautii-magheraus/2022/159",
+   "short": "HCL Tăuții-Măgherăuș nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 159/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "5a47a03c2765bdccff2e51598d3ec4db0f4e73b9cd5f4b58af4e63c433f5aa26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-16-2022",
+   "path": "local/maramures/tautii-magheraus/2022/16",
+   "short": "HCL Tăuții-Măgherăuș nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 16/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "e32ab5be0bd8716f3816f5bf2df2ccc2c2888026969a91fda87925ce2d2df7c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-160-2022",
+   "path": "local/maramures/tautii-magheraus/2022/160",
+   "short": "HCL Tăuții-Măgherăuș nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 160/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-160-vanzare-concesiune-Ut%CC%A6a%CC%86.pdf",
+     "sha256": "a47e3e0a3662bdbdb2e303a1bf2355fb200d9080e7f347b16f004cd9cd6532bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-161-2022",
+   "path": "local/maramures/tautii-magheraus/2022/161",
+   "short": "HCL Tăuții-Măgherăuș nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 161/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privata al Orașului Tăuții Măgherăuș asupra unui teren aflat în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-161-prima-inscriere-Szeko.pdf",
+     "sha256": "686a5f0d05cb0038d0465502b2357a979ab4448fb5837ae7873f1f7fa7d27679"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-162-2022",
+   "path": "local/maramures/tautii-magheraus/2022/162",
+   "short": "HCL Tăuții-Măgherăuș nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 162/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privata al Orașului Tăuții Măgherăuș asupra unui teren aflat în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-162-prima-inscriere-str-123-Busag.pdf",
+     "sha256": "b165681450369210b0a57a83d36155365babe9075404520d3d4d920f6ca8dff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-163-2022",
+   "path": "local/maramures/tautii-magheraus/2022/163",
+   "short": "HCL Tăuții-Măgherăuș nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 163/2022 cu privire la aprobarea cheltuielilor necesare pentru achiziționarea pachetelor cadou ce se vor acorda cu ocazia sărbătorilor de iarnă 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-163-cheltuieli-pachete-cadou-sarebatori-iarna-si-colinde.pdf",
+     "sha256": "da2841646b709ab557468d06e45846e789f521bfecad0d01e1721afe1d3ee851"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-164-2022",
+   "path": "local/maramures/tautii-magheraus/2022/164",
+   "short": "HCL Tăuții-Măgherăuș nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 164/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare străzi în orasul Tăuții-Măgherăuș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectiv",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-164-drumuri.pdf",
+     "sha256": "8d868cf0af8661961ce92dca2656be43db9373fb1efa8d1316438a9427fb9faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-165-2022",
+   "path": "local/maramures/tautii-magheraus/2022/165",
+   "short": "HCL Tăuții-Măgherăuș nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 165/2022 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Executarea racordurilor de canalizare în orașul Tăuții Măgherăuș, Judetul Maramures”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-165-racorduri-canalizare.pdf",
+     "sha256": "3edc9a1fc76d2c4e1186c1e4553edb144463d5ffd3429f0b762b03f716fef5bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-166-2022",
+   "path": "local/maramures/tautii-magheraus/2022/166",
+   "short": "HCL Tăuții-Măgherăuș nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 166/2022 Privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție „PROIECT INTEGRAT PRIVIND ÎMBUNĂTĂȚIREA INFRASTRUCTURII DE SERVICII EDUCAȚIONALE ȘI CULTURALE ȘI A SPAȚIILOR PUBLICE URBANE ÎN ORAȘUL TĂUȚII MĂGHERĂUȘ, JUDEȚUL MARAMUREȘ” Programul Operațional Regional 2014-2020 Axa prioritară 13 Sprijinirea regenerării orașelor mici și mijlocii Prioritatea de investiții 9B Oferir",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-166-indicatori-muzeu.pdf",
+     "sha256": "12986a6533d9aa90200555a9b23918c3c45b92b6a877f85efafecc2587a4ab5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-167-2022",
+   "path": "local/maramures/tautii-magheraus/2022/167",
+   "short": "HCL Tăuții-Măgherăuș nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 167/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL167-rectificare-bugetara.pdf",
+     "sha256": "5714206ef6b0eba70b223eb86d81c92658aba798c5012f55d06ce814d07ea055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-168-2022",
+   "path": "local/maramures/tautii-magheraus/2022/168",
+   "short": "HCL Tăuții-Măgherăuș nr. 168/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 168/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "f874af52cbc62a76464518a4ed8a2f349fd6baa4874ce5d557dab8d63a5fb8e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-169-2022",
+   "path": "local/maramures/tautii-magheraus/2022/169",
+   "short": "HCL Tăuții-Măgherăuș nr. 169/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 169/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "3e15de2210f03b95d36fbe2601a0ae1ed7c9bf287c297653f0f104465e209674"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-17-2022",
+   "path": "local/maramures/tautii-magheraus/2022/17",
+   "short": "HCL Tăuții-Măgherăuș nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 17/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "da373d8be9e8a3f3f6d0488905793f205379022635c332b7fbf7b0f2a0541eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-170-2022",
+   "path": "local/maramures/tautii-magheraus/2022/170",
+   "short": "HCL Tăuții-Măgherăuș nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 170/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "d066f9778d79202605fbc17db45ac24c9a4d728bf6b6031983ff2f5ffd16cb6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-171-2022",
+   "path": "local/maramures/tautii-magheraus/2022/171",
+   "short": "HCL Tăuții-Măgherăuș nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 171/2022 Privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Tăuții Măgherăuș, având ca obiect proiectul ”HUB de servicii MMSS – SII MMSS” cod SMIS 2014+ 130963",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-171-Protocol-HUB-de-servicii.pdf",
+     "sha256": "c7b9be09a85ead51daf42f684ec5bc7ec129634133313cfd71253d7e9c5f9a6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-173-2022",
+   "path": "local/maramures/tautii-magheraus/2022/173",
+   "short": "HCL Tăuții-Măgherăuș nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 173/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-173-rectificare-bugetara.pdf",
+     "sha256": "25ebcd89e96cd5a468af8f445fbc4e205ea6e6d0e5d0fb01926c328d03498895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-174-2022",
+   "path": "local/maramures/tautii-magheraus/2022/174",
+   "short": "HCL Tăuții-Măgherăuș nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 174/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 18.11.2022, Având în vedere: - Studiul de oportunitate nr. 14212 din 11.11.2022 al Serviciului Urbanism și Amenajare",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-174-vanzare-teren-Bus%CC%A6ecan.pdf",
+     "sha256": "dc373eebc3d12fbf74a2336bc52c3e61eb830cbb1e00382fd371774d8200863a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-175-2022",
+   "path": "local/maramures/tautii-magheraus/2022/175",
+   "short": "HCL Tăuții-Măgherăuș nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 175/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privata al Orașului Tăuții Măgherăuș asupra unor terenuri aflate în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL-175-prima-inscriere-str-123-Busag.pdf",
+     "sha256": "c46b6e025984fa216f5917586ab70812b617d9fb00963594d7a985efebaf7bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-178-2022",
+   "path": "local/maramures/tautii-magheraus/2022/178",
+   "short": "HCL Tăuții-Măgherăuș nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 178/2022 privind aprobarea Studiului de fezabilitate si a indicatorilor tehnico-economici pentru „Proiectul Regional de Dezvoltare a Infrastructurii de apă și apă uzată în județul Maramureș” Consiliul Local al Orasului Tautii Magheraus, intrunit de îndată in sedinta extraordinara în data de 24.11.2022, Avand in vedere: - Referat de aprobare al primarului, - Raport de specialitate nr. 14851 din 23.11.2022 a",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL178-SF-indicatori-Tautii-Magheraus.pdf",
+     "sha256": "8c33d7e154baa245226b344c7ecce88b7c8238513be6518e6f0c314edc2288ca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--tautii-magheraus-179-2022",
    "path": "local/maramures/tautii-magheraus/2022/179",
    "short": "HCL Tăuții-Măgherăuș nr. 179/2022",
@@ -44,6 +1244,66 @@
      "units": 1,
      "source_url": "https://tautiimagheraus.ro/hotarari/",
      "sha256": "7874cb6ebdc48a373b2cfcf57c9bcd37bc67b115553bc79e5af7bfc6e3643b8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-18-2022",
+   "path": "local/maramures/tautii-magheraus/2022/18",
+   "short": "HCL Tăuții-Măgherăuș nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 18/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "6786932bfc68581d4a176d9f630265b0f5a2e4c1ce9184b57e5a0c7bb2062829"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-180-2022",
+   "path": "local/maramures/tautii-magheraus/2022/180",
+   "short": "HCL Tăuții-Măgherăuș nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 180/2022 privind participarea Orasului Tautii Magheraus la cofinanțarea proiectului „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din Județul Maramures\" Consiliul Local al Orasului Tautii Magheraus, intrunit de îndată in sedinta extraordinara în data de 24.11.2022, Avand in vedere: - Referat de aprobare al primarului, -Raport de specialitate nr. 14851 din 23.11.2022 al Serviciului",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/11/HCL180-HCL-COFINANTARE-Tautii-Magheraus.pdf",
+     "sha256": "f013eb3f261f15306fa002367ec46f883d1000eb272bf2c601c84d7a96b33e57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-181-2022",
+   "path": "local/maramures/tautii-magheraus/2022/181",
+   "short": "HCL Tăuții-Măgherăuș nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 181/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-181-rectificare-bugetara.pdf",
+     "sha256": "47ddba9d333aa4cc358665d56ae66bd513ecbd0acbb510e8a8e914e27cdca5f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-182-2022",
+   "path": "local/maramures/tautii-magheraus/2022/182",
+   "short": "HCL Tăuții-Măgherăuș nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 182/2022 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru anul 2022 la SC PRIMA TĂUȚI SRL, precum și a actualizării valorilor listelor de investiții pentru anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-182-aprobare-rectificare-buget-PRIMA-TAUTI.pdf",
+     "sha256": "a1b0dbcadbc171fce5285de2e14e910ee55eec6b42817c1c734efbfe456f16fe"
     }
    ]
   },
@@ -63,6 +1323,726 @@
    ]
   },
   {
+   "slug": "hcl-maramures--tautii-magheraus-185-2022",
+   "path": "local/maramures/tautii-magheraus/2022/185",
+   "short": "HCL Tăuții-Măgherăuș nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 185/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "65a2e3d4b7ed2a73c9fb107be04c272adc2303c5809c7b7f50dbaa7c83fdfa89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-186-2022",
+   "path": "local/maramures/tautii-magheraus/2022/186",
+   "short": "HCL Tăuții-Măgherăuș nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 186/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "b83c33820bc70c20e4b2ed77fea34894b905ac41a37861f842b4ad1cd3a5add0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-187-2022",
+   "path": "local/maramures/tautii-magheraus/2022/187",
+   "short": "HCL Tăuții-Măgherăuș nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 187/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 22.12.2022, Având în vedere: - Studiul de oportunitate nr. 15765 din 13.12.2022 al Serviciului Urbanism și Amenajare",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-187-vanzare-teren-973-mp-Kerekes-Gheorghr.pdf",
+     "sha256": "02406edac114099aebd4237f25b5cd26c6f0d386bf7784c0377679e81c64aea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-188-2022",
+   "path": "local/maramures/tautii-magheraus/2022/188",
+   "short": "HCL Tăuții-Măgherăuș nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 188/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 22.12.2022, Având în vedere: - Studiul de oportunitate nr. 15766 DIN 13.12.2022 al Serviciului Urbanism și Amen",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-188-CONCESIONARE-teren-250-mp-RCS-RDS.pdf",
+     "sha256": "276971c453458a0202e1cd93f464a03a35dfc9abd293a87b39e162920d9f5b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-189-2022",
+   "path": "local/maramures/tautii-magheraus/2022/189",
+   "short": "HCL Tăuții-Măgherăuș nr. 189/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 189/2022 privind aprobarea efectuării demersurilor necesare în vederea alipirii în cartea funciară a două terenuri, proprietate privată a Orașului Tăuții-Măgherăuș( str 57 )",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-189-alipire-str-57.pdf",
+     "sha256": "75d5c8418c0cd55cd075fd6203e9dc3d81d853f215885d2a152a9ae655cb29a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-19-2022",
+   "path": "local/maramures/tautii-magheraus/2022/19",
+   "short": "HCL Tăuții-Măgherăuș nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 19/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-19-vanzare-teren-128-mp-Mares.pdf",
+     "sha256": "99c7388c4051245baa53d952a10363d39e857ae71fb1fc069bc6632f4fc40b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-190-2022",
+   "path": "local/maramures/tautii-magheraus/2022/190",
+   "short": "HCL Tăuții-Măgherăuș nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 190/2022 privind aprobarea efectuării demersurilor necesare în vederea alipirii în cartea funciară unor terenuri, aflate în domeniul public al Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-190-alipire-str-73-24-102.pdf",
+     "sha256": "05ff40a73ec80f7bf1fbb1aff34265961b9b72c0f94081640d045e9360d82b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-191-2022",
+   "path": "local/maramures/tautii-magheraus/2022/191",
+   "short": "HCL Tăuții-Măgherăuș nr. 191/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 191/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privată al Orașului Tăuții Măgherăuș asupra unor terenuri aflate în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-191-prima-inscriere-Verkes-Hamza-Coste.pdf",
+     "sha256": "4842fda8a7358d7f0e750bd6e7c77f4d55a12f2d3379ceed20f22e0336edb7a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-192-2022",
+   "path": "local/maramures/tautii-magheraus/2022/192",
+   "short": "HCL Tăuții-Măgherăuș nr. 192/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 192/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privată al Orașului Tăuții Măgherăuș asupra unor terenuri aflate în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-192-prima-inscriere-str.-51.pdf",
+     "sha256": "22dfdb9680731d75a5e2bf5bf3d0aace678d6eb6f6216fd4f0ced93c7434e7a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-193-2022",
+   "path": "local/maramures/tautii-magheraus/2022/193",
+   "short": "HCL Tăuții-Măgherăuș nr. 193/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 193/2022 Cu privire la aprobarea contului de executie a bugetului orasului Tautii Magheraus la data de 30.09.2022 Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință ordinară la data de 22.12.2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-193-aprobare-cont-executie-bugetara-30.09.2022.pdf",
+     "sha256": "d589683471a11a5f69a97875dad21b4b687caa9eabd4ec69feac883f4bae3ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-194-2022",
+   "path": "local/maramures/tautii-magheraus/2022/194",
+   "short": "HCL Tăuții-Măgherăuș nr. 194/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 194/2022 privind aprobarea alocarii drepturilor bănești aferente personalului didactic din cadrul Liceului Tehnologic „Traian Vuia” din Orașul Tautii-Magheraus, care au solicitat decontarea cheltuielilor de deplasare pentru lunile septembrie și octombrie 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-194-naveta-profesori-septembrie-2022.pdf",
+     "sha256": "d191492b80662211353da7f9532894042b011e63c2127b0db8aa7e7cb0fdcd1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-195-2022",
+   "path": "local/maramures/tautii-magheraus/2022/195",
+   "short": "HCL Tăuții-Măgherăuș nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 195/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/12/HCL-195-rectificare-bugetara.pdf",
+     "sha256": "3802b6a709e267ef1f5c3182ac71e26470d50c800adf8d033074d5cf663a3e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-196-2022",
+   "path": "local/maramures/tautii-magheraus/2022/196",
+   "short": "HCL Tăuții-Măgherăuș nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 196/2022 privind aprobarea a Studiului de fezabilitate pentru obiectivul de investiții „Executarea racordurilor de canalizare în orașul Tăuții Măgherăuș, Judetul Maramures”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, pentru realizarea obiectivului",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2023/01/HCL-196-studiu-racorduri-canalizare-TM.pdf",
+     "sha256": "f6fcec03bcede43f998207596f2efb03aea97400760a88ddfc3abec6e30766ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-197-2022",
+   "path": "local/maramures/tautii-magheraus/2022/197",
+   "short": "HCL Tăuții-Măgherăuș nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 197/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2023/01/HCL-197-Iluminat-12.2022.pdf",
+     "sha256": "8f2f33791141850a924f6420f47a01c8b8e41def153329ce4a1f669f81910a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-2-2022",
+   "path": "local/maramures/tautii-magheraus/2022/2",
+   "short": "HCL Tăuții-Măgherăuș nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 2/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "9d95165cabdf984b54df568af4e1d610ade63fbb23c617c05f63f6a1102a5e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-20-2022",
+   "path": "local/maramures/tautii-magheraus/2022/20",
+   "short": "HCL Tăuții-Măgherăuș nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 20/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-20-vanzare-teren-137-mp-Maur.pdf",
+     "sha256": "8b5a50b25479166523508de408524f7d97bee9ef2a0ce7e21e61a6fc1c8a0893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-21-2022",
+   "path": "local/maramures/tautii-magheraus/2022/21",
+   "short": "HCL Tăuții-Măgherăuș nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 21/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "2d1b61d1d5cabb69f1cf63253531b120990c28f7bda1831c4b366e21ccf5e0d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-22-2022",
+   "path": "local/maramures/tautii-magheraus/2022/22",
+   "short": "HCL Tăuții-Măgherăuș nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 22/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "6e611666012bfe0698fa0c95bd51b20eb6f3a8aa459655eb9ff61eb296f1de65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-23-2022",
+   "path": "local/maramures/tautii-magheraus/2022/23",
+   "short": "HCL Tăuții-Măgherăuș nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 23/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "b0839f83f3304c47d6b53ccec205b7079a1ac6f1d36472539650225ad752d00b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-24-2022",
+   "path": "local/maramures/tautii-magheraus/2022/24",
+   "short": "HCL Tăuții-Măgherăuș nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 24/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "e902f3ba6a555b396d107b687a056b4e3dd72b44504a6433af813de35d690370"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-25-2022",
+   "path": "local/maramures/tautii-magheraus/2022/25",
+   "short": "HCL Tăuții-Măgherăuș nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 25/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-25-vanzare-teren-394-mp-Jurge-Gratiela.pdf",
+     "sha256": "0be6408ff7aed4a4ae7416e04846d3fb877c0de7ce3e5b23dd2028b82498de81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-26-2022",
+   "path": "local/maramures/tautii-magheraus/2022/26",
+   "short": "HCL Tăuții-Măgherăuș nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 26/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "f5faa3cd3f4153ded03fc4fcc6f02974bb6ba30d07e7dffa66afa67780be1ad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-27-2022",
+   "path": "local/maramures/tautii-magheraus/2022/27",
+   "short": "HCL Tăuții-Măgherăuș nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 27/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "19a938e77b66a3464c29a6462be6dbbf21812b8b7af396f6259de47eb0f39d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-28-2022",
+   "path": "local/maramures/tautii-magheraus/2022/28",
+   "short": "HCL Tăuții-Măgherăuș nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 28/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "8d445b246857a0f2f8f2cd60f4a242345c713245a25e9a28c4549e96d82c8082"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-29-2022",
+   "path": "local/maramures/tautii-magheraus/2022/29",
+   "short": "HCL Tăuții-Măgherăuș nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 29/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "22795942aabc2e35123ca6b47dbc26b20b2dbb70c65cf279fc002a86af8a353f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-3-2022",
+   "path": "local/maramures/tautii-magheraus/2022/3",
+   "short": "HCL Tăuții-Măgherăuș nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 3/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "2d62f23c44c500e5689abee169297aa155ea27b096601a6973c33f1e8c5233c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-30-2022",
+   "path": "local/maramures/tautii-magheraus/2022/30",
+   "short": "HCL Tăuții-Măgherăuș nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 30/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663 din 18.01.2022 al Serviciului Urbanism și Amenajarea",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "5593e1cb06a6a98948a07df32ed69e9c42ce372f5200717a98f976f8fbffe271"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-31-2022",
+   "path": "local/maramures/tautii-magheraus/2022/31",
+   "short": "HCL Tăuții-Măgherăuș nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 31/2022 Cu privire la aprobarea contului de executie a bugetului orasului Tautii Magheraus la data de 31.12.2021 Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință ordinară la data de 31.01.2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-31-aprobare-cont-executie-bugetara-31.12.pdf",
+     "sha256": "a10cef465c490aa5fb941fcda31ef431a2277a7d57f9815e5c75948444aa33ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-32-2022",
+   "path": "local/maramures/tautii-magheraus/2022/32",
+   "short": "HCL Tăuții-Măgherăuș nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 32/2022 privind aprobarea utilizarii excedentului din 2021",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-32-privind-aprobarea-utilizarii-excedentului-din-2021.pdf",
+     "sha256": "c9600f7d7e0844c8326fa3f64e1bcb5f53eec2b6943f139703111b5ba3c094ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-33-2022",
+   "path": "local/maramures/tautii-magheraus/2022/33",
+   "short": "HCL Tăuții-Măgherăuș nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 33/2022 privind aprobarea alocarii drepturilor bănești aferente personalului didactic din cadrul Liceului Tehnologic „Traian Vuia” din Orașul Tautii-Magheraus, care au solicitat decontarea cheltuielilor de deplasare pentru luna noiembrie 2021",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-33-naveta-profesori-noiembrie-2021.pdf",
+     "sha256": "ff627a12d9520efa5f34b7abb7fc2e9f274bb10505c773817845fa0926339dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-34-2022",
+   "path": "local/maramures/tautii-magheraus/2022/34",
+   "short": "HCL Tăuții-Măgherăuș nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 34/2022 privind aprobarea stabilirii unui număr maxim de 45 posturi de asistenti personali ai persoanelor cu handicap la nivelul Primăriei orasului Tautii Magheraus pentru anul 2022 și insusirea raportului privind activitatea asistentilor personali în anul 2021 Consiliul local al orasului Tautii Magheraus intrunit in sedinta ordinara la data de 31.01.2022: Avand in vedere:  raportul nr. 16.223 din 30.12",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-34-asistenti-personali.pdf",
+     "sha256": "17e1de51f0939590399dc12888c9aca499f68c7b275c3ad864e163c791facf2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-35-2022",
+   "path": "local/maramures/tautii-magheraus/2022/35",
+   "short": "HCL Tăuții-Măgherăuș nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 35/2022 Cu privire la aprobarea planului de lucrari de interes local ce vor fi prestate de beneficiarii ajutorului social conform Legii nr. 416/2001 și stabilirea situațiilor deosebite care justifică acordarea ajutoarelor de urgenta pentru anul 2022 la nivelul Orasului Tautii-Magheraus Consiliul local Tautii-Magheraus intrunit de în sedinta ordinara la data de 31.01.2022, Avand in vedere: - prevederile ar",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-35-plan-de-lucrari-de-interes-social.pdf",
+     "sha256": "ff1ae97bab3404df9fcbd910318c8ec6165e8de1a6c17fe630a8df25ec971938"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-37-2022",
+   "path": "local/maramures/tautii-magheraus/2022/37",
+   "short": "HCL Tăuții-Măgherăuș nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 37/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-37-dezlipire-Mociran.pdf",
+     "sha256": "86ca0b398586db06f6048e1dfea2dfb32d3252c708dd1f159ef7005764afc7ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-38-2022",
+   "path": "local/maramures/tautii-magheraus/2022/38",
+   "short": "HCL Tăuții-Măgherăuș nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 38/2022 pentru aprobarea „Organizarea activității și responsabilități privind apărarea împotriva incendiilor la Primăria Orașului Tăuții-Măgherăuș” Consiliul Local al orașului Tăuții Măgherăuș, întrunit în ședință ordinară în data de 31.01.2022; Având în vedere:  Referatul de aprobare al Primarului Orașului Tăuții-Măgherăuș nr.731 din 19.01.2022;  Raportul de specialitate întocmit de către Compartimentu",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-38-Apararea-%C3%AEmpotriva-incendiilor.pdf",
+     "sha256": "81c6823b1cf9dad503dd83a0a7c7d0701598fe2674903b342b535359f85f94e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-39-2022",
+   "path": "local/maramures/tautii-magheraus/2022/39",
+   "short": "HCL Tăuții-Măgherăuș nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 39/2022 privind însușirea raportului de evaluare si aprobarea concesionarii prin incredintare directa d-lui Apostol Cristinel, a terenului in suprafață de 629 mp, situat in orașul.Tautii-Magheraus, str.84, identificat prin nr.cadastral 61369 din CF nr.61369 Tautii-Magheraus, aflat in proprietatea privata a orasului, în vederea extinderii constructiilor",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-39-concesionare-directa-Apostol.pdf",
+     "sha256": "3ec57cae7b9b8f5069a932488795e099d0184ef0840d19bef2e5284f245bf662"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-4-2022",
+   "path": "local/maramures/tautii-magheraus/2022/4",
+   "short": "HCL Tăuții-Măgherăuș nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 4/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "766014e00608839b6b5ee33e6e58f2b7c562c82245ac8325f876f0f481c43289"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-40-2022",
+   "path": "local/maramures/tautii-magheraus/2022/40",
+   "short": "HCL Tăuții-Măgherăuș nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 40/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru concesionarea prin licitatie publica a unui teren din proprietatea privată a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 795 din 20.01.2022 al Serviciului Urbanism și Amenaj",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-40-CONCESIONARE-teren-500-mp-Zaharie.pdf",
+     "sha256": "f2a0be18219577759308fcf1b6262ec614ba13562982c2c5d53eef4cdf641c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-42-2022",
+   "path": "local/maramures/tautii-magheraus/2022/42",
+   "short": "HCL Tăuții-Măgherăuș nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 42/2022 privind modificarea și completarea HCL nr.139/29.10.2021 Consiliul Local al UATO Tăuții-Măgherăuș, întrunit în ședință ordinară, azi, 31.01.2022 Avand in vedere:  HCL nr.139/29.10.2021;  Referatul de aprobare al Primarului nr.345/10.01.2022;  Raportul de specialitate nr.408/11.01.2022 al Compartimentului juridic;  Raportul de specialitate nr.409/11.01.2022, promovat de către Serviciul Urbanism",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-42-modificare-HCL-BINDEA.pdf",
+     "sha256": "079ab124d251f4d5e80c52ba9991816ef0e723c1687e625cf63b0ca312c1f9e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-43-2022",
+   "path": "local/maramures/tautii-magheraus/2022/43",
+   "short": "HCL Tăuții-Măgherăuș nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 43/2022 privind modificarea și completarea HCL nr.180/17.12.2021 Consiliul Local al UATO Tăuții-Măgherăuș, întrunit în ședință ordinară, azi, 31.01.2022 Având in vedere:  HCL nr.180/17.12.2021;  Referatul de aprobare al Primarului nr.537/14.01.2022;  Raportul de specialitate nr.722/18.01.2022 al Compartimentului juridic;  Raportul de specialitate nr.655/17.01.2022, promovat de către Serviciul Urbanism",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-43-modificare-HCL-nr.180-din-17.12.pdf",
+     "sha256": "d401f2149d8a70e03ffc944fc597a62bf574437cc2593f2cd55174198a54fd66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-45-2022",
+   "path": "local/maramures/tautii-magheraus/2022/45",
+   "short": "HCL Tăuții-Măgherăuș nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 45/2022 privind aprobarea planului anual de perfectionare professională al functionarilor publici și al personalului contractual din cadrul aparatului de specialitate al primarului orasului Tăuții- Măgherăuș pentru anul 2022 Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: Raportul de specialitate al Compartimentului Resurse Umane nr. 868/2",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-45-plan-de-perfectionare-2022.pdf",
+     "sha256": "63eb42abd2ed9494133a987810d1060d0b85e85932e96e22c1346a2f58f21832"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-46-2022",
+   "path": "local/maramures/tautii-magheraus/2022/46",
+   "short": "HCL Tăuții-Măgherăuș nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 46/2022 cu privire la aprobarea bugetului local al Orașului Tăuții Măgheraus pe anul 2022 Consiliul local Tăuții Măgherăuș întrunit în ședința ordinară la data de 11.02.2022 Având în vedere:  Referatul de aprobare al primarului cu privire la proiectul de buget în vederea asigurării necesarului de venituri și cheltuieli pentru anul 2022,  raportul de specialitate elaborat de către Serviciul financiar con",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/03/HCL-46-buget-local-2022.pdf",
+     "sha256": "70f0dc410c1c3ad44d514678bda6cf51b399467363b019c251920850c047e33d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-47-2022",
+   "path": "local/maramures/tautii-magheraus/2022/47",
+   "short": "HCL Tăuții-Măgherăuș nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 47/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "d3bb895057a6ed6ba307596766abb3c95146338d0f10d5b276cc0b73d8eb4198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-48-2022",
+   "path": "local/maramures/tautii-magheraus/2022/48",
+   "short": "HCL Tăuții-Măgherăuș nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 48/2022 privind insușirea unei documentații cadastrale și atestarea apartenenței la domeniul privat al Orașului Tăuții-Măgherăuș a unui teren",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "d12fa4a7b78d5d2cd3c47722f20a67130710a4f9957790c7ce097e30e581bcec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-49-2022",
+   "path": "local/maramures/tautii-magheraus/2022/49",
+   "short": "HCL Tăuții-Măgherăuș nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 49/2022 Privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiție ,,Stații de reîncărcare pentru vehicule electrice în Orașul Tăuții Măgherăuș” și aprobarea asigurării finanțării de la bugetul local a cheltuielilor neeligibile prin program",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/03/HCL-49-statii-de-incarcare.pdf",
+     "sha256": "caf877cc1cccec5c6537f57cb8b4e7f8de72be90bf7d4ff4734eb2431f45d1fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-5-2022",
+   "path": "local/maramures/tautii-magheraus/2022/5",
+   "short": "HCL Tăuții-Măgherăuș nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 5/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "f1a5c835c616953ac210b6d57b41465667520f6fbc4c2945e5cbfc0da6c9cc95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-50-2022",
+   "path": "local/maramures/tautii-magheraus/2022/50",
+   "short": "HCL Tăuții-Măgherăuș nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 50/2022 privind aprobarea preluării în domeniul public al Orașului Tăuții-Măgherăuș a suprafeței de teren înscrisă în CF nr.58155 Tăuții-Măgherăuș - parte din str.114 Consiliul local al Orașului Tautii-Magheraus, întrunit în ședință ordinară la data de 23.03.2022, Având în vedere: - Referatul de aprobare al Primarului Orașului Tăuții-Măghrăuș nr.2743/04.03.2022; - Raportul de specialitate al Compartimentu",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-50-preluare-parte-din-str.114.pdf",
+     "sha256": "8f89ab518e15fd3e52b7dc2658f7182100a96b0669319ed94c230aebe430f2c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-51-2022",
+   "path": "local/maramures/tautii-magheraus/2022/51",
+   "short": "HCL Tăuții-Măgherăuș nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 51/2022 cu privire la validarea loturilor libere care pot fi reatribuite în concesiune, în urma demarării unor proceduri de licitație publică",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-51-lista-loturi-libere-concesiuni.pdf",
+     "sha256": "79c3b5ff9d7741752ad71b5f25d97965a12768a2bc94d1f625f2c3d3e8f7c489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-52-2022",
+   "path": "local/maramures/tautii-magheraus/2022/52",
+   "short": "HCL Tăuții-Măgherăuș nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 52/2022 privind modificarea Statutului și Regulamentului de organizare si funcționare al Ocolului Silvic Ardud R.A",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-52-Modificare-statut-Ardud-intrare-Mediesu-Aurit.pdf",
+     "sha256": "ef752ad05f8b50d4f5d26d752b24ef275cc55fa30c259643c5f38f459b26d0a9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--tautii-magheraus-53-2022",
    "path": "local/maramures/tautii-magheraus/2022/53",
    "short": "HCL Tăuții-Măgherăuș nr. 53/2022",
@@ -74,6 +2054,186 @@
      "units": 9,
      "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-53-ocol-silvic-volum-masa-lemnoasa-2022.pdf",
      "sha256": "7c1fbb390e6a9a23dfd8cea2565b292a64c836083e5c88fb369eb46ada82e0a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-54-2022",
+   "path": "local/maramures/tautii-magheraus/2022/54",
+   "short": "HCL Tăuții-Măgherăuș nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 54/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "cebadfa0032322a6da35b612caebfd4e8dd8a1574b1c10c209272ae7bfc84b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-56-2022",
+   "path": "local/maramures/tautii-magheraus/2022/56",
+   "short": "HCL Tăuții-Măgherăuș nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 56/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-56-dezlipire-sediu-primarie.pdf",
+     "sha256": "333c798f03e9d243d5ffc1e244da223e1f07d833fcc664a7d52041726275b379"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-57-2022",
+   "path": "local/maramures/tautii-magheraus/2022/57",
+   "short": "HCL Tăuții-Măgherăuș nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 57/2022 privind aprobarea alocarii drepturilor bănești aferente personalului didactic din cadrul Liceului Tehnologic „Traian Vuia” din Orașul Tautii-Magheraus, care au solicitat decontarea cheltuielilor de deplasare pentru lunile decembrie 2021, ianuarie și februarie 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-57-naveta-profesori-ianuarie-2022.pdf",
+     "sha256": "684c446710e8d14020288c036b1dd6486fafcdf63b3b251f24fbcb06acb15ba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-58-2022",
+   "path": "local/maramures/tautii-magheraus/2022/58",
+   "short": "HCL Tăuții-Măgherăuș nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 58/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-58-consilieri-comisie-de-evaluare-secretar.pdf",
+     "sha256": "1ca398bc77a0a9a90722389a6404ee40cb0d34534ad00ec575892befd26cd89a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-59-2022",
+   "path": "local/maramures/tautii-magheraus/2022/59",
+   "short": "HCL Tăuții-Măgherăuș nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 59/2022 cu privire la aprobarea Programul anual pentru acordarea de finantare nerambursabila din bugetul general al orasului Tautii Magheraus pe anul 2022 conform HCL nr. 46/2022 si aprobarea componentei comisiilor de evaluare a proiectelor si solutionare a contestatiilor Consiliul local al orașului Tautii-Magheraus întrunit în sedinta ordinară în data de 23.03.2022, Având în vedere: - raportul de special",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-59-aprobare-program-finantari-nerambursabile-2022.pdf",
+     "sha256": "04195ef47fc7ed283c4f0a8a5ae44816f68268b8b0c19f41d0b3686bf124b8ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-6-2022",
+   "path": "local/maramures/tautii-magheraus/2022/6",
+   "short": "HCL Tăuții-Măgherăuș nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 6/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "5486f92faa9421a49f9ada4c40f16398621a7ef4f6f7fe6f391ac0f1ed71c2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-60-2022",
+   "path": "local/maramures/tautii-magheraus/2022/60",
+   "short": "HCL Tăuții-Măgherăuș nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 60/2022 cu privire la aprobarea alocarii din bugetul local pe anul 2022 a sumei de 1.800 lei necesare pentru transportul unui număr de 10 sportivi la Campionatul Național de Wing Chun Kung Fu",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-60-transport-campionat-Kung-Fu..pdf",
+     "sha256": "94525ae800f3e2428f53ad1fec8bada349b5a9b8a101fe403ef70bef196a907b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-62-2022",
+   "path": "local/maramures/tautii-magheraus/2022/62",
+   "short": "HCL Tăuții-Măgherăuș nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 62/2022 cu privire la aprobarea alocarii din bugetul local al orașului Tăuții Măgherăuș, pe anul 2022, a sumei de 20.000,00 lei necesare pentru organizarea evenimentului cultural « 10 ani de la înființarea Fanfarei Stibina»",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-62-aniversare-fanfara-Stibina.pdf",
+     "sha256": "023cae3207d970e3566e2258be9f1b54e527432f27cd7c42766662bbd5fd0ebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-64-2022",
+   "path": "local/maramures/tautii-magheraus/2022/64",
+   "short": "HCL Tăuții-Măgherăuș nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 64/2022 cu privire la aprobarea Cererii de finanțare și a Devizului general pentru obiectivul de investiții \"Extinderea sistemului de distribuție gaze naturale în loc. Nistru, orașul Tăuții Măgherăuș, Județul Maramureș\" Consiliul local al Orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 23.03.2022 Având în vedere: -Referatul de aprobare, prezentat de către primarul Orașului Tăuții-Măgher",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-64-extindere-gaz-Nistru.pdf",
+     "sha256": "dd95b9665cbb4b3e8906bc144d833b56d0115c8666495941b62a4ef7b9fb8ddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-65-2022",
+   "path": "local/maramures/tautii-magheraus/2022/65",
+   "short": "HCL Tăuții-Măgherăuș nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 65/2022 cu privire la aprobarea Cererii de finanțare și a Devizului general pentru obiectivul de investiții \"Extinderea sistemului de distribuție gaze naturale în loc. Băița, orașul Tăuții Măgherăuș, Județul Maramureș\" Consiliul local al Orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 23.03.2022 Având în vedere: -Referatul de aprobare, prezentat de către primarul Orașului Tăuții-Măgheră",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-65-extindere-GAZ-Baita.pdf",
+     "sha256": "2ca367b22a32d06e579e9ae229cb920c13447cfbc3cad964a33891af34359dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-66-2022",
+   "path": "local/maramures/tautii-magheraus/2022/66",
+   "short": "HCL Tăuții-Măgherăuș nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 66/2022 cu privire la aprobarea cuantumului si a numarului de burse scolare pe anul 2022 Consiliul Local al Orasului Tautii Magheraus intrunit in sedinta ordinara la data de 23.03.2022 Având în vedere:  Referatul de aprobare al primarului,  Solicitarea nr.668 din 17.03.2022 a Liceului Tehnologic „Traian Vuia” Tautii Magheraus, inregistrata la Primaria Orasului Tautii Magheraus cu nr. 3621 din 21.03.2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-66-burse-scolare-2022.pdf",
+     "sha256": "cbb6eaebbcf12546d2db230401e814e8fd6c57105b6eeb68fc96c7ac1460993a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-67-2022",
+   "path": "local/maramures/tautii-magheraus/2022/67",
+   "short": "HCL Tăuții-Măgherăuș nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 67/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/04/HCL-67-rectificare-bugetara.pdf",
+     "sha256": "2c3739d471063e2e0112f47aee52419d370c1d521dd31a93350828e2c2f2cb8d"
     }
    ]
   },
@@ -93,6 +2253,396 @@
    ]
   },
   {
+   "slug": "hcl-maramures--tautii-magheraus-69-2022",
+   "path": "local/maramures/tautii-magheraus/2022/69",
+   "short": "HCL Tăuții-Măgherăuș nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 69/2022 privind aprobarea documentației tehnico-economice pentru investiția: \"Reabilitare, modernizare, dotare și extindere bază sportivă cu tribune, vestiare și dotări, Str. 83, Nr. 58, localitatea Băița, oraș Tăuții-Măgherăuș, județul Maramureș\" Având în vedere: - Proiectul de hotărâre și referatul de aprobare întocmite de către dl",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/05/HCL-69-indicatori-TE-baza-sportiva-Baita.pdf",
+     "sha256": "0a72b36d23a81a6435f72ad1748f70104bbd3a68d3c3bfb81bb17580eead7532"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-7-2022",
+   "path": "local/maramures/tautii-magheraus/2022/7",
+   "short": "HCL Tăuții-Măgherăuș nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 7/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "7420c6ac0cddcdab98d30b0a90356d6020b23a43a88cb72e9268e7e10cbd66f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-70-2022",
+   "path": "local/maramures/tautii-magheraus/2022/70",
+   "short": "HCL Tăuții-Măgherăuș nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 70/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "51fe37e3bb1a876e00b9f1ff63edc841fbc8fc38a861d47478a6b48cf29b96cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-71-2022",
+   "path": "local/maramures/tautii-magheraus/2022/71",
+   "short": "HCL Tăuții-Măgherăuș nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 71/2022 cu privire la aprobarea actualizării Cererii de finanțare și a Devizului general pentru obiectivul de investiții \"Extinderea sistemului de distribuție gaze naturale în loc. Nistru, orașul Tăuții Măgherăuș, Județul Maramureș\" Consiliul local al Orașului Tăuții-Măgherăuș, întrunit de îndată în ședință extraordinară la data de 11.04.2022 Având în vedere: -Referatul de aprobare, prezentat de către pri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/05/HCL-71-actualizare-deviz-GAZ-Nistru.pdf",
+     "sha256": "6134c172d0be0b537c0ec1058e515512ce3a662dbff7feef33207a9ff67c01a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-72-2022",
+   "path": "local/maramures/tautii-magheraus/2022/72",
+   "short": "HCL Tăuții-Măgherăuș nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 72/2022 cu privire la aprobarea actualizării Cererii de finanțare și a Devizului general pentru obiectivul de investiții \"Extinderea sistemului de distribuție gaze naturale în loc. Băița, orașul Tăuții Măgherăuș, Județul Maramureș\" Consiliul local al Orașului Tăuții-Măgherăuș, întrunit de îndată în ședință extraordinară la data de 11.04.2022 Având în vedere: -Referatul de aprobare, prezentat de către prim",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/05/HCL-72-actualizare-deviz-GAZ-Baita.pdf",
+     "sha256": "ea430f8cf61e18531b222549220f16b8d369872ae387911b87dfc21babb66650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-73-2022",
+   "path": "local/maramures/tautii-magheraus/2022/73",
+   "short": "HCL Tăuții-Măgherăuș nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 73/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/05/HCL-73-amplasament-modificat.pdf",
+     "sha256": "c91e7c7d3b5b67143784431f3e0ca29528df8f7988d01be4f6b3f7c822652acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-74-2022",
+   "path": "local/maramures/tautii-magheraus/2022/74",
+   "short": "HCL Tăuții-Măgherăuș nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 74/2022 privind aprobarea sumelor de bani necesare participării și motivării voluntarilor din cadrul Serviciului voluntar pentru situații de urgență al orașului Tăuții-Măgherăuș, la concursul organizat de ISU Maramureș în data de 08.05.2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/05/HCL-74-premiere-voluntari-ISU.pdf",
+     "sha256": "34c2c757e4b18e97c795e376d495949c114859c80828b6e3780aa3bd56bcd673"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-76-2022",
+   "path": "local/maramures/tautii-magheraus/2022/76",
+   "short": "HCL Tăuții-Măgherăuș nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 76/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "1ec36000880b91c89d9504482db128c87dfcd02f8f95cb3ddba4b469c5cebba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-77-2022",
+   "path": "local/maramures/tautii-magheraus/2022/77",
+   "short": "HCL Tăuții-Măgherăuș nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 77/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "019ea8ba1b44e124aea779c57224a765e74c2c9e3f28202524d893ae97e5ba22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-78-2022",
+   "path": "local/maramures/tautii-magheraus/2022/78",
+   "short": "HCL Tăuții-Măgherăuș nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 78/2022 privind aprobarea preluării în domeniul public al Orașului Tăuții-Măgherăuș a suprafețelor de teren înscrise în CF nr.51391 Tăuții-Măgherăuș și în CF nr.58412 Tăuții-Măgherăuș, parte din str.151",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/06/HCL-78-preluare-parte-din-str.151.pdf",
+     "sha256": "96d372a78ad08f898643b20f5b90ae8775086b5fc6ecf871eebb524f3f70654f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-79-2022",
+   "path": "local/maramures/tautii-magheraus/2022/79",
+   "short": "HCL Tăuții-Măgherăuș nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 79/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privata al Orașului Tăuții Măgherăuș asupra unui teren aflat în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/06/HCL-79-prima-inscriere-Martorii-lui-Iehova.pdf",
+     "sha256": "22b6c7b05dbf012c4612d53c2f01efbe0443dd672ad42a2283be1dd37bb575cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-8-2022",
+   "path": "local/maramures/tautii-magheraus/2022/8",
+   "short": "HCL Tăuții-Măgherăuș nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 8/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "5e2564d6de54dc0060787d2ec507d51a8ed06a7f75e86c0f4455bc135d0fe43e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-80-2022",
+   "path": "local/maramures/tautii-magheraus/2022/80",
+   "short": "HCL Tăuții-Măgherăuș nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 80/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privata al Orașului Tăuții Măgherăuș asupra unui teren aflat în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/06/HCL-80-prima-inscriere-Balint.pdf",
+     "sha256": "040b9f14a5ab28ee544b7978def16aa2927a9058a0d6110e397edeb065864639"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-81-2022",
+   "path": "local/maramures/tautii-magheraus/2022/81",
+   "short": "HCL Tăuții-Măgherăuș nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 81/2022 cu privire la aprobarea alocarii din bugetul local pe anul 2022 a sumei de 20.000 lei necesare pentru organizarea Festivalului Național de Umor «Cu umorul nu-i de glumit»",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/06/HCL-81-Festival-Umor.pdf",
+     "sha256": "c482700950d23200f2682a4b0e9215d9b03c9da7852366d5b7dd21b56e02c6eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-82-2022",
+   "path": "local/maramures/tautii-magheraus/2022/82",
+   "short": "HCL Tăuții-Măgherăuș nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 82/2022 Cu privire la aprobarea contului de executie a bugetului orasului Tautii Magheraus la data de 31.03.2022 Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință ordinară la data de 13.05.2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/06/HCL-82-aprobare-cont-executie-bugetara-31.03.2022.pdf",
+     "sha256": "dc8149127709232321dc7650dd2570d99c3d79cbdac00729296abf78769a6531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-83-2022",
+   "path": "local/maramures/tautii-magheraus/2022/83",
+   "short": "HCL Tăuții-Măgherăuș nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 83/2022 privind rectificarea bugetului local al orașului Tăuții-Măgherăuș pe anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/06/HCL-83-rectificare-bugetara.pdf",
+     "sha256": "8019abeb136c133772296e4cd2311633c77a0d9e0eacb7e7b2fadff8c8a9aed4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-84-2022",
+   "path": "local/maramures/tautii-magheraus/2022/84",
+   "short": "HCL Tăuții-Măgherăuș nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 84/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vanzarea prin licitatie publica a unui teren din proprietatea privata a orasului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 13.05.2022, Având în vedere: - Studiul de oportunitate nr. 5713/2022 al Serviciului Urbanism și Amenajarea Teritoriu",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/hotarari/",
+     "sha256": "3025022ee3f9343844c7684d08eaff353a47ebda86821756b12733dba39c1fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-85-2022",
+   "path": "local/maramures/tautii-magheraus/2022/85",
+   "short": "HCL Tăuții-Măgherăuș nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 85/2022 privind aprobarea proiectului, a cheltuielilor aferente proiectului și a depunerii proiectului: „Ansamblul de locuințe sociale pentru tinerii aflati in dificultate din Oraș Tăuții Măgherăuș, Jud. Maramureș” în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 10 - Fondul local",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/06/HCL-85-Ansamblu-de-locuinte-sociale-tineri.pdf",
+     "sha256": "dd84829d1bc7128cb243557ea05ae8496995a6a1fd29dade308298d898beb59f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-86-2022",
+   "path": "local/maramures/tautii-magheraus/2022/86",
+   "short": "HCL Tăuții-Măgherăuș nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 86/2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/06/HCL-86-Operator-autobuze.pdf",
+     "sha256": "12b3daf5748444cd225cdc55c61a4ede6c39ff4ac4f4eab4d8c65742802b582a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-87-2022",
+   "path": "local/maramures/tautii-magheraus/2022/87",
+   "short": "HCL Tăuții-Măgherăuș nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 87/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-87-dezlipire-Parohie-Merisor.pdf",
+     "sha256": "c69554327dc47014af010a0231b6fd16d4f88c1a7f3d21e3d7bc1c4d37a58538"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-88-2022",
+   "path": "local/maramures/tautii-magheraus/2022/88",
+   "short": "HCL Tăuții-Măgherăuș nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 88/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 2 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-88-dezlipire-Rogojan.pdf",
+     "sha256": "91726fee6780aee3c1f3109eed9486edc8ab8e0f9d7f0044c8ae9caec0971008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-9-2022",
+   "path": "local/maramures/tautii-magheraus/2022/9",
+   "short": "HCL Tăuții-Măgherăuș nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 9/2022 privind însusirea raportului de evaluare, aprobarea studiului de oportunitate și a documentației de atribuire pentru vânzarea prin licitație publică a unui teren din proprietatea privată a orașului Consiliul local al orașului Tăuții-Măgherăuș, întrunit în ședință ordinară la data de 31.01.2022, Având în vedere: - Studiul de oportunitate nr. 663/18.01.2022 al Serviciului Urbanism și Amenajarea Teri",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/02/HCL-9-vanzare-teren-440-mp-Huber-Anna.pdf",
+     "sha256": "7c96d24e5c10a749366cb57adeba30cd5326caf4a8c0cfe0e71a217997a6f8d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-90-2022",
+   "path": "local/maramures/tautii-magheraus/2022/90",
+   "short": "HCL Tăuții-Măgherăuș nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 90/2022 privind aprobarea preluării în domeniul public al Orașului Tăuții-Măgherăuș a suprafeței de teren înscrisă în CF nr.58321 Tăuții-Măgherăuș, parte din str.52",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-90-preluare-parte-din-str.52.pdf",
+     "sha256": "4befd21ba44a253d6a26af75ba0ccd1e2129e43230fcbc406393e134b1d75371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-91-2022",
+   "path": "local/maramures/tautii-magheraus/2022/91",
+   "short": "HCL Tăuții-Măgherăuș nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 91/2022 cu privire la aprobarea alocarii din bugetul local pe anul 2022 a sumei de 50.000 lei necesare pentru organizarea evenimentelor prilejuite de Sărbătoarea Orașului Tăuții Măgherăuș 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-91-Sume-Sarbatoarea-orasului-TM.pdf",
+     "sha256": "99ed636cb4e3ce466c040322c4db8784809a4aa27b4c725e4a18a6b9821a47c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-93-2022",
+   "path": "local/maramures/tautii-magheraus/2022/93",
+   "short": "HCL Tăuții-Măgherăuș nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 93/2022 privind aprobarea bilanțului contabil și a repartizării profitului SC PRIMA TĂUȚI SRL, aferent anului 2021, precum și a proiectului bugetului de venituri și cheltuieli pentru anul 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-93-aprobare-bilant-PRIMA-TAUTI.pdf",
+     "sha256": "5405e8b9b6ac23d48c4fc19768051cc06cdbfa744a4c23a873c64f645174f31d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-94-2022",
+   "path": "local/maramures/tautii-magheraus/2022/94",
+   "short": "HCL Tăuții-Măgherăuș nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 94/2022 privind aprobarea alocarii drepturilor bănești aferente personalului didactic din cadrul Liceului Tehnologic „Traian Vuia” din Orașul Tautii-Magheraus, care au solicitat decontarea cheltuielilor de deplasare pentru lunile martie și aprilie 2022",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-94-naveta-profesori-martie-aprilie-2022.pdf",
+     "sha256": "f98bb58044c0c2a7edd1d8071782ae5899c97b22ee2c0de157c7774c1b1aba8a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--tautii-magheraus-95-2022",
    "path": "local/maramures/tautii-magheraus/2022/95",
    "short": "HCL Tăuții-Măgherăuș nr. 95/2022",
@@ -104,6 +2654,51 @@
      "units": 1,
      "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-95-PUZ-str-3-Mihut-Kert.pdf",
      "sha256": "50b9b4f4b02719144f00956ff1ee1c8e38167e13b2a0253c52bb294d0259bdc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-96-2022",
+   "path": "local/maramures/tautii-magheraus/2022/96",
+   "short": "HCL Tăuții-Măgherăuș nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 96/2022 privind aprobarea efectuării demersurilor necesare pentru înscrierea în cartea funciară a dreptului de proprietate privata al Orașului Tăuții Măgherăuș asupra unui teren aflat în Tautii-Magheraus",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-96-prima-inscriere-Chereches.pdf",
+     "sha256": "8fbcaba0e2ea53e57397b5cfd61d4120a7123b11035e8832888833aede6cba02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-97-2022",
+   "path": "local/maramures/tautii-magheraus/2022/97",
+   "short": "HCL Tăuții-Măgherăuș nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 97/2022 cu privire la aprobarea efectuării demersurilor necesare în vederea dezlipirii, în 4 loturi, a unui teren, proprietate privată a Orașului Tăuții-Măgherăuș",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-97-dezlipire-European.pdf",
+     "sha256": "cda167d6e0307cb0fc582ed8b679d0a50068e78ab83bc2116975cba992e21ad2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--tautii-magheraus-99-2022",
+   "path": "local/maramures/tautii-magheraus/2022/99",
+   "short": "HCL Tăuții-Măgherăuș nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 99/2022 cu privire la aprobarea alocarii din bugetul local al orașului Tăuții Măgherăuș, pe anul 2022, a sumei de 4000 lei necesare pentru participarea Fanfarei «Stibina» la Festivalul Național de Fanfară «Promenada Verii» și la Festivalul Fanfarelor de la Rodna",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2022/07/HCL-99-4000-lei-Stibina.pdf",
+     "sha256": "a610b744eff6e6b6db0ba82c56661bb16ad8bc6290be401aa84176ccdca7ec26"
     }
    ]
   }

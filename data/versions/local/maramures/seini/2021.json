@@ -3,6 +3,21 @@
  "shard": "local/maramures/seini/2021",
  "acts": [
   {
+   "slug": "hcl-maramures--seini-43-2021",
+   "path": "local/maramures/seini/2021/43",
+   "short": "HCL Seini nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 43/2021 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2021 la SC Centrul de afaceri RO-UA SRL Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 20.05.2021 Avand in vedere : Raportul prezentat de administratorul SC Centrul de afaceri RO-UA cu privire la necesitatea aprobarii bugetului de venituri si cheltuieli pe anul 2021",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/05/Hotararea-nr.43.pdf",
+     "sha256": "4e26d90bf5e1010bccf5bdaea4f9a393bf429a0b35a7e021ce63da6961ad37d3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-44-2021",
    "path": "local/maramures/seini/2021/44",
    "short": "HCL Seini nr. 44/2021",
@@ -14,6 +29,36 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2021/05/Hotararea-nr.44.pdf",
      "sha256": "aff2b0ee9fed9c432fd2ee2fc6ddecda009fdd5ca44634c114440a113b98be8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-45-2021",
+   "path": "local/maramures/seini/2021/45",
+   "short": "HCL Seini nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 45/2021 privind aprobarea Strategiei de dezvoltare durabilă a orașului Seini 2021 – 2027 Consiliul local al orașului Seini întrunit în ședință ordinară la data de 20.05.2021 Având în vedere: - Solicitarea ADR NV de reactualizare a Strategiei de Dezvoltare Durabilă a orașului Seini; - Oportunitatea de a implementa proiecte finanțate prin POR 2021-2027; - Raportul Administratorului Public din cadrul Aparatu",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/05/Hotararea-nr.45.pdf",
+     "sha256": "87c41094006223974902d1737c86c4081ed36c2af2e8c6fd51a72af5ae8e0196"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-46-2021",
+   "path": "local/maramures/seini/2021/46",
+   "short": "HCL Seini nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 46/2021 privind aprobare construire locuință unifamilială (parter) împrejmuire proprietate, racordări și branșament la rețeaua de utilități – FAZA P.U.D",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/05/Hotararea-nr.46.pdf",
+     "sha256": "f20a3d8c0fe57a8976410fa27f51aff5e6b44fa95dfe10dab770a1aa5ae754b9"
     }
    ]
   },
@@ -48,6 +93,141 @@
    ]
   },
   {
+   "slug": "hcl-maramures--seini-49-2021",
+   "path": "local/maramures/seini/2021/49",
+   "short": "HCL Seini nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 49/2021 privind aprobarea modificării organigramei si a Statului de functii ale Aparatului de specialitate al primarului orasului Seini Consiliul local al orașului Seini întrunit în ședință ordinară la data de 20.05.2021 Având în vedere : - Referatul de aprobare nr. 4153/08.04.2021 al primarului orasului Seini cu privire la necesitatea modificării organigramei primăriei si a Statului de functii; - Raportu",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/05/Hotararea-nr.49.pdf",
+     "sha256": "60fb62e2479a8edffec8bb3425fdee57795764864a61b78629b9479bf2e7f9c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-50-2021",
+   "path": "local/maramures/seini/2021/50",
+   "short": "HCL Seini nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 50/2021 privind aprobarea Indicatorilor tehnico - economici și Devizul General reactualizați pentru obiectivul „Pod rutier peste râul Someș între orașul Seini și comuna Pomi în punctul de trecere cu bacul” Consiliul local al orasului Seini, intrunit in sedinta ordinara la data de 20.05.2021 Având în vedere: - Dispozițiile de șantier nr. 5 și nr. 6 emise de proiectantul obiectivului menționat mai sus, SC V",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/05/Hotararea-nr.50.pdf",
+     "sha256": "1562cb0a0d2beafcb7589d787f2ba93ee6e3dee29f750b61d4dd5b2e73089e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-61-2021",
+   "path": "local/maramures/seini/2021/61",
+   "short": "HCL Seini nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 61/2021 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2021 si a modificarii listei de investitii Consiliul local al orașului Seini întrunit în ședință extraordinară la data de 31.08.2021 Având în vedere : - Raportul Serviciului economic si resurse umane din cadrul Aparatului de specialitate al primarului. - Proiectul de hotărâre. -Avizul comisiei de dezvoltar",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.61.pdf",
+     "sha256": "fe7447783728c7491373827d2f37a520f3a0f5005beaedc8104e9d9737be1e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-62-2021",
+   "path": "local/maramures/seini/2021/62",
+   "short": "HCL Seini nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 62/2021 privind alegerea președintelui de ședință al Consiliului Local al orasului Seini pentru lunile octombrie, noiembrie, decembrie 2021 Consiliul Local al orasului Seini, întrunit în ședință ordinară la data de 13.09.2021; Având în vedere: - Raportul nr. 9679/07.09.2021 al secretarului general al orasului; - Avizul comisiei pentru administratie publica, ordine publica, respectarea drepturilor cetateni",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.62.pdf",
+     "sha256": "f21eeb6b897085cdaae3b560885250c4ac467d0bbd042b1a0211cda5ef839d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-63-2021",
+   "path": "local/maramures/seini/2021/63",
+   "short": "HCL Seini nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 63/2021 Privind aprobarea angajarii unui avocat in vederea asigurarii apararii in fata Curtii de Apel Cluj, in faza de recurs cu privire la Sentinta nr. 1163/29.07.2021 de suspendare a dispozitiei primarului nr. 105/11.06.2021 in dosar nr. 1526/100/2021; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 13.09.2021 Avand in vedere : - Dosarul nr. 1526/100/2021 inregistrat la Tribuna",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.63.pdf",
+     "sha256": "80b37dae2b95bd01c74449f0a4e4b22fb457f8497b3ff09f0bfa782eb2067d44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-64-2021",
+   "path": "local/maramures/seini/2021/64",
+   "short": "HCL Seini nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 64/2021 Privind aprobarea angajarii unui avocat in vederea asigurarii apararii in fata Tribunalului Maramures in dosar nr. 1526/100/2021 avand ca obiect anulare act administrativ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 13.09.2021 Avand in vedere : - Dosarul nr. 1526/100/2021 inregistrat la Tribunalul Maramures avand ca obiect anulare act administrativ; - Referatul secret",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.64.pdf",
+     "sha256": "b683d47ed91d3c374193cf9a52e31a7d8fa32f97c0c6ca26efe52964e82b7943"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-65-2021",
+   "path": "local/maramures/seini/2021/65",
+   "short": "HCL Seini nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 65/2021 Privind aprobarea angajarii unui avocat in vederea asigurarii apararii in fata Tribunalului Maramures in dosar nr. 1804/100/2021 avand ca obiect anulare act emis de autoritati publice locale Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 13.09.2021 Avand in vedere : - Dosarul nr. 1804/100/2021 inregistrat la Tribunalul Maramures avand ca obiect anulare act emis de autori",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.65.pdf",
+     "sha256": "adf3154685e6971ca8aebb9b9cd6e7f509f8ffebf590e2f4a2780db1cdf74899"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-66-2021",
+   "path": "local/maramures/seini/2021/66",
+   "short": "HCL Seini nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 66/2021 Privind aprobarea angajarii unui avocat in vederea formularii contestatiei impotriva Deciziei nr. 206 din 01.09.2021 a MDLPA si a Notei de neconformitate din 13.07.2021 a AMPOR și asigurarea apărării în dosarul astfel format în fața Tribunalului Maramureș pentru obiectivul „Reintegrare Socială la Seini” Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 13.09.2021 Avand in v",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.66.pdf",
+     "sha256": "1e763cacb759d0de746d63a06259633d5522832f6729070b4fd3ba61cb03a52b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-67-2021",
+   "path": "local/maramures/seini/2021/67",
+   "short": "HCL Seini nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 67/2021 privind aprobarea Indicatorilor tehnico - economici și Devizul General reactualizați pentru obiectivul „Pod rutier peste râul Someș între orașul Seini și comuna Pomi în punctul de trecere cu bacul” Consiliul local al orasului Seini, intrunit in sedinta ordinara la data de 13.09.2021 Având în vedere: - Dispozițiile de șantier nr. 5 și nr. 6 emise de proiectantul obiectivului menționat mai sus, SC V",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.67.pdf",
+     "sha256": "79e16a565ec687fb3c3f59581cc03a02cdbfd3bfa4ba001012d9e9661ecd8abb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-68-2021",
    "path": "local/maramures/seini/2021/68",
    "short": "HCL Seini nr. 68/2021",
@@ -74,6 +254,66 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.69.pdf",
      "sha256": "3cd267142c95c7c9a7cb1b918b9ee24a1a5919e0f1569a9e772e6d72cbac0859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-70-2021",
+   "path": "local/maramures/seini/2021/70",
+   "short": "HCL Seini nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 70/2021 privind aprobarea rectificării bugetului de venituri și cheltuieli al orașului Seini pe anul 2021 si a modificarii listei de investitii Consiliul local al orașului Seini întrunit în ședință ordinară la data de 13.09.2021 Având în vedere : - Raportul Serviciului economic si resurse umane din cadrul Aparatului de specialitate al primarului. - Proiectul de hotărâre. -Avizul comisiei de dezvoltare eco",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.70.pdf",
+     "sha256": "a1f5686ee7886d95f4ff4a88de08f30ae419afeb4a5d9008e332a4ac61dd43d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-71-2021",
+   "path": "local/maramures/seini/2021/71",
+   "short": "HCL Seini nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 71/2021 privind acordarea unui sprijin financiar pentru asociatia sportiva ’’ Club sportiv Seini’’ Consiliul Local al orasului Seini, întrunit în ședință ordinară la data de 13.09.2021; Având în vedere: - Raportul serviciului economic si resurse umane din cadrul primariei orasului Seini; - Avizul comisiei de dezvoltare economico – sociala, buget – finante din cadrul Consiliului local Seini; - Avizul secre",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.71.pdf",
+     "sha256": "7b25ad5ea75418d25ce7dc4dfb5f98de2264e13b87df1feab56c040e5be309dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-72-2021",
+   "path": "local/maramures/seini/2021/72",
+   "short": "HCL Seini nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 72/2021",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotarerea-nr.72.pdf",
+     "sha256": "995308740f5fe38785d2507f63cc4b49eab20d54e61e33b5d3b8fa76a3b0602b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-73-2021",
+   "path": "local/maramures/seini/2021/73",
+   "short": "HCL Seini nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 73/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2021/09/Hotararea-nr.73.pdf",
+     "sha256": "2b7ef6b3d16983ea51d60e2a13992b1955032c3c45c9773c0a654270417a4da7"
     }
    ]
   }

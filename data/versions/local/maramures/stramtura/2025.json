@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--stramtura-2-2025",
+   "path": "local/maramures/stramtura/2025/2",
+   "short": "HCL Strâmtura nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strâmtura nr. 2/2025 privind desemnarea reprezentantului comunei Stâmtura, ca membru în Adunarea Generală a ADI-Maramureș, pentru mandatul 2024 - 2025",
+   "url": "https://emol.ro/stramtura-mm/registru-hcl/211620",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stramtura-mm/registru-hcl/211620",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--stramtura-20-2025",
    "path": "local/maramures/stramtura/2025/20",
    "short": "HCL Strâmtura nr. 20/2025",

@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--balvanesti-5-2025",
+"path": "local/mehedinti/balvanesti/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 5/2025 privind alegerea președintelui de ședință a Consiliul Local Balvanesti,judetul Mehedinti pentru perioada Februarie 2025- Aprilie 2025",
+"short": "HCL Bâlvănești nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/189010",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--balvanesti-6-2025",
 "path": "local/mehedinti/balvanesti/2025/6",
 "kind": "local",
@@ -132,6 +154,50 @@
 "council_name": "Consiliul Local al Comunei Bâlvănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-8-2025",
+"path": "local/mehedinti/balvanesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 8/2025 privind aprobarea Devizului de cheltuieli actualizat, privind categoriile de cheltuieli necesare pentru elaborarea documentației privind „Actualizarea Planulul Urbanistic General șl al Regulamentulul Local de Urbanism, comuna Bâlvănești, Județul Mehedinți",
+"short": "HCL Bâlvănești nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/197029",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-9-2025",
+"path": "local/mehedinti/balvanesti/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 9/2025 privind privind aprobarea bugetului local si a bugetului de venituri proprii pe anul 2025",
+"short": "HCL Bâlvănești nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/197030",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Bâlvănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-14-2025",
+"path": "local/mehedinti/balvanesti/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 14/2025 privind revocarea Hotărârii Consiliului Local Bâlvănești nr. 12/ 14.03.2025 (privind aprobarea PROGRAMULUI CALENDARISTIC pentru realizarea acțiunilor referitoare la organizarea si desfășurarea referendumului local din data de 4 mai 2025 pentru consultarea populației satului Bâlvăneștii de Jos, comuna Bâlvănești cu privire la schimbarea denumirii satului Bâlvăneștii de Jos din comuna Bâlvănești, județul Mehedinți)",
+"short": "HCL Bâlvănești nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/200468",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +421,51 @@
 }
 },
 {
+"slug": "hcl-mehedinti--balvanesti-20-2025",
+"path": "local/mehedinti/balvanesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 20/2025 privind alegerea președintelui de ședință a Consiliul Local Balvanesti,judetul Mehedinti pentru perioada Mai 2025- Iulie 2025",
+"short": "HCL Bâlvănești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/205656",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-21-2025",
+"path": "local/mehedinti/balvanesti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 21/2025",
+"short": "HCL Bâlvănești nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/205657",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--balvanesti-22-2025",
 "path": "local/mehedinti/balvanesti/2025/22",
 "kind": "local",
@@ -418,6 +551,28 @@
 "council_name": "Consiliul Local al Comunei Bâlvănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-26-2025",
+"path": "local/mehedinti/balvanesti/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 26/2025 privind aprobarea modificării și completării Organigramei și a Statului de funcții al aparatului de specialitate al primarului comunei Bâlvănești",
+"short": "HCL Bâlvănești nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-15",
+"latest": "2025-07-15",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/216516",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

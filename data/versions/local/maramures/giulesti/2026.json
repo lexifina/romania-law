@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-maramures--giulesti-10-2026",
+   "path": "local/maramures/giulesti/2026/10",
+   "short": "HCL Giulești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 10/2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/256005",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/256005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-11-2026",
+   "path": "local/maramures/giulesti/2026/11",
+   "short": "HCL Giulești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 11/2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/256006",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/256006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-12-2026",
+   "path": "local/maramures/giulesti/2026/12",
+   "short": "HCL Giulești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 12/2026 privind alegerea președintelui de ședință pe o perioadă de 3 luni - aprilie - iunie 2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/262751",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/262751",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-13-2026",
    "path": "local/maramures/giulesti/2026/13",
    "short": "HCL Giulești nr. 13/2026",
@@ -78,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--giulesti-17-2026",
+   "path": "local/maramures/giulesti/2026/17",
+   "short": "HCL Giulești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 17/2026 privind acordare spațiu pentru desfășurare activități medico-veterinare",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/266047",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/266047",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-18-2026",
    "path": "local/maramures/giulesti/2026/18",
    "short": "HCL Giulești nr. 18/2026",
@@ -133,6 +193,21 @@
      "from": "2026-05-12",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/266050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-21-2026",
+   "path": "local/maramures/giulesti/2026/21",
+   "short": "HCL Giulești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 21/2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/266051",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/266051",
      "sha256": null
     }
    ]
@@ -568,6 +643,36 @@
      "from": "2026-03-13",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/256002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-8-2026",
+   "path": "local/maramures/giulesti/2026/8",
+   "short": "HCL Giulești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 8/2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/256003",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/256003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-9-2026",
+   "path": "local/maramures/giulesti/2026/9",
+   "short": "HCL Giulești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 9/2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/256004",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/256004",
      "sha256": null
     }
    ]

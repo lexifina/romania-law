@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/maramures/seini/2025",
+"acts": [
+{
+"slug": "hcl-maramures--seini-113-2025",
+"path": "local/maramures/seini/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Seini nr. 113/2025 privind alegerea președintelui de ședință al Consiliului Local Seini pentru ședința din data de 23.10.2025",
+"short": "HCL Seini nr. 113/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2025/",
+"council": "maramures/seini",
+"council_name": "Consiliul Local al Orașului Seini",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,186 @@
  "shard": "local/maramures/seini/2014",
  "acts": [
   {
+   "slug": "hcl-maramures--seini-13-2014",
+   "path": "local/maramures/seini/2014/13",
+   "short": "HCL Seini nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 13/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-13.pdf",
+     "sha256": "d3cfd7a299080e3c71a1e3245f23271af41dea6ed0c42e108b3faf96d3c0570b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-14-2014",
+   "path": "local/maramures/seini/2014/14",
+   "short": "HCL Seini nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 14/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-14.pdf",
+     "sha256": "5cf8723cda8666c6f283c9b6710f2b576761fe12f273a03c13db879ad8f9a1db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-15-2014",
+   "path": "local/maramures/seini/2014/15",
+   "short": "HCL Seini nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 15/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-15.pdf",
+     "sha256": "786f043f877b508716515db7913c51106c69206c141d6ed83541ca1a7a6812c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-16-2014",
+   "path": "local/maramures/seini/2014/16",
+   "short": "HCL Seini nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 16/2014 privind aprobarea modificarii bugetului de venituri si cheltuieli a orasului Seini pe anul 2014; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 21.03.2014; Avand in vedere : - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului orasului cu privire la necesitatea modificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2014 ;",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-16.pdf",
+     "sha256": "5b26b7d26102790abec79ab59a80c6185574478e85e4b8b6aef416077eced2f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-17-2014",
+   "path": "local/maramures/seini/2014/17",
+   "short": "HCL Seini nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 17/2014 Privind aprobarea identificarii topografice a terenului situat in Seini, Sabisa- -Scoala in suprafata de 1086 mp apartinand domeniului public al orasului Seini si notarea in CF a cladirilor si terenului in domeniul public al orasului; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 21.03.2014",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-17.pdf",
+     "sha256": "75552a412cb14073a20f40e74f385d71bff2c832f4b3a7a1d8d1d8e9859999ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-19-2014",
+   "path": "local/maramures/seini/2014/19",
+   "short": "HCL Seini nr. 19/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 19/2014 privind aprobarea indicatorilor tehnico-economici pentru lucrarea de investitie « Extindere si modernizare Scoala Sabisa, Seini, jud",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-19.pdf",
+     "sha256": "61b0dd0a6b59cfefcb6516b4939963c2ce6ac60eabb14b56ad64c8a9840e73c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-20-2014",
+   "path": "local/maramures/seini/2014/20",
+   "short": "HCL Seini nr. 20/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 20/2014 privind aprobarea indicatorilor tehnico-economici pentru lucrarea de investitie « Montare corpuri de iluminat in orasul Seini » Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 21.03.2014; Avind in vedere: - Faptul ca toate corpurile de iluminat public din orasul Seini sunt intr-o stare avansata de uzura si necesita ca sa fie schimbate; - Raportul Serviciului urbanism din ca",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-20.pdf",
+     "sha256": "5d1faa0cef56316837774d01f823752d5f132a26b40a2e428beea95ff49a7707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-21-2014",
+   "path": "local/maramures/seini/2014/21",
+   "short": "HCL Seini nr. 21/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 21/2014 privind aprobarea indicatorilor tehnico-economici pentru lucrarea de investitie « Reabilitarea si dotarea Casei polivalente Sabisa » Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 21.03.2014; Avind in vedere: - Oportunitatea de a obtine fonduri pentru executarea lucrarii “Reabilitarea si dotarea asezamantului cultural din Sabisa ”Casa polivalenta” in cadrul proiectului “Re",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-21.pdf",
+     "sha256": "463e7b1f432550206e3f0cf2fc79d49efc7b3622c1f87599d7692958826161dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-22-2014",
+   "path": "local/maramures/seini/2014/22",
+   "short": "HCL Seini nr. 22/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 22/2014 privind aprobarea transmiterii in folosinta gratuita Companiei Nationale de Investitii CNI SA a Casei polivalente Sabisa, in suprafata de 439 mp si terenul aferent in suprafata de 1260 mp, pe durata realizarii lucrarilor de investitii « Reabilitarea si dotarea asezamantului cultural din Sabisa »",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-22.pdf",
+     "sha256": "f16072f805e262d79dce8b85915bf773b8208bcf7de2b5d1768304e74eff688f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-24-2014",
+   "path": "local/maramures/seini/2014/24",
+   "short": "HCL Seini nr. 24/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 24/2014 privind aprobarea dezmembrarii unui teren in suprafata de 790 mp, situat in or. Seini, str. N.Balcescu, nr. 36/A si notarea in CF a constructiilor si terenului pe domeniul privat al orasului Seini; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 29.04.2014; - Avind in vedere : - Raportul Serviciului urbanism din cadrul Aparatului de specialitate al primarului orasului Sei",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-24.pdf",
+     "sha256": "f2a06bb8713cd14aefe344e79cb3e505d4c75b4c56bb0805c9f344f74333293f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-25-2014",
+   "path": "local/maramures/seini/2014/25",
+   "short": "HCL Seini nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 25/2014 privind solicitarea adresata Ministerului Educatiei Nationale pentru emiterea Avizului conform in vederea schimbarii destinatiei imobilului in care a functionat Ferma didactica situata in or. Seini, str. A.Vlaicu, jud",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-25.pdf",
+     "sha256": "66a2d766a25db728dc007ac95db3836e7e53568df30efad6a448f7e7d25b8745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-26-2014",
+   "path": "local/maramures/seini/2014/26",
+   "short": "HCL Seini nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 26/2014 privind aprobarea scutirii de la plata creantelor bugetare accesorii, respectiv a majorarilor de intarziere pentru neplata la timp a impozitelor si taxelor locale pentru SC Seineana SA; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 29.04.2014; Avand in vedere : - Solicitarea SC Seineana SA de a fi scutita de la plata creantelor bugetare accesorii; -Raportul Serviciului ec",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-26.pdf",
+     "sha256": "72c459dc89f91c37483b24599eeb1a9c5ea9bdc004b0435fe45f6c3d4e9b22ed"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-28-2014",
    "path": "local/maramures/seini/2014/28",
    "short": "HCL Seini nr. 28/2014",
@@ -14,6 +194,336 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-28.pdf",
      "sha256": "a0ce4418aad81f74db48d339ff2de7377da360e9b770a10d6a163777a5e304f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-29-2014",
+   "path": "local/maramures/seini/2014/29",
+   "short": "HCL Seini nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 29/2014 privind aprobarea Strategiei de dezvoltare durabila a orasului Seini; Consiliul local orasenesc intrunit in sedinta extraordinara la data de 12.05.2014; Avand in vedere : - Strategia de dezvoltare durabila a orasului Seini prezentata de Primarul orasului Seini ; - Raportul Serviciului urbanism din cadrul Aparatului de specialitate al primarului orasului ; - Proiectul de hotarare - Avizul comisiei",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-05-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-29.pdf",
+     "sha256": "f8d6e3f46367c424805330b40682f5d42ab48aac1aff893be1fe921aedf16c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-31-2014",
+   "path": "local/maramures/seini/2014/31",
+   "short": "HCL Seini nr. 31/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 31/2014 privind aprobarea modificarii bugetului de venituri si cheltuieli a orasului Seini pe anul 2014; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 28.05.2014; Avand in vedere : - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului orasului cu privire la necesitatea modificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2014 pri",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-31.pdf",
+     "sha256": "0e1abca0c4b8f54aae54a36a6974ba5b56c813a2375ab336f08c4ad8f5ca84fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-32-2014",
+   "path": "local/maramures/seini/2014/32",
+   "short": "HCL Seini nr. 32/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 32/2014 Privind aprobarea unui parteneriat de colaborare intre Unitatea de Management al proiectului “Controlul integrat al poluarii cu nutrienti” din cadrul Ministerului Mediului si Schimbarilor Climatice si semnarea Conventiei de colaborare; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 28.05.2014; Avind in vedere : - adresa UMP “Controlul integrat al poluarii cu nutrienti” nr",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-32.pdf",
+     "sha256": "44cb82cb451ef28b6f1a83568103f2d3d1270c486c0e5984de7d2844dfbcfe6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-33-2014",
+   "path": "local/maramures/seini/2014/33",
+   "short": "HCL Seini nr. 33/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 33/2014 privind acordarea Diplomei de “Cetatean de onoare” al orasului Seini, d-lui Pr",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-33.pdf",
+     "sha256": "52ff2bcb328d272b411f500633f063ef55bd71928bd9c04a2cf6f988cdcf172d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-34-2014",
+   "path": "local/maramures/seini/2014/34",
+   "short": "HCL Seini nr. 34/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 34/2014 privind desemnarea unui reprezentant al Consiliului local Seini in Adunarea Generala a SC Vital SA Baia Mare Consiliului Local al orasului Seini, intrunit in sedinta ordinara din data de 28.05.2014; Avand in vedere: - Hotararea Consiliului local Seini nr. 26/2009 prin care activitatea Serviciului de apa si canalizare din cadrul SCUP Seini inceteaza fiind preluat de SC Vital Baia Mare ca unic distr",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-34-1.pdf",
+     "sha256": "93c5593666eebc4a3e097e7f8ba321e74a9023176323ce3aa6a2b37bd228a094"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-35-2014",
+   "path": "local/maramures/seini/2014/35",
+   "short": "HCL Seini nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 35/2014 privind aprobarea semnarii Actului aditional la Contractul de credit de investitii nr. RQ12115125598637 din 6.12.2012 in conditiile aprobate de CEC ; Consiliul local orasenesc Seini intrunit in sedinta ordinara la data de 28.05.2014 ; Avand in vedere : - Raportul Serviciului economic din cadrul Aparatului de specialitate al primarului orasului cu privire la necesitatea aprobarii semnarii actului a",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-35.pdf",
+     "sha256": "d3e3f203640f90fad09b565f52c4e692ee6e432468dc7bcd0a47164373453a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-37-2014",
+   "path": "local/maramures/seini/2014/37",
+   "short": "HCL Seini nr. 37/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 37/2014 privind aprobarea trecerii in domeniul privat al orasului Seini a unor bunuri imobile, respectiv Casa polivalenta Sabisa si suprafata de teren de 1260 mp; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 28.05.2014; Avind in vedere : - Oportunitatea de a realiza lucrarea de investitie “Reabilitarea si dotarea asezamantului cultural din Sabisa”. - Raportul Serviciului urban",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-37.pdf",
+     "sha256": "3ad43fc7c68c1b16c8017385b3b8b872eb92e2ad2a7ac225387a08d6a29c35e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-39-2014",
+   "path": "local/maramures/seini/2014/39",
+   "short": "HCL Seini nr. 39/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 39/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-06-13",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-39.pdf",
+     "sha256": "44a5cfee0d4a4bca8217f6d426268dd3b5661c07c70f2905a503b975389431dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-43-2014",
+   "path": "local/maramures/seini/2014/43",
+   "short": "HCL Seini nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 43/2014 privind aprobarea dezmembrarii unui teren situat in Seini, str",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-43.pdf",
+     "sha256": "c840e1d08c24c45a39c716e0810cdb7cbc2b4d249002082aab2cc065adc6e074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-44-2014",
+   "path": "local/maramures/seini/2014/44",
+   "short": "HCL Seini nr. 44/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 44/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-44.pdf",
+     "sha256": "5e55c2a1626bc3129b9b43bfdf9ea8b135d7b294a31b7b19df8e8ffd4b879b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-47-2014",
+   "path": "local/maramures/seini/2014/47",
+   "short": "HCL Seini nr. 47/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 47/2014 privind aprobarea unei scheme de ajutor de minimis, reprezentand scutirea de la plata majorarilor/penalitatilor de intarzaiere aferente impozitelor si taxelor locale, chiriilor, redeventelor si altor obligatii de plata datorate bugetului local de catre persoanele juridice de pe raza orasului Seini Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 30.06.2014; Avind in vedere",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-47.pdf",
+     "sha256": "3d44d318799c0e77599daceea23f9ac85f360d88fbe81cf7570fdd653e663c15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-48-2014",
+   "path": "local/maramures/seini/2014/48",
+   "short": "HCL Seini nr. 48/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 48/2014 privind aprobarea modificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2014; Consiliul Local al orasului Seini intrunit in sedinta ordinara la data de 30.06.2014 ; Avand in vedere : - Raportul Serviciului economic din cadrul Ap. de specialitate al primarului orasului Seini privind necesitatea modificarii bugetului de venituri si cheltuieli; - Proiectul de hotarare ; - Avizul c",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-48.pdf",
+     "sha256": "c0d0afe14f41ad3ae904e87be1abe367c40efdd8813c2a1000556beb95527804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-49-2014",
+   "path": "local/maramures/seini/2014/49",
+   "short": "HCL Seini nr. 49/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 49/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-07-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-49.pdf",
+     "sha256": "9815dfd4e9966da9ebf400a6c41f26f9ac965da549017243c2d665ca0d4fd5b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-50-2014",
+   "path": "local/maramures/seini/2014/50",
+   "short": "HCL Seini nr. 50/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 50/2014 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2014; Consiliul Local al orasului Seini intrunit in sedinta ordinara la data de 28.07.2014 ; Avand in vedere : - Raportul Serviciului economic din cadrul Ap. de specialitate al primarului orasului Seini privind necesitatea rectificarii bugetului de venituri si cheltuieli al orasului Seini ; - Proiectul de",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-07-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-50.pdf",
+     "sha256": "e8f3a8a5248dbd49c7d8aaa25ba3edfe59242d2e5d2eeb49f67a616d8f7ba38a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-52-2014",
+   "path": "local/maramures/seini/2014/52",
+   "short": "HCL Seini nr. 52/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 52/2014 privind modificarea Hotararii Consiliului local Seini nr. 75/2009 referitoare la darea in administrarea Consiliului Judetean Maramures a terenului pentru construirea obiectivului Centrul de colectare a deseurilor voluminoase in orasul Seini, aferent proiectului « Sistem de Management Integrat al Deseurilor in judetul Maramures » ; Consiliul local orasenesc Seini intrunit in sedinta ordinara la dat",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-07-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-52.pdf",
+     "sha256": "44f8d9390a5f01e5546860976a48b6abc34a3a9c47b5fb3ea5931641b9f50a0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-53-2014",
+   "path": "local/maramures/seini/2014/53",
+   "short": "HCL Seini nr. 53/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 53/2014 privind modificarea HCL nr. 6/2014 referitoare la aprobarea indicatorilor tehnico-economici si a Devizului general pentru obiectivul de investii “Extindere retea de alimentare cu apa in orasului Seini” str",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-07-28",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-53.pdf",
+     "sha256": "2d0c70f62c6e0349c3b46b03c89b25584f68dd83290e5c5d31e2feb9233f517c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-57-2014",
+   "path": "local/maramures/seini/2014/57",
+   "short": "HCL Seini nr. 57/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 57/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-25",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-57.pdf",
+     "sha256": "95adcfd9a690d40bf2019ec882db0f0ebafd6d3dc8676b6488f530d9a6b5eb59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-58-2014",
+   "path": "local/maramures/seini/2014/58",
+   "short": "HCL Seini nr. 58/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 58/2014 privind modificarea Hotararii Consiliului local Seini nr. 60/2007 referitoare la aprobarea concesionarii unei suprafete de teren de 338 mp situat in Seini, Piata de alimente; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 25.08.2014; Avand in vedere: - Raportul Serviciului urbanism referitore la necesitatea modificarii suprafetei de teren de 338 mp – teren concesionat si",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-08-25",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-58.pdf",
+     "sha256": "2efc6c29b3a62972048a8b3a0b578b31dd77f04e63c83ce56b4cab5ed91db944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-59-2014",
+   "path": "local/maramures/seini/2014/59",
+   "short": "HCL Seini nr. 59/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 59/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-08-25",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-59.pdf",
+     "sha256": "87ea4c2570df5099c74410a37986edc9ab4d9a0bd540420067abbfc3961ce226"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-60-2014",
+   "path": "local/maramures/seini/2014/60",
+   "short": "HCL Seini nr. 60/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 60/2014 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2014; Consiliul Local al orasului Seini intrunit in sedinta ordinara la data de 12.09.2014 ; Avand in vedere : - Raportul Serviciului economic din cadrul Ap. de specialitate al primarului orasului Seini privind necesitatea rectificarii bugetului de venituri si cheltuieli al orasului Seini ; - Proiectul de",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-60.pdf",
+     "sha256": "40894d3fb712249c5ed6faddfb5393034957f1187a053d51d0edbc9a29dcba2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-62-2014",
+   "path": "local/maramures/seini/2014/62",
+   "short": "HCL Seini nr. 62/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 62/2014 privind aprobarea realizarii proiectului “Modernizarea strazii Rosiori si a strazilor adiacente” a indicatorilor tehnico-economici si Devizului general pentru acest proiect Consiliul local Seini intrunit in sedinta ordinara la data de 12.09.2014; Avand in vedere: - Raportul Serviciului urbanism din cadrul Ap. de specialitate al primarului orasului Seini privind oportunitatea de a realiza proiectul",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-62.pdf",
+     "sha256": "3b20a8bed8ec7cf16209ee3a9b9d95728ca42f5c73b1ad342b648888e97af2a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-63-2014",
+   "path": "local/maramures/seini/2014/63",
+   "short": "HCL Seini nr. 63/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 63/2014 privind aprobarea realizarii proiectului “Modernizarea strazii Tineretului si a strazilor adiacente” a indicatorilor tehnico economici si Devizului general pentru acest proiect Consiliul local Seini intrunit in sedinta ordinara la data de 12.09.2014; Avand in vedere: - Raportul Serviciului urbanism din cadrul Ap. de specialitate al primarului orasului Seini privind oportunitatea de a realiza proie",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-63.pdf",
+     "sha256": "8fa9b05896cc31d7f9ded60b6a9c2a208f21feecee8424991b37820968b34b40"
     }
    ]
   },
@@ -33,6 +543,171 @@
    ]
   },
   {
+   "slug": "hcl-maramures--seini-68-2014",
+   "path": "local/maramures/seini/2014/68",
+   "short": "HCL Seini nr. 68/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 68/2014 privind aprobarea construirii unui teren de sport sintetic a indicatorilor tehnico economici si Devizului general pentru acest proiect Consiliul local Seini intrunit in sedinta ordinara la data de 12.09.2014; Avand in vedere: - Raportul Serviciului urbanism din cadrul Ap. de specialitate al primarului orasului Seini privind oportunitatea construirii unui teren de sport sintetic ; - Proiectul preze",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-68.pdf",
+     "sha256": "35c4ee5d081983784a0f0acb89c10c6622ee860867b64afce75b08b8270933df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-69-2014",
+   "path": "local/maramures/seini/2014/69",
+   "short": "HCL Seini nr. 69/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 69/2014 privind aprobarea executarii lucrarii “Refunctionalizare si reabilitare cladire pentru amenajare sali de clasa” si a indicatorilor tehnico-economici pentru aceasta Consiliul local Seini intrunit in sedinta ordinara la data de 12.09.2014; Avand in vedere: - Raportul Serviciului urbanism din cadrul Ap. de specialitate al primarului orasului Seini privind oportunitatea de a realiza proiectul “Refunct",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-69.pdf",
+     "sha256": "be3ccf6ba195754639c86779749009cedc48d619bf68745016bdb75c6ce740ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-70-2014",
+   "path": "local/maramures/seini/2014/70",
+   "short": "HCL Seini nr. 70/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 70/2014 privind aprobarea dezmembrarii unui teren si notarea acestuia in domeniul privat al orasului Seini; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 12.09.2014; - Avind in vedere : - Raportul Serviciului urbanism din cadrul Aparatului de specialitate al primarului orasului Seini cu privire la necesitatea dezmembrarii terenului cuprins in CF 52604, nr. cadastral 52604 in su",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-70.pdf",
+     "sha256": "64a81e0f75ce68ce36d114deb766379d26d2d3abe2ed745d550b4211a41c5687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-71-2014",
+   "path": "local/maramures/seini/2014/71",
+   "short": "HCL Seini nr. 71/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 71/2014 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2014; Consiliul Local al orasului Seini intrunit in sedinta ordinara la data de 16.10.2014 ; Avand in vedere : - Raportul Serviciului economic din cadrul Ap. de specialitate al primarului orasului Seini privind necesitatea rectificarii bugetului de venituri si cheltuieli al orasului Seini ; - Proiectul de",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-71.pdf",
+     "sha256": "10fc8896d99c4083efa17834a2765a8485dfba1b75c66e39e08c7a3879267c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-72-2014",
+   "path": "local/maramures/seini/2014/72",
+   "short": "HCL Seini nr. 72/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 72/2014 privind aprobarea dezmembrarii unui teren in suprafata de 15315 mp situat in or. Seini, str. Victoriei, nr. 2 identificat prin nr. cadastral 50598; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 16.10.2014; Avand in vedere: - Raportul prezentat de serviciul urbanism din cadrul Aparatului de specialitate al primarului cu privire la necesitatea aprobarii dezmembrarii teren",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-72.pdf",
+     "sha256": "4155727d0eb90cbd6d5954d710872531d1d74f9a5b7a928d0636e238ade6264a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-73-2014",
+   "path": "local/maramures/seini/2014/73",
+   "short": "HCL Seini nr. 73/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 73/2014 privind aprobarea alipirii terenurilor de sub nr. cad 52450, 50826 si 52449 in suprafata de 6107 mp situat in or. Seini, str. P-ta Unirii si notarea in CF pe domeniul public al orasului Seini; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 16.10.2014; Avand in vedere: - Raportul prezentat de Serviciul urbanism din cadrul Aparatului de specialitate al primarului cu privir",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-73.pdf",
+     "sha256": "61e3528fc08a385c3bf396a0e016cb8f15a3edac94f06fd0a4e8f5f2504c6faa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-74-2014",
+   "path": "local/maramures/seini/2014/74",
+   "short": "HCL Seini nr. 74/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 74/2014 privind aprobarea dezmembrarii unui teren si notarea acestuia in CF pe domeniul privat al orasului Seini; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 16.10.2014; Avand in vedere: - Raportul prezentat de serviciul urbanism din cadrul Aparatului de specialitate al primarului cu privire la necesitatea dezmembrarii terenului inscris in CF 2176 nr. topo 2664/33/2 in supraf",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-74.pdf",
+     "sha256": "b99561ad3252d416aa4e9739449480fb36f7405e60d10f6cca36355244058e6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-75-2014",
+   "path": "local/maramures/seini/2014/75",
+   "short": "HCL Seini nr. 75/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 75/2014 Privind aprobarea criteriilor pentru repartizarea apartamentelor din blocul ANL ; Consiliul local orasenesc Seini intrunit in sedinta ordinara din 16.10.2014; Avind in vedere : - faptul ca pe str. M.Eminescu, in incinta Casei de cultura s-a construit un bloc ANL ; - Raportul Compartimentului juridic din cadrul Aparatului de specialitate al primarului orasului Seini ; - Criteriile Cadru de acces si",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-75.pdf",
+     "sha256": "da3d319531e25a2507a40174847fb62ac59760d80b7dcf4d290eac31966672bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-77-2014",
+   "path": "local/maramures/seini/2014/77",
+   "short": "HCL Seini nr. 77/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 77/2014 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orasului Seini pe anul 2014; Consiliul Local al orasului Seini intrunit in sedinta extraordinara la data de 23.10.2014 ; Avand in vedere : - Raportul Serviciului economic din cadrul Ap. de specialitate al primarului orasului Seini privind necesitatea rectificarii bugetului de venituri si cheltuieli al orasului Seini ; - Contract",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-77.pdf",
+     "sha256": "c6f82a72a4116e3497f141972f6abd1df0172d6dcacb4787c3bef4554a11e253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-78-2014",
+   "path": "local/maramures/seini/2014/78",
+   "short": "HCL Seini nr. 78/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 78/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-78.pdf",
+     "sha256": "55722ac8b4c328dca48c94fa64fc0ebe33ec84e2b4179d89a4e70d324617af36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-79-2014",
+   "path": "local/maramures/seini/2014/79",
+   "short": "HCL Seini nr. 79/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 79/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2023/11/Hotararea-nr.-79.pdf",
+     "sha256": "b1095a5c659b97f8d4dbfa4d01a341ba0ab57454b86b358c2762aa8e940ab9f5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--seini-81-2014",
    "path": "local/maramures/seini/2014/81",
    "short": "HCL Seini nr. 81/2014",
@@ -44,6 +719,126 @@
      "units": 1,
      "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-81.pdf",
      "sha256": "930f4359d8383207b368b00dbf62f7ffcbe49ca399448a581fd40fa8cbd99925"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-82-2014",
+   "path": "local/maramures/seini/2014/82",
+   "short": "HCL Seini nr. 82/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 82/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-82.pdf",
+     "sha256": "69ddb36adda682c698a29eac0ffb94668ef15bf2d8c64f45608141934c7a33cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-83-2014",
+   "path": "local/maramures/seini/2014/83",
+   "short": "HCL Seini nr. 83/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 83/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-83.pdf",
+     "sha256": "2a81e9da780bb53a84c6f0f0eec8c4776308e7d559c78ece6c70d4d4cbad8230"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-86-2014",
+   "path": "local/maramures/seini/2014/86",
+   "short": "HCL Seini nr. 86/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 86/2014 privind aprobarea rectificarii bugetului de venituri si cheltuieli al orasului Seini si a virarilor de credite pe anul 2014; Consiliul Local al orasului Seini intrunit in sedinta ordinara la data de 21.11.2014 ; Avand in vedere : - Raportul Serviciului economic din cadrul Ap. de specialitate al primarului orasului Seini privind necesitatea rectificarii bugetului de venituri si cheltuieli al orasul",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-86.pdf",
+     "sha256": "75f0bb5e4baf155fe7de15e7fff0f453ace428f7f5b69a4a89a2a56f549d3969"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-88-2014",
+   "path": "local/maramures/seini/2014/88",
+   "short": "HCL Seini nr. 88/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 88/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-88.pdf",
+     "sha256": "1705b781b9f639981bb802e8175fe5cde1fdf3aab884091037c45afe9883965c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-91-2014",
+   "path": "local/maramures/seini/2014/91",
+   "short": "HCL Seini nr. 91/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 91/2014 privind aprobarea dezmembrarii unor terenuri din Seini, Sabisa – Valea Rodinei ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 18.12.2014; Avand in vedere: - Raportul prezentat de Serviciul urbanism din cadrul Aparatului de specialitate al primarului cu privire la necesitatea dezmembrarii terenului cuprins in CF nr. 1 Sabisa, nr. topo 819/3, 819/4, si 819/5/4 in vederea",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-91.pdf",
+     "sha256": "0c7fe303e05ebff93f8f9fac484a14c4361b3715b4a5f3949bad032cf775d9c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-93-2014",
+   "path": "local/maramures/seini/2014/93",
+   "short": "HCL Seini nr. 93/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 93/2014 Pentru aprobarea indicatorilor tehnico – economici reactualizati la investitia ’’ Camin pentru persoane varstnice’’ in orasul Seini, str",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-93.pdf",
+     "sha256": "4f55b388fb3bbcb28e876c2cc7b8fbe820253d9ac9379b654ac2e89b986d3ea7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-94-2014",
+   "path": "local/maramures/seini/2014/94",
+   "short": "HCL Seini nr. 94/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 94/2014 privind aprobarea executarii unui bazin de inot in orasul Seini si predarea terenului pentru amplasament catre Ministerul Dezvoltarii Regionale si Administratiei Publice prin Compania Nationala de Investitii - CNI ; Consiliul local al orasului Seini intrunit in sedinta ordinara la data de 18.12.2014; Avand in vedere: - Oportunitatea de a obtine fonduri in vederea executarii unui bazin de inot in o",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-94.pdf",
+     "sha256": "fdab89c2cbd6ce1f2d8d03de6f7999515717da0bba05dc7bc6d43bb8ec872378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--seini-95-2014",
+   "path": "local/maramures/seini/2014/95",
+   "short": "HCL Seini nr. 95/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Seini nr. 95/2014 privind aprobarea dezmembrarii unui teren situat in Seini, str",
+   "url": "https://seini.ro/consiliul-local/hotarari-ale-consiliul-local/hotarari-2014/",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://seini.ro/wp-content/uploads/2018/01/Hotararea-nr.-95.pdf",
+     "sha256": "5c92f857aae28afce74b208cf8d3a3e19e18c68637314ccd269e28c30cb53339"
     }
    ]
   }

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-12-2024",
+   "path": "local/mehedinti/dubova/2024/12",
+   "short": "HCL Dubova nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 12/2024",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/145637",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/145637",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-13-2024",
    "path": "local/mehedinti/dubova/2024/13",
    "short": "HCL Dubova nr. 13/2024",
@@ -73,6 +88,21 @@
      "from": "2024-03-19",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/145639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-15-2024",
+   "path": "local/mehedinti/dubova/2024/15",
+   "short": "HCL Dubova nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 15/2024",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/145640",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/145640",
      "sha256": null
     }
    ]
@@ -378,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-34-2024",
+   "path": "local/mehedinti/dubova/2024/34",
+   "short": "HCL Dubova nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 34/2024",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/160551",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/160551",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-35-2024",
    "path": "local/mehedinti/dubova/2024/35",
    "short": "HCL Dubova nr. 35/2024",
@@ -438,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-39-2024",
+   "path": "local/mehedinti/dubova/2024/39",
+   "short": "HCL Dubova nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 39/2024 privind aprobarea vanzarii prin licitatie publica deschisă a cladirilor de locuit si teren aferent Colonie Baia Noua, Comuna Dubova, domeniul privat al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/163574",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/163574",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-4-2024",
    "path": "local/mehedinti/dubova/2024/4",
    "short": "HCL Dubova nr. 4/2024",
@@ -478,6 +538,51 @@
      "from": "2024-08-14",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/163576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-42-2024",
+   "path": "local/mehedinti/dubova/2024/42",
+   "short": "HCL Dubova nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 42/2024 privind aprobarea rezilierii contractelor de concesiune pentru nerespectarea de catre concesionari a obligatiilor contractuale",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/163577",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/163577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-43-2024",
+   "path": "local/mehedinti/dubova/2024/43",
+   "short": "HCL Dubova nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 43/2024 privind aprobarea rezilierii contractului de concesiune nr. 1486/04.07.2011 si a contractului de inchiriere nr. 1024/16.04.2019",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/163578",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/163578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-44-2024",
+   "path": "local/mehedinti/dubova/2024/44",
+   "short": "HCL Dubova nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 44/2024",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/163579",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/163579",
      "sha256": null
     }
    ]
@@ -528,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-48-2024",
+   "path": "local/mehedinti/dubova/2024/48",
+   "short": "HCL Dubova nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 48/2024 privind aprobarea rezilierii contractelor de concesiune pentru nerespectarea de catre concesionari a obligatiilor contractuale",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/168677",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/168677",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-49-2024",
    "path": "local/mehedinti/dubova/2024/49",
    "short": "HCL Dubova nr. 49/2024",
@@ -553,6 +673,21 @@
      "from": "2024-02-21",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/140061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-50-2024",
+   "path": "local/mehedinti/dubova/2024/50",
+   "short": "HCL Dubova nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 50/2024 privind apobarea unui act aditional la contractul de comodat nr. 1112/09.05.2012, incheiat intre Primaria Dubova si UDSCR",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/168679",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/168679",
      "sha256": null
     }
    ]
@@ -858,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--dubova-7-2024",
+   "path": "local/mehedinti/dubova/2024/7",
+   "short": "HCL Dubova nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 7/2024 privind aprobarea vanzarii prin licitatie publica deschisă a cladirilor de locuit si teren aferent Colonie Baia Noua, Comuna Dubova, domeniul privat al Comunei Dubova",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/140063",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/140063",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--dubova-70-2024",
    "path": "local/mehedinti/dubova/2024/70",
    "short": "HCL Dubova nr. 70/2024",
@@ -958,6 +1108,21 @@
      "from": "2025-01-03",
      "units": 1,
      "source_url": "https://emol.ro/dubova-mh/registru-hcl/183909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--dubova-8-2024",
+   "path": "local/mehedinti/dubova/2024/8",
+   "short": "HCL Dubova nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dubova nr. 8/2024",
+   "url": "https://emol.ro/dubova-mh/registru-hcl/140064",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dubova-mh/registru-hcl/140064",
      "sha256": null
     }
    ]

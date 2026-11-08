@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/balvanesti/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--balvanesti-1-2024",
+   "path": "local/mehedinti/balvanesti/2024/1",
+   "short": "HCL Bâlvănești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 1/2024 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2024 /2025",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/141195",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/141195",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balvanesti-10-2024",
    "path": "local/mehedinti/balvanesti/2024/10",
    "short": "HCL Bâlvănești nr. 10/2024",
@@ -28,6 +43,21 @@
      "from": "2024-10-30",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/155051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-12-2024",
+   "path": "local/mehedinti/balvanesti/2024/12",
+   "short": "HCL Bâlvănești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 12/2024",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/158160",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/158160",
      "sha256": null
     }
    ]
@@ -133,6 +163,21 @@
      "from": "2024-10-30",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/168675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-2-2024",
+   "path": "local/mehedinti/balvanesti/2024/2",
+   "short": "HCL Bâlvănești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 2/2024 privind constituirea Consiliului Comunitar Consultativ al comunei Balvanesti și aprobarea Regulamentului de organizare și funcționare al Consiliului Consultativ al comunei Balvanesti",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/141196",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/141196",
      "sha256": null
     }
    ]
@@ -288,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--balvanesti-3-2024",
+   "path": "local/mehedinti/balvanesti/2024/3",
+   "short": "HCL Bâlvănești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 3/2024 privind aprobarea majorarii cu 5% a veniturilor salariale fata de nivelul acordat pentru luna decembrie 2023 pentru funcţionarii publici şi personalul contractual din aparatul de specialitate al primarului comunei Balvanesti, judetul Mehedinti",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/141197",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/141197",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balvanesti-30-2024",
    "path": "local/mehedinti/balvanesti/2024/30",
    "short": "HCL Bâlvănești nr. 30/2024",
@@ -358,6 +418,36 @@
      "from": "2024-12-19",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/183792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-4-2024",
+   "path": "local/mehedinti/balvanesti/2024/4",
+   "short": "HCL Bâlvănești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 4/2024 privind aprobarea Dispozitiei primarului Nr.1/05.01.2024 pentru acoperirea definitiva a deficitului sectiunii de dezvoltare sursa A,pe anul 2023",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/141198",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/141198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-5-2024",
+   "path": "local/mehedinti/balvanesti/2024/5",
+   "short": "HCL Bâlvănești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 5/2024 privind alegerea președintelui de ședință a Consiliul Local Balvanesti,judetul Mehedinti pentru perioada februarie 2024- aprilie 2024",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/141199",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/141199",
      "sha256": null
     }
    ]

@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/drobeta-turnu-severin/2013",
+"acts": [
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-18-2013",
+"path": "local/mehedinti/drobeta-turnu-severin/2013/18",
+"kind": "local",
+"year": "2013",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 18/2013",
+"short": "HCL Drobeta-Turnu Severin nr. 18/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-05-07",
+"latest": "2013-05-07",
+"portal": null,
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-86-2013",
+"path": "local/mehedinti/drobeta-turnu-severin/2013/86",
+"kind": "local",
+"year": "2013",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 86/2013",
+"short": "HCL Drobeta-Turnu Severin nr. 86/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-09-30",
+"latest": "2013-09-30",
+"portal": null,
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

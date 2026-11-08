@@ -113,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-maramures--giulesti-6-2023",
+"path": "local/maramures/giulesti/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 6/2023 privind trecerea din domeniul public al comunei Giulești, în domeniul privat al comunei, in administrare Consiliului Local a terenului situat în comuna Giulești, sat Giulești, CF 54558",
+"short": "HCL Giulești nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/95401",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-7-2023",
+"path": "local/maramures/giulesti/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 7/2023 privind aprobarea închirierii prin licitație publică a pajiștilor permanente proprietate publică a comunei Giulești, județul Maramureș",
+"short": "HCL Giulești nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/95402",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--giulesti-8-2023",
 "path": "local/maramures/giulesti/2023/8",
 "kind": "local",
@@ -330,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Giulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-18-2023",
+"path": "local/maramures/giulesti/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 18/2023 privind aprobarea închirierii prin licitație publică a pajiștilor permanente proprietate publică a comunei Giulești, județul Maramureș",
+"short": "HCL Giulești nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/112395",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
