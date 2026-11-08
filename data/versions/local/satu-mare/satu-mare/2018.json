@@ -3483,6 +3483,21 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-333-2018",
+   "path": "local/satu-mare/satu-mare/2018/333",
+   "short": "HCL Satu Mare nr. 333/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 333/2018 privind aprobarea unor tarife distincte aplicate beneficiarilor serviciului de salubrizare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 20.12.2018; Luând act de expunerea de motive a Primarului municipiului, în calitate de inițiator, înregistrată cu nr. 59959/19.12.2018, de raportul Serviciul Administrarea Domeniului Public și Privat, înregistrat sub nr. 59962",
+   "url": "https://www.primariasm.ro/hotararea-nr-333-1",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/decembrie-2018-1/hcl-333.docx",
+     "sha256": "e14a6baf24eba6d5611110415f357e5a0aacf05494944006d2cadb0dcdd2d329"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-90-2018",
    "path": "local/satu-mare/satu-mare/2018/90",
    "short": "HCL Satu Mare nr. 90/2018",

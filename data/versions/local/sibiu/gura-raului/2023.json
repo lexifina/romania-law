@@ -3,6 +3,201 @@
  "shard": "local/sibiu/gura-raului/2023",
  "acts": [
   {
+   "slug": "hcl-sibiu--gura-raului-115-2023",
+   "path": "local/sibiu/gura-raului/2023/115",
+   "short": "HCL Gura Râului nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 115/2023",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/124549",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/124549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-116-2023",
+   "path": "local/sibiu/gura-raului/2023/116",
+   "short": "HCL Gura Râului nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 116/2023 privind aprobarea înscrierii dreptului de proprietate asupra unor construcții în domeniul public al comunei Gura Râului edificate pe imobile-teren aflate în proprietatea comunei Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/124550",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/124550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-117-2023",
+   "path": "local/sibiu/gura-raului/2023/117",
+   "short": "HCL Gura Râului nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 117/2023 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 116948 Gura Râului, cu nr. top 116948, în suprafață de 1321969 mp (132 ha), situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/124551",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/124551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-118-2023",
+   "path": "local/sibiu/gura-raului/2023/118",
+   "short": "HCL Gura Râului nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 118/2023 privind atestarea apartenenței la domeniul public al comunei Gura Râului și întăbularea dreptului de proprietate în favoarea comunei Gura Râului a unui imobil extravilan înscris provizoriu în cartea funciara sub CF nr. 116824 Gura Râului, în suprafață de 1563 mp, având categoria de folosință de fâneață",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/124552",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/124552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-120-2023",
+   "path": "local/sibiu/gura-raului/2023/120",
+   "short": "HCL Gura Râului nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 120/2023 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Gura Raului pe anul 2023",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/126241",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/126241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-123-2023",
+   "path": "local/sibiu/gura-raului/2023/123",
+   "short": "HCL Gura Râului nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 123/2023 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 117635 Gura Râului, cu nr. top 117635, în suprafață de 360.474 mp situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/126244",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/126244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-124-2023",
+   "path": "local/sibiu/gura-raului/2023/124",
+   "short": "HCL Gura Râului nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 124/2023 privind mandatarea primarului Comunei Gura Râului ca reprezentant al Comunei Gura Râului în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze aprobarea modificării tarifului pentru activitatea de operare a staţiilor sortare şi compostare, a operatorului SC SOMA SRL, urmare a eliminării cheltuielilor cu depozitarea și contribuția pentru economia circulară",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/126245",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/126245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-125-2023",
+   "path": "local/sibiu/gura-raului/2023/125",
+   "short": "HCL Gura Râului nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 125/2023",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/126246",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/126246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-126-2023",
+   "path": "local/sibiu/gura-raului/2023/126",
+   "short": "HCL Gura Râului nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 126/2023 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 116758 Gura Râului, cu nr. top 116758, în suprafață de 10.355 mp situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/126247",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/126247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-129-2023",
+   "path": "local/sibiu/gura-raului/2023/129",
+   "short": "HCL Gura Râului nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 129/2023 privind modificarea organigramei și a statului de funcţii pentru aparatul de specialitate al primarului comunei Gura Râului şi a serviciilor publice locale",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/128979",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/128979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-130-2023",
+   "path": "local/sibiu/gura-raului/2023/130",
+   "short": "HCL Gura Râului nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 130/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Gura Râului, judeţul Sibiu, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/128980",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/128980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-131-2023",
+   "path": "local/sibiu/gura-raului/2023/131",
+   "short": "HCL Gura Râului nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 131/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Gura Râului, judeţul Sibiu, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/128981",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/128981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-132-2023",
+   "path": "local/sibiu/gura-raului/2023/132",
+   "short": "HCL Gura Râului nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 132/2023 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 116839 Gura Râului, cu nr. top 116839, în suprafață de 1768 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/128982",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/128982",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--gura-raului-133-2023",
    "path": "local/sibiu/gura-raului/2023/133",
    "short": "HCL Gura Râului nr. 133/2023",

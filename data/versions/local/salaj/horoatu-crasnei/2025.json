@@ -3,6 +3,501 @@
  "shard": "local/salaj/horoatu-crasnei/2025",
  "acts": [
   {
+   "slug": "hcl-salaj--horoatu-crasnei-1-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/1",
+   "short": "HCL Horoatu Crasnei nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 1/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Horoatu Crasnei pentru perioada Februarie 2025 - Aprilie 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/188780",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/188780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-10-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/10",
+   "short": "HCL Horoatu Crasnei nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 10/2025 privind alegerea preşedintelui de şedinţă care va conduce ședința ordinară a Consiliului Local al comunei Horoatu Crasnei din data de 28 februarie 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194352",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-11-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/11",
+   "short": "HCL Horoatu Crasnei nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 11/2025 privind aprobarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/198765",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/198765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-12-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/12",
+   "short": "HCL Horoatu Crasnei nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 12/2025 privind revizuirea organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Horoatu Crasnei;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/198766",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/198766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-13-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/13",
+   "short": "HCL Horoatu Crasnei nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 13/2025 privind validarea Dispoziției nr.70 din 19.03.2025 privind repartizare sume în cadrul programului ,,Anghel Saligny”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/198767",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/198767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-14-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/14",
+   "short": "HCL Horoatu Crasnei nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 14/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale -facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/198768",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/198768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-15-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/15",
+   "short": "HCL Horoatu Crasnei nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 15/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Horoatu Crasnei pentru perioada Mai 2025 - Iulie 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/205285",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/205285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-16-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/16",
+   "short": "HCL Horoatu Crasnei nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 16/2025 privind validarea Dispoziției nr. 85/23.04.2025 privind rectificare bugetului local pentru anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/205286",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/205286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-17-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/17",
+   "short": "HCL Horoatu Crasnei nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 17/2025 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2026",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/205287",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/205287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-18-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/18",
+   "short": "HCL Horoatu Crasnei nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 18/2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/205288",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/205288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-19-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/19",
+   "short": "HCL Horoatu Crasnei nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 19/2025 privind ACTUALIZAREA PRINCIPALILOR INDICATORI TEHNICO – ECONOMICI AI INVESTIŢIEI „Dotarea cu mobilier, materiale didactice și echipamente a unităților de învățământ preuniversitar la Școala Gimnazială nr. 1 Horoatu Crasnei, jud. Sălaj”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/209726",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/209726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-2-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/2",
+   "short": "HCL Horoatu Crasnei nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 2/2025 privind validarea Dispoziției nr.1 din 10.01.2025 privind aprobarea acoperirii definitive a deficitului bugetar la sfârșitul anului 2024",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/188781",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/188781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-20-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/20",
+   "short": "HCL Horoatu Crasnei nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 20/2025 privind validarea Dispoziției nr. 89/06.05.2025 privind rectificare bugetului local pentru anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/209727",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/209727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-21-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/21",
+   "short": "HCL Horoatu Crasnei nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 21/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/209728",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/209728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-22-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/22",
+   "short": "HCL Horoatu Crasnei nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 22/2025 privind validarea Dispoziției nr. 115/27.05.2025 privind rectificare bugetului local pentru anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/209729",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/209729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-23-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/23",
+   "short": "HCL Horoatu Crasnei nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 23/2025 privind aprobarea contractării unui împrumut în valoare de 1.459.577 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/213583",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/213583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-25-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/25",
+   "short": "HCL Horoatu Crasnei nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 25/2025 privind validarea Dispoziției nr.140/24.06.2025 privind rectificare bugetului local pentru anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/213585",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/213585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-26-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/26",
+   "short": "HCL Horoatu Crasnei nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 26/2025 privind validarea Dispoziției nr.141/26.06.2025 privind rectificare bugetului local pentru anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/215532",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/215532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-27-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/27",
+   "short": "HCL Horoatu Crasnei nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 27/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/215533",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/215533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-28-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/28",
+   "short": "HCL Horoatu Crasnei nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 28/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Horoatu Crasnei pentru perioada August 2025 - Octombrie 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/218315",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/218315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-29-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/29",
+   "short": "HCL Horoatu Crasnei nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 29/2025 privind aprobarea PLANULUI DE DEZVOLTARE A SERVICIILOR SOCIALE",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/218316",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/218316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-3-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/3",
+   "short": "HCL Horoatu Crasnei nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 3/2025 privind validarea Dispoziției nr.17 din 21.01.2025 privind repartizare sume în cadrul programului ,,Anghel Saligny”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/188782",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/188782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-30-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/30",
+   "short": "HCL Horoatu Crasnei nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 30/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/220816",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/220816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-31-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/31",
+   "short": "HCL Horoatu Crasnei nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 31/2025 privind aprobarea achiziționării unui pachet de rechizite școlare pentru elevii din clasele: Pregătitoare- a IV-a ai Școlii Gimnaziale Nr. 1 Horoatu Crasnei",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/223135",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/223135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-32-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/32",
+   "short": "HCL Horoatu Crasnei nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 32/2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/223136",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/223136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-33-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/33",
+   "short": "HCL Horoatu Crasnei nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 33/2025 privind validarea Dispoziției nr.179/25.08.2025 privind rectificare bugetului local pentru anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/223137",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/223137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-35-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/35",
+   "short": "HCL Horoatu Crasnei nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 35/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225760",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-36-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/36",
+   "short": "HCL Horoatu Crasnei nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 36/2025 privind revizuirea organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Horoatu Crasnei;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225761",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-38-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/38",
+   "short": "HCL Horoatu Crasnei nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 38/2025 privind repartizarea îmrumutului contractat de la Ministerul Finanțelor",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225763",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-39-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/39",
+   "short": "HCL Horoatu Crasnei nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 39/2025 Privind aprobarea aderării Comunei Horoatu Crasnei, județul Sălaj la ,,Convenția Primarilor privind Clima și Energia” (Covenant of Mayors for Climate & Energy)",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/228899",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/228899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-4-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/4",
+   "short": "HCL Horoatu Crasnei nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 4/2025 privind preluarea excedentului din sursa ,,E” în sursa ,,A”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/188783",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/188783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-40-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/40",
+   "short": "HCL Horoatu Crasnei nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 40/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul II/2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/228900",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/228900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-41-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/41",
+   "short": "HCL Horoatu Crasnei nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 41/2025 privind validarea Dispoziției nr.202/07.10.2025 privind rectificare bugetului local pentru anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/231140",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/231140",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--horoatu-crasnei-42-2025",
    "path": "local/salaj/horoatu-crasnei/2025/42",
    "short": "HCL Horoatu Crasnei nr. 42/2025",
@@ -273,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--horoatu-crasnei-6-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/6",
+   "short": "HCL Horoatu Crasnei nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 6/2025 cu privire la aprobarea documentației, indicatorilor tehnico-economici faza Proiect tehnic (PTE) și devizului general pentru obiectivul de investiții ,,Asigurarea infrastructurii pentru transportul verde în comuna Horoatu Crasnei - achiziție și instalare puncte de reîncarcare vehicule electrice”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194348",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194348",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--horoatu-crasnei-60-2025",
    "path": "local/salaj/horoatu-crasnei/2025/60",
    "short": "HCL Horoatu Crasnei nr. 60/2025",
@@ -298,6 +808,51 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/243622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-7-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/7",
+   "short": "HCL Horoatu Crasnei nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 7/2025 Privind aprobarea indicatorilor tehnico-economici actualizați şi a devizului general actualizat pentru obiectivul de investiții ,,Modernizare drumuri comunale în comuna Horoatu Crasnei, județul Sălaj” aprobat pentru finanțare prin Programul național ”Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194349",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-8-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/8",
+   "short": "HCL Horoatu Crasnei nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 8/2025 privind aprobarea derularii Programului național ,,Masă sănătoasă” denumit în continuare PNMS de acordare a unui suport alimentar, respectiv a tipului de suport alimentar și a modalității de distribuire a acestuia elevilor și preșcolarilor Școlii Gimnaziale Numărul 1. Horoatu Crasnei în anul 2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194350",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-9-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/9",
+   "short": "HCL Horoatu Crasnei nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 9/2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194351",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194351",
      "sha256": null
     }
    ]

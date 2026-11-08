@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Brateiu nr. 24/2023 privind aprobarea scutirii de la plata majorărilor de întârziere aferente obligațiilor fiscale constând în impozite și taxe locale precum și a majorărilor de întârzier aferente obligațiilor bugetare, conform legii, datorate bugetului local de către persoanele fizice care au calitatea de contribuabili ai bugetului local al Comunei Brateiu
+
+HCL Brateiu nr. 24/2023 · 1 versions, from 2023-04-28 (latest in force: 2023-04-28) · <https://emol.ro/brateiu-sb/registru-hcl/114997>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-sibiu--brateiu-24-2023` (tags `hcl-sibiu--brateiu-24-2023/<day>`; `python tools/on.py <day> hcl-sibiu--brateiu-24-2023`).
+
+## Decisions made by hand
+
+- HCL Brateiu nr. 24/2023: listed from Consiliul Local al Comunei Brateiu (emol.ro); metadata only for now: no document of it is held.
+- HCL Brateiu nr. 24/2023: dated from 28 April 2023, the day it was adopted (the register gives no later day of publication).
+- HCL Brateiu nr. 24/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

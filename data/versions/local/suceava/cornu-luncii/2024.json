@@ -3,6 +3,606 @@
  "shard": "local/suceava/cornu-luncii/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--cornu-luncii-1-2024",
+   "path": "local/suceava/cornu-luncii/2024/1",
+   "short": "HCL Cornu Luncii nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 1/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/220478",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/220478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-10-2024",
+   "path": "local/suceava/cornu-luncii/2024/10",
+   "short": "HCL Cornu Luncii nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 10/2024 privind modificarea Statului de funcții al primăriei comunei Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/200619",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/200619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-11-2024",
+   "path": "local/suceava/cornu-luncii/2024/11",
+   "short": "HCL Cornu Luncii nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 11/2024 privind aprobarea bugetului local de venituri și cheltuieli, al bugetului activităților finanțate integral sau parțial din venituri proprii și al bugetului creditelor interne pe anul 2024",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/200621",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/200621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-12-2024",
+   "path": "local/suceava/cornu-luncii/2024/12",
+   "short": "HCL Cornu Luncii nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 12/2024 privind aprobarea începerii demersurilor necesare Acordului de principiu în vederea înfrățirii comunei Cornu Luncii, județul Suceava, România cu orașul Cricova, Raionul Rîșcani, Republica Moldova",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/200636",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/200636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-18-2024",
+   "path": "local/suceava/cornu-luncii/2024/18",
+   "short": "HCL Cornu Luncii nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 18/2024 privind înființarea unor platforme în vederea depozitării temporare a deșeurilor lemnoase rezultate în urma toaletării arborilor, a pomilor fructiferi și bucăți de lemn provenite din demolări",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223851",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-19-2024",
+   "path": "local/suceava/cornu-luncii/2024/19",
+   "short": "HCL Cornu Luncii nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 19/2024 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „REABILITAREA MODERATĂ A SEDIULUI ADMINISTRATIV AL PRIMĂRIEI DIN COMUNA CORNU LUNCII, SAT SASCA MICĂ, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/204521",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/204521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-2-2024",
+   "path": "local/suceava/cornu-luncii/2024/2",
+   "short": "HCL Cornu Luncii nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 2/2024 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunii de dezvoltare - sursa A, pe anul 2023, in suma de 1.325.572,24 lei",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/220479",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/220479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-20-2024",
+   "path": "local/suceava/cornu-luncii/2024/20",
+   "short": "HCL Cornu Luncii nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 20/2024 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții ”REABILITAREA MODERATĂ A PRIMĂRIEI DIN COMUNA CORNU LUNCII, SAT CORNU LUNCII, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/204522",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/204522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-21-2024",
+   "path": "local/suceava/cornu-luncii/2024/21",
+   "short": "HCL Cornu Luncii nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 21/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trimestrul I/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/206217",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/206217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-22-2024",
+   "path": "local/suceava/cornu-luncii/2024/22",
+   "short": "HCL Cornu Luncii nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 22/2024",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/206230",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/206230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-23-2024",
+   "path": "local/suceava/cornu-luncii/2024/23",
+   "short": "HCL Cornu Luncii nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 23/2024 privind aprobarea Planului de Analiză și Acoperire a Riscurilor în comuna Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/206315",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/206315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-24-2024",
+   "path": "local/suceava/cornu-luncii/2024/24",
+   "short": "HCL Cornu Luncii nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 24/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trimestrul I/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/206322",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/206322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-25-2024",
+   "path": "local/suceava/cornu-luncii/2024/25",
+   "short": "HCL Cornu Luncii nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 25/2024 privind actualizarea devizului general pentru obiectivul de investiții „REABILITAREA MODERATĂ A PRIMĂRIEI DIN COMUNA CORNU LUNCII, SAT CORNU LUNCII, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/206326",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/206326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-27-2024",
+   "path": "local/suceava/cornu-luncii/2024/27",
+   "short": "HCL Cornu Luncii nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 27/2024",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/206337",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/206337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-28-2024",
+   "path": "local/suceava/cornu-luncii/2024/28",
+   "short": "HCL Cornu Luncii nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 28/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/220253",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/220253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-29-2024",
+   "path": "local/suceava/cornu-luncii/2024/29",
+   "short": "HCL Cornu Luncii nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 29/2024 privind validarea suplimentului",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/220254",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/220254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-3-2024",
+   "path": "local/suceava/cornu-luncii/2024/3",
+   "short": "HCL Cornu Luncii nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 3/2024 privind aprobarea utilizarii in cursul anului 2024 a excedentului anual al bugetului local, rezultat la incheierea exercitiului bugetar al anului 2023",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/220480",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/220480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-30-2024",
+   "path": "local/suceava/cornu-luncii/2024/30",
+   "short": "HCL Cornu Luncii nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 30/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trimestrul II/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/220255",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/220255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-31-2024",
+   "path": "local/suceava/cornu-luncii/2024/31",
+   "short": "HCL Cornu Luncii nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 31/2024 privind apartenența la Inventarul domeniului privat al comunei Cornu Luncii a unor terenuri",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/220277",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/220277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-34-2024",
+   "path": "local/suceava/cornu-luncii/2024/34",
+   "short": "HCL Cornu Luncii nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 34/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trim. II/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/221815",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/221815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-38-2024",
+   "path": "local/suceava/cornu-luncii/2024/38",
+   "short": "HCL Cornu Luncii nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 38/2024 privind înființarea unor platforme în vederea depozitării temporare a deșeurilor lemnoase rezultate în urma toaletării arborilor, a pomilor fructiferi și bucăți de lemn provenite din demolări",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/221819",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/221819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-4-2024",
+   "path": "local/suceava/cornu-luncii/2024/4",
+   "short": "HCL Cornu Luncii nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 4/2024 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții „IMPLEMENTAREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL ÎN COMUNA CORNU LUNCII, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/192999",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/192999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-40-2024",
+   "path": "local/suceava/cornu-luncii/2024/40",
+   "short": "HCL Cornu Luncii nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 40/2024 privind implementarea proiectului „Înființarea unei soluții e-guvernare panou informativ în cadrul comunei Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223627",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-41-2024",
+   "path": "local/suceava/cornu-luncii/2024/41",
+   "short": "HCL Cornu Luncii nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 41/2024 privind aprobarea construirii „Magazie Dispensar Băișești, comuna Cornu Luncii",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223628",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-42-2024",
+   "path": "local/suceava/cornu-luncii/2024/42",
+   "short": "HCL Cornu Luncii nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 42/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223629",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-43-2024",
+   "path": "local/suceava/cornu-luncii/2024/43",
+   "short": "HCL Cornu Luncii nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 43/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, ju7dețul Suceava, pentru trimestrul III/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223640",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-44-2024",
+   "path": "local/suceava/cornu-luncii/2024/44",
+   "short": "HCL Cornu Luncii nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 44/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trimestrul III/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223658",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-45-2024",
+   "path": "local/suceava/cornu-luncii/2024/45",
+   "short": "HCL Cornu Luncii nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 45/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trimestrul III/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223685",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-46-2024",
+   "path": "local/suceava/cornu-luncii/2024/46",
+   "short": "HCL Cornu Luncii nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 46/2024 privind aprobarea execuțiilor bugetului local, bugetul creditelor interne și bugetului activităților finanțate integral sau parțial din venituri proprii și subvenții pe cele două secțiuni - funcționare și dezvoltare pentru trimestrul II al anului 2024",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223690",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-47-2024",
+   "path": "local/suceava/cornu-luncii/2024/47",
+   "short": "HCL Cornu Luncii nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 47/2024 privind apartenența la Inventarul domeniului privat al comunei Cornu Luncii a unor terenuri",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223693",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-48-2024",
+   "path": "local/suceava/cornu-luncii/2024/48",
+   "short": "HCL Cornu Luncii nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 48/2024",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223696",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-49-2024",
+   "path": "local/suceava/cornu-luncii/2024/49",
+   "short": "HCL Cornu Luncii nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 49/2024 privind actualizarea indicatorilor tehnico-economice pentru obiectivul de investiții „REABILITAREA MODERATĂ A SEDIULUI ADMINISTRATIV DIN COMUNA CORNU LUNCII, SATUL SASCA MICĂ, JUDEȚUL SUCEAVA” finanțat prin Planul Național de Redresare și Reziliență - Componenta C10- Fondul local, Investiția I.3 - Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale, conform anexei",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223698",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-5-2024",
+   "path": "local/suceava/cornu-luncii/2024/5",
+   "short": "HCL Cornu Luncii nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 5/2024 privind modificarea perioadei de implementare a proiectului „Implementarea sistemelor inteligente de management local în comuna Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/193009",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/193009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-50-2024",
+   "path": "local/suceava/cornu-luncii/2024/50",
+   "short": "HCL Cornu Luncii nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 50/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trimestrul III/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223630",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-52-2024",
+   "path": "local/suceava/cornu-luncii/2024/52",
+   "short": "HCL Cornu Luncii nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 52/2024 privind aprobarea documentației tehnico-economică și a indicatorilor tehnico-economici pentru investiția „CONSTRUIRE CĂMIN CULTURAL ÎN SATUL SASCA MARE, COMUNA CORNUL LUNCII, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223656",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-54-2024",
+   "path": "local/suceava/cornu-luncii/2024/54",
+   "short": "HCL Cornu Luncii nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 54/2024 privind revocarea Hotărârii Consiliului Local nr. 29/12.04.2024 privind validarea supleantului",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223686",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-55-2024",
+   "path": "local/suceava/cornu-luncii/2024/55",
+   "short": "HCL Cornu Luncii nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 55/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trimestrul III/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223691",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-56-2024",
+   "path": "local/suceava/cornu-luncii/2024/56",
+   "short": "HCL Cornu Luncii nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 56/2024 privind aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ-teritorială a comunei Cornu Luncii",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223695",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-59-2024",
+   "path": "local/suceava/cornu-luncii/2024/59",
+   "short": "HCL Cornu Luncii nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 59/2024 privind aprobarea rectificării bugetului local al comunei Cornu Luncii, județul Suceava, pentru trimestrul III/2024 ca urmare a modificării veniturilor și cheltuielilor",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/223852",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/223852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-6-2024",
+   "path": "local/suceava/cornu-luncii/2024/6",
+   "short": "HCL Cornu Luncii nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 6/2024 privind aprobarea execuțiilor bugetului local, bugetului activităților finanțate integral sau parțial din venituri proprii și subvenții și bugetul creditelor interne al comunei Cornu Luncii pe cele două secțiuni - funcționare și dezvoltare pentru trimestrul IV al anului 2024",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/193010",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/193010",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--cornu-luncii-60-2024",
    "path": "local/suceava/cornu-luncii/2024/60",
    "short": "HCL Cornu Luncii nr. 60/2024",
@@ -153,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--cornu-luncii-7-2024",
+   "path": "local/suceava/cornu-luncii/2024/7",
+   "short": "HCL Cornu Luncii nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 7/2024 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „EXTINDERE SISTEM DE ALIMENTARE CU APĂ ÎN SATELE BRĂIEȘTI, BĂIȘEȘTI, CORNUL LUNCII ȘI SASCA NOUĂ, DIN COMUNA CORNU LUNCII, JUDEȚUL SUCEAVA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/193011",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/193011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--cornu-luncii-70-2024",
    "path": "local/suceava/cornu-luncii/2024/70",
    "short": "HCL Cornu Luncii nr. 70/2024",
@@ -298,6 +913,36 @@
      "from": "2024-12-24",
      "units": 1,
      "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/225306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-8-2024",
+   "path": "local/suceava/cornu-luncii/2024/8",
+   "short": "HCL Cornu Luncii nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 8/2024 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții „IMPLEMENTAREA SISTEMELOR INTELIGENTE DE MANAGEMENT LOCAL ÎN COMUNA CORNU LUNCII, JUDEȚUL SUCEAVA”",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/193012",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/193012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--cornu-luncii-9-2024",
+   "path": "local/suceava/cornu-luncii/2024/9",
+   "short": "HCL Cornu Luncii nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornu Luncii nr. 9/2024 privind modificarea Organigramei Serviciului Voluntar pentru Situații de Urgență al comunei Cornu Luncii, județul Suceava",
+   "url": "https://emol.ro/cornuluncii-sv/registru-hcl/200618",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornuluncii-sv/registru-hcl/200618",
      "sha256": null
     }
    ]

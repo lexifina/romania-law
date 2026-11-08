@@ -3,6 +3,231 @@
  "shard": "local/suceava/carlibaba/2022",
  "acts": [
   {
+   "slug": "hcl-suceava--carlibaba-1-2022",
+   "path": "local/suceava/carlibaba/2022/1",
+   "short": "HCL Cârlibaba nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 1/2022 privind aprobarea execuției veniturilor și cheltuielilor bugetului local al comunei Cârlibaba, județul Suceava pe anul 2021",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56710",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-12-2022",
+   "path": "local/suceava/carlibaba/2022/12",
+   "short": "HCL Cârlibaba nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 12/2022 privind aprobarea solicitării de prelungire a scrisorii de garanție din partea CEC BANK SA necesar implementării proiectului de investiții “Modernizare și dotare Cămin cultural din comuna Cârlibaba, județul Suceava”",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56721",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-13-2022",
+   "path": "local/suceava/carlibaba/2022/13",
+   "short": "HCL Cârlibaba nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 13/2022 privind aprobarea implementarii sistemului electronic de incasare a impozitelor si taxelor locale a Primariei comunei Cârlibaba, judetul Suceava in platforma infopay.ro",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56722",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-15-2022",
+   "path": "local/suceava/carlibaba/2022/15",
+   "short": "HCL Cârlibaba nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 15/2022 privind aprobarea rapoartelor de evaluare nr.45/17.03.2022 și 46/17.03.2022 a bunurilor mobile aflate în proprietatea Primăriei comunei Cârlibaba și valorificarea lor prin licitație publică",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56724",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-16-2022",
+   "path": "local/suceava/carlibaba/2022/16",
+   "short": "HCL Cârlibaba nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 16/2022 privind aprobarea solicitării de prelungire a Scrisorii de garantie nr. 329/11.08.2020, în vederea implementării proiectului de investiție intitulat ” Infiintare centru comunitar multifunctional in comuna Carlibaba, judetul Suceava” și finanțat prin AFIR, conform Contract de finanțare nr. C1920072S212613500143/05.09.2018, Act Aditional nr 4/04.08.2021",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/68594",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/68594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-17-2022",
+   "path": "local/suceava/carlibaba/2022/17",
+   "short": "HCL Cârlibaba nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 17/2022 privind aprobarea proiectului \"Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente la nivelul Comunei Cârlibaba, judetul Suceava\" si a cheltuielilor aferente proiectului",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/68595",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/68595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-19-2022",
+   "path": "local/suceava/carlibaba/2022/19",
+   "short": "HCL Cârlibaba nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 19/2022 privind aprobarea propunerii de dezlipire a imobilului cu nr. cadastral 32449 din CF nr.32449 aparținând domeniului privat al UAT Cârlibaba, județul Suceava",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/68597",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/68597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-2-2022",
+   "path": "local/suceava/carlibaba/2022/2",
+   "short": "HCL Cârlibaba nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 2/2022 privind aprobarea utilizării excedentului anual înregistrat la 31.12.2021",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56711",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-20-2022",
+   "path": "local/suceava/carlibaba/2022/20",
+   "short": "HCL Cârlibaba nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 20/2022 privind aprobarea Regulamentului privind cadrul, modalitatea și criteriile de analiză și soluționare a cererilor de atribuire a loturilor de teren în conformitate cu prevederile Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/68598",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/68598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-21-2022",
+   "path": "local/suceava/carlibaba/2022/21",
+   "short": "HCL Cârlibaba nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 21/2022 privind rectificarea bugetului local al comunei Cârlibaba pe anul 2022",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/68599",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/68599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-22-2022",
+   "path": "local/suceava/carlibaba/2022/22",
+   "short": "HCL Cârlibaba nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 22/2022 privind aprobarea începerii investiției „REDUCEREA EMISIILOR DE GAZE CU EFECT DE SERA IN TRANSPORTURI, PRIN PROMOVAREA INFRASTRUCTURII PENTRU VEHICULELE DE TRANSPORT RUTIER NEPOLUANT DIN PUNCT DE VEDERE ENERGETIC: STATII DE REINCARCARE PENTRU VEHICULE ELECTRICE IN COMUNA CARLIBABA, JUDETUL SUCEAVA”",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/68600",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/68600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-23-2022",
+   "path": "local/suceava/carlibaba/2022/23",
+   "short": "HCL Cârlibaba nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 23/2022 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea începerii investiției ”Modernizarea si eficienta sistemului de iluminat public in Comuna Cârlibaba, Județul Suceava – etapa II”",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/68601",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/68601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-26-2022",
+   "path": "local/suceava/carlibaba/2022/26",
+   "short": "HCL Cârlibaba nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 26/2022 privind rectificarea bugetului local al comunei Cârlibaba pe anul 2022",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/75990",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/75990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-27-2022",
+   "path": "local/suceava/carlibaba/2022/27",
+   "short": "HCL Cârlibaba nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 27/2022 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURA RUTIERA DE INTERES LOCAL ÎN COMUNA CÂRLIBABA, JUDEŢUL SUCEAVA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/75991",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/75991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-3-2022",
+   "path": "local/suceava/carlibaba/2022/3",
+   "short": "HCL Cârlibaba nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 3/2022 privind aprobarea planului de acţiuni pe anul 2022 în vederea repartizării orelor de muncă pentru persoanele apte de muncă, beneficiare de ajutor social potrivit Legii nr. 416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare, din comuna Cârlibaba, județul Suceava",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56712",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56712",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--carlibaba-30-2022",
    "path": "local/suceava/carlibaba/2022/30",
    "short": "HCL Cârlibaba nr. 30/2022",
@@ -153,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--carlibaba-4-2022",
+   "path": "local/suceava/carlibaba/2022/4",
+   "short": "HCL Cârlibaba nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 4/2022 privind aprobarea volumului de masă lemnoasă care se recoltează din fondul forestier proprietate publică a comunei Cârlibaba, județul Suceava pentru anul 2022",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56713",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56713",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--carlibaba-40-2022",
    "path": "local/suceava/carlibaba/2022/40",
    "short": "HCL Cârlibaba nr. 40/2022",
@@ -298,6 +538,51 @@
      "from": "2023-03-27",
      "units": 1,
      "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/96645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-7-2022",
+   "path": "local/suceava/carlibaba/2022/7",
+   "short": "HCL Cârlibaba nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 7/2022 privind aprobarea prin achiziție directă de servicii și atribuirea contractului de delegare gestiune a activității de colectare, colectare separată și transportul separat al deșeurilor municipale și al deșeurilor similare – fracția umedă și fracția uscată, provenind din activități comerciale, din industrie și instituții, inclusiv fracții colectate separat, fără a aduce atingere fluxului de deșeuri de echipamente electrice și electronice, baterii și acumulatori, al comunei Cârlibaba, județul Suceava, către Societatea Comercială Paltinis S.R.L",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56716",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-8-2022",
+   "path": "local/suceava/carlibaba/2022/8",
+   "short": "HCL Cârlibaba nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 8/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al comunei Cârlibaba, județul Suceava",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56717",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-9-2022",
+   "path": "local/suceava/carlibaba/2022/9",
+   "short": "HCL Cârlibaba nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 9/2022 privind rectificarea bugetului local al comunei Cârlibaba pe anul 2022",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/56718",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/56718",
      "sha256": null
     }
    ]

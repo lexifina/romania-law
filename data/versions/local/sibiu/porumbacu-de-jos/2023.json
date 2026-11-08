@@ -3,6 +3,696 @@
  "shard": "local/sibiu/porumbacu-de-jos/2023",
  "acts": [
   {
+   "slug": "hcl-sibiu--porumbacu-de-jos-1-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/1",
+   "short": "HCL Porumbacu de Jos nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 1/2023 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/87339",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/87339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-10-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/10",
+   "short": "HCL Porumbacu de Jos nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 10/2023 privind validarea Dispoziției nr. 212/21.12.2022 și a modificărilor bugetare aferente bugetului de venituri si cheltuieli aferente trimestrului IV anul 2022",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90801",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-11-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/11",
+   "short": "HCL Porumbacu de Jos nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 11/2023 privind aprobarea bugetului local al comunei Porumbacu de Jos pentru anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90802",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-12-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/12",
+   "short": "HCL Porumbacu de Jos nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 12/2023 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Porumbacu de Jos nr. 31/ 2022 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale pentru anul 2023, în Comuna Porumbacu de Jos",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90803",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-13-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/13",
+   "short": "HCL Porumbacu de Jos nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 13/2023 privind aprobarea Planului de analiză şi acoperirea riscurilor al Comunei Porumbacu de Jos pe anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90804",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-14-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/14",
+   "short": "HCL Porumbacu de Jos nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 14/2023 privind reactualizarea Comitetului local pentru situaţii de urgenţă, a Centrului operativ şi aprobarea Regulamentului de organizare şi funcţionare al acestuia în comuna Porumbacu de Jos, judeţul Sibiu",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90805",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-15-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/15",
+   "short": "HCL Porumbacu de Jos nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 15/2023 pentru modificarea anexelor la contractul de asociere aprobat prin Hotărârea Consiliului Local nr. 93/2022 privind aprobarea Contractului de Asociere actualizat, pentru proiectele „Sistem de Management Integrat al Deșeurilor în Județul Sibiu” și “Investiții complementare Sistemului de Management Integrat al Deșeurilor în Județul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/92131",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/92131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-16-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/16",
+   "short": "HCL Porumbacu de Jos nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 16/2023 privind aprobarea planului anual de evoluție a tarifelor, a documentației tehnico-economice, a devizului general, precum și a indicatorilor tehnico-economici aferenți obiectivului de investiții ,, Investiții complementare Sistemului de Management Integrat al Deșeurilor în Județul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/92132",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/92132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-17-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/17",
+   "short": "HCL Porumbacu de Jos nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 17/2023 privind aprobarea depunerii cererii de finanțare și implementarea obiectivului de investiții „Dotarea sălilor de clasă din cadrul unității de învățământ a comunei Porumbacu de Jos, județul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/92133",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/92133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-18-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/18",
+   "short": "HCL Porumbacu de Jos nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 18/2023 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru proiectul „Înființare centru de colectare prin aport voluntar in comuna Porumbacu de Jos Județul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/92134",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/92134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-22-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/22",
+   "short": "HCL Porumbacu de Jos nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 22/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și Comuna Porumbacu de Jos, județul Sibiu, referitor la colaborarea interinstituțională în cadrul proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/94336",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/94336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-24-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/24",
+   "short": "HCL Porumbacu de Jos nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 24/2023 privind aprobarea contului anual de execuţie al bugetului local şi a situaţiilor financiare încheiate la data de 31.12.2022",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/94338",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/94338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-25-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/25",
+   "short": "HCL Porumbacu de Jos nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 25/2023 privind utilizarea excedentului bugetului local al anului 2022, ca sursa de finantare a cheltuielilor sectiunii de dezvoltare, in anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/94339",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/94339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-26-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/26",
+   "short": "HCL Porumbacu de Jos nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 26/2023 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2023, pentru pădurile din fondul forestier al Comunei Porumbacu de Jos, administrate de Regia Naţională a Pădurilor ROMSILVA, Direcţia Silvică Sibiu, prin Ocolul Silvic Avrig",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/94340",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/94340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-28-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/28",
+   "short": "HCL Porumbacu de Jos nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 28/2023 privind aprobarea documentaţiei tehnico-economice şi a bugetului indicativ al proiectului investiţional „Modernizarea infrastructurii rutiere de interes local în comuna Porumbacu de Jos, judeţul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/100570",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/100570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-3-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/3",
+   "short": "HCL Porumbacu de Jos nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 3/2023 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat pentru anul şcolar 2023-2024 din Comuna Porumbacu de Jos",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90794",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-31-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/31",
+   "short": "HCL Porumbacu de Jos nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 31/2023 privind aprobarea Regulamentului de Organizare si Funcționare al aparatului de specialitate al Primarului comunei Porumbacu de Jos",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/103372",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/103372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-33-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/33",
+   "short": "HCL Porumbacu de Jos nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 33/2023 privind participarea în cadrul Programului privind casarea autovehiculelor uzate a comunei Porumbacu de Jos, județul Sibiu",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/103374",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/103374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-34-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/34",
+   "short": "HCL Porumbacu de Jos nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 34/2023 privind aprobarea devizului general actualizat si a indicatorilor tehnico-economici actualizați, faza proiect tehnic pentru proiectul „ÎNFIINȚARE CENTRU DE COLECTARE PRIN APORT VOLUNTAR ÎN COMUNA PORUMBACU DE JOS, JUDEȚUL SIBIU”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/103375",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/103375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-35-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/35",
+   "short": "HCL Porumbacu de Jos nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 35/2023 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2024, cu rata inflației de 13,8%",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/103376",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/103376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-37-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/37",
+   "short": "HCL Porumbacu de Jos nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 37/2023 privind suplimentarea și rectificarea bugetului de venituri și cheltuieli pe trimestrul II, anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/104755",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/104755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-38-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/38",
+   "short": "HCL Porumbacu de Jos nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 38/2023 privind aprobarea participării comunei Porumbacu de Jos, județul Sibiu la parteneriatul LEADER cu denumirea „Asociația Grupul De Acțiune Locală Țara Oltului”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/104756",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/104756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-39-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/39",
+   "short": "HCL Porumbacu de Jos nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 39/2023 privind delegarea, către Unitatea Administrativ Teritorială - Județul Sibiu, a dreptului de depunere a aplicației de finanțare aferentă proiectului „Microbuze școlare electrice în județul Sibiu” gestionat de Ministerul Educației, în cadrul apelului de proiecte PNRR/2023/C15/EDUCATIE/I.10",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/108437",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/108437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-43-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/43",
+   "short": "HCL Porumbacu de Jos nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 43/2023 privind suplimentarea si rectificarea bugetului de venituri și cheltuieli pe trimestrul II, anul 2023, și suplimentarea și rectificarea listei de investiții pe trimestrul II, anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/108441",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/108441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-49-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/49",
+   "short": "HCL Porumbacu de Jos nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 49/2023 privind suplimentarea si rectificarea bugetului de venituri si cheltuieli pe trimestrul III, anul 2023 și suplimentarea și rectificarea listei de investiții pe trimestrul III, anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115827",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-5-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/5",
+   "short": "HCL Porumbacu de Jos nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 5/2023 privind aprobarea numărului de posturi pentru asistenţi personali pentru anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90796",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-50-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/50",
+   "short": "HCL Porumbacu de Jos nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 50/2023 privind aprobarea documentaţiei tehnico-economice şi a indicatorilor tehnico-economici pentru proiectul „Extinderea sistemului de monitorizare video în comuna Porumbacu de Jos, județul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115828",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-51-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/51",
+   "short": "HCL Porumbacu de Jos nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 51/2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115829",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-52-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/52",
+   "short": "HCL Porumbacu de Jos nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 52/2023 privind aprobarea documentaţiei tehnico-economice faza studiu de fezabilitate şi a indicatorilor tehnico-economici pentru proiectul „Amenajare piste pentru biciclete si alte vehicule electrice usoare în comuna Porumbacu de Jos, județul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115830",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-53-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/53",
+   "short": "HCL Porumbacu de Jos nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 53/2023 privind modificarea anexelor nr.1 și nr.2 la HCL nr 87/15.12.2022 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Alimentare cu apă în satul Colun, comuna Porumbacu de Jos, județul Sibiu”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115831",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-55-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/55",
+   "short": "HCL Porumbacu de Jos nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 55/2023 privind aprobarea planului de evoluție al tarifelor, a documentației tehnico-economice, a devizului general, a indicatorilor tehnico-economici, precum și a cofinanțării pentru proiectul „Recipiente de colectare a deșeurilor”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115948",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-56-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/56",
+   "short": "HCL Porumbacu de Jos nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 56/2023 privind aprobarea Contractului de Asociere actualizat si a Actului cadru de atribuire pentru componentele „Recipiente de colectare a deseurilor” si „Construire Statii de transfer la Agnita si Avrig si Centre de Colectare a deseurilor cu Aport Voluntar la Avrig, Agnita, Sibiu, Medias si Cisnadie” din cadrul proiectului „Investitii complementare Sistemului de Management Integrat al Deseurilor in Judetul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115949",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/115949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-57-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/57",
+   "short": "HCL Porumbacu de Jos nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 57/2023 privind suplimentarea si rectificarea bugetului de venituri și cheltuieli pe trimestrul III, anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/116026",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/116026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-6-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/6",
+   "short": "HCL Porumbacu de Jos nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 6/2023 privind aprobarea planului de acțiuni sau lucrări de interes local pe anul 2023, pentru repartizarea orelor de muncă prestate lunar de către persoanele majore apte de muncă din familia beneficiară de ajutor social, în conformitate cu prevederile Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90797",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-60-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/60",
+   "short": "HCL Porumbacu de Jos nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 60/2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/119475",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/119475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-61-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/61",
+   "short": "HCL Porumbacu de Jos nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 61/2023 privind aprobarea solicitării prelungirii scrisorii de garanţie pentru restituirea avansului nr. 442 din 23.08.2017, și a contractului de finanțare C0720RM00011673400253/24.07.2017 pentru proiectului investiţional „Modernizarea infrastructurii rutiere de interes local în comuna Porumbacu de Jos, judeţul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/119476",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/119476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-62-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/62",
+   "short": "HCL Porumbacu de Jos nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 62/2023 privind suplimentarea si rectificarea bugetului de venituri si cheltuieli pe trimestrul III, anul 2023 și suplimentarea și rectificarea listei de investiții pe trimestrul III, anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/119477",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/119477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-65-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/65",
+   "short": "HCL Porumbacu de Jos nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 65/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative prevăzute de Programul pentru școli al României, pentru anii școlari 2023-2024, respectiv 2024-2025",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/119480",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/119480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-66-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/66",
+   "short": "HCL Porumbacu de Jos nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 66/2023 privind modificarea anexelor nr.1 și nr.2 la HCL nr 87/2022 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Alimentare cu apă în satul Colun, comuna Porumbacu de Jos, județul Sibiu”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/120439",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/120439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-67-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/67",
+   "short": "HCL Porumbacu de Jos nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 67/2023 privind aprobarea memoriului tehnic, a devizului general, a indicatorilor tehnico-economici și a planului anual de evoluție a tarifelor pentru proiectul „Recipiente de colectare a deșeurilor”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/120440",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/120440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-7-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/7",
+   "short": "HCL Porumbacu de Jos nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 7/2023 privind aprobarea Planului de lucrări pentru munca neremunerată în folosul comunității de către persoanele condamnate și a celor sancționate contravențional, în anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90798",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-71-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/71",
+   "short": "HCL Porumbacu de Jos nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 71/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico- economici și a devizului general actualizat pentru obiectivul de investiții ”Alimentare cu apă și stație de tratare apă în satul Scoreiu, comuna Porumbacu de Jos, județul Sibiu” aprobat pentru finanțare prin Programul Național de investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/121592",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/121592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-72-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/72",
+   "short": "HCL Porumbacu de Jos nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 72/2023 privind aprobarea Organigramei şi a Statului de funcţii ale aparatului de specialitate al Primarului Comunei Porumbacu de Jos",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/121593",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/121593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-73-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/73",
+   "short": "HCL Porumbacu de Jos nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 73/2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/123955",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/123955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-74-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/74",
+   "short": "HCL Porumbacu de Jos nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 74/2023 privind înscrierea dreptului de proprietate publică al comunei Porumbacu de Jos asupra bunurilor imobile cu destinația ,,străzi,, care alcătuiesc domeniul public al comunei Porumbacu de Jos",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/125862",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/125862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-75-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/75",
+   "short": "HCL Porumbacu de Jos nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 75/2023 privind aprobarea actualizării documentaţiei tehnico-economice şi a indicatorilor tehnico-economici pentru proiectul „Extinderea sistemului de monitorizare video în comuna Porumbacu de Jos, județul Sibiu”",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/125863",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/125863",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--porumbacu-de-jos-76-2023",
    "path": "local/sibiu/porumbacu-de-jos/2023/76",
    "short": "HCL Porumbacu de Jos nr. 76/2023",
@@ -208,6 +898,21 @@
      "from": "2024-02-01",
      "units": 1,
      "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/140616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--porumbacu-de-jos-9-2023",
+   "path": "local/sibiu/porumbacu-de-jos/2023/9",
+   "short": "HCL Porumbacu de Jos nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Porumbacu de Jos nr. 9/2023 privind valorificarea masei lemnoase din fondul forestier proprietate a Comunei Porumbacu de Jos în anul 2023",
+   "url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90800",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/porumbacudejos-sb/registru-hcl/90800",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "local/prahova/varbilau/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--varbilau-1-2025",
+   "path": "local/prahova/varbilau/2025/1",
+   "short": "HCL Vărbilău nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 1/2025 privind reîntregirea excedentului anului precedent cu sumele repartizate din acesta în cursul anului 2024 pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/186678",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/186678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-10-2025",
+   "path": "local/prahova/varbilau/2025/10",
+   "short": "HCL Vărbilău nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 10/2025 privind aprobarea reducerii cu 65% a impozitului datorat pentru mijloacele de transport cu sistem hibrid pentru anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/189540",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/189540",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--varbilau-101-2025",
    "path": "local/prahova/varbilau/2025/101",
    "short": "HCL Vărbilău nr. 101/2025",
@@ -133,6 +163,21 @@
      "from": "2025-11-11",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/232835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-11-2025",
+   "path": "local/prahova/varbilau/2025/11",
+   "short": "HCL Vărbilău nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 11/2025 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Vărbilău, Judeţul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/189541",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/189541",
      "sha256": null
     }
    ]
@@ -298,6 +343,891 @@
      "from": "2026-01-19",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/244430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-13-2025",
+   "path": "local/prahova/varbilau/2025/13",
+   "short": "HCL Vărbilău nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 13/2025 privind aprobarea montării unor indicatoare rutiere pe drumul comunal Livadea – Podu Ursului – Cosminele (DC 13)",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/189543",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/189543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-14-2025",
+   "path": "local/prahova/varbilau/2025/14",
+   "short": "HCL Vărbilău nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 14/2025 privind aprobarea Strategiei anuale de achiziții publice a comunei Vărbilău pentru anul 2025 și a programului de achiziții publice pentru anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/191393",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/191393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-16-2025",
+   "path": "local/prahova/varbilau/2025/16",
+   "short": "HCL Vărbilău nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 16/2025 privind aprobarea Documentației tehnice și a Devizului General pentru obiectivul \"Construire trotuare pietonale, rigole și șanțuri betonate în zona DJ 101 T, sat Vărbilău și DJ 102, în satul Poiana Vărbilău (DTAC și PT + DE) , Proiect nr.47/2024, proiectant SC Sigteh SRL, Ploiești, județul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/194153",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/194153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-2-2025",
+   "path": "local/prahova/varbilau/2025/2",
+   "short": "HCL Vărbilău nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 2/2025 privind aprobarea implementării proiectului „Achiziție tractor de grădină pentru tuns gazon”",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/187707",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/187707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-21-2025",
+   "path": "local/prahova/varbilau/2025/21",
+   "short": "HCL Vărbilău nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 21/2025 privind aprobarea actualizării Grupului de Lucru Local, Regulamentul de organizare și funcționare și a Planului local de acțiune pentru incluziunea comunităților de romi în perioada 2025 – 2027",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/194158",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/194158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-23-2025",
+   "path": "local/prahova/varbilau/2025/23",
+   "short": "HCL Vărbilău nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 23/2025 privind aprobarea stabilirii de taxe speciale pentru serviciile publice locale asigurate de Primăria comunei Vărbilău în anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/194160",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/194160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-24-2025",
+   "path": "local/prahova/varbilau/2025/24",
+   "short": "HCL Vărbilău nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 24/2025 privind aprobarea întocmirii Documentațiilor de alipire precum și a actelor de alipire prin comasare pentru imobilele cu numerele cadastrale 20362 cu 23117, 20365 cu 23119 și 21154 cu 22722 situate în comuna Vărbilău, satul Vărbilău, zona Târg comercial",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/194161",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/194161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-25-2025",
+   "path": "local/prahova/varbilau/2025/25",
+   "short": "HCL Vărbilău nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 25/2025 pentru aprobarea Regulamentului privind utilizarea microbuzului școlar aflat în administrarea Școlii Gimnaziale comuna Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/194162",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/194162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-27-2025",
+   "path": "local/prahova/varbilau/2025/27",
+   "short": "HCL Vărbilău nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 27/2025 privind aprobarea Bugetului de Venituri și Cheltuieli al comunei Vărbilău pe anul 2025 și estimări pentru anii 2026-2028",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198677",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-28-2025",
+   "path": "local/prahova/varbilau/2025/28",
+   "short": "HCL Vărbilău nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 28/2025 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198678",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-29-2025",
+   "path": "local/prahova/varbilau/2025/29",
+   "short": "HCL Vărbilău nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 29/2025 privind aprobarea decontării cheltuielilor pentru naveta la și de la locul de muncă a cadrelor didactice și a personalului didactic auxiliar care solicită cheltuieli de deplasare",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198679",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-3-2025",
+   "path": "local/prahova/varbilau/2025/3",
+   "short": "HCL Vărbilău nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 3/2025 privind actualizarea Anexei nr. 1 la HCL nr. 32/10.04.2024 privind aprobarea solicitării finanțării cheltuielilor pentru actualizarea Planului Urbanistic General și Regulamentului Local de Urbanism aferente comunei Vărbilău, județul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/189533",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/189533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-31-2025",
+   "path": "local/prahova/varbilau/2025/31",
+   "short": "HCL Vărbilău nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 31/2025 privind aprobarea utilizării excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198681",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-32-2025",
+   "path": "local/prahova/varbilau/2025/32",
+   "short": "HCL Vărbilău nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 32/2025 privind reorganizarea aparatului de specialitate al primarului comunei Vărbilău, aprobarea organigramei, a statului de funcṭii și actualizarea Regulamentului de Organizare și Funcționare , Anexă la HCL nr. 61 din 30 august 2024",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198682",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-33-2025",
+   "path": "local/prahova/varbilau/2025/33",
+   "short": "HCL Vărbilău nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 33/2025 privind actualizarea Strategiei de Dezvoltare a Serviciilor Sociale și a Planului de Acțiune pentru Dezvoltarea Serviciilor Sociale la nivelul comunei Vărbilău, pentru perioada 2025– 2027",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198683",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-34-2025",
+   "path": "local/prahova/varbilau/2025/34",
+   "short": "HCL Vărbilău nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 34/2025 privind aprobarea Programului de acțiuni comunitare pentru combaterea sărăciei si marginalizării sociale în anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198684",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-35-2025",
+   "path": "local/prahova/varbilau/2025/35",
+   "short": "HCL Vărbilău nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 35/2025 privind aprobarea organizării pășunatului pe pajiștile administrate de Consiliul Local al comunei Vărbilău, în anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198685",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-36-2025",
+   "path": "local/prahova/varbilau/2025/36",
+   "short": "HCL Vărbilău nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 36/2025 privind aprobarea Programului achiziţiilor publice ce urmează a se contracta de comuna Vărbilău în anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/198686",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/198686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-40-2025",
+   "path": "local/prahova/varbilau/2025/40",
+   "short": "HCL Vărbilău nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 40/2025 privind aprobarea transmiterii în folosință gratuită a unui imobil proprietatea comunei Vărbilău, către Inspectoratul pentru Situații de Urgență „Șerban Cantacuzino” al județului Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/200757",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/200757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-43-2025",
+   "path": "local/prahova/varbilau/2025/43",
+   "short": "HCL Vărbilău nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 43/2025 privind aprobarea devizului general și a indicatorilor tehnico economici după organizarea procedurii de achiziție publică pentru obiectivul de investiții \"MODERNIZARE DRUMURI DE INTERES LOCAL\" , aprobat pentru finanțare prin Programul național de investiții \"Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/202437",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/202437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-45-2025",
+   "path": "local/prahova/varbilau/2025/45",
+   "short": "HCL Vărbilău nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 45/2025 privind aprobarea acordului de participare a comunei Vărbilău în cadrul Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/202439",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/202439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-46-2025",
+   "path": "local/prahova/varbilau/2025/46",
+   "short": "HCL Vărbilău nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 46/2025 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/204390",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/204390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-47-2025",
+   "path": "local/prahova/varbilau/2025/47",
+   "short": "HCL Vărbilău nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 47/2025 privind aprobarea decontării cheltuielilor pentru naveta la și de la locul de muncă a cadrelor didactice și a personalului didactic auxiliar care solicită cheltuieli de deplasare",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/204391",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/204391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-48-2025",
+   "path": "local/prahova/varbilau/2025/48",
+   "short": "HCL Vărbilău nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 48/2025 privind aprobarea contului de execuție al bugetului local aferent exerciţiului bugetar al comunei Vărbilău, pe trimestrul I al anului 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/204392",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/204392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-49-2025",
+   "path": "local/prahova/varbilau/2025/49",
+   "short": "HCL Vărbilău nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 49/2025 privind completarea inventarului bunurilor imobile care aparţin domeniului privat al comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/204393",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/204393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-5-2025",
+   "path": "local/prahova/varbilau/2025/5",
+   "short": "HCL Vărbilău nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 5/2025 privind aprobarea actualizării Regulamentului de acordare a ajutoarelor de urgență și a ajutoarelor comunitare locuitorilor comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/189535",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/189535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-50-2025",
+   "path": "local/prahova/varbilau/2025/50",
+   "short": "HCL Vărbilău nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 50/2025 privind valorile impozabile, impozitele și taxelor locale și alte taxe asimilate acestora, precum și amenzile aplicabile în comuna Vărbilău, în anul 2026",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/204394",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/204394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-53-2025",
+   "path": "local/prahova/varbilau/2025/53",
+   "short": "HCL Vărbilău nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 53/2025 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/208986",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/208986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-54-2025",
+   "path": "local/prahova/varbilau/2025/54",
+   "short": "HCL Vărbilău nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 54/2025 privind aprobarea decontării cheltuielilor pentru naveta la și de la locul de muncă a cadrelor didactice și a personalului didactic auxiliar care solicită cheltuieli de deplasare",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/208987",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/208987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-57-2025",
+   "path": "local/prahova/varbilau/2025/57",
+   "short": "HCL Vărbilău nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 57/2025 privind rectificarea denumirii obiectivului de investiţii, din „Reabilitare bază sportivă, satul Poiana Vărbilău, comuna Vărbilău, judeţul Prahova” în „Reabilitare bază sportivă – construire clădire vestiare, din satul Poiana Vărbilău, comuna Vărbilău, judeţul Prahova” precum şi rectificarea sumei Devizului general prevăzută la art. 2 la Hotărârea Consiliului Local al comunei Vărbilău nr. 59/30.08.2024",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/212532",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/212532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-6-2025",
+   "path": "local/prahova/varbilau/2025/6",
+   "short": "HCL Vărbilău nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 6/2025 privind aprobarea Documentației tehnice și a Devizului General al investiției „Extindere rețea distribuție apă și branșamente în comuna Vărbilău, în zonele Apostolești, Podu Ursului și Floroiești - Giurești”",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/189536",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/189536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-62-2025",
+   "path": "local/prahova/varbilau/2025/62",
+   "short": "HCL Vărbilău nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 62/2025 privind stabilirea punctelor destinate amplasării de containere în scopul colectării deșeurilor textile",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/212537",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/212537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-64-2025",
+   "path": "local/prahova/varbilau/2025/64",
+   "short": "HCL Vărbilău nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 64/2025 privind aprobarea documentației tehnice și a indicatorilor tehnico-ecomomici faza Proiect Tehnic și Detalii de Execuție pentru obiectivul de investiții „Construire racorduri rețea alimentare cu apă și gorpodărie de apă în satul Livadea, comuna Vărbilău”, județul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/218409",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/218409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-65-2025",
+   "path": "local/prahova/varbilau/2025/65",
+   "short": "HCL Vărbilău nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 65/2025 privind aprobarea devizului general și a indicatorilor tehnico economici actualizați pentru obiectivul de investiții „Modernizare drumuri de interes local” în comuna Vărbilău, județul Prahova, aprobat pentru finanțare prin Programul național de investiții \"Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/218410",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/218410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-66-2025",
+   "path": "local/prahova/varbilau/2025/66",
+   "short": "HCL Vărbilău nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 66/2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/218411",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/218411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-67-2025",
+   "path": "local/prahova/varbilau/2025/67",
+   "short": "HCL Vărbilău nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 67/2025 privind organizarea evenimentului „Zilele comunei Vărbilău”",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/218412",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/218412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-68-2025",
+   "path": "local/prahova/varbilau/2025/68",
+   "short": "HCL Vărbilău nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 68/2025 privind darea în folosință gratuită a mijloacelor fixe și obiectelor de inventar achiziționate prin proiectul: „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe” din cadrul PNRR/ Pilonul VI / Politici pentru noua generație / Componenta C15: Educație, către Școala Gimnazială, comuna Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/218413",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/218413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-69-2025",
+   "path": "local/prahova/varbilau/2025/69",
+   "short": "HCL Vărbilău nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 69/2025 privind aprobarea contului de execuție al bugetului local aferent exerciţiului bugetar al comunei Vărbilău, pe trimestrul II al anului 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/218414",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/218414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-71-2025",
+   "path": "local/prahova/varbilau/2025/71",
+   "short": "HCL Vărbilău nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 71/2025 privind aprobarea rectificării Bugetului de Venituri si Cheltuieli al comunei Vărbilău pe anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/218416",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/218416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-72-2025",
+   "path": "local/prahova/varbilau/2025/72",
+   "short": "HCL Vărbilău nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 72/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025 al comunei Vărbilău, județul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/218417",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/218417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-77-2025",
+   "path": "local/prahova/varbilau/2025/77",
+   "short": "HCL Vărbilău nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 77/2025 privind aprobarea dezmembrării imobilului în suprafață totală de 2670 m.p., situat tarlaua 19 parcela A5635, teren extravilan, categoria de folosință arabil, situat în comuna Vărbilău, satul Vărbilău, identificat cu numărul cadastral 23210, înscris în Cartea Funciară Vărbilău sub nr. 23210, aflat în proprietatea privată a Comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/227101",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/227101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-78-2025",
+   "path": "local/prahova/varbilau/2025/78",
+   "short": "HCL Vărbilău nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 78/2025 privind stabilirea și sancționarea unor contravenții",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/227102",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/227102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-8-2025",
+   "path": "local/prahova/varbilau/2025/8",
+   "short": "HCL Vărbilău nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 8/2025 privind aprobarea pentru anul 2025 a Planului de acţiuni şi lucrări de interes local",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/189538",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/189538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-80-2025",
+   "path": "local/prahova/varbilau/2025/80",
+   "short": "HCL Vărbilău nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 80/2025 privind aprobarea documentației tehnice - faza Proiect Tehnic și a devizului general pentru obiectivul de investiții „Amenajare teren de sport (minifotbal) și parc de joacă în zona Școala Gimnazială în sat Vărbilău, comuna Vărbilău”",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/227104",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/227104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-81-2025",
+   "path": "local/prahova/varbilau/2025/81",
+   "short": "HCL Vărbilău nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 81/2025 privind trecerea din domeniul privat în domeniul public al comunei Vărbilău a terenului în suprafață de 7.000 m.p., situat în intravilanul comunei Vărbilău, satului Poiana Vărbilău, tarla 11 parcela A95, având număr cadastral 23010, înscris în Cartea Funciară nr. 23010 Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/227105",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/227105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-82-2025",
+   "path": "local/prahova/varbilau/2025/82",
+   "short": "HCL Vărbilău nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 82/2025 privind darea în folosință gratuită a imobilului compus din construcția administrativă și social culturală C1 - „Centru pregătire după programul școlar - Poiana Vărbilău” și terenul aferent în suprafață de 1.465 m.p., către Școala Gimnazială, comuna Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/227106",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/227106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-83-2025",
+   "path": "local/prahova/varbilau/2025/83",
+   "short": "HCL Vărbilău nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 83/2025 privind dezmembrarea în trei loturi a imobilului în suprafață totală de 2670 m.p., situat în comuna Vărbilău, satul Vărbilău, tarlaua 19, parcela A5635, teren extravilan, categoria de folosință arabil, identificat cu numărul cadastral 23210, înscris în Cartea Funciară Vărbilău sub nr. 23210, aflat în proprietatea privată a Comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230320",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-84-2025",
+   "path": "local/prahova/varbilau/2025/84",
+   "short": "HCL Vărbilău nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 84/2025 privind dezmembrarea în două loturi a imobilului în suprafață totală de 1012 m.p., situat în comuna Vărbilău, satul Vărbilău, tarlaua 4 parcela Cc296, teren intravilan, categoria de folosință curți construcții, identificat cu numărul cadastral 23205, înscris în Cartea Funciară Vărbilău sub nr. 23205, aflat în proprietatea privată a Comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230321",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-85-2025",
+   "path": "local/prahova/varbilau/2025/85",
+   "short": "HCL Vărbilău nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 85/2025 privind dezmembrarea în două loturi a imobilului în suprafață totală de 29000 m.p., situat în comuna Vărbilău, satul Poiana Vărbilău, tarlaua 11, parcela 94, teren intravilan, identificat cu numărul cadastral 23121, înscris în Cartea Funciară Vărbilău sub nr. 23121, aflat în proprietatea publică a Comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230322",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-86-2025",
+   "path": "local/prahova/varbilau/2025/86",
+   "short": "HCL Vărbilău nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 86/2025 privind dezmembrarea în trei loturi a imobilului în suprafață totală de 27869 m.p., situat în comuna Vărbilău, satul Poiana Vărbilău, tarlaua 19, parcela 94, teren intravilan, categoria de folosință pășune, identificat cu numărul cadastral 22608, înscris în Cartea Funciară Vărbilău sub nr. 22608, aflat în proprietatea privată a Comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230323",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-88-2025",
+   "path": "local/prahova/varbilau/2025/88",
+   "short": "HCL Vărbilău nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 88/2025 privind rectificarea Devizului general aferent obiectivului de investiții „Reabilitare bază sportivă - construire clădire vestiare, din satul Poiana Vărbilău, comuna Vărbilău, județul Prahova”",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230325",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-9-2025",
+   "path": "local/prahova/varbilau/2025/9",
+   "short": "HCL Vărbilău nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 9/2025 privind stabilirea tarifelor de închiriere pentru spațiile și terenurile proprietatea comunei Vărbilău și a redevenței de concesionare a spațiilor pentru cabinete medicale individuale, aplicabile în anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/189539",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/189539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-90-2025",
+   "path": "local/prahova/varbilau/2025/90",
+   "short": "HCL Vărbilău nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 90/2025 privind schimbarea destinației imobilului compus din construcția administrativă și social culturală C1 și terenul aferent în suprafață de 1.465 m.p., înscris în Cartea Funciară a comunei Vărbilău sub nr. 20471, din „Centru de pregătire după programul școlar” în „Grădiniță”",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230327",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-91-2025",
+   "path": "local/prahova/varbilau/2025/91",
+   "short": "HCL Vărbilău nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 91/2025 privind reorganizarea aparatului de specialitate al primarului comunei Vărbilău, aprobarea organigramei, a statului de funcṭii și actualizarea Regulamentului de Organizare și Funcționare",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230328",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-92-2025",
+   "path": "local/prahova/varbilau/2025/92",
+   "short": "HCL Vărbilău nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 92/2025 privind aprobarea rectificării Bugetului de Venituri si Cheltuieli al comunei Vărbilău pe anul 2025",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230329",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-93-2025",
+   "path": "local/prahova/varbilau/2025/93",
+   "short": "HCL Vărbilău nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 93/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025 al comunei Vărbilău, județul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230330",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-94-2025",
+   "path": "local/prahova/varbilau/2025/94",
+   "short": "HCL Vărbilău nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 94/2025 pentru radierea poziției nr. 2 indice 2 din Anexa nr. 3B la Hotărârea Consiliului Local nr. 41/10.04.2025 privind aprobarea Nomenclatorului stradal al comunei Vărbilău, județul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/230331",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/230331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-98-2025",
+   "path": "local/prahova/varbilau/2025/98",
+   "short": "HCL Vărbilău nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 98/2025 privind atestarea apartenenței la domeniul public al comunei Vărbilău a bunurilor realizate în cadrul obiectivului „Sistem public de alimentare cu apă în comuna Vărbilău, județul Prahova”",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/232824",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/232824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-99-2025",
+   "path": "local/prahova/varbilau/2025/99",
+   "short": "HCL Vărbilău nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 99/2025 privind atestarea apartenenței unor imobile terenuri la domeniul privat al comunei Vărbilău, județul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/232825",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/232825",
      "sha256": null
     }
    ]

@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-salaj--simleu-silvaniei-86-2017",
+"path": "local/salaj/simleu-silvaniei/2017/86",
+"kind": "local",
+"year": "2017",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 86/2017 pentru modificarea Hotărârii Consiliului Local nr. 60 din 28.07.2016 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 31 august 2017; Având în vedere Expunerea de motive nr. 12407/2017 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr. 12408/2017 al Biroului cadastru, Avizul Comisiei pentru amenajarea teritoriului și urbanism, ad",
+"short": "HCL Șimleu Silvaniei nr. 86/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-08-31",
+"latest": "2017-08-31",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/page/50/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-salaj--simleu-silvaniei-101-2017",
 "path": "local/salaj/simleu-silvaniei/2017/101",
 "kind": "local",

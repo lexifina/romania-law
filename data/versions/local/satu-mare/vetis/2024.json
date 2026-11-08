@@ -3,6 +3,51 @@
  "shard": "local/satu-mare/vetis/2024",
  "acts": [
   {
+   "slug": "hcl-satu-mare--vetis-1-2024",
+   "path": "local/satu-mare/vetis/2024/1",
+   "short": "HCL Vetiș nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 1/2024 privind aprobarea contului de execuție bugetară pentru trimestrul IV 2023",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/147909",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/147909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-2-2024",
+   "path": "local/satu-mare/vetis/2024/2",
+   "short": "HCL Vetiș nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 2/2024 privind aprobarea reţelei şcolare a unitaţilor de învăţământ preuniversitar din comuna Vetiş pentru anul 2024-2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/147910",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/147910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-3-2024",
+   "path": "local/satu-mare/vetis/2024/3",
+   "short": "HCL Vetiș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 3/2024 privind aprobarea modificării tarifelor de salubrizare pentru anul 2024 în comuna Vetiș",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/147911",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/147911",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--vetis-34-2024",
    "path": "local/satu-mare/vetis/2024/34",
    "short": "HCL Vetiș nr. 34/2024",
@@ -88,6 +133,21 @@
      "from": "2024-12-09",
      "units": 1,
      "source_url": "https://emol.ro/vetis-sm/registru-hcl/181195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-4-2024",
+   "path": "local/satu-mare/vetis/2024/4",
+   "short": "HCL Vetiș nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 4/2024 privind aprobarea documentației de dezmembrare a unui imobil - teren",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/147912",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/147912",
      "sha256": null
     }
    ]
@@ -238,6 +298,21 @@
      "from": "2025-01-22",
      "units": 1,
      "source_url": "https://emol.ro/vetis-sm/registru-hcl/187877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-5-2024",
+   "path": "local/satu-mare/vetis/2024/5",
+   "short": "HCL Vetiș nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 5/2024 privind aprobarea volumului și a modului de valorificare a mase lemnoase prevăzut a se recolta din fondul forestier proprietatea comunei Vetiș pentru anul 2024, aprobarea nivelului maxim al tarifelor pentru prestări de servicii și a prețurilor minime de valorificare a lemnului fasonat pentru anul 2024",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/147913",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/147913",
      "sha256": null
     }
    ]

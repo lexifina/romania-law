@@ -3,6 +3,726 @@
  "shard": "local/satu-mare/vetis/2025",
  "acts": [
   {
+   "slug": "hcl-satu-mare--vetis-1-2025",
+   "path": "local/satu-mare/vetis/2025/1",
+   "short": "HCL Vetiș nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 1/2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/187736",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/187736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-10-2025",
+   "path": "local/satu-mare/vetis/2025/10",
+   "short": "HCL Vetiș nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 10/2025 privind constituirea comisiei locale de ordine publică a comunei Vetiş",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/192543",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/192543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-11-2025",
+   "path": "local/satu-mare/vetis/2025/11",
+   "short": "HCL Vetiș nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 11/2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195598",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-12-2025",
+   "path": "local/satu-mare/vetis/2025/12",
+   "short": "HCL Vetiș nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 12/2025 privind aprobarea înscrierii definitive în Cartea Funciară a unui imobil-stradă, situat în intravilanul localității Decebal",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195599",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-13-2025",
+   "path": "local/satu-mare/vetis/2025/13",
+   "short": "HCL Vetiș nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 13/2025 privind aprobarea modificării contractelor de concesiune ale spațiilor pentru cabinetele medicale aflate în proprietatea comunei Vetiș",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195600",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-14-2025",
+   "path": "local/satu-mare/vetis/2025/14",
+   "short": "HCL Vetiș nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 14/2025 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici si a Devizului general pentru obiectivul „Dezvoltarea infrastructurii TIC prin sisteme inteligente de management local în Comuna Vetis, județul Satu Mare” Componenta 10 – Fondul Local puncte de reîncărcare pentru vehicule electrice prin Investiția I.1.3. - Asigurarea infrastructurii pentru transportul verde – puncte de reîncărcare vehicule electrice",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195601",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-15-2025",
+   "path": "local/satu-mare/vetis/2025/15",
+   "short": "HCL Vetiș nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 15/2025 privind scoaterea din functiune/casarea unor obiecte de inventar şi a unor mijloace fixe ale comunei Vetiş",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195602",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-17-2025",
+   "path": "local/satu-mare/vetis/2025/17",
+   "short": "HCL Vetiș nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 17/2025 privind îndreptarea unei erori materiale",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195604",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-18-2025",
+   "path": "local/satu-mare/vetis/2025/18",
+   "short": "HCL Vetiș nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 18/2025 privind mandatarea reprezentantului comunei Vetiș să voteze în Adunarea Generală a „Asociației de Dezvoltare Intercomunitară pentru servicii in sectorul de apă şi apă uzată din judeţul Satu Mare” aderarea comunei Viile Satu Mare și a comunei Pir la Asociație",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195605",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-19-2025",
+   "path": "local/satu-mare/vetis/2025/19",
+   "short": "HCL Vetiș nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 19/2025 privind stabilirea modalităţii gestiunii pentru activitatea de sortare din cadrul serviciul public de salubrizare a comunei VETIȘ",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195606",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-2-2025",
+   "path": "local/satu-mare/vetis/2025/2",
+   "short": "HCL Vetiș nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 2/2025 privind stabilirea modalității gestiunii pentru activitățile de salubrizare de tratare aerobă a biodeșeurilor și eliminare prin depozitare a deșeurilor reziduale și acordarea unui mandat special ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ PENTRU MANAGEMENTUL DEȘEURILOR DIN JUDEȚUL SATU MARE",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/187737",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/187737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-20-2025",
+   "path": "local/satu-mare/vetis/2025/20",
+   "short": "HCL Vetiș nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 20/2025 privind aprobarea contractului de delegare de achiziție publică de servicii pentru activitatea de sortare din cadrul serviciul public de salubrizare a comunei Vetiș",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195607",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-21-2025",
+   "path": "local/satu-mare/vetis/2025/21",
+   "short": "HCL Vetiș nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 21/2025 privind completarea HCL nr. 6/29.01.2025 privind aprobarea procentului necesar constituirii fondului de conservare și regenerare a pădurilor și a procentului necesar constituirii fondului de accesibilizare a pădurilor pentru anul 2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/195608",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/195608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-22-2025",
+   "path": "local/satu-mare/vetis/2025/22",
+   "short": "HCL Vetiș nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 22/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Vetiș pe anul 2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/197617",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/197617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-23-2025",
+   "path": "local/satu-mare/vetis/2025/23",
+   "short": "HCL Vetiș nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 23/2025 privind atestarea apartenenţei la domeniul privat al comunei Vetiș a unui imobil-teren în suprafață de 2615 mp. situat în intravilanul localității Oar",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/197618",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/197618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-24-2025",
+   "path": "local/satu-mare/vetis/2025/24",
+   "short": "HCL Vetiș nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 24/2025 privind aprobarea Regulamentului de finanţarea pentru proiecte/programe/acţiuni culturale",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/197619",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/197619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-25-2025",
+   "path": "local/satu-mare/vetis/2025/25",
+   "short": "HCL Vetiș nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 25/2025 privind participarea Comunei Vetiș, județul Satu Mare la „Programul național de consolidare a clădirilor cu risc seismic ridicat” pentru clădirile de interes și utilitate publică aflate în proprietatea publică a Comunei Vetiș, pentru proiectul „Reabilitare clădire Cămin Cultural, sat Vetiș, comuna Vetiș, jud. Satu Mare”",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/204360",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/204360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-26-2025",
+   "path": "local/satu-mare/vetis/2025/26",
+   "short": "HCL Vetiș nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 26/2025 privind participarea Comunei Vetiș, județul Satu Mare la „Programul național de consolidare a clădirilor cu risc seismic ridicat” pentru clădirile de interes și utilitate publică aflate în proprietatea publică a Comunei Vetiș, pentru proiectul „Reabilitare clădire Cămin Cultural, sat Oar, comuna Vetiș, jud. Satu Mare”",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/204361",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/204361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-27-2025",
+   "path": "local/satu-mare/vetis/2025/27",
+   "short": "HCL Vetiș nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 27/2025 privind aprobarea contului de execuție bugetară pentru trimestrul I 2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207038",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-28-2025",
+   "path": "local/satu-mare/vetis/2025/28",
+   "short": "HCL Vetiș nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 28/2025 privind indexarea impozitelor și taxelor locale pentru anul 2026 cu rata inflației din anul fiscal anterior",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207039",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-29-2025",
+   "path": "local/satu-mare/vetis/2025/29",
+   "short": "HCL Vetiș nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 29/2025 privind aprobarea documentației de dezmembrare a unui imobil – teren",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207040",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-3-2025",
+   "path": "local/satu-mare/vetis/2025/3",
+   "short": "HCL Vetiș nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 3/2025 privind actualizarea comisiilor de specialitate C1 a Consiliului Local al comunei Vetiş",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/192536",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/192536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-30-2025",
+   "path": "local/satu-mare/vetis/2025/30",
+   "short": "HCL Vetiș nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 30/2025 privind însușirea în domeniul public a unor drumuri",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207041",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-31-2025",
+   "path": "local/satu-mare/vetis/2025/31",
+   "short": "HCL Vetiș nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 31/2025 privind însușirea în domeniul public al comunei Vetiș a unui imobil teren în suprafață de 4618 mp. nr. cad. 104873",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207042",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-32-2025",
+   "path": "local/satu-mare/vetis/2025/32",
+   "short": "HCL Vetiș nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 32/2025 privind însușirea în domeniul public al comunei Vetiș a unui imobil teren în suprafață de 1830 mp. nr. cad. 382",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207043",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-33-2025",
+   "path": "local/satu-mare/vetis/2025/33",
+   "short": "HCL Vetiș nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 33/2025 privind aprobarea pentru ”Proiect regional de dezvoltare a infrastructurii de apă și apă uzată din județul Satu Mare/Regiunea Nord-Vest, în perioada 2014-2020, etapa II și cofinanțarea acestuia”",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207044",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-34-2025",
+   "path": "local/satu-mare/vetis/2025/34",
+   "short": "HCL Vetiș nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 34/2025 privind mandatarea reprezentantului comunei Vetiș să voteze în Adunarea Generală a „Asociației de Dezvoltare Intercomunitară pentru servicii in sectorul de apă şi apă uzată din judeţul Satu Mare” aderarea comunei Hodod și a comunei Acâș la Asociație",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207045",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-35-2025",
+   "path": "local/satu-mare/vetis/2025/35",
+   "short": "HCL Vetiș nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 35/2025 privind aprobarea indicatorilor tehnico-economici ai proiectului „ Reabilitare clădire pentru Cabinet medical Decebal , Comuna Vetiș , jud. Satu Mare",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/207046",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/207046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-36-2025",
+   "path": "local/satu-mare/vetis/2025/36",
+   "short": "HCL Vetiș nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 36/2025 privind alegerea preşedintelui de şedinţã pentru următoarele 3 luni",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/210538",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/210538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-37-2025",
+   "path": "local/satu-mare/vetis/2025/37",
+   "short": "HCL Vetiș nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 37/2025 privind aprobarea documentației de dezmembrare a unui imobil - teren",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/210539",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/210539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-38-2025",
+   "path": "local/satu-mare/vetis/2025/38",
+   "short": "HCL Vetiș nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 38/2025 privind aprobarea Actului adițional nr.7 de modificarea a Contractului de concesiune de servicii nr. 110/2017 privind delegarea de gestiune a serviciului public de salubrizare a localităților comunei Vetiș, a caietului de sarcini, a regulamentului și a indicatorilor de performanță",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/210540",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/210540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-39-2025",
+   "path": "local/satu-mare/vetis/2025/39",
+   "short": "HCL Vetiș nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 39/2025 privind aprobarea decontării de către angajator a dispozitivelor de corectie speciale",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/210541",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/210541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-4-2025",
+   "path": "local/satu-mare/vetis/2025/4",
+   "short": "HCL Vetiș nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 4/2025 privind aprobarea contului de execuție bugetară pentru trimestrul IV 2024",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/192537",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/192537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-40-2025",
+   "path": "local/satu-mare/vetis/2025/40",
+   "short": "HCL Vetiș nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 40/2025 privind înscrierea în Cartea Funciară a unui drum având nr. top.530, sat Vetiș",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/213148",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/213148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-41-2025",
+   "path": "local/satu-mare/vetis/2025/41",
+   "short": "HCL Vetiș nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 41/2025 privind înscrierea în Cartea Funciară a unui drum având nr. top.463, sat Vetiș",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/213149",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/213149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-42-2025",
+   "path": "local/satu-mare/vetis/2025/42",
+   "short": "HCL Vetiș nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 42/2025 privind atribuirea denumirii strâzii Lavandei",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/213150",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/213150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-43-2025",
+   "path": "local/satu-mare/vetis/2025/43",
+   "short": "HCL Vetiș nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 43/2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/213151",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/213151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-44-2025",
+   "path": "local/satu-mare/vetis/2025/44",
+   "short": "HCL Vetiș nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 44/2025 privind aprobarea contului de execuție bugetară pentru trimestrul II 2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/218097",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/218097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-45-2025",
+   "path": "local/satu-mare/vetis/2025/45",
+   "short": "HCL Vetiș nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 45/2025 privind rectificarea bugetului de venituri și cheltuieli pe anul 2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/218098",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/218098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-46-2025",
+   "path": "local/satu-mare/vetis/2025/46",
+   "short": "HCL Vetiș nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 46/2025 privind aprobarea aderării comunei Vetiș, județul Satu Mare la teritoriul eligibil reprezentat de Asociația Grup de Acțiune Locală pentru Pescuit Satu Mare",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/218099",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/218099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-47-2025",
+   "path": "local/satu-mare/vetis/2025/47",
+   "short": "HCL Vetiș nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 47/2025 privind actualizarea Statului de funcții",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/218100",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/218100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-48-2025",
+   "path": "local/satu-mare/vetis/2025/48",
+   "short": "HCL Vetiș nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 48/2025 privind modificarea Hotărârii Consiliului Local al comunei Vetiș nr. 29/30.04.2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/218101",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/218101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-49-2025",
+   "path": "local/satu-mare/vetis/2025/49",
+   "short": "HCL Vetiș nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 49/2025 privind dezmembrarea unui imobil- teren identificat cu CF nr. 108410 Vetiș",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/218102",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/218102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-5-2025",
+   "path": "local/satu-mare/vetis/2025/5",
+   "short": "HCL Vetiș nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 5/2025 privind aprobarea volumului și a modului de valorificare a masei lemnoase prevăzut a se recolta din fondul forestier proprietatea comunei Vetiș pentru anul 2025, aprobarea nivelului maxim al tarifelor pentru prestări de servicii și a prețurilor minime de valorificare a lemnului fasonat pentru anul 2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/192538",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/192538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-50-2025",
+   "path": "local/satu-mare/vetis/2025/50",
+   "short": "HCL Vetiș nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 50/2025 privind dezmembrarea unui imobil- teren identificat cu CF nr. 110619 Vetiș",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/218103",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/218103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-51-2025",
+   "path": "local/satu-mare/vetis/2025/51",
+   "short": "HCL Vetiș nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 51/2025 privind alegerea preşedintelui de şedinţã pentru următoarele 3 luni",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/221775",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/221775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-52-2025",
+   "path": "local/satu-mare/vetis/2025/52",
+   "short": "HCL Vetiș nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 52/2025 privind aprobarea indicatorilor tehnico-economici ai proiectului ,, Modernizarea străzii Cantonului, sat Decebal , Comuna Vetiș , jud. Satu Mare",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/221776",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/221776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-53-2025",
+   "path": "local/satu-mare/vetis/2025/53",
+   "short": "HCL Vetiș nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 53/2025 privind completarea și actualizarea nomenclatorului stradal",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/221777",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/221777",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--vetis-54-2025",
    "path": "local/satu-mare/vetis/2025/54",
    "short": "HCL Vetiș nr. 54/2025",
@@ -88,6 +808,21 @@
      "from": "2025-10-06",
      "units": 1,
      "source_url": "https://emol.ro/vetis-sm/registru-hcl/228611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-6-2025",
+   "path": "local/satu-mare/vetis/2025/6",
+   "short": "HCL Vetiș nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 6/2025 privind aprobarea procentului necesar constituirii fondului de conservare și regenerare a pădurilor și a procentului necesar constituirii fondului de accesibilizare a pădurilor pentru anul 2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/192539",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/192539",
      "sha256": null
     }
    ]
@@ -243,6 +978,21 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--vetis-7-2025",
+   "path": "local/satu-mare/vetis/2025/7",
+   "short": "HCL Vetiș nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 7/2025 privind aprobarea însușirii în domeniul public al comunei Vetiș a unui drum",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/192540",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/192540",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--vetis-70-2025",
    "path": "local/satu-mare/vetis/2025/70",
    "short": "HCL Vetiș nr. 70/2025",
@@ -298,6 +1048,36 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/vetis-sm/registru-hcl/243395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-8-2025",
+   "path": "local/satu-mare/vetis/2025/8",
+   "short": "HCL Vetiș nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 8/2025 privind aprobarea Planului de Analiză și Acoperire a Riscurilor în Comuna Vetiș pentru anul 2025",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/192541",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/192541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--vetis-9-2025",
+   "path": "local/satu-mare/vetis/2025/9",
+   "short": "HCL Vetiș nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vetiș nr. 9/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2025 prestate de către persoanele beneficiare de venitul minim de incluziune",
+   "url": "https://emol.ro/vetis-sm/registru-hcl/192542",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/vetis-sm/registru-hcl/192542",
      "sha256": null
     }
    ]

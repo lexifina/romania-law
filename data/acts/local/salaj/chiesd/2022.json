@@ -3,6 +3,72 @@
 "shard": "local/salaj/chiesd/2022",
 "acts": [
 {
+"slug": "hcl-salaj--chiesd-18-2022",
+"path": "local/salaj/chiesd/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 18/2022 privind aprobarea bugetului local pe anul 2022- secţiunea functionare",
+"short": "HCL Chieșd nr. 18/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/252728",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-19-2022",
+"path": "local/salaj/chiesd/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 19/2022 privind validarea Dispoziei nr. 5 din 6.01.2022, privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secțiunii de dezvoltare pe anul 2021;",
+"short": "HCL Chieșd nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/252730",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--chiesd-22-2022",
+"path": "local/salaj/chiesd/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 22/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Chieșd nr. 22/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-21",
+"latest": "2022-03-21",
+"portal": "https://emol.ro/chiesd-sj/registru-hcl/252745",
+"council": "salaj/chiesd",
+"council_name": "Consiliul Local al Comunei Chieșd",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-salaj--chiesd-39-2022",
 "path": "local/salaj/chiesd/2022/39",
 "kind": "local",

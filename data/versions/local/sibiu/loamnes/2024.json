@@ -3,6 +3,186 @@
  "shard": "local/sibiu/loamnes/2024",
  "acts": [
   {
+   "slug": "hcl-sibiu--loamnes-16-2024",
+   "path": "local/sibiu/loamnes/2024/16",
+   "short": "HCL Loamneș nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 16/2024 privind stabilirea situațiilor deosebite și a procedurilor pentru acordarea ajutoarelor de urgență, în conformitate cu prevederile Legii nr.196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/173825",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/173825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-2-2024",
+   "path": "local/sibiu/loamnes/2024/2",
+   "short": "HCL Loamneș nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 2/2024",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/162439",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/162439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-3-2024",
+   "path": "local/sibiu/loamnes/2024/3",
+   "short": "HCL Loamneș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 3/2024 privind aprobarea transformării unui post, a modificării statului de funcții și de personal pentru aparatul de specialitate al primarului comunei Loamneș, județul Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/162440",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/162440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-4-2024",
+   "path": "local/sibiu/loamnes/2024/4",
+   "short": "HCL Loamneș nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 4/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar, de pe raza teritorială a comunei Loamneș, jud. Sibiu, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/162441",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/162441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-40-2024",
+   "path": "local/sibiu/loamnes/2024/40",
+   "short": "HCL Loamneș nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 40/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2024",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/176270",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/176270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-46-2024",
+   "path": "local/sibiu/loamnes/2024/46",
+   "short": "HCL Loamneș nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 46/2024 privind aprobarea contului de execuție bugetară pe secțiunea de funcționare și secțiunea de dezvoltare pentru trimestrul II al anului 2024 al Comunei Loamneș, județul Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/176337",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/176337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-47-2024",
+   "path": "local/sibiu/loamnes/2024/47",
+   "short": "HCL Loamneș nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 47/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2024",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/176338",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/176338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-52-2024",
+   "path": "local/sibiu/loamnes/2024/52",
+   "short": "HCL Loamneș nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 52/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2024",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/193854",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/193854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-56-2024",
+   "path": "local/sibiu/loamnes/2024/56",
+   "short": "HCL Loamneș nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 56/2024 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2024",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/195585",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/195585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-57-2024",
+   "path": "local/sibiu/loamnes/2024/57",
+   "short": "HCL Loamneș nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 57/2024 privind aprobarea acordări unor facilități fiscale în cazul obligaților restante la data de 31 august 2024, datorate bugetului local al comunei Loamneș",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/195586",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/195586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-58-2024",
+   "path": "local/sibiu/loamnes/2024/58",
+   "short": "HCL Loamneș nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 58/2024 privind aprobarea și implementarea proiectului ,,Dotări pentru întreținere spații publice, comuna Loamneș, Județul Sibiu” din cadrul Măsurii M1/6B – ,,Dezvoltarea și modernizarea satelor din microregiunea Țara Secașelor”",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/195588",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/195588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-63-2024",
+   "path": "local/sibiu/loamnes/2024/63",
+   "short": "HCL Loamneș nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 63/2024 privind aprobarea proiectului „Creşterea gradului de digitalizare a primăriilor comunelor Loamneș și Hoghilag, jud Sibiu și accesibilizarea către cetățeni a unor soluțiilor digitale” și aprobarea cheltuielilor legate de acesta, în vederea depunerii cererii de finanţare în cadrul Programului \"Regiunea Centru\", Prioritatea 2: O regiune digitală, Acţiunea 2.1: Comunităţi digitale pentru o regiune inteligentă, Obiectiv specific 1.2 Valorificarea avantajelor digitalizării, în beneficiul cetăţenilor, al companiilor, al organizaţiilor de cercetare şi al autorităţilor publice",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/195613",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/195613",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--loamnes-64-2024",
    "path": "local/sibiu/loamnes/2024/64",
    "short": "HCL Loamneș nr. 64/2024",

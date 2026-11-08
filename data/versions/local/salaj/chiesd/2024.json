@@ -3,6 +3,141 @@
  "shard": "local/salaj/chiesd/2024",
  "acts": [
   {
+   "slug": "hcl-salaj--chiesd-31-2024",
+   "path": "local/salaj/chiesd/2024/31",
+   "short": "HCL Chieșd nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 31/2024 privind stabilirea si indexarea cu rata inflatiei a impozitelor si taxelor locale, precum si a taxelor speciale, pentru anul fiscal 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/249171",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/249171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-35-2024",
+   "path": "local/salaj/chiesd/2024/35",
+   "short": "HCL Chieșd nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 35/2024 privind modificarea și completarea organigramei și a Regulamentului de organizare și funcționare a Serviciului Voluntar pentru Situații de Urgență al Comunei CHIESD, Județul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/249297",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/249297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-39-2024",
+   "path": "local/salaj/chiesd/2024/39",
+   "short": "HCL Chieșd nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 39/2024 privind aprobarea raportului de evaluare și tratare a riscurilor la securitatea fizică, la nivelul Comunei Chieșd, județul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250470",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-40-2024",
+   "path": "local/salaj/chiesd/2024/40",
+   "short": "HCL Chieșd nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 40/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250471",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-43-2024",
+   "path": "local/salaj/chiesd/2024/43",
+   "short": "HCL Chieșd nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 43/2024 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului Comunei Sălaj, Judeţul Sălaj, începând cu luna iunie 2024, conform Ordonanţei de Urgenţă a Guvernului nr.53/2024",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250511",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-44-2024",
+   "path": "local/salaj/chiesd/2024/44",
+   "short": "HCL Chieșd nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 44/2024 privind premierea elevilor de pe raza Unității Administrativ Teritoriale CHIEȘD, cu rezultate deosebite la învățătură, olimpiade, concursuri județene, naționale, internaționale și evaluări naționale 2024;",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250524",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-45-2024",
+   "path": "local/salaj/chiesd/2024/45",
+   "short": "HCL Chieșd nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 45/2024 privind programul de functionare al unităţilor comerciale de tipul baruri, cafe baruri, discoteci, cluburi sau restaurante",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250526",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-46-2024",
+   "path": "local/salaj/chiesd/2024/46",
+   "short": "HCL Chieșd nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 46/2024 rivind aprobarea Regulamentului de eliberare a autorizațiilor în vederea desfășurării activităților comerciale de pe raza comuna Chieşd, jud. Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250539",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-57-2024",
+   "path": "local/salaj/chiesd/2024/57",
+   "short": "HCL Chieșd nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 57/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/250579",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/250579",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-61-2024",
    "path": "local/salaj/chiesd/2024/61",
    "short": "HCL Chieșd nr. 61/2024",

@@ -3,6 +3,831 @@
  "shard": "local/salaj/valcau-de-jos/2023",
  "acts": [
   {
+   "slug": "hcl-salaj--valcau-de-jos-1-2023",
+   "path": "local/salaj/valcau-de-jos/2023/1",
+   "short": "HCL Valcău de Jos nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 1/2023 privind validarea Dispoziţiei nr. 1/3.01.2023 Privind aprobarea acoperirii definitive a deficitului bugetar al secțiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/86009",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/86009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-10-2023",
+   "path": "local/salaj/valcau-de-jos/2023/10",
+   "short": "HCL Valcău de Jos nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 10/2023 pentru aprobarea Planului de acţiuni şi lucrări de interes local ce se vor realiza de beneficiarii prevederilor Legii nr. 416/2001, persoane apte de muncă,în anul 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/89236",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/89236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-11-2023",
+   "path": "local/salaj/valcau-de-jos/2023/11",
+   "short": "HCL Valcău de Jos nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 11/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate a Primarului comunei Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/89237",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/89237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-12-2023",
+   "path": "local/salaj/valcau-de-jos/2023/12",
+   "short": "HCL Valcău de Jos nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 12/2023 privind propunerea de atribuire în proprietate a unui teren prin Ordinul Prefectului Județului Sălaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/89238",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/89238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-13-2023",
+   "path": "local/salaj/valcau-de-jos/2023/13",
+   "short": "HCL Valcău de Jos nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 13/2023 privind aprobarea înscrierii Unității Administrativ Teritoriale Comuna Valcău de Jos în Planul de amenajare a teritoriului național Secțiunea a VIII-a- zone cu resurse turistice",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/92055",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/92055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-14-2023",
+   "path": "local/salaj/valcau-de-jos/2023/14",
+   "short": "HCL Valcău de Jos nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 14/2023 prvind implementarea proiectului \"Amenajare spațiu de joacă în localitatea Valcău de Jos, comuna Valcău de Jos, județul Sălaj\"",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/92056",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/92056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-16-2023",
+   "path": "local/salaj/valcau-de-jos/2023/16",
+   "short": "HCL Valcău de Jos nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 16/2023 privind aprobarea contului de executie al bugetului local al Comunei Valcău de Jos pe anul 2022",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95417",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-17-2023",
+   "path": "local/salaj/valcau-de-jos/2023/17",
+   "short": "HCL Valcău de Jos nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 17/2023 privind aprobarea rezultatului inventarierii patrimoniului Comunei Valcău de Jos pe anul 2022",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95418",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-18-2023",
+   "path": "local/salaj/valcau-de-jos/2023/18",
+   "short": "HCL Valcău de Jos nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 18/2023 privind aprobarea scoaterii din functiune al unor mijloace fixe şi obiecte de inventar constatate ca fiind degradate la inventarierea patrimoniului Comunei Valcău de Jos pe anul 2022",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95419",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-19-2023",
+   "path": "local/salaj/valcau-de-jos/2023/19",
+   "short": "HCL Valcău de Jos nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 19/2023 privind rectificarea bugetului Comunei Valcău de Jos pe anul 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95420",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-2-2023",
+   "path": "local/salaj/valcau-de-jos/2023/2",
+   "short": "HCL Valcău de Jos nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 2/2023 privind aprobarea dezlipirii imobilului-teren extravilan din domeniul privat al Comunei Valcău de Jos identificat cu numărul cadastral 50326 înscris în Cartea Funciară nr. 50326;",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/86010",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/86010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-20-2023",
+   "path": "local/salaj/valcau-de-jos/2023/20",
+   "short": "HCL Valcău de Jos nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 20/2023 privind aprobarea depunerii și implementării „Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale Nr.1 Valcău de Jos”, în cadrul Planului Național de Redresare și Reziliență, apelul de proiecte PNRR/2022, Componenta C15: Educație, în vederea solicitării finanțării nerambursabile",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95421",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-21-2023",
+   "path": "local/salaj/valcau-de-jos/2023/21",
+   "short": "HCL Valcău de Jos nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 21/2023 privind alegerea preşedintelui de şedinţă a Consiliului local pentru trei luni aprilie, mai, iunie 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95422",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-23-2023",
+   "path": "local/salaj/valcau-de-jos/2023/23",
+   "short": "HCL Valcău de Jos nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 23/2023 privind actualizarea inventarului bunurilor care aparţin domeniului public al comunei Valcău de Jos, județul Sălaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95424",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-24-2023",
+   "path": "local/salaj/valcau-de-jos/2023/24",
+   "short": "HCL Valcău de Jos nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 24/2023 privind constituirea Grupului de Lucru Local de acțiune privind incluziunea comunității de romi din Comuna Valcău de Jos pentru perioada 2022-2027",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95425",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-25-2023",
+   "path": "local/salaj/valcau-de-jos/2023/25",
+   "short": "HCL Valcău de Jos nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 25/2023 privind aprobarea Planului Local de Acţiune privind incluziunea cetăţenilor români de etnie romă 2022-2027, la nivelul comunei Valcău de Jos, județul Sălaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95426",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-27-2023",
+   "path": "local/salaj/valcau-de-jos/2023/27",
+   "short": "HCL Valcău de Jos nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 27/2023 privind aprobarea demarării procedurii de închiriere prin atribuire directă a unor suprafete de păsuni și a Regulamentului pentru închirierea pajiștilor aflate în proprietatea privată a U.A.T Valcău de Jos, judetul Sălaj prin procedura de atribuire directă;",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95428",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-3-2023",
+   "path": "local/salaj/valcau-de-jos/2023/3",
+   "short": "HCL Valcău de Jos nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 3/2023 privind aprobarea dezlipirii imobilului-teren intravilan din domeniul privat al Comunei Valcău de Jos identificat cu numărul cadastral 51079 înscris în Cartea Funciară nr. 51079",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/86011",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/86011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-30-2023",
+   "path": "local/salaj/valcau-de-jos/2023/30",
+   "short": "HCL Valcău de Jos nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 30/2023 privind aprobarea lucrărilor de demolare al imobilelor-construcții înscrise în CF nr.50733 Valcău de Jos, aflat în proprietate privată a Comunei Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/95431",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/95431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-31-2023",
+   "path": "local/salaj/valcau-de-jos/2023/31",
+   "short": "HCL Valcău de Jos nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 31/2023 privind rectificarea bugetului comunei Valcău de Jos, județul Sălaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/101495",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/101495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-32-2023",
+   "path": "local/salaj/valcau-de-jos/2023/32",
+   "short": "HCL Valcău de Jos nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 32/2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/101496",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/101496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-33-2023",
+   "path": "local/salaj/valcau-de-jos/2023/33",
+   "short": "HCL Valcău de Jos nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 33/2023 privind aprobarea dezlipirii imobilului-teren extravilan din domeniul privat al Comunei Valcău de Jos identificat cu numărul cadastral 50327 înscris în Cartea Funciară nr. 50327 Valcău de Sus;",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/101497",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/101497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-35-2023",
+   "path": "local/salaj/valcau-de-jos/2023/35",
+   "short": "HCL Valcău de Jos nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 35/2023 privind indexarea cu rata inflației a nivelurilor valorilor impozabile, impozitelor, taxelor locale și a altor taxe asimilate acestora, amenzilor pentru anul fiscal 2024",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/101499",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/101499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-36-2023",
+   "path": "local/salaj/valcau-de-jos/2023/36",
+   "short": "HCL Valcău de Jos nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 36/2023 privind aprobarea participării la Programul multianual de interes public „Programul local rabla”",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/101500",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/101500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-37-2023",
+   "path": "local/salaj/valcau-de-jos/2023/37",
+   "short": "HCL Valcău de Jos nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 37/2023 privind alocarea unei sume din bugetul local al comunei Valcau de Jos, judetul Salaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/101501",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/101501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-38-2023",
+   "path": "local/salaj/valcau-de-jos/2023/38",
+   "short": "HCL Valcău de Jos nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 38/2023 privind aprobarea contului de executie al bugetului local al Comunei Valcău de Jos pe trimestrul I 2023;",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/104010",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/104010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-39-2023",
+   "path": "local/salaj/valcau-de-jos/2023/39",
+   "short": "HCL Valcău de Jos nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 39/2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/104011",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/104011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-4-2023",
+   "path": "local/salaj/valcau-de-jos/2023/4",
+   "short": "HCL Valcău de Jos nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 4/2023 privind clasificarea unui drum de interes local ca drum comunal",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/86012",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/86012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-40-2023",
+   "path": "local/salaj/valcau-de-jos/2023/40",
+   "short": "HCL Valcău de Jos nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 40/2023 privind aprobarea aderării UAT COMUNA VALCĂU DE JOS, județul SĂLAJ, prin Consiliul Local al COMUNEI VALCĂU DE JOS, la Parteneriatul LEADER cu denumirea GRUP DE ACȚIUNE LOCALĂ VALEA CRASNEI ȘI BARCĂULUI, în vederea depunerii sprijinului pregătitor și a implementării Strategiei de Dezvoltare Locală prin accesarea Planului Național Strategic PAC 2023 – 2027;",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/104012",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/104012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-41-2023",
+   "path": "local/salaj/valcau-de-jos/2023/41",
+   "short": "HCL Valcău de Jos nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 41/2023 privind propunerea de scoatere definitivă din circuitul agricol al unor suprafețe din pășunea Dealu Mare 3, situat în satul Valcău de Sus, aflat în proprietatea privată a comunei Valcău de Jos, județul Săla",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/104013",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/104013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-42-2023",
+   "path": "local/salaj/valcau-de-jos/2023/42",
+   "short": "HCL Valcău de Jos nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 42/2023 privind propunerea de scoatere definitivă din circuitul agricol al unor suprafețe din pășunea Nimișesc, situat în satul Valcău de Sus, aflat în proprietatea privată a comuneiValcău de Jos, județul Sălaj;",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/104014",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/104014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-43-2023",
+   "path": "local/salaj/valcau-de-jos/2023/43",
+   "short": "HCL Valcău de Jos nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 43/2023 privind modificarea anexei la Hotărârea Consiliului Local Valcău de Jos nr. 14/27.02.2023 prvind implementarea proiectului \"Amenajare spațiu de joacă în localitatea Valcău de Jos, comuna Valcău de Jos, județul Sălaj\"",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/108996",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/108996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-44-2023",
+   "path": "local/salaj/valcau-de-jos/2023/44",
+   "short": "HCL Valcău de Jos nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 44/2023 privind aprobarea Regulamentului de premiere a elevilor din învățământul preuniversitar din comuna Valcău de Jos care au obținut rezultate deosebite la competițiile școlare",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/108997",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/108997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-45-2023",
+   "path": "local/salaj/valcau-de-jos/2023/45",
+   "short": "HCL Valcău de Jos nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 45/2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/108998",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/108998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-46-2023",
+   "path": "local/salaj/valcau-de-jos/2023/46",
+   "short": "HCL Valcău de Jos nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 46/2023 privind alegerea preşedintelui de şedinţă a Consiliului local pentru trei luni iulie, august, septembrie 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/108999",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/108999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-47-2023",
+   "path": "local/salaj/valcau-de-jos/2023/47",
+   "short": "HCL Valcău de Jos nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 47/2023 privind aprobarea STUDIULUI DE FEZABILITATE și a INDICATORILOR TEHNICO-ECONOMICI aferenți obiectivului de investitii < Asigurarea energiei din surse regenerabile pentru consumul propriu al comunei Valcău de Jos, județul Sălaj > Ministerul Investițiilor și Proiectelor Europene Programul Operaţional Infrastructură Mare 2014-2020 Axa Prioritară 11: Măsuri de îmbunătățire a eficienței energetice și stimularea utilizării energiei regenerabile, Obiectivul Specific 11.2: Utilizarea energiei din surse regenerabile la nivelul autorităților publice locale",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/109000",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/109000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-48-2023",
+   "path": "local/salaj/valcau-de-jos/2023/48",
+   "short": "HCL Valcău de Jos nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 48/2023 privind aprobarea proiectului ” Microbuze electrice pentru elevii din Sălaj” și încheierea acordului de parteneriat pentru depunerea acestuia spre finanțare în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/109001",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/109001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-49-2023",
+   "path": "local/salaj/valcau-de-jos/2023/49",
+   "short": "HCL Valcău de Jos nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 49/2023 privind aprobarea Actelor de punere în valoare şi a preţurilor pentru materialul lemnos din rampa din pădurea proprietatea privată a comunei Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/109002",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/109002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-5-2023",
+   "path": "local/salaj/valcau-de-jos/2023/5",
+   "short": "HCL Valcău de Jos nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 5/2023 privind transmiterea cu titlu gratuit a microbuzului școlar către Școala Gimnazială nr. 1 Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/86013",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/86013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-50-2023",
+   "path": "local/salaj/valcau-de-jos/2023/50",
+   "short": "HCL Valcău de Jos nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 50/2023 pentru aprobarea Protocolului de colaborare între UAT Valcău de Jos și Direcția Județeană de Sănătate Publică Sălaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/109003",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/109003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-51-2023",
+   "path": "local/salaj/valcau-de-jos/2023/51",
+   "short": "HCL Valcău de Jos nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 51/2023 pentru aprobarea Protocolului de colaborare între UAT Valcău de Jos și Grupul De Acțiune Locală Valea Crasnei si Barcăului",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/109004",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/109004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-52-2023",
+   "path": "local/salaj/valcau-de-jos/2023/52",
+   "short": "HCL Valcău de Jos nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 52/2023 privind aprobarea organizării unui eveniment cultural la nivelul comunei Valcău de Jos şi participarea Consiliului local Valcău de Jos la finanţarea acestor activităţi",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/112391",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/112391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-53-2023",
+   "path": "local/salaj/valcau-de-jos/2023/53",
+   "short": "HCL Valcău de Jos nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 53/2023 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții «REABILITARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA VALCĂU DE JOS, JUDEȚUL SĂLAJ» din Anexa nr. 1 - Anexa 2.2 c și Anexa nr. 2 - Anexa 2.1 la HCL VALCĂU DE JOS nr. 83/14.12.2022 privind aprobarea Documentației de avizare a lucrărilor de intervenție (DALI), a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții «REABILITARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA VALCĂU DE JOS, JUDEȚUL SĂLAJ» aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând cofinațarea aferentă categoriilor de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/112392",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/112392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-54-2023",
+   "path": "local/salaj/valcau-de-jos/2023/54",
+   "short": "HCL Valcău de Jos nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 54/2023 privind rectificarea bugetului Comunei Valcău de Jos pe anul 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/116909",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/116909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-55-2023",
+   "path": "local/salaj/valcau-de-jos/2023/55",
+   "short": "HCL Valcău de Jos nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 55/2023 privind aprobarea contului de executie al bugetului local al Comunei Valcău de Jos pe trimestrul II 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/116910",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/116910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-56-2023",
+   "path": "local/salaj/valcau-de-jos/2023/56",
+   "short": "HCL Valcău de Jos nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 56/2023 privind acceptarea ofertei de donație a unui teren în suprafață de 4957 mp înscris în CF nr. 51626 Valcău de Sus, jud. Sălaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/116911",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/116911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-58-2023",
+   "path": "local/salaj/valcau-de-jos/2023/58",
+   "short": "HCL Valcău de Jos nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 58/2023 privind aprobarea colaborării cu SC CITADIN SRL în vederea realizării programului de gestionare a câinilor fără stăpân la nivelul comunei Valcău de Jos;",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/116913",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/116913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-6-2023",
+   "path": "local/salaj/valcau-de-jos/2023/6",
+   "short": "HCL Valcău de Jos nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 6/2023 pentru aprobarea proiectului „Centru Comunitar Integrat în comuna Valcău de Jos, județul Sălaj”, a documentației tehnico-economice aferente acestuia și a cheltuielilor legate de proiect în vederea contractării și finanțării acestuia în cadrul Planului Național De Redresare Și Reziliență - Componenta C12 – Sănătate - Investiția 1. Dezvoltarea infrastructurii medicale prespitalicești – I1.4: Centre Comunitare Integrate, apelul de proiecte MS-0014",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/86014",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/86014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-60-2023",
+   "path": "local/salaj/valcau-de-jos/2023/60",
+   "short": "HCL Valcău de Jos nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 60/2023 privind aprobarea modificării organigramei şi statului de funcţii al aparatului de specialitate al primarului comunei Valcău de Jos",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/116915",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/116915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-61-2023",
+   "path": "local/salaj/valcau-de-jos/2023/61",
+   "short": "HCL Valcău de Jos nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 61/2023 privind propunerea de atribuire în proprietate a unui teren prin Ordinul Prefectului Județului Sălaj",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/116916",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/116916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-62-2023",
+   "path": "local/salaj/valcau-de-jos/2023/62",
+   "short": "HCL Valcău de Jos nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 62/2023 privind aprobarea schimbării categoriei de folosință a unor suprafețe de teren agricol din pășunea Nimicesc, situate în satul Valcău de Sus, aflate în proprietatea privată a comunei Valcău de Jos, județul Sălaj;",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/116917",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/116917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-68-2023",
+   "path": "local/salaj/valcau-de-jos/2023/68",
+   "short": "HCL Valcău de Jos nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 68/2023 privind alegerea preşedintelui de şedinţă a Consiliului local pentru trei luni octombrie, noiembrie, decembrie 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/126521",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/126521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-69-2023",
+   "path": "local/salaj/valcau-de-jos/2023/69",
+   "short": "HCL Valcău de Jos nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 69/2023 privind aprobarea contului de executie al bugetului local al Comunei Valcău de Jos pe trimestrul III 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/126522",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/126522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-7-2023",
+   "path": "local/salaj/valcau-de-jos/2023/7",
+   "short": "HCL Valcău de Jos nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 7/2023 privind aprobarea indicatorilor tehnico-economici ai proiectului „Pod pe DC 90, km 1+800 –Comuna Valcău de Jos, localitatea Valcău de Sus, Județul Sălaj- REST DE EXECUTAT”",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/86015",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/86015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-70-2023",
+   "path": "local/salaj/valcau-de-jos/2023/70",
+   "short": "HCL Valcău de Jos nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 70/2023 privind rectificarea bugetului Comunei Valcău de Jos pe anul 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/126523",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/126523",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--valcau-de-jos-71-2023",
    "path": "local/salaj/valcau-de-jos/2023/71",
    "short": "HCL Valcău de Jos nr. 71/2023",
@@ -133,6 +958,21 @@
      "from": "2024-01-03",
      "units": 1,
      "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/133166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-8-2023",
+   "path": "local/salaj/valcau-de-jos/2023/8",
+   "short": "HCL Valcău de Jos nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 8/2023 privind aprobarea indicatorilor tehnico-economici ai proiectului „Pod pe DC 90, km 2+300 –Comuna Valcău de Jos, localitatea Valcău de Sus, Județul Sălaj- REST DE EXECUTAT”",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/86016",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/86016",
      "sha256": null
     }
    ]
@@ -283,6 +1123,21 @@
      "from": "2024-02-21",
      "units": 1,
      "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/136054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--valcau-de-jos-9-2023",
+   "path": "local/salaj/valcau-de-jos/2023/9",
+   "short": "HCL Valcău de Jos nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 9/2023 privind aprobarea bugetului Comunei Valcău de Jos pe anul 2023",
+   "url": "https://emol.ro/valcaudejos-sj/registru-hcl/89235",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/valcaudejos-sj/registru-hcl/89235",
      "sha256": null
     }
    ]

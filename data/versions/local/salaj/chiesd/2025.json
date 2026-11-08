@@ -3,6 +3,81 @@
  "shard": "local/salaj/chiesd/2025",
  "acts": [
   {
+   "slug": "hcl-salaj--chiesd-1-2025",
+   "path": "local/salaj/chiesd/2025/1",
+   "short": "HCL Chieșd nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 1/2025 privind validarea Dispoziției nr. 374/23.12.2024 cu privire la rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200758",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-14-2025",
+   "path": "local/salaj/chiesd/2025/14",
+   "short": "HCL Chieșd nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 14/2025 privind aprobarea constituirii și utilizării fondului de rezervă bugetară aferent bugetului de venituri și cheltuieli al comunei Chieșd, județul Sălaj pe anul 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/201000",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-16-2025",
+   "path": "local/salaj/chiesd/2025/16",
+   "short": "HCL Chieșd nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 16/2025 privind aprobarea achiziționării unui sistem de supraveghere video stradal cu camera IP - pentru Comuna Chieșd, județul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/201019",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-18-2025",
+   "path": "local/salaj/chiesd/2025/18",
+   "short": "HCL Chieșd nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 18/2025 privind aprobarea bugetului local pe anul 2025- sectiunea functionare",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/201022",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-19-2025",
+   "path": "local/salaj/chiesd/2025/19",
+   "short": "HCL Chieșd nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 19/2025 PRIVIND APROBAREA BUGETULUI LOCAL PE ANUL 2025-SECTIUNEA DEZVOLTARE",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/201028",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201028",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-41-2025",
    "path": "local/salaj/chiesd/2025/41",
    "short": "HCL Chieșd nr. 41/2025",
@@ -133,6 +208,21 @@
      "from": "2025-11-28",
      "units": 1,
      "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-5-2025",
+   "path": "local/salaj/chiesd/2025/5",
+   "short": "HCL Chieșd nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 5/2025 privind necesitatea modificării taxei de închiriere a căminelor culturale din comuna Chieșd într-o taxă unică pentru evenimente si stabilirea taxei de închiriere la Baza Sportivă",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200788",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200788",
      "sha256": null
     }
    ]
@@ -298,6 +388,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-9-2025",
+   "path": "local/salaj/chiesd/2025/9",
+   "short": "HCL Chieșd nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 9/2025 privind aprobarea achiziționării unui sistem de supraveghere video stradal cu camera IP - pentru Comuna Chieșd, județul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200869",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200869",
      "sha256": null
     }
    ]

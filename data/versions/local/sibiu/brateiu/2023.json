@@ -3,6 +3,351 @@
  "shard": "local/sibiu/brateiu/2023",
  "acts": [
   {
+   "slug": "hcl-sibiu--brateiu-1-2023",
+   "path": "local/sibiu/brateiu/2023/1",
+   "short": "HCL Brateiu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 1/2023 privind validarea dispoziției nr.1 din 6.01.2023 pentru aprobarea acoperirii definitive din excedentul bugetului local al anului 2022, a deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94714",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-10-2023",
+   "path": "local/sibiu/brateiu/2023/10",
+   "short": "HCL Brateiu nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 10/2023 privind aprobarea planului anual de evoluție a tarifelor, a documentației tehnico-economice a devizului general, precum și a indicatorilor tehnico-economici aferenti obiectivului de investiți \" Investiții complementare Sistemului de management Integrat al Deșeurilor în județul Sibiu \"",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94723",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-11-2023",
+   "path": "local/sibiu/brateiu/2023/11",
+   "short": "HCL Brateiu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 11/2023 privind modificarea aexelor la contractul de asociere aprobat prin Hotărârea Consiliului Local nr. 356/22.12.2022 privind aprobarea Contractului de asociere actualizat \" Sistem de Management Integrat al Deșeurilor Sibiu \"",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94724",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-12-2023",
+   "path": "local/sibiu/brateiu/2023/12",
+   "short": "HCL Brateiu nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 12/2023 privind aprobarea Protocolului de colaborare și Declarația pe propria răspundere în cadrul proiectului HUB Servicii MMS -SII MMSS",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94725",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-13-2023",
+   "path": "local/sibiu/brateiu/2023/13",
+   "short": "HCL Brateiu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 13/2023 privind mandatarea primarului comunei Brateiu ca reprezentant al comunei Brateiu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ECO să voteze împotriva solicitării S.C TRACON S.R.L de modificare a tarifelor de depozitare",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/108731",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/108731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-14-2023",
+   "path": "local/sibiu/brateiu/2023/14",
+   "short": "HCL Brateiu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 14/2023 privind modificarea organigramei și a ststului de funcții al aparatului de specialitate al primarului comunei Brateiu , aprobat HCL nr. 53/29.11.2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/108732",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/108732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-15-2023",
+   "path": "local/sibiu/brateiu/2023/15",
+   "short": "HCL Brateiu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 15/2023 privind avizarea Studiului de oportunitate, a Strategiei de contractare și a documentației de atribuire a ”Contractului de delegarea a gestiunii activității de tratare aerobă a biodeșeurilor colectate separat din zona 4 Mediaș-Județul Sibiu, în Instalația de Compostare Târnova”, precum și mandatarea Primarului Comunei Brateiu cu reprezentant al comunei Brateiu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”ECO” Sibiu să voteze pentru aprobarea Studiului de Oportunitate, Strategiei de contractare și a Documentației de Atribuire pentru ”delegarea a gestiunii activității de tratare aerobă a biodeșeurilor colectare separat din zona 4 Mediaș-județul Sibiu, în Instalația de Compostare Târnava”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/108733",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/108733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-16-2023",
+   "path": "local/sibiu/brateiu/2023/16",
+   "short": "HCL Brateiu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 16/2023 privind aprobarea încheierii prin licitație publică a pajiștilor aflate în domeniul privat al Comunei Brateiu, județul Sibiu precum și stabilirea unor reguli privind organizarea păsunatului",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/108734",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/108734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-17-2023",
+   "path": "local/sibiu/brateiu/2023/17",
+   "short": "HCL Brateiu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 17/2023 privind aprobarea depunerii și implementării de către UAT BRATEIU a proiectului de finanțare „Dotarea cu mobilier, materiale didactice și echipamente didactice și echipamente digitale a unităților de învățământ preuniversitar din comuna Brateiu județul Sibiu și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/108735",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/108735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-18-2023",
+   "path": "local/sibiu/brateiu/2023/18",
+   "short": "HCL Brateiu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 18/2023",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/108736",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/108736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-2-2023",
+   "path": "local/sibiu/brateiu/2023/2",
+   "short": "HCL Brateiu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 2/2023 privind aprobarea utilizării excedentului bugetar pentru acoperire gol de casă în secțiunea funcționare, an 2023",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94715",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-20-2023",
+   "path": "local/sibiu/brateiu/2023/20",
+   "short": "HCL Brateiu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 20/2023 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție ”Reabilitarea și Modernizarea Străzii Principale din satul Buzd, Străzii Granciana și poduri și podete adiacente”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/108738",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/108738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-21-2023",
+   "path": "local/sibiu/brateiu/2023/21",
+   "short": "HCL Brateiu nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 21/2023 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale pe anul 2024",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/114994",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/114994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-22-2023",
+   "path": "local/sibiu/brateiu/2023/22",
+   "short": "HCL Brateiu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 22/2023 privind aprobarea participării Comunei Brateiu în cadrul Parteneriatului GAL Podisul Mediasului, pentru accesarea fondurilor cu finanțare nerambursabilă prin Planul Național Strategic 2023-2007, Axa LEADER, Masura 19 și submasurile aferente",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/114995",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/114995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-24-2023",
+   "path": "local/sibiu/brateiu/2023/24",
+   "short": "HCL Brateiu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 24/2023 privind aprobarea scutirii de la plata majorărilor de întârziere aferente obligațiilor fiscale constând în impozite și taxe locale precum și a majorărilor de întârzier aferente obligațiilor bugetare, conform legii, datorate bugetului local de către persoanele fizice care au calitatea de contribuabili ai bugetului local al Comunei Brateiu",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/114997",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/114997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-30-2023",
+   "path": "local/sibiu/brateiu/2023/30",
+   "short": "HCL Brateiu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 30/2023 privind mandatarea primarului Comunei Brateiu ca reprezentant al Comunei Brateiu în Adunarea Generală de Dezvoltare Intercomunitară ” Eco” Sibiu să voteze ” pentru” sau ” împotrivă” aprobării modificării tarifului de depozitare",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/212226",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/212226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-31-2023",
+   "path": "local/sibiu/brateiu/2023/31",
+   "short": "HCL Brateiu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 31/2023 privind alegerea presedintelui de sedinta pe urmatoarele trei luni",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/212227",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/212227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-32-2023",
+   "path": "local/sibiu/brateiu/2023/32",
+   "short": "HCL Brateiu nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 32/2023 privind alegerea președintelui de ședință pentru ședința din 8.08.2023",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/185059",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/185059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-33-2023",
+   "path": "local/sibiu/brateiu/2023/33",
+   "short": "HCL Brateiu nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 33/2023 privind aprobarea Contractului de Asociere actualizat și a Actului cadru de atribuire pentru proiectele „Sistem de Management Integrat al Deșeurilor în Județul Sibiu” și “Investiții complementare Sistemului de Management Integrat al Deșeurilor în Județul Sibiu”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/185060",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/185060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-34-2023",
+   "path": "local/sibiu/brateiu/2023/34",
+   "short": "HCL Brateiu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 34/2023 privind aprobarea planului de evoluție al tarifelor, a documentației tehnico-economice, a devizului general, a indicatorilor tehnico-economici, precum și a cofinanțării pentru proiectul „Recipiente de colectare a deșeurilor”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/185061",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/185061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-35-2023",
+   "path": "local/sibiu/brateiu/2023/35",
+   "short": "HCL Brateiu nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 35/2023",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/185065",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/185065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-36-2023",
+   "path": "local/sibiu/brateiu/2023/36",
+   "short": "HCL Brateiu nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 36/2023 privind neasumarea responsabilității organizării si derulării procedurilor de atribuire a contractelor/acordurilor – cadru pentru achiziția produselor aferente programului și contractelor/acordurilor – cadru de prestare a serviciilor pentru derularea masurilor educative, la nivel local, pentru perioada august 2023 – iulie 2029 in cadrul Programului pentru școli al României",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/185066",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/185066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-38-2023",
+   "path": "local/sibiu/brateiu/2023/38",
+   "short": "HCL Brateiu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 38/2023 privind aprobarea memoriului tehnic, a devizului general, a indicatorilor tehnico-economici și a planului anual de evoluție a tarifelor pentru proiectul „Recipiente de colectare a deșeurilor”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/185075",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/185075",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--brateiu-39-2023",
    "path": "local/sibiu/brateiu/2023/39",
    "short": "HCL Brateiu nr. 39/2023",
@@ -13,6 +358,21 @@
      "from": "2023-09-15",
      "units": 1,
      "source_url": "https://emol.ro/brateiu-sb/registru-hcl/185076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-4-2023",
+   "path": "local/sibiu/brateiu/2023/4",
+   "short": "HCL Brateiu nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 4/2023 privind aprobarea rețelei unitățiilor de învățământ preuniversitar de stat cu personalitate juridică din raza de competență a comunei Brateiu, județul Sibiu, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94717",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94717",
      "sha256": null
     }
    ]
@@ -168,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--brateiu-5-2023",
+   "path": "local/sibiu/brateiu/2023/5",
+   "short": "HCL Brateiu nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 5/2023 privind aprobarea Planului de acțiuni/ lucrări de interes local pe anul 2023 pentru repartizarea orelor de muncă prestate lunar de către persoanele majore apte de muncă din familia beneficiară de ajutor social, în conformitate cu prevederile legii nr. 416/2001 privind venitul minim garantat, cu modificările și completarile ulterioare",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94718",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94718",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--brateiu-50-2023",
    "path": "local/sibiu/brateiu/2023/50",
    "short": "HCL Brateiu nr. 50/2023",
@@ -298,6 +673,66 @@
      "from": "2023-12-28",
      "units": 1,
      "source_url": "https://emol.ro/brateiu-sb/registru-hcl/185109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-6-2023",
+   "path": "local/sibiu/brateiu/2023/6",
+   "short": "HCL Brateiu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 6/2023 privind aprobarea planului de analiză și acoperire a riscurilor pentru Comuna Brateiu pe anul 2023",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94719",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-7-2023",
+   "path": "local/sibiu/brateiu/2023/7",
+   "short": "HCL Brateiu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 7/2023 privind aprobarea Bugetului de venituri și cheltuieli al Comunei Brateiu, pe anul 2023",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94720",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-8-2023",
+   "path": "local/sibiu/brateiu/2023/8",
+   "short": "HCL Brateiu nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 8/2023 privind aprobarea Metodologiei privind acordarea gratuității la transportul urban cu mișloace de transport în comun de suprafață a beneficiarilor legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94721",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-9-2023",
+   "path": "local/sibiu/brateiu/2023/9",
+   "short": "HCL Brateiu nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 9/2023 privind reactualizarea Comitetului local pentru situații de urgență a centrului operativ și aprobarea Regulamentului de organizare și funcționare al acestuia în comuna Brateiu",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/94722",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/94722",
      "sha256": null
     }
    ]

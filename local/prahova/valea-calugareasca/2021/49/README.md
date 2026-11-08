@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 49/2021 privind aprobarea participării comunei Valea Călugărească cu imobilul ”Grădinița cu program normal Valea Nicovani”, depus pentru a obține finanțare la Banca Europeană de Investiții, în cadrul programului ELENA (European Local Energy Assistance)
+
+HCL Valea Călugărească nr. 49/2021 · 1 versions, from 2021-06-04 (latest in force: 2021-06-04) · <https://emol.ro/valeacalugareasca-ph/registru-hcl/25758>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-prahova--valea-calugareasca-49-2021` (tags `hcl-prahova--valea-calugareasca-49-2021/<day>`; `python tools/on.py <day> hcl-prahova--valea-calugareasca-49-2021`).
+
+## Decisions made by hand
+
+- HCL Valea Călugărească nr. 49/2021: listed from Consiliul Local al Comunei Valea Călugărească (emol.ro); metadata only for now: no document of it is held.
+- HCL Valea Călugărească nr. 49/2021: dated from 4 June 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Valea Călugărească nr. 49/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

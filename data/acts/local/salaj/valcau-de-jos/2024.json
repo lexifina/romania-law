@@ -3,6 +3,28 @@
 "shard": "local/salaj/valcau-de-jos/2024",
 "acts": [
 {
+"slug": "hcl-salaj--valcau-de-jos-8-2024",
+"path": "local/salaj/valcau-de-jos/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valcău de Jos nr. 8/2024 privind privind aprobarea bugetului Comunei Valcău de Jos, județul Sălaj, pe anul 2024",
+"short": "HCL Valcău de Jos nr. 8/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/valcaudejos-sj/registru-hcl/142957",
+"council": "salaj/valcau-de-jos",
+"council_name": "Consiliul Local al Comunei Valcău de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-salaj--valcau-de-jos-37-2024",
 "path": "local/salaj/valcau-de-jos/2024/37",
 "kind": "local",

@@ -3,6 +3,111 @@
  "shard": "local/salaj/cizer/2022",
  "acts": [
   {
+   "slug": "hcl-salaj--cizer-10-2022",
+   "path": "local/salaj/cizer/2022/10",
+   "short": "HCL Cizer nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 10/2022 privind aprobarea Strategiei de dezvoltare durabilă a Comunei Cizer județul Sălaj pentru perioada 2021-2027",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/72350",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/72350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-25-2022",
+   "path": "local/salaj/cizer/2022/25",
+   "short": "HCL Cizer nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 25/2022 privind aprobarea programului de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/72412",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/72412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-3-2022",
+   "path": "local/salaj/cizer/2022/3",
+   "short": "HCL Cizer nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 3/2022 privind reaprobarea indicatorilor tehnico-economici, a Strategiei de tarifare (Planul anual de evoluție a tarifelor de apă și canalizare în perioada 2017-2023) și a cofinanțării proiectului ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județele Cluj și Sălaj, în perioada 2014-2020” în urma aplicării Metodologiei de ajustare a prețurilor în cadrul devizelor generale aferente proiectelor de infrastructură publică finanțate prin POIM 2014-2020 aprobată prin Hotărârea de Guvern nr. 379/2020",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/72306",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/72306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-34-2022",
+   "path": "local/salaj/cizer/2022/34",
+   "short": "HCL Cizer nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 34/2022 privind aprobarea Devizului General și a Caietului de Sarcini pentru obiectivul de investiție „Asfaltare uliță Primărie” comuna Cizer",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/72458",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/72458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-38-2022",
+   "path": "local/salaj/cizer/2022/38",
+   "short": "HCL Cizer nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 38/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „REFACERE 2 PODURI PE DC 78, ÎN COMUNA CIZER, JUDEŢUL SĂLAJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/72638",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/72638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-39-2022",
+   "path": "local/salaj/cizer/2022/39",
+   "short": "HCL Cizer nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 39/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,CONSTRUIREA POD PESTE VALEA CIZERULUI , ÎN LOCALITATEA PLESCA, COMUNA CIZER, JUDEŢUL SĂLAJ” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/72639",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/72639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-40-2022",
+   "path": "local/salaj/cizer/2022/40",
+   "short": "HCL Cizer nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 40/2022 privind rectificarea bugetului local al comunei Cizer pe anul 2022",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/73876",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/73876",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--cizer-41-2022",
    "path": "local/salaj/cizer/2022/41",
    "short": "HCL Cizer nr. 41/2022",
@@ -298,6 +403,21 @@
      "from": "2022-12-09",
      "units": 1,
      "source_url": "https://emol.ro/cizer-sj/registru-hcl/82254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-8-2022",
+   "path": "local/salaj/cizer/2022/8",
+   "short": "HCL Cizer nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 8/2022 privind aprobarea actualizării cererii de finanțare și a devizului general la obiectul de investiții „EXTINDERE REȚEA CANALIZARE MENAJERĂ ÎN COMUNA CIZER, JUDEȚUL SĂLAJ”",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/72325",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/72325",
      "sha256": null
     }
    ]

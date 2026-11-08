@@ -3,6 +3,621 @@
  "shard": "local/salaj/horoatu-crasnei/2023",
  "acts": [
   {
+   "slug": "hcl-salaj--horoatu-crasnei-1-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/1",
+   "short": "HCL Horoatu Crasnei nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 1/2023 privind atribuirea denumirii de Școala Gimnazială ,,Dr. Dimitrie Culcer\" Stârciu- Școlii Gimnaziale Stârciu din comuna Horoatu Crasnei, jud. Sălaj;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87386",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-10-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/10",
+   "short": "HCL Horoatu Crasnei nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 10/2023 Privind aprobarea addendum nr. 2 la “Strategiei de Dezvoltare Locala, comuna Horoatu Crasnei, pentru perioada 2021 – 2027”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87395",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-11-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/11",
+   "short": "HCL Horoatu Crasnei nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 11/2023",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87396",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-12-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/12",
+   "short": "HCL Horoatu Crasnei nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 12/2023 privind implementarea proiectului: „ACHIZITIE DE ECHIPAMENTE PENTRU DOTAREA TRACTORULUI DETINUT DE COMUNA HOROATU CRASNEI, JUDETUL SĂLAJ”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/89579",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/89579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-13-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/13",
+   "short": "HCL Horoatu Crasnei nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 13/2023 privind revizuirea organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Horoatu Crasnei;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/92128",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/92128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-14-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/14",
+   "short": "HCL Horoatu Crasnei nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 14/2023 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „INFIINTARE RETEA DE CANALIZARE IN COMUNA HOROATU CRASNEI SI REFULAREA APELOR UZATE IN COMUNA CRASNA, JUDETUL SALAJ\"",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/92129",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/92129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-15-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/15",
+   "short": "HCL Horoatu Crasnei nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 15/2023 privind actualizarea comisiilor de specialitate ale Consiliului Local al comunei Horoatu Crasnei, județul Sălaj;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/92130",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/92130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-16-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/16",
+   "short": "HCL Horoatu Crasnei nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 16/2023 privind aprobarea depunerii și implementării “Dotarea cu mobilier, materiale didactice și echipamente a unităților de învățământ preuniversitar la Școala Gimnazială nr. 1 Horoatu Crasnei, jud. Sălaj”, în cadrul Planului Național de Redresare și Reziliență, apelul de proiecte PNRR/2022, Componenta C15: Educație, în vederea solicitării finanțării nerambursabile;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/94372",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/94372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-17-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/17",
+   "short": "HCL Horoatu Crasnei nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 17/2023",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/97556",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/97556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-19-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/19",
+   "short": "HCL Horoatu Crasnei nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 19/2023 privind aprobarea rezultatului inventarierii patrimoniului comunei Horoatu Crasnei pe anul 2022",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/97558",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/97558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-2-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/2",
+   "short": "HCL Horoatu Crasnei nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 2/2023 privind organizarea retelei scolare a unitatilor de invatamant preuniversitar de stat si particular din raza teritoriala pentru anul 2023-2024;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87387",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-20-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/20",
+   "short": "HCL Horoatu Crasnei nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 20/2023 Pentru modificarea HCL nr.43 din 12.08.2022 privind aprobarea documentatiei de avizare a lucrarilor de interventii, actualizarea indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitii ”MODERNIZARE DRUM COMUNAL DC70C IN COMUNA HOROATU CRASNEI, JUDETUL SALAJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investitie",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/97559",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/97559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-21-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/21",
+   "short": "HCL Horoatu Crasnei nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 21/2023 cu privire la aprobarea documentaţiei tehnico-economice (faza DALI), a indicatorilor tehnico-economici si a Devizului general pentru obiectivul ,,Reabilitare moderată a sediului primariei Comunei Horoatu Crasnei pentru a îmbunătăți furnizarea de servicii publice către populație''",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/100051",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/100051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-22-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/22",
+   "short": "HCL Horoatu Crasnei nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 22/2023 cu privire la aprobarea documentaţiei tehnico-economice (faza DALI), a indicatorilor tehnico-economici si a Devizului general pentru obiectivul ,,Reabilitare moderată a Școlii din localitatea Hurez pentru a îmbunătăți furnizarea de servicii publice către populație''",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/100052",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/100052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-23-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/23",
+   "short": "HCL Horoatu Crasnei nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 23/2023 privind aprobarea participării Comunei Horoatu Crasnei la Programul privind casarea autovehiculelor uzate, derulat în cofinanțare cu Administrația Fondului pentru Mediu;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101657",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-24-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/24",
+   "short": "HCL Horoatu Crasnei nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 24/2023 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2024",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101658",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-25-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/25",
+   "short": "HCL Horoatu Crasnei nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 25/2023 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Horoatu Crasnei, pentru perioada mai 2023 -iulie 2023;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101659",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-26-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/26",
+   "short": "HCL Horoatu Crasnei nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 26/2023 privind propunerea de atribuire în proprietate a unui teren conform art.36 din Legea fondului funciar nr.18/91, republicată, cu modificările și completările ulterioare;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101660",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-27-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/27",
+   "short": "HCL Horoatu Crasnei nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 27/2023 privind aderarea UAT COMUNA HOROATU CRASNEI la Parteneriatul LEADER GAL POARTA TRANSILVANIEI;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101661",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-28-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/28",
+   "short": "HCL Horoatu Crasnei nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 28/2023 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Horoatu Crasnei, jud. Sălaj;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101662",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/101662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-29-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/29",
+   "short": "HCL Horoatu Crasnei nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 29/2023 pentru aprobarea Protocolului de colaborare între Comuna Horoatu Crasnei și Grupul De Acțiune Locală Poarta Transilvaniei privind realizarea în comun a unor activități pentru dezvoltarea asistenței medicale comunitare;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/105211",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/105211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-3-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/3",
+   "short": "HCL Horoatu Crasnei nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 3/2023 privind aprobarea modalității de utilizare a capelei mortuare din localitatea Horoatu Crasnei, com. Horoatu Crasnei, jud. Sălaj și a Regulamentului de administrare și funcționare;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87388",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-30-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/30",
+   "short": "HCL Horoatu Crasnei nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 30/2023 pentru aprobarea Protocolului de colaborare între Comuna Horoatu Crasnei și Direcția Județeană de Sănătate Publică Sălaj privind realizarea în comun a unor activități pentru dezvoltarea asistenței medicale comunitare;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/105212",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/105212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-31-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/31",
+   "short": "HCL Horoatu Crasnei nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 31/2023 privind aprobarea depunerii proiectului și a cheltuielilor aferente proiectului “Construire și dotare centru de zi pentru persoane varstnice in Comuna Horoatu Crasnei, Nr. 347A, jud. Sălaj”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/106635",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/106635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-33-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/33",
+   "short": "HCL Horoatu Crasnei nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 33/2023 privind rectificarea bugetului local pe anul 2023;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/106637",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/106637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-34-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/34",
+   "short": "HCL Horoatu Crasnei nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 34/2023 privind revizuirea organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Horoatu Crasnei;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/106638",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/106638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-36-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/36",
+   "short": "HCL Horoatu Crasnei nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 36/2023 privind revocarea HCL 31/2023 privind aprobarea depunerii proiectului și a cheltuielilor aferente proiectului “Construire și dotare centru de zi pentru persoane varstnice in Comuna Horoatu Crasnei, Nr. 347A, jud. Sălaj”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/108985",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/108985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-37-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/37",
+   "short": "HCL Horoatu Crasnei nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 37/2023 privind aprobarea depunerii proiectului și a cheltuielilor aferente proiectului “Centru de zi de asistenta si recuperare, cu echipa mobila de ingrijire la domiciliu in Comuna Horoatu Crasnei, jud. Sălaj”",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/108986",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/108986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-39-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/39",
+   "short": "HCL Horoatu Crasnei nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 39/2023 privind revizuirea organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Horoatu Crasnei;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/110789",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/110789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-4-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/4",
+   "short": "HCL Horoatu Crasnei nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 4/2023 privind validarea Dispoziției nr.1 din 04.01.2023 privind aprobarea acoperirii definitive a deficitului bugetar la sfârșitul anului 2022;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87389",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-42-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/42",
+   "short": "HCL Horoatu Crasnei nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 42/2023 privind rectificarea bugetului local pe anul 2023;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/111394",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/111394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-43-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/43",
+   "short": "HCL Horoatu Crasnei nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 43/2023",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/113272",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/113272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-45-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/45",
+   "short": "HCL Horoatu Crasnei nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 45/2023 privind rectificarea bugetului local pe anul 2023;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114853",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-46-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/46",
+   "short": "HCL Horoatu Crasnei nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 46/2023 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Horoatu Crasnei, pentru perioada august 2023 -octombrie 2023;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114854",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-47-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/47",
+   "short": "HCL Horoatu Crasnei nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 47/2023 privind modificarea HCL nr.66/21.10.2023 privind stabilirea taxei pentru închirierea utilajului autogreder;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114855",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-48-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/48",
+   "short": "HCL Horoatu Crasnei nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 48/2023",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114856",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-5-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/5",
+   "short": "HCL Horoatu Crasnei nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 5/2023 privind privind modificarea taxei speciale de salubrizare pentru unitatea administrativ-teritorială Comuna Horoatu Crasnei;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87390",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-51-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/51",
+   "short": "HCL Horoatu Crasnei nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 51/2023 privind aprobarea achiziționării unui pachet de rechizite pentru elevii din clasele: Pregătitoare- a IV-a Școla Gimnazială Nr 1 Horoatu Crasnei",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/116699",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/116699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-52-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/52",
+   "short": "HCL Horoatu Crasnei nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 52/2023 privind revizuirea organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Horoatu Crasnei;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/116700",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/116700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-53-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/53",
+   "short": "HCL Horoatu Crasnei nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 53/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/119962",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/119962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-56-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/56",
+   "short": "HCL Horoatu Crasnei nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 56/2023 privind încheierea unui contract de permanență/intervenție imediată pentru prevenirea și combaterea eventualelor atacuri cauzate de exemplarele de urs brun, cu un gestionar de fond cinegetic și încheierea unui contract de prestări servicii cu medicul veterinar de liberă practică, pentru asigurarea serviciilor de specialitate privind tranchilizarea şi relocarea ori extragerea prin eutanasiere a exemplarelor de urs",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/122088",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/122088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--horoatu-crasnei-57-2023",
    "path": "local/salaj/horoatu-crasnei/2023/57",
    "short": "HCL Horoatu Crasnei nr. 57/2023",
@@ -43,6 +658,21 @@
      "from": "2023-10-09",
      "units": 1,
      "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/122091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-6-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/6",
+   "short": "HCL Horoatu Crasnei nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 6/2023",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87391",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87391",
      "sha256": null
     }
    ]
@@ -198,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--horoatu-crasnei-7-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/7",
+   "short": "HCL Horoatu Crasnei nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 7/2023 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Horoatu Crasnei, pentru perioada februarie 2023 -aprilie 2023;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87392",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87392",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--horoatu-crasnei-70-2023",
    "path": "local/salaj/horoatu-crasnei/2023/70",
    "short": "HCL Horoatu Crasnei nr. 70/2023",
@@ -298,6 +943,36 @@
      "from": "2024-01-19",
      "units": 1,
      "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/135538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-8-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/8",
+   "short": "HCL Horoatu Crasnei nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 8/2023 privind aprobarea Amenajamentului Pastoral pentru pajiștile permanente din comuna Horoatu Crasnei, jud. Sălaj;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87393",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-9-2023",
+   "path": "local/salaj/horoatu-crasnei/2023/9",
+   "short": "HCL Horoatu Crasnei nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 9/2023 privind aprobarea bugetului local şi a bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii pe anul 2023;",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87394",
+   "versions": [
+    {
+     "from": "2023-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/87394",
      "sha256": null
     }
    ]

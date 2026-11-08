@@ -3,6 +3,516 @@
  "shard": "local/sibiu/loamnes/2023",
  "acts": [
   {
+   "slug": "hcl-sibiu--loamnes-1-2023",
+   "path": "local/sibiu/loamnes/2023/1",
+   "short": "HCL Loamneș nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 1/2023 privind ...privind utilizarea unor sume din excedentul anului precedent pentru acoperirea golurilor temporare de casa ale secțiunii de funcționare",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/91562",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/91562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-10-2023",
+   "path": "local/sibiu/loamnes/2023/10",
+   "short": "HCL Loamneș nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 10/2023 privind aprobarea contului de execuție bugetară pe secțiunea de funcționare și secțiunea de dezvoltare pentru trimestrul IV al anului 2022 al Comunei Loamneș, județul Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101417",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-11-2023",
+   "path": "local/sibiu/loamnes/2023/11",
+   "short": "HCL Loamneș nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 11/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101418",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-12-2023",
+   "path": "local/sibiu/loamnes/2023/12",
+   "short": "HCL Loamneș nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 12/2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101419",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-13-2023",
+   "path": "local/sibiu/loamnes/2023/13",
+   "short": "HCL Loamneș nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 13/2023 privind aprobarea actualizarii Planului de analiza si acoperire a riscurilor in domeniul protectiei civile al comunei Loamnes",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101420",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-15-2023",
+   "path": "local/sibiu/loamnes/2023/15",
+   "short": "HCL Loamneș nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 15/2023 privind aprobarea delegării către Unitatea Administrativ Teritorială- jud. Sibiu și asocierea în vederea depunerii spre finanțare a proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe de la nivelul Județului Sibiu”, gestionat de Ministerul Educației, în cadrul apelului de proiecte PNRR/2022/C15/MEDU/I9./I11./I13./I14./",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101422",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-16-2023",
+   "path": "local/sibiu/loamnes/2023/16",
+   "short": "HCL Loamneș nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 16/2023 privind aprobarea Decontului de Administrare a fondului forestier, proprietatea Comunei Loamneș aferent anului 2022, depus de Ocolul Silvic Valea Cibinului-Săliște",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101423",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-17-2023",
+   "path": "local/sibiu/loamnes/2023/17",
+   "short": "HCL Loamneș nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 17/2023 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2023 întocmit de către Ocolul Silvic Valea Cibinului Săliste, în calitate de administrator al fondului forestier proprietatea a Comunei Loamneș, jud. Sibiu, a Devizului lucrărilor de cultură și refacere a pădurilor pentru anul 2023, aferent Contractului de Administrare a pădurilor încheiat între primăria comunei Loamneș și Ocolul Silvic Valea Cibinului Săliste, precum și a noilor liste de prețuri destinate valorificării masei lemnoase pe picior și masă lemnoasă fasonată la drum auto, care se recoltează din fondul forestier proprietatea comunei Loamneș, jud. Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101424",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-18-2023",
+   "path": "local/sibiu/loamnes/2023/18",
+   "short": "HCL Loamneș nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 18/2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101425",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-19-2023",
+   "path": "local/sibiu/loamnes/2023/19",
+   "short": "HCL Loamneș nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 19/2023 privind aprobarea documentației de dezmembrare a unui imobil intravilan - drum înscris în CF 102850 Loamneș, cu nr. top 617, aflat în domeniul public al comunei Loamneș, jud. Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101426",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-2-2023",
+   "path": "local/sibiu/loamnes/2023/2",
+   "short": "HCL Loamneș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 2/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/91575",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/91575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-20-2023",
+   "path": "local/sibiu/loamnes/2023/20",
+   "short": "HCL Loamneș nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 20/2023 privind aprobarea revocării dreptului de administrare notat in favoarea Consiliului Județean Sibiu, asupra imobilul teren înscris în CF 100234 Loamneș",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101427",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-21-2023",
+   "path": "local/sibiu/loamnes/2023/21",
+   "short": "HCL Loamneș nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 21/2023 privind preluarea în proprietatea comunei Loamneș, județul Sibiu a imobilului teren, înscris in CF 100309 Loamneș",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101428",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-22-2023",
+   "path": "local/sibiu/loamnes/2023/22",
+   "short": "HCL Loamneș nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 22/2023 privind aprobarea îndreptării erorii materiale din anexa la HCL Loamneș nr. 53/1999 privind inventarierea bunurilor care alcătuiesc domeniul public al comunei Loamneș",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101440",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-23-2023",
+   "path": "local/sibiu/loamnes/2023/23",
+   "short": "HCL Loamneș nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 23/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101473",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-24-2023",
+   "path": "local/sibiu/loamnes/2023/24",
+   "short": "HCL Loamneș nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 24/2023 privind modificarea si completarea statului de funcții si a statului de personal al aparatului de specialitate al primarului comunei Loamneş, judetul Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101474",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-25-2023",
+   "path": "local/sibiu/loamnes/2023/25",
+   "short": "HCL Loamneș nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 25/2023 privind stabilirea salariilor de bază și a coeficienților de ierarhizare pentru funcțiile publice și funcțiile contractuale din cadrul aparatului de specialitate al primarului comunei Loamneș, jud Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101475",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-26-2023",
+   "path": "local/sibiu/loamnes/2023/26",
+   "short": "HCL Loamneș nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 26/2023 pentru aprobarea Planului anual de acțiune privind serviciile sociale administrate si finanțate din bugetul local al comunei Loamneș in anul 2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101476",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-27-2023",
+   "path": "local/sibiu/loamnes/2023/27",
+   "short": "HCL Loamneș nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 27/2023 privind aprobarea planului de acțiuni sau de lucrări de interes local, pentru persoanele majore apte de muncă din familiile beneficiare de ajutor social pentru anul in curs, conform Legii nr. 416/2001",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101477",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-28-2023",
+   "path": "local/sibiu/loamnes/2023/28",
+   "short": "HCL Loamneș nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 28/2023 privind aprobarea participării comunei Loamneș, jud. Sibiu, în cadrul parteneriatului reprezentat de Asociația Țara Secașelor Alba-Sibiu în vederea elaborării Strategiei de Dezvoltare Locală 2023-2027 componenta LEADER",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101478",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-30-2023",
+   "path": "local/sibiu/loamnes/2023/30",
+   "short": "HCL Loamneș nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 30/2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101480",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-31-2023",
+   "path": "local/sibiu/loamnes/2023/31",
+   "short": "HCL Loamneș nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 31/2023 privind aprobarea indicatorilor tehnico-economici la faza D.A.L.I pentru obiectivul de investiție: ,,Reabilitarea moderată a Școlii Gimnaziale Alămor comuna Loamneș, județul Sibiu”",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/101481",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/101481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-33-2023",
+   "path": "local/sibiu/loamnes/2023/33",
+   "short": "HCL Loamneș nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 33/2023 privind privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2024",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/123660",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/123660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-39-2023",
+   "path": "local/sibiu/loamnes/2023/39",
+   "short": "HCL Loamneș nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 39/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/123666",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/123666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-4-2023",
+   "path": "local/sibiu/loamnes/2023/4",
+   "short": "HCL Loamneș nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 4/2023 privind aprobarea bugetului local de venituri și cheltuieli, a bugetului creditului intern și a programului de investiții publice pe grupe de investiții și surse de finanțare ale comunei Loamneș pe anul 2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/91577",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/91577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-40-2023",
+   "path": "local/sibiu/loamnes/2023/40",
+   "short": "HCL Loamneș nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 40/2023 privind aprobarea documentației tehnice faza DALI și a indicatorilor tehnico-economici actualizati pentru obiectivul de investiții: ”Reabilitare moderată Școala Generala nr. 1 Armeni, comuna Loamneș, județul Sibiu”, finanțat prin Planului Național de Redresare și Reziliență(PNRR",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/123667",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/123667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-41-2023",
+   "path": "local/sibiu/loamnes/2023/41",
+   "short": "HCL Loamneș nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 41/2023 privind aprobarea documentației tehnice faza DALI și a indicatorilor tehnico-economici actualizati pentru obiectivul de investiții: ”Reabilitare moderată Școala Generala nr. 2 Armeni, comuna Loamneș, județul Sibiu”, finanțat prin Planului Național de Redresare și Reziliență(PNRR)",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/123668",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/123668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-5-2023",
+   "path": "local/sibiu/loamnes/2023/5",
+   "short": "HCL Loamneș nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 5/2023 privind aprobarea Planului de atenuare si adaptare la schimbãrile climatice în comuna Loamnes",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/91578",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/91578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-56-2023",
+   "path": "local/sibiu/loamnes/2023/56",
+   "short": "HCL Loamneș nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 56/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Loamneș, județul Sibiu pentru anul 2023",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/124127",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/124127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-57-2023",
+   "path": "local/sibiu/loamnes/2023/57",
+   "short": "HCL Loamneș nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 57/2023 privind aprobarea modificării și completării statului de functii si a statului de personal al aparatului de specialitate al primarului comunei Loamneş, judetul Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/124128",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/124128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-58-2023",
+   "path": "local/sibiu/loamnes/2023/58",
+   "short": "HCL Loamneș nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 58/2023 privind mandatarea Primarului comunei Loamneș, ca reprezentant al comunei Loamneș, jud Sibiu, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,ECO” Sibiu, să voteze ,,pentru” aprobarea ajustării tarifelor activității de colectare și transport a deșeurilor municipale în zona 1 Sibiu",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/124129",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/124129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-6-2023",
+   "path": "local/sibiu/loamnes/2023/6",
+   "short": "HCL Loamneș nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 6/2023 privind aprobarea modificării rețelei școlare a unităților de învățământ preuniversitar de stat, de pe raza teritoriala a comunei Loamneș jud. Sibiu, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/91579",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/91579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-7-2023",
+   "path": "local/sibiu/loamnes/2023/7",
+   "short": "HCL Loamneș nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 7/2023 privind aprobarea planului anual de evoluție a tarifelor, a documentației tehnico-economice, a devizului general, precum și a indicatorilor tehnico-economici aferenți obiectivului de investiții ,, Investiții complementare Sistemului de Management Integrat al Deșeurilor în Județul Sibiu”",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/91629",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/91629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-78-2023",
+   "path": "local/sibiu/loamnes/2023/78",
+   "short": "HCL Loamneș nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 78/2023 privind aprobarea memoriului tehnic, a devizului general, a indicatorlor tehnico-economici și a planului anual de evoluție a tarifelor pentru proiectul „Recipiente de coletare a deșeurilor”",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/128800",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/128800",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--loamnes-79-2023",
    "path": "local/sibiu/loamnes/2023/79",
    "short": "HCL Loamneș nr. 79/2023",
@@ -13,6 +523,21 @@
      "from": "2023-11-15",
      "units": 1,
      "source_url": "https://emol.ro/loamnes-sb/registru-hcl/128838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-8-2023",
+   "path": "local/sibiu/loamnes/2023/8",
+   "short": "HCL Loamneș nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 8/2023 privind .privind aprobarea Contractului de Asociere actualizat, pentru proiectele „Sistem de Management Integrat al Deșeurilor în Județul Sibiu” și “Investiții complementare Sistemului de Management Integrat al Deșeurilor în Județul Sibiu”",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/91630",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/91630",
      "sha256": null
     }
    ]

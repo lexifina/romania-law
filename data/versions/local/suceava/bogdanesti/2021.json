@@ -3,6 +3,306 @@
  "shard": "local/suceava/bogdanesti/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--bogdanesti-1-2021",
+   "path": "local/suceava/bogdanesti/2021/1",
+   "short": "HCL Bogdănești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 1/2021 privind aprobarea contului de execuție bugetară la 31 decembrie 2020",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/34380",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/34380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-10-2021",
+   "path": "local/suceava/bogdanesti/2021/10",
+   "short": "HCL Bogdănești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 10/2021",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45896",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-11-2021",
+   "path": "local/suceava/bogdanesti/2021/11",
+   "short": "HCL Bogdănești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 11/2021 privind revocarea HCL nr. 27 din 31.08.2020 privind completarea Inventarului bunurilor care fac parte din domeniul privat al comunei Bogdănești, județul Suceava, înscris în Anexa la Hotărârea nr. 42 din 11.10.2017",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45897",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-12-2021",
+   "path": "local/suceava/bogdanesti/2021/12",
+   "short": "HCL Bogdănești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 12/2021 privind modificarea și completarea Inventarului bunurilor care fac parte din domeniul privat al comunei Bogdănești, județul Suceava, înscris în Anexa la Hotărârea nr. 42 din 11.10.2017",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45898",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-13-2021",
+   "path": "local/suceava/bogdanesti/2021/13",
+   "short": "HCL Bogdănești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 13/2021 privind aprobarea „Planului de analiză și acoperire a riscurilor” al comunei Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45899",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-14-2021",
+   "path": "local/suceava/bogdanesti/2021/14",
+   "short": "HCL Bogdănești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 14/2021 privind aprobarea bugetului local de venituri și cheltuieli pentru anul 2021",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45900",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-16-2021",
+   "path": "local/suceava/bogdanesti/2021/16",
+   "short": "HCL Bogdănești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 16/2021 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45902",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-17-2021",
+   "path": "local/suceava/bogdanesti/2021/17",
+   "short": "HCL Bogdănești nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 17/2021 privind aprobarea numărului și cuantumului burselor aferente semestrului II al anului școlar 2020-2021, pentru elevii din învățământul preuniversitar de stat din comuna Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45903",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-18-2021",
+   "path": "local/suceava/bogdanesti/2021/18",
+   "short": "HCL Bogdănești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 18/2021 privind aprobarea modificării Statului de Funcții din cadrul aparatului de specialitate al Primarului Comunei Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45904",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-19-2021",
+   "path": "local/suceava/bogdanesti/2021/19",
+   "short": "HCL Bogdănești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 19/2021 privind modificarea Inventarului bunurilor care fac parte din domeniul privat al comunei Bogdănești, județul Suceava, înscris în Anexa la Hotărâre nr. 42 din 11.10.2017",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45905",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-2-2021",
+   "path": "local/suceava/bogdanesti/2021/2",
+   "short": "HCL Bogdănești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 2/2021 privind utilizarea excedentului bugetului local în cursul anului 2021",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/34381",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/34381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-20-2021",
+   "path": "local/suceava/bogdanesti/2021/20",
+   "short": "HCL Bogdănești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 20/2021 privind aprobarea „Strategiei de dezvoltare locală a comunei Bogdănești, județul Suceava în perioada 2021-2027”",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45906",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-21-2021",
+   "path": "local/suceava/bogdanesti/2021/21",
+   "short": "HCL Bogdănești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 21/2021 privind rectificarea bugetulului local pentru anul 2021",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/46147",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/46147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-22-2021",
+   "path": "local/suceava/bogdanesti/2021/22",
+   "short": "HCL Bogdănești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 22/2021 privind aprobarea contului de execuție bugetară la 30 iunie 2021",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/46148",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/46148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-23-2021",
+   "path": "local/suceava/bogdanesti/2021/23",
+   "short": "HCL Bogdănești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 23/2021 privind trecerea din domeniul public în domeniul privat al comunei Bogdănești a imobilului „Dispensar veterinar”, în suprafață de 116 mp având numărul cadastral 33387 - C1",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/46149",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/46149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-27-2021",
+   "path": "local/suceava/bogdanesti/2021/27",
+   "short": "HCL Bogdănești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 27/2021 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții „Reabilitare și modernizare drum comunal 36, comuna Bogdănești, județul Suceava”",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/46153",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/46153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-28-2021",
+   "path": "local/suceava/bogdanesti/2021/28",
+   "short": "HCL Bogdănești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 28/2021 privind actualizarea documentației tehnico-economice (faza Studiu de Fezabilitate) și a indicatorilor tehnico-economici pentru proiectul „CONSTRUIREA REȚELEI INTELIGENTE DE TRANSPORT ȘI DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE FÂNTÂNA MARE, BOROAIA ȘI BOGDĂNEȘTI”",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/46154",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/46154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-29-2021",
+   "path": "local/suceava/bogdanesti/2021/29",
+   "short": "HCL Bogdănești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 29/2021 privind rectificarea bugetului local pentru anul 2021",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/46155",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/46155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-3-2021",
+   "path": "local/suceava/bogdanesti/2021/3",
+   "short": "HCL Bogdănești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 3/2021 privind aprobarea Devizului general actualizat, a indicatorilor tehnico-economici și finanțării de la bugetul local a cheltuielilor neeligibile aferente obiectivului de investiții „Reabilitarea și modernizarea Școlii Gimnaziale nr. 2 (local vechi + local nou), în localitatea Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/34382",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/34382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-30-2021",
+   "path": "local/suceava/bogdanesti/2021/30",
+   "short": "HCL Bogdănești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 30/2021 privind aprobarea numărului și cuantumului burselor aferente semestrului I al anului școlar 2021-2022, pentru elevii din învățământul preuniversitar de stat din comuna Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/46156",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/46156",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--bogdanesti-33-2021",
    "path": "local/suceava/bogdanesti/2021/33",
    "short": "HCL Bogdănești nr. 33/2021",
@@ -103,6 +403,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/46167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-4-2021",
+   "path": "local/suceava/bogdanesti/2021/4",
+   "short": "HCL Bogdănești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 4/2021 privind aprobarea Actelor adiționale de modificare și completarea a Actului constitutiv și a Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava, să voteze pentru alegerea Președintelui și a Consiliului director al Asociației, precum și împuternicirea Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava să semneze în Adunarea Generală a Asociației prin reprezentantul său legal, Președintele Asociației, în numele și pe seama comune Bogdănești, Actele adiționale de modificare și completare a Statutului Asociației de Dezvoltare Intercomunitară de Gestionare a Deșeurilor în Județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/34379",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/34379",
      "sha256": null
     }
    ]
@@ -258,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--bogdanesti-5-2021",
+   "path": "local/suceava/bogdanesti/2021/5",
+   "short": "HCL Bogdănești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 5/2021 privind aprobarea Planului de acțiuni sau lucrări de interes local, pentru anul 2021, ce vor fi efectuate de beneficiarii Legii 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/34383",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/34383",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--bogdanesti-50-2021",
    "path": "local/suceava/bogdanesti/2021/50",
    "short": "HCL Bogdănești nr. 50/2021",
@@ -298,6 +628,51 @@
      "from": "2021-12-23",
      "units": 1,
      "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/48101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-6-2021",
+   "path": "local/suceava/bogdanesti/2021/6",
+   "short": "HCL Bogdănești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 6/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/34384",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/34384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-7-2021",
+   "path": "local/suceava/bogdanesti/2021/7",
+   "short": "HCL Bogdănești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 7/2021 privind înregistrarea comunei Bogdănești în Sistemul Național Electronic de Plată online a taxelor și impozitelor utilizând cardul bancar (SNEP) și suportarea de către comuna Bogdănești a comisionului perceput de furnizorul de servicii selectat",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45892",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-8-2021",
+   "path": "local/suceava/bogdanesti/2021/8",
+   "short": "HCL Bogdănești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 8/2021",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/45893",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/45893",
      "sha256": null
     }
    ]

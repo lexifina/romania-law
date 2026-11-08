@@ -3,6 +3,171 @@
  "shard": "local/sibiu/loamnes/2020",
  "acts": [
   {
+   "slug": "hcl-sibiu--loamnes-1-2020",
+   "path": "local/sibiu/loamnes/2020/1",
+   "short": "HCL Loamneș nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 1/2020 privind modificarea punctului 8, referitor la taxa speciala de salubrizare, din Anexa nr. 7 la H.C.L nr.71/2019, privind stabilirea impozitelor si taxelor locale pentru anul 2020",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4625",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-10-2020",
+   "path": "local/sibiu/loamnes/2020/10",
+   "short": "HCL Loamneș nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 10/2020 privind mandatarea primarului comunei Loamnes ca reprezentant al comunei Loamnes in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara ,,ECO SIBIU” sa voteze pentru/impotriva aprobarii Actului Aditional nr. 8 la contractul de delegare prin concesiune a gestiunii activitatii de colectare si transport a deseurilor municipale in zona 1 Sibiu, nr. 277/05.08.2007",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4654",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-11-2020",
+   "path": "local/sibiu/loamnes/2020/11",
+   "short": "HCL Loamneș nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 11/2020 privind aprobarea contului de executie al bugetului local al Primariei Comunei Loamnes pentru trimestrul IV, anul 2019",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4655",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-13-2020",
+   "path": "local/sibiu/loamnes/2020/13",
+   "short": "HCL Loamneș nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 13/2020 privind aprobarea bugetului local de venituri si cheltuieli si a formularelor de fundamentare a finantarii programelor, programul de investitii publice pe grupe de investitii si surse de finantare ale comunei Loamnes pe anul 2020",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4657",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-14-2020",
+   "path": "local/sibiu/loamnes/2020/14",
+   "short": "HCL Loamneș nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 14/2020 privind aprobarea reorganizarii retelei scolare a unitatiilor de invatamant preuniversitar de stat, de pe raza teritoriala a comunei Loamnes pentru anul scolar 2020-2021",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4658",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-15-2020",
+   "path": "local/sibiu/loamnes/2020/15",
+   "short": "HCL Loamneș nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 15/2020 privind revocarea HCL Loamnes nr.66/2019",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4659",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-16-2020",
+   "path": "local/sibiu/loamnes/2020/16",
+   "short": "HCL Loamneș nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 16/2020 privind modificarea punctului 11, referitor la taxa speciala de salubrizare pentru imobile nelocuite sau locuite ocazional, din Anexa nr. 7 la H.C.L nr.71/2019, privind stabilirea impozitelor si taxelor locale pentru anul 2020",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4660",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-17-2020",
+   "path": "local/sibiu/loamnes/2020/17",
+   "short": "HCL Loamneș nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 17/2020 privind aprobarea planului de acțiuni sau de lucrări de interes local, pentru persoanele majore apte de muncă din familiile beneficiare de ajutor social pentru anul în curs, conform Legii nr. 416/2001",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4661",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-18-2020",
+   "path": "local/sibiu/loamnes/2020/18",
+   "short": "HCL Loamneș nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 18/2020 privind înființarea Serviciului Voluntar pentru Situaţii de Urgenţă al Comunei Loamneș, stabilirea criteriilor de performantă privind constituirea, încadrarea si dotarea SVSU si actualizarea Regulamentului acestuia",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4662",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-20-2020",
+   "path": "local/sibiu/loamnes/2020/20",
+   "short": "HCL Loamneș nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 20/2020 privind masuri aplicabile pe perioada instituirii starii de urgentaa ca urmare a suspendarii activitatii cabinetului stomatologic",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/5579",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/5579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-21-2020",
+   "path": "local/sibiu/loamnes/2020/21",
+   "short": "HCL Loamneș nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 21/2020 privind mandatarea primarului comunei Loamnes ca reprezentant al comunei Loamnmes in Adunarea generala a Asociatiei de Dezvoltare intercoomunitara Eco Sibiu sa voteze pentru aprobarea incheierii actului aditional nr. 1 la contractul de delegare a gestiunii activitatii de operare a Statiei de Sortare si a Statiei9 de Compostare Sura Mica si a Statiei de Sortare Cisnadie nr. 290/27.03.2019",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/5580",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/5580",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--loamnes-22-2020",
    "path": "local/sibiu/loamnes/2020/22",
    "short": "HCL Loamneș nr. 22/2020",
@@ -118,6 +283,21 @@
      "from": "2020-05-28",
      "units": 1,
      "source_url": "https://emol.ro/loamnes-sb/registru-hcl/8752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-3-2020",
+   "path": "local/sibiu/loamnes/2020/3",
+   "short": "HCL Loamneș nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 3/2020 privind aprobarea coeficientilor pentru stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului comunei Loamnes, incepand cu data de 01.01.2020",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4627",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4627",
      "sha256": null
     }
    ]
@@ -273,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--loamnes-4-2020",
+   "path": "local/sibiu/loamnes/2020/4",
+   "short": "HCL Loamneș nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 4/2020 privind completarea Anexei nr. 1 la HCL nr. 21/2016 privind apobarea Listei cuprinzand inventarul domeniului privat al comunei Loamnes",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4628",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4628",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--loamnes-40-2020",
    "path": "local/sibiu/loamnes/2020/40",
    "short": "HCL Loamneș nr. 40/2020",
@@ -298,6 +493,36 @@
      "from": "2020-07-30",
      "units": 1,
      "source_url": "https://emol.ro/loamnes-sb/registru-hcl/8793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-6-2020",
+   "path": "local/sibiu/loamnes/2020/6",
+   "short": "HCL Loamneș nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 6/2020 privind aprobarea acoperirii definitive din excedentul bugetului local, a deficitului secţiunilor de dezvoltare si de functionare pentru anul 2019",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4630",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--loamnes-7-2020",
+   "path": "local/sibiu/loamnes/2020/7",
+   "short": "HCL Loamneș nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Loamneș nr. 7/2020 privind aprobarea utilizarii unor sume din excedentul anilor precedenti pentru acoperirea golurilor temporare de casa ale secţiunii de functionare",
+   "url": "https://emol.ro/loamnes-sb/registru-hcl/4631",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/loamnes-sb/registru-hcl/4631",
      "sha256": null
     }
    ]

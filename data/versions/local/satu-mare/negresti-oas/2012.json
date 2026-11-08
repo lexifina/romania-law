@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/satu-mare/negresti-oas/2012",
+ "acts": [
+  {
+   "slug": "hcl-satu-mare--negresti-oas-37-2012",
+   "path": "local/satu-mare/negresti-oas/2012/37",
+   "short": "HCL Negrești-Oaș nr. 37/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Negrești-Oaș nr. 37/2012 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării finale a managementului aplicat la instituţia de cultură Muzeul Tării Oaşului Negreşti Oaş şi componenţa comisiei de evaluare constituită în acest scop",
+   "url": "https://www.negresti-oas.ro/administratia/consiliul-local/hotarari-2/hotarari/",
+   "versions": [
+    {
+     "from": "2012-07-16",
+     "units": 1,
+     "source_url": "https://www.negresti-oas.ro/wp-content/uploads/hotarari/HCL37.doc",
+     "sha256": "5de5cd0c6da6b4053dbb9aa32a80e2925cf6f926f16b80607599c9512cf862ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--negresti-oas-60-2012",
+   "path": "local/satu-mare/negresti-oas/2012/60",
+   "short": "HCL Negrești-Oaș nr. 60/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Negrești-Oaș nr. 60/2012 privind aprobarea Planului de creștere al tarifelor și acordarea unui mandat special reprezentatului Consiliului Local Negrești Oaș în Adunarea Generală a Asociației de dezvoltare intercomunitară pentru servicii în sectorul de apă și apă uzată din județul Satu Mare",
+   "url": "https://www.negresti-oas.ro/administratia/consiliul-local/hotarari-2/hotarari/",
+   "versions": [
+    {
+     "from": "2012-07-16",
+     "units": 1,
+     "source_url": "https://www.negresti-oas.ro/wp-content/uploads/hotarari/60-2012.doc",
+     "sha256": "1568c18c1268a03ac65b5bf7fc29f9bda4e90e9b6ee408c4a69d49e3e0d3e032"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--negresti-oas-67-2012",
+   "path": "local/satu-mare/negresti-oas/2012/67",
+   "short": "HCL Negrești-Oaș nr. 67/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Negrești-Oaș nr. 67/2012 privind modificarea Hotararii Consiliului local nr. 60/2012 privind aprobarea Planului de creștere al tarifelor și acordarea unui mandat special reprezentatului Consiliului Local Negrești Oaș în Adunarea Generală a Asociației de dezvoltare intercomunitară pentru servicii în se",
+   "url": "https://www.negresti-oas.ro/administratia/consiliul-local/hotarari-2/hotarari/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.negresti-oas.ro/wp-content/uploads/hotarari/67-2012.doc",
+     "sha256": "242a58457cddd9ccafa2ee4860cdc70c46f0af5a32584ba099be5647e9d60a1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--negresti-oas-69-2012",
+   "path": "local/satu-mare/negresti-oas/2012/69",
+   "short": "HCL Negrești-Oaș nr. 69/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Negrești-Oaș nr. 69/2012 privind transmiterea catre Inspectoratul de Jandarmi Judetean „Gl.de gb.Ioniţă Borşan” Satu Mare a unui spatiu necesar functionarii „Grupei de jandarmi Supraveghere şi ordine publica Negresti Oas”",
+   "url": "https://www.negresti-oas.ro/administratia/consiliul-local/hotarari-2/hotarari/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.negresti-oas.ro/wp-content/uploads/hotarari/69-2012.doc",
+     "sha256": "78169528983adf27585f28db1909543343257cf87be21c5a0117a3cb772c29f3"
+    }
+   ]
+  }
+ ]
+}

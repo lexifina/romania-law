@@ -3,6 +3,516 @@
  "shard": "local/sibiu/brateiu/2022",
  "acts": [
   {
+   "slug": "hcl-sibiu--brateiu-1-2022",
+   "path": "local/sibiu/brateiu/2022/1",
+   "short": "HCL Brateiu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 1/2022 privind aprobarea acoperirii definitive din excedentul bugetului local al anului precedent a deficitului sectiunii de functionare",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63858",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-10-2022",
+   "path": "local/sibiu/brateiu/2022/10",
+   "short": "HCL Brateiu nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 10/2022 privind aprobarea aderării de noi membri, modificării Statutului Asociației de Dezvoltare Intercomunitară de utilități publice pentru serviciul de transport public local prin curse regulate ”NORD TRANS”, precum și a Statutului actualizat al Asociației",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63896",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-12-2022",
+   "path": "local/sibiu/brateiu/2022/12",
+   "short": "HCL Brateiu nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 12/2022 privind aprobarea burselor pentru elevii școlii gimnaziale Brateiu pe semestrul II anul școlar 2021-2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63898",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-13-2022",
+   "path": "local/sibiu/brateiu/2022/13",
+   "short": "HCL Brateiu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 13/2022 privind aprobarea Rețelei școlare a unităților de învățământ preuniversitar de stat cu personalitate juridica de pe raza teritoriala a comunei Brateiu, județul Sibiu pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63899",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-14-2022",
+   "path": "local/sibiu/brateiu/2022/14",
+   "short": "HCL Brateiu nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 14/2022 privind alegerea președintelui de ședință pe următoarele 3 luni",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63900",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-15-2022",
+   "path": "local/sibiu/brateiu/2022/15",
+   "short": "HCL Brateiu nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 15/2022 privind constituirea Asociației de Dezvoltare Intercomunitară „MEDIAS - ZONĂ METROPOLITANĂ”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63901",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-16-2022",
+   "path": "local/sibiu/brateiu/2022/16",
+   "short": "HCL Brateiu nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 16/2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63902",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-17-2022",
+   "path": "local/sibiu/brateiu/2022/17",
+   "short": "HCL Brateiu nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 17/2022 privind radierea dreptului de folosință a Ministerului Învățământului Public în favoarea domeniului public al comunei Brateiu",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63903",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-18-2022",
+   "path": "local/sibiu/brateiu/2022/18",
+   "short": "HCL Brateiu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 18/2022 privind aprobarea Planului de analiza și acoperire a riscurilor pentru comuna Brateiu",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65594",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-19-2022",
+   "path": "local/sibiu/brateiu/2022/19",
+   "short": "HCL Brateiu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 19/2022 privind acordarea unui mandat special în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Apa Târnavei Mari în vederea exercitării votului",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65595",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-20-2022",
+   "path": "local/sibiu/brateiu/2022/20",
+   "short": "HCL Brateiu nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 20/2022 privind aprobarea Cererii de finanțare, caracteristicile indicatorilor tehnico-economici și devizului general pentru obiectivul de investiții ”ÎNFIINȚARE DISTRIBUȚIE GAZE NATURALE ÎN LOCALITATEA BUZD, COMUNA BRATEIU”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65596",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-21-2022",
+   "path": "local/sibiu/brateiu/2022/21",
+   "short": "HCL Brateiu nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 21/2022 privind aprobarea participării comunei Brateiu prin Asociația de Dezvoltare Intercomunitară de utilități publice pentru serviciul public local prin curse regulate ”NORD TRANS”, la programul de finanțare 1.1.1. Înnoirea parcului de vehicule destinate transportului public (achiziția de vehicule nepoluante) în cadrul Planului Național de Redresare și Reziliență, Componenta C10 - Fondul Local",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65597",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-22-2022",
+   "path": "local/sibiu/brateiu/2022/22",
+   "short": "HCL Brateiu nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 22/2022 privind aprobarea proiectului ”Acces la finanțare pentru comuna Brateiu, sat Buzd”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65598",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-23-2022",
+   "path": "local/sibiu/brateiu/2022/23",
+   "short": "HCL Brateiu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 23/2022 privind rectificarea de buget pe trimestrul II anul 2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65599",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-24-2022",
+   "path": "local/sibiu/brateiu/2022/24",
+   "short": "HCL Brateiu nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 24/2022 privind implementarea proiectului „REABILITARE ȘI MODERNIZARE CLĂDIRE DISPENSAR BUZD ÎN SCOPUL ÎNFIINȚĂRII UNUI CENTRU MULTIFUNCȚIONAL” DE ASISTENTA COMUNITARA prin actualizarea bugetului aprobat conform HCL nr. 19/2018",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65600",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-25-2022",
+   "path": "local/sibiu/brateiu/2022/25",
+   "short": "HCL Brateiu nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 25/2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65601",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-26-2022",
+   "path": "local/sibiu/brateiu/2022/26",
+   "short": "HCL Brateiu nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 26/2022 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale pe anul 2023",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65602",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-27-2022",
+   "path": "local/sibiu/brateiu/2022/27",
+   "short": "HCL Brateiu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 27/2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65603",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-28-2022",
+   "path": "local/sibiu/brateiu/2022/28",
+   "short": "HCL Brateiu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 28/2022 privind rectificarea de buget pe trimestrul II anul 2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65604",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-29-2022",
+   "path": "local/sibiu/brateiu/2022/29",
+   "short": "HCL Brateiu nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 29/2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65605",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-3-2022",
+   "path": "local/sibiu/brateiu/2022/3",
+   "short": "HCL Brateiu nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 3/2022 privind aprobarea Planului de acțiuni/lucrări de interes local pe anul 2022 pentru repartizarea orelor de muncă prestate lunar de către persoanele majore apte de muncă din familia beneficiară de ajutor social, în conformitate cu prevederile Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63860",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-30-2022",
+   "path": "local/sibiu/brateiu/2022/30",
+   "short": "HCL Brateiu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 30/2022 privind aprobarea Organigramei și a Statului de funcții pentru aparatul de specialitate al Primarului Comunei Brateiu",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/65606",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/65606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-32-2022",
+   "path": "local/sibiu/brateiu/2022/32",
+   "short": "HCL Brateiu nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 32/2022 privind aprobarea regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Brateiu",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76328",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-33-2022",
+   "path": "local/sibiu/brateiu/2022/33",
+   "short": "HCL Brateiu nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 33/2022 privind rectificarea de buget pe trimestrul III anul 2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76329",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-34-2022",
+   "path": "local/sibiu/brateiu/2022/34",
+   "short": "HCL Brateiu nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 34/2022 privind aprobarea studiului de fezabilitate/ documentație de avizare a lucrărilor intervenții, a indicatorilor tehnico-economici actualizați și a devizului general/ devizul general actualizat pentru obiectivul de investiții ''Modernizarea Infrastructurii rutiere în comuna Brateiu sat Brateiu Județul Sibiu ''aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny ''precum și a sumei reprezentănd categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76330",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-35-2022",
+   "path": "local/sibiu/brateiu/2022/35",
+   "short": "HCL Brateiu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 35/2022 privind aprobarea ajustării prețului contractului de achiziție publică de lucrări a obiectivului de investiții ''Modernizarea străzi în comuna Brateiu județul Sibiu ''și aprobarea Actului adițional nr.4 la Contractul de lucrărinr. 1983/TGA885/2019 încheiat între SC TRANS GRUP AGAPIA SRL și Comuna Brateiu",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76331",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-36-2022",
+   "path": "local/sibiu/brateiu/2022/36",
+   "short": "HCL Brateiu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 36/2022 privind aprobarea ajustării prețului contractului de achiziție publică de lucrări a obiectivului de investiții ''ALIMENTARE CU APĂ ȘI CONSTRUCȚIE SISTEM DE CANALIZARE APE UZATE MENAJERE A SATULUI BRATEIU COM. BRATEIU JUDEȚUL SIBIU '' și aprobarea actului adițional nr.8 la contractul de lucrări nr. 682/21015 încheiat între SC. DUAL.DISTRICON SRL și Comuna Brateiu",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76332",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-37-2022",
+   "path": "local/sibiu/brateiu/2022/37",
+   "short": "HCL Brateiu nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 37/2022 privind aprobarea regulamentului privind promovarea acțiunilor avănd ca obiect transformarea amenzilor contravenționale în muncă neremunerată în folosul comunității",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76333",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-38-2022",
+   "path": "local/sibiu/brateiu/2022/38",
+   "short": "HCL Brateiu nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 38/2022 privind punerea la dispoziția ''Proiect regional de dezvoltare a infrastructurii de apă și apă uzată în regiunile Mediaș, Agnita și Dumbrăveni, județul Sibiu'' a terenului pentru construcția/extinderea/ reabilitarea noilor investiții aferente acesteia",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76334",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-39-2022",
+   "path": "local/sibiu/brateiu/2022/39",
+   "short": "HCL Brateiu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 39/2022 privind predarea către Ministerul Dezvoltării Lucrărilor Publice și Admnistrației prin Compania Națională de Investiții ''C.N.I ''S.A a amplasamentului și asigurarea condițiilor în vederea executării obiectivului de investiții Proiect tip -Construire ''Sală de sport ''din comuna Brateiu, sat Brateiu județul Sibiu ''",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76335",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-4-2022",
+   "path": "local/sibiu/brateiu/2022/4",
+   "short": "HCL Brateiu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 4/2022 privind aprobarea bugetului local și a Listei de investiții al comunei Brateiu pe anul 2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63861",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-40-2022",
+   "path": "local/sibiu/brateiu/2022/40",
+   "short": "HCL Brateiu nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 40/2022 privind rectificarea bugetului local pe TRIM III anul 2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76336",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-41-2022",
+   "path": "local/sibiu/brateiu/2022/41",
+   "short": "HCL Brateiu nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 41/2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76337",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-42-2022",
+   "path": "local/sibiu/brateiu/2022/42",
+   "short": "HCL Brateiu nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 42/2022 privind alegerea președintelui de ședință pe următoarele 3 luni",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/76338",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/76338",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--brateiu-43-2022",
    "path": "local/sibiu/brateiu/2022/43",
    "short": "HCL Brateiu nr. 43/2022",
@@ -103,6 +613,21 @@
      "from": "2022-11-22",
      "units": 1,
      "source_url": "https://emol.ro/brateiu-sb/registru-hcl/80429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-5-2022",
+   "path": "local/sibiu/brateiu/2022/5",
+   "short": "HCL Brateiu nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 5/2022 privind stabilirea salariilor de baza aferente funcțiilor din cadrul familiei ocupaționale ”Administrație” utilizate în aparatul de specialitate al primarului comunei Brateiu pentru anul 2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63862",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63862",
      "sha256": null
     }
    ]
@@ -298,6 +823,36 @@
      "from": "2023-02-13",
      "units": 1,
      "source_url": "https://emol.ro/brateiu-sb/registru-hcl/90061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-7-2022",
+   "path": "local/sibiu/brateiu/2022/7",
+   "short": "HCL Brateiu nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 7/2022 privind rectificarea de buget pe trimestrul I anul 2022",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63893",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--brateiu-8-2022",
+   "path": "local/sibiu/brateiu/2022/8",
+   "short": "HCL Brateiu nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Brateiu nr. 8/2022 privind aprobarea cotizației Asociației de Dezvoltare Intercomunitara de utilități publice pentru serviciul de transport public local prin curse regulate ”NORD TRANS”",
+   "url": "https://emol.ro/brateiu-sb/registru-hcl/63894",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/brateiu-sb/registru-hcl/63894",
      "sha256": null
     }
    ]

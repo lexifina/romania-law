@@ -3,6 +3,96 @@
  "shard": "local/suceava/bogdanesti/2023",
  "acts": [
   {
+   "slug": "hcl-suceava--bogdanesti-1-2023",
+   "path": "local/suceava/bogdanesti/2023/1",
+   "short": "HCL Bogdănești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 1/2023 privind aprobare ''Actualizare Plan Urbanistic General și Regulament Local de Urbanism al comunei Bogdănești, județul Suceava''",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/100075",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/100075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-18-2023",
+   "path": "local/suceava/bogdanesti/2023/18",
+   "short": "HCL Bogdănești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 18/2023 privind aprobarea contului de execuție bugetară la 31 martie 2023",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/112988",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/112988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-19-2023",
+   "path": "local/suceava/bogdanesti/2023/19",
+   "short": "HCL Bogdănești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 19/2023 privind aprobarea \"Planului de analiză și acoperire a riscurilor\" al comunei Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/112989",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/112989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-25-2023",
+   "path": "local/suceava/bogdanesti/2023/25",
+   "short": "HCL Bogdănești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 25/2023 privind stabilirea unor măsuri pentru delegarea gestiunii activității de colectare și transport a deșeurilor municipale, inclusiv operarea stațiilor de transfer și a centrelor de colectare cu aport voluntar în Județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/113571",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/113571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-34-2023",
+   "path": "local/suceava/bogdanesti/2023/34",
+   "short": "HCL Bogdănești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 34/2023 privind atribuirea de denumiri străzilor din comuna Bogdănești, județul Suceava",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/138779",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/138779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--bogdanesti-39-2023",
+   "path": "local/suceava/bogdanesti/2023/39",
+   "short": "HCL Bogdănești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdănești nr. 39/2023 privind aprobarea înființării Serviciului de iluminat public, fără personalitate juridică și a delegării gestiunii prin concesiune a Serviciului de iluminat public al comunei Bogdănești, județul Suceava, a Studiului de fundamentare a deciziei de delegare a Serviciului de iluminat public al comunei Bogdănești, Județul Suceava, a Regulamentului de organizare și funcționare al Serviciului de iluminat public, a Caietului de Sarcini,",
+   "url": "https://emol.ro/bogdanesti-sv/registru-hcl/138784",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanesti-sv/registru-hcl/138784",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--bogdanesti-48-2023",
    "path": "local/suceava/bogdanesti/2023/48",
    "short": "HCL Bogdănești nr. 48/2023",

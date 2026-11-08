@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-satu-mare--negresti-oas-36-2013",
+"path": "local/satu-mare/negresti-oas/2013/36",
+"kind": "local",
+"year": "2013",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Negrești-Oaș nr. 36/2013 privind stabilirea criteriilor de acces in Centrul de Afaceri al orasului Negresti Oas",
+"short": "HCL Negrești-Oaș nr. 36/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-05-24",
+"latest": "2013-05-24",
+"portal": "https://www.negresti-oas.ro/administratia/consiliul-local/hotarari-2/hotarari-2013/",
+"council": "satu-mare/negresti-oas",
+"council_name": "Consiliul Local al Orașului Negrești-Oaș",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }

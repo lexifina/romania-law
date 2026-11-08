@@ -3,6 +3,96 @@
  "shard": "local/suceava/carlibaba/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--carlibaba-1-2024",
+   "path": "local/suceava/carlibaba/2024/1",
+   "short": "HCL Cârlibaba nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 1/2024 privind validarea Dispoziției Primarului Comunei Cârlibaba nr.151/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Cârlibaba, județul Suceava pe anul 2023",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/137890",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/137890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-11-2024",
+   "path": "local/suceava/carlibaba/2024/11",
+   "short": "HCL Cârlibaba nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 11/2024 privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/150877",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/150877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-12-2024",
+   "path": "local/suceava/carlibaba/2024/12",
+   "short": "HCL Cârlibaba nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 12/2024 privind aprobarea Planului de acţiuni şi lucrări de interes local pe anul 2024, pentru repartizarea orelor de muncă către beneficiarii de venit minim de incluziune",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/150878",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/150878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-13-2024",
+   "path": "local/suceava/carlibaba/2024/13",
+   "short": "HCL Cârlibaba nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 13/2024 privind rectificarea bugetului local al comunei Cârlibaba pe anul 2024",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/150879",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/150879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-15-2024",
+   "path": "local/suceava/carlibaba/2024/15",
+   "short": "HCL Cârlibaba nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 15/2024 privind modificarea art. 1 al HCL Cârlibaba nr.32 din 3 noiembrie 2022 privind aprobarea atribuirii de denumiri de străzi pentru satele din comuna Cârlibaba, județul Suceava",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/150881",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/150881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-2-2024",
+   "path": "local/suceava/carlibaba/2024/2",
+   "short": "HCL Cârlibaba nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 2/2024 privind acoperirea definitivă a deficitului secțiunii de dezvoltare pe anul 2023",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/137891",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/137891",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--carlibaba-36-2024",
    "path": "local/suceava/carlibaba/2024/36",
    "short": "HCL Cârlibaba nr. 36/2024",
@@ -213,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--carlibaba-5-2024",
+   "path": "local/suceava/carlibaba/2024/5",
+   "short": "HCL Cârlibaba nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 5/2024 privind aprobarea procesului verbal de recepție lucrări de reparații la locuința proprietate de stat, de către chiriașul Faig Arnold-Daniel și compensarea contravalorii acestor lucrări în contul chiriei lunare",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/147702",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/147702",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--carlibaba-50-2024",
    "path": "local/suceava/carlibaba/2024/50",
    "short": "HCL Cârlibaba nr. 50/2024",
@@ -298,6 +403,51 @@
      "from": "2024-12-12",
      "units": 1,
      "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/192374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-7-2024",
+   "path": "local/suceava/carlibaba/2024/7",
+   "short": "HCL Cârlibaba nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 7/2024 privind aprobarea utilizării excedentului anual înregistrat la 31.12.2023",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/147704",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/147704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-8-2024",
+   "path": "local/suceava/carlibaba/2024/8",
+   "short": "HCL Cârlibaba nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 8/2024 privind aprobarea bugetului de venituri și cheltuieli pe anul 2024 al comunei Cârlibaba, județul Suceava",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/147705",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/147705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--carlibaba-9-2024",
+   "path": "local/suceava/carlibaba/2024/9",
+   "short": "HCL Cârlibaba nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cârlibaba nr. 9/2024 privind privind rectificarea bugetului local al comunei Cârlibaba pe anul 2024",
+   "url": "https://emol.ro/carlibaba-sv/registru-hcl/147706",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carlibaba-sv/registru-hcl/147706",
      "sha256": null
     }
    ]

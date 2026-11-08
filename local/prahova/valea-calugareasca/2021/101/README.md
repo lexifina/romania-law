@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Valea Călugărească nr. 101/2021 privind aprobarea participării în cadrul „Programului privind creşterea eficienţei energetice şi gestionarea inteligentă a energiei în clădirile publice”, asigurarea cofinanţării şi aprobarea documentaţiei tehnico-economice aferente proiectului „Eficientizare energetică a clădirii Şcoală Gimnazială din satul Rachieri, comuna Valea Călugărească, județul Prahova ’’
+
+HCL Valea Călugărească nr. 101/2021 · 1 versions, from 2021-10-08 (latest in force: 2021-10-08) · <https://emol.ro/valeacalugareasca-ph/registru-hcl/37556>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-prahova--valea-calugareasca-101-2021` (tags `hcl-prahova--valea-calugareasca-101-2021/<day>`; `python tools/on.py <day> hcl-prahova--valea-calugareasca-101-2021`).
+
+## Decisions made by hand
+
+- HCL Valea Călugărească nr. 101/2021: listed from Consiliul Local al Comunei Valea Călugărească (emol.ro); metadata only for now: no document of it is held.
+- HCL Valea Călugărească nr. 101/2021: dated from 8 October 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Valea Călugărească nr. 101/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

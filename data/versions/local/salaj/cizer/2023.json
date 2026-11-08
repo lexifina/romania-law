@@ -3,6 +3,606 @@
  "shard": "local/salaj/cizer/2023",
  "acts": [
   {
+   "slug": "hcl-salaj--cizer-1-2023",
+   "path": "local/salaj/cizer/2023/1",
+   "short": "HCL Cizer nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 1/2023 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din raza comunei Cizer pentru anul şcolar 2023-2024",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87904",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-10-2023",
+   "path": "local/salaj/cizer/2023/10",
+   "short": "HCL Cizer nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 10/2023 privind rectificarea bugetului local de venituri şi cheltuieli pe anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/91791",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/91791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-12-2023",
+   "path": "local/salaj/cizer/2023/12",
+   "short": "HCL Cizer nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 12/2023 privind aprobarea Regulilor şi măsurilor specifice de prevenire a situaţiilor de urgenţă corelate cu nivelul şi natura riscurilor locale",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/91793",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/91793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-13-2023",
+   "path": "local/salaj/cizer/2023/13",
+   "short": "HCL Cizer nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 13/2023 privind aprobarea implementării proiectului ,,Dotarea Serviciului Voluntar pentru Situaţii de Urgenţă - SVSU, al comunei Cizer, judeţul Sălaj \" prin achiziţia de echipamente",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/91794",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/91794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-14-2023",
+   "path": "local/salaj/cizer/2023/14",
+   "short": "HCL Cizer nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 14/2023 privind aprobarea Planului Local de acţiune privind incluziunea cetăţenilor români aparţinând minorităţii rome din Comuna Cizer, judeţul Sălaj pe perioada 2022-2027 şi înfiinţarea Grupului de Lucru Local",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97081",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-15-2023",
+   "path": "local/salaj/cizer/2023/15",
+   "short": "HCL Cizer nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 15/2023 privind aprobarea Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul comunei Cizer pentru activităti nonprofit de interes local",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97082",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-16-2023",
+   "path": "local/salaj/cizer/2023/16",
+   "short": "HCL Cizer nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 16/2023 privind aprobarea Regulamentului privind regimul finanţărilor nerambursabile din fondurile bugetului local ale comunei Cizer, alocate pentru activităţi nonprofit de interes local",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97083",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-17-2023",
+   "path": "local/salaj/cizer/2023/17",
+   "short": "HCL Cizer nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 17/2023 privind aprobarea Devizului general privind cheltuielile pentru obiectul ,, Lucrări de conformare la garaj pentru obţinerea autorizaţiei de securitate la incendiu pentru Grădiniţa din localitatea Cizer",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97084",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-18-2023",
+   "path": "local/salaj/cizer/2023/18",
+   "short": "HCL Cizer nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 18/2023 privind aprobarea modificării Organigramei şi a Statului de funcţii ale aparatului de specialitate a comunei Cizer",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97085",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-19-2023",
+   "path": "local/salaj/cizer/2023/19",
+   "short": "HCL Cizer nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 19/2023 privind aprobarea proiectului cu titlul „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE „HOREA” CIZER”",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97086",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-2-2023",
+   "path": "local/salaj/cizer/2023/2",
+   "short": "HCL Cizer nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 2/2023 privind validarea Dispoziţiilor primarului nr. 215 şi 216 /2022 privind rectificarea bugetului local pe anul 2022 şi a Dispoziţiei nr. 1 /2023 privind aprobarea acoperirii definitive a deficitului bugetar al secţiunii de dezvoltare pe anul 2022",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87905",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-20-2023",
+   "path": "local/salaj/cizer/2023/20",
+   "short": "HCL Cizer nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 20/2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97087",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-21-2023",
+   "path": "local/salaj/cizer/2023/21",
+   "short": "HCL Cizer nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 21/2023 privind aprobarea listei de dotări actualizate aferente proiectului \"MODERNIZARE ȘI DOTARE ȘCOALA GENERALĂ ”HOREA” LOCALITEA CIZER, COM. CIZER, JUDETUL SĂLAJ\"",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97088",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-22-2023",
+   "path": "local/salaj/cizer/2023/22",
+   "short": "HCL Cizer nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 22/2023 privind aprobarea listei de dotări actualizate aferente proiectului \"MODERNIZARE ȘI DOTARE GRĂDINIȚĂ, LOCALITATEA CIZER, COM. CIZER, JUDETUL SĂLAJ\"",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97089",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-23-2023",
+   "path": "local/salaj/cizer/2023/23",
+   "short": "HCL Cizer nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 23/2023 privind alegerea unui preşedinte de şedinţă de consiliul local pe următoarele trei luni",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/97090",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/97090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-24-2023",
+   "path": "local/salaj/cizer/2023/24",
+   "short": "HCL Cizer nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 24/2023 privind aprobarea depunerii proiectului ”HUB - Habitate Utile în Bibliotecile din județul Sălaj” spre finanțare în cadrul PNRR",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/100559",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/100559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-25-2023",
+   "path": "local/salaj/cizer/2023/25",
+   "short": "HCL Cizer nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 25/2023 privind indexarea impozitelor şi taxelor locale aplicabile în anul fiscal 2024 cu rata inflaţiei în procent de 13,8 %",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/100560",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/100560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-26-2023",
+   "path": "local/salaj/cizer/2023/26",
+   "short": "HCL Cizer nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 26/2023 privind rectificarea bugetului local al comunei Cizer pe anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/100561",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/100561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-27-2023",
+   "path": "local/salaj/cizer/2023/27",
+   "short": "HCL Cizer nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 27/2023 privind aprobarea participării Comunei CIZER, jud. Sălaj la Programul privind casarea autovehiculelor uzate, derulat în cofinanțare cu Administrația Fondului pentru Mediu;",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/102043",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/102043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-28-2023",
+   "path": "local/salaj/cizer/2023/28",
+   "short": "HCL Cizer nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 28/2023 privind aderarea UAT COMUNA CIZER la Parteneriatul LEADER GAL POARTA TRANSILVANIEI;",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/102044",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/102044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-29-2023",
+   "path": "local/salaj/cizer/2023/29",
+   "short": "HCL Cizer nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 29/2023 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul familiei ocupaţionale ,,Administraţie’’ din aparatul de specialitate al primarului comunei Cizer, jud. Sălaj",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/102045",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/102045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-3-2023",
+   "path": "local/salaj/cizer/2023/3",
+   "short": "HCL Cizer nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 3/2023 privind aprobarea contului de execuţie al bugetului local al comunei Cizer pe trimestrul IV 2022",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87906",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-30-2023",
+   "path": "local/salaj/cizer/2023/30",
+   "short": "HCL Cizer nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 30/2023 privind rectificarea bugetului local al comunei Cizer pe anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/107470",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/107470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-31-2023",
+   "path": "local/salaj/cizer/2023/31",
+   "short": "HCL Cizer nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 31/2023 privind validarea Dispoziţiei primarului nr. 102 din 15.05.2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/107471",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/107471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-32-2023",
+   "path": "local/salaj/cizer/2023/32",
+   "short": "HCL Cizer nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 32/2023 privind aprobarea contului de execuţie al bugetului local al Comunei Cizer pe trimestrul I 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/107472",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/107472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-33-2023",
+   "path": "local/salaj/cizer/2023/33",
+   "short": "HCL Cizer nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 33/2023 privind alegerea unui preşedinte de şedinţă de consiliul local pe următoarele trei luni",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/107473",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/107473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-34-2023",
+   "path": "local/salaj/cizer/2023/34",
+   "short": "HCL Cizer nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 34/2023 privind privind aprobarea proiectului ” Microbuze electrice pentru elevii din Sălaj” și încheierea acordului de parteneriat pentru depunerea acestuia spre finanțare în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/108656",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/108656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-35-2023",
+   "path": "local/salaj/cizer/2023/35",
+   "short": "HCL Cizer nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 35/2023 privind participarea la Programul \"Prima conectare la sistemul public de alimentare cu apă şi/sau de canalizare\" finantat din fondurile europene aferente Planului național de redresare și reziliență (PNRR), componenta C1-Managementul apei, investiția 3. Sprijinirea conectării populației cu venituri mici la rețelele de alimentare cu apă și canalizare existente",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/108657",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/108657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-36-2023",
+   "path": "local/salaj/cizer/2023/36",
+   "short": "HCL Cizer nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 36/2023 privind trecerea din domeniul public in domeniul privat al comunei Cizer, a unor imobile - construcţii - în vederea desfiinţării acestora",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/111986",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/111986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-37-2023",
+   "path": "local/salaj/cizer/2023/37",
+   "short": "HCL Cizer nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 37/2023 privind aprobarea documentaţiei tehnico-economice pentru investiţia ,,CONSTRUIRE SEDIU PRIMARIE\", UAT COMUNA CIZER",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/111987",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/111987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-38-2023",
+   "path": "local/salaj/cizer/2023/38",
+   "short": "HCL Cizer nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 38/2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/111988",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/111988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-4-2023",
+   "path": "local/salaj/cizer/2023/4",
+   "short": "HCL Cizer nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 4/2023 privind aprobarea inventarului domeniului public şi privat al comunei Cizer pentru anul 2022",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87907",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-40-2023",
+   "path": "local/salaj/cizer/2023/40",
+   "short": "HCL Cizer nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 40/2023 privind rectificarea bugetului local al comunei Cizer pe anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/118327",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/118327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-41-2023",
+   "path": "local/salaj/cizer/2023/41",
+   "short": "HCL Cizer nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 41/2023 privind validarea Dispoziţiei primarului nr. 143 din 19.07.2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/118328",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/118328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-42-2023",
+   "path": "local/salaj/cizer/2023/42",
+   "short": "HCL Cizer nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 42/2023 privind aprobarea contului de execuţie al bugetului local al Comunei Cizer pe trimestrul II 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/118329",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/118329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-49-2023",
+   "path": "local/salaj/cizer/2023/49",
+   "short": "HCL Cizer nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 49/2023 privind alegerea unui preşedinte de şedinţă de consiliul local pe următoarele trei luni",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/118336",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/118336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-5-2023",
+   "path": "local/salaj/cizer/2023/5",
+   "short": "HCL Cizer nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 5/2023 privind aprobarea încheierii unui contract de prestării servicii (execuţie coregrafică) şi mandatarea primarului în vederea semnării contractului",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87908",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-51-2023",
+   "path": "local/salaj/cizer/2023/51",
+   "short": "HCL Cizer nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 51/2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/122441",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/122441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-52-2023",
+   "path": "local/salaj/cizer/2023/52",
+   "short": "HCL Cizer nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 52/2023 privind validarea Dispoziţiei primarului nr. 183 din 05.09.2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/122442",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/122442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-57-2023",
+   "path": "local/salaj/cizer/2023/57",
+   "short": "HCL Cizer nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 57/2023 privind rectificarea bugetului local al comunei Cizer pe anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/122447",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/122447",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--cizer-58-2023",
    "path": "local/salaj/cizer/2023/58",
    "short": "HCL Cizer nr. 58/2023",
@@ -28,6 +628,21 @@
      "from": "2023-10-16",
      "units": 1,
      "source_url": "https://emol.ro/cizer-sj/registru-hcl/128442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-6-2023",
+   "path": "local/salaj/cizer/2023/6",
+   "short": "HCL Cizer nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 6/2023 privind aprobarea bugetului local de venituri şi cheltuieli al comunei Cizer pentru anul 2023",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87909",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87909",
      "sha256": null
     }
    ]
@@ -183,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--cizer-7-2023",
+   "path": "local/salaj/cizer/2023/7",
+   "short": "HCL Cizer nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 7/2023 privind alegerea unui preşedinte de şedinţă de consiliul local pe următoarele trei luni",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87910",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--cizer-70-2023",
    "path": "local/salaj/cizer/2023/70",
    "short": "HCL Cizer nr. 70/2023",
@@ -298,6 +928,36 @@
      "from": "2023-12-27",
      "units": 1,
      "source_url": "https://emol.ro/cizer-sj/registru-hcl/135365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-8-2023",
+   "path": "local/salaj/cizer/2023/8",
+   "short": "HCL Cizer nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 8/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"CONSTRUIRE POD PESTE VALEA CIZERULUI (CRASNA), ÎN LOCALITATEA PLESCA, COMUNA CIZER, JUDEȚUL SĂLAJ\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87911",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--cizer-9-2023",
+   "path": "local/salaj/cizer/2023/9",
+   "short": "HCL Cizer nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cizer nr. 9/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"REFACERE 2 PODURI PE DC 78, ÎN COMUNA CIZER, JUDEŢUL SĂLAJ\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cizer-sj/registru-hcl/87912",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/cizer-sj/registru-hcl/87912",
      "sha256": null
     }
    ]

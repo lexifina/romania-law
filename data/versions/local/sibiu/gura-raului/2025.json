@@ -3,6 +3,21 @@
  "shard": "local/sibiu/gura-raului/2025",
  "acts": [
   {
+   "slug": "hcl-sibiu--gura-raului-10-2025",
+   "path": "local/sibiu/gura-raului/2025/10",
+   "short": "HCL Gura Râului nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 10/2025 privind aprobarea cuantumului compensației în bani acordate voluntarilor pentru timpul efectiv de lucru prestart la intervenții și la celelalte activități prevăzute în programul Serviciului Voluntar pentru Situații de Urgență",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190922",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190922",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--gura-raului-101-2025",
    "path": "local/sibiu/gura-raului/2025/101",
    "short": "HCL Gura Râului nr. 101/2025",
@@ -133,6 +148,21 @@
      "from": "2026-04-24",
      "units": 1,
      "source_url": "https://emol.ro/guraraului-sb/registru-hcl/241485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-11-2025",
+   "path": "local/sibiu/gura-raului/2025/11",
+   "short": "HCL Gura Râului nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 11/2025 privind intabularea dreptului de proprietate asupra imobilului inscris in CF 117353 in suprafata de 1534 mp avand categoria de folosinta faneată, domeniul privat al Comunei Gura Raului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190923",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190923",
      "sha256": null
     }
    ]
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-sibiu--gura-raului-12-2025",
+   "path": "local/sibiu/gura-raului/2025/12",
+   "short": "HCL Gura Râului nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 12/2025 privind aprobarea Planului anual de acțiuni/ lucrări de interes local pe baza căruia beneficiarii de ajutor de incluziune vor efectua orele de muncă prevăzute de Legea nr. 196/2016 privind venitul minim de incluziune în anul 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190924",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190924",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--gura-raului-120-2025",
    "path": "local/sibiu/gura-raului/2025/120",
    "short": "HCL Gura Râului nr. 120/2025",
@@ -298,6 +343,921 @@
      "from": "2026-05-27",
      "units": 1,
      "source_url": "https://emol.ro/guraraului-sb/registru-hcl/244468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-13-2025",
+   "path": "local/sibiu/gura-raului/2025/13",
+   "short": "HCL Gura Râului nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 13/2025 privind însușirea Acordului cooperare pentru organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Sibiu a Asociației Comunelor din România",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190925",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-15-2025",
+   "path": "local/sibiu/gura-raului/2025/15",
+   "short": "HCL Gura Râului nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 15/2025 alegerea viceprimarului comunei Gura Raului, jud. Sibiu",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/197831",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/197831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-17-2025",
+   "path": "local/sibiu/gura-raului/2025/17",
+   "short": "HCL Gura Râului nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 17/2025 privind neasumarea responsabilități organizării și derulării la nivelul local a procedurilor de atribuire a contractelor/acodurilor - cadru pentru achiziția produselor și a serviciilor pentru derularea măsurilor educative la nivel de UAT Comuna Gura Râului prevăzute în cadrul Programului pentru școli al României, în anul școlar 2023-2029",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/197833",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/197833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-18-2025",
+   "path": "local/sibiu/gura-raului/2025/18",
+   "short": "HCL Gura Râului nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 18/2025 privind însușirea Acordului cooperare pentru organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Sibiu a Asociației Comunelor din România",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/197834",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/197834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-20-2025",
+   "path": "local/sibiu/gura-raului/2025/20",
+   "short": "HCL Gura Râului nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 20/2025 privind intabularea dreptului de proprietate asupra imobilului inscris in CF 118645 in suprafata de 784 mp avand categoria de folosinta ape curgatoare, domeniul public al Comunei Gura Raului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/197836",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/197836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-21-2025",
+   "path": "local/sibiu/gura-raului/2025/21",
+   "short": "HCL Gura Râului nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 21/2025 privind modificarea organigramei și a statului de funcţii pentru aparatul de specialitate al primarului comunei Gura Râului şi a serviciilor publice locale",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/197837",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/197837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-23-2025",
+   "path": "local/sibiu/gura-raului/2025/23",
+   "short": "HCL Gura Râului nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 23/2025 privind aprobarea bugetului de venituri si cheltuieli al comunei Gura Raului pe anul 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200169",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-25-2025",
+   "path": "local/sibiu/gura-raului/2025/25",
+   "short": "HCL Gura Râului nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 25/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200171",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-26-2025",
+   "path": "local/sibiu/gura-raului/2025/26",
+   "short": "HCL Gura Râului nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 26/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200172",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-27-2025",
+   "path": "local/sibiu/gura-raului/2025/27",
+   "short": "HCL Gura Râului nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 27/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200173",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-28-2025",
+   "path": "local/sibiu/gura-raului/2025/28",
+   "short": "HCL Gura Râului nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 28/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200174",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-29-2025",
+   "path": "local/sibiu/gura-raului/2025/29",
+   "short": "HCL Gura Râului nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 29/2025 privind aprobarea cuantumului compensației în bani acordate voluntarilor pentru timpul efectiv de lucru prestart la intervenții și la celelalte activități prevăzute în programul Serviciului Voluntar pentru Situații de Urgență",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200175",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-30-2025",
+   "path": "local/sibiu/gura-raului/2025/30",
+   "short": "HCL Gura Râului nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 30/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 116809 Gura Râului, cu nr. top 116809, în suprafață de 4067 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200176",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-31-2025",
+   "path": "local/sibiu/gura-raului/2025/31",
+   "short": "HCL Gura Râului nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 31/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 117094 Gura Râului, cu nr. top 117094, în suprafață de 23246 mp, situat administrativ în Comuna Gura Râulu",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200177",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-32-2025",
+   "path": "local/sibiu/gura-raului/2025/32",
+   "short": "HCL Gura Râului nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 32/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 119304 Gura Râului, cu nr. top 119304, în suprafață de 28357 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200178",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-33-2025",
+   "path": "local/sibiu/gura-raului/2025/33",
+   "short": "HCL Gura Râului nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 33/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului„Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200179",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-35-2025",
+   "path": "local/sibiu/gura-raului/2025/35",
+   "short": "HCL Gura Râului nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 35/2025 privind aprobarea participarii Comunei Gura Raului la Programul privind acordarea de sprijin in vederea achizitionarii de aparate pentru inalzirea locuintelor, pentru localitatile din zona montana sustinut de Ministerul Mediului, Apelor si Pădurilor",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/200181",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/200181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-37-2025",
+   "path": "local/sibiu/gura-raului/2025/37",
+   "short": "HCL Gura Râului nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 37/2025 privind validarea Dispoziției Primarului comunei Gura Râuluui nr. 32/2025 privind rectificarea bugetului de venituri și cheltuieli al comunei Gura Râului, pe anul 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/204568",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/204568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-38-2025",
+   "path": "local/sibiu/gura-raului/2025/38",
+   "short": "HCL Gura Râului nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 38/2025 privind aprobarea participarii Comunei Gura Raului la Programul pentru „Acordarea de servicii sociale şi dotări, pentru o cantină socială, cod 8899 CPDH I, cu o capacitate de 80 de persoane, in comuna Gura Raului, judetul Sibiu ”",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/204569",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/204569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-39-2025",
+   "path": "local/sibiu/gura-raului/2025/39",
+   "short": "HCL Gura Râului nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 39/2025 privind aprobarea Regulamentului de eliberare a autorizatiilor de functionare pentru personale fizice si juridice cu sediul sau punct de lucru pe raza comunei Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/204570",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/204570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-40-2025",
+   "path": "local/sibiu/gura-raului/2025/40",
+   "short": "HCL Gura Râului nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 40/2025 privind acordarea unui mandat special în vederea exercitării votului favorabil privind aprobarea modificarilor la Contractul de Delegare nr 9/15.05.2009 si aprobarea tarifelor pentru prestarea unor servicii conexe serviciilor de utilități publice cuprinse în actele aditionale care vor face parte integrantă din Contractul de Delegare a gestiunii serviciului de alimentare cu apă și canalizare nr. 9/15.05.2009",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/204571",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/204571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-44-2025",
+   "path": "local/sibiu/gura-raului/2025/44",
+   "short": "HCL Gura Râului nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 44/2025 privind aprobarea tipului de licitație, ca licitație publică cu oferte în plic închis, precum și prețurile de pornire a licitație pentru masa lemnoasă pe picior si masa lemnoasa fasonata la drum auto, cota agenți ecpnomici 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/209636",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/209636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-46-2025",
+   "path": "local/sibiu/gura-raului/2025/46",
+   "short": "HCL Gura Râului nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 46/2025 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Gura Raului pe anul 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/213468",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/213468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-47-2025",
+   "path": "local/sibiu/gura-raului/2025/47",
+   "short": "HCL Gura Râului nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 47/2025 privind modificaarea si completarea HCL nr. 74/2024 pentru aprobarea accesării schemei de ajutor de stat \"Silvo-mediu si clima\" aferent interventiei DR-07 \"Silvo-mediu si clima\" din cadrul PS PAC 2023-2027 de către Comuna Gura Râului, jud. Sibiu",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/213469",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/213469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-48-2025",
+   "path": "local/sibiu/gura-raului/2025/48",
+   "short": "HCL Gura Râului nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 48/2025 privind aprobarea tipului de licitație, ca licitație publică cu oferte în plic închis, precum și prețurile de pornire a licitație pentru masa lemnoasă pe picior, masa lemnoasa din confiscari si masa lemnoasa fasonata in platforma primara si depozit ML, cota agenți economici 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/213470",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/213470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-5-2025",
+   "path": "local/sibiu/gura-raului/2025/5",
+   "short": "HCL Gura Râului nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 5/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190917",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-50-2025",
+   "path": "local/sibiu/gura-raului/2025/50",
+   "short": "HCL Gura Râului nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 50/2025 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Gura Raului pe anul 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226758",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-51-2025",
+   "path": "local/sibiu/gura-raului/2025/51",
+   "short": "HCL Gura Râului nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 51/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226759",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-52-2025",
+   "path": "local/sibiu/gura-raului/2025/52",
+   "short": "HCL Gura Râului nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 52/2025 privind aprobarea dezmembrării imobilului teren intravilan înscris în CF 108526 Gura Râului, cu nr. top 108526, în suprafață de 10.293 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226760",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-53-2025",
+   "path": "local/sibiu/gura-raului/2025/53",
+   "short": "HCL Gura Râului nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 53/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 117128 Gura Râului, cu nr. top 117128, în suprafață de 27860 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226761",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-54-2025",
+   "path": "local/sibiu/gura-raului/2025/54",
+   "short": "HCL Gura Râului nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 54/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 119334 Gura Râului, cu nr. top 119334, în suprafață de 6020 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226762",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-56-2025",
+   "path": "local/sibiu/gura-raului/2025/56",
+   "short": "HCL Gura Râului nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 56/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226764",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-57-2025",
+   "path": "local/sibiu/gura-raului/2025/57",
+   "short": "HCL Gura Râului nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 57/2025 privind aprobarea Regulamentului de instituire si administrare a taxei speciale de salubrizare în Comuna Gura Raului, jud. Sibiu",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226765",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-58-2025",
+   "path": "local/sibiu/gura-raului/2025/58",
+   "short": "HCL Gura Râului nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 58/2025 privind aprobarea Regulamentului de acordare a materialului lemnos catre populatia comunei Gura Raului si aprobarea constituirii Comisiei de analiza si selectie a cererilor depuse de populatia comunei Gura Raului in vederea acordarii de material lemnos pentru consumul propriu (lemn de foc) destinat valorificarii",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226766",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-59-2025",
+   "path": "local/sibiu/gura-raului/2025/59",
+   "short": "HCL Gura Râului nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 59/2025 privind modificarea organigramei și a statului de funcţii pentru aparatul de specialitate al primarului comunei Gura Râului şi a serviciilor publice locale",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226767",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-6-2025",
+   "path": "local/sibiu/gura-raului/2025/6",
+   "short": "HCL Gura Râului nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 6/2025 privind aprobarea tipului de licitație, ca licitație publică cu oferte în plic închis, precum și prețurile de pornire a licitației pentru masa lemnoasă pe picior cota agenți economici pentru anul 2025, la RPL Ocolul Silvic Gura Râului RA",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190918",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-60-2025",
+   "path": "local/sibiu/gura-raului/2025/60",
+   "short": "HCL Gura Râului nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 60/2025 privind aprobarea încheierii de contracte de asistență juridică în vederea asigurării serviciilor de redactare, consultanţă, asistenţă juridică şi reprezentare în faţa instanţelor de judecată a intereselor comunei Gura Râului, județul Sibiu și ale autorităților administrației publice locale",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226768",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-63-2025",
+   "path": "local/sibiu/gura-raului/2025/63",
+   "short": "HCL Gura Râului nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 63/2025 pentru aprobarea Regulamentului privind modul de utilizare al autocarului de transport marca Volvo proprietatea comunei Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226771",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-65-2025",
+   "path": "local/sibiu/gura-raului/2025/65",
+   "short": "HCL Gura Râului nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 65/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226773",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-66-2025",
+   "path": "local/sibiu/gura-raului/2025/66",
+   "short": "HCL Gura Râului nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 66/2025 privind aprobarea unui împrumut de către RPL OCOLUL SILVIC GURA RÂULUI R către SC CENPELCO SRL cu suma de 70.000 lei pentru o perioada de maxim 24 luni",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226774",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-68-2025",
+   "path": "local/sibiu/gura-raului/2025/68",
+   "short": "HCL Gura Râului nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 68/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 116991 Gura Râului, cu nr. top 116991, în suprafață de 57.146 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226776",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-69-2025",
+   "path": "local/sibiu/gura-raului/2025/69",
+   "short": "HCL Gura Râului nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 69/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 111269 Gura Râului, cu nr. top 111269, în suprafață de 4555 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226777",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-7-2025",
+   "path": "local/sibiu/gura-raului/2025/7",
+   "short": "HCL Gura Râului nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 7/2025 privind aprobarea prețurilor pentru materialul lemnos pentru populație fasonat la cioată și fasonat la drum auto și preturile pentru lemn de foc din depozitul de material lemnos care include și transportul lemnului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190919",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-71-2025",
+   "path": "local/sibiu/gura-raului/2025/71",
+   "short": "HCL Gura Râului nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 71/2025 privind modificarea și completarea organigramei și statului de funcții ale aparatului de specialitate al Primarului comunei Gura Râului, prin desființarea Centrului Umanita și înființarea Compartimentului „Implementare Proiect Servicii Sociale Integrate SCI 2000” prin Programul - „Furnizare de servicii integrate în comunitățile rurale” - pe perioada determinată de 5 ani cu finanțare exclusivă din bugetul proiectului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/226779",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/226779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-75-2025",
+   "path": "local/sibiu/gura-raului/2025/75",
+   "short": "HCL Gura Râului nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 75/2025 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Gura Raului pe anul 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/231993",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/231993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-76-2025",
+   "path": "local/sibiu/gura-raului/2025/76",
+   "short": "HCL Gura Râului nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 76/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/231994",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/231994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-77-2025",
+   "path": "local/sibiu/gura-raului/2025/77",
+   "short": "HCL Gura Râului nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 77/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/231995",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/231995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-79-2025",
+   "path": "local/sibiu/gura-raului/2025/79",
+   "short": "HCL Gura Râului nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 79/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/231997",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/231997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-8-2025",
+   "path": "local/sibiu/gura-raului/2025/8",
+   "short": "HCL Gura Râului nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 8/2025 privind actualizarea componenţei Comitetului Local pentru Situaţii de Urgenţă al comunei Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190920",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-81-2025",
+   "path": "local/sibiu/gura-raului/2025/81",
+   "short": "HCL Gura Râului nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 81/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 114820 Gura Râului, cu nr. top 114820, în suprafață de 3550 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/231999",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/231999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-82-2025",
+   "path": "local/sibiu/gura-raului/2025/82",
+   "short": "HCL Gura Râului nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 82/2025 privind intabularea dreptului de proprietate și atestarea la domeniul privat al comunei asupra imobilului inscris in CF 113433 in suprafata de 438 mp avand categoria de folosință curți construcții",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/232000",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/232000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-84-2025",
+   "path": "local/sibiu/gura-raului/2025/84",
+   "short": "HCL Gura Râului nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 84/2025 privind aprobarea tarifelor de utilizare (închiriere) a autocarului aflat în proprietatea Comunei Gura Râului și a contractului-cadru aferent",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/232002",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/232002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-85-2025",
+   "path": "local/sibiu/gura-raului/2025/85",
+   "short": "HCL Gura Râului nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 85/2025 privind aprobarea normativelor proprii de cheltuieli ale Comunei Gura Râului, județul Sibiu, pe anul 2025 -2026",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/232003",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/232003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-86-2025",
+   "path": "local/sibiu/gura-raului/2025/86",
+   "short": "HCL Gura Râului nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 86/2025 privind aprobarea Studiului de fezabilitate, a Analizei cost-beneficiu și a indicatorilor tehnico-economici conform Devizului general pentru proiectul finanțat în cadrul Planului Național de Redresare și Reziliență – Componenta 10 – Fondul Local, Investiția I.1.3 „Asigurarea infrastructurii pentru transportul verde – puncte de reîncărcare vehicule electrice”",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/232004",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/232004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-87-2025",
+   "path": "local/sibiu/gura-raului/2025/87",
+   "short": "HCL Gura Râului nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 87/2025 privind aprobarea Proiectului Tehnic cu detalii de execuție și a documentației elaborate – faza DTAC, pentru obiectivul de investiții finanțat în cadrul Planului Național de Redresare și Reziliență – Componenta 10 – Fondul Local, componenta investitionala I.1.3 „Asigurarea infrastructurii pentru transportul verde – puncte de reîncărcare vehicule electrice”",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/232005",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/232005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-88-2025",
+   "path": "local/sibiu/gura-raului/2025/88",
+   "short": "HCL Gura Râului nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 88/2025 privind aprobarea Regulamentului-cadru privind achiziția de bunuri imobile în domeniul public sau privat al comunei Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/232006",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/232006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-89-2025",
+   "path": "local/sibiu/gura-raului/2025/89",
+   "short": "HCL Gura Râului nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 89/2025 privind aprobarea dezmembrării imobilului teren extravilan înscris în CF 110536 Gura Râului, cu nr. top 110536, în suprafață de 3027 mp, situat administrativ în Comuna Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/232007",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/232007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-9-2025",
+   "path": "local/sibiu/gura-raului/2025/9",
+   "short": "HCL Gura Râului nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 9/2025 privind acutalizarea Regulamentului de organizare și funcționare al Serviciului Voluntar pentru Situaţii de Urgenţă al Comunei Gura Râului",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/190921",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/190921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-90-2025",
+   "path": "local/sibiu/gura-raului/2025/90",
+   "short": "HCL Gura Râului nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 90/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/232008",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/232008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-92-2025",
+   "path": "local/sibiu/gura-raului/2025/92",
+   "short": "HCL Gura Râului nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 92/2025 privind aprobarea rectificării bugetului de venituri si cheltuieli al comunei Gura Raului pe anul 2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/238114",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/238114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--gura-raului-94-2025",
+   "path": "local/sibiu/gura-raului/2025/94",
+   "short": "HCL Gura Râului nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gura Râului nr. 94/2025",
+   "url": "https://emol.ro/guraraului-sb/registru-hcl/238116",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/guraraului-sb/registru-hcl/238116",
      "sha256": null
     }
    ]

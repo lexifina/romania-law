@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-salaj--simleu-silvaniei-37-2016",
+"path": "local/salaj/simleu-silvaniei/2016/37",
+"kind": "local",
+"year": "2016",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 37/2016 pentru modificarea Anexei la Hotărârea Consiliului Local nr. 24/2000 Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședința publică în data de 28 aprilie 2016; Având în vedere Expunerea de motive nr.5996/2016 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.5997/2016 al Biroului cadastru și Avizul Comisiei pentru amenajarea teritoriului și urbanism, administrarea dome",
+"short": "HCL Șimleu Silvaniei nr. 37/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-04-28",
+"latest": "2016-04-28",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2016/page/10/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-salaj--simleu-silvaniei-39-2016",
 "path": "local/salaj/simleu-silvaniei/2016/39",
 "kind": "local",
@@ -90,6 +112,28 @@
 "flags": {
 "annex_missing": true,
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-salaj--simleu-silvaniei-44-2016",
+"path": "local/salaj/simleu-silvaniei/2016/44",
+"kind": "local",
+"year": "2016",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 44/2016 privind modificarea Hotărârii Consiliului Local nr.37/28.04.2016 Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședința publică în data de 17 mai 2016; Având în vedere Expunerea de motive nr.7002/2016 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.7003/2016 al Biroului cadastru și Avizul Comisiei pentru amenajarea teritoriului și urbanism, administrarea domeniului p",
+"short": "HCL Șimleu Silvaniei nr. 44/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-05-17",
+"latest": "2016-05-17",
+"portal": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/vezi-arhiva-hotararilor-de-consiliu-local-simleu-silvaniei-din-perioada-2017-2020/hotarari-emise-de-consiliului-local-al-orasului-simleu-silvaniei-2016/page/10/",
+"council": "salaj/simleu-silvaniei",
+"council_name": "Consiliul Local al Orașului Șimleu Silvaniei",
+"flags": {
+"text_pending": "review"
 }
 },
 {

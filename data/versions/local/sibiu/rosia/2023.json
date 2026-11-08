@@ -3,6 +3,756 @@
  "shard": "local/sibiu/rosia/2023",
  "acts": [
   {
+   "slug": "hcl-sibiu--rosia-1-2023",
+   "path": "local/sibiu/rosia/2023/1",
+   "short": "HCL Roșia nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 1/2023 privind aprobarea planului de acţiuni şi lucrări de interes local ce urmează a fi executate de beneficiarii de ajutor social, pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99665",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-12-2023",
+   "path": "local/sibiu/rosia/2023/12",
+   "short": "HCL Roșia nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 12/2023 privind stabilirea coeficientilor de ierarhizare si salariilor de baza pentru functiile publice si contractuale din cadrul aparatului de specialitate al Primarului comunei Roşia, judetul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99690",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-14-2023",
+   "path": "local/sibiu/rosia/2023/14",
+   "short": "HCL Roșia nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 14/2023 privind aprobarea actualizării planului de analiză și acoperire a riscurilor (PAAR) pentru anul 2023, aferent UAT Roşia, jud. Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99692",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-15-2023",
+   "path": "local/sibiu/rosia/2023/15",
+   "short": "HCL Roșia nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 15/2023 privind implementarea proiectului „ Achizitie buldoexcavator in vederea dotarii Serviciului Voluntar pentru Situatii de Urgenta din cadrul UAT Comuna Roșia, Jud. Sibiu”",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99693",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-16-2023",
+   "path": "local/sibiu/rosia/2023/16",
+   "short": "HCL Roșia nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 16/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici si a Devizului General actualizat pentru obiectivul de investitii: “REABILITARE DRUMURI ÎN COMUNA ROŞIA, JUDEŢUL SIBIU”, aprobat pentru finantare prin Programul naţional de investiţii “Anghel Saligny”, precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99694",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-17-2023",
+   "path": "local/sibiu/rosia/2023/17",
+   "short": "HCL Roșia nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 17/2023 privind rectificarea bugetului local aprobat pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99695",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-18-2023",
+   "path": "local/sibiu/rosia/2023/18",
+   "short": "HCL Roșia nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 18/2023 privind alegerea presedintelui de sedinta pentru perioada MARTIE – MAI (2023)",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99696",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-19-2023",
+   "path": "local/sibiu/rosia/2023/19",
+   "short": "HCL Roșia nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 19/2023 privind aprobarea implementării proiectului „DOTARE CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREȘCOLAR ȘI PREUNIVERSITAR DIN COMUNA ROȘIA” și participarea la Planul Național de Redresare și Reziliență, Componenta C15: Educație",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99697",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-2-2023",
+   "path": "local/sibiu/rosia/2023/2",
+   "short": "HCL Roșia nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 2/2023 privind aprobarea contului de executie bugetară",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99666",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-20-2023",
+   "path": "local/sibiu/rosia/2023/20",
+   "short": "HCL Roșia nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 20/2023 privind aprobarea participarii Comunei Roşia in cadrul parteneriatului GAL Microregiunea Hartibaciu, pentru accesarea fondurilor PNDR 2023-2027, Axa Leader Masura 19 si submasurile aferente",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99698",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-27-2023",
+   "path": "local/sibiu/rosia/2023/27",
+   "short": "HCL Roșia nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 27/2023 privind aprobarea solicitarii de preluare temporară în administrare a unor sectoare de drum din DJ106S si DJ104G , proprietate publica a judetului Sibiu , situate pe raza comunei Rosia, in vederea realizarii unor lucrări de modernizare si intretinere a santurilor trotuarelor, zonelor verzi, rigolelor",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/104052",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/104052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-28-2023",
+   "path": "local/sibiu/rosia/2023/28",
+   "short": "HCL Roșia nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 28/2023 privind rectificarea bugetului local aprobat pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/104053",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/104053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-29-2023",
+   "path": "local/sibiu/rosia/2023/29",
+   "short": "HCL Roșia nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 29/2023 privind aprobarea documentației de dezmembrare a unui imobil - teren",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/104054",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/104054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-3-2023",
+   "path": "local/sibiu/rosia/2023/3",
+   "short": "HCL Roșia nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 3/2023 privind aprobarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99667",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-30-2023",
+   "path": "local/sibiu/rosia/2023/30",
+   "short": "HCL Roșia nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 30/2023 privind alipirea unor imobile - terenuri, aparținând domeniului privat al comunei Rosia, judetul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/104055",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/104055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-31-2023",
+   "path": "local/sibiu/rosia/2023/31",
+   "short": "HCL Roșia nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 31/2023 privind aprobarea tarifelor minime lunare de inchiriere a terenurilor si spațiilor cu alta destinație decat aceea de locuinta aflate in domeniul public/privat a comunei Roşia, pentru contracte incheiate in anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/104056",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/104056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-34-2023",
+   "path": "local/sibiu/rosia/2023/34",
+   "short": "HCL Roșia nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 34/2023 privind modificarea Hotărârii Consiliului Local Roșia nr. 70/18.10.2022 privind atestarea apartenenței la domeniul public al comunei a unor taluzuri, parauri, drumuri sătești, canale , constructii în comuna Roşia, județul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/104059",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/104059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-35-2023",
+   "path": "local/sibiu/rosia/2023/35",
+   "short": "HCL Roșia nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 35/2023 privind aprobarea cuantumului cotizației pentru anul 2023 către Asociația de Dezvoltare Intercomunitară \"Transport Metropolitan Sibiu\", de către comuna Roşia, în calitate de membră a Asociației",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/108149",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/108149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-38-2023",
+   "path": "local/sibiu/rosia/2023/38",
+   "short": "HCL Roșia nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 38/2023 privind delegarea, către Unitatea Administrativ Teritorială - Județul Sibiu, a dreptului de depunere a aplicației de finanțare aferentă proiectului „Microbuze școlare electrice în județul Sibiu” gestionat de Ministerul Educației, în cadrul apelului de proiecte PNRR/2023/C15/EDUCATIE/I.10",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/108152",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/108152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-39-2023",
+   "path": "local/sibiu/rosia/2023/39",
+   "short": "HCL Roșia nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 39/2023 privind alegerea presedintelui de sedinta pentru perioada IUNIE – AUGUST (2023)",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/111807",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/111807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-4-2023",
+   "path": "local/sibiu/rosia/2023/4",
+   "short": "HCL Roșia nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 4/2023 privind aprobarea bugetului de venituri şi cheltuieli pentru Ocolul Silvic “Clăbucet“ în anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99668",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-40-2023",
+   "path": "local/sibiu/rosia/2023/40",
+   "short": "HCL Roșia nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 40/2023 privind mandatarea primarului comunei Roşia ca reprezentant al Comunei Roşia în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze “pentru” sau “împotriva” aprobării modificării tarifului de depozitare",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/111808",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/111808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-41-2023",
+   "path": "local/sibiu/rosia/2023/41",
+   "short": "HCL Roșia nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 41/2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/111809",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/111809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-42-2023",
+   "path": "local/sibiu/rosia/2023/42",
+   "short": "HCL Roșia nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 42/2023 privind modificarea si completarea, in conformitate cu prevederile Ordinului nr. 163/2023 a Autoritatii Naționale pentru protecția drepturilor persoanelor cu dizabilități, a Hotararii Consiliului Local Rosia nr. 57/2021 referitoare la aprobarea Regulamentului privind implementarea si eliberarea formatului unic al modelului card-legitimatie de parcare pentru persoanele cu handicap de pe raza comunei Rosia , judetul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/111810",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/111810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-44-2023",
+   "path": "local/sibiu/rosia/2023/44",
+   "short": "HCL Roșia nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 44/2023 privind aprobarea implementării proiectului „MODERNIZARE ŞCOALĂ CAŞOLŢ” și participarea la Planul Național de Redresare și Reziliență, Componenta C15: Educație",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/111812",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/111812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-45-2023",
+   "path": "local/sibiu/rosia/2023/45",
+   "short": "HCL Roșia nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 45/2023 privind rectificarea bugetului local aprobat pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/111813",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/111813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-48-2023",
+   "path": "local/sibiu/rosia/2023/48",
+   "short": "HCL Roșia nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 48/2023 privind modificarea si completarea Hotararii Consiliului Local Roşia nr.15/2023 privind implementarea proiectului „ Achizitie buldoexcavator in vederea dotarii Serviciului Voluntar pentru Situatii de Urgenta din cadrul UAT Comuna Roșia, Jud. Sibiu”",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121498",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-49-2023",
+   "path": "local/sibiu/rosia/2023/49",
+   "short": "HCL Roșia nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 49/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici si a Devizului General actualizat pentru obiectivul de investitii: “REABILITARE DRUMURI ÎN COMUNA ROŞIA, JUDEŢUL SIBIU”, aprobat pentru finantare prin Programul naţional de investiţii “Anghel Saligny”, precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121516",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-5-2023",
+   "path": "local/sibiu/rosia/2023/5",
+   "short": "HCL Roșia nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 5/2023 privind stabilirea preţului de referinta a masei lemnoase a comunei Roşia, judeţul Sibiu, pentru anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99669",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-50-2023",
+   "path": "local/sibiu/rosia/2023/50",
+   "short": "HCL Roșia nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 50/2023 privind aprobarea planului de evoluție al tarifelor, a documentației tehnico-economice, a devizului general, a indicatorilor tehnico-economici pentru proiectul „Recipiente de colectare a deșeurilor”",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121517",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-51-2023",
+   "path": "local/sibiu/rosia/2023/51",
+   "short": "HCL Roșia nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 51/2023 privind aprobarea Contractului de Asociere actualizat, și a Actului cadru de atribuire pentru proiectele „Sistem de Management Integrat al Deșeurilor în Județul Sibiu” și “Investiții complementare Sistemului de Management Integrat al Deșeurilor în Județul Sibiu”",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121518",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-52-2023",
+   "path": "local/sibiu/rosia/2023/52",
+   "short": "HCL Roșia nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 52/2023 privind încheierea contractelor de asistență juridică în vederea asigurării reprezentării juridice specializate în procesele pendinte la instanțele de judecată și a introducerii unor acțiuni pe rolul acestora",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121519",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-54-2023",
+   "path": "local/sibiu/rosia/2023/54",
+   "short": "HCL Roșia nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 54/2023 privind aprobarea Planului urbanistic zonal si Regulament Local de urbanism aferent pentru lucrarea “CONSTRUIRE A 6-12 CASE DE VACANŢĂ” în sat Daia, comuna Roşia, judeţul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121533",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-55-2023",
+   "path": "local/sibiu/rosia/2023/55",
+   "short": "HCL Roșia nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 55/2023 privind aprobarea Planului urbanistic zonal si Regulament Local de urbanism aferent pentru lucrarea “CONSTRUIRE LOCUINŢA UNIFAMILIALĂ ORGANIZARE SE ŞANTIER, ÎMPREJMUIRE TEREN ŞI BRANŞAMENTE UTILITĂŢI COMUNA ROŞIA, SAT DAIA, JUDEŢUL SIBIU”",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121534",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-56-2023",
+   "path": "local/sibiu/rosia/2023/56",
+   "short": "HCL Roșia nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 56/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative prevăzute de Programul pentru școli al României",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121535",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-58-2023",
+   "path": "local/sibiu/rosia/2023/58",
+   "short": "HCL Roșia nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 58/2023 privind rectificarea bugetului local aprobat pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121537",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-6-2023",
+   "path": "local/sibiu/rosia/2023/6",
+   "short": "HCL Roșia nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 6/2023 privind aprobarea “Planului de actiune privind domeniul energetic si adaptarea la schimbarile climaterice” al Comunei Rosia, judetul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99670",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-60-2023",
+   "path": "local/sibiu/rosia/2023/60",
+   "short": "HCL Roșia nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 60/2023 privind mandatarea primarului Comunei Roşia ca reprezentant al Comunei Roşia în Adunarea Generală a Asociației de Dezvoltare Intercomunitară “ECO” Sibiu să voteze “pentru” sau “împotriva” aprobării ajustării tarifelor activității de sortare, compostare și transfer a Stației de Sortare si a Stației de Compostare Șura Mică și a Stației de Sortare Cisnădie",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121539",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-62-2023",
+   "path": "local/sibiu/rosia/2023/62",
+   "short": "HCL Roșia nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 62/2023 privind stabilirea preţului de vȃnzare a masei lemnoase ( lemn de foc) , volum total 60 mc, catre Scoala Gimnaziala cu clasele I-VIII din comuna Rosia, judetul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121541",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-63-2023",
+   "path": "local/sibiu/rosia/2023/63",
+   "short": "HCL Roșia nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 63/2023 privind aprobarea memoriului tehnic, a devizului general, a indicatorilor tehnico-economici și a planului anual de evoluție a tarifelor pentru proiectul „Recipiente de colectare a deșeurilor”",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121573",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-64-2023",
+   "path": "local/sibiu/rosia/2023/64",
+   "short": "HCL Roșia nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 64/2023 privind aprobarea documentației de dezmembrare a unui imobil - teren",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/121574",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/121574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-65-2023",
+   "path": "local/sibiu/rosia/2023/65",
+   "short": "HCL Roșia nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 65/2023 privind alegerea presedintelui de sedinta pentru perioada SEPTEMBRIE-NOIEMBRIE (2023)",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/124828",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/124828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-66-2023",
+   "path": "local/sibiu/rosia/2023/66",
+   "short": "HCL Roșia nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 66/2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/124829",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/124829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-67-2023",
+   "path": "local/sibiu/rosia/2023/67",
+   "short": "HCL Roșia nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 67/2023 privind rectificarea bugetului local aprobat pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/124830",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/124830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-7-2023",
+   "path": "local/sibiu/rosia/2023/7",
+   "short": "HCL Roșia nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 7/2023 privind insusirea variantei finale a proiectului de steag a comunei Rosia",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99671",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-70-2023",
+   "path": "local/sibiu/rosia/2023/70",
+   "short": "HCL Roșia nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 70/2023 privind rectificarea bugetului local aprobat pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/131925",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/131925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-71-2023",
+   "path": "local/sibiu/rosia/2023/71",
+   "short": "HCL Roșia nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 71/2023 privind aprobarea plăţii din bugetul local al uat Roşia, a cotizatiei anuale de membru , a sumelor necesare elaborarii strategiei de dezvoltare locala 2023-2027 si a sumelor reprezentand fondul cheltuielilor neeligibile către Asociatia Gal Microregiunea Hartibaciului",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/131926",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/131926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-72-2023",
+   "path": "local/sibiu/rosia/2023/72",
+   "short": "HCL Roșia nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 72/2023 privind aprobarea REGULAMENTULUI cuprinzând măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri ale Consiliului Local al Comunei Roşia, judeţul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/131935",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/131935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-73-2023",
+   "path": "local/sibiu/rosia/2023/73",
+   "short": "HCL Roșia nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 73/2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/131936",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/131936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-78-2023",
+   "path": "local/sibiu/rosia/2023/78",
+   "short": "HCL Roșia nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 78/2023 privind rectificarea bugetului local aprobat pe anul 2023",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/131941",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/131941",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-sibiu--rosia-79-2023",
    "path": "local/sibiu/rosia/2023/79",
    "short": "HCL Roșia nr. 79/2023",
@@ -163,6 +913,21 @@
      "from": "2023-12-13",
      "units": 1,
      "source_url": "https://emol.ro/rosia-sb/registru-hcl/137184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-sibiu--rosia-9-2023",
+   "path": "local/sibiu/rosia/2023/9",
+   "short": "HCL Roșia nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșia nr. 9/2023 privind aprobarea înscrierii definitive în Cartea Funciară a imobilului identificat prin CF 108810 Roşia, nr. cad.108810, nr. cad. 108810- C1 de sub B6 si B 7 și completarea inventarului bunurilor care aparțin Domeniului Public al comunei Rosia, judetul Sibiu",
+   "url": "https://emol.ro/rosia-sb/registru-hcl/99673",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rosia-sb/registru-hcl/99673",
      "sha256": null
     }
    ]

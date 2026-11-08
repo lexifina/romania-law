@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Sadu nr. 3/2022 privind aprobarea documentației de apartamentare a imobilului identificat prin CF nr. 102572, nr. cad. 102572, situat în loc. Sadu, str. Fabricii, nr. 9, jud. Sibiu
+
+HCL Sadu nr. 3/2022 · 1 versions, from 2022-01-20 (latest in force: 2022-01-20) · <https://emol.ro/sadu-sb/registru-hcl/47673>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-sibiu--sadu-3-2022` (tags `hcl-sibiu--sadu-3-2022/<day>`; `python tools/on.py <day> hcl-sibiu--sadu-3-2022`).
+
+## Decisions made by hand
+
+- HCL Sadu nr. 3/2022: listed from Consiliul Local al Comunei Sadu (emol.ro); metadata only for now: no document of it is held.
+- HCL Sadu nr. 3/2022: dated from 20 January 2022, the day it was adopted (the register gives no later day of publication).
+- HCL Sadu nr. 3/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.
