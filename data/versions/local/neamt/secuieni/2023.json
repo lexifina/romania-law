@@ -303,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-20-2023",
+   "path": "local/neamt/secuieni/2023/20",
+   "short": "HCL Secuieni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 20/2023 privind scăderea a două persoane de la plata taxei de salubrizare la familia Enachi Bogdan-Ioan",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/93554",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/93554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-21-2023",
+   "path": "local/neamt/secuieni/2023/21",
+   "short": "HCL Secuieni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 21/2023 privind aprobarea închirierii pășunilor aflate în proprietatea privată a comunei Secuieni , judeţul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/93555",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/93555",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-22-2023",
    "path": "local/neamt/secuieni/2023/22",
    "short": "HCL Secuieni nr. 22/2023",
@@ -343,6 +373,21 @@
      "from": "2023-02-28",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/93558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-25-2023",
+   "path": "local/neamt/secuieni/2023/25",
+   "short": "HCL Secuieni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 25/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/93559",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/93559",
      "sha256": null
     }
    ]
@@ -438,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-31-2023",
+   "path": "local/neamt/secuieni/2023/31",
+   "short": "HCL Secuieni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 31/2023 cu privire la aprobarea prelungirii contractului de concesiune nr.3180 din 25.06.2013 prin act adiţional",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/99172",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/99172",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-32-2023",
    "path": "local/neamt/secuieni/2023/32",
    "short": "HCL Secuieni nr. 32/2023",
@@ -448,6 +508,21 @@
      "from": "2023-03-23",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/99173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-33-2023",
+   "path": "local/neamt/secuieni/2023/33",
+   "short": "HCL Secuieni nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 33/2023 privind rezilierea contractului de închiriere nr.5656 din 06.10.2022, privind închirierea unui spațiu din incinta Dispensarului Uman din satul Butnărești, aflat în domeniul privat al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/99174",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/99174",
      "sha256": null
     }
    ]
@@ -483,6 +558,66 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-36-2023",
+   "path": "local/neamt/secuieni/2023/36",
+   "short": "HCL Secuieni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 36/2023",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/99177",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/99177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-37-2023",
+   "path": "local/neamt/secuieni/2023/37",
+   "short": "HCL Secuieni nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 37/2023 privind scăderea unei persoane de la plata taxei de salubrizare la familia Vultur Irina-Elena",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/99178",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/99178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-38-2023",
+   "path": "local/neamt/secuieni/2023/38",
+   "short": "HCL Secuieni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 38/2023",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/99179",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/99179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-39-2023",
+   "path": "local/neamt/secuieni/2023/39",
+   "short": "HCL Secuieni nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 39/2023",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/99180",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/99180",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-4-2023",
    "path": "local/neamt/secuieni/2023/4",
    "short": "HCL Secuieni nr. 4/2023",
@@ -493,6 +628,21 @@
      "from": "2023-01-25",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/90647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-40-2023",
+   "path": "local/neamt/secuieni/2023/40",
+   "short": "HCL Secuieni nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 40/2023",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/99181",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/99181",
      "sha256": null
     }
    ]
@@ -543,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-44-2023",
+   "path": "local/neamt/secuieni/2023/44",
+   "short": "HCL Secuieni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 44/2023 cu privire la aprobarea prelungirii contractului de concesiune nr.3178 din 25.06.2013 prin act adiţional",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/104134",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/104134",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-45-2023",
    "path": "local/neamt/secuieni/2023/45",
    "short": "HCL Secuieni nr. 45/2023",
@@ -568,6 +733,36 @@
      "from": "2023-04-27",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/104136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-47-2023",
+   "path": "local/neamt/secuieni/2023/47",
+   "short": "HCL Secuieni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 47/2023",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/104137",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/104137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-48-2023",
+   "path": "local/neamt/secuieni/2023/48",
+   "short": "HCL Secuieni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 48/2023",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/104138",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/104138",
      "sha256": null
     }
    ]
@@ -663,6 +858,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-54-2023",
+   "path": "local/neamt/secuieni/2023/54",
+   "short": "HCL Secuieni nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 54/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/110013",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/110013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-55-2023",
+   "path": "local/neamt/secuieni/2023/55",
+   "short": "HCL Secuieni nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 55/2023 privind aprobarea închirierii pășunilor aflate în proprietatea privată a comunei Secuieni , judeţul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/110014",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/110014",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-56-2023",
    "path": "local/neamt/secuieni/2023/56",
    "short": "HCL Secuieni nr. 56/2023",
@@ -693,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-58-2023",
+   "path": "local/neamt/secuieni/2023/58",
+   "short": "HCL Secuieni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 58/2023 privind aprobarea alocării unui sprijin financiar pentru Parohia Ortodoxă Bașta din comuna Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/110017",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/110017",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-59-2023",
    "path": "local/neamt/secuieni/2023/59",
    "short": "HCL Secuieni nr. 59/2023",
@@ -708,6 +948,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-6-2023",
+   "path": "local/neamt/secuieni/2023/6",
+   "short": "HCL Secuieni nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 6/2023 privind rezilierea contractului de închiriere nr.3703 din 19.04.2018, privind închirierea suprafețelor de pajiști aflate în domeniul privat al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/90649",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/90649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-60-2023",
+   "path": "local/neamt/secuieni/2023/60",
+   "short": "HCL Secuieni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 60/2023 privind aprobarea alocării unui sprijin financiar pentru Parohia Ortodoxă Secuieni II din comuna Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/110019",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/110019",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-61-2023",
    "path": "local/neamt/secuieni/2023/61",
    "short": "HCL Secuieni nr. 61/2023",
@@ -718,6 +988,21 @@
      "from": "2023-05-31",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/110020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-62-2023",
+   "path": "local/neamt/secuieni/2023/62",
+   "short": "HCL Secuieni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 62/2023 privind modificarea și completarea Hotărârii Consiliului Local nr.55 din 31.05.2023 privind aprobarea închirierii pășunilor aflate în proprietatea privată a comunei Secuieni , judeţul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/111035",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/111035",
      "sha256": null
     }
    ]
@@ -753,6 +1038,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-65-2023",
+   "path": "local/neamt/secuieni/2023/65",
+   "short": "HCL Secuieni nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 65/2023 privind stabilirea indemnizației de ședință pentru membrii Consiliului Local al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/111038",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/111038",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-66-2023",
    "path": "local/neamt/secuieni/2023/66",
    "short": "HCL Secuieni nr. 66/2023",
@@ -763,6 +1063,21 @@
      "from": "2023-06-28",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/111039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-67-2023",
+   "path": "local/neamt/secuieni/2023/67",
+   "short": "HCL Secuieni nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 67/2023 privind aprobarea închirierii prin licitaţie publică a unui spațiu, situat în incinta Dispensarului Uman din sat Butnărești, comuna Secuieni, județul Neamț, în suprafață totală de 26,40 m.p., având destinația de farmacie",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/115008",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/115008",
      "sha256": null
     }
    ]
@@ -798,6 +1113,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-7-2023",
+   "path": "local/neamt/secuieni/2023/7",
+   "short": "HCL Secuieni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 7/2023 privind desemnarea consilierilor locali, membri ai Comisiei de evaluare a performanțelor profesionale individuale ale secretarului general al unității administrativ teritoriale Comuna Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/90650",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/90650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-70-2023",
+   "path": "local/neamt/secuieni/2023/70",
+   "short": "HCL Secuieni nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 70/2023 privind atribuirea în folosință gratuită a suprafeţei de 500 mp teren din domeniul privat al comunei Secuieni,județul Neamț în vederea construirii unei locuințe proprietate personală pentru tineri",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/115011",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/115011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-71-2023",
+   "path": "local/neamt/secuieni/2023/71",
+   "short": "HCL Secuieni nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 71/2023 privind atribuirea în folosință gratuită a suprafeţei de 500 mp teren din domeniul privat al comunei Secuieni,județul Neamț în vederea construirii unei locuințe proprietate personală pentru tineri",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/118901",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/118901",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-72-2023",
    "path": "local/neamt/secuieni/2023/72",
    "short": "HCL Secuieni nr. 72/2023",
@@ -823,6 +1183,21 @@
      "from": "2023-08-31",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/118903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-74-2023",
+   "path": "local/neamt/secuieni/2023/74",
+   "short": "HCL Secuieni nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 74/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/118904",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/118904",
      "sha256": null
     }
    ]
@@ -903,6 +1278,66 @@
    ]
   },
   {
+   "slug": "hcl-neamt--secuieni-8-2023",
+   "path": "local/neamt/secuieni/2023/8",
+   "short": "HCL Secuieni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 8/2023",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/90651",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/90651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-80-2023",
+   "path": "local/neamt/secuieni/2023/80",
+   "short": "HCL Secuieni nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 80/2023 privind desemnarea reprezentantului Consiliului local în Consiliul de administraţie al Școlii Gimnaziale Comuna Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/123034",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/123034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-81-2023",
+   "path": "local/neamt/secuieni/2023/81",
+   "short": "HCL Secuieni nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 81/2023 privind desemnarea reprezentantului Consiliului local în Comisia de Evaluare și Asigurare a Calității a Școlii Gimnaziale Comuna Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/123035",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/123035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-82-2023",
+   "path": "local/neamt/secuieni/2023/82",
+   "short": "HCL Secuieni nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 82/2023 privind împuternicirea Primarului comunei Secuieni să reprezinte în justiție Consiliul Local al Comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/123036",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/123036",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--secuieni-83-2023",
    "path": "local/neamt/secuieni/2023/83",
    "short": "HCL Secuieni nr. 83/2023",
@@ -943,6 +1378,21 @@
      "from": "2023-09-28",
      "units": 1,
      "source_url": "https://emol.ro/secuieni-nt/registru-hcl/123039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--secuieni-86-2023",
+   "path": "local/neamt/secuieni/2023/86",
+   "short": "HCL Secuieni nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 86/2023 privind rezilierea contractului de închiriere nr1738. din 21.03.2022, privind închirierea unui spațiu din incinta Dispensarului Uman din satul Secuieni, aflat în domeniul privat al comunei Secuieni, județul Neamț",
+   "url": "https://emol.ro/secuieni-nt/registru-hcl/127482",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/secuieni-nt/registru-hcl/127482",
      "sha256": null
     }
    ]

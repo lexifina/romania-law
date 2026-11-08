@@ -333,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-16-2025",
+"path": "local/neamt/tupilati/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 16/2025 privind însuțirea raportului de evaluare și aprobarea vânzării prin licitaţie publică a unei suprafeţe de teren neproductiv extravilan aflată în proprietate privată a comunei Tupilati",
+"short": "HCL Tupilați nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/212123",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-17-2025",
 "path": "local/neamt/tupilati/2025/17",
 "kind": "local",
@@ -396,6 +418,50 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-20-2025",
+"path": "local/neamt/tupilati/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 20/2025 privind însușirea raportului de evaluare și aprobarea vânzării prin licitaţie publică a unei suprafeţe de teren intravilan sat Tupilați, aflată în proprietate privată a comunei Tupilați",
+"short": "HCL Tupilați nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/212133",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-21-2025",
+"path": "local/neamt/tupilati/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 21/2025 privind însușirea raportului de evaluare și aprobarea vânzării prin licitaţie publică a unei suprafeţe de teren extravilan aflată în proprietate privată a comunei Tupilați",
+"short": "HCL Tupilați nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/212134",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -531,6 +597,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-28-2025",
+"path": "local/neamt/tupilati/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 28/2025 privind acordarea unor ajutor de urgență",
+"short": "HCL Tupilați nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/212141",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-29-2025",
 "path": "local/neamt/tupilati/2025/29",
 "kind": "local",
@@ -617,6 +705,72 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-33-2025",
+"path": "local/neamt/tupilati/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 33/2025 privind însușirea raportului de evaluare și aprobarea vânzării prin licitație publică a suprafeței de 119 mp teren intravilan sat Tupilați aflată în proprietate privată a comunei Tupilați",
+"short": "HCL Tupilați nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/225505",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-34-2025",
+"path": "local/neamt/tupilati/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 34/2025 privind însușirea raportului de evaluare si aprobarea vânzării prin licitație publică a suprafeței de 1008 mp teren intravilan sat Tupilați aflată în proprietate privată a comunei Tupilați",
+"short": "HCL Tupilați nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/225506",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-35-2025",
+"path": "local/neamt/tupilati/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 35/2025 privind însușirea raportului de evaluare și aprobarea vânzării prin licitație publică a suprafețe de 1 ha teren extravilan, aflată în proprietate privată a comunei Tupilați",
+"short": "HCL Tupilați nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/225507",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -730,6 +884,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-41-2025",
+"path": "local/neamt/tupilati/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 41/2025 privind aprobarea rectificării bugetului local al Comunei Tupilați pe anul 2025",
+"short": "HCL Tupilați nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246455",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-42-2025",
 "path": "local/neamt/tupilati/2025/42",
 "kind": "local",
@@ -793,6 +969,72 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-45-2025",
+"path": "local/neamt/tupilati/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 45/2025 privind acordarea unor ajutoare de urgență",
+"short": "HCL Tupilați nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246459",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-46-2025",
+"path": "local/neamt/tupilati/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 46/2025 privind insusirea raportului de evaluare si aprobarea vânzării prin licitaţie publică a unor suprafete de teren situate in intravilan sat Tupilati, aflate în proprietate privată a comunei Tupilati",
+"short": "HCL Tupilați nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246460",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-47-2025",
+"path": "local/neamt/tupilati/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 47/2025 privind aprobarea încetării contractului de închiriere nr. 2487/2024, privind clădirea Centru pentru asistentă după program școlar, de tip ”After school”(parţial)",
+"short": "HCL Tupilați nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/246461",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

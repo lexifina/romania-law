@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-prahova--aricestii-zeletin-8-2021",
+"path": "local/prahova/aricestii-zeletin/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 8/2021 APROBA ACTUL ADITIONAL NR. 2 LA CONTRACTUL DE INCHIRIERE ISLAZ COMUNAL",
+"short": "HCL Ariceștii Zeletin nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-15",
+"latest": "2021-09-15",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#3883",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--aricestii-zeletin-9-2021",
 "path": "local/prahova/aricestii-zeletin/2021/9",
 "kind": "local",
@@ -663,6 +685,28 @@
 }
 },
 {
+"slug": "hcl-prahova--aricestii-zeletin-32-2021",
+"path": "local/prahova/aricestii-zeletin/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 32/2021 APROBA INDEMNIZATIA LUNARA CONSILIERI LOCALI",
+"short": "HCL Ariceștii Zeletin nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#3972",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--aricestii-zeletin-33-2021",
 "path": "local/prahova/aricestii-zeletin/2021/33",
 "kind": "local",
@@ -836,6 +880,50 @@
 "council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--aricestii-zeletin-41-2021",
+"path": "local/prahova/aricestii-zeletin/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 41/2021 APROBA DESEMNAREA UNUI MEMBRU EVALUARE SCOALA",
+"short": "HCL Ariceștii Zeletin nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#3992",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--aricestii-zeletin-42-2021",
+"path": "local/prahova/aricestii-zeletin/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ariceștii Zeletin nr. 42/2021 APROBA DESEMNAREA UNUI MEMBU CONSILIUL ADMINISTRATIE SCOALA",
+"short": "HCL Ariceștii Zeletin nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://aricestiizeletin.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19382#3993",
+"council": "prahova/aricestii-zeletin",
+"council_name": "Consiliul Local al Comunei Ariceștii Zeletin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

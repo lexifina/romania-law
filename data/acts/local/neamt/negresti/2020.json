@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-3-2020",
+"path": "local/neamt/negresti/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 3/2020",
+"short": "HCL Negrești nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-11",
+"latest": "2020-02-11",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/3148",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--negresti-4-2020",
 "path": "local/neamt/negresti/2020/4",
 "kind": "local",
@@ -245,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-13-2020",
+"path": "local/neamt/negresti/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 13/2020 privind concesionarea fară licitatie a spatiului in care functionează Cabinetul medical dr. Vădeanu Andrei-Ion din comuna Negresti",
+"short": "HCL Negrești nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/3158",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--negresti-14-2020",
 "path": "local/neamt/negresti/2020/14",
 "kind": "local",
@@ -330,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-18-2020",
+"path": "local/neamt/negresti/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 18/2020 privind aprobarea concesionarii prin licitatie publica a suprafetei de 74,49 ha pasune comunală din domeniul public al comunei si administrarea consiliului local",
+"short": "HCL Negrești nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/3163",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -576,6 +643,28 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-34-2020",
+"path": "local/neamt/negresti/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 34/2020 privind neasumarea responsabilităților organizării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul comunei Negrești",
+"short": "HCL Negrești nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-09",
+"latest": "2020-09-09",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/13782",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--negresti-35-2020",
 "path": "local/neamt/negresti/2020/35",
 "kind": "local",
@@ -595,6 +684,98 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-36-2020",
+"path": "local/neamt/negresti/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 36/2020",
+"short": "HCL Negrești nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/13784",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-37-2020",
+"path": "local/neamt/negresti/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 37/2020",
+"short": "HCL Negrești nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/13785",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-38-2020",
+"path": "local/neamt/negresti/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 38/2020",
+"short": "HCL Negrești nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/13786",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-39-2020",
+"path": "local/neamt/negresti/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 39/2020",
+"short": "HCL Negrești nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/13787",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -639,6 +820,29 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-42-2020",
+"path": "local/neamt/negresti/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 42/2020",
+"short": "HCL Negrești nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/14368",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/azuga/2020",
+"acts": [
+{
+"slug": "hcl-prahova--azuga-5-2020",
+"path": "local/prahova/azuga/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Azuga nr. 5/2020",
+"short": "HCL Azuga nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "http://www.primariaazuga.ro/monitorul-oficial-local-1/2016-2020-1/hotararile-autoritatii-deliberative/hcl-nr-529012020-privind-aprobarea-raportului-privind-activitatea-asistentilor-personali-ai-pers",
+"council": "prahova/azuga",
+"council_name": "Consiliul Local al Orașului Azuga",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

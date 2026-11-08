@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-4-2026",
+"path": "local/neamt/negresti/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 4/2026",
+"short": "HCL Negrești nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262149",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--negresti-5-2026",
 "path": "local/neamt/negresti/2026/5",
 "kind": "local",
@@ -114,6 +137,28 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-7-2026",
+"path": "local/neamt/negresti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 7/2026 privind modificarea a HCL nr. 67 din 16 decembrie 2025 privind aprobarea concesionarii prin licitație publică a suprafeței de 30,6951 ha pășune comunală din domeniul public al comunei și administrarea consiliului local",
+"short": "HCL Negrești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262153",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--negresti-8-2026",
 "path": "local/neamt/negresti/2026/8",
 "kind": "local",
@@ -133,6 +178,73 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-9-2026",
+"path": "local/neamt/negresti/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 9/2026",
+"short": "HCL Negrești nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262155",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-10-2026",
+"path": "local/neamt/negresti/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 10/2026 privind aprobarea atribuirii in folosinta gratuita si incheierea unui contract de comodat pentru spatiul in care functioneaza Postul de Politie Negresti",
+"short": "HCL Negrești nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262156",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-11-2026",
+"path": "local/neamt/negresti/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 11/2026 privind acordarea unui mandat special – modificarea contractului de delegare nr. 760/84/21.07.2025",
+"short": "HCL Negrești nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262160",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -178,6 +290,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-14-2026",
+"path": "local/neamt/negresti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 14/2026 privind încetarea Acordului de cooperare privind organizarea si exercitarea acțiunilor și activităților financiar contabile prin care se asigura satisfacerea nevoilor de utilitate și de interes public, general",
+"short": "HCL Negrești nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262166",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-15-2026",
+"path": "local/neamt/negresti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 15/2026 privind aprobarea modificarii organigramei si statului de functii ale aparatului de specialitate al primarului comunei Negresti",
+"short": "HCL Negrești nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262167",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -269,6 +425,50 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-20-2026",
+"path": "local/neamt/negresti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 20/2026 privind punerea la dispoziția Comisiei locale de fond funciar Negresti a terenului în suprafață de 1.444 mp din măsurători 1.433 mp, situat în sat Negrești, com. Negrești, jud. Neamț dobândit în baza Sentinței civile nr. 3007/2023 rămasă definitivă, în vederea punerii în posesie a persoanei îndreptățite",
+"short": "HCL Negrești nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262172",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-21-2026",
+"path": "local/neamt/negresti/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 21/2026 privind acordarea stimulentului financiar pentru nou-născuți din comuna Negrești",
+"short": "HCL Negrești nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/262173",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--negresti-22-2026",
 "path": "local/neamt/negresti/2026/22",
 "kind": "local",
@@ -288,6 +488,28 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-23-2026",
+"path": "local/neamt/negresti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 23/2026 privind schimbarea destinației imobilului Scoala veche situat în Comuna Negresti, str. Mănăstirera Horaița, nr. 148, din spaţiu pentru învăţământ, în spaţiu pentru activităti de utilitate publica – sediu primarie Negresti",
+"short": "HCL Negrești nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/268745",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -335,6 +557,29 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-26-2026",
+"path": "local/neamt/negresti/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 26/2026",
+"short": "HCL Negrești nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/274187",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--negresti-27-2026",
 "path": "local/neamt/negresti/2026/27",
 "kind": "local",
@@ -376,6 +621,73 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-29-2026",
+"path": "local/neamt/negresti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 29/2026 privind aprobarea vanzarii prin licitatie publică deschisa cu preselectie in plic inchis, a cantitatii de 841,55 m.c. masa lemnoasa pe picior, provenita din rarituri, din pădurea proprietate a Comunei Negresti parcela Ua 84",
+"short": "HCL Negrești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/274190",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-30-2026",
+"path": "local/neamt/negresti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 30/2026 privind aprobarea vanzarii prin licitatie publică deschisa cu preselectie in plic inchis, a cantitatii de 773,62 m.c. masa lemnoasa pe picior, produse accidentale, din pădurea proprietate a Comunei Negresti parcela Ua 79, Ua 80A, Ua 80B, Ua 83A, Ua 114",
+"short": "HCL Negrești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/274191",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-31-2026",
+"path": "local/neamt/negresti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 31/2026",
+"short": "HCL Negrești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/274192",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -446,6 +758,28 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-35-2026",
+"path": "local/neamt/negresti/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 35/2026 privind acordarea unui mandat special – modificarea contractului de delegare nr. 760/84/21.07.2025",
+"short": "HCL Negrești nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/274196",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--negresti-36-2026",
 "path": "local/neamt/negresti/2026/36",
 "kind": "local",
@@ -466,6 +800,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-37-2026",
+"path": "local/neamt/negresti/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 37/2026 privind aprobarea vânzării prin licitație publică a terenului intravilan în suprafaţă de 1.500 mp, aparţinând domeniului privat al Comunei Negrești, județul Neamț",
+"short": "HCL Negrești nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/295247",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-38-2026",
+"path": "local/neamt/negresti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 38/2026 privind aprobarea vânzării cu drept de preempțiune a terenului intravilan în suprafaţă de 407 mp, aparţinând domeniului privat al Comunei Negrești, județul Neamț",
+"short": "HCL Negrești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/295248",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-39-2026",
+"path": "local/neamt/negresti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 39/2026 privind aprobarea concesionarii prin licitatie publica a suprafetei de 28,99 ha pasune comunală din domeniul public al comunei si administrarea consiliului local",
+"short": "HCL Negrești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/295249",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

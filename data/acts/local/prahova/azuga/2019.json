@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/prahova/azuga/2019",
+"acts": [
+{
+"slug": "hcl-prahova--azuga-8-2019",
+"path": "local/prahova/azuga/2019/8",
+"kind": "local",
+"year": "2019",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Azuga nr. 8/2019",
+"short": "HCL Azuga nr. 8/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-30",
+"latest": "2019-01-30",
+"portal": "http://www.primariaazuga.ro/monitorul-oficial-local-1/2016-2020-1/hotararile-autoritatii-deliberative/hcl-nr-830012019-privind-introducerea-investitiei-canalizare-pluviala-str-30-decembrie-si-str-go",
+"council": "prahova/azuga",
+"council_name": "Consiliul Local al Orașului Azuga",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

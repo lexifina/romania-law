@@ -3,6 +3,94 @@
 "shard": "local/olt/piatra-olt/2017",
 "acts": [
 {
+"slug": "hcl-olt--piatra-olt-11-2017",
+"path": "local/olt/piatra-olt/2017/11",
+"kind": "local",
+"year": "2017",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 11/2017 Cu privire la : aprobarea unor normative proprii de cheltuieli privind consumul de carburanti pentru autovehiculele din dotare",
+"short": "HCL Piatra-Olt nr. 11/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-31",
+"latest": "2017-01-31",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-31-2017",
+"path": "local/olt/piatra-olt/2017/31",
+"kind": "local",
+"year": "2017",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 31/2017 Cu privire la : aprobare extindere de activitate a SC Compania de Apa Olt SA",
+"short": "HCL Piatra-Olt nr. 31/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-03-24",
+"latest": "2017-03-24",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-57-2017",
+"path": "local/olt/piatra-olt/2017/57",
+"kind": "local",
+"year": "2017",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 57/2017 Cu privire la: completarea inventarului domeniului public al orasului piatra Olt HCL rtr'20/24'02'20t7",
+"short": "HCL Piatra-Olt nr. 57/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-06-13",
+"latest": "2017-06-13",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-58-2017",
+"path": "local/olt/piatra-olt/2017/58",
+"kind": "local",
+"year": "2017",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 58/2017 Cu privire la alegerea presedintelui de sedinta pentru perioada iulie -septembrie 2017",
+"short": "HCL Piatra-Olt nr. 58/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-06-30",
+"latest": "2017-06-30",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--piatra-olt-92-2017",
 "path": "local/olt/piatra-olt/2017/92",
 "kind": "local",
@@ -22,6 +110,28 @@
 "council_name": "Consiliul Local al Orașului Piatra-Olt",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-98-2017",
+"path": "local/olt/piatra-olt/2017/98",
+"kind": "local",
+"year": "2017",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 98/2017 Cu privire la: transformare post contractual",
+"short": "HCL Piatra-Olt nr. 98/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-10-31",
+"latest": "2017-10-31",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

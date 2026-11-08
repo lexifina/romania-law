@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/olt/piatra-olt/2009",
+ "acts": [
+  {
+   "slug": "hcl-olt--piatra-olt-1-2009",
+   "path": "local/olt/piatra-olt/2009/1",
+   "short": "HCL Piatra-Olt nr. 1/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 1/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/1-2009.pdf",
+     "sha256": "d120a6f64842a8d9bf189f4297a2ea982721a5ffbffec81c1a64179149aca408"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-10-2009",
+   "path": "local/olt/piatra-olt/2009/10",
+   "short": "HCL Piatra-Olt nr. 10/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 10/2009 privind trecerea locuintelor pentru tineri, destinate inchirierii din domeniul public al orasului Piatra-Olt in domeniul public al Statului Roman 27 Februarie 2009 Normativ Descarcă",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/10-2009.pdf",
+     "sha256": "b8b442bae8ba5f4648e568d99c88652c9dc616024d75229dcd7fb72da5e34c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-11-2009",
+   "path": "local/olt/piatra-olt/2009/11",
+   "short": "HCL Piatra-Olt nr. 11/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 11/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-03-20",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/11-2009.pdf",
+     "sha256": "acc58ec3cd15426268082b6e867f2fea6db56902a03bbd6aca4560c34225ea1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-12-2009",
+   "path": "local/olt/piatra-olt/2009/12",
+   "short": "HCL Piatra-Olt nr. 12/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 12/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-03-20",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/12-2009.pdf",
+     "sha256": "aa45f1ac773efdb1a5035fb78ca18ea49292d792f3fae7812bd70a0addff3513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-13-2009",
+   "path": "local/olt/piatra-olt/2009/13",
+   "short": "HCL Piatra-Olt nr. 13/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 13/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-03-20",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/13-2009.pdf",
+     "sha256": "b82294376d6c1fe0dd75e366c95d9ddc9995c09965f9f849fef2579ae08fb31c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-14-2009",
+   "path": "local/olt/piatra-olt/2009/14",
+   "short": "HCL Piatra-Olt nr. 14/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 14/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-03-20",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/14-2009.pdf",
+     "sha256": "eea565e8c6796a030e37bea06ff04b9edbbae9e8acebbaeb31f1ede9c8d9bf81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-15-2009",
+   "path": "local/olt/piatra-olt/2009/15",
+   "short": "HCL Piatra-Olt nr. 15/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 15/2009 pentru perioada aprilie - iunie 2009 23 Aprilie 2009 Normativ Descarcă",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/15-2009.pdf",
+     "sha256": "7f36518370aaa95ace0172ec3363ce397499e5689f832c66858cd4c50749a6cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-16-2009",
+   "path": "local/olt/piatra-olt/2009/16",
+   "short": "HCL Piatra-Olt nr. 16/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 16/2009 Privind acceptarea de noi membri in Asociatia de Dezvoltare Intercomunitara de Utilitati Publice pentru Serviciul de alimentare cu apa si canalizare \"Oltul\" 23 Aprilie 2009 Normativ Descarcă",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/16-2009.pdf",
+     "sha256": "93832932656f368c5194ef54a06c54202d08a68ecd32744d4fb434f08c474c5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-17-2009",
+   "path": "local/olt/piatra-olt/2009/17",
+   "short": "HCL Piatra-Olt nr. 17/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 17/2009 pentru delegarea gestiunii, prin licitatie publica, a serviciului public de salubrizare al orasului Piatra-Olt 23 Aprilie 2009 Normativ Descarcă",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/17-2009.pdf",
+     "sha256": "38d6e1896e2fdd5d19f3935cd3a136276565e8fcbae21f75ca894367e18ebfce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-18-2009",
+   "path": "local/olt/piatra-olt/2009/18",
+   "short": "HCL Piatra-Olt nr. 18/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 18/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/18-2009.pdf",
+     "sha256": "bf44c45df8d71180334e14f7596735caa38898a33502c70f6d28752955ad39a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-19-2009",
+   "path": "local/olt/piatra-olt/2009/19",
+   "short": "HCL Piatra-Olt nr. 19/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 19/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/19-2009.pdf",
+     "sha256": "6114285317077ff94ccc7b9f1e40c928da4732a95a0cc79c87640cb7c3630b01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-2-2009",
+   "path": "local/olt/piatra-olt/2009/2",
+   "short": "HCL Piatra-Olt nr. 2/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 2/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/2-2009.pdf",
+     "sha256": "15c4c2b5e7036e11a998af8f989db9844004c5043a27329ea48ad7d8c10eb3ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-20-2009",
+   "path": "local/olt/piatra-olt/2009/20",
+   "short": "HCL Piatra-Olt nr. 20/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 20/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/20-2009.pdf",
+     "sha256": "ee17da226ee1248e7a56e1b48aaeb461699cd86ec9281a02054a934bf85e4ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-21-2009",
+   "path": "local/olt/piatra-olt/2009/21",
+   "short": "HCL Piatra-Olt nr. 21/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 21/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-05-22",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/21-2009.pdf",
+     "sha256": "51e66e25df13133fbd25b7852c9c2fc8fc9ad706efd92a81222b6ac8b2163fbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-22-2009",
+   "path": "local/olt/piatra-olt/2009/22",
+   "short": "HCL Piatra-Olt nr. 22/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 22/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-05-22",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/22-2009.pdf",
+     "sha256": "b813bd44c1eb0a515aa3eb5e335a947de5f8e38530b2ce68777a53b39ae8618f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-23-2009",
+   "path": "local/olt/piatra-olt/2009/23",
+   "short": "HCL Piatra-Olt nr. 23/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 23/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-05-22",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/23-2009.pdf",
+     "sha256": "563db219000c596e8696be118e65b9789cc47c5205cf44b8748c22303bb2ef27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-3-2009",
+   "path": "local/olt/piatra-olt/2009/3",
+   "short": "HCL Piatra-Olt nr. 3/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 3/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/3-2009.pdf",
+     "sha256": "a5750baa4e0f5b41816cb6dccb5a0f46879241412d48287aaecba3b83c26a5d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-4-2009",
+   "path": "local/olt/piatra-olt/2009/4",
+   "short": "HCL Piatra-Olt nr. 4/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 4/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/4-2009.pdf",
+     "sha256": "361f406e7a3127a9bac69697f8003c7f175337fdbf2a3b6a8162f31a4ee8a4d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-5-2009",
+   "path": "local/olt/piatra-olt/2009/5",
+   "short": "HCL Piatra-Olt nr. 5/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 5/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/5-2009.pdf",
+     "sha256": "3c0041d22446371f9c9764f11253e3f9b3f64a6a37e6ae252b67169315bc814f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-6-2009",
+   "path": "local/olt/piatra-olt/2009/6",
+   "short": "HCL Piatra-Olt nr. 6/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 6/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/6-2009.pdf",
+     "sha256": "2bed4dbaee76c9f4fbaaf762b846e1b3552ef9a26e043b96490cb54163b2ffcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-7-2009",
+   "path": "local/olt/piatra-olt/2009/7",
+   "short": "HCL Piatra-Olt nr. 7/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 7/2009 pentru analizarea si verificare a solicitarilor privind repartizarea de locuinte pentru tineri destinate inchirierii si a actelor doveditoare necesare pentru prelungirea contractelor ANL 29 Ianuarie 2009 Normativ Descarcă",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/7-2009.pdf",
+     "sha256": "2c4d9cebe62faf2b132d6301408ad06573f359860647d5f2b8db06db006f8d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-8-2009",
+   "path": "local/olt/piatra-olt/2009/8",
+   "short": "HCL Piatra-Olt nr. 8/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 8/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/8-2009.pdf",
+     "sha256": "33f0652224f23b89096dc198a401cfa0514f3ac1f4a7bdb6563fbaf8e89cb5c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-9-2009",
+   "path": "local/olt/piatra-olt/2009/9",
+   "short": "HCL Piatra-Olt nr. 9/2009",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 9/2009",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/9-2009.pdf",
+     "sha256": "ff6e301581262ddcf1e145a672ad048bdf025d7fe1e4bc568e698bfa87cd2583"
+    }
+   ]
+  }
+ ]
+}

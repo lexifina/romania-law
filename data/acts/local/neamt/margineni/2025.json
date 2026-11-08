@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-7-2025",
+"path": "local/neamt/margineni/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 7/2025 privind aprobarea numărului total de posturi pentru asistenţii personali pentru persoanele adulte cu handicap grav și copiii cu handicap grav de pe raza comunei Mărgineni și a numărului total de indemnizații lunare pentru persoane cu handicap grav, pentru anul 2025",
+"short": "HCL Mărgineni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/191164",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-8-2025",
 "path": "local/neamt/margineni/2025/8",
 "kind": "local",
@@ -198,6 +220,29 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-11-2025",
+"path": "local/neamt/margineni/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 11/2025",
+"short": "HCL Mărgineni nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/195761",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -290,6 +335,28 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-16-2025",
+"path": "local/neamt/margineni/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 16/2025 privind revocarea HCL nr. 10 / 2025 adoptată în data de 31.01.2025 de aprobare a închirierii suprafeței de 20 mp. în centrul satului Mărgineni , firmei NastPad Food SRL în vederea amplasării unei rulote Fast-food",
+"short": "HCL Mărgineni nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/195766",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-17-2025",
 "path": "local/neamt/margineni/2025/17",
 "kind": "local",
@@ -309,6 +376,50 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-18-2025",
+"path": "local/neamt/margineni/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 18/2025 privind prelungirea, prin act adițional pe un termen de încă 3 (trei) ani a contractelor de închiriere încheiate în anul 2018 între Comuna Mărgineni și crescătorii de animale, pentru pajiștile ce aparțin domeniului public al Comunei",
+"short": "HCL Mărgineni nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/201236",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-19-2025",
+"path": "local/neamt/margineni/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 19/2025 privind aprobarea Programului de aprovizionarea populației cu produse agroalimentare",
+"short": "HCL Mărgineni nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/201237",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -398,6 +509,28 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-24-2025",
+"path": "local/neamt/margineni/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 24/2025 privind aprobarea închirierii, pe bază de licitație publică a suprafeței de 20 mp din domeniul privat al Comunei Mărgineni, Județul Neamț, situată în satul Mărgineni",
+"short": "HCL Mărgineni nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/201242",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1355,6 +1488,50 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-68-2025",
+"path": "local/neamt/margineni/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 68/2025 privind Regulamentul pentru stabilirea și acordarea unor forme de sprijin financiar, de la bugetul local al Comunei Mărgineni, județul Neamț pentru unităţile de cult aparţinând cultelor religioase recunoscute din România",
+"short": "HCL Mărgineni nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/230860",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-69-2025",
+"path": "local/neamt/margineni/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 69/2025 privind aprobarea de sprijin financiar, de la bugetul local al Comunei Mărgineni, județul Neamț pentru pentru unităţile de cult aparţinând cultelor religioase recunoscute din România",
+"short": "HCL Mărgineni nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/230861",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-70-2025",
 "path": "local/neamt/margineni/2025/70",
 "kind": "local",
@@ -1462,6 +1639,29 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--margineni-75-2025",
+"path": "local/neamt/margineni/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 75/2025",
+"short": "HCL Mărgineni nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/230867",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

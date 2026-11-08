@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-6-2026",
+"path": "local/neamt/tupilati/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 6/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Tupilați nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-10",
+"latest": "2026-02-10",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/252228",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-7-2026",
 "path": "local/neamt/tupilati/2026/7",
 "kind": "local",
@@ -154,6 +176,72 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-9-2026",
+"path": "local/neamt/tupilati/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 9/2026 privind modificarea HCL Tupilati nr. 62/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Tupilați nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/269493",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-10-2026",
+"path": "local/neamt/tupilati/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 10/2026 privind aprobarea concesionării prin licitaţie publică a unui teren extravilan aparținând domeniului privat al Comunei Tupilați, aflat în proprietatea Comunei Tupilați",
+"short": "HCL Tupilați nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/269494",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-11-2026",
+"path": "local/neamt/tupilati/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 11/2026 privind insusirea raportului de evaluare si aprobarea vânzării prin licitaţie publică a suprafeţe de 1,5976 ha teren extravilan, aflată în proprietate privată a comunei Tupilati",
+"short": "HCL Tupilați nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/269495",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +289,50 @@
 }
 },
 {
+"slug": "hcl-neamt--tupilati-14-2026",
+"path": "local/neamt/tupilati/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 14/2026 privind modificarea Statutului Asociației de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+"short": "HCL Tupilați nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/269498",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-15-2026",
+"path": "local/neamt/tupilati/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 15/2026 privind modificarea HCL Tupilati nr. 16/2017 privind atribuirea in folosinţă gratuita de teren pentru construirea unei locuinţe proprietate personala familiei Zaharia Silviu-Marian si Zaharia Elena-Claudia",
+"short": "HCL Tupilați nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/269499",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tupilati-16-2026",
 "path": "local/neamt/tupilati/2026/16",
 "kind": "local",
@@ -220,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Tupilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tupilati-17-2026",
+"path": "local/neamt/tupilati/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 17/2026 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Tupilați nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/tupilati-nt/registru-hcl/269501",
+"council": "neamt/tupilati",
+"council_name": "Consiliul Local al Comunei Tupilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

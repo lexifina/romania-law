@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-13-2020",
+   "path": "local/olt/caracal/2020/13",
+   "short": "HCL Caracal nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 13/2020 privind sprijinul acordat tinerilor pentru construirea unei locuințe, respectiv, modificarea a două repartiții la solicitarea beneficiarilor AVÂND ÎN VEDERE: - Referatul de aprobare nr. 3803/21.01.2020 al Primarului municipiului Caracal; - Raportul de specialitate nr. 3804/21.01.2020 al Comisiei de aplicare a Legii nr. 15/2003 din cadrul Primăriei municipiului Caracal; - Cererile nr. 39284/27.08.2",
+   "url": "https://www.primariacaracal.ro/hcl-nr-13-31-01-202/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/01/HCLnr.13din31.01.2020.pdf",
+     "sha256": "58d940db1e4700e8bf64781ccf71b22737790b5596bb8d90d37bc181316e3989"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-14-2020",
    "path": "local/olt/caracal/2020/14",
    "short": "HCL Caracal nr. 14/2020",
@@ -299,6 +314,21 @@
      "units": 1,
      "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/01/HCLnr.02din31.01.2020.pdf",
      "sha256": "40840fd25274052c4dcffafc84ee60d48c7385a2a3f2c2a68673ec9fda80e69b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-20-2020",
+   "path": "local/olt/caracal/2020/20",
+   "short": "HCL Caracal nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 20/2020 privind însușirea raportului de evalure privind patrimoniul public al U.A.T",
+   "url": "https://www.primariacaracal.ro/hcl-nr-20-28-02-2020/",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/01/HCLnr.20din28.02.2020.pdf",
+     "sha256": "d2d850c3ecd8596d74abaf070a9ad7303452c82825276bc33c3e09fde77ed942"
     }
    ]
   },

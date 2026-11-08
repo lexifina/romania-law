@@ -1728,6 +1728,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-67-2010",
+   "path": "local/neamt/roman/2010/67",
+   "short": "HCL Roman nr. 67/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/067%20HCL%202010-06%20organigrama.pdf",
+     "sha256": "14941baa2612a49769bca5c30b372986a4d06c47789b069322696bd33c2c41e8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-69-2010",
    "path": "local/neamt/roman/2010/69",
    "short": "HCL Roman nr. 69/2010",

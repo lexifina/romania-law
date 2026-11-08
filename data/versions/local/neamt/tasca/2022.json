@@ -3,6 +3,111 @@
  "shard": "local/neamt/tasca/2022",
  "acts": [
   {
+   "slug": "hcl-neamt--tasca-1-2022",
+   "path": "local/neamt/tasca/2022/1",
+   "short": "HCL Tașca nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 1/2022 privind utilizarea excedentului exerciuțiului financiar al anului 2021",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71192",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-10-2022",
+   "path": "local/neamt/tasca/2022/10",
+   "short": "HCL Tașca nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 10/2022 privind aprobarea organigramei și statului de funcții al aparatului de specialitate al primarului comunei Tașca, al instituțiilor și serviciilor publice din subordinea Consiliului Local pentru anul 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71353",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-11-2022",
+   "path": "local/neamt/tasca/2022/11",
+   "short": "HCL Tașca nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 11/2022 privind stabilirea salariile de bază pentru funcțiile publice locale, pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Tașca, județul Neamț, pentru instituțiile și serviciile publice din subordinea Consiliului local al comunei Tașca, județul Neamț pentru anul 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71354",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-12-2022",
+   "path": "local/neamt/tasca/2022/12",
+   "short": "HCL Tașca nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 12/2022 privind aprobarea valorii chiriilor lunare pentru folosința locuințelor A.N.L, situate în comuna Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71355",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-13-2022",
+   "path": "local/neamt/tasca/2022/13",
+   "short": "HCL Tașca nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 13/2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71356",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-14-2022",
+   "path": "local/neamt/tasca/2022/14",
+   "short": "HCL Tașca nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 14/2022 privind modificare HCL 88/28.10.2021 privind stabilirea impozitelor și taxelor locale precum și a taxelor speciale pentru anul 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71357",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-15-2022",
+   "path": "local/neamt/tasca/2022/15",
+   "short": "HCL Tașca nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 15/2022 privind stabilirea locurilor destinate de organizare și desfășurare a adunărilor publice și constituirea Comisiei de avizare a cererilor de organizare a adunărilor publice în comuna Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71358",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71358",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-16-2022",
    "path": "local/neamt/tasca/2022/16",
    "short": "HCL Tașca nr. 16/2022",
@@ -13,6 +118,156 @@
      "from": "2022-01-31",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/71359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-17-2022",
+   "path": "local/neamt/tasca/2022/17",
+   "short": "HCL Tașca nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 17/2022 privind aprobarea bugetului de venituri și cheltuieli al comunei Tașca pe anul 2022, a estimărilor pe anii 2023-2025 și a listei de investiții pentru anul 2021",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71363",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-18-2022",
+   "path": "local/neamt/tasca/2022/18",
+   "short": "HCL Tașca nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 18/2022 privind alocarea și detalierea cheltuielilor aprobate din bugetul de venituri și cheltuieli către culte",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71364",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-19-2022",
+   "path": "local/neamt/tasca/2022/19",
+   "short": "HCL Tașca nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 19/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tașca pentru luna martie 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71365",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-2-2022",
+   "path": "local/neamt/tasca/2022/2",
+   "short": "HCL Tașca nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 2/2022 privind aprobarea proiectului de buget pentru anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71193",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-20-2022",
+   "path": "local/neamt/tasca/2022/20",
+   "short": "HCL Tașca nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 20/2022 privind aprobarea Organigramei, a Statului de funcții și a Bugetului de venituri și cheltuieli al SC Termo Serv Com Tașca SRL pentru anul 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71366",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-21-2022",
+   "path": "local/neamt/tasca/2022/21",
+   "short": "HCL Tașca nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 21/2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71367",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-22-2022",
+   "path": "local/neamt/tasca/2022/22",
+   "short": "HCL Tașca nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 22/2022 privind modificarea și completarea Actului constitutiv și Statutului Asociației de Dezvoltare Ontercomunitară ”AQUA NEAMȚ”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71368",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-23-2022",
+   "path": "local/neamt/tasca/2022/23",
+   "short": "HCL Tașca nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 23/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tașca pentru luna aprilie 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71381",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-24-2022",
+   "path": "local/neamt/tasca/2022/24",
+   "short": "HCL Tașca nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 24/2022 privind aprobarea achiziționării serviciului juridic de consultanță, asistență și reprezentare prin avocat, pentru ca aceasta să reprezinte îm justiție interesele comunei Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71382",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-25-2022",
+   "path": "local/neamt/tasca/2022/25",
+   "short": "HCL Tașca nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 25/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Tașca pentru anul 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71383",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71383",
      "sha256": null
     }
    ]
@@ -63,6 +318,321 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tasca-29-2022",
+   "path": "local/neamt/tasca/2022/29",
+   "short": "HCL Tașca nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 29/2022 privind acordarea unui mandat special în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”AQUA NEAMȚ” în vederea exercitării votului",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71387",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-3-2022",
+   "path": "local/neamt/tasca/2022/3",
+   "short": "HCL Tașca nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 3/2022 privind aprobarea Listei de Prioritate pentru acordarea locuințelor din blocul ANL Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71194",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-30-2022",
+   "path": "local/neamt/tasca/2022/30",
+   "short": "HCL Tașca nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 30/2022 privind aprobarea actualizării inventarului bunurilor care alcătuiesc domeniul privat al comunei Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71388",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-31-2022",
+   "path": "local/neamt/tasca/2022/31",
+   "short": "HCL Tașca nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 31/2022 privind trasmiterea fără plată a terenului ce aparține domeniului privat al comunei Tașca, în suprafață de 1048 m.p., situat în zona centru, sat Tașca, comuna Tașca, județul Neamț, în proprietatea parohiei „Schimbarea la Față” Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71389",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-32-2022",
+   "path": "local/neamt/tasca/2022/32",
+   "short": "HCL Tașca nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 32/2022 privind aprobarea cererii de finanțare și a devizului general pentru obiectivul de investiții „Extindere rețea de distribuție gaze naturale în comuna Tașca, județul Neamț” în vederea includerii la finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71390",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-33-2022",
+   "path": "local/neamt/tasca/2022/33",
+   "short": "HCL Tașca nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 33/2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71391",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-34-2022",
+   "path": "local/neamt/tasca/2022/34",
+   "short": "HCL Tașca nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 34/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tașca pentru luna mai 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71399",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-35-2022",
+   "path": "local/neamt/tasca/2022/35",
+   "short": "HCL Tașca nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 35/2022 privind analiza și aprobarea contului de execuție bugetară la data de 31 martie 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71400",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-36-2022",
+   "path": "local/neamt/tasca/2022/36",
+   "short": "HCL Tașca nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 36/2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71401",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-37-2022",
+   "path": "local/neamt/tasca/2022/37",
+   "short": "HCL Tașca nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 37/2022 privind înființarea stațiilor publice de transport persoane, aflate pe teritoriul comunei Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71402",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-38-2022",
+   "path": "local/neamt/tasca/2022/38",
+   "short": "HCL Tașca nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 38/2022 privind încetarea dreptului de administrare, constituit în favoarea Consiliului Județean Neamț, în ceea ce privește un bun imobil ce aparține domeniului public al Comunei Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71403",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-39-2022",
+   "path": "local/neamt/tasca/2022/39",
+   "short": "HCL Tașca nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 39/2022 privind aprobarea delegării prin concesiune a Serviciului de iluminat public al Comunei Tașca, județul Neamț, a studiului de fundamentare a deciziei de delegarea a Serviciului Public de iluminat al Comunei Tașca, Județul Neamț, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a documentației de atribuire prin procedura simplificată",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71404",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-4-2022",
+   "path": "local/neamt/tasca/2022/4",
+   "short": "HCL Tașca nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 4/2022 privind aprobarea listelor de repartizare a apartamentelor din blocul ANL Tașca, comuna Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71195",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-40-2022",
+   "path": "local/neamt/tasca/2022/40",
+   "short": "HCL Tașca nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 40/2022 privind aprobarea amenajamentului pastoral al Unității Administrativ Teritoriale Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71405",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-41-2022",
+   "path": "local/neamt/tasca/2022/41",
+   "short": "HCL Tașca nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 41/2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71406",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-42-2022",
+   "path": "local/neamt/tasca/2022/42",
+   "short": "HCL Tașca nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 42/2022 privind modificarea HCL Tașca nr.36/13.05.2019 privind trasmiterea din domeniul public al comunei Tașca, în domeniul public al Județului Neamț a unor imobile, modificată prin HCL Tașca nr.56/24.06.2019 privind revocarea art.2 din Hotărârea Consiliului Local Tașca nr.36/13.05.2019 privind trasmiterea din domeniul public al comunei Tașca, în domeniul public al județului Neamț a unor imobile",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71407",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-43-2022",
+   "path": "local/neamt/tasca/2022/43",
+   "short": "HCL Tașca nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 43/2022 privind modificarea HCL Tașca nr.60/18.07.2019 privind trasmiterea din domeniul public al comunei Tașca, în domeniul public al Județului Neamț a unui imobil",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71408",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-44-2022",
+   "path": "local/neamt/tasca/2022/44",
+   "short": "HCL Tașca nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 44/2022 privind aprobarea depunerii proiectului și a cheltuielilor neeligibile „Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente la nivelul comunei Tașca, județul Neamț” finanțat prin COMPONENTA 10-Fondul Local, 1.2.-Asigurarea infrastructurii pentru transportul verde-ITS/alte infrastructuri TIC din cadrul Planului Național de Redresare și Reziliență (PNRR) de Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71412",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-45-2022",
+   "path": "local/neamt/tasca/2022/45",
+   "short": "HCL Tașca nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 45/2022 privind alegerea președintelui de ședință pentru luna iunie 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71413",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-46-2022",
+   "path": "local/neamt/tasca/2022/46",
+   "short": "HCL Tașca nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 46/2022 privind aprobarea actualizării inventarului bunurilor care alcătuiesc domeniul privat al comunei Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71414",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-47-2022",
+   "path": "local/neamt/tasca/2022/47",
+   "short": "HCL Tașca nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 47/2022 privind aprobarea unui acord de parteneriat, în scopul participării Asamblului folcloric „Fluerașii” din comuna Tașca la Festivalul internațional „Folklore Thessaloniki”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71415",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71415",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-48-2022",
    "path": "local/neamt/tasca/2022/48",
    "short": "HCL Tașca nr. 48/2022",
@@ -88,6 +658,21 @@
      "from": "2022-05-26",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/71417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-5-2022",
+   "path": "local/neamt/tasca/2022/5",
+   "short": "HCL Tașca nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 5/2022 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tașca pentru luna februarie 2022",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71348",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71348",
      "sha256": null
     }
    ]
@@ -243,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tasca-6-2022",
+   "path": "local/neamt/tasca/2022/6",
+   "short": "HCL Tașca nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 6/2022 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2022,ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr.416/2001, modificată și completată",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71349",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71349",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-60-2022",
    "path": "local/neamt/tasca/2022/60",
    "short": "HCL Tașca nr. 60/2022",
@@ -358,6 +958,51 @@
      "from": "2022-07-13",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/71472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-7-2022",
+   "path": "local/neamt/tasca/2022/7",
+   "short": "HCL Tașca nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 7/2022 privind analiza și aprobarea contului de execuție bugetară la 31.12.2021",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71350",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-8-2022",
+   "path": "local/neamt/tasca/2022/8",
+   "short": "HCL Tașca nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 8/2022 privind aprobarea actualizării inventarului bunurilor care alcătuiesc domeniul privat al comunei Tașca, județul Neamț",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71351",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-9-2022",
+   "path": "local/neamt/tasca/2022/9",
+   "short": "HCL Tașca nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 9/2022 privind emiterea acordului pentru ocuparea temporară a unei suprafețe de teren din domeniul public al comunei Tașca în vederea executării lucrărilor de „branșament gaze naturale presiune redusă”",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/71352",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/71352",
      "sha256": null
     }
    ]

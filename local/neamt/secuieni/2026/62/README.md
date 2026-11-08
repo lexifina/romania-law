@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Secuieni nr. 62/2026 cu privire la aprobarea modificării contractului de închiriere nr.3680 din 19.04.2018 prin act adiţional
+
+HCL Secuieni nr. 62/2026 · 1 versions, from 2026-07-30 (latest in force: 2026-07-30) · <https://emol.ro/secuieni-nt/registru-hcl/283388>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-neamt--secuieni-62-2026` (tags `hcl-neamt--secuieni-62-2026/<day>`; `python tools/on.py <day> hcl-neamt--secuieni-62-2026`).
+
+## Decisions made by hand
+
+- HCL Secuieni nr. 62/2026: listed from Consiliul Local al Comunei Secuieni (emol.ro); an individual decision: metadata only.
+- HCL Secuieni nr. 62/2026: dated from 30 July 2026, the day it was adopted (the register gives no later day of publication).
+- HCL Secuieni nr. 62/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

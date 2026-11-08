@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-5-2026",
+"path": "local/neamt/savinesti/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 5/2026 privind alegerea preşedintelui de ședinţă",
+"short": "HCL Săvinești nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#117618",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-6-2026",
 "path": "local/neamt/savinesti/2026/6",
 "kind": "local",

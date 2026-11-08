@@ -268,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-olt--caracal-13-2020",
+"path": "local/olt/caracal/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 13/2020 privind sprijinul acordat tinerilor pentru construirea unei locuințe, respectiv, modificarea a două repartiții la solicitarea beneficiarilor AVÂND ÎN VEDERE: - Referatul de aprobare nr. 3803/21.01.2020 al Primarului municipiului Caracal; - Raportul de specialitate nr. 3804/21.01.2020 al Comisiei de aplicare a Legii nr. 15/2003 din cadrul Primăriei municipiului Caracal; - Cererile nr. 39284/27.08.2",
+"short": "HCL Caracal nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://www.primariacaracal.ro/hcl-nr-13-31-01-202/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--caracal-14-2020",
 "path": "local/olt/caracal/2020/14",
 "kind": "local",
@@ -394,6 +416,28 @@
 "from": "2020-02-28",
 "latest": "2020-02-28",
 "portal": "https://www.primariacaracal.ro/hcl-nr-79-28-06-2019/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--caracal-20-2020",
+"path": "local/olt/caracal/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 20/2020 privind însușirea raportului de evalure privind patrimoniul public al U.A.T",
+"short": "HCL Caracal nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://www.primariacaracal.ro/hcl-nr-20-28-02-2020/",
 "council": "olt/caracal",
 "council_name": "Consiliul Local al Municipiului Caracal",
 "flags": {

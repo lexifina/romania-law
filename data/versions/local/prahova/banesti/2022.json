@@ -3,6 +3,21 @@
  "shard": "local/prahova/banesti/2022",
  "acts": [
   {
+   "slug": "hcl-prahova--banesti-1-2022",
+   "path": "local/prahova/banesti/2022/1",
+   "short": "HCL Bănești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 1/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna ianuarie 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/49472",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/49472",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-10-2022",
    "path": "local/prahova/banesti/2022/10",
    "short": "HCL Bănești nr. 10/2022",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--banesti-12-2022",
+   "path": "local/prahova/banesti/2022/12",
+   "short": "HCL Bănești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 12/2022 privind aprobarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii pentru anul 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/51584",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/51584",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-13-2022",
    "path": "local/prahova/banesti/2022/13",
    "short": "HCL Bănești nr. 13/2022",
@@ -43,6 +73,36 @@
      "from": "2022-02-11",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/51585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-14-2022",
+   "path": "local/prahova/banesti/2022/14",
+   "short": "HCL Bănești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 14/2022 privind aprobarea alocării unor sume către Clubul Sportiv Băneşti-Urleta în anul 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/51586",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/51586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-15-2022",
+   "path": "local/prahova/banesti/2022/15",
+   "short": "HCL Bănești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 15/2022 privind alocarea unor sume din bugetul local, unitatilor de cult de pe raza comunei Baneşti pentru anul 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/51587",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/51587",
      "sha256": null
     }
    ]
@@ -63,6 +123,276 @@
    ]
   },
   {
+   "slug": "hcl-prahova--banesti-17-2022",
+   "path": "local/prahova/banesti/2022/17",
+   "short": "HCL Bănești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 17/2022 privind aprobarea Regulamentului de acordare a finanţărilor din bugetul comunei Băneşti, pentru activităţi sportive organizate în baza Legii nr.69/2000 a educației fizice şi sportului",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/51589",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/51589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-18-2022",
+   "path": "local/prahova/banesti/2022/18",
+   "short": "HCL Bănești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 18/2022 privind aprobarea contului anual de execuţie a bugetului local al comunei Băneşti, al instituțiilor publice finanțate integral sau parțial din venituri proprii și a situaţiilor financiare pe anul 2021",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/53007",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/53007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-19-2022",
+   "path": "local/prahova/banesti/2022/19",
+   "short": "HCL Bănești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 19/2022 privind aprobarea documentației tehnico-economice (faza P.T.) și a indicatorilor tehnico-economici pentru realizarea lucrării ”Amenajare subtraversare DJ100D în vederea asigurării scurgerii apelor pluviale, comuna Bănești, județul Prahova” aferentă obiectivului de investiții ” MODERNIZARE DRUMIRI LOCALE”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/53008",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/53008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-2-2022",
+   "path": "local/prahova/banesti/2022/2",
+   "short": "HCL Bănești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 2/2022 privind oganizarea reţelei şcolare a unităţilor de învăţământ din comuna Bănești, în anul şcolar 2021-2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/49473",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/49473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-20-2022",
+   "path": "local/prahova/banesti/2022/20",
+   "short": "HCL Bănești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 20/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/53009",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/53009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-21-2022",
+   "path": "local/prahova/banesti/2022/21",
+   "short": "HCL Bănești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 21/2022 privind stabilirea chiriilor pentru folosirea spațiilor cu destinație de cabinete medicale, de pe raza Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/53010",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/53010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-22-2022",
+   "path": "local/prahova/banesti/2022/22",
+   "short": "HCL Bănești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 22/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna martie 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55091",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-23-2022",
+   "path": "local/prahova/banesti/2022/23",
+   "short": "HCL Bănești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 23/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55092",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-24-2022",
+   "path": "local/prahova/banesti/2022/24",
+   "short": "HCL Bănești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 24/2022 privind aprobarea Structurii organizatorice și a Ștatului de funcții ale aparatului de specialitate al Primarului comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55093",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-25-2022",
+   "path": "local/prahova/banesti/2022/25",
+   "short": "HCL Bănești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 25/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55094",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-26-2022",
+   "path": "local/prahova/banesti/2022/26",
+   "short": "HCL Bănești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 26/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55095",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-27-2022",
+   "path": "local/prahova/banesti/2022/27",
+   "short": "HCL Bănești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 27/2022 privind validarea contractului de finantare a actiunilor sportive din cadrul proiectului FOTBAL -PROMOVAREA SPORTULUI DE PERFORMANTA nr.2724/10.03.2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55096",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-28-2022",
+   "path": "local/prahova/banesti/2022/28",
+   "short": "HCL Bănești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 28/2022 privind aprobarea scoaterii din funcțiune și casarea/declasarea unor mijloace fixe aflate în domeniul privat al Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55097",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-29-2022",
+   "path": "local/prahova/banesti/2022/29",
+   "short": "HCL Bănești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 29/2022 privind aprobarea rectificării bugetului local al comunei Bănești pe anul 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55098",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-3-2022",
+   "path": "local/prahova/banesti/2022/3",
+   "short": "HCL Bănești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 3/2022 privind aprobarea Planului anual de actiuni și lucrari de interes local pe anul 2022, ce vor fi executate de beneficiarii Legii nr.416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/49474",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/49474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-30-2022",
+   "path": "local/prahova/banesti/2022/30",
+   "short": "HCL Bănești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 30/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55099",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-31-2022",
+   "path": "local/prahova/banesti/2022/31",
+   "short": "HCL Bănești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 31/2022 privind aprobarea închirierii prin licitaţie publică a spațiului în suprafată de 79,76 mp, cu destinatia CABINET MEDIC DE FAMILIE, situat în incinta ”Dispensarului Uman Bănesti”, comuna Banesti, sat Banesti, strada Drumul Mare, nr.486",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/55100",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/55100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-32-2022",
+   "path": "local/prahova/banesti/2022/32",
+   "short": "HCL Bănești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 32/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna aprilie 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/58910",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/58910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-33-2022",
    "path": "local/prahova/banesti/2022/33",
    "short": "HCL Bănești nr. 33/2022",
@@ -78,6 +408,291 @@
    ]
   },
   {
+   "slug": "hcl-prahova--banesti-34-2022",
+   "path": "local/prahova/banesti/2022/34",
+   "short": "HCL Bănești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 34/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/58912",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/58912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-35-2022",
+   "path": "local/prahova/banesti/2022/35",
+   "short": "HCL Bănești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 35/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/58913",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/58913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-36-2022",
+   "path": "local/prahova/banesti/2022/36",
+   "short": "HCL Bănești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 36/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/58914",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/58914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-37-2022",
+   "path": "local/prahova/banesti/2022/37",
+   "short": "HCL Bănești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 37/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna mai 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/60506",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/60506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-38-2022",
+   "path": "local/prahova/banesti/2022/38",
+   "short": "HCL Bănești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 38/2022 privind aprobarea participării comunei Bănești în cadrul Planului național de redresare și reziliență( PNRR) – apel de proiecte ”COMPONENTA 10 - Fondul Local ” cu proiectul „ Extindere sistem de supraveghere video, Comuna Bănești, județul Prahova”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/60507",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/60507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-39-2022",
+   "path": "local/prahova/banesti/2022/39",
+   "short": "HCL Bănești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 39/2022 privind aprobarea participării comunei Bănești în cadrul Planului național de redresare și reziliență (PNRR) – apel de proiecte ”COMPONENTA 10 - Fondul Local ” cu proiectul ”Reabilitare energetică instituții de învățământ în comuna Bănești, județul Prahova - Clădire școală I-IV Urleta”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/60508",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/60508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-4-2022",
+   "path": "local/prahova/banesti/2022/4",
+   "short": "HCL Bănești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 4/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/49475",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/49475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-40-2022",
+   "path": "local/prahova/banesti/2022/40",
+   "short": "HCL Bănești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 40/2022 privind aprobarea contului de execuţie a bugetului local al comunei Băneşti, al instituțiilor publice finanțate integral sau parțial din venituri proprii și al bugetului creditelor interne la data de 31.03.2022, precum și raportarea facilităților fiscale și a bonificațiilor acordate până la data de 31.03.2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/61530",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/61530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-41-2022",
+   "path": "local/prahova/banesti/2022/41",
+   "short": "HCL Bănești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 41/2022 privind aprobarea terecerii din domeniul public în domeniul privat al Comunei Bănești a imobilului- teren, în suprafață de 204 m.p., având Nr.Cadastral/CF 26060, aferent clădirii ”Fost Post de Control Poliție”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/61531",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/61531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-42-2022",
+   "path": "local/prahova/banesti/2022/42",
+   "short": "HCL Bănești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 42/2022 privindalegerea Preşedintelui de şedinţă pentru ședințele din luna iunie 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/65623",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/65623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-43-2022",
+   "path": "local/prahova/banesti/2022/43",
+   "short": "HCL Bănești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 43/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/65624",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/65624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-44-2022",
+   "path": "local/prahova/banesti/2022/44",
+   "short": "HCL Bănești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 44/2022 privind aprobarea documentației pentru prima înscriere în cartea funciară a tronsoanelor de drumuri locale: De 2061, De 2284/1, De 2070/1, De 2267/1 din Comuna Bănești, Județul Prahova, imobile aflate în proprietatea publică a Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/65625",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/65625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-45-2022",
+   "path": "local/prahova/banesti/2022/45",
+   "short": "HCL Bănești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 45/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/65626",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/65626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-46-2022",
+   "path": "local/prahova/banesti/2022/46",
+   "short": "HCL Bănești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 46/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna iulie 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/66201",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/66201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-47-2022",
+   "path": "local/prahova/banesti/2022/47",
+   "short": "HCL Bănești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 47/2022 privind aprobarea elaborării şi depunerii unei cereri de finanţare în cadrul apelului de proiecte POPAM-2014-2020, Măsura-2SDL-Conservarea mediului, identităţii locale şi promovarea potenţialului turistic al zonei pentru „AMENAJARE PARC TEMATIC URLETA, COMUNA BĂNEȘTI, JUDEȚUL PRAHOVA”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/66202",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/66202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-48-2022",
+   "path": "local/prahova/banesti/2022/48",
+   "short": "HCL Bănești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 48/2022 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2022, precum și estimările pentru anii 2023-2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/66203",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/66203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-49-2022",
+   "path": "local/prahova/banesti/2022/49",
+   "short": "HCL Bănești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 49/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/66204",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/66204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-5-2022",
+   "path": "local/prahova/banesti/2022/5",
+   "short": "HCL Bănești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 5/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/49476",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/49476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-50-2022",
+   "path": "local/prahova/banesti/2022/50",
+   "short": "HCL Bănești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 50/2022 privind aprobarea virărilor de credite bugetare în cadrul bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii pentru anul 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/66205",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/66205",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-51-2022",
    "path": "local/prahova/banesti/2022/51",
    "short": "HCL Bănești nr. 51/2022",
@@ -88,6 +703,426 @@
      "from": "2022-08-03",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/67820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-52-2022",
+   "path": "local/prahova/banesti/2022/52",
+   "short": "HCL Bănești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 52/2022 privind rezilierea Contractului de concesiune nr. 2.512/17.08.2012 încheiat între Comuna Bănești și S.C Aquaforte Interprest S.R.L",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/67821",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/67821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-53-2022",
+   "path": "local/prahova/banesti/2022/53",
+   "short": "HCL Bănești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 53/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna august 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/68745",
+   "versions": [
+    {
+     "from": "2022-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/68745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-54-2022",
+   "path": "local/prahova/banesti/2022/54",
+   "short": "HCL Bănești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 54/2022 privind aprobarea participării Comunei Bănești la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități cu proiectul: „Construire stație de încărcare vehicule electrice și hibrid în comuna Bănești, Județul Prahova”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/68746",
+   "versions": [
+    {
+     "from": "2022-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/68746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-55-2022",
+   "path": "local/prahova/banesti/2022/55",
+   "short": "HCL Bănești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 55/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/69576",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/69576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-56-2022",
+   "path": "local/prahova/banesti/2022/56",
+   "short": "HCL Bănești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 56/2022 privind aprobarea contului de execuţie a bugetului local al comunei Băneşti, al instituțiilor publice finanțate integral sau parțial din venituri proprii și al bugetului creditelor interne la data de 30.06.2022, precum și raportarea facilităților fiscale și a bonificațiilor acordate până la data de 30.06.2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/69577",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/69577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-57-2022",
+   "path": "local/prahova/banesti/2022/57",
+   "short": "HCL Bănești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 57/2022 privind aprobarea documentației pentru prima înscriere în cartea funciară a tronsoanelor de drumuri locale: Dr 233 , Ds 254/1, Dr 702, Ds 713, Ds 679, Ds 280, Dr 1743/1, Ds 1621 și Dr 25/1 din Comuna Bănești, Sat Bănești, Județul Prahova, imobile aflate în proprietatea publică a Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/69578",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/69578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-58-2022",
+   "path": "local/prahova/banesti/2022/58",
+   "short": "HCL Bănești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 58/2022 privind aprobarea documentației pentru prima înscriere în cartea funciară a tronsonului de drum local: De 1280 , din Comuna Bănești, Sat Urleta, Județul Prahova, imobil aflat în proprietatea publică a Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/69579",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/69579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-59-2022",
+   "path": "local/prahova/banesti/2022/59",
+   "short": "HCL Bănești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 59/2022 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/69580",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/69580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-6-2022",
+   "path": "local/prahova/banesti/2022/6",
+   "short": "HCL Bănești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 6/2022 privind aprobarea efectuării operaţiunilor notariale de alipire a două imobile aparţinând domeniului public al comunei Băneşti, situate în sat Bănești, judeţul Prahova",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/49477",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/49477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-60-2022",
+   "path": "local/prahova/banesti/2022/60",
+   "short": "HCL Bănești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 60/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna septembrie 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74436",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-61-2022",
+   "path": "local/prahova/banesti/2022/61",
+   "short": "HCL Bănești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 61/2022 privind aprobarea efectuării operaţiunilor notariale de dezmembrare a terenului în suprafaţă măsurată de 50.000 mp, identificat prin nr.cadastral 22668",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74437",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-62-2022",
+   "path": "local/prahova/banesti/2022/62",
+   "short": "HCL Bănești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 62/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74438",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-63-2022",
+   "path": "local/prahova/banesti/2022/63",
+   "short": "HCL Bănești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 63/2022 privind aprobarea documentației pentru prima înscriere în cartea funciară a unui imobil situat în Comuna Bănești, Sat Bănești, Județul Prahova, imobil aflat în proprietatea publică a Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74439",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-64-2022",
+   "path": "local/prahova/banesti/2022/64",
+   "short": "HCL Bănești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 64/2022 privind aprobarea documentației pentru prima înscriere în cartea funciară a trei imobile situate în Comuna Bănești, Sat Urleta, Județul Prahova, imobile aflate în proprietatea publică a Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74440",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-65-2022",
+   "path": "local/prahova/banesti/2022/65",
+   "short": "HCL Bănești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 65/2022 privind aprobarea implementării proiectului „Achiziție remorcă”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74441",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-66-2022",
+   "path": "local/prahova/banesti/2022/66",
+   "short": "HCL Bănești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 66/2022 privind aprobarea documentației tehnico-economice (faza D.A.L.I.), a indicatorilor tehnico-economici conform Devizului General, pentru realizarea obiectivului de investiții “Reabilitare drumuri în comuna Bănești, judetul Prahova”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74442",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-67-2022",
+   "path": "local/prahova/banesti/2022/67",
+   "short": "HCL Bănești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 67/2022 privind aprobarea categoriilor de cheltuieli cuprinse în Devizul General aferente obiectivului de investiții “Reabilitare drumuri în comuna Bănești, judetul Prahova” din cadrul Programului national de investitii „Anghel Saligny“, finanțate de la bugetul local al comunei Bănești, județul Prahova",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74443",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-68-2022",
+   "path": "local/prahova/banesti/2022/68",
+   "short": "HCL Bănești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 68/2022 privind concesionarea prin licitaţie publică a terenului, în suprafață de 204,00 m.p., Nr.Cadastral/CF 26060 și a clădirii C1, în suprafață construită la sol de 30,00 m.p., Nr.Cadastral/CF 26060, situate în Comuna Bănești, str. D.N.1, F.nr",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74444",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-69-2022",
+   "path": "local/prahova/banesti/2022/69",
+   "short": "HCL Bănești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 69/2022 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74445",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-7-2022",
+   "path": "local/prahova/banesti/2022/7",
+   "short": "HCL Bănești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 7/2022 privind modificarea pct.2 din Anexa la H.C.L.nr.90/25.11.2021, privind implementarea proiectului „Dezvoltarea infrastructurii sociale prin susținerea desfășurării activității ansamblului folcloric al Comunei Bănești”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/49478",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/49478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-70-2022",
+   "path": "local/prahova/banesti/2022/70",
+   "short": "HCL Bănești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 70/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74446",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-71-2022",
+   "path": "local/prahova/banesti/2022/71",
+   "short": "HCL Bănești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 71/2022 privind angajarea Cabinetului de Avocat ”Miralena Ursuleanu”, să reprezinte Comuna Bănești în fața instanțelor judecătorești competente, pentru actualizarea/modificarea actelor constitutive ale Asociației Fotbal Club Bănești-Urleta",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/74447",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/74447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-72-2022",
+   "path": "local/prahova/banesti/2022/72",
+   "short": "HCL Bănești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 72/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna octombrie 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/75500",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/75500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-73-2022",
+   "path": "local/prahova/banesti/2022/73",
+   "short": "HCL Bănești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 73/2022 privind aprobarea elaborării și depunerii unei cereri de finanțare în cadrul apelului de proiecte POPAM – 2014 - 2020, Măsura - 2SDL - Conservarea mediului, identității locale și promovarea potențialului turistic al zonei pentru ”AMENAJARE ZONĂ AGREMENT ÎN URLETA, COMUNA BĂNEȘTI, JUDEȚUL PRAHOVA”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/75501",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/75501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-74-2022",
+   "path": "local/prahova/banesti/2022/74",
+   "short": "HCL Bănești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 74/2022 privind aprobarea Caracteristicilor principale și indicatorii tehnico – economici ai obiectivului de investiții ”Reabilitare Drumuri în Comuna Bănești, Județul Prahova”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/75502",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/75502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-75-2022",
+   "path": "local/prahova/banesti/2022/75",
+   "short": "HCL Bănești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 75/2022 privind aprobarea participării comunei Bănești în cadrul Planului național de redresare și reziliență (PNRR) – apel de proiecte ”COMPONENTA 10 - Fondul Local ” cu proiectul ”Reabilitare sediu Primăria Comunei Bănești, Județul Prahova”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/75503",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/75503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-76-2022",
+   "path": "local/prahova/banesti/2022/76",
+   "short": "HCL Bănești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 76/2022 privind aprobarea participării comunei Bănești în cadrul Planului național de redresare și reziliență (PNRR) – apel de proiecte ”COMPONENTA 10 - Fondul Local ”- I.3 cu proiectul ”Reabilitare energetică instituții de învățământ în comuna Bănești, județul Prahova - Clădire școală veche Sat Bănești”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/75504",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/75504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-77-2022",
+   "path": "local/prahova/banesti/2022/77",
+   "short": "HCL Bănești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 77/2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/77445",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/77445",
      "sha256": null
     }
    ]
@@ -118,6 +1153,21 @@
      "from": "2022-10-31",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/77447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-8-2022",
+   "path": "local/prahova/banesti/2022/8",
+   "short": "HCL Bănești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 8/2022 privind alegerea Preşedintelui de şedinţă pentru ședințele din luna februarie 2022",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/51580",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/51580",
      "sha256": null
     }
    ]

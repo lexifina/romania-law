@@ -3,6 +3,50 @@
 "shard": "local/olt/piatra-olt/2016",
 "acts": [
 {
+"slug": "hcl-olt--piatra-olt-21-2016",
+"path": "local/olt/piatra-olt/2016/21",
+"kind": "local",
+"year": "2016",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 21/2016 Cu privire la: rectificare buget local pe anul 2016",
+"short": "HCL Piatra-Olt nr. 21/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-17",
+"latest": "2016-03-17",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-25-2016",
+"path": "local/olt/piatra-olt/2016/25",
+"kind": "local",
+"year": "2016",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 25/2016 cu privire la : trecerea drumurilor de exploatare din domeniul privat al orasului Piatra Olt in domeniul public al orasului Piatra Olt",
+"short": "HCL Piatra-Olt nr. 25/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-03-29",
+"latest": "2016-03-29",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--piatra-olt-35-2016",
 "path": "local/olt/piatra-olt/2016/35",
 "kind": "local",
@@ -23,6 +67,73 @@
 "flags": {
 "annex_missing": true,
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-45-2016",
+"path": "local/olt/piatra-olt/2016/45",
+"kind": "local",
+"year": "2016",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 45/2016",
+"short": "HCL Piatra-Olt nr. 45/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-10-31",
+"latest": "2016-10-31",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-51-2016",
+"path": "local/olt/piatra-olt/2016/51",
+"kind": "local",
+"year": "2016",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 51/2016 Cu privire la :aprobarea Planului de ocupare a functiilor publice din cadrul aparatului de specialitate al primarului",
+"short": "HCL Piatra-Olt nr. 51/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-11-11",
+"latest": "2016-11-11",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-53-2016",
+"path": "local/olt/piatra-olt/2016/53",
+"kind": "local",
+"year": "2016",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 53/2016",
+"short": "HCL Piatra-Olt nr. 53/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-12-09",
+"latest": "2016-12-09",
+"portal": null,
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--margineni-10-2024",
+   "path": "local/neamt/margineni/2024/10",
+   "short": "HCL Mărgineni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 10/2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/143127",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/143127",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-11-2024",
    "path": "local/neamt/margineni/2024/11",
    "short": "HCL Mărgineni nr. 11/2024",
@@ -33,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--margineni-12-2024",
+   "path": "local/neamt/margineni/2024/12",
+   "short": "HCL Mărgineni nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 12/2024 privind organizarea păşunatului şi aprobarea închirierii prin licitaţie publică a pajiştilor permanente din domeniul public al Comunei Mărgineni, Județul Neamţ, pentru anul 2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/151291",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/151291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-13-2024",
+   "path": "local/neamt/margineni/2024/13",
+   "short": "HCL Mărgineni nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 13/2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/151292",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/151292",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-14-2024",
    "path": "local/neamt/margineni/2024/14",
    "short": "HCL Mărgineni nr. 14/2024",
@@ -43,6 +88,36 @@
      "from": "2024-02-29",
      "units": 1,
      "source_url": "https://emol.ro/margineni-nt/registru-hcl/151293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-15-2024",
+   "path": "local/neamt/margineni/2024/15",
+   "short": "HCL Mărgineni nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 15/2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/151294",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/151294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-16-2024",
+   "path": "local/neamt/margineni/2024/16",
+   "short": "HCL Mărgineni nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 16/2024 privind numirea Comisiei de evaluare pentru procedura simplificată și a unui expert pe partea de achiziții publice, având ca obiect atribuire contractului de lucrări pentru proiectul de investiție: „Modernizare drumuri de interes local în comuna Mărgineni, județul Neamț”",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/151295",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/151295",
      "sha256": null
     }
    ]
@@ -118,6 +193,66 @@
      "from": "2024-03-29",
      "units": 1,
      "source_url": "https://emol.ro/margineni-nt/registru-hcl/153729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-21-2024",
+   "path": "local/neamt/margineni/2024/21",
+   "short": "HCL Mărgineni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 21/2024 privind abrogarea art. 12 și art. 13 din HCL nr. 12 din 29 Februarie 2024, privind organizarea păşunatului şi aprobarea închirierii prin licitaţie publică a pajiştilor permanente din domeniul public al Comunei Mărgineni",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/153730",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/153730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-22-2024",
+   "path": "local/neamt/margineni/2024/22",
+   "short": "HCL Mărgineni nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 22/2024 privind aprobarea închirierii prin licitaţie publică a pajiştilor permanente din domeniul public al Comunei Mărgineni, Județul Neamţ, pentru anul 2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/153731",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/153731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-23-2024",
+   "path": "local/neamt/margineni/2024/23",
+   "short": "HCL Mărgineni nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 23/2024 privind alegerea preşedintelui de şedinţă pentru lunile Aprilie, Mai și Iunie 2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/153732",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/153732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-24-2024",
+   "path": "local/neamt/margineni/2024/24",
+   "short": "HCL Mărgineni nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 24/2024 privind prelungirea, prin act adițional pe un termen de încă 3 (trei) ani a contractelor de închiriere încheiate în anul 2017 între Comuna Mărgineni și crescătorii de animale, pentru pajiștile ce aparțin domeniului public al Comunei",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/153733",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/153733",
      "sha256": null
     }
    ]
@@ -868,6 +1003,21 @@
      "from": "2024-01-30",
      "units": 1,
      "source_url": "https://emol.ro/margineni-nt/registru-hcl/143125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--margineni-9-2024",
+   "path": "local/neamt/margineni/2024/9",
+   "short": "HCL Mărgineni nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 9/2024",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/143126",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/143126",
      "sha256": null
     }
    ]

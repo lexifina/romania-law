@@ -3,6 +3,36 @@
  "shard": "local/neamt/tupilati/2023",
  "acts": [
   {
+   "slug": "hcl-neamt--tupilati-1-2023",
+   "path": "local/neamt/tupilati/2023/1",
+   "short": "HCL Tupilați nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 1/2023 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare înregistrat la data de 31 decembrie 2022",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159034",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-10-2023",
+   "path": "local/neamt/tupilati/2023/10",
+   "short": "HCL Tupilați nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 10/2023 privind aprobarea rectificării bugetului local al Comunei Tupilați pentru anul 2023",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159171",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159171",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tupilati-11-2023",
    "path": "local/neamt/tupilati/2023/11",
    "short": "HCL Tupilați nr. 11/2023",
@@ -13,6 +43,36 @@
      "from": "2023-02-28",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-12-2023",
+   "path": "local/neamt/tupilati/2023/12",
+   "short": "HCL Tupilați nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 12/2023 privind retragerea Comunei Tupilați din cadrul Asociației de Dezvoltare Intercomunitara „AQUA NEAMT” și modificarea Actelor Statutare ale Asociației de Dezvoltare Intercomunitara „AQUA NEAMT”",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159173",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-13-2023",
+   "path": "local/neamt/tupilati/2023/13",
+   "short": "HCL Tupilați nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 13/2023",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159174",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159174",
      "sha256": null
     }
    ]
@@ -93,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tupilati-19-2023",
+   "path": "local/neamt/tupilati/2023/19",
+   "short": "HCL Tupilați nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 19/2023 privind stabilirea modalității de valorificare a materialului lemnos obținut din defrișarea unor arbori",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159180",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159180",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tupilati-2-2023",
    "path": "local/neamt/tupilati/2023/2",
    "short": "HCL Tupilați nr. 2/2023",
@@ -118,6 +193,36 @@
      "from": "2023-04-26",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-21-2023",
+   "path": "local/neamt/tupilati/2023/21",
+   "short": "HCL Tupilați nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 21/2023",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159184",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-22-2023",
+   "path": "local/neamt/tupilati/2023/22",
+   "short": "HCL Tupilați nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 22/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159185",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159185",
      "sha256": null
     }
    ]
@@ -153,6 +258,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tupilati-25-2023",
+   "path": "local/neamt/tupilati/2023/25",
+   "short": "HCL Tupilați nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 25/2023 privind aprobarea unor masuri privind desfășurarea activității culturale „Sărbătoarea Sânzienelor” 2023 in comuna Tupilați, judeţul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159188",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-26-2023",
+   "path": "local/neamt/tupilati/2023/26",
+   "short": "HCL Tupilați nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 26/2023 privind reprezentaților Consiliului local al comunei Tupilati in comisia de licitaţie pentru concesionarea unor terenuri aparținând domeniului public/privat al Comunei Tupilați",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159189",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159189",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tupilati-27-2023",
    "path": "local/neamt/tupilati/2023/27",
    "short": "HCL Tupilați nr. 27/2023",
@@ -163,6 +298,36 @@
      "from": "2024-06-17",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-28-2023",
+   "path": "local/neamt/tupilati/2023/28",
+   "short": "HCL Tupilați nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 28/2023 privind completarea listei bunurilor care aparțin domeniului privat al comunei Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159191",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-29-2023",
+   "path": "local/neamt/tupilati/2023/29",
+   "short": "HCL Tupilați nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 29/2023 privind aprobarea rectificării bugetului local al Comunei Tupilați pentru anul 2023",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159192",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159192",
      "sha256": null
     }
    ]
@@ -183,6 +348,126 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tupilati-30-2023",
+   "path": "local/neamt/tupilati/2023/30",
+   "short": "HCL Tupilați nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 30/2023 privind modificarea listei bunurilor care aparțin domeniului privat al comunei Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159193",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-31-2023",
+   "path": "local/neamt/tupilati/2023/31",
+   "short": "HCL Tupilați nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 31/2023",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159194",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-32-2023",
+   "path": "local/neamt/tupilati/2023/32",
+   "short": "HCL Tupilați nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 32/2023 privind înstrăinarea prin vânzare cu drept de preemțiune a unei suprafețe de teren situată in intravilanul satului Tupilați si aparținând domeniului privat al comunei Tupilați",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159195",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-33-2023",
+   "path": "local/neamt/tupilati/2023/33",
+   "short": "HCL Tupilați nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 33/2023 privind insusirea raportului de evaluare si aprobarea vânzării prin licitaţie publică a unei suprafeţe de teren situată in intravilanul satului Tupilati și apartinand domeniului privat al comunei Tupilati",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159196",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-34-2023",
+   "path": "local/neamt/tupilati/2023/34",
+   "short": "HCL Tupilați nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 34/2023 privind insusirea raportului de evaluare si aprobarea vânzării prin licitaţie publică a unei suprafeţe de teren neproductiv extravilan aflată în proprietate privată a comunei Tupilati",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159197",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-35-2023",
+   "path": "local/neamt/tupilati/2023/35",
+   "short": "HCL Tupilați nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 35/2023 privind acordarea unui ajutor de urgenta numitei Munteanu Irina-Elena",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159198",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-36-2023",
+   "path": "local/neamt/tupilati/2023/36",
+   "short": "HCL Tupilați nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 36/2023 privind înregistrarea unor bunuri in domeniul public al comunei Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159199",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-37-2023",
+   "path": "local/neamt/tupilati/2023/37",
+   "short": "HCL Tupilați nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 37/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159200",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159200",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tupilati-38-2023",
    "path": "local/neamt/tupilati/2023/38",
    "short": "HCL Tupilați nr. 38/2023",
@@ -198,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tupilati-39-2023",
+   "path": "local/neamt/tupilati/2023/39",
+   "short": "HCL Tupilați nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 39/2023 privind neasumarea responsabilități organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159214",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159214",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tupilati-4-2023",
    "path": "local/neamt/tupilati/2023/4",
    "short": "HCL Tupilați nr. 4/2023",
@@ -208,6 +508,21 @@
      "from": "2023-01-30",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-40-2023",
+   "path": "local/neamt/tupilati/2023/40",
+   "short": "HCL Tupilați nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 40/2023 privind acceptarea ofertei de donație",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159215",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159215",
      "sha256": null
     }
    ]
@@ -238,6 +553,21 @@
      "from": "2024-06-17",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-43-2023",
+   "path": "local/neamt/tupilati/2023/43",
+   "short": "HCL Tupilați nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 43/2023 privind aprobarea alipirii a două suprafețe de teren aparţinând domeniului public al comunei Tupilati, judeţul Neamt",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159218",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159218",
      "sha256": null
     }
    ]
@@ -583,6 +913,21 @@
      "from": "2023-01-30",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-8-2023",
+   "path": "local/neamt/tupilati/2023/8",
+   "short": "HCL Tupilați nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 8/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159168",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159168",
      "sha256": null
     }
    ]

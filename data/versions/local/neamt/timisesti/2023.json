@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--timisesti-101-2023",
+   "path": "local/neamt/timisesti/2023/101",
+   "short": "HCL Timișești nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 101/2023",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/131505",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/131505",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--timisesti-102-2023",
    "path": "local/neamt/timisesti/2023/102",
    "short": "HCL Timișești nr. 102/2023",
@@ -468,6 +483,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--timisesti-68-2023",
+   "path": "local/neamt/timisesti/2023/68",
+   "short": "HCL Timișești nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 68/2023 privind aprobarea preţului de vânzare al compostului obţinut de operatorul platformei comunale de depozitare şi gospodărire a gunoiului de grajd din comuna Timișești, judeţul Neamț",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/118930",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/118930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-69-2023",
+   "path": "local/neamt/timisesti/2023/69",
+   "short": "HCL Timișești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 69/2023 privind desemnarea reprezentanților consiliului local al comunei în consiliul de administrație al Școlii gimnaziale comuna Timișești",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/118931",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/118931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-70-2023",
+   "path": "local/neamt/timisesti/2023/70",
+   "short": "HCL Timișești nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 70/2023 privind desemnarea reprezentantului Consiliului local al comunei Timisesti in Comisia pentru evaluarea si asigurarea calitatii educatiei in unitatile de invatamint preuniversitar de stat din comuna Timisesti",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/118932",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/118932",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--timisesti-71-2023",
    "path": "local/neamt/timisesti/2023/71",
    "short": "HCL Timișești nr. 71/2023",
@@ -528,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--timisesti-75-2023",
+   "path": "local/neamt/timisesti/2023/75",
+   "short": "HCL Timișești nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 75/2023 privind aprobarea inlocuirii unui reprezentant desemnat de Consiliului Local al comunei Timisesti în consiliul de administrație al Școlii gimnaziale comuna Timișești, pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123370",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123370",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--timisesti-76-2023",
    "path": "local/neamt/timisesti/2023/76",
    "short": "HCL Timișești nr. 76/2023",
@@ -553,6 +628,36 @@
      "from": "2023-10-04",
      "units": 1,
      "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-78-2023",
+   "path": "local/neamt/timisesti/2023/78",
+   "short": "HCL Timișești nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 78/2023 privind aprobarea unui act adițional la contractul de închiriere nr. 4667 din 02.10.2018",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123373",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-79-2023",
+   "path": "local/neamt/timisesti/2023/79",
+   "short": "HCL Timișești nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 79/2023 privind aprobarea unui act adițional la contractul de închiriere nr. 4670 din 02.10.2018",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/123374",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/123374",
      "sha256": null
     }
    ]
@@ -778,6 +883,21 @@
      "from": "2023-11-08",
      "units": 1,
      "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--timisesti-95-2023",
+   "path": "local/neamt/timisesti/2023/95",
+   "short": "HCL Timișești nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Timișești nr. 95/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/timisesti-nt/registru-hcl/127558",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/timisesti-nt/registru-hcl/127558",
      "sha256": null
     }
    ]

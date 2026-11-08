@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/olt/piatra-olt/2014",
+ "acts": [
+  {
+   "slug": "hcl-olt--piatra-olt-23-2014",
+   "path": "local/olt/piatra-olt/2014/23",
+   "short": "HCL Piatra-Olt nr. 23/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 23/2014 Cu privire la: Rectificare buget local din venituri proprii pe anul 2014",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2014-06-20",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/23-2014.pdf",
+     "sha256": "3d13c2fd6b1eaec2baf526347c0edd5c6fc185dab3017091b6744fc03bc3ef03"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/neamt/tupilati/2024",
  "acts": [
   {
+   "slug": "hcl-neamt--tupilati-1-2024",
+   "path": "local/neamt/tupilati/2024/1",
+   "short": "HCL Tupilați nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 1/2024 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare înregistrat la data de 31 decembrie 2023",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159264",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159264",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tupilati-10-2024",
    "path": "local/neamt/tupilati/2024/10",
    "short": "HCL Tupilați nr. 10/2024",
@@ -13,6 +28,51 @@
      "from": "2024-06-17",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-11-2024",
+   "path": "local/neamt/tupilati/2024/11",
+   "short": "HCL Tupilați nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 11/2024 privind modificarea HCL Tupilați nr. 3/ 2024 privind aprobarea taxei speciale de salubrizare aferentă anului 2024 pentru utilizatorii casnici și non-casnici din comuna Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159274",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-12-2024",
+   "path": "local/neamt/tupilati/2024/12",
+   "short": "HCL Tupilați nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 12/2024 privind aprobarea rectificării bugetului local al Comunei Tupilați pentru anul 2024",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159291",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-13-2024",
+   "path": "local/neamt/tupilati/2024/13",
+   "short": "HCL Tupilați nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 13/2024 privind aprobarea activităților finanțate integral din venituri proprii, sursa E de finanțare pentru Școala Gimnazială Comuna Tupilați, județul Neamț",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159292",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159292",
      "sha256": null
     }
    ]
@@ -103,6 +163,21 @@
      "from": "2024-06-17",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-2-2024",
+   "path": "local/neamt/tupilati/2024/2",
+   "short": "HCL Tupilați nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 2/2024",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159265",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159265",
      "sha256": null
     }
    ]
@@ -358,6 +433,21 @@
      "from": "2024-06-17",
      "units": 1,
      "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tupilati-6-2024",
+   "path": "local/neamt/tupilati/2024/6",
+   "short": "HCL Tupilați nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tupilați nr. 6/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/tupilati-nt/registru-hcl/159269",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tupilati-nt/registru-hcl/159269",
      "sha256": null
     }
    ]

@@ -3,6 +3,141 @@
  "shard": "local/prahova/banesti/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--banesti-1-2025",
+   "path": "local/prahova/banesti/2025/1",
+   "short": "HCL Bănești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 1/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii ianuarie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/187812",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/187812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-10-2025",
+   "path": "local/prahova/banesti/2025/10",
+   "short": "HCL Bănești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 10/2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/195160",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/195160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-11-2025",
+   "path": "local/prahova/banesti/2025/11",
+   "short": "HCL Bănești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 11/2025 privind privind însușirea Acordului de cooperare privind organizarea si exercitarea acțiunilor si activitătilor Departamentului Administrativ prin care se asigură satisfacerea nevoilor de utilitate si interes public general al comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/195161",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/195161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-12-2025",
+   "path": "local/prahova/banesti/2025/12",
+   "short": "HCL Bănești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 12/2025 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Bănești, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile decembrie 2024 și ianuarie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/195162",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/195162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-13-2025",
+   "path": "local/prahova/banesti/2025/13",
+   "short": "HCL Bănești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 13/2025 privind aprobarea închirierii prin atribuire directă, a unor suprafeţe de pajişte care fac parte din domeniul privat al Comunei Bănești, judeţul Prahova, în baza cererii Asociației crescătorilor de bovine ”Bruna de Bănești”, având animalele înscrise în RNE şi/sau în SIIE, care are sediul social pe teritoriul Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/195163",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/195163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-14-2025",
+   "path": "local/prahova/banesti/2025/14",
+   "short": "HCL Bănești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 14/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii martie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199188",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-15-2025",
+   "path": "local/prahova/banesti/2025/15",
+   "short": "HCL Bănești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 15/2025 privind aprobarea contului anual de execuţie a bugetului local al comunei Băneşti, al instituțiilor publice finanțate integral sau parțial din venituri proprii și a situaţiilor financiare pe anul 2024",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199189",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-16-2025",
+   "path": "local/prahova/banesti/2025/16",
+   "short": "HCL Bănești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 16/2025 privind darea în administrarea Asociației Fotbal Club Bănești – Urleta a unor bunuri imobile pentru desfășurarea activității sportive",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199190",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-17-2025",
+   "path": "local/prahova/banesti/2025/17",
+   "short": "HCL Bănești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 17/2025 privind aprobarea modului de întocmire a registrului agricol pentru perioada 2025-2029",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199191",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199191",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-18-2025",
    "path": "local/prahova/banesti/2025/18",
    "short": "HCL Bănești nr. 18/2025",
@@ -13,6 +148,96 @@
      "from": "2025-04-02",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/199192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-19-2025",
+   "path": "local/prahova/banesti/2025/19",
+   "short": "HCL Bănești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 19/2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199193",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-2-2025",
+   "path": "local/prahova/banesti/2025/2",
+   "short": "HCL Bănești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 2/2025 privind aprobarea implementării proiectului ”ACHIZIȚIE CIOCAN HIDRAULIC INSONORIZAT ’’",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/187813",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/187813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-20-2025",
+   "path": "local/prahova/banesti/2025/20",
+   "short": "HCL Bănești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 20/2025 privind aprobarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral din venituri proprii pentru anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199194",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-21-2025",
+   "path": "local/prahova/banesti/2025/21",
+   "short": "HCL Bănești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 21/2025 privind alocarea unor sume din bugetul local, unitatilor de cult de pe raza comunei Baneşti, pentru anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199195",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-22-2025",
+   "path": "local/prahova/banesti/2025/22",
+   "short": "HCL Bănești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 22/2025 privind aprobarea numărului de asistenti personali ai persoanelor cu handicap grav pentru anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199196",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-23-2025",
+   "path": "local/prahova/banesti/2025/23",
+   "short": "HCL Bănești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 23/2025 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Bănești, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru luna februarie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199197",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199197",
      "sha256": null
     }
    ]
@@ -33,6 +258,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--banesti-25-2025",
+   "path": "local/prahova/banesti/2025/25",
+   "short": "HCL Bănești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 25/2025 privind alocarea unor sume de bani pentru susţinerea financiară a unor manifestări culturale, artistice, sportive şi educative organizate de Consiliul local, în anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199199",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-26-2025",
+   "path": "local/prahova/banesti/2025/26",
+   "short": "HCL Bănești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 26/2025 privind aprobarea Regulamentului de acordare a finanţărilor din bugetul comunei Băneşti, pentru activităţi sportive organizate în baza Legii nr.69/2000 a educației fizice şi sportului",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199200",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-27-2025",
+   "path": "local/prahova/banesti/2025/27",
+   "short": "HCL Bănești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 27/2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/199201",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/199201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-28-2025",
+   "path": "local/prahova/banesti/2025/28",
+   "short": "HCL Bănești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 28/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii aprilie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/204227",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/204227",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-29-2025",
    "path": "local/prahova/banesti/2025/29",
    "short": "HCL Bănești nr. 29/2025",
@@ -43,6 +328,171 @@
      "from": "2025-05-05",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/204228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-3-2025",
+   "path": "local/prahova/banesti/2025/3",
+   "short": "HCL Bănești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 3/2025 privind aprobarea utilizării excedentului bugetar din anul 2024 în anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/187814",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/187814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-30-2025",
+   "path": "local/prahova/banesti/2025/30",
+   "short": "HCL Bănești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 30/2025 privind nominalizarea agenților economici din rețeaua comercială a comunei Bănești în cadrul Programului de aprovizionare a populației comunei Bănești cu produse agroalimentare raționalizate, în caz de mobilizare sau de război",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/204229",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/204229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-31-2025",
+   "path": "local/prahova/banesti/2025/31",
+   "short": "HCL Bănești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 31/2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/204230",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/204230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-32-2025",
+   "path": "local/prahova/banesti/2025/32",
+   "short": "HCL Bănești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 32/2025 privind vânzarea prin licitaţie publică a unei cantități totale de 145,71 m.c. de lemn lucru, rezultat ca urmare a lucrarilor de defrișare/toaletare arbori în zona ”Siliște”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/204231",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/204231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-33-2025",
+   "path": "local/prahova/banesti/2025/33",
+   "short": "HCL Bănești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 33/2025 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Bănești, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru luna martie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/204232",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/204232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-34-2025",
+   "path": "local/prahova/banesti/2025/34",
+   "short": "HCL Bănești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 34/2025 privind validarea contractului de finantare a actiunilor sportive din cadrul proiectului FOTBAL -PROMOVAREA SPORTULUI DE PERFORMANTA nr.3756/17.04.2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/204233",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/204233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-35-2025",
+   "path": "local/prahova/banesti/2025/35",
+   "short": "HCL Bănești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 35/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii mai 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/209954",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/209954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-36-2025",
+   "path": "local/prahova/banesti/2025/36",
+   "short": "HCL Bănești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 36/2025 privind aprobarea contului de execuţie a bugetului local al comunei Băneşti, al instituțiilor publice finanțate integral sau parțial din venituri proprii la data de 31.03.2025, precum și raportarea facilităților fiscale și a bonificațiilor acordate până la data de 31.03.2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/209955",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/209955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-37-2025",
+   "path": "local/prahova/banesti/2025/37",
+   "short": "HCL Bănești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 37/2025 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Bănești, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru luna aprilie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/209956",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/209956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-38-2025",
+   "path": "local/prahova/banesti/2025/38",
+   "short": "HCL Bănești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 38/2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/209957",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/209957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-39-2025",
+   "path": "local/prahova/banesti/2025/39",
+   "short": "HCL Bănești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 39/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii iunie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/212300",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/212300",
      "sha256": null
     }
    ]
@@ -63,6 +513,306 @@
    ]
   },
   {
+   "slug": "hcl-prahova--banesti-40-2025",
+   "path": "local/prahova/banesti/2025/40",
+   "short": "HCL Bănești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 40/2025 privind validarea Dispoziției nr.66/30.05.2025 privind aprobarea rectificării bugetului local al Comunei Bănești pentru anul 2025, prin modificarea repartizării pe trimestre a prevederilor bugetare",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/212301",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/212301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-41-2025",
+   "path": "local/prahova/banesti/2025/41",
+   "short": "HCL Bănești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 41/2025 privind actualizarea devizului general aferent obiectivului de investiții „Reabilitare drumuri în comuna Bănești, județul Prahova”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/212302",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/212302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-42-2025",
+   "path": "local/prahova/banesti/2025/42",
+   "short": "HCL Bănești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 42/2025 privind aprobarea documentației tehnico – economice (faza PT) a indicatorilor tehnico – economici și a devizului general pentru realizarea lucrării „AMENAJARE RIGOLE ȘI TROTUARE PE STRADA AUREL VLAICU (DJ100D)” aferenta obiectivului de investiții ,,AMENAJARE SISTEM DE SCURGERE APE PLUVIALE ÎN VEDEREA PREVENIRII INUNDAȚIILOR ÎN COMUNA BĂNEȘTI, JUDEȚUL PRAHOVA”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/212303",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/212303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-43-2025",
+   "path": "local/prahova/banesti/2025/43",
+   "short": "HCL Bănești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 43/2025 privind alegerea viceprimarului comunei Băneşti, județul Prahova",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/212304",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/212304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-44-2025",
+   "path": "local/prahova/banesti/2025/44",
+   "short": "HCL Bănești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 44/2025 privind aprobarea participării comunei Bănești în cadrul Proiectului ”Modernizare prin digitalizare, transformare și inovare pentru Comunitatea din Comuna Bănești, Județul Prahova”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/214026",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/214026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-45-2025",
+   "path": "local/prahova/banesti/2025/45",
+   "short": "HCL Bănești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 45/2025 privind aprobarea documentației tehnico – economice (faza PT) a indicatorilor tehnico – economici și a devizului general pentru obiectivul de investiție ”Modernizare drumuri locale-Amenajare drum acces creșă (De 2267/1, Ds 2070/1, De2061)”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/214027",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/214027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-46-2025",
+   "path": "local/prahova/banesti/2025/46",
+   "short": "HCL Bănești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 46/2025 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Bănești, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru luna mai 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/214028",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/214028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-47-2025",
+   "path": "local/prahova/banesti/2025/47",
+   "short": "HCL Bănești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 47/2025 privind aprobarea documentației pentru prima înscriere în cartea funciară a unui imobil situat în Comuna Bănești, Sat Bănești, Județul Prahova, imobil aflat în proprietatea privată a Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/214029",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/214029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-48-2025",
+   "path": "local/prahova/banesti/2025/48",
+   "short": "HCL Bănești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 48/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii iulie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/219411",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/219411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-49-2025",
+   "path": "local/prahova/banesti/2025/49",
+   "short": "HCL Bănești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 49/2025 privind aprobarea actualizării Planului anual de acţiune privind serviciile sociale administrate și finanțate din bugetul comunei Băneşti pentru anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/219412",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/219412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-5-2025",
+   "path": "local/prahova/banesti/2025/5",
+   "short": "HCL Bănești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 5/2025 privind nominalizarea a doi consilieri locali pentru a fi desemnați în comisia de evaluare a performanțelor profesionale ale secretarului general al comunei pe anul 2024",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/189111",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/189111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-50-2025",
+   "path": "local/prahova/banesti/2025/50",
+   "short": "HCL Bănești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 50/2025 privind actualizarea componenței Consiliului Comunitar Consultativ constituit la nivelul comunei Bănești județul Prahova, și aprobarea Regulamentului de organizare și funcționare al acestuia",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/219413",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/219413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-51-2025",
+   "path": "local/prahova/banesti/2025/51",
+   "short": "HCL Bănești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 51/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii si combaterii riscului de sărăcie si excluziune sociala, la nivelul comunei Bănești, pe anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/219414",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/219414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-52-2025",
+   "path": "local/prahova/banesti/2025/52",
+   "short": "HCL Bănești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 52/2025 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2025, precum și estimări pentru anii 2026-2028",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/219415",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/219415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-53-2025",
+   "path": "local/prahova/banesti/2025/53",
+   "short": "HCL Bănești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 53/2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/219416",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/219416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-54-2025",
+   "path": "local/prahova/banesti/2025/54",
+   "short": "HCL Bănești nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 54/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii august 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/221586",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/221586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-55-2025",
+   "path": "local/prahova/banesti/2025/55",
+   "short": "HCL Bănești nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 55/2025 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Bănești, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile iunie și iulie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/221587",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/221587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-56-2025",
+   "path": "local/prahova/banesti/2025/56",
+   "short": "HCL Bănești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 56/2025 privind aprobarea contului de execuţie a bugetului local al comunei Băneşti, al instituțiilor publice finanțate integral sau parțial din venituri proprii la data de 30.06.2025, precum și raportarea facilităților fiscale și a bonificațiilor acordate până la data de 30.06.2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/221588",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/221588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-57-2025",
+   "path": "local/prahova/banesti/2025/57",
+   "short": "HCL Bănești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 57/2025 privind actualizarea caracteristicilor principale și indicatorilor tehnico-economici pentru obiectivul de investiții “Reabilitare Drumuri în Comuna Bănești, Judetul Prahova” – faza finalizare executie lucrări",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/221589",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/221589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-58-2025",
+   "path": "local/prahova/banesti/2025/58",
+   "short": "HCL Bănești nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 58/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii septembrie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/226641",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/226641",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-59-2025",
    "path": "local/prahova/banesti/2025/59",
    "short": "HCL Bănești nr. 59/2025",
@@ -73,6 +823,141 @@
      "from": "2025-09-25",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/226642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-6-2025",
+   "path": "local/prahova/banesti/2025/6",
+   "short": "HCL Bănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 6/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii februarie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/195156",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/195156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-60-2025",
+   "path": "local/prahova/banesti/2025/60",
+   "short": "HCL Bănești nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 60/2025 privind alegerea Preşedintelui de şedinţă pentru ședințele lunii octombrie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/232611",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/232611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-61-2025",
+   "path": "local/prahova/banesti/2025/61",
+   "short": "HCL Bănești nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 61/2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/232612",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/232612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-62-2025",
+   "path": "local/prahova/banesti/2025/62",
+   "short": "HCL Bănești nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 62/2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/232613",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/232613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-63-2025",
+   "path": "local/prahova/banesti/2025/63",
+   "short": "HCL Bănești nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 63/2025 privind darea în administrare Asociației Club Sportiv Viitorul Bănești a unor bunuri imobile, proprietate publică a comunei Bănești, pentru desfășurarea activității sportive",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/232614",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/232614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-64-2025",
+   "path": "local/prahova/banesti/2025/64",
+   "short": "HCL Bănești nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 64/2025 privind aprobarea implementării proiectului ,,ACHIZIȚIE ECHIPAMENT AVERTIZARE-ALARMARE PUBLICĂ’’",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/232615",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/232615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-65-2025",
+   "path": "local/prahova/banesti/2025/65",
+   "short": "HCL Bănești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 65/2025 privind aprobarea sistării virării sumei de 115.000 lei către Asociația Fotbal Club Bănești – Urleta, reprezentând tranșa a II a prevăzută în Contractul de finanțare a acțiunilor/activităților sportive din cadrul proiectului ”FOTBAL-PROMOVAREA SPORTULUI DE PERFORMANȚĂ”, înregistrat sub nr. 3.756/17.04.2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/232616",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/232616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-66-2025",
+   "path": "local/prahova/banesti/2025/66",
+   "short": "HCL Bănești nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 66/2025 privind decontarea cheltuielilor pentru deplasarea cadrelor didactice care își desfășoară activitatea în unitățile de învățământ din comuna Bănești, din localitatea de reşedinţă la locul de muncă şi de la locul de muncă în localitatea de reşedinţă pentru lunile august și septembrie 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/232617",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/232617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-67-2025",
+   "path": "local/prahova/banesti/2025/67",
+   "short": "HCL Bănești nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 67/2025 privind aprobarea rectificării bugetului local al comunei Bănești și a listei de investiții pe anul 2025",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/232618",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/232618",
      "sha256": null
     }
    ]
@@ -103,6 +988,21 @@
      "from": "2025-11-10",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/235037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-7-2025",
+   "path": "local/prahova/banesti/2025/7",
+   "short": "HCL Bănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 7/2025 privind aprobarea închirierii prin licitaţie publică a spațiului în suprafată de 70 mp, cu destinatia birouri, situat la mansarda constructiei C4-Cabinet Stomatologic, nr.cadastral 21617, în comuna Banesti, sat Urleta, strada Principală, nr.119",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/195157",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/195157",
      "sha256": null
     }
    ]
@@ -258,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--banesti-8-2025",
+   "path": "local/prahova/banesti/2025/8",
+   "short": "HCL Bănești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 8/2025 privind aprobarea actualizării devizului general și a devizelor generale defalcate pe cheltuieli eligibile și neeligibile aferente obiectivului de investiții „REABILITARE ENERGETICĂ INSTITUȚII DE ÎNVAȚĂMÂNT ÎN COMUNA BĂNEȘTI, JUDEȚUL PRAHOVA – CLĂDIRE ȘCOALĂ VECHE, SAT BĂNEȘTI”",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/195158",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/195158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--banesti-80-2025",
    "path": "local/prahova/banesti/2025/80",
    "short": "HCL Bănești nr. 80/2025",
@@ -373,6 +1288,21 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/banesti-ph/registru-hcl/244298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--banesti-9-2025",
+   "path": "local/prahova/banesti/2025/9",
+   "short": "HCL Bănești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bănești nr. 9/2025 privind aprobarea documentației pentru prima înscriere în cartea funciară a unui teren în suprafață de 269.00 m.p. situat în Comuna Bănești, Sat Bănești, Județul Prahova, imobil aflat în proprietatea publică a Comunei Bănești",
+   "url": "https://emol.ro/banesti-ph/registru-hcl/195159",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/banesti-ph/registru-hcl/195159",
      "sha256": null
     }
    ]

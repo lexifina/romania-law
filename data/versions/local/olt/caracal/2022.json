@@ -423,6 +423,156 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-170-2022",
+   "path": "local/olt/caracal/2022/170",
+   "short": "HCL Caracal nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 170/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-170-12-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/10/HCLnr.170din12.10.2022.pdf",
+     "sha256": "cb45ae5c8e76db7eee60898817e9c3fb101c453e1585d859da90a36cfb18dd8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-171-2022",
+   "path": "local/olt/caracal/2022/171",
+   "short": "HCL Caracal nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 171/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-171-12-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/10/HCLnr.171din12.10.2022.pdf",
+     "sha256": "8ff720dd4fa35c2a83e273fe684054eb5804374d76f29200a5d11710bb46c47e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-172-2022",
+   "path": "local/olt/caracal/2022/172",
+   "short": "HCL Caracal nr. 172/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 172/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-172-12-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/10/HCLnr.172din12.10.2022.pdf",
+     "sha256": "16b3f7d6dc782a1ca0c6653c4d22596d81dc94ad05574e9641c4a45eec6814e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-173-2022",
+   "path": "local/olt/caracal/2022/173",
+   "short": "HCL Caracal nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 173/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-173-13-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/10/hcl-173-autobuze-Caracal.pdf",
+     "sha256": "8a0c53d2851a3d668c343b776299fc60d66b6e497ad643f9ce9fc7765e8f9b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-174-2022",
+   "path": "local/olt/caracal/2022/174",
+   "short": "HCL Caracal nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 174/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-174-24-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/10/HCL-174-modificare-protocol-caini-Bals.pdf",
+     "sha256": "50bb994518694c5cf5706c3829bfb59583d2cf1c941def036f62c0294de63a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-175-2022",
+   "path": "local/olt/caracal/2022/175",
+   "short": "HCL Caracal nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 175/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-175-24-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/11/HCLnr.175din24.10.2022.pdf",
+     "sha256": "24202ac5fda3bdbcc1c725daa0a6f6de3ed98fba19fa23eadec1c06303dbaec9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-176-2022",
+   "path": "local/olt/caracal/2022/176",
+   "short": "HCL Caracal nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 176/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-176-24-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/10/HCL-176-retragere-bunuri-CAO.pdf",
+     "sha256": "3bb576dfd64a4a890cbb3b4ab85def1b8df2ed6267ab384735b1d89af259ad5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-177-2022",
+   "path": "local/olt/caracal/2022/177",
+   "short": "HCL Caracal nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 177/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-177-31-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/11/HCLnr.177din31.10.2022.pdf",
+     "sha256": "c4767dfe6aeb33597c979ea1ad6b4128cef570c3c15d6329693afb2b0e6fb187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-178-2022",
+   "path": "local/olt/caracal/2022/178",
+   "short": "HCL Caracal nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 178/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-178-31-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/11/HCLnr.178din31.10.2022.pdf",
+     "sha256": "39f5a784ba6dc42722f082f9afea9d5229316bea405a2ead24867937b91e3aff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-179-2022",
+   "path": "local/olt/caracal/2022/179",
+   "short": "HCL Caracal nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 179/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-179-31-10-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/11/HCLnr.179din31.10.2022.pdf",
+     "sha256": "38dd33e20ab893d5d19edc56c6666172292b79ef2ff564e6fd2e8ec0aa1070c8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-18-2022",
    "path": "local/olt/caracal/2022/18",
    "short": "HCL Caracal nr. 18/2022",
@@ -1098,6 +1248,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-222-2022",
+   "path": "local/olt/caracal/2022/222",
+   "short": "HCL Caracal nr. 222/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 222/2022 pentru imobilul situat în Caracal, str",
+   "url": "https://www.primariacaracal.ro/hcl-nr-222-27-12-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/12/hcl-222-majorare-impozit-ROMCOM-MIXT-str.-Piata-Victoriei-nr.-5.pdf",
+     "sha256": "b095bce2654506ea22babb5201901722be9b3b043fea18315b38b8e189308a9e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-224-2022",
    "path": "local/olt/caracal/2022/224",
    "short": "HCL Caracal nr. 224/2022",
@@ -1259,6 +1424,21 @@
      "units": 1,
      "source_url": "https://www.primariacaracal.ro/hcl-nr-234-27-12-2022/",
      "sha256": "1ffb7afa08f1519ea7a959416b91682736f50e443f760851987847e2bfcc95b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-235-2022",
+   "path": "local/olt/caracal/2022/235",
+   "short": "HCL Caracal nr. 235/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 235/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-235-27-12-2022/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/hcl-nr-235-27-12-2022/",
+     "sha256": "f2f320b30318f3ee2a52d04799759eae4882542e44ffcc9f607f082b619d8615"
     }
    ]
   },
@@ -1923,6 +2103,36 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-51-2022",
+   "path": "local/olt/caracal/2022/51",
+   "short": "HCL Caracal nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 51/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-51-28-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/HCLnr.51din28.03.2022.pdf",
+     "sha256": "302599195ac16b1917c3069c60dd0777991e2d660489f17891f3e9ec79fba470"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-52-2022",
+   "path": "local/olt/caracal/2022/52",
+   "short": "HCL Caracal nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 52/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-52-28-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/HCLnr.52din28.03.2022.pdf",
+     "sha256": "dc87eb7e0cd4145ec1065eecb7389599c3dbcab425c3f7e571f5e639c416b900"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-53-2022",
    "path": "local/olt/caracal/2022/53",
    "short": "HCL Caracal nr. 53/2022",
@@ -1934,6 +2144,51 @@
      "units": 1,
      "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/HCLnr.53din28.03.2022.pdf",
      "sha256": "7f10ae7db55a7dd59e7ea16845dc3e735fdd03218cbe059a03cb9e15c6f46c72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-54-2022",
+   "path": "local/olt/caracal/2022/54",
+   "short": "HCL Caracal nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 54/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-54-28-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/HCLnr.54din28.03.2022.pdf",
+     "sha256": "753c8886258fb6c8d05bf503427cd4ca8eba8cd4508c48e2fc7174e206f06a57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-55-2022",
+   "path": "local/olt/caracal/2022/55",
+   "short": "HCL Caracal nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 55/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-55-28-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/HCLnr.55din28.03.2022.pdf",
+     "sha256": "fadc25477f6c95f6f0e333d2c8dc12032459cc8104710dfa0d6b42a79504be1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-56-2022",
+   "path": "local/olt/caracal/2022/56",
+   "short": "HCL Caracal nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 56/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-56-28-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/HCLnr.56din28.03.2022.pdf",
+     "sha256": "3ae1dc83fb86ac84d80934bbd32acaaf187c07a7f3934c1384a816ce57df1b80"
     }
    ]
   },
@@ -1953,6 +2208,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-59-2022",
+   "path": "local/olt/caracal/2022/59",
+   "short": "HCL Caracal nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 59/2022 pentru anul 2022 AVÂND ÎN VEDERE: - Referatul de aprobare nr. 19419/23.03.2022 al Primarului Municipiului Caracal; - Raportul de specialitate nr. 19421/23.03.2022 al Direcției Economice din cadrul Primăriei municipiului Caracal; - Adresa nr. 368/01.02.2022 a Asociației de Dezvoltare Intercomunitară ADI-OLTUL și înregistrată la Primăria municipiului Caracal sub nr. 8051/01.02.2022; -H.C.L",
+   "url": "https://www.primariacaracal.ro/hcl-nr-59-28-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/HCLnr.59din28.03.2022.pdf",
+     "sha256": "a826d840f0852272487056308d0853de8543d8451f0ccc242c075e29f65266dc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-6-2022",
    "path": "local/olt/caracal/2022/6",
    "short": "HCL Caracal nr. 6/2022",
@@ -1964,6 +2234,21 @@
      "units": 1,
      "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/03/HCLnr.6din31.01.2022.pdf",
      "sha256": "449939dbd983f56f7fb739be6c3659128c26b0e4da17b0bac163027178618568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-60-2022",
+   "path": "local/olt/caracal/2022/60",
+   "short": "HCL Caracal nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 60/2022 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții: «Imobil de locuințe colective cu regim social, regim de înălțime p+3E+4E retras» situat în Caracal, str",
+   "url": "https://www.primariacaracal.ro/hcl-nr-60-28-03-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/HCLnr.60din28.03.2022.pdf",
+     "sha256": "3a8178670bbf32778f1da002c044c904aea97971d79497f166b91a49ad59b63c"
     }
    ]
   },
@@ -2043,6 +2328,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-75-2022",
+   "path": "local/olt/caracal/2022/75",
+   "short": "HCL Caracal nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 75/2022",
+   "url": "https://www.primariacaracal.ro/hcl-nr-52-28-03-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/hcl-nr-52-28-03-2022/",
+     "sha256": "fda87dfc7ad4705b0493f15a7640e9373af642eca4f725bdb100ec8f02ee6883"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-77-2022",
    "path": "local/olt/caracal/2022/77",
    "short": "HCL Caracal nr. 77/2022",
@@ -2099,6 +2399,21 @@
      "units": 1,
      "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/hcl-81-rectif.-BVC-28.04.2022.pdf",
      "sha256": "75b996ddef74bacf64c2a4df1b3ab2ce8e304b5d2b317b13c5852d42282a37be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-82-2022",
+   "path": "local/olt/caracal/2022/82",
+   "short": "HCL Caracal nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 82/2022 privind aprobarea solicitării transmiterii imobilelor teren în suprafață de 1367,00 mp și construcție C2 în suprafață de 202 mp, situat în Caracal, str",
+   "url": "https://www.primariacaracal.ro/hcl-nr-166-27-12-2021/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2022/04/hcl-82-modif.-si-compl.-HCL-166-2021-teren-seminte.pdf",
+     "sha256": "4630f4622811aabe59050b21b73214ce49989b6496ea804b55337120a7051c72"
     }
    ]
   },

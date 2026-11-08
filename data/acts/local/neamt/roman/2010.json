@@ -1243,6 +1243,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-67-2010",
+"path": "local/neamt/roman/2010/67",
+"kind": "local",
+"year": "2010",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2010",
+"short": "HCL Roman nr. 67/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-06-28",
+"latest": "2010-06-28",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--roman-69-2010",
 "path": "local/neamt/roman/2010/69",
 "kind": "local",

@@ -865,6 +865,29 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-48-2020",
+"path": "local/neamt/roman/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 48/2020",
+"short": "HCL Roman nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--roman-49-2020",
 "path": "local/neamt/roman/2020/49",
 "kind": "local",
@@ -1362,6 +1385,29 @@
 "from": "2020-03-26",
 "latest": "2020-03-26",
 "portal": "https://primariaroman.ro/wp-content/uploads/2020/03/077-HCL-2020-03-modificare-si-completare-HCL-29_2019-SUPL-6.pdf",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-80-2020",
+"path": "local/neamt/roman/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2020",
+"short": "HCL Roman nr. 80/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": null,
 "council": "neamt/roman",
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {

@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/olt/piatra-olt/2013",
+"acts": [
+{
+"slug": "hcl-olt--piatra-olt-5-2013",
+"path": "local/olt/piatra-olt/2013/5",
+"kind": "local",
+"year": "2013",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 5/2013 Cu privire la : inchiderea exercitiului bugetar pe 2012",
+"short": "HCL Piatra-Olt nr. 5/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-28",
+"latest": "2013-02-28",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-6-2013",
+"path": "local/olt/piatra-olt/2013/6",
+"kind": "local",
+"year": "2013",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 6/2013 Cu privire la: aprobare Plan tehnic de intretinere si imbunatatire a pajistilor pe anul 2013",
+"short": "HCL Piatra-Olt nr. 6/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-28",
+"latest": "2013-02-28",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-7-2013",
+"path": "local/olt/piatra-olt/2013/7",
+"kind": "local",
+"year": "2013",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 7/2013 Cu privire la: schimbare de principiu a destinatiei unor imobile din domeniul public",
+"short": "HCL Piatra-Olt nr. 7/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-28",
+"latest": "2013-02-28",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-14-2013",
+"path": "local/olt/piatra-olt/2013/14",
+"kind": "local",
+"year": "2013",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 14/2013 cu privire la : aprobare inchiriere prin licitatie publica a unui spatiu din domeniul public",
+"short": "HCL Piatra-Olt nr. 14/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-29",
+"latest": "2013-03-29",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-43-2013",
+"path": "local/olt/piatra-olt/2013/43",
+"kind": "local",
+"year": "2013",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 43/2013 cu privire la : transfonnare post functie publica clasa ill,in functie publica clasa I compartiment agricol",
+"short": "HCL Piatra-Olt nr. 43/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-14",
+"latest": "2013-10-14",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-45-2013",
+"path": "local/olt/piatra-olt/2013/45",
+"kind": "local",
+"year": "2013",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 45/2013 Cu privire la : transfornare post personal contractuai in post functie publica",
+"short": "HCL Piatra-Olt nr. 45/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-14",
+"latest": "2013-10-14",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-48-2013",
+"path": "local/olt/piatra-olt/2013/48",
+"kind": "local",
+"year": "2013",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 48/2013 privind: rectificarea Bugetului de Venituri gi Cheltuieli al S.C.Sector Prestari SRL Piatra Olt pe anul20l3",
+"short": "HCL Piatra-Olt nr. 48/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-28",
+"latest": "2013-10-28",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-49-2013",
+"path": "local/olt/piatra-olt/2013/49",
+"kind": "local",
+"year": "2013",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 49/2013 Cu privire la:rectificarea bugetului local pe anul 2013",
+"short": "HCL Piatra-Olt nr. 49/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-11-11",
+"latest": "2013-11-11",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

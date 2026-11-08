@@ -3,6 +3,666 @@
  "shard": "local/olt/draganesti-olt/2018",
  "acts": [
   {
+   "slug": "hcl-olt--draganesti-olt-1-2018",
+   "path": "local/olt/draganesti-olt/2018/1",
+   "short": "HCL Drăgănești-Olt nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 1/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-1-din-2018---modificarea-hcl-nr-125-din-2017.pdf",
+     "sha256": "9c0c9bc9902a3230c7740d39c735b30b63495237a5d6b21b8c9733106109ecba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-10-2018",
+   "path": "local/olt/draganesti-olt/2018/10",
+   "short": "HCL Drăgănești-Olt nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 10/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-10-din-2018---aprobare-buget-de-venituri-si-cheltuieli-pe-2018.pdf",
+     "sha256": "762731367979b46abcf526853234fe51b6d8515be7ffd3fd08c11011649ea2c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-100-2018",
+   "path": "local/olt/draganesti-olt/2018/100",
+   "short": "HCL Drăgănești-Olt nr. 100/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 100/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-100-din-28.12.2018---aprobarea-planului-de-actiuni-si-lucrari-de-interes-local-ce-urmeaza-a-fi-efectuate-de-beneficiarii-de-ajutor-social-aferent-anului-2019.pdf",
+     "sha256": "a6d840c91ab19c305fdec761e06c864500dfc66882317b20f2bfbdcc547aaeff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-11-2018",
+   "path": "local/olt/draganesti-olt/2018/11",
+   "short": "HCL Drăgănești-Olt nr. 11/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 11/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-11-din-2018---aprobarea-calendarului-de-activitati-cultural-artistice-ce-se-vor-desfasura-in-cursul-anului-2018-si-a-finantarii-acestora.pdf",
+     "sha256": "53e081d02eebec716578ebfaca9bf988d9506f1b6ba7a163b2d4e7bcb38f872a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-12-2018",
+   "path": "local/olt/draganesti-olt/2018/12",
+   "short": "HCL Drăgănești-Olt nr. 12/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 12/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-12-din-2018---aprobarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2018-al-sc-urban-activ-serv-srl.pdf",
+     "sha256": "b979ed42cda5628917a42aa9d7a587da5481a5b8cd5ad7aa4a45e098bfa465fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-13-2018",
+   "path": "local/olt/draganesti-olt/2018/13",
+   "short": "HCL Drăgănești-Olt nr. 13/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 13/2018 pentru interventia de urgenta in cazurile de violenta domestica.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2019/hotararea-nr-13-din-28.02.2018---stabilirea-componentei-echipei-mobile-pentru-interventia-de-urgenta-in-cazurile-de-violenta-domestica.pdf",
+     "sha256": "422f406b5cea7a9ec4c8260760730306fc01a6ee9f92069e3aa82b1705deee44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-14-2018",
+   "path": "local/olt/draganesti-olt/2018/14",
+   "short": "HCL Drăgănești-Olt nr. 14/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 14/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-14-din-2018---renuntarea-la-exercitarea-dreptului-de-preemtiune-al-uat-draganesti-olt-la-cumpararea-terenului-arabil-extravilan-in-supraf-de-1387mp.pdf",
+     "sha256": "fbbc3b1325e8e6c12c10836f1f6d09f6f848ccdff4117a1299d064a6a0ad0b83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-15-2018",
+   "path": "local/olt/draganesti-olt/2018/15",
+   "short": "HCL Drăgănești-Olt nr. 15/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 15/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-15-din-2018---aprobarea-inchirierii-prin-atribuire-directa-a-suprafetelor-de-pajite-domeniu-privat.pdf",
+     "sha256": "6cba60360190c9cdea658c997f21a6d296d2a022d1efa06a624856c80b672e88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-16-2018",
+   "path": "local/olt/draganesti-olt/2018/16",
+   "short": "HCL Drăgănești-Olt nr. 16/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 16/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-16-din-2018---rezilierea-contractului-de-concesiune-nr-6684-25.05.2011-incheiat-cu-gerimav-pdf.pdf",
+     "sha256": "e0c7e36ac378bd19528829d579c4401d141962993b58a410dbd087d68871b408"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-18-2018",
+   "path": "local/olt/draganesti-olt/2018/18",
+   "short": "HCL Drăgănești-Olt nr. 18/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 18/2018 pentru agricultura.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-18-din-2018--aprobarea-cooperarii-cu-agentia-de-plati-si-interventie-pentru-agricultura.pdf",
+     "sha256": "7b40d85dc3ec4d93bb9c0dafd2063afa002fd7d43b502e8c48361d521c8dde26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-19-2018",
+   "path": "local/olt/draganesti-olt/2018/19",
+   "short": "HCL Drăgănești-Olt nr. 19/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 19/2018 privind serviciile sociale acordate in cadrul serviciului de asistenta sociala.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-19-din-2018--aprobarea-planului-anual-de-actiune-privind-serviciile-sociale-acordate-in-cadrul-serviciului-de-asistenta-sociala.pdf",
+     "sha256": "3a687743731cc0ffe3b29bfab2e1c1cd51d36658b335e9892bd113d997e99b76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-2-2018",
+   "path": "local/olt/draganesti-olt/2018/2",
+   "short": "HCL Drăgănești-Olt nr. 2/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 2/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-2-din-2018---stabilirea-salariilor-de-baza-pt-functiile-publice-si-contractuale-din-cadrul-ap-de-specialitate.pdf",
+     "sha256": "43d14ebe6f7b5532ff9482e770c423deb241adecde2b4546b54e7b3fa245df5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-20-2018",
+   "path": "local/olt/draganesti-olt/2018/20",
+   "short": "HCL Drăgănești-Olt nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 20/2018 pentru anul 2018 in vederea aplicarii strategiei guvernului de incluziune a cetatenilor romani.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-20-din-2018--aprobarea-planului-local-de-actiune-pentru-anul-2018-in-vederea-aplicarii-strategiei-guvernului-de-incluziune-a-cetatenilor-romani.pdf",
+     "sha256": "4f1bed3f0eb6e6766cb359d02d1f6a049034384340df31b3f0aaa11f929290cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-22-2018",
+   "path": "local/olt/draganesti-olt/2018/22",
+   "short": "HCL Drăgănești-Olt nr. 22/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 22/2018 pentru trimestrul I pe anul 2018.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-22-din-2018--aprobarea-executiei-bugetare-pentru-trimestrul-i-pe-anul-2018.pdf",
+     "sha256": "102b7a84d1591146791ce572b797b9e4639e9092cbfdc3beef7cea4f88d8fe4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-23-2018",
+   "path": "local/olt/draganesti-olt/2018/23",
+   "short": "HCL Drăgănești-Olt nr. 23/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 23/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-23-din-2018--prelungirea-duratei-contractelor-de-inchiriere-a-terenurile-din-domeniul-public-si-privat.pdf",
+     "sha256": "9b48ef3c448858ba4c7513e98c3a930a4149310198f47b70ed5ea8a5e1e4af3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-24-2018",
+   "path": "local/olt/draganesti-olt/2018/24",
+   "short": "HCL Drăgănești-Olt nr. 24/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 24/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-24-din-2018--atribuirea-de-loturi-in-folosinta-gratuita-in-suprafata-de-300-mp.pdf",
+     "sha256": "4a049b8ca1b77550fa79d8be0ad4e719ac87ca600e08f1b9a08cb1d6ed7e1c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-25-2018",
+   "path": "local/olt/draganesti-olt/2018/25",
+   "short": "HCL Drăgănești-Olt nr. 25/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 25/2018 pentru dezvoltarea comunitatii de romi.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-25-din-2018--aprobarea-constituirii-grupului-de-initiativa-locala-si-infiintarea-grupului-de-lucru-local-pentru-dezvoltarea-comunitatii-de-romi.pdf",
+     "sha256": "7d8917041719080b36b471393612b607b27cc1931c061044043b04f2fe4bb5bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-26-2018",
+   "path": "local/olt/draganesti-olt/2018/26",
+   "short": "HCL Drăgănești-Olt nr. 26/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 26/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-26-din-2018--aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli.pdf",
+     "sha256": "038bdc2d52993f3464883ced42985f5bdffbc9a4d1f997338aff684f07820505"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-28-2018",
+   "path": "local/olt/draganesti-olt/2018/28",
+   "short": "HCL Drăgănești-Olt nr. 28/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 28/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-28-din-2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pe-2018.pdf",
+     "sha256": "4c33eff8a1e6437b7dc7205b5b0449ce8129f016b8bf21d0ce1cfdc2da261c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-29-2018",
+   "path": "local/olt/draganesti-olt/2018/29",
+   "short": "HCL Drăgănești-Olt nr. 29/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 29/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-29-din-2018---aprobarea-contului-anual-de-executie-a-bugetului-local.pdf",
+     "sha256": "e877f6e61737f8a7ac715b5536daf2672cf23d6f568a74e619ec7af907f2c69e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-3-2018",
+   "path": "local/olt/draganesti-olt/2018/3",
+   "short": "HCL Drăgănești-Olt nr. 3/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 3/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-3-din-2018---reorganizarea-retelei-scolare-pt-anul-scolar-2018-2019.pdf",
+     "sha256": "a62bc0da89afc8b440bdc195dce9a180ef43acd26ac31d3cefeed4b85ad0a5dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-30-2018",
+   "path": "local/olt/draganesti-olt/2018/30",
+   "short": "HCL Drăgănești-Olt nr. 30/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 30/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-30-din-2018---insusirea-inventarului-actualizat-al-dom.-privat.pdf",
+     "sha256": "242ec7738bcd7c6b25ae68ef08d09b12a0e669f745c118385e40ea4767d7c17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-31-2018",
+   "path": "local/olt/draganesti-olt/2018/31",
+   "short": "HCL Drăgănești-Olt nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 31/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-31-din-2018---stabilirea-modalitatii-de-gestiune-pt-activitatea-de-maturat--spalat--stropire-si-intretinere-cai-publice.pdf",
+     "sha256": "0821940df1820931de46de1dca2ee20be0eccfc73b2b30b88fb9b593e92b7e78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-33-2018",
+   "path": "local/olt/draganesti-olt/2018/33",
+   "short": "HCL Drăgănești-Olt nr. 33/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 33/2018 privind aprobarea inchirierii prin atribuire directa a supraf de pajiste.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-33-din-2018---revocarea-hcl-nr-15-din-2018-privind-aprobarea-inchirierii-prin-atribuire-directa-a-supraf-de-pajiste.pdf",
+     "sha256": "3c209609c74a1f60f2061a16bcd1785745cdff4effffa1ecafe84acea80d4d7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-34-2018",
+   "path": "local/olt/draganesti-olt/2018/34",
+   "short": "HCL Drăgănești-Olt nr. 34/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 34/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-34-din-2018---retragerea-dreptului-de-folosinta-gratuita-asupra-loturilor-in-supraf-de-300mp.pdf",
+     "sha256": "5241820543f7b028b23b413c81996452a38b17888e09bc0914c19dd716c53eda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-36-2018",
+   "path": "local/olt/draganesti-olt/2018/36",
+   "short": "HCL Drăgănești-Olt nr. 36/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 36/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-36-din-2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "13993d6f9f0ead598208c81a1b60e32a7f2cb186e577b58e690ee4e47afc3687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-37-2018",
+   "path": "local/olt/draganesti-olt/2018/37",
+   "short": "HCL Drăgănești-Olt nr. 37/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 37/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-37-din-2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "77136f722d030b304b493150dea283b61bf8eace98d3db0ced11b1b1ff4bf880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-38-2018",
+   "path": "local/olt/draganesti-olt/2018/38",
+   "short": "HCL Drăgănești-Olt nr. 38/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 38/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-38-din-2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "063c89e451527e43602328a9ef35a3a3daea7ab7213dbf3b61cbb59060ae06c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-39-2018",
+   "path": "local/olt/draganesti-olt/2018/39",
+   "short": "HCL Drăgănești-Olt nr. 39/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 39/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-39-din-2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "ed58f8daa97518aec8767a4397ec6f1a66a9c78c667ec546d4a213d0fa8f59fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-4-2018",
+   "path": "local/olt/draganesti-olt/2018/4",
+   "short": "HCL Drăgănești-Olt nr. 4/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 4/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-4-din-2018---aprobare-tarife-actualizate-pt-prestare-servicii-cu-utilaje-si-mij-de-transport.pdf",
+     "sha256": "f9cd3338432282b2608f094e077712d8306ce5af942abfccad5d3bf173aae1b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-40-2018",
+   "path": "local/olt/draganesti-olt/2018/40",
+   "short": "HCL Drăgănești-Olt nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 40/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-07-10",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-40-din-2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli.pdf",
+     "sha256": "1c10444f25fc90edde83d09c50564876d3833cdf7155614bc3a018e4e9cc8854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-43-2018",
+   "path": "local/olt/draganesti-olt/2018/43",
+   "short": "HCL Drăgănești-Olt nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 43/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-43-din-13.08.2018---aprobarea-programului-de-imbunatatire-a-eficientei-energetice.pdf",
+     "sha256": "08edba2244c417c59840b2a7c3b05868568f3464e59638bc304d91f3955fcc9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-45-2018",
+   "path": "local/olt/draganesti-olt/2018/45",
+   "short": "HCL Drăgănești-Olt nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 45/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-13",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-45-din-13.08.2018---schimbarea-destinatiei-unei-alei-prin-transformarea-acesteia-in-strada-si-atribuirea-unei-denumiri.pdf",
+     "sha256": "e7e851807f0b5a9787b69a6cb71db6d472e8fdd4a7b3b16fad466a6d38326034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-47-2018",
+   "path": "local/olt/draganesti-olt/2018/47",
+   "short": "HCL Drăgănești-Olt nr. 47/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 47/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-47-din-28.08.2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pe-anul-2018.pdf",
+     "sha256": "b2ffdfc2dbc58c714650807f87af2f186b2f566dca8f76aa9b1671449cf5e100"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-48-2018",
+   "path": "local/olt/draganesti-olt/2018/48",
+   "short": "HCL Drăgănești-Olt nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 48/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-48-din-28.08.2018---aprobarea-executiei-bugetare-pt-trim.ii-al-anului-2018.pdf",
+     "sha256": "351e09ab12aa6b8f583525c8c14ce6399a389c78ac3a37ae19441ff60715b281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-49-2018",
+   "path": "local/olt/draganesti-olt/2018/49",
+   "short": "HCL Drăgănești-Olt nr. 49/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 49/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-49-din-28.08.2018---actualizarea-strategiei-de-dezvoltare-locala-pt-perioada-2014-2020.pdf",
+     "sha256": "967f4d19fa2361505910f0db85764604932b794b2b7116ad4fb0ac8bdba60944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-5-2018",
+   "path": "local/olt/draganesti-olt/2018/5",
+   "short": "HCL Drăgănești-Olt nr. 5/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 5/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-5-din-2018---aprobare-tarife-actualizate-pt-activitatea-de-curatare-si-transport-zapada-de-pe-caile-publice.pdf",
+     "sha256": "2e33bc00006666e8edb2ad2800093ef80c996a11c6361491e2ba561c4d68df47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-50-2018",
+   "path": "local/olt/draganesti-olt/2018/50",
+   "short": "HCL Drăgănești-Olt nr. 50/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 50/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-50-din-28.08.2018---desemnarea-a-3-consilieri-locali-in-consiliul-de-admin.-al-lic.-teoretic-t.vladimirescu.pdf",
+     "sha256": "68e67a4ae623594a1cc7fa171046f3fd2e3f3142a53da7b521bcbbdf91f24bbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-51-2018",
+   "path": "local/olt/draganesti-olt/2018/51",
+   "short": "HCL Drăgănești-Olt nr. 51/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 51/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-51-din-28.08.2018---desemnarea-a-2-consilieri-locali-in-consiliul-de-admin.-al-lic.-tehnologic.pdf",
+     "sha256": "88f005ac73d1e24d718c24d9614bca862fdc71d4a8be79a9764a02ff95e77950"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-52-2018",
+   "path": "local/olt/draganesti-olt/2018/52",
+   "short": "HCL Drăgănești-Olt nr. 52/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 52/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-52-din-28.08.2018---desemnarea-unui-consilier-local-in-consiliul-de-admin.-al-gradinitei-cu-program-normal-dumbrava-minunata.pdf",
+     "sha256": "2ee81a164d6f14871ef04c8bbaaa078d0f6a200be0d6f7344f8e2fc4fb71b1fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-56-2018",
+   "path": "local/olt/draganesti-olt/2018/56",
+   "short": "HCL Drăgănești-Olt nr. 56/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 56/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-56-din-28.08.2018---aprobarea-implementarii-reabilitare-si-modernizare-constructie-existenta-camin-copii.pdf",
+     "sha256": "9c162446590bf8ef38718e0608b55bb990b69fc2107b07c5a927c0a8a74ba747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-58-2018",
+   "path": "local/olt/draganesti-olt/2018/58",
+   "short": "HCL Drăgănești-Olt nr. 58/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 58/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-09-14",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-58-din-14.09.2018---renuntarea-la-exercitarea-dreptului-de-preemptiune-la-cumpararea-imobilelor-constructii-si-teren-din-str.-boianului--nr.1---monument-istoric.pdf",
+     "sha256": "ec32db93c174123f9c3cf1fc45428821e01b992c67c2abee9d4b32f0e29e23fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-6-2018",
+   "path": "local/olt/draganesti-olt/2018/6",
+   "short": "HCL Drăgănești-Olt nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 6/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-6-din-2018---atribuire-denumire-a-unei-strazi.pdf",
+     "sha256": "4a08cb02d7739b83831c996e46b18b1956c4a684df48e7e3a0d0e7a274af4d09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-61-2018",
+   "path": "local/olt/draganesti-olt/2018/61",
+   "short": "HCL Drăgănești-Olt nr. 61/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 61/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-61-din-28.09.2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-al-orasului-pe-anul-2018.pdf",
+     "sha256": "5122c15f7fef6f8aef628140361f330a5aa2aecb94a10ff6ed4dc102da064254"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--draganesti-olt-64-2018",
    "path": "local/olt/draganesti-olt/2018/64",
    "short": "HCL Drăgănești-Olt nr. 64/2018",
@@ -18,6 +678,111 @@
    ]
   },
   {
+   "slug": "hcl-olt--draganesti-olt-65-2018",
+   "path": "local/olt/draganesti-olt/2018/65",
+   "short": "HCL Drăgănești-Olt nr. 65/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 65/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-65-din-28.09.2018---aprobarea-traseelor-si-orarului-microbuzului-ce-asigura-transportul-pre-scolarilor-la-unit.-de-invatamant.pdf",
+     "sha256": "e516881bb2995315cc1f95762943c0d985d7f508de60487e004e5271c17b6c97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-66-2018",
+   "path": "local/olt/draganesti-olt/2018/66",
+   "short": "HCL Drăgănești-Olt nr. 66/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 66/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-66-din-28.09.2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "c8dedf06932567180738ed00d23779c6f70221754602016834592150a7726c8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-67-2018",
+   "path": "local/olt/draganesti-olt/2018/67",
+   "short": "HCL Drăgănești-Olt nr. 67/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 67/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-67-din-28.09.2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "081f9e8fa1e80096f701863da41be45660164adfbb3c53db54e77908c6fe5934"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-68-2018",
+   "path": "local/olt/draganesti-olt/2018/68",
+   "short": "HCL Drăgănești-Olt nr. 68/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 68/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-68-din-28.09.2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "aa500fe8f762b4694ceffe710d51e5046b33b3d1a2ee3990c997a13fb9aa6523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-69-2018",
+   "path": "local/olt/draganesti-olt/2018/69",
+   "short": "HCL Drăgănești-Olt nr. 69/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 69/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-69-din-28.09.2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "7311e3b659336507e3bf86d702fe31ff4bb24c9de61cb8391b57a24fca92b6dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-7-2018",
+   "path": "local/olt/draganesti-olt/2018/7",
+   "short": "HCL Drăgănești-Olt nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 7/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-7-din-2018---insusire-raport-de-evaluare-a-terenului-intravilan-in-supraf-de-117-mp.pdf",
+     "sha256": "ee5695fff2fdc9419e7fdb9b5a4ade0a3cc600629b20eab814f0c104736e51b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-70-2018",
+   "path": "local/olt/draganesti-olt/2018/70",
+   "short": "HCL Drăgănești-Olt nr. 70/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 70/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-70-din-16.10.2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-al-orasului-draganesti-olt-pe-anul-2018.pdf",
+     "sha256": "d18c4b02480c68ba212719bda4186f23ce10b7f729d560c923eac06a1ab2305d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--draganesti-olt-71-2018",
    "path": "local/olt/draganesti-olt/2018/71",
    "short": "HCL Drăgănești-Olt nr. 71/2018",
@@ -29,6 +794,321 @@
      "units": 1,
      "source_url": "https://www.draganesti-olt.ro/wp-content/uploads/2020/04/hotararea-nr-13-din-10.03.2020-modificarea-hcl-nr-71-din-16.10.2018-privind-aprobarea-indicatorilor-teh-econ-si-a-studiului-de-fezabilitate-modernizare-si-eficientizare-sist.-iluminat-public.pdf",
      "sha256": "ab025303aa90b18223504488367ea3615e8970e5cebe82822c07ddcab7177884"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-72-2018",
+   "path": "local/olt/draganesti-olt/2018/72",
+   "short": "HCL Drăgănești-Olt nr. 72/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 72/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-72-din-31.10.2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pe-anul-2018.pdf",
+     "sha256": "51c3e57c8ad5525b9bd1102129ddecabcdd33b916ff1e33a6ae498e57c270482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-73-2018",
+   "path": "local/olt/draganesti-olt/2018/73",
+   "short": "HCL Drăgănești-Olt nr. 73/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 73/2018 pentru trim. III 2018.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-73-din-31.10.2018---aprobarea-executiei-bugetare-pentru-trim.-iii-2018.pdf",
+     "sha256": "6c304142dc814dd21ac1d5e60375edd0b17dfedba3b2ef99e9d6e5b2c0fbe569"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-74-2018",
+   "path": "local/olt/draganesti-olt/2018/74",
+   "short": "HCL Drăgănești-Olt nr. 74/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 74/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-74-din-31.10.2018---aprobarea-planurilor-de-delimitare-a-uat-draganesti-olt-fata-de-localitatile-invecinate.pdf",
+     "sha256": "c6828383a58822824cc6e1f40a61e5678ca4643ad47d0da47ecbecdba4de7db0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-75-2018",
+   "path": "local/olt/draganesti-olt/2018/75",
+   "short": "HCL Drăgănești-Olt nr. 75/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 75/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+     "sha256": "18dd10a065e94a1998760ffb71b726d187d51dc8fd5c4020b762a8b84189e070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-76-2018",
+   "path": "local/olt/draganesti-olt/2018/76",
+   "short": "HCL Drăgănești-Olt nr. 76/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 76/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-76-din-31.10.2018---desemnarea-unui-consilier-local-in-comisia-pt-evaluarea-si-asigurarea-calitatii-educatiei-din-cadrul-lic.-tehnologic.pdf",
+     "sha256": "5f0310e9a3d4a482d0b4746ad0f542b612d010729842bc850f64c20d13f326a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-77-2018",
+   "path": "local/olt/draganesti-olt/2018/77",
+   "short": "HCL Drăgănești-Olt nr. 77/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 77/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-77-din-31.10.2018---desemnarea-unui-consilier-local-in-comisia-pt-evaluarea-si-asigurarea-calitatii-educatiei-din-cadrul-gradinitei-cu-program-normal-dumbrava-minunata.pdf",
+     "sha256": "d1d47934bf4943d099cd9fd613e16bac72b01cb743c250db552fada2d2bba36e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-8-2018",
+   "path": "local/olt/draganesti-olt/2018/8",
+   "short": "HCL Drăgănești-Olt nr. 8/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 8/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-8-din-2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "771b88ce65f2517ca0d09c8b545c57a8b895b9f2d5d345e8b10a65e9d4f63f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-86-2018",
+   "path": "local/olt/draganesti-olt/2018/86",
+   "short": "HCL Drăgănești-Olt nr. 86/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 86/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-86-din-05.11.2018---modificarea-hcl-nr-71-din-16.10.2018.pdf",
+     "sha256": "e84cf9a89484d46cc9589fa1e80afdd110eb9da0a821b1040fc156fbf4ba6a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-87-2018",
+   "path": "local/olt/draganesti-olt/2018/87",
+   "short": "HCL Drăgănești-Olt nr. 87/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 87/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-87-din-29.11.2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pe-anul-2018.pdf",
+     "sha256": "b7b8ccaf1e9cc1654f413aa22c848730fd42687bb2a7db72915162649b054022"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-88-2018",
+   "path": "local/olt/draganesti-olt/2018/88",
+   "short": "HCL Drăgănești-Olt nr. 88/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 88/2018 privind aprobarea calendarului de activitati cultural-artistice pe anul 2018.pdf",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-88-din-29.11.2018---modificarea-hcl-nr-11-din-28.02.2018-privind-aprobarea-calendarului-de-activitati-cultural-artistice-pe-anul-2018.pdf",
+     "sha256": "549ba5b95e3b9f76e384da75b1763a6db4232e3ee33f308e7c9b23802d57afd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-89-2018",
+   "path": "local/olt/draganesti-olt/2018/89",
+   "short": "HCL Drăgănești-Olt nr. 89/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 89/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-89-din-29.11.2018---abrogarea-hcl-nr-52-din-29.11.2007-ref.-la-dezafectarea-si-transf.-punctului-termic-nr.1-in-clubul-pensionarilor.pdf",
+     "sha256": "0f1b890fc9b84529acba50702536dc47bfb428687848ab53a350b903984830d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-9-2018",
+   "path": "local/olt/draganesti-olt/2018/9",
+   "short": "HCL Drăgănești-Olt nr. 9/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 9/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-9-din-2018---repartizare-locuinta-anl-ramasa-vacanta-in-regim-de-inchiriere.pdf",
+     "sha256": "87f3e984fabbf1c2e5dce5de61189ba34fd30b133070042e28e3900ef6e45019"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-90-2018",
+   "path": "local/olt/draganesti-olt/2018/90",
+   "short": "HCL Drăgănești-Olt nr. 90/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 90/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-90-din-29.11.2018---aprobarea-amenajamentului-pastoral-al-pajistilor-din-orasul-draganesti-olt.pdf",
+     "sha256": "f5bf84c33410672c1e5c0dfe3a9e788c30a3563f359ed78a37b70891cf7a0e0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-91-2018",
+   "path": "local/olt/draganesti-olt/2018/91",
+   "short": "HCL Drăgănești-Olt nr. 91/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 91/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-11-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-91-din-29.11.2018---conferirea-sc-rcs-rds-sa-a-dreptului-de-acces-la-dom.-public-al-orasului-draganesti-olt-in-vederea-instalarii-unei-retele-de-fibra-optica.pdf",
+     "sha256": "f483ce485d02f2bded1b1856f405ca7fd7ef48d6f98148ff1d7a87cff09b1d3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-92-2018",
+   "path": "local/olt/draganesti-olt/2018/92",
+   "short": "HCL Drăgănești-Olt nr. 92/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 92/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-92-din-12.12.2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pe-anul-2018.pdf",
+     "sha256": "d2dc96f2a6ebdea2a2fdef1a9f5a3434b4d8d72a306436168db0f009bbe4945f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-93-2018",
+   "path": "local/olt/draganesti-olt/2018/93",
+   "short": "HCL Drăgănești-Olt nr. 93/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 93/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-93-din-18.12.2018---aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pe-anul-2018.pdf",
+     "sha256": "1f6751e64bfc6e7c57d818e74dd1c10f1203c06fb360783fec10ff855dd1ee00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-94-2018",
+   "path": "local/olt/draganesti-olt/2018/94",
+   "short": "HCL Drăgănești-Olt nr. 94/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 94/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-94-din-28.12.2018---aprobarea-contului-de-executie-al-bug.-local-la-nivelul-lunii-decembrie-2018.pdf",
+     "sha256": "aeac42db0656016878d3a4744626514dcee5551cdd1c02c45ffdbdd0e0d4cce3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-96-2018",
+   "path": "local/olt/draganesti-olt/2018/96",
+   "short": "HCL Drăgănești-Olt nr. 96/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 96/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-96-din-28.12.2018---stabilirea-impozitelor-si-taxelor-locale-pt-anul-2019.pdf",
+     "sha256": "715ee8701ef6de337026cafae1f5fc2fc72d59944db26fecd249ed3093316a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-97-2018",
+   "path": "local/olt/draganesti-olt/2018/97",
+   "short": "HCL Drăgănești-Olt nr. 97/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 97/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-97-din-28.12.2018---repartizarea-unei-locuinte-anl-ramasa-vacanta-pe-perioada-exploatarii-acesteia-in-regim-de-inchiriere.pdf",
+     "sha256": "b323ca68b29c86ae07c01d32933dd9153f745d7975d8e269a560694704929099"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-98-2018",
+   "path": "local/olt/draganesti-olt/2018/98",
+   "short": "HCL Drăgănești-Olt nr. 98/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 98/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-98-din-28.12.2018---repartizarea-unei-locuinte-anl-ramasa-vacanta-pe-perioada-exploatarii-acesteia-in-regim-de-inchiriere.pdf",
+     "sha256": "31800741bc16f0c7443b4623c6a4f71e52b5ea1d7866c5079e87382cc9a16078"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-99-2018",
+   "path": "local/olt/draganesti-olt/2018/99",
+   "short": "HCL Drăgănești-Olt nr. 99/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 99/2018",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2018/hotararea-nr-99-din-28.12.2018---aprobarea-planului-local-de-actiune-pt-imbunatatirea-situatiei-romilor-din-orasul-draganesti-olt-in-perioada-2019-2021.pdf",
+     "sha256": "9d1a1876e3125fd6a18d404b7cea665f3447041f0a8c2ef7b41bee87132f7032"
     }
    ]
   }

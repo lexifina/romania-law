@@ -2518,6 +2518,29 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-145-2008",
+"path": "local/neamt/roman/2008/145",
+"kind": "local",
+"year": "2008",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 145/2008",
+"short": "HCL Roman nr. 145/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-09-18",
+"latest": "2008-09-18",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--roman-146-2008",
 "path": "local/neamt/roman/2008/146",
 "kind": "local",
@@ -2625,6 +2648,29 @@
 "council_name": "Consiliul Local al Municipiului Roman",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-151-2008",
+"path": "local/neamt/roman/2008/151",
+"kind": "local",
+"year": "2008",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 151/2008",
+"short": "HCL Roman nr. 151/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-10-01",
+"latest": "2008-10-01",
+"portal": null,
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

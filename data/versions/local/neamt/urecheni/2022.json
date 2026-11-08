@@ -3,6 +3,921 @@
  "shard": "local/neamt/urecheni/2022",
  "acts": [
   {
+   "slug": "hcl-neamt--urecheni-1-2022",
+   "path": "local/neamt/urecheni/2022/1",
+   "short": "HCL Urecheni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 1/2022 privind alegerea preşedintelui de şedinţa pentru luna Februarie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51521",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-10-2022",
+   "path": "local/neamt/urecheni/2022/10",
+   "short": "HCL Urecheni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 10/2022 privind alegerea preşedintelui de şedinţa pentru luna Martie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66139",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-11-2022",
+   "path": "local/neamt/urecheni/2022/11",
+   "short": "HCL Urecheni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 11/2022 privind rectificarea bugetului local al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66140",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-12-2022",
+   "path": "local/neamt/urecheni/2022/12",
+   "short": "HCL Urecheni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 12/2022 cu privire la actualizarea Programului de achizitii publice pentru anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66141",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-13-2022",
+   "path": "local/neamt/urecheni/2022/13",
+   "short": "HCL Urecheni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 13/2022 cu privire la alegerea presedintelui de sedinta pentru luna Aprilie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66145",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-14-2022",
+   "path": "local/neamt/urecheni/2022/14",
+   "short": "HCL Urecheni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 14/2022 cu privire la: aprobarea rezultatelor inventarierii patrimoniului comunei Urecheni, judeţul Neamț pentru anul 2021",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66146",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-15-2022",
+   "path": "local/neamt/urecheni/2022/15",
+   "short": "HCL Urecheni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 15/2022 privind aprobarea situatiilor financiare anuale ale comunei Urecheni la data de 31.12.2021",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66147",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-16-2022",
+   "path": "local/neamt/urecheni/2022/16",
+   "short": "HCL Urecheni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 16/2022 privind acordarea unui mandat special in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “AQUA NEAMT” in vederea exercitarii votului",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66148",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-17-2022",
+   "path": "local/neamt/urecheni/2022/17",
+   "short": "HCL Urecheni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 17/2022 privind aprobarea cererii de finantare, a indicatorilor tehnico - economici și a devizului general estimativ aferent obiectivului de investitii: „Înființare sistem de distribuție gaze naturale în comuna Urecheni, județul Neamț, cu satele: Urecheni și Ingărești”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66149",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-18-2022",
+   "path": "local/neamt/urecheni/2022/18",
+   "short": "HCL Urecheni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 18/2022 cu privire la actualizarea Programului de achiziţii publice pentru anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66150",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-19-2022",
+   "path": "local/neamt/urecheni/2022/19",
+   "short": "HCL Urecheni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 19/2022 privind alegerea preşedintelui de şedinţa pentru luna Mai 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66151",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-2-2022",
+   "path": "local/neamt/urecheni/2022/2",
+   "short": "HCL Urecheni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 2/2022 privind aprobarea Planului de acţiuni sau lucrări de interes local in anul 2022 pentru beneficiarii Legii nr. 416/2001, privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51522",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-20-2022",
+   "path": "local/neamt/urecheni/2022/20",
+   "short": "HCL Urecheni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 20/2022 privind alegerea preşedintelui de şedinţa pentru luna Iunie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66152",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-21-2022",
+   "path": "local/neamt/urecheni/2022/21",
+   "short": "HCL Urecheni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 21/2022 privind analiza stadiului de ȋnscriere a datelor ȋn Registrul Agricol pentru trimestrul I/2022 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66153",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-22-2022",
+   "path": "local/neamt/urecheni/2022/22",
+   "short": "HCL Urecheni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 22/2022 privind aprobarea contului executiei bugetului local al comunei URECHENI pe trimestrul I, 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66154",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-23-2022",
+   "path": "local/neamt/urecheni/2022/23",
+   "short": "HCL Urecheni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 23/2022 privind rectificarea bugetului local al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66155",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-24-2022",
+   "path": "local/neamt/urecheni/2022/24",
+   "short": "HCL Urecheni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 24/2022 cu privire la actualizarea Programului de achiziţii publice pentru anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66156",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-25-2022",
+   "path": "local/neamt/urecheni/2022/25",
+   "short": "HCL Urecheni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 25/2022 privind aprobarea participării Comunei Urecheni, în calitate de membru fondator, la înființarea ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ „PROTECȚIA ANIMALELOR NEAMȚ”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66157",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-26-2022",
+   "path": "local/neamt/urecheni/2022/26",
+   "short": "HCL Urecheni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 26/2022 privind aprobarea realizarii obiectivului de investitie „Actualizarea PUG si RLU al comunei Urecheni, judetul Neamt”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66158",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-27-2022",
+   "path": "local/neamt/urecheni/2022/27",
+   "short": "HCL Urecheni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 27/2022 privind aprobarea participării la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule elctrice în localități, în vederea relizării obiectivului de investiții “Reducerea emisiilor de gaze cu efect de seră în transporturi, prin amplasarea stațiilor de reîncărcare pentru vehicule electrice în comuna Urecheni, județul Neamț”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66159",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-28-2022",
+   "path": "local/neamt/urecheni/2022/28",
+   "short": "HCL Urecheni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 28/2022 privind aprobarea cuantumului si a numarului de burse acordate elevilor din invatamantul preuniversitar de stat din comuna Urecheni in semestrul II an scolar 2021-2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66160",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-29-2022",
+   "path": "local/neamt/urecheni/2022/29",
+   "short": "HCL Urecheni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 29/2022 privind participarea în cadrul Planului Național de Redresare și Reziliență (PNRR)/Componenta C10 – Fondul Local, aprobarea proiectului” Dezvoltarea sistemului de management local prin implementarea unor infrastructuri inteligente la nivelul Comunei URECHENI, județul NEAMȚ”și a cheltuielilor aferente acestui proiect",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66161",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-3-2022",
+   "path": "local/neamt/urecheni/2022/3",
+   "short": "HCL Urecheni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 3/2022 privind aprobarea „Planului de analiză şi acoperire a riscurilor” al comunei Urecheni pentru 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51523",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-30-2022",
+   "path": "local/neamt/urecheni/2022/30",
+   "short": "HCL Urecheni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 30/2022 privind alegerea preşedintelui de şedinţa pentru luna Iulie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66162",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-31-2022",
+   "path": "local/neamt/urecheni/2022/31",
+   "short": "HCL Urecheni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 31/2022 privind rectificarea bugetului local al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66163",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-32-2022",
+   "path": "local/neamt/urecheni/2022/32",
+   "short": "HCL Urecheni nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 32/2022 cu privire la actualizarea Programului de achiziţii publice pentru anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66164",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-33-2022",
+   "path": "local/neamt/urecheni/2022/33",
+   "short": "HCL Urecheni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 33/2022 privind aprobarea Studiului de fezabilitate si a Indicatorilor tehnico-economici pentru “Proiectul regional de dezvoltarea a infrastructurii de apa si apa uzata din judetul Neamt, in perioada 2014-2020 ”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66165",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-34-2022",
+   "path": "local/neamt/urecheni/2022/34",
+   "short": "HCL Urecheni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 34/2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66166",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-35-2022",
+   "path": "local/neamt/urecheni/2022/35",
+   "short": "HCL Urecheni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 35/2022 privind alegerea preşedintelui de şedinţa pentru luna August 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66167",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-36-2022",
+   "path": "local/neamt/urecheni/2022/36",
+   "short": "HCL Urecheni nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 36/2022 privind analiza stadiului de ȋnscriere a datelor ȋn Registrul Agricol pentru trimestrul II/2022 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66168",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-37-2022",
+   "path": "local/neamt/urecheni/2022/37",
+   "short": "HCL Urecheni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 37/2022 privind aprobarea contului executiei bugetului local al comunei URECHENI pe trimestrul II, 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66169",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-38-2022",
+   "path": "local/neamt/urecheni/2022/38",
+   "short": "HCL Urecheni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 38/2022 privind rectificarea bugetului local al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66170",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-39-2022",
+   "path": "local/neamt/urecheni/2022/39",
+   "short": "HCL Urecheni nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 39/2022 cu privire la : aprobarea raportului privind activitatea asistentilor personali desfasurata in semestrul I al anului 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66171",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-4-2022",
+   "path": "local/neamt/urecheni/2022/4",
+   "short": "HCL Urecheni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 4/2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51524",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-40-2022",
+   "path": "local/neamt/urecheni/2022/40",
+   "short": "HCL Urecheni nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 40/2022 cu privire la actualizarea Programului de achiziţii publice pentru anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/66172",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/66172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-41-2022",
+   "path": "local/neamt/urecheni/2022/41",
+   "short": "HCL Urecheni nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 41/2022 Proiect de hotărâre cu privire la alegerea președintelui de ședință pentru luna Septembrie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/69422",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/69422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-42-2022",
+   "path": "local/neamt/urecheni/2022/42",
+   "short": "HCL Urecheni nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 42/2022 Proiect de hotarare privind rectificarea bugetului local al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/69423",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/69423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-43-2022",
+   "path": "local/neamt/urecheni/2022/43",
+   "short": "HCL Urecheni nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 43/2022 Proiect de hotarare privind aprobarea neasumarii responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor /acordurilor cadru pentru achizitia produselor si a contractelor / acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative aferente Programului pentru Scoli al Romaniei",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/69424",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/69424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-44-2022",
+   "path": "local/neamt/urecheni/2022/44",
+   "short": "HCL Urecheni nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 44/2022 Proiect de hotarare privind modificarea organigramei si a statului de funcţii ale aparatului de specialitate al primarului comunei Urecheni, județul Neamț",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/69425",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/69425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-45-2022",
+   "path": "local/neamt/urecheni/2022/45",
+   "short": "HCL Urecheni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 45/2022 6. Proiect de hotarare privind punerea la dispoziţia proiectului „Proiectul regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Neamţ în perioada 2014-2020” a terenului pentru construcţia/extinderea/reabilitarea investitiei \"Extinderea sistemului de apa in sistemul zonal S2 PREUTESTI-ROMAN\"",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/69426",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/69426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-46-2022",
+   "path": "local/neamt/urecheni/2022/46",
+   "short": "HCL Urecheni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 46/2022 privind alegearea presedintelui de sedinta pentru luna Octombrie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/72557",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/72557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-47-2022",
+   "path": "local/neamt/urecheni/2022/47",
+   "short": "HCL Urecheni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 47/2022 privind rectificarea bugetului local al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/72558",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/72558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-48-2022",
+   "path": "local/neamt/urecheni/2022/48",
+   "short": "HCL Urecheni nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 48/2022 privind desemnarea reprezentanţilor Consiliului Local al comunei Urecheni în Consiliul de administraţie a Scolii Gimnaziale Urecheni, judetul Neamt",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/72559",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/72559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-49-2022",
+   "path": "local/neamt/urecheni/2022/49",
+   "short": "HCL Urecheni nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 49/2022 privind : stabilirea traseelor microbuzelor şcolare pentru transpotul elevilor la şi de la şcoală in anul scolar 2022-2023",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/72560",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/72560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-5-2022",
+   "path": "local/neamt/urecheni/2022/5",
+   "short": "HCL Urecheni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 5/2022 privind aprobarea angajarii unui asistent personal pentru persoana cu handicap grav",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51525",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-50-2022",
+   "path": "local/neamt/urecheni/2022/50",
+   "short": "HCL Urecheni nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 50/2022 privind reactualizarea Statutului comunei Urecheni, judetul Neamt",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/72561",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/72561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-51-2022",
+   "path": "local/neamt/urecheni/2022/51",
+   "short": "HCL Urecheni nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 51/2022 privind actualizarea Programului de achiziţii publice pentru anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/72562",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/72562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-52-2022",
+   "path": "local/neamt/urecheni/2022/52",
+   "short": "HCL Urecheni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 52/2022 privind rectificarea bugetului local al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/73827",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/73827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-53-2022",
+   "path": "local/neamt/urecheni/2022/53",
+   "short": "HCL Urecheni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 53/2022 privind retragerea comunei Poiana Teiului din cadrul Asociației de Dezvoltare Intercomunitară Aqua Neamț și modificarea Actelor Statutare ale Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/73828",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/73828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-54-2022",
+   "path": "local/neamt/urecheni/2022/54",
+   "short": "HCL Urecheni nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 54/2022 privind aprobarea Planului anual de evolutie a tarifelor la apa si apa uzata, conform rezultatelor Analizei Cost-Beneficiu pentru “Proiectul regional de dezvoltare a infrastructurii de apa si apa uzata din judetul Neamt , in perioada 2014-2020”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/73829",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/73829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-55-2022",
+   "path": "local/neamt/urecheni/2022/55",
+   "short": "HCL Urecheni nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 55/2022 privind acordarea unui mandat special reprezentantului Comunei Urecheni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Aqua Neamț",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/73830",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/73830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-56-2022",
+   "path": "local/neamt/urecheni/2022/56",
+   "short": "HCL Urecheni nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 56/2022 privind aprobarea valorii investitiiłolilor aferente UAT Urecheni si participarea Consiliului Local Urecheni la cofinantarea pentru “Proiectul regional de dezvoltarea a infrastructurii de apa si apa uzata din judetul Neamt, in perioada 2014-2020 ”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/73831",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/73831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-57-2022",
+   "path": "local/neamt/urecheni/2022/57",
+   "short": "HCL Urecheni nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 57/2022 privind aprobarea depunerii proiectului cu titlul “Ecosistem digital interconectat si integrat in cadrul UAT Urecheni-Județul Neamț” în cadrul apelului de proiecte PNRR/2022/C10/ I.1 /I.1.2 și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/75322",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/75322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-58-2022",
+   "path": "local/neamt/urecheni/2022/58",
+   "short": "HCL Urecheni nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 58/2022 privind alegerea preşedintelui de şedinţa pentru luna Noiembrie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/77381",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/77381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-59-2022",
+   "path": "local/neamt/urecheni/2022/59",
+   "short": "HCL Urecheni nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 59/2022 privind analiza stadiului de ȋnscriere a datelor ȋn Registrul Agricol pentru trimestrul III/2022 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/77382",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/77382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-6-2022",
+   "path": "local/neamt/urecheni/2022/6",
+   "short": "HCL Urecheni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 6/2022 privind aprobarea bugetului local consolidat al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51526",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-60-2022",
+   "path": "local/neamt/urecheni/2022/60",
+   "short": "HCL Urecheni nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 60/2022 privind aprobarea contului executiei bugetului local al comunei URECHENI pe trimestrul III, 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/77383",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/77383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-61-2022",
+   "path": "local/neamt/urecheni/2022/61",
+   "short": "HCL Urecheni nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 61/2022 privind acordarea unui mandat special reprezentatului comunei Urecheni in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “ECONEAMT”",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/77384",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/77384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-62-2022",
+   "path": "local/neamt/urecheni/2022/62",
+   "short": "HCL Urecheni nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 62/2022 Proiect de hotarare privind actualizarea Statutului comunei Urecheni, judetul Neamt",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/77385",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/77385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-63-2022",
+   "path": "local/neamt/urecheni/2022/63",
+   "short": "HCL Urecheni nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 63/2022 privind alegerea preşedintelui de şedinţa pentru luna Decembrie 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/80084",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/80084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-64-2022",
+   "path": "local/neamt/urecheni/2022/64",
+   "short": "HCL Urecheni nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 64/2022 privind rectificarea bugetului local al comunei Urecheni pe anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/80085",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/80085",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--urecheni-65-2022",
    "path": "local/neamt/urecheni/2022/65",
    "short": "HCL Urecheni nr. 65/2022",
@@ -73,6 +988,21 @@
      "from": "2022-11-25",
      "units": 1,
      "source_url": "https://emol.ro/urecheni-nt/registru-hcl/80090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-7-2022",
+   "path": "local/neamt/urecheni/2022/7",
+   "short": "HCL Urecheni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 7/2022 privind aprobarea utilizarii in anul 2022 a excedentului anual al bugetului local rezultat la incheierea exercitiului bugetar aferent anului 2021",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51527",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51527",
      "sha256": null
     }
    ]
@@ -228,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--urecheni-8-2022",
+   "path": "local/neamt/urecheni/2022/8",
+   "short": "HCL Urecheni nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 8/2022 privind aprobarea Strategiei anuale de achizitii publice si a Programului de achiziţii publice pentru anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51528",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51528",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--urecheni-80-2022",
    "path": "local/neamt/urecheni/2022/80",
    "short": "HCL Urecheni nr. 80/2022",
@@ -298,6 +1243,21 @@
      "from": "2023-01-03",
      "units": 1,
      "source_url": "https://emol.ro/urecheni-nt/registru-hcl/84545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--urecheni-9-2022",
+   "path": "local/neamt/urecheni/2022/9",
+   "short": "HCL Urecheni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Urecheni nr. 9/2022 privind modificarea si completarea HCL nr 64/07.12.2021 privind stabilirea taxelor si impozitelor locale pentru anul 2022",
+   "url": "https://emol.ro/urecheni-nt/registru-hcl/51529",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/urecheni-nt/registru-hcl/51529",
      "sha256": null
     }
    ]

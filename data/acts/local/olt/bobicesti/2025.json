@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-olt--bobicesti-8-2025",
+"path": "local/olt/bobicesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 8/2025 desemnarea consilierilor locali, membrii ai comisiei pentru evaluarea performanțelor profesionale ale secretarului general",
+"short": "HCL Bobicești nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#93227",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--bobicesti-9-2025",
 "path": "local/olt/bobicesti/2025/9",
 "kind": "local",
@@ -770,6 +792,50 @@
 "council_name": "Consiliul Local al Comunei Bobicești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-37-2025",
+"path": "local/olt/bobicesti/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 37/2025 privind desemnarea unui reprezentant din partea Consiliului Local al Comunei Bobicești în Consiliul de administrație al Școlii Gimnaziale Leotești",
+"short": "HCL Bobicești nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#107159",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-38-2025",
+"path": "local/olt/bobicesti/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 38/2025 nr. 38/29.09.2025 privind desemnarea unui reprezentant din partea Consiliului Local al comunei Bobicești cu statut de membru al Comisiei de evaluare și asigurarea calității educației",
+"short": "HCL Bobicești nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#107160",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

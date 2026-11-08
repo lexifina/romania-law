@@ -355,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-olt--bobicesti-17-2022",
+"path": "local/olt/bobicesti/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 17/2022 desemnare consilieri locali membrii ai comisiei de evaluare performanțe secretar general",
+"short": "HCL Bobicești nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#19571",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--bobicesti-18-2022",
 "path": "local/olt/bobicesti/2022/18",
 "kind": "local",
@@ -528,6 +550,28 @@
 "council_name": "Consiliul Local al Comunei Bobicești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-26-2022",
+"path": "local/olt/bobicesti/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 26/2022 aprobare documentație dezmembrare imobil situat în comuna Bobicești cu numărul cadastral 5225",
+"short": "HCL Bobicești nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-11",
+"latest": "2022-05-11",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#23383",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -814,6 +858,28 @@
 "council_name": "Consiliul Local al Comunei Bobicești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-olt--bobicesti-40-2022",
+"path": "local/olt/bobicesti/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 40/2022 cumpărarea unui imobil-teren extravilan",
+"short": "HCL Bobicești nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#28531",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

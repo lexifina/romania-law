@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-10-2025",
+   "path": "local/neamt/negresti/2025/10",
+   "short": "HCL Negrești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 10/2025 privind aprobarea vânzării prin licitație publică deschisa cu preselecție în plic închis, a cantității de 841,55 m. c. masa lemnoasa pe picior, provenită din rărituri, din pădurea proprietate a Comunei Negrești parcela Ua 84",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210768",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210768",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-11-2025",
    "path": "local/neamt/negresti/2025/11",
    "short": "HCL Negrești nr. 11/2025",
@@ -78,6 +93,66 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-15-2025",
+   "path": "local/neamt/negresti/2025/15",
+   "short": "HCL Negrești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 15/2025 privind aprobarea prelungirii contractului de concesiune nr. 2156 din 11.06.2018, prin actul adiţional nr. 2",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210870",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-16-2025",
+   "path": "local/neamt/negresti/2025/16",
+   "short": "HCL Negrești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 16/2025 privind aprobarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210871",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-17-2025",
+   "path": "local/neamt/negresti/2025/17",
+   "short": "HCL Negrești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 17/2025 privind aprobarea Programului anual al achizitiilor publice pentru anul 2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210872",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-18-2025",
+   "path": "local/neamt/negresti/2025/18",
+   "short": "HCL Negrești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 18/2025 privind schimbarea destinației imobilului Scoala veche situat în Comuna Negresti, str. Mănăstirera Horaița, nr. 148, din spaţiu pentru învăţământ, în spaţiu pentru activităti de utilitate publica – sediu primarie Ne-gresti",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210873",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210873",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-19-2025",
    "path": "local/neamt/negresti/2025/19",
    "short": "HCL Negrești nr. 19/2025",
@@ -108,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-20-2025",
+   "path": "local/neamt/negresti/2025/20",
+   "short": "HCL Negrești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 20/2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210875",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-21-2025",
+   "path": "local/neamt/negresti/2025/21",
+   "short": "HCL Negrești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 21/2025 privind însușirea Acordului de cooperare Acordul de cooperare privind organizarea si exercitarea acțiunilor și activitătilor asistenta sociala prin care se asigura satisfacerea nevoilor de utilitate și de interes public, general",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210876",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-22-2025",
+   "path": "local/neamt/negresti/2025/22",
+   "short": "HCL Negrești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 22/2025 privind aprobarea programului pentru deplasarea in sigurantă a elevilor cu microbuzul scolar a elevilor din cadrul Scolii Gimnaziale Negresti",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210877",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210877",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-23-2025",
    "path": "local/neamt/negresti/2025/23",
    "short": "HCL Negrești nr. 23/2025",
@@ -118,6 +238,21 @@
      "from": "2025-06-03",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/210878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-24-2025",
+   "path": "local/neamt/negresti/2025/24",
+   "short": "HCL Negrești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 24/2025 privind acordarea mandatului special reprezentantului Comunei Negresti să voteze în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”AQUA NEAMȚ”,",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210879",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210879",
      "sha256": null
     }
    ]
@@ -138,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-26-2025",
+   "path": "local/neamt/negresti/2025/26",
+   "short": "HCL Negrești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 26/2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/220927",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/220927",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-27-2025",
    "path": "local/neamt/negresti/2025/27",
    "short": "HCL Negrești nr. 27/2025",
@@ -148,6 +298,36 @@
      "from": "2026-04-07",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/220928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-28-2025",
+   "path": "local/neamt/negresti/2025/28",
+   "short": "HCL Negrești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 28/2025 privind rectificarea bugetului local al comunei Negresti, judetul Neamt, pe anul 2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/220929",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/220929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-29-2025",
+   "path": "local/neamt/negresti/2025/29",
+   "short": "HCL Negrești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 29/2025 privind modificarea si completarea Programului anual al achizitiilor publice pentru anul 2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/220930",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/220930",
      "sha256": null
     }
    ]
@@ -228,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-34-2025",
+   "path": "local/neamt/negresti/2025/34",
+   "short": "HCL Negrești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 34/2025 privind aprobarea modificarii organigramei si statului de functii ale aparatului de specialitate al primarului comunei Negresti",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/220935",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/220935",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-35-2025",
    "path": "local/neamt/negresti/2025/35",
    "short": "HCL Negrești nr. 35/2025",
@@ -303,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-4-2025",
+   "path": "local/neamt/negresti/2025/4",
+   "short": "HCL Negrești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 4/2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210762",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210762",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-40-2025",
    "path": "local/neamt/negresti/2025/40",
    "short": "HCL Negrești nr. 40/2025",
@@ -358,6 +568,21 @@
      "from": "2026-04-07",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/261960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-44-2025",
+   "path": "local/neamt/negresti/2025/44",
+   "short": "HCL Negrești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 44/2025 privind alegerea ca președintelui de ședință",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262032",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262032",
      "sha256": null
     }
    ]
@@ -703,6 +928,21 @@
      "from": "2025-06-03",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/210765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-8-2025",
+   "path": "local/neamt/negresti/2025/8",
+   "short": "HCL Negrești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 8/2025 privind aprobarea concesionarii prin licitație publică a suprafeței de 6,00 ha pășune comunală din domeniul public al comunei și administrarea consiliului local",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/210766",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/210766",
      "sha256": null
     }
    ]

@@ -2082,6 +2082,28 @@
 }
 },
 {
+"slug": "hcl-olt--caracal-113-2017",
+"path": "local/olt/caracal/2017/113",
+"kind": "local",
+"year": "2017",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 113/2017 pentru anul 2009 Abrogata prin: HCLnr.113/31.10.2017 HCL Nr. 77 (noul Consiliu Local) – REFERITOR LA: Acordarea avizului consultativ pentru numirea Ã®n functia de director adjunct la unele institutii de Ã®nvatamÃ¢nt preuniversitar, din municipiul Caracal",
+"short": "HCL Caracal nr. 113/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-10-31",
+"latest": "2017-10-31",
+"portal": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+"council": "olt/caracal",
+"council_name": "Consiliul Local al Municipiului Caracal",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--caracal-114-2017",
 "path": "local/olt/caracal/2017/114",
 "kind": "local",

@@ -136,6 +136,51 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-7-2024",
+"path": "local/neamt/secuieni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 7/2024 privind aprobarea vânzării prin licitație publică a terenului intravilan în suprafaţă de 703 mp, aparţinând domeniului privat al Comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/142145",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-8-2024",
+"path": "local/neamt/secuieni/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 8/2024",
+"short": "HCL Secuieni nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/142146",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-9-2024",
 "path": "local/neamt/secuieni/2024/9",
 "kind": "local",
@@ -158,6 +203,28 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-10-2024",
+"path": "local/neamt/secuieni/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 10/2024 privind aprobarea raportului cu privire la activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2023",
+"short": "HCL Secuieni nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/142148",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-11-2024",
 "path": "local/neamt/secuieni/2024/11",
 "kind": "local",
@@ -177,6 +244,50 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-12-2024",
+"path": "local/neamt/secuieni/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 12/2024 privind desemnarea consilierilor locali, membri ai Comisiei de evaluare a performanțelor profesionale individuale ale secretarului general al unității administrativ teritoriale Comuna Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/142150",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-13-2024",
+"path": "local/neamt/secuieni/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 13/2024 pentru modificarea HCL nr.34 din 29.06.2018 privind înfiinţarea şi organizarea serviciului “CONSILIUL LOCAL SECUIENI - SERVICIUL APĂ CANAL”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Secuieni,judeţul Neamț",
+"short": "HCL Secuieni nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/142151",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +335,29 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-16-2024",
+"path": "local/neamt/secuieni/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 16/2024",
+"short": "HCL Secuieni nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/142154",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-17-2024",
 "path": "local/neamt/secuieni/2024/17",
 "kind": "local",
@@ -243,6 +377,28 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-18-2024",
+"path": "local/neamt/secuieni/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 18/2024 privind stabilirea salariilor de bază pentru funcția de primar și viceprimar, funcțiile publice locale, precum şi pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/142156",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +468,117 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-22-2024",
+"path": "local/neamt/secuieni/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 22/2024 privind rezilierea contractului de închiriere nr.3690 din 19.04.2018, privind închirierea suprafețelor de pajiști aflate în domeniul privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/146099",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-23-2024",
+"path": "local/neamt/secuieni/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 23/2024",
+"short": "HCL Secuieni nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/146100",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-24-2024",
+"path": "local/neamt/secuieni/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 24/2024 privind alipirea a două suprafețe de teren situate în intravilanul comunei Secuieni , aflate în domeniul privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/146101",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-25-2024",
+"path": "local/neamt/secuieni/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 25/2024 privind alegerea președintelui de ședință",
+"short": "HCL Secuieni nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/146102",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-26-2024",
+"path": "local/neamt/secuieni/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 26/2024 privind aprobarea alocării unui sprijin financiar pentru Parohia Ortodoxă Bârjoveni I din comuna Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/146103",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-27-2024",
 "path": "local/neamt/secuieni/2024/27",
 "kind": "local",
@@ -353,6 +620,28 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-29-2024",
+"path": "local/neamt/secuieni/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 29/2024 privind atribuirea în folosință gratuită a suprafeţei de 500 mp teren din domeniul privat al comunei Secuieni,județul Neamț în vederea construirii unei locuințe proprietate personală pentru tineri",
+"short": "HCL Secuieni nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/151252",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -398,6 +687,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-32-2024",
+"path": "local/neamt/secuieni/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 32/2024",
+"short": "HCL Secuieni nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/151255",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -467,6 +779,50 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-36-2024",
+"path": "local/neamt/secuieni/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 36/2024 privind atribuirea în folosință gratuită a suprafeţei de 500 mp teren din domeniul privat al comunei Secuieni,județul Neamț în vederea construirii unei locuințe proprietate personală pentru tineri",
+"short": "HCL Secuieni nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/155307",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-37-2024",
+"path": "local/neamt/secuieni/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 37/2024 privind aprobarea raportului de evaluare și concesionarea directă a terenului intravilan în suprafaţă totală de 177 mp, aparţinând domeniului privat al Comunei Secuieni, aferent construcției în suprafață construită la sol de 18 m.p., proprietatea numitului Oprea Sorinel",
+"short": "HCL Secuieni nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/155308",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-38-2024",
 "path": "local/neamt/secuieni/2024/38",
 "kind": "local",
@@ -512,6 +868,50 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-40-2024",
+"path": "local/neamt/secuieni/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 40/2024 privind atribuirea în folosință gratuită a suprafeţei de 500 mp teren din domeniul privat al comunei Secuieni,județul Neamț în vederea construirii unei locuințe proprietate personală pentru tineri",
+"short": "HCL Secuieni nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-30",
+"latest": "2024-04-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/155311",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-41-2024",
+"path": "local/neamt/secuieni/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 41/2024 privind însușirea și aprobarea documentației cadastrale de alipire a două suprafețe de teren situate în intravilanul comunei Secuieni ,satul Butnărești aparținând domeniului privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/158672",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-42-2024",
 "path": "local/neamt/secuieni/2024/42",
 "kind": "local",
@@ -534,6 +934,95 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-43-2024",
+"path": "local/neamt/secuieni/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 43/2024 privind însușirea și aprobarea documentației cadastrale de alipire a două suprafețe de teren situate în intravilanul comunei Secuieni,sat Secuieni aparținând domeniului privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/158674",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-44-2024",
+"path": "local/neamt/secuieni/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 44/2024 privind atribuirea în folosință gratuită a suprafeţei de 500 mp teren din domeniul privat al comunei Secuieni,județul Neamț în vederea construirii unei locuințe proprietate personală pentru tineri",
+"short": "HCL Secuieni nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/158675",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-45-2024",
+"path": "local/neamt/secuieni/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 45/2024",
+"short": "HCL Secuieni nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/158676",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-46-2024",
+"path": "local/neamt/secuieni/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 46/2024 privind alegerea președintelui de ședință",
+"short": "HCL Secuieni nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/158677",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-47-2024",
 "path": "local/neamt/secuieni/2024/47",
 "kind": "local",
@@ -553,6 +1042,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-48-2024",
+"path": "local/neamt/secuieni/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 48/2024",
+"short": "HCL Secuieni nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/158679",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -667,6 +1179,28 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-54-2024",
+"path": "local/neamt/secuieni/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 54/2024 privind stabilirea salariilor de bază pentru funcțiile publice locale, precum şi pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/164107",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-55-2024",
 "path": "local/neamt/secuieni/2024/55",
 "kind": "local",
@@ -711,6 +1245,51 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-57-2024",
+"path": "local/neamt/secuieni/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 57/2024",
+"short": "HCL Secuieni nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/167858",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-58-2024",
+"path": "local/neamt/secuieni/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 58/2024 privind modificarea și completarea Hotărârii Consiliului Local nr. 4 din 28.01.2021 privind atribuirea unor suprafeţe pentru construirea de locuințe proprietate personală de către tineri",
+"short": "HCL Secuieni nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/167859",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-59-2024",
 "path": "local/neamt/secuieni/2024/59",
 "kind": "local",
@@ -752,6 +1331,28 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-61-2024",
+"path": "local/neamt/secuieni/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 61/2024 privind alegerea președintelui de ședință",
+"short": "HCL Secuieni nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/170794",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

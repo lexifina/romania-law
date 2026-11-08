@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/olt/piatra-olt/2015",
+"acts": [
+{
+"slug": "hcl-olt--piatra-olt-14-2015",
+"path": "local/olt/piatra-olt/2015/14",
+"kind": "local",
+"year": "2015",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 14/2015 Cu privire la: aprobare retea scolara a unitatilor de invatamant de stat la nivelul unitatii administrativ teritoriale oras Piatra Olt anul 2015-2016",
+"short": "HCL Piatra-Olt nr. 14/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-03-31",
+"latest": "2015-03-31",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-26-2015",
+"path": "local/olt/piatra-olt/2015/26",
+"kind": "local",
+"year": "2015",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 26/2015 Cu privire la: aprobare rectificare buget local pe anul 2015",
+"short": "HCL Piatra-Olt nr. 26/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-07-10",
+"latest": "2015-07-10",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-33-2015",
+"path": "local/olt/piatra-olt/2015/33",
+"kind": "local",
+"year": "2015",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 33/2015 Cu privire la: revocarea Hotararii Consiliului Local nr.24129.06.2015",
+"short": "HCL Piatra-Olt nr. 33/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-08-19",
+"latest": "2015-08-19",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-44-2015",
+"path": "local/olt/piatra-olt/2015/44",
+"kind": "local",
+"year": "2015",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 44/2015 Cu privire la. desemnare membri in Comisia de evaluare si asigurare a calitatii la nivelul unitatilor de invatamant din orasul Piatra Olt",
+"short": "HCL Piatra-Olt nr. 44/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-09-30",
+"latest": "2015-09-30",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-45-2015",
+"path": "local/olt/piatra-olt/2015/45",
+"kind": "local",
+"year": "2015",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 45/2015 Cu privire la: aprobare rectificare buget local pe anul 2015",
+"short": "HCL Piatra-Olt nr. 45/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-09-30",
+"latest": "2015-09-30",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-46-2015",
+"path": "local/olt/piatra-olt/2015/46",
+"kind": "local",
+"year": "2015",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 46/2015 Cu privire la: aprobarea documentatiei tehnico-ecoffiniica pentru obiectivul de.investitie \"Asfaltare -De745ll, in orasul Piatra Olf'",
+"short": "HCL Piatra-Olt nr. 46/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-09-30",
+"latest": "2015-09-30",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-49-2015",
+"path": "local/olt/piatra-olt/2015/49",
+"kind": "local",
+"year": "2015",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 49/2015",
+"short": "HCL Piatra-Olt nr. 49/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-09-30",
+"latest": "2015-09-30",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

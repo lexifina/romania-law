@@ -1,0 +1,666 @@
+{
+ "country": "RO",
+ "shard": "local/olt/draganesti-olt/2016",
+ "acts": [
+  {
+   "slug": "hcl-olt--draganesti-olt-1-2016",
+   "path": "local/olt/draganesti-olt/2016/1",
+   "short": "HCL Drăgănești-Olt nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 1/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.1-din-25.06.2016-alegere--comisie-de-validare-mandate-consilieri.pdf",
+     "sha256": "f48f2c6c817345ac381855080976a0b4f60f6e6b1316b16aa6437f738e8e722f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-10-2016",
+   "path": "local/olt/draganesti-olt/2016/10",
+   "short": "HCL Drăgănești-Olt nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 10/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr-10-din-28.07.2016-organigrama-stat-personal-plan-ocupare-functii-publice-2016.pdf",
+     "sha256": "b64b16ee84241012a1c0b141724bfacb20599fe04fd518180617ce74f7f6cdc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-11-2016",
+   "path": "local/olt/draganesti-olt/2016/11",
+   "short": "HCL Drăgănești-Olt nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 11/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr-11-din-28.07.2016-retrag-dr-folos-gratuita-loturi-lege-15-2003.pdf",
+     "sha256": "0e60621364ee4514150fea97a5899c0a9423ac08cef1d0c6a6f23cecd1988182"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-12-2016",
+   "path": "local/olt/draganesti-olt/2016/12",
+   "short": "HCL Drăgănești-Olt nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 12/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr-12-din-28.07.2016-atrib-folos-gratuita-loturi-lege-15-2003.pdf",
+     "sha256": "32976b984cca2a3f440d25417079682abab24be9012169a20872d64ec1e1587d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-13-2016",
+   "path": "local/olt/draganesti-olt/2016/13",
+   "short": "HCL Drăgănești-Olt nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 13/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+     "sha256": "06b1182a24b5a7b056b0afb84f2c1c46bd882a7cc67a53dd9566df7d6b40f7b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-14-2016",
+   "path": "local/olt/draganesti-olt/2016/14",
+   "short": "HCL Drăgănești-Olt nr. 14/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 14/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr-14-din-28.07.2016-desemn-membru-aga-cao.pdf",
+     "sha256": "6a77d7be70e557a9883bd07f5663568e3922285d72faf5ba9f9f1917ea558c32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-15-2016",
+   "path": "local/olt/draganesti-olt/2016/15",
+   "short": "HCL Drăgănești-Olt nr. 15/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 15/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+     "sha256": "867fb629968df507f59648b388301262a1c764b23e1cf5a8f1ad0ed97428fe33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-16-2016",
+   "path": "local/olt/draganesti-olt/2016/16",
+   "short": "HCL Drăgănești-Olt nr. 16/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 16/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr-16-din-28.07.2016-desemn-membrii-comisie-anl.pdf",
+     "sha256": "77deafce1c501670161ceefa0871aa26e5e696d25404d3426d2badf341456a40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-17-2016",
+   "path": "local/olt/draganesti-olt/2016/17",
+   "short": "HCL Drăgănești-Olt nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 17/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr-17-din-28.07.2016-actualiz-componenta-comisie-lege-15-2003-sprijin-tineri-construire-locuinta-personala.pdf",
+     "sha256": "7f58ee53523fa7c906701f9ed5a55915324f0f5e0ce3fa3a6356d27cc674f4e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-18-2016",
+   "path": "local/olt/draganesti-olt/2016/18",
+   "short": "HCL Drăgănești-Olt nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 18/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr-18-din-28.07.2016-trecere-din-dom-publ-in-dom-priv-fantana-publica-str-paltinis--si-demolare.pdf",
+     "sha256": "a36b65b3c3d54b9ace9c80dc8de414818251698e5ed94ca610fd3ad464ea3fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-19-2016",
+   "path": "local/olt/draganesti-olt/2016/19",
+   "short": "HCL Drăgănești-Olt nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 19/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-19-din-25.08.2016-rof-consiliu-local.pdf",
+     "sha256": "8e454967051dee79324e334c4d59bcf1bbc1b2764eb9b017752fd35e85060f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-2-2016",
+   "path": "local/olt/draganesti-olt/2016/2",
+   "short": "HCL Drăgănești-Olt nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 2/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.2-din-25.06.2016-validare-mandat-consilieri-locali.pdf",
+     "sha256": "641cdee2c874bd64da9f985456ad9c188fae5f450dc52527006306761bd332f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-20-2016",
+   "path": "local/olt/draganesti-olt/2016/20",
+   "short": "HCL Drăgănești-Olt nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 20/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-20-din-25.08.2016-rectif-bvc-oras.pdf",
+     "sha256": "6c2bdffe598bc066a4cd2dab39587838c780fd374cb61296f79b516f544e1151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-21-2016",
+   "path": "local/olt/draganesti-olt/2016/21",
+   "short": "HCL Drăgănești-Olt nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 21/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-21-din-25.08.2016-infiintare-politie-locala.pdf",
+     "sha256": "84025eea3dee62521a93fdc4fadddc9a18bbfdbf5ffb9731a4b52544979763c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-22-2016",
+   "path": "local/olt/draganesti-olt/2016/22",
+   "short": "HCL Drăgănești-Olt nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 22/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-22-din-25.08.2016-constit-comisie-locala-ordine-publica.pdf",
+     "sha256": "1bcdabcf9b91a9a52795274385d560a20e610391e27d4af2ef23f36046a6b327"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-23-2016",
+   "path": "local/olt/draganesti-olt/2016/23",
+   "short": "HCL Drăgănești-Olt nr. 23/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 23/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-23-din-25.08.2016-program-zilele-orasului-2016.pdf",
+     "sha256": "ea3cec90d0b6216f6b6c5e0048ebaf06270e716b1b0835632408cf3dece1fff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-24-2016",
+   "path": "local/olt/draganesti-olt/2016/24",
+   "short": "HCL Drăgănești-Olt nr. 24/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 24/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-24-din-25.08.2016-desemn-reprez-in-ca-lic-t-vladim.pdf",
+     "sha256": "81951ec619218dc6c2b4cb52a184f53cbd6ebc214154b7c6dda58e369ba6c0e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-25-2016",
+   "path": "local/olt/draganesti-olt/2016/25",
+   "short": "HCL Drăgănești-Olt nr. 25/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 25/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-25-din-25.08.2016-desemn-reprez-in-ceac-lic-t-vladim.pdf",
+     "sha256": "a3a832e0dddabe2e305f9fdd7940e7eda8c1bb1c30f01437d460a3c33ac80dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-26-2016",
+   "path": "local/olt/draganesti-olt/2016/26",
+   "short": "HCL Drăgănești-Olt nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 26/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-26-din-25.08.2016-desemn-reprez-in-ca-lic-tehn.pdf",
+     "sha256": "1c20bd639e5f537eee516587aae7576f1da03a432d23dedf96f22a182f399ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-27-2016",
+   "path": "local/olt/draganesti-olt/2016/27",
+   "short": "HCL Drăgănești-Olt nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 27/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-27-din-25.08.2016-desemn-reprez-in-ceac-lic-tehn.pdf",
+     "sha256": "13324a6bb9e58b8040500157a3da947fef64e3b64aec29975319cab456142988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-28-2016",
+   "path": "local/olt/draganesti-olt/2016/28",
+   "short": "HCL Drăgănești-Olt nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 28/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-28-din-25.08.2016-desemn-reprez-in-ca-scoala-comani.pdf",
+     "sha256": "e16ffbad425f89970b2b3f62b6f3940061a281f498f771a623487dca378b6b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-29-2016",
+   "path": "local/olt/draganesti-olt/2016/29",
+   "short": "HCL Drăgănești-Olt nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 29/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-29-din-25.08.2016-desemn-reprez-in-ceac-scoala-comani.pdf",
+     "sha256": "ac39e8020d0100206f57b86adae37eb9fc793f4deb3aa851a9e5f3c379a38494"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-3-2016",
+   "path": "local/olt/draganesti-olt/2016/3",
+   "short": "HCL Drăgănești-Olt nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 3/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.3-din-25.06.2016-declarare-legal-constituit-cons-local.pdf",
+     "sha256": "f24b26b5c051bf1bc3fc326e360f484fdda76208507bb905103e560c33a0fc44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-30-2016",
+   "path": "local/olt/draganesti-olt/2016/30",
+   "short": "HCL Drăgănești-Olt nr. 30/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 30/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-30-din-25.08.2016-desemn-reprez-in-ca-gradinita-dumbrava-minun.pdf",
+     "sha256": "20d60843370e83931f019aba8f372160cd479eb31f522cfdf664a06089a26b13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-31-2016",
+   "path": "local/olt/draganesti-olt/2016/31",
+   "short": "HCL Drăgănești-Olt nr. 31/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 31/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-31-din-25.08.2016-desemn-reprez-in-ceac-gradinita-dumbrava-minun.pdf",
+     "sha256": "ffd66bc3eab4d7a51bf79e9b085f3645417ca9996490316649dc8860bba8eb06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-32-2016",
+   "path": "local/olt/draganesti-olt/2016/32",
+   "short": "HCL Drăgănești-Olt nr. 32/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 32/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hcl-32-din-25.08.2016-indic-tehn-econ-canaliz-pluv-str.n.-titulescu.pdf",
+     "sha256": "610af260c13d95923acbd7bf84cb595da7eeb86cd79825eb411fa1ce66e44edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-33-2016",
+   "path": "local/olt/draganesti-olt/2016/33",
+   "short": "HCL Drăgănești-Olt nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 33/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-12",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.33-din-12.04.2016-modif-hcl-15-din-2014-indic-tehn-econ-moderniz-str.-n.-titulescu.pdf",
+     "sha256": "01ee3a8224a7d7f619a02f140a3e4c9952b11a26d8a403308e6c2cda98e3042f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-34-2016",
+   "path": "local/olt/draganesti-olt/2016/34",
+   "short": "HCL Drăgănești-Olt nr. 34/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 34/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotararea-consiliului-local-nr-34-din-06.10.2016-contractare-serv-avocatiale-asistenta-si-reprezentare-in--litigiu-cu-anfp.pdf",
+     "sha256": "de8ea9f62e5eb24743dfd9b53686e9d5f393993357cd2048eae87dccb2af26f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-35-2016",
+   "path": "local/olt/draganesti-olt/2016/35",
+   "short": "HCL Drăgănești-Olt nr. 35/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 35/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.35-din-28.04.2016-exec-buget-trim-i-2016.pdf",
+     "sha256": "4201531177ad210f4cd7464942454ca8d87a512182addeeca653762397e6d745"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-36-2016",
+   "path": "local/olt/draganesti-olt/2016/36",
+   "short": "HCL Drăgănești-Olt nr. 36/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 36/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.36-din-28.04.2016-indic-tehn-econ-reabil-si-moderniz-strazi-ii.pdf",
+     "sha256": "67d85f8dc2dace465fd0393da072fe625f5cbe7ba02e1e4e5611c001481828c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-37-2016",
+   "path": "local/olt/draganesti-olt/2016/37",
+   "short": "HCL Drăgănești-Olt nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 37/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.37-din-28.04.2016-cofin-reabil-si-moderniz-strazi-ii.pdf",
+     "sha256": "dad9d36ad50cc44c315b7882b84d1ef4eafb663d9af45db3db845e0771e21055"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-38-2016",
+   "path": "local/olt/draganesti-olt/2016/38",
+   "short": "HCL Drăgănești-Olt nr. 38/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 38/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.38-din-28.04.2016-indic-tehn-econ-imbunatatire-perform-energ-blocuri-locuinte.pdf",
+     "sha256": "08f6d88d761002aee9bbf8f1ab395471be2e74794bafcfdd761c21a7c5bd4e75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-39-2016",
+   "path": "local/olt/draganesti-olt/2016/39",
+   "short": "HCL Drăgănești-Olt nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 39/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.39-din-28.04.2016-insusire-inventar-domeniu-public-1.pdf",
+     "sha256": "c9c08ce68c4ede877d8fab3ef5440e8c92912ef0c0ffa5d00be9918f3608f98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-4-2016",
+   "path": "local/olt/draganesti-olt/2016/4",
+   "short": "HCL Drăgănești-Olt nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 4/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.4-din-25.06.2016-alegere-presed-de-sed.pdf",
+     "sha256": "7bf833c19122858f97e2425f4bd3cba726f6be7290680519953a5475a7e92d10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-41-2016",
+   "path": "local/olt/draganesti-olt/2016/41",
+   "short": "HCL Drăgănești-Olt nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 41/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.41-din-28.04.2016-demolare-constructie-90-mp-n.-titulescu-58-a-cao.pdf",
+     "sha256": "a9c5bab79695b9a5e9e345e3677ded1dbc48607d5816a64d9cec79d0ecefeb42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-42-2016",
+   "path": "local/olt/draganesti-olt/2016/42",
+   "short": "HCL Drăgănești-Olt nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 42/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.42-din-28.04.2016-plan-actiune-plan-strategic-dezv-servicii-sociale.pdf",
+     "sha256": "4909e6d18fb69b15fead4d97bdc5046298590c359fa83e5c7c4d099664e437bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-43-2016",
+   "path": "local/olt/draganesti-olt/2016/43",
+   "short": "HCL Drăgănești-Olt nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 43/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.43-din-25.05.2016-desemn-presed-sed-05.2016.pdf",
+     "sha256": "7bc498e21581257b52ee44fc0a6c39ea2b9a35f33490353995b51477cd8e090d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-44-2016",
+   "path": "local/olt/draganesti-olt/2016/44",
+   "short": "HCL Drăgănești-Olt nr. 44/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 44/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.44-din-25.05.2016-cont-exec-buget-2015.pdf",
+     "sha256": "0dcb0f323ea411badb5b8dd63cfc4975ba8fd1c18ecd31e835a3196e1edf1af2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-45-2016",
+   "path": "local/olt/draganesti-olt/2016/45",
+   "short": "HCL Drăgănești-Olt nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 45/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016/hotarare-consiliul-local-nr.45-din-25.05.2016-aloc-are-suma-bani-1-iunie-2016.pdf",
+     "sha256": "4d65aeb8edc9a1197e42d2e4e6faff0d8d9834e2139d9fb16b3b8b91471bd4a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-5-2016",
+   "path": "local/olt/draganesti-olt/2016/5",
+   "short": "HCL Drăgănești-Olt nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 5/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.5-din-25.06.2016-alegere-viceprimar.pdf",
+     "sha256": "cfc99b156d2ad39a539c6d20044acf8125bd1a36fa74ccf014d0beb90a2568d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-6-2016",
+   "path": "local/olt/draganesti-olt/2016/6",
+   "short": "HCL Drăgănești-Olt nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 6/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.6-din-25.06.2016-stabilire-si-organizare-comisii-de-spec-ale-cons-local.pdf",
+     "sha256": "a227b0f6a4fb0a15137dccdc6cf463758ff50979b983ebe2f5d69b6543ec319e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-7-2016",
+   "path": "local/olt/draganesti-olt/2016/7",
+   "short": "HCL Drăgănești-Olt nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 7/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.7-din-08.07.2016-rectif-buget.pdf",
+     "sha256": "1404501d6ab8f90962894380fd30b9bd9edac0a751b11f38499104700a30ab50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-8-2016",
+   "path": "local/olt/draganesti-olt/2016/8",
+   "short": "HCL Drăgănești-Olt nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 8/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.8-din-08.07.2016-exec-buget-trim-ii-2016.pdf",
+     "sha256": "c1dc6a68b0d08649332baa342dcf64e7d669b9b2105309ea820c2a6fa7b67de6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-9-2016",
+   "path": "local/olt/draganesti-olt/2016/9",
+   "short": "HCL Drăgănești-Olt nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 9/2016",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2016-mandat-nou/",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2016---mandat-nou/hotarare-consiliul-local-nr.9-din-08.07.2016-modif-hcl-36-din-2016-indic-tehn-econ-reabil-strazi-ii.pdf",
+     "sha256": "82ee06dc9b86c7bdf505fc9fa78911bc6a98fa8d7388b631369ec2e90f746df1"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/olt/piatra-olt/2019",
+"acts": [
+{
+"slug": "hcl-olt--piatra-olt-3-2019",
+"path": "local/olt/piatra-olt/2019/3",
+"kind": "local",
+"year": "2019",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 3/2019",
+"short": "HCL Piatra-Olt nr. 3/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-28",
+"latest": "2019-01-28",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-5-2019",
+"path": "local/olt/piatra-olt/2019/5",
+"kind": "local",
+"year": "2019",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 5/2019 Cu privire la : aprobarea solicitarii trnei scrisori de garantie de la FNGCIMM SA IFN",
+"short": "HCL Piatra-Olt nr. 5/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-28",
+"latest": "2019-01-28",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,50 @@
 "shard": "local/neamt/piatra-neamt/2020",
 "acts": [
 {
+"slug": "hcl-neamt--piatra-neamt-3-2020",
+"path": "local/neamt/piatra-neamt/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Piatra Neamț nr. 3/2020 privind admiterea listei de candidați pentru funcția de consilier local în cadrul Consiliului Local al Municipiului Piatra Neamț depusă de Alianța USR PLUS la alegerile locale din data de 27 septembrie 2020",
+"short": "HCL Piatra Neamț nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-15",
+"latest": "2020-08-15",
+"portal": "https://www.primariapn.ro/hotarari-ale-biroului-electoral-de-circumscriptie-municipala",
+"council": "neamt/piatra-neamt",
+"council_name": "Consiliul Local al Municipiului Piatra Neamț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--piatra-neamt-5-2020",
+"path": "local/neamt/piatra-neamt/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Piatra Neamț nr. 5/2020 privind admiterea listei de candidați pentru funcția de consilier local în cadrul Consiliului Local al Municipiului Piatra Neamț depusă de Partidul Alianța Liberalilor și Democraților - ALDE la alegerile locale din data de 27 septembrie 2020",
+"short": "HCL Piatra Neamț nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-15",
+"latest": "2020-08-15",
+"portal": "https://www.primariapn.ro/hotarari-ale-biroului-electoral-de-circumscriptie-municipala",
+"council": "neamt/piatra-neamt",
+"council_name": "Consiliul Local al Municipiului Piatra Neamț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--piatra-neamt-7-2020",
 "path": "local/neamt/piatra-neamt/2020/7",
 "kind": "local",

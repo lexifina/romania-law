@@ -498,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-33-2012",
+   "path": "local/olt/caracal/2012/33",
+   "short": "HCL Caracal nr. 33/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 33/2012 privind reorganizarea rețelei școlare începând cu anul școlar 2012-2013, precum și prevederile OMEC.T.S nr.6564/2011 privind aprobarea procedurii de atribuire a denumirilor unităților de învățământ din sistemul național de învățământ preuniversitar AVÂND ÎN VEDERE: - Raportul de specialitate nr.10957/30.08.2012 al Direcței Resurse Umane din cadrul Primăriei municipiului Caracal; - Avizul nr.62/25",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2012/",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2012/HCLnr.33din2012.pdf",
+     "sha256": "bfdce335f57a37e92c126b43eeda3a51370b31e7cb05c91ff90a09873b33a333"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-35-2012",
    "path": "local/olt/caracal/2012/35",
    "short": "HCL Caracal nr. 35/2012",

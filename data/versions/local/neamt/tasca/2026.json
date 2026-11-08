@@ -3,6 +3,21 @@
  "shard": "local/neamt/tasca/2026",
  "acts": [
   {
+   "slug": "hcl-neamt--tasca-1-2026",
+   "path": "local/neamt/tasca/2026/1",
+   "short": "HCL Tașca nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 1/2026 privind utilizarea excedentului exercițiului financiar al anului 2025",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271613",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271613",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-10-2026",
    "path": "local/neamt/tasca/2026/10",
    "short": "HCL Tașca nr. 10/2026",
@@ -18,6 +33,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tasca-11-2026",
+   "path": "local/neamt/tasca/2026/11",
+   "short": "HCL Tașca nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 11/2026 privind transmiterea dreptului de concesiune prevăzut în Contractul de Concesionare nr.1/03.01.2018 de la BARBU Ionela-Gabriela și BARBU Răducu-Constantin, la ZOEA Ionela-Gabriela",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271623",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-12-2026",
+   "path": "local/neamt/tasca/2026/12",
+   "short": "HCL Tașca nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 12/2026 privind aprobarea proiectului de buget pentru anul 2026 și estimările pentru anii 2027-2029",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271626",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-13-2026",
+   "path": "local/neamt/tasca/2026/13",
+   "short": "HCL Tașca nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 13/2026 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tașca pentru luna martie 2026",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271627",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271627",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-14-2026",
    "path": "local/neamt/tasca/2026/14",
    "short": "HCL Tașca nr. 14/2026",
@@ -28,6 +88,36 @@
      "from": "2026-06-02",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/271628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-15-2026",
+   "path": "local/neamt/tasca/2026/15",
+   "short": "HCL Tașca nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 15/2026",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271641",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-16-2026",
+   "path": "local/neamt/tasca/2026/16",
+   "short": "HCL Tașca nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 16/2026 privind aprobarea actualizării cuantumului chiriilor anuale și indexarea acestora cu rata inflației, pentru locuințele situate în blocul ANL din Comuna Tașca, județul Neamț, aplicabile cu 01.02.2026",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271646",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271646",
      "sha256": null
     }
    ]
@@ -73,6 +163,21 @@
      "from": "2026-06-02",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/271660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-2-2026",
+   "path": "local/neamt/tasca/2026/2",
+   "short": "HCL Tașca nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 2/2026 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Tașca pentru luna februarie 2026",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271614",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271614",
      "sha256": null
     }
    ]
@@ -348,6 +453,66 @@
    ]
   },
   {
+   "slug": "hcl-neamt--tasca-4-2026",
+   "path": "local/neamt/tasca/2026/4",
+   "short": "HCL Tașca nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 4/2026 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2026, ce vor fi executate de către beneficiarii venitului de incluziune, conform Legii nr. 196/2016, modificată și completată",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271616",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-5-2026",
+   "path": "local/neamt/tasca/2026/5",
+   "short": "HCL Tașca nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 5/2026 privind aprobarea raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pentru semestrul II al anului 2025",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271617",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-6-2026",
+   "path": "local/neamt/tasca/2026/6",
+   "short": "HCL Tașca nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 6/2026 privind aprobarea Organigramei și a Statului de funcții al SC Termo Serv Com Tașca SRL pentru anul 2026",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271618",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-7-2026",
+   "path": "local/neamt/tasca/2026/7",
+   "short": "HCL Tașca nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 7/2026 privind încheierea unor Acorduri de parteneriat, în vederea inițierii, organizării și desfășurării de activități de creație artistică",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271619",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271619",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tasca-8-2026",
    "path": "local/neamt/tasca/2026/8",
    "short": "HCL Tașca nr. 8/2026",
@@ -358,6 +523,21 @@
      "from": "2026-06-02",
      "units": 1,
      "source_url": "https://emol.ro/tasca-nt/registru-hcl/271620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tasca-9-2026",
+   "path": "local/neamt/tasca/2026/9",
+   "short": "HCL Tașca nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tașca nr. 9/2026 privind prelungirea/neprelungirea contractelor de închiriere pentru locuințele pentru tineri destinate închirierii (A.N.L.) aflate în administrarea U.A.T.Tașca",
+   "url": "https://emol.ro/tasca-nt/registru-hcl/271621",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tasca-nt/registru-hcl/271621",
      "sha256": null
     }
    ]

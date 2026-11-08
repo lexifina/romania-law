@@ -3,6 +3,29 @@
 "shard": "local/neamt/timisesti/2026",
 "acts": [
 {
+"slug": "hcl-neamt--timisesti-1-2026",
+"path": "local/neamt/timisesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 1/2026",
+"short": "HCL Timișești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/247101",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-2-2026",
 "path": "local/neamt/timisesti/2026/2",
 "kind": "local",
@@ -114,6 +137,29 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-7-2026",
+"path": "local/neamt/timisesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 7/2026",
+"short": "HCL Timișești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-20",
+"latest": "2026-03-20",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/255116",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-8-2026",
 "path": "local/neamt/timisesti/2026/8",
 "kind": "local",
@@ -178,6 +224,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-11-2026",
+"path": "local/neamt/timisesti/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 11/2026 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap și beneficiare ale Decretului-lege nr. 118/1990",
+"short": "HCL Timișești nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/255120",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +358,72 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-17-2026",
+"path": "local/neamt/timisesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 17/2026 privind aprobarea acordării unor facilități fiscale persoanelor beneficiare ale Decretului-lege nr. 118/1990",
+"short": "HCL Timișești nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/258277",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-18-2026",
+"path": "local/neamt/timisesti/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 18/2026 privind alegerea președintelui de ședință",
+"short": "HCL Timișești nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/258278",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-19-2026",
+"path": "local/neamt/timisesti/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 19/2026 privind aprobarea încheierii unui act adițional la contractul de concesiune nr. 5131 din 01.09.2023",
+"short": "HCL Timișești nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/258279",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -448,6 +582,28 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-27-2026",
+"path": "local/neamt/timisesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 27/2026 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap și beneficiarilor Decretului-lege nr. 118/1990",
+"short": "HCL Timișești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/259955",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-28-2026",
 "path": "local/neamt/timisesti/2026/28",
 "kind": "local",
@@ -467,6 +623,29 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-29-2026",
+"path": "local/neamt/timisesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 29/2026",
+"short": "HCL Timișești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/263237",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -533,6 +712,51 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-33-2026",
+"path": "local/neamt/timisesti/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 33/2026 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap",
+"short": "HCL Timișești nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/263241",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-34-2026",
+"path": "local/neamt/timisesti/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 34/2026",
+"short": "HCL Timișești nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/263242",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -645,6 +869,28 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-40-2026",
+"path": "local/neamt/timisesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 40/2026 privind aprobarea listei solicitanţilor care au acces la locuinţe și a listei de prioritate aferentă locuințelor pentru tineri destinate închirierii, construite de Agenția Națională pentru Locuințe în comuna Timișești , județul Neamț",
+"short": "HCL Timișești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-06",
+"latest": "2026-05-06",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/266356",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -934,6 +1180,50 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-54-2026",
+"path": "local/neamt/timisesti/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 54/2026 privind aprobarea listei de repartizare a locuințelor pentru tineri, destinate închirierii, construite de Agenția Națională pentru Locuințe în comuna Timișești , județul Neamț",
+"short": "HCL Timișești nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/276561",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-55-2026",
+"path": "local/neamt/timisesti/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 55/2026 privind alegerea președintelui de ședință",
+"short": "HCL Timișești nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/276562",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-56-2026",
 "path": "local/neamt/timisesti/2026/56",
 "kind": "local",
@@ -1218,6 +1508,28 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-69-2026",
+"path": "local/neamt/timisesti/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 69/2026 privind aprobarea participării Comunei Timișești , prin Consiliul Local, în calitate de membru fondator la înființarea Asociației Organizația de Management al Destinației \" Ținutul Neamțului \"",
+"short": "HCL Timișești nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/284246",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

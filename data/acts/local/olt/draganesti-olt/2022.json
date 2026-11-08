@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/olt/draganesti-olt/2022",
+"acts": [
+{
+"slug": "hcl-olt--draganesti-olt-152-2022",
+"path": "local/olt/draganesti-olt/2022/152",
+"kind": "local",
+"year": "2022",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 152/2022 referitoare la \"aprobarea rectificarii bugetului de venituri si cheltuieli al Orasului Draganesti-Olt pe anul 2021\"",
+"short": "HCL Drăgănești-Olt nr. 152/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://draganesti-olt.ro/monitorul-oficial-local/autoritatea-deliberativa/hotararile-autoritatii-deliberative/hotararile-autoritatii-deliberative-2021/",
+"council": "olt/draganesti-olt",
+"council_name": "Consiliul Local al Orașului Drăgănești-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-10-2026",
+   "path": "local/neamt/negresti/2026/10",
+   "short": "HCL Negrești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 10/2026 privind aprobarea atribuirii in folosinta gratuita si incheierea unui contract de comodat pentru spatiul in care functioneaza Postul de Politie Negresti",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262156",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-11-2026",
+   "path": "local/neamt/negresti/2026/11",
+   "short": "HCL Negrești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 11/2026 privind acordarea unui mandat special – modificarea contractului de delegare nr. 760/84/21.07.2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262160",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262160",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-12-2026",
    "path": "local/neamt/negresti/2026/12",
    "short": "HCL Negrești nr. 12/2026",
@@ -43,6 +73,36 @@
      "from": "2026-05-18",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/262162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-14-2026",
+   "path": "local/neamt/negresti/2026/14",
+   "short": "HCL Negrești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 14/2026 privind încetarea Acordului de cooperare privind organizarea si exercitarea acțiunilor și activităților financiar contabile prin care se asigura satisfacerea nevoilor de utilitate și de interes public, general",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262166",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-15-2026",
+   "path": "local/neamt/negresti/2026/15",
+   "short": "HCL Negrești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 15/2026 privind aprobarea modificarii organigramei si statului de functii ale aparatului de specialitate al primarului comunei Negresti",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262167",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262167",
      "sha256": null
     }
    ]
@@ -123,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-20-2026",
+   "path": "local/neamt/negresti/2026/20",
+   "short": "HCL Negrești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 20/2026 privind punerea la dispoziția Comisiei locale de fond funciar Negresti a terenului în suprafață de 1.444 mp din măsurători 1.433 mp, situat în sat Negrești, com. Negrești, jud. Neamț dobândit în baza Sentinței civile nr. 3007/2023 rămasă definitivă, în vederea punerii în posesie a persoanei îndreptățite",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262172",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-21-2026",
+   "path": "local/neamt/negresti/2026/21",
+   "short": "HCL Negrești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 21/2026 privind acordarea stimulentului financiar pentru nou-născuți din comuna Negrești",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262173",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262173",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-22-2026",
    "path": "local/neamt/negresti/2026/22",
    "short": "HCL Negrești nr. 22/2026",
@@ -133,6 +223,21 @@
      "from": "2026-05-18",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/268744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-23-2026",
+   "path": "local/neamt/negresti/2026/23",
+   "short": "HCL Negrești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 23/2026 privind schimbarea destinației imobilului Scoala veche situat în Comuna Negresti, str. Mănăstirera Horaița, nr. 148, din spaţiu pentru învăţământ, în spaţiu pentru activităti de utilitate publica – sediu primarie Negresti",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/268745",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/268745",
      "sha256": null
     }
    ]
@@ -168,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-26-2026",
+   "path": "local/neamt/negresti/2026/26",
+   "short": "HCL Negrești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 26/2026",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/274187",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/274187",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-27-2026",
    "path": "local/neamt/negresti/2026/27",
    "short": "HCL Negrești nr. 27/2026",
@@ -198,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-29-2026",
+   "path": "local/neamt/negresti/2026/29",
+   "short": "HCL Negrești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 29/2026 privind aprobarea vanzarii prin licitatie publică deschisa cu preselectie in plic inchis, a cantitatii de 841,55 m.c. masa lemnoasa pe picior, provenita din rarituri, din pădurea proprietate a Comunei Negresti parcela Ua 84",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/274190",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/274190",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-3-2026",
    "path": "local/neamt/negresti/2026/3",
    "short": "HCL Negrești nr. 3/2026",
@@ -208,6 +343,36 @@
      "from": "2026-05-18",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/262148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-30-2026",
+   "path": "local/neamt/negresti/2026/30",
+   "short": "HCL Negrești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 30/2026 privind aprobarea vanzarii prin licitatie publică deschisa cu preselectie in plic inchis, a cantitatii de 773,62 m.c. masa lemnoasa pe picior, produse accidentale, din pădurea proprietate a Comunei Negresti parcela Ua 79, Ua 80A, Ua 80B, Ua 83A, Ua 114",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/274191",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/274191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-31-2026",
+   "path": "local/neamt/negresti/2026/31",
+   "short": "HCL Negrești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 31/2026",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/274192",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/274192",
      "sha256": null
     }
    ]
@@ -258,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-35-2026",
+   "path": "local/neamt/negresti/2026/35",
+   "short": "HCL Negrești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 35/2026 privind acordarea unui mandat special – modificarea contractului de delegare nr. 760/84/21.07.2025",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/274196",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/274196",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-36-2026",
    "path": "local/neamt/negresti/2026/36",
    "short": "HCL Negrești nr. 36/2026",
@@ -268,6 +448,66 @@
      "from": "2026-06-21",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/274197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-37-2026",
+   "path": "local/neamt/negresti/2026/37",
+   "short": "HCL Negrești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 37/2026 privind aprobarea vânzării prin licitație publică a terenului intravilan în suprafaţă de 1.500 mp, aparţinând domeniului privat al Comunei Negrești, județul Neamț",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/295247",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/295247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-38-2026",
+   "path": "local/neamt/negresti/2026/38",
+   "short": "HCL Negrești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 38/2026 privind aprobarea vânzării cu drept de preempțiune a terenului intravilan în suprafaţă de 407 mp, aparţinând domeniului privat al Comunei Negrești, județul Neamț",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/295248",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/295248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-39-2026",
+   "path": "local/neamt/negresti/2026/39",
+   "short": "HCL Negrești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 39/2026 privind aprobarea concesionarii prin licitatie publica a suprafetei de 28,99 ha pasune comunală din domeniul public al comunei si administrarea consiliului local",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/295249",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/295249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-4-2026",
+   "path": "local/neamt/negresti/2026/4",
+   "short": "HCL Negrești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 4/2026",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262149",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262149",
      "sha256": null
     }
    ]
@@ -603,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--negresti-7-2026",
+   "path": "local/neamt/negresti/2026/7",
+   "short": "HCL Negrești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 7/2026 privind modificarea a HCL nr. 67 din 16 decembrie 2025 privind aprobarea concesionarii prin licitație publică a suprafeței de 30,6951 ha pășune comunală din domeniul public al comunei și administrarea consiliului local",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262153",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262153",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--negresti-8-2026",
    "path": "local/neamt/negresti/2026/8",
    "short": "HCL Negrești nr. 8/2026",
@@ -613,6 +868,21 @@
      "from": "2026-05-18",
      "units": 1,
      "source_url": "https://emol.ro/negresti-nt/registru-hcl/262154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--negresti-9-2026",
+   "path": "local/neamt/negresti/2026/9",
+   "short": "HCL Negrești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Negrești nr. 9/2026",
+   "url": "https://emol.ro/negresti-nt/registru-hcl/262155",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negresti-nt/registru-hcl/262155",
      "sha256": null
     }
    ]

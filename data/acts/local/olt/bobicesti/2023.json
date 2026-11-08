@@ -731,6 +731,28 @@
 }
 },
 {
+"slug": "hcl-olt--bobicesti-34-2023",
+"path": "local/olt/bobicesti/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobicești nr. 34/2023 aprobarea documentației de dezmembrare imobil situat în comuna Bobicești str Leotesti nr 57",
+"short": "HCL Bobicești nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#50320",
+"council": "olt/bobicesti",
+"council_name": "Consiliul Local al Comunei Bobicești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--bobicesti-35-2023",
 "path": "local/olt/bobicesti/2023/35",
 "kind": "local",

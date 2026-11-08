@@ -113,6 +113,29 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-6-2022",
+"path": "local/neamt/savinesti/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 6/2022",
+"short": "HCL Săvinești nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-25",
+"latest": "2022-01-25",
+"portal": null,
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-7-2022",
 "path": "local/neamt/savinesti/2022/7",
 "kind": "local",
@@ -267,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-14-2022",
+"path": "local/neamt/savinesti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 14/2022 privind acordarea unul sprijin financiar pentru Parohiile din comuna Savinesti",
+"short": "HCL Săvinești nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#15552",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-15-2022",
 "path": "local/neamt/savinesti/2022/15",
 "kind": "local",
@@ -286,6 +331,51 @@
 "council_name": "Consiliul Local al Comunei Săvinești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-16-2022",
+"path": "local/neamt/savinesti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 16/2022",
+"short": "HCL Săvinești nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-09",
+"latest": "2022-03-09",
+"portal": null,
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-17-2022",
+"path": "local/neamt/savinesti/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 17/2022 privind desemnarea unui reprezentant al Consiliului Local Savinesti care va avea calitatea de membru in Comisia de Evaluare a probei de interviu in cadrul concursului pentru ocuparea functiei de director in unitatile de invatamant preuniversitar de stat de pe raza comunei Savinesti",
+"short": "HCL Săvinești nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-09",
+"latest": "2022-03-09",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#17147",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -909,6 +999,29 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-46-2022",
+"path": "local/neamt/savinesti/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 46/2022",
+"short": "HCL Săvinești nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-17",
+"latest": "2022-08-17",
+"portal": null,
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-47-2022",
 "path": "local/neamt/savinesti/2022/47",
 "kind": "local",
@@ -1205,6 +1318,28 @@
 }
 },
 {
+"slug": "hcl-neamt--savinesti-60-2022",
+"path": "local/neamt/savinesti/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 60/2022 H.C.L nr.60/31.10.2022 privind hotărâre privind vanzarea prin licitatie publica, in conditiile legii, a unui imobil teren in suprafata de 132 mp, apartinand domeniului privat, situat in comuna Savinesti, strada G-ral Buniș, avand numar cadastral 53403",
+"short": "HCL Săvinești nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#33975",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--savinesti-61-2022",
 "path": "local/neamt/savinesti/2022/61",
 "kind": "local",
@@ -1268,6 +1403,28 @@
 "council_name": "Consiliul Local al Comunei Săvinești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-64-2022",
+"path": "local/neamt/savinesti/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 64/2022 H.C.L nr.64/31.10.2022 privind acordarea unui sprijin financiar pentru Parohiile din comuna Săvineşti",
+"short": "HCL Săvinești nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#33979",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1356,6 +1513,28 @@
 "council_name": "Consiliul Local al Comunei Săvinești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--savinesti-69-2022",
+"path": "local/neamt/savinesti/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săvinești nr. 69/2022 privind acordarea unui sprijin financiar pentru Parohiile din comuna Săvineşti",
+"short": "HCL Săvinești nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://savinesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3260#36892",
+"council": "neamt/savinesti",
+"council_name": "Consiliul Local al Comunei Săvinești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

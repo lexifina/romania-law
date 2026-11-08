@@ -91,6 +91,116 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-5-2021",
+"path": "local/neamt/margineni/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 5/2021 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar pentru anul școlar 2021-2022, pe raza Comunei Mărgineni, JUdețul Neamț",
+"short": "HCL Mărgineni nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28033",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-6-2021",
+"path": "local/neamt/margineni/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 6/2021 privind desemnarea reprezentantului de drep al Comunei Mărgineni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ” AQUA Neamț”",
+"short": "HCL Mărgineni nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28034",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-7-2021",
+"path": "local/neamt/margineni/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 7/2021 privind aprobarea concesionării suprafeței de 7000 mp, luciu de apă",
+"short": "HCL Mărgineni nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28035",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-8-2021",
+"path": "local/neamt/margineni/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 8/2021 privind aprobarea vânzării suprafeței de 700 mp, teren intravilan",
+"short": "HCL Mărgineni nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28036",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-9-2021",
+"path": "local/neamt/margineni/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 9/2021 privind aprobarea încheierii unui Acord de parteneriat între Comuna Mărgineni, județul Neamț și Comunele Făurei și Ruginoasa din Județul Neamț în vederea realizării unui proiect comun de investiții în cadrul Programului Operațional Infrastructură Mare 2014-2020, Axa Prioritară (AP) 8 Sisteme inteligente și sustenabile de transport al energiei electrice și gazelor naturale, Obiectivul Specific (OS) 8.2 Creșterea gradului de interconectare a Sistemului Național de Transport a gazelor naturale cu alte state vecine, Dezvoltarea rețelelor inteligente de distribuție a gazelor naturale",
+"short": "HCL Mărgineni nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28037",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-10-2021",
 "path": "local/neamt/margineni/2021/10",
 "kind": "local",
@@ -110,6 +220,50 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-11-2021",
+"path": "local/neamt/margineni/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 11/2021 privind organizarea pășunatului și aprobarea concesionării/închirierii pajiștilor din domeniul public al Comunei Mărgineni, Județul Neamț, pentru anul 2021",
+"short": "HCL Mărgineni nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28039",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-12-2021",
+"path": "local/neamt/margineni/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 12/2021 privind acordarea unui mandat special în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”AQUA NEAMȚ”, în vederea exercitării votului",
+"short": "HCL Mărgineni nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28146",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-16-2021",
+"path": "local/neamt/margineni/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 16/2021 privind aprobarea mădificării art.9 din A2 a HCL nr.57 din 21.12.2020 privind stabilirea taxei de salubritate la nivelul Comunei Mărgineni, pentru persoanele fizice și juridice, pe anul 2021",
+"short": "HCL Mărgineni nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28150",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-17-2021",
 "path": "local/neamt/margineni/2021/17",
 "kind": "local",
@@ -199,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-18-2021",
+"path": "local/neamt/margineni/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 18/2021 privind alegerea președintelui de ședință pentru lunile Aprilie, Mai și Iunie 2021",
+"short": "HCL Mărgineni nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28152",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -268,6 +466,28 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-22-2021",
+"path": "local/neamt/margineni/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 22/2021 privind modificarea HCL nr.12 din 26.02.2021 privind organizarea pășunatului și aprobarea concesionării/închirierii pajuștilor din domeniul public al Comunei Mărgineni, JUdețul NEamț, pentru anul 2021",
+"short": "HCL Mărgineni nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-15",
+"latest": "2021-04-15",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28160",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-23-2021",
 "path": "local/neamt/margineni/2021/23",
 "kind": "local",
@@ -312,6 +532,28 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-25-2021",
+"path": "local/neamt/margineni/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 25/2021 privind aprobarea proiectului și a cheltuielilor legate de proiectul: „ Achiziția de echipamente din domeniul tehnologiei-iT mobile, respectiv tablete, echipamente și dispozitive necesare activității didactice pentru elevii și cadrele didactice din învățământul preuniversitar, Comuna Mărgineni, Județul Neamț”",
+"short": "HCL Mărgineni nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28174",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-26-2021",
 "path": "local/neamt/margineni/2021/26",
 "kind": "local",
@@ -331,6 +573,29 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-27-2021",
+"path": "local/neamt/margineni/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 27/2021",
+"short": "HCL Mărgineni nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/28176",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -375,6 +640,72 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-30-2021",
+"path": "local/neamt/margineni/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 30/2021 privind modificarea si completarea Actului Constitutiv si Statutului Asociatiei de Dezvoltare Intercomunitara ''AQUA NEAMT''",
+"short": "HCL Mărgineni nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-22",
+"latest": "2021-06-22",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/32109",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-31-2021",
+"path": "local/neamt/margineni/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 31/2021 privind aprobarea premierii elevilor din Comuna Margineni, Judetul Neamt care au obtinut rezultate deosebite la invatatura, in cursul anului scolar 2020-2021",
+"short": "HCL Mărgineni nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-22",
+"latest": "2021-06-22",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/32110",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--margineni-32-2021",
+"path": "local/neamt/margineni/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 32/2021 privind alegerea presedintelui de sedinta pentru lunile Iulie, August si Septembrie",
+"short": "HCL Mărgineni nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-22",
+"latest": "2021-06-22",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/32111",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -465,6 +796,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--margineni-37-2021",
+"path": "local/neamt/margineni/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 37/2021 privind aprobarea alocarii unei sume de bani in vederea organizarii festivitatii de omagiere si acordare a unor diplome familiilor din comuna Margineni care implinesc 50 ani de casatorie, in cursul anului 2021",
+"short": "HCL Mărgineni nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/35094",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -602,6 +955,28 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-44-2021",
+"path": "local/neamt/margineni/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 44/2021 privind alegerea preşedintelui de şedinţă pentru lunile Octombrie, Noiembrie și Decembrie 2021",
+"short": "HCL Mărgineni nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/38538",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-45-2021",
 "path": "local/neamt/margineni/2021/45",
 "kind": "local",
@@ -643,6 +1018,28 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-47-2021",
+"path": "local/neamt/margineni/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 47/2021 privind aprobarea concesionării suprafeței de 7.000 mp, luciu de apă situată în punctul Siliște, tarlaua 33, parcela 281",
+"short": "HCL Mărgineni nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/40069",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

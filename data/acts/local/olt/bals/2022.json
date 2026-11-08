@@ -202,6 +202,29 @@
 }
 },
 {
+"slug": "hcl-olt--bals-49-2022",
+"path": "local/olt/bals/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 49/2022",
+"short": "HCL Balș nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-08",
+"latest": "2022-04-08",
+"portal": null,
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-olt--bals-50-2022",
 "path": "local/olt/bals/2022/50",
 "kind": "local",
@@ -420,6 +443,52 @@
 "council_name": "Consiliul Local al Orașului Balș",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-olt--bals-61-2022",
+"path": "local/olt/bals/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 61/2022",
+"short": "HCL Balș nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": null,
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--bals-62-2022",
+"path": "local/olt/bals/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 62/2022",
+"short": "HCL Balș nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": null,
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1287,6 +1356,51 @@
 }
 },
 {
+"slug": "hcl-olt--bals-106-2022",
+"path": "local/olt/bals/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 106/2022",
+"short": "HCL Balș nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": null,
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-olt--bals-107-2022",
+"path": "local/olt/bals/2022/107",
+"kind": "local",
+"year": "2022",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 107/2022 Referitor la modificarea Hotărârii Consiliului Local al orașului Balș nr.109/30.09.2021 privind desemnarea reprezentanților din partea Consiliului Local al orașului Balș în Consiliile de Administrație și în Comisiile pentru Evaluarea și Asigurarea Calității (CEAC) din cadrul unităților de învățământ din orașul Balș",
+"short": "HCL Balș nr. 107/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#33691",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-olt--bals-108-2022",
 "path": "local/olt/bals/2022/108",
 "kind": "local",
@@ -1504,6 +1618,28 @@
 "council_name": "Consiliul Local al Orașului Balș",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-olt--bals-121-2022",
+"path": "local/olt/bals/2022/121",
+"kind": "local",
+"year": "2022",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 121/2022 Privind desemnarea reprezentanților din partea Consiliului Local al orașului Balș în Consiliile de Administrație și în Comisiile pentru Evaluarea și Asigurarea Calității din cadrul unităților de învățământ din orașul Balș",
+"short": "HCL Balș nr. 121/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#33730",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1901,6 +2037,29 @@
 "council_name": "Consiliul Local al Orașului Balș",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-olt--bals-163-2022",
+"path": "local/olt/bals/2022/163",
+"kind": "local",
+"year": "2022",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 163/2022",
+"short": "HCL Balș nr. 163/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": null,
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2545,6 +2704,29 @@
 }
 },
 {
+"slug": "hcl-olt--bals-194-2022",
+"path": "local/olt/bals/2022/194",
+"kind": "local",
+"year": "2022",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 194/2022",
+"short": "HCL Balș nr. 194/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": null,
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-olt--bals-195-2022",
 "path": "local/olt/bals/2022/195",
 "kind": "local",
@@ -2608,6 +2790,28 @@
 "council_name": "Consiliul Local al Orașului Balș",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-olt--bals-198-2022",
+"path": "local/olt/bals/2022/198",
+"kind": "local",
+"year": "2022",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Balș nr. 198/2022 Referitor la numirea a 3 reprezentanți ai CL al Orașului Balș în CA al Spitalului Orășenesc Balș",
+"short": "HCL Balș nr. 198/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#38087",
+"council": "olt/bals",
+"council_name": "Consiliul Local al Orașului Balș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

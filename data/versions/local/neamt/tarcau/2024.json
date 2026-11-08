@@ -3,6 +3,801 @@
  "shard": "local/neamt/tarcau/2024",
  "acts": [
   {
+   "slug": "hcl-neamt--tarcau-1-2024",
+   "path": "local/neamt/tarcau/2024/1",
+   "short": "HCL Tarcău nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 1/2024 privind acoperirea definitivă a deficitului bugetar al anului 2023, reportarea și aprobarea utilizării excedentului bugetar al anului 2023, în exercițiul financiar al anului 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/138365",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/138365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-10-2024",
+   "path": "local/neamt/tarcau/2024/10",
+   "short": "HCL Tarcău nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 10/2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151579",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-11-2024",
+   "path": "local/neamt/tarcau/2024/11",
+   "short": "HCL Tarcău nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 11/2024 privind modificarea şi completarea Hotărârii consiliului local al comunei Tarcău nr. 73 din 31 octombrie 2006 privind situaţiile deosebite în care primarul comunei Tarcău poate acorda ajutoare de urgenţă în baza Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151580",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-12-2024",
+   "path": "local/neamt/tarcau/2024/12",
+   "short": "HCL Tarcău nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 12/2024 privind prorogarea la data de 1 ianuarie 2025 a termenului de aplicare a noii grile paușale, pentru utilizatorii non-casnici, din Regulamentul de aplicare a taxei speciale de salubrizare, aprobat prin HCL nr. 83/22 decembrie 2022",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151581",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-13-2024",
+   "path": "local/neamt/tarcau/2024/13",
+   "short": "HCL Tarcău nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 13/2024 privind aprobarea contului de execuţie a bugetului local al Comunei Tarcău, pentru trimestrul I 2023, la data de 31.03.2023",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151582",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-14-2024",
+   "path": "local/neamt/tarcau/2024/14",
+   "short": "HCL Tarcău nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 14/2024 privind aprobarea contului de execuţie a bugetului local al Comunei Tarcău, pentru trimestrul II 2023, la data de 30.06.2023",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151583",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-15-2024",
+   "path": "local/neamt/tarcau/2024/15",
+   "short": "HCL Tarcău nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 15/2024 privind aprobarea contului de execuţie a bugetului local al Comunei Tarcău, pentru trimestrul III 2023, la data de 30.09.2023",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151584",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-16-2024",
+   "path": "local/neamt/tarcau/2024/16",
+   "short": "HCL Tarcău nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 16/2024 privind aprobarea contului de execuţie a bugetului local al Comunei Tarcău, pentru trimestrul IV 2023, la data de 31.12.2023",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151585",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-17-2024",
+   "path": "local/neamt/tarcau/2024/17",
+   "short": "HCL Tarcău nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 17/2024 privind actualizarea chiriei locuinţelor din blocul ANL, pentru anul 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151586",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-18-2024",
+   "path": "local/neamt/tarcau/2024/18",
+   "short": "HCL Tarcău nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 18/2024 privind aprobarea demolării unei construcții înscrise în Inventarul bunurilor care aparțin domeniului privat al comunei Tarcău, județul Neamț, satul Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151587",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-19-2024",
+   "path": "local/neamt/tarcau/2024/19",
+   "short": "HCL Tarcău nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 19/2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151588",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-2-2024",
+   "path": "local/neamt/tarcau/2024/2",
+   "short": "HCL Tarcău nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 2/2024 privind aprobarea devizului general actualizat, precum şi suplimentarea valorii contractului de execuție lucrări, pentru obiectivul de investiții „Reabilitare și modernizare cămin cultural, comuna Tarcău, judeţul Neamţ”",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/141616",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/141616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-20-2024",
+   "path": "local/neamt/tarcau/2024/20",
+   "short": "HCL Tarcău nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 20/2024 privind reglementarea regimului juridic al unui teren înscris în Inventarul bunurilor care aparțin domeniului privat al comunei Tarcău, județul Neamț, satul Ardeluța",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151589",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-21-2024",
+   "path": "local/neamt/tarcau/2024/21",
+   "short": "HCL Tarcău nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 21/2024 privind alegerea preşedintelui de şedinţă a Consiliului local al comunei Tarcău, pentru perioada aprilie - iunie 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151590",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-22-2024",
+   "path": "local/neamt/tarcau/2024/22",
+   "short": "HCL Tarcău nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 22/2024 privind aprobarea schimbării unei locuinței atribuite unui chiriaș din Blocul ANL Crivaia cu o altă locuință vacantă, de aceeași categorie",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151591",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-23-2024",
+   "path": "local/neamt/tarcau/2024/23",
+   "short": "HCL Tarcău nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 23/2024 privind rectificarea bugetului local al comunei Tarcău pentru anul 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/156073",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/156073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-24-2024",
+   "path": "local/neamt/tarcau/2024/24",
+   "short": "HCL Tarcău nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 24/2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/156074",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/156074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-25-2024",
+   "path": "local/neamt/tarcau/2024/25",
+   "short": "HCL Tarcău nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 25/2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/156075",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/156075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-26-2024",
+   "path": "local/neamt/tarcau/2024/26",
+   "short": "HCL Tarcău nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 26/2024 privind aprobarea încheierii unui acord de parteneriat între Comuna Tarcău și Agenția pentru Dezvoltare Regională Nord-Est",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/156076",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/156076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-27-2024",
+   "path": "local/neamt/tarcau/2024/27",
+   "short": "HCL Tarcău nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 27/2024 privind participarea comunei Tarcău la înființarea Asociației ”Organizația de Management al Destinației Ceahlău”",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/156077",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/156077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-28-2024",
+   "path": "local/neamt/tarcau/2024/28",
+   "short": "HCL Tarcău nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 28/2024 privind îndreptarea unei erori materiale în cuprinsul HCL nr. 27 din 29 aprilie 2024 privind participarea comunei Tarcău la înființarea Asociației ”Organizația de Management al Destinației Ceahlău”",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/159037",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/159037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-29-2024",
+   "path": "local/neamt/tarcau/2024/29",
+   "short": "HCL Tarcău nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 29/2024 privind aprobarea aderării Comunei Tarcău la teritoriul eligibil al Zonei Pescărești Neamț, reprezentată de Asociația Grupul Local Pescăresc Neamț (FLAG Neamț)",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/159038",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/159038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-3-2024",
+   "path": "local/neamt/tarcau/2024/3",
+   "short": "HCL Tarcău nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 3/2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/141617",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/141617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-30-2024",
+   "path": "local/neamt/tarcau/2024/30",
+   "short": "HCL Tarcău nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 30/2024 privind desemnarea reprezentantului legal al comunei Tarcău, în calitate de beneficiar în cadrul proiectelor finanțate din fonduri europene și PNRR, aflate în implementare la nivelul comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/159039",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/159039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-31-2024",
+   "path": "local/neamt/tarcau/2024/31",
+   "short": "HCL Tarcău nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 31/2024 privind stabilirea componenţei nominale a comisiilor de specialitate ale Consiliului Local al Comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/159040",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/159040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-32-2024",
+   "path": "local/neamt/tarcau/2024/32",
+   "short": "HCL Tarcău nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 32/2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/161211",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/161211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-33-2024",
+   "path": "local/neamt/tarcau/2024/33",
+   "short": "HCL Tarcău nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 33/2024 privind alegerea preşedintelui de şedinţă a Consiliului local al comunei Tarcău, pentru perioada iulie – septembrie 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/161270",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/161270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-34-2024",
+   "path": "local/neamt/tarcau/2024/34",
+   "short": "HCL Tarcău nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 34/2024 privind aprobarea actualizării listei de priorităţi pentru repartizarea locuinţelor ANL disponibile, precum şi pentru repartizarea unui apartament cu două camere din blocul ANL",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/161271",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/161271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-35-2024",
+   "path": "local/neamt/tarcau/2024/35",
+   "short": "HCL Tarcău nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 35/2024 privind delegarea cu caracter temporar, a atribuțiilor viceprimarului către un consilier local",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/162071",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/162071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-36-2024",
+   "path": "local/neamt/tarcau/2024/36",
+   "short": "HCL Tarcău nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 36/2024 privind rectificarea bugetului local al comunei Tarcău pentru anul 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/164113",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/164113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-37-2024",
+   "path": "local/neamt/tarcau/2024/37",
+   "short": "HCL Tarcău nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 37/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a cheltuielilor aferente proiectului “Realizarea unei capacități noi de producere energie electrică din surse solare pentru autoconsum în comuna Tarcău, județul Neamț“ in cadrul Programului Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice elaborat de Ministerul Energiei si finanţat din fondurile alocate României prin Fondul pentru Modernizare (FM), a indicatorilor tehnico-economici si a cheltuielilor neeligibile",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/164114",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/164114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-38-2024",
+   "path": "local/neamt/tarcau/2024/38",
+   "short": "HCL Tarcău nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 38/2024 pentru însușirea Acordului de cooperare privind organizarea și exercitateea activității de urbanism și amenajarea teritoriului privind",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/164115",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/164115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-39-2024",
+   "path": "local/neamt/tarcau/2024/39",
+   "short": "HCL Tarcău nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 39/2024 pentru aprobarea excluderii Municipiului Roman din cadrul Asociației de Dezvoltare Intercomunitară AQUA NEAMȚ și modificarea Actelor Statutare ale Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/164116",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/164116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-4-2024",
+   "path": "local/neamt/tarcau/2024/4",
+   "short": "HCL Tarcău nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 4/2024 privind modificarea statului de funcții al aparatului de specialitate al primarului comunei Tarcău, în urma promovării în grad profesional a unui funcționar public de execuție",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/141618",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/141618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-40-2024",
+   "path": "local/neamt/tarcau/2024/40",
+   "short": "HCL Tarcău nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 40/2024 privind retragerea comunei Tupilați din cadrul Asociației de Dezvoltare Intercomunitară ”AQUA NEAMȚ” și modificarea Actelor Statutare ale Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/164117",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/164117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-41-2024",
+   "path": "local/neamt/tarcau/2024/41",
+   "short": "HCL Tarcău nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 41/2024 privind trecerea unui bun din domeniul public a Comunei Tarcău, în domeniul privat al Comunei Tarcău, precum și actualizarea Inventarului bunurilor care alcătuiesc domeniul privat al Comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/166242",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/166242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-42-2024",
+   "path": "local/neamt/tarcau/2024/42",
+   "short": "HCL Tarcău nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 42/2024 privind aprobarea obținerii înlesnirilor la plată și reeșalonarea contribuțiilor salariale – ANAF pentru perioada aprilie –iunie 2024 și constituirea de garanții necesare pentru reeșalonare pentru o perioadă de 60 de luni, constând în mijloace fixe aflate în domeniul privat al Comunei Tarcău (vehicule)",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/166243",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/166243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-43-2024",
+   "path": "local/neamt/tarcau/2024/43",
+   "short": "HCL Tarcău nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 43/2024 privind introducerea pe lista inventarului terenurilor care aparţin domeniului privat al Comunei Tarcău a unor suprafețe de teren – Sat Straja a unei suprafețe de teren de 2036 mp (drum) și Sat Ardeluța a unei suprafețe de teren de 166 mp (fâneață)",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/166244",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/166244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-44-2024",
+   "path": "local/neamt/tarcau/2024/44",
+   "short": "HCL Tarcău nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 44/2024 privind reorganizarea aparatului de specialitate al primarului, modificarea organigramei şi a statului de funcţii",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/168979",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/168979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-45-2024",
+   "path": "local/neamt/tarcau/2024/45",
+   "short": "HCL Tarcău nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 45/2024 priviprivind aprobarea indicatorilor tehnico-economici actualizați și a cheltuielilor aferente proiectului “Realizarea unei capacități noi de producere energie electrică din surse solare pentru autoconsum în comuna Tarcău, județul Neamț“ in cadrul Programului Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice elaborat de Ministerul Energiei si finanţat din fondurile alocate României prin Fondul pentru Modernizare (FM), a indicatorilor tehnico-economici si a cheltuielilor neeligibile",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/168980",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/168980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-46-2024",
+   "path": "local/neamt/tarcau/2024/46",
+   "short": "HCL Tarcău nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 46/2024 privprivind neasumarea responsabilității organizării procedurilor de atribuire a contractelor/acordurilor cadru privind achiziția produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative la nivel local aferente anului şcolar 2024–2025 în cadrul Programului pentru școli al României în perioada 2023-2029 ind",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/168981",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/168981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-47-2024",
+   "path": "local/neamt/tarcau/2024/47",
+   "short": "HCL Tarcău nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 47/2024 privind modificarea şi completarea inventarului terenurilor din domeniul privat al comunei Tarcău, situat în intravilanul satului Straja, prin îndreptarea unei erori materiale în privinţa suprafeţei lotului de teren situat la poziția 8",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/168982",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/168982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-48-2024",
+   "path": "local/neamt/tarcau/2024/48",
+   "short": "HCL Tarcău nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 48/2024 privind aprobarea prelungirii închirierii pe o perioadă de 15 ani a contractului de închiriere încheiat între Comuna Tarcău și VODAFONE ROMÂNIA S.A pentru suprafața de teren de 152 mp, situat în Sat Ardeluța, Comuna Tarcău, județul Neamț, înscris în cartea funciară a comunei Tarcău cu nr. 57852",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/171222",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/171222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-49-2024",
+   "path": "local/neamt/tarcau/2024/49",
+   "short": "HCL Tarcău nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 49/2024 pentru stabilire trasee și stații pentru microbuzele transport elevi conform Legii 162 din 29 mai 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/171223",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/171223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-5-2024",
+   "path": "local/neamt/tarcau/2024/5",
+   "short": "HCL Tarcău nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 5/2024 pentru aprobarea criteriilor de prioritizare a cererilor eligibile privind atribuirea de loturi de teren potrivit Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/141619",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/141619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-50-2024",
+   "path": "local/neamt/tarcau/2024/50",
+   "short": "HCL Tarcău nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 50/2024 privind acordare facilitați fiscale de anulare a dobânzilor, penalităților, accesoriilor aferente obligațiilor bugetare principale stabilite prin OUG 107/2024, datorate bugetului local al comunei Tarcău la data de 31 august inclusiv și aprobarea procedurii de acordare",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/171224",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/171224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-51-2024",
+   "path": "local/neamt/tarcau/2024/51",
+   "short": "HCL Tarcău nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 51/2024 privind alegerea preşedintelui de şedinţă a Consiliului local al comunei Tarcău, începând cu luna octombrie 2024 și până la constituirea noului Consiliu Local al Comunei Tarcău",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/172339",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/172339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-52-2024",
+   "path": "local/neamt/tarcau/2024/52",
+   "short": "HCL Tarcău nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 52/2024 privind aprobarea prelungirii valabilităţii Scrisorii de Garanţie Bancară emise de către CEC BANK SA în vederea garantării avansului pentru proiectul “Înființare sistem de alimentare cu apă potabilă și canalizare menajeră cu stație de epurare satele Tarcău și Straja, comuna Tarcău, judetul Neamț” în valoare de 5.673.491,27 lei, reprezentând 100% din valoarea avansului acordat",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/172340",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/172340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-53-2024",
+   "path": "local/neamt/tarcau/2024/53",
+   "short": "HCL Tarcău nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 53/2024 privind aprobarea prelungirii valabilităţii Scrisorii de Garanţie Bancară emisă de CEC BANK SA în vederea garantării avansului pentru proiectul “Reabilitare și modernizare Cămin Cultural, Sat Tarcău, Comuna Tarcău, Județul Neamț” în valoare de 1.111.719,11 lei, reprezentând 100% din valoarea avansului acordat",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/172341",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/172341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-54-2024",
+   "path": "local/neamt/tarcau/2024/54",
+   "short": "HCL Tarcău nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 54/2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/172342",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/172342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-55-2024",
+   "path": "local/neamt/tarcau/2024/55",
+   "short": "HCL Tarcău nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 55/2024 privind modificarea şi completarea Hotărârii Consiliului Local nr.49 din 27 septembrie 2024 cu privire la stabilire trasee și stații pentru microbuzele transport elevi conform Legii 162/29 mai 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/173084",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/173084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-56-2024",
+   "path": "local/neamt/tarcau/2024/56",
+   "short": "HCL Tarcău nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 56/2024 privind modificarea şi completarea Hotărârii Consiliului Local nr. 50 din 27 septembrie 2024 privind acordare facilitați fiscale de anulare a dobânzilor, penalităților, accesoriilor aferente obligațiilor bugetare principale stabilite prin OUG 107/2024, datorate bugetului local al comunei Tarcău la data de 31 august inclusiv şi aprobarea procedurii de acordare",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/173085",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/173085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-57-2024",
+   "path": "local/neamt/tarcau/2024/57",
+   "short": "HCL Tarcău nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 57/2024 privind aprobarea Planului de dezvoltare a serviciilor sociale aferent Comunei Tarcău, judeţul Neamţ",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/173086",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/173086",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--tarcau-58-2024",
    "path": "local/neamt/tarcau/2024/58",
    "short": "HCL Tarcău nr. 58/2024",
@@ -28,6 +823,21 @@
      "from": "2024-11-12",
      "units": 1,
      "source_url": "https://emol.ro/tarcau-nt/registru-hcl/175571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-6-2024",
+   "path": "local/neamt/tarcau/2024/6",
+   "short": "HCL Tarcău nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 6/2024 privind aprobarea bugetului local al comunei Tarcău pentru anul 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/143624",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/143624",
      "sha256": null
     }
    ]
@@ -313,6 +1123,36 @@
      "from": "2025-01-20",
      "units": 1,
      "source_url": "https://emol.ro/tarcau-nt/registru-hcl/186101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-8-2024",
+   "path": "local/neamt/tarcau/2024/8",
+   "short": "HCL Tarcău nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 8/2024 privind dezmembrarea unui lot de teren în suprafață de 2635 mp, înscris în inventarul bunurilor care aparțin domeniului privat al comunei Tarcău, satul Cazaci, în vederea punerii în aplicare a prevederilor HCL nr. 108 din 26.11.2021",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/143626",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/143626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--tarcau-9-2024",
+   "path": "local/neamt/tarcau/2024/9",
+   "short": "HCL Tarcău nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 9/2024 privind alegerea preşedintelui de şedinţă a Consiliului local al comunei Tarcău, pentru ședința ordinară din 29 martie 2024",
+   "url": "https://emol.ro/tarcau-nt/registru-hcl/151578",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tarcau-nt/registru-hcl/151578",
      "sha256": null
     }
    ]

@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-12-2023",
+   "path": "local/olt/bals/2023/12",
+   "short": "HCL Balș nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 12/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "69c57da3bc2f771a276430a638d1985a6c5fd5444ccaa6d3a2980b8cc314cfe1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-128-2023",
    "path": "local/olt/bals/2023/128",
    "short": "HCL Balș nr. 128/2023",
@@ -239,6 +254,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24x.l.Rb9jJbUnYeQf0tHLVeTaXBqQ9UROV9Xf0N3Y8o98Ulfo.pVd2/4284",
      "sha256": "68e93eae92315a0863aaed0328c19a67ad392118711902714ab090c90aac99b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-138-2023",
+   "path": "local/olt/bals/2023/138",
+   "short": "HCL Balș nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 138/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b4fa39166a898b5baea322aa1aa931ea7f09ff42dfaac11b3142748f5a1b6d18"
     }
    ]
   },
@@ -648,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-192-2023",
+   "path": "local/olt/bals/2023/192",
+   "short": "HCL Balș nr. 192/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 192/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c97b417f9ba620e886299eb47a9bf0e3ff364e2ab3e17a4de87d0e2c57e6eb79"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-193-2023",
    "path": "local/olt/bals/2023/193",
    "short": "HCL Balș nr. 193/2023",
@@ -689,6 +734,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Sv8t81zUF3aMMAcuSj2tx.Ch.m8olvDFPvjpQhqNHseqbyKsQX02G/4284",
      "sha256": "cb5f31ce531283449e686c9978339b8a550bd01f4d509f02f620a3cfe57e53eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-198-2023",
+   "path": "local/olt/bals/2023/198",
+   "short": "HCL Balș nr. 198/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 198/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1d52aecd97d0a794e8d4d19bd1e7715b4ff9bc796d604e14232af153b194c58a"
     }
    ]
   },
@@ -1173,6 +1233,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-29-2023",
+   "path": "local/olt/bals/2023/29",
+   "short": "HCL Balș nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 29/2023 Privind desemnarea unui reprezentant al Consiliului Local al Orașului Balș în Consiliul de Administrație ale Creșei ,,Petre D.Roșca”",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#42322",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24WWRn6WChqc3AT9TScBseYuQce24nxqYOb4jppSbxmdQ0Fca.3ESBW/4284",
+     "sha256": "e94e4113006db3f08716afe9bb591982c77577f90397a1e0c84badda048617cb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-30-2023",
    "path": "local/olt/bals/2023/30",
    "short": "HCL Balș nr. 30/2023",
@@ -1233,6 +1308,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-38-2023",
+   "path": "local/olt/bals/2023/38",
+   "short": "HCL Balș nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 38/2023 Referitor la modificarea HCL al Orașului Balș nr.121/31.08.2022 privind desemnarea reprezentanților din partea Consiliului Local al Orașului Balș în Consiliile de Administrație și în Comisiile pentru Evaluarea și Asigurarea Calității (CEAC) din cadrul unităților de învățământ din Orașul Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#44194",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24z/YeVthjiIid/EdtwA8vh.79JZQbEsnJ3pSVTZQouWjoxe26rqHPC/4284",
+     "sha256": "255bb37b4f43cbf2a8b75f285a581b9c6d20e3934156ce92b39a621d4e2ebc0f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-44-2023",
    "path": "local/olt/bals/2023/44",
    "short": "HCL Balș nr. 44/2023",
@@ -1278,6 +1368,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-47-2023",
+   "path": "local/olt/bals/2023/47",
+   "short": "HCL Balș nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 47/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8c125f2dff874401455f8cda5b253a7a4193dd6500545e521d4073dc081eb974"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-49-2023",
    "path": "local/olt/bals/2023/49",
    "short": "HCL Balș nr. 49/2023",
@@ -1319,6 +1424,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24LeRkiABToNaHoGBDRgnUhOiyNFezN72CnliFgjCZMbVm//acJPuMO/4284",
      "sha256": "f5e1251536bb08207ff779658c6d49ed8a6f3c433daff625c360ef36ce7795e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-52-2023",
+   "path": "local/olt/bals/2023/52",
+   "short": "HCL Balș nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 52/2023 Privind acordarea unei cote de 30%, scutire la impozitul pe clădire și teren din Orașul Balș, Retail Park S.R.L",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#46566",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24s0VCr2pv1PD0gwEkPjCrEuWk0Ayd9dL3vAWScSyjbWpzMhy4KekHO/4284",
+     "sha256": "85f24b176008916ccdba3ca735b5a7eb7c7e6872fb74bea720f748ffb4c79a70"
     }
    ]
   },
@@ -1409,6 +1529,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24bogdoGJ1i3X0.lwS801l2uGSu0ihQehuS/DKWF3XQqU3DbG/jNaeW/4284",
      "sha256": "aaceac10d4de7f82fe2ee77f2350d1ab3b87981ac2ba13296358c78921d2eb9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-71-2023",
+   "path": "local/olt/bals/2023/71",
+   "short": "HCL Balș nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 71/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "29cf03134b6a251ca50be71672eace6a94ffc11826425382c73fdad3a63af468"
     }
    ]
   },

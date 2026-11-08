@@ -113,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-neamt--tasca-6-2020",
+"path": "local/neamt/tasca/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 6/2020 privind aprobarea cuantumului plății pentru persoanele din comuna Tașca, care sunt internate în Centrul Medical Ceahlău",
+"short": "HCL Tașca nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-22",
+"latest": "2020-01-22",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/5141",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tasca-7-2020",
+"path": "local/neamt/tasca/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 7/2020 privind acordarea unor ajutoare de urgenţă",
+"short": "HCL Tașca nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-22",
+"latest": "2020-01-22",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/5143",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tasca-8-2020",
 "path": "local/neamt/tasca/2020/8",
 "kind": "local",
@@ -176,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Tașca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-11-2020",
+"path": "local/neamt/tasca/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 11/2020 privind privind însuşirea raportului de evaluare și aprobarea vânzării fără licitație publică a terenului aparținând domeniului privat al comunei Tașca, în suprafață de 22.664 mp, aferent construcțiilor proprietate personală, situat în zona industrială, sat Tașca, comuna Tașca, județul Neamț, prin exercitarea dreptului de preempțiune de către SC TC COMPIL IMPEX SRL",
+"short": "HCL Tașca nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/5121",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +399,52 @@
 }
 },
 {
+"slug": "hcl-neamt--tasca-19-2020",
+"path": "local/neamt/tasca/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 19/2020",
+"short": "HCL Tașca nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9045",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tasca-20-2020",
+"path": "local/neamt/tasca/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 20/2020",
+"short": "HCL Tașca nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9046",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--tasca-21-2020",
 "path": "local/neamt/tasca/2020/21",
 "kind": "local",
@@ -374,6 +486,28 @@
 "council_name": "Consiliul Local al Comunei Tașca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-23-2020",
+"path": "local/neamt/tasca/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 23/2020 privind acordarea unui ajutor de urgenţă",
+"short": "HCL Tașca nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9049",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -421,6 +555,116 @@
 }
 },
 {
+"slug": "hcl-neamt--tasca-26-2020",
+"path": "local/neamt/tasca/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 26/2020 privind aprobarea închirierii, prin licitație publică, a trupului de pășune din punctul ,,SMIDA”, aflat în domeniul public al comunei Tașca, județul Neamț",
+"short": "HCL Tașca nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9052",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tasca-27-2020",
+"path": "local/neamt/tasca/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 27/2020 privind modificarea și completarea HCL Tașca nr. 11 din 31.01.2020 privind însuşirea raportului de evaluare și aprobarea vânzării fără licitație publică a terenului aparținând domeniului privat al comunei Tașca, în suprafață de 22.664 mp, aferent construcțiilor proprietate personală, situat în zona industrială, sat Tașca, comuna Tașca,județul Neamț, prin exercitarea dreptului de preempțiune de către SC TC COMPIL IMPEX SRL",
+"short": "HCL Tașca nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9053",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tasca-28-2020",
+"path": "local/neamt/tasca/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 28/2020 privind revocarea HCL Tașca nr.11/31.01.2020 privind însuşirea raportului de evaluare și aprobarea vânzării fără licitație publică a terenului aparținând domeniului privat al comunei Tașca, în suprafață de 22.664 mp, aferent construcțiilor proprietate personală, situat în zona industrială, sat Tașca, comuna Tașca, județul Neamț, prin exercitarea dreptului de preempțiune de către SC TC COMPIL IMPEX SRL",
+"short": "HCL Tașca nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9091",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tasca-29-2020",
+"path": "local/neamt/tasca/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 29/2020 privind desemnarea reprezentanților împuterniciți ai Consiliului Local, pentru constatarea și aplicarea contravențiilor prevăzute în Legea energiei electrice și a gazelor naturale nr.123/2012",
+"short": "HCL Tașca nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9092",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tasca-30-2020",
+"path": "local/neamt/tasca/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 30/2020 privind aprobarea structurii pe specialități a membrilor Comisiei sociale pentru analizarea și repartizarea locuințelor tip ANL pentru tineret, în blocul situat în comuna Tașca, județul Neamț- ANL Locuințe cu destinația de închiriere pentru familii de tineri, până la 35 de ani",
+"short": "HCL Tașca nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9093",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tasca-31-2020",
 "path": "local/neamt/tasca/2020/31",
 "kind": "local",
@@ -462,6 +706,28 @@
 "council_name": "Consiliul Local al Comunei Tașca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-33-2020",
+"path": "local/neamt/tasca/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 33/2020 privind acordarea unui ajutor de urgenţă",
+"short": "HCL Tașca nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9096",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -572,6 +838,28 @@
 "council_name": "Consiliul Local al Comunei Tașca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tasca-39-2020",
+"path": "local/neamt/tasca/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 39/2020 privind acordarea unor ajutoare de urgenţă",
+"short": "HCL Tașca nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9102",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -885,6 +1173,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tasca-54-2020",
+"path": "local/neamt/tasca/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tașca nr. 54/2020 privind acordarea unui ajutor de urgenţă",
+"short": "HCL Tașca nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-24",
+"latest": "2020-06-24",
+"portal": "https://emol.ro/tasca-nt/registru-hcl/9129",
+"council": "neamt/tasca",
+"council_name": "Consiliul Local al Comunei Tașca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

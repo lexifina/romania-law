@@ -3,6 +3,29 @@
 "shard": "local/neamt/secuieni/2020",
 "acts": [
 {
+"slug": "hcl-neamt--secuieni-1-2020",
+"path": "local/neamt/secuieni/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 1/2020",
+"short": "HCL Secuieni nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/194",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-2-2020",
 "path": "local/neamt/secuieni/2020/2",
 "kind": "local",
@@ -224,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-12-2020",
+"path": "local/neamt/secuieni/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 12/2020 privind aprobarea închirierii pășunilor aflate în proprietatea privatăa comunei Secuieni , judeţul Neamț",
+"short": "HCL Secuieni nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/230",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-13-2020",
 "path": "local/neamt/secuieni/2020/13",
 "kind": "local",
@@ -268,6 +313,74 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-15-2020",
+"path": "local/neamt/secuieni/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 15/2020",
+"short": "HCL Secuieni nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/233",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-16-2020",
+"path": "local/neamt/secuieni/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 16/2020",
+"short": "HCL Secuieni nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/234",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-17-2020",
+"path": "local/neamt/secuieni/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 17/2020 privind scutirea de la plata taxei de salubrizare pentru Petrovici Lucica",
+"short": "HCL Secuieni nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/235",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-18-2020",
 "path": "local/neamt/secuieni/2020/18",
 "kind": "local",
@@ -287,6 +400,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-19-2020",
+"path": "local/neamt/secuieni/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 19/2020",
+"short": "HCL Secuieni nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/237",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -357,6 +493,95 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-23-2020",
+"path": "local/neamt/secuieni/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 23/2020 privind rezilierea contractului de închiriere nr.3698 din 19.04.2018, privind închirierea suprafețelor de pajiști aflate în domeniul privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/241",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-24-2020",
+"path": "local/neamt/secuieni/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 24/2020 privind rezilierea contractului de închiriere nr.3263 din 09.04.2019, privind închirierea suprafețelor de pajiști aflate în domeniul privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/242",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-25-2020",
+"path": "local/neamt/secuieni/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 25/2020 privind rezilierea contractului de închiriere nr.3271 din 09.04.2019, privind închirierea suprafețelor de pajiști aflate în domeniul privat al comunei Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/243",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-26-2020",
+"path": "local/neamt/secuieni/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 26/2020",
+"short": "HCL Secuieni nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/244",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-27-2020",
 "path": "local/neamt/secuieni/2020/27",
 "kind": "local",
@@ -420,6 +645,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-30-2020",
+"path": "local/neamt/secuieni/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 30/2020",
+"short": "HCL Secuieni nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/745",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -553,6 +801,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-37-2020",
+"path": "local/neamt/secuieni/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 37/2020",
+"short": "HCL Secuieni nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/5245",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -732,6 +1003,72 @@
 }
 },
 {
+"slug": "hcl-neamt--secuieni-46-2020",
+"path": "local/neamt/secuieni/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 46/2020 privind aprobarea unui sprijin financiar pentru Parohia Secuieni II din localitatea Secuienii Noi, comuna Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/7304",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-47-2020",
+"path": "local/neamt/secuieni/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 47/2020 privind aprobarea unui sprijin financiar pentru Parohia Sfântul Nicolae din localitatea Butnărești, comuna Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/7305",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-48-2020",
+"path": "local/neamt/secuieni/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 48/2020 privind aprobarea unui sprijin financiar pentru Parohia Bârjoveni I din localitatea Bârjoveni, comuna Secuieni, județul Neamț",
+"short": "HCL Secuieni nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/7306",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--secuieni-49-2020",
 "path": "local/neamt/secuieni/2020/49",
 "kind": "local",
@@ -773,6 +1110,28 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-51-2020",
+"path": "local/neamt/secuieni/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 51/2020 privind atribuirea în folosință gratuită a suprafeţei de 300 mp teren din domeniul privat al comunei Secuieni,județul Neamț în vederea construirii unei locuințe proprietate personală pentru tineri",
+"short": "HCL Secuieni nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/8290",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -839,6 +1198,29 @@
 "council_name": "Consiliul Local al Comunei Secuieni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--secuieni-55-2020",
+"path": "local/neamt/secuieni/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secuieni nr. 55/2020",
+"short": "HCL Secuieni nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-21",
+"latest": "2020-09-21",
+"portal": "https://emol.ro/secuieni-nt/registru-hcl/9371",
+"council": "neamt/secuieni",
+"council_name": "Consiliul Local al Comunei Secuieni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

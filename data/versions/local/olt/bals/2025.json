@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-101-2025",
+   "path": "local/olt/bals/2025/101",
+   "short": "HCL Balș nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 101/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b603a397633ac305627cec1de9ca570e8022c086e7095cca9dc11182d5686e02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-102-2025",
+   "path": "local/olt/bals/2025/102",
+   "short": "HCL Balș nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 102/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5b59a74333b3d369c0c50db9bf463777663739ad715dc2436c8c5210c13824f8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-103-2025",
    "path": "local/olt/bals/2025/103",
    "short": "HCL Balș nr. 103/2025",
@@ -423,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-134-2025",
+   "path": "local/olt/bals/2025/134",
+   "short": "HCL Balș nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 134/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "307d5d7cc31dd0308b10f264a903eed2f7d98fdc029840b5d7c498a21f481b9f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-135-2025",
    "path": "local/olt/bals/2025/135",
    "short": "HCL Balș nr. 135/2025",
@@ -539,6 +584,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24r1BWUeciWma74bb8bjQffOgzuGj2YP7H.fjgIsbNUIgViTl2bdVYG/4284",
      "sha256": "d22f2405ed8b6255b7dcb75e8b38a1e6470355b562e1daba0ccb7514fa199cc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-156-2025",
+   "path": "local/olt/bals/2025/156",
+   "short": "HCL Balș nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 156/2025 Desemnarea reprezentanților Consiliului Local al orașului Balș în Consiliile de Administrație și în Comisiile pentru Evaluarea și Asigurarea Calității din cadrul unităților de învățâmânt din orașul Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#107769",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%240gvpe3mb7WCWTyQysc0tr.CP7YoIed.7jJ8SGh.IC3.Xm9NNjHW4W/4284",
+     "sha256": "d9a59433353dff649a6eb44053b86e44ea989d9a458ecb306e0804e92c6881d4"
     }
    ]
   },
@@ -828,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-192-2025",
+   "path": "local/olt/bals/2025/192",
+   "short": "HCL Balș nr. 192/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 192/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cabcd17244783b154b311712b2d21d1e30261180cbac2867d810a4acb1cbc08a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-193-2025",
    "path": "local/olt/bals/2025/193",
    "short": "HCL Balș nr. 193/2025",
@@ -888,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--bals-198-2025",
+   "path": "local/olt/bals/2025/198",
+   "short": "HCL Balș nr. 198/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 198/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "915bf458916fe2304efd476373f57bad595b15ac8fc22e6b1ed632a0cdb7156f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--bals-2-2025",
    "path": "local/olt/bals/2025/2",
    "short": "HCL Balș nr. 2/2025",
@@ -899,6 +989,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#91991",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-20-2025",
+   "path": "local/olt/bals/2025/20",
+   "short": "HCL Balș nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 20/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9a7af5a708a42ea837b0f48aa949059e9289a49c62bf6dd2afdce5f885aa24b4"
     }
    ]
   },
@@ -1184,6 +1289,21 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94047",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-30-2025",
+   "path": "local/olt/bals/2025/30",
+   "short": "HCL Balș nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 30/2025 Modificarea HCL nr.8/08.11.2024 privind desemnarea reprezentanților Consiliului Local al orașului Balș în Consiliile de Administrație și în Comisiile pentru Evaluarea și Asigurarea Calității din cadrul unităților de învățâmânt din orașul Balș",
+   "url": "https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94515",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24HuLZF1ALXF5z1Gub05JoMepwscQWPS3MbZR7K6szXNe4yY8XE.RF./4284",
+     "sha256": "f93e32950a88b4690641034ca33027293aadfd83e2c2102f2a3068a2583eb91b"
     }
    ]
   },
@@ -1859,6 +1979,36 @@
      "units": 1,
      "source_url": "https://bals.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24RHkbuSp6uvk0itPf73u3ROXJR2bTVYelE/Mtw2710BwE0P5qq/HvW/4284",
      "sha256": "f29a9ba1462c3de98577f5136efc237895542f3a9e524394991c159cc4a9212d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-8-2025",
+   "path": "local/olt/bals/2025/8",
+   "short": "HCL Balș nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 8/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1f716ed1287fc296a088ef92e2ca9d36c2889a00cc658df8076773d6449d62c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--bals-81-2025",
+   "path": "local/olt/bals/2025/81",
+   "short": "HCL Balș nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Balș nr. 81/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c2fdf8867ec5eda36e890ee0654ed99438c2f00ac22300d38d7df8f84964a3a7"
     }
    ]
   },

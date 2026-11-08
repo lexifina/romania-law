@@ -2,6 +2,7 @@ act,status,last_verified,check_due,method,newest_change,newest_change_date,chang
 hcl-maramures--sacalaseni-1-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1153
 hcl-maramures--sacalaseni-10-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1162
 hcl-maramures--sacalaseni-100-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/11125
+hcl-maramures--sacalaseni-101-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/12589
 hcl-maramures--sacalaseni-102-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/12590
 hcl-maramures--sacalaseni-103-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/12591
 hcl-maramures--sacalaseni-104-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/12592
@@ -34,6 +35,7 @@ hcl-maramures--sacalaseni-17-2020,current,2026-11-08,2026-12-08,register-read,,,
 hcl-maramures--sacalaseni-18-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1170
 hcl-maramures--sacalaseni-19-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1171
 hcl-maramures--sacalaseni-2-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1154
+hcl-maramures--sacalaseni-20-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1172
 hcl-maramures--sacalaseni-21-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1173
 hcl-maramures--sacalaseni-22-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1174
 hcl-maramures--sacalaseni-23-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1175
@@ -55,8 +57,14 @@ hcl-maramures--sacalaseni-37-2020,current,2026-11-08,2026-12-08,register-read,,,
 hcl-maramures--sacalaseni-38-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1231
 hcl-maramures--sacalaseni-39-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1232
 hcl-maramures--sacalaseni-4-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1156
+hcl-maramures--sacalaseni-40-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1233
 hcl-maramures--sacalaseni-41-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1234
 hcl-maramures--sacalaseni-42-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1235
+hcl-maramures--sacalaseni-43-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/2504
+hcl-maramures--sacalaseni-44-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/2505
+hcl-maramures--sacalaseni-45-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/2506
+hcl-maramures--sacalaseni-46-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/2507
+hcl-maramures--sacalaseni-47-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/2508
 hcl-maramures--sacalaseni-48-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/2509
 hcl-maramures--sacalaseni-49-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/2510
 hcl-maramures--sacalaseni-5-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/1157
@@ -86,6 +94,7 @@ hcl-maramures--sacalaseni-70-2020,current,2026-11-08,2026-12-08,register-read,,,
 hcl-maramures--sacalaseni-71-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/5043
 hcl-maramures--sacalaseni-72-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/6752
 hcl-maramures--sacalaseni-73-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/6753
+hcl-maramures--sacalaseni-74-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/6792
 hcl-maramures--sacalaseni-75-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/6793
 hcl-maramures--sacalaseni-76-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/6794
 hcl-maramures--sacalaseni-77-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/sacalaseni-mm/registru-hcl/8115

@@ -3,6 +3,186 @@
  "shard": "local/olt/piatra-olt/2018",
  "acts": [
   {
+   "slug": "hcl-olt--piatra-olt-23-2018",
+   "path": "local/olt/piatra-olt/2018/23",
+   "short": "HCL Piatra-Olt nr. 23/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 23/2018 Cu privire 1a: respingere Proiect de Hotarare referitor la transfbrmare post contractual",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/23-2018.pdf",
+     "sha256": "6bbffffa389280e4916a0166af3c51d8f95909b958ed6e97a6583784e8b521fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-26-2018",
+   "path": "local/olt/piatra-olt/2018/26",
+   "short": "HCL Piatra-Olt nr. 26/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 26/2018",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/26-2018.pdf",
+     "sha256": "51e6815a923e6da1a5e993a54f0111fed9d1f11a045b557084f0a35538fca2bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-27-2018",
+   "path": "local/olt/piatra-olt/2018/27",
+   "short": "HCL Piatra-Olt nr. 27/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 27/2018 Cu privire la alegerea presedintelui de sedinta",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/27-2018.pdf",
+     "sha256": "2414ec520fcc09c74925b3dcc7f189b4eabec94390d5efb3ee46f39552fecfe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-29-2018",
+   "path": "local/olt/piatra-olt/2018/29",
+   "short": "HCL Piatra-Olt nr. 29/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 29/2018 Cu privire la: modificarea salariului debazdpentru personalul contractual",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-03-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/29-2018.pdf",
+     "sha256": "229ab7a99407400aac2e955f1dc1996227a9f97559cdf47e492881535e2fc070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-35-2018",
+   "path": "local/olt/piatra-olt/2018/35",
+   "short": "HCL Piatra-Olt nr. 35/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 35/2018 privind constituirea Consiliului Comunitar Consultativ",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/35-2018.pdf",
+     "sha256": "235efc307a6889bae41b176974da8ffe3f45708a12df812f099a4e325fe44d2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-4-2018",
+   "path": "local/olt/piatra-olt/2018/4",
+   "short": "HCL Piatra-Olt nr. 4/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 4/2018",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-01-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/4-2018.pdf",
+     "sha256": "c268f740914bc3766e39539de04cf3162f2dea064febd63f4d5d188bbad5a8ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-42-2018",
+   "path": "local/olt/piatra-olt/2018/42",
+   "short": "HCL Piatra-Olt nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 42/2018",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-05-31",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/42-2018.pdf",
+     "sha256": "b3c394f76f9b8e44c53ab344feb1b82ba661f5bfa5f44ea71dc7c3a21134e329"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-45-2018",
+   "path": "local/olt/piatra-olt/2018/45",
+   "short": "HCL Piatra-Olt nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 45/2018 privind respingerea proiectului de hotarare cu privire la :aprobarea Memorandumului de colaborare intre UAT Piatra OIt si Asociatia,,Cenhul romilor pentru politici de sanatate\"",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-05-01",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/45-2018.pdf",
+     "sha256": "24cdd12200a89a2a5a3aebadcbc677950276752b3cb2355136a7b9f14eb6b450"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-7-2018",
+   "path": "local/olt/piatra-olt/2018/7",
+   "short": "HCL Piatra-Olt nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 7/2018",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/7-2018.pdf",
+     "sha256": "050a169ede764326baa9168f9b7b29a5c01a8309cab33b1041f5e3d676985523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-71-2018",
+   "path": "local/olt/piatra-olt/2018/71",
+   "short": "HCL Piatra-Olt nr. 71/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 71/2018 Referitoare la: rectificare buget local pe anul 20'18",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-08-31",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/71-2018.pdf",
+     "sha256": "f59de2d4e4bac5b860f390377d1984b3ed986384da6953f81e38485bf052b75f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-85-2018",
+   "path": "local/olt/piatra-olt/2018/85",
+   "short": "HCL Piatra-Olt nr. 85/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 85/2018",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/85-2018.pdf",
+     "sha256": "30ca30b600e71277ff4d5409982c90e76269525bb988e9bc2cbb48b9b39160c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-86-2018",
+   "path": "local/olt/piatra-olt/2018/86",
+   "short": "HCL Piatra-Olt nr. 86/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 86/2018",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/86-2018.pdf",
+     "sha256": "742345276e8e68b4b9ac492b336e1f2b85c69df8066425166a37129420a233a7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--piatra-olt-99-2018",
    "path": "local/olt/piatra-olt/2018/99",
    "short": "HCL Piatra-Olt nr. 99/2018",

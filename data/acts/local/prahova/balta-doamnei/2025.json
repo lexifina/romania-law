@@ -247,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-prahova--balta-doamnei-12-2025",
+"path": "local/prahova/balta-doamnei/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 12/2025 privind aprobarea concesionării prin atribuire directă a unui teren aflat în domeniul privat al comunei Balta Doamnei în favoarea MICROFRUITS SA, pentru realizarea unui centru de colectare, depozitare și procesare legume și fructe sub denumirea „CENTRU DE COLECTARE, DEPOZITARE ȘI PROCESARE MICROFRUITS” în Comuna Balta Doamnei",
+"short": "HCL Balta Doamnei nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/232013",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--balta-doamnei-13-2025",
 "path": "local/prahova/balta-doamnei/2025/13",
 "kind": "local",
@@ -468,6 +490,28 @@
 }
 },
 {
+"slug": "hcl-prahova--balta-doamnei-23-2025",
+"path": "local/prahova/balta-doamnei/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 23/2025 privind aprobarea acordării unui sprijin financiar de la bugetul local al Comunei Balta Doamnei, județul Prahova, pentru unele unități de cult din Comuna Balta Doamnei, Județul Prahova",
+"short": "HCL Balta Doamnei nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/233163",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--balta-doamnei-24-2025",
 "path": "local/prahova/balta-doamnei/2025/24",
 "kind": "local",
@@ -487,6 +531,50 @@
 "council_name": "Consiliul Local al Comunei Balta Doamnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--balta-doamnei-25-2025",
+"path": "local/prahova/balta-doamnei/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 25/2025 privind aprobarea acordării unui sprijin financiar de la bugetul local al Comunei Balta Doamnei, județul Prahova, pentru unele unități de cult din Comuna Balta Doamnei, Județul Prahova",
+"short": "HCL Balta Doamnei nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/233175",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--balta-doamnei-26-2025",
+"path": "local/prahova/balta-doamnei/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 26/2025 privind darea în folosință gratuită a imobilului situat în comuna Balta Doamnei, sat Balta Doamnei, nr. 189C, județul Prahova și aprobarea Protocolului cadru",
+"short": "HCL Balta Doamnei nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/233176",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -531,6 +619,28 @@
 "council_name": "Consiliul Local al Comunei Balta Doamnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--balta-doamnei-29-2025",
+"path": "local/prahova/balta-doamnei/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 29/2025 privind schimbarea de destinație a imobilului situat în comuna Balta Doamnei, sat Balta Doamnei, nr. 172, Județul Prahova, din sediu Centru Medical în sediu Primărie comuna Balta Doamnei",
+"short": "HCL Balta Doamnei nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/233210",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -597,6 +707,28 @@
 "council_name": "Consiliul Local al Comunei Balta Doamnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--balta-doamnei-33-2025",
+"path": "local/prahova/balta-doamnei/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta Doamnei nr. 33/2025 privind revocarea Hotărârii Consiliului local nr.25/26.06.2025 privind acordării unui sprijin financiar de la bugetul local al Comunei Balta Doamnei, județul Prahova, pentru unele unități de cult din Comuna Balta Doamnei",
+"short": "HCL Balta Doamnei nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-31",
+"latest": "2025-10-31",
+"portal": "https://emol.ro/baltadoamnei-ph/registru-hcl/233214",
+"council": "prahova/balta-doamnei",
+"council_name": "Consiliul Local al Comunei Balta Doamnei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

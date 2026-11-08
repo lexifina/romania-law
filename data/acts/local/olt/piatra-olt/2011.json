@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/olt/piatra-olt/2011",
+"acts": [
+{
+"slug": "hcl-olt--piatra-olt-29-2011",
+"path": "local/olt/piatra-olt/2011/29",
+"kind": "local",
+"year": "2011",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 29/2011 Cu privire la : aprobare documentalie tehnico-economica faza Studiu de fezabilitate pentru proiectul ,,Extindere refea canalizare menajera oraq Piatra Olt, satele Piatra Criva de Jos si Criva de Sus\"",
+"short": "HCL Piatra-Olt nr. 29/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-05-20",
+"latest": "2011-05-20",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-34-2011",
+"path": "local/olt/piatra-olt/2011/34",
+"kind": "local",
+"year": "2011",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 34/2011",
+"short": "HCL Piatra-Olt nr. 34/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-06-30",
+"latest": "2011-06-30",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-47-2011",
+"path": "local/olt/piatra-olt/2011/47",
+"kind": "local",
+"year": "2011",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 47/2011 Cu privire la : darea in administrare a unui spaliu Inspectoratului de Jandarmi Judefean Olt",
+"short": "HCL Piatra-Olt nr. 47/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-07-22",
+"latest": "2011-07-22",
+"portal": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-olt--piatra-olt-57-2011",
+"path": "local/olt/piatra-olt/2011/57",
+"kind": "local",
+"year": "2011",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 57/2011",
+"short": "HCL Piatra-Olt nr. 57/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-09-30",
+"latest": "2011-09-30",
+"portal": null,
+"council": "olt/piatra-olt",
+"council_name": "Consiliul Local al Orașului Piatra-Olt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

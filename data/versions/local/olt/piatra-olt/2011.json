@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/olt/piatra-olt/2011",
+ "acts": [
+  {
+   "slug": "hcl-olt--piatra-olt-29-2011",
+   "path": "local/olt/piatra-olt/2011/29",
+   "short": "HCL Piatra-Olt nr. 29/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 29/2011 Cu privire la : aprobare documentalie tehnico-economica faza Studiu de fezabilitate pentru proiectul ,,Extindere refea canalizare menajera oraq Piatra Olt, satele Piatra Criva de Jos si Criva de Sus\"",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2011-05-20",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/29-2011.pdf",
+     "sha256": "1cd436161b45be4301ad4704c0d91087197172e716cf84890d265c455d93d242"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-34-2011",
+   "path": "local/olt/piatra-olt/2011/34",
+   "short": "HCL Piatra-Olt nr. 34/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 34/2011",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/34-2011.pdf",
+     "sha256": "9def242f83ad46284d6840135c4f5c34a337f866833ac697d2d8563b96bf1f13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-47-2011",
+   "path": "local/olt/piatra-olt/2011/47",
+   "short": "HCL Piatra-Olt nr. 47/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 47/2011 Cu privire la : darea in administrare a unui spaliu Inspectoratului de Jandarmi Judefean Olt",
+   "url": "http://www.primariapiatraolt.ro/primariapiatraolt.ro/hotararile-autoritatii-deliberative",
+   "versions": [
+    {
+     "from": "2011-07-22",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/47-2011.pdf",
+     "sha256": "1b3076d2203627b213cfa4254bceb354fbabe7ac7e19d83117bc3d79cea08667"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--piatra-olt-57-2011",
+   "path": "local/olt/piatra-olt/2011/57",
+   "short": "HCL Piatra-Olt nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Orașului Piatra-Olt nr. 57/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 1,
+     "source_url": "https://primariapiatraolt.ro/media/2020/12/57-2011.pdf",
+     "sha256": "86187b8ac2ce319e10d7538ba9afa80e747ce3bce6414fbdc41d571032e4d5db"
+    }
+   ]
+  }
+ ]
+}

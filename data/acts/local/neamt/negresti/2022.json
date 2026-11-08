@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-3-2022",
+"path": "local/neamt/negresti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 3/2022 privind aprobarea Planului de ocupare a funcţiilor publice din aparatul de specialitate al Primarului comunei Negresti, pentru anul 2022",
+"short": "HCL Negrești nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67555",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--negresti-4-2022",
 "path": "local/neamt/negresti/2022/4",
 "kind": "local",
@@ -111,6 +133,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-7-2022",
+"path": "local/neamt/negresti/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 7/2022 privind aprobarea concesionarii prin licitatie publica a suprafetei de 36,7045 ha pasune comunală si adăpostul pentru animale situate in expravilan punctul Islazul Mare din domeniul public al comunei si administrarea consiliului local",
+"short": "HCL Negrești nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67559",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -269,6 +313,74 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-15-2022",
+"path": "local/neamt/negresti/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 15/2022",
+"short": "HCL Negrești nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67574",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-16-2022",
+"path": "local/neamt/negresti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 16/2022",
+"short": "HCL Negrești nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67575",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--negresti-17-2022",
+"path": "local/neamt/negresti/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 17/2022 privind trecerea unor bunuri din domeniul privat în domeniul public al comunei Negresti, judetul Neamt",
+"short": "HCL Negrești nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67576",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--negresti-18-2022",
 "path": "local/neamt/negresti/2022/18",
 "kind": "local",
@@ -354,6 +466,28 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-22-2022",
+"path": "local/neamt/negresti/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 22/2022 Privind desemnarea unui reprezentant în comisia de evaluare a probei de interviu a concursului pentru ocuparea funcției vacante de director si director adjunct din unitățile de învățământ preuniversitar de stat din Județul Neamt, sesiunea ianuarie – aprilie 2022",
+"short": "HCL Negrești nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67588",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -445,6 +579,73 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-27-2022",
+"path": "local/neamt/negresti/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 27/2022 privind aprobarea documentatiei necesară pentru concesionarea prin atribuire directa a suprafetei de 47,63 ha pasune islaz Habia aflat in domeniul public al comunei Negresti, judetul Neamt",
+"short": "HCL Negrești nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67605",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-28-2022",
+"path": "local/neamt/negresti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 28/2022 privind aprobarea documentatiei necesară pentru concesionarea prin atribuire directa a suprafetei de 7,11 ha pasune islaz Dolhesti aflat in domeniul public al comunei Negresti, judetul Neamt",
+"short": "HCL Negrești nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67606",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-29-2022",
+"path": "local/neamt/negresti/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 29/2022",
+"short": "HCL Negrești nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-04",
+"latest": "2022-08-04",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67607",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--negresti-30-2022",
 "path": "local/neamt/negresti/2022/30",
 "kind": "local",
@@ -508,6 +709,50 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-33-2022",
+"path": "local/neamt/negresti/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 33/2022 privind aprobarea concesionarii prin licitatie publica a suprafetei de 47,63 ha pasune Habia din domeniul public al comunei si administrarea consiliului local",
+"short": "HCL Negrești nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67611",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-34-2022",
+"path": "local/neamt/negresti/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 34/2022 privind aprobarea concesionarii prin licitatie publica a suprafetei de 7,11 ha pasune islaz Dolhesti din domeniul public al comunei si administrarea consiliului local",
+"short": "HCL Negrești nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-03",
+"latest": "2022-08-03",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67612",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -666,6 +911,116 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-42-2022",
+"path": "local/neamt/negresti/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 42/2022 privind aprobarea consumului lunar de carburanti si lubrefianti pentru autovehiculele si utilajele aflate in dotarea Primariei comuna Negresti, judetul Neamt",
+"short": "HCL Negrești nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-04",
+"latest": "2022-08-04",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67865",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-43-2022",
+"path": "local/neamt/negresti/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 43/2022 privind completarea programului anual al achizitiilor pubice pe anul 2022",
+"short": "HCL Negrești nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-04",
+"latest": "2022-08-04",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67866",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-44-2022",
+"path": "local/neamt/negresti/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 44/2022 privind rectificarea bugetului local al comunei Negresti, judetul Neamt pe anul 2022",
+"short": "HCL Negrești nr. 44/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-04",
+"latest": "2022-08-04",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67867",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-45-2022",
+"path": "local/neamt/negresti/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 45/2022 privind modificarea Programului annual al achizitiilor publice pe anul 2022",
+"short": "HCL Negrești nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-04",
+"latest": "2022-08-04",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67868",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--negresti-46-2022",
+"path": "local/neamt/negresti/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 46/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Negrești nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-04",
+"latest": "2022-08-04",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/67869",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--negresti-47-2022",
 "path": "local/neamt/negresti/2022/47",
 "kind": "local",
@@ -733,6 +1088,29 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-50-2022",
+"path": "local/neamt/negresti/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 50/2022",
+"short": "HCL Negrești nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/100815",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--negresti-51-2022",
 "path": "local/neamt/negresti/2022/51",
 "kind": "local",
@@ -752,6 +1130,29 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-52-2022",
+"path": "local/neamt/negresti/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 52/2022",
+"short": "HCL Negrești nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-12",
+"latest": "2022-08-12",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/100817",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -799,6 +1200,29 @@
 }
 },
 {
+"slug": "hcl-neamt--negresti-55-2022",
+"path": "local/neamt/negresti/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 55/2022",
+"short": "HCL Negrești nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/100820",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--negresti-56-2022",
 "path": "local/neamt/negresti/2022/56",
 "kind": "local",
@@ -841,6 +1265,29 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-58-2022",
+"path": "local/neamt/negresti/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 58/2022",
+"short": "HCL Negrești nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/100823",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -929,6 +1376,29 @@
 "council_name": "Consiliul Local al Comunei Negrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--negresti-63-2022",
+"path": "local/neamt/negresti/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Negrești nr. 63/2022",
+"short": "HCL Negrești nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/negresti-nt/registru-hcl/100854",
+"council": "neamt/negresti",
+"council_name": "Consiliul Local al Comunei Negrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

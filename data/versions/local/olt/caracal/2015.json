@@ -573,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-olt--caracal-33-2015",
+   "path": "local/olt/caracal/2015/33",
+   "short": "HCL Caracal nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 33/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCL_nr_33din30_04_2015.pdf",
+     "sha256": "946753a5bdf8f7fa1002ac4ba0a458fedfe89dec3cc074fbc73f8be81630d91e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-olt--caracal-34-2015",
    "path": "local/olt/caracal/2015/34",
    "short": "HCL Caracal nr. 34/2015",
@@ -1229,6 +1244,21 @@
      "units": 1,
      "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCL-nr.-74din31.08.2015.pdf",
      "sha256": "fa31f11f3633e8bc921b6d0c36d13c811d0ef275e385c597af95a82976b77da9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-75-2015",
+   "path": "local/olt/caracal/2015/75",
+   "short": "HCL Caracal nr. 75/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 75/2015 referitoare la dezvoltarea spațială durabilă, în coordonarea primarului municipiului Caracal funcționează Comisia tehnică de amenajare a teritoriului și urbanism, ca organ consultativ cu atribuții de analiză, expertizare tehnică și consultanță, care asigură fundamentarea tehnica a avizului arhitectului-șef",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://primariacaracal.ro/wp-content/uploads/fisiere/Consiliul-Local/Hotarari/2015/HCL-nr.-75din31.08.2015.pdf",
+     "sha256": "c214cd043ee5bf3065cb5de2d699454b9d867ce532a0d11dae5de34123a97a0b"
     }
    ]
   },

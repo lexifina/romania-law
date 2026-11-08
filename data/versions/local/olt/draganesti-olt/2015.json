@@ -1,0 +1,1371 @@
+{
+ "country": "RO",
+ "shard": "local/olt/draganesti-olt/2015",
+ "acts": [
+  {
+   "slug": "hcl-olt--draganesti-olt-1-2015",
+   "path": "local/olt/draganesti-olt/2015/1",
+   "short": "HCL Drăgănești-Olt nr. 1/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 1/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "babf10e4c735d684015057698adf3e6aabc68984e73cb565a7cf9c19611f9bab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-10-2015",
+   "path": "local/olt/draganesti-olt/2015/10",
+   "short": "HCL Drăgănești-Olt nr. 10/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 10/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-13",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-10-din-13.02.2015-insus-rap-eval-48-mp-dom-privat-n.-titulescu.pdf",
+     "sha256": "f7ab5b5a747f660c3381fbc1de71efa7aa61eb565cbc7c9f296f21b4d1018daf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-11-2015",
+   "path": "local/olt/draganesti-olt/2015/11",
+   "short": "HCL Drăgănești-Olt nr. 11/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 11/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-11-din-26.02.2015-procedura-scutire-plata-maj-intarz-si-penalit-pers-fiz.pdf",
+     "sha256": "3423f40feba778c110612e7da1fe1f9618123021c811f514aae0e3fe887d229d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-12-2015",
+   "path": "local/olt/draganesti-olt/2015/12",
+   "short": "HCL Drăgănești-Olt nr. 12/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 12/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-12-din-26.02.2015-vanz-neg-dir-178-mp-n.-titul--nr.-213c-dom-priv-catre-buzatu-anica.pdf",
+     "sha256": "22ef28281d1184a3d36f65b311d52848049260452cec0a1ad753b1011dfcb7fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-13-2015",
+   "path": "local/olt/draganesti-olt/2015/13",
+   "short": "HCL Drăgănești-Olt nr. 13/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 13/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-13-din-26.02.2015-vanz-licit-publ-302-mp-n.-titul-fn-dom-priv.pdf",
+     "sha256": "78e866fd513ab10c85add26d7cf85b0fe781c866d9f80f71b2735ed21680592e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-14-2015",
+   "path": "local/olt/draganesti-olt/2015/14",
+   "short": "HCL Drăgănești-Olt nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 14/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-14-din-26.02.2015-constit-grup-de-lucru-local-aplic-strateg-romi-2015-2020.pdf",
+     "sha256": "bd6c7f2da825d22b4a0a357156aa4ac317b3b4b567fcbe169a1bc3a315458039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-15-2015",
+   "path": "local/olt/draganesti-olt/2015/15",
+   "short": "HCL Drăgănești-Olt nr. 15/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 15/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-15-din-26.02.2015-plan-local-actiune-strateg-romi-2015.pdf",
+     "sha256": "b4148d5b634bbe604045868777ec534ed307bc212f8762456972871934077b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-16-2015",
+   "path": "local/olt/draganesti-olt/2015/16",
+   "short": "HCL Drăgănești-Olt nr. 16/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 16/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-16-din-26.02.2015-transm-bunuri-imobile-catre-sc-cao-sa-ca-bunuri-de-retur.pdf",
+     "sha256": "cc68061f0b7a1736a9721d8e14e251d3fb6850a886d4c780d88ec0efe7c4ea62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-17-2015",
+   "path": "local/olt/draganesti-olt/2015/17",
+   "short": "HCL Drăgănești-Olt nr. 17/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 17/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "57d11ae79b43c2e5ea11dd6b926962c2ffcbb12660637241b8ab16f6a9190c91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-18-2015",
+   "path": "local/olt/draganesti-olt/2015/18",
+   "short": "HCL Drăgănești-Olt nr. 18/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 18/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-18-din-26.03.2015-amplasament-teren-4693-mp-dom-privat-loturi-lege-15-2003.pdf",
+     "sha256": "d12a6d1bd9562b09e7fc96afed7e57cac822072c9fedf00694959347cd8d9c5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-19-2015",
+   "path": "local/olt/draganesti-olt/2015/19",
+   "short": "HCL Drăgănești-Olt nr. 19/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 19/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-19-din-26.03.2015-insusire-rap-eval-dom-publ-intrav-48-mp-n.-titul-bl-b-parter.pdf",
+     "sha256": "5b4c9ea131b5dc66744e7b41ef752c2b282829afec8df7da906e381959e025fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-2-2015",
+   "path": "local/olt/draganesti-olt/2015/2",
+   "short": "HCL Drăgănești-Olt nr. 2/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 2/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-2-din-30.01.2015-dezlipire-in-4-lotuir-15.423-mp-dom-privat-str-brandusei-comani.pdf",
+     "sha256": "ee8d03828656a21d0ae7bf6beaf110fd56a5bf69d00079fd58c58e416dd83ad2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-20-2015",
+   "path": "local/olt/draganesti-olt/2015/20",
+   "short": "HCL Drăgănești-Olt nr. 20/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 20/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-20-din-26.03.2015-plan-actiune-implemen-plan-strategic-dezv-serv-soc-2015.pdf",
+     "sha256": "7b1614ae12b43918b5f61cece8d9e5afd805bf89f3f33696a57336f7959930cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-21-2015",
+   "path": "local/olt/draganesti-olt/2015/21",
+   "short": "HCL Drăgănești-Olt nr. 21/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 21/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-21-din-29.04.2015-cont-anual-2014-executie-bugetara.pdf",
+     "sha256": "e20f78c9a11916d834dd486a9cc11e047a91550327ed8f3ca82a818eb85eda24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-22-2015",
+   "path": "local/olt/draganesti-olt/2015/22",
+   "short": "HCL Drăgănești-Olt nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 22/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-22-din-29.04.2015-executie-bugetara-trim-i-2015.pdf",
+     "sha256": "fc4617d714ec2679b6b799c13c4d428d72c963a755eb18eaed4d2c07d3399314"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-24-2015",
+   "path": "local/olt/draganesti-olt/2015/24",
+   "short": "HCL Drăgănești-Olt nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 24/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-24-din-29.04.2015-prelungire-contr-inchir-terenuri-garaje.pdf",
+     "sha256": "2a74654649f74f7418f8be5105dd3f412576fa5f41034e31480dea1f63e431a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-25-2015",
+   "path": "local/olt/draganesti-olt/2015/25",
+   "short": "HCL Drăgănești-Olt nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 25/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "847198c735dfe163c6fc03ac28c396895aef26efe8a68bf173e2454abfd4a391"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-26-2015",
+   "path": "local/olt/draganesti-olt/2015/26",
+   "short": "HCL Drăgănești-Olt nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 26/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-26-din-28.05.2015-alocare-suma-bani-ziua-copilului---1-iunie-2015.pdf",
+     "sha256": "1919c90b7998ec1618ac321b5553a10c709b5144713641cc7bce19c926f5fd6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-27-2015",
+   "path": "local/olt/draganesti-olt/2015/27",
+   "short": "HCL Drăgănești-Olt nr. 27/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 27/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-27-din-28.05.2015-acordare-sprijin-material-veterani-razboi.pdf",
+     "sha256": "995b9a32e5e8ec63864e191554b7fb3d59c69552bc07e5717dfc866dd134af8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-28-2015",
+   "path": "local/olt/draganesti-olt/2015/28",
+   "short": "HCL Drăgănești-Olt nr. 28/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 28/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-28-din-28.05.2015-acordare-facilitati-investitori-schema-de-minimis.pdf",
+     "sha256": "7e9535867557dd941ce4aa82f6b2096f498643dd4afde9e6f5601f8be7db9c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-29-2015",
+   "path": "local/olt/draganesti-olt/2015/29",
+   "short": "HCL Drăgănești-Olt nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 29/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-29-din-28.05.2015-rof-piata-1-decembrie-si-targ-orasenesc.pdf",
+     "sha256": "81d9579edd9edbe8fed00c73e72c821d3d56c6ec2cd8f6e930dcfc4b7fd67c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-3-2015",
+   "path": "local/olt/draganesti-olt/2015/3",
+   "short": "HCL Drăgănești-Olt nr. 3/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 3/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-3-din-30.01.2015-declarare-monum-ale-naturii-2-stejari-seculari.pdf",
+     "sha256": "bae27fc17c97924d4b38c184fe7caa147b5b51434753338cb04fec75c8a97307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-30-2015",
+   "path": "local/olt/draganesti-olt/2015/30",
+   "short": "HCL Drăgănești-Olt nr. 30/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 30/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-30-din-28.05.2015-regulament-card-legitimatie-parcare-pers-cu-handicap.pdf",
+     "sha256": "badfa22b4921050bcceb5891a4512a5de6fb190382bfa498597240690337d7d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-31-2015",
+   "path": "local/olt/draganesti-olt/2015/31",
+   "short": "HCL Drăgănești-Olt nr. 31/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 31/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "7708aec6576d89b17b1bd6ec581c69f4e731d27ca2ee272b7b8d166822758f23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-32-2015",
+   "path": "local/olt/draganesti-olt/2015/32",
+   "short": "HCL Drăgănești-Olt nr. 32/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 32/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-32-din-28.05.2015-colaborare-aadr-pentru-pcue.pdf",
+     "sha256": "88be76247ee0b5d1a8c9e78a01110624ec8d74e3262a66f53a24d326a34389bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-33-2015",
+   "path": "local/olt/draganesti-olt/2015/33",
+   "short": "HCL Drăgănești-Olt nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 33/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-33-din-25.06.2015-trecere-din-dom-public-oras-in-dom-public-jud.-olt-si-adm-spit-jud.-olt.pdf",
+     "sha256": "a70043ac6c145bfa4ae2e4122acacad72b9d6e944ec63d5781adbc72eba89699"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-34-2015",
+   "path": "local/olt/draganesti-olt/2015/34",
+   "short": "HCL Drăgănești-Olt nr. 34/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 34/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-34-din-25.06.2015-conces-licit-publ-1250-mp-t-46-p-19-ferma-zootehnica.pdf",
+     "sha256": "7d1462aa9b7d671d435304c547cd3ac223553d7ba855ddf5a31705806062446b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-35-2015",
+   "path": "local/olt/draganesti-olt/2015/35",
+   "short": "HCL Drăgănești-Olt nr. 35/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 35/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "eab8fd405b40b850001eeebf7e0826de4401e40efebfbfaa5b4d02b36be19c57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-36-2015",
+   "path": "local/olt/draganesti-olt/2015/36",
+   "short": "HCL Drăgănești-Olt nr. 36/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 36/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "7548638c74d98640fa2b82f720b6d08f06f6dbd2d001368f3d7b70e4f44ae00f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-37-2015",
+   "path": "local/olt/draganesti-olt/2015/37",
+   "short": "HCL Drăgănești-Olt nr. 37/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 37/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "519252c866a4e1ee6da491bb1e008107054c676a30762fa6e1688fc3985bb224"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-38-2015",
+   "path": "local/olt/draganesti-olt/2015/38",
+   "short": "HCL Drăgănești-Olt nr. 38/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 38/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-38-din-25.06.2015-desemn-cenzor-supleant-sc-urban-activ-serv-srl.pdf",
+     "sha256": "ea69d5ad4918c38da99dbefa079c0bfe2e4b9f9c3c469cda140ac451f7179bcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-39-2015",
+   "path": "local/olt/draganesti-olt/2015/39",
+   "short": "HCL Drăgănești-Olt nr. 39/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 39/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-39-din-25.06.2015-modif-hcl-91-din-2013-tarife-utilaje-si-mijl-transp-sc-urban-activ-serv.pdf",
+     "sha256": "af0d491d2feb74211864593610b5097b63421b04c954107306bcff1c52784377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-4-2015",
+   "path": "local/olt/draganesti-olt/2015/4",
+   "short": "HCL Drăgănești-Olt nr. 4/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 4/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-4-din-30.01.2015-repartiz-5-locuinte-anl-vacante.pdf",
+     "sha256": "8e0d6f694722804d051e082bc8cfb84b082b40e59d35d752f81b881ae707483f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-40-2015",
+   "path": "local/olt/draganesti-olt/2015/40",
+   "short": "HCL Drăgănești-Olt nr. 40/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 40/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-40-din-25.06.2015-acord-reabilit-drumuri-exploatare-extrav-sc-fmnc-srl.pdf",
+     "sha256": "4d656fab4c6ac24c0ee9c52fbf9a09e2f70337498df045fcf0d4ce5cf3fa8cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-41-2015",
+   "path": "local/olt/draganesti-olt/2015/41",
+   "short": "HCL Drăgănești-Olt nr. 41/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 41/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-41-din-30.07.2015-rectif-buget.pdf",
+     "sha256": "668494bd776788957e94e48cfc4cb4e4b4ad3a0669453d4d004995bcf0c9ba2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-42-2015",
+   "path": "local/olt/draganesti-olt/2015/42",
+   "short": "HCL Drăgănești-Olt nr. 42/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 42/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-42-din-30.07.2015-executie-bugetara-trim-ii-2015.pdf",
+     "sha256": "f0ca96eba53f441ddd04ffa160c3a7026db06bbb318eecdae22fbccceb6724ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-43-2015",
+   "path": "local/olt/draganesti-olt/2015/43",
+   "short": "HCL Drăgănești-Olt nr. 43/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 43/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-43-din-30.07.2015-procedura-inregistr--evid-si-radiere-vehicule-ce-nu-se-inmatric.pdf",
+     "sha256": "aba8c534f34129c3f919d7df3bb1ce73e3f09d2db4f396e2a48b41c8c0d5f32f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-44-2015",
+   "path": "local/olt/draganesti-olt/2015/44",
+   "short": "HCL Drăgănești-Olt nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 44/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-44-din-30.07.2015-indic-tehn-econ-moderniz-scuaruri-si-spatii-verzi-zona-centrala-n.-titulescu.pdf",
+     "sha256": "f64f0ee4bd587bf5e843733d0530baefaa46a6c7fb99dab1fb194129b7416a48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-47-2015",
+   "path": "local/olt/draganesti-olt/2015/47",
+   "short": "HCL Drăgănești-Olt nr. 47/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 47/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-47-din-30.07.2015-trecere-teren-84-20-mp-str-livezilor-din-dom-publ-in-dom-priv-in-vederea-vanz-licit-publ.pdf",
+     "sha256": "65d42aec0a7728ef205016e47698c04df864366f6ac18b80974a9bb173b88271"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-48-2015",
+   "path": "local/olt/draganesti-olt/2015/48",
+   "short": "HCL Drăgănești-Olt nr. 48/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 48/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-48-din-30.07.2015-constit-comis-spec-analiz-si-verif-activ-cao.pdf",
+     "sha256": "bdceee8cf10f6930be786cf63927566a727d90957be9ea48386ce025a3c68c91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-49-2015",
+   "path": "local/olt/draganesti-olt/2015/49",
+   "short": "HCL Drăgănești-Olt nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 49/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-49-din-27.08.2015-rectif-buget.pdf",
+     "sha256": "c71c7d5664976e882426e01bb4e7208e95c3da82f7b1b12043322efbb2a640f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-5-2015",
+   "path": "local/olt/draganesti-olt/2015/5",
+   "short": "HCL Drăgănești-Olt nr. 5/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 5/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-5-din-30.01.2015-insus-rap-eval-11-79-mp-dom-priv-str.-dudesti.pdf",
+     "sha256": "60fa176460df54f719669f2f9d9e0d67ca96b40389982e6f4b73e9743f4e8119"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-50-2015",
+   "path": "local/olt/draganesti-olt/2015/50",
+   "short": "HCL Drăgănești-Olt nr. 50/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 50/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-50-din-27.08.2015-aprob-strateg-de-dezv-locala-oras-draganesti-2014-2020.pdf",
+     "sha256": "c22484414a0e26c7b5601be1f0e48508260f1c90f8b493a5b8f009f569982d03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-51-2015",
+   "path": "local/olt/draganesti-olt/2015/51",
+   "short": "HCL Drăgănești-Olt nr. 51/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 51/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-51-din-27.08.2015-aprob-progr-local-multianual-crestere-perform-energ-blocuri-de-locuinte-2015-2020.pdf",
+     "sha256": "c83593c0830f85f2a56f3ee71ba6fd5ff5ac7c4d2475b2c2f2134be6a35d9410"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-52-2015",
+   "path": "local/olt/draganesti-olt/2015/52",
+   "short": "HCL Drăgănești-Olt nr. 52/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 52/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-52-din-27.08.2015-infiint-post-sofer-microbuz-scolar-si-modfi-organigrama-primarie-draganesti.pdf",
+     "sha256": "8cfa5407680535699b15b845d8d3313a971e9f35fe5f83f6730be0bbd6d3455c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-53-2015",
+   "path": "local/olt/draganesti-olt/2015/53",
+   "short": "HCL Drăgănești-Olt nr. 53/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 53/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-53-din-27.08.2015-atrib-denumire-strada-intrarea-oltului.pdf",
+     "sha256": "eda18b90be97c8ef64187483719c2b162137cc3fe81014a9a3e3f0905ab82ce6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-54-2015",
+   "path": "local/olt/draganesti-olt/2015/54",
+   "short": "HCL Drăgănești-Olt nr. 54/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 54/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-54-din-27.08.2015-repartiz-locuinta-anl.pdf",
+     "sha256": "3d1d07a991eaf7ea9ae4763e5b13266cb7122c621ba2ee85e9927ebe4e8fa2f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-55-2015",
+   "path": "local/olt/draganesti-olt/2015/55",
+   "short": "HCL Drăgănești-Olt nr. 55/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 55/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-55-din-27.08.2015-repartiz-locuinta-anl.pdf",
+     "sha256": "70505cdb576fcbe024419876a3365a6732a1222053f1668feb7543f882d5b47f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-56-2015",
+   "path": "local/olt/draganesti-olt/2015/56",
+   "short": "HCL Drăgănești-Olt nr. 56/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 56/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-56-din-27.08.2015-repartiz-locuinta-anl.pdf",
+     "sha256": "967745245682f254d4a8456c1d7ddcd0e39fb266589b57617405f2f8ea51d91f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-57-2015",
+   "path": "local/olt/draganesti-olt/2015/57",
+   "short": "HCL Drăgănești-Olt nr. 57/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 57/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-57-din-27.08.2015-repartiz-locuinta-anl.pdf",
+     "sha256": "857ea150780c8813d72670b309b08a7cec708fa73bc34b4a997c6a863d483ecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-58-2015",
+   "path": "local/olt/draganesti-olt/2015/58",
+   "short": "HCL Drăgănești-Olt nr. 58/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 58/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-58-din-27.08.2015-desemn-membrii-in-ca-lic-teoretic-t-vladim-draganesti.pdf",
+     "sha256": "d11ae25072642a69e0164d6efb417576e29163c7489f71884659b8136c6c8a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-59-2015",
+   "path": "local/olt/draganesti-olt/2015/59",
+   "short": "HCL Drăgănești-Olt nr. 59/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 59/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-59-din-27.08.2015-desemn-membru-in-ceac-lic-teoretic-t-vladim-draganesti.pdf",
+     "sha256": "add88e58d4436656438eceb42a3f01b5d3b10a8fc77945ccb6d8c4ff595957e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-6-2015",
+   "path": "local/olt/draganesti-olt/2015/6",
+   "short": "HCL Drăgănești-Olt nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 6/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-6-din-30.01.2015-retea-scolara-oras-draganesti-2015-2016.pdf",
+     "sha256": "a87f2264e3a2915adbe21803a3097d9ba37346d4ccbff3fa17dfe90393f2cb56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-60-2015",
+   "path": "local/olt/draganesti-olt/2015/60",
+   "short": "HCL Drăgănești-Olt nr. 60/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 60/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-60-din-27.08.2015-desemn-membrii-in-ca-lic-tehn-draganesti.pdf",
+     "sha256": "5d3a8296fcefe428ea38a19f77259952a2750df5b9d3da838f4d0181c9ab06a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-61-2015",
+   "path": "local/olt/draganesti-olt/2015/61",
+   "short": "HCL Drăgănești-Olt nr. 61/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 61/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-61-din-27.08.2015-desemn-membru-in-ceac-lic-tehn-draganesti.pdf",
+     "sha256": "0e50066c6c8ac96c15dd1f8ef09a9c6cfc2c3908af92d635b2cb39396b457def"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-62-2015",
+   "path": "local/olt/draganesti-olt/2015/62",
+   "short": "HCL Drăgănești-Olt nr. 62/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 62/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-62-din-27.08.2015-desemn-membru-in-ca-scoala-gimnaz-comani.pdf",
+     "sha256": "0b31bc7802b2ba68331c0ff9a688a755adc68573e2f311cb750e7f141b0173bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-63-2015",
+   "path": "local/olt/draganesti-olt/2015/63",
+   "short": "HCL Drăgănești-Olt nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 63/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-63-din-27.08.2015-desemn-membru-in-ceac-scoala-gimnaz-comani.pdf",
+     "sha256": "d26aa414f37eb7da7b74ea4146891a18ebf0c6e2c5c34c8348d8b8dc30b69b9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-64-2015",
+   "path": "local/olt/draganesti-olt/2015/64",
+   "short": "HCL Drăgănești-Olt nr. 64/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 64/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-64-din-27.08.2015-desemn-membrii-in-ca-grad-dumbrava-minunata-draganesti.pdf",
+     "sha256": "be70cd50e050034029cf933b1ff7ecd84ebe0e6c071eae4b00a2a9fe154cc437"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-65-2015",
+   "path": "local/olt/draganesti-olt/2015/65",
+   "short": "HCL Drăgănești-Olt nr. 65/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 65/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-65-din-27.08.2015-desemn-membru-in-ceac-grad-dumbrava-minunata-draganesti.pdf",
+     "sha256": "e6edabc5de77e4b5791789e05348fb9e6fd205c853270b21a21bcaa0bf13d302"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-66-2015",
+   "path": "local/olt/draganesti-olt/2015/66",
+   "short": "HCL Drăgănești-Olt nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 66/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-66-din-29.09.2015-rectif-buget.pdf",
+     "sha256": "350e82942f85daaa31c6479a0aadda1428820d71ffc2994a443bffda5e6d08d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-67-2015",
+   "path": "local/olt/draganesti-olt/2015/67",
+   "short": "HCL Drăgănești-Olt nr. 67/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 67/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "ed1bbd1b0ce390547019ee7b8673a8b376e8db23e72e28183380cb7a7a935d7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-68-2015",
+   "path": "local/olt/draganesti-olt/2015/68",
+   "short": "HCL Drăgănești-Olt nr. 68/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 68/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-68-din-29.10.2015-rectificare-buget.pdf",
+     "sha256": "f45bc5226f74d2990e0c83d4ce3becf5bde186b855b08effd3dd12255ed6aee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-69-2015",
+   "path": "local/olt/draganesti-olt/2015/69",
+   "short": "HCL Drăgănești-Olt nr. 69/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 69/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-69-din-29.10.2015-executie-bugetara-trim-iii-2015.pdf",
+     "sha256": "92c4d0fc9678fd6bb8534592eefd940b2d346f23ef6c2954e2b5dde368658f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-7-2015",
+   "path": "local/olt/draganesti-olt/2015/7",
+   "short": "HCL Drăgănești-Olt nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 7/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-7-din-30.01.2015-calendar-activ-soc-cult-2015-si-finantare.pdf",
+     "sha256": "0cd1714d244635a131a929017fda16d4e6e021b57752b3832f173dd286b69e5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-70-2015",
+   "path": "local/olt/draganesti-olt/2015/70",
+   "short": "HCL Drăgănești-Olt nr. 70/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 70/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-70-din-29.10.2015-desfasurare-targ-sarbatori-de-iarna-2015-2016.pdf",
+     "sha256": "51796ebddbcf03b6b3b3d4b18d998ff6253ed024f566bb1236b0a19efa42e26d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-71-2015",
+   "path": "local/olt/draganesti-olt/2015/71",
+   "short": "HCL Drăgănești-Olt nr. 71/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 71/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-71-din-29.10.2015-cesiune-contract-concesiune-teren-dom-privat-sc-gerimav-srl-catre-sc-rul-grup-sa.pdf",
+     "sha256": "953f9b8491b5605966c6134684584343738f8f2e0ab992ff53454ef8946c5c66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-72-2015",
+   "path": "local/olt/draganesti-olt/2015/72",
+   "short": "HCL Drăgănești-Olt nr. 72/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 72/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-72-din-29.10.2015-cesiune-contract-concesiune-teren-dom-public-sc-gerimav-srl-catre-sc-rul-grup-sa.pdf",
+     "sha256": "39311b0c24c4d2dfba4e4c09f75089b912170360707ef8b53e73afa77f644246"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-73-2015",
+   "path": "local/olt/draganesti-olt/2015/73",
+   "short": "HCL Drăgănești-Olt nr. 73/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 73/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-73-din-26.11.2015-desemn-pres-de-sedinta.pdf",
+     "sha256": "8f76cead6f66ac1aa644306ac53381174b45c4fb1044853d5382ff40563e022c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-74-2015",
+   "path": "local/olt/draganesti-olt/2015/74",
+   "short": "HCL Drăgănești-Olt nr. 74/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 74/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-74-din-26.11.2015-rectif-buget.pdf",
+     "sha256": "bdea3ff575a18a596287fdd723d2104c8f13c512415b1790c0269c6cbe6e5d18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-75-2015",
+   "path": "local/olt/draganesti-olt/2015/75",
+   "short": "HCL Drăgănești-Olt nr. 75/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 75/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-75-din-26.11.2015-stabilre-impoz-si-taxe-locale-2016-part-1.pdf",
+     "sha256": "7fb7052c57adfee3809e662ffcfeb4480e72144a9e4658fa32b1352b48caef71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-76-2015",
+   "path": "local/olt/draganesti-olt/2015/76",
+   "short": "HCL Drăgănești-Olt nr. 76/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 76/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-76-din-26.11.2015-anulare-partiala-majorari-intarziere-obligatii-plata-locale.pdf",
+     "sha256": "17fbb81431bcc19ffd0cb318e859a6921b0e733e7bee9ff86cc70b601e185d06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-77-2015",
+   "path": "local/olt/draganesti-olt/2015/77",
+   "short": "HCL Drăgănești-Olt nr. 77/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 77/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-77-din-26.11.2015-investitie-centrala-electrica-fotovoltaica-2000kw.pdf",
+     "sha256": "90d5b8dffc4a69773933aa46b940d7637b28876c43d70ba8ad542bb6dbbe33eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-78-2015",
+   "path": "local/olt/draganesti-olt/2015/78",
+   "short": "HCL Drăgănești-Olt nr. 78/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 78/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotararea-consiliului-local-nr-78-din-26.11.2015-regulament-organiz-si-desf-targ-craciun-sarbatoti-iarna-2015-2016.pdf",
+     "sha256": "8701c9486a08c65160f0e26e5978e9caea075d2a5cf715cf263011d1e035d01a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-79-2015",
+   "path": "local/olt/draganesti-olt/2015/79",
+   "short": "HCL Drăgănești-Olt nr. 79/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 79/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "fdaf9c1ca065d492f45abaf9f1ca4d5627da6000b5eccd32850b4ffe014b0235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-8-2015",
+   "path": "local/olt/draganesti-olt/2015/8",
+   "short": "HCL Drăgănești-Olt nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 8/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-8-din-30.01.2015-modif-hcl-24-din-2014-cofin-reabil-moderniz-casa-cultura.pdf",
+     "sha256": "5762b5fd5aee354aa11d9d686ff058a6442c3940604f50b036933ad67d53dcb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-80-2015",
+   "path": "local/olt/draganesti-olt/2015/80",
+   "short": "HCL Drăgănești-Olt nr. 80/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 80/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "6586d34e6e924d2d9bc3c833e3e8afb11d40bd88d46a3a7d29a9e7ee02eca5c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-81-2015",
+   "path": "local/olt/draganesti-olt/2015/81",
+   "short": "HCL Drăgănești-Olt nr. 81/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 81/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-81-din-16.12.2015-desemn-pres-sed-decembrie.pdf",
+     "sha256": "47db27850ce539212f1c4ad074996795090432943692a84c3c5976205c2406a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-82-2015",
+   "path": "local/olt/draganesti-olt/2015/82",
+   "short": "HCL Drăgănești-Olt nr. 82/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 82/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "e39c4b3b1e37bff66f3b0eecde96665362778ecf307c2b84701cc9a7601ae1fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-83-2015",
+   "path": "local/olt/draganesti-olt/2015/83",
+   "short": "HCL Drăgănești-Olt nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 83/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-83-din-16.12.2015-cont-exec-buget-decmbrie-2015.pdf",
+     "sha256": "6b114630b0fb02fb56e856aa797344b18a283005df3a2c024ce0f19e4a71ca64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-84-2015",
+   "path": "local/olt/draganesti-olt/2015/84",
+   "short": "HCL Drăgănești-Olt nr. 84/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 84/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-84-din-16.12.2015-aprob-suma-daruri-sarbatori-iarna.pdf",
+     "sha256": "00a9b6291fdb1e968dc66595b9085b7c6698a12078322ae2818401fb70d8ba0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-85-2015",
+   "path": "local/olt/draganesti-olt/2015/85",
+   "short": "HCL Drăgănești-Olt nr. 85/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 85/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-85-din-16.12.2015-procedura-anul-partiala-majorari-intarz-oblig-plata.pdf",
+     "sha256": "1f06a8f98a5eefa6c57a990ddca3d5a6ae495d6bd4da105e36920023f34ef03f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-86-2015",
+   "path": "local/olt/draganesti-olt/2015/86",
+   "short": "HCL Drăgănești-Olt nr. 86/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 86/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-86-din-16.12.2015-trasee-orar-si-regulament-utiliz-microbuz-transport-scolari.pdf",
+     "sha256": "cfc8f427932ffb7436fbeaf341d13af663edc488becdde6fb14f4b67985d20d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-87-2015",
+   "path": "local/olt/draganesti-olt/2015/87",
+   "short": "HCL Drăgănești-Olt nr. 87/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 87/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "bd7f99b018d02ab47fd27a6edda9f93114335082dbc2abdd290ea9604d75965f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-88-2015",
+   "path": "local/olt/draganesti-olt/2015/88",
+   "short": "HCL Drăgănești-Olt nr. 88/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 88/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-88-din-16.12.2015-extindere-obiect-activ-cao.pdf",
+     "sha256": "55da528c043754fa8d7ab74bfb96d342b271564f095cfa4a8ff538e0eb915491"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-89-2015",
+   "path": "local/olt/draganesti-olt/2015/89",
+   "short": "HCL Drăgănești-Olt nr. 89/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 89/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-89-din-16.12.2015-prelungire-valab-pug-1997.pdf",
+     "sha256": "932c76372623df7722ef3ab5ca16070410d560d56641bf968d0c78bb1744826c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-9-2015",
+   "path": "local/olt/draganesti-olt/2015/9",
+   "short": "HCL Drăgănești-Olt nr. 9/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 9/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-02-13",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hcl-9-din-13.02.2015-bvc-oras-draganesti-2015.pdf",
+     "sha256": "295518544b33db7a09d03da3216eddad8ddb6e752558e13a8d764890734ee078"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-90-2015",
+   "path": "local/olt/draganesti-olt/2015/90",
+   "short": "HCL Drăgănești-Olt nr. 90/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 90/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-90-din-16.12.2015-regul-prestare-contravenineti-munca-in-folos-comunitate.pdf",
+     "sha256": "50cb42799051261a7e176b19a53f0bcf3ccebb55d3da0d4c3f866ebebc1eb7b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-91-2015",
+   "path": "local/olt/draganesti-olt/2015/91",
+   "short": "HCL Drăgănești-Olt nr. 91/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 91/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-91-din-16.12.2015-plan-lucrari-si-actiuni-vmg-2016.pdf",
+     "sha256": "bb63583387169bfa5c8a800e0bd385f4e8980cba6395c9f4f30cce26e22f4697"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-92-2015",
+   "path": "local/olt/draganesti-olt/2015/92",
+   "short": "HCL Drăgănești-Olt nr. 92/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 92/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-92-din-16.12.2015-suplimentare-cofinant-reabil-moderniz-casa-de-cultura-i-constantinescu.pdf",
+     "sha256": "fe10bf3cefc2eaebad31c9150bf36cfbd2b9a412c42bea087e24dc37d977bc38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-93-2015",
+   "path": "local/olt/draganesti-olt/2015/93",
+   "short": "HCL Drăgănești-Olt nr. 93/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 93/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+     "sha256": "c6515500b61d867ea2f779912b3085858cc28ffdca8cbf3a55989dc25b111981"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--draganesti-olt-94-2015",
+   "path": "local/olt/draganesti-olt/2015/94",
+   "short": "HCL Drăgănești-Olt nr. 94/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Drăgănești-Olt nr. 94/2015",
+   "url": "https://draganesti-olt.ro/hotarari/hotarari-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://draganesti-olt.ro/draganesti-olt/consiliul-local/hotarari/hotarari-2015/hotarare-consiliul-local-nr-94-din-28.12.2015-rectif-buget.pdf",
+     "sha256": "6e6cf7c72935bd4004830b536d009103cab9006e0fd8373bf30a6a2ab0112da5"
+    }
+   ]
+  }
+ ]
+}

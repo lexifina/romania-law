@@ -619,6 +619,28 @@
 }
 },
 {
+"slug": "hcl-neamt--roman-38-2007",
+"path": "local/neamt/roman/2007/38",
+"kind": "local",
+"year": "2007",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2007",
+"short": "HCL Roman nr. 38/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-03-30",
+"latest": "2007-03-30",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--roman-40-2007",
 "path": "local/neamt/roman/2007/40",
 "kind": "local",
@@ -1651,6 +1673,28 @@
 "versions": 1,
 "from": "2007-12-05",
 "latest": "2007-12-05",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-159-2007",
+"path": "local/neamt/roman/2007/159",
+"kind": "local",
+"year": "2007",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 159/2007 Privind modificarea listelor de investitii efectuate din fondul de rulment si din imprumut",
+"short": "HCL Roman nr. 159/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-12-18",
+"latest": "2007-12-18",
 "portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
 "council": "neamt/roman",
 "council_name": "Consiliul Local al Municipiului Roman",

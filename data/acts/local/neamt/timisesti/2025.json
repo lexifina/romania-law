@@ -3,6 +3,118 @@
 "shard": "local/neamt/timisesti/2025",
 "acts": [
 {
+"slug": "hcl-neamt--timisesti-1-2025",
+"path": "local/neamt/timisesti/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 1/2025 privind încetarea contractului de concesiune nr. 3275 din 26.05.2023",
+"short": "HCL Timișești nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/189599",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-2-2025",
+"path": "local/neamt/timisesti/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 2/2025",
+"short": "HCL Timișești nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/189600",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-3-2025",
+"path": "local/neamt/timisesti/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 3/2025 privind vânzarea fără licitație publică a unui teren în suprafață de 1000 m.p., situat în sat Plăieșu, comuna Timișești, județul Neamț către GÎSCĂ CONSTANTIN-CĂTĂLIN",
+"short": "HCL Timișești nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/189601",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-4-2025",
+"path": "local/neamt/timisesti/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 4/2025",
+"short": "HCL Timișești nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/189602",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-5-2025",
+"path": "local/neamt/timisesti/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 5/2025 privind vânzarea fără licitație publică a unui teren în suprafață de 1000 m.p., situat în sat Plăieșu, comuna Timișești, județul Neamț către PRALEA EDUARD-ILARION",
+"short": "HCL Timișești nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/189603",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-6-2025",
 "path": "local/neamt/timisesti/2025/6",
 "kind": "local",
@@ -91,6 +203,118 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-10-2025",
+"path": "local/neamt/timisesti/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 10/2025",
+"short": "HCL Timișești nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/189608",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-11-2025",
+"path": "local/neamt/timisesti/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 11/2025 privind încetarea contractului de concesiune nr. 2339 din 27.09.1994",
+"short": "HCL Timișești nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/189609",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-12-2025",
+"path": "local/neamt/timisesti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 12/2025 privind vânzarea prin licitație publică a bunului imobil în suprafață de 2.340 m.p. teren, aflat în proprietatea privată a comunei Timisesti",
+"short": "HCL Timișești nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/196717",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-13-2025",
+"path": "local/neamt/timisesti/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 13/2025",
+"short": "HCL Timișești nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/196718",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-14-2025",
+"path": "local/neamt/timisesti/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 14/2025 pentru modificarea Hotărârii nr. 53 din 5.10.2012 privind constituirea comisiei locale de ordine publică",
+"short": "HCL Timișești nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/196719",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-15-2025",
 "path": "local/neamt/timisesti/2025/15",
 "kind": "local",
@@ -110,6 +334,28 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-16-2025",
+"path": "local/neamt/timisesti/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 16/2025 privind încetarea contractului de concesiune nr. 623 din 12.02.2018",
+"short": "HCL Timișești nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/196721",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -155,6 +401,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-19-2025",
+"path": "local/neamt/timisesti/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 19/2025 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap și a beneficiarilor Decretului-lege nr. 118/1990",
+"short": "HCL Timișești nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/196724",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-20-2025",
+"path": "local/neamt/timisesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 20/2025 privind alegerea președintelui de ședință",
+"short": "HCL Timișești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/196725",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +580,50 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-27-2025",
+"path": "local/neamt/timisesti/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 27/2025 privind vânzarea fără licitație publică a unui teren în suprafață de 1000 m.p., situat în sat Plăieșu, comuna Timișești, județul Neamț către DIACONU ADINA-NICOLETA",
+"short": "HCL Timișești nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/200335",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-28-2025",
+"path": "local/neamt/timisesti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 28/2025 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap",
+"short": "HCL Timișești nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/200336",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-29-2025",
 "path": "local/neamt/timisesti/2025/29",
 "kind": "local",
@@ -353,6 +687,96 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-32-2025",
+"path": "local/neamt/timisesti/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 32/2025 privind aprobarea concesionării suprafeței de 62,8024ha. pajiște situată în Bahnă Preutești, proprietate publică a comunei Timișești",
+"short": "HCL Timișești nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-25",
+"latest": "2025-04-25",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/203898",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-33-2025",
+"path": "local/neamt/timisesti/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 33/2025 privind vânzarea fără licitație publică a unui teren în suprafață de 1000 m.p., situat în sat Plăieșu, comuna Timișești, județul Neamț către CIBOTARIU LĂCRĂMIOARA",
+"short": "HCL Timișești nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/203899",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-34-2025",
+"path": "local/neamt/timisesti/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 34/2025",
+"short": "HCL Timișești nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/203900",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-35-2025",
+"path": "local/neamt/timisesti/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 35/2025",
+"short": "HCL Timișești nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/203901",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -510,6 +934,28 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-43-2025",
+"path": "local/neamt/timisesti/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 43/2025 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap",
+"short": "HCL Timișești nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/208581",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-44-2025",
 "path": "local/neamt/timisesti/2025/44",
 "kind": "local",
@@ -622,6 +1068,50 @@
 }
 },
 {
+"slug": "hcl-neamt--timisesti-49-2025",
+"path": "local/neamt/timisesti/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 49/2025 privind alegerea președintelui de ședință",
+"short": "HCL Timișești nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/208587",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-50-2025",
+"path": "local/neamt/timisesti/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 50/2025 privind aprobarea concesionării suprafeței de 38,2984 ha. pajiște situată în Bahnă Preutești, proprietate publică a comunei Timișești",
+"short": "HCL Timișești nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/208588",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--timisesti-51-2025",
 "path": "local/neamt/timisesti/2025/51",
 "kind": "local",
@@ -663,6 +1153,28 @@
 "council_name": "Consiliul Local al Comunei Timișești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-53-2025",
+"path": "local/neamt/timisesti/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 53/2025 privind aprobarea modificării contractului de concesiune nr. 1292 din 01.03.2023",
+"short": "HCL Timișești nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/214108",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -754,6 +1266,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-58-2025",
+"path": "local/neamt/timisesti/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 58/2025 privind încetarea contractului de concesiune nr. 1398 din 10.07.2000",
+"short": "HCL Timișești nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/214113",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-59-2025",
+"path": "local/neamt/timisesti/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 59/2025 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap",
+"short": "HCL Timișești nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/220180",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -975,6 +1531,94 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-70-2025",
+"path": "local/neamt/timisesti/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 70/2025 privind desemnarea reprezentantului consiliului local al comunei în consiliul de administrație al Școlii gimnaziale comuna Timișești",
+"short": "HCL Timișești nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-01",
+"latest": "2025-10-01",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/228157",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-71-2025",
+"path": "local/neamt/timisesti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 71/2025 privind desemnarea reprezentantului Consiliului local al comunei Timisesti in Comisia pentru evaluarea si asigurarea calitatii educatiei în unitatile de invatamint preuniversitar de stat din comuna Timișești",
+"short": "HCL Timișești nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-01",
+"latest": "2025-10-01",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/228158",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-72-2025",
+"path": "local/neamt/timisesti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 72/2025 privind aprobarea acordării unor facilități fiscale persoanelor cu handicap",
+"short": "HCL Timișești nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-01",
+"latest": "2025-10-01",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/228159",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--timisesti-73-2025",
+"path": "local/neamt/timisesti/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Timișești nr. 73/2025 privind alegerea președintelui de ședință",
+"short": "HCL Timișești nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-01",
+"latest": "2025-10-01",
+"portal": "https://emol.ro/timisesti-nt/registru-hcl/228160",
+"council": "neamt/timisesti",
+"council_name": "Consiliul Local al Comunei Timișești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

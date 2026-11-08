@@ -453,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-159-2007",
+   "path": "local/neamt/roman/2007/159",
+   "short": "HCL Roman nr. 159/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 159/2007 Privind modificarea listelor de investitii efectuate din fondul de rulment si din imprumut",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/159%20HCL%202007-12%20modif%20liste%20investitii.PDF",
+     "sha256": "f4ed8e7982a93ff3b3430d857a6b485732e35213b98fa459cd638ce8f21f3619"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-16-2007",
    "path": "local/neamt/roman/2007/16",
    "short": "HCL Roman nr. 16/2007",
@@ -839,6 +854,21 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/037%20HCL%202007-03%20%20cheltuieli%20buget%20local.pdf",
      "sha256": "fb10d90e921f7e913cf4591a9d0126bd0f34b55abb0c860fcd2537458c1556cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-38-2007",
+   "path": "local/neamt/roman/2007/38",
+   "short": "HCL Roman nr. 38/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/038%20HCL%202007-03%20organigrama.pdf",
+     "sha256": "6255736b4ff31bf70161fb2055cda4ad341a86040aefed1adafc06035b6d5477"
     }
    ]
   },

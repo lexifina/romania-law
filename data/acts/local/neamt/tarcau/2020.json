@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-4-2020",
+"path": "local/neamt/tarcau/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 4/2020",
+"short": "HCL Tarcău nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5369",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-5-2020",
 "path": "local/neamt/tarcau/2020/5",
 "kind": "local",
@@ -88,6 +111,73 @@
 "council_name": "Consiliul Local al Comunei Tarcău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-6-2020",
+"path": "local/neamt/tarcau/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 6/2020 privind aprobarea vânzării, prin licitaţie publică, a două loturi de teren situate în satul Brateş, aparţinând domeniului privat al comunei Tarcău",
+"short": "HCL Tarcău nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5371",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-7-2020",
+"path": "local/neamt/tarcau/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 7/2020",
+"short": "HCL Tarcău nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5372",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-8-2020",
+"path": "local/neamt/tarcau/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 8/2020 privind privind aprobarea Regulamentului – cadru de organizare şi funcţionare a Compartimentului Servicii de Asistenţă Socială şi Stare Civilă",
+"short": "HCL Tarcău nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5373",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +225,163 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-11-2020",
+"path": "local/neamt/tarcau/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 11/2020 privind aprobarea reconfigurării loturilor de teren din perimetrul fostei pensiuni „Linia Verde” din satul Brateş, înscrierea terenului aparţinând comunei Tarcău în inventarul terenurilor din domeniul privat al comunei şi aprobarea de principiu a vânzării acestuia",
+"short": "HCL Tarcău nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5376",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-12-2020",
+"path": "local/neamt/tarcau/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 12/2020 privind punerea în aplicare a pct. 13 din OUG nr. 1/2020 prin modificarea şi completarea HCL nr. 105/13 decembrie 2019 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Tarcău, judeţul Neamţ, începând cu 1 ianuarie 2020",
+"short": "HCL Tarcău nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5377",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-13-2020",
+"path": "local/neamt/tarcau/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 13/2020",
+"short": "HCL Tarcău nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5378",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-14-2020",
+"path": "local/neamt/tarcau/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 14/2020",
+"short": "HCL Tarcău nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5379",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-15-2020",
+"path": "local/neamt/tarcau/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 15/2020",
+"short": "HCL Tarcău nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5380",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-16-2020",
+"path": "local/neamt/tarcau/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 16/2020 privind organizarea manifestărilor dedicate zilei de 8 Martie, Ziua Internaţională a Femeii",
+"short": "HCL Tarcău nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5381",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-17-2020",
+"path": "local/neamt/tarcau/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 17/2020 privind aprobarea repartizarii sumelor pentru susținerea unor unități de cult din comuna Tarcău în anul 2020",
+"short": "HCL Tarcău nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5382",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-18-2020",
 "path": "local/neamt/tarcau/2020/18",
 "kind": "local",
@@ -179,6 +426,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-20-2020",
+"path": "local/neamt/tarcau/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 20/2020 privind aprobarea donării unei imprimante către Inspectoratul de Poliție al Județului Neamț, pentru Postul de Poliție Tarcău",
+"short": "HCL Tarcău nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5385",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-21-2020",
 "path": "local/neamt/tarcau/2020/21",
 "kind": "local",
@@ -198,6 +467,142 @@
 "council_name": "Consiliul Local al Comunei Tarcău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-22-2020",
+"path": "local/neamt/tarcau/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 22/2020 privind aprobarea închirierii de către Comuna Tarcău, prin licitație publică, a unei suprafețe de teren în vederea depozitării materialelor necesare pentru drumurile de interes local, precum şi a celor rezultate din acţiuni de ecologizare",
+"short": "HCL Tarcău nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5387",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-23-2020",
+"path": "local/neamt/tarcau/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 23/2020 privind modificarea inventarului terenurilor din domeniul privat al comunei Tarcău, prin dezmembrarea unui lot în satul Ardeluţa",
+"short": "HCL Tarcău nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5388",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-24-2020",
+"path": "local/neamt/tarcau/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 24/2020",
+"short": "HCL Tarcău nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5389",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-25-2020",
+"path": "local/neamt/tarcau/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 25/2020",
+"short": "HCL Tarcău nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5390",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-26-2020",
+"path": "local/neamt/tarcau/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 26/2020",
+"short": "HCL Tarcău nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5391",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-27-2020",
+"path": "local/neamt/tarcau/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 27/2020",
+"short": "HCL Tarcău nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-28",
+"latest": "2020-02-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5392",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -289,6 +694,94 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-32-2020",
+"path": "local/neamt/tarcau/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 32/2020 privind unele măsuri pentru realizarea şi operaţionalizarea proiectului de investiţii Extindere LEA joasă tensiune pentru distribuţie publică şi iluminat public în zona PT9 Brateş",
+"short": "HCL Tarcău nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5397",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-33-2020",
+"path": "local/neamt/tarcau/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 33/2020 privind alegerea preşedintelui de şedinţă al consiliului local Tarcău pentru perioada aprilie – iunie 2020",
+"short": "HCL Tarcău nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5398",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-34-2020",
+"path": "local/neamt/tarcau/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 34/2020 rivind aprobarea demarării procedurilor în vederea contractării unui credit intern pentru finanţarea cheltuielilor neeligibile aferente proiectului ”Înfiinţare sistem de alimentare cu apă potabilă şi canalizare cu staţie de epurare, satele Tarcău şi Straja, comuna Tarcău, judeţul Neamţ”",
+"short": "HCL Tarcău nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5399",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-35-2020",
+"path": "local/neamt/tarcau/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 35/2020 privind stabilirea indemnizaţiei lunare a consilierilor locali pentru participarea la şedinţele consiliului local în luna aprilie 2020 şi măsuri conexe în contextul epidemiei de COVID-19",
+"short": "HCL Tarcău nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5400",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-36-2020",
 "path": "local/neamt/tarcau/2020/36",
 "kind": "local",
@@ -355,6 +848,117 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-39-2020",
+"path": "local/neamt/tarcau/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 39/2020 privind asumarea Raportului de evaluare, precum şi stabilirea reprezentanţilor Consiliului Local Tarcău în componenţa Comisiei de evaluare pentru organizarea licitaţiei, respectiv a Comisiei pentru soluţionarea contestaţiilor, pentru vânzarea terenului în suprafaţă de 3.414 mp, situat în intravilan sat Brateş, în conformitate cu HCL nr. 11/31 ianuarie 2020",
+"short": "HCL Tarcău nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5404",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-40-2020",
+"path": "local/neamt/tarcau/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 40/2020",
+"short": "HCL Tarcău nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5405",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-41-2020",
+"path": "local/neamt/tarcau/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 41/2020 privind aprobarea în principiu a extinderii reţelei electrice de distribuţie, în zona Irinac – sat Schitu Tarcău",
+"short": "HCL Tarcău nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5406",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-42-2020",
+"path": "local/neamt/tarcau/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 42/2020 privind aprobarea retragerii Municipiului Roman din cadrul Asociației de Dezvoltare Intercomunitară (ADI) Aqua Neamț precum și a modificării corespunzătoare a Actelor Statutare ale Asociaţiei de Dezvoltare Intercomunitară ”AQUA NEAMŢ”",
+"short": "HCL Tarcău nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5407",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-43-2020",
+"path": "local/neamt/tarcau/2020/43",
+"kind": "local",
+"year": "2020",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 43/2020 privind întocmirea şi atestarea inventarului actualizat al bunurilor care aparţin domeniului public al Comunei Tarcău, precum şi întocmirea inventarului actualizat al bunurilor care aparţin domeniului privat al Comunei Tarcău",
+"short": "HCL Tarcău nr. 43/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/5408",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-44-2020",
 "path": "local/neamt/tarcau/2020/44",
 "kind": "local",
@@ -399,6 +1003,29 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-46-2020",
+"path": "local/neamt/tarcau/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 46/2020",
+"short": "HCL Tarcău nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26513",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-47-2020",
 "path": "local/neamt/tarcau/2020/47",
 "kind": "local",
@@ -440,6 +1067,29 @@
 "council_name": "Consiliul Local al Comunei Tarcău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-49-2020",
+"path": "local/neamt/tarcau/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 49/2020",
+"short": "HCL Tarcău nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26516",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -506,6 +1156,28 @@
 "council_name": "Consiliul Local al Comunei Tarcău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-53-2020",
+"path": "local/neamt/tarcau/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 53/2020 privind alegerea președintelui de ședință al consiliului local Tarcău pentru perioada iulie-septembrie 2020",
+"short": "HCL Tarcău nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26520",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -619,6 +1291,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-59-2020",
+"path": "local/neamt/tarcau/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 59/2020 privind rectificarea unei erori materiale din cuprinsul HCL nr. 6/31 ianuarie 2020 privind aprobarea vânzării, prin licitație publică, a două loturi de teren situate în satul Brateș, aparținând domeniului privat al comunei Tarcău",
+"short": "HCL Tarcău nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26529",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -754,6 +1448,50 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-66-2020",
+"path": "local/neamt/tarcau/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 66/2020 privind cedarea către Consiliul Judeţean Neamţ a responsabilității organizării procedurilor de atribuire a contractelor/acordurilor cadru privind achiziția produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative la nivel local aferente anului şcolar 2020 – 2021 în cadrul Programului pentru scoli al României în perioada 2017-2023",
+"short": "HCL Tarcău nr. 66/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26536",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-67-2020",
+"path": "local/neamt/tarcau/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 67/2020 privind acceptarea unei donatii cu sarcini",
+"short": "HCL Tarcău nr. 67/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26537",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-68-2020",
 "path": "local/neamt/tarcau/2020/68",
 "kind": "local",
@@ -773,6 +1511,166 @@
 "council_name": "Consiliul Local al Comunei Tarcău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-69-2020",
+"path": "local/neamt/tarcau/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 69/2020",
+"short": "HCL Tarcău nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26539",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-70-2020",
+"path": "local/neamt/tarcau/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 70/2020",
+"short": "HCL Tarcău nr. 70/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26540",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-71-2020",
+"path": "local/neamt/tarcau/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 71/2020",
+"short": "HCL Tarcău nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26541",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-72-2020",
+"path": "local/neamt/tarcau/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 72/2020 privind aprobarea concesionării unui teren neproductiv în suprafaţă de 1382 mp, situat în satul Ardeluţa şi aflat în inventarul terenurilor din domeniului privat al Comunei Tarcău (LOT 14/2 - Ardeluţa), în conformitate cu prevederile art. 15 din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcţii",
+"short": "HCL Tarcău nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26542",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-73-2020",
+"path": "local/neamt/tarcau/2020/73",
+"kind": "local",
+"year": "2020",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 73/2020",
+"short": "HCL Tarcău nr. 73/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-14",
+"latest": "2020-09-14",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26543",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-74-2020",
+"path": "local/neamt/tarcau/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 74/2020",
+"short": "HCL Tarcău nr. 74/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-14",
+"latest": "2020-09-14",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26544",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-75-2020",
+"path": "local/neamt/tarcau/2020/75",
+"kind": "local",
+"year": "2020",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 75/2020",
+"short": "HCL Tarcău nr. 75/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-14",
+"latest": "2020-09-14",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26545",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -821,6 +1719,52 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-78-2020",
+"path": "local/neamt/tarcau/2020/78",
+"kind": "local",
+"year": "2020",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 78/2020",
+"short": "HCL Tarcău nr. 78/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26548",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-79-2020",
+"path": "local/neamt/tarcau/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 79/2020",
+"short": "HCL Tarcău nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26549",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-80-2020",
 "path": "local/neamt/tarcau/2020/80",
 "kind": "local",
@@ -865,6 +1809,28 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-82-2020",
+"path": "local/neamt/tarcau/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 82/2020 privind alegerea preşedintelui de şedinţă al consiliului local Tarcău pentru perioada noiembrie - decembrie 2020",
+"short": "HCL Tarcău nr. 82/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26586",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-83-2020",
 "path": "local/neamt/tarcau/2020/83",
 "kind": "local",
@@ -887,6 +1853,73 @@
 }
 },
 {
+"slug": "hcl-neamt--tarcau-84-2020",
+"path": "local/neamt/tarcau/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 84/2020 privind desemnarea reprezentantului legal al Comunei Tarcău, în calitate de beneficiar al ajutorului financiar nerambursabil, acordat în condițiile Programului Național pentru Dezvoltare Rurală, pentru proiectul de investiții ”Înființare sistem de alimentare cu apă potabilă și canalizare menajeră cu stație de epurare, satele Tarcău și Straja, comuna Tarcău, județul Neamț”",
+"short": "HCL Tarcău nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26588",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-85-2020",
+"path": "local/neamt/tarcau/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 85/2020 privind desemnarea reprezentantului legal al comunei Tarcău, în calitate de beneficiar al ajutorului financiar nerambursabil, acordat în condițiile Programului Național pentru Dezvoltare Rurală, pentru proiectul de investiții ”Reabilitare și modernizare cămin cultural, sat Tarcău, comuna Tarcău, județul Neamț”",
+"short": "HCL Tarcău nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26589",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-86-2020",
+"path": "local/neamt/tarcau/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 86/2020",
+"short": "HCL Tarcău nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26590",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--tarcau-87-2020",
 "path": "local/neamt/tarcau/2020/87",
 "kind": "local",
@@ -906,6 +1939,28 @@
 "council_name": "Consiliul Local al Comunei Tarcău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--tarcau-88-2020",
+"path": "local/neamt/tarcau/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tarcău nr. 88/2020 privind desemnarea reprezentantului legal al comunei Tarcău, în calitate de beneficiar în cadrul Contractului de finanțare nerambursabilă nr. 2/F/GES/ din 29.06.2020, având ca obiect realizarea unui număr de 21 de sisteme fotovoltaice, aferente unui număr de 21 de gospodării izolate de pe raza administrativ – teritorială a comunei Tarcău",
+"short": "HCL Tarcău nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/tarcau-nt/registru-hcl/26592",
+"council": "neamt/tarcau",
+"council_name": "Consiliul Local al Comunei Tarcău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
