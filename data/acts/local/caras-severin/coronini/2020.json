@@ -3,6 +3,72 @@
 "shard": "local/caras-severin/coronini/2020",
 "acts": [
 {
+"slug": "hcl-caras-severin--coronini-4-2020",
+"path": "local/caras-severin/coronini/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 4/2020 privind stabilirea normativului propriu de cheltuieli privind consumul de carburanți pentru autoturismele/utilajele primăriei Coronini pe anul 2020",
+"short": "HCL Coronini nr. 4/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10350",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-6-2020",
+"path": "local/caras-severin/coronini/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 6/2020 privind aprobarea Bugetului Consiliului Local al comunei Coronini pe capitole și subcapitole pe anul 2020",
+"short": "HCL Coronini nr. 6/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10352",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-9-2020",
+"path": "local/caras-severin/coronini/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 9/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României",
+"short": "HCL Coronini nr. 9/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/10355",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-24-2020",
 "path": "local/caras-severin/coronini/2020/24",
 "kind": "local",

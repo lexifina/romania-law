@@ -3,6 +3,261 @@
  "shard": "local/caras-severin/lupac/2026",
  "acts": [
   {
+   "slug": "hcl-caras-severin--lupac-10-2026",
+   "path": "local/caras-severin/lupac/2026/10",
+   "short": "HCL Lupac nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 10/2026 privind aprobarea Strategia de Dezvoltare Teritorială Integrată a microregiunii Banatul Montan",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/252808",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/252808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-11-2026",
+   "path": "local/caras-severin/lupac/2026/11",
+   "short": "HCL Lupac nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 11/2026 privind dezlipirea din izlaz înscris în CF nr. 267 Clocotici nr. top 299/5/2/b/2/d/2/2/2/7/2/15/4/5/2/2/b/2/1/3/b/c/1/1/a/1/1/b/2/b/b/4/b/2, nr. cad. 208, a terenului în suprafaţă de 20 mp atestarea apartenenței la domeniul privat al comunei Lupac a suprafeței de teren de 20 mp, teren intravilan situat administrativ în Clocotici",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/252809",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/252809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-13-2026",
+   "path": "local/caras-severin/lupac/2026/13",
+   "short": "HCL Lupac nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 13/2026 privind aprobarea procesului-verbal din data de 29 ianuarie 2026",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/256607",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/256607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-14-2026",
+   "path": "local/caras-severin/lupac/2026/14",
+   "short": "HCL Lupac nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 14/2026 privind aprobarea Regulamentului de organizare și funcționare al Compartimentului asistență socială din cadrul aparatului de specialitate al Primarului Comunei Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/256608",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/256608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-15-2026",
+   "path": "local/caras-severin/lupac/2026/15",
+   "short": "HCL Lupac nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 15/2026 privind aprobarea Regulamentului propriu privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale autorității deliberative",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/256609",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/256609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-17-2026",
+   "path": "local/caras-severin/lupac/2026/17",
+   "short": "HCL Lupac nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 17/2026 privind dezlipirea din izlaz înscris în CF nr. 208 Lupac nr. top 684/a/1/1/a/2/a/1/1/a/b/1/b, nr. cad. 200 și atestarea apartenenței la domeniul privat al comunei Lupac a suprafeței de teren de 415 mp, teren intravilan situat administrativ în Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/256611",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/256611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-18-2026",
+   "path": "local/caras-severin/lupac/2026/18",
+   "short": "HCL Lupac nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 18/2026 privind modificarea HCL nr.8/31.01.2023 privind stabilirea taxelor speciale utilizate de Serviciul Public Gospodărie Comunală Lupac, stabilire baremuri consum paușal apă , și procent preluare ape uzate în sistemul de canalizare, Lupac și Clocotici",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/256612",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/256612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-2-2026",
+   "path": "local/caras-severin/lupac/2026/2",
+   "short": "HCL Lupac nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 2/2026 privind aprobarea procesului-verbal din data de 18 decembrie 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/252800",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/252800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-22-2026",
+   "path": "local/caras-severin/lupac/2026/22",
+   "short": "HCL Lupac nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 22/2026 privind însușirea documentației cadastrale de dezmembrare a imobilului-teren cu nr. cadastral 33779, situat în intravilanul comunei Lupac, localitatea Clocotici",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/264174",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/264174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-23-2026",
+   "path": "local/caras-severin/lupac/2026/23",
+   "short": "HCL Lupac nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 23/2026 privind însușirea documentației cadastrale de dezmembrare a imobilului-teren cu nr. cadastral 33135, situat în intravilanul comunei Lupac, localitatea Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/264175",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/264175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-25-2026",
+   "path": "local/caras-severin/lupac/2026/25",
+   "short": "HCL Lupac nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 25/2026 privind completarea HCL nr.37/19.04.2023 privind aprobarea inventarului bunurilor imobile ce alcătuiesc domeniul privat al comunei Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/264177",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/264177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-26-2026",
+   "path": "local/caras-severin/lupac/2026/26",
+   "short": "HCL Lupac nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 26/2026 privind reorganizarea Aparatului de specialitate al primarului comunei Lupac în conformitate cu prevederile art. X și XL din Ordonanța de urgență a Guvernului nr. 7/2026",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/264178",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/264178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-27-2026",
+   "path": "local/caras-severin/lupac/2026/27",
+   "short": "HCL Lupac nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 27/2026 privind aprobarea procedurii de închiriere a unor suprafețe de pajiști apartinând comunei Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/264179",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/264179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-28-2026",
+   "path": "local/caras-severin/lupac/2026/28",
+   "short": "HCL Lupac nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 28/2026 privind privind aprobarea prelungirii valabilității documentației de urbanism „Plan Urbanistic General (P.U.G.) al comunei Lupac aprobat prin Hotararea Consiliului Local al comunei Lupac nr. 56 din 16.09.2013” și inițierea demersurilor pentru actualizarea Planului de Urbanism General (P.U.G.) si a Regulamentului Local de Urbanism (R.L.U.)",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/264180",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/264180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-29-2026",
+   "path": "local/caras-severin/lupac/2026/29",
+   "short": "HCL Lupac nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 29/2026 privind aprobarea procesului-verbal din data de 09 aprilie 2026",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/270044",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/270044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-3-2026",
+   "path": "local/caras-severin/lupac/2026/3",
+   "short": "HCL Lupac nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 3/2026 privind aprobarea numărului maxim de asistenți personali la nivelul comunei Lupac pentru anul 2026",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/252801",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/252801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-33-2026",
+   "path": "local/caras-severin/lupac/2026/33",
+   "short": "HCL Lupac nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 33/2026 privind aprobarea contului de execuţie bugetară pe trimestrul I al anului 2026",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/270048",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/270048",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-67-2026",
    "path": "local/caras-severin/lupac/2026/67",
    "short": "HCL Lupac nr. 67/2026",

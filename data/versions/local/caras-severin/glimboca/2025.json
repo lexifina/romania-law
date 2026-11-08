@@ -3,6 +3,51 @@
  "shard": "local/caras-severin/glimboca/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--glimboca-1-2025",
+   "path": "local/caras-severin/glimboca/2025/1",
+   "short": "HCL Glimboca nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 1/2025",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/206777",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/206777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-12-2025",
+   "path": "local/caras-severin/glimboca/2025/12",
+   "short": "HCL Glimboca nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 12/2025 privind ...utilizarea excedentului bug.local al comunei Glimboca pt acoperirea golurilor de casa provenite din sectiunea de functionare",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/228949",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-14-2025",
+   "path": "local/caras-severin/glimboca/2025/14",
+   "short": "HCL Glimboca nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 14/2025 privind ...aprobarea intocmirii registrului agricol al comunei Glimboca exclusiv in format electronic incepând cu anul 2025",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/228966",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228966",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--glimboca-15-2025",
    "path": "local/caras-severin/glimboca/2025/15",
    "short": "HCL Glimboca nr. 15/2025",
@@ -228,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--glimboca-3-2025",
+   "path": "local/caras-severin/glimboca/2025/3",
+   "short": "HCL Glimboca nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 3/2025 privind validarea Dispoziției nr. 2 din 09.01.2025 emisă de primarul comunei Glimboca, jud. Caraș-Severin",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/206779",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/206779",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--glimboca-30-2025",
    "path": "local/caras-severin/glimboca/2025/30",
    "short": "HCL Glimboca nr. 30/2025",
@@ -298,6 +358,66 @@
      "from": "2026-01-09",
      "units": 1,
      "source_url": "https://emol.ro/glimboca-cs/registru-hcl/245817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-5-2025",
+   "path": "local/caras-severin/glimboca/2025/5",
+   "short": "HCL Glimboca nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 5/2025 privind aprobarea bugetului propriu al comunei Glimboca, jud. Caraș-Severin pe anul 2025",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/206781",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/206781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-6-2025",
+   "path": "local/caras-severin/glimboca/2025/6",
+   "short": "HCL Glimboca nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 6/2025 privind aprobarea regulamentului de acordare a finanțărilor nerambursabile din bugetul comunei Glimboca, pentru activități sportive acordate în baza Legii nr. 69/2000 a educației fizice și sportului",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/206782",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/206782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-7-2025",
+   "path": "local/caras-severin/glimboca/2025/7",
+   "short": "HCL Glimboca nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 7/2025 privind aprobarea participării comunei Glimboca, județul Caraș-Severin în cadrul ”Programului privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană”",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/206783",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/206783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-8-2025",
+   "path": "local/caras-severin/glimboca/2025/8",
+   "short": "HCL Glimboca nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 8/2025 privind rectificarea bugetului comunei cu suma de 520,00 mii lei",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/228917",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228917",
      "sha256": null
     }
    ]

@@ -3,6 +3,36 @@
  "shard": "local/caras-severin/berzovia/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--berzovia-15-2022",
+   "path": "local/caras-severin/berzovia/2022/15",
+   "short": "HCL Berzovia nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 15/2022 privind aprobarea a 8 (opt) posturi de asistenți personali ai persoanelor cu handicap grav, pentru comuna Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95003",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-28-2022",
+   "path": "local/caras-severin/berzovia/2022/28",
+   "short": "HCL Berzovia nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 28/2022 privind aprobarea Planului de acțiuni sau de lucrări de interes local pe anul 2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95069",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95069",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzovia-66-2022",
    "path": "local/caras-severin/berzovia/2022/66",
    "short": "HCL Berzovia nr. 66/2022",

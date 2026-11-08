@@ -3,6 +3,366 @@
  "shard": "local/caras-severin/ezeris/2026",
  "acts": [
   {
+   "slug": "hcl-caras-severin--ezeris-1-2026",
+   "path": "local/caras-severin/ezeris/2026/1",
+   "short": "HCL Ezeriș nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 1/2026 privind aprobarea contului de executie a exercitiului bugetar la 31.12.2025",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/255995",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/255995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-12-2026",
+   "path": "local/caras-severin/ezeris/2026/12",
+   "short": "HCL Ezeriș nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 12/2026 privind aprobarea devizului general reactualizat pentru investiția ,, Construire parc fotovoltaic pentru acoperirea consumului propriu de energie al Comunei Ezeriș, Jud. Caras-Severin”",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/256144",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/256144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-13-2026",
+   "path": "local/caras-severin/ezeris/2026/13",
+   "short": "HCL Ezeriș nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 13/2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/256148",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/256148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-18-2026",
+   "path": "local/caras-severin/ezeris/2026/18",
+   "short": "HCL Ezeriș nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 18/2026 privind aprobarea Planului de acţiuni sau de lucrări de interes local pe anul 2026 pentru beneficiarii Legii nr. 196/2016, privind venitul minim de incluziune si pentru persoanele condamnate penal si obligate sa presteze o munca nerenumerata in folosul comunitatii",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263766",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-19-2026",
+   "path": "local/caras-severin/ezeris/2026/19",
+   "short": "HCL Ezeriș nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 19/2026 privind însușirea de către CL al Comunei Ezeriș a contractului de finanțare nr 2254/F/GES/31.12.2025 privind finanţarea nerambursabilă, denumită în continuare finanţare, în sumă de până la 988 145.06 lei, reprezentând 100.00 % din valoarea cheltuielilor eligibile, pentru realizarea proiectului „MODERNIZARE SISTEM DE ILUMINAT PUBLIC STRADAL COMUNA EZERIȘ, JUDEȚUL CARAȘ- SEVERIN“, în cadrul Programului privind creşterea eficienţei energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263769",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-2-2026",
+   "path": "local/caras-severin/ezeris/2026/2",
+   "short": "HCL Ezeriș nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 2/2026 privind implementarea proiectului ,,Achiziționare utilaje pentru dotarea Serviciului Voluntar Pentru Situații de Urgenta , comuna Ezeriș, județul Caras-Severin’’",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/256036",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/256036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-21-2026",
+   "path": "local/caras-severin/ezeris/2026/21",
+   "short": "HCL Ezeriș nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 21/2026 privind aprobarea Normelor specifice privind realizarea sau amplasarea în zona drumurilor publice de interes local a sau amenajări de instalații în orice scop și a tarifelor aferente eliberării Acordurilor Prealabile și a Autorizațiilor de Amplasare si Acces la Drum",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263772",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-22-2026",
+   "path": "local/caras-severin/ezeris/2026/22",
+   "short": "HCL Ezeriș nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 22/2026 privind acordarea unui drept de trecere pentru rețele pentru amplasarea unui cablu subteran (LES), pe drumuri aparținând comunei Ezeriș, județul Caraș Severin",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263773",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-23-2026",
+   "path": "local/caras-severin/ezeris/2026/23",
+   "short": "HCL Ezeriș nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 23/2026 privind aprobarea numărului maxim de posturi, aprobarea reorganizării aparatului de specialitate al Primarului comunei Ezeriș precum si aprobarea noului stat de funcţiuni și a organigramei în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263774",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-28-2026",
+   "path": "local/caras-severin/ezeris/2026/28",
+   "short": "HCL Ezeriș nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 28/2026 privind aprobarea devizului general actualizat și indicatorii tenico-economici la terminarea lucrării aferenți obiectivului de investiții ,,Modernizare drum vicinal de interes local Handra, comuna Ezeriș, județul Caraș-Severin",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263781",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263781",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-29-2026",
+   "path": "local/caras-severin/ezeris/2026/29",
+   "short": "HCL Ezeriș nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 29/2026 privind aprobarea documentației tehnice PT nr CC227/226, Indicatorii tehnico- economici privind obiectivul de investiții ,, Modernizare sistem de iluminat public stradal Comuna Ezeriș, județul Caraș-Severin”",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263784",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-30-2026",
+   "path": "local/caras-severin/ezeris/2026/30",
+   "short": "HCL Ezeriș nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 30/2026 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ezeriș, județul Caraș-Severin",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263785",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-31-2026",
+   "path": "local/caras-severin/ezeris/2026/31",
+   "short": "HCL Ezeriș nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 31/2026 privind analiza stadiului de înscriere a datelor în registrul agricol și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263786",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-33-2026",
+   "path": "local/caras-severin/ezeris/2026/33",
+   "short": "HCL Ezeriș nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 33/2026 privind stabilirea nivelului coeficienților care stau la care stau la baza determinării salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului Comunei Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/263788",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/263788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-38-2026",
+   "path": "local/caras-severin/ezeris/2026/38",
+   "short": "HCL Ezeriș nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 38/2026 privind aprobarea bugetului local al comunei Ezeriș pe anul 2026 și a estimărilor pentru anii 2027–2029",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/286964",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/286964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-44-2026",
+   "path": "local/caras-severin/ezeris/2026/44",
+   "short": "HCL Ezeriș nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 44/2026 privind aprobarea nivelului redevenţei datorate de Serviciu Public de Gospodărie comunală al Comunei Ezeriș , şi a procentului de pierdere de apă cu care poate opera Serviciu Public de Gospodărie Comunala al Comunei Ezeriș, pentru anul 2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287015",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-46-2026",
+   "path": "local/caras-severin/ezeris/2026/46",
+   "short": "HCL Ezeriș nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 46/2026 privind trecerea din domeniul privat în domeniul public a terenului (parte din terenul) aflat la B14 și B17, in suprafață de 1076 mp din CF nr 34204 Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287023",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-47-2026",
+   "path": "local/caras-severin/ezeris/2026/47",
+   "short": "HCL Ezeriș nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 47/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287095",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-48-2026",
+   "path": "local/caras-severin/ezeris/2026/48",
+   "short": "HCL Ezeriș nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 48/2026 privind aprobarea contului de executie a exercitiului bugetar la 31.03.2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287096",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-49-2026",
+   "path": "local/caras-severin/ezeris/2026/49",
+   "short": "HCL Ezeriș nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 49/2026 privind APROBAREA REGULAMENTULUI DE FUNCȚIONARE Șl EXPLOATARE A STAȚIILOR DE REÎNCĂRCARE A VEHICULELOR ELECTRICE Șl HYBRID PLUG-IN ÎN COMUNA EZERIȘ, JUDEȚUL CARAȘ-SEVERIN, INCLUSIV A DOCUMENTAȚIEI ÎN VEDEREA DELEGĂRII OPERĂRII ACESTORA PE BAZA UNUI CONTRACT DE PRESTĂRI SERVICII",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287097",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-5-2026",
+   "path": "local/caras-severin/ezeris/2026/5",
+   "short": "HCL Ezeriș nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 5/2026 privind aprobarea completării Programului Anual al Achizițiilor Publice al comunei Ezeriș pentru anul 2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/256119",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/256119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-50-2026",
+   "path": "local/caras-severin/ezeris/2026/50",
+   "short": "HCL Ezeriș nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 50/2026 privind aprobarea devizului general reactualizat și anexa 4c* la normele metodologice : Indicatori tehnici specifici la art. 4, alin.(1), lit. c -drumuri publice clasificate si incadrate in conformitate cu prevederile legale in vigoare, Obiectiv: Modernizare drum vicinal de interes local Handra, Comuna Ezeris, județul Caraș-Severin",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287117",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-51-2026",
+   "path": "local/caras-severin/ezeris/2026/51",
+   "short": "HCL Ezeriș nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 51/2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287118",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-52-2026",
+   "path": "local/caras-severin/ezeris/2026/52",
+   "short": "HCL Ezeriș nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 52/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/287122",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287122",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-53-2026",
    "path": "local/caras-severin/ezeris/2026/53",
    "short": "HCL Ezeriș nr. 53/2026",
@@ -103,6 +463,21 @@
      "from": "2026-09-11",
      "units": 1,
      "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-6-2026",
+   "path": "local/caras-severin/ezeris/2026/6",
+   "short": "HCL Ezeriș nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 6/2026 privind aprobarea Proiectului Tehnic, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „ÎNFIINTARE SISTEM INTELIGENT DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE: EZERIȘ, (LOCALITĂȚILE EZERIȘ SI SOCENI), FÂRLIUG (LOCALITĂȚILE FÂRLIUG, SCĂIUȘ, REMETEA POGONICI ȘI DEZEȘTI) ȘI ZORLENȚU MARE( LOCALITĂȚILE ZORLENȚU MARE SI ZORLENCIOR) JUDEȚUL CARAȘ-SEVERIN”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/256123",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/256123",
      "sha256": null
     }
    ]
@@ -258,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ezeris-7-2026",
+   "path": "local/caras-severin/ezeris/2026/7",
+   "short": "HCL Ezeriș nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 7/2026 privind aprobarea organigramei, a statului de funcții al aparatului de specialitate al și a coeficienților care stau la baza determinării salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului Comunei Ezeriș, pentru anul 2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/256127",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/256127",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ezeris-70-2026",
    "path": "local/caras-severin/ezeris/2026/70",
    "short": "HCL Ezeriș nr. 70/2026",
@@ -298,6 +688,21 @@
      "from": "2026-09-11",
      "units": 1,
      "source_url": "https://emol.ro/ezeris-cs/registru-hcl/287204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-8-2026",
+   "path": "local/caras-severin/ezeris/2026/8",
+   "short": "HCL Ezeriș nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 8/2026 privind aprobarea Organigramei, a Statului de Funcții și a coeficienților care stau la baza determinării salariilor pentru personalul contractual al SERVICIULUI PUBLIC DE GOSPODĂRIE COMUNALĂ AL COMUNEI EZERIȘ, pentru anul 2026",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/256133",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/256133",
      "sha256": null
     }
    ]

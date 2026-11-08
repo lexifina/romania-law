@@ -3,6 +3,111 @@
  "shard": "local/caras-severin/bautar/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--bautar-15-2024",
+   "path": "local/caras-severin/bautar/2024/15",
+   "short": "HCL Băuțar nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 15/2024 privind aprobarea Strategiei de dezvoltare a serviciilor sociale pentru perioada 2024 – 2025, a Planului Local de acţiune în domeniul serviciilor sociale, precum și Procedura de identificare a situaţiilor de risc de separare a copiilor de părinţi şi a monitorizării situației familiilor cu copii în situație de risc și a copiilor separați de părinți la nivelul Comunei BĂUȚAR",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/163282",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/163282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-16-2024",
+   "path": "local/caras-severin/bautar/2024/16",
+   "short": "HCL Băuțar nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 16/2024 privind aprobarea participării la proiectul Hand to Hand- Educație prin sport",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/163283",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/163283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-21-2024",
+   "path": "local/caras-severin/bautar/2024/21",
+   "short": "HCL Băuțar nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 21/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/163288",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/163288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-22-2024",
+   "path": "local/caras-severin/bautar/2024/22",
+   "short": "HCL Băuțar nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 22/2024 privind achiziționarea pentru şi în numele comunei Băuțar a terenului în suprafață de2975.36 mp două parcele 1487,68mp și 1487, 68 mp din CF nr. 844 Bucova , jud.Caraș-Severin",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/163289",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/163289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-26-2024",
+   "path": "local/caras-severin/bautar/2024/26",
+   "short": "HCL Băuțar nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 26/2024 privind aprobarea scutirii de la plata majorărilor de întârziere şi penalităţilor aferente impozitelor şi taxelor locale, datorate de către contribuabilii care achită integral debitul principal până la 30.11.2024",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/165576",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/165576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-27-2024",
+   "path": "local/caras-severin/bautar/2024/27",
+   "short": "HCL Băuțar nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 27/2024",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/165577",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/165577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-28-2024",
+   "path": "local/caras-severin/bautar/2024/28",
+   "short": "HCL Băuțar nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 28/2024 privind aprobarea încheierii Protocolului de finanțare între Unitatea Administrativ-Teritorială Județul Caraț-Severin și Comuna Băuțar, în vederea implementării și derulării Programului multianual privind finanțarea actualizării planului urbanistic general al comunei Băuțar și a regulamentului local de urbanism pentru perioada 2024 – 2027, conform Hotărârii Guvernului nr. 1137/2023",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/165578",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/165578",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-32-2024",
    "path": "local/caras-severin/bautar/2024/32",
    "short": "HCL Băuțar nr. 32/2024",

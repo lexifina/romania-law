@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/bucosnita/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--bucosnita-113-2025",
+   "path": "local/caras-severin/bucosnita/2025/113",
+   "short": "HCL Bucoșnița nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 113/2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227978",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227978",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bucosnita-135-2025",
    "path": "local/caras-severin/bucosnita/2025/135",
    "short": "HCL Bucoșnița nr. 135/2025",

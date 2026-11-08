@@ -3,6 +3,126 @@
  "shard": "local/caras-severin/ciudanovita/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--ciudanovita-22-2024",
+   "path": "local/caras-severin/ciudanovita/2024/22",
+   "short": "HCL Ciudanovița nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 22/2024 privind aprobarea organizării activității de apărare împotriva incendiilor la nivelul UAT Comuna Ciudanovița",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187023",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-23-2024",
+   "path": "local/caras-severin/ciudanovita/2024/23",
+   "short": "HCL Ciudanovița nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 23/2024 privind aprobarea proiectului tehnic, a devizului general și a indicatorilor tehnico-economici pentru investiţia „Construire teren de tenis în localitatea Ciudanovița, comuna Ciudanovița, județul Caraș-Severin”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187024",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-24-2024",
+   "path": "local/caras-severin/ciudanovita/2024/24",
+   "short": "HCL Ciudanovița nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 24/2024 privind aprobarea studiului de fezabilitate, a devizului general și a indicatorilor tehnico-economici pentru investiţia „Sistem de canalizare, racorduri canal și branșamente apă în localitățile Ciudanovița Colonie, Ciudanovița și sat Jitin, comuna Ciudanovița, județul Caraș-Severin” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187025",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-25-2024",
+   "path": "local/caras-severin/ciudanovita/2024/25",
+   "short": "HCL Ciudanovița nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 25/2024 privind aprobarea implementării proiectului „Dotarea infrastructurii sociale și de agrement a comunei Ciudanovița”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187026",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-28-2024",
+   "path": "local/caras-severin/ciudanovita/2024/28",
+   "short": "HCL Ciudanovița nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 28/2024 privind aprobarea proiectului tehnic, a devizului general actualizat și a indicatorilor tehnico-economici pentru investiţia „Sistem de canalizare, racorduri canal și branșamente apă în localitățile Ciudanovița Colonie, Ciudanovița și sat Jitin, comuna Ciudanovița, județul Caraș-Severin” aprobat pentru finanțare prin Programul Național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187063",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-59-2024",
+   "path": "local/caras-severin/ciudanovita/2024/59",
+   "short": "HCL Ciudanovița nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 59/2024 privind indexarea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187216",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-6-2024",
+   "path": "local/caras-severin/ciudanovita/2024/6",
+   "short": "HCL Ciudanovița nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 6/2024 privind stabilirea taxei de salubritate la nivelul Comunei Ciudanovița pentru anul 2024 și modul de plată către furnizorul de servicii",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/186997",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/186997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-67-2024",
+   "path": "local/caras-severin/ciudanovita/2024/67",
+   "short": "HCL Ciudanovița nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 67/2024 privind anularea unor obligaţii bugetare, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187229",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187229",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-70-2024",
    "path": "local/caras-severin/ciudanovita/2024/70",
    "short": "HCL Ciudanovița nr. 70/2024",

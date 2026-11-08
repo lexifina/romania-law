@@ -3,6 +3,21 @@
  "shard": "local/calarasi/roseti/2022",
  "acts": [
   {
+   "slug": "hcl-calarasi--roseti-25-2022",
+   "path": "local/calarasi/roseti/2022/25",
+   "short": "HCL Roseți nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 25/2022 privind aprobarea implementarii obiectivului de investiții “INFIINȚARE SISTEM DE DISTRIBUȚIE GAZE NATURALE ÎN LOCALITATEA ROSEȚI, JUDEȚUL CĂLĂRAȘI ”, aprobarea cererii de finanțare precum și aprobarea devizului general estimativ în cadrul Programului Național de investiții “Anghel Saligny”",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/59011",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/59011",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-69-2022",
    "path": "local/calarasi/roseti/2022/69",
    "short": "HCL Roseți nr. 69/2022",

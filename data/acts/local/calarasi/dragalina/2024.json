@@ -3,6 +3,94 @@
 "shard": "local/calarasi/dragalina/2024",
 "acts": [
 {
+"slug": "hcl-calarasi--dragalina-5-2024",
+"path": "local/calarasi/dragalina/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 5/2024 privind stabilirea criteriilor si a metodologiei de acordare a ajutoarelor de urgenta in baza prevederilor Legii nr.196/2016 privind venitul minim de incluziune cu modificarile si completarile ulterioare, pentru persoanele singure si familiile defavorizate, aflate in situatii de necesitate",
+"short": "HCL Dragalina nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/142211",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dragalina-72-2024",
+"path": "local/calarasi/dragalina/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 72/2024 privind declararea anului 2024 „ Anul Centenar al Localității Dragalina, Județul Călărași ” , precum și a datei de 27 Iulie „ Ziua oficială a Comunei Dragalina, Județul Călărași ”",
+"short": "HCL Dragalina nr. 72/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-24",
+"latest": "2024-07-24",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/163132",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dragalina-74-2024",
+"path": "local/calarasi/dragalina/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 74/2024 privind aprobarea regulamentului pentru autorizarea tranportului public local cu vehicule special destinate serviciilor funerare pe raza comunei Dragalina",
+"short": "HCL Dragalina nr. 74/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-12",
+"latest": "2024-08-12",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/163629",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dragalina-84-2024",
+"path": "local/calarasi/dragalina/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 84/2024 privind aprobarea procedurii de anulare a dobânzilor, penalităților și a tuturor accesoriilor aferente obligațiilor bugetare restante la data de 31 august 2024 , inclusiv, datorate bugetului local de către persoanele fizice și persoanele juridice ce au calitatea de contribuabili la bugetul local al comunei Dragalina, județul Călărași",
+"short": "HCL Dragalina nr. 84/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-03",
+"latest": "2024-10-03",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/171404",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-calarasi--dragalina-114-2024",
 "path": "local/calarasi/dragalina/2024/114",
 "kind": "local",

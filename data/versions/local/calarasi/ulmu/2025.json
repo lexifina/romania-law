@@ -3,6 +3,36 @@
  "shard": "local/calarasi/ulmu/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--ulmu-22-2025",
+   "path": "local/calarasi/ulmu/2025/22",
+   "short": "HCL Ulmu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 22/2025 privind atribuirea in folosinta gratuita a suprafetei de 8 mp. aflata in proprietatea domeniului public a comunei Ulmu catre E-Distributie Dobrogea S.A",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/208351",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/208351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-38-2025",
+   "path": "local/calarasi/ulmu/2025/38",
+   "short": "HCL Ulmu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 38/2025",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/235397",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/235397",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--ulmu-39-2025",
    "path": "local/calarasi/ulmu/2025/39",
    "short": "HCL Ulmu nr. 39/2025",
@@ -298,6 +328,21 @@
      "from": "2026-02-17",
      "units": 1,
      "source_url": "https://emol.ro/ulmu-cl/registru-hcl/253209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-8-2025",
+   "path": "local/calarasi/ulmu/2025/8",
+   "short": "HCL Ulmu nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 8/2025 privind modificarea si completarea anexei nr. 1 la Hotararea Consiliului Local nr. 33/16.11.2017 privind atribuirea de denumiri străzilor din cadrul comunei Ulmu, judeţul Călăraşi",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/208208",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/208208",
      "sha256": null
     }
    ]

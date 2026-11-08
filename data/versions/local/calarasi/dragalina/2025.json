@@ -301,6 +301,81 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-15-2025",
+   "path": "local/calarasi/dragalina/2025/15",
+   "short": "HCL Dragalina nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 15/2025 privind stadiul înscrierii datelor în registrul agricol al comunei Dragalina, pe trimestrul IV , anul 2024",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/194941",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/194941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-16-2025",
+   "path": "local/calarasi/dragalina/2025/16",
+   "short": "HCL Dragalina nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 16/2025 privind aprobarea Strategiei de Dezvoltare a Serviciilor Sociale acordate la nivelul comunei Dragalina, pentru perioada 2025-2027",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/194942",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/194942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-19-2025",
+   "path": "local/calarasi/dragalina/2025/19",
+   "short": "HCL Dragalina nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 19/2025 privind aprobarea tipului de suport alimentar acordat prin Programul Național „Masă sănatoasă” pentru preșcolarii și elevii „LTDZ” Dragalina, județul Călărași în anul 2025, pe perioada desfășurării cursurilor",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/194945",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/194945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-25-2025",
+   "path": "local/calarasi/dragalina/2025/25",
+   "short": "HCL Dragalina nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 25/2025 privind stabilirea coeficienților și salariilor de bază pentru salariații Serviciului Public de Alimentare cu Apă și Canalizare al comunei Dragalina, serviciu de utilitate publică aflat în subordinea Consiliului Local al comunei Dragalina , județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/202943",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/202943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-67-2025",
+   "path": "local/calarasi/dragalina/2025/67",
+   "short": "HCL Dragalina nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 67/2025 privind stabilirea modului de întocmire a registrului agricol al Comunei Dragalina , Județul Călărași pentru perioada 2025 - 2029",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/220078",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/220078",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

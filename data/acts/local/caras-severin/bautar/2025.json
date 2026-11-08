@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/bautar/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--bautar-7-2025",
+"path": "local/caras-severin/bautar/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 7/2025 privind aprobare agenda culturală",
+"short": "HCL Băuțar nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/195083",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-31-2025",
 "path": "local/caras-severin/bautar/2025/31",
 "kind": "local",

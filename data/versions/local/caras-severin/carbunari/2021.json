@@ -3,6 +3,186 @@
  "shard": "local/caras-severin/carbunari/2021",
  "acts": [
   {
+   "slug": "hcl-caras-severin--carbunari-10-2021",
+   "path": "local/caras-severin/carbunari/2021/10",
+   "short": "HCL Cărbunari nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 10/2021 privind aprobarea bugetului de venituri si cheltuieli pe anul 2021 al SERVICIULUI DE ALIMENTARE CU APA AL COMUNEI CARBUNARI",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/22866",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/22866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-13-2021",
+   "path": "local/caras-severin/carbunari/2021/13",
+   "short": "HCL Cărbunari nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 13/2021 privindaprobarea contului anual de executie al bugetului local pe anul 2020",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/25476",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/25476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-14-2021",
+   "path": "local/caras-severin/carbunari/2021/14",
+   "short": "HCL Cărbunari nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 14/2021 privind aprobarea rectificarii bugetului local al comunei Carbunari pe anul 2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/25477",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/25477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-15-2021",
+   "path": "local/caras-severin/carbunari/2021/15",
+   "short": "HCL Cărbunari nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 15/2021 privind actualizarea programului anual al achizitiilor publice pe anul 2021 in functie de fondurile aprobate in bugetul local de venituri si cheltuieli al comunei Carbunari pe anul 2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/25478",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/25478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-16-2021",
+   "path": "local/caras-severin/carbunari/2021/16",
+   "short": "HCL Cărbunari nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 16/2021 privind modificarea componentei nominale a comisiei de specialitate nr.2",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/27552",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/27552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-18-2021",
+   "path": "local/caras-severin/carbunari/2021/18",
+   "short": "HCL Cărbunari nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 18/2021 privind modificarea componentei nominale a comisiei nr.3",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/29989",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/29989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-19-2021",
+   "path": "local/caras-severin/carbunari/2021/19",
+   "short": "HCL Cărbunari nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 19/2021 privind aprobarea rectificarii bugetului local pe anul 2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/29990",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/29990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-2-2021",
+   "path": "local/caras-severin/carbunari/2021/2",
+   "short": "HCL Cărbunari nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 2/2021 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza UAT Cărbunari pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/20988",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-20-2021",
+   "path": "local/caras-severin/carbunari/2021/20",
+   "short": "HCL Cărbunari nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 20/2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/41152",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/41152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-21-2021",
+   "path": "local/caras-severin/carbunari/2021/21",
+   "short": "HCL Cărbunari nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 21/2021 privind aprobarea rectificării bugetului local al comunei Cărbunari pe anul 2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/41153",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/41153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-22-2021",
+   "path": "local/caras-severin/carbunari/2021/22",
+   "short": "HCL Cărbunari nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 22/2021 privind aprobarea rectificării bugetului de venituri și cheltuieli pe anul 2021 al SERVICIULUI DE ALIMENTARE CU APA AL COMUNEI CĂRBUNARI",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/41154",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/41154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-23-2021",
+   "path": "local/caras-severin/carbunari/2021/23",
+   "short": "HCL Cărbunari nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 23/2021 privind schimbarea denumirii și destinației unei clădiri realizate în cadrul obiectivului înființare ”Centru Local de Informare Turistică și Marketingul Serviciilor Legate de Turismul Rural”",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/41155",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/41155",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-24-2021",
    "path": "local/caras-severin/carbunari/2021/24",
    "short": "HCL Cărbunari nr. 24/2021",
@@ -243,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-4-2021",
+   "path": "local/caras-severin/carbunari/2021/4",
+   "short": "HCL Cărbunari nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 4/2021 privind aprobarea Planului lucrărilor de interes local pe anul 2021 ,propus a se realiza cu beneficiarii Lg.416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/20990",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20990",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-40-2021",
    "path": "local/caras-severin/carbunari/2021/40",
    "short": "HCL Cărbunari nr. 40/2021",
@@ -298,6 +493,36 @@
      "from": "2021-12-27",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/45975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-6-2021",
+   "path": "local/caras-severin/carbunari/2021/6",
+   "short": "HCL Cărbunari nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 6/2021 privind aprobarea rezilierii /încetarii contractului nr.765/25.11.2016 incheiat cu SC BRAI CATA SRL",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/20992",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-9-2021",
+   "path": "local/caras-severin/carbunari/2021/9",
+   "short": "HCL Cărbunari nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 9/2021 privind aprobarea bugetului local al comunei Carbunari pe anul 2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/22865",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/22865",
      "sha256": null
     }
    ]

@@ -3,6 +3,261 @@
  "shard": "local/caras-severin/carbunari/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--carbunari-12-2022",
+   "path": "local/caras-severin/carbunari/2022/12",
+   "short": "HCL Cărbunari nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 12/2022 privind trecerea unor bunuri din domeniul public in domeniul privat al comunei Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/53568",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/53568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-14-2022",
+   "path": "local/caras-severin/carbunari/2022/14",
+   "short": "HCL Cărbunari nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 14/2022 privind aprobarea Strategiei locale de dezvoltare a serviciilor sociale pentru perioada 2022-2027",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/59191",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/59191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-15-2022",
+   "path": "local/caras-severin/carbunari/2022/15",
+   "short": "HCL Cărbunari nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 15/2022 privind actualizarea programului anual al achizitiilor publice pe anul 2022 in functie de fondurile aprobate in bugetul local de venituri si cheltuieli al comunei Carbunari pe anul 2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/59192",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/59192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-16-2022",
+   "path": "local/caras-severin/carbunari/2022/16",
+   "short": "HCL Cărbunari nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 16/2022 privind modificarea art.6 din HCL nr.13/28.04.2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/59688",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/59688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-17-2022",
+   "path": "local/caras-severin/carbunari/2022/17",
+   "short": "HCL Cărbunari nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 17/2022 privind aprobarea contului anual de executie al bugetului local pe anul 2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/59689",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/59689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-18-2022",
+   "path": "local/caras-severin/carbunari/2022/18",
+   "short": "HCL Cărbunari nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 18/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/59690",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/59690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-19-2022",
+   "path": "local/caras-severin/carbunari/2022/19",
+   "short": "HCL Cărbunari nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 19/2022 privind aprobarea contului anual de executie al bugetului Serviciului de alimentare cu apa al comunei Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/59691",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/59691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-2-2022",
+   "path": "local/caras-severin/carbunari/2022/2",
+   "short": "HCL Cărbunari nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 2/2022 privind aprobare buget local al comunei Carbunari pe anul 2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/51649",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-21-2022",
+   "path": "local/caras-severin/carbunari/2022/21",
+   "short": "HCL Cărbunari nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 21/2022 privind aprobarea depunerii proiectului „Reabilitare sediu primărie comuna Cărbunari”, în cadrul apelului de proiect cu titlul PNRR/2022/C10, Componenta C10 – Fondul Local, Axa I.3 – Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale, din Planul Național de Redresare și Reziliență (P.N.R.R.), împreună cu descrierea sumară a investiției propuse a fi realizata prin proiect și a cheltuielilor aferente acestuia",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/63851",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/63851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-22-2022",
+   "path": "local/caras-severin/carbunari/2022/22",
+   "short": "HCL Cărbunari nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 22/2022 privind aprobarea dezmembrare suprafețe: Lotul 1 - 30521, Lotul 2 - 300, din imobilul înscris în CF nr. cad. 30306 - UAT Carbunari - extravilan în suprafață de 30821 mp",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/63852",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/63852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-23-2022",
+   "path": "local/caras-severin/carbunari/2022/23",
+   "short": "HCL Cărbunari nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 23/2022 privind probarea participarii UAT -comuna Carbunari prin Consiliul Local al comunei Carbunari in calitate de asociat,la constituirea Societatii Transporturi Navale Moldova Noua SRL",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/64895",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/64895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-24-2022",
+   "path": "local/caras-severin/carbunari/2022/24",
+   "short": "HCL Cărbunari nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 24/2022 privind stabilirea locatiilor de depozitare a deseurilor",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/66336",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/66336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-25-2022",
+   "path": "local/caras-severin/carbunari/2022/25",
+   "short": "HCL Cărbunari nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 25/2022 privind rectificarea bugetului local al comunei Carbunari pe anul 2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/66337",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/66337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-26-2022",
+   "path": "local/caras-severin/carbunari/2022/26",
+   "short": "HCL Cărbunari nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 26/2022 privind aprobarea documentatiei tehnico-economica pentru investitia ,,Reabilitare,modernizare,extindere si dotare camin cultural,comuna Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/67327",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/67327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-27-2022",
+   "path": "local/caras-severin/carbunari/2022/27",
+   "short": "HCL Cărbunari nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 27/2022 privind predarea catre Ministerul Dezvoltarii Lucrarilor Publice si Administratiei prin CNI SA a amplasamentului si asigurarea consitiilor in vederea executarii in concret a obiectivului de investitii,,Reabilitare,modernizare,extindere si dotare camin cultural,comuna Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/67328",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/67328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-28-2022",
+   "path": "local/caras-severin/carbunari/2022/28",
+   "short": "HCL Cărbunari nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 28/2022 privind aprobarea constituirii dreptului de acces pe proprietatea publica a comunei Carbunari in vederea instalarii,intretinerii,inlocuirii sau mutarii retelelor de comunicatii electronice sau a elementelor de infrastructura necesare sustinerii acestora",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/67329",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/67329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-3-2022",
+   "path": "local/caras-severin/carbunari/2022/3",
+   "short": "HCL Cărbunari nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 3/2022 privind aprobarea bugetului de venituri si cheltuieli pe anul 2022 al Serviciului de alimentare cu apa al comunei Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/51650",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51650",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-30-2022",
    "path": "local/caras-severin/carbunari/2022/30",
    "short": "HCL Cărbunari nr. 30/2022",
@@ -153,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-4-2022",
+   "path": "local/caras-severin/carbunari/2022/4",
+   "short": "HCL Cărbunari nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 4/2022 privind aprobarea STATUTULUI comunei CARBUNARI",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/51651",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51651",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-40-2022",
    "path": "local/caras-severin/carbunari/2022/40",
    "short": "HCL Cărbunari nr. 40/2022",
@@ -298,6 +568,81 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/83670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-5-2022",
+   "path": "local/caras-severin/carbunari/2022/5",
+   "short": "HCL Cărbunari nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 5/2022 privind APROBAREA sTRATEGIEI DE DEZVOLTARE A SERICIILOR SOCIALE LA NIVELUL COMUNEI cARBUNARI PE PERIOADA 2021-2027",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/51652",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-6-2022",
+   "path": "local/caras-severin/carbunari/2022/6",
+   "short": "HCL Cărbunari nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 6/2022 privind APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL APARATULUI DE SPECIALITATE AL PRIMARULUI COMUNEI CARBUNARI",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/51653",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-7-2022",
+   "path": "local/caras-severin/carbunari/2022/7",
+   "short": "HCL Cărbunari nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 7/2022 privind aprobarea Strategiei de Dezvoltare locala a comunei Carbunari pentru perioada 2021-2027",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/51654",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-8-2022",
+   "path": "local/caras-severin/carbunari/2022/8",
+   "short": "HCL Cărbunari nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 8/2022 privind aprobarea cererii de finantare pentru obiectivul de investitii ,,REABILITARE SI MODERNIZARE DRUM VICINAL SPRE LACUL DRACULUI,, avand ca beneficiar UAT CARBUNARI ,judetul Caras-Severin,finantat prn Programul National de Investitii ,,Anghel Saligny,,",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/51656",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-9-2022",
+   "path": "local/caras-severin/carbunari/2022/9",
+   "short": "HCL Cărbunari nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 9/2022 privind rectificarea bugetului local al comunei Carbunari pe anul 2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/53565",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/53565",
      "sha256": null
     }
    ]

@@ -138,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bucosnita-44-2026",
+   "path": "local/caras-severin/bucosnita/2026/44",
+   "short": "HCL Bucoșnița nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 44/2026 privind aprobarea Bugetului de Venituri și Cheltuieli al Comunei Bucoșnița, pentru anul fiscal 2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267850",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-84-2026",
+   "path": "local/caras-severin/bucosnita/2026/84",
+   "short": "HCL Bucoșnița nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 84/2026 Privind rectificarea bugetului local pe anul 2026,TRIM.III, al comunei Bucoșnița, jud.Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284754",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284754",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bucosnita-89-2026",
    "path": "local/caras-severin/bucosnita/2026/89",
    "short": "HCL Bucoșnița nr. 89/2026",

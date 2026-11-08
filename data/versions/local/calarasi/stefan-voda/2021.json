@@ -3,6 +3,21 @@
  "shard": "local/calarasi/stefan-voda/2021",
  "acts": [
   {
+   "slug": "hcl-calarasi--stefan-voda-1-2021",
+   "path": "local/calarasi/stefan-voda/2021/1",
+   "short": "HCL Ștefan Vodă nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 1/2021",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/28246",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/28246",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-voda-10-2021",
    "path": "local/calarasi/stefan-voda/2021/10",
    "short": "HCL Ștefan Vodă nr. 10/2021",

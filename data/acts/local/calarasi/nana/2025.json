@@ -3,6 +3,72 @@
 "shard": "local/calarasi/nana/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--nana-48-2025",
+"path": "local/calarasi/nana/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nana nr. 48/2025 privind aprobarea Regulamentului de funcționare și exploatare a stațiilor de reîncărcare a vehiculelor electrice și hybrid plug-in în Comuna Nana, județul Călărași",
+"short": "HCL Nana nr. 48/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://emol.ro/nana-cl/registru-hcl/219561",
+"council": "calarasi/nana",
+"council_name": "Consiliul Local al Comunei Nana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--nana-49-2025",
+"path": "local/calarasi/nana/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nana nr. 49/2025 privind aprobarea indicatorilor tehnico-economici pentru ”MODERNIZARE SI REABILITARE, PROIECTARE SI EXECUTIE LUCRARI DE FINISAJE INTERIOARE SI EXTERIOARE CLADIRE CAMIN CULTURAL IN COMUNA NANA ,JUDETUL CALARASI”",
+"short": "HCL Nana nr. 49/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://emol.ro/nana-cl/registru-hcl/223261",
+"council": "calarasi/nana",
+"council_name": "Consiliul Local al Comunei Nana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--nana-64-2025",
+"path": "local/calarasi/nana/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nana nr. 64/2025 Privind aprobarea proiectului ,,INFRASTRUCTURA VERDE-ALBASTRA DIN COMUNA NANA,, și a cheltuielilor legate de proiect",
+"short": "HCL Nana nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/nana-cl/registru-hcl/235394",
+"council": "calarasi/nana",
+"council_name": "Consiliul Local al Comunei Nana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-calarasi--nana-67-2025",
 "path": "local/calarasi/nana/2025/67",
 "kind": "local",

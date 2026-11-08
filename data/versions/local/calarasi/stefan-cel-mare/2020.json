@@ -3,6 +3,321 @@
  "shard": "local/calarasi/stefan-cel-mare/2020",
  "acts": [
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-1-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/1",
+   "short": "HCL Ștefan cel Mare nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 1/2020 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Ștefan cel Mare la data de 31.12.2019",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1022",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-10-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/10",
+   "short": "HCL Ștefan cel Mare nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 10/2020 privind implementarea proiectului „Centru de zi pentru persoane vârstnice, comuna Ștefan cel Mare, județul Călărași",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1031",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-11-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/11",
+   "short": "HCL Ștefan cel Mare nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 11/2020 privind aprobarea numărului și cuantumului burselor școlare pentru semestrul II al anului școlar 2019-2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1032",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-12-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/12",
+   "short": "HCL Ștefan cel Mare nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 12/2020 privind aprobarea Planului anual de acțiune pentru serviciile sociale",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1033",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-13-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/13",
+   "short": "HCL Ștefan cel Mare nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 13/2020 privind aprobarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1381",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-14-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/14",
+   "short": "HCL Ștefan cel Mare nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 14/2020 privind stabilirea de măsuri privind utilizarea sigiliului autorității deliberative, începând cu data de 01.01.2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1382",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-15-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/15",
+   "short": "HCL Ștefan cel Mare nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 15/2020 privind aprobarea Planului de analiză și acoperire a riscurilor al comunei Ștefan cel Mare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1383",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-17-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/17",
+   "short": "HCL Ștefan cel Mare nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 17/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Ștefan cel Mare, județul Călărași",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18937",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-18-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/18",
+   "short": "HCL Ștefan cel Mare nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 18/2020 privind validarea Dispozițiilor primarului nr. 75/26.03.2020 și 83/27.04.2020 privind majorarea bugetului local pe anul 2020 cu sume pentru finanțarea PNDL",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18938",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-19-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/19",
+   "short": "HCL Ștefan cel Mare nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 19/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18939",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-2-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/2",
+   "short": "HCL Ștefan cel Mare nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 2/2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1023",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-20-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/20",
+   "short": "HCL Ștefan cel Mare nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 20/2020 privind aprobarea contului de execuție bugetară la data de 31 martie 2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18940",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-21-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/21",
+   "short": "HCL Ștefan cel Mare nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 21/2020 privind aprobarea indicatorilor tehnico-economici și documentația, faza studiu de fezabilitate, aferentă obiectivului de investiții „Înființare sistem de distribuție gaze naturale în satul Ștefan cel Mare, comuna Ștefan cel Mare, județul Călărași”",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18941",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-23-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/23",
+   "short": "HCL Ștefan cel Mare nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 23/2020 privind aprobarea contului de execuție bugetară la data de 30 iunie 2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18943",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-24-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/24",
+   "short": "HCL Ștefan cel Mare nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 24/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18944",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-26-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/26",
+   "short": "HCL Ștefan cel Mare nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 26/2020 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18946",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-27-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/27",
+   "short": "HCL Ștefan cel Mare nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 27/2020 privind aprobarea utilizării din contul de excedent al anilor anteriori a unei sume pentru proiectul de reabilitare a bisericii Sf. M.Mc. Dimitrie din comuna Ștefan cel Mare, județul Călărași",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18947",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-28-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/28",
+   "short": "HCL Ștefan cel Mare nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 28/2020 privind aprobarea utilizării din contul de excedent al anilor anteriori a unei sume pentru proiect tehnic al investiției Sediu primărie în comuna Ștefan cel Mare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18948",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-29-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/29",
+   "short": "HCL Ștefan cel Mare nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 29/2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18949",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-3-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/3",
+   "short": "HCL Ștefan cel Mare nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 3/2020 pentru aprobarea regulamentului privind procedura de închiriere a bunurilor aflate în domeniul privat al comunei Ștefan cel Mare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1024",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-30-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/30",
+   "short": "HCL Ștefan cel Mare nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 30/2020 privind completarea listei obiectivelor de investiții pe anul 2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/18950",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18950",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-38-2020",
    "path": "local/calarasi/stefan-cel-mare/2020/38",
    "short": "HCL Ștefan cel Mare nr. 38/2020",
@@ -183,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-5-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/5",
+   "short": "HCL Ștefan cel Mare nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 5/2020 privind aprobarea planului de acțiuni pentru repartizarea orelor de muncă către beneficiarii de ajutor social",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1026",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1026",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-50-2020",
    "path": "local/calarasi/stefan-cel-mare/2020/50",
    "short": "HCL Ștefan cel Mare nr. 50/2020",
@@ -298,6 +628,66 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/18989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-6-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/6",
+   "short": "HCL Ștefan cel Mare nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 6/2020 privind alegerea președintelui și a potențialului președinte de ședință al Consiliului Local Ștefan cel Mare pentru februarie- aprilie 2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1027",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-7-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/7",
+   "short": "HCL Ștefan cel Mare nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 7/2020 pentru validarea Dispoziției primarului comunei nr. 23/29.01.2020 privind majorarea bugetului local pe anul 2020 cu sume pentru finanțarea PNDL",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1028",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-8-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/8",
+   "short": "HCL Ștefan cel Mare nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 8/2020 privind aprobarea folosirii unor sume din contul de excedent al bugetului local",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1029",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-9-2020",
+   "path": "local/calarasi/stefan-cel-mare/2020/9",
+   "short": "HCL Ștefan cel Mare nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 9/2020",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/1030",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/1030",
      "sha256": null
     }
    ]

@@ -3,6 +3,621 @@
  "shard": "local/caras-severin/armenis/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--armenis-1-2022",
+   "path": "local/caras-severin/armenis/2022/1",
+   "short": "HCL Armeniș nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 1/2022 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunii dezvoltare ,sursa A",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/63476",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/63476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-10-2022",
+   "path": "local/caras-severin/armenis/2022/10",
+   "short": "HCL Armeniș nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 10/2022 privind aprobarea cererii de finantare prin Programul National de Investitii Anghel Salinghy si a devizului general aferente Proiectului INFIINTAREA SERVICIULUI DE DISTRIBUTIE A GAZELOR NATURALE,CU RETELE INTELIGENTE IN COMUNELE ARMENIS SI SLATINA TIMIS,JUDETUL CARAS SEVERIN in vederea depunerii in cadrul Programului National de Investitii ,,Anghel Saligny\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64336",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-12-2022",
+   "path": "local/caras-severin/armenis/2022/12",
+   "short": "HCL Armeniș nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 12/2022 privind aprobarea taxelor la AJF Caras-Severin- Liga a IV-a,cheltuielilor de transport,a arbitrajului si cumparare echipament pentru echipa de fotbal Asociatia Sportiva Foresta Armenis,editia 2021-2022,returul campioanatulu.i",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64338",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-13-2022",
+   "path": "local/caras-severin/armenis/2022/13",
+   "short": "HCL Armeniș nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 13/2022 privind aprobarea initierii procedurii de concesionare si inchiriere a imobilelor aflate in domeniul public al comunei Armenis,judetul Caras-Severin",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64339",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-15-2022",
+   "path": "local/caras-severin/armenis/2022/15",
+   "short": "HCL Armeniș nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 15/2022 privind rectiificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75706",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-16-2022",
+   "path": "local/caras-severin/armenis/2022/16",
+   "short": "HCL Armeniș nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 16/2022 privind aprobarea solicitarii prelungirii Scrisorii de garantie nr.360/25.07.2018 de la FNGCIMM IFN in valoare de 375.000,00 lei in vederea garAntarii obligatiilor de plata a avansului de 375.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat- ,, REABILITARE,MODERNIZARE SI DOTARE CAMIN CULTURAL DIN LOCALITATEA SAT BATRAN,COMUNA ARMENIS,JUDETUL CARAS-SEVERIN \"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75707",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-17-2022",
+   "path": "local/caras-severin/armenis/2022/17",
+   "short": "HCL Armeniș nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 17/2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75708",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-18-2022",
+   "path": "local/caras-severin/armenis/2022/18",
+   "short": "HCL Armeniș nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 18/2022 privind acordarea unor ajutoare banesti parohiilor ortodoxe din comuna Armenis",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75709",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-19-2022",
+   "path": "local/caras-severin/armenis/2022/19",
+   "short": "HCL Armeniș nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 19/2022 privind completarea Planului Anual al Achizitiilor Publice",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75710",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-2-2022",
+   "path": "local/caras-severin/armenis/2022/2",
+   "short": "HCL Armeniș nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 2/2022 privind aprobarea bugetului de venituri si cheltuieli al comunei Armenis pe anul 2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64018",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-20-2022",
+   "path": "local/caras-severin/armenis/2022/20",
+   "short": "HCL Armeniș nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 20/2022 privind emiterea acordului in vederea constituirii dreptului de acces a SC RCS & RDS SA pentru terenul in suprafata de 300 mp,situat in localitatea Fenes,comuna Armenis inscris in CF nr.247 Fenes,izlaz comunal",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75711",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-21-2022",
+   "path": "local/caras-severin/armenis/2022/21",
+   "short": "HCL Armeniș nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 21/2022 privind aprobare tarife lucrari lucrari executate pentru comuna Armenis si terti de SC AQUAPREST ARMENIS SRL",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75712",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-22-2022",
+   "path": "local/caras-severin/armenis/2022/22",
+   "short": "HCL Armeniș nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 22/2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75713",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-23-2022",
+   "path": "local/caras-severin/armenis/2022/23",
+   "short": "HCL Armeniș nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 23/2022 privind stabilirea taxelor si impozitelor locale pe anul 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75714",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-24-2022",
+   "path": "local/caras-severin/armenis/2022/24",
+   "short": "HCL Armeniș nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 24/2022 privind aprobarea folosirii sumei de 20000 lei de la cap ,,Cultura,recreere si religie\" pentru organizarea evenimentului cultural ,,Ruga satului\",organizata in data de 03.06.2022,cuocazia sarbatorii rugii satului",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75715",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-25-2022",
+   "path": "local/caras-severin/armenis/2022/25",
+   "short": "HCL Armeniș nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 25/2022 privind aprobarea implementarii proiectului ,,REABILITARE,MODERNIZARE SI DOTARE SCOALA,SAT FENES,COMUNA ARMENIS,JUDETUL CARAS-SEVERIN\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75716",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-26-2022",
+   "path": "local/caras-severin/armenis/2022/26",
+   "short": "HCL Armeniș nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 26/2022 privind aprobarea implementarii proiectului ,, REABILITARE TERMICA A SCOLII DIN LOCALITATEA ARMENIS,COMUNA ARMENIS,JUDETUL CARAS-SEVERIN\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75717",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-27-2022",
+   "path": "local/caras-severin/armenis/2022/27",
+   "short": "HCL Armeniș nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 27/2022 privind aprobarea implementarii proiectului ,, ACTUALIZAREA PLANULUI URBANISTIC GENERAL,COMUNA ARMNIS,JUDTUL CARAS-SEVERIN\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75718",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-28-2022",
+   "path": "local/caras-severin/armenis/2022/28",
+   "short": "HCL Armeniș nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 28/2022 privind aprobarea implementarii proiectului ,, SISTEM DE MONOTORIZARE SI SIGURANTA SPATIULUI PUBLIC COMUNA ARMENIS,JUDETUL CARAS-SEVERIN\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/75719",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/75719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-29-2022",
+   "path": "local/caras-severin/armenis/2022/29",
+   "short": "HCL Armeniș nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 29/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82373",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-3-2022",
+   "path": "local/caras-severin/armenis/2022/3",
+   "short": "HCL Armeniș nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 3/2022 privind reorganizarea retelei scolare a unitatilor de invatamant preuniversitar din raza teritoriala a comunei Armenis pentru anul 2022-2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64019",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-30-2022",
+   "path": "local/caras-severin/armenis/2022/30",
+   "short": "HCL Armeniș nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 30/2022 privind aprobarea bilantului economico-financiar la data de 31.12.2021 al SC AQUAPREST ARMENIȘ SRL",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82374",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-31-2022",
+   "path": "local/caras-severin/armenis/2022/31",
+   "short": "HCL Armeniș nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 31/2022 privind modificarea si aprobarea organigramei si a statului de functii si a numarului de personal pentru aparatul de specialitate al primarului comunei Armeniș",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82375",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-35-2022",
+   "path": "local/caras-severin/armenis/2022/35",
+   "short": "HCL Armeniș nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 35/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82445",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-36-2022",
+   "path": "local/caras-severin/armenis/2022/36",
+   "short": "HCL Armeniș nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 36/2022 privind rectificarea bugetului SC AQUAPREST ARMENIS SRL pe anul 2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82446",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-37-2022",
+   "path": "local/caras-severin/armenis/2022/37",
+   "short": "HCL Armeniș nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 37/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitie:,,Refacere sprijinirii in urma calamitatilor in Sat Batran,comuna Armenis\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82447",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-38-2022",
+   "path": "local/caras-severin/armenis/2022/38",
+   "short": "HCL Armeniș nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 38/2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82448",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-39-2022",
+   "path": "local/caras-severin/armenis/2022/39",
+   "short": "HCL Armeniș nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 39/2022 privind aprobarea infiintarii Serviciului Public de Alimentare cu Apa si de Canalizare al comunei Armenis, denumit ,,SERVICIUL DE ALIMENTARE CU APA SI DE CANALIZARE ARMENIS'' cu personalitate juridica,organizat in subordinea Consiliului Local al comunei Armenis,judetul Caras-Severin",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82449",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-4-2022",
+   "path": "local/caras-severin/armenis/2022/4",
+   "short": "HCL Armeniș nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 4/2022 privind aprobarea planului de actiune sau de lucrari de interes local pentru repartizarea orelor de munca persoanelor majore apte de munca din familia beneficiara de ajutor social",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64020",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-41-2022",
+   "path": "local/caras-severin/armenis/2022/41",
+   "short": "HCL Armeniș nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 41/2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82539",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-42-2022",
+   "path": "local/caras-severin/armenis/2022/42",
+   "short": "HCL Armeniș nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 42/2022 privind participarea comunei Armenis la ,,Programul privind cresterea eficientei energetice a infrastructurii de iluminat public\" si aprobarea Devizului General al obiectivului de investitii ,,Eficientizarea sistemului de iluminat public din Comuna Armenis,judetul Caras-Severin''",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82545",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-43-2022",
+   "path": "local/caras-severin/armenis/2022/43",
+   "short": "HCL Armeniș nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 43/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83461",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-44-2022",
+   "path": "local/caras-severin/armenis/2022/44",
+   "short": "HCL Armeniș nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 44/2022 privind aprobarea taxelor la AJF Caras-Severin- Liga a IV-a,cheltuililor de transport,a arbitrajului si cumparare de echipament pentru echipa de fotbal Asociatia Sportiva Foresta Armenis,editia 2022-2023,turul campionatului",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83462",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-45-2022",
+   "path": "local/caras-severin/armenis/2022/45",
+   "short": "HCL Armeniș nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 45/2022 privind alocarea unei sume din bugetul local al comunei Armenis,pentru anul 2022 catre Biserica Crestin Baptista Betel din Armenis",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83463",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-46-2022",
+   "path": "local/caras-severin/armenis/2022/46",
+   "short": "HCL Armeniș nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 46/2022 privind aprobarea suportului alimentar acordat elevilor Școlii Gimnaziale Armeniș,Școlii Primare Fenes,Școlii Primare Sat-Batran atât pentru nivelul primar cât și pentru nivelul gimnazial și preșcolarilor de la Grădinița PN Armeniș,Gradinița PN Fenes și Gradinița PN Sat-Batran,in cadrul Programului -pilot de acordare a unui suport alimentar pentru preșcolarii si elevii din 300 de unități de învățământ preuniversitar de stat,în anul scolar 2022-2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83464",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-47-2022",
+   "path": "local/caras-severin/armenis/2022/47",
+   "short": "HCL Armeniș nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 47/2022 privind aprobarea solicitarii prelungirii Scrisorii de garanție nr.136/12.06.2017 de la FNGCIMNNN SA IFN in valoare de 1.700.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 1.700.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat -,,Modernizare si reabilitare strazi si drumuri comunale in Armeniș,judetul Caras-Severin",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83465",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-48-2022",
+   "path": "local/caras-severin/armenis/2022/48",
+   "short": "HCL Armeniș nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 48/2022 privind derularea procedurii de achizitie publica de servicii juridice in vederea asistarii si reprezentarii in instanta a Consiliului Local al Comunei Armeniș și a Comunei Armeniș (în calitate de intimate),în Dosar nr. 2026/290/2020,în etapa recursului",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83466",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-49-2022",
+   "path": "local/caras-severin/armenis/2022/49",
+   "short": "HCL Armeniș nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 49/2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83467",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-5-2022",
+   "path": "local/caras-severin/armenis/2022/5",
+   "short": "HCL Armeniș nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 5/2022 privind aprobarea Planului Anual al Achizitiilor Publice",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64021",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-50-2022",
+   "path": "local/caras-severin/armenis/2022/50",
+   "short": "HCL Armeniș nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 50/2022 privind aprobarea implementarii proiectului ,, Reabilitarea termică a Școlii din localitatea Armeniș,comuna Armeniș,județul Caras-Severin",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83561",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-51-2022",
+   "path": "local/caras-severin/armenis/2022/51",
+   "short": "HCL Armeniș nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 51/2022 privind aprobarea Documentatiei de Avizare a Lucrarilor de Investitii,a indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitii ,,MODERNIZARE DRUM COMUNAL DC 23,STRAZI SI DRUMURI VICINALE IN COMUNA ARMENIS,JUDETUL CARAS-SEVERIN,,aprobat pentru finantare prin Programul national de investitii ,,Anghel Saligny,, precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/83562",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/83562",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-52-2022",
    "path": "local/caras-severin/armenis/2022/52",
    "short": "HCL Armeniș nr. 52/2022",
@@ -118,6 +733,21 @@
      "from": "2022-11-07",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/99610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-6-2022",
+   "path": "local/caras-severin/armenis/2022/6",
+   "short": "HCL Armeniș nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 6/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64022",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64022",
      "sha256": null
     }
    ]
@@ -273,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--armenis-7-2022",
+   "path": "local/caras-severin/armenis/2022/7",
+   "short": "HCL Armeniș nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 7/2022 privind aprobarea solicitarii prelungirii Scrisorii de garantie nr.136/12.06.2017 de la FNGCIMM SA IFN in valoare de 1.700.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 1.700.000,00 lei din fonduri nerambursabile pentru implementarea proiectului inititulat- ,,Modernizare si reabilitare strazi si drumuri comunale in comuna Armenis,judetul Caras-Severin",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64023",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64023",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-70-2022",
    "path": "local/caras-severin/armenis/2022/70",
    "short": "HCL Armeniș nr. 70/2022",
@@ -298,6 +943,21 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/99944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-9-2022",
+   "path": "local/caras-severin/armenis/2022/9",
+   "short": "HCL Armeniș nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 9/2022 privind aprobarea incheierii unui Acord de parteneriat intre comuna Slatina-Timis si comuna Armenis,judetul Caras-Severin in vederea infiintarii Asociatiei de Dezvoltare Intercomunitara,pentru realizarea obiectivului de investitii INFIINTAREA SERVICIULUI DE DISTRIBUTIE A GAZALOR NATURALE, CU RETELELE INTELIGENTE IN COMUNELE ARMENIS SI SLATINA TIMIS,JUDETUL CARAS-SEVERIN,in vederea depunerii in cadrul Programului National de Investitii ,,Anghel Saligny\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64335",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64335",
      "sha256": null
     }
    ]

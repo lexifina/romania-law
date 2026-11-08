@@ -3,6 +3,366 @@
  "shard": "local/calarasi/vasilati/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--vasilati-10-2025",
+   "path": "local/calarasi/vasilati/2025/10",
+   "short": "HCL Vasilați nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 10/2025 privind aprobarea Planului de analiză și acoperire a riscurilor identificate la nivelul comunei Vasilați, județul Călărași",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/194310",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/194310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-11-2025",
+   "path": "local/calarasi/vasilati/2025/11",
+   "short": "HCL Vasilați nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 11/2025 privind revocarea Hotărârii Consiliului Local Vasilați nr.30 din 23.august.2024",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/194311",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/194311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-12-2025",
+   "path": "local/calarasi/vasilati/2025/12",
+   "short": "HCL Vasilați nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 12/2025 privind aprobarea Programului anual al achizițiilor publice al comunei Vasilați, județul Călărași, pentru anul 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/194312",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/194312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-13-2025",
+   "path": "local/calarasi/vasilati/2025/13",
+   "short": "HCL Vasilați nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 13/2025 privind aprobarea unor taxe speciale aplicabile în anul fiscal 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/194313",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/194313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-14-2025",
+   "path": "local/calarasi/vasilati/2025/14",
+   "short": "HCL Vasilați nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 14/2025 privind aprobarea bugetului local al comunei Vasilați, județul Călărași pe anul 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/197118",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/197118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-15-2025",
+   "path": "local/calarasi/vasilati/2025/15",
+   "short": "HCL Vasilați nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 15/2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/197119",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/197119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-16-2025",
+   "path": "local/calarasi/vasilati/2025/16",
+   "short": "HCL Vasilați nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 16/2025 privind aprobarea utilizării unei părți din excedentul rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/197120",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/197120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-17-2025",
+   "path": "local/calarasi/vasilati/2025/17",
+   "short": "HCL Vasilați nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 17/2025 privind rectificarea bugetului local al comunei Vasilați, județul Călărași pe anul 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/197121",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/197121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-25-2025",
+   "path": "local/calarasi/vasilati/2025/25",
+   "short": "HCL Vasilați nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 25/2025 privind indexarea nivelurilor valorilor impozabile, impozitelor și taxelor locale și a amenzilor aplicabile pentru anul 2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/204158",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/204158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-26-2025",
+   "path": "local/calarasi/vasilati/2025/26",
+   "short": "HCL Vasilați nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 26/2025 privind aprobarea strategiei de dezvoltare a serviciilor sociale la nivelul comunei Vasilați, județul Călărași pentru perioada 2025 - 2030 și a planului de măsuri în vederea implementării acesteia",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/204159",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/204159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-27-2025",
+   "path": "local/calarasi/vasilati/2025/27",
+   "short": "HCL Vasilați nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 27/2025 privind aprobarea proiectului și a cheltuielilor legate de proiect pentru obiectivul de investiții ” SIMPLIFICARE PRIN DIGITALIZARE - COMUNA VASILAȚI” în vederea atragerii de fonduri nerambursabile în cadrul Programului Regional Sud-Muntenia 2021-2027, Prioritatea de investiție 1 -, Obiectiv specific 1.2, apelul de proiecte nr PRSM/473/PRSM_P1/OP1/RSO1.2/PRSM_A38",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/204160",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/204160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-28-2025",
+   "path": "local/calarasi/vasilati/2025/28",
+   "short": "HCL Vasilați nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 28/2025 privind rectificarea bugetului local al comunei Vasilați, județul Călărași pe anul 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/207537",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/207537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-34-2025",
+   "path": "local/calarasi/vasilati/2025/34",
+   "short": "HCL Vasilați nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 34/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul I al anului 2025 și stabilirea măsurilor pentru eficientizarea activității",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/208501",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/208501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-35-2025",
+   "path": "local/calarasi/vasilati/2025/35",
+   "short": "HCL Vasilați nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 35/2025 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială în rândul beneficiarilor de venit minim de incluziune pentru anul 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/208502",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/208502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-36-2025",
+   "path": "local/calarasi/vasilati/2025/36",
+   "short": "HCL Vasilați nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 36/2025 privind rectificarea bugetului local al comunei Vasilați, județul Călărași pe anul 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/208503",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/208503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-37-2025",
+   "path": "local/calarasi/vasilati/2025/37",
+   "short": "HCL Vasilați nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 37/2025 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 3.249.999,98 lei",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/208504",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/208504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-38-2025",
+   "path": "local/calarasi/vasilati/2025/38",
+   "short": "HCL Vasilați nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 38/2025 privind aprobarea organizării evenimentului cultural - artistic ” FESTIVALUL COPILULUI VASILĂȚEAN ” cu ocazia Zilei Internaționale a Copilului",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/208505",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/208505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-40-2025",
+   "path": "local/calarasi/vasilati/2025/40",
+   "short": "HCL Vasilați nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 40/2025 privind rectificarea bugetului local al comunei Vasilați, județul Călărași pe anul 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/213831",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/213831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-42-2025",
+   "path": "local/calarasi/vasilati/2025/42",
+   "short": "HCL Vasilați nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 42/2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/213833",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/213833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-43-2025",
+   "path": "local/calarasi/vasilati/2025/43",
+   "short": "HCL Vasilați nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 43/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul II al anului 2025 și stabilirea măsurilor pentru eficientizarea activității",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/218906",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/218906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-44-2025",
+   "path": "local/calarasi/vasilati/2025/44",
+   "short": "HCL Vasilați nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 44/2025 privind stabilirea modului de întocmire și ținere la zi a Registrului Agricol al comunei Vasilați, județul Călărași",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/218907",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/218907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-46-2025",
+   "path": "local/calarasi/vasilati/2025/46",
+   "short": "HCL Vasilați nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 46/2025 privind rectificarea bugetului local al comunei Vasilați, județul Călărași pe anul 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/223357",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/223357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-5-2025",
+   "path": "local/calarasi/vasilati/2025/5",
+   "short": "HCL Vasilați nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 5/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul IV al anului 2024 și stabilirea măsurilor pentru eficientizarea activității",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/189913",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/189913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-53-2025",
+   "path": "local/calarasi/vasilati/2025/53",
+   "short": "HCL Vasilați nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 53/2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/231685",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/231685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-54-2025",
    "path": "local/calarasi/vasilati/2025/54",
    "short": "HCL Vasilați nr. 54/2025",
@@ -88,6 +448,21 @@
      "from": "2025-11-05",
      "units": 1,
      "source_url": "https://emol.ro/vasilati-cl/registru-hcl/231691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-6-2025",
+   "path": "local/calarasi/vasilati/2025/6",
+   "short": "HCL Vasilați nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 6/2025 privind aprobarea Regulamentului de eliberare a acordului prealabil și a autorizației de amplasare și de acces în zona drumului public pentru lucrările aferente rețelelor tehnico-edilitare, realizate pe proprietatea domeniului public al comunei Vasilați județul Călărași, care afectează structura căilor de comunicații rutiere, străzilor, trotuarelor, aleilor și spațiilor verzi",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/189914",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/189914",
      "sha256": null
     }
    ]
@@ -243,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--vasilati-7-2025",
+   "path": "local/calarasi/vasilati/2025/7",
+   "short": "HCL Vasilați nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 7/2025 privind aderarea comunei Vasilați, județul Călărași la Asociația Comunelor din România",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/194307",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/194307",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-70-2025",
    "path": "local/calarasi/vasilati/2025/70",
    "short": "HCL Vasilați nr. 70/2025",
@@ -298,6 +688,36 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/vasilati-cl/registru-hcl/243958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-8-2025",
+   "path": "local/calarasi/vasilati/2025/8",
+   "short": "HCL Vasilați nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 8/2025 privind aprobarea contului de încheiere a exercițiului bugetar pentru anul 2024",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/194308",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/194308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-9-2025",
+   "path": "local/calarasi/vasilati/2025/9",
+   "short": "HCL Vasilați nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 9/2025 privind revocarea parțială a Capitolului III al Anexei Hotărârii Consiliului Local Vasilați nr.44 din 28.11.2024",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/194309",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/194309",
      "sha256": null
     }
    ]

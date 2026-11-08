@@ -3,6 +3,96 @@
  "shard": "local/caras-severin/berzasca/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--berzasca-1-2024",
+   "path": "local/caras-severin/berzasca/2024/1",
+   "short": "HCL Berzasca nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 1/2024 privind aprobarea acoperirii deficitului secțiunii de dezvoltare, al comunei Berzasca din anul 2023, cu excedentul anului 2022, în sumă de 991.770,74 lei",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/165604",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/165604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-10-2024",
+   "path": "local/caras-severin/berzasca/2024/10",
+   "short": "HCL Berzasca nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 10/2024 privind aprobarea STUDIULUI DE FEZABILITATE ȘI A INDICATORILOR TEHNICO-ECONOMICI AFERENȚI OBIECTIVULUI DE INVESTIȚII ”Înființare parc fotovoltaic în vederea producerii energiei electrice din surse regenerabile de tip solar pentru Comuna Berzasca, Județul Caraș-Severin”",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166545",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-11-2024",
+   "path": "local/caras-severin/berzasca/2024/11",
+   "short": "HCL Berzasca nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 11/2024 privind aprobarea studiului de fezabilitate al proiectului ”Reabilitare sistem de alimentare cu apă, comuna Berzasca, localitățile Berzasca și Liubcova, Jud. Caraș-Severinț” reabilitare, suplimentare și extindere",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166565",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-12-2024",
+   "path": "local/caras-severin/berzasca/2024/12",
+   "short": "HCL Berzasca nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 12/2024 privind aprobarea documentației tehnico-economice a obiectivului de investiții ”ÎNFIINȚAREA UNUI CENTRU DE COLECTARE A DEȘEURILOR PRIN APORT VOLUNTAR ÎN COMUNA BERZASCA, JUDEȚUL CARAȘ-SEVERIN”",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166579",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-15-2024",
+   "path": "local/caras-severin/berzasca/2024/15",
+   "short": "HCL Berzasca nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 15/2024 privind participarea la Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate și acordul privind asigurarea și susținerea, din surse proprii, a cheltuielilor care nu sunt acoperite prin finanțarea acordată de AFM și a cheltuielilor neeligibile, pentru obiectivul de investiții ”Modernizare și extindere sistem de canalizare și extindere sistem de alimentare cu apă în comuna Berzasca, județul Caraș-Severin”",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166594",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-16-2024",
+   "path": "local/caras-severin/berzasca/2024/16",
+   "short": "HCL Berzasca nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 16/2024 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”Modernizare și extindere sistem de canalizare și extindere sistem de alimentare cu apă în comuna Berzasca, județul Caraș-Severin”, în vederea finanțării prin Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate, precum și a sumei reprezentând categoriile de cheltuieli finanțare de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166595",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166595",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-18-2024",
    "path": "local/caras-severin/berzasca/2024/18",
    "short": "HCL Berzasca nr. 18/2024",
@@ -28,6 +118,21 @@
      "from": "2024-08-27",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-2-2024",
+   "path": "local/caras-severin/berzasca/2024/2",
+   "short": "HCL Berzasca nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 2/2024 privind aprobarea utilizării excedentului bugetar al anului 2023, în sumă de 23.900 lei, pentru plata cheltuielilor de funcționare în anul 2024, respectiv pentru plata cheltuielilor de personal în anul 2024, la Serviciul de Alimentare cu Apă și de Canalizare, cu personalitate juridică, în subordinea Consiliului Local al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/165605",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/165605",
      "sha256": null
     }
    ]
@@ -148,6 +253,21 @@
      "from": "2024-11-27",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/178982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-3-2024",
+   "path": "local/caras-severin/berzasca/2024/3",
+   "short": "HCL Berzasca nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 3/2024 privind aprobarea contului de execuție a bugetului local al comunei Berzasca pe anul 2023, la data de 31.12.2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/165606",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/165606",
      "sha256": null
     }
    ]
@@ -298,6 +418,36 @@
      "from": "2024-11-27",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/179054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-4-2024",
+   "path": "local/caras-severin/berzasca/2024/4",
+   "short": "HCL Berzasca nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 4/2024 privind aprobarea utilizării excedentului bugetar al comunei Berzasca, din anul 2023, în sumă de 290.000 lei, pentru plata cheltuielilor de dezvoltare în anul 2024",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/165607",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/165607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-9-2024",
+   "path": "local/caras-severin/berzasca/2024/9",
+   "short": "HCL Berzasca nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 9/2024 privind demararea elaborării proiectului ”Înființare parc fotovoltaic în vederea producerii energiei electrice din surse regenerabile de tip solar pentru Comuna Berzasca, Județul Caraș-Severin”",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166544",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166544",
      "sha256": null
     }
    ]

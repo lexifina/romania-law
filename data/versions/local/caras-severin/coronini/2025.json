@@ -3,6 +3,291 @@
  "shard": "local/caras-severin/coronini/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--coronini-10-2025",
+   "path": "local/caras-severin/coronini/2025/10",
+   "short": "HCL Coronini nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 10/2025 privind Aprobarea Bugetului de credite interne pe anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205911",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-11-2025",
+   "path": "local/caras-severin/coronini/2025/11",
+   "short": "HCL Coronini nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 11/2025 privind participarea Comunei Coronini la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205913",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-13-2025",
+   "path": "local/caras-severin/coronini/2025/13",
+   "short": "HCL Coronini nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 13/2025 privind alocarea sumei de 20.000 lei pentru Organizarea Târgului de la Coronini",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205925",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-16-2025",
+   "path": "local/caras-severin/coronini/2025/16",
+   "short": "HCL Coronini nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 16/2025 privind aprobarea contractării unui împrumut în valoare de 1.500.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 privind asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215306",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-18-2025",
+   "path": "local/caras-severin/coronini/2025/18",
+   "short": "HCL Coronini nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 18/2025 privind rectificarea Bugetului Consiliului Local pe anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215313",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-19-2025",
+   "path": "local/caras-severin/coronini/2025/19",
+   "short": "HCL Coronini nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 19/2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215315",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-2-2025",
+   "path": "local/caras-severin/coronini/2025/2",
+   "short": "HCL Coronini nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 2/2025 privind aprobarea Planului de actiuni si lucrari de interes local pentru persoanele apte de munca din familiile beneficiare de Venit minim de incluziune, conform Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205896",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-20-2025",
+   "path": "local/caras-severin/coronini/2025/20",
+   "short": "HCL Coronini nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 20/2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215317",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-22-2025",
+   "path": "local/caras-severin/coronini/2025/22",
+   "short": "HCL Coronini nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 22/2025 privind aprobarea contractării unui împrumut în valoare de 1.500.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 privind asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215328",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-24-2025",
+   "path": "local/caras-severin/coronini/2025/24",
+   "short": "HCL Coronini nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 24/2025 privind rectificarea Bugetului Consiliului Local pe anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215329",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-25-2025",
+   "path": "local/caras-severin/coronini/2025/25",
+   "short": "HCL Coronini nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 25/2025 privind revocarea Hotărârii Consiliului Local Coronini nr. 16/29.04.2025 referitoare la aprobarea contractării unui împrumut în valoare de 1.500.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 privind asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215331",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-26-2025",
+   "path": "local/caras-severin/coronini/2025/26",
+   "short": "HCL Coronini nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 26/2025 privind organizarea evenimentului ,,Zilele Comunei Coronini” în anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215332",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-28-2025",
+   "path": "local/caras-severin/coronini/2025/28",
+   "short": "HCL Coronini nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 28/2025 privind rectificarea bugetului Consiliului Local pe anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240325",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-29-2025",
+   "path": "local/caras-severin/coronini/2025/29",
+   "short": "HCL Coronini nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 29/2025 privind rectificarea Bugetului de credite interne pe anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240326",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-3-2025",
+   "path": "local/caras-severin/coronini/2025/3",
+   "short": "HCL Coronini nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 3/2025 privind stabilirea normativului propriu de cheltuieli privind consumul de carburanți pentru autoturismele/utilajele primăriei Comunei Coronini pe anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205897",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-30-2025",
+   "path": "local/caras-severin/coronini/2025/30",
+   "short": "HCL Coronini nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 30/2025 privind aprobarea Actului adițional nr. 1 la Acordul de parteneriat nr. 36571/09.12.2022 pentru realizarea Proiectului “Cu bicicleta prin vest – traseu cicloturistic”, din Investiția I.4 – “Implementarea a 3000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta C11 – Turism și Cultură",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240327",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-32-2025",
+   "path": "local/caras-severin/coronini/2025/32",
+   "short": "HCL Coronini nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 32/2025 privind aprobarea documenteției de primă înregistrare în cartea funciară a Imobilului identificat prin : parte din parcela cu nr. top 828, înscris în Cartea Funciară nr. 146 Coronini",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240329",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-34-2025",
+   "path": "local/caras-severin/coronini/2025/34",
+   "short": "HCL Coronini nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 34/2025 privind aprobarea solicitarii prelungirii Scrisorii de garanție nr. 22/18.03.2021 de la FNGCIMM SA IFN în valoare de 130.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 130.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat „Construirealee pietonală pentru acces Cetate Ladislau și parcare adiacentă DN 57, în comuna Coronini, județul Caraș - Severin”, în baza contractului de finanțare nerambursabilă nr. C1920072R217251105160/ 30.09.2019 cu modificările și completările ulterioare, încheiat cu Agenția pentru Finanțarea Investițiilor Rurale",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240331",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-36-2025",
+   "path": "local/caras-severin/coronini/2025/36",
+   "short": "HCL Coronini nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 36/2025 privind aderarea Unității Administrativ -Teritoriale Comuna Coronini Județul CARAȘ-SEVERIN, prin Consiliul Local la PARTENERIATUL GAL PENTRU ACVACULTURĂ ȘI PESCUIT ,,LACUL DE ACUMULARE PORȚILE DE FIER”, pentru Acțiunea: 3.1.2 Selectarea strategiilor de dezvoltare locală a zonelor de pescuit și acvacultură, în cadrul Grupului de Acțiune Locală „Clisura Dunării”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240333",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240333",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-37-2025",
    "path": "local/caras-severin/coronini/2025/37",
    "short": "HCL Coronini nr. 37/2025",
@@ -43,6 +328,21 @@
      "from": "2025-12-11",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/240336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-4-2025",
+   "path": "local/caras-severin/coronini/2025/4",
+   "short": "HCL Coronini nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 4/2025 privind aprobarea încheierii Acordului de asociere între Federaţia Caritas a Diecezei Timişoara și Consiliul Local al comunei Coronini pentru finanțarea din bugetul local a contravalorii unui salar pentru o infirmieră, pentru anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205898",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205898",
      "sha256": null
     }
    ]
@@ -298,6 +598,36 @@
      "from": "2026-01-29",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/249258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-6-2025",
+   "path": "local/caras-severin/coronini/2025/6",
+   "short": "HCL Coronini nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 6/2025 privind aprobarea documentației de dezlipire a imobilului în suprafață de 764264 mp, identificat cu Nr. Cad. 136, top. 2228/8, înscris în CF nr. 31308 Coronini, nr. CF vechi 1254 Coronini, în 2 Loturi",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205905",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-9-2025",
+   "path": "local/caras-severin/coronini/2025/9",
+   "short": "HCL Coronini nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 9/2025 privind ,,Aprobarea Bugetului Consiliului Local al comunei Coronini pe capitole si subcapitole pe anul 2025”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205909",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205909",
      "sha256": null
     }
    ]

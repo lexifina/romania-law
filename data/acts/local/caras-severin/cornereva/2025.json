@@ -3,6 +3,29 @@
 "shard": "local/caras-severin/cornereva/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--cornereva-5-2025",
+"path": "local/caras-severin/cornereva/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 5/2025",
+"short": "HCL Cornereva nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/195126",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--cornereva-40-2025",
 "path": "local/caras-severin/cornereva/2025/40",
 "kind": "local",

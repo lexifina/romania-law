@@ -3,6 +3,73 @@
 "shard": "local/calarasi/ulmu/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--ulmu-8-2025",
+"path": "local/calarasi/ulmu/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 8/2025 privind modificarea si completarea anexei nr. 1 la Hotararea Consiliului Local nr. 33/16.11.2017 privind atribuirea de denumiri străzilor din cadrul comunei Ulmu, judeţul Călăraşi",
+"short": "HCL Ulmu nr. 8/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-21",
+"latest": "2025-05-21",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/208208",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-22-2025",
+"path": "local/calarasi/ulmu/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 22/2025 privind atribuirea in folosinta gratuita a suprafetei de 8 mp. aflata in proprietatea domeniului public a comunei Ulmu catre E-Distributie Dobrogea S.A",
+"short": "HCL Ulmu nr. 22/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-22",
+"latest": "2025-05-22",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/208351",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-38-2025",
+"path": "local/calarasi/ulmu/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 38/2025",
+"short": "HCL Ulmu nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/235397",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-39-2025",
 "path": "local/calarasi/ulmu/2025/39",
 "kind": "local",

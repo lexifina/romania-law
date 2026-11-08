@@ -3,6 +3,261 @@
  "shard": "local/caras-severin/carbunari/2023",
  "acts": [
   {
+   "slug": "hcl-caras-severin--carbunari-10-2023",
+   "path": "local/caras-severin/carbunari/2023/10",
+   "short": "HCL Cărbunari nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 10/2023 privind modificarea art.1 din HCL nr.5/01.02.2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/93860",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/93860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-11-2023",
+   "path": "local/caras-severin/carbunari/2023/11",
+   "short": "HCL Cărbunari nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 11/2023 privind aprobare dezlipire suprafete din imobil inscris in CF cad nr.30297 Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/93861",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/93861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-12-2023",
+   "path": "local/caras-severin/carbunari/2023/12",
+   "short": "HCL Cărbunari nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 12/2023 privind trecere din domeniul public in domeniul privat bunuri imobile",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/97170",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/97170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-14-2023",
+   "path": "local/caras-severin/carbunari/2023/14",
+   "short": "HCL Cărbunari nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 14/2023 privind completarea programului anual al achizitiilor publice pe anul 2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/102182",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/102182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-18-2023",
+   "path": "local/caras-severin/carbunari/2023/18",
+   "short": "HCL Cărbunari nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 18/2023 privind APROBAREA CONTULUI ANUAL DE EXECUTIE AL BUGETULUI SERVICIULUI DE ALIMENTARE CU APA PE ANUL 2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/104427",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/104427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-19-2023",
+   "path": "local/caras-severin/carbunari/2023/19",
+   "short": "HCL Cărbunari nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 19/2023 privind APROBAREA TAXEI DE INCHIRIERE SI A REGULAMENTULUI DE INCHIRIERE A UTILAJULUI DE TIP AUTOSPECIALA NISSAN CABSTAR NACELA (SH) AFLATA IN PATRIMONIUL COMUNEI CARBUNARI",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/104428",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/104428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-2-2023",
+   "path": "local/caras-severin/carbunari/2023/2",
+   "short": "HCL Cărbunari nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 2/2023 privind aprobarea bugetului local al comunei Carbunari pe anul 2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/88581",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/88581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-20-2023",
+   "path": "local/caras-severin/carbunari/2023/20",
+   "short": "HCL Cărbunari nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 20/2023 privind APROBAREA DOCUMENTATIEI TEHNICO ECONOMICE (FAZA DALI) SI A INDICATORILOR TEHNICO-ECONOMICI PENTRU PROIECTUL ,,REABILITARE SEDIU PRIMARIE COMUNA CARBUNARI ,,IN CADRUL PNRR COMPONENTA C10-FONDUL LOCAL,INVESTITIA I .3-REABILITAREA MODERATA A CLADIRILOR PUBLICE PENTRU A IMBUNATATI SERVICIILE PUBLICE PRESTATE LA NIVELUL UNITATILOR ADMINISTRATIV TERITORIALE",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/104429",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/104429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-21-2023",
+   "path": "local/caras-severin/carbunari/2023/21",
+   "short": "HCL Cărbunari nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 21/2023 privind ADERAREA SI INCLUDEREA TERITORIULUI COMUNEI CARBUNARI LA PARTENEIATUL/TERITORIUL LEADR CONSTITUIT PRIN ASOCIATIA GAL ,,CALUGARA,, PENTRU OBTINEREA SPRIJINULUI PREGATITOR,PENTRU SELECTIA SI IMPLEMENTAREA SDL PERIOADEI DE PROGRAMARE 2023-2027",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/104430",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/104430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-23-2023",
+   "path": "local/caras-severin/carbunari/2023/23",
+   "short": "HCL Cărbunari nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 23/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/109721",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/109721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-24-2023",
+   "path": "local/caras-severin/carbunari/2023/24",
+   "short": "HCL Cărbunari nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 24/2023 privind dezlipire suprafete imobile situate in UAT -comuna Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/109722",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/109722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-25-2023",
+   "path": "local/caras-severin/carbunari/2023/25",
+   "short": "HCL Cărbunari nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 25/2023 privind dezlipire suprafete imobile situate in UAT-comuna Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/112933",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/112933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-26-2023",
+   "path": "local/caras-severin/carbunari/2023/26",
+   "short": "HCL Cărbunari nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 26/2023 privind rectificare buget local an 2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/112934",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/112934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-27-2023",
+   "path": "local/caras-severin/carbunari/2023/27",
+   "short": "HCL Cărbunari nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 27/2023 privind completarea PAAP 2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/112935",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/112935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-28-2023",
+   "path": "local/caras-severin/carbunari/2023/28",
+   "short": "HCL Cărbunari nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 28/2023 privind defalcarea sumei de 40 000 lei prevazuta in bugetul local la cap.67 ,,Cultura,recreere si religie,,",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/112936",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/112936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-3-2023",
+   "path": "local/caras-severin/carbunari/2023/3",
+   "short": "HCL Cărbunari nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 3/2023 privind aprobarea bugetului de venituri si cheltuieli al Serviciului de alimentare cu apa al comunei Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/88582",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/88582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-30-2023",
+   "path": "local/caras-severin/carbunari/2023/30",
+   "short": "HCL Cărbunari nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 30/2023 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitia produselor eferente Programului pentru Scoli al Romaniei si a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea masurilor educative la nivelul UAT-comuna Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/119839",
+   "versions": [
+    {
+     "from": "2023-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/119839",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-32-2023",
    "path": "local/caras-severin/carbunari/2023/32",
    "short": "HCL Cărbunari nr. 32/2023",
@@ -118,6 +373,21 @@
      "from": "2023-10-30",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/126627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-4-2023",
+   "path": "local/caras-severin/carbunari/2023/4",
+   "short": "HCL Cărbunari nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 4/2023 privind aprobarea incetarii contractului de concesiune nr.3 din 9 mai 2013 incheiat intre Consiliul Local al comunei Carbunari si Asociatia Crescatorilor de Bovine Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/88583",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/88583",
      "sha256": null
     }
    ]
@@ -273,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-5-2023",
+   "path": "local/caras-severin/carbunari/2023/5",
+   "short": "HCL Cărbunari nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 5/2023 privind trecerea unor bunuri din domeniul public al comunei Carbunari in domeniul privat al comunei Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/88584",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/88584",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-50-2023",
    "path": "local/caras-severin/carbunari/2023/50",
    "short": "HCL Cărbunari nr. 50/2023",
@@ -298,6 +583,51 @@
      "from": "2023-12-22",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/135230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-6-2023",
+   "path": "local/caras-severin/carbunari/2023/6",
+   "short": "HCL Cărbunari nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 6/2023 privind organizarea retelei scolare a unitatilor de invatamant preuniversitar de stat de pe raza UAT Carbunari pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/88585",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/88585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-8-2023",
+   "path": "local/caras-severin/carbunari/2023/8",
+   "short": "HCL Cărbunari nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 8/2023 privind rectificarea bugetului local al comunei Carbunari pe anul 2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/90430",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/90430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-9-2023",
+   "path": "local/caras-severin/carbunari/2023/9",
+   "short": "HCL Cărbunari nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 9/2023 privind - aprobarea programului anual al achizitiilor publice pe anul 2023 in functie de fondurile aprobate in bugetul local pe anul 2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/93859",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/93859",
      "sha256": null
     }
    ]

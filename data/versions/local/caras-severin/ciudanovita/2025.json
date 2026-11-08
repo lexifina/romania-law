@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/ciudanovita/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--ciudanovita-10-2025",
+   "path": "local/caras-severin/ciudanovita/2025/10",
+   "short": "HCL Ciudanovița nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 10/2025 privind aprobarea alocării sumei din bugetul local pentru organizarea de activități culturale prilejuite de ,,Datini și obiceiuri de Fășanc comuna Ciudanovița,sat Jitin județul Caraș-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/195135",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/195135",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-100-2025",
    "path": "local/caras-severin/ciudanovita/2025/100",
    "short": "HCL Ciudanovița nr. 100/2025",
@@ -138,6 +153,936 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-11-2025",
+   "path": "local/caras-severin/ciudanovita/2025/11",
+   "short": "HCL Ciudanovița nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 11/2025 privind aprobarea actualizării Planului de Analiză și Acoperire a Riscurilor al comunei Ciudanovița,județ Caraș Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/195136",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/195136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-13-2025",
+   "path": "local/caras-severin/ciudanovita/2025/13",
+   "short": "HCL Ciudanovița nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 13/2025 privind stabilirea taxei de salubritate la nivelul Comunei Ciudanovița pentru anul 2025 și modul de plată către furnizorul de servicii",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/200711",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/200711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-14-2025",
+   "path": "local/caras-severin/ciudanovita/2025/14",
+   "short": "HCL Ciudanovița nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 14/2025 privind aprobarea suplimentării din bugetul local al Comunei Ciudanovița cu suma de 10.000 lei pentru obiectivul de investiții ”Reabilităre scara 2 bloc 2, localitatea Ciudanovița,Comuna Ciudanovița”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/200712",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/200712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-15-2025",
+   "path": "local/caras-severin/ciudanovita/2025/15",
+   "short": "HCL Ciudanovița nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 15/2025 privind aprobarea alocării sumei de 35.000 lei,de la bugetul local al comunei în anul 2025 pentru organizarea de activități culturale prilejuite de nedeia satului pentru comuna Ciudanovița,județul Caraș Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/200713",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/200713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-16-2025",
+   "path": "local/caras-severin/ciudanovita/2025/16",
+   "short": "HCL Ciudanovița nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 16/2025 privind aprobarea bugetului local al comunei Ciudanovița pe anul 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/200714",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/200714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-17-2025",
+   "path": "local/caras-severin/ciudanovita/2025/17",
+   "short": "HCL Ciudanovița nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 17/2025 privind aprobare încheiere Acord de parteneriat între U.A.T.Ciudanovița și Retromobil Club România",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/200715",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/200715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-18-2025",
+   "path": "local/caras-severin/ciudanovita/2025/18",
+   "short": "HCL Ciudanovița nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 18/2025 privind aprobarea Studiului de oportunitate, Documentatiei de atriburie si Caietului de sarcini in în vederea construirii unui parc fotovoltaic pe domeniul public al UAT Comuna Ciudanovița situat în extravilanul localității Ciudanovița inscrisa in CF 30710",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/200716",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/200716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-2-2025",
+   "path": "local/caras-severin/ciudanovita/2025/2",
+   "short": "HCL Ciudanovița nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 2/2025 privind acoperirea temporară a golurilor de casă provenite din decalajele între veniturile şi cheltuielile secţiunii de funcţionare în anul 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/191348",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/191348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-21-2025",
+   "path": "local/caras-severin/ciudanovita/2025/21",
+   "short": "HCL Ciudanovița nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 21/2025 privind rectificarea bugetului local al comunei Ciudanovița pe anul 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/204330",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/204330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-22-2025",
+   "path": "local/caras-severin/ciudanovita/2025/22",
+   "short": "HCL Ciudanovița nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 22/2025 privind aprobarea prelungirii prin acte adiționale a contractelor de concesiune pentru suprafețele de pajiști aflate în domeniul public al comunei Ciudanovița",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/204331",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/204331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-25-2025",
+   "path": "local/caras-severin/ciudanovita/2025/25",
+   "short": "HCL Ciudanovița nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 25/2025 privind aprobarea ofertei de servicii consultanță în domeniul achizițiilor publice",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/207214",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/207214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-26-2025",
+   "path": "local/caras-severin/ciudanovita/2025/26",
+   "short": "HCL Ciudanovița nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 26/2025 privind aprobarea ofertei servicii de elaborare audit energetic și expertiză tehnică pentru clădiri rezidențiale multifamiliale din comuna Ciudanovița",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/207215",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/207215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-27-2025",
+   "path": "local/caras-severin/ciudanovita/2025/27",
+   "short": "HCL Ciudanovița nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 27/2025 privind aprobare asfaltare străzi laterale în sat Jitin, comuna Ciudanovița, județul Caraș-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/207216",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/207216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-28-2025",
+   "path": "local/caras-severin/ciudanovita/2025/28",
+   "short": "HCL Ciudanovița nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 28/2025 privind aprobare asfaltare străzi laterale în sat Ciudanovița, comuna Ciudanovița, județul Caraș-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/207217",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/207217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-3-2025",
+   "path": "local/caras-severin/ciudanovita/2025/3",
+   "short": "HCL Ciudanovița nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 3/2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/191349",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/191349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-32-2025",
+   "path": "local/caras-severin/ciudanovita/2025/32",
+   "short": "HCL Ciudanovița nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 32/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc 2”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253232",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-33-2025",
+   "path": "local/caras-severin/ciudanovita/2025/33",
+   "short": "HCL Ciudanovița nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 33/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc A”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253233",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-34-2025",
+   "path": "local/caras-severin/ciudanovita/2025/34",
+   "short": "HCL Ciudanovița nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 34/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc B”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253234",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-35-2025",
+   "path": "local/caras-severin/ciudanovita/2025/35",
+   "short": "HCL Ciudanovița nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 35/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc C”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253235",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-36-2025",
+   "path": "local/caras-severin/ciudanovita/2025/36",
+   "short": "HCL Ciudanovița nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 36/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc D”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253236",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-37-2025",
+   "path": "local/caras-severin/ciudanovita/2025/37",
+   "short": "HCL Ciudanovița nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 37/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc E”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253237",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-38-2025",
+   "path": "local/caras-severin/ciudanovita/2025/38",
+   "short": "HCL Ciudanovița nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 38/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc 12”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253238",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-39-2025",
+   "path": "local/caras-severin/ciudanovita/2025/39",
+   "short": "HCL Ciudanovița nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 39/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc 15”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253239",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-4-2025",
+   "path": "local/caras-severin/ciudanovita/2025/4",
+   "short": "HCL Ciudanovița nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 4/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2025 propus a se realiza cu beneficiarii ajutorului de incluziune prevăzut de Legea nr.196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/191350",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/191350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-40-2025",
+   "path": "local/caras-severin/ciudanovita/2025/40",
+   "short": "HCL Ciudanovița nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 40/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc 20”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253240",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-41-2025",
+   "path": "local/caras-severin/ciudanovita/2025/41",
+   "short": "HCL Ciudanovița nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 41/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc 21”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253241",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-42-2025",
+   "path": "local/caras-severin/ciudanovita/2025/42",
+   "short": "HCL Ciudanovița nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 42/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc A1”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253242",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-43-2025",
+   "path": "local/caras-severin/ciudanovita/2025/43",
+   "short": "HCL Ciudanovița nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 43/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc A2”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253243",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-44-2025",
+   "path": "local/caras-severin/ciudanovita/2025/44",
+   "short": "HCL Ciudanovița nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 44/2025 privind aprobarea solicitării finanțării prin Programul național de consolidare a clădirilor cu risc seismic ridicat - Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile cu destinația principală de locuință, a indicatorilor tehnico-economici și a devizului general pentru obiectivul ,,Lucrări de consolidare seismică pentru clădirile rezidențiale multifamiliale din Comuna Ciudanovița , jud. Caraș-Severin, bloc A3”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253244",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-46-2025",
+   "path": "local/caras-severin/ciudanovita/2025/46",
+   "short": "HCL Ciudanovița nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 46/2025 privind aprobarea de “Servicii cadastrale de întocmire documentații tehnice de apartamentare “ pentru 13 imobile ( blocuri ) situate în intravilanul comunei Ciudanovița : Bloc 2 – CF 30521; Bloc 12 – CF 30523 ; Bloc 15 – CF 30525; Bloc 20 – 30531; Bloc 21 – CF 30529; Bloc A – CF 30524; Bloc B – CF 30533; Bloc C – CF 30534; Bloc D – CF 30528; Bloc E – CF 30527; Bloc A1 – CF 30526; Bloc A2 – CF 30532; Bloc A3 – CF 30522",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253277",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-47-2025",
+   "path": "local/caras-severin/ciudanovita/2025/47",
+   "short": "HCL Ciudanovița nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 47/2025 privind rectificarea bugetului local al comunei Ciudanovița pe anul 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253278",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-48-2025",
+   "path": "local/caras-severin/ciudanovita/2025/48",
+   "short": "HCL Ciudanovița nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 48/2025 privind aprobarea suplimentării din bugetul local al Comunei Ciudanovița cu suma de 79.000 lei , cost total pentru execuția lucrării pentru obiectivul de investiții ”Reabilităre scara 2 bloc 2, localitatea Ciudanovița, Comuna Ciudanovița”, conform Deviz General",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253279",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-49-2025",
+   "path": "local/caras-severin/ciudanovita/2025/49",
+   "short": "HCL Ciudanovița nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 49/2025 privind aprobarea actualizării valorii investitiței, a devizului general și a indicatorilor tehnico-economici aferenți proiectului „Reabilitare și modernizare sediu primăria Ciudanovița, localitatea Ciudanovița Colonie, comuna Ciudanovița, județul Caraș-Severin”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253280",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-5-2025",
+   "path": "local/caras-severin/ciudanovita/2025/5",
+   "short": "HCL Ciudanovița nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 5/2025 privind modificarea indicatorilor tehnico economici la obiectivul de investiții „Sistem de canalizare, racorduri canal și branșamente apă în localitățile Ciudanovița Colonie, Ciudanovița și sat Jitin, comuna Ciudanovița, județul Caraș-Severin”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/191351",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/191351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-50-2025",
+   "path": "local/caras-severin/ciudanovita/2025/50",
+   "short": "HCL Ciudanovița nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 50/2025 privind aprobarea lucrării de reparație rețea aducțiune apă, comuna Ciudanovița, județul Caraș-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253281",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-52-2025",
+   "path": "local/caras-severin/ciudanovita/2025/52",
+   "short": "HCL Ciudanovița nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 52/2025 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „SISTEM DE CANALIZARE, RACORDURI CANAL SI BRANSAMENTE APA IN LOCALITATILE CIUDANOVITA COLONIE, CIUDANOVITA SI SAT JITIN, COMUNA CIUDANOVITA, JUDETUL CARAS SEVERIN”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253283",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-53-2025",
+   "path": "local/caras-severin/ciudanovita/2025/53",
+   "short": "HCL Ciudanovița nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 53/2025 privind acordul Consiliului Local al Comunei Ciudanovița pentru ocuparea temporară pe toată durata de existență in fondul forestier al obiectivului de interes național ,, LEA 400 kV Reșița (România) -Pancevo (Serbia) ” pentru suprafața de 1,1915 ha",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253284",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-54-2025",
+   "path": "local/caras-severin/ciudanovita/2025/54",
+   "short": "HCL Ciudanovița nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 54/2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253285",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-55-2025",
+   "path": "local/caras-severin/ciudanovita/2025/55",
+   "short": "HCL Ciudanovița nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 55/2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253286",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-58-2025",
+   "path": "local/caras-severin/ciudanovita/2025/58",
+   "short": "HCL Ciudanovița nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 58/2025 privind aprobarea contului de executie al exercitiului bugetar la 31 martie 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253289",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-59-2025",
+   "path": "local/caras-severin/ciudanovita/2025/59",
+   "short": "HCL Ciudanovița nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 59/2025 privind aprobarea noilor valori de investiții la Proiectul “Reabilitare energetică a Școlii cu clasele I-VIII Ciudanovița, în Comuna Ciudanovița, Județul Caraș-Severin”, ca urmare a finalizării Proiectului Tehnic, la programul “ Planul Național de Redresare și Reziliență – Componenta C 10 – Fondul Local – Reabilitare moderată a clădirilor publice pentru a îmbunătății serviciile publice prestate prestate la nivelul unităților administrative-teritoriale “",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253290",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-60-2025",
+   "path": "local/caras-severin/ciudanovita/2025/60",
+   "short": "HCL Ciudanovița nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 60/2025 privind aprobarea alocării sumelor de bani pentru organizarea de activități culturale prilejuite de nedeile din sat Ciudanovița, sat Jitin și Seara de Film în Centrul Satului Ciudanovița, Comuna Ciudanovița, județul Caraș-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253291",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-62-2025",
+   "path": "local/caras-severin/ciudanovita/2025/62",
+   "short": "HCL Ciudanovița nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 62/2025 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „SISTEM DE CANALIZARE, RACORDURI CANAL SI BRANSAMENTE APA IN LOCALITATILE CIUDANOVITA COLONIE, CIUDANOVITA SI SAT JITIN, COMUNA CIUDANOVITA, JUDETUL CARAS SEVERIN”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253298",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-63-2025",
+   "path": "local/caras-severin/ciudanovita/2025/63",
+   "short": "HCL Ciudanovița nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 63/2025 privind rectificarea bugetului local al comunei Ciudanovița pe anul 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253299",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-64-2025",
+   "path": "local/caras-severin/ciudanovita/2025/64",
+   "short": "HCL Ciudanovița nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 64/2025 privind aprobarea contului de execuție al exercițiului bugetar la 30 iunie 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253300",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-66-2025",
+   "path": "local/caras-severin/ciudanovita/2025/66",
+   "short": "HCL Ciudanovița nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 66/2025 privind stabilirea măsurilor privind modul de colectare/stocare/valorificare și eliminare a deșeurilor din construcții, biodeșeurilor, a deșeurilor periculoase, a deșeurilor voluminoase și a deșeurilor textile generate de populație pe teritoriul comunei Ciudanovița",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253302",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-69-2025",
+   "path": "local/caras-severin/ciudanovita/2025/69",
+   "short": "HCL Ciudanovița nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 69/2025 privind aprobarea achiziției serviciilor de elaborare a documentației tehnico-economice, a proiectului și a cheltuielilor legate de obținerea finanțării pentru construire „ Parc fotovoltaic pentru autoconsum la nivelul comunei Ciudanovița”, judeţul Caraş-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253306",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-7-2025",
+   "path": "local/caras-severin/ciudanovita/2025/7",
+   "short": "HCL Ciudanovița nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 7/2025 privind aprobarea contului de executie al exercitiului bugetar la 31 decembrie 2024",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/195132",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/195132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-70-2025",
+   "path": "local/caras-severin/ciudanovita/2025/70",
+   "short": "HCL Ciudanovița nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 70/2025 privind aprobarea achiziției serviciilor de elaborare a documentației tehnice, în vederea obținerii finanțării nerambursabile pentru proiectul privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public pentru drumul vicinal Ciudanovița-Goruia (4,3 km) comuna Ciudanovița Jud. Caraș-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253307",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-71-2025",
+   "path": "local/caras-severin/ciudanovita/2025/71",
+   "short": "HCL Ciudanovița nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 71/2025 privind aprobarea modificării numărului de posturi de asistenti personali ai persoanelor cu handicap grav în cadrul UAT Ciudanovița",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253308",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-72-2025",
+   "path": "local/caras-severin/ciudanovita/2025/72",
+   "short": "HCL Ciudanovița nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 72/2025 privind aprobarea documentației de dezmembrare in trei loturi a imobilului în suprafață de 536623 mp, situat în UAT Ciudanovița județul Caraș-Severin în vederea administrării eficiente a patrimoniului local",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253309",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-74-2025",
+   "path": "local/caras-severin/ciudanovita/2025/74",
+   "short": "HCL Ciudanovița nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 74/2025 privind aprobarea Indicatorilor tehnico – economici actualizați şi aprobarea cofinanţării de la bugetul local, pentru obiectivul de investiţii „Modernizare drum vicinal Ciudanoviţa - Goruia ( 4,3 km ), comuna Ciudanoviţa, judeţul Caraş-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253311",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-76-2025",
+   "path": "local/caras-severin/ciudanovita/2025/76",
+   "short": "HCL Ciudanovița nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 76/2025 privind rectificarea bugetului local al comunei Ciudanovița pe anul 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253317",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-77-2025",
+   "path": "local/caras-severin/ciudanovita/2025/77",
+   "short": "HCL Ciudanovița nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 77/2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253318",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-78-2025",
+   "path": "local/caras-severin/ciudanovita/2025/78",
+   "short": "HCL Ciudanovița nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 78/2025 privind “LUCRĂRI DE PIETRUIRE DRUM ÎN LOCALITATEA JITIN, COMUNA CIUDANOVIȚA, JUDEȚUL CARAȘ-SEVERIN”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253319",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-79-2025",
+   "path": "local/caras-severin/ciudanovita/2025/79",
+   "short": "HCL Ciudanovița nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 79/2025 privind aprobarea dezmembrării/dezlipirii suprafeței de teren de 191879 mp din totalul de 3184402 mp identificată în CF nr. 202 Ciudanovita, top 737/a/1/2 situat administrativ în extravilanul comunei Ciudanovita și atestarea apartenenței la domeniul privat al comunei Ciudanovita, în vederea înscrierii în evidențele de cadastru și publicitate imobiliară",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253320",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-8-2025",
+   "path": "local/caras-severin/ciudanovita/2025/8",
+   "short": "HCL Ciudanovița nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 8/2025 privind aprobarea alocării din bugetul local al Comunei Ciudanovița a sumei de 50.000 lei în vederea reabilitării scara 2 bloc 2",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/195133",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/195133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-80-2025",
+   "path": "local/caras-severin/ciudanovita/2025/80",
+   "short": "HCL Ciudanovița nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 80/2025 privind aprobarea proiectului „Dotarea infrastructurii sociale și de agrement a comunei Ciudanovița”, aprobarea indicatorilor tehnico-economici ai acestuia, precum şi aprobarea unor măsuri necesare implementării lui",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253321",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-82-2025",
+   "path": "local/caras-severin/ciudanovita/2025/82",
+   "short": "HCL Ciudanovița nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 82/2025 privind aprobarea organizării și funcționării Târgului de Craciun 2025 din localitatea Ciudanovița, județul Caraș-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253323",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-83-2025",
+   "path": "local/caras-severin/ciudanovita/2025/83",
+   "short": "HCL Ciudanovița nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 83/2025 privind aprobarea alocării din bugetul local al Comunei Ciudanovița a sumei de 5000 lei în vederea achiziționării pungilor cadou de Crăciun pentru elevii Școlii Gimnaziale Ciudanovița",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253324",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-85-2025",
+   "path": "local/caras-severin/ciudanovita/2025/85",
+   "short": "HCL Ciudanovița nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 85/2025 privind majorarea sumei acordate cu titlu de subvenție de la bugetul local al Comunei Ciudanovița pentru acoperirea cheltuielilor cu serviciul de salubritate pe anul 2025",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253340",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-88-2025",
+   "path": "local/caras-severin/ciudanovita/2025/88",
+   "short": "HCL Ciudanovița nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 88/2025 privind neasumarea Comunei Ciudanovița a derulării procedurilor de atribuire a contractelor /acordurilor cadru pentru achiziția produselor și a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli, în perioada 2026-2029",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/253343",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253343",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-89-2025",
    "path": "local/caras-severin/ciudanovita/2025/89",
    "short": "HCL Ciudanovița nr. 89/2025",
@@ -148,6 +1093,21 @@
      "from": "2026-04-21",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/253344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-9-2025",
+   "path": "local/caras-severin/ciudanovita/2025/9",
+   "short": "HCL Ciudanovița nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 9/2025 privind aprobare lucrări de reparație stație tratare apă comuna Ciudanovița, județul Caraș-Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/195134",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/195134",
      "sha256": null
     }
    ]

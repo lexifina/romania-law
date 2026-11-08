@@ -3,6 +3,426 @@
  "shard": "local/caras-severin/berzasca/2020",
  "acts": [
   {
+   "slug": "hcl-caras-severin--berzasca-1-2020",
+   "path": "local/caras-severin/berzasca/2020/1",
+   "short": "HCL Berzasca nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 1/2020 privind acoperirea deficitului secțiunii de dezvoltare din anul 2019, cu excedentul anului 2018, în sumă de 277.581,64 lei",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/870",
+   "versions": [
+    {
+     "from": "2020-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-10-2020",
+   "path": "local/caras-severin/berzasca/2020/10",
+   "short": "HCL Berzasca nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 10/2020 privind restabilirea salariilor personalului contractual al Serviciului de alimentare cu apă și de canalizare al comunei Berzasca, cu personalitate juridică, în subordinea Consiliului Local al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/902",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-11-2020",
+   "path": "local/caras-severin/berzasca/2020/11",
+   "short": "HCL Berzasca nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 11/2020 privind aprobarea planului de acţiuni şi lucrări de interes local pe anul 2020, pentru beneficiarii de ajutor social precum şi pentru persoanele care urmează să efectueze acţiuni şi lucrări de interes local, precum și pentru părinţii care au în întreţinere copii şi a fost instituită o măsură de protecţie a plasamentului copilului, să desfăşoare activităţi în folosul comunităţii, şi pentru persoanele minore şi majore pentru executarea pedepsei amenzii prin prestarea unei munci neremunerate în folosul comunităţii",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/903",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-15-2020",
+   "path": "local/caras-severin/berzasca/2020/15",
+   "short": "HCL Berzasca nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 15/2020 privind aprobarea bugetului local al comunei Berzasca pe anul 2020",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/907",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-17-2020",
+   "path": "local/caras-severin/berzasca/2020/17",
+   "short": "HCL Berzasca nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 17/2020 privind asumarea/neasumarea Programului pentru școli al României în perioada 2017 – 2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/909",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-18-2020",
+   "path": "local/caras-severin/berzasca/2020/18",
+   "short": "HCL Berzasca nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 18/2020 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat și particular din raza unității administrativ - teritoriale a comunei Berzasca pentru anul şcolar 2020 – 2021",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/923",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-2-2020",
+   "path": "local/caras-severin/berzasca/2020/2",
+   "short": "HCL Berzasca nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 2/2020 privind aprobarea utilizării excedentului bugetar al anului 2019, la Serviciul Public Local de Salubrizare, din subordinea Consiliului Local al comunei Berzasca, în sumă de 10.460, 80 lei, pentru plata cheltuielilor de personal în anul 2020",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/885",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-20-2020",
+   "path": "local/caras-severin/berzasca/2020/20",
+   "short": "HCL Berzasca nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 20/2020 privind modificarea și completarea Hotărârii Consiliului Local al comunei Berzasca Nr. 14 din 27.02.2017 pentru aprobarea Regulamentului privind vânzarea bunurilor imobile - terenuri şi construcţii, proprietate privată a comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/925",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-24-2020",
+   "path": "local/caras-severin/berzasca/2020/24",
+   "short": "HCL Berzasca nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 24/2020 privind modificarea și completarea Hotărârii Consiliului Local al comunei Berzasca Nr. 56 din 31.07.2017 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului comunei Berzasca și serviciile publice din subordinea Consiliului Local al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/929",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-26-2020",
+   "path": "local/caras-severin/berzasca/2020/26",
+   "short": "HCL Berzasca nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 26/2020 privind transformarea unor funcții publice de execuție vacante și modificarea Statului de funcții, al aparatului de specialitate al primarului comunei Berzasca, județul Caraș-Severin",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8910",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-27-2020",
+   "path": "local/caras-severin/berzasca/2020/27",
+   "short": "HCL Berzasca nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 27/2020 privind aprobarea Notei și a Temei și a notei de proiectare pentru obiectivul de investiții ''Înființare rețea de distribuție gaze naturale în comuna Berzasca''",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8911",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-28-2020",
+   "path": "local/caras-severin/berzasca/2020/28",
+   "short": "HCL Berzasca nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 28/2020 privind modificarea HCL nr. 24 din 30.04.2020 , HCL 56 din 31.07.2017",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8912",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-29-2020",
+   "path": "local/caras-severin/berzasca/2020/29",
+   "short": "HCL Berzasca nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 29/2020 privind aprobarea Planului de măsuri pentru prevenirea apariției Pestei Porcine Africane",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8913",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-3-2020",
+   "path": "local/caras-severin/berzasca/2020/3",
+   "short": "HCL Berzasca nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 3/2020 privind aprobarea utilizării excedentului bugetar al anului 2019, la Serviciul de Alimentare cu Apă și de Canalizare, din subordinea Consiliului Local al comunei Berzasca, în sumă de 10.217, 59 lei, pentru plata cheltuielilor de personal în anul 2020",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/886",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-30-2020",
+   "path": "local/caras-severin/berzasca/2020/30",
+   "short": "HCL Berzasca nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 30/2020 privind stingerea unor obligații fiscale, din evidențele fiscale ale bugetului local al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8914",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-32-2020",
+   "path": "local/caras-severin/berzasca/2020/32",
+   "short": "HCL Berzasca nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 32/2020 privind rectificare de buget local pe trimestrul II, anul 2020",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8917",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-34-2020",
+   "path": "local/caras-severin/berzasca/2020/34",
+   "short": "HCL Berzasca nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 34/2020 privind revocarea HCL nr. 20/09.03.2020 privind modificarea și completarea HCL nr. 14/27.02.2017 pentru aprobarea Regulamentului privind vânzarea bunurilor imobile-terenuri și construcții, proprietate privată a comunei Berzasca, respectiv a HCL nr. 14/27.02.2017",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8919",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-35-2020",
+   "path": "local/caras-severin/berzasca/2020/35",
+   "short": "HCL Berzasca nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 35/2020 privind încheierea unui protocol de colaborare cu Administrația Bazinală de Apă Banat",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8920",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-36-2020",
+   "path": "local/caras-severin/berzasca/2020/36",
+   "short": "HCL Berzasca nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 36/2020 privind aderarea comunei Berzasca la Asociația - ASOCIAȚIA BANAT CLISURA DUNĂRII",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8921",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-37-2020",
+   "path": "local/caras-severin/berzasca/2020/37",
+   "short": "HCL Berzasca nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 37/2020 privind stabilirea taxelor speciale locale pentru colectarea deșeurilor de pescarii sportivi sau amatori",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8922",
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-38-2020",
+   "path": "local/caras-severin/berzasca/2020/38",
+   "short": "HCL Berzasca nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 38/2020",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8927",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-4-2020",
+   "path": "local/caras-severin/berzasca/2020/4",
+   "short": "HCL Berzasca nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 4/2020 privind aprobarea Procedurii pentru intervenția de urgență în cazurile de violență domestică şi a componenței echipei mobile de intervenție",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/896",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-40-2020",
+   "path": "local/caras-severin/berzasca/2020/40",
+   "short": "HCL Berzasca nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 40/2020 privind aprobarea Documentației de atribuire alcătuită din caiet de sarcini, fișa de date a procedurii, contractul-cadru de vânzare-cumpărare conținând clauze contractuale obligatorii, formulare și modele de documente, de înscriere pentru participarea la licitația publică de vânzare a unor imobile - terenuri, proprietate privată a comunei Berzasca, situate în intravilanul localității Cozla, comuna Berzasca, județul Caraș-Severin, pentru desfășurarea unor activități economice în domeniul turismului",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8929",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-41-2020",
+   "path": "local/caras-severin/berzasca/2020/41",
+   "short": "HCL Berzasca nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 41/2020 privind aprobarea efectuării plății serviciilor de consultanță - întocmirea Amenajamnetului pastoral",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8930",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-43-2020",
+   "path": "local/caras-severin/berzasca/2020/43",
+   "short": "HCL Berzasca nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 43/2020 privind rectificarea de buget local pe trimestrul III, anul 2020",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8932",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-44-2020",
+   "path": "local/caras-severin/berzasca/2020/44",
+   "short": "HCL Berzasca nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 44/2020 privind repartizarea și utilizarea excedentului anului 2019",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8933",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-45-2020",
+   "path": "local/caras-severin/berzasca/2020/45",
+   "short": "HCL Berzasca nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 45/2020 privind aprobarea Regulamentului de salubrizare al județului Caraș-Severin",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8941",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-46-2020",
+   "path": "local/caras-severin/berzasca/2020/46",
+   "short": "HCL Berzasca nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 46/2020 privind modificarea organigramei, a statului de funcții a aparatului de specialitate al primarului comunei Berzasca și a serviciilor de interes local",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/8942",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8942",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-47-2020",
    "path": "local/caras-severin/berzasca/2020/47",
    "short": "HCL Berzasca nr. 47/2020",
@@ -48,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-5-2020",
+   "path": "local/caras-severin/berzasca/2020/5",
+   "short": "HCL Berzasca nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 5/2020 privind modificarea Statului de funcții, al aparatului de specialitate al primarului comunei Berzasca, județul Caraș – Severin",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/897",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/897",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-50-2020",
    "path": "local/caras-severin/berzasca/2020/50",
    "short": "HCL Berzasca nr. 50/2020",
@@ -58,6 +493,21 @@
      "from": "2020-08-28",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/8953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-6-2020",
+   "path": "local/caras-severin/berzasca/2020/6",
+   "short": "HCL Berzasca nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 6/2020 privind achiziționarea unor pubele din material plastic, de culoare neagră și a două platforme supraterane cu 4 containere pentru colectarea selectivă(Hârtie/Plastic/Sticlă/Deșeu Menajer), în cadrul comunei Berzasca, județul Caraș – Severin",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/898",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/898",
      "sha256": null
     }
    ]
@@ -298,6 +748,36 @@
      "from": "2020-12-30",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/20060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-8-2020",
+   "path": "local/caras-severin/berzasca/2020/8",
+   "short": "HCL Berzasca nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 8/2020 privind aprobarea contului de execuție a bugetului local al comunei Berzasca pe anul 2019, la data de 31.12.2019",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/900",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-9-2020",
+   "path": "local/caras-severin/berzasca/2020/9",
+   "short": "HCL Berzasca nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 9/2020 privind restabilirea salariilor personalului contractual al Serviciului Public Local de Salubrizare, cu personalitate juridică, în subordinea Consiliului Local al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/901",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/901",
      "sha256": null
     }
    ]

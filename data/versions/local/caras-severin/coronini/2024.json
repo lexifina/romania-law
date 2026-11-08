@@ -3,6 +3,66 @@
  "shard": "local/caras-severin/coronini/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--coronini-19-2024",
+   "path": "local/caras-severin/coronini/2024/19",
+   "short": "HCL Coronini nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 19/2024 privind aprobarea proiectului cu titlul „CONSOLIDARE, RESTAURARE, CONSERVARE ȘI PROTECȚIE CETATEA LADISLAU, REALIZAREA UNUI PUNCT DE BELVEDERE PRIN REAMENAJAREA TURN-ului 3 de sud-vest, CONSERVAREA ZIDURILOR ȘI A TURNURILOR CETĂȚII CU ASIZE DE PIATRĂ, AMENAJARE PLATFORME ȘI PASARELE, CONSTRUIRE CORP ANEXĂ, REALIZARE INSTALATII ELECTRICE SI SANITARE, REALIZARE ILUMINAT ARHITECTURAL SI AMBIENTAL, AMENAJARE INCINTA SIT, REALIZARE ALEI PIETONALE” – SMIS 119102 - ETAPA 2 și a cheltuielilor aferente investiției”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164620",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-23-2024",
+   "path": "local/caras-severin/coronini/2024/23",
+   "short": "HCL Coronini nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 23/2024 privind aprobarea principalelor caracteristici, a indicatorilor tehnico – economici și a Devizului General ai obiectivului de investiții ,,MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA CORONINI, JUDEȚUL CARAȘ SEVERIN”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164624",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-24-2024",
+   "path": "local/caras-severin/coronini/2024/24",
+   "short": "HCL Coronini nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 24/2024 privind aprobarea Principalelor caracteristici, a indicatorilor tehnico – economici și a Devizului General ai obiectivului de investiții ,,EXTINDEREA SURSEI DE APĂ ȘI MODERNIZAREA BRANȘAMENTELOR ÎN COMUNA CORONINI, JUD. CARAȘ-SEVERIN”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164625",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-30-2024",
+   "path": "local/caras-severin/coronini/2024/30",
+   "short": "HCL Coronini nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 30/2024 privind aprobarea proiectului cu titlul „CONSOLIDARE, RESTAURARE, CONSERVARE ȘI PROTECȚIE CETATEA LADISLAU, REALIZAREA UNUI PUNCT DE BELVEDERE PRIN REAMENAJAREA TURN-ului 3 de sud-vest, CONSERVAREA ZIDURILOR ȘI A TURNURILOR CETĂȚII CU ASIZE DE PIATRĂ, AMENAJARE PLATFORME ȘI PASARELE, CONSTRUIRE CORP ANEXĂ, REALIZARE INSTALATII ELECTRICE SI SANITARE, REALIZARE ILUMINAT ARHITECTURAL SI AMBIENTAL, AMENAJARE INCINTA SIT, REALIZARE ALEI PIETONALE” – SMIS 119102 - ETAPA 2 și a cheltuielilor aferente investiției”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/165484",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/165484",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-31-2024",
    "path": "local/caras-severin/coronini/2024/31",
    "short": "HCL Coronini nr. 31/2024",

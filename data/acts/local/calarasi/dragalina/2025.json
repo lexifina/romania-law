@@ -3,6 +3,116 @@
 "shard": "local/calarasi/dragalina/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--dragalina-15-2025",
+"path": "local/calarasi/dragalina/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 15/2025 privind stadiul înscrierii datelor în registrul agricol al comunei Dragalina, pe trimestrul IV , anul 2024",
+"short": "HCL Dragalina nr. 15/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/194941",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dragalina-16-2025",
+"path": "local/calarasi/dragalina/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 16/2025 privind aprobarea Strategiei de Dezvoltare a Serviciilor Sociale acordate la nivelul comunei Dragalina, pentru perioada 2025-2027",
+"short": "HCL Dragalina nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/194942",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dragalina-19-2025",
+"path": "local/calarasi/dragalina/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 19/2025 privind aprobarea tipului de suport alimentar acordat prin Programul Național „Masă sănatoasă” pentru preșcolarii și elevii „LTDZ” Dragalina, județul Călărași în anul 2025, pe perioada desfășurării cursurilor",
+"short": "HCL Dragalina nr. 19/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-03",
+"latest": "2025-03-03",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/194945",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dragalina-25-2025",
+"path": "local/calarasi/dragalina/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 25/2025 privind stabilirea coeficienților și salariilor de bază pentru salariații Serviciului Public de Alimentare cu Apă și Canalizare al comunei Dragalina, serviciu de utilitate publică aflat în subordinea Consiliului Local al comunei Dragalina , județul Călărași",
+"short": "HCL Dragalina nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/202943",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dragalina-67-2025",
+"path": "local/calarasi/dragalina/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 67/2025 privind stabilirea modului de întocmire a registrului agricol al Comunei Dragalina , Județul Călărași pentru perioada 2025 - 2029",
+"short": "HCL Dragalina nr. 67/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-05",
+"latest": "2025-08-05",
+"portal": "https://emol.ro/dragalina-cl/registru-hcl/220078",
+"council": "calarasi/dragalina",
+"council_name": "Consiliul Local al Comunei Dragalina",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-calarasi--dragalina-104-2025",
 "path": "local/calarasi/dragalina/2025/104",
 "kind": "local",

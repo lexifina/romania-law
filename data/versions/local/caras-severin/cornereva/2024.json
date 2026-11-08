@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--cornereva-4-2024",
+   "path": "local/caras-severin/cornereva/2024/4",
+   "short": "HCL Cornereva nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 4/2024 privind aprobarea bugetului local de venituri si cheltuieli la nivelul comunei Cornereva pe anul 2024",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/141735",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/141735",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--cornereva-40-2024",
    "path": "local/caras-severin/cornereva/2024/40",
    "short": "HCL Cornereva nr. 40/2024",
@@ -298,6 +313,21 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/cornereva-cs/registru-hcl/185330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-5-2024",
+   "path": "local/caras-severin/cornereva/2024/5",
+   "short": "HCL Cornereva nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 5/2024 privind aprobarea indicatorilor tehnico-economici pentru elaborarea Planului Urbanistic General și a Regulamentului Local de Urbanism al comunei Cornereva",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/141736",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/141736",
      "sha256": null
     }
    ]

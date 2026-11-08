@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--cornereva-5-2025",
+   "path": "local/caras-severin/cornereva/2025/5",
+   "short": "HCL Cornereva nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 5/2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/195126",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/195126",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--cornereva-50-2025",
    "path": "local/caras-severin/cornereva/2025/50",
    "short": "HCL Cornereva nr. 50/2025",

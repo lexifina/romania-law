@@ -3,6 +3,186 @@
  "shard": "local/caras-severin/bautar/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--bautar-1-2022",
+   "path": "local/caras-severin/bautar/2022/1",
+   "short": "HCL Băuțar nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 1/2022 privind încheierea execițiului bugetar al anului 2021",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73356",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-10-2022",
+   "path": "local/caras-severin/bautar/2022/10",
+   "short": "HCL Băuțar nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 10/2022",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73973",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-11-2022",
+   "path": "local/caras-severin/bautar/2022/11",
+   "short": "HCL Băuțar nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 11/2022 privind aprobarea Planului de lucrări de interes local ce se vor executa în anul 2022 cu persoanele majore apte de muncă din familiile beneficiare de ajutor social",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73974",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-13-2022",
+   "path": "local/caras-severin/bautar/2022/13",
+   "short": "HCL Băuțar nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 13/2022 privind execuția bugetară pe anul 2021",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73976",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-14-2022",
+   "path": "local/caras-severin/bautar/2022/14",
+   "short": "HCL Băuțar nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 14/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74004",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-15-2022",
+   "path": "local/caras-severin/bautar/2022/15",
+   "short": "HCL Băuțar nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 15/2022 privind aprobarea spre cheltuială a sumelor din excedentul bugetar local la 31.12.2021",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74005",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-16-2022",
+   "path": "local/caras-severin/bautar/2022/16",
+   "short": "HCL Băuțar nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 16/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74014",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-17-2022",
+   "path": "local/caras-severin/bautar/2022/17",
+   "short": "HCL Băuțar nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 17/2022 privind revocarea HCL nr. 06 din data de 11.02.2022",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74015",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-18-2022",
+   "path": "local/caras-severin/bautar/2022/18",
+   "short": "HCL Băuțar nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 18/2022 privind aprobarea cererii de finanțare prin Programul Național de Investiții Anghel Saligny și a devizului general aferente Proiectului ÎNFIINȚARE SERVICIULUI DE DISTRIBUȚIE GAZE NATURALE, CU REȚELE INTELIGENTE ÎN COMUNA BĂUȚAR, JUD. CARAȘ SEVERIN în vederea depunerii în cadrul Programului Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74020",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-20-2022",
+   "path": "local/caras-severin/bautar/2022/20",
+   "short": "HCL Băuțar nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 20/2022 privind aprobarea achiziționării unei autospeciale de pompieri, necesară pentru buna desfășurare a activității Serviciului Voluntar pentru Situații de Urgență Băuțar din cadrul instituției Primăriei comunei Băuțar, județul Caraș-Severin, județul Caraș-Severin",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74022",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-21-2022",
+   "path": "local/caras-severin/bautar/2022/21",
+   "short": "HCL Băuțar nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 21/2022 privind aprobarea spre cheltuială a sumelor din excedentul bugetar local la 31.12.2021",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74023",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-22-2022",
+   "path": "local/caras-severin/bautar/2022/22",
+   "short": "HCL Băuțar nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 22/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74024",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-24-2022",
    "path": "local/caras-severin/bautar/2022/24",
    "short": "HCL Băuțar nr. 24/2022",
@@ -88,6 +268,21 @@
      "from": "2022-09-30",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/74038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-3-2022",
+   "path": "local/caras-severin/bautar/2022/3",
+   "short": "HCL Băuțar nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 3/2022 privind aprobarea Strategiei anuale de achiziții publice și a Programului anual de achiziții publice la nivelul comunei Băuțar, județul Caraș-Severin",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73868",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73868",
      "sha256": null
     }
    ]
@@ -243,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-4-2022",
+   "path": "local/caras-severin/bautar/2022/4",
+   "short": "HCL Băuțar nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 4/2022 privind aprobarea organigramei",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73869",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73869",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-40-2022",
    "path": "local/caras-severin/bautar/2022/40",
    "short": "HCL Băuțar nr. 40/2022",
@@ -298,6 +508,81 @@
      "from": "2022-12-27",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/101308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-5-2022",
+   "path": "local/caras-severin/bautar/2022/5",
+   "short": "HCL Băuțar nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 5/2022 privind aprobarea Strategiei de dezvoltare locală a comunei Băuțar, județul Caraș-Severin 2022-2027",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73870",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-6-2022",
+   "path": "local/caras-severin/bautar/2022/6",
+   "short": "HCL Băuțar nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 6/2022 privind aprobarea instituirii unei taxe pentru utilizarea infrastructurii publice drumurilor comunale sau a altor categorii de drumuri, terenuri aflate în proprietatea sau administrarea comunie, de către echipamente, utilaje, care transportă material lemnos",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73871",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-7-2022",
+   "path": "local/caras-severin/bautar/2022/7",
+   "short": "HCL Băuțar nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 7/2022 privind aprobarea bugetului local al comunei Băuțar pe anul 2022",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73872",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-8-2022",
+   "path": "local/caras-severin/bautar/2022/8",
+   "short": "HCL Băuțar nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 8/2022 privind aprobarea spre chetuială a sumelor din excedentul bugetar local la 31.12.2021",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73873",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-9-2022",
+   "path": "local/caras-severin/bautar/2022/9",
+   "short": "HCL Băuțar nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 9/2022 privind Serviciul de salubrizare, aprobare, Contractului cadru, Regulamentului și Caiete de sarcini pentru activități din cadrul serviciului de salubrizare comunei Băuțar",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73972",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73972",
      "sha256": null
     }
    ]

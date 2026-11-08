@@ -3,6 +3,216 @@
  "shard": "local/caras-severin/armenis/2023",
  "acts": [
   {
+   "slug": "hcl-caras-severin--armenis-1-2023",
+   "path": "local/caras-severin/armenis/2023/1",
+   "short": "HCL Armeniș nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 1/2023 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunii dezvoltare,sursa A",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/99961",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/99961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-10-2023",
+   "path": "local/caras-severin/armenis/2023/10",
+   "short": "HCL Armeniș nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 10/2023 privind aprobarea prelungirii contractelor de concesiune pentru suprafetele de pajisti aflate in domeniul public al comunei Armenis",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/100130",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/100130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-11-2023",
+   "path": "local/caras-severin/armenis/2023/11",
+   "short": "HCL Armeniș nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 11/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/103698",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/103698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-12-2023",
+   "path": "local/caras-severin/armenis/2023/12",
+   "short": "HCL Armeniș nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 12/2023 privind aprobarea proiectului ,,Dotarea cu echipamente digitale,mobilier si materiale didactice a unitatilor de invatamant din unitatea administarativ-teritoriala comuna Armenis'' si participarea beneficiarului comuna Armenis in cadrul proiectului din Planul National de Redresare si Rezilienta(PNRR)",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/103699",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/103699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-13-2023",
+   "path": "local/caras-severin/armenis/2023/13",
+   "short": "HCL Armeniș nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 13/2023 privind aprobarea mentinerii comunei Armenis,judetul Caras-Severin la parteneriatul ,,Asociatia GAL Tara Gugulanilor\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/103700",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/103700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-14-2023",
+   "path": "local/caras-severin/armenis/2023/14",
+   "short": "HCL Armeniș nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 14/2023 privind aprobarea utilizarii sumei de 12,50 mii din excedentul de la finele anului 2022 pentru acoperirea golurilor temporare de casa ale sectiunii de dezvoltare 40.02.13 in vederea restituirii sumei incasate in anii precedenti din fonduri FEADR.Restituirea sumei se datoreaza incetarii prin acordul partilor a Contractului de finantare nr.1370/20.04.2022 incheiat cu Ministerul Investitiilor si Proiectelor Europene pentru investitia,, Consolidarea capacitatii unitatii de invatamant preuniversitar din Comuna Armenis,jud.Caras-Severin,de gestionare a situatiei de pandemie generata de virusul Sars-Cov-2''",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/103701",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/103701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-15-2023",
+   "path": "local/caras-severin/armenis/2023/15",
+   "short": "HCL Armeniș nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 15/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107759",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-16-2023",
+   "path": "local/caras-severin/armenis/2023/16",
+   "short": "HCL Armeniș nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 16/2023 privind aprobarea indicatorilor tehnico-econoici aferenti lucrarilor la obiectivul ,,REABILITARE TERMICA A SCOLII DIN LOCALITATEA FENEȘ,COMUNA ARMENIȘ,JUDEȚUL CARAȘ-SEVERIN\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107760",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-17-2023",
+   "path": "local/caras-severin/armenis/2023/17",
+   "short": "HCL Armeniș nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 17/2023 privind aprobarea indicatorilor tehnico-economici aferenti lucrarilor la obiectivul de investitie:,,REABILITARE TERMICA A SCOLII DIN LOCALITATEA ARMENIS,COMUNA ARMENIS,JUDETUL CARAS-SEVERIN\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107761",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-19-2023",
+   "path": "local/caras-severin/armenis/2023/19",
+   "short": "HCL Armeniș nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 19/2023 privind aprobarea solicitarii Scrisorii de garantie nr.360/25.07.2018 de la FNGCIMM SA IFN in valoare de 375.000,00 li in vederea garantarii obligatiilor de plata a avansului de 375.000,00 din fonduri nerambursabile pentru implementarea proiectului intitulat- ,,REABILITARE,MODERNIZARE SI DOTARE CAMIN CULTURAL DIN LOCALITATEA SAT-BATRAN,COMUNA ARMENIS,JUDETUL CARAS-SEVERIN\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107763",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-2-2023",
+   "path": "local/caras-severin/armenis/2023/2",
+   "short": "HCL Armeniș nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 2/2023 privind reorganizarea retelei scolare a unitatilor de invatamant preuniversitor din raza teritoriala a comunei Armenis pentru anul 2023-2024",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/99962",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/99962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-24-2023",
+   "path": "local/caras-severin/armenis/2023/24",
+   "short": "HCL Armeniș nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 24/2023 privind aprobarea delegarii dreptului de depunere a aplicației de finanțare către U.A.T.județu Caraș-Severin și a Acordului de Parteneriat pentru proiectul,,MICROBUZE ELECTRICE PENTRU ELEVII JUDEȚULUI CARAȘ-SEVERIN\",in vederea depunerii acestuia in cadrul Apelului de proiecte,,Microbuze electrice pentru elevi\",ce va fi finanțat prin Planul Național de Redresare și Reziliență-Componenta C15:Educație",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/121988",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/121988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-25-2023",
+   "path": "local/caras-severin/armenis/2023/25",
+   "short": "HCL Armeniș nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 25/2023 privind emiterea acordului in vederea constituirii dreptului de acces a SC RCS & RDS SA pentru terenul in suprafată de 300 mmp,situat n zona de interes Varful Țarcu,comuna Armeniș inscris in CF nr.30601 Armeniș,pășune",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/121989",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/121989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-26-2023",
+   "path": "local/caras-severin/armenis/2023/26",
+   "short": "HCL Armeniș nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 26/2023 privind privind rectificarea bugetului local 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/121990",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/121990",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-29-2023",
    "path": "local/caras-severin/armenis/2023/29",
    "short": "HCL Armeniș nr. 29/2023",
@@ -13,6 +223,21 @@
      "from": "2023-10-11",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/136311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-3-2023",
+   "path": "local/caras-severin/armenis/2023/3",
+   "short": "HCL Armeniș nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 3/2023 privind aprobarea bugetului de venituri si cheltuieli al comunei Armenis pe anul 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/100027",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/100027",
      "sha256": null
     }
    ]
@@ -168,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--armenis-4-2023",
+   "path": "local/caras-severin/armenis/2023/4",
+   "short": "HCL Armeniș nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 4/2023 privind aprobarea indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitii,,MODERNIZARE DRUM COMUNAL DC 23,STRAZI SI DRUMURI VICINALE IN COMUNA ARMENIS,JUDETUL CARAS-SEVERIN\",aprobat pentru finantare prin Programul National de Investitii ,,Anghel Saligny\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/100028",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/100028",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-40-2023",
    "path": "local/caras-severin/armenis/2023/40",
    "short": "HCL Armeniș nr. 40/2023",
@@ -298,6 +538,81 @@
      "from": "2023-12-08",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/138466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-5-2023",
+   "path": "local/caras-severin/armenis/2023/5",
+   "short": "HCL Armeniș nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 5/2023 privind aprobarea Planului Anual al Achizitiilor Publice",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/100029",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/100029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-6-2023",
+   "path": "local/caras-severin/armenis/2023/6",
+   "short": "HCL Armeniș nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 6/2023 privind aprobarea indicatorilor tehnico -economici pentru obiectivul de investitie:,,CONSTRUIREA UNUI ANSAMBLU DE LOCUINTE SOCIALE IN LOCALITATEA FENES,COMUNA ARMENIS,JUDETUL CARAS-SEVERIN\"",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/100030",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/100030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-7-2023",
+   "path": "local/caras-severin/armenis/2023/7",
+   "short": "HCL Armeniș nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 7/2023 privind completarea Planului Anual al Achizitiilor Publice pe anul 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/100127",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/100127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-8-2023",
+   "path": "local/caras-severin/armenis/2023/8",
+   "short": "HCL Armeniș nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 8/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/100128",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/100128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-9-2023",
+   "path": "local/caras-severin/armenis/2023/9",
+   "short": "HCL Armeniș nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 9/2023 privind aprobarea cheltuielilor privind asigurarea sonorizarilor si a programelor artistice pentru organizarea ,,Balului portului popular-Balul Izmenelor\"-editia a XXXIV-a,organizat la Caminul Cultural Armenis in data de 24.02.2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/100129",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/100129",
      "sha256": null
     }
    ]

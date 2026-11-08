@@ -301,6 +301,36 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-6-2024",
+   "path": "local/calarasi/nana/2024/6",
+   "short": "HCL Nana nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 6/2024 privind aprobarea Planului de acțiune pentru getionarea câinilor fără stăpân de pe raza comunei Nana",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156784",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--nana-7-2024",
+   "path": "local/calarasi/nana/2024/7",
+   "short": "HCL Nana nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Nana nr. 7/2024 privind aprobarea modalitatii de organizare a pazei bunurilor publice, ale cetatenilor si a Planului de paza, la nivelul comunei Nana, judetul Calarasi pentru anul 2024",
+   "url": "https://emol.ro/nana-cl/registru-hcl/156785",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nana-cl/registru-hcl/156785",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

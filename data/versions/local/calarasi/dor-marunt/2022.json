@@ -3,6 +3,696 @@
  "shard": "local/calarasi/dor-marunt/2022",
  "acts": [
   {
+   "slug": "hcl-calarasi--dor-marunt-1-2022",
+   "path": "local/calarasi/dor-marunt/2022/1",
+   "short": "HCL Dor Mărunt nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 1/2022 privind acoperirea definitivă a deficitului bugetar",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49671",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-10-2022",
+   "path": "local/calarasi/dor-marunt/2022/10",
+   "short": "HCL Dor Mărunt nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 10/2022 privind aprobarea taxei de închiriere și a Regulamentului privind modalitatea de închiriere a utilajului încărcător frontal aflat în patrimoniul UAT Dor Mărunt, jud. Călărași",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49680",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-11-2022",
+   "path": "local/calarasi/dor-marunt/2022/11",
+   "short": "HCL Dor Mărunt nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 11/2022 privind atestarea apartenenței la domeniul privat al comunei Dor Mărunt a unor imobile terenuri",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49681",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-12-2022",
+   "path": "local/calarasi/dor-marunt/2022/12",
+   "short": "HCL Dor Mărunt nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 12/2022 privind aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al Primarului comunei Dor Mărunt pentru anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49682",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-13-2022",
+   "path": "local/calarasi/dor-marunt/2022/13",
+   "short": "HCL Dor Mărunt nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 13/2022 la proiectul de hotărâre privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49683",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-14-2022",
+   "path": "local/calarasi/dor-marunt/2022/14",
+   "short": "HCL Dor Mărunt nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 14/2022 privind aprobarea bugetului local al comunei Dor Mărunt și a listei obiectivelor de investiții pentru anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/50442",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/50442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-17-2022",
+   "path": "local/calarasi/dor-marunt/2022/17",
+   "short": "HCL Dor Mărunt nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 17/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/53266",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/53266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-18-2022",
+   "path": "local/calarasi/dor-marunt/2022/18",
+   "short": "HCL Dor Mărunt nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 18/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/54535",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/54535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-19-2022",
+   "path": "local/calarasi/dor-marunt/2022/19",
+   "short": "HCL Dor Mărunt nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 19/2022 privind stabilirea normativului privind consumul mediu de carburant al autovehiculelor aflate în dotarea Primăriei Dor Mărunt",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/54536",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/54536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-2-2022",
+   "path": "local/calarasi/dor-marunt/2022/2",
+   "short": "HCL Dor Mărunt nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 2/2022 privind aprobarea organizării rețelei școlare de pe raza Comunei Dor Mărunt în anul școlar 2022-2023",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49672",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-20-2022",
+   "path": "local/calarasi/dor-marunt/2022/20",
+   "short": "HCL Dor Mărunt nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 20/2022 privind aprobarea Regulamentului de organizare şi funcţionare a Serviciului de iluminat, a Indicatorilor de performanță, a Studiului de Oportunitate, stabilirea formei de gestiune, a Caietului de sarcini a serviciului de iluminat public şi Contractul cadru de delegarea gestiunii pentru activităţile de întreţinere şi reparații a sistemului de iluminat public, verificarea/repararea, montarea/demontarea ornamentelor pentru sărbători din Comuna Dor Marunt, judet Calarasi",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/54537",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/54537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-21-2022",
+   "path": "local/calarasi/dor-marunt/2022/21",
+   "short": "HCL Dor Mărunt nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 21/2022 privind aprobarea Studiului de Fezabilitate pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Calarasi și Ialomița, în perioada 2014-2020”, a indicatorilor tehnico-economici ai proiectului si a indicatorilor tehnico-economici pentru Comuna Dor Marunt",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/54538",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/54538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-22-2022",
+   "path": "local/calarasi/dor-marunt/2022/22",
+   "short": "HCL Dor Mărunt nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 22/2022 privind aprobarea cofinantarii investitiilor din ” Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Calarasi și Ialomița, în perioada 2014-2020”, aferente Comunei Dor Marunt",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/54539",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/54539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-24-2022",
+   "path": "local/calarasi/dor-marunt/2022/24",
+   "short": "HCL Dor Mărunt nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 24/2022 privind aprobarea dezmembrării unor imobile terenuri situate în domeniul privat al comunei Dor Mărunt, jud. Călărași",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57448",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-25-2022",
+   "path": "local/calarasi/dor-marunt/2022/25",
+   "short": "HCL Dor Mărunt nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 25/2022 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Dor Mărunt, județul Călărași",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57449",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-27-2022",
+   "path": "local/calarasi/dor-marunt/2022/27",
+   "short": "HCL Dor Mărunt nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 27/2022 privind aprobarea contului de execuție bugetară pe trimestrul I al anului 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57451",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-28-2022",
+   "path": "local/calarasi/dor-marunt/2022/28",
+   "short": "HCL Dor Mărunt nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 28/2022 privind aprobarea utilizării unei sume din excedentul bugetar rezultat la sfârșitul anului 2021",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57452",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-29-2022",
+   "path": "local/calarasi/dor-marunt/2022/29",
+   "short": "HCL Dor Mărunt nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 29/2022 privind aprobarea numărului de burse și a cuantumului burselor pentru elevii din învățământul preuniversitar de stat pentru anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57453",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-3-2022",
+   "path": "local/calarasi/dor-marunt/2022/3",
+   "short": "HCL Dor Mărunt nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 3/2022 privind aprobarea contului de execuție bugetară pe trimestrul IV al anului 2021",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49673",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-30-2022",
+   "path": "local/calarasi/dor-marunt/2022/30",
+   "short": "HCL Dor Mărunt nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 30/2022 privind aprobarea Regulamentului de eliberare a avizului de principiu și a acordului administratorului drumurilor pentru lucrările aferente rețelelor tehnico - edilitare, realizate pe proprietatea domeniului public al comunei Dor Mărunt, județul Călărași, care afectează structura căilor de comunicații rutiere, străzilor, trotuarelor, aleilor și spațiilor verzi",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57454",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-31-2022",
+   "path": "local/calarasi/dor-marunt/2022/31",
+   "short": "HCL Dor Mărunt nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 31/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57455",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-32-2022",
+   "path": "local/calarasi/dor-marunt/2022/32",
+   "short": "HCL Dor Mărunt nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 32/2022 privind aprobarea notei conceptuale și a temei de proiectare pentru obiectivul de investiții ”Creșterea eficienței energetice a sediului primăriei comunei Dor Mărunt, județul Călărași”",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57456",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-33-2022",
+   "path": "local/calarasi/dor-marunt/2022/33",
+   "short": "HCL Dor Mărunt nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 33/2022 privind aprobarea documentației tehnico – economice pentru lucrări de reparații curente ”Teren de sport Școala Gimnazială Nr. 2 Dor Mărunt Gară”",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57457",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-34-2022",
+   "path": "local/calarasi/dor-marunt/2022/34",
+   "short": "HCL Dor Mărunt nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 34/2022 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul I al anului 2022 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57458",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-35-2022",
+   "path": "local/calarasi/dor-marunt/2022/35",
+   "short": "HCL Dor Mărunt nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 35/2022 privind adoptarea unor măsuri de optimizare a capacității de apărare împotriva incendiilor pe teritoriul comunei Dor Mărunt, jud. Călărași",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57459",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-36-2022",
+   "path": "local/calarasi/dor-marunt/2022/36",
+   "short": "HCL Dor Mărunt nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 36/2022 la proiectul de hotărâre privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57460",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-37-2022",
+   "path": "local/calarasi/dor-marunt/2022/37",
+   "short": "HCL Dor Mărunt nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 37/2022 privind aprobarea dispoziției de șantier nr. 1 și a actului adițional nr. 1. la contractul de execuție lucrări nr. 59/18.01.2022 privind obiectivul de investiții ”Construire Grădiniță cu program normal în localitatea Dâlga, jud. Călărași",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/57461",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/57461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-39-2022",
+   "path": "local/calarasi/dor-marunt/2022/39",
+   "short": "HCL Dor Mărunt nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 39/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/61366",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/61366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-4-2022",
+   "path": "local/calarasi/dor-marunt/2022/4",
+   "short": "HCL Dor Mărunt nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 4/2022 privind aprobarea actului adițional nr. 1. la contractul de servicii de salubritate nr. 687/03.12.2020",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49674",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-40-2022",
+   "path": "local/calarasi/dor-marunt/2022/40",
+   "short": "HCL Dor Mărunt nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 40/2022 privind aprobarea proiectului „CREAREA UNUI SISTEM INTELIGENT DE MANAGEMENT ÎN COMUNA DOR MĂRUNT PRIN INTEGRAREA DATELOR SPAȚIALE DIN TEREN INTR-O SOLUȚIE GEOSPATIALĂ ( G.I.S ) PRIN PNRR /2022/ C10 ACTIUNEA I.1.2”",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/61367",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/61367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-42-2022",
+   "path": "local/calarasi/dor-marunt/2022/42",
+   "short": "HCL Dor Mărunt nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 42/2022 privind aprobarea Planului de analiză și acoperire a riscurilor la nivelul comunei Dor Mărunt pentru anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/66673",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/66673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-43-2022",
+   "path": "local/calarasi/dor-marunt/2022/43",
+   "short": "HCL Dor Mărunt nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 43/2022 privind aprobarea actului adițional nr. 2. la contractul de servicii de salubritate nr. 687/03.12.2020",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/66674",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/66674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-44-2022",
+   "path": "local/calarasi/dor-marunt/2022/44",
+   "short": "HCL Dor Mărunt nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 44/2022 privind documentației tehnico – economice privind lucrări de reparații curente ale străzilor din comuna Dor Mărunt",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/66675",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/66675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-45-2022",
+   "path": "local/calarasi/dor-marunt/2022/45",
+   "short": "HCL Dor Mărunt nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 45/2022 privind aprobarea actului adițional nr. 2 la contractul de execuție lucrări nr. 59/18.01.2022 privind obiectivul de investiții ”Construire Grădiniță cu program normal în localitatea Dâlga, jud. Călărași",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/66676",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/66676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-46-2022",
+   "path": "local/calarasi/dor-marunt/2022/46",
+   "short": "HCL Dor Mărunt nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 46/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/66677",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/66677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-48-2022",
+   "path": "local/calarasi/dor-marunt/2022/48",
+   "short": "HCL Dor Mărunt nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 48/2022 privind aprobarea contului de execuție bugetară pe trimestrul II al anului 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/67027",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/67027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-49-2022",
+   "path": "local/calarasi/dor-marunt/2022/49",
+   "short": "HCL Dor Mărunt nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 49/2022 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul II al anului 2022 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/67028",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/67028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-50-2022",
+   "path": "local/calarasi/dor-marunt/2022/50",
+   "short": "HCL Dor Mărunt nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 50/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/67029",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/67029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-51-2022",
+   "path": "local/calarasi/dor-marunt/2022/51",
+   "short": "HCL Dor Mărunt nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 51/2022 la proiectul de hotărâre privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/67030",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/67030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-52-2022",
+   "path": "local/calarasi/dor-marunt/2022/52",
+   "short": "HCL Dor Mărunt nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 52/2022 privind aprobarea lucrărilor de reparații curente și întreținere ale sediului Școlii Gimnaziale nr. 1 Dâlga Gară",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/67031",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/67031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-53-2022",
+   "path": "local/calarasi/dor-marunt/2022/53",
+   "short": "HCL Dor Mărunt nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 53/2022 privind aprobarea devizului general actualizat pentru obiectivul de investiții ”Modernizare străzi prin asfaltare în comuna Dor Mărunt, satele Dor Mărunt și Dâlga, județul Călărași”, aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”, precum și a sumei reprezentând categoriile cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/69617",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/69617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-54-2022",
+   "path": "local/calarasi/dor-marunt/2022/54",
+   "short": "HCL Dor Mărunt nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 54/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/69618",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/69618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-55-2022",
+   "path": "local/calarasi/dor-marunt/2022/55",
+   "short": "HCL Dor Mărunt nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 55/2022 privind aprobarea Planului de apărare în cazul producerii unei situații de urgență specifice provocate de cutremure și/sau alunecări de teren la nivelul comunei Dor Mărunt, județul Călărași",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/72003",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/72003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-57-2022",
+   "path": "local/calarasi/dor-marunt/2022/57",
+   "short": "HCL Dor Mărunt nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 57/2022 privind aprobarea documentației tehnico - economice pentru lucrări de reparații curente Baza Sportivă Dâlga",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/72005",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/72005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-58-2022",
+   "path": "local/calarasi/dor-marunt/2022/58",
+   "short": "HCL Dor Mărunt nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 58/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/72006",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/72006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-60-2022",
+   "path": "local/calarasi/dor-marunt/2022/60",
+   "short": "HCL Dor Mărunt nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 60/2022 privind rectificarea de buget local pe anul 2022",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/73747",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/73747",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dor-marunt-61-2022",
    "path": "local/calarasi/dor-marunt/2022/61",
    "short": "HCL Dor Mărunt nr. 61/2022",
@@ -133,6 +823,21 @@
      "from": "2023-01-29",
      "units": 1,
      "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/77721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-7-2022",
+   "path": "local/calarasi/dor-marunt/2022/7",
+   "short": "HCL Dor Mărunt nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 7/2022 Privind analiza stadiului de înscriere a datelor în Registrul agricol pentru Trimestrul IV al anului 2021 şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49677",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49677",
      "sha256": null
     }
    ]
@@ -298,6 +1003,21 @@
      "from": "2023-01-29",
      "units": 1,
      "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/85259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-9-2022",
+   "path": "local/calarasi/dor-marunt/2022/9",
+   "short": "HCL Dor Mărunt nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 9/2022 privind aprobarea Acordurilor de parteneriat între Școala Gimnazială nr. Dor Mărunt Sat și Asociațiile ”EDIT”, respectiv ”RESPIRO”",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/49679",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/49679",
      "sha256": null
     }
    ]

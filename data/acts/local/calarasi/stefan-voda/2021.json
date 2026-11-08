@@ -3,6 +3,29 @@
 "shard": "local/calarasi/stefan-voda/2021",
 "acts": [
 {
+"slug": "hcl-calarasi--stefan-voda-1-2021",
+"path": "local/calarasi/stefan-voda/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 1/2021",
+"short": "HCL Ștefan Vodă nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-15",
+"latest": "2021-01-15",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/28246",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-3-2021",
 "path": "local/calarasi/stefan-voda/2021/3",
 "kind": "local",

@@ -3,6 +3,117 @@
 "shard": "local/caras-severin/carbunari/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--carbunari-3-2025",
+"path": "local/caras-severin/carbunari/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 3/2025 privind aprobarea bugetului local de venituri si cheltuieli al comunei Carbunari pe anul 2025",
+"short": "HCL Cărbunari nr. 3/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/200863",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--carbunari-4-2025",
+"path": "local/caras-severin/carbunari/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 4/2025 privind aprobarea bugetului de venituri si cheltuieli pe anul 2025 al SERVICIULUI DE ALIMENTARE CU APA AL COMUNEI CARBUNARI si al CLUBULUI SPORTIV COMUNAL VIITORUL CARBUNARI",
+"short": "HCL Cărbunari nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/200864",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--carbunari-5-2025",
+"path": "local/caras-severin/carbunari/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 5/2025 privind aprobare dezlipire imobil in 2 loturi ,privind imobilul inscris in CF 30310 Carbunari",
+"short": "HCL Cărbunari nr. 5/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/200865",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--carbunari-6-2025",
+"path": "local/caras-severin/carbunari/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 6/2025",
+"short": "HCL Cărbunari nr. 6/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/202015",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--carbunari-7-2025",
+"path": "local/caras-severin/carbunari/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 7/2025 privind aprobarea rectificarii bugetului local al comunei Carbunari pe anul 2025",
+"short": "HCL Cărbunari nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/202016",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-caras-severin--carbunari-8-2025",
 "path": "local/caras-severin/carbunari/2025/8",
 "kind": "local",

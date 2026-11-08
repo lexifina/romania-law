@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Valea Argovei nr. 20/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general in urma desfasurarii procedurilor de achizitie de servicii de proiectare, executie lucrari, consultanta in implementare si dirigentie de santier pentru obiectivul de investiții „Asfaltarea drumurilor de interes local in satele Valea Argovei si Vladiceasca, comuna Valea Argovei, judetul Calarasi”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului
+
+HCL Valea Argovei nr. 20/2024 · 1 versions, from 2024-04-04 (latest in force: 2024-04-04) · <https://emol.ro/valeaargovei-cl/registru-hcl/149732>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-calarasi--valea-argovei-20-2024` (tags `hcl-calarasi--valea-argovei-20-2024/<day>`; `python tools/on.py <day> hcl-calarasi--valea-argovei-20-2024`).
+
+## Decisions made by hand
+
+- HCL Valea Argovei nr. 20/2024: listed from Consiliul Local al Comunei Valea Argovei (emol.ro); metadata only for now: no document of it is held.
+- HCL Valea Argovei nr. 20/2024: dated from 4 April 2024, the day the council's register gives it as published (adopted 28 March 2024).
+- HCL Valea Argovei nr. 20/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

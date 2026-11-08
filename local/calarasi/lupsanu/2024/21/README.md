@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Lupșanu nr. 21/2024 privind aprobarea proiectului tehnic actualizat, a indicatorilor tehnico-economici (rest de executat), actualizați și a devizului general actualizat (rest de executat) pentru obiectivul de investiții ,, Modernizare străzi în comuna Lupșanu, județul Călărași,, aprobat pentru finanțare prin Programului național de investiții ,, Anghel Saligny,, , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții
+
+HCL Lupșanu nr. 21/2024 · 1 versions, from 2024-03-29 (latest in force: 2024-03-29) · <https://emol.ro/lupsanu-cl/registru-hcl/151104>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-calarasi--lupsanu-21-2024` (tags `hcl-calarasi--lupsanu-21-2024/<day>`; `python tools/on.py <day> hcl-calarasi--lupsanu-21-2024`).
+
+## Decisions made by hand
+
+- HCL Lupșanu nr. 21/2024: listed from Consiliul Local al Comunei Lupșanu (emol.ro); metadata only for now: no document of it is held.
+- HCL Lupșanu nr. 21/2024: dated from 29 March 2024, the day it was adopted (the register gives no later day of publication).
+- HCL Lupșanu nr. 21/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

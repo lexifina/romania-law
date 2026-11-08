@@ -3,6 +3,28 @@
 "shard": "local/calarasi/soldanu/2023",
 "acts": [
 {
+"slug": "hcl-calarasi--soldanu-1-2023",
+"path": "local/calarasi/soldanu/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 1/2023 privind aprobarea modificării Anexei nr. 1 la Hotârârea Consiliului Local al Comunei Șoldanu nr. 83 din 20.12.2022",
+"short": "HCL Șoldanu nr. 1/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/85583",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-calarasi--soldanu-53-2023",
 "path": "local/calarasi/soldanu/2023/53",
 "kind": "local",

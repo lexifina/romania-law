@@ -3,6 +3,138 @@
 "shard": "local/caras-severin/coronini/2023",
 "acts": [
 {
+"slug": "hcl-caras-severin--coronini-4-2023",
+"path": "local/caras-severin/coronini/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 4/2023 privind stabilirea normativului propriu de cheltuieli privind consumul de carburanți pentru autoturismele/utilajele primăriei Comunei Coronini pe anul 2023",
+"short": "HCL Coronini nr. 4/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/103725",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-9-2023",
+"path": "local/caras-severin/coronini/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 9/2023 privind aprobarea proiectului „Provocări comune, soluții comune” (Programul Interreg - IPA România – Serbia 2021-2027, Prioritatea 1, Obiectiv specific 1.1)",
+"short": "HCL Coronini nr. 9/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/103730",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-14-2023",
+"path": "local/caras-severin/coronini/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 14/2023 privind aprobarea proiectului ”DOTAREA CU MOBILIER, ECHIPAMENTE DIDACTICE SI TIC A UNITĂȚILOR EDUCAȚIONALE DIN COMUNA CORONINI”",
+"short": "HCL Coronini nr. 14/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/103735",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-18-2023",
+"path": "local/caras-severin/coronini/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 18/2023 privind aprobarea contractării unui împrumut în valoare de 900.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+"short": "HCL Coronini nr. 18/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/140907",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-32-2023",
+"path": "local/caras-severin/coronini/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 32/2023 privind aprobarea solicitarii prelungirii Scrisorii de garanție nr. 22/18.03.2021 de la FNGCIMM SA IFN în valoare de 130.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 130.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat „Construire alee pietonală pentru acces Cetate Ladislau și parcare adiacentă DN 57, în comuna Coronini, județul Caraș - Severin”, în baza contractului de finanțare nerambursabilă nr. C1920072R217251105160/ 30.09.2019 cu modificările și completările ulterioare, încheiat cu Agenția pentru Finanțarea Investițiilor Rurale",
+"short": "HCL Coronini nr. 32/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/140927",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-35-2023",
+"path": "local/caras-severin/coronini/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 35/2023 privind aprobarea Acordului de Înfrățire între Comuna Coronini, județul Caraș Severin din România și Orașul Golubac, districtul Braničevo din Republica Serbia",
+"short": "HCL Coronini nr. 35/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-05",
+"latest": "2024-02-05",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/140930",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-46-2023",
 "path": "local/caras-severin/coronini/2023/46",
 "kind": "local",

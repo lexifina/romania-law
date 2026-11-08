@@ -3,6 +3,74 @@
 "shard": "local/calarasi/gurbanesti/2025",
 "acts": [
 {
+"slug": "hcl-calarasi--gurbanesti-15-2025",
+"path": "local/calarasi/gurbanesti/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 15/2025",
+"short": "HCL Gurbănești nr. 15/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/224302",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-21-2025",
+"path": "local/calarasi/gurbanesti/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 21/2025",
+"short": "HCL Gurbănești nr. 21/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/224313",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-38-2025",
+"path": "local/calarasi/gurbanesti/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 38/2025 privind emiterea avizului/acordului prealabil în vederea executării de lucrări de construire în zona drumurilor de interes local situate pe raza comunei Gurbănești pentru obiectivele „CONSTRUIRE CENTRALĂ ELECTRICĂ EOLIANĂ GURBĂNEȘTI, JUDEȚUL CĂLĂRAȘI , CU MAXIMUM 60 DE GRUPURI GENERATOARE EOLIENE ȘI RACORD ELECTRIC LA SEN”; „RACORDAREA LA SEN A CENTRALEI ELECTRICE EOLIENE GURBĂNEȘTI-REALIZARE LINIE ELECTRICĂ ÎNALTĂ TENSIUNE ȘI INSTALAȚII ELECTRICE CONEXE PENTRU RACORDAREA LA REȚEAUA ELECTRICĂ DE INTERES PUBLIC A PARCULUI EOLIAN GURBĂNEȘTI”",
+"short": "HCL Gurbănești nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/224378",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-calarasi--gurbanesti-39-2025",
 "path": "local/calarasi/gurbanesti/2025/39",
 "kind": "local",

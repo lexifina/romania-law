@@ -3,6 +3,111 @@
  "shard": "local/caras-severin/doclin/2023",
  "acts": [
   {
+   "slug": "hcl-caras-severin--doclin-1-2023",
+   "path": "local/caras-severin/doclin/2023/1",
+   "short": "HCL Doclin nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 1/2023 privind preluarea ca venit la bugetul local a excedentului rezultat din execuția bugetului de venituri și cheltuieli a activităților finanțate integral din venituri proprii a Serviciului Public de Alimentare cu Apă și Canalizare al Comunei Doclin – Consiliul local Doclin",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/92054",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/92054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-13-2023",
+   "path": "local/caras-severin/doclin/2023/13",
+   "short": "HCL Doclin nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 13/2023 privind revocarea Hotărârii Consiliului local Doclin nr.7/2023 privind aprobarea instituirii taxei pentru utilizarea infrastructurii publice locale",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/101971",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/101971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-14-2023",
+   "path": "local/caras-severin/doclin/2023/14",
+   "short": "HCL Doclin nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 14/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/101972",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/101972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-16-2023",
+   "path": "local/caras-severin/doclin/2023/16",
+   "short": "HCL Doclin nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 16/2023 privind aprobarea modului de valorificare a masei lemnoase în anul 2023 şi a preţului masei lemnoase destinat valorificării",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/105115",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/105115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-2-2023",
+   "path": "local/caras-severin/doclin/2023/2",
+   "short": "HCL Doclin nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 2/2023 privind adoptarea bugetului de venituri şi cheltuieli al Comunei Doclin și a bugetului de venituri şi cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare al Comunei Doclin – Consiliul local Doclin pe anul 2023",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/92166",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/92166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-22-2023",
+   "path": "local/caras-severin/doclin/2023/22",
+   "short": "HCL Doclin nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 22/2023 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/114024",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/114024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-23-2023",
+   "path": "local/caras-severin/doclin/2023/23",
+   "short": "HCL Doclin nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 23/2023 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin pe anul 2023",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/115867",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/115867",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--doclin-24-2023",
    "path": "local/caras-severin/doclin/2023/24",
    "short": "HCL Doclin nr. 24/2023",
@@ -88,6 +193,21 @@
      "from": "2023-09-28",
      "units": 1,
      "source_url": "https://emol.ro/doclin-cs/registru-hcl/120043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-3-2023",
+   "path": "local/caras-severin/doclin/2023/3",
+   "short": "HCL Doclin nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 3/2023 privind utilizarea sumelor din excedentul anilor precedenți",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/92167",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/92167",
      "sha256": null
     }
    ]
@@ -243,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--doclin-4-2023",
+   "path": "local/caras-severin/doclin/2023/4",
+   "short": "HCL Doclin nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 4/2023 Privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/92168",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/92168",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--doclin-40-2023",
    "path": "local/caras-severin/doclin/2023/40",
    "short": "HCL Doclin nr. 40/2023",
@@ -298,6 +433,51 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/doclin-cs/registru-hcl/134895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-5-2023",
+   "path": "local/caras-severin/doclin/2023/5",
+   "short": "HCL Doclin nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 5/2023 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin pe anul 2023",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/92927",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/92927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-6-2023",
+   "path": "local/caras-severin/doclin/2023/6",
+   "short": "HCL Doclin nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 6/2023 privind aprobarea încheierii a unui protocol de colaborare instituțională cu Ministerul Muncii și Solidarității Sociale – MMSS – în cadrul proiectului ”Hub de Servicii MMSS – SII MMSS” cod MySmis 130963",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/92928",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/92928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-7-2023",
+   "path": "local/caras-severin/doclin/2023/7",
+   "short": "HCL Doclin nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 7/2023 privind aprobarea instituirii taxei pentru utilizarea infrastructurii publice locale",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/92929",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/92929",
      "sha256": null
     }
    ]

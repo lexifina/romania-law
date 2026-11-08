@@ -3,6 +3,138 @@
 "shard": "local/caras-severin/bautar/2020",
 "acts": [
 {
+"slug": "hcl-caras-severin--bautar-1-2020",
+"path": "local/caras-severin/bautar/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 1/2020 privind încheierea exercițiului bugetar al anului 2019",
+"short": "HCL Băuțar nr. 1/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/9114",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-2-2020",
+"path": "local/caras-severin/bautar/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 2/2020 privind aprobarea Planului de lucrări de interes local ce se vor executa în anul 2020 cu persoanele majore apte de muncă din familiile beneficiare de ajutor social",
+"short": "HCL Băuțar nr. 2/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/9194",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-3-2020",
+"path": "local/caras-severin/bautar/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 3/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru Școli al României, la nivelul comunei Băuțar, județul Caraș-Severin",
+"short": "HCL Băuțar nr. 3/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/9195",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-6-2020",
+"path": "local/caras-severin/bautar/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 6/2020 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat în cadrul UAT Băuțar, județul Caraș-Severin, acreditate pentru anul școlar 2020-2021",
+"short": "HCL Băuțar nr. 6/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/11777",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-7-2020",
+"path": "local/caras-severin/bautar/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 7/2020 privind aprobarea bugetului local al comunei Băuțar pe anul 2020",
+"short": "HCL Băuțar nr. 7/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/11778",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-11-2020",
+"path": "local/caras-severin/bautar/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 11/2020 privind aprobarea execuției bugetului local al comunei Băuțar, pe anul 2019",
+"short": "HCL Băuțar nr. 11/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-03-18",
+"latest": "2020-03-18",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/11782",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-24-2020",
 "path": "local/caras-severin/bautar/2020/24",
 "kind": "local",

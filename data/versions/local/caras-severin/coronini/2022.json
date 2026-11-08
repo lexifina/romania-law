@@ -3,6 +3,741 @@
  "shard": "local/caras-severin/coronini/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--coronini-1-2022",
+   "path": "local/caras-severin/coronini/2022/1",
+   "short": "HCL Coronini nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 1/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61547",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-10-2022",
+   "path": "local/caras-severin/coronini/2022/10",
+   "short": "HCL Coronini nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 10/2022 privind aprobarea Organigramei si Statului de functii ale Societății GOSPODĂRIA COMUNALĂ CORONINI S.R.L",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61556",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-11-2022",
+   "path": "local/caras-severin/coronini/2022/11",
+   "short": "HCL Coronini nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 11/2022 privind stabilirea normativului propriu de cheltuieli privind consumul de carburanți pentru autoturismele/utilajele primăriei Comunei Coronini pe anul 2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61557",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-12-2022",
+   "path": "local/caras-severin/coronini/2022/12",
+   "short": "HCL Coronini nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 12/2022 privind Aprobarea Bugetului de credite interne pe anul 2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61558",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-13-2022",
+   "path": "local/caras-severin/coronini/2022/13",
+   "short": "HCL Coronini nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 13/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61559",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-14-2022",
+   "path": "local/caras-severin/coronini/2022/14",
+   "short": "HCL Coronini nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 14/2022 privind aprobarea cererii de finanțare pentru includerea în Programul Național de Investiții „Anghel Saligny” și a devizului general estimativ aferente obiectivului de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA CORONINI, JUDEȚUL CARAȘ SEVERIN\"",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61560",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-15-2022",
+   "path": "local/caras-severin/coronini/2022/15",
+   "short": "HCL Coronini nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 15/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61561",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-17-2022",
+   "path": "local/caras-severin/coronini/2022/17",
+   "short": "HCL Coronini nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 17/2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61563",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-18-2022",
+   "path": "local/caras-severin/coronini/2022/18",
+   "short": "HCL Coronini nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 18/2022 privind ,,Rectificarea Bugetului Consiliului Local pe anul 2022”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61564",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-2-2022",
+   "path": "local/caras-severin/coronini/2022/2",
+   "short": "HCL Coronini nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 2/2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61548",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-20-2022",
+   "path": "local/caras-severin/coronini/2022/20",
+   "short": "HCL Coronini nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 20/2022 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții ,,Construire și Dotare Caminul Cultural, sat Sfanta Elena, Comuna Coronini, Judetul Caras Severin,,",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61566",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-21-2022",
+   "path": "local/caras-severin/coronini/2022/21",
+   "short": "HCL Coronini nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 21/2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61567",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-23-2022",
+   "path": "local/caras-severin/coronini/2022/23",
+   "short": "HCL Coronini nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 23/2022 privind alocarea sumei de 5.000 lei pentru Organizarea Târgului de la Coronini",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61569",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-24-2022",
+   "path": "local/caras-severin/coronini/2022/24",
+   "short": "HCL Coronini nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 24/2022 privind aprobarea Reparării și Amenajării Căminului Cultural din localitatea Sfânta Elena",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61570",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-25-2022",
+   "path": "local/caras-severin/coronini/2022/25",
+   "short": "HCL Coronini nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 25/2022 privind atestarea inventarului bunurilor care aparțin domeniului public al Comunei Coronini, județul Caraș Severin",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61571",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-26-2022",
+   "path": "local/caras-severin/coronini/2022/26",
+   "short": "HCL Coronini nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 26/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61572",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-27-2022",
+   "path": "local/caras-severin/coronini/2022/27",
+   "short": "HCL Coronini nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 27/2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61573",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-28-2022",
+   "path": "local/caras-severin/coronini/2022/28",
+   "short": "HCL Coronini nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 28/2022 privind aprobarea Amenajării curții Școlii Gimnaziale din localitatea Coronini",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61574",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-29-2022",
+   "path": "local/caras-severin/coronini/2022/29",
+   "short": "HCL Coronini nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 29/2022 privind mandatarea primarului comunei Coronini pentru depunerea cererilor de plată ani angajament 2-5 aferente sesiunii 4/2021 privind schema de ajutor de stat Servicii de silvomediu, climatice și conservarea pădurilor, aferente masurii 15 - Servicii de silvomediu, climatice și conservarea pădurilor, Submasura 15.1-plati pentru angajamente de silvomediu din cadrul Programului National de Dezvoltare Rurală",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61575",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-3-2022",
+   "path": "local/caras-severin/coronini/2022/3",
+   "short": "HCL Coronini nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 3/2022 privind acordarea unei subvenții din bugetul local al Comunei Coronini în vederea achitării prestațiilor efectuate de operatorul de salubritate",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61549",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-30-2022",
+   "path": "local/caras-severin/coronini/2022/30",
+   "short": "HCL Coronini nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 30/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93617",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-31-2022",
+   "path": "local/caras-severin/coronini/2022/31",
+   "short": "HCL Coronini nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 31/2022 privind aprobarea utilizării excedentului bugetar al bugetului local al comunei Coronini, înregistrat la finele anului 2021, rezultat din prefinanțarea acordată în anul 2021, rămasă neutilizată la finele exercițiului bugetar, pentru utilizare în anul 2022 cu aceeași destinație în secțiunea de dezvoltare",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93618",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-32-2022",
+   "path": "local/caras-severin/coronini/2022/32",
+   "short": "HCL Coronini nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 32/2022 privind Rectificarea Bugetului Consiliului Local pe anul 2022”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93619",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-33-2022",
+   "path": "local/caras-severin/coronini/2022/33",
+   "short": "HCL Coronini nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 33/2022 privind actualizarea Strategiei de dezvoltare locală a comunei CORONINI pentru perioada 2018 - 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93620",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-34-2022",
+   "path": "local/caras-severin/coronini/2022/34",
+   "short": "HCL Coronini nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 34/2022 privind aprobarea Proiectului ”Realizarea unui sistem inteligent de management local în comuna CORONINI, județul Caraș Severin”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93621",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-35-2022",
+   "path": "local/caras-severin/coronini/2022/35",
+   "short": "HCL Coronini nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 35/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93622",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-36-2022",
+   "path": "local/caras-severin/coronini/2022/36",
+   "short": "HCL Coronini nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 36/2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93623",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-37-2022",
+   "path": "local/caras-severin/coronini/2022/37",
+   "short": "HCL Coronini nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 37/2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93624",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-38-2022",
+   "path": "local/caras-severin/coronini/2022/38",
+   "short": "HCL Coronini nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 38/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93625",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-39-2022",
+   "path": "local/caras-severin/coronini/2022/39",
+   "short": "HCL Coronini nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 39/2022 privind aprobarea Regulamentului de salubrizare al județului Caraș – Severin și a Actului adițional la contractul de delegare prin concesiune a serviciului de colectare și transport nr. 251/29.06.2018",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93626",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-40-2022",
+   "path": "local/caras-severin/coronini/2022/40",
+   "short": "HCL Coronini nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 40/2022 privind aprobarea achiziționării unui număr de 225 lămpi iluminat",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93627",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-41-2022",
+   "path": "local/caras-severin/coronini/2022/41",
+   "short": "HCL Coronini nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 41/2022 privind organizarea evenimentului ,,Zilele Comunei Coronini” în anul 2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93628",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-42-2022",
+   "path": "local/caras-severin/coronini/2022/42",
+   "short": "HCL Coronini nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 42/2022 privind aprobarea Statutului Comunei Coronini",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93629",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-43-2022",
+   "path": "local/caras-severin/coronini/2022/43",
+   "short": "HCL Coronini nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 43/2022 privind aprobarea participării Unității Administrativ-Teritoriale Comuna Coronini prin Consiliul Local al comunei Coronini în calitate de asociat, la constituirea SOCIETĂȚII TRANSPORTURI NAVALE MOLDOVA NOUĂ S.R.L",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93630",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-44-2022",
+   "path": "local/caras-severin/coronini/2022/44",
+   "short": "HCL Coronini nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 44/2022 privind stabilirea unei suprafețe de teren pentru înființare centru colectare deșeuri de echipamente electrice și electronice",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93631",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-45-2022",
+   "path": "local/caras-severin/coronini/2022/45",
+   "short": "HCL Coronini nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 45/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93632",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-5-2022",
+   "path": "local/caras-severin/coronini/2022/5",
+   "short": "HCL Coronini nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 5/2022 privind ,,Aprobarea Planului de actiuni si lucrari de interes local pentru persoanele apte de munca din familiile beneficiare de Ajutor Social conform Legii 416/2001 privind venitul minim garantat pentru anul 2022”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61551",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-52-2022",
+   "path": "local/caras-severin/coronini/2022/52",
+   "short": "HCL Coronini nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 52/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93639",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-53-2022",
+   "path": "local/caras-severin/coronini/2022/53",
+   "short": "HCL Coronini nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 53/2022 privind ,,Rectificarea Bugetului Consiliului Local pe anul 2022”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93640",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-54-2022",
+   "path": "local/caras-severin/coronini/2022/54",
+   "short": "HCL Coronini nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 54/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93641",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-55-2022",
+   "path": "local/caras-severin/coronini/2022/55",
+   "short": "HCL Coronini nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 55/2022 privind aprobarea solicitarii prelungirii Scrisorii de garanție nr. 22/18.03.2021 de la FNGCIMM SA IFN în valoare de 130.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 130.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat „Construire alee pietonală pentru acces Cetate Ladislau și parcare adiacentă DN 57, în comuna Coronini, județul Caraș - Severin”, în baza contractului de finanțare nerambursabilă nr. C1920072R217251105160/ 30.09.2019 cu modificările și completările ulterioare, încheiat cu Agenția pentru Finanțarea Investițiilor Rurale",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93642",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-56-2022",
+   "path": "local/caras-severin/coronini/2022/56",
+   "short": "HCL Coronini nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 56/2022 privind transmiterea fără plată a terenului în suprafață de 14550 mp în proprietatea Episcopiei Caransebeșului",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93643",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-57-2022",
+   "path": "local/caras-severin/coronini/2022/57",
+   "short": "HCL Coronini nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 57/2022 privind alegerea presedintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93644",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-58-2022",
+   "path": "local/caras-severin/coronini/2022/58",
+   "short": "HCL Coronini nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 58/2022 privind ,,Rectificarea Bugetului Consiliului Local pe anul 2022”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93645",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-59-2022",
+   "path": "local/caras-severin/coronini/2022/59",
+   "short": "HCL Coronini nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 59/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93646",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-6-2022",
+   "path": "local/caras-severin/coronini/2022/6",
+   "short": "HCL Coronini nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 6/2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61552",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-60-2022",
+   "path": "local/caras-severin/coronini/2022/60",
+   "short": "HCL Coronini nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 60/2022 privind Rectificarea Bugetului Consiiului Local pe anul 2022",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93647",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-61-2022",
+   "path": "local/caras-severin/coronini/2022/61",
+   "short": "HCL Coronini nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 61/2022 privind aprobarea documenteției de primă înregistrare în cartea funciară a Imobilului identificat Drum comunal DC Coronini - Sf. Elena",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93648",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-62-2022",
+   "path": "local/caras-severin/coronini/2022/62",
+   "short": "HCL Coronini nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 62/2022 privind aprobarea documentației de dezlipire a imobilului în suprafața de 2386 mp, identificat cu Nr. Cad. 31450, înscris în CF nr. 31450 Coronini, în 2 Loturi",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/93649",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/93649",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-63-2022",
    "path": "local/caras-severin/coronini/2022/63",
    "short": "HCL Coronini nr. 63/2022",
@@ -103,6 +838,21 @@
      "from": "2023-03-06",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/93656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-7-2022",
+   "path": "local/caras-severin/coronini/2022/7",
+   "short": "HCL Coronini nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 7/2022 privind ,,Organizarea retelei școlare a unităţilor de învăţământ preuniversitar de stat și particular din raza teritorială a Unitatii Administrativ-Teritoriale a comunei Coronini pentru anul școlar 2022 – 2023”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61553",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61553",
      "sha256": null
     }
    ]
@@ -298,6 +1048,21 @@
      "from": "2023-03-06",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/93669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-9-2022",
+   "path": "local/caras-severin/coronini/2022/9",
+   "short": "HCL Coronini nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 9/2022 privind ,,Aprobarea Bugetului Consiliului Local al comunei Coronini pe capitole si subcapitole pe anul 2022”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/61555",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/61555",
      "sha256": null
     }
    ]

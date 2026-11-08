@@ -3,6 +3,50 @@
 "shard": "local/calarasi/roseti/2023",
 "acts": [
 {
+"slug": "hcl-calarasi--roseti-9-2023",
+"path": "local/calarasi/roseti/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 9/2023 privind aprobare atribuire denumire străzi precum și aprobarea actualizării informațiilor din nomenclatorul stradal de la nivelul comunei Roseți, județul Călărași",
+"short": "HCL Roseți nr. 9/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/88903",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-105-2023",
+"path": "local/calarasi/roseti/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 105/2023 privind aprobarea organizării și sărbătoririi evenimentului ‚‚Zilele comunei Roseți, județul Călărași’’",
+"short": "HCL Roseți nr. 105/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-04",
+"latest": "2023-08-04",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/114571",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-132-2023",
 "path": "local/calarasi/roseti/2023/132",
 "kind": "local",

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "cnsc/2024",
+ "acts": [
+  {
+   "slug": "cnsc-decizie-2024-2506",
+   "path": "cnsc/decizie/2024/2506",
+   "short": "Decizia CNSC nr. 2506/C6/2838 din 26.08.2024",
+   "title": "Decizia CNSC nr. 2506/C6/2838 din 26.08.2024: contestația DRUMURI SI PODURI BANAT SRL în contradictoriu cu ORAS GATAIA JUDETUL TIMIS",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWI1YTAzZGYtN2M2Yi00ZjU3LTllMGYtZGE3MjA0ZjMyYTg4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNTA2LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MWI1YTAzZGYtN2M2Yi00ZjU3LTllMGYtZGE3MjA0ZjMyYTg4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNTA2LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "3a3b0f319d97ac59790e6756de40952c65329c8fa9a041056c921c5ea7868ca9"
+    }
+   ]
+  }
+ ]
+}

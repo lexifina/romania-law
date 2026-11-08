@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Băuțar nr. 18/2023 privind aprobare Serviciului de salubrizare, aprobare,Contractului cadru, Regulamentului si Caiet de sarcini pentru activitati din cadrul serviciului de salubrizare comunei Băuțar
+
+HCL Băuțar nr. 18/2023 · 1 versions, from 2023-04-25 (latest in force: 2023-04-25) · <https://emol.ro/bautar-cs/registru-hcl/101357>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-caras-severin--bautar-18-2023` (tags `hcl-caras-severin--bautar-18-2023/<day>`; `python tools/on.py <day> hcl-caras-severin--bautar-18-2023`).
+
+## Decisions made by hand
+
+- HCL Băuțar nr. 18/2023: listed from Consiliul Local al Comunei Băuțar (emol.ro); metadata only for now: no document of it is held.
+- HCL Băuțar nr. 18/2023: dated from 25 April 2023, the day the council's register gives it as published (adopted 28 March 2023).
+- HCL Băuțar nr. 18/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

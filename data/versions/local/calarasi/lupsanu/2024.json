@@ -3,6 +3,231 @@
  "shard": "local/calarasi/lupsanu/2024",
  "acts": [
   {
+   "slug": "hcl-calarasi--lupsanu-12-2024",
+   "path": "local/calarasi/lupsanu/2024/12",
+   "short": "HCL Lupșanu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 12/2024 privind aprobarea proiectui tehnic actualizat, a indicatorilor tehnico-economici(rest de executat) actualizați și a devizului general actualizat (rest de executat) pentru obiectivul de investiții „Modernizare străzi în comuna Lupșanu, județul Călărași”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/145945",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/145945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-13-2024",
+   "path": "local/calarasi/lupsanu/2024/13",
+   "short": "HCL Lupșanu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 13/2024 privind aprobarea regulamentului de stabilire si incasare a taxei de salubrizare",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/145946",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/145946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-14-2024",
+   "path": "local/calarasi/lupsanu/2024/14",
+   "short": "HCL Lupșanu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 14/2024 privind aprobarea contului de incheiere a exercitiului bugetar pe trimestrul IV , anul 2023",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/145947",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/145947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-15-2024",
+   "path": "local/calarasi/lupsanu/2024/15",
+   "short": "HCL Lupșanu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 15/2024 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul local al comunei Lupșanu pentru anul 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/145948",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/145948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-16-2024",
+   "path": "local/calarasi/lupsanu/2024/16",
+   "short": "HCL Lupșanu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 16/2024 pentru modificarea si completarea Hotărârii Consiliului Local al comunei Lupsanu nr. 20/31.03.2022 privind aprobarea cofinanțării investițiilor din ” Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Calarasi și Ialomița, în perioada 2014-2020”, aferente Comunei Lupșanu",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/145949",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/145949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-18-2024",
+   "path": "local/calarasi/lupsanu/2024/18",
+   "short": "HCL Lupșanu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 18/2024 privind rectificarea bugetului local al comunei Lupsanu , în luna martie 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/151101",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-19-2024",
+   "path": "local/calarasi/lupsanu/2024/19",
+   "short": "HCL Lupșanu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 19/2024 privind aprobarea susținerii financiare a Asociației Sportive ,,Steaua Lupșanu\"",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/151102",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-20-2024",
+   "path": "local/calarasi/lupsanu/2024/20",
+   "short": "HCL Lupșanu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 20/2024 privind aprobarea documentației referitoare la ,, Actualizarea Planului Urbanistic General și a Regulamentului Local de Urbanism al comunei Lupșanu , județul Călărași",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/151103",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-21-2024",
+   "path": "local/calarasi/lupsanu/2024/21",
+   "short": "HCL Lupșanu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 21/2024 privind aprobarea proiectului tehnic actualizat, a indicatorilor tehnico-economici (rest de executat), actualizați și a devizului general actualizat (rest de executat) pentru obiectivul de investiții ,, Modernizare străzi în comuna Lupșanu, județul Călărași,, aprobat pentru finanțare prin Programului național de investiții ,, Anghel Saligny,, , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/151104",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-22-2024",
+   "path": "local/calarasi/lupsanu/2024/22",
+   "short": "HCL Lupșanu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 22/2024 privind aprobarea Proiectului ,, Modernizarea rețelei de biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale, din cadrul planului național de redresare și reziliență (PNRR) – HUB comuna Lupșanu, județul Călărași",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/151105",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-24-2024",
+   "path": "local/calarasi/lupsanu/2024/24",
+   "short": "HCL Lupșanu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 24/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/155419",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/155419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-25-2024",
+   "path": "local/calarasi/lupsanu/2024/25",
+   "short": "HCL Lupșanu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 25/2024 privind aprobarea contului de execuție bugetară pe trimestrul I al anului 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/155420",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/155420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-26-2024",
+   "path": "local/calarasi/lupsanu/2024/26",
+   "short": "HCL Lupșanu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 26/2024 privind aprobarea valorilor impozabile, impozitelor, taxelor locale și amenzilor aplicabile în anul 2025 în comuna Lupșanu",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/155421",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/155421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-27-2024",
+   "path": "local/calarasi/lupsanu/2024/27",
+   "short": "HCL Lupșanu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 27/2024 privind rectificarea bugetului local al comunei Lupșanu, pe anul 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/165319",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/165319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-3-2024",
+   "path": "local/calarasi/lupsanu/2024/3",
+   "short": "HCL Lupșanu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 3/2024 privind aprobarea taxei de salubrizare",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144714",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144714",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--lupsanu-31-2024",
    "path": "local/calarasi/lupsanu/2024/31",
    "short": "HCL Lupșanu nr. 31/2024",
@@ -283,6 +508,21 @@
      "from": "2025-01-08",
      "units": 1,
      "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/184864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-5-2024",
+   "path": "local/calarasi/lupsanu/2024/5",
+   "short": "HCL Lupșanu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 5/2024 privind aprobarea Planului de analiză și acoperire a riscurilor SVSU",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144716",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144716",
      "sha256": null
     }
    ]

@@ -3,6 +3,51 @@
  "shard": "local/calarasi/gurbanesti/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--gurbanesti-15-2025",
+   "path": "local/calarasi/gurbanesti/2025/15",
+   "short": "HCL Gurbănești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 15/2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224302",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-21-2025",
+   "path": "local/calarasi/gurbanesti/2025/21",
+   "short": "HCL Gurbănești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 21/2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224313",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-38-2025",
+   "path": "local/calarasi/gurbanesti/2025/38",
+   "short": "HCL Gurbănești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 38/2025 privind emiterea avizului/acordului prealabil în vederea executării de lucrări de construire în zona drumurilor de interes local situate pe raza comunei Gurbănești pentru obiectivele „CONSTRUIRE CENTRALĂ ELECTRICĂ EOLIANĂ GURBĂNEȘTI, JUDEȚUL CĂLĂRAȘI , CU MAXIMUM 60 DE GRUPURI GENERATOARE EOLIENE ȘI RACORD ELECTRIC LA SEN”; „RACORDAREA LA SEN A CENTRALEI ELECTRICE EOLIENE GURBĂNEȘTI-REALIZARE LINIE ELECTRICĂ ÎNALTĂ TENSIUNE ȘI INSTALAȚII ELECTRICE CONEXE PENTRU RACORDAREA LA REȚEAUA ELECTRICĂ DE INTERES PUBLIC A PARCULUI EOLIAN GURBĂNEȘTI”",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224378",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--gurbanesti-39-2025",
    "path": "local/calarasi/gurbanesti/2025/39",
    "short": "HCL Gurbănești nr. 39/2025",
