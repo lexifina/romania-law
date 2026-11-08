@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/ilovat/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ilovat-1-2025",
+   "path": "local/mehedinti/ilovat/2025/1",
+   "short": "HCL Ilovăț nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 1/2025 privind validarea Dispoziției nr. 1/09.01.2025",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216965",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ilovat-10-2025",
    "path": "local/mehedinti/ilovat/2025/10",
    "short": "HCL Ilovăț nr. 10/2025",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ilovat-2-2025",
+   "path": "local/mehedinti/ilovat/2025/2",
+   "short": "HCL Ilovăț nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 2/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2025 prevăzute a fi realizate de către beneficiarii legii 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216974",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216974",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ilovat-20-2025",
    "path": "local/mehedinti/ilovat/2025/20",
    "short": "HCL Ilovăț nr. 20/2025",
@@ -283,6 +313,96 @@
      "from": "2025-07-16",
      "units": 1,
      "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-3-2025",
+   "path": "local/mehedinti/ilovat/2025/3",
+   "short": "HCL Ilovăț nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 3/2025 privind aprobarea raportului de activități desfășurate de asistenții personali ai persoanelor cu handicap grav pentru anul 2024",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216975",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-4-2025",
+   "path": "local/mehedinti/ilovat/2025/4",
+   "short": "HCL Ilovăț nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 4/2025 privind alegerea președintelui de ședință, pentru ședințele Consiliului Local al Comunei Ilovăț pentru o perioadă de 3 luni, respectiv pentru lunile: Martie 2025, Aprilie 2025 și Mai 2025",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216976",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-5-2025",
+   "path": "local/mehedinti/ilovat/2025/5",
+   "short": "HCL Ilovăț nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 5/2025 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2025/2026",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216977",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-6-2025",
+   "path": "local/mehedinti/ilovat/2025/6",
+   "short": "HCL Ilovăț nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 6/2025 privind încheierea unor contracte de creare site web (pagină de internet), acordare suport, mentenanță și găzduire baze de date la nivelul UAT Ilovăț",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216978",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-7-2025",
+   "path": "local/mehedinti/ilovat/2025/7",
+   "short": "HCL Ilovăț nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 7/2025 privind încheierea unui contract de consultanță, asistență și repartizare juridică, pentru anul 2025",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216979",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-8-2025",
+   "path": "local/mehedinti/ilovat/2025/8",
+   "short": "HCL Ilovăț nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 8/2025 privind mandatarea reprezentantului UAT Ilovăț în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți, pentru a vota aprobarea modificării Statului Asociației",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216980",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216980",
      "sha256": null
     }
    ]

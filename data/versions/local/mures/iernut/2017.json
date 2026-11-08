@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/iernut/2017",
+ "acts": [
+  {
+   "slug": "hcl-mures--iernut-224-2017",
+   "path": "local/mures/iernut/2017/224",
+   "short": "HCL Iernut nr. 224/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 224/2017",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2017-12-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.121-30.05.2022-privind-modificarea-Anexei-nr.1-si-Anexei-nr.2-din-H.C.L-nr.224din18.12.2017-privind-constituirea-Grupulu.pdf",
+     "sha256": "e715263a85dd2d331bb2dd887a1e8f5c71e9ddc552a66843033ff1eda9b979b0"
+    }
+   ]
+  }
+ ]
+}

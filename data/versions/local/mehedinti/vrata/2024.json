@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--vrata-10-2024",
+   "path": "local/mehedinti/vrata/2024/10",
+   "short": "HCL Vrata nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 10/2024 privind închirierea prin atribuire directă a suprafeței de 142,0047 ha pajiști proprietatea privată a comunei Vrata, județul Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/195207",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/195207",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vrata-11-2024",
    "path": "local/mehedinti/vrata/2024/11",
    "short": "HCL Vrata nr. 11/2024",
@@ -63,6 +78,96 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--vrata-14-2024",
+   "path": "local/mehedinti/vrata/2024/14",
+   "short": "HCL Vrata nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 14/2024 privind aprobarea Protocolului de colaborare incheiat intre Primaria comunei Vrata si Directia Judeteana pentru Sport si Tineret Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198400",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-15-2024",
+   "path": "local/mehedinti/vrata/2024/15",
+   "short": "HCL Vrata nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 15/2024 privind aprobarea indicatorilor pentru Elaborare Plan Urbanistic General si Regulament Local de urbanism comuna Vrata",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198401",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-16-2024",
+   "path": "local/mehedinti/vrata/2024/16",
+   "short": "HCL Vrata nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 16/2024 privind aprobarea decontării cheltuielilor de transport și a Regulamentului privind decontarea cheltuielilor de transport, salariaților din cadrul aparatului de specialitate al Primarului comunei Vrata, județul Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198402",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-17-2024",
+   "path": "local/mehedinti/vrata/2024/17",
+   "short": "HCL Vrata nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 17/2024 privind aprobarea prelungirii valabilitatii Scrisorii de garantie de la FNGCIMM SA IFN nr. 146/27.06.2019 pentru implementarea proiectului “Extindere corp C1 – Cladire sediu primarie” in com. Vrata, jud. Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198403",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-18-2024",
+   "path": "local/mehedinti/vrata/2024/18",
+   "short": "HCL Vrata nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 18/2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198404",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-19-2024",
+   "path": "local/mehedinti/vrata/2024/19",
+   "short": "HCL Vrata nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 19/2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198405",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198405",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vrata-2-2024",
    "path": "local/mehedinti/vrata/2024/2",
    "short": "HCL Vrata nr. 2/2024",
@@ -73,6 +178,36 @@
      "from": "2024-01-08",
      "units": 1,
      "source_url": "https://emol.ro/vrata-mh/registru-hcl/195042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-20-2024",
+   "path": "local/mehedinti/vrata/2024/20",
+   "short": "HCL Vrata nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 20/2024 privind aprobarea modului de întocmire și ţinere a registrului agricol, precum și a măsurilor pentru eficientizarea activităţii de înscriere a datelor în registrul agricol la nivelul comunei Vrata, judeţul Mehedinţi",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198406",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-21-2024",
+   "path": "local/mehedinti/vrata/2024/21",
+   "short": "HCL Vrata nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 21/2024 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198438",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198438",
      "sha256": null
     }
    ]
@@ -108,6 +243,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--vrata-24-2024",
+   "path": "local/mehedinti/vrata/2024/24",
+   "short": "HCL Vrata nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 24/2024 privind alegerea preşedintelui de şedinţă pentru şedinţele din lunile (mai, iunie si iulie -2024) in cadrul Consiliului Local al comunei Vrata, judeţul Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198441",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-25-2024",
+   "path": "local/mehedinti/vrata/2024/25",
+   "short": "HCL Vrata nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 25/2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198445",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-26-2024",
+   "path": "local/mehedinti/vrata/2024/26",
+   "short": "HCL Vrata nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 26/2024 privind modificarea Hotărârii Consiliului Local al comunei Vrata nr. 45/06.11.2020 referitoare la componența comisiilor de specialitate ale Consiliului Local al comunei Vrata, județul Mehedinți",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198446",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198446",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vrata-27-2024",
    "path": "local/mehedinti/vrata/2024/27",
    "short": "HCL Vrata nr. 27/2024",
@@ -118,6 +298,36 @@
      "from": "2025-03-25",
      "units": 1,
      "source_url": "https://emol.ro/vrata-mh/registru-hcl/198447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-28-2024",
+   "path": "local/mehedinti/vrata/2024/28",
+   "short": "HCL Vrata nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 28/2024 privind analiza studiului de înscriere a datelor în Registrul agricol pentru semestrul I al anului 2024 și stabilirea măsurilor pentru eficientizarea acestei activități la Comuna Vrata, județul Mehedinți",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198465",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-29-2024",
+   "path": "local/mehedinti/vrata/2024/29",
+   "short": "HCL Vrata nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 29/2024 privind majorarea salariilor de bază cu 10% fata de nivelul acordat pentru luna decembrie 2023, pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Vrata, începând cu luna iunie 2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198466",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198466",
      "sha256": null
     }
    ]
@@ -138,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--vrata-30-2024",
+   "path": "local/mehedinti/vrata/2024/30",
+   "short": "HCL Vrata nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 30/2024 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198504",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198504",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vrata-31-2024",
    "path": "local/mehedinti/vrata/2024/31",
    "short": "HCL Vrata nr. 31/2024",
@@ -153,6 +378,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--vrata-32-2024",
+   "path": "local/mehedinti/vrata/2024/32",
+   "short": "HCL Vrata nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 32/2024 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198516",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-33-2024",
+   "path": "local/mehedinti/vrata/2024/33",
+   "short": "HCL Vrata nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 33/2024 privind aprobarea Actului adițional nr. 1 la Contractul de concesiune nr. 726/21.05.1999 privind diminuarea suprafeței de teren concesionate",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198517",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-34-2024",
+   "path": "local/mehedinti/vrata/2024/34",
+   "short": "HCL Vrata nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 34/2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198518",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198518",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vrata-35-2024",
    "path": "local/mehedinti/vrata/2024/35",
    "short": "HCL Vrata nr. 35/2024",
@@ -163,6 +433,51 @@
      "from": "2025-03-25",
      "units": 1,
      "source_url": "https://emol.ro/vrata-mh/registru-hcl/198519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-36-2024",
+   "path": "local/mehedinti/vrata/2024/36",
+   "short": "HCL Vrata nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 36/2024 privind alegerea președintelui de ședință pentru ședințele din lunile (august, septembrie și octombrie-2024) în cadrul Consiliului Local al comunei Vrata, județul Mehedinți",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198520",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-37-2024",
+   "path": "local/mehedinti/vrata/2024/37",
+   "short": "HCL Vrata nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 37/2024 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2024",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198643",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-38-2024",
+   "path": "local/mehedinti/vrata/2024/38",
+   "short": "HCL Vrata nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 38/2024 privind actualizarea prin act adițional a contractului de concesiune nr. 4/26.09.1996, titular PERCA Iulica",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/198644",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/198644",
      "sha256": null
     }
    ]

@@ -202,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-10-2026",
+"path": "local/mures/albesti/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 10/2026 privind aprobarea volumului de masa lemnoasă propus pentru recoltare și valorificare în anul 2026 din fondul forestier proprietate publică al unității administrativ teritoriale Albești, a modalității de valorificare a masei lemnoase și a prețurilor de vânzare, și a bugetului de venituri și cheltuieli pentru anul 2026, împreună cu devizele de lucrări și operațiuni ce se vor efectua în anul 2026",
+"short": "HCL Albești nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/253692",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--albesti-11-2026",
 "path": "local/mures/albesti/2026/11",
 "kind": "local",
@@ -287,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-15-2026",
+"path": "local/mures/albesti/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 15/2026 pentru modificarea și completarea Hotărârii Consiliului Local Albești Nr.42 din 19.08.2021 privind trecerea din proprietatea Statului Român în domeniul privat al Comunei Albești și înscrierea dreptului de proprietate privată a Comunei Albești, asupra imobilelelor terenuri situate în intravilan înscrise în CF nr.55038 Albești și CF nr.1174 Albești",
+"short": "HCL Albești nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/259479",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -511,6 +555,52 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-26-2026",
+"path": "local/mures/albesti/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 26/2026",
+"short": "HCL Albești nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/267798",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--albesti-27-2026",
+"path": "local/mures/albesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 27/2026",
+"short": "HCL Albești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/267799",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mures--albesti-28-2026",
 "path": "local/mures/albesti/2026/28",
 "kind": "local",
@@ -597,6 +687,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--albesti-32-2026",
+"path": "local/mures/albesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 32/2026 pentru modificarea și completarea Hotărârii Consiliului Local Albești Nr.55 din 09.10.2025 privind aprobarea documentației de dezmembrare a imobilului intravilan înscris în CF nr.55295 Albești, în suprafață de 2.660 mp, proprietatea Comunei Albești",
+"short": "HCL Albești nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/274691",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -733,6 +845,52 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-39-2026",
+"path": "local/mures/albesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 39/2026",
+"short": "HCL Albești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-27",
+"latest": "2026-07-27",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/279912",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--albesti-40-2026",
+"path": "local/mures/albesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 40/2026",
+"short": "HCL Albești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-27",
+"latest": "2026-07-27",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/279913",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mures--albesti-41-2026",
 "path": "local/mures/albesti/2026/41",
 "kind": "local",
@@ -752,6 +910,29 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-42-2026",
+"path": "local/mures/albesti/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 42/2026",
+"short": "HCL Albești nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/284215",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

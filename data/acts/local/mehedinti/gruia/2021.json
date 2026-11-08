@@ -510,6 +510,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--gruia-24-2021",
+"path": "local/mehedinti/gruia/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 24/2021 privind alegerea președintelui de ședință",
+"short": "HCL Gruia nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-19",
+"latest": "2021-04-19",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/22306",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--gruia-25-2021",
 "path": "local/mehedinti/gruia/2021/25",
 "kind": "local",
@@ -708,6 +730,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--gruia-34-2021",
+"path": "local/mehedinti/gruia/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 34/2021",
+"short": "HCL Gruia nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-22",
+"latest": "2021-06-22",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/26956",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--gruia-35-2021",
 "path": "local/mehedinti/gruia/2021/35",
 "kind": "local",
@@ -727,6 +772,28 @@
 "council_name": "Consiliul Local al Comunei Gruia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--gruia-36-2021",
+"path": "local/mehedinti/gruia/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 36/2021 privind alegerea președintelui de ședinață",
+"short": "HCL Gruia nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-27",
+"latest": "2021-07-27",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/31369",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -928,6 +995,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--gruia-46-2021",
+"path": "local/mehedinti/gruia/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 46/2021 privind constituirea Consiliului Comunitar Consultativ la nivelul UAT Gruia",
+"short": "HCL Gruia nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-03",
+"latest": "2021-09-03",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/34249",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--gruia-47-2021",
 "path": "local/mehedinti/gruia/2021/47",
 "kind": "local",
@@ -995,6 +1084,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--gruia-50-2021",
+"path": "local/mehedinti/gruia/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 50/2021 Privind desemnarea reprezentantilor Consiliului Local al comunei Gruia in Consiliul de Administratie ,respectiv in Comisia de evaluare şi asigurare a calităţii (CEAC) in cadrul Scolii Gimnaziale Gruia in anul 2021-2022",
+"short": "HCL Gruia nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/36036",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--gruia-51-2021",
 "path": "local/mehedinti/gruia/2021/51",
 "kind": "local",
@@ -1059,6 +1170,28 @@
 "council_name": "Consiliul Local al Comunei Gruia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--gruia-54-2021",
+"path": "local/mehedinti/gruia/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 54/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Gruia nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/38935",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/mures/albesti/2025",
  "acts": [
   {
+   "slug": "hcl-mures--albesti-1-2025",
+   "path": "local/mures/albesti/2025/1",
+   "short": "HCL Albești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 1/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/191303",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/191303",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-10-2025",
    "path": "local/mures/albesti/2025/10",
    "short": "HCL Albești nr. 10/2025",
@@ -28,6 +43,36 @@
      "from": "2025-03-14",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/196954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-12-2025",
+   "path": "local/mures/albesti/2025/12",
+   "short": "HCL Albești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 12/2025 privind desemnarea reprezentantului Comunei Albești în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”AQUA INVEST MUREȘ”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196955",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-13-2025",
+   "path": "local/mures/albesti/2025/13",
+   "short": "HCL Albești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 13/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196956",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196956",
      "sha256": null
     }
    ]
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-16-2025",
+   "path": "local/mures/albesti/2025/16",
+   "short": "HCL Albești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 16/2025 privind însușirea și aprobarea documentației tehnice cadastrale de actualizare date imobil teren înscris în CF nr.51742 Albești prin transcrierea imobilului teren din proprietatea Statului Român în proprietatea Comunei Albești domeniul privat, actualizare suprafață ca urmare a măsurătorilor topografice efectuate în vederea inscrierii geometriei imobilului și evidențiere construcții",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/196959",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/196959",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-17-2025",
    "path": "local/mures/albesti/2025/17",
    "short": "HCL Albești nr. 17/2025",
@@ -73,6 +133,21 @@
      "from": "2025-03-14",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/196960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-18-2025",
+   "path": "local/mures/albesti/2025/18",
+   "short": "HCL Albești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 18/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/198023",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/198023",
      "sha256": null
     }
    ]
@@ -198,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-26-2025",
+   "path": "local/mures/albesti/2025/26",
+   "short": "HCL Albești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 26/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/209637",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/209637",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-27-2025",
    "path": "local/mures/albesti/2025/27",
    "short": "HCL Albești nr. 27/2025",
@@ -238,6 +328,21 @@
      "from": "2025-06-04",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/209640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-3-2025",
+   "path": "local/mures/albesti/2025/3",
+   "short": "HCL Albești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 3/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/191305",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/191305",
      "sha256": null
     }
    ]
@@ -483,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-45-2025",
+   "path": "local/mures/albesti/2025/45",
+   "short": "HCL Albești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 45/2025 privind aprobarea concesionării prin licitație publică a terenului extravilan, în suprafață de 30.981 mp, având categoria de folosință neproductiv, identificat în CF nr.55364 Albești, situat în comuna Albești, sat Boiu, aflat în domeniul privat al comunei Albești, cu destinația amenajare teren pentru activități sportive, de antrenament și recreative pentru diferite forme de ciclism",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/220678",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/220678",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-46-2025",
    "path": "local/mures/albesti/2025/46",
    "short": "HCL Albești nr. 46/2025",
@@ -543,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-5-2025",
+   "path": "local/mures/albesti/2025/5",
+   "short": "HCL Albești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 5/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/191307",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/191307",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-50-2025",
    "path": "local/mures/albesti/2025/50",
    "short": "HCL Albești nr. 50/2025",
@@ -568,6 +703,21 @@
      "from": "2025-09-22",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/225601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-52-2025",
+   "path": "local/mures/albesti/2025/52",
+   "short": "HCL Albești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 52/2025 privind desemnarea reprezentanţilor Consiliului Local al Comunei Albești în Consiliul de Administraţie din cadrul Şcolii Gimnaziale Albești pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/225602",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/225602",
      "sha256": null
     }
    ]
@@ -673,6 +823,21 @@
      "from": "2025-11-19",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/235975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-6-2025",
+   "path": "local/mures/albesti/2025/6",
+   "short": "HCL Albești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 6/2025 privind scutirea de la plata impozitului pe clădiri a unui imobil aparţinând “Fundației Maranatha Romale din Sighişoara”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/191308",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/191308",
      "sha256": null
     }
    ]
@@ -823,6 +988,21 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/243449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-7-2025",
+   "path": "local/mures/albesti/2025/7",
+   "short": "HCL Albești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 7/2025 privind scutirea de la plata impozitului pe clădiri a unui imobil aparţinând “Fundaţiei “Pentru Familia Creştină” Sighişoara”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/191309",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/191309",
      "sha256": null
     }
    ]

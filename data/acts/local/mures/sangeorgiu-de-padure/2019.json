@@ -3,6 +3,28 @@
 "shard": "local/mures/sangeorgiu-de-padure/2019",
 "acts": [
 {
+"slug": "hcl-mures--sangeorgiu-de-padure-16-2019",
+"path": "local/mures/sangeorgiu-de-padure/2019/16",
+"kind": "local",
+"year": "2019",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 16/2019",
+"short": "HCL Sângeorgiu de Pădure nr. 16/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--sangeorgiu-de-padure-1040-2019",
 "path": "local/mures/sangeorgiu-de-padure/2019/1040",
 "kind": "local",

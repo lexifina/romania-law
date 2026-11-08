@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-16-2020",
+   "path": "local/neamt/gadinti/2020/16",
+   "short": "HCL Gâdinți nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 16/2020 privind alegerea presedintelui de sedință pentru lunile;iunie,iulie, august a.c",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/1914",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/1914",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-17-2020",
    "path": "local/neamt/gadinti/2020/17",
    "short": "HCL Gâdinți nr. 17/2020",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-2-2020",
+   "path": "local/neamt/gadinti/2020/2",
+   "short": "HCL Gâdinți nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 2/2020",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/413",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/413",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-20-2020",
    "path": "local/neamt/gadinti/2020/20",
    "short": "HCL Gâdinți nr. 20/2020",
@@ -163,6 +193,36 @@
      "from": "2020-06-25",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/4979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-21-2020",
+   "path": "local/neamt/gadinti/2020/21",
+   "short": "HCL Gâdinți nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 21/2020",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/4980",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/4980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-22-2020",
+   "path": "local/neamt/gadinti/2020/22",
+   "short": "HCL Gâdinți nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 22/2020 privind aprobarea „Raportului de activitate a asistenţilor personali ai persoanelor cu handicap grav pentru semestrul I al anului 2020”",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/6523",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/6523",
      "sha256": null
     }
    ]
@@ -438,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-4-2020",
+   "path": "local/neamt/gadinti/2020/4",
+   "short": "HCL Gâdinți nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 4/2020 privind aprobarea componenței nominale a Structurii comunitare consultative",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/415",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/415",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-40-2020",
    "path": "local/neamt/gadinti/2020/40",
    "short": "HCL Gâdinți nr. 40/2020",
@@ -688,6 +763,21 @@
      "from": "2020-02-19",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-9-2020",
+   "path": "local/neamt/gadinti/2020/9",
+   "short": "HCL Gâdinți nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 9/2020 privind alegerea presedintelui de sedinta pentru lunile: martie, aprilie,mai a.c",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/420",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/420",
      "sha256": null
     }
    ]

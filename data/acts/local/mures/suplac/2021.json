@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-mures--suplac-21-2021",
+"path": "local/mures/suplac/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 21/2021 PH . 22, Decontarea cheltuielilor de deplasare cadrelor didactice navetiste",
+"short": "HCL Suplac nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-10",
+"latest": "2021-09-10",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#3575",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--suplac-22-2021",
 "path": "local/mures/suplac/2021/22",
 "kind": "local",
@@ -487,6 +509,28 @@
 }
 },
 {
+"slug": "hcl-mures--suplac-41-2021",
+"path": "local/mures/suplac/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 41/2021 Desemnarea unui reprezentant in CA a Scolii Gimnaziale `SF. NICOLAE~~laslau mare",
+"short": "HCL Suplac nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-10",
+"latest": "2021-09-10",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#2479",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--suplac-42-2021",
 "path": "local/mures/suplac/2021/42",
 "kind": "local",
@@ -704,6 +748,28 @@
 "council_name": "Consiliul Local al Comunei Suplac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--suplac-52-2021",
+"path": "local/mures/suplac/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 52/2021 Desemnarea reprezentantului Consiliului Local al comunei Suplac în comisiile de evaluarea probei de interviu din cadrul concursului pentru ocuparea funcțiilor vacante de director și director adjunct din unitățile de învățământ peuniversitar de stat",
+"short": "HCL Suplac nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#6698",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

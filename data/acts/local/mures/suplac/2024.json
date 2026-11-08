@@ -181,6 +181,28 @@
 }
 },
 {
+"slug": "hcl-mures--suplac-9-2024",
+"path": "local/mures/suplac/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 9/2024 Aprobarea inițierii închirierii prin atribuire directă a pajiștilor disponibile din domeniul privat al comunei Suplac, județul Mureș",
+"short": "HCL Suplac nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-15",
+"latest": "2024-02-15",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#70137",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--suplac-10-2024",
 "path": "local/mures/suplac/2024/10",
 "kind": "local",
@@ -267,6 +289,28 @@
 "council_name": "Consiliul Local al Comunei Suplac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--suplac-14-2024",
+"path": "local/mures/suplac/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 14/2024 privind aprobarea decontarii cheltuielilor de transport, pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Suplac, județul Mureș",
+"short": "HCL Suplac nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-21",
+"latest": "2024-03-21",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#72655",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -556,6 +600,28 @@
 }
 },
 {
+"slug": "hcl-mures--suplac-28-2024",
+"path": "local/mures/suplac/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 28/2024 Privind oportunitatea cumpărării unui imobil - casa de locuit ,anexe și terenul aferent",
+"short": "HCL Suplac nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-28",
+"latest": "2024-05-28",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#77167",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--suplac-29-2024",
 "path": "local/mures/suplac/2024/29",
 "kind": "local",
@@ -729,6 +795,28 @@
 "council_name": "Consiliul Local al Comunei Suplac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--suplac-37-2024",
+"path": "local/mures/suplac/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 37/2024 Privind aprobarea cumpărării unor containere pentru suplimentarea spațiului de învățământ",
+"short": "HCL Suplac nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#81688",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -908,6 +996,28 @@
 }
 },
 {
+"slug": "hcl-mures--suplac-46-2024",
+"path": "local/mures/suplac/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 46/2024 Privind desemnarea unui reprezentant al Consiliului Local Suplac în Consiliul de Administraţie al Şcolii Gimnaziale ”Sf. Nicolae ”Laslău Mare pe anul școlar 2024-2025",
+"short": "HCL Suplac nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#86486",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--suplac-47-2024",
 "path": "local/mures/suplac/2024/47",
 "kind": "local",
@@ -971,6 +1081,28 @@
 "council_name": "Consiliul Local al Comunei Suplac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--suplac-50-2024",
+"path": "local/mures/suplac/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 50/2024 Privind aprobarea închirierii unui imobil pentru asigurare spațiu de învățământ",
+"short": "HCL Suplac nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#87755",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

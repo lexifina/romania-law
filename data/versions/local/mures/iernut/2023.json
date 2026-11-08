@@ -3,6 +3,366 @@
  "shard": "local/mures/iernut/2023",
  "acts": [
   {
+   "slug": "hcl-mures--iernut-100-2023",
+   "path": "local/mures/iernut/2023/100",
+   "short": "HCL Iernut nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 100/2023 privind aprobarea Devizului general faza SF și a Studiului de fezabilitate pentru obiectivul de investiții: „Extinderea rețelei de apă, canalizare, branșamente și racorduri în satul Lechința, oraș Iernut, județ Mureș” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.100-26.06.2023-privind-aprobarea-Devizului-general-faza-SF-si-a-Studiului-de-fezabilitate-pentru-obiectivul-de-investitii-Ext.pdf",
+     "sha256": "cb06c96ddb66f7d8bd96b74c7dd0abb89bce55a37cbf6e47df0d8190b42a8331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-101-2023",
+   "path": "local/mures/iernut/2023/101",
+   "short": "HCL Iernut nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 101/2023 privind aprobarea Devizului general actualizat - faza PTh pentru obiectivul de investiție: „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Primaria, str. 1 Decembrie 1918, nr. 9, Iernut”, cod SMIS 117615 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.101-26.06.2023-privind-aprobarea-Devizului-general-actualizat-faza-PTh-pentru-obiectivul-de-investitii-Cresterea-eficient.pdf",
+     "sha256": "675ab58cdc01f786dc1d0238526aabafd19d7270561be7b1f97d587b031ee320"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-102-2023",
+   "path": "local/mures/iernut/2023/102",
+   "short": "HCL Iernut nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 102/2023 privind constituirea rezervei de implementare si aprobarea Devizului general ACTUALIZAT – în baza OUG nr. 64 și a Ordinului nr. 1586/2022 pentru obiectivul de investitii : „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Primaria, str. 1 Decembrie 1918, nr. 9, Iernut” cod SMIS 117615” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.102-26.06.2023-privind-constituirea-rezervei-de-implementare-si-aprobarea-Devizului-general-ACTUALIZAT-in-baza-OUG-nr.-64.pdf",
+     "sha256": "257b00b9f41d8b253db663349b63136098b2117e10f36cec44dbeb216961b578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-103-2023",
+   "path": "local/mures/iernut/2023/103",
+   "short": "HCL Iernut nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 103/2023 privind majorarea rezervei de implementare si aprobarea Devizului general ACTUALIZAT faza PTh - în baza OUG nr. 64 si a Ordinului nr. 1586/2022 pentru obiectivul de investitii : „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Primaria, str. 1 Decembrie 1918, nr. 9, Iernut” , cod SMIS 117615” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.103-26.06.2023-privind-majorarea-rezervei-de-implementare-si-aprobarea-Devizului-general-ACTUALIZAT-faza-PTh-in-baza-OUG-nr.-.pdf",
+     "sha256": "4e9270fc689388f3b386b29aba17658def622124395e7fab39550294b5937648"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-104-2023",
+   "path": "local/mures/iernut/2023/104",
+   "short": "HCL Iernut nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 104/2023 privind încheierea unei ,,Protocol de cooperare” între Orașul Iernut și Asociația Internațională a Polițiștilor, Regiunea 1 Mureș – Autorități Locale – Servicii Publice în parteneriat – în vederea organizării ,,Cupei Structurilor Speciale de Interventie, septembrie 2023” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.104-26.06.2023-privind-incheierea-unui-Protocol-de-cooperare-intre-Orasul-Iernut-si-Asociatia-Internationala-a-Politistilor-Re.pdf",
+     "sha256": "ba828a2489ae25cf8fed7d564f5417b4e3cb7da73b9067b6081f75808d7d2684"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-105-2023",
+   "path": "local/mures/iernut/2023/105",
+   "short": "HCL Iernut nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 105/2023 privind aderarea UAT Comuna Cuci la Asociația Intercomunitară Iernuțana Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.105-26.06.2023-privind-aderarea-UAT-Comuna-Cuci-la-Asociatia-Intercomunitara-Iernutana.pdf",
+     "sha256": "f35c38871302e90d8014cb311c441c7f7d3d82cd1b0918970bbeecb52f4d2862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-106-2023",
+   "path": "local/mures/iernut/2023/106",
+   "short": "HCL Iernut nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 106/2023 privind alegerea Președintelui de Ședință al Consiliului Local Iernut pentru următoarele 3 luni Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.106-26.06.2023-privind-alegerea-Presedintelui-de-Sedinta-al-Consiliului-Local-Iernut-pentru-urmatoarele-3-luni.pdf",
+     "sha256": "3c6e5effbb2c4fb6de0567e010a699c5050ec64189cd79910adcd3c6636a2036"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-107-2023",
+   "path": "local/mures/iernut/2023/107",
+   "short": "HCL Iernut nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 107/2023 privind aprobarea Devizului General - AS BUILD- pentru obiectivul de investiții: ,,Extindere rețea de canalizare menajeră, stație de epurare și branșamente la rețelele de apă și canalizare în satul Sălcud , UAT Iernut, județ Mureș” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.107-26.06.2023-privind-aprobarea-Devizului-General-AS-BUILD-pentru-obiectivul-de-investitii-Extindere-retea-de-canali.pdf",
+     "sha256": "33fa68e4d785d69d935e747e66905f9f80ee58f3e87b416917f9018a0b4dcb84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-108-2023",
+   "path": "local/mures/iernut/2023/108",
+   "short": "HCL Iernut nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 108/2023 privind aprobarea constituirii rezervei de implementare si aprobarea Devizului general ACTUALIZAT - în baza OUG nr. 64 si a Ordinului nr. 1586/2022 pentru obiectivul de investitii: „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Casa de Cultura, str. 1 Decembrie 1918, nr. 9A, Iernut” cod SMIS 117616” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.108-26.06.2023-privind-aprobarea-constituirii-rezervei-de-implementare-si-aprobarea-Devizului-general-ACTUALIZAT-.pdf",
+     "sha256": "2bba592826201074aabf4c117c14ac9b78f13a9518631eac1ff7280cd7d49098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-109-2023",
+   "path": "local/mures/iernut/2023/109",
+   "short": "HCL Iernut nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 109/2023 privind aprobarea Devizului general ACTUALIZAT - faza PTh pentru obiectivul de investiții: „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Casa de Cultură, str. 1 Decembrie 1918, nr. 9A, Iernut” cod SMIS 117616 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.109-26.06.2023-privind-privind-aprobarea-Devizului-general-ACTUALIZAT-faza-PTh-pentru-obiectivul-de-investit.pdf",
+     "sha256": "6f2202c5f3fd9898e24234a640118a04363941a43dd890f39dc44a6b32d6d082"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-11-2023",
+   "path": "local/mures/iernut/2023/11",
+   "short": "HCL Iernut nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 11/2023 privind aprobarea utilizării sumei de 25.575,13 lei din excedentul bugetului local aferent anului 2022, pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile și cheltuielile secțiunii de funcționare Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 02.02.2023; Având în vedere Referatul de aprobare nr. 1400/27.01.2023 al Pr",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.011-02.02.2023-privind-aprobarea-utilizarii-sumei-de-25.57513-lei-din-excedentul-bugetului-local-aferent-anului-2022.pdf",
+     "sha256": "7b86899ac6292adf635fb0c5ee0e360ea106e99562ecc100ac0c9d2956a7ece3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-113-2023",
+   "path": "local/mures/iernut/2023/113",
+   "short": "HCL Iernut nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 113/2023 privind aprobarea execuției bugetului local al anului 2023 pe Trimestrul II Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.113-31.07.2023-privind-aprobarea-executiei-bugetului-local-al-anului-2023-pe-Trimestrul-II.pdf",
+     "sha256": "2a6050c91352ac778fbfa64faf8c7a2510667a90d327b4fdad7c30ce72658bb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-114-2023",
+   "path": "local/mures/iernut/2023/114",
+   "short": "HCL Iernut nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 114/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 31.07. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.114-31.07.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "c34c05dd4edb60c5758e28569255ed25727efbc499a58699bbfa32d0fd469ba0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-115-2023",
+   "path": "local/mures/iernut/2023/115",
+   "short": "HCL Iernut nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 115/2023 privind alocarea unei sume de bani Asociației Culturale ,,Pe Mureș și pe Târnavă” în vederea organizării Festivalului Cântecului Popular Patriotic - ,,La Oarba și La Iernut’’ Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 31.07. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.115-31.07.2023-privind-alocarea-unei-sume-de-bani-Asociatiei-Culturale-Pe-Mures-si-pe-Tarnava-in-vederea-organizarii-Festivalului-Cantecului-Popular-Patriotic-La-Oarba-si-La-Iernut.pdf",
+     "sha256": "6c79c9fae2f1db100e34d555bde228423d209563ac64fc75a99dc9f7da6439d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-116-2023",
+   "path": "local/mures/iernut/2023/116",
+   "short": "HCL Iernut nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 116/2023 privind aprobarea emiterii Acordului de reabilitare pentru accesul pe drumurile comunale DE 1661, DE 1660, DE 1659, DE 1658 cu camioane de mare tonaj solicitat de SC IMMOBILIARE SA necesar la ANRM Miercurea Ciuc Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 31.07. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.116-31.07.2023-privind-aprobarea-emiterii-Acordului-de-reabilitare-pentru-accesul-pe-drumurile-comunale-DE-1661-.pdf",
+     "sha256": "d298abe179be57a77b6a54a106d5c13335e43fd45a5bd8435d18b097a1b02550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-117-2023",
+   "path": "local/mures/iernut/2023/117",
+   "short": "HCL Iernut nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 117/2023 privind atestarea inventarului bunurilor care aparțin domeniului public al orașului Iernut, județul Mureș – ,, prag de fund” în suprafață de 818 mp Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 31.07. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.117-31.07.2023-privind-atestarea-inventarului-bunurilor-care-apartin-domeniului-public-al-orasului-Iernut-judetul-Mures-prag-de-fund-in-suprafata-de-818-mp.pdf",
+     "sha256": "de4fecf7b772e220d6ee0ae9ae2bd88b1f280193bc5ab6fbfc5594e3c52d30d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-118-2023",
+   "path": "local/mures/iernut/2023/118",
+   "short": "HCL Iernut nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 118/2023 privind atestarea apartenentei bunurilor care apartin domeniului public al Orasului Iernut, Judetul Mures – ,,drum” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 31.07. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.118-31.07.2023-privind-atestarea-apartenentei-bunurilor-care-apartin-domeniului-public-al-Orasului-Iernut-Judet-Mures-drum.pdf",
+     "sha256": "c9ad5d5c4fda82737463ac24c814eee728d0572018aaa551dd04528ecec64c3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-119-2023",
+   "path": "local/mures/iernut/2023/119",
+   "short": "HCL Iernut nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 119/2023 privind schimbarea sediului Serviciul Public Comunitar Local de Evidență a Persoanelor Iernut de la adresa situată în orașul Iernut, Piața 1 Decembrie 1918, nr. 9, jud Mureș, la sediul Poliției Locale Iernut, situat în incinta clădirii din Orașul Iernut, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.119-31.07.2023-privind-schimbarea-sediului-Serviciul-Public-Comunitar-Local-de-Evidenta-a-Persoanelor-Iernut-de-la-a.pdf",
+     "sha256": "169e1885b2c81fd222b4c87f23a8ffb342749304324d01449a9411bda07c7e81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-12-2023",
+   "path": "local/mures/iernut/2023/12",
+   "short": "HCL Iernut nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 12/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0e9ec2fdbe41478744cd61154d441be26b0f4d3fe463df8282924d63e98aa97b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-121-2023",
+   "path": "local/mures/iernut/2023/121",
+   "short": "HCL Iernut nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 121/2023 privind aprobarea prelungirii contractului de concesiune nr. 6548/10.06.2005, având ca obiect concesionarea spațiului situat în Iernut, str. Avram Iancu, nr.2A , cu destinația Cabinet medical",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.121-31.07.2023-privind-aprobarea-prelungirii-contractului-de-concesiune-nr.6548din10.06.2005-avand-ca-obiect-con.pdf",
+     "sha256": "0a8e183dcd1373d19ae66a5ccdb70b8fb259d7f44fc5727a471734b089a42a11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-122-2023",
+   "path": "local/mures/iernut/2023/122",
+   "short": "HCL Iernut nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 122/2023 privind aprobarea Devizului general actualizat pe OUG nr. 47/2022- pentru obiectivul de investiții: Reabilitarea, modernizarea și extinderea iluminatului public în orașul Iernut, județul Mureș Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 31.07. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.122-31.07.2023-privind-aprobarea-Devizului-general-actualizat-pe-OUG-nr.47din2022-pentru-obiectivul-de-investitii-R.pdf",
+     "sha256": "445d612e0e4c9d7d0ee6cf03cbf44ceb91863e039c13f09ec2e5079da57c37ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-125-2023",
+   "path": "local/mures/iernut/2023/125",
+   "short": "HCL Iernut nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 125/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 17.08.2023; Având în vedere Referatul de aprobare nr. 13502/11.08.2023 al Primarului Orașului Iernut privind proiectul de hotărâre pentru rectificarea bugetului local al Orașului Iernut, Văzând Raportul de specialitate nr. 13464 / 10.08.2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.125-17.08.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "12404e121f8a7e1b570177846f6d593270eeed29cd6c0aa86164ee6ae4bdf30c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-126-2023",
+   "path": "local/mures/iernut/2023/126",
+   "short": "HCL Iernut nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 126/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "965cc02dbcd06c33c154d673c609bbda691e3d375353b579cc36d4d68380085f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-127-2023",
+   "path": "local/mures/iernut/2023/127",
+   "short": "HCL Iernut nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 127/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2b45d9549bce32bce3caf1d982d94e5e915267ef1932113a13f362cc663cc917"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--iernut-128-2023",
    "path": "local/mures/iernut/2023/128",
    "short": "HCL Iernut nr. 128/2023",
@@ -14,6 +374,381 @@
      "units": 1,
      "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.128-28.08.2023-privind-aprobarea-Regulamentului-pentru-implementarea-formatului-unic-al-cardului-legitimatie-de-parcare-gratuita-pentru-persoanele-cu-handicap.pdf",
      "sha256": "58ae1e1281615ea04e824a6b439499f89776c140016492969b11283f7d26036a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-129-2023",
+   "path": "local/mures/iernut/2023/129",
+   "short": "HCL Iernut nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 129/2023 privind desemnarea reprezentanților Consiliului Local Iernut în Consiliul de administrație al Școlii Gimnaziale Iernut pentru anul școlar 2023-2024 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 28.08. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.129-28.08.2023-privind-desemnarea-reprezentantilor-Consiliului-Local-Iernut-in-Consiliul-de-administratie-al-Scolii-Gimnaziale-Iernut-pentru-anul-scolar-2023-2024.pdf",
+     "sha256": "aacb65a690199030886c569e20552dff5716d105500491abe47751f6cfec7966"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-13-2023",
+   "path": "local/mures/iernut/2023/13",
+   "short": "HCL Iernut nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 13/2023 privind aprobarea creditelor de angajament pentru acțiuni multianuale ale bugetului de venituri și cheltuieli al orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 02.02.2023; Având în vedere Referatul de aprobare nr. 909/27.01.2023 al Primarului Orașului Iernut, cu privire la cele mai sus menționate; Luând în considerare Nota de Fundamentare",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.013-02.02.2023-privind-aprobarea-creditelor-de-angajament-pentru-actiuni-multianuale-ale-bugetului-de-venituri-si-cheltuieli-al-orasului-Iernut.pdf",
+     "sha256": "da5685cf858ec36cf911431a4a0f32e86fa0287088b6396c3e901e6838240d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-130-2023",
+   "path": "local/mures/iernut/2023/130",
+   "short": "HCL Iernut nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 130/2023 privind desemnarea reprezentantului Consiliului Local Iernut în Consiliul de administrație al Liceul Tehnologic Iernut pentru anul școlar 2023-2024 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 28.08. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.130-28.08.2023-privind-desemnarea-reprezentantilor-Consiliului-Local-Iernut-in-Consiliul-de-administratie-al-Liceul-Tehnologic-Iernut-pentru-anul-scolar-2023-2024.pdf",
+     "sha256": "8fb35a1a9b61c1d93a262005f244afe212861f64d45e69bca9e9a77e3fd29cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-131-2023",
+   "path": "local/mures/iernut/2023/131",
+   "short": "HCL Iernut nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 131/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "723df9c8bc5b8372fbea6995188ee38be5def8e3744ba3c26560e6961e6a087f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-132-2023",
+   "path": "local/mures/iernut/2023/132",
+   "short": "HCL Iernut nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 132/2023 privind aprobarea Devizului general ACTUALIZAT - faza PTh pentru obiectivul de investiții: „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Casa de Cultura , str. 1 Decembrie 1918, nr. 9A, Iernut”, cod SMIS 117616” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 28.08. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.132-28.08.2023-privind-aprobarea-Devizului-general-ACTUALIZAT-faza-PTh-pentru-obiectivul-de-investitii-Cresterea-eficientei-energetice-a-cladirilor-publice-din-Orasul-Iernut-Casa-de-Cultura-str.-.pdf",
+     "sha256": "969f2ab4b58b8ef2cf7a8a33373eda3d2575078d4eba331acd45183d0553c691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-133-2023",
+   "path": "local/mures/iernut/2023/133",
+   "short": "HCL Iernut nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 133/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 25.09. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.133-25.09.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "76905385cd9a0a1167d6ece8b4dda24b2e6722aad6e2b12c396d912521fc9a10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-134-2023",
+   "path": "local/mures/iernut/2023/134",
+   "short": "HCL Iernut nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 134/2023 privind acordarea unui sprijin financiar Ligii pensionarilor Mureș - Filiala Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 25.09. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.134-25.09.2023-privind-acordarea-unui-sprijin-financiar-Ligii-pensionarilor-Mures-Filiala-Iernut.pdf",
+     "sha256": "e34901cb29f65b4efa88b1d2e6753d0242f3a1582e03e7fc8faaf9e3f71291aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-135-2023",
+   "path": "local/mures/iernut/2023/135",
+   "short": "HCL Iernut nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 135/2023 privind aprobarea vânzării prin licitație publică a 20 de loturi de teren, aflate în proprietatea privată a orașului Iernut, situate în cartierul Mihai Eminescu Nou, în vederea construirii unor locuințe Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 25.09. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.135-25.09.2023-privind-aprobarea-vanzarii-prin-licitatie-publica-a-20-de-loturi-de-teren-aflate-in-proprietatea-privata-.pdf",
+     "sha256": "2f4d586da747080c0bea12690beefed666e925de535c29f8bd8827df10865739"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-136-2023",
+   "path": "local/mures/iernut/2023/136",
+   "short": "HCL Iernut nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 136/2023 privind schimbarea destinatiei clădirii înscrise în C.F, nr. 54443 -C1 – nr cadastral 54443 C1- din unitate de învătământ- școala primară Deag - în imobil-clădire la dispozitia Consiliului Local Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 25.09. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.136-25.09.2023-privind-schimbarea-destinatiei-cladirii-inscrise-in-C.F.-nr.54443-C1-nr-cadastral-54443-C1-din-unitate-de-invatamant.pdf",
+     "sha256": "17485ddfd13fa3d31b886987c5852b59066ce7705cdc90181ecd39ec48fee341"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-137-2023",
+   "path": "local/mures/iernut/2023/137",
+   "short": "HCL Iernut nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 137/2023 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Comunitar Consultativ înființat la nivelul orașului Iernut",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.137-25.09.2023-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-Consiliului-Comunitar-Consultativ-infiintat-la-nivelul-orasului-Iernut.pdf",
+     "sha256": "659fa8b6d8cd7977131857afa112aa0a8c1c193a29f3733d759b516aa2968e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-138-2023",
+   "path": "local/mures/iernut/2023/138",
+   "short": "HCL Iernut nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 138/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8bce4909090603016bd358a791112fd299176fc1bdb411c6a3f4a35ac0c5ac67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-14-2023",
+   "path": "local/mures/iernut/2023/14",
+   "short": "HCL Iernut nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 14/2023 privind aprobarea creditelor de angajament pentru acțiuni multianuale ale bugetului de venituri și cheltuieli al orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 02.02.2023; Având în vedere Referatul de aprobare nr. 275/27.01.2023 al Primarului Orașului Iernut, cu privire la cele mai sus menționate; Luând în considerare Nota de Fundamentare",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.014-02.02.2023-privind-aprobarea-creditelor-de-angajament-pentru-actiuni-multianuale-ale-bugetului-de-venituri-si-cheltuieli-al-orasului-Iernut.pdf",
+     "sha256": "3204fede3428b94969a13fb4763c596432dee8142b3e1f7e1047d4b8f452ed72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-140-2023",
+   "path": "local/mures/iernut/2023/140",
+   "short": "HCL Iernut nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 140/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f2db7a40fbdcc5d2f3a4b5274c7871cca558efa55c76f777ffe4ba662e9f3eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-142-2023",
+   "path": "local/mures/iernut/2023/142",
+   "short": "HCL Iernut nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 142/2023 privind aprobarea Caietului de sarcini pentru încheierea unui Contract de asociere în participațiune în vederea construirii unei micro – hidrocentrale, pe râul Mureș Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 25.09. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.142-25.09.2023-privind-aprobarea-Caietului-de-sarcini-pentru-incheierea-unui-Contract-de-asociere-in-participatiune-in-vederea-construirii-unei-micro-hidrocentrale-pe-raul-Mures.pdf",
+     "sha256": "6673de926310deec50fb3c46bd7d12b598f702b6a8bcd6e7d0ae6d93ab65d49b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-143-2023",
+   "path": "local/mures/iernut/2023/143",
+   "short": "HCL Iernut nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 143/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investiții: ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Iernut – LOT 1 – blocul 19, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.143-25.09.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivul.pdf",
+     "sha256": "09b08407bb1827476c3aa9b41cc8f16dcd8c4668604331314d3469a001f1cfea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-144-2023",
+   "path": "local/mures/iernut/2023/144",
+   "short": "HCL Iernut nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 144/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investiții: ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Iernut – LOT 1 – blocul 22, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.144-25.09.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivul-de-i.pdf",
+     "sha256": "d1daa138ad13993b8d151dae8e448e33fb86c585136318f2ffd9e15ce1e1d86c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-145-2023",
+   "path": "local/mures/iernut/2023/145",
+   "short": "HCL Iernut nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 145/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investiții: ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Iernut – LOT 2 – blocul 20, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.145-25.09.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivul-de.pdf",
+     "sha256": "ea36d4fb1c18c784141d64406c764d3bf2c37fc0ad8ecbe523f7881c5bada608"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-146-2023",
+   "path": "local/mures/iernut/2023/146",
+   "short": "HCL Iernut nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 146/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investiții: ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Iernut – LOT 2 – blocul 21, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.146-25.09.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivul-de-inv.pdf",
+     "sha256": "b7fe5bc05951c4743863958a67213b8853d831cd2191cafd60320f5e81b1907f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-147-2023",
+   "path": "local/mures/iernut/2023/147",
+   "short": "HCL Iernut nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 147/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investiții: ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Iernut – LOT 2 – blocul 25, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.147-25.09.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiec.pdf",
+     "sha256": "7f791bc6d38cfaa30d3c44580a2f349fba3a1c8bda390d20725f009e1a544d1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-148-2023",
+   "path": "local/mures/iernut/2023/148",
+   "short": "HCL Iernut nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 148/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investiții: ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Iernut – LOT 2 – blocul 26, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.148-25.09.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivul-de-investitii.pdf",
+     "sha256": "23946bb76408cccef1bd53c83053d5060a7289bcee8f1d2f67ae9156d6373ed2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-149-2023",
+   "path": "local/mures/iernut/2023/149",
+   "short": "HCL Iernut nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 149/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investiții: ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Iernut – LOT 3 – blocul 30, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.149-25.09.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivul-de-investit.pdf",
+     "sha256": "d436e9ffd17478f48bfad9579a49c7e03214be89f2b3b6001fb9d7108cd96a6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-15-2023",
+   "path": "local/mures/iernut/2023/15",
+   "short": "HCL Iernut nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 15/2023 privind aprobarea creditelor de angajament pentru acțiuni multianuale ale bugetului de venituri și cheltuieli al orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 02.02.2023; Având în vedere Referatul de aprobare nr. 25323/27.01.2023 al Primarului Orașului Iernut, cu privire la cele mai sus menționate; Luând în considerare Nota de Fundamentar",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.015-02.02.2023-privind-aprobarea-creditelor-de-angajament-pentru-actiuni-multianuale-ale-bugetului-de-venituri-si-cheltuieli-al-orasului-Iernut.pdf",
+     "sha256": "11539e66b5cb9f008aa1acde97ec8cfc6488d9f49f68572c3e584b4395ab9fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-150-2023",
+   "path": "local/mures/iernut/2023/150",
+   "short": "HCL Iernut nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 150/2023 privind aprobarea execuției bugetului local al anului 2023 pe Trimestrul III Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.10. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.150-30.10.2023-privind-aprobarea-executiei-bugetului-local-al-anului-2023-pe-Trimestrul-III.pdf",
+     "sha256": "4af572f6903eedcb8d6b7e66db4e8377defaaefec73ed9b1e898a66121d7bd7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-151-2023",
+   "path": "local/mures/iernut/2023/151",
+   "short": "HCL Iernut nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 151/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.10. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.151-30.10.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "f7e00b26d362db6f9db11ddab42f1d83950d033637a1430f4c7373084b04c25d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-154-2023",
+   "path": "local/mures/iernut/2023/154",
+   "short": "HCL Iernut nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 154/2023 privind stabilirea normativelor proprii pentru consumul de carburanți al mașinii autopropulsată – buldoexcavator marca JCB, aflată în dotarea Compartimentului Gospodăriei Comunală și Spații Verzi din cadrul UAT - Oraș Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.10. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.154-30.10.2023-privind-stabilirea-normativelor-proprii-pentru-consumul-de-carburanti-al-masinii-autopropulsata-buldoexcavator.pdf",
+     "sha256": "0157dd4a8d9cba9e164db2893512b63c9b6ce1b974735dc4cc1ad67601632ce1"
     }
    ]
   },
@@ -33,6 +768,606 @@
    ]
   },
   {
+   "slug": "hcl-mures--iernut-156-2023",
+   "path": "local/mures/iernut/2023/156",
+   "short": "HCL Iernut nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 156/2023 privind trecerea în domeniul privat al Orașului Iernut a unor bunuri – mijloace fixe în scopul scoaterii din funcțiune și valorificării Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.10. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.156-30.10.2023-privind-trecerea-in-domeniul-privat-al-Orasului-Iernut-a-unor-bunuri-mijloace-fixe-in-scopul-scoaterii-din-functiune-si-valorificari.pdf",
+     "sha256": "23b5bd17205a7e86ceff629fc721c86b17fa68747749bd753b4ad8744655bea0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-159-2023",
+   "path": "local/mures/iernut/2023/159",
+   "short": "HCL Iernut nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 159/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7c46e9eb0a73c8de428c0baafabf8534456f767f13838bfad0153d5ad6a3625d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-16-2023",
+   "path": "local/mures/iernut/2023/16",
+   "short": "HCL Iernut nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 16/2023 privind aprobarea creditelor de angajament pentru acțiuni multianuale ale bugetului de venituri și cheltuieli al orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 02.02.2023; Având în vedere Referatul de aprobare nr. 25558/27.01.2023 al Primarului Orașului Iernut, cu privire la cele mai sus menționate; Luând în considerare Nota de Fundamentar",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.016-02.02.2023-privind-aprobarea-creditelor-de-angajament-pentru-actiuni-multianuale-ale-bugetului-de-venituri-si-cheltuieli-al-orasului-Iernut.pdf",
+     "sha256": "7eccad057612a5b65a866c7ba831271d5b17f8e3316f23704b85fa2f71834e16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-160-2023",
+   "path": "local/mures/iernut/2023/160",
+   "short": "HCL Iernut nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 160/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investitii: „ Cresterea eficientei energetice si gestionarea inteligenta a cladirii publice situata pe str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.160-30.10.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiecti.pdf",
+     "sha256": "63cd8df140342d9e34dc0b7dee9a4d1b02f030abb83de3a9f991e872554fe562"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-161-2023",
+   "path": "local/mures/iernut/2023/161",
+   "short": "HCL Iernut nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 161/2023 privind aprobarea majorarea rezervei de implementare si aprobarea Devizului general ACTUALIZAT pentru obiectivul de investitii „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Casa de Cultură , str. 1 Decembrie 1918, nr. 9 A, Iernut” cod SMIS 117616 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.10. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.161-30.10.2023-privind-aprobarea-majorarea-rezervei-de-implementare-si-aprobarea-Devizului-general-ACTUALIZAT-pentru.pdf",
+     "sha256": "9f40952e4f2760be9bab38f03f9c500d20fb4eef8c06504248b184e629138304"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-162-2023",
+   "path": "local/mures/iernut/2023/162",
+   "short": "HCL Iernut nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 162/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investitii: „ Cresterea eficientei energetice si gestionarea inteligenta a energiei la cladirile Școlii Gimnaziale Iernut, Iernut str. M",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.162-30.10.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiec.pdf",
+     "sha256": "faac9dc7d66b28ed8440d2b73cf16d057bcaaa89f3b8baebe466af050d4aceca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-163-2023",
+   "path": "local/mures/iernut/2023/163",
+   "short": "HCL Iernut nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 163/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "49f2979786433ef21c4b407e9ac080fadf08e4aceb5919188d386e1fe58b99b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-165-2023",
+   "path": "local/mures/iernut/2023/165",
+   "short": "HCL Iernut nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 165/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.11. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.165-27.11.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "b271544cfc973f1a3393f25ba3978a31ecca75d1dae2fbac9b4170e2e352b3fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-166-2023",
+   "path": "local/mures/iernut/2023/166",
+   "short": "HCL Iernut nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 166/2023 privind acordarea unui sprijin financiar Ligii pensionarilor Mureș - Filiala Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.11. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.166-27.11.2023-privind-acordarea-unui-sprijin-financiar-Ligii-pensionarilor-Mures-Filiala-Iernut.pdf",
+     "sha256": "31c6ac4f7c90f4497304c5ac74b22ff3650fbfe685c60a5befa288c9f810384a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-167-2023",
+   "path": "local/mures/iernut/2023/167",
+   "short": "HCL Iernut nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 167/2023 privind modificarea Organigramei și a Statului de funcții la nivelul aparatului de specialitate al primarului orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.11. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.167-27.11.2023-privind-modificarea-Organigramei-si-a-Statului-de-functii-la-nivelul-aparatului-de-specialitate-al-primarului-orasului-Iernut.pdf",
+     "sha256": "0f51bdb3184061d72030031cd81684eb5dab264f4e3dcfdc38167439afd8c2a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-168-2023",
+   "path": "local/mures/iernut/2023/168",
+   "short": "HCL Iernut nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 168/2023 privind aprobarea schimbului de locuințe pentru tineri, destinate închirierii, între titularii contractelor de închiriere nr. 98/12.04.2011 și nr. 307/11.08.2021",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.168-27.11.2023-privind-aprobarea-schimbului-de-locuinte-pentru-tineri-destinate-inchirierii-intre-titularii-contractelor-de-inchiriere-nr.98-12.04.2011-si-nr.307-11.08.2021.pdf",
+     "sha256": "a6b8c0322403971a48d11eef6ac436686596a551f6c9f1305b4bc1dd06baf5cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-169-2023",
+   "path": "local/mures/iernut/2023/169",
+   "short": "HCL Iernut nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 169/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d8352ebd11b1a3e7aed3a8c26e1214e1e9076106b5f48826774c0ad146d8333b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-17-2023",
+   "path": "local/mures/iernut/2023/17",
+   "short": "HCL Iernut nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 17/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a1e7a1d4a5a8a078cfc65d6b5320f15a35ab62bfb8b9350a50def167903b266a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-170-2023",
+   "path": "local/mures/iernut/2023/170",
+   "short": "HCL Iernut nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 170/2023 privind majorarea rezervei de implementare si aprobarea Devizului general ACTUALIZAT - în baza O.U.G 64 si Ordinul 1586/2022 pentru obiectivul de investitii „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Primaria, str. 1 Decembrie 1918, nr. 9, Iernut” cod SMIS 117615” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.11. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.170-27.11.2023-privind-majorarea-rezervei-de-implementare-si-aprobarea-Devizului-general-ACTUALIZAT-in-baza-O.U.G-64-.pdf",
+     "sha256": "e3ec1211a56bb16fd42b02ab005f095a7a253cb743aefe8c2ae264893a9b6e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-171-2023",
+   "path": "local/mures/iernut/2023/171",
+   "short": "HCL Iernut nr. 171/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 171/2023 privind aprobarea Programului de îmbunătățire a eficienței energetice (PIEE) la nivelul orașului Iernut, județul Mureș Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.11. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.171-27.11.2023-privind-aprobarea-Programului-de-imbunatatire-a-eficientei-energetice-PIEE-la-nivelul-orasului-Iernut-judetul-Mures.pdf",
+     "sha256": "f0528eef8a6f1e0d9b1a2cbdf637236952505e25b0978413df70406f4743dbab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-172-2023",
+   "path": "local/mures/iernut/2023/172",
+   "short": "HCL Iernut nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 172/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investitii: „Renovarea energetica a cladirilor rezidentiale multifamiliale din orasul Iernut - LOT 3 runda 2” -blocul 31 si blocul 32, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.172-27.11.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivu.pdf",
+     "sha256": "ccd2b98191e0953db54784e1e3da63dc983156dc649ea23dbec6985296d38d58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-173-2023",
+   "path": "local/mures/iernut/2023/173",
+   "short": "HCL Iernut nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 173/2023 privind constituirea rezervei de implementare si aprobarea Devizului general ACTUALIZAT – în baza oug 64 si Ordinul 1586/2022 pentru obiectivul de investitii „Construire blocuri locuinte sociale in orasul Iernut” – componenta a proiectului cu cod SMIS 126015” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.11. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.173-27.11.2023-privind-constituirea-rezervei-de-implementare-si-aprobarea-Devizului-general-ACTUALIZAT-in-baza-oug-64-.pdf",
+     "sha256": "88e3c83e6e11912e10c69a4da00d8168a819a454d219b15c7fcf92a530dc751e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-177-2023",
+   "path": "local/mures/iernut/2023/177",
+   "short": "HCL Iernut nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 177/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 18.12. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.177-18.12.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "2d40970ba078e18b8c1e0ab05098dcc398b64ab3c6fecb2f75d7dfd37f4a4efb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-178-2023",
+   "path": "local/mures/iernut/2023/178",
+   "short": "HCL Iernut nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 178/2023 privind aprobarea contului de execuție a bugetului local la data de 30 noiembrie 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 18.12. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.178-18.12.2023-privind-aprobarea-contului-de-executie-a-bugetului-local-la-data-de-30-noiembrie-2023.pdf",
+     "sha256": "ca2906aabf95ad95edd364c2b9584656efa59aa4b63886bc2b341fb99358733f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-179-2023",
+   "path": "local/mures/iernut/2023/179",
+   "short": "HCL Iernut nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 179/2023 privind anularea creanțelor fiscale mai mici de 40 lei existente în sold la data de 31.12.2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 18.12. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.179-18.12.2023-privind-anularea-creantelor-fiscale-mai-mici-de-40-lei-existente-in-sold-la-data-de-31.12.2023.pdf",
+     "sha256": "2593fc212c9705bbd7975dc505af62f87b91be9034ea29b00512afc011e9da15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-180-2023",
+   "path": "local/mures/iernut/2023/180",
+   "short": "HCL Iernut nr. 180/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 180/2023 privind aprobarea Devizului general AS BUILD pentru obiectivul de investitii „Cresterea eficientei energetice a cladirilor publice din Orasul Iernut, Primaria , str. 1 Decembrie 1918, nr. 9, Iernut” cod SMIS 117615” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 18.12. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.180-18.12.2023-privind-aprobarea-Devizului-general-AS-BUILD-pentru-obiectivul-de-investitii-Cresterea-eficientei-energetice-a-cladir.pdf",
+     "sha256": "b8e9f2fc681c3dd17c3f70e9d86a5199e1d4fab6b493c1db6fdf7f05b766c8e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-182-2023",
+   "path": "local/mures/iernut/2023/182",
+   "short": "HCL Iernut nr. 182/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 182/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4df86495b11734b37aa140ef7c24c6850ba3db5ff7cece18616780995e6a137f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-183-2023",
+   "path": "local/mures/iernut/2023/183",
+   "short": "HCL Iernut nr. 183/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 183/2023 privind aprobarea Planului de acțiuni sau de lucrări de interes local al Orașului Iernut pentru anul 2024 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 18.12. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.183-18.12.2023-privind-aprobarea-Planului-de-actiuni-sau-de-lucrari-de-interes-local-al-Orasului-Iernut-pentru-anul-2024.pdf",
+     "sha256": "9c5c6dfe8d2e3045a61a9a9a3a0f7edeefbfae73e4fe08d1d5fee825a80ee76d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-185-2023",
+   "path": "local/mures/iernut/2023/185",
+   "short": "HCL Iernut nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 185/2023 privind alegerea Președintelui de Ședință al Consiliului Local Iernut pentru următoarele 3 luni Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 18.12. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.185-18.12.2023-privind-alegerea-Presedintelui-de-Sedinta-al-Consiliului-Local-Iernut-pentru-urmatoarele-3-luni.pdf",
+     "sha256": "9d772ab68204e128be732d1271c14df38d3df908b81660061c2185e2cb330665"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-2-2023",
+   "path": "local/mures/iernut/2023/2",
+   "short": "HCL Iernut nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 2/2023 privind suplimentarea numărului burselor sociale acordate elevilor din unitățile de învatămant preuniversitar de stat, de pe raza orașului Iernut pentru anul școlar 2022 -2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.01.2023; Având în vedere Referatul de aprobare nr. 420/11.01.2023, întocmit de către dl",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.002-30.01.2023-privind-suplimentarea-numarului-burselor-sociale-acordate-elevilor-din-unitatile-de-invatamant-preuniversitar-de-stat-de-pe-raza-orasului-Iernut-pentru-anul-scolar-2022-2023.pdf",
+     "sha256": "9a9599b632dc4cd16b764281ff70d95597954616689d8d780db0e7013209f854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-20-2023",
+   "path": "local/mures/iernut/2023/20",
+   "short": "HCL Iernut nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 20/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Având în vedere Referatul de aprobare nr. 2700/16.02.2023 al Primarului Orașului Iernut privind proiectul de hotărâre pentru rectificarea bugetului local al Orașului Iernut, Văzând Raportul de specialitate nr. 2936/20.02.2023 al Servi",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.020-27.02.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "8c72abd48a7cef95cfec621133b5d76312a9c74dba04e7e373793dd501fdca1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-21-2023",
+   "path": "local/mures/iernut/2023/21",
+   "short": "HCL Iernut nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 21/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d9eec3590587cf798436398803d1449bbd2a50f9525c8e556ab5df349a9103ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-22-2023",
+   "path": "local/mures/iernut/2023/22",
+   "short": "HCL Iernut nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 22/2023 privind acordarea unui sprijin financiar Parohiei Ortodoxă Română Iernut I Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Văzând Referatul de aprobare nr. 2568/14.02.2023 al Primarului Orașului Iernut pentru acordarea unui sprijin financiar Parohiei Ortodoxă Română Iernut I, Având în vedere Raportul de specialitate nr. 2589/14.02.2023 întocmit de c",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.022-27.02.2023-privind-acordarea-unui-sprijin-financiar-Parohiei-Ortodoxa-Romana-Iernut-I.pdf",
+     "sha256": "9a29cd9c67e6272058f93785f3ec93522c422811a99e4d75b2083dfcd9e3626b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-23-2023",
+   "path": "local/mures/iernut/2023/23",
+   "short": "HCL Iernut nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 23/2023 privind acordarea unui sprijin financiar Parohiei Ortodoxă Română Iernut II Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Văzând Referatul de aprobare nr. 2572/14.02.2023 al Primarului Orașului Iernut pentru acordarea unui sprijin financiar Parohiei Ortodoxă Română Iernut II, Având în vedere Raportul de specialitate nr. 2589/14.02.2023 întocmit de",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.023-27.02.2023-privind-acordarea-unui-sprijin-financiar-Parohiei-Ortodoxa-Romana-Iernut-II.pdf",
+     "sha256": "8acfeb913fb0368eb0fe6dd24288cb5cafb1e9ce2b59bc6be3373dd53b36d77b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-24-2023",
+   "path": "local/mures/iernut/2023/24",
+   "short": "HCL Iernut nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 24/2023 privind acordarea unui sprijin financiar Parohiei Ortodoxă Română Sălcud Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Văzând Referatul de aprobare nr. 2627/15.02.2023 al Primarului Orașului Iernut pentru acordarea unui sprijin financiar Parohiei Ortodoxă Română Sălcud; Având în vedere Raportul de specialitate nr. 2589/14.02.2023 întocmit de către",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.024-27.02.2023-privind-acordarea-unui-sprijin-financiar-Parohiei-Ortodoxa-Romana-Salcud.pdf",
+     "sha256": "8fefa3833f14c56a499db2d8f5948dbf0a7a329ecb2643efada74d54563f8544"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-25-2023",
+   "path": "local/mures/iernut/2023/25",
+   "short": "HCL Iernut nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 25/2023 privind acordarea unui sprijin financiar Parohiei Ortodoxă Română Sfântu Gheorghe Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Văzând Referatul de aprobare nr. 2635/15.02.2023 al Primarului Orașului Iernut pentru acordarea unui sprijin financiar Parohiei Ortodoxă Română Sfântu Gheorghe; Având în vedere Raportul de specialitate nr. 2589/14.02.2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+     "sha256": "dac7d3033617f6cdf8775ecc2ad308f59e4e79e4e4862e018d9c57181fa8d5b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-26-2023",
+   "path": "local/mures/iernut/2023/26",
+   "short": "HCL Iernut nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 26/2023 privind acordarea unui sprijin financiar Parohiei Reformată Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Văzând Referatul de aprobare nr. 2586/14.02.2023 al Primarului Orașului Iernut pentru acordarea unui sprijin financiar Parohiei Reformată Iernut; Având în vedere Raportul de specialitate nr. 2589/14.02.2023 întocmit de către Serviciul B",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.026-27.02.2023-privind-acordarea-unui-sprijin-financiar-Parohiei-Reformata-Iernut.pdf",
+     "sha256": "871f960c78690552eecf6cfc8d832644f523ee15daf9621b47198502df443555"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-27-2023",
+   "path": "local/mures/iernut/2023/27",
+   "short": "HCL Iernut nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 27/2023 privind acordarea unui sprijin financiar Parohiei Romană Catolică Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Văzând Referatul de aprobare nr. 2638/15.02.2023 al Primarului Orașului Iernut pentru acordarea unui sprijin financiar Parohiei Romano-Catolică Iernut; Având în vedere Raportul de specialitate nr. 2589/14.02.2023 întocmit de către",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.027-27.02.2023-privind-acordarea-unui-sprijin-financiar-Parohiei-Romana-Catolica-Iernut.pdf",
+     "sha256": "8cb7d56c914b98a6c53b8cb924399b715ab1e86be25b12b3951e34f6eaba2370"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-28-2023",
+   "path": "local/mures/iernut/2023/28",
+   "short": "HCL Iernut nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 28/2023 privind acordarea unui sprijin financiar Parohiei Ortodoxă Română Lechinta Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Văzând Referatul de aprobare nr. 2789/17.02.2023 al Primarului Orașului Iernut pentru acordarea unui sprijin financiar Parohiei Ortodoxă Română Lechința; Având în vedere Raportul de specialitate nr. 2589/14.02.2023 întocmit de c",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.028-27.02.2023-privind-acordarea-unui-sprijin-financiar-Parohiei-Ortodoxa-Romana-Lechinta.pdf",
+     "sha256": "cd1d6b7faf95a6abcb736dda6be05eaf4a6ec65c29d1e8412173155010c67e21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-29-2023",
+   "path": "local/mures/iernut/2023/29",
+   "short": "HCL Iernut nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 29/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "eb9c4a7125229aac52f661558d5fe0d3776281848c307d7dc1c4893ed88de197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-30-2023",
+   "path": "local/mures/iernut/2023/30",
+   "short": "HCL Iernut nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 30/2023 privind aprobarea încheierii unui contract de asociere între Consiliul Local Iernut și Clubul Sportiv Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Având în vedere Referatul de aprobare nr. 2727/16.02.2023 al Primarului orașului Iernut, cu privire la actul de proiect de hotărâre privind aprobarea încheierii unui contract de asociere între C",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.030-27.02.2023-privind-aprobarea-incheierii-unui-contract-de-asociere-intre-Consiliul-Local-Iernut-si-Clubul-Sportiv-Iernut.pdf",
+     "sha256": "26948747c2503df7797432ac60341ce25745e6a53b4e235725b7c08b5535590b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-31-2023",
+   "path": "local/mures/iernut/2023/31",
+   "short": "HCL Iernut nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 31/2023 privind aprobarea inventarului anual și a patrimoniului public și privat al orașului Iernut, administrate de Consiliul local Iernut, pentru anul 2022 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Având în vedere Referatul de aprobare nr. 2678/15.02.2023 al Primarului prin care propune spre aprobare inventarierea bunurilor materiale ce aparțin Oraș",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.031-27.02.2023-privind-aprobarea-inventarului-anual-si-a-patrimoniului-public-si-privat-al-orasului-Iernut-administrate-de-Consiliul-local-Iernut-pentru-anul-2022.pdf",
+     "sha256": "e51cc9a0899a656c6a20f02001af176ed0031559b956f38c3dde13a47d7509df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-32-2023",
+   "path": "local/mures/iernut/2023/32",
+   "short": "HCL Iernut nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 32/2023 pentru aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Orașului Iernut pentru anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Având în vedere Referatul de aprobare nr. 2648/15.02.2023, întocmit de către dl",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.032-27.02.2023-privind-aprobarea-Planului-anual-de-actiuni-privind-serviciile-sociale-administrate-si-finantate-din-bugetul-Consiliului-Local-al-Orasului-Iernut-pentru-anul-2023.pdf",
+     "sha256": "3b75276948cdbfa7e7f4bd13ec38377c7c1e5b67f113bf0f904681519fcfc15e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-33-2023",
+   "path": "local/mures/iernut/2023/33",
+   "short": "HCL Iernut nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 33/2023 privind aprobarea listei solicitanților privind ocuparea unor locuințe construite din fonduri A.N.L",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.033-27.02.2023-privind-aprobarea-listei-solicitantilor-privind-ocuparea-unor-locuinte-construite-din-fonduri-A.N.L.pdf",
+     "sha256": "f7839940152216236458b297a92d0564706b071b9dac295d2c9001653f16ea2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-34-2023",
+   "path": "local/mures/iernut/2023/34",
+   "short": "HCL Iernut nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 34/2023 privind aprobarea cuantumului chiriei pentru locuințele situate în orașul Iernut, jud. Mureș, construite de Agenția Națională pentru Locuințe, aflate în administrarea Consiliului local al orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.02.2023; Având în vedere Referatul de aprobare nr. 2720/16.02.2023 al Primarului orașului Iernut, dl Nicoară",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.034-27.02.2023-privind-aprobarea-cuantumului-chiriei-pentru-locuintele-situate-in-orasul-Iernut-jud.-Mures-construite-de-Agentia-Nationala-pentru-Locuinte.pdf",
+     "sha256": "b1fd1bbbe83a8688c4c128becb5d0a0b479426ff07d3ea5fe645266269b66aee"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--iernut-35-2023",
    "path": "local/mures/iernut/2023/35",
    "short": "HCL Iernut nr. 35/2023",
@@ -44,6 +1379,276 @@
      "units": 5,
      "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.035-27.02.2023-privind-Actualizarea-Regulamentului-de-eliberare-a-Acordului-administratorului-drumului-public-pentru-efectuarea.pdf",
      "sha256": "9a2d69d0756b35cf9c8d14d41a7f29640a821eb90918dfb3c18c75b09f38e111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-37-2023",
+   "path": "local/mures/iernut/2023/37",
+   "short": "HCL Iernut nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 37/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.03.2023; Având în vedere Referatul de aprobare nr. 4712/17.03.2023 al Primarului Orașului Iernut privind proiectul de hotărâre pentru rectificarea bugetului local al Orașului Iernut, Văzând Raportul de specialitate nr. 4770/17.03.2023 al Servi",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.037-27.03.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "10e25584ba1d233366a29e740bb7084bf0c7d98878a41aa589641583e940ecd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-38-2023",
+   "path": "local/mures/iernut/2023/38",
+   "short": "HCL Iernut nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 38/2023 privind aprobarea creditelor de angajament pentru acțiuni multianuale ale bugetului de venituri și cheltuieli al orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.03.2023; Având în vedere Referatul de aprobare nr. 4777/27.01.2023 al Primarului Orașului Iernut, cu privire la cele mai sus menționate; Luând în considerare Nota de Fundamentare nr",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.038-27.03.2023-privind-aprobarea-creditelor-de-angajament-pentru-actiuni-multianuale-ale-bugetului-de-venituri-si-cheltuieli-ale-orasului-Iernut.pdf",
+     "sha256": "5e014f5e555deec89d66ac17cfcb2ce41edc67a4e1067e7525fd7e1bdee06b66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-41-2023",
+   "path": "local/mures/iernut/2023/41",
+   "short": "HCL Iernut nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 41/2023 privind aprobarea încheierii unui contract de asociere între Consiliul Local Iernut și Asociația Club Sportiv 22 Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.03.2023; Având în vedere Referatul de aprobare nr. 4771/17.03.2023 al Primarului orașului Iernut, cu privire la actul de proiect de hotărâre privind aprobarea încheierii unui contract de asoci",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.041-27.03.2023-privind-aprobarea-incheierii-unui-contract-de-asociere-intre-Consiliul-Local-Iernut-si-Asociatia-Club-Sportiv-22-Iernut.pdf",
+     "sha256": "c36b6558295e0a7d392907b19bd363564d7a76d30b2f9112c1ff5eda1832ba39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-42-2023",
+   "path": "local/mures/iernut/2023/42",
+   "short": "HCL Iernut nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 42/2023 privind aprobarea Planului de Ordine și Siguranță Publică al orașului Iernut pentru anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.03.2023; Având în vedere Referatul de aprobare nr. 3734/02.03.2023 al d-lui",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.042-27.03.2023-privind-aprobarea-Planului-de-Ordine-si-Siguranta-Publica-al-orasului-Iernut-pentru-anul-2023.pdf",
+     "sha256": "c6fdba262b420168cf42836855c24cbdf6a45d12d607af45c2c7a64b374705d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-43-2023",
+   "path": "local/mures/iernut/2023/43",
+   "short": "HCL Iernut nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 43/2023 privind aprobarea retragerii unei unități administrativ teritoriale din Asociația de Dezvoltare Intercomunitară „AQUA INVEST MUREȘ” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.03.2023; Având în vedere Referatul de aprobare nr. 4767/17.03.2023, întocmit de către dl",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.043-27.03.2023-privind-aprobarea-retragerii-unei-unitati-administrativ-teritoriale-din-Asociatia-de-Dezvoltare-Intercomunitara-AQUA-INCEST-MURES.pdf",
+     "sha256": "d1f02df26d3f28da5038e19579a8ac6b97516ad749a21d0a7e891a4ab710a55b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-45-2023",
+   "path": "local/mures/iernut/2023/45",
+   "short": "HCL Iernut nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 45/2023 privind participarea orasului Iernut la programul de finantare Planul Național de Redresare și Reziliență, Componenta C15 Educație apelul „Dotarea cu mobilier și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe” cu proiectul intitulat ,,Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din orasul Iernut",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.045-27.03.2023-privind-participarea-orasului-Iernut-la-programul-de-finantare-Planul-National-de-Redresare-si-Rezilienta-Componenta-C15.pdf",
+     "sha256": "47b2765b11f02f8af69d86660e744c2341900509dc53e3d4b00f3bd3f5c913b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-46-2023",
+   "path": "local/mures/iernut/2023/46",
+   "short": "HCL Iernut nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 46/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.046-27.03.2023-privind-modificarea-H.C.L.-nr.8-30.01.2023-referitoare-la-taxa-de-reabilitare-termica-si-a-mecanismului-d.pdf",
+     "sha256": "050eb789c5014b998c7374dc3d01ddac23e7b6eca57a2258f120527b7a6a655c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-47-2023",
+   "path": "local/mures/iernut/2023/47",
+   "short": "HCL Iernut nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 47/2023 privind alegerea Președintelui de Ședință al Consiliului Local Iernut pentru următoarele 3 luni Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.03.2023; Având în vedere Referatul de aprobare nr. 4773/17.03.2023 al primarului Orașului Iernut, privind alegerea Președintelui de Ședință al Consiliului Local Iernut pentru următoarele 3 luni, Ținând cont de Raport",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.047-27.03.2023-privind-alegerea-Presedintelui-de-Sedinta-al-Consiliului-Local-Iernut-pentru-urmatoarele-3-luni.pdf",
+     "sha256": "a3387b30842fbf6fc90a1fc6bfad5a52a12f9ab737fb2d4ae1d42e994f727e91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-48-2023",
+   "path": "local/mures/iernut/2023/48",
+   "short": "HCL Iernut nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 48/2023 privind atestarea apartenenței bunurilor care aparțin domeniului public al Orașului Iernut, Județul Mureș Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 27.03.2023; Ținând cont de Referatul de aprobare nr. 5151/23.03.2023 al Primarului Orașului Iernut, cu privire la atestarea bunurilor care aparțin domeniului public al Orașului Iernut Județul Mureș; Având în v",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.048-27.03.2023-privind-atestarea-apartenentei-bunurilor-care-apartin-domeniului-public-al-Orasului-Iernut-Judetul-Mures.pdf",
+     "sha256": "12a960ed6b145ddb07bb3918da923914408880a7cd55db94de2ffd61196d36ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-49-2023",
+   "path": "local/mures/iernut/2023/49",
+   "short": "HCL Iernut nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 49/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "93e49ab1d7c31174dec108fdb478598c7ce5dc4d9085a9bc79962da564b2c542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-5-2023",
+   "path": "local/mures/iernut/2023/5",
+   "short": "HCL Iernut nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 5/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d08c6237f0a6f6c0b51dee6f6c4d40783ba83742fb5f1ead748581daa38d6287"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-50-2023",
+   "path": "local/mures/iernut/2023/50",
+   "short": "HCL Iernut nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 50/2023 privind aprobarea indicatorilor tehnico - economici și a documentației tehnico-economice pentru obiectivul de investitii: : „Renovarea energetica a cladirilor rezidentiale multifamiliale din orasul Iernut - LOT 2 - str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.050-18.04.2023-privind-aprobarea-indicatori-tehnico-economici-si-documentatie-tehnico-economice-pentru-obiectivul-de-investiti.pdf",
+     "sha256": "253272adbc1f259e99e29250e2f0f6a725c5748c073f0a48228461ac96164d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-51-2023",
+   "path": "local/mures/iernut/2023/51",
+   "short": "HCL Iernut nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 51/2023 privind aprobarea indicatorilor tehnico - economici și a documentației tehnico-economice pentru obiectivul de investitii: „Renovarea energetica a cladirilor rezidentiale multifamiliale din orasul Iernut - LOT 2 - bloc nr. 21, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.051-18.04.2023-privind-aprobarea-indicatori-tehnico-economici-si-documentatie-tehnico-economice-pentru-obiectivul-de-investitii.pdf",
+     "sha256": "18b01332c158d670535d9df517e2adc0567389ce147d00040aa97ae21c4bb2a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-52-2023",
+   "path": "local/mures/iernut/2023/52",
+   "short": "HCL Iernut nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 52/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "535b70766f79a76c85e8c8f1602e7284e258c609ad967d404992699f8d946b4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-53-2023",
+   "path": "local/mures/iernut/2023/53",
+   "short": "HCL Iernut nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 53/2023 privind aprobarea indicatorilor tehnico - economici și a documentației tehnico-economice pentru obiectivul de investitii: : „Renovarea energetica a cladirilor rezidentiale multifamiliale din orasul Iernut - LOT 2 - bloc nr. 25, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.053-18.04.2023-privind-aprobarea-indicatori-tehnico-economici-si-documentatie-tehnico-economice-pentru-obiectivul-de-investit.pdf",
+     "sha256": "9ed2f0658f52753993ad07b0dc9c1ed1e0226b16a6254cbdd5f05432181219c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-54-2023",
+   "path": "local/mures/iernut/2023/54",
+   "short": "HCL Iernut nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 54/2023 privind aprobarea indicatorilor tehnico - economici și a documentației tehnico-economice pentru obiectivul de investitii: „Renovarea energetica a cladirilor rezidentiale multifamiliale din orasul Iernut - LOT 2 - bloc nr. 26, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.054-18.04.2023-privind-aprobarea-indicatori-tehnico-economici-si-documentatie-tehnico-economice-pentru-obiectivul-de-investitii-Renovar.pdf",
+     "sha256": "95854ffbfbb14453f25f77d3c43fec6bc2e868c346a60bc679f7c3ef7748487c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-55-2023",
+   "path": "local/mures/iernut/2023/55",
+   "short": "HCL Iernut nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 55/2023 privind aprobarea indicatorilor tehnico economici și a documentației tehnico-economice pentru obiectivul de investitii: „Renovarea energetica a cladirilor rezidentiale multifamiliale din orasul Iernut - LOT 3 - bloc nr. 30, str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.055-18.04.2023-privind-aprobarea-indicatori-tehnico-economici-si-documentatie-tehnico-economice-pentru-obiectivul-de-investiti.pdf",
+     "sha256": "19f9018e79eee9c298ee6ca66438e599cb39cd7c501e85b72a192b8f97c333f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-56-2023",
+   "path": "local/mures/iernut/2023/56",
+   "short": "HCL Iernut nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 56/2023 privind aprobarea execuției bugetului local al anului 2023 pe Trimestrul I Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.04. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.056-24.04.2023-privind-aprobarea-executiei-bugetului-local-al-anului-2023-pe-Trimestrul-I.pdf",
+     "sha256": "8a77c306df7a7c4fb76314b54db476c3bd148c65b20f04adae3724647b555ad6"
     }
    ]
   },
@@ -63,6 +1668,306 @@
    ]
   },
   {
+   "slug": "hcl-mures--iernut-58-2023",
+   "path": "local/mures/iernut/2023/58",
+   "short": "HCL Iernut nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 58/2023 privind participarea Orașului Iernut la Programul privind casarea autovehiculelor uzate, cât și a aprobării depunerii cererii de înscriere și acheltuielilor legate de programul pentru casarea autovehiculelor uzate dinOrașul Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.04.2023; Având în vedere Referatul de aprobare al Primarului Orașului Iernut, înr",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.058-24.04.2023-privind-participarea-Orasului-Iernut-la-Programul-privind-casarea-autovehiculelor-uzate-cat-si-a-aprobarii-depunerii-cererii.pdf",
+     "sha256": "0520463c78f7e6696e1791abf948b92b8e3418b059a03066bcbb0d40b5752b18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-6-2023",
+   "path": "local/mures/iernut/2023/6",
+   "short": "HCL Iernut nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 6/2023 privind darea în folosință gratuită a unui teren, în suprafață de 15231 mp, aflat în domeniul public al Unității Administrativ Teritorială Oraș Iernut, către Parohia Ortodoxă Română Sfântu-Gheorghe, în vederea construirii unei capele mortuare Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.01.2023; Având în vedere Referatul de aprobare nr. 25059/16.01.2023 a",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.006-30.01.2023-privind-darea-in-folosinta-gratuita-a-unui-teren-in-suprafata-de-15231-mp-aflat-in-domeniul-public-al-U.A.T.-Oras-Iernut-catre-Parohia-Ortodoxa-Romana.pdf",
+     "sha256": "13c1a8340782eee4b7e6e2d31367e1f6b210555de8f380abb513cdbb7e86234b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-60-2023",
+   "path": "local/mures/iernut/2023/60",
+   "short": "HCL Iernut nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 60/2023 privind acordarea unui sprijin financiar Parohiei Greco Catolică Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.04. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.060-24.04.2023-privind-acordarea-unui-sprijin-financiar-Parohiei-Greco-Catolica-Iernut.pdf",
+     "sha256": "135f805cff0bf1e65c0fb7be9cfba34d226b84c2b5d2b7a26588fdc3bd2a7f15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-63-2023",
+   "path": "local/mures/iernut/2023/63",
+   "short": "HCL Iernut nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 63/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4a2b14b39d628c69e4bbfe66191d8944e0c1fa509e4906dd21fe27d1cb6ddd0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-64-2023",
+   "path": "local/mures/iernut/2023/64",
+   "short": "HCL Iernut nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 64/2023 privind aderarea UAT Comuna Cristești la Asociația Intercomunitară Iernuțana Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.04. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.064-24.04.2023-privind-aderarea-UAT-Comuna-Cristesti-la-Asociatia-Intercomunitara-Iernutana.pdf",
+     "sha256": "799d5a0e2231f85fb294aaa2dec20c1b5cc1961724224d79e52c1b63bdfaf329"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-65-2023",
+   "path": "local/mures/iernut/2023/65",
+   "short": "HCL Iernut nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 65/2023 privind aprobarea aderării unei unități administrativ teritoriale la Asociația de Dezvoltare Intercomunitară „AQUA INVEST MUREȘ” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.04. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.065-24.04.2023-privind-aprobarea-aderarii-unei-unitati-administrativ-teritoriale-la-Asociatia-de-Dezvoltare-Intercomunitara-AQUA-INVEST-MURES.pdf",
+     "sha256": "a65ecad23c36a921aba33a42754e44af575f6130f483abc8802419d1ca31f779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-66-2023",
+   "path": "local/mures/iernut/2023/66",
+   "short": "HCL Iernut nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 66/2023 privind aprobarea constituirii Grupului de lucru pentru identificarea așezărilor informale din orașul Iernut și luare în evidență a acestora, stabilirea situației persoanelor și imobilelor, stabilirea măsurilor de intervenție pentru îmbunătățirea condițiilor de locuit și asigurarea unor condiții decente de viață pentru persoanele vulnerabile din așezările informale identificate, precum și a Regula",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.066-24.04.2023-privind-aprobarea-constituirii-Grupului-de-lucru-pentru-identificarea-asezarilor-informale-din-orasul-Iernut.pdf",
+     "sha256": "c7166c068942016c159b97cf53f528f76dc3d8ef4cb31e92b7b453a430a1e56c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-67-2023",
+   "path": "local/mures/iernut/2023/67",
+   "short": "HCL Iernut nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 67/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f79d7a9769024751a8d79ec01a5015f8af5841df2a55aade9e1aaa628d811b05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-68-2023",
+   "path": "local/mures/iernut/2023/68",
+   "short": "HCL Iernut nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 68/2023 privind rectificarea bugetului local al Orașului Iernut pe anul 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.04. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.068-24.04.2023-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2023.pdf",
+     "sha256": "6e2ea78c052c257a7fc473a75a44ec91a4bcbf96f94af891ef00127d01706a1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-69-2023",
+   "path": "local/mures/iernut/2023/69",
+   "short": "HCL Iernut nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 69/2023 privind organizarea evenimentului cultural și educațional ,,1 iunie – Gânduri pentru toți copii” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 24.04. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.069-24.04.2023-privind-organizarea-evenimentului-cultural-si-educational-1-iunie-Ganduri-pentru-toti-copii.pdf",
+     "sha256": "02e29480efc285fdbf38bc6ee6acbb7a7b87b28b14099f51cb3d8608a670d810"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-7-2023",
+   "path": "local/mures/iernut/2023/7",
+   "short": "HCL Iernut nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 7/2023 privind aprobarea indicatorilor tehnico - economici actualizați, respectiv a devizului general actualizat în baza prevederilor O.U.G nr. 47/2022 privind obiectivul de investiții: ,,Construire locuințe sociale Legea 114/1996” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 30.01.2023; Având în vedere Referatul de aprobare nr. 25503/18.01.2023 al Primarului Orașu",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.007-30.01.2023-privind-aprobarea-indicatorilor-tehnico-economici-actualizati-respectiv-a-devizului-general-actualizat-in-baza-prevederilor-O.U.G.-nr.47din2022.pdf",
+     "sha256": "8e770f89b86e7aba000343966115f9fd8ca568691ad6b1aa379307cb0a26cee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-70-2023",
+   "path": "local/mures/iernut/2023/70",
+   "short": "HCL Iernut nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 70/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "926628ee7c2558065fd1665a27a0428abdf9e01fdefdc6f4f25d600ed04e16e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-71-2023",
+   "path": "local/mures/iernut/2023/71",
+   "short": "HCL Iernut nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 71/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investitii: „Creșterea eficienței energetice și gestionarea inteligentă a clădirii publice situată pe str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.071-11.05.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivul-de-investitii-Cresterea.pdf",
+     "sha256": "62e9f9544d0cf53b48290ed03f683a22870538a03f12c67f377350c009d3662d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-72-2023",
+   "path": "local/mures/iernut/2023/72",
+   "short": "HCL Iernut nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 72/2023 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice pentru obiectivul de investitii: “Creșterea eficienței energetice și gestionarea inteligentă a clădirii publice situată pe str",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.072-11.05.2023-privind-aprobarea-indicatorilor-tehnico-economici-si-a-documentatiei-tehnico-economice-pentru-obiectivul-de-investitii.pdf",
+     "sha256": "4bd56ea773534da2899ca82e15b7674294f3e416a7b5559db9e593435a3006cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-73-2023",
+   "path": "local/mures/iernut/2023/73",
+   "short": "HCL Iernut nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 73/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2c869f89a92d366fd80dd7b5d5741af8660d7994ae2d303aa5a06ab2797ae7ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-74-2023",
+   "path": "local/mures/iernut/2023/74",
+   "short": "HCL Iernut nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 74/2023 privind aprobarea elaborării și implementării Strategiei de Dezvoltare Locală, în cadrul parteneriatului LEADER al GRUPULUI DE ACȚIUNE LOCALĂ Podișul Târnavelor Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 11.05.2023; Ținând cont de Referatul de aprobare nr. 7928/05.05.2023 al Primarului Orașului Iernut, cu privire la aprobarea elaborării și implementăr",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.074-11.05.2023-privind-aprobarea-eliberarii-si-implementarii-Strategiei-de-Dezvoltare-Locala-in-cadrul-parteneriatului-LEADER-al-GRUPULUI-DE-ACTIUNE-LOCALA-Podisul-Tarnavelor.pdf",
+     "sha256": "85773b6bbc4e3397e8fe7f2fa73b4a3309d832cf3975e1610f68859fb9e5eb6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-75-2023",
+   "path": "local/mures/iernut/2023/75",
+   "short": "HCL Iernut nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 75/2023 privind aprobarea acordului de parteneriat încheiat între Fundația de Cercetări Aplicative – Școala Gimnazială Iernut – Liceul Tehnologic Iernut în vederea participării la proiectul finanțat din fonduri nerambursabile prin Programul vizând educația și conștientizarea publicului privind protecția mediului Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 11.0",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.075-11.05.2023-privind-aprobarea-acordului-de-parteneriat-incheiat-intre-Fundatia-de-Cercetari-Aplicative-Scoala-Gimnaziala-Iernut.pdf",
+     "sha256": "bfe3383e4eff681901c0a8e85e67691316a4e6bec7ac67dc2cdd2691191e9eec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-76-2023",
+   "path": "local/mures/iernut/2023/76",
+   "short": "HCL Iernut nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 76/2023 privind aprobarea Studiul de fezabilitate actualizat pentru pentru obiectivul de investiție „Dezvoltarea infrastructurii de alimentare a vehicolelor cu energie electrică în orașul Iernut, jud Mureș”,din cadrul Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energeti",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.076-11.05.2023-privind-aprobarea-Studiului-de-fezabilitate-actualizat-pentru-obiectivul-de-investitie-Dezvoltarea-infrastructurii-de-al.pdf",
+     "sha256": "a51c59163d1a4bd684450a18ebf9d0f817992f3481389ae9347bcf57613e778b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-77-2023",
+   "path": "local/mures/iernut/2023/77",
+   "short": "HCL Iernut nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 77/2023 privind acordarea unui sprijin financiar Parohiei Greco Catolică Lechința Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 29.05. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.077-29.05.2023-privind-acordarea-unui-sprijin-financiar-Parohiei-Greco-Catolica-Lechinta.pdf",
+     "sha256": "ed725e535633ac0c50640223565b44e08efcd536b9a720f1bd0910965fa4fd95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-78-2023",
+   "path": "local/mures/iernut/2023/78",
+   "short": "HCL Iernut nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 78/2023 privind stabilirea normativelor proprii pentru consumul de carburanți al autoturismului marca Mitsubishi Pajero Sport aflat în dotarea SVSU din cadrul UAT - Oraș Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 29.05. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.078-29.05.2023-privind-stabilirea-normativelor-propririi-pentru-consumul-de-carburanti-al-autoturismului-marca-Mitsubishi-Pajero-Sport-aflat-in-dotarea-SVSU-din-cadrul-UAT-Oras-Iernut.pdf",
+     "sha256": "2ced3abcab44e78f8abe296078cd7e44c95715cad7dd5999ca5639fdb2696002"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--iernut-79-2023",
    "path": "local/mures/iernut/2023/79",
    "short": "HCL Iernut nr. 79/2023",
@@ -78,6 +1983,96 @@
    ]
   },
   {
+   "slug": "hcl-mures--iernut-8-2023",
+   "path": "local/mures/iernut/2023/8",
+   "short": "HCL Iernut nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 8/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "05ba70ceed1ddc8c3417b396467b8dd9595c90b2d42fdb299963f7d0c84ce42f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-80-2023",
+   "path": "local/mures/iernut/2023/80",
+   "short": "HCL Iernut nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 80/2023 privind aprobarea inițierii procedurii de închiriere prin atribuire directă a pășunilor disponibile pe raza UAT a orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 29.05. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.080-29.05.2023-privind-aprobarea-initierii-procedurii-de-inchiriere-prin-atribuire-directa-a-pasunilor-disponibile-pe-raza-UAT-a-orasului-Iernut.pdf",
+     "sha256": "86afdc7a29e114d42acbb95080626cd9b2bcf3b3dee7e28e67174c13cbe23d78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-81-2023",
+   "path": "local/mures/iernut/2023/81",
+   "short": "HCL Iernut nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 81/2023 privind completarea și modificare inventarului bunurilor care aparțin domeniului public al orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 29.05. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.081-29.05.2023-privind-completarea-si-modificarea-inventarului-bunurilor-care-apartin-domeniului-public-al-orasului-Iernut.pdf",
+     "sha256": "16d1176d10c6b005723676df6fac038ee93c829d2c7fa21b24aeb4e19e61ae7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-83-2023",
+   "path": "local/mures/iernut/2023/83",
+   "short": "HCL Iernut nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 83/2023 privind aprobarea modelului de Protocol – cadru de colaborare între Unitatea administrativ Teritorială Oraș Iernut și cabinetele de medicină a familiei care deservesc populația Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 29.05. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.083-29.05.2023-privind-aprobarea-modelului-de-Protocol-cadru-de-colaborare-intre-Unitatea-administrativ-Teritoriala-Oras-Iernut-si-cabinetele-de-medicina-a-familiei-care-deservesc-populatia.pdf",
+     "sha256": "022e7861172171b771bb75499a3fbd6984400d21e579f671864de93821563411"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-84-2023",
+   "path": "local/mures/iernut/2023/84",
+   "short": "HCL Iernut nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 84/2023 privind neasumarea responsabilității organizării și derulării la nivel local a procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României, pentru anul școlar 2023-2024 și pentru anul școlar 2024-2025 Consiliul Local al orașulu",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.084-29.05.2023-privind-neasumarea-responsabilitatii-organizarii-si-derularii-la-nivel-local-a-procedurilor-de-atribuire-.pdf",
+     "sha256": "0ef47483eb382e9a0a9d33ccde57c0230b85a4486152e202676f507e23c94836"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-85-2023",
+   "path": "local/mures/iernut/2023/85",
+   "short": "HCL Iernut nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 85/2023 privind aprobarea delegării dreptului de a depune cererea de finanțare în cadrul PNRR Pilonul VI ”Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi prin PNRR”, către UAT județul Mureș Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 29.05. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.085-29.05.2023-privind-aprobarea-delegarii-dreptului-de-a-depune-cererea-de-finantare-in-cadrul-PNRR-Pilonul-VI-Dezvoltarea-rete.pdf",
+     "sha256": "d88774ba551dacfb2852a56a8c94d7c8675df3df872b39b424f94ad582c0d6bd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--iernut-89-2023",
    "path": "local/mures/iernut/2023/89",
    "short": "HCL Iernut nr. 89/2023",
@@ -89,6 +2084,51 @@
      "units": 7,
      "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.089-12.06.2023-privind-aprobarea-contractarii-unui-imprumut-in-valoare-de-1.120.000-lei-in-conformitate-cu-prevederile-art.-1.pdf",
      "sha256": "eab441782ef448be453d65987a66f3465122a4d0888127d444c8713895f7d535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-9-2023",
+   "path": "local/mures/iernut/2023/9",
+   "short": "HCL Iernut nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 9/2023 privind modificarea/actualizarea Devizului General -Anexa2.1. la HCL nr. 137/25.10.2021 pentru obiectivul de investiții „ALIMENTARE CU APĂ LOCALITATEA OARBA DE MUREȘ, ORAȘ IERNUT, JUDEȚUL MUREȘ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.009-30.01.2023-privind-modificarea-actualizarea-Devizului-General-Anexa2.11-la-HCL-nr.137din25.10.2021-pentru-obiectivul-de-investitii-ALIMENTARE-CU-APA-LOCALITATEA-OARBA-DE-MURES-ORAS-IERNUT-.pdf",
+     "sha256": "7096062f012d5d1a928f44894dcd272aad3a4f0b8b9d3bca3080191a66f027ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-90-2023",
+   "path": "local/mures/iernut/2023/90",
+   "short": "HCL Iernut nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 90/2023 privind dezmembrarea terenului înscris în CF nr. 55982, în suprafată de 15.231, trecerea suprafetei de 731 mp în domeniul privat al Orasului Iernut și darea în folosință gratuită Parohiei Ortodoxe Sf-Gheorghe Consiliul Local al orașului Iernut, întrunit în ședință extraordinară de lucru în data de 12.06.2023; Având în vedere Referatul de aprobare al Primarului Orașului Iernut, cu privire la dezmem",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.090-12.06.2023-privind-dezmembrarea-terenului-inscris-in-CF-nr.55982-in-suprafata-de-15.231-trecerea-surafetei-de-731-mp.pdf",
+     "sha256": "25fa1a3000f1484055384aed3bd449f625574522c34cf73088ee3cc879a87195"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-98-2023",
+   "path": "local/mures/iernut/2023/98",
+   "short": "HCL Iernut nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 98/2023 privind aprobarea devizului general actualizat după achizitii pentru obiectivul de investiții : „Retea de canalizare și branșamente în sat Cipău, UAT Iernut, județ Mureș” Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 26.06. 2023",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.098-26.06.2023-privind-aprobarea-devizului-general-actualizat-dupa-achizitii-pentru-obiectivul-de-investitii-Retea-de-canalizare-si-bransamente-in-sat-Cipau-UAT-Iernut-judet-Mures.pdf",
+     "sha256": "3dd0aaceb399be53dd61010f0c929c1e6480a964ccdae8725fb8db19755d4dc2"
     }
    ]
   }

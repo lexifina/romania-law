@@ -3,6 +3,36 @@
  "shard": "local/mehedinti/poroina-mare/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--poroina-mare-1-2023",
+   "path": "local/mehedinti/poroina-mare/2023/1",
+   "short": "HCL Poroina Mare nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 1/2023 privind Evaluarea performanțelor Secretarului General al comunei Poroina Mare pe anul 2022",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/92934",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/92934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-13-2023",
+   "path": "local/mehedinti/poroina-mare/2023/13",
+   "short": "HCL Poroina Mare nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 13/2023 privind alegerea președintelui de ședință pentru lunile mai, iunie și iulie 2023",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/102498",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/102498",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--poroina-mare-14-2023",
    "path": "local/mehedinti/poroina-mare/2023/14",
    "short": "HCL Poroina Mare nr. 14/2023",
@@ -148,6 +178,21 @@
      "from": "2023-09-04",
      "units": 1,
      "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/117402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-24-2023",
+   "path": "local/mehedinti/poroina-mare/2023/24",
+   "short": "HCL Poroina Mare nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 24/2023 privind desemnarea a doi reprezentanti ai Consiliului Local Poroina Mare, jud. Mehedinti, unul in Comisia pt evaluarea si asigurarea calitatii in cadrul Scolii Poroina Mare pt anul scolar 2023-2024 si cel de-al doilea pt Consiliul de Administratie al Scolii Primare Poroina Mare pt anul scolar 2023-2024",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/121392",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/121392",
      "sha256": null
     }
    ]

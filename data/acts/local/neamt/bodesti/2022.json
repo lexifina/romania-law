@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-3-2022",
+"path": "local/neamt/bodesti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 3/2022 privind aprobarea listei solicitanţilor care au acces și nu au acces la locuinţe pentru tineri destinate închirierii construite prin ANL",
+"short": "HCL Bodești nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-14",
+"latest": "2022-01-14",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/97817",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-4-2022",
 "path": "local/neamt/bodesti/2022/4",
 "kind": "local",
@@ -66,6 +88,72 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-5-2022",
+"path": "local/neamt/bodesti/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 5/2022 privind aprobarea Planului de lucrări si acțiuni de interes local, întocmit in conformitate cu prevederile art. 6 alin. (7) si (8) din Legea nr. 416/2001 cu modificările si completările ulterioare",
+"short": "HCL Bodești nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98170",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-6-2022",
+"path": "local/neamt/bodesti/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 6/2022 privind alegerea preşedintelui de şedinţă care va conduce lucrările Consiliului local al comunei Bodești în lunile februarie, martie și aprilie 2022",
+"short": "HCL Bodești nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98171",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-7-2022",
+"path": "local/neamt/bodesti/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 7/2022 privind acordarea unui mandat special in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “AQUA NEAMT” in vederea exercitarii votului",
+"short": "HCL Bodești nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98172",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-10-2022",
+"path": "local/neamt/bodesti/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 10/2022 privind stabilirea structurii de specialitate și adoptarea graficul - calendar de lucru a comisiei sociale de analiză a solicitărilor privind repartizarea de locuinţe construite prin Agenţia Naţională pentru Locuinţe, în vederea închirierii",
+"short": "HCL Bodești nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-07",
+"latest": "2022-02-07",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98199",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-11-2022",
 "path": "local/neamt/bodesti/2022/11",
 "kind": "local",
@@ -132,6 +242,72 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-12-2022",
+"path": "local/neamt/bodesti/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 12/2022 privind iniţierea procedurii de închiriere prin licitaţie publică a unor suprafeţe de teren, situate în comuna Bodești, „Izlaz vaci Oșlobeni”, „Gropa Oprii” și „Izlaz Corni”, proprietate publică a comunei Bodești",
+"short": "HCL Bodești nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98191",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-13-2022",
+"path": "local/neamt/bodesti/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 13/2022 privind aprobarea oportunitatii privind cumpararea unui teren intravilan cu suprafaţa de 3378 mp, cu nr. cadastral 52396, din comuna Bodești, sat Oșlobeni, strada Dumbrăvele, județul Neamț",
+"short": "HCL Bodești nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98192",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-14-2022",
+"path": "local/neamt/bodesti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 14/2022 privind aprobarea oportunitatii privind cumpararea unor terenuri intravilan cu suprafaţa de 1972 mp, cu nr. cadastral 52446 și cota de ½ din suprafața de 299 mp, cu nr. cadastral 52447 din comuna Bodești, sat Bodești, Aleia Parcului, județul Neamț",
+"short": "HCL Bodești nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98193",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +443,72 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-21-2022",
+"path": "local/neamt/bodesti/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 21/2022 privind desemnarea membrilor din partea Consiliului Local Bodești, ca reprezentanţi în comisia de evaluare a ofertelor și comisia de soluţionare a contestaţiilor la licitaţiile, pentru licitaţiile privind încheierea prin licitaţie publică a unor suprafeţe de teren",
+"short": "HCL Bodești nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98264",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-22-2022",
+"path": "local/neamt/bodesti/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 22/2022 privind inchirierea unui spațiu aflate in cladirea Dispensarului uman Bodești",
+"short": "HCL Bodești nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98265",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-23-2022",
+"path": "local/neamt/bodesti/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 23/2022 privind aprobarea listei solicitanţilor care au acces și nu au acces la locuinţe pentru tineri destinate închirierii construite prin ANL",
+"short": "HCL Bodești nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98266",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-24-2022",
 "path": "local/neamt/bodesti/2022/24",
 "kind": "local",
@@ -330,6 +572,94 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-27-2022",
+"path": "local/neamt/bodesti/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 27/2022 privind aprobarea cumpararii unor terenuri intravilane cu suprafaţa de 1972 mp, cu nr. cadastral 52446 și cota de ½ din suprafața de 299 mp, cu nr. cadastral 52447 din comuna Bodești, sat Bodești, Aleia Parcului, județul Neamț",
+"short": "HCL Bodești nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98286",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-28-2022",
+"path": "local/neamt/bodesti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 28/2022 privind aprobarea cumpararii unui teren intravilan în suprafață de 3378 m.p., categoria de folosință arabil, situat in intravilanul comunei Bodești, sat Oșlobeni, strada Dumbrăvele, înscris în cartea funciarară nr. 52386 Bodești, cu numărul cadastral 52386",
+"short": "HCL Bodești nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98287",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-29-2022",
+"path": "local/neamt/bodesti/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 29/2022 privind aprobarea încetării și modificării unor contracte de închiriere aprobate prin atribuire directă a unor suprafețe de pășune din proprietatea privată a comunei Bodești prin Hotărârea Consiliului local al comunei Bodești nr. 25 din 30.04.2018",
+"short": "HCL Bodești nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98288",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-30-2022",
+"path": "local/neamt/bodesti/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 30/2022 privind aprobarea studiului de oportunitate, caietului de sarcini, instrucţiunilor pentru solicitanţi şi stabilirea componenţei comisiei de analiză şi soluţionare a cererilor în vederea iniţierii închirierii pajiştei rămasă liberă din islazul comunei Bodești, prin atribuire directă, aflată în proprietatea privată a comunei Bodești",
+"short": "HCL Bodești nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98289",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -864,6 +1194,28 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-55-2022",
+"path": "local/neamt/bodesti/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 55/2022 privind stabilirea structurii de specialitate și adoptarea graficul - calendar de lucru a comisiei sociale de analiză a solicitărilor privind repartizarea de locuinţe construite prin Agenţia Naţională pentru Locuinţe, în vederea închirierii",
+"short": "HCL Bodești nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98328",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-56-2022",
 "path": "local/neamt/bodesti/2022/56",
 "kind": "local",
@@ -949,6 +1301,28 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-60-2022",
+"path": "local/neamt/bodesti/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 60/2022 privind aprobarea listei solicitanţilor care au acces și nu au acces la locuinţe pentru tineri destinate închirierii construite prin ANL",
+"short": "HCL Bodești nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98333",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1082,6 +1456,28 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-67-2022",
+"path": "local/neamt/bodesti/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 67/2022 privind închirierea unei suprafeţe de teren din domeniul privat al comunei Bodești, judeţul Neamț",
+"short": "HCL Bodești nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-11",
+"latest": "2022-08-11",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98356",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1259,6 +1655,28 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-76-2022",
+"path": "local/neamt/bodesti/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 76/2022 privind stabilirea structurii de specialitate și adoptarea graficul - calendar de lucru a comisiei sociale de analiză a solicitărilor privind repartizarea de locuinţe construite prin Agenţia Naţională pentru Locuinţe, în vederea închirierii",
+"short": "HCL Bodești nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/98366",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

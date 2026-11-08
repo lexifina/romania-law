@@ -3,6 +3,51 @@
  "shard": "local/mehedinti/eselnita/2021",
  "acts": [
   {
+   "slug": "hcl-mehedinti--eselnita-1-2021",
+   "path": "local/mehedinti/eselnita/2021/1",
+   "short": "HCL Eșelnița nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 1/2021 privind aprobarea Raportului de activitate a asistentilor personali pentru semestrul II - 2020",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41233",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-10-2021",
+   "path": "local/mehedinti/eselnita/2021/10",
+   "short": "HCL Eșelnița nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 10/2021 privind atribuirea contractului de concesiune privind „DELEGAREA GESTIUNII SERVICIULUI DE ALIMETARE CU APA SI DE CANALIZARE, IN COMUNA ESELNITA, JUDETUL MEHEDINTI” prin NEGOCIERE FARA PUBLICAREA PREALABILA A UNUI ANUNT DE CONCESIONARE",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41242",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-100-2021",
+   "path": "local/mehedinti/eselnita/2021/100",
+   "short": "HCL Eșelnița nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 100/2021 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41477",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41477",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-101-2021",
    "path": "local/mehedinti/eselnita/2021/101",
    "short": "HCL Eșelnița nr. 101/2021",
@@ -13,6 +58,21 @@
      "from": "2021-08-11",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-102-2021",
+   "path": "local/mehedinti/eselnita/2021/102",
+   "short": "HCL Eșelnița nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 102/2021 privind aprobarea efectuării lucrării de investiții și demararea procedurii de licitație publică în vederea realizării Coșurilor de Fum de la Școala Gimnazială Eșelnița",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41479",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41479",
      "sha256": null
     }
    ]
@@ -33,6 +93,126 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--eselnita-104-2021",
+   "path": "local/mehedinti/eselnita/2021/104",
+   "short": "HCL Eșelnița nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 104/2021 privind aprobarea efectuarii lucrarii de investitii si demararea procedurii de licitatie publica in vederea realizarii Instalatiei de detectare, Semnalizare si Avertizare la Incendiu la Scoala Gimnaziala Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41497",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-105-2021",
+   "path": "local/mehedinti/eselnita/2021/105",
+   "short": "HCL Eșelnița nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 105/2021 privind aprobarea rectificarii Bugetului de venituri si cheltuieli pentru anul 2020",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41498",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-106-2021",
+   "path": "local/mehedinti/eselnita/2021/106",
+   "short": "HCL Eșelnița nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 106/2021 privind aprobarea dezmembrarii terenului inscris in CF 51992, nr. cadastral 51992 in suprafata de 4359 mp - intravilan, teren apartinand domeniului privat al comunei Eselnita, judetul Mehedinti, in 10 loturi categoria curti – constructii - intravilan",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41499",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-107-2021",
+   "path": "local/mehedinti/eselnita/2021/107",
+   "short": "HCL Eșelnița nr. 107/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 107/2021 privind aprobarea dezmembrarii terenului inscris in CF vechi 632/N, nr. cadastral 51129 in suprafata de 6307mp - intravilan, teren apartinand domeniului privat al comunei Eselnita, judetul Mehedinti, in 11 loturi categoria curti – constructii - intravilan",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41500",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-108-2021",
+   "path": "local/mehedinti/eselnita/2021/108",
+   "short": "HCL Eșelnița nr. 108/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 108/2021 privind aprobarea dezmembrarii terenului inscris in CF 221, in suprafata de 544 mp - intravilan, teren apartinand domeniului privat al comunei Eselnita, judetul Mehedinti, in 3 loturi categoria curti – constructii - intravilan",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41501",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-109-2021",
+   "path": "local/mehedinti/eselnita/2021/109",
+   "short": "HCL Eșelnița nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 109/2021 privind aprobarea dezmembrarii terenului inscris in CF 1424, in suprafata de 1495 mp - intravilan, teren apartinand domeniului privat al comunei Eselnita, judetul Mehedinti, in 2 loturi categoria curti – constructii - intravilan",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41502",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-11-2021",
+   "path": "local/mehedinti/eselnita/2021/11",
+   "short": "HCL Eșelnița nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 11/2021 privind aprobarea Programului anual ai achiziţiilor publice pe anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41243",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-110-2021",
+   "path": "local/mehedinti/eselnita/2021/110",
+   "short": "HCL Eșelnița nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 110/2021 privind aprobarea scoaterii la licitatie in vederea inchirierii unui teren (fanete) in suprafata de 3164 mp inscris in CF 50568, NR. CADASTRAL 50568, situat in zona VALEA ESELNITA, teren ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41503",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41503",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-111-2021",
    "path": "local/mehedinti/eselnita/2021/111",
    "short": "HCL Eșelnița nr. 111/2021",
@@ -48,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--eselnita-112-2021",
+   "path": "local/mehedinti/eselnita/2021/112",
+   "short": "HCL Eșelnița nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 112/2021 privind virarilor de credite bugetare pe anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41505",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41505",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-113-2021",
    "path": "local/mehedinti/eselnita/2021/113",
    "short": "HCL Eșelnița nr. 113/2021",
@@ -58,6 +253,186 @@
      "from": "2021-09-06",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-114-2021",
+   "path": "local/mehedinti/eselnita/2021/114",
+   "short": "HCL Eșelnița nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 114/2021 privind aprobarea virarilor de credite bugettare pe anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41518",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-115-2021",
+   "path": "local/mehedinti/eselnita/2021/115",
+   "short": "HCL Eșelnița nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 115/2021 privind aprobarea scoaterii la licitatie in vederea in chirierii unnui teren(fanete) in suprafata de 3164 mp inscris in CF 50568, NR.CADASTRAL 50568, situat in zona VALEA ESELNITA, teren ce face parte din domeniul privat al comun ei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41519",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-116-2021",
+   "path": "local/mehedinti/eselnita/2021/116",
+   "short": "HCL Eșelnița nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 116/2021 privind aprobarea aprobarea rectificarii Bugetului de venituri si cheltuieli pentru anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41554",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-117-2021",
+   "path": "local/mehedinti/eselnita/2021/117",
+   "short": "HCL Eșelnița nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 117/2021 privind aprobarea virarilor de credite bugetare pe anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41562",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-118-2021",
+   "path": "local/mehedinti/eselnita/2021/118",
+   "short": "HCL Eșelnița nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 118/2021 privind aprobarea rectificarii Bugetului de venituri si cheltuieli pentru anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41563",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-119-2021",
+   "path": "local/mehedinti/eselnita/2021/119",
+   "short": "HCL Eșelnița nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 119/2021 privind organizarea sarbatorii CRĂCIUNULUI in data de 25 decembrie 2021 la Căminul Cultural din comuna Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41564",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-12-2021",
+   "path": "local/mehedinti/eselnita/2021/12",
+   "short": "HCL Eșelnița nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 12/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41244",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-120-2021",
+   "path": "local/mehedinti/eselnita/2021/120",
+   "short": "HCL Eșelnița nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 120/2021 privind scoaterea la licitatie publica in vederea vanzarii a unor terenuri situate in extravilanul comunei Eselnita, terenuri ce fac parte din domeniul privat al comunei Eselnita, ZONA DEALUL BISERICII, categoria faneata, loturi ce fac parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41565",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-121-2021",
+   "path": "local/mehedinti/eselnita/2021/121",
+   "short": "HCL Eșelnița nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 121/2021 privind aprobarea transferului inchirierii unui teren (pasune) in suprafata de 13 ha inscris in CF 353/815, CF 50995, NR. CADASTRAL 50995, CF 51051, NR. CADASTRAL 51051, situat in zona OGASU UNGUREANU - DEALU BISERICII, teren ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41566",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-122-2021",
+   "path": "local/mehedinti/eselnita/2021/122",
+   "short": "HCL Eșelnița nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 122/2021 privind desemnarea domnului/ doamnei_______sa faca parte din Consiliul de Administratie al Scolii Gimnaziale Eselnita pentru anul scolar 2021-2022",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41567",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-123-2021",
+   "path": "local/mehedinti/eselnita/2021/123",
+   "short": "HCL Eșelnița nr. 123/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 123/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41568",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-124-2021",
+   "path": "local/mehedinti/eselnita/2021/124",
+   "short": "HCL Eșelnița nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 124/2021 privind aprobarea intocmirii documentatiei tehnice ( deviz de lucrari ) in vederea realizarii obiectivului de investitii „ Refacerea peretilor decantoarelor exterioare si imprejmuirea captarii de apa la Sistemul de alimentare cu apa din comuna Eselnita, judetul Mehedinti”",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41569",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41569",
      "sha256": null
     }
    ]
@@ -133,6 +508,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-13-2021",
+   "path": "local/mehedinti/eselnita/2021/13",
+   "short": "HCL Eșelnița nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 13/2021 privind majorarea salariului minim pe economie de la 2230 la 2300 lei, salariatiilor de la SC GOSPODARIE COMUNALA ESELNITA SRL",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41245",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41245",
      "sha256": null
     }
    ]
@@ -288,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--eselnita-14-2021",
+   "path": "local/mehedinti/eselnita/2021/14",
+   "short": "HCL Eșelnița nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 14/2021 privind incheierea unui PARTENERIAT intre Directia Silvica Mehedinti – Ocolul Silvic Orsova si Consiliul Local Eselnita - Primaria Comunei Eselnita, in vederea vanzarii Lemn de Foc catre populatia comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41246",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41246",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-140-2021",
    "path": "local/mehedinti/eselnita/2021/140",
    "short": "HCL Eșelnița nr. 140/2021",
@@ -358,6 +763,1401 @@
      "from": "2021-11-04",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-15-2021",
+   "path": "local/mehedinti/eselnita/2021/15",
+   "short": "HCL Eșelnița nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 15/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41247",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-16-2021",
+   "path": "local/mehedinti/eselnita/2021/16",
+   "short": "HCL Eșelnița nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 16/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41248",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-17-2021",
+   "path": "local/mehedinti/eselnita/2021/17",
+   "short": "HCL Eșelnița nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 17/2021 privind majorarea salariului cu 5% pentru angajatii societatii SC GOSPODARIE COMUNALA ESELNITA SRL",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41254",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-18-2021",
+   "path": "local/mehedinti/eselnita/2021/18",
+   "short": "HCL Eșelnița nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 18/2021 privind intocmirea devizului de lucrari in vederea executarii lucrarii de reparatii si renovare la Centrul Local de Informare si Promovare Turistica in comuna Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41255",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-19-2021",
+   "path": "local/mehedinti/eselnita/2021/19",
+   "short": "HCL Eșelnița nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 19/2021 privind aprobarea intocmirii unui deviz de lucrari in vederea executarii lucrarii de reparatii si intretinere a balustrazilor de la podurile din comuna Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41256",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-2-2021",
+   "path": "local/mehedinti/eselnita/2021/2",
+   "short": "HCL Eșelnița nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 2/2021 privind aprobarea Planului de actiuni si de lucrari de interes local, realizat de beneficiarii Legii 416/2001 privind venitul minim garantat modificata si completata prin Legea 276/2010",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41234",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-20-2021",
+   "path": "local/mehedinti/eselnita/2021/20",
+   "short": "HCL Eșelnița nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 20/2021 privind aprobarea trecerii din proprietatea Statului Român în domeniul privat al comunei Eselnita şi în administrarea Consiliului Local Eselnita, a imobilului teren în suprafaţă de 241 mp situat în localitatea Eselnita, judeţul Mehedinti, înscris în CF nr. 1406 Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41257",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-21-2021",
+   "path": "local/mehedinti/eselnita/2021/21",
+   "short": "HCL Eșelnița nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 21/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41258",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-22-2021",
+   "path": "local/mehedinti/eselnita/2021/22",
+   "short": "HCL Eșelnița nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 22/2021 privind rezilierea contractului de prestari servicii nr. 39130 din 12.08.2019 cu Ocolul Silvic Eparhial Gorj si actului aditional nr.1 la contract aprobat prin HCL nr. 21/28.02.2020, precum demararea procedurii de licitatie publica in vederea achizitionarii serviciilor silvice pentru FONDUL FORESTIER al comunei ESELNITA",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41259",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-23-2021",
+   "path": "local/mehedinti/eselnita/2021/23",
+   "short": "HCL Eșelnița nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 23/2021 privind demararea procedurii de LICITATIE PUBLICA in vederea achizitionarii sistemului de VIDANJA (autosasiu + vidanja combinata) prin procedeul de LEASING FINANCIAR/ CREDIT BANCAR de catre PRIMARIA COMUNEI ESELNITA",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41260",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-24-2021",
+   "path": "local/mehedinti/eselnita/2021/24",
+   "short": "HCL Eșelnița nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 24/2021 privind aprobarea ACTULUI ADITIONAL NR.2 LA CONTRACTUL DE PRESTARI SERVICII SILVICE - FOND FORESTIER NR. 39130 DIN 12.08.2019 incheiat intre Ocolul Silvic Eparhial Gorj si Comuna Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41261",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-25-2021",
+   "path": "local/mehedinti/eselnita/2021/25",
+   "short": "HCL Eșelnița nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 25/2021 privind aprobarea intocmirii unui DEVIZ ESTIMATIV in vederea crearii unei pagine de facebook a Consiliului Local Eselnita si achizitionarea unui Sistem complet de inregistrare si transmitere live a sedintelor Consiliului Local Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41266",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-26-2021",
+   "path": "local/mehedinti/eselnita/2021/26",
+   "short": "HCL Eșelnița nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 26/2021 privind intocmirea unui DEVIZ DE LUCRARI având ca obiect execuţie lucrări de \"Construire Capelă mortuară\" in comuna Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41267",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-27-2021",
+   "path": "local/mehedinti/eselnita/2021/27",
+   "short": "HCL Eșelnița nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 27/2021 privind intocmirea unui DEVIZ - OFERTA in vederea amplasarii unui INFOCHIOSC pe strada DUNARII in parcarea din zona - IZVORUL TAMADUIRII prin accesare– fonduri europene",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41268",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-28-2021",
+   "path": "local/mehedinti/eselnita/2021/28",
+   "short": "HCL Eșelnița nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 28/2021 privind aprobarea intocmirii documentatiilor tehnice ( DEVIZE DE LUCRARI) pentru modernizarea si repararea - OBIECTIVELOR PRIMARIEI ESELNITA din comuna Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41269",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-29-2021",
+   "path": "local/mehedinti/eselnita/2021/29",
+   "short": "HCL Eșelnița nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 29/2021 privind schimbarea destinației clădirii realizate în cadrul obiectivului “Centru de Informare si PromovareTuristică în comuna Eselnita județul Mehedinti”",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41270",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-3-2021",
+   "path": "local/mehedinti/eselnita/2021/3",
+   "short": "HCL Eșelnița nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 3/2021 privind aprobarea Conventiei de colaborare intre Consiliul Local ESELNITA si Societatea Nationala de Cruce Rosie din Romania, filiala Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41235",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-30-2021",
+   "path": "local/mehedinti/eselnita/2021/30",
+   "short": "HCL Eșelnița nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 30/2021 privind intocmirea devizului de lucrari in vederea executarii lucrarii de reparatii si renovare la Centrul Local de Informare si Promovare Turistica in comuna Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41271",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-31-2021",
+   "path": "local/mehedinti/eselnita/2021/31",
+   "short": "HCL Eșelnița nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 31/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41272",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-32-2021",
+   "path": "local/mehedinti/eselnita/2021/32",
+   "short": "HCL Eșelnița nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 32/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41273",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-33-2021",
+   "path": "local/mehedinti/eselnita/2021/33",
+   "short": "HCL Eșelnița nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 33/2021 privind aprobarea demararii procedurii de licitatie publica – CONSULTANTA in vederea realizarii documentatiei CERERE DE FINANTARE in cadrul Programului privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice si cladirile rezidentiale, finantat prin Programul Operational Regional Sud – Vest Oltenia 2021-2027",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41274",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-34-2021",
+   "path": "local/mehedinti/eselnita/2021/34",
+   "short": "HCL Eșelnița nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 34/2021 privind atestarea apartenentei la domeniul privat al comunei Eselnita, judetul Mehedinti a unor terenuri inscrise in Cartea Funciara situate in comuna Eselnita, ce fac parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41276",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-35-2021",
+   "path": "local/mehedinti/eselnita/2021/35",
+   "short": "HCL Eșelnița nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 35/2021 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 123 mp, inscris CF 50891, nr cadastral 50891, intravilan, situat in comuna Eselnita, str. Teilor, nr. 568A, categoria curti-constructii, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41277",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-36-2021",
+   "path": "local/mehedinti/eselnita/2021/36",
+   "short": "HCL Eșelnița nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 36/2021 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 372 mp, incris CF 50910, nr cadastral 50910, intravilan, categoria ARABIL situat in comuna Eselnita, ZONA RÂPA LU MANEA, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41278",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-37-2021",
+   "path": "local/mehedinti/eselnita/2021/37",
+   "short": "HCL Eșelnița nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 37/2021 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 303 mp, incris CF 50707, nr cadastral 50707, intravilan, categoria curti-constructii situat in comuna Eselnita, ZONA Valea Satului, Ogradena, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41279",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-38-2021",
+   "path": "local/mehedinti/eselnita/2021/38",
+   "short": "HCL Eșelnița nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 38/2021 privind aprobarea demararea procedurii de licitatie publica in vederea incheierii contractului de prestari servicii silvice de paza pentru Fondul Forestier al comunei Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41280",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-39-2021",
+   "path": "local/mehedinti/eselnita/2021/39",
+   "short": "HCL Eșelnița nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 39/2021 privind aprobarea organizarii pazei comunale pe teritoriul administrativ al comunei Eselnita pe anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41281",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-4-2021",
+   "path": "local/mehedinti/eselnita/2021/4",
+   "short": "HCL Eșelnița nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 4/2021 privind aprobarea inchirierii unui teren (pasune) in suprafata de 13 ha inscris in CF 353/815, CF 50995, NR. CADASTRAL 50995, CF 51051, NR. CADASTRAL 51051, situat in zona OGASU UNGUREANU - DEALU BISERICII, teren ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41236",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-40-2021",
+   "path": "local/mehedinti/eselnita/2021/40",
+   "short": "HCL Eșelnița nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 40/2021 privind nominalizarea punctelor de acostare/ debarcare pentru ambarcatiunile care desfasoara activitati de pescuit comercial situate pe domeniul public al comunei Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41282",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-41-2021",
+   "path": "local/mehedinti/eselnita/2021/41",
+   "short": "HCL Eșelnița nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 41/2021 privind aprobarea dezmembrarii terenului inscris in CF 50719, in suprafata de 3000 mp, teren apartinand domeniului privat al comunei Eselnita, judetul Mehedinti, in 2 loturi – zona Stadion categoria curti – constructii",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41283",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-42-2021",
+   "path": "local/mehedinti/eselnita/2021/42",
+   "short": "HCL Eșelnița nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 42/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41284",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-43-2021",
+   "path": "local/mehedinti/eselnita/2021/43",
+   "short": "HCL Eșelnița nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 43/2021 privind incheierea unui PROTOCOL DE COOPERARE intre Primaria Eselnita si PAROHIA ESELNITA” din comuna ESELNITA, judetul MEHEDINTI",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41285",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-44-2021",
+   "path": "local/mehedinti/eselnita/2021/44",
+   "short": "HCL Eșelnița nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 44/2021 privind aprobarea documentatiei (deviz de lucrari) si demararea procedurii de licitatie publica in vederea executarii lucrarii de reparatii si intretinere a balustrazilor de la podul ce face legatura intre str. Teilor si strada Duzilor din comuna Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41286",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-45-2021",
+   "path": "local/mehedinti/eselnita/2021/45",
+   "short": "HCL Eșelnița nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 45/2021 privind organizarea si desfasurarea concursului pentru ocuparea postului de ADMINISTRATOR in cadrul societatii SC GOSPODARIE COMUNALA ESELNITA SRL",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41287",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-46-2021",
+   "path": "local/mehedinti/eselnita/2021/46",
+   "short": "HCL Eșelnița nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 46/2021 privind aprobarea „ Programului sconomic, social si de mediu” pentru anul 2021 in comuna Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41288",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-47-2021",
+   "path": "local/mehedinti/eselnita/2021/47",
+   "short": "HCL Eșelnița nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 47/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41289",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-48-2021",
+   "path": "local/mehedinti/eselnita/2021/48",
+   "short": "HCL Eșelnița nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 48/2021 privind aprobarea procedurii in SEAP in vederea achizitionarii serviciilor de MENTENANTA/ INTRETINERE STATIE DE EPURARE APA",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41290",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-49-2021",
+   "path": "local/mehedinti/eselnita/2021/49",
+   "short": "HCL Eșelnița nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 49/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41298",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-5-2021",
+   "path": "local/mehedinti/eselnita/2021/5",
+   "short": "HCL Eșelnița nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 5/2021 privind aprobarea demararii procedurii de licitatie publica – CONSULTANTA in vederea realizarii documentatiei CERERE DE FINANTARE in cadrul Programului privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice cu destinatie de unitati de invatamant, finantat prin Ministerul Mediului, Apelor si Padurilor",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41237",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-50-2021",
+   "path": "local/mehedinti/eselnita/2021/50",
+   "short": "HCL Eșelnița nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 50/2021 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41299",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-51-2021",
+   "path": "local/mehedinti/eselnita/2021/51",
+   "short": "HCL Eșelnița nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 51/2021 privind revocarea Hotărârii nr.143/21.10.2020 privind trecerea unor terenuri din domeniul public al comunei Eşelniţa, unde prin art.1 din hotărâre s-a aprobat trecerea în domeniul privat al comunei Eşelniţa terenurile dezmembrate din CF 50178, nr.cadastral 50718 în trei loturi distincte",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41300",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-52-2021",
+   "path": "local/mehedinti/eselnita/2021/52",
+   "short": "HCL Eșelnița nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 52/2021 privind revocarea Hotărârii nr.145/21.10.2020 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 592 mp, lot 1 desprins din CF 50718, nr cadastral 50718, intravilan, situat in comuna Eselnita, zona Stadion, categoria curti-constructii, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41301",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-53-2021",
+   "path": "local/mehedinti/eselnita/2021/53",
+   "short": "HCL Eșelnița nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 53/2021 privind revocarea Hotărârii nr.146/21.10.2020 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 592 mp, lot 2 desprins din CF 50718, nr cadastral 50718, intravilan, situat in comuna Eselnita, zona Stadion, categoria curti-constructii, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41302",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-54-2021",
+   "path": "local/mehedinti/eselnita/2021/54",
+   "short": "HCL Eșelnița nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 54/2021 privind revocarea Hotărârii nr.147/21.10.2020 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 591 mp, lot 3 desprins din CF 50718, nr cadastral 50718, intravilan, situat in comuna Eselnita, zona Stadion, categoria curti-constructii, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41303",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-55-2021",
+   "path": "local/mehedinti/eselnita/2021/55",
+   "short": "HCL Eșelnița nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 55/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41312",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-56-2021",
+   "path": "local/mehedinti/eselnita/2021/56",
+   "short": "HCL Eșelnița nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 56/2021 privind organizarea si desfasurarea concursului pentru ocuparea postului de ADMINISTRATOR in cadrul societatii SC GOSPODARIE COMUNALA ESELNITA SRL",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41313",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-57-2021",
+   "path": "local/mehedinti/eselnita/2021/57",
+   "short": "HCL Eșelnița nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 57/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41314",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-58-2021",
+   "path": "local/mehedinti/eselnita/2021/58",
+   "short": "HCL Eșelnița nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 58/2021 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 123 mp, inscris CF 50891, nr cadastral 50891, intravilan, situat in comuna Eselnita, str. Teilor, nr. 568A, categoria curti-constructii, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41315",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-59-2021",
+   "path": "local/mehedinti/eselnita/2021/59",
+   "short": "HCL Eșelnița nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 59/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41316",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-6-2021",
+   "path": "local/mehedinti/eselnita/2021/6",
+   "short": "HCL Eșelnița nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 6/2021 privind scoaterea la casare si valorificarea obiectelor de inventar.degradate si depasite fizic si moral asa cum au rezultat in urma inventarierii pentru anul 2020 la Scoala Gimnaziala Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41238",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-60-2021",
+   "path": "local/mehedinti/eselnita/2021/60",
+   "short": "HCL Eșelnița nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 60/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41317",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-61-2021",
+   "path": "local/mehedinti/eselnita/2021/61",
+   "short": "HCL Eșelnița nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 61/2021 privind incheierea unui acord de parteneriat intre Asociatia Comunitatii Eselnita Cazanele Dunarii si Primaria Eselnita in vederea implementarii proiectului „organizare campanie sterilizare a cainilor si pisicilor cu si fara stapan in localitatea eselnita, judetul mehedinti, in perioada 22-23 mai 2021”",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41318",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-62-2021",
+   "path": "local/mehedinti/eselnita/2021/62",
+   "short": "HCL Eșelnița nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 62/2021 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 143 mp, incris CF 50844, nr cadastral 50844, intravilan, categoria CURTI - CONSTRUCTII situat in comuna Eselnita, ZONA RÂPA LU MANEA, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41319",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-63-2021",
+   "path": "local/mehedinti/eselnita/2021/63",
+   "short": "HCL Eșelnița nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 63/2021 privind stabilirea impozitelor si taxelor locale pe anul 2022 la nivelul comunei Eselnita,judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41333",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-64-2021",
+   "path": "local/mehedinti/eselnita/2021/64",
+   "short": "HCL Eșelnița nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 64/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41334",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-65-2021",
+   "path": "local/mehedinti/eselnita/2021/65",
+   "short": "HCL Eșelnița nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 65/2021 privind aprobarea intocmirii unui act aditional la contractul de salubritate nr.74 din 04.01.2018",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41335",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-66-2021",
+   "path": "local/mehedinti/eselnita/2021/66",
+   "short": "HCL Eșelnița nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 66/2021 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 372 mp, incris CF 50910, nr cadastral 50910, intravilan, categoria ARABIL situat in comuna Eselnita, ZONA RÂPA LU MANEA, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41336",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-67-2021",
+   "path": "local/mehedinti/eselnita/2021/67",
+   "short": "HCL Eșelnița nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 67/2021 privind aprobarea virarilor de credite bugetare pe anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41337",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-68-2021",
+   "path": "local/mehedinti/eselnita/2021/68",
+   "short": "HCL Eșelnița nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 68/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41338",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-69-2021",
+   "path": "local/mehedinti/eselnita/2021/69",
+   "short": "HCL Eșelnița nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 69/2021 privind aprobarea constituirii ASOCIAŢIEI DE DEZVOLTARE INTERCOMUNITARĂ DISTRIBUŢIE GAZ ORŞOVA - CLISURA DUNĂRII",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41339",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-7-2021",
+   "path": "local/mehedinti/eselnita/2021/7",
+   "short": "HCL Eșelnița nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 7/2021 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav din comuna Eselnita, judetul Mehedinti, pentru anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41239",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-70-2021",
+   "path": "local/mehedinti/eselnita/2021/70",
+   "short": "HCL Eșelnița nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 70/2021 privind aprobarea Bilantului contabil pentru anul 2020 la SC GOSPODARIE COMUNALA ESELNITA SRL",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41340",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-71-2021",
+   "path": "local/mehedinti/eselnita/2021/71",
+   "short": "HCL Eșelnița nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 71/2021 privind alegerea reprezentantului comunei ESELNITA in Adunarea Generala ADIS Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41341",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-72-2021",
+   "path": "local/mehedinti/eselnita/2021/72",
+   "short": "HCL Eșelnița nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 72/2021 privind aprobarea Strategiei de Dezvoltare a comunei Eselnita, judetul Mehedinti pentru perioada 2021-2027",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41342",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-73-2021",
+   "path": "local/mehedinti/eselnita/2021/73",
+   "short": "HCL Eșelnița nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 73/2021 privind aprobarea prelungirii contractului de delegare a gestiunii serviciului public de alimentare cu apa si canalizare/epurare",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41349",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-74-2021",
+   "path": "local/mehedinti/eselnita/2021/74",
+   "short": "HCL Eșelnița nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 74/2021 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 895 mp, inscris in CF 53394, situat in comuna Eselnita, categoria neproductiv ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41350",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-75-2021",
+   "path": "local/mehedinti/eselnita/2021/75",
+   "short": "HCL Eșelnița nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 75/2021 privind atestarea apartenentei la domeniul privat al comunei Eselnita, judetul Mehedinti a unui teren inscris in CF 51454, nr cadastral 181/6, situat in comuna Eselnita, str. Duzilor, nr. 621C , categoria curti constructii, ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41351",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-76-2021",
+   "path": "local/mehedinti/eselnita/2021/76",
+   "short": "HCL Eșelnița nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 76/2021 privind aprobarea dezmembrarii terenului inscris in CF 253/810/815, in suprafata de 7003mp, teren apartinand domeniului privat al comunei Eselnita, judetul Mehedinti, in 3 loturi categoria curti – constructii",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41352",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-77-2021",
+   "path": "local/mehedinti/eselnita/2021/77",
+   "short": "HCL Eșelnița nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 77/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41353",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-78-2021",
+   "path": "local/mehedinti/eselnita/2021/78",
+   "short": "HCL Eșelnița nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 78/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41354",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-79-2021",
+   "path": "local/mehedinti/eselnita/2021/79",
+   "short": "HCL Eșelnița nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 79/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41355",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-8-2021",
+   "path": "local/mehedinti/eselnita/2021/8",
+   "short": "HCL Eșelnița nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 8/2021 privind aprobarea pentru anul 2021 a numarului persoanelor care primesc indemnizatia echivalenta cu salariul net al asistentului personal al persoanei cu handicap grav",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41240",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-80-2021",
+   "path": "local/mehedinti/eselnita/2021/80",
+   "short": "HCL Eșelnița nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 80/2021 privind RECTIFICAREA art.1 din Hotararea Consiliului Local nr. 62 din 29.04.2021 privind scoaterea la licitatie publica in vederea vanzarii terenului in suprafata de 143 mp, incris CF 50844, nr cadastral 50844, intravilan, categoria CURTI - CONSTRUCTII situat in comuna Eselnita, ZONA RÂPA LU MANEA, lot ce face parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41356",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-81-2021",
+   "path": "local/mehedinti/eselnita/2021/81",
+   "short": "HCL Eșelnița nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 81/2021 privind demararea procedurii de LICITATIE PUBLICA in vederea achizitionarii sistemului de VIDANJA (autosasiu + vidanja combinata) prin procedeul de LEASING FINANCIAR de catre PRIMARIA COMUNEI ESELNITA",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41357",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-82-2021",
+   "path": "local/mehedinti/eselnita/2021/82",
+   "short": "HCL Eșelnița nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 82/2021 privind aprobarea efectuarii lucrarii de investitii si demararea procedurii de licitatie publica in vederea realizarii Cosurilor de Fum de la Scoala Gimnazila Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41358",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-83-2021",
+   "path": "local/mehedinti/eselnita/2021/83",
+   "short": "HCL Eșelnița nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 83/2021 privind actualizarea Regulamentului de instituire şi administrare a taxei de salubrizare în comuna Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41359",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-84-2021",
+   "path": "local/mehedinti/eselnita/2021/84",
+   "short": "HCL Eșelnița nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 84/2021 privind incheierea unui acord de parteneriat intre asociatia comunitatii eselnita cazanele dunarii si primaria eselnita in vederea implementarii proiectului „organizare campanie sterilizare a cainilor si pisicilor cu si fara stapan in localitatea Eselnita, judetul Mehedinti, in perioada 17-18 IULIE 2021”",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41360",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-85-2021",
+   "path": "local/mehedinti/eselnita/2021/85",
+   "short": "HCL Eșelnița nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 85/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41373",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-86-2021",
+   "path": "local/mehedinti/eselnita/2021/86",
+   "short": "HCL Eșelnița nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 86/2021 privind demararea procedurii de licitatie publica in vederea intocmirii documentatiei tehnice pentru executarea lucrarii de extindere a sistemului de alimentare cu apa al localitatii Eselnita precum si a documentatiei tehnice pentru obtinerea autorizatiei de securitate la incendiu in conformitate cu Ordinul nr. 129/2018 a Ministerul Afacerilor Interne – MAI",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41374",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-87-2021",
+   "path": "local/mehedinti/eselnita/2021/87",
+   "short": "HCL Eșelnița nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 87/2021 privind aprobarea demararii procedurii de licitatie publica in vederea achizitionarii pe SEAP a doua echipamente - regulatoare de vaccum ale instalatiei de clorinare la Statia de Apa de la SC GOSPODARIE COMUNALA ESELNITA SRL",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41375",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-88-2021",
+   "path": "local/mehedinti/eselnita/2021/88",
+   "short": "HCL Eșelnița nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 88/2021 privind aprobarea dezmembrarii terenului inscris in CF 253/810/815, in suprafata de 7003mp, teren apartinand domeniului privat al comunei Eselnita, judetul Mehedinti, in 3 loturi categoria curti - constructii",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41387",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-89-2021",
+   "path": "local/mehedinti/eselnita/2021/89",
+   "short": "HCL Eșelnița nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 89/2021 privind aprobarea documentatiei (deviz de lucrari) si demararea procedurii de licitatie publica in SEAP in vederea realizarii obiectivului de investitii AMENAJARE TROTUARE, ACCESE SI RIGOLE STRADA TEILOR, IN COMUNA ESELNITA, JUDETUL MEHEDINTI – TROTUARE DE BETON",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41388",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-9-2021",
+   "path": "local/mehedinti/eselnita/2021/9",
+   "short": "HCL Eșelnița nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 9/2021 privind aprobarea organizarii protectiei civile la nivelul Unitatii Administrativ Teritoriale Eselnita si a Planului de analiza si acoperire a riscurilor la nivelul comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41241",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-90-2021",
+   "path": "local/mehedinti/eselnita/2021/90",
+   "short": "HCL Eșelnița nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 90/2021 privind aprobarea documentatiei (deviz de lucrari) si demararea procedurii de licitatie publica in SEAP in vederea realizarii obiectivului de investitii AMENAJARE TROTUARE, ACCESE SI RIGOLE STRADA TEILOR, IN COMUNA ESELNITA, JUDETUL MEHEDINTI – RIGOLE PEREATE DE BETON",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41389",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-91-2021",
+   "path": "local/mehedinti/eselnita/2021/91",
+   "short": "HCL Eșelnița nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 91/2021 privind scoaterea la licitatie publica in vederea vanzarii a unor terenuri situate in extravilanul comunei Eselnita, terenuri ce fac parte din domeniul privat al comunei Eselnita, ZONA DEALUL BISERICII, categoria faneata, loturi ce fac parte din domeniul privat al comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41390",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-92-2021",
+   "path": "local/mehedinti/eselnita/2021/92",
+   "short": "HCL Eșelnița nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 92/2021 privind aprobarea Regulamentului local de implicare a publicului in elaborarea proiectului ACTUALIZARE PLAN URBANISTIC GENERAL SI REGULAMENT LOCAL DE URBANISM, COMUNA ESELNITA, JUDETUL MEHEDINTI",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41391",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-93-2021",
+   "path": "local/mehedinti/eselnita/2021/93",
+   "short": "HCL Eșelnița nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 93/2021 privind privind revocarea Hotararea Consiliului Local nr. 20 din 24.02.2021 privind aprobarea trecerii din proprietatea Statului Român în domeniul privat al comunei Eselnita şi în administrarea Consiliului Local Eselnita, a imobilului teren în suprafaţă de 241 mp situat în localitatea Eselnita, judeţul Mehedinti, înscris în CF nr. 1406 Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41392",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-94-2021",
+   "path": "local/mehedinti/eselnita/2021/94",
+   "short": "HCL Eșelnița nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 94/2021 privind stabilirea normativului propriu de cheltuieli privind consumul lunar de carburanţi pentru Autoutilitara Volkswagen Crafter 2.5 TDI a Primariei Comunei Eselnita",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41393",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-95-2021",
+   "path": "local/mehedinti/eselnita/2021/95",
+   "short": "HCL Eșelnița nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 95/2021 privind aprobarea Raportului de activitate a asistentilor personali pentru semestrul I – 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41394",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-96-2021",
+   "path": "local/mehedinti/eselnita/2021/96",
+   "short": "HCL Eșelnița nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 96/2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41395",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-97-2021",
+   "path": "local/mehedinti/eselnita/2021/97",
+   "short": "HCL Eșelnița nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 97/2021 privind schimbarea destinației clădirii realizate în cadrul obiectivului “Centru Local de Informare si PromovareTuristică în comuna Eselnita județul Mehedinti”",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41396",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-98-2021",
+   "path": "local/mehedinti/eselnita/2021/98",
+   "short": "HCL Eșelnița nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 98/2021 privind aprobarea documentatiei (deviz de lucrari) si demararea procedurii de licitatie publica in vederea executarii lucrarii de reparatii si renovare la Centrul Local de Informare si Promovare Turistica in comuna Eselnita, judetul Mehedinti",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41397",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-99-2021",
+   "path": "local/mehedinti/eselnita/2021/99",
+   "short": "HCL Eșelnița nr. 99/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 99/2021 privind aprobarea virărilor de credite bugetare pe anul 2021",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/41476",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/41476",
      "sha256": null
     }
    ]

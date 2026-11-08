@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-10-2025",
+   "path": "local/mehedinti/livezile/2025/10",
+   "short": "HCL Livezile nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 10/2025",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/198392",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/198392",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-11-2025",
    "path": "local/mehedinti/livezile/2025/11",
    "short": "HCL Livezile nr. 11/2025",
@@ -58,6 +73,21 @@
      "from": "2025-11-12",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/207540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-14-2025",
+   "path": "local/mehedinti/livezile/2025/14",
+   "short": "HCL Livezile nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 14/2025 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/212202",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/212202",
      "sha256": null
     }
    ]
@@ -133,6 +163,21 @@
      "from": "2025-11-12",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/214975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-2-2025",
+   "path": "local/mehedinti/livezile/2025/2",
+   "short": "HCL Livezile nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 2/2025 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/194314",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/194314",
      "sha256": null
     }
    ]

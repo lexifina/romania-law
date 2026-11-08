@@ -202,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-mures--suplac-10-2026",
+"path": "local/mures/suplac/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 10/2026 Aprobarea inițierii închirierii prin atribuire directă a pajiștilor disponibile din domeniul privat al comunei Suplac, județul Mureș",
+"short": "HCL Suplac nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#116600",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--suplac-11-2026",
 "path": "local/mures/suplac/2026/11",
 "kind": "local",
@@ -906,6 +928,28 @@
 }
 },
 {
+"slug": "hcl-mures--suplac-43-2026",
+"path": "local/mures/suplac/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 43/2026 Privind aprobarea inchirierii unei suprafețe de 300 mp teren extravilan situat în Suplac , în vederea amplasării unui pilon de telecomunicații și a achipamentelor aferente necesare furnizării serviciilor de comunicații electronice",
+"short": "HCL Suplac nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#130559",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--suplac-44-2026",
 "path": "local/mures/suplac/2026/44",
 "kind": "local",
@@ -1013,6 +1057,28 @@
 "council_name": "Consiliul Local al Comunei Suplac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--suplac-49-2026",
+"path": "local/mures/suplac/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 49/2026 Privind modificarea art.1 din HCL 43/24.09.2026, în sensul înlocuirii procedurii de închiriere prin licitație publică cu aprobarea încheierii unui contract privind constituirea dreptului de acces",
+"short": "HCL Suplac nr. 49/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#132260",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mures/iernut/2017",
+"acts": [
+{
+"slug": "hcl-mures--iernut-224-2017",
+"path": "local/mures/iernut/2017/224",
+"kind": "local",
+"year": "2017",
+"number": "224",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 224/2017",
+"short": "HCL Iernut nr. 224/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-12-18",
+"latest": "2017-12-18",
+"portal": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

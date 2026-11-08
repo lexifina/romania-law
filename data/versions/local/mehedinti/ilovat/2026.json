@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/ilovat/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ilovat-1-2026",
+   "path": "local/mehedinti/ilovat/2026/1",
+   "short": "HCL Ilovăț nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 1/2026 privind validarea Dispoziției nr. 1/08.01.2026",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/272885",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/272885",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ilovat-10-2026",
    "path": "local/mehedinti/ilovat/2026/10",
    "short": "HCL Ilovăț nr. 10/2026",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ilovat-2-2026",
+   "path": "local/mehedinti/ilovat/2026/2",
+   "short": "HCL Ilovăț nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 2/2026 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2026, prevăzute a fi realizate de către beneficiarii legii 196/2016 privind VENITUL MINIM DE INCLUZIUNE",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/272889",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/272889",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ilovat-20-2026",
    "path": "local/mehedinti/ilovat/2026/20",
    "short": "HCL Ilovăț nr. 20/2026",
@@ -208,6 +238,21 @@
      "from": "2026-06-09",
      "units": 1,
      "source_url": "https://emol.ro/ilovat-mh/registru-hcl/272987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-3-2026",
+   "path": "local/mehedinti/ilovat/2026/3",
+   "short": "HCL Ilovăț nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 3/2026 privind aprobarea raportului de activități desfășurate de asistenții personali ai persoanelor cu handicap grav pentru anul 2025",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/272891",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/272891",
      "sha256": null
     }
    ]

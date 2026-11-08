@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/iernut/2014",
+ "acts": [
+  {
+   "slug": "hcl-mures--iernut-117-2014",
+   "path": "local/mures/iernut/2014/117",
+   "short": "HCL Iernut nr. 117/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 117/2014",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.199-26.09.2022-privind-actualizarea-Comisiei-Locale-de-Ordine-Publica-constituita-la-nivelul-orasului-Iernut-prin-H.C.L.-nr.117-30.09.2014.pdf",
+     "sha256": "cc4fdee2d1725c35b70e34e739a1215269367e8ea969d08a8c113d3be3966ebf"
+    }
+   ]
+  }
+ ]
+}

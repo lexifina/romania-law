@@ -158,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-neamt--margineni-8-2026",
+"path": "local/neamt/margineni/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 8/2026 privind aprobarea numărului total de posturi pentru asistenţii personali pentru persoanele adulte cu handicap grav și copiii cu handicap grav de pe raza comunei Mărgineni și a numărului total de indemnizații lunare pentru persoane cu handicap grav pentru anul 2026",
+"short": "HCL Mărgineni nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/254930",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--margineni-9-2026",
 "path": "local/neamt/margineni/2026/9",
 "kind": "local",
@@ -574,6 +596,28 @@
 "council_name": "Consiliul Local al Comunei Mărgineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--margineni-28-2026",
+"path": "local/neamt/margineni/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 28/2026 privind alegerea preşedintelui de ședință al Consiliului local al Comunei Mărgineni pentru un mandat de 3 luni, începând cu 01.05.2026",
+"short": "HCL Mărgineni nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/margineni-nt/registru-hcl/266457",
+"council": "neamt/margineni",
+"council_name": "Consiliul Local al Comunei Mărgineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

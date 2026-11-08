@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/strehaia/2024",
+"acts": [
+{
+"slug": "hcl-mehedinti--strehaia-1-2024",
+"path": "local/mehedinti/strehaia/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 1/2024",
+"short": "HCL Strehaia nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_1.pdf",
+"council": "mehedinti/strehaia",
+"council_name": "Consiliul Local al Orașului Strehaia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--strehaia-3-2024",
+"path": "local/mehedinti/strehaia/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 3/2024",
+"short": "HCL Strehaia nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_3.pdf",
+"council": "mehedinti/strehaia",
+"council_name": "Consiliul Local al Orașului Strehaia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--strehaia-4-2024",
+"path": "local/mehedinti/strehaia/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 4/2024",
+"short": "HCL Strehaia nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_4.pdf",
+"council": "mehedinti/strehaia",
+"council_name": "Consiliul Local al Orașului Strehaia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--strehaia-5-2024",
+"path": "local/mehedinti/strehaia/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 5/2024",
+"short": "HCL Strehaia nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_5.pdf",
+"council": "mehedinti/strehaia",
+"council_name": "Consiliul Local al Orașului Strehaia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--strehaia-6-2024",
+"path": "local/mehedinti/strehaia/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 6/2024",
+"short": "HCL Strehaia nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_6.pdf",
+"council": "mehedinti/strehaia",
+"council_name": "Consiliul Local al Orașului Strehaia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--strehaia-7-2024",
+"path": "local/mehedinti/strehaia/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 7/2024",
+"short": "HCL Strehaia nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_7.pdf",
+"council": "mehedinti/strehaia",
+"council_name": "Consiliul Local al Orașului Strehaia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--strehaia-9-2024",
+"path": "local/mehedinti/strehaia/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 9/2024",
+"short": "HCL Strehaia nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_9.pdf",
+"council": "mehedinti/strehaia",
+"council_name": "Consiliul Local al Orașului Strehaia",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

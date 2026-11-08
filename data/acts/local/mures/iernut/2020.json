@@ -3,6 +3,28 @@
 "shard": "local/mures/iernut/2020",
 "acts": [
 {
+"slug": "hcl-mures--iernut-58-2020",
+"path": "local/mures/iernut/2020/58",
+"kind": "local",
+"year": "2020",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 58/2020",
+"short": "HCL Iernut nr. 58/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-28",
+"latest": "2020-04-28",
+"portal": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--iernut-361-2020",
 "path": "local/mures/iernut/2020/361",
 "kind": "local",

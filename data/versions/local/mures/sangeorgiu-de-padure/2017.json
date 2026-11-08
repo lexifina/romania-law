@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/mures/sangeorgiu-de-padure/2017",
+ "acts": [
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-49-2017",
+   "path": "local/mures/sangeorgiu-de-padure/2017/49",
+   "short": "HCL Sângeorgiu de Pădure nr. 49/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 49/2017 Privind modificarea HCL NR.49/07.08.2017 privind dotarea și amenajarea expoziției de bază al castelului Rhedey din Sângeorgiu de Pădure. 83/10.11.2017",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2017-08-07",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=2108&file=hot-sgpadure-nr.83-2017.pdf",
+     "sha256": "3bfd3d4df09bbfa5a55e54a822c6e74eb6587a56cdb19881170109ef4ceca589"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-51-2017",
+   "path": "local/mures/sangeorgiu-de-padure/2017/51",
+   "short": "HCL Sângeorgiu de Pădure nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 51/2017 Privind aprobarea actului adițional la Contractul nr.51/19.05.2017 privind prestarea serviciului public de salubrizare al orașului Sângeorgiu de Pădure. 92/08.12.2017",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2017-05-19",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=2117&file=hot-sgpadure-nr.92-2017.pdf",
+     "sha256": "8882c8745e4278041a9a3d2090c447fcf52a56686dc7b830661ff874272215a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-52-2017",
+   "path": "local/mures/sangeorgiu-de-padure/2017/52",
+   "short": "HCL Sângeorgiu de Pădure nr. 52/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 52/2017",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=2119&file=hot-sgpadure-nr.94-2017.pdf",
+     "sha256": "d2f2f48f269b845b8be2505e7b7e01a1c7147ef070c59ebfa912aee82e0215da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-6-2017",
+   "path": "local/mures/sangeorgiu-de-padure/2017/6",
+   "short": "HCL Sângeorgiu de Pădure nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 6/2017 privind completarea comisiei de evaluare și selecție a cererilor de finanțare nerambursabilă cu doi membrii 13/07.03.2018",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=2294&file=hot-sgpadure-13-din-2018.pdf",
+     "sha256": "1ecb2903bcddb40aaa6d5339e7795f0c40f51c19be820854198f548af0431474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-74-2017",
+   "path": "local/mures/sangeorgiu-de-padure/2017/74",
+   "short": "HCL Sângeorgiu de Pădure nr. 74/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 74/2017",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2017-10-11",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=2288&file=hot-sgpadure-07-din-2018.pdf",
+     "sha256": "8b2fa2caf60c0fbb4184a71b627906e854b319a87b1d6550b58ba2ea37bd6138"
+    }
+   ]
+  }
+ ]
+}

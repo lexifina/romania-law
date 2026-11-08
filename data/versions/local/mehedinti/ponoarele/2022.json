@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/ponoarele/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ponoarele-1-2022",
+   "path": "local/mehedinti/ponoarele/2022/1",
+   "short": "HCL Ponoarele nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 1/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/49083",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/49083",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-10-2022",
    "path": "local/mehedinti/ponoarele/2022/10",
    "short": "HCL Ponoarele nr. 10/2022",
@@ -13,6 +28,21 @@
      "from": "2022-04-28",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/58927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-11-2022",
+   "path": "local/mehedinti/ponoarele/2022/11",
+   "short": "HCL Ponoarele nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 11/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/58928",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/58928",
      "sha256": null
     }
    ]
@@ -168,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ponoarele-21-2022",
+   "path": "local/mehedinti/ponoarele/2022/21",
+   "short": "HCL Ponoarele nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 21/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/66508",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/66508",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-22-2022",
    "path": "local/mehedinti/ponoarele/2022/22",
    "short": "HCL Ponoarele nr. 22/2022",
@@ -178,6 +223,21 @@
      "from": "2022-08-05",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/67969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-23-2022",
+   "path": "local/mehedinti/ponoarele/2022/23",
+   "short": "HCL Ponoarele nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 23/2022 privind numirea reprezentantului Consiliului local Ponoarele în Consiliul de administrație al Şcolii Gimnaziale “Dr. Alexandru M. Popescu” Ponoarele pentru anul scolar 2022 - 2023",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/70554",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/70554",
      "sha256": null
     }
    ]

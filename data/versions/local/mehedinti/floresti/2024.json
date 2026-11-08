@@ -408,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--floresti-5-2024",
+   "path": "local/mehedinti/floresti/2024/5",
+   "short": "HCL Florești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 5/2024 privind constituirea Consiliului Comunitar Consultativ al comunei Floresti şi aprobarea Regulamentului de organizare şi funcţionare al acestuia",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/140280",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/140280",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-6-2024",
    "path": "local/mehedinti/floresti/2024/6",
    "short": "HCL Florești nr. 6/2024",
@@ -448,6 +463,21 @@
      "from": "2024-03-05",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/144728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-9-2024",
+   "path": "local/mehedinti/floresti/2024/9",
+   "short": "HCL Florești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 9/2024 privind desemnarea a 2 reprezentanti din cadrul Consiliului Local Floresti pentru a face parte din Comisia pentru evaluarea si aprobarea calificativului de evaluare a performanţelor profesionale individuale pentru Secretarul general al comunei Floresti pentru anul 2023",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/150381",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/150381",
      "sha256": null
     }
    ]

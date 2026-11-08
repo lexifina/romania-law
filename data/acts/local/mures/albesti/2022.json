@@ -69,6 +69,51 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-4-2022",
+"path": "local/mures/albesti/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 4/2022",
+"short": "HCL Albești nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-13",
+"latest": "2022-01-13",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/47723",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--albesti-5-2022",
+"path": "local/mures/albesti/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 5/2022 privind scutirea de la plata impozitului pe clădiri a unui imobil aparţinând “Fundaţiei “Pentru Familia Creştină” Sighişoara”",
+"short": "HCL Albești nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-13",
+"latest": "2022-01-13",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/47724",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--albesti-6-2022",
 "path": "local/mures/albesti/2022/6",
 "kind": "local",
@@ -267,6 +312,50 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-15-2022",
+"path": "local/mures/albesti/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 15/2022 privind aprobarea volumului de masa lemnoasă propus pentru recoltare și valorificare în anul 2022 din fondul forestier proprietate publică a unității administrativ teritoriale Albești, a modalității de valorificare a masei lemnoase și a prețurilor de vânzare a acesteia",
+"short": "HCL Albești nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-08",
+"latest": "2022-04-08",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/54499",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--albesti-16-2022",
+"path": "local/mures/albesti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 16/2022 privind .desemnarea unui reprezentant și a unui membru supleant ai Consiliului Local al comunei Albesti în comisiile de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat din județul Mureș, sesiunea ianuarie-aprilie 2022",
+"short": "HCL Albești nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-08",
+"latest": "2022-04-08",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/54500",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--albesti-17-2022",
 "path": "local/mures/albesti/2022/17",
 "kind": "local",
@@ -399,6 +488,29 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-23-2022",
+"path": "local/mures/albesti/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 23/2022",
+"short": "HCL Albești nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-19",
+"latest": "2022-05-19",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/60837",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mures--albesti-24-2022",
 "path": "local/mures/albesti/2022/24",
 "kind": "local",
@@ -418,6 +530,29 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-25-2022",
+"path": "local/mures/albesti/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 25/2022",
+"short": "HCL Albești nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-19",
+"latest": "2022-05-19",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/60839",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -908,6 +1043,28 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-48-2022",
+"path": "local/mures/albesti/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 48/2022 privind desemnarea reprezentanţilor Consiliului Local al comunei Albesti în Consiliul de Administraţie şi în Comisia pentru Evaluarea şi Asigurarea Calităţii constituite în cadrul Şcolii gimnaziale Albesti",
+"short": "HCL Albești nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/73076",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--albesti-49-2022",
 "path": "local/mures/albesti/2022/49",
 "kind": "local",
@@ -993,6 +1150,29 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-53-2022",
+"path": "local/mures/albesti/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 53/2022",
+"short": "HCL Albești nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-28",
+"latest": "2022-09-28",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/73081",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1103,6 +1283,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-59-2022",
+"path": "local/mures/albesti/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 59/2022 pentru completarea Hotărârii Consiliului Local Nr.15/17.03.2022 privind aprobarea volumului de masa lemnoasă propus pentru recoltare și valorificare în anul 2022 din fondul forestier proprietate publică a unității administrativ teritoriale Albești, a modalității de valorificare a masei lemnoase și a prețurilor de vânzare a acesteia",
+"short": "HCL Albești nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-25",
+"latest": "2022-10-25",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/76485",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1258,6 +1460,29 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-67-2022",
+"path": "local/mures/albesti/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 67/2022",
+"short": "HCL Albești nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/79973",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -393,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--tamna-5-2024",
+   "path": "local/mehedinti/tamna/2024/5",
+   "short": "HCL Tâmna nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 5/2024 privind alegerea preşedintelui de şedinţă pentru şedinţele consiliului Local Tamna,Judetul Mehedinti pe durata a 3 luni",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/150505",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/150505",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--tamna-6-2024",
    "path": "local/mehedinti/tamna/2024/6",
    "short": "HCL Tâmna nr. 6/2024",

@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-17-2024",
+   "path": "local/mures/albesti/2024/17",
+   "short": "HCL Albești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 17/2024 privind aprobarea volumului de masa lemnoasă propus pentru recoltare și valorificare în anul 2024 din fondul forestier proprietate publică al unității administrativ teritoriale Albești, a modalității de valorificare a masei lemnoase și a prețurilor de vânzare, și a bugetului de venituri și cheltuieli pentru anul 2024, împreună cu devizele de lucrări și operațiuni ce se vor efectua în anul 2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/149782",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/149782",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-18-2024",
    "path": "local/mures/albesti/2024/18",
    "short": "HCL Albești nr. 18/2024",
@@ -168,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-20-2024",
+   "path": "local/mures/albesti/2024/20",
+   "short": "HCL Albești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 20/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/154884",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/154884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-21-2024",
+   "path": "local/mures/albesti/2024/21",
+   "short": "HCL Albești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 21/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/154885",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/154885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-22-2024",
+   "path": "local/mures/albesti/2024/22",
+   "short": "HCL Albești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 22/2024 privind aprobarea PUZ( Plan Urbanistic Zonal) si Regulamentul aferent- pentru lucrarea \"CONSTRUIRE HALE DE PRODUCTIE, CASA DE POMPE SI REZERVOR DE APA ” -IN COMUNA ALBESTI",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/154886",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/154886",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-23-2024",
    "path": "local/mures/albesti/2024/23",
    "short": "HCL Albești nr. 23/2024",
@@ -178,6 +238,36 @@
      "from": "2024-07-05",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/154887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-24-2024",
+   "path": "local/mures/albesti/2024/24",
+   "short": "HCL Albești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 24/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/154888",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/154888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-25-2024",
+   "path": "local/mures/albesti/2024/25",
+   "short": "HCL Albești nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 25/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/154889",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/154889",
      "sha256": null
     }
    ]
@@ -208,6 +298,36 @@
      "from": "2024-07-05",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/154891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-28-2024",
+   "path": "local/mures/albesti/2024/28",
+   "short": "HCL Albești nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 28/2024 privind transformarea unor posturi aferente functiilor publice si modificarea corespunzatoare a Statului de functii al aparatului de specialitate al primarului Comunei Albesti",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/154892",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/154892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-29-2024",
+   "path": "local/mures/albesti/2024/29",
+   "short": "HCL Albești nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 29/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/161768",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/161768",
      "sha256": null
     }
    ]
@@ -258,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-32-2024",
+   "path": "local/mures/albesti/2024/32",
+   "short": "HCL Albești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 32/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/161771",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/161771",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-33-2024",
    "path": "local/mures/albesti/2024/33",
    "short": "HCL Albești nr. 33/2024",
@@ -268,6 +403,36 @@
      "from": "2024-07-05",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/161772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-34-2024",
+   "path": "local/mures/albesti/2024/34",
+   "short": "HCL Albești nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 34/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/163231",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/163231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-35-2024",
+   "path": "local/mures/albesti/2024/35",
+   "short": "HCL Albești nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 35/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/163232",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/163232",
      "sha256": null
     }
    ]
@@ -303,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-38-2024",
+   "path": "local/mures/albesti/2024/38",
+   "short": "HCL Albești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 38/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/171348",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/171348",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-39-2024",
    "path": "local/mures/albesti/2024/39",
    "short": "HCL Albești nr. 39/2024",
@@ -333,6 +513,66 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-40-2024",
+   "path": "local/mures/albesti/2024/40",
+   "short": "HCL Albești nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 40/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/171350",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/171350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-41-2024",
+   "path": "local/mures/albesti/2024/41",
+   "short": "HCL Albești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 41/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/171351",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/171351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-42-2024",
+   "path": "local/mures/albesti/2024/42",
+   "short": "HCL Albești nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 42/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/171352",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/171352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-43-2024",
+   "path": "local/mures/albesti/2024/43",
+   "short": "HCL Albești nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 43/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/171353",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/171353",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-44-2024",
    "path": "local/mures/albesti/2024/44",
    "short": "HCL Albești nr. 44/2024",
@@ -343,6 +583,21 @@
      "from": "2024-10-01",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/171354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-45-2024",
+   "path": "local/mures/albesti/2024/45",
+   "short": "HCL Albești nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 45/2024 privind aprobarea valorificării prin vânzare ca lemn de foc pentru populație a unor cantități de material lemnos având categoria Buștean gater, specia fag, din Fondul Forestier al Comunei Albești, identificate în partizile nr.8730 Valea Albeștiului și nr.8777 Valea Albeștiului",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/171355",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/171355",
      "sha256": null
     }
    ]

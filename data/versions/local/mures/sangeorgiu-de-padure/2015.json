@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/mures/sangeorgiu-de-padure/2015",
+ "acts": [
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-1-2015",
+   "path": "local/mures/sangeorgiu-de-padure/2015/1",
+   "short": "HCL Sângeorgiu de Pădure nr. 1/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 1/2015",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=869&file=sgpadure-h62-26.11.2015.pdf",
+     "sha256": "1dcaabc26679d2272f15e17a578ffcc2ad05f8cc65e113ffa0038e9e6bf64d58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-2684-2015",
+   "path": "local/mures/sangeorgiu-de-padure/2015/2684",
+   "short": "HCL Sângeorgiu de Pădure nr. 2684/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 2684/2015",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=818&file=sgpadure-h45-2015.pdf",
+     "sha256": "45753aa6701beee35dc6d9d436a31256df5a8301915338c4badb7ef07538f5fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-29-2015",
+   "path": "local/mures/sangeorgiu-de-padure/2015/29",
+   "short": "HCL Sângeorgiu de Pădure nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 29/2015 privind adearea orașului Sâng. de Pădure la Asociația Economiștilor Mureș 21/28.09.2016",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=1111&file=hot-sgpadure-nr.21-din-2016.pdf",
+     "sha256": "22ba2aaf60e61bea1a5904cd9fe252c410d46a110c4880f54eb5aa3a9cc2ee2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-44-2015",
+   "path": "local/mures/sangeorgiu-de-padure/2015/44",
+   "short": "HCL Sângeorgiu de Pădure nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 44/2015 pentru contribuabilii orașului Sângeorgiu Pădure 23/31.03.2016",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=793&file=sgpadure-h23-2016.pdf",
+     "sha256": "dc6036c529f8449fae382a65f476e27718ee3612aec6f19ef6db47904b53d224"
+    }
+   ]
+  }
+ ]
+}

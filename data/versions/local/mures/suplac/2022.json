@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--suplac-24-2022",
+   "path": "local/mures/suplac/2022/24",
+   "short": "HCL Suplac nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Suplac nr. 24/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--suplac-25-2022",
    "path": "local/mures/suplac/2022/25",
    "short": "HCL Suplac nr. 25/2022",
@@ -453,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--suplac-38-2022",
+   "path": "local/mures/suplac/2022/38",
+   "short": "HCL Suplac nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Suplac nr. 38/2022 Privind desemnarea unui reprezentant al Consiliului Local Suplac în Consiliul de Administraţie al Şcolii Gimnaziale ”Sf. Nicolae ”Laslău Mare pe anul școlar 2022-20223",
+   "url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#27868",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#27868",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--suplac-39-2022",
    "path": "local/mures/suplac/2022/39",
    "short": "HCL Suplac nr. 39/2022",
@@ -643,6 +673,21 @@
      "from": "2022-01-27",
      "units": 1,
      "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#13200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--suplac-50-2022",
+   "path": "local/mures/suplac/2022/50",
+   "short": "HCL Suplac nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Suplac nr. 50/2022 privind desemnarea unui membru în CA A Scolii gimnaziale",
+   "url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#32372",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#32372",
      "sha256": null
     }
    ]
@@ -883,6 +928,21 @@
      "from": "2022-02-11",
      "units": 1,
      "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#15017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--suplac-9-2022",
+   "path": "local/mures/suplac/2022/9",
+   "short": "HCL Suplac nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Suplac nr. 9/2022 Aprobarea inițierii închirierii prin atribuire directă a pajiștilor disponibile din domeniul privat al comunei Suplac, județul Mureș",
+   "url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#15015",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 1,
+     "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#15015",
      "sha256": null
     }
    ]

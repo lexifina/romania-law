@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/strehaia/2019",
+"acts": [
+{
+"slug": "hcl-mehedinti--strehaia-115-2019",
+"path": "local/mehedinti/strehaia/2019/115",
+"kind": "local",
+"year": "2019",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 115/2019 pentru depozitctreu cleseurilor colectcrte cle pe clomeniul public CONSILIUL LOCAL AL ORA$ULT]I STREHAIA, JT]I'ETUL MEHEDINII; Av6nd in vedele: o leferatul de aprobar.e; o raportul de specialitate; ' Legea serviciilor cotnunitale de utilitati publice nr. 5112006 republicata, cu o rnodificarile si completarile ulterioare Legea serviciului de salubrizale a localitatilor nr'. 101/2006 republicata, cu",
+"short": "HCL Strehaia nr. 115/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-11",
+"latest": "2019-12-11",
+"portal": "https://www.primariastrehaia.ro/wp-content/uploads/hcl-115.pdf",
+"council": "mehedinti/strehaia",
+"council_name": "Consiliul Local al Orașului Strehaia",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

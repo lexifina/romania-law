@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--livezile-2-2024",
+"path": "local/mehedinti/livezile/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 2/2024 privind alegere președinte de ședință",
+"short": "HCL Livezile nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-05",
+"latest": "2024-04-05",
+"portal": "https://emol.ro/livezile-mh/registru-hcl/136664",
+"council": "mehedinti/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--livezile-3-2024",
 "path": "local/mehedinti/livezile/2024/3",
 "kind": "local",
@@ -111,6 +133,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--livezile-7-2024",
+"path": "local/mehedinti/livezile/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 7/2024 privind aprobarea indicatorilor conform devizului actualizat pentru obiectivul de investiții Actualizare Plan Urbanistic General și Regulament Local de Urbanism comuna Livezile",
+"short": "HCL Livezile nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/livezile-mh/registru-hcl/150692",
+"council": "mehedinti/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

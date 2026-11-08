@@ -3,6 +3,116 @@
 "shard": "local/mehedinti/grozesti/2024",
 "acts": [
 {
+"slug": "hcl-mehedinti--grozesti-1-2024",
+"path": "local/mehedinti/grozesti/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 1/2024 privind alegerea presedintelui de sedinta",
+"short": "HCL Grozești nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/136968",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-2-2024",
+"path": "local/mehedinti/grozesti/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 2/2024 privind aprobarea organizarii retelei scolare a unitatilor de invatamant preuniversitar de stat de pe raza Comunei Grozesti pentru anul scolar 2024-2025",
+"short": "HCL Grozești nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/136969",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-3-2024",
+"path": "local/mehedinti/grozesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 3/2024 privind aprobarea achizitionarii a doua containere modulare in comuna Grozesti, judetul Mehedinti",
+"short": "HCL Grozești nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/136970",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-4-2024",
+"path": "local/mehedinti/grozesti/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 4/2024 privind constituirea Consiliului Comunitar Consultativ la nivelul comunei Grozesti, județul Mehedinti și aprobarea Regulamentului de organizare și funcționare al acestuia",
+"short": "HCL Grozești nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/140638",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-5-2024",
+"path": "local/mehedinti/grozesti/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 5/2024 privind aprobarea salariilor de bază pentru funcțiile publice si contractuale din cadrul aparatului de specialitate al Primarului Comunei Grozesti",
+"short": "HCL Grozești nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/140639",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-6-2024",
 "path": "local/mehedinti/grozesti/2024/6",
 "kind": "local",
@@ -135,6 +245,72 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-12-2024",
+"path": "local/mehedinti/grozesti/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 12/2024 privind aprobarea Planului anual de actiuni si lucrari de interes local pentru repartizarea orelor de munca efectuate de beneficiarii de venit minim de incluziune, conform Legii 196/2016, in anul 2024",
+"short": "HCL Grozești nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/141903",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-13-2024",
+"path": "local/mehedinti/grozesti/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 13/2024 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice care isi desfasoara activitatea la Scoala Gimnaziala Grozesti",
+"short": "HCL Grozești nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/141904",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-14-2024",
+"path": "local/mehedinti/grozesti/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 14/2024 privind aprobarea Devizului general actualizat, dupa finalizarea lucrarii, privind cheltuielile de capital necesare realizarii obiectivului de investitii “ REABILITARE / MODERNIZARE SCOALA GIMNAZIALA IN COMUNA GROZESTI, JUDEŢUL MEHEDINŢI”",
+"short": "HCL Grozești nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/141905",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-15-2024",
 "path": "local/mehedinti/grozesti/2024/15",
 "kind": "local",
@@ -157,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-16-2024",
+"path": "local/mehedinti/grozesti/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 16/2024 privind modificarea Anexei la HCL nr.5 din 30.01.2024 cu privire la aprobarea salariilor de bază pentru funcțiile publice si contractuale din cadrul aparatului de specialitate al Primarului Comunei Grozesti",
+"short": "HCL Grozești nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/141907",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-17-2024",
 "path": "local/mehedinti/grozesti/2024/17",
 "kind": "local",
@@ -176,6 +374,29 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-18-2024",
+"path": "local/mehedinti/grozesti/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 18/2024",
+"short": "HCL Grozești nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/148205",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -223,6 +444,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-21-2024",
+"path": "local/mehedinti/grozesti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 21/2024 privind alegerea presedintelui de sedinta",
+"short": "HCL Grozești nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/152554",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-22-2024",
+"path": "local/mehedinti/grozesti/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 22/2024 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice care isi desfasoara activitatea la Scoala Gimnaziala Grozesti",
+"short": "HCL Grozești nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/152555",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-23-2024",
 "path": "local/mehedinti/grozesti/2024/23",
 "kind": "local",
@@ -264,6 +529,51 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-25-2024",
+"path": "local/mehedinti/grozesti/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 25/2024",
+"short": "HCL Grozești nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/152558",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-26-2024",
+"path": "local/mehedinti/grozesti/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 26/2024 privind revocarea Hotararii Consiliului Local nr. 10/30.01.2024 privind apartenența la domeniul public al comunei Grozesti, judetul Mehedinti a unor imobile- -terenuri situate in satele Cârceni și Șușița, comuna Grozesti, judetul Mehedinti",
+"short": "HCL Grozești nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/152559",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +643,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-30-2024",
+"path": "local/mehedinti/grozesti/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 30/2024 privind aprobarea contractării unui împrumut în valoare de 1.162.259 lei, în conformitate cu prevederile art. I din Ordonanța de urgență a Guvernului nr.35/2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor acte normative aferente reprezentării statului în litigiile arbitrale și judiciare internaționale și concesionării proprietății publice a statului și pentru modificarea și completarea unor acte normative",
+"short": "HCL Grozești nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-29",
+"latest": "2024-05-29",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/155977",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-31-2024",
 "path": "local/mehedinti/grozesti/2024/31",
 "kind": "local",
@@ -374,6 +706,50 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-33-2024",
+"path": "local/mehedinti/grozesti/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 33/2024 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice care isi desfasoara activitatea la Scoala Gimnaziala Grozesti",
+"short": "HCL Grozești nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/160929",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-34-2024",
+"path": "local/mehedinti/grozesti/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 34/2024 privind modificarea organigramei si a statului de funcţii publice si in regim contractual al aparatului de specialitate al primarului Comunei Grozești, județul Mehedinți pentru anul 2024",
+"short": "HCL Grozești nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/160930",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -421,6 +797,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-37-2024",
+"path": "local/mehedinti/grozesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 37/2024 privind aprobarea vanzarii prin licitatie publica, in conditiile legii, a unui bun mobil- buldozer pe senile marca CATERPILAR D5M, apartinand domeniului privat al comunei Grozesti",
+"short": "HCL Grozești nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/160933",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-38-2024",
 "path": "local/mehedinti/grozesti/2024/38",
 "kind": "local",
@@ -465,6 +863,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-40-2024",
+"path": "local/mehedinti/grozesti/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 40/2024 privind aprobarea majorarii cu 5% fata de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale functionarilor publici si personalului contractual din cadrul aparatului de specialitate al Primarului Comunei Grozesti, incepand cu data de 1 iunie 2024",
+"short": "HCL Grozești nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-16",
+"latest": "2024-07-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/160936",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-41-2024",
+"path": "local/mehedinti/grozesti/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 41/2024 privind alegerea presedintelui de sedinta",
+"short": "HCL Grozești nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/162867",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-42-2024",
 "path": "local/mehedinti/grozesti/2024/42",
 "kind": "local",
@@ -484,6 +926,50 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-43-2024",
+"path": "local/mehedinti/grozesti/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 43/2024 privind aprobarea înfiinţării funcţiei contractuale de asistent medical comunitar în cadrul Compartimentului de Asistenţă Socială",
+"short": "HCL Grozești nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/162869",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-44-2024",
+"path": "local/mehedinti/grozesti/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 44/2024 privind aprobarea închirierii prin licitație publică a unui teren situat in satul Susita, Comuna Grozesti, judetul Mehedinti, aflat în domeniul public al Comunei Grozesti, județului Mehedinti",
+"short": "HCL Grozești nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/162870",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -575,6 +1061,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-49-2024",
+"path": "local/mehedinti/grozesti/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 49/2024 privind aprobarea acordarii unei sustineri financiare Asociatiei Sportive VIITORUL Grozesti",
+"short": "HCL Grozești nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/167663",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-50-2024",
 "path": "local/mehedinti/grozesti/2024/50",
 "kind": "local",
@@ -594,6 +1102,50 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-51-2024",
+"path": "local/mehedinti/grozesti/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 51/2024 privind desemnarea reprezentantului Consiliului Local al comunei Grozesti în cadrul Consiliului de Administraţie al Scolii Gimnaziale Grozesti",
+"short": "HCL Grozești nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/167665",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-52-2024",
+"path": "local/mehedinti/grozesti/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 52/2024 privind desemnarea reprezentantului Consiliului Local al comunei Grozesti in Comisia pentru Evaluarea si Asigurarea Calitatii din cadrul Scolii Gimnaziale Grozesti",
+"short": "HCL Grozești nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-17",
+"latest": "2024-09-17",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/167666",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -663,6 +1215,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-56-2024",
+"path": "local/mehedinti/grozesti/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 56/2024",
+"short": "HCL Grozești nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/170050",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-57-2024",
 "path": "local/mehedinti/grozesti/2024/57",
 "kind": "local",
@@ -704,6 +1279,50 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-59-2024",
+"path": "local/mehedinti/grozesti/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 59/2024 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice care isi desfasoara activitatea la Scoala Gimnaziala Grozesti",
+"short": "HCL Grozești nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/170053",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-60-2024",
+"path": "local/mehedinti/grozesti/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 60/2024 privind aprobarea majorarii cu 5% fata de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale functionarilor publici si personalului contractual din cadrul aparatului de specialitate al Primarului Comunei Grozesti, incepand luna septembrie 2024",
+"short": "HCL Grozești nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/170054",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -836,6 +1455,72 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-67-2024",
+"path": "local/mehedinti/grozesti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 67/2024 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice care isi desfasoara activitatea la Scoala Gimnaziala Grozesti",
+"short": "HCL Grozești nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/172853",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-68-2024",
+"path": "local/mehedinti/grozesti/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 68/2024 privind alegerea presedintelui de sedinta a Consiliului local Grozesti",
+"short": "HCL Grozești nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/175383",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-69-2024",
+"path": "local/mehedinti/grozesti/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 69/2024 privind alegerea comisiilor pe domenii de specialitate ale Consiliului Local Grozesti",
+"short": "HCL Grozești nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/175384",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

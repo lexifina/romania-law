@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/malovat/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--malovat-1-2022",
+   "path": "local/mehedinti/malovat/2022/1",
+   "short": "HCL Malovăț nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 1/2022 privind aprobarea prelungirii prin act adițional a contractelor de închiriere a spațiilor unde își desfășoară activitatea cabinetele medicale și farmacia din comuna Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/48058",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/48058",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--malovat-10-2022",
    "path": "local/mehedinti/malovat/2022/10",
    "short": "HCL Malovăț nr. 10/2022",
@@ -63,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--malovat-14-2022",
+   "path": "local/mehedinti/malovat/2022/14",
+   "short": "HCL Malovăț nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 14/2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț în 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/58682",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/58682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-15-2022",
+   "path": "local/mehedinti/malovat/2022/15",
+   "short": "HCL Malovăț nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 15/2022 privind alegerea președintelui de ședință pentru perioada mai-iulie 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/58683",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/58683",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--malovat-16-2022",
    "path": "local/mehedinti/malovat/2022/16",
    "short": "HCL Malovăț nr. 16/2022",
@@ -93,6 +138,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--malovat-18-2022",
+   "path": "local/mehedinti/malovat/2022/18",
+   "short": "HCL Malovăț nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 18/2022 privind aprobarea participării la realizarea investiției “Reabilitarea sediului administrativ al Primăriei Malovăț, comuna Malovăț, județul Mehedinți” prevăzută la Obiectivul de investiție I.3. ” Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, în cadrul Apelurilor de proiecte PNRR/2022/C10,în comuna Malovăț, județul Mehedinți”",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/60608",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/60608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-19-2022",
+   "path": "local/mehedinti/malovat/2022/19",
+   "short": "HCL Malovăț nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 19/2022 privind aprobarea scoaterii din funcțiune în vederea casării și valorificării unui mijloc fix al Serviciului Public de Alimentare cu Apă Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/61485",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/61485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-2-2022",
+   "path": "local/mehedinti/malovat/2022/2",
+   "short": "HCL Malovăț nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 2/2022 privind alegerea președintelui de ședință pentru perioada februarie-aprilie 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/48391",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/48391",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--malovat-20-2022",
    "path": "local/mehedinti/malovat/2022/20",
    "short": "HCL Malovăț nr. 20/2022",
@@ -103,6 +193,111 @@
      "from": "2022-05-30",
      "units": 1,
      "source_url": "https://emol.ro/malovat-mh/registru-hcl/61486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-21-2022",
+   "path": "local/mehedinti/malovat/2022/21",
+   "short": "HCL Malovăț nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 21/2022 privind aprobarea prelungirii prin act adițional a contractelor de închiriere a spațiilor unde își desfășoară activitatea cabinetele medicale și farmacia din comuna Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/61487",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/61487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-22-2022",
+   "path": "local/mehedinti/malovat/2022/22",
+   "short": "HCL Malovăț nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 22/2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț în 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/64079",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/64079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-23-2022",
+   "path": "local/mehedinti/malovat/2022/23",
+   "short": "HCL Malovăț nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 23/2022 privind aprobarea indicatorilor tehnico-economici privind cheltuielile de capital necesare realizării obiectivului de investiții „Pietruire drumuri în satele Colibași și 23 August , comuna Malovăț, județul Mehedinți",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/64080",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/64080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-24-2022",
+   "path": "local/mehedinti/malovat/2022/24",
+   "short": "HCL Malovăț nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 24/2022 privind aprobarea devizului general precum și a devizului general – rest de executat, actualizate conform OUG 47/2022, cât și a indicatorilor tehnico- economici, cuprinși în acestea, privind cheltuielile de capital necesare realizării obiectivului de investiții „Modernizare drumuri de interes local în comuna Malovăț, județul Mehedinți”",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/64081",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/64081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-25-2022",
+   "path": "local/mehedinti/malovat/2022/25",
+   "short": "HCL Malovăț nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 25/2022 privind aprobarea devizului general precum și a devizului general – rest de executat, actualizate conform OUG 47/2022, cât și a indicatorilor tehnico- economici, cuprinși în acestea, privind cheltuielile de capital necesare realizării obiectivului de investiții „Construire pod peste pârâul matca Vișenilor, localitatea 23 August, comuna Malovăț, județul Mehedinți”",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/64082",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/64082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-26-2022",
+   "path": "local/mehedinti/malovat/2022/26",
+   "short": "HCL Malovăț nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 26/2022 privind aprobarea devizului general precum și a devizului general – rest de executat, actualizate conform OUG 47/2022, cât și a indicatorilor tehnico- economici, cuprinși în acestea, privind cheltuielile de capital necesare realizării obiectivului de investiții „Rețea de canalizare și stație de epurare în satele Malovăț și Colibași, comuna Malovăț, județul Mehedinți”",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/65973",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/65973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-27-2022",
+   "path": "local/mehedinti/malovat/2022/27",
+   "short": "HCL Malovăț nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 27/2022 privind alegerea președintelui de ședință pentru perioada august-octombrie 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/66944",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/66944",
      "sha256": null
     }
    ]
@@ -148,6 +343,171 @@
      "from": "2022-01-27",
      "units": 1,
      "source_url": "https://emol.ro/malovat-mh/registru-hcl/48392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-30-2022",
+   "path": "local/mehedinti/malovat/2022/30",
+   "short": "HCL Malovăț nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 30/2022 privind desemnarea reprezentantului Consiliului local al comunei Malovăț în Consiliul de administrație al Școlii Gimnaziale Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/70576",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/70576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-31-2022",
+   "path": "local/mehedinti/malovat/2022/31",
+   "short": "HCL Malovăț nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 31/2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț în 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/70577",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/70577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-32-2022",
+   "path": "local/mehedinti/malovat/2022/32",
+   "short": "HCL Malovăț nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 32/2022 privind mandatarea reprezentantului în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/73467",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/73467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-33-2022",
+   "path": "local/mehedinti/malovat/2022/33",
+   "short": "HCL Malovăț nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 33/2022 privind aprobarea devizului general actualizat, cât și a indicatorilor tehnico- economici, cuprinși în acesta, privind cheltuielile de capital necesare realizării obiectivului de investiții: „ Pietruire drumuri în satele Colibași și 23 August , comuna Malovăț, județul Mehedinți” faza Proiect tehnic + DDE",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/73468",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/73468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-34-2022",
+   "path": "local/mehedinti/malovat/2022/34",
+   "short": "HCL Malovăț nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 34/2022 privind aprobarea devizului general actualizat, cât și a indicatorilor tehnico- economici, cuprinși în acesta, privind cheltuielile de capital necesare realizării obiectivului de investiții: „ Modernizare canal colector al apelor pluviale și permanente în satul Malovăț, comuna Malovăț, județul Mehedinți ” faza Proiect tehnic",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/73469",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/73469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-35-2022",
+   "path": "local/mehedinti/malovat/2022/35",
+   "short": "HCL Malovăț nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 35/2022 privind rectificarea bugetului SPAA Malovăț de venituri și cheltuieli în 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/73470",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/73470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-36-2022",
+   "path": "local/mehedinti/malovat/2022/36",
+   "short": "HCL Malovăț nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 36/2022 privind aprobarea Dispoziției nr.167/16.09.2022 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local al comunei Malovăț pe anul 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/73471",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/73471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-37-2022",
+   "path": "local/mehedinti/malovat/2022/37",
+   "short": "HCL Malovăț nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 37/2022 privind aprobarea achiziționării unei aplicații Sistem Geografic Informatic (GIS), Banca de date spațiale a intravilanului la nivelul Comunei Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/73472",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/73472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-38-2022",
+   "path": "local/mehedinti/malovat/2022/38",
+   "short": "HCL Malovăț nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 38/2022 privind utilizarea excedentului bugetar din anul 2021",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/73473",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/73473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-39-2022",
+   "path": "local/mehedinti/malovat/2022/39",
+   "short": "HCL Malovăț nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 39/2022 privind aprobarea depunerii proiectului „Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei Malovăț” în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2-Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/75458",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/75458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-4-2022",
+   "path": "local/mehedinti/malovat/2022/4",
+   "short": "HCL Malovăț nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 4/2022 privind aprobarea bugetului local de venituri și cheltuieli al comunei Malovăț pentru anul 2022",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/50519",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/50519",
      "sha256": null
     }
    ]
@@ -303,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--malovat-5-2022",
+   "path": "local/mehedinti/malovat/2022/5",
+   "short": "HCL Malovăț nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 5/2022 privind mandatarea reprezentantului în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/50520",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/50520",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--malovat-50-2022",
    "path": "local/mehedinti/malovat/2022/50",
    "short": "HCL Malovăț nr. 50/2022",
@@ -448,6 +823,51 @@
      "from": "2022-12-22",
      "units": 1,
      "source_url": "https://emol.ro/malovat-mh/registru-hcl/84161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-6-2022",
+   "path": "local/mehedinti/malovat/2022/6",
+   "short": "HCL Malovăț nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 6/2022 privind mandatarea unui reprezentant și a unui supleant ai Consiliului local Malovăț pentru a face parte din comisia de interviu pentru funcțiile de director și director adjunct Școala Gimnazială Malovăț, județul Mehedinți",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/53087",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/53087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-7-2022",
+   "path": "local/mehedinti/malovat/2022/7",
+   "short": "HCL Malovăț nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 7/2022 privind aprobarea contului de execuție pe anul 2021",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/55476",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/55476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-8-2022",
+   "path": "local/mehedinti/malovat/2022/8",
+   "short": "HCL Malovăț nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 8/2022 privind privind desemnarea a doi consilieri locali în calitate de membri în cadrul Comisiei de evaluare a performanțelor profesionale ale Secretarului general al comunei Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/55477",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/55477",
      "sha256": null
     }
    ]

@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--livezile-2-2022",
+"path": "local/mehedinti/livezile/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 2/2022 privind alegere președinte de ședință",
+"short": "HCL Livezile nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/livezile-mh/registru-hcl/56808",
+"council": "mehedinti/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--livezile-3-2022",
 "path": "local/mehedinti/livezile/2022/3",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Livezile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--livezile-4-2022",
+"path": "local/mehedinti/livezile/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 4/2022 privind prelungirea scrisorii de garantare pentru proiectul reabilitare,modernizare,extindere și dotare cămine culturale în comuna Livezile",
+"short": "HCL Livezile nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-09",
+"latest": "2022-02-09",
+"portal": "https://emol.ro/livezile-mh/registru-hcl/56810",
+"council": "mehedinti/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

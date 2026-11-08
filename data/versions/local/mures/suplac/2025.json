@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--suplac-11-2025",
+   "path": "local/mures/suplac/2025/11",
+   "short": "HCL Suplac nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Suplac nr. 11/2025 Privind numirea persoanei cu atribuţii de indrumare, control şi constatare a încălcării legii în domeniul Prevenirii şi Stingerii Incendiilor al Comunei SUPLAC , Judeţul MURES",
+   "url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#93969",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#93969",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--suplac-12-2025",
    "path": "local/mures/suplac/2025/12",
    "short": "HCL Suplac nr. 12/2025",
@@ -433,6 +448,21 @@
      "from": "2025-08-28",
      "units": 1,
      "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#104739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--suplac-37-2025",
+   "path": "local/mures/suplac/2025/37",
+   "short": "HCL Suplac nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Suplac nr. 37/2025 Privind desemnarea unui reprezentant al Consiliului Local Suplac în Consiliul de Administraţie al Şcolii Gimnaziale ”Sf. Nicolae ”Laslău Mare pe anul școlar 2025-2026",
+   "url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#106465",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#106465",
      "sha256": null
     }
    ]

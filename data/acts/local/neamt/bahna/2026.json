@@ -157,6 +157,95 @@
 }
 },
 {
+"slug": "hcl-neamt--bahna-8-2026",
+"path": "local/neamt/bahna/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 8/2026",
+"short": "HCL Bahna nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-25",
+"latest": "2026-02-25",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/253132",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--bahna-9-2026",
+"path": "local/neamt/bahna/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 9/2026 privind aprobarea PLANULUI DE ANALIZA SI ACOPERIRE A RICURILOR pentru comuna BAHNA, judetul NEAMȚ pentru anul 2026",
+"short": "HCL Bahna nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-25",
+"latest": "2026-02-25",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/253133",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bahna-10-2026",
+"path": "local/neamt/bahna/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 10/2026 privind alegerea președintelui de sedință",
+"short": "HCL Bahna nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/259740",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bahna-11-2026",
+"path": "local/neamt/bahna/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 11/2026 privind aprobarea încheierii unui Contract pentru acordarea de servicii sociale și a Acordului de colaborare",
+"short": "HCL Bahna nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/259741",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bahna-12-2026",
 "path": "local/neamt/bahna/2026/12",
 "kind": "local",
@@ -468,6 +557,28 @@
 "council_name": "Consiliul Local al Comunei Bahna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bahna-26-2026",
+"path": "local/neamt/bahna/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 26/2026 privind alegerea președintelui de ședință",
+"short": "HCL Bahna nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-26",
+"latest": "2026-06-26",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/272473",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

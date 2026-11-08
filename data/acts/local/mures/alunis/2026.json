@@ -3,6 +3,28 @@
 "shard": "local/mures/alunis/2026",
 "acts": [
 {
+"slug": "hcl-mures--alunis-1-2026",
+"path": "local/mures/alunis/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 1/2026 privind acoperirea temporară din contul de excedent a deficitului bugetului local al comunei Aluniș, județul Mureș și aprobarea unui împrumut din contul de excedent pentru acoperirea golurilor temporare de casă provenite din decalaj între veniturile și cheltuielile secțiunii de funcționare",
+"short": "HCL Aluniș nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287171",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--alunis-2-2026",
 "path": "local/mures/alunis/2026/2",
 "kind": "local",
@@ -135,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-mures--alunis-8-2026",
+"path": "local/mures/alunis/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 8/2026 privind aplicarea noului număr maxim de posturi stabilit pentru UAT Aluniș, conform OUG nr.7/2026",
+"short": "HCL Aluniș nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287178",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--alunis-9-2026",
+"path": "local/mures/alunis/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 9/2026 privind transformarea funcției publice de execuție vacante de consilier, clasa I, grad profesional superior, în funcție publică de execuție vacante de consilier, clasa I, grad profesional debutant, în cadrul compartimentului fond funciar",
+"short": "HCL Aluniș nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287179",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--alunis-10-2026",
 "path": "local/mures/alunis/2026/10",
 "kind": "local",
@@ -176,6 +242,72 @@
 "council_name": "Consiliul Local al Comunei Aluniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--alunis-12-2026",
+"path": "local/mures/alunis/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 12/2026 privind însușirea Raportului primarului privind starea economică, socială și de mediu al comunei Aluniș, județul Mureș, pe anul 2025",
+"short": "HCL Aluniș nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287183",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--alunis-13-2026",
+"path": "local/mures/alunis/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 13/2026 privind însușirea Raportului primarului asupra gestionării bunurilor comunei Aluniș, județul Mureș, pe anul 2025",
+"short": "HCL Aluniș nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287184",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--alunis-14-2026",
+"path": "local/mures/alunis/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 14/2026 privind aprobarea „Raportului cu privire la rezultatele obținute în urma inventarierii generale a patrimoniului comunei Aluniș, județul Mureș, efectuate în perioada 12.12.2025-12.01.2026”",
+"short": "HCL Aluniș nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287185",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -221,6 +353,51 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--alunis-17-2026",
+"path": "local/mures/alunis/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 17/2026",
+"short": "HCL Aluniș nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287188",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--alunis-18-2026",
+"path": "local/mures/alunis/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 18/2026 privind aprobarea majorării contribuției/cotizației anuale datorate de comuna Aluniș către A.D.I.“ PROGAZ MUREȘ-VALEA MUREȘULUI SUPERIOR“",
+"short": "HCL Aluniș nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287189",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

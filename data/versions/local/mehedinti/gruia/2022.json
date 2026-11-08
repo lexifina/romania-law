@@ -63,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--gruia-13-2022",
+   "path": "local/mehedinti/gruia/2022/13",
+   "short": "HCL Gruia nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 13/2022 privind inițierea procedurii de închiriere a suprafețelor de pășuni aflate în proprietatea privată a comunei GRUIA",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/50604",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/50604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-14-2022",
+   "path": "local/mehedinti/gruia/2022/14",
+   "short": "HCL Gruia nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 14/2022 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Gruia pentru perioada martie ,aprilie,mai 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/53072",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/53072",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--gruia-15-2022",
    "path": "local/mehedinti/gruia/2022/15",
    "short": "HCL Gruia nr. 15/2022",
@@ -88,6 +118,21 @@
      "from": "2022-03-15",
      "units": 1,
      "source_url": "https://emol.ro/gruia-mh/registru-hcl/53074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-17-2022",
+   "path": "local/mehedinti/gruia/2022/17",
+   "short": "HCL Gruia nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 17/2022 privind desemnarea reprezentantului Consiliului Local Gruia si a unui membru supleant pentru a face parte din Comisia de evaluare a probei de interviu, in calitate de membru , pentru unitatea de invatamant preuniversitar de stat din localitatea Gruia",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/53075",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/53075",
      "sha256": null
     }
    ]
@@ -258,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--gruia-28-2022",
+   "path": "local/mehedinti/gruia/2022/28",
+   "short": "HCL Gruia nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 28/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/59758",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/59758",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--gruia-29-2022",
    "path": "local/mehedinti/gruia/2022/29",
    "short": "HCL Gruia nr. 29/2022",
@@ -268,6 +328,21 @@
      "from": "2022-08-31",
      "units": 1,
      "source_url": "https://emol.ro/gruia-mh/registru-hcl/59759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-3-2022",
+   "path": "local/mehedinti/gruia/2022/3",
+   "short": "HCL Gruia nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 3/2022 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Gruia pentru perioada februarie ,martie aprilie 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/48830",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/48830",
      "sha256": null
     }
    ]
@@ -288,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--gruia-31-2022",
+   "path": "local/mehedinti/gruia/2022/31",
+   "short": "HCL Gruia nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 31/2022 privind actualizarea /modificarea prin act aditional a contractelor de concesiune /inchiriere aflate in derulare ca urmare a intocmirii rapoartelor de evaluare si a efectuarii masuratorilor cadastrale",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/59761",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/59761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--gruia-32-2022",
    "path": "local/mehedinti/gruia/2022/32",
    "short": "HCL Gruia nr. 32/2022",
@@ -298,6 +388,21 @@
      "from": "2022-08-31",
      "units": 1,
      "source_url": "https://emol.ro/gruia-mh/registru-hcl/59762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-33-2022",
+   "path": "local/mehedinti/gruia/2022/33",
+   "short": "HCL Gruia nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 33/2022 privind aprobarea numerelor administrative atribuite imobilelor din intravilanul comunei Gruia , judetul Mehedinti",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/59763",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/59763",
      "sha256": null
     }
    ]
@@ -483,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--gruia-45-2022",
+   "path": "local/mehedinti/gruia/2022/45",
+   "short": "HCL Gruia nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 45/2022 privind activitatea desfasurata de asistentii persoanali ai persoanelor cu handicap grav din comuna Gruia jud. Mehedinti pe semestrul I 2022",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/69985",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/69985",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--gruia-46-2022",
    "path": "local/mehedinti/gruia/2022/46",
    "short": "HCL Gruia nr. 46/2022",
@@ -493,6 +613,36 @@
      "from": "2022-09-14",
      "units": 1,
      "source_url": "https://emol.ro/gruia-mh/registru-hcl/69986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-47-2022",
+   "path": "local/mehedinti/gruia/2022/47",
+   "short": "HCL Gruia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 47/2022 privind desemnarea reprezentantului Consiliului Local Gruia si a unui membru supleant pentru a face parte din Comisia de evaluare a probei de interviu, in calitate de membru , pentru Scoala Gimnaziala Gruia",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/69987",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/69987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-48-2022",
+   "path": "local/mehedinti/gruia/2022/48",
+   "short": "HCL Gruia nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 48/2022 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/69988",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/69988",
      "sha256": null
     }
    ]
@@ -838,6 +988,21 @@
      "from": "2022-12-30",
      "units": 1,
      "source_url": "https://emol.ro/gruia-mh/registru-hcl/84031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--gruia-7-2022",
+   "path": "local/mehedinti/gruia/2022/7",
+   "short": "HCL Gruia nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Gruia nr. 7/2022 privind mentinerea cuantumul brut al salariilor de bază/soldelor de funcţie/salariilor de funcţie/indemnizaţiilor de încadrare lunară de care beneficiază personalul plătit din fonduri publice la acelaşi nivelul acordat pentru luna decembrie 2021",
+   "url": "https://emol.ro/gruia-mh/registru-hcl/48834",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gruia-mh/registru-hcl/48834",
      "sha256": null
     }
    ]

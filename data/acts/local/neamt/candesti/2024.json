@@ -224,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-neamt--candesti-11-2024",
+"path": "local/neamt/candesti/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cândești nr. 11/2024 Acordarea unei sume cu titlu de sprijin financiar pentru o unitate de cult religios de pe raza administrativ-teritorială a comunei Cândești",
+"short": "HCL Cândești nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#71458",
+"council": "neamt/candesti",
+"council_name": "Consiliul Local al Comunei Cândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--candesti-12-2024",
 "path": "local/neamt/candesti/2024/12",
 "kind": "local",
@@ -400,6 +422,28 @@
 }
 },
 {
+"slug": "hcl-neamt--candesti-20-2024",
+"path": "local/neamt/candesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cândești nr. 20/2024 Desemnarea reprezentantului Consiliului local Cândești în Consiliul de administrație al Școlii Gimnaziale Comuna Cândești",
+"short": "HCL Cândești nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#86064",
+"council": "neamt/candesti",
+"council_name": "Consiliul Local al Comunei Cândești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--candesti-21-2024",
 "path": "local/neamt/candesti/2024/21",
 "kind": "local",
@@ -463,6 +507,28 @@
 "council_name": "Consiliul Local al Comunei Cândești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--candesti-24-2024",
+"path": "local/neamt/candesti/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cândești nr. 24/2024 Acordarea unei sume cu titlu de sprijin financiar pentru o unitate de cult religios",
+"short": "HCL Cândești nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#86325",
+"council": "neamt/candesti",
+"council_name": "Consiliul Local al Comunei Cândești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

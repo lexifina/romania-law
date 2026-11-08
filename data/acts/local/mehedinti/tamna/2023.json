@@ -3,6 +3,28 @@
 "shard": "local/mehedinti/tamna/2023",
 "acts": [
 {
+"slug": "hcl-mehedinti--tamna-1-2023",
+"path": "local/mehedinti/tamna/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 1/2023 privind privind mandatarea reprezentantului Consiliului Local al comunei Tamna în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009",
+"short": "HCL Tâmna nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/86970",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--tamna-2-2023",
 "path": "local/mehedinti/tamna/2023/2",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Tâmna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-4-2023",
+"path": "local/mehedinti/tamna/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 4/2023 privind aprobarea inchirierii directe a spatiilor cu destinatie de cabinete medicale din incinta dispensarului uman Comuna Tamna Judetul Mehedintiti",
+"short": "HCL Tâmna nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/86973",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--tamna-9-2023",
+"path": "local/mehedinti/tamna/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 9/2023",
+"short": "HCL Tâmna nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/92918",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--tamna-10-2023",
 "path": "local/mehedinti/tamna/2023/10",
 "kind": "local",
@@ -155,6 +222,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-11-2023",
+"path": "local/mehedinti/tamna/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 11/2023 Privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Tamna pentru a face parte din Comisia de evaluare a performantelor individuale ale Secretarului",
+"short": "HCL Tâmna nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/95689",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-12-2023",
+"path": "local/mehedinti/tamna/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 12/2023 privind alegerea preşedintelui de şedinţă pentru şedinţele",
+"short": "HCL Tâmna nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/95690",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-13-2023",
+"path": "local/mehedinti/tamna/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 13/2023 privind mandatarea reprezentantului Consiliului Local al comunei Tamna în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009",
+"short": "HCL Tâmna nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-27",
+"latest": "2023-03-27",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/95691",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -244,6 +377,28 @@
 "council_name": "Consiliul Local al Comunei Tâmna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-18-2023",
+"path": "local/mehedinti/tamna/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 18/2023 privind stabilirea salariilor de bază ce se vor acorda funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului comunei Tamna, precum si stabilirea indemnizatiei consilierilor locali din cadrul Consiliului Local Tamna, judetul Mehedinti",
+"short": "HCL Tâmna nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/102533",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/ponoarele/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ponoarele-1-2025",
+   "path": "local/mehedinti/ponoarele/2025/1",
+   "short": "HCL Ponoarele nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 1/2025 privind alegerea presedintelui de sedinta pe o perioada de 3 luni care sa conduca sedintele Consiliului Local Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/188551",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/188551",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-10-2025",
    "path": "local/mehedinti/ponoarele/2025/10",
    "short": "HCL Ponoarele nr. 10/2025",
@@ -63,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ponoarele-14-2025",
+   "path": "local/mehedinti/ponoarele/2025/14",
+   "short": "HCL Ponoarele nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 14/2025 privind aprobarea participării UAT comuna Ponoarele la ,,Programul privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană''",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/200927",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/200927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-15-2025",
+   "path": "local/mehedinti/ponoarele/2025/15",
+   "short": "HCL Ponoarele nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 15/2025 privind aprobarea cesiunii contractului de concesiune înregistrat sub nr. 800/19.04.2000",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/205209",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/205209",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-16-2025",
    "path": "local/mehedinti/ponoarele/2025/16",
    "short": "HCL Ponoarele nr. 16/2025",
@@ -73,6 +118,21 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/205210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-17-2025",
+   "path": "local/mehedinti/ponoarele/2025/17",
+   "short": "HCL Ponoarele nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 17/2025 privind alegerea presedintelui de sedinta pe o perioada de 3 luni care sa conduca sedintele Consiliului Local Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/205211",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/205211",
      "sha256": null
     }
    ]
@@ -93,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ponoarele-19-2025",
+   "path": "local/mehedinti/ponoarele/2025/19",
+   "short": "HCL Ponoarele nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 19/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/209171",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/209171",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-2-2025",
    "path": "local/mehedinti/ponoarele/2025/2",
    "short": "HCL Ponoarele nr. 2/2025",
@@ -103,6 +178,36 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/188552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-20-2025",
+   "path": "local/mehedinti/ponoarele/2025/20",
+   "short": "HCL Ponoarele nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 20/2025 privind debranșarea și dezafectarea tuturor rețelelor de apă existente, altele decât rețeaua realizată prin proiectele finanțate din fonduri europene și guvernamentale, care asigură alimentarea cu apă potabilă a tuturor locuitorilor comunei Ponoarele si care sunt alimentate din cele două captări aflate în domeniul public al Comunei Ponoarele ( de sub ,,Steiul Ponorii,,)",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/216779",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/216779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-21-2025",
+   "path": "local/mehedinti/ponoarele/2025/21",
+   "short": "HCL Ponoarele nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 21/2025 privind alegerea presedintelui de sedinta pe o perioada de 3 luni care sa conduca sedintele Consiliului Local Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/216780",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/216780",
      "sha256": null
     }
    ]
@@ -133,6 +238,21 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/216782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-24-2025",
+   "path": "local/mehedinti/ponoarele/2025/24",
+   "short": "HCL Ponoarele nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 24/2025 privind darea în folosință gratuită a unui spațiu aparținând UAT Comuna Ponoarele în suprafață de 34 mp. situat în clădire sediu Primărie",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/216783",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/216783",
      "sha256": null
     }
    ]
@@ -178,6 +298,36 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/221007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-28-2025",
+   "path": "local/mehedinti/ponoarele/2025/28",
+   "short": "HCL Ponoarele nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 28/2025 privind desemnarea reprezentantului Consiliului local al comunei Ponoarele în Consiliul de administrație al Şcolii Gimnaziale “Dr. Alexandru M. Popescu” Ponoarele pentru anul scolar 2025 - 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/226695",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/226695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-29-2025",
+   "path": "local/mehedinti/ponoarele/2025/29",
+   "short": "HCL Ponoarele nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 29/2025 privind desemnarea reprezentantului Consiliului local al comunei Ponoarele în Comisia pentru evaluarea si asigurarea calitatii (CEAC) constituită la nivelul Şcolii Gimnaziale “Dr. Alexandru M. Popescu” Ponoarele pentru anul scolar 2025 - 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/226696",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/226696",
      "sha256": null
     }
    ]
@@ -343,6 +493,21 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/236122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-4-2025",
+   "path": "local/mehedinti/ponoarele/2025/4",
+   "short": "HCL Ponoarele nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 4/2025 privind aprobarea planului anual de acțiuni și lucrări de interes local ce se vor executa de beneficiarii de venit minim de incluziune , potrivit Legii nr. 196/2016 cu modificările și completările ulterioare, pe anul 2025 si contravenientii obligati la prestarea unei activitati in folosul comunitatii conform Ordonantei de Guvern nr.55/2002 cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/194657",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/194657",
      "sha256": null
     }
    ]

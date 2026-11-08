@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-2-2020",
+"path": "local/mures/albesti/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 2/2020 privind scutirea de la plata impozitului pe clădiri a unui imobil aparţinând “Fundației Maranatha Romale din Sighişoara”",
+"short": "HCL Albești nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-16",
+"latest": "2020-01-16",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/1385",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--albesti-3-2020",
+"path": "local/mures/albesti/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 3/2020 privind propunerea calificativului la evaluarea performanţelor profesionale individuale ale secretarului general al UAT pentru anul 2019",
+"short": "HCL Albești nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-16",
+"latest": "2020-01-16",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/1386",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--albesti-4-2020",
 "path": "local/mures/albesti/2020/4",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-6-2020",
+"path": "local/mures/albesti/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 6/2020 privind aprobarea PUZ( Plan Urbanistic Zonal) si Regulamentul aferent- pentru lucrarea \"RECONVERSIE FUNCTIONALA DIN ZONA UNITATI INDUSTRIALE/DEPOZITARE IN ZONA MIXTA”",
+"short": "HCL Albești nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/1389",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-mures--albesti-11-2020",
+"path": "local/mures/albesti/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 11/2020 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Albești pe o perioadă de trei luni",
+"short": "HCL Albești nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/1394",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--albesti-12-2020",
 "path": "local/mures/albesti/2020/12",
 "kind": "local",
@@ -176,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-13-2020",
+"path": "local/mures/albesti/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 13/2020 privind aprobarea volumului de masa lemnoasă propus pentru recoltare și valorificare în anul 2020 din fondul forestier proprietate publică a unității administrativ teritoriale Albești, a modalității de valorificare a masei lemnoase și a prețurilor de vânzare a acesteia",
+"short": "HCL Albești nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/1396",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -264,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-18-2020",
+"path": "local/mures/albesti/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 18/2020 privind aprobarea procedurii de desfășurare prin mijloace electronice a ședințelor Consiliului Local al Comunei Albești, județul Mureș, în situații excepționale, constatate de autoritățile abilitate",
+"short": "HCL Albești nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-09",
+"latest": "2020-04-09",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/1401",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,29 @@
 "shard": "local/neamt/bodesti/2020",
 "acts": [
 {
+"slug": "hcl-neamt--bodesti-1-2020",
+"path": "local/neamt/bodesti/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 1/2020",
+"short": "HCL Bodești nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16379",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-2-2020",
 "path": "local/neamt/bodesti/2020/2",
 "kind": "local",
@@ -268,6 +291,28 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-14-2020",
+"path": "local/neamt/bodesti/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 14/2020 privind aprobarea notei conceptuale și temei de proiectare pentru obiectivul de investiției „AMENAJARE CURTE SI REALIZARE RACORD UTILITATI PENTRU LOCUINTE PENTRU TINERI DESTINATE INCHIRIERII, JUDETUL NEAMT, COMUNA BODESTI, SAT BODESTII DE JOS”",
+"short": "HCL Bodești nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16416",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-15-2020",
 "path": "local/neamt/bodesti/2020/15",
 "kind": "local",
@@ -334,6 +379,28 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-18-2020",
+"path": "local/neamt/bodesti/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 18/2020 privind desemnarea consilierilor locali din cadrul Consiliului local al Comunei Bodești care vor face parte din Comisia de evaluare a performantelor profesionale individuale ale Secretarului general al comunei Bodești",
+"short": "HCL Bodești nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16420",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-19-2020",
 "path": "local/neamt/bodesti/2020/19",
 "kind": "local",
@@ -353,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-20-2020",
+"path": "local/neamt/bodesti/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 20/2020 privind alegerea președintelui de ședințe pentru lunile : aprilie, mai și iunie ale anului 2020",
+"short": "HCL Bodești nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16422",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -422,6 +511,72 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-24-2020",
+"path": "local/neamt/bodesti/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 24/2020 privind aprobarea închirierii prin licitație publică, a unor trupuri de pășune, aflate în proprietatea publică a comunei Bodești",
+"short": "HCL Bodești nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16439",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-25-2020",
+"path": "local/neamt/bodesti/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 25/2020 privind aprobarea încetării și modificării unor contracte de închiriere aprobate prin atribuire directă a unor suprafețe de pășune din proprietatea privată a comunei Bodești prin Hotărârea Consiliului local al comunei Bodești nr. 25 din 30.04.2018",
+"short": "HCL Bodești nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16440",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-26-2020",
+"path": "local/neamt/bodesti/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 26/2020 privind aprobarea studiului de oportunitate, caietului de sarcini, instrucţiunilor pentru solicitanţi şi stabilirea componenţei comisiei de analiză şi soluţionare a cererilor în vederea iniţierii închirierii pajiştei rămasă liberă din islazul comunei Bodești, prin atribuire directă, aflată în proprietatea privată a comunei Bodești",
+"short": "HCL Bodești nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16441",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-27-2020",
 "path": "local/neamt/bodesti/2020/27",
 "kind": "local",
@@ -488,6 +643,28 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-30-2020",
+"path": "local/neamt/bodesti/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 30/2020 privind aprobarea indicatorilor tehnico-economici ai investiției „AMENAJARE CURTE SI REALIZARE RACORD UTILITATI PENTRU LOCUINTE PENTRU TINERI DESTINATE INCHIRIERII, JUDETUL NEAMT, COMUNA BODESTI, SAT BODESTII DE JOS",
+"short": "HCL Bodești nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16445",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-31-2020",
 "path": "local/neamt/bodesti/2020/31",
 "kind": "local",
@@ -507,6 +684,28 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-32-2020",
+"path": "local/neamt/bodesti/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 32/2020 privind modificarea hotărârii nr. 24 din 30.04.2020 privind aprobarea închirierii prin licitație publică, a unor trupuri de pășune, aflate în proprietatea publică a comunei Bodești",
+"short": "HCL Bodești nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-19",
+"latest": "2020-05-19",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16447",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -639,6 +838,51 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-39-2020",
+"path": "local/neamt/bodesti/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 39/2020",
+"short": "HCL Bodești nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16473",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-40-2020",
+"path": "local/neamt/bodesti/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 40/2020 privind alegerea președintelui de ședință pentru lunile: iulie, august și septembrie ale anului 2020",
+"short": "HCL Bodești nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/16474",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

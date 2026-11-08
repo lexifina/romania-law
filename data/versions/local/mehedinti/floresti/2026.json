@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/floresti/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--floresti-1-2026",
+   "path": "local/mehedinti/floresti/2026/1",
+   "short": "HCL Florești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 1/2026 privind aprobarea implementării proiectului „Digitalizarea serviciilor publice în Comuna Florești, județul Mehedinți”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/246127",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/246127",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-10-2026",
    "path": "local/mehedinti/floresti/2026/10",
    "short": "HCL Florești nr. 10/2026",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--floresti-2-2026",
+   "path": "local/mehedinti/floresti/2026/2",
+   "short": "HCL Florești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 2/2026 privind reintregirii imprumutului din excedentul Bugetului Local pentru sectiunea dezvoltare la finele anului 2025",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/246128",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/246128",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-20-2026",
    "path": "local/mehedinti/floresti/2026/20",
    "short": "HCL Florești nr. 20/2026",
@@ -253,6 +283,36 @@
      "from": "2026-02-06",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/246129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-4-2026",
+   "path": "local/mehedinti/floresti/2026/4",
+   "short": "HCL Florești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 4/2026 privind desemnarea a 2 reprezentanti din cadrul Consiliului Local Floresti pentru a face parte din Comisia pentru evaluarea si aprobarea calificativului de evaluare a performanţelor profesionale individuale pentru Secretarul general al comunei Floresti pentru anul 2025",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/255849",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/255849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-5-2026",
+   "path": "local/mehedinti/floresti/2026/5",
+   "short": "HCL Florești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 5/2026 privind aprobarea diminuarii preturilor de vanzare cu 25% din pretul initial in vederea scoaterii la licitatie publica in vederea vanzarii bunurilor: deseuri din plastic si fieroase, autoGreder AB NORD VERK si buldoexcavator JCB 3III",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/255850",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/255850",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/ilovat/2020",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ilovat-1-2020",
+   "path": "local/mehedinti/ilovat/2020/1",
+   "short": "HCL Ilovăț nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 1/2020",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/15753",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/15753",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ilovat-10-2020",
    "path": "local/mehedinti/ilovat/2020/10",
    "short": "HCL Ilovăț nr. 10/2020",

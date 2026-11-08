@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-12-2026",
+   "path": "local/neamt/ion-creanga/2026/12",
+   "short": "HCL Ion Creangă nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 12/2026 privind aprobarea transferului de proprietate , a microbuzului electric școlar , achiziționat in cadrul proiectului „Microbuze electrice pentru elevi l",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/256237",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/256237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-13-2026",
    "path": "local/neamt/ion-creanga/2026/13",
    "short": "HCL Ion Creangă nr. 13/2026",
@@ -168,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-20-2026",
+   "path": "local/neamt/ion-creanga/2026/20",
+   "short": "HCL Ion Creangă nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 20/2026 privind incetare contract locuinta ANL",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/268094",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/268094",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-21-2026",
    "path": "local/neamt/ion-creanga/2026/21",
    "short": "HCL Ion Creangă nr. 21/2026",
@@ -273,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-28-2026",
+   "path": "local/neamt/ion-creanga/2026/28",
+   "short": "HCL Ion Creangă nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 28/2026 privind incetare locuinta ANL",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/275269",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/275269",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-29-2026",
    "path": "local/neamt/ion-creanga/2026/29",
    "short": "HCL Ion Creangă nr. 29/2026",
@@ -298,6 +343,21 @@
      "from": "2026-02-09",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/252202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-30-2026",
+   "path": "local/neamt/ion-creanga/2026/30",
+   "short": "HCL Ion Creangă nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 30/2026 privind acordare locuinta ANL",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/275271",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/275271",
      "sha256": null
     }
    ]
@@ -388,6 +448,36 @@
      "from": "2026-06-25",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/275277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-37-2026",
+   "path": "local/neamt/ion-creanga/2026/37",
+   "short": "HCL Ion Creangă nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 37/2026 privind incetarea unui contract de inchiriere",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/275278",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/275278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-38-2026",
+   "path": "local/neamt/ion-creanga/2026/38",
+   "short": "HCL Ion Creangă nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 38/2026 privind acordarea unui ajutor de urgenta",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/275279",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/275279",
      "sha256": null
     }
    ]
@@ -568,6 +658,21 @@
      "from": "2026-09-22",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/288050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-5-2026",
+   "path": "local/neamt/ion-creanga/2026/5",
+   "short": "HCL Ion Creangă nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 5/2026 privind actualizarea componentei echipei mobile",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/256230",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/256230",
      "sha256": null
     }
    ]

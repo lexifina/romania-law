@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/strehaia/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--strehaia-1-2024",
+   "path": "local/mehedinti/strehaia/2024/1",
+   "short": "HCL Strehaia nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 1/2024",
+   "url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_1.pdf",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_1.pdf",
+     "sha256": "7d56cace0aed73c2604d67a09acf4e17d20f10ec5266fe6d2e7158e9d5b07dbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--strehaia-3-2024",
+   "path": "local/mehedinti/strehaia/2024/3",
+   "short": "HCL Strehaia nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 3/2024",
+   "url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_3.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_3.pdf",
+     "sha256": "64ef90457466c47ce22a237b16a762088a0bab599eeb0d4bafbcc70a369eb52c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--strehaia-4-2024",
+   "path": "local/mehedinti/strehaia/2024/4",
+   "short": "HCL Strehaia nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 4/2024",
+   "url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_4.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_4.pdf",
+     "sha256": "b2ffacb270320ffe90b667df6419ab223817d0875eb01922c00e4541f5d45f8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--strehaia-5-2024",
+   "path": "local/mehedinti/strehaia/2024/5",
+   "short": "HCL Strehaia nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 5/2024",
+   "url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_5.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_5.pdf",
+     "sha256": "8022764dd90f81d4edbe67746a87e471b8498057c2cf6cd660bba4c9ce2d33cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--strehaia-6-2024",
+   "path": "local/mehedinti/strehaia/2024/6",
+   "short": "HCL Strehaia nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 6/2024",
+   "url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_6.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_6.pdf",
+     "sha256": "2214d14fd4412be4329bd625798bee737cb2c16de8180f72104a83c7977b923c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--strehaia-7-2024",
+   "path": "local/mehedinti/strehaia/2024/7",
+   "short": "HCL Strehaia nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 7/2024",
+   "url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_7.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_7.pdf",
+     "sha256": "298fc576fd3923efdc941c208ab0256c1b9b86f5ff9f07d97c686f88f314c859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--strehaia-9-2024",
+   "path": "local/mehedinti/strehaia/2024/9",
+   "short": "HCL Strehaia nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Strehaia nr. 9/2024",
+   "url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_9.pdf",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://www.primariastrehaia.ro/wp-content/uploads/Hot_9.pdf",
+     "sha256": "983e52f80bc5590378bb96e885b5b3ebddbbef72778f77a8f0fd28342d280f4f"
+    }
+   ]
+  }
+ ]
+}

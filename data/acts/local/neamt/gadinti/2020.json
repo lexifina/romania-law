@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-neamt--gadinti-2-2020",
+"path": "local/neamt/gadinti/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 2/2020",
+"short": "HCL Gâdinți nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-16",
+"latest": "2020-01-16",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/413",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--gadinti-3-2020",
 "path": "local/neamt/gadinti/2020/3",
 "kind": "local",
@@ -44,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Gâdinți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-4-2020",
+"path": "local/neamt/gadinti/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 4/2020 privind aprobarea componenței nominale a Structurii comunitare consultative",
+"short": "HCL Gâdinți nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-16",
+"latest": "2020-01-16",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/415",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -133,6 +178,28 @@
 "council_name": "Consiliul Local al Comunei Gâdinți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-9-2020",
+"path": "local/neamt/gadinti/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 9/2020 privind alegerea presedintelui de sedinta pentru lunile: martie, aprilie,mai a.c",
+"short": "HCL Gâdinți nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/420",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -268,6 +335,28 @@
 }
 },
 {
+"slug": "hcl-neamt--gadinti-16-2020",
+"path": "local/neamt/gadinti/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 16/2020 privind alegerea presedintelui de sedință pentru lunile;iunie,iulie, august a.c",
+"short": "HCL Gâdinți nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/1914",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--gadinti-17-2020",
 "path": "local/neamt/gadinti/2020/17",
 "kind": "local",
@@ -353,6 +442,51 @@
 "council_name": "Consiliul Local al Comunei Gâdinți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-21-2020",
+"path": "local/neamt/gadinti/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 21/2020",
+"short": "HCL Gâdinți nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/4980",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-22-2020",
+"path": "local/neamt/gadinti/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 22/2020 privind aprobarea „Raportului de activitate a asistenţilor personali ai persoanelor cu handicap grav pentru semestrul I al anului 2020”",
+"short": "HCL Gâdinți nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-23",
+"latest": "2020-07-23",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/6523",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

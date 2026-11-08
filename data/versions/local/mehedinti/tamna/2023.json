@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/tamna/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--tamna-1-2023",
+   "path": "local/mehedinti/tamna/2023/1",
+   "short": "HCL Tâmna nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 1/2023 privind privind mandatarea reprezentantului Consiliului Local al comunei Tamna în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/86970",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/86970",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--tamna-10-2023",
    "path": "local/mehedinti/tamna/2023/10",
    "short": "HCL Tâmna nr. 10/2023",
@@ -13,6 +28,51 @@
      "from": "2023-03-08",
      "units": 1,
      "source_url": "https://emol.ro/tamna-mh/registru-hcl/92919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-11-2023",
+   "path": "local/mehedinti/tamna/2023/11",
+   "short": "HCL Tâmna nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 11/2023 Privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Tamna pentru a face parte din Comisia de evaluare a performantelor individuale ale Secretarului",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/95689",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/95689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-12-2023",
+   "path": "local/mehedinti/tamna/2023/12",
+   "short": "HCL Tâmna nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 12/2023 privind alegerea preşedintelui de şedinţă pentru şedinţele",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/95690",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/95690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-13-2023",
+   "path": "local/mehedinti/tamna/2023/13",
+   "short": "HCL Tâmna nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 13/2023 privind mandatarea reprezentantului Consiliului Local al comunei Tamna în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/95691",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/95691",
      "sha256": null
     }
    ]
@@ -73,6 +133,21 @@
      "from": "2023-05-08",
      "units": 1,
      "source_url": "https://emol.ro/tamna-mh/registru-hcl/102532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-18-2023",
+   "path": "local/mehedinti/tamna/2023/18",
+   "short": "HCL Tâmna nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 18/2023 privind stabilirea salariilor de bază ce se vor acorda funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului comunei Tamna, precum si stabilirea indemnizatiei consilierilor locali din cadrul Consiliului Local Tamna, judetul Mehedinti",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/102533",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/102533",
      "sha256": null
     }
    ]
@@ -423,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--tamna-4-2023",
+   "path": "local/mehedinti/tamna/2023/4",
+   "short": "HCL Tâmna nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 4/2023 privind aprobarea inchirierii directe a spatiilor cu destinatie de cabinete medicale din incinta dispensarului uman Comuna Tamna Judetul Mehedintiti",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/86973",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/86973",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--tamna-40-2023",
    "path": "local/mehedinti/tamna/2023/40",
    "short": "HCL Tâmna nr. 40/2023",
@@ -508,6 +598,21 @@
      "from": "2023-03-08",
      "units": 1,
      "source_url": "https://emol.ro/tamna-mh/registru-hcl/92917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-9-2023",
+   "path": "local/mehedinti/tamna/2023/9",
+   "short": "HCL Tâmna nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 9/2023",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/92918",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/92918",
      "sha256": null
     }
    ]

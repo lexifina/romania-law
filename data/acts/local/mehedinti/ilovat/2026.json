@@ -3,6 +3,72 @@
 "shard": "local/mehedinti/ilovat/2026",
 "acts": [
 {
+"slug": "hcl-mehedinti--ilovat-1-2026",
+"path": "local/mehedinti/ilovat/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 1/2026 privind validarea Dispoziției nr. 1/08.01.2026",
+"short": "HCL Ilovăț nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/272885",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-2-2026",
+"path": "local/mehedinti/ilovat/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 2/2026 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2026, prevăzute a fi realizate de către beneficiarii legii 196/2016 privind VENITUL MINIM DE INCLUZIUNE",
+"short": "HCL Ilovăț nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/272889",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-3-2026",
+"path": "local/mehedinti/ilovat/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 3/2026 privind aprobarea raportului de activități desfășurate de asistenții personali ai persoanelor cu handicap grav pentru anul 2025",
+"short": "HCL Ilovăț nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/272891",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ilovat-4-2026",
 "path": "local/mehedinti/ilovat/2026/4",
 "kind": "local",

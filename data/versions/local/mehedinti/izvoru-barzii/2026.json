@@ -3,6 +3,381 @@
  "shard": "local/mehedinti/izvoru-barzii/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--izvoru-barzii-1-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/1",
+   "short": "HCL Izvoru Bârzii nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 1/2026 privind validarea Dispozitiei Primarului nr.1/13.01.2026",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249863",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-10-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/10",
+   "short": "HCL Izvoru Bârzii nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 10/2026 privind aprobarea mandatarii reprezentantului Consiliului Local Izvoru Barzii in AGA la Societatea SECOM SA",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255856",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-11-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/11",
+   "short": "HCL Izvoru Bârzii nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 11/2026 privind aprobarea sutirii de la taxa speciala de salubrizare in Comuna Izvoru Barzii judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255857",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-12-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/12",
+   "short": "HCL Izvoru Bârzii nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 12/2026 privind aprobarea actualizari inventarului bunurilor ce apartin domeniului public al comunei Izvoru Barzii Judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255858",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-13-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/13",
+   "short": "HCL Izvoru Bârzii nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 13/2026 privind implementarea proiectului ”Achizitie utilaj si accesorii pentru dotarea SVSU Izvoru Barzii, judetul Mehedinti”",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255859",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-14-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/14",
+   "short": "HCL Izvoru Bârzii nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 14/2026 privind actualizarea indicatorilor tehnico-economici și a devizului general, ca urmare a modificarii cotei TVA incepand cu data de 01.08.2025, pentru obiectivul de investiții „MODERNIZARE DRUMURI COMUNALE, IN COMUNA IZVORU BARZII, JUDETUL MEHEDINTI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255860",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-15-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/15",
+   "short": "HCL Izvoru Bârzii nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 15/2026 privind alegere presedintelui de sedinta",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260552",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-16-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/16",
+   "short": "HCL Izvoru Bârzii nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 16/2026 privind aprobarea indicatorilor economici la obiectivul de investitii,,Modernizare gospodarire de apa si extindere retea de alimentare in localitatea Schitu Topolnitei-comuna Izvoru Barzii , judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260553",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-17-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/17",
+   "short": "HCL Izvoru Bârzii nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 17/2026 privind aprobarea primirii in patrimoniul public al Comunei Izvoru Barzii a unor suprafete de teren cu titlu de donatie",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260554",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-18-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/18",
+   "short": "HCL Izvoru Bârzii nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 18/2026 privind aprobarea scutirii de la taxa speciala de salubrizare in Comuna Izvoru Barzii judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260555",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-19-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/19",
+   "short": "HCL Izvoru Bârzii nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 19/2026 privind desemnarea consilierilor locali din cadrul Consiliului Local al comunei Izvoru Barzii care să facă parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al Comunei Izvoru Barzii, judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260556",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/260556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-2-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/2",
+   "short": "HCL Izvoru Bârzii nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 2/2026 privind aprobarea Planului de actiuni si lucrari de interes local ce se vor realiza in anul 2026 de catre beneficiarii Legii 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249864",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-20-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/20",
+   "short": "HCL Izvoru Bârzii nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 20/2026 privind aprobarea masurilor necesare in vederea incadrarii in numarul maxim de de posturi redus in conformitate cu prevederile Ordonantei de urgenta a Guvernului nr.7/2006 pentru modificarea si completarea unor masuri pentru cresterea capacitatii financiare a unitatilor administrativ-teritoriale",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/263179",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/263179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-21-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/21",
+   "short": "HCL Izvoru Bârzii nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 21/2026 privind aprobarea bugelului local al comunei Izvoru Barzii pentru anul 2026",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265506",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-22-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/22",
+   "short": "HCL Izvoru Bârzii nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 22/2026 privind aprobarea contului de executie bugetara pentru anul 2025",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265507",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-23-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/23",
+   "short": "HCL Izvoru Bârzii nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 23/2026 privind aprobarea documentatiei tehnico-economice si devizului general al obiectivului de investitii ,,Modernizare,reabilitare si extindere Camin Cultural, amenajari exterioare si refacere imprejmuire existenta,satul Izvoru Barzii, Comuna Izvoru Barzii, judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265508",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-24-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/24",
+   "short": "HCL Izvoru Bârzii nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 24/2026 privind aprobarea mandatarii reprezentantului Consiliului Local Izvoru Barzii in AGA la Societatea SECOM SA",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265509",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-25-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/25",
+   "short": "HCL Izvoru Bârzii nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 25/2026 privind aprobarea scutirii de la taxa speciala de salubrizare in Comuna Izvoru Barzii judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265510",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/265510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-26-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/26",
+   "short": "HCL Izvoru Bârzii nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 26/2026 privind aprobarea prelungirii prin act aditional a contractului de concesiune nr 2059/12.05.2011 incheiat intre Consiliul local Izvoru Barzii si SC ELV CONSTRUCT",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/266974",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/266974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-27-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/27",
+   "short": "HCL Izvoru Bârzii nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 27/2026 privind aprobarea incheierii unui protocol de colaborare intre UAT Municipiul Drobeta Turnu Severin si UAT Comuna Izvoru Barzii , judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/266975",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/266975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-28-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/28",
+   "short": "HCL Izvoru Bârzii nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 28/2026 privind aprobarea scutirii de la taxa speciala de salubrizare in Comuna Izvoru Barzii judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/270740",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/270740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-29-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/29",
+   "short": "HCL Izvoru Bârzii nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 29/2026 privind rectificarea bugetului local al Comunei Izvoru Barzii pe anul 2026",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/270741",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/270741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-3-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/3",
+   "short": "HCL Izvoru Bârzii nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 3/2026 privind aprobarea avizarii studiului de specialitate intocmit de catre Asociatia pentru Managementul Serviciilor de Apa si Canalizare Mehedinti si aprobarea propunerilor de indicatori de performanta rezultati din studiul de specialitate intocmit de catre Asociatie",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249865",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-30-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/30",
+   "short": "HCL Izvoru Bârzii nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 30/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/276552",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/276552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-31-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/31",
+   "short": "HCL Izvoru Bârzii nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 31/2026 privind aprobarea scutirii de la taxa speciala de salubrizare in Comuna Izvoru Barzii judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/276553",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/276553",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--izvoru-barzii-32-2026",
    "path": "local/mehedinti/izvoru-barzii/2026/32",
    "short": "HCL Izvoru Bârzii nr. 32/2026",
@@ -118,6 +493,21 @@
      "from": "2026-09-29",
      "units": 1,
      "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/285538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-4-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/4",
+   "short": "HCL Izvoru Bârzii nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 4/2026 privind aprobarea dezmembrarii imobilului in suprafata de 473 mp situat in intravilanul satului Balotesti din comuna Izvoru Barzi Judetul Mehedinti ,domeniu privat al comunei Izvoru Barzii, nr.cadastral 50959,intabulat in CF nr.50959 a comunei Izvoru Barzii judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249866",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249866",
      "sha256": null
     }
    ]
@@ -273,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--izvoru-barzii-5-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/5",
+   "short": "HCL Izvoru Bârzii nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 5/2026 privind aprobarea scoaterii din functiune si a casarii unor mijloace fixe si a unor obiecte de inventar",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249867",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/249867",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--izvoru-barzii-50-2026",
    "path": "local/mehedinti/izvoru-barzii/2026/50",
    "short": "HCL Izvoru Bârzii nr. 50/2026",
@@ -298,6 +703,66 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/296306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-6-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/6",
+   "short": "HCL Izvoru Bârzii nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 6/2026 privind aprobarea \"Strategiei de Dezvoltare Locala a Comunei Izvoru Barzii, județul Mehedinti pentru perioada 2025-2030,,",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255852",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-7-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/7",
+   "short": "HCL Izvoru Bârzii nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 7/2026 privind,, APROBARE PLANULUI URBANISTIC ZONAL -elaborare puz-parcelare si realizare zone locuinte cu functiuni complementare,comuna Izvoru Barzi Judetul Mehedinti \"",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255853",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-8-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/8",
+   "short": "HCL Izvoru Bârzii nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 8/2026 privind aprobarea Programului de actiuni comunitare la nivelul comunei IZVORU BARZII",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255854",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--izvoru-barzii-9-2026",
+   "path": "local/mehedinti/izvoru-barzii/2026/9",
+   "short": "HCL Izvoru Bârzii nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Bârzii nr. 9/2026 privind aprobarea actualizari inventarului bunurilor ce apartin domeniului public al comunei Izvoru Barzii Judetul Mehedinti",
+   "url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255855",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/izvorubarzii-mh/registru-hcl/255855",
      "sha256": null
     }
    ]

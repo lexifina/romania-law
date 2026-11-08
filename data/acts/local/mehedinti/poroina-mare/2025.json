@@ -333,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--poroina-mare-16-2025",
+"path": "local/mehedinti/poroina-mare/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 16/2025 privind vânzarea utilajelor vechi și nefuncționale aflate în patrimoniul primăriei comunei Poroina Mare",
+"short": "HCL Poroina Mare nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://emol.ro/poroinamare-mh/registru-hcl/211817",
+"council": "mehedinti/poroina-mare",
+"council_name": "Consiliul Local al Comunei Poroina Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--poroina-mare-17-2025",
 "path": "local/mehedinti/poroina-mare/2025/17",
 "kind": "local",
@@ -440,6 +462,28 @@
 "council_name": "Consiliul Local al Comunei Poroina Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--poroina-mare-22-2025",
+"path": "local/mehedinti/poroina-mare/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 22/2025 privind desemnarea reprezentantului Consiliului Local Poroina Mare în Consiliul de Administrație al Școlii Primare Poroina Mare, în anul școlar 2025–2026",
+"short": "HCL Poroina Mare nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/poroinamare-mh/registru-hcl/229935",
+"council": "mehedinti/poroina-mare",
+"council_name": "Consiliul Local al Comunei Poroina Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

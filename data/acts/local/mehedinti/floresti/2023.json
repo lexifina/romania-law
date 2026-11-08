@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--floresti-9-2023",
+"path": "local/mehedinti/floresti/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 9/2023 privind desemnarea a 2 reprezentanti din cadrul Consiliului Local Floresti pentru a face parte din Comisia pentru evaluarea si aprobarea calificativului de evaluare a performanţelor profesionale individuale pentru Secretarul general al comunei Floresti pentru anul 2022",
+"short": "HCL Florești nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-17",
+"latest": "2023-03-17",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/92239",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--floresti-10-2023",
 "path": "local/mehedinti/floresti/2023/10",
 "kind": "local",
@@ -374,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-19-2023",
+"path": "local/mehedinti/floresti/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 19/2023 privind aprobarea Regulamentului de organizare şi funcţionare a“Bazei sportive -stadion cu teren de fotbal”din satul Mosneni, comuna Floresti, judetul Mehedinti",
+"short": "HCL Florești nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-11",
+"latest": "2023-07-11",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/111492",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

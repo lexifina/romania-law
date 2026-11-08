@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--floresti-3-2025",
+"path": "local/mehedinti/floresti/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2025 privind aprobarea achiziționării de servicii de consultanță și asistență de specialitate, în domeniul achizițiilor publice pentru realizarea lucrărilor sistematice de cadastru general la nivelul Comunei Floresti, Județul Mehedinti",
+"short": "HCL Florești nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/189719",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-4-2025",
+"path": "local/mehedinti/floresti/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 4/2025 privind ,, Actualizare Plan Urbanistic General (P.U.G.) si Regulament Local de Urbanism comuna Floresti judetul Mehedinti’’",
+"short": "HCL Florești nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/194425",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--floresti-5-2025",
 "path": "local/mehedinti/floresti/2025/5",
 "kind": "local",
@@ -66,6 +110,72 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-6-2025",
+"path": "local/mehedinti/floresti/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 6/2025 privind mandatarea reprezentantului UAT Floresti în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți, pentru a vota aprobarea modificarii Statutului Asociaţiei",
+"short": "HCL Florești nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/194427",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-7-2025",
+"path": "local/mehedinti/floresti/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 7/2025 privind rezilierea contractului de concesiune pentru Dispensarul Uman aflat domeniul public al comunei Floresti, județul Mehedinti,",
+"short": "HCL Florești nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-17",
+"latest": "2025-03-17",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/194428",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-8-2025",
+"path": "local/mehedinti/floresti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 8/2025 privind desemnarea a 2 reprezentanti din cadrul Consiliului Local Floresti pentru a face parte din Comisia pentru evaluarea si aprobarea calificativului de evaluare a performanţelor profesionale individuale pentru Secretarul general al comunei Floresti pentru anul 2024",
+"short": "HCL Florești nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/197777",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--floresti-10-2025",
+"path": "local/mehedinti/floresti/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2025 privind trecerea din domeniul public al comunei Floresti a construcţiei C1, - constructii administrative si social culturale(dispensar uman) care se regaseste in extrasul de Carte Funciara nr. 50848, la pozitia A1.1 in suprafata de 259 mp in domeniul privat al acesteia in vederea concesionarii",
+"short": "HCL Florești nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/197779",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--floresti-11-2025",
 "path": "local/mehedinti/floresti/2025/11",
 "kind": "local",
@@ -113,6 +245,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--floresti-12-2025",
+"path": "local/mehedinti/floresti/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 12/2025",
+"short": "HCL Florești nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-25",
+"latest": "2025-04-25",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/201812",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--floresti-13-2025",
 "path": "local/mehedinti/floresti/2025/13",
 "kind": "local",
@@ -132,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-14-2025",
+"path": "local/mehedinti/floresti/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 14/2025 privind aprobarea scoaterii la licitatie publica in vederea vanzarii bunurilor: deseuri din plastic si fieroase, autoGreder AB NORD VERK si buldoexcavator JCB 3III",
+"short": "HCL Florești nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/214564",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

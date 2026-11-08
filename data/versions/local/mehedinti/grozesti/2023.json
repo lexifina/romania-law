@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/grozesti/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--grozesti-1-2023",
+   "path": "local/mehedinti/grozesti/2023/1",
+   "short": "HCL Grozești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 1/2023 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/85338",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/85338",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-10-2023",
    "path": "local/mehedinti/grozesti/2023/10",
    "short": "HCL Grozești nr. 10/2023",
@@ -33,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--grozesti-12-2023",
+   "path": "local/mehedinti/grozesti/2023/12",
+   "short": "HCL Grozești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 12/2023 privind instituirea taxei speciale pentru serviciul de vidanjare fose septice prestat de Primăria Comunei Grozești",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/88863",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/88863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-13-2023",
+   "path": "local/mehedinti/grozesti/2023/13",
+   "short": "HCL Grozești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 13/2023 privind aprobarea încheierii Protocolului de colaborare dintre Ministerul Muncii și Solidarității Sociale (MMSS) și Unitatea Administrativ Teritorială Grozești, județul Mehedinți pentru implementarea proiectului ,,HUB de Servicii MMSS-SII MMSS\", Cod MySmis 130963",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/88864",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/88864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-14-2023",
+   "path": "local/mehedinti/grozesti/2023/14",
+   "short": "HCL Grozești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 14/2023 privind aprobarea Planului de Analiza si Acoperire a Riscurilor pe teritoriul Comunei Grozesti, judetul Mehedinti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/93322",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/93322",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-15-2023",
    "path": "local/mehedinti/grozesti/2023/15",
    "short": "HCL Grozești nr. 15/2023",
@@ -48,6 +108,216 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--grozesti-16-2023",
+   "path": "local/mehedinti/grozesti/2023/16",
+   "short": "HCL Grozești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 16/2023 privind analiza stadiului de inscriere a datelor in Registrul Agricol al comunei Grozești pe trimestrul III si IV al anului 2022 si stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/93324",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/93324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-17-2023",
+   "path": "local/mehedinti/grozesti/2023/17",
+   "short": "HCL Grozești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 17/2023 privind aprobarea participării la realizarea investiției „Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale Grozești, Comuna Grozești, Judeţul Mehedinţi” și „ Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Primare Cârceni, Comuna Grozești, Judeţul Mehedinţi”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/93325",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/93325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-18-2023",
+   "path": "local/mehedinti/grozesti/2023/18",
+   "short": "HCL Grozești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 18/2023 privind stabilirea salariului de baza pentru functia publica de executie de Consiler achiziții publice, clasa I, grad profesional asistent, gradatia 3 din cadrul compartimentului financiar-contabil, din cadrul aparatului de specialitate al Primarului Comunei Grozesti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/93326",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/93326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-19-2023",
+   "path": "local/mehedinti/grozesti/2023/19",
+   "short": "HCL Grozești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 19/2023",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/98878",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/98878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-2-2023",
+   "path": "local/mehedinti/grozesti/2023/2",
+   "short": "HCL Grozești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 2/2023 privind reorganizarea retelei scolare a unitatilor de invatamant preuniversitar de stat de pe raza comunei Grozesti, acreditate pentru anul scolar 2023-2024",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/85339",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/85339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-20-2023",
+   "path": "local/mehedinti/grozesti/2023/20",
+   "short": "HCL Grozești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 20/2023 privind aprobarea taxei de închiriere și a utilajului buldoexcavator aflat în patrimoniul comunei Grozești, județul Mehedinți",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/98879",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/98879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-21-2023",
+   "path": "local/mehedinti/grozesti/2023/21",
+   "short": "HCL Grozești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 21/2023 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/101623",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/101623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-22-2023",
+   "path": "local/mehedinti/grozesti/2023/22",
+   "short": "HCL Grozești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 22/2023 privind modificarea inventarului bunurilor care apartin domeniului public al Comunei Grozesti, judetul Mehedinti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/101624",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/101624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-23-2023",
+   "path": "local/mehedinti/grozesti/2023/23",
+   "short": "HCL Grozești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 23/2023 privind stabilirea salariilor de bază pentru functiile publice si functiile contractuale din cadrul aparatului de specialitate al Primarului Comunei Grozesti, precum si stabilirea indemnizatiei consilierilor locali din cadrul Consiliului Local Grozesti, judetul Mehedinti,",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/101625",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/101625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-24-2023",
+   "path": "local/mehedinti/grozesti/2023/24",
+   "short": "HCL Grozești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 24/2023 privind aprobarea indicatorilor Tehnico- Economici privind cheltuielile de capital necesare realizarii obiectivului de investitii \"Alimentare cu apa in localitatea Susita, comuna Grozesti\"",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/101626",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/101626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-25-2023",
+   "path": "local/mehedinti/grozesti/2023/25",
+   "short": "HCL Grozești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 25/2023 cu privire la aprobarea Documentației de avizare a lucrărilor de intervenții/ indicatorilor tehnico economici actualizați și a devizului general actualizat pentru obiectivul de investiții “REABILITARE ȘI MODERNIZARE PRIMĂRIA COMUNEI GROZEȘTI, JUDEȚUL MEHEDINȚI” prevăzută la Obiectivul de investiție I.3. ” Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, în cadrul Apelurilor de proiecte PNRR/2022/C10, componenta C10 - Fondul local în comuna Grozești, județul Mehedinți",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/105293",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/105293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-26-2023",
+   "path": "local/mehedinti/grozesti/2023/26",
+   "short": "HCL Grozești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 26/2023 privind aprobarea Documentației de avizare a lucrărilor de intervenții/ indicatorilor tehnico- economici actualizați și a devizului general actualizat pentru obiectivul de investiții “REABILITARE MODERATĂ A DISPENSARULUI DIN COMUNA GROZEȘTI, JUDEȚUL MEHEDINȚI” prevăzută la Obiectivul de investiție I.3. ” Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale din PLANUL NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ, în cadrul Apelurilor de proiecte PNRR/2022/C10, componenta C10 - Fondul local în comuna Grozești, județul Mehedinți",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/105294",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/105294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-27-2023",
+   "path": "local/mehedinti/grozesti/2023/27",
+   "short": "HCL Grozești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 27/2023 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice care isi desfasoara activitatea la Scoala Gimnaziala Grozesti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/105295",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/105295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-28-2023",
+   "path": "local/mehedinti/grozesti/2023/28",
+   "short": "HCL Grozești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 28/2023 privind aprobarea participarii Comunei Grozești, Județul Mehedinti la ,,Parteneriatul LEADER Sudul Gorjului” in vederea elaborarii si implementarii Strategiei de Dezvoltare Locala cu finantare prin Planul Strategic 2023-2027 si Programul Incluziune si Demnitate Sociala – (PIDS ) 2021-2027",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/105296",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/105296",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-29-2023",
    "path": "local/mehedinti/grozesti/2023/29",
    "short": "HCL Grozești nr. 29/2023",
@@ -58,6 +328,21 @@
      "from": "2023-07-13",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/110204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-3-2023",
+   "path": "local/mehedinti/grozesti/2023/3",
+   "short": "HCL Grozești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 3/2023 privind aprobarea participării la realizarea investiției „Modernizarea sistemului de iluminat public în comuna Grozești, Judeţul Mehedinţi”, prevăzută în cadrul Ghidului de finanțare a Programului privind creşterea eficienţei energetice a infrastructurii de iluminat public–emitent Ministerului Mediului, Apelor și Pădurilor",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/85340",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/85340",
      "sha256": null
     }
    ]
@@ -123,6 +408,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--grozesti-34-2023",
+   "path": "local/mehedinti/grozesti/2023/34",
+   "short": "HCL Grozești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 34/2023 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice care isi desfasoara activitatea la Scoala Gimnaziala Grozesti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/113349",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/113349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-35-2023",
+   "path": "local/mehedinti/grozesti/2023/35",
+   "short": "HCL Grozești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 35/2023 privind modificarea organigramei si a statului de funcţii publice si in regim contractual al aparatului de specialitate al primarului Comunei Grozești, județul Mehedinți pentru anul 2023",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/113350",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/113350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-36-2023",
+   "path": "local/mehedinti/grozesti/2023/36",
+   "short": "HCL Grozești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 36/2023 privind aprobarea rectificarii bugetului local de venituri şi cheltuieli, al comunei Grozesti pentru anul 2023",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/117085",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/117085",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-37-2023",
    "path": "local/mehedinti/grozesti/2023/37",
    "short": "HCL Grozești nr. 37/2023",
@@ -133,6 +463,81 @@
      "from": "2023-08-25",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/117086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-38-2023",
+   "path": "local/mehedinti/grozesti/2023/38",
+   "short": "HCL Grozești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 38/2023 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor aferente programului şi a contractelor/acordurilor- cadru de prestare a serviciilor pentru derularea măsurilor educative prevăzute de ,,Programul pentru școli al României\", la nivelul comunei Grozești, județul Mehedinți",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/123861",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/123861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-39-2023",
+   "path": "local/mehedinti/grozesti/2023/39",
+   "short": "HCL Grozești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 39/2023 privind constituirea echipei mobile pentru intervenția in regim de urgentă in cazurile de violență domestica identificate pe raza UAT Grozesti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/123862",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/123862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-4-2023",
+   "path": "local/mehedinti/grozesti/2023/4",
+   "short": "HCL Grozești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 4/2023 privind aprobarea utilizarii excedentului bugetar pentru acoperire gol de casa in sectiunea functionare pentru anul 2023",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/85479",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/85479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-40-2023",
+   "path": "local/mehedinti/grozesti/2023/40",
+   "short": "HCL Grozești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 40/2023 privind aprobarea devizului general pentru obiectivul de investitii ,,Lucrari de imprejmuire, amenajare parcare si alei pietonale la PRIMĂRIA COMUNEI GROZEȘTI, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/123863",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/123863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-41-2023",
+   "path": "local/mehedinti/grozesti/2023/41",
+   "short": "HCL Grozești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 41/2023 privind aprobarea executarii serviciilor de proiectare tehnica pentru obiectivul de investitii ,,Reabilitare Biserica Cârceni”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/123864",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/123864",
      "sha256": null
     }
    ]
@@ -253,6 +658,21 @@
      "from": "2023-10-18",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/125053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-5-2023",
+   "path": "local/mehedinti/grozesti/2023/5",
+   "short": "HCL Grozești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 5/2023 cu privire la aprobarea participării la realizarea investiției „ Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale Grozești, Comuna Grozești, Judeţul Mehedinţi”, și Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Primare Cârceni, Comuna Grozești, Judeţul Mehedinţi”",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/88856",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/88856",
      "sha256": null
     }
    ]
@@ -408,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--grozesti-6-2023",
+   "path": "local/mehedinti/grozesti/2023/6",
+   "short": "HCL Grozești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 6/2023 cu privire la aprobarea proiectului ,,Construire și dotare Centru de zi, Comuna Grozești, județul Mehedinți",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/88857",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/88857",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-60-2023",
    "path": "local/mehedinti/grozesti/2023/60",
    "short": "HCL Grozești nr. 60/2023",
@@ -448,6 +883,51 @@
      "from": "2024-01-15",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/134267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-7-2023",
+   "path": "local/mehedinti/grozesti/2023/7",
+   "short": "HCL Grozești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 7/2023 privind aprobarea numărului de posturi de asistenti personali ai persoanelor cu handicap pentru anul 2023",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/88858",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/88858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-8-2023",
+   "path": "local/mehedinti/grozesti/2023/8",
+   "short": "HCL Grozești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 8/2023 privind aprobarea Planului de actiuni si lucrari de interes local pentru repartizarea orelor de munca, care vor fi executate de persoanele majore apte de munca beneficiare de ajutor social, conform Legii 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/88859",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/88859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-9-2023",
+   "path": "local/mehedinti/grozesti/2023/9",
+   "short": "HCL Grozești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 9/2023 privind aprobarea achiziţiei de servicii juridice de consultanţă, de asistenţă şi de reprezentare în instanţă, pentru apărarea intereselor comunei şi a Consiliului local Grozești",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/88860",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/88860",
      "sha256": null
     }
    ]

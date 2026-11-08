@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-11-2020",
+   "path": "local/neamt/ion-creanga/2020/11",
+   "short": "HCL Ion Creangă nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 11/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8602",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-12-2020",
+   "path": "local/neamt/ion-creanga/2020/12",
+   "short": "HCL Ion Creangă nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 12/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8603",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8603",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-13-2020",
    "path": "local/neamt/ion-creanga/2020/13",
    "short": "HCL Ion Creangă nr. 13/2020",
@@ -88,6 +118,21 @@
      "from": "2020-02-19",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-17-2020",
+   "path": "local/neamt/ion-creanga/2020/17",
+   "short": "HCL Ion Creangă nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 17/2020 privind aprobarea închirierii prin încredințare directă a pășunii în suprafața de 4,00 din parcela David , aparținând domeniului privat , al comunei Ion Creangă, jud. Neamț",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8608",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8608",
      "sha256": null
     }
    ]
@@ -228,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-26-2020",
+   "path": "local/neamt/ion-creanga/2020/26",
+   "short": "HCL Ion Creangă nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 26/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8617",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8617",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-27-2020",
    "path": "local/neamt/ion-creanga/2020/27",
    "short": "HCL Ion Creangă nr. 27/2020",
@@ -238,6 +298,21 @@
      "from": "2020-03-31",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-28-2020",
+   "path": "local/neamt/ion-creanga/2020/28",
+   "short": "HCL Ion Creangă nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 28/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8619",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8619",
      "sha256": null
     }
    ]
@@ -303,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-32-2020",
+   "path": "local/neamt/ion-creanga/2020/32",
+   "short": "HCL Ion Creangă nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 32/2020 privind aprobarea închirierii a unor imobile ce aparțin UAT –Comuna Ion Creangă, județul Neamț",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8623",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8623",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-33-2020",
    "path": "local/neamt/ion-creanga/2020/33",
    "short": "HCL Ion Creangă nr. 33/2020",
@@ -343,6 +433,21 @@
      "from": "2020-04-30",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-36-2020",
+   "path": "local/neamt/ion-creanga/2020/36",
+   "short": "HCL Ion Creangă nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 36/2020 privind alegerea unui nou președinte de ședință pentru 3 luni mai, iunie ,iulie 2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8627",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8627",
      "sha256": null
     }
    ]
@@ -468,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-44-2020",
+   "path": "local/neamt/ion-creanga/2020/44",
+   "short": "HCL Ion Creangă nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 44/2020 privind acordarea unui mandat special",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8635",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8635",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-45-2020",
    "path": "local/neamt/ion-creanga/2020/45",
    "short": "HCL Ion Creangă nr. 45/2020",
@@ -478,6 +598,66 @@
      "from": "2020-05-29",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-46-2020",
+   "path": "local/neamt/ion-creanga/2020/46",
+   "short": "HCL Ion Creangă nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 46/2020 privind încetarea contractului de închiriere locuință nr.4155 din 01.08.2011 construite în Ion Creangă de către Agenția Națională pentru locuințe",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8637",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-47-2020",
+   "path": "local/neamt/ion-creanga/2020/47",
+   "short": "HCL Ion Creangă nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 47/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8638",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-48-2020",
+   "path": "local/neamt/ion-creanga/2020/48",
+   "short": "HCL Ion Creangă nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 48/2020 privind rectificarea bugetului local al comunei Ion Creangă pentru anul 2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8639",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-49-2020",
+   "path": "local/neamt/ion-creanga/2020/49",
+   "short": "HCL Ion Creangă nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 49/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8640",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8640",
      "sha256": null
     }
    ]
@@ -528,6 +708,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-52-2020",
+   "path": "local/neamt/ion-creanga/2020/52",
+   "short": "HCL Ion Creangă nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 52/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8643",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-53-2020",
+   "path": "local/neamt/ion-creanga/2020/53",
+   "short": "HCL Ion Creangă nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 53/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8644",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8644",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-54-2020",
    "path": "local/neamt/ion-creanga/2020/54",
    "short": "HCL Ion Creangă nr. 54/2020",
@@ -538,6 +748,21 @@
      "from": "2020-06-30",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-55-2020",
+   "path": "local/neamt/ion-creanga/2020/55",
+   "short": "HCL Ion Creangă nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 55/2020 privind alegerea uini nou președinte de ședință pentru",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8646",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8646",
      "sha256": null
     }
    ]
@@ -558,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-57-2020",
+   "path": "local/neamt/ion-creanga/2020/57",
+   "short": "HCL Ion Creangă nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 57/2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8648",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8648",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-58-2020",
    "path": "local/neamt/ion-creanga/2020/58",
    "short": "HCL Ion Creangă nr. 58/2020",
@@ -568,6 +808,36 @@
      "from": "2020-07-31",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-59-2020",
+   "path": "local/neamt/ion-creanga/2020/59",
+   "short": "HCL Ion Creangă nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 59/2020 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali, în semestrul I al anului 2020",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8650",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-6-2020",
+   "path": "local/neamt/ion-creanga/2020/6",
+   "short": "HCL Ion Creangă nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 6/2020 privind Privind stabilirea salariului de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din apartul de specialitate al Primarului comunei Ion Creangă jud. Neamț și serviciile publice fără personalitate juridică din subordinea Consiliului Local al Comunei Ion Creangă , jud. Neamț, precum și stabilirea nivelului indemnizației de ședință a aleșilor locali",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/8066",
+   "versions": [
+    {
+     "from": "2020-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/8066",
      "sha256": null
     }
    ]

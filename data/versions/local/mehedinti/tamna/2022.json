@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/tamna/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--tamna-14-2022",
+   "path": "local/mehedinti/tamna/2022/14",
+   "short": "HCL Tâmna nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 14/2022",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/62096",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/62096",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--tamna-15-2022",
    "path": "local/mehedinti/tamna/2022/15",
    "short": "HCL Tâmna nr. 15/2022",

@@ -3,6 +3,28 @@
 "shard": "local/mehedinti/grozesti/2020",
 "acts": [
 {
+"slug": "hcl-mehedinti--grozesti-1-2020",
+"path": "local/mehedinti/grozesti/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 1/2020 privind alegerea Presedintelui de sedinta al Consiliului local Grozesti pentru lunile ianuarie, februarie și martie",
+"short": "HCL Grozești nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/4325",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-2-2020",
 "path": "local/mehedinti/grozesti/2020/2",
 "kind": "local",
@@ -245,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-13-2020",
+"path": "local/mehedinti/grozesti/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 13/2020 cu privire la aprobarea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului Comunei Grozesti",
+"short": "HCL Grozești nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/4336",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-14-2020",
 "path": "local/mehedinti/grozesti/2020/14",
 "kind": "local",
@@ -267,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-15-2020",
+"path": "local/mehedinti/grozesti/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 15/2020 privind aprobarea modificarii structurii organizatorice a comunei Grozesti, a organigramei şi a statului de funcţii al aparatului de specialitate al primarului comunei Grozesti, judetul Mehedinti",
+"short": "HCL Grozești nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-23",
+"latest": "2020-03-23",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/4338",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-16-2020",
 "path": "local/mehedinti/grozesti/2020/16",
 "kind": "local",
@@ -286,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-17-2020",
+"path": "local/mehedinti/grozesti/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 17/2020 privind alegerea Presedintelui de sedinta, al Consiliului local Grozesti pentru lunile aprilie, martie si mai 2020",
+"short": "HCL Grozești nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-29",
+"latest": "2020-04-29",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/4340",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -355,6 +443,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-21-2020",
+"path": "local/mehedinti/grozesti/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 21/2020 privind aprobarea achizitionarii de servicii si incheierea contractului pentru colectarea ,transportul si eliminare a deseurilor animaliere de pe raza comunei Grozesti",
+"short": "HCL Grozești nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/43802",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-22-2020",
 "path": "local/mehedinti/grozesti/2020/22",
 "kind": "local",
@@ -374,6 +484,28 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-23-2020",
+"path": "local/mehedinti/grozesti/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 23/2020 privind alegerea Presedintelui de sedinta,a Consiliului local Grozesti",
+"short": "HCL Grozești nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-01",
+"latest": "2020-07-01",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/43804",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

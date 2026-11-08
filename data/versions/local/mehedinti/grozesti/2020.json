@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/grozesti/2020",
  "acts": [
   {
+   "slug": "hcl-mehedinti--grozesti-1-2020",
+   "path": "local/mehedinti/grozesti/2020/1",
+   "short": "HCL Grozești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 1/2020 privind alegerea Presedintelui de sedinta al Consiliului local Grozesti pentru lunile ianuarie, februarie și martie",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4325",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4325",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-10-2020",
    "path": "local/mehedinti/grozesti/2020/10",
    "short": "HCL Grozești nr. 10/2020",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--grozesti-13-2020",
+   "path": "local/mehedinti/grozesti/2020/13",
+   "short": "HCL Grozești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 13/2020 cu privire la aprobarea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului Comunei Grozesti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4336",
+   "versions": [
+    {
+     "from": "2020-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4336",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-14-2020",
    "path": "local/mehedinti/grozesti/2020/14",
    "short": "HCL Grozești nr. 14/2020",
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--grozesti-15-2020",
+   "path": "local/mehedinti/grozesti/2020/15",
+   "short": "HCL Grozești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 15/2020 privind aprobarea modificarii structurii organizatorice a comunei Grozesti, a organigramei şi a statului de funcţii al aparatului de specialitate al primarului comunei Grozesti, judetul Mehedinti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4338",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4338",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-16-2020",
    "path": "local/mehedinti/grozesti/2020/16",
    "short": "HCL Grozești nr. 16/2020",
@@ -73,6 +118,21 @@
      "from": "2020-03-23",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-17-2020",
+   "path": "local/mehedinti/grozesti/2020/17",
+   "short": "HCL Grozești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 17/2020 privind alegerea Presedintelui de sedinta, al Consiliului local Grozesti pentru lunile aprilie, martie si mai 2020",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/4340",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/4340",
      "sha256": null
     }
    ]
@@ -138,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--grozesti-21-2020",
+   "path": "local/mehedinti/grozesti/2020/21",
+   "short": "HCL Grozești nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 21/2020 privind aprobarea achizitionarii de servicii si incheierea contractului pentru colectarea ,transportul si eliminare a deseurilor animaliere de pe raza comunei Grozesti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/43802",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/43802",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--grozesti-22-2020",
    "path": "local/mehedinti/grozesti/2020/22",
    "short": "HCL Grozești nr. 22/2020",
@@ -148,6 +223,21 @@
      "from": "2020-06-25",
      "units": 1,
      "source_url": "https://emol.ro/grozesti-mh/registru-hcl/43803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--grozesti-23-2020",
+   "path": "local/mehedinti/grozesti/2020/23",
+   "short": "HCL Grozești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Grozești nr. 23/2020 privind alegerea Presedintelui de sedinta,a Consiliului local Grozesti",
+   "url": "https://emol.ro/grozesti-mh/registru-hcl/43804",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/grozesti-mh/registru-hcl/43804",
      "sha256": null
     }
    ]

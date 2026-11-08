@@ -3,6 +3,28 @@
 "shard": "local/mehedinti/ponoarele/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--ponoarele-1-2025",
+"path": "local/mehedinti/ponoarele/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 1/2025 privind alegerea presedintelui de sedinta pe o perioada de 3 luni care sa conduca sedintele Consiliului Local Ponoarele",
+"short": "HCL Ponoarele nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/188551",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ponoarele-2-2025",
 "path": "local/mehedinti/ponoarele/2025/2",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Ponoarele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ponoarele-4-2025",
+"path": "local/mehedinti/ponoarele/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 4/2025 privind aprobarea planului anual de acțiuni și lucrări de interes local ce se vor executa de beneficiarii de venit minim de incluziune , potrivit Legii nr. 196/2016 cu modificările și completările ulterioare, pe anul 2025 si contravenientii obligati la prestarea unei activitati in folosul comunitatii conform Ordonantei de Guvern nr.55/2002 cu modificarile si completarile ulterioare",
+"short": "HCL Ponoarele nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/194657",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +289,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--ponoarele-14-2025",
+"path": "local/mehedinti/ponoarele/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 14/2025 privind aprobarea participării UAT comuna Ponoarele la ,,Programul privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană''",
+"short": "HCL Ponoarele nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/200927",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ponoarele-15-2025",
+"path": "local/mehedinti/ponoarele/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 15/2025 privind aprobarea cesiunii contractului de concesiune înregistrat sub nr. 800/19.04.2000",
+"short": "HCL Ponoarele nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/205209",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ponoarele-16-2025",
 "path": "local/mehedinti/ponoarele/2025/16",
 "kind": "local",
@@ -267,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--ponoarele-17-2025",
+"path": "local/mehedinti/ponoarele/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 17/2025 privind alegerea presedintelui de sedinta pe o perioada de 3 luni care sa conduca sedintele Consiliului Local Ponoarele",
+"short": "HCL Ponoarele nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/205211",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ponoarele-18-2025",
 "path": "local/mehedinti/ponoarele/2025/18",
 "kind": "local",
@@ -286,6 +396,72 @@
 "council_name": "Consiliul Local al Comunei Ponoarele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ponoarele-19-2025",
+"path": "local/mehedinti/ponoarele/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 19/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Ponoarele nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/209171",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ponoarele-20-2025",
+"path": "local/mehedinti/ponoarele/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 20/2025 privind debranșarea și dezafectarea tuturor rețelelor de apă existente, altele decât rețeaua realizată prin proiectele finanțate din fonduri europene și guvernamentale, care asigură alimentarea cu apă potabilă a tuturor locuitorilor comunei Ponoarele si care sunt alimentate din cele două captări aflate în domeniul public al Comunei Ponoarele ( de sub ,,Steiul Ponorii,,)",
+"short": "HCL Ponoarele nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/216779",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ponoarele-21-2025",
+"path": "local/mehedinti/ponoarele/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 21/2025 privind alegerea presedintelui de sedinta pe o perioada de 3 luni care sa conduca sedintele Consiliului Local Ponoarele",
+"short": "HCL Ponoarele nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/216780",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -330,6 +506,28 @@
 "council_name": "Consiliul Local al Comunei Ponoarele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ponoarele-24-2025",
+"path": "local/mehedinti/ponoarele/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 24/2025 privind darea în folosință gratuită a unui spațiu aparținând UAT Comuna Ponoarele în suprafață de 34 mp. situat în clădire sediu Primărie",
+"short": "HCL Ponoarele nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/216783",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -396,6 +594,50 @@
 "council_name": "Consiliul Local al Comunei Ponoarele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ponoarele-28-2025",
+"path": "local/mehedinti/ponoarele/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 28/2025 privind desemnarea reprezentantului Consiliului local al comunei Ponoarele în Consiliul de administrație al Şcolii Gimnaziale “Dr. Alexandru M. Popescu” Ponoarele pentru anul scolar 2025 - 2026",
+"short": "HCL Ponoarele nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/226695",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ponoarele-29-2025",
+"path": "local/mehedinti/ponoarele/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 29/2025 privind desemnarea reprezentantului Consiliului local al comunei Ponoarele în Comisia pentru evaluarea si asigurarea calitatii (CEAC) constituită la nivelul Şcolii Gimnaziale “Dr. Alexandru M. Popescu” Ponoarele pentru anul scolar 2025 - 2026",
+"short": "HCL Ponoarele nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/226696",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

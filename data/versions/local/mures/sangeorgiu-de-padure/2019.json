@@ -16,6 +16,21 @@
      "sha256": "23bf5bee995ae683f32c738a46f5768a58c62445feb01d91373cb95b17da578f"
     }
    ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-16-2019",
+   "path": "local/mures/sangeorgiu-de-padure/2019/16",
+   "short": "HCL Sângeorgiu de Pădure nr. 16/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 16/2019",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=2978&file=hot-sgpadure-nr.38-2019.pdf",
+     "sha256": "82920575425a139d9ffd709c0e41953f1610921d3f0001903f712688bd7a6ec2"
+    }
+   ]
   }
  ]
 }

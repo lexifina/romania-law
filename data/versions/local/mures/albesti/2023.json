@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-13-2023",
+   "path": "local/mures/albesti/2023/13",
+   "short": "HCL Albești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 13/2023",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/101082",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/101082",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-14-2023",
    "path": "local/mures/albesti/2023/14",
    "short": "HCL Albești nr. 14/2023",
@@ -133,6 +148,21 @@
      "from": "2023-05-03",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/101087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-19-2023",
+   "path": "local/mures/albesti/2023/19",
+   "short": "HCL Albești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 19/2023",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/103002",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/103002",
      "sha256": null
     }
    ]
@@ -243,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-26-2023",
+   "path": "local/mures/albesti/2023/26",
+   "short": "HCL Albești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 26/2023",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/105063",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/105063",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-27-2023",
    "path": "local/mures/albesti/2023/27",
    "short": "HCL Albești nr. 27/2023",
@@ -253,6 +298,21 @@
      "from": "2023-05-31",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/105064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-28-2023",
+   "path": "local/mures/albesti/2023/28",
+   "short": "HCL Albești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 28/2023",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/109592",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/109592",
      "sha256": null
     }
    ]
@@ -328,6 +388,21 @@
      "from": "2023-06-20",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/109596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-33-2023",
+   "path": "local/mures/albesti/2023/33",
+   "short": "HCL Albești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 33/2023 privind aprobarea vânzării prin licitație în vederea valorificării deșeurilor rezultate în urma reabilitării și modernizării Școlii Gimnaziale cu clasele I-VIII din satul Boiu, comuna Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/109597",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/109597",
      "sha256": null
     }
    ]
@@ -453,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-41-2023",
+   "path": "local/mures/albesti/2023/41",
+   "short": "HCL Albești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 41/2023",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/119708",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/119708",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-42-2023",
    "path": "local/mures/albesti/2023/42",
    "short": "HCL Albești nr. 42/2023",
@@ -483,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-44-2023",
+   "path": "local/mures/albesti/2023/44",
+   "short": "HCL Albești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 44/2023 privind actualizarea nomenclatorului stradal al comunei Albești, județul Mureș",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/120717",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/120717",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-45-2023",
    "path": "local/mures/albesti/2023/45",
    "short": "HCL Albești nr. 45/2023",
@@ -508,6 +613,21 @@
      "from": "2023-09-19",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/120719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-47-2023",
+   "path": "local/mures/albesti/2023/47",
+   "short": "HCL Albești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 47/2023 privind privind desemnarea reprezentanţilor Consiliului Local al comunei Albesti în Consiliul de Administraţie din cadrul Şcolii gimnaziale Albesti",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/120720",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/120720",
      "sha256": null
     }
    ]
@@ -853,6 +973,21 @@
      "from": "2023-02-09",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/88895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-8-2023",
+   "path": "local/mures/albesti/2023/8",
+   "short": "HCL Albești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 8/2023 privind aprobarea volumului de masa lemnoasă propus pentru recoltare și valorificare în anul 2023 din fondul forestier proprietate publică a unității administrativ teritoriale Albești, a modalității de valorificare a masei lemnoase și a prețurilor de vânzare a acesteia, a situaței aplicării contractului de administrare sin prestari servicii a Pădurii Comunei Albești pentru anul 2022, precum și aprobarea bugetului de venituri și cheltuieli pentru anul 2023, împreună cu anexele devizele de lucrări și operațiuni ce se vor efectua în anul 2023",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/95860",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/95860",
      "sha256": null
     }
    ]

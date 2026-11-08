@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/mures/sangeorgiu-de-padure/2017",
+"acts": [
+{
+"slug": "hcl-mures--sangeorgiu-de-padure-6-2017",
+"path": "local/mures/sangeorgiu-de-padure/2017/6",
+"kind": "local",
+"year": "2017",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 6/2017 privind completarea comisiei de evaluare și selecție a cererilor de finanțare nerambursabilă cu doi membrii 13/07.03.2018",
+"short": "HCL Sângeorgiu de Pădure nr. 6/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-02-28",
+"latest": "2017-02-28",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--sangeorgiu-de-padure-49-2017",
+"path": "local/mures/sangeorgiu-de-padure/2017/49",
+"kind": "local",
+"year": "2017",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 49/2017 Privind modificarea HCL NR.49/07.08.2017 privind dotarea și amenajarea expoziției de bază al castelului Rhedey din Sângeorgiu de Pădure. 83/10.11.2017",
+"short": "HCL Sângeorgiu de Pădure nr. 49/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-08-07",
+"latest": "2017-08-07",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--sangeorgiu-de-padure-51-2017",
+"path": "local/mures/sangeorgiu-de-padure/2017/51",
+"kind": "local",
+"year": "2017",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 51/2017 Privind aprobarea actului adițional la Contractul nr.51/19.05.2017 privind prestarea serviciului public de salubrizare al orașului Sângeorgiu de Pădure. 92/08.12.2017",
+"short": "HCL Sângeorgiu de Pădure nr. 51/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-05-19",
+"latest": "2017-05-19",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--sangeorgiu-de-padure-52-2017",
+"path": "local/mures/sangeorgiu-de-padure/2017/52",
+"kind": "local",
+"year": "2017",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 52/2017",
+"short": "HCL Sângeorgiu de Pădure nr. 52/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-05-22",
+"latest": "2017-05-22",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--sangeorgiu-de-padure-74-2017",
+"path": "local/mures/sangeorgiu-de-padure/2017/74",
+"kind": "local",
+"year": "2017",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 74/2017",
+"short": "HCL Sângeorgiu de Pădure nr. 74/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-10-11",
+"latest": "2017-10-11",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

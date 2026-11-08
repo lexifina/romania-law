@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/mures/sangeorgiu-de-padure/2018",
+"acts": [
+{
+"slug": "hcl-mures--sangeorgiu-de-padure-15-2018",
+"path": "local/mures/sangeorgiu-de-padure/2018/15",
+"kind": "local",
+"year": "2018",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 15/2018",
+"short": "HCL Sângeorgiu de Pădure nr. 15/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-07",
+"latest": "2018-03-07",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--sangeorgiu-de-padure-205-2018",
+"path": "local/mures/sangeorgiu-de-padure/2018/205",
+"kind": "local",
+"year": "2018",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 205/2018",
+"short": "HCL Sângeorgiu de Pădure nr. 205/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-30",
+"latest": "2018-05-30",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--sangeorgiu-de-padure-844-2018",
+"path": "local/mures/sangeorgiu-de-padure/2018/844",
+"kind": "local",
+"year": "2018",
+"number": "844",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 844/2018",
+"short": "HCL Sângeorgiu de Pădure nr. 844/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-19",
+"latest": "2018-03-19",
+"portal": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2015-2019/",
+"council": "mures/sangeorgiu-de-padure",
+"council_name": "Consiliul Local al Orașului Sângeorgiu de Pădure",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

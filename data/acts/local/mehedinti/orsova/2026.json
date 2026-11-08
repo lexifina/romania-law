@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--orsova-3-2026",
+"path": "local/mehedinti/orsova/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 3/2026",
+"short": "HCL Orșova nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-16",
+"latest": "2026-01-16",
+"portal": null,
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--orsova-13-2026",
 "path": "local/mehedinti/orsova/2026/13",
 "kind": "local",
@@ -45,6 +68,28 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-14-2026",
+"path": "local/mehedinti/orsova/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 14/2026 privind modificarea Hotararii Consiliului Local al municipiului Orsova nr. 9 privind intocmirea intervalului ANUAL al bunurilor care alcatuiesc domeniul public si privat al municipiului Orsova, adoptata la data de 10.02.2025, cu modificarile ulterioare Vizualizare",
+"short": "HCL Orșova nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -70,6 +115,72 @@
 }
 },
 {
+"slug": "hcl-mehedinti--orsova-19-2026",
+"path": "local/mehedinti/orsova/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 19/2026 privind acordarea scutirilor sau reducerilor la impozitele si taxele locale in Municipiul Orsova, pentru anul 2026 Vizualizare",
+"short": "HCL Orșova nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-22-2026",
+"path": "local/mehedinti/orsova/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 22/2026 privind revocarea si desemnarea reprezentantilor Consiliului Local al municipiului Orsova, in Consiliul de Administratie al Spitalului municipal Orsova Vizualizare",
+"short": "HCL Orșova nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-23-2026",
+"path": "local/mehedinti/orsova/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 23/2026 privind alegerea comisiilor de specialitate ale Consiliului Local al municipiului Orsova pe principalele domenii de activitate , in mandatul 2024-2028, adoptata la data de 15.11.2024 Vizualizare",
+"short": "HCL Orșova nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--orsova-24-2026",
 "path": "local/mehedinti/orsova/2026/24",
 "kind": "local",
@@ -84,6 +195,95 @@
 "versions": 1,
 "from": "2026-03-31",
 "latest": "2026-03-31",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-26-2026",
+"path": "local/mehedinti/orsova/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 26/2026 privind aprobarea modificarii Acordului de parteneriat intre MUNICIPIUL ORSOVA /PRIMARIE- lider de proiect si DIRECTIA DE ASISTENTA SOCIALA ORSOVA/ Directia de Asistenta Sociala, in cadrul proiectului ” Digitalizarea proceselor de asistenta sociala la nivelul Municipiului Orsova” Vizualizare",
+"short": "HCL Orșova nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-28-2026",
+"path": "local/mehedinti/orsova/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 28/2026 privind modificarea Hotararii Consiliului Local al Municipiului Orsova nr. 52 privind aprobarea contractarii/garantarii unui imprumut intern in valoare de 700.000 lei, adoptata la data de 01.09.2025 si a Hotararii Consiliului Local al Municipiului Orsova nr. 21 privind aprobarea obiectivului de investitii,, Extindere /Electrificare retea electrica de joasa tensiune in municipiul Orsova, alimentare",
+"short": "HCL Orșova nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-31-2026",
+"path": "local/mehedinti/orsova/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 31/2026",
+"short": "HCL Orșova nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": null,
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-32-2026",
+"path": "local/mehedinti/orsova/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 32/2026 privind organizarea sarbatorii comunitare ,,Nunta de Aur” in municipiul Orsova in anul 2026 Vizualizare",
+"short": "HCL Orșova nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
 "portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
 "council": "mehedinti/orsova",
 "council_name": "Consiliul Local al Municipiului Orșova",
@@ -114,6 +314,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--orsova-40-2026",
+"path": "local/mehedinti/orsova/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 40/2026 privind reprezentarea in justitie a Consiliului Local al municipiului Orsova in dosarul nr. 1534/101/2026 Vizualizare",
+"short": "HCL Orșova nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--orsova-44-2026",
 "path": "local/mehedinti/orsova/2026/44",
 "kind": "local",
@@ -133,6 +355,50 @@
 "council_name": "Consiliul Local al Municipiului Orșova",
 "flags": {
 "text_source": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-46-2026",
+"path": "local/mehedinti/orsova/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 46/2026 privind acceptarea ofertei de donatie a unui imobil-teren extravilan, in suprafata de de 3301 mp, situat in municipiul Orsova, numar cadastral 50801, inscris in CF nr. 50801 Vizualizare",
+"short": "HCL Orșova nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-47-2026",
+"path": "local/mehedinti/orsova/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 47/2026 privind rectificarea bugetului de venituri si cheltuieli pe anul 2026, prin virari de credite bugetare Vizualizare",
+"short": "HCL Orșova nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -194,6 +460,358 @@
 "versions": 1,
 "from": "2026-09-24",
 "latest": "2026-09-24",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-53-2026",
+"path": "local/mehedinti/orsova/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 53/2026 privind aprobarea organigramei, statului de functii si numarului de personal pentru aparatul de specialitate al Primarului municipiului Orsova si al Serviciului Public Comunitar Local de Evidenta a Persoanelor al municipiului Orsova, fara personalitate juridica Vizualizare",
+"short": "HCL Orșova nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-55-2026",
+"path": "local/mehedinti/orsova/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 55/2026 privind aprobarea intocmirii Studiului de fezabilitate(SF) aferent obiectivului de investitii ,, Reabilitare si modernizare retele de apa si canalizare in municipiul Orsova” Vizualizare",
+"short": "HCL Orșova nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-58-2026",
+"path": "local/mehedinti/orsova/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 58/2026 privind desemnarea reprezentantilor Consiliului Local al municipiului Orsova, in Comisia de evaluare a probei de interviu a concursului de ocupare a functiilor de director si/sau director adjunct din unitatile de invatamant preuniversitar de stat din municipiul Orsova Vizualizare",
+"short": "HCL Orșova nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-59-2026",
+"path": "local/mehedinti/orsova/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 59/2026 privind desemnarea reprezentantilor Consiliului Local al municipiului Orsova, in comisiile de administratie ale unitatilor de invatamant de pe raza municipiului Orsova, pentru anul scolar 2026/2027 Vizualizare",
+"short": "HCL Orșova nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-60-2026",
+"path": "local/mehedinti/orsova/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 60/2026 privind desemnarea reprezentantilor Consiliului Local al municipiului Orsova, in Comisiile pentru evaluarea si asigurarea calitatii in unitatile de invatamant preuniversitar, de pe raza municipiului Orsova, pentru anul scolar 2026-2027 Vizualizare",
+"short": "HCL Orșova nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-61-2026",
+"path": "local/mehedinti/orsova/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 61/2026 privind alegerea Viceprimarului municipiului Orsova Vizualizare",
+"short": "HCL Orșova nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-64-2026",
+"path": "local/mehedinti/orsova/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 64/2026 privind aprobarea intocmirii Studiului de fezabilitate(SF) aferent obiectivului de investitii ,,Reabilitare si modernizare retele de apa si canalizare in municipiul Orsova” Vizualizare",
+"short": "HCL Orșova nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-65-2026",
+"path": "local/mehedinti/orsova/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 65/2026 privind trecerea din domeniul public in domeniul privat al unitatii administrativ-teritoriale municipiul Orsova a bunului imobil(teren si constructii) STADION MINERUL ORSOVA, inscris in CF nr. 52121 Orsova Vizualizare",
+"short": "HCL Orșova nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-67-2026",
+"path": "local/mehedinti/orsova/2026/67",
+"kind": "local",
+"year": "2026",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 67/2026 privind reprezentarea in justitie a Consiliului Local al municipiului Orsova in dosarul nr. 852/101/2025 Vizualizare",
+"short": "HCL Orșova nr. 67/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-68-2026",
+"path": "local/mehedinti/orsova/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 68/2026 privind completarea Hotararii Consiliului Local al municipiului Orsova nr. 62(14) privind aderarea Unitatii Administrativ-Teritoriale Municipiul Orsova, judetul Mehedinti , prin Consiliul Local al municipiului Orsova la Parteneriatul GAL pentru Acvacultura si Pescuit ,, Lacul de acumulare Portile de Fier , adoptata la data de 12.12.2024 Vizualizare",
+"short": "HCL Orșova nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-69-2026",
+"path": "local/mehedinti/orsova/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 69/2026 privind aprobarea proiectului ” Digitalizarea proceselor de asistenta sociala la nivelul municipiului Orsova, a documentelor aferente, a cheltuielilor legate de proiect si de aprobare a acordului de parteneriat Vizualizare",
+"short": "HCL Orșova nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-70-2026",
+"path": "local/mehedinti/orsova/2026/70",
+"kind": "local",
+"year": "2026",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 70/2026 privind aprobarea proiectului ;;Reabilitare , modernizare si cresterea eficientei energetice la gradinita nr. 2”, a documentelor aferente si a cheltuielior legate de proiect Vizualizare",
+"short": "HCL Orșova nr. 70/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-72-2026",
+"path": "local/mehedinti/orsova/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 72/2026 privind prelungirea unui mandat provizoriu, constatarea incetarii unui mandat provizoriu si modificarea actului constitutiv al Societatii Servicii Publice Orsova-SRL Vizualizare",
+"short": "HCL Orșova nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-19",
+"latest": "2026-10-19",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-73-2026",
+"path": "local/mehedinti/orsova/2026/73",
+"kind": "local",
+"year": "2026",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 73/2026 privind reprezentarea in justitie a Consiliului Local al municipiului Orsova in dosarele nr. 3313/101/2026, nr. 3414/101/2026, nr. 3415/101/2026, nr. 3448/101/2026 si nr. 3449/101/2026 Vizualizare",
+"short": "HCL Orșova nr. 73/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-75-2026",
+"path": "local/mehedinti/orsova/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 75/2026 privind aprobarea documentatiilor tehnico economica si tehnica aferente obiectivului de investitii ,,Centru multifunctional pentru protejarea si reintegrarea sociala a victimelor violentei domestice, Orsova” Vizualizare",
+"short": "HCL Orșova nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--orsova-76-2026",
+"path": "local/mehedinti/orsova/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 76/2026 privind aprobarea documentatiilor tehnico-economice si tehnice aferente obiectivului de investitii ,, Investitii in cladiri publice in vederea asigurarii/ cresterii eficientei energetice si utilizarea surselor regenerabile de energie- Directia de Asistenta Sociala Orsova” Vizualizare",
+"short": "HCL Orșova nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
 "portal": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
 "council": "mehedinti/orsova",
 "council_name": "Consiliul Local al Municipiului Orșova",

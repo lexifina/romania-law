@@ -224,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-mures--suplac-11-2025",
+"path": "local/mures/suplac/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 11/2025 Privind numirea persoanei cu atribuţii de indrumare, control şi constatare a încălcării legii în domeniul Prevenirii şi Stingerii Incendiilor al Comunei SUPLAC , Judeţul MURES",
+"short": "HCL Suplac nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#93969",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--suplac-12-2025",
 "path": "local/mures/suplac/2025/12",
 "kind": "local",
@@ -771,6 +793,28 @@
 "council_name": "Consiliul Local al Comunei Suplac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--suplac-37-2025",
+"path": "local/mures/suplac/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Suplac nr. 37/2025 Privind desemnarea unui reprezentant al Consiliului Local Suplac în Consiliul de Administraţie al Şcolii Gimnaziale ”Sf. Nicolae ”Laslău Mare pe anul școlar 2025-2026",
+"short": "HCL Suplac nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#106465",
+"council": "mures/suplac",
+"council_name": "Consiliul Local al Comunei Suplac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

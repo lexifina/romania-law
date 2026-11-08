@@ -3,6 +3,81 @@
  "shard": "local/mehedinti/godeanu/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--godeanu-1-2024",
+   "path": "local/mehedinti/godeanu/2024/1",
+   "short": "HCL Godeanu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 1/2024 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/146690",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/146690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-10-2024",
+   "path": "local/mehedinti/godeanu/2024/10",
+   "short": "HCL Godeanu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 10/2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188354",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-11-2024",
+   "path": "local/mehedinti/godeanu/2024/11",
+   "short": "HCL Godeanu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 11/2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188355",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-12-2024",
+   "path": "local/mehedinti/godeanu/2024/12",
+   "short": "HCL Godeanu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 12/2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188363",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-13-2024",
+   "path": "local/mehedinti/godeanu/2024/13",
+   "short": "HCL Godeanu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 13/2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188364",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188364",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--godeanu-14-2024",
    "path": "local/mehedinti/godeanu/2024/14",
    "short": "HCL Godeanu nr. 14/2024",
@@ -18,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--godeanu-15-2024",
+   "path": "local/mehedinti/godeanu/2024/15",
+   "short": "HCL Godeanu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 15/2024 privind modificarea suprafeței de teren aferentă Căminului Cultural din satul Godeanu, comuna Godeanu, înregistrată la poziția nr. 132 și modificarea suprafeței construcției „Local Cămin Cultural Godeanu”, înregistrat la poziția nr. 118, în anexa nr. 29-Inventarul bunurilor care aparțin domeniului public al comunei Godeanu, conform măsurătorilor topo cadastrale",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188375",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188375",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--godeanu-16-2024",
    "path": "local/mehedinti/godeanu/2024/16",
    "short": "HCL Godeanu nr. 16/2024",
@@ -28,6 +118,141 @@
      "from": "2025-01-27",
      "units": 1,
      "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-17-2024",
+   "path": "local/mehedinti/godeanu/2024/17",
+   "short": "HCL Godeanu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 17/2024 privind alegerea președintelui de ședință a Consiliului Local Godeanu",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188381",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-18-2024",
+   "path": "local/mehedinti/godeanu/2024/18",
+   "short": "HCL Godeanu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 18/2024 privind aprobarea închirierii prin licitație publică a unui spațiu ( dependință și hol de acces) în suprafață utilă de 43.85 mp, din suprafață totală de 288.8 mp, identificat cu nr. cadastral 50884, situat în incinta Căminului Cultural Godeanu, aparținând domeniului public al comunei Godeanu",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188382",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-19-2024",
+   "path": "local/mehedinti/godeanu/2024/19",
+   "short": "HCL Godeanu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 19/2024 privind aprobarea Bugetului de venituri și cheltuieli al Comunei Godeanu, pe anul 2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188428",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-2-2024",
+   "path": "local/mehedinti/godeanu/2024/2",
+   "short": "HCL Godeanu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 2/2024 privind validarea dispoziției primarului nr. 154/19.12.2023 și a dispoziției nr. 156/27.12.2023, privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/146691",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/146691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-20-2024",
+   "path": "local/mehedinti/godeanu/2024/20",
+   "short": "HCL Godeanu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 20/2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188437",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-21-2024",
+   "path": "local/mehedinti/godeanu/2024/21",
+   "short": "HCL Godeanu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 21/2024 privind implementarea proiectului „Achiziției UTV și accesorii în Comuna Godeanu, Județul Mehedinți”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188442",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-22-2024",
+   "path": "local/mehedinti/godeanu/2024/22",
+   "short": "HCL Godeanu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 22/2024 privind asocierea Unității Administrativ Teritorială, Comuna Godeanu cu Unitatea Administrativ Teritorială, Consiliul Județean Mehedinți, în vederea realizării obiectivului de interes public, al proiectului „CONSTRUIRE TEREN SPORT MULTIFUNCȚIONAL ÎN COMUNA GODEANU, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188454",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-23-2024",
+   "path": "local/mehedinti/godeanu/2024/23",
+   "short": "HCL Godeanu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 23/2024 privind aprobarea Bugetului de venituri și cheltuieli al Comunei Godeanu, pe anul 2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188457",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-24-2024",
+   "path": "local/mehedinti/godeanu/2024/24",
+   "short": "HCL Godeanu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 24/2024 privind aprobarea suplimentării planului de stabilire a lucrărilor ce urmează a fii executate de către SC GOSPODĂRIA COMUNALĂ GODEANU SRL, în anul 2023",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188460",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188460",
      "sha256": null
     }
    ]
@@ -73,6 +298,81 @@
      "from": "2025-01-27",
      "units": 1,
      "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-28-2024",
+   "path": "local/mehedinti/godeanu/2024/28",
+   "short": "HCL Godeanu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 28/2024 privind alegerea președintelui de ședință a Consiliului Local Godeanu",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188484",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-29-2024",
+   "path": "local/mehedinti/godeanu/2024/29",
+   "short": "HCL Godeanu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 29/2024 privind aprobarea Devizului General al obiectivului de investiție „PUNCT TERMIC ȘCOALA PRIMARĂ SIROCA ȘI CĂMIN CULTURAL SIROCA, SAT SIROCA, COMUNA GODEANU, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188489",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-3-2024",
+   "path": "local/mehedinti/godeanu/2024/3",
+   "short": "HCL Godeanu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 3/2024 privind acoperirea definitivă a deficitului secțiunii de dezvoltare din anul 2023",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/146692",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/146692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-30-2024",
+   "path": "local/mehedinti/godeanu/2024/30",
+   "short": "HCL Godeanu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 30/2024 privind aprobarea rectificării Bugetului de venituri și cheltuieli al Comunei Godeanu, pe anul 2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188491",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-31-2024",
+   "path": "local/mehedinti/godeanu/2024/31",
+   "short": "HCL Godeanu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 31/2024 privind aprobarea procedurii de anulare a dobânzilor, penalităților și a tuturor accesoriilor aferente obligațiilor bugetare principale, restante la 31.08.2024 inclusiv, datorate bugetului local de către persoanele fizice și juridice ce au calitatea de contribuabili la bugetul local al Comunei Godeanu",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/188492",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/188492",
      "sha256": null
     }
    ]
@@ -193,6 +493,21 @@
      "from": "2025-02-03",
      "units": 1,
      "source_url": "https://emol.ro/godeanu-mh/registru-hcl/190241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-4-2024",
+   "path": "local/mehedinti/godeanu/2024/4",
+   "short": "HCL Godeanu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 4/2024 privind utilizarea în anul 2024, a excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar al anului 2023",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/146740",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/146740",
      "sha256": null
     }
    ]
@@ -348,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--godeanu-5-2024",
+   "path": "local/mehedinti/godeanu/2024/5",
+   "short": "HCL Godeanu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 5/2024 privind aprobarea Bugetului de venituri și cheltuieli al Comunei Godeanu pe anul 2024",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/146741",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/146741",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--godeanu-50-2024",
    "path": "local/mehedinti/godeanu/2024/50",
    "short": "HCL Godeanu nr. 50/2024",
@@ -393,6 +723,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--godeanu-6-2024",
+   "path": "local/mehedinti/godeanu/2024/6",
+   "short": "HCL Godeanu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 6/2024 privind aprobarea planului de acțiuni și lucrări de interes local pentru anul 2024, în vederea efectuării orelor de muncă de către persoanele apte de muncă, beneficiare de ajutor de incluziune",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/146742",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/146742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-7-2024",
+   "path": "local/mehedinti/godeanu/2024/7",
+   "short": "HCL Godeanu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 7/2024 privind alegerea președintelui de ședință a Consiliului Local Godeanu",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/155937",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/155937",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--godeanu-8-2024",
    "path": "local/mehedinti/godeanu/2024/8",
    "short": "HCL Godeanu nr. 8/2024",
@@ -403,6 +763,21 @@
      "from": "2024-05-13",
      "units": 1,
      "source_url": "https://emol.ro/godeanu-mh/registru-hcl/155938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--godeanu-9-2024",
+   "path": "local/mehedinti/godeanu/2024/9",
+   "short": "HCL Godeanu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Godeanu nr. 9/2024 privind aprobarea suplimentării planului de stabilire a lucrărilor ce urmează a fii executate de către SC GOSPODARIA COMUNALA GODEANU SRL, în anul 2023",
+   "url": "https://emol.ro/godeanu-mh/registru-hcl/155939",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/godeanu-mh/registru-hcl/155939",
      "sha256": null
     }
    ]

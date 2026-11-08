@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--margineni-10-2025",
+   "path": "local/neamt/margineni/2025/10",
+   "short": "HCL Mărgineni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărgineni nr. 10/2025 privind aprobarea închirierii suprafeței de 20 mp. în centrul satului Mărgineni, firmei NastPad Food SRL în vederea amplasării unei rulote Fast-food",
+   "url": "https://emol.ro/margineni-nt/registru-hcl/191167",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/margineni-nt/registru-hcl/191167",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--margineni-12-2025",
    "path": "local/neamt/margineni/2025/12",
    "short": "HCL Mărgineni nr. 12/2025",

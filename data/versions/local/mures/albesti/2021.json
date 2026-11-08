@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-12-2021",
+   "path": "local/mures/albesti/2021/12",
+   "short": "HCL Albești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 12/2021 privind scutirea de la plata impozitului pe clădiri a unui imobil aparţinând Fundației ”Maranatha Romale” din Sighişoara",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/17770",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/17770",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-13-2021",
    "path": "local/mures/albesti/2021/13",
    "short": "HCL Albești nr. 13/2021",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-15-2021",
+   "path": "local/mures/albesti/2021/15",
+   "short": "HCL Albești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 15/2021 privind aprobarea situației aplicării contractului de administrare a pădurii aferent anului 2020, a bugetului de venituri si cheltuieli pentru anul 2021 și realizării volumului de masa lemnoasă propus pentru recoltare și valorificare în anul 2021 din fondul forestier proprietate publică a unității administrativ teritoriale Albești, precum și a modalităților de valorificare și prețurile de vânzare",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/20832",
+   "versions": [
+    {
+     "from": "2021-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/20832",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-16-2021",
    "path": "local/mures/albesti/2021/16",
    "short": "HCL Albești nr. 16/2021",
@@ -103,6 +133,21 @@
      "from": "2021-03-11",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/20834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-18-2021",
+   "path": "local/mures/albesti/2021/18",
+   "short": "HCL Albești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 18/2021",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/22096",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/22096",
      "sha256": null
     }
    ]
@@ -498,6 +543,36 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-42-2021",
+   "path": "local/mures/albesti/2021/42",
+   "short": "HCL Albești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 42/2021 privind trecerea din proprietatea Statului Român în domeniul privat al Comunei Albești și înscrierea dreptului de proprietate privată a Comunei Albești, asupra imobilelelor terenuri situate în intravilan înscrise în CF nr.55038 Albești și CF nr.1174 Albești",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/33270",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/33270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-43-2021",
+   "path": "local/mures/albesti/2021/43",
+   "short": "HCL Albești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 43/2021",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/33271",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/33271",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-44-2021",
    "path": "local/mures/albesti/2021/44",
    "short": "HCL Albești nr. 44/2021",
@@ -508,6 +583,21 @@
      "from": "2021-08-19",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/33272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-45-2021",
+   "path": "local/mures/albesti/2021/45",
+   "short": "HCL Albești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 45/2021 privind intabularea definitivă în Cartea Funciară a dreptului de proprietate publică a comunei Albești asupra unor imobile terenuri situate în intravilan/extravilan, având categoria de folosință drumuri",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/36071",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/36071",
      "sha256": null
     }
    ]
@@ -553,6 +643,21 @@
      "from": "2021-09-23",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/36074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-49-2021",
+   "path": "local/mures/albesti/2021/49",
+   "short": "HCL Albești nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 49/2021 privind desemnarea reprezentanţilor Consiliului Local al comunei Albesti în Consiliul de Administraţie şi în Comisia pentru Evaluarea şi Asigurarea Calităţii constituite în cadrul Şcolii gimnaziale Albesti",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/36075",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/36075",
      "sha256": null
     }
    ]

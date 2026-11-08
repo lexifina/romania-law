@@ -16,6 +16,21 @@
      "sha256": "ef0cffd41760b7f0f9075d81d8950c1578524bd2fc099468ec9277a4f5666bb4"
     }
    ]
+  },
+  {
+   "slug": "hcl-mures--iernut-58-2020",
+   "path": "local/mures/iernut/2020/58",
+   "short": "HCL Iernut nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 58/2020",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.137-30.05.2022-privind-revocarea-dreptului-de-folosinta-gratuita-acordat-in-temeiul-Legii-nr.15din2003-prin-H.C.L.-nr.58din28.04.20.pdf",
+     "sha256": "3b2adc18446376809aa8a57fee4ba9fcdcfa969dcddbd59e20981451e770a518"
+    }
+   ]
   }
  ]
 }

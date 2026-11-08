@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-mures--ibanesti-3-2024",
+"path": "local/mures/ibanesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 3/2024 privind aprobarea închirierii prin licitație publică a unui imobil cu destinația de spațiu comercial (farmacie umană)",
+"short": "HCL Ibănești nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159716",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--ibanesti-4-2024",
 "path": "local/mures/ibanesti/2024/4",
 "kind": "local",
@@ -91,6 +113,72 @@
 }
 },
 {
+"slug": "hcl-mures--ibanesti-6-2024",
+"path": "local/mures/ibanesti/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 6/2024 privind ratificarea Dispoziţiei nr.319 din 20.12.2023 privind rectificarea bugetului local al comunei Ibăneşti pe anul 2023 emisă de primarul comunei Ibănești",
+"short": "HCL Ibănești nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159925",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-7-2024",
+"path": "local/mures/ibanesti/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 7/2024 privind aprobarea prelungirii Contractului de închiriere nr.1408 din 19.02.2019 încheiat cu CEC BANK SA București – Sucursala Tg. Mureș prin act adițional",
+"short": "HCL Ibănești nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159926",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-8-2024",
+"path": "local/mures/ibanesti/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 8/2024 privind actualizarea “Planului de analiză şi acoperire a riscurilor al Comunei Ibăneşti”",
+"short": "HCL Ibănești nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159927",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--ibanesti-9-2024",
 "path": "local/mures/ibanesti/2024/9",
 "kind": "local",
@@ -110,6 +198,73 @@
 "council_name": "Consiliul Local al Comunei Ibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-10-2024",
+"path": "local/mures/ibanesti/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 10/2024",
+"short": "HCL Ibănești nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159929",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-11-2024",
+"path": "local/mures/ibanesti/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 11/2024 privind aprobarea încheierii unor contracte de consultanță și proiectare în vederea semnării contractului de finanțare pentru proiectul „Dezvoltare rețea inteligentă de distribuție gaze naturale în comuna Ibănești, județul Mureș” prin Programul Național de Investiţii ''Anghel Saligny''",
+"short": "HCL Ibănești nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159930",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-12-2024",
+"path": "local/mures/ibanesti/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 12/2024 privind alegerea preşedintelui de şedinţă, pentru şedinţa ordinară a Consiliului Local al Comunei Ibănești din data de 08.02.2024",
+"short": "HCL Ibănești nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159947",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +312,50 @@
 }
 },
 {
+"slug": "hcl-mures--ibanesti-15-2024",
+"path": "local/mures/ibanesti/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 15/2024 privind modificarea statului de funcții, aprobat prin HCL nr.51 din 16.08.2019 privind aprobarea structurii organizatorice a primăriei comunei Ibănești, cu modificările și completările ulterioare",
+"short": "HCL Ibănești nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159950",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-16-2024",
+"path": "local/mures/ibanesti/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 16/2024 privind aprobarea acordului de parteneriat pentru proiectul ”Renovare, extindere și echipare cu calculatoare și echipamente tehnice a bibliotecilor ce vor fi transformate în hub-uri de dezvoltare a competențelor digitale",
+"short": "HCL Ibănești nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159951",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--ibanesti-17-2024",
 "path": "local/mures/ibanesti/2024/17",
 "kind": "local",
@@ -198,6 +397,29 @@
 "council_name": "Consiliul Local al Comunei Ibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-19-2024",
+"path": "local/mures/ibanesti/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 19/2024",
+"short": "HCL Ibănești nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159954",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -267,6 +489,139 @@
 }
 },
 {
+"slug": "hcl-mures--ibanesti-23-2024",
+"path": "local/mures/ibanesti/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 23/2024 privind alegerea preşedintelui de şedinţă, pentru şedinţele Consiliului Local al Comunei Ibănești din lunile aprilie, mai și iunie 2024",
+"short": "HCL Ibănești nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/159958",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-24-2024",
+"path": "local/mures/ibanesti/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 24/2024 privind casarea unor mijloace fixe și a unor obiecte de inventar la finele anului 2023",
+"short": "HCL Ibănești nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160077",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-25-2024",
+"path": "local/mures/ibanesti/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 25/2024 privind însuşirea şi aprobarea documentaţiei cadastrale de dezmembrare a unui imobil aparţinând domeniului privat al Comunei Ibăneşti",
+"short": "HCL Ibănești nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160078",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-26-2024",
+"path": "local/mures/ibanesti/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 26/2024",
+"short": "HCL Ibănești nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160079",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-27-2024",
+"path": "local/mures/ibanesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 27/2024 privind modificarea statului de funcții, aprobat prin HCL nr.51/16.08.2019 privind aprobarea structurii organizatorice a primăriei comunei Ibănești, cu modificările și completările ulterioare",
+"short": "HCL Ibănești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160080",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-28-2024",
+"path": "local/mures/ibanesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 28/2024 privind aprobarea modificării Statutului „Asociației de Dezvoltare Intercomunitară ECOLECT MUREŞ”",
+"short": "HCL Ibănești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160081",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--ibanesti-29-2024",
 "path": "local/mures/ibanesti/2024/29",
 "kind": "local",
@@ -308,6 +663,182 @@
 "council_name": "Consiliul Local al Comunei Ibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-31-2024",
+"path": "local/mures/ibanesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 31/2024 privind aprobarea cumpărării unui teren ca urmare a încheierii unei Promisiunii bilaterale de vânzare",
+"short": "HCL Ibănești nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160084",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-32-2024",
+"path": "local/mures/ibanesti/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 32/2024 privind modificarea Hotărârii Consiliului Local Ibănești nr. 22 din 25 martie 2024 privind aprobarea înființării/desfășurării de activități finanțate integral din venituri proprii pentru Școala Gimnazială Ibănești",
+"short": "HCL Ibănești nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160085",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-33-2024",
+"path": "local/mures/ibanesti/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 33/2024 privind aprobarea Strategiei de Dezvoltare Locala a Comunei Ibănești, Județul Mureș, pentru perioada 2021-2027",
+"short": "HCL Ibănești nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160086",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-34-2024",
+"path": "local/mures/ibanesti/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 34/2024 privind alocarea unui spațiu pentru desfășurarea activității permanente a echipajului de prim ajutor, a unui nou echipaj de stingere a incendiilor și a serviciului voluntar",
+"short": "HCL Ibănești nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160087",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-35-2024",
+"path": "local/mures/ibanesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 35/2024 privind menținerea formei de gestiune a Serviciului Public de Alimentare cu Apă și de Canalizare al comunei Ibănești, județul Mureș",
+"short": "HCL Ibănești nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160088",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-36-2024",
+"path": "local/mures/ibanesti/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 36/2024 privind emiterea acordului de utilizare a domeniului public al comunei Ibănești pentru obiectivul ”Dezvoltare rețea inteligentă de distribuție gaze naturale în comuna Ibănești, județul Mureș\"",
+"short": "HCL Ibănești nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160096",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-37-2024",
+"path": "local/mures/ibanesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 37/2024 privind încheierea a două acte adiționale la contractele de închiriere nr.5427 din 17.05.2023 și 5947 din 30.052023, pentru suprafețele de pășune aflate în domeniul privat al comunei Ibănești",
+"short": "HCL Ibănești nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160097",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-38-2024",
+"path": "local/mures/ibanesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 38/2024 privind avizarea încheierii unui act adiţional la contractul nr. 509/25.01.2023 de delegare a gestiunii activităţilor de colectare şi transport a deşeurilor municipale şi a altor fluxuri de deşeuri, și operarea stației de transfer Reghin, componente ale serviciului de salubrizare al Județului Mureș din cadrul Sistemului de Management Integrat al Deșeurilor Municipale Solide din Județul Mureș (SMIDS Mureș) – zona 4 Reghin",
+"short": "HCL Ibănești nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160098",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -355,6 +886,96 @@
 }
 },
 {
+"slug": "hcl-mures--ibanesti-41-2024",
+"path": "local/mures/ibanesti/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 41/2024 privind emiterea acordului de utilizare a domeniului public pentru lucrării de branșamente la rețelele publice apă, canal, electricitate pentru obiectivul ,,Construire Capelă Mortuară în satul Ibănești-Pădure, comuna Ibănești, județul Mureș”",
+"short": "HCL Ibănești nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160118",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-42-2024",
+"path": "local/mures/ibanesti/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 42/2024",
+"short": "HCL Ibănești nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160119",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-43-2024",
+"path": "local/mures/ibanesti/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 43/2024 privind scutirea de la plata chiriei pentru anul 2024, pentru suprafața de 4,48 ha, din blocul fizic 1616, pășunea Prislop",
+"short": "HCL Ibănești nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160120",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-44-2024",
+"path": "local/mures/ibanesti/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 44/2024",
+"short": "HCL Ibănești nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-26",
+"latest": "2024-06-26",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/160121",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mures--ibanesti-45-2024",
 "path": "local/mures/ibanesti/2024/45",
 "kind": "local",
@@ -377,6 +998,50 @@
 }
 },
 {
+"slug": "hcl-mures--ibanesti-46-2024",
+"path": "local/mures/ibanesti/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 46/2024 privind alegerea preşedintelui de şedinţă, pentru şedinţele Consiliului Local al Comunei Ibănești din lunile iulie, august și septembrie 2024",
+"short": "HCL Ibănești nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-20",
+"latest": "2024-08-20",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/166084",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-47-2024",
+"path": "local/mures/ibanesti/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 47/2024 privind însuşirea şi aprobarea documentaţiei cadastrale de alipire a două imobile aparţinând domeniului privat al Comunei Ibăneşti",
+"short": "HCL Ibănești nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-20",
+"latest": "2024-08-20",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/166085",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--ibanesti-48-2024",
 "path": "local/mures/ibanesti/2024/48",
 "kind": "local",
@@ -396,6 +1061,28 @@
 "council_name": "Consiliul Local al Comunei Ibănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-49-2024",
+"path": "local/mures/ibanesti/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 49/2024 privind ratificarea Dispoziţiei nr.150 din 25.06.2024 privind rectificarea bugetului local al comunei Ibăneşti pe anul 2024 emisă de viceprimarul comunei Ibănești",
+"short": "HCL Ibănești nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/173767",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -463,6 +1150,271 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-53-2024",
+"path": "local/mures/ibanesti/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 53/2024 privind ratificarea Dispoziţiei nr.186 din 16.09.2024 privind rectificarea bugetului local al comunei Ibăneşti pe anul 2024 emisă de primarul comunei Ibănești",
+"short": "HCL Ibănești nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/173774",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-54-2024",
+"path": "local/mures/ibanesti/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 54/2024 privind rectificarea bugetului local al comunei Ibănești pe anul 2024",
+"short": "HCL Ibănești nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/173775",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-55-2024",
+"path": "local/mures/ibanesti/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 55/2024",
+"short": "HCL Ibănești nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/173776",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-56-2024",
+"path": "local/mures/ibanesti/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 56/2024 privind actualizarea statului de funcții, aprobat prin HCL nr.51/16.08.2019 privind aprobarea structurii organizatorice a primăriei comunei Ibănești, cu modificările și completările ulterioare",
+"short": "HCL Ibănești nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/173777",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-57-2024",
+"path": "local/mures/ibanesti/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 57/2024 privind modul de valorificare a masei lemnoase din partida nr.6061",
+"short": "HCL Ibănești nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/173778",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-58-2024",
+"path": "local/mures/ibanesti/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 58/2024 privind alegerea preşedintelui de şedinţă, pentru şedinţele Consiliului Local al Comunei Ibănești din lunile octombrie, noiembrie și decembrie 2024",
+"short": "HCL Ibănești nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/174874",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-59-2024",
+"path": "local/mures/ibanesti/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 59/2024 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local Ibănești",
+"short": "HCL Ibănești nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/174875",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-60-2024",
+"path": "local/mures/ibanesti/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 60/2024 privind alegerea viceprimarului Comunei Ibănești",
+"short": "HCL Ibănești nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/174876",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-61-2024",
+"path": "local/mures/ibanesti/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 61/2024 privind APROBAREA DEPUNERII PROIECTULUI, A CHELTUIELILOR LEGATE DE PROIECT ȘI ÎNCHEIEREA UNUI ACORD DE PARTENERIAT ÎNTRE COMUNA IBĂNEȘTI ȘI COMUNA HODAC PROIECT „ECOSISTEM DE GUVERNARE LOCALĂ ÎN INTERESUL COMUNITĂȚILOR DIN COMUNA IBĂNEȘTI, JUDEȚUL MUREȘ ȘI COMUNA HODAC, JUDEȚUL MUREȘ” Prioritatea 2 O regiune digitală Acțiunea 1 Comunități digitale pentru o regiune inteligentă Intervenția 2.1.1 Comunități digitale pentru o regiune inteligentă – soluții digitale OS 1.2 Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al companiilor, al organizațiilor de cercetare și al autorităților publice",
+"short": "HCL Ibănești nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/176973",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-62-2024",
+"path": "local/mures/ibanesti/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 62/2024 privind aprobarea participării Comunei IBĂNEȘTI in cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum si aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul Modernizarea sistemului de iluminat public stradal, în comuna Ibănești Județul Mureș- etapa II",
+"short": "HCL Ibănești nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/176974",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-63-2024",
+"path": "local/mures/ibanesti/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 63/2024 privind desemnarea a doi reprezentanți ai Consiliului Local Ibăneşti în Consiliul de administraţie al Şcolii Gimnaziale Ibăneşti",
+"short": "HCL Ibănești nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/179562",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--ibanesti-64-2024",
+"path": "local/mures/ibanesti/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 64/2024 privind numirea reprezentantului Consiliului local al Comunei Ibănești ca membru al Comisiei pentru evaluarea și asigurarea calității în cadrul Școlii Gimnaziale Ibănești, pentru anul 2024-2025",
+"short": "HCL Ibănești nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/ibanesti-ms/registru-hcl/179563",
+"council": "mures/ibanesti",
+"council_name": "Consiliul Local al Comunei Ibănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

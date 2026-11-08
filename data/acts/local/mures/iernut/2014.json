@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mures/iernut/2014",
+"acts": [
+{
+"slug": "hcl-mures--iernut-117-2014",
+"path": "local/mures/iernut/2014/117",
+"kind": "local",
+"year": "2014",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 117/2014",
+"short": "HCL Iernut nr. 117/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-09-30",
+"latest": "2014-09-30",
+"portal": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,50 @@
 "shard": "local/mehedinti/poroina-mare/2023",
 "acts": [
 {
+"slug": "hcl-mehedinti--poroina-mare-1-2023",
+"path": "local/mehedinti/poroina-mare/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 1/2023 privind Evaluarea performanțelor Secretarului General al comunei Poroina Mare pe anul 2022",
+"short": "HCL Poroina Mare nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/poroinamare-mh/registru-hcl/92934",
+"council": "mehedinti/poroina-mare",
+"council_name": "Consiliul Local al Comunei Poroina Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--poroina-mare-13-2023",
+"path": "local/mehedinti/poroina-mare/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 13/2023 privind alegerea președintelui de ședință pentru lunile mai, iunie și iulie 2023",
+"short": "HCL Poroina Mare nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/poroinamare-mh/registru-hcl/102498",
+"council": "mehedinti/poroina-mare",
+"council_name": "Consiliul Local al Comunei Poroina Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--poroina-mare-14-2023",
 "path": "local/mehedinti/poroina-mare/2023/14",
 "kind": "local",
@@ -220,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Poroina Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--poroina-mare-24-2023",
+"path": "local/mehedinti/poroina-mare/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 24/2023 privind desemnarea a doi reprezentanti ai Consiliului Local Poroina Mare, jud. Mehedinti, unul in Comisia pt evaluarea si asigurarea calitatii in cadrul Scolii Poroina Mare pt anul scolar 2023-2024 si cel de-al doilea pt Consiliul de Administratie al Scolii Primare Poroina Mare pt anul scolar 2023-2024",
+"short": "HCL Poroina Mare nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/poroinamare-mh/registru-hcl/121392",
+"council": "mehedinti/poroina-mare",
+"council_name": "Consiliul Local al Comunei Poroina Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

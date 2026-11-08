@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-4-2025",
+"path": "local/neamt/ion-creanga/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 4/2025 privind aprobarea , scăderii debitelor , datorate din anii precedenți , la bugetul local al comunei Ion Creanga , începând cu 01.01.2025 , a unor contribuabili",
+"short": "HCL Ion Creangă nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/189680",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-5-2025",
 "path": "local/neamt/ion-creanga/2025/5",
 "kind": "local",
@@ -400,6 +422,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-20-2025",
+"path": "local/neamt/ion-creanga/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 20/2025 privind acordarea unui ajutor de urgență",
+"short": "HCL Ion Creangă nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/194985",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-21-2025",
 "path": "local/neamt/ion-creanga/2025/21",
 "kind": "local",
@@ -419,6 +463,28 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-22-2025",
+"path": "local/neamt/ion-creanga/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 22/2025 privind aprobarea prelungirii contractelor de închirire izlaz comunal",
+"short": "HCL Ion Creangă nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/201032",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +554,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-26-2025",
+"path": "local/neamt/ion-creanga/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 26/2025 privind incetarea contractului de inchiriere locuintă ANL",
+"short": "HCL Ion Creangă nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/201036",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-27-2025",
 "path": "local/neamt/ion-creanga/2025/27",
 "kind": "local",
@@ -529,6 +617,28 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-29-2025",
+"path": "local/neamt/ion-creanga/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 29/2025 privind incetarea contractului de inchiriere locuintă ANL",
+"short": "HCL Ion Creangă nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/201039",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -620,6 +730,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-34-2025",
+"path": "local/neamt/ion-creanga/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 34/2025 privind acordare sprijin financiar nou născuți si familie nou constituita",
+"short": "HCL Ion Creangă nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/206197",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-35-2025",
 "path": "local/neamt/ion-creanga/2025/35",
 "kind": "local",
@@ -642,6 +774,50 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-36-2025",
+"path": "local/neamt/ion-creanga/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 36/2025 privind incetare contract inchiriere spatiu Farmacie",
+"short": "HCL Ion Creangă nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/206199",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-37-2025",
+"path": "local/neamt/ion-creanga/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 37/2025 privind aprobare prelungire contract inchiriere pasune",
+"short": "HCL Ion Creangă nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/208317",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-38-2025",
 "path": "local/neamt/ion-creanga/2025/38",
 "kind": "local",
@@ -661,6 +837,28 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-39-2025",
+"path": "local/neamt/ion-creanga/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 39/2025 aprobarea închirierii prin licitație publică a unor suprafețe de pășune comunală",
+"short": "HCL Ion Creangă nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/208319",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -749,6 +947,52 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-44-2025",
+"path": "local/neamt/ion-creanga/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 44/2025",
+"short": "HCL Ion Creangă nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/208324",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-45-2025",
+"path": "local/neamt/ion-creanga/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 45/2025",
+"short": "HCL Ion Creangă nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/208325",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -884,6 +1128,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-52-2025",
+"path": "local/neamt/ion-creanga/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 52/2025 privind aprobarea acordarii unei locuinte construite in Ion Creanga de catre Agentia Nationala pentru locuinte",
+"short": "HCL Ion Creangă nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/215178",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-53-2025",
 "path": "local/neamt/ion-creanga/2025/53",
 "kind": "local",
@@ -994,6 +1260,72 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-58-2025",
+"path": "local/neamt/ion-creanga/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 58/2025 privind aprobarea acordarii unei locuinte construite in Ion Creanga de catre Agentia Nationala",
+"short": "HCL Ion Creangă nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/215184",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-59-2025",
+"path": "local/neamt/ion-creanga/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 59/2025 privind acordarea unui ajutor de urgență",
+"short": "HCL Ion Creangă nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/215185",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-60-2025",
+"path": "local/neamt/ion-creanga/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 60/2025 privind incetarea contractului de inchiriere locuintă ANL",
+"short": "HCL Ion Creangă nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/215186",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-61-2025",
 "path": "local/neamt/ion-creanga/2025/61",
 "kind": "local",
@@ -1101,6 +1433,50 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-66-2025",
+"path": "local/neamt/ion-creanga/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 66/2025 privind incetarea contract locuinta ANL",
+"short": "HCL Ion Creangă nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-12",
+"latest": "2025-08-12",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/220688",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-67-2025",
+"path": "local/neamt/ion-creanga/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 67/2025 privind incetare contract locuinta ANL",
+"short": "HCL Ion Creangă nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-12",
+"latest": "2025-08-12",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/220689",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1236,6 +1612,29 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-74-2025",
+"path": "local/neamt/ion-creanga/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 74/2025",
+"short": "HCL Ion Creangă nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-12",
+"latest": "2025-08-12",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/220696",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-75-2025",
 "path": "local/neamt/ion-creanga/2025/75",
 "kind": "local",
@@ -1299,6 +1698,28 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-78-2025",
+"path": "local/neamt/ion-creanga/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 78/2025 privind aprobarea închirierii a unui spatiu ce apartine UAT – Comuna Ion Creanga, judetul Neamt",
+"short": "HCL Ion Creangă nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/224213",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1436,6 +1857,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-85-2025",
+"path": "local/neamt/ion-creanga/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 85/2025 privind aprobarea acordarii unei locuinte construite in Ion Creanga de catre ANL",
+"short": "HCL Ion Creangă nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/231540",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-86-2025",
 "path": "local/neamt/ion-creanga/2025/86",
 "kind": "local",
@@ -1480,6 +1923,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-88-2025",
+"path": "local/neamt/ion-creanga/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 88/2025 privind aprobarea închirierii prin licitatie publica a doua parcele teren neproductiv folosit pentru pasunatul animalelor, proprietatea Comunei Ion Creanga și a documentatiilor necesare în vederea atribuirii contractelor de închiriere",
+"short": "HCL Ion Creangă nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/231543",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-89-2025",
 "path": "local/neamt/ion-creanga/2025/89",
 "kind": "local",
@@ -1499,6 +1964,28 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-90-2025",
+"path": "local/neamt/ion-creanga/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 90/2025 privind numirea reprezentanților Consiliului local al comunei Ion Creangă în Comisia pentru analiza ofertelor privind închirierea spațiu pentru functionarea unui oficiu- postal",
+"short": "HCL Ion Creangă nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/231545",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1568,6 +2055,29 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-94-2025",
+"path": "local/neamt/ion-creanga/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 94/2025",
+"short": "HCL Ion Creangă nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/231549",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-95-2025",
 "path": "local/neamt/ion-creanga/2025/95",
 "kind": "local",
@@ -1590,6 +2100,28 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-96-2025",
+"path": "local/neamt/ion-creanga/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 96/2025 privind desemnarea reprezentanților Consiliului Local al Comunei Ion Creangă în Consiliul de administrație al Școlii Gimnaziale Comuna Ion Creangă, jud. Neamț pentru anul școlar 2025- 2026",
+"short": "HCL Ion Creangă nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/231551",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-97-2025",
 "path": "local/neamt/ion-creanga/2025/97",
 "kind": "local",
@@ -1609,6 +2141,29 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-98-2025",
+"path": "local/neamt/ion-creanga/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 98/2025",
+"short": "HCL Ion Creangă nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/231553",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1766,6 +2321,29 @@
 }
 },
 {
+"slug": "hcl-neamt--ion-creanga-106-2025",
+"path": "local/neamt/ion-creanga/2025/106",
+"kind": "local",
+"year": "2025",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 106/2025",
+"short": "HCL Ion Creangă nr. 106/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/232994",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--ion-creanga-107-2025",
 "path": "local/neamt/ion-creanga/2025/107",
 "kind": "local",
@@ -1829,6 +2407,29 @@
 "council_name": "Consiliul Local al Comunei Ion Creangă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--ion-creanga-110-2025",
+"path": "local/neamt/ion-creanga/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 110/2025",
+"short": "HCL Ion Creangă nr. 110/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/ioncreanga-nt/registru-hcl/239475",
+"council": "neamt/ion-creanga",
+"council_name": "Consiliul Local al Comunei Ion Creangă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

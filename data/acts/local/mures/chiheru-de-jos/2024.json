@@ -3,6 +3,183 @@
 "shard": "local/mures/chiheru-de-jos/2024",
 "acts": [
 {
+"slug": "hcl-mures--chiheru-de-jos-1-2024",
+"path": "local/mures/chiheru-de-jos/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 1/2024 privind aprobarea acoperirii definitive a deficitului secțiunii de funcționare și a secțiunii de dezvoltare a sursei A, pe anul 2023, din excedentul anului precedent",
+"short": "HCL Chiheru de Jos nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151681",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-2-2024",
+"path": "local/mures/chiheru-de-jos/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 2/2024 privind aprobarea utilizării excedentului anual rezultat la finele anului 2023, în anul 2024",
+"short": "HCL Chiheru de Jos nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151682",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-3-2024",
+"path": "local/mures/chiheru-de-jos/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 3/2024 privind aprobarea rețelei școlare pe anul 2024-2025 de pe raza comunei Chiheru de Jos, județul Mureș",
+"short": "HCL Chiheru de Jos nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151683",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-4-2024",
+"path": "local/mures/chiheru-de-jos/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 4/2024 privind aprobarea nivelului taxei de salubrizare pentru anul 2024 în comuna Chiheru de Jos",
+"short": "HCL Chiheru de Jos nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151684",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-5-2024",
+"path": "local/mures/chiheru-de-jos/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 5/2024 privind aprobarea actualizării PLANULUI DE ANALIZĂ ȘI ACOPERIRE A RISCURILOR 2024",
+"short": "HCL Chiheru de Jos nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151685",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-6-2024",
+"path": "local/mures/chiheru-de-jos/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 6/2024",
+"short": "HCL Chiheru de Jos nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151686",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-7-2024",
+"path": "local/mures/chiheru-de-jos/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 7/2024 privind aprobarea bugetului local al Comunei Chiheru de Jos pe anul 2024",
+"short": "HCL Chiheru de Jos nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151989",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-8-2024",
+"path": "local/mures/chiheru-de-jos/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 8/2024 privind aprobarea utilizării excedentului anual rezultat la finele anului 2023, în anul 2024",
+"short": "HCL Chiheru de Jos nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151990",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-9-2024",
 "path": "local/mures/chiheru-de-jos/2024/9",
 "kind": "local",
@@ -22,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Chiheru de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-10-2024",
+"path": "local/mures/chiheru-de-jos/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 10/2024 privind aprobarea modificării Statutului ''Asociației de Dezvoltare Intercomunitară ECOLECT MUREȘ''",
+"short": "HCL Chiheru de Jos nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/151992",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-14-2024",
+"path": "local/mures/chiheru-de-jos/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 14/2024 privind aprobarea prelungirii contractelor de închiriere pentru suprafețele de pajiști aflate în domeniul privat al comunei Chiheru de Jos, nr. 1180/10.05.2017, nr. 1181/10.05.2017, nr. 1182/10.05.2017, nr. 1183/10.05.2017, nr. 1184/10.05.2017, nr. 1185/10.05.2017, nr. 1188/10.05.2017, nr.1189/10.05.2017, nr. 1190/10.05.2017 și nr. 1191/10.05.2017, pentru care s-a solicitate prelungirea cu trei ani de către titularii acestora, conform art.. 9 alin. (2) din OUG nr. 34/2013 privind organizarea, administrarea și exploatarea pajiștilor permanente și pentru modificarea și completarea Legii fondului funciar nr. 181/1991, aprobate prin HG nr. 1.064/2013, cu modificările și completările ulterioare",
+"short": "HCL Chiheru de Jos nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/152017",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-15-2024",
 "path": "local/mures/chiheru-de-jos/2024/15",
 "kind": "local",
@@ -135,6 +356,95 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-17-2024",
+"path": "local/mures/chiheru-de-jos/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 17/2024 privind înființarea Serviciului de gestionare a câinilor fără stăpân al comunei Chiheru de Jos, județul Mureș",
+"short": "HCL Chiheru de Jos nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/152020",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-18-2024",
+"path": "local/mures/chiheru-de-jos/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 18/2024 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Chiheru de Jos nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/152136",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-19-2024",
+"path": "local/mures/chiheru-de-jos/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 19/2024",
+"short": "HCL Chiheru de Jos nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/152137",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-20-2024",
+"path": "local/mures/chiheru-de-jos/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 20/2024 privind aprobarea Regulamentului privind stabilirea unor măsuri edilitar-gospodărești, administrarea domeniului public și privat, constatarea faptelor care constituie contravenții și alte măsuri pentru asigurarea ordinii și curățeniei în comuna Chiheru de Jos, județul Mureș",
+"short": "HCL Chiheru de Jos nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/152138",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-21-2024",
 "path": "local/mures/chiheru-de-jos/2024/21",
 "kind": "local",
@@ -154,6 +464,51 @@
 "council_name": "Consiliul Local al Comunei Chiheru de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-22-2024",
+"path": "local/mures/chiheru-de-jos/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 22/2024 privind aprobarea închirierii prin atribuire directă a terenurilor având categoria de folosință pășuni din domeniul privat al comunei Chiheru de Jos, județul Mureș, disponibile la nivelul anului 2024, a studiului de oportunitate și a documentașiei de atribuire directă în vederea încheierii contractelor de închiriere",
+"short": "HCL Chiheru de Jos nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166559",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-23-2024",
+"path": "local/mures/chiheru-de-jos/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 23/2024",
+"short": "HCL Chiheru de Jos nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166560",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -179,6 +534,72 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-25-2024",
+"path": "local/mures/chiheru-de-jos/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 25/2024 privind îndreptarea unei erori materiale strecurate în HCL nr. 13 din 27.02.2024 prin care s-a aprobat Regulamentul-cadru de închiriere a bunurilor aflate în proprietatea publică sau privată a Comunei Chiheru de Jos",
+"short": "HCL Chiheru de Jos nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166567",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-26-2024",
+"path": "local/mures/chiheru-de-jos/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 26/2024 privind stabilirea destinației și a prețului de vânzare a masei lemnoase din Partida nr. 6800 - UP.III ua.35A - 538,78 mc; Partida nr. 6819 - UP.III - ua.34A, 34C, 34D - 191,29 mc; Partida nr. 6822- UP.IX - ua.84B - 368,82 mc și Partida nr. 6821 - UP.III - ua. 44B - 111, 59 mc",
+"short": "HCL Chiheru de Jos nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166568",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-27-2024",
+"path": "local/mures/chiheru-de-jos/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 27/2024 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Chiheru de Jos nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166596",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-28-2024",
 "path": "local/mures/chiheru-de-jos/2024/28",
 "kind": "local",
@@ -201,6 +622,94 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-29-2024",
+"path": "local/mures/chiheru-de-jos/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 29/2024 privind modificarea și actualizarea Statului de funcții al aparatului de specialitate al primarului comunei Chiheru de Jos",
+"short": "HCL Chiheru de Jos nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166598",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-30-2024",
+"path": "local/mures/chiheru-de-jos/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 30/2024 privind înscrierea în Cartea Funciară a unui imobil - drum de exploatare - DE 1199, tarla 17, Nirajul Mic, în suprafață de 960 mp, aplasat în extravilanul comunei Chiheru de Jos",
+"short": "HCL Chiheru de Jos nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166599",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-31-2024",
+"path": "local/mures/chiheru-de-jos/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 31/2024 privind înscrierea în Cartea funciară a unui imobil - drum de exploatare - DE 1078, tarla 16, Poiana Giurgiului - Prislop - Brădețel în suprafață de 1763 mp, amplasat în extravilanul comunei Chiheru de Jos",
+"short": "HCL Chiheru de Jos nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166600",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-32-2024",
+"path": "local/mures/chiheru-de-jos/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 32/2024 privind aprobarea dezmembrării imobilului - teren având categoria de folosință drum, în suprafață de 11.670 mp situat parțial în intravilanul localității Chiheru de Sus - proprietate privată a comunei Chiheru de Jos, evidențiat în CF. nr. 51688, nr. cadastral 51688, în trei loturi: Lotul 1 - 1.073 mp, Lotul 2 - 1.515 mp și Lotul 3 - 9.082 mp",
+"short": "HCL Chiheru de Jos nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/166601",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-33-2024",
 "path": "local/mures/chiheru-de-jos/2024/33",
 "kind": "local",
@@ -220,6 +729,50 @@
 "council_name": "Consiliul Local al Comunei Chiheru de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-34-2024",
+"path": "local/mures/chiheru-de-jos/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 34/2024 privind validarea Dispoziției primarului nr. 100 din 21.06.2024, privind rectificarea bugetului local al comunei Chiheru de Jos, pe trim. II al anului 2024",
+"short": "HCL Chiheru de Jos nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247114",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-35-2024",
+"path": "local/mures/chiheru-de-jos/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 35/2024 privind stabilirea destinației și a prețului de vânzare a masei lemnoase din Partida nr. 6823-UP. III-ua. 54A, 63 D-113, 02 mc., Partida nr. 6824-UP.III-ua. 69 A-3, 43 mc., PArtida nr. 6825-UP.III-ua. 87B -85,31 mc., Partida nr. 6826-UP III-ua. 95-40.87 mc., Partida nr. 6826-UP III-ua. 93B, 94A, 94C-47,61 mc., Partida nr.6834-UP III-ua. 33A, 33B-136,00mc, Partida nr. 6835-UP. III-ua. 28, 31B-51,66mc., Partida nr.6843-UP.III-ua. 2B-92, 42 mc și PArtida nr. 6846-UP. III-ua. 49A-12, 84 mc",
+"short": "HCL Chiheru de Jos nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247117",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +820,51 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-38-2024",
+"path": "local/mures/chiheru-de-jos/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 38/2024",
+"short": "HCL Chiheru de Jos nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247136",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-39-2024",
+"path": "local/mures/chiheru-de-jos/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 39/2024 privind stabilirea destinației și a prețului de vânzare a masei lemnoase din Partida nr. 6849 -UP. III-ua. 60A, 71A, 72, A, 73-50,41 mc și Partida nr. 6850-UP. III-ua.61A, 62A, 63B, 71C, 71D-58,63 mc.,",
+"short": "HCL Chiheru de Jos nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247139",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-40-2024",
 "path": "local/mures/chiheru-de-jos/2024/40",
 "kind": "local",
@@ -289,6 +887,50 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-41-2024",
+"path": "local/mures/chiheru-de-jos/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 41/2024 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Chiheru de Jos nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247144",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-42-2024",
+"path": "local/mures/chiheru-de-jos/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 42/2024 privind rectificarea bugetului local al comunei Chiheru e Jos pe anul 2024",
+"short": "HCL Chiheru de Jos nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-17",
+"latest": "2024-10-17",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247145",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-43-2024",
 "path": "local/mures/chiheru-de-jos/2024/43",
 "kind": "local",
@@ -308,6 +950,28 @@
 "council_name": "Consiliul Local al Comunei Chiheru de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-44-2024",
+"path": "local/mures/chiheru-de-jos/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 44/2024 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Chiheru de Jos nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247147",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

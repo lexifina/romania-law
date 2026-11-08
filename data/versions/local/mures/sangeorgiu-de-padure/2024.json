@@ -63,6 +63,81 @@
    ]
   },
   {
+   "slug": "hcl-mures--sangeorgiu-de-padure-14-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/14",
+   "short": "HCL Sângeorgiu de Pădure nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 14/2024 privind radierea sarcinilor înscrise în CF 51962 (CF vechi 417) Sângeorgiu de Pădure pe seama fostei debitoare SC SOCOM Tîrnava Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=4992&file=20240404-164325-H.C.L.-Nr.14.pdf",
+     "sha256": "a12e4f0a691258b8a9c0661f81d9ab06090df8102688dfb7ef648c942923deee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-15-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/15",
+   "short": "HCL Sângeorgiu de Pădure nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 15/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=4993&file=20240404-164412-H.C.L.-Nr.15.pdf",
+     "sha256": "755998b50b2eef571b67b3a9f8802419a61e96e0bf546594b797d821fef3b791"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-16-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/16",
+   "short": "HCL Sângeorgiu de Pădure nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 16/2024 privind atestarea apartenenței la domeniul privat Clădire+teren înscrise în inventarul bunurilor private a U.A.T",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=4994&file=20240404-164506-H.C.L.-Nr.16.pdf",
+     "sha256": "57369f0c8360952b0da21ac911082f41f63a9c1ffe57d3a5b0ee4e7c853c16c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-17-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/17",
+   "short": "HCL Sângeorgiu de Pădure nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 17/2024 privind aprobarea vânzării prin licitație publică a bunului imobil compus din construcție și teren, ce aparține domeniului privat al Orașului Sângeorgiu de Pădure, Județul Mureș, situat pe Str.Petofi Sandor, nr. 5-7",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=4995&file=20240404-164539-H.C.L.-Nr.17.pdf",
+     "sha256": "013cd032ee6965b926a98599cc1299857d562a5e155c6439d66e3d48b25c9fa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-18-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/18",
+   "short": "HCL Sângeorgiu de Pădure nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 18/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașul Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5107&file=hot-sgpadure-nr.18battery-change--din-2024.pdf",
+     "sha256": "f0c08140b5b3f1fa1016878592fe6f39b778c4c26df6c202f9704f623598ee6c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--sangeorgiu-de-padure-2-2024",
    "path": "local/mures/sangeorgiu-de-padure/2024/2",
    "short": "HCL Sângeorgiu de Pădure nr. 2/2024",
@@ -74,6 +149,21 @@
      "units": 1,
      "source_url": "https://sgpadure.ro/?download=4980&file=20240404-163335-H.C.L.-Nr.02.pdf",
      "sha256": "f6397b414cf8e39ef078cdefcad53c02a942c98f60ff6beebaab4992f08d1777"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-20-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/20",
+   "short": "HCL Sângeorgiu de Pădure nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 20/2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5109&file=hot-sgpadure-nr.20battery-change--din-2024.pdf",
+     "sha256": "8969c1e6ccf09ea189e7c17d984f274fa5e6758e79571fafad2d0931589d617e"
     }
    ]
   },
@@ -93,6 +183,96 @@
    ]
   },
   {
+   "slug": "hcl-mures--sangeorgiu-de-padure-22-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/22",
+   "short": "HCL Sângeorgiu de Pădure nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 22/2024 privind aprobarea restituirii sumei de 200 mii lei din excedentul anilor precedenți alocați pentru acoperirea golului temporar de casă a secțiunii de funcționare și alocarea acestei sume pentru finanțarea secțiunii de dezvoltare",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5111&file=hot-sgpadure-nr.22battery-change--din-2024.pdf",
+     "sha256": "a611370d3835a1ca1a1f67c722c48ec700ccf3c2f0a95da7f558510b64229629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-23-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/23",
+   "short": "HCL Sângeorgiu de Pădure nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 23/2024 privind aprobarea contractării unui împrumut în valoare de 10.500.000 lei, în conformitate cu prevederile art. I din Ordonanța urgență a Guvernului nr. 35/ 2024 pentru asigurarea unor împrumuturi din Trezoreria Statului, precum și pentru modificarea și completarea unor",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5112&file=hot-sgpadure-nr.23battery-change--din-2024.pdf",
+     "sha256": "438acb04b7bf922764b6d74cff419810f25a7a575f5e3782e1a59c9d7fc93588"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-24-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/24",
+   "short": "HCL Sângeorgiu de Pădure nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 24/2024 privind acordarea unor ajutoare de urgență (înmormântare) solicitanților conform actelor doveditoare",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5113&file=hot-sgpadure-nr.24battery-change--din-2024.pdf",
+     "sha256": "19155d86ebc724bcf329284c71a1b787faad30f9593bfe1b008231894492a663"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-25-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/25",
+   "short": "HCL Sângeorgiu de Pădure nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 25/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5418&file=H.C.L.25-005070.pdf",
+     "sha256": "8ba4853e0f8dfc6c86982e85df2d47f5ad16cd06670e4ea04f82f9cd8567d08d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-26-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/26",
+   "short": "HCL Sângeorgiu de Pădure nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 26/2024 privind scoaterea din evidenta contabilă, propunerea spre casare a unor obiecte de inventar ce aparțin Primăriei Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5419&file=H.C.L.26-005071.pdf",
+     "sha256": "db56ca91401ad0f008102eab434320fc6febe0b7b1c5e85a73044fffeeb927d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-27-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/27",
+   "short": "HCL Sângeorgiu de Pădure nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 27/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Îmbunătățirea infrastructurii rutiere în Orașul Sângeorgiu de Pădure, județul Mureș”, aprobat pentru finanțare prin Programul național de i",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5420&file=H.C.L.27-005072.pdf",
+     "sha256": "2500e9860488e866ce9f8765f78b1564b19f87030f7e4b7bea4efae11c28231b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--sangeorgiu-de-padure-28-2024",
    "path": "local/mures/sangeorgiu-de-padure/2024/28",
    "short": "HCL Sângeorgiu de Pădure nr. 28/2024",
@@ -104,6 +284,21 @@
      "units": 1,
      "source_url": "https://sgpadure.ro/?download=5421&file=H.C.L.28-005073.pdf",
      "sha256": "06518084d5c68be8236aea5239ccce7f9bcc2a17d5db185dfb4a57e3d4abdf83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-29-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/29",
+   "short": "HCL Sângeorgiu de Pădure nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 29/2024 privind aprobarea restituirii sumei de 60 mii lei din excedentul anilor precedenți alocat pentru acoperirea golului temporar de casă a secțiunii de funcționare și alocarea acestei sume pentru finanțarea secțiunii de dezvoltare aferent anului 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5422&file=H.C.L.29-005075.pdf",
+     "sha256": "f1e3b16aff1486e9eeafa98ab53f1f97a4b05b7d95e291d6fa18db8e0a0a2087"
     }
    ]
   },
@@ -123,6 +318,126 @@
    ]
   },
   {
+   "slug": "hcl-mures--sangeorgiu-de-padure-30-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/30",
+   "short": "HCL Sângeorgiu de Pădure nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 30/2024 privind aprobare parteneriatului privind organizarea ”Campionatului Transylvania Triathlon Festival 2024” pe raza UAT Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5423&file=H.C.L.30-005076.pdf",
+     "sha256": "c95b4826460021cbc84034e4fe09c695c14bf77f4a1caa758b0a86e94538cef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-31-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/31",
+   "short": "HCL Sângeorgiu de Pădure nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 31/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5424&file=H.C.L.31-005077.pdf",
+     "sha256": "c7b566da479d561f70171e64dac25ab8692a25f27cc4eb31463159be43ee4499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-32-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/32",
+   "short": "HCL Sângeorgiu de Pădure nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 32/2024 privind modificarea și aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al Primarului Orașului Sângeorgiu de Pădure, județul Mureș",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5425&file=H.C.L.32-005082.pdf",
+     "sha256": "abf9935b9f183b76cc7cbd05a37c327cec5b11f1c3aaae23d11a8f13aceeb368"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-35-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/35",
+   "short": "HCL Sângeorgiu de Pădure nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 35/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5428&file=H.C.L.35-005085.pdf",
+     "sha256": "02074f451922d24d0738e54230ffa1c3a09618569340b21f81d78b90c4643228"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-36-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/36",
+   "short": "HCL Sângeorgiu de Pădure nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 36/2024 privind modificarea și aprobarea Statului de funcții și al Organigramei pentru Spitalul Orășenesc Sângeorgiu de Pădure, judeșul Mureș",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5429&file=H.C.L.36-005086.pdf",
+     "sha256": "e94ac96b56c25ebdf1805081cbddb8f8a5590212ef73e03cbccc18568a124819"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-37-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/37",
+   "short": "HCL Sângeorgiu de Pădure nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 37/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Îmbunătățirea infrastructurii rutiere în Orașul Sângeorgiu de Pădure, județul Mureș”, aprobat pentru finanțare prin Programul național de i",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5430&file=H.C.L.37-005087.pdf",
+     "sha256": "6235b495419ddb1d45634c5a2ab139591ea748bc260598e7fc49366857c14acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-38-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/38",
+   "short": "HCL Sângeorgiu de Pădure nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 38/2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5431&file=H.C.L.38-005088.pdf",
+     "sha256": "e031af6118e650a92c4a23ee19593f045ff03e6945fc263ddf2099b1576ff4c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-39-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/39",
+   "short": "HCL Sângeorgiu de Pădure nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 39/2024 privind aprobarea Regulamentului de organizare și funcționare a aparatului propriu al Primăriei orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5432&file=H.C.L.39-005089.pdf",
+     "sha256": "3f1a2266986cbb86635a03c95bc7f1e524ad808f1a5c422eb9cf64dfb4a7da34"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--sangeorgiu-de-padure-4-2024",
    "path": "local/mures/sangeorgiu-de-padure/2024/4",
    "short": "HCL Sângeorgiu de Pădure nr. 4/2024",
@@ -134,6 +449,141 @@
      "units": 1,
      "source_url": "https://sgpadure.ro/?download=4982&file=20240404-163447-H.C.L.-Nr.04.pdf",
      "sha256": "34913f1561f18a7c34b6efed8c5bea5385dc8573b144f61f5453d0834c879aec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-40-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/40",
+   "short": "HCL Sângeorgiu de Pădure nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 40/2024 privind aprobarea trecerii instituției de educație timpurile antepreșcolară ”Cresă„Wesselenyi Kata” Bölcsődés” Sângeorgiu de Pădure în subordinea unității de învățământ preuniversitar ”Liceului Tehnolog ”Sfântul Gheorghe” Sangeorgiu de Pădure începând cu anul școlar 2",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5433&file=H.C.L.40-005090.pdf",
+     "sha256": "a928a54bdbc9ec03aedecaf1afd23c439aa9db84ed372fbac4c0f26aeb0b31ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-41-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/41",
+   "short": "HCL Sângeorgiu de Pădure nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 41/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5434&file=H.C.L.41-005091.pdf",
+     "sha256": "b42c28e1477639e16f5f3d1997d4b3b84f9eb5a40aeb63c98773a2cd4affa237"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-42-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/42",
+   "short": "HCL Sângeorgiu de Pădure nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 42/2024 privind darea în administrare a Serviciului Public de Alimentare cu Apa și Canalizare și a infrastructurii tehnico-edilitare în vederea continuării activități",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5435&file=H.C.L.42-005092.pdf",
+     "sha256": "130c032d6e35ea70297df08bf577d87a94478cb6843eef42eb9a884444e55284"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-43-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/43",
+   "short": "HCL Sângeorgiu de Pădure nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 43/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure, Spital Orășenesc și SPAAC Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5436&file=H.C.L.43-005094.pdf",
+     "sha256": "ad87b87bb89fcd95378f09e7f7366c052158e8cf7154c9a7e561324129ed5359"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-45-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/45",
+   "short": "HCL Sângeorgiu de Pădure nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 45/2024 privind aprobarea rambursării anticipate a sumei de 8.000 mii lei din împrumutul contractat",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5438&file=H.C.L.45-005096.pdf",
+     "sha256": "3dcb784561c1213792a7c6971d932d56ffdadb3676c8a5f41555070f5ae28df6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-46-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/46",
+   "short": "HCL Sângeorgiu de Pădure nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 46/2024 privind aprobarea menținerii în formă juridică actuală a Serviciului Public de Alimentare cu apă și Canalizare- Sângeorgiu de Pădure ”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordina Consiliului Local al Orașului Sânge",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5439&file=H.C.L.46-005097.pdf",
+     "sha256": "8b7c075ac6cb2eac6575b6c4f7cb48653d642b1f28f4461cf0bc8ce91250f5b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-47-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/47",
+   "short": "HCL Sângeorgiu de Pădure nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 47/2024 privind rectificarea bugetului local de venituri éi cheltuieli a Orașului Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5440&file=H.C.L.47-005098.pdf",
+     "sha256": "5af95de67c2f4601033e5fe96cf66744ae3032001f93dc291dda5fb904fdd8b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-48-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/48",
+   "short": "HCL Sângeorgiu de Pădure nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 48/2024 privind aprobarea Strategiei integrate de dezvoltare urbană a orașului Sângeorgiu de Pădure, pentru perioada 2021-2030",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5441&file=H.C.L.48-005099.pdf",
+     "sha256": "f741cf12d8b8af38b84d92417e0c5b6a0949f6919b0a4f31212d287c6ceb8ccc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-49-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/49",
+   "short": "HCL Sângeorgiu de Pădure nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 49/2024 privind aprobarea indicatorilor tehnico-economic actualizați ai investiției „REABILITAREA ȘI EXTINDEREA LICEULUI TEHNOLOGIC ”SFÂNTUL GHEORGHE”. CLĂDIREA CU CLASELE PRIMARE, ORAȘUL SÂNGEORGIU DE PĂDURE, JUDEȚUL MUREȘ” și de asigurare a finanțării de la bugetul local pe",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5442&file=H.C.L.49-005100.pdf",
+     "sha256": "97e4edb8cbf1a6ed801de2b2ed4795a2e7ae32083b333bc65ba88b0c0e1461ca"
     }
    ]
   },
@@ -153,6 +603,261 @@
    ]
   },
   {
+   "slug": "hcl-mures--sangeorgiu-de-padure-52-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/52",
+   "short": "HCL Sângeorgiu de Pădure nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 52/2024 privind atestare apartanenței la domeniul privat al Orașului Sângeorgiu de Pădure, imobilelor înscrise în inventarul bunurilor private a U.A.T",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5445&file=H.C.L.52-005103.pdf",
+     "sha256": "922752c7f64eab1df9a91f0f34eda618b8c10f47a964a441c3275102cb6c553e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-53-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/53",
+   "short": "HCL Sângeorgiu de Pădure nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 53/2024 privind predarea în gestiune directa a unor bunuri din domeniul public al U.A.T",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-09-29",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5446&file=H.C.L.53-005104.pdf",
+     "sha256": "92265143700ae5684c8b94b2349985672fcf4b0ea5fb413c5b6073fd01c8fcde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-54-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/54",
+   "short": "HCL Sângeorgiu de Pădure nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 54/2024 privind înscrierea definitivă în cartea funciară nr.51007 Sângeorgiu de Pădure suprafeței de 394 mp teren intravilan aferent Clădire Cantină Liceu",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5447&file=H.C.L.54-005105.pdf",
+     "sha256": "3a96750e5166fe1328627d9ac343576c234a68186595bd4078ca3190f1e77c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-55-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/55",
+   "short": "HCL Sângeorgiu de Pădure nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 55/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5448&file=H.C.L.55-005106.pdf",
+     "sha256": "1e19b4fb08e80defa91471447afce87ec89fb11a8b9c4c9d577b499cd0331816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-56-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/56",
+   "short": "HCL Sângeorgiu de Pădure nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 56/2024 privind acordarea unor facilități fiscale urmare achitării până la data de 25.11.2024 a obligațiilor retsante la data de 31.08.2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5449&file=H.C.L.56-005107.pdf",
+     "sha256": "11abb2997ba16ed88b866b4e5decd8c3e6c6c597ddfa5d5b2dcd405479d010e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-57-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/57",
+   "short": "HCL Sângeorgiu de Pădure nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 57/2024 privind restituirea sumei de 260 mii lei din secțiunea dezvoltare în contul excedentul anilor precedenți și alocarea sumei de 260 mii lei pentru acoperirea golului temporar de casă a secțiunii de funcționare",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5450&file=H.C.L.57-005108.pdf",
+     "sha256": "8e277318f156e15a47eb752b3add80863b830a317d8e808ac91527d684734a99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-58-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/58",
+   "short": "HCL Sângeorgiu de Pădure nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 58/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure respectiv a Liceului Tehnologic ”Sf. Gheorghe”, pe anul 2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5451&file=H.C.L.58-005109.pdf",
+     "sha256": "22acad6bd1932860f292febcb7b07892cf8d9d0bae03c4c87661a5f6467b5d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-59-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/59",
+   "short": "HCL Sângeorgiu de Pădure nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 59/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5342&file=hot-sgpadure-nr.59-din-2024.pdf",
+     "sha256": "5837749423b1f0617f316210b5493216d58bf920fde0fed4827c95fd6143626d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-60-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/60",
+   "short": "HCL Sângeorgiu de Pădure nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 60/2024 privind atestarea apartanenței la domeniul privat și public al Orașului Sângeorgiu de Pădure, a imobilelor înscrise în inventarul bunurilor publice și private a U.A.T.Orașului Sângeorgiu de Pădure, județul Mureș",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5343&file=hot-sgpadure-nr.60-din-2024.pdf",
+     "sha256": "c39452b45c0e3360f411507405c68c53b1e41aeecfb6caab1d12c03da32c8ca9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-61-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/61",
+   "short": "HCL Sângeorgiu de Pădure nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 61/2024 privind apobarea Planului de Analiza și Acoperire a Riscurilor al orașului Sângeorgiu de Pădure, județul Mureș",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5344&file=hot-sgpadure-nr.61-din-2024.pdf",
+     "sha256": "57cb8817e16f4a63f0c0ff12fa8c33eba7e8a3d911eaff65fe13256c0fb730e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-62-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/62",
+   "short": "HCL Sângeorgiu de Pădure nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 62/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5345&file=hot-sgpadure-nr.62-din-2024-004936.pdf",
+     "sha256": "8440cdbdf1e1f0e24415584926e59dfbdafa8cc63fda001fcb553192b6c56c26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-63-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/63",
+   "short": "HCL Sângeorgiu de Pădure nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 63/2024 privind alegerea președintelui de ședință al Consiliului Local Sângeorgiu de Pădure pentru o perioadă de 3 luni (Noiembrie,Decembrie 2024 și Ianuarie 2025)",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5346&file=hot-sgpadure-nr.63-din-2024-004937.pdf",
+     "sha256": "894623e131b1481bf086f8303b10813dcd59d0b291b24c3c5fd40a6221db042c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-65-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/65",
+   "short": "HCL Sângeorgiu de Pădure nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 65/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5348&file=hot-sgpadure-nr.65-din-2024-004939.pdf",
+     "sha256": "9c9d6cabc1175bb5c904ca231ee99585546599f30ce96c051714f89c6d22843a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-66-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/66",
+   "short": "HCL Sângeorgiu de Pădure nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 66/2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5349&file=hot-sgpadure-nr.66-din-2024-004940.pdf",
+     "sha256": "96a4462a7acb7fd80b07cdbfe11c041a922c722b5cbeb370fc480fd275c5df04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-67-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/67",
+   "short": "HCL Sângeorgiu de Pădure nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 67/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5350&file=hot-sgpadure-nr.67-din-2024-004941.pdf",
+     "sha256": "62223478728ae85bb48fb2bf732aa7e3701097cbe3ade17994eaee8dceefae36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-68-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/68",
+   "short": "HCL Sângeorgiu de Pădure nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 68/2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5351&file=hot-sgpadure-nr.68-din-2024-004942.pdf",
+     "sha256": "5af42f694c8bd92c0ba716fcb2155452e7e32c1c45dc1f8389edd866fa221a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-69-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/69",
+   "short": "HCL Sângeorgiu de Pădure nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 69/2024 privind desemnarea reprezentaților din consiliul local care să fac parte din Consiliul de Administrație al Spitalului Orășenesc Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5352&file=hot-sgpadure-nr.69-din-2024-004943.pdf",
+     "sha256": "a4591fcd5dcc059d1202aebc4687a4ac1c8bba7d31a671cb052e8390791a5e4b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--sangeorgiu-de-padure-7-2024",
    "path": "local/mures/sangeorgiu-de-padure/2024/7",
    "short": "HCL Sângeorgiu de Pădure nr. 7/2024",
@@ -164,6 +869,96 @@
      "units": 1,
      "source_url": "https://sgpadure.ro/?download=4985&file=20240404-163740-H.C.L.-Nr.07.pdf",
      "sha256": "d80e122b502cb6831ec4de33258a63a66f3a28ef7eeebb0db323311f1b7a4ced"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-70-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/70",
+   "short": "HCL Sângeorgiu de Pădure nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 70/2024 privind rectificarea bugetului local de venituri și cheltuieli pe trim. IV anul 2024 pentru Spitalul Orășenesc și Serviciul Public de Alimentare cu Apă și Canal Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5353&file=hot-sgpadure-nr.70-din-2024-004944.pdf",
+     "sha256": "db273e09ab81b841cbb9d534e006760eb277e108a49ff91e4ae8a60c95722cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-71-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/71",
+   "short": "HCL Sângeorgiu de Pădure nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 71/2024 privind desemnarea reprezentanților Consiliului Local ca membrii în Consiliul de Administrație al Liceului Tehnologic „Sfântul Gheorghe” Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5354&file=hot-sgpadure-nr.71-din-2024-004945.pdf",
+     "sha256": "d36f2ffeb96f7a983726cdfba8e0e3789bec09e458920e849cb39013fd7e1313"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-73-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/73",
+   "short": "HCL Sângeorgiu de Pădure nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 73/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5356&file=hot-sgpadure-nr.73-din-2024-004954.pdf",
+     "sha256": "dbba36c16eab075a558ed74012f213597aa4712882effa2c5a8e7bddc5102052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-76-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/76",
+   "short": "HCL Sângeorgiu de Pădure nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 76/2024 privind prelungirea termenului de acordarea unor facilități fiscale până la 19.12.2024 a obligațiilor restante la data de 31.08.2024",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5359&file=hot-sgpadure-nr.76-din-2024-004957.pdf",
+     "sha256": "a5b7c022ed53f2e9dea3a78db1041007f17ec545aa10dcc7d102c6fcdcf51980"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-77-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/77",
+   "short": "HCL Sângeorgiu de Pădure nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 77/2024 privind desemnarea reprezentantul Orașului Sângeorgiu de Pădure în AGA al Asociației Microregională Târnava Mică-Bălăușeri-Sovata",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5360&file=hot-sgpadure-nr.77-din-2024-004958.pdf",
+     "sha256": "90276f7724650280315c73ad87a70ebfc2946b8cfe72923d716f616693a5f91e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-78-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/78",
+   "short": "HCL Sângeorgiu de Pădure nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 78/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5361&file=hot-sgpadure-nr.78-din-2024.pdf",
+     "sha256": "1134c9a86498266b1e9193630b512d019a8418be6cd2e2e935201be2efd8467e"
     }
    ]
   },
@@ -228,6 +1023,81 @@
    ]
   },
   {
+   "slug": "hcl-mures--sangeorgiu-de-padure-83-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/83",
+   "short": "HCL Sângeorgiu de Pădure nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 83/2024 privind aprobarea rețelei școlare a unităților de învățământ din Orașului Sângeorgiu de Pădure,pentru anul școlar 2025-2026",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5366&file=hot-sgpadure-nr.83-din-2024.pdf",
+     "sha256": "fd0e00192a157e67b41f15e2d8d25f9e3ccdf077790cf1c30e98590f1705e9fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-84-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/84",
+   "short": "HCL Sângeorgiu de Pădure nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 84/2024 privind darea în folosință cu titlu gratuit către Spitalul Orășenesc Sângeorgiu de Pădure a dotărilor și echipamentelor necesare funcționării Ambulatoriului",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5367&file=hot-sgpadure-nr.84-din-2024.pdf",
+     "sha256": "6dc367c4f52b2b99f042ac00ed353456e8d28db4c2e2c7f8cb3126999e9a020d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-85-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/85",
+   "short": "HCL Sângeorgiu de Pădure nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 85/2024 privind aprobarea încheierii unor Acte Adiționale la contractele de concesiune pentru cabinete medicale-Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5368&file=hot-sgpadure-nr.85-din-2024.pdf",
+     "sha256": "62f110506b788488bd7b0f750bda443362a59a6ca8c813543d61f2a242c8159e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-86-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/86",
+   "short": "HCL Sângeorgiu de Pădure nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 86/2024 privind stabilirea unor măsuri în aplicarea prevederilor Anexei 8-Indicatori și penalități-pct. 1 indicatori tehnici referitoare la ținte pe anul 2023 aferente ”Contractului 3256/18.10.2022, de delegare a gestiunii activităților de colectare și transport a deșeurilor",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5369&file=hot-sgpadure-nr.86-din-2024.pdf",
+     "sha256": "6ec1ed271a846374acb2cd35b40056a209bd5ab1e094a4837fb2de0f0b98dd60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-88-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/88",
+   "short": "HCL Sângeorgiu de Pădure nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 88/2024 privind reactualizarea modificarea și aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al Primarului Orașului Sângeorgiu de Pădure, județul Mureș",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5371&file=hot-sgpadure-nr.88-din-2024.pdf",
+     "sha256": "ba05b1eb2e9ec8224fbcaa1ebb8a4d5ba403c04ad25cdeccc94877edceafb4da"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--sangeorgiu-de-padure-9-2024",
    "path": "local/mures/sangeorgiu-de-padure/2024/9",
    "short": "HCL Sângeorgiu de Pădure nr. 9/2024",
@@ -239,6 +1109,51 @@
      "units": 1,
      "source_url": "https://sgpadure.ro/?download=4987&file=20240404-163855-H.C.L.-Nr.09.pdf",
      "sha256": "c4aff01ad4bb9026665c79632472a251cc2e3128e087ec318aa8a2af63579324"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-90-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/90",
+   "short": "HCL Sângeorgiu de Pădure nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 90/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Îmbunătățirea infrastructurii rutiere în orașul Sângeorgiu de Pădure, județul Mureș”, aprobat pentru finanțare prin Programul național de i",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5373&file=hot-sgpadure-nr.90-din-2024-004961.pdf",
+     "sha256": "60dae91b0816a8cd7a6f47557f9acbcaccce786546b812fb05fbdf59bde7e5a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-91-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/91",
+   "short": "HCL Sângeorgiu de Pădure nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 91/2024 privind atestarea apartanenței la domeniul privat al Orașului Sângeorgiu de Pădure, a imobilului înscrise în inventarul bunurilor private U.A.T",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5374&file=hot-sgpadure-nr.91-din-2024-004962.pdf",
+     "sha256": "404bcec5f2337819d7216ff46cf3d16424979693651a64950027e3fa830c6612"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sangeorgiu-de-padure-93-2024",
+   "path": "local/mures/sangeorgiu-de-padure/2024/93",
+   "short": "HCL Sângeorgiu de Pădure nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sângeorgiu de Pădure nr. 93/2024 privind rectificarea bugetului local de venituri și cheltuieli a Orașului Sângeorgiu de Pădure",
+   "url": "https://sgpadure.ro/consiliul-local/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://sgpadure.ro/?download=5376&file=hot-sgpadure-nr.93-din-2024-004964.pdf",
+     "sha256": "b0802b2639a598413c4860349fa012a841030efad398fa2eb03184de39c955d0"
     }
    ]
   }

@@ -3,6 +3,186 @@
  "shard": "local/mures/iernut/2022",
  "acts": [
   {
+   "slug": "hcl-mures--iernut-107-2022",
+   "path": "local/mures/iernut/2022/107",
+   "short": "HCL Iernut nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 107/2022",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.107-16.05.2022-privind-aprobarea-incetarii-efectelor-H.C.L.-nt.78din06.04.2022-H.C.L.-nr.pdf",
+     "sha256": "98fd2a30a7129bf555274fea2a4b617fac07b01465df14b420b59444908ce231"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-154-2022",
+   "path": "local/mures/iernut/2022/154",
+   "short": "HCL Iernut nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 154/2022",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.218-24.10.2022-privind-actualizarea-Anexei-nr.-1-la-H.C.L.-nr.154din27.06.2022-pr.pdf",
+     "sha256": "e5b31e257a9db3395f1b35f1ea8f9255fec17892347cac66377a7c23b0d319c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-249-2022",
+   "path": "local/mures/iernut/2022/249",
+   "short": "HCL Iernut nr. 249/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 249/2022",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.249-28.11.2022-privind-modificarea-Anexei-nr.-8-aprobata-prin-H.C.L.-nr.-84din26.04.2022-privind-stabi.pdf",
+     "sha256": "40921f03026d8dd5784713120613500b0e14d812596e1d139fb7ccc81a864c57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-257-2022",
+   "path": "local/mures/iernut/2022/257",
+   "short": "HCL Iernut nr. 257/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 257/2022 privind rectificarea bugetului local al Orașului Iernut pe anul 2022 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 19.12.2022; Având în vedere Referatul de aprobare nr. 24598/09.12.2022 al Primarului Orașului Iernut privind proiectul de hotărâre pentru rectificarea bugetului local al Orașului Iernut, Văzând Raportul de specialitate nr. 24568/09.12.2022 al Ser",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.257-19.12.2022-privind-rectificarea-bugetului-local-al-Orasului-Iernut-pe-anul-2022.pdf",
+     "sha256": "95eeca71527a30c0df7effe48ef57e29ece20bde99ef7179effe61884f5708a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-258-2022",
+   "path": "local/mures/iernut/2022/258",
+   "short": "HCL Iernut nr. 258/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 258/2022 privind aprobarea contului de execuție a bugetului local la data de 30 noiembrie 2022 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 19.12.2022; Având în vedere Referatul de aprobare nr. 24602/09.12.2022 al Primarului Orașului Iernut privind aprobarea contului de execuție a bugetului local la data de 30 noiembrie 2022, Având în vedere Raportul de specialitate",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.258-19.12.2022-privind-aprobarea-contului-de-executie-a-bugetului-local-la-data-de-30-noiembrie-2022.pdf",
+     "sha256": "354f6a43501f7d0fb29df1960174a3561abe9e1fce104f0f2ad9fc999d58fc83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-259-2022",
+   "path": "local/mures/iernut/2022/259",
+   "short": "HCL Iernut nr. 259/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 259/2022 privind anularea creanțelor fiscale mai mici de 40 lei existente în sold la data de 31.12.2022 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 19.12.2022; Având în vedere Referatul de aprobare nr. 24600/09.12.2022 al Primarului Orașului Iernut privind privind anularea creanțelor fiscale mai mici de 40 lei existente în sold la data de 31.12.2022; Având în vedere",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.259-19.12.2022-privind-anularea-creantelor-fiscale-mai-mici-de-40-lei-existente-in-sold-la-data-de-31.12.2022.pdf",
+     "sha256": "225e2f1466399593169b39b4d0d24558e3981abf7fd6d1001ba026a062c07158"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-260-2022",
+   "path": "local/mures/iernut/2022/260",
+   "short": "HCL Iernut nr. 260/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 260/2022 privind aprobarea numărului și cuantumul lunar al burselor acordate elevilor din unitățile de învatămant preuniversitar de stat, de pe raza orașului Iernut pentru anul școlar 2022 - 2023 Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 19.12.2022; Având în vedere Referatul de aprobare nr. 24601/09.12.2022, întocmit de către dl",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.260-19.12.2022-privind-aprobarea-numarului-de-cuantumului-lunar-al-burselor-acordate-elevilor-din-unitatile-de-invatamant-preuniver.pdf",
+     "sha256": "9d4c948960ce4311b3638c104e62e25ac7ab86facc44189073c1a796a38deb2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-261-2022",
+   "path": "local/mures/iernut/2022/261",
+   "short": "HCL Iernut nr. 261/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 261/2022 privind aprobarea Actului adițional nr. 1 la Contract de asociere nr. 147/01.03.2022 încheiat între Consiliul Local Iernut și Clubul Sportiv Iernut Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 19.12.2022; Având în vedere Referatul de aprobare nr. 24576/09.12.2022 al Primarului orașului Iernut, cu privire la actul de proiect de hotărâre privind aprobarea Actu",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.261-19.12.2022-privind-aprobarea-Actului-aditional-nr.-1-la-Contract-de-asociere-nr.-147-01.pdf",
+     "sha256": "8aef74f568e609f0aad9d43864d4b4f193056acce029c768d8e281bd526d4f37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-273-2022",
+   "path": "local/mures/iernut/2022/273",
+   "short": "HCL Iernut nr. 273/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 273/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b016021a1a26eafd92bf7a6652cbf50bf4d28fe73e9f3728a0528e1d43782278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-275-2022",
+   "path": "local/mures/iernut/2022/275",
+   "short": "HCL Iernut nr. 275/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 275/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "286cfcbee92e2bf902417f798d6c6a0a0675785e0f73486de8568f72153841fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-277-2022",
+   "path": "local/mures/iernut/2022/277",
+   "short": "HCL Iernut nr. 277/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 277/2022 privind alegerea Președintelui de Ședință al Consiliului Local Iernut pentru următoarele 3 luni Consiliul Local al orașului Iernut, întrunit în ședință ordinară de lucru în data de 19.12.2022; Având în vedere Referatul de aprobare nr. 24599/09.12.2022 al primarului Orașului Iernut, privind alegerea Președintelui de Ședință al Consiliului Local Iernut pentru următoarele 3 luni, Ținând cont de Rapor",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.277-19.12.2022-privind-alegerea-Presedintelui-de-Sedinta-al-Consiliului-Local-Iernut-pentru-urmatoarele-3-luni.pdf",
+     "sha256": "2c52c0e9c83344d11165e6523a3fd40d06d387deae93da2d59c19b53163e8bba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-278-2022",
+   "path": "local/mures/iernut/2022/278",
+   "short": "HCL Iernut nr. 278/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 278/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f365b6186eccede297eb4345a041691474f348eb5f7fe35bc77c2944b26225a1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--iernut-279-2022",
    "path": "local/mures/iernut/2022/279",
    "short": "HCL Iernut nr. 279/2022",
@@ -29,6 +209,66 @@
      "units": 1,
      "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.280-29.12.2022-privind-aprobarea-modificarii-Regulamentului-de-instituire-si-administrare-a-taxei-de-salubrizare-pentru-utilizatorii-dervic.pdf",
      "sha256": "585bf23cf4111c0578e1690ed16a0b27da7e3d8dbe821ccdb4f4e3db049dbd07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-282-2022",
+   "path": "local/mures/iernut/2022/282",
+   "short": "HCL Iernut nr. 282/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 282/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bd2d75da206f7fc10222897eff66ebfad193aea31c91d9a7ccf4b1d41e4e2afb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-60-2022",
+   "path": "local/mures/iernut/2022/60",
+   "short": "HCL Iernut nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 60/2022",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.060-28.03.2022-privind-scutirea-de-la-plata-impozitelor-si-taxelor-la-bugetul-local-al-Orasului-Iernut-pentru-dna-Bercea-Clara.pdf",
+     "sha256": "6d37376c38cb19e84ce7a6ea68d1463c822ec8808d1cc9fc802aa347173a23a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-74-2022",
+   "path": "local/mures/iernut/2022/74",
+   "short": "HCL Iernut nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 74/2022",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.074-28.03.2022-privind-atestarea-apartenentei-la-domeniul-privat-al-Orasului-Iernut-jud.Mures-a-unui-imobil-teren-in-suprafata-de-13549-mp.pdf",
+     "sha256": "807edb3c025dc9d77ef752c39d57f279c667f380965f277cbf9394c4f97662d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--iernut-75-2022",
+   "path": "local/mures/iernut/2022/75",
+   "short": "HCL Iernut nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 75/2022",
+   "url": "https://primariaiernut.ro/documente/hotararile-autoritatii-deliberative-aferente-anului-2022/",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/Hot.075-28.03.2022-privind-atestarea-apartenentei-la-domeniul-privat-al-Orasului-Iernut-jud.Mures-a-unui-imobil-teren-in-suprafata-de-2126-mp.pdf",
+     "sha256": "9e8323e4f0c01d0e4ee89dd834260281c9cb83dbd7ba35261192b12d3cb924c7"
     }
    ]
   }

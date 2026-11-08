@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-2-2024",
+   "path": "local/neamt/ion-creanga/2024/2",
+   "short": "HCL Ion Creangă nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 2/2024 privind incetarea contractului de inchiriere locuintă ANL",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/140994",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/140994",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-20-2024",
    "path": "local/neamt/ion-creanga/2024/20",
    "short": "HCL Ion Creangă nr. 20/2024",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-25-2024",
+   "path": "local/neamt/ion-creanga/2024/25",
+   "short": "HCL Ion Creangă nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 25/2024 privind aprobarea prelungirii contractului de închirire pasune, nr. 8034 din 16.09.2016 pe o perioadă de 3 ani, în conformitate cu prevederile art. 9 alin.(2) din OUG nr. 34/ 2013",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/146172",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/146172",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-26-2024",
    "path": "local/neamt/ion-creanga/2024/26",
    "short": "HCL Ion Creangă nr. 26/2024",
@@ -298,6 +328,21 @@
      "from": "2024-04-05",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/150400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-3-2024",
+   "path": "local/neamt/ion-creanga/2024/3",
+   "short": "HCL Ion Creangă nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 3/2024 privind aprobarea acordarii unei locuinte",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/140995",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/140995",
      "sha256": null
     }
    ]
@@ -373,6 +418,21 @@
      "from": "2024-04-26",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/153455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-35-2024",
+   "path": "local/neamt/ion-creanga/2024/35",
+   "short": "HCL Ion Creangă nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 35/2024 privind aprobarea Contractului de închiriere spațiu in suprafata de 7,98 mp pentru functionarea unui birou, situat in satul Ion Creanga, str. I.C.Brătianu , nr. 94, bl.P+ 2E , parter, apartament 9 , proprietatea privată a comunei Ion Creangă cu S.C CORE CONSTRUCTION BUILDING SRL",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/153456",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/153456",
      "sha256": null
     }
    ]
@@ -493,6 +553,21 @@
      "from": "2024-06-06",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/158394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-43-2024",
+   "path": "local/neamt/ion-creanga/2024/43",
+   "short": "HCL Ion Creangă nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 43/2024 privind aprobarea modificarii Capitolului I , Părtile contractante ale Contractul de inchiriere nr. 2774 din 02.04.2018 , prin Act aditional nr. 3",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/160634",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/160634",
      "sha256": null
     }
    ]
@@ -723,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-58-2024",
+   "path": "local/neamt/ion-creanga/2024/58",
+   "short": "HCL Ion Creangă nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 58/2024",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/164898",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/164898",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-59-2024",
    "path": "local/neamt/ion-creanga/2024/59",
    "short": "HCL Ion Creangă nr. 59/2024",
@@ -843,6 +933,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--ion-creanga-66-2024",
+   "path": "local/neamt/ion-creanga/2024/66",
+   "short": "HCL Ion Creangă nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 66/2024",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/167577",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/167577",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--ion-creanga-67-2024",
    "path": "local/neamt/ion-creanga/2024/67",
    "short": "HCL Ion Creangă nr. 67/2024",
@@ -853,6 +958,21 @@
      "from": "2024-09-06",
      "units": 1,
      "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/167578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--ion-creanga-68-2024",
+   "path": "local/neamt/ion-creanga/2024/68",
+   "short": "HCL Ion Creangă nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ion Creangă nr. 68/2024 privind aprobarea acordarii unei locuinte construite in Ion Creanga de catre Agentia Nationala pentru locuinte , destinate tinerilor si familiilor in varsta de pana la 35 ani",
+   "url": "https://emol.ro/ioncreanga-nt/registru-hcl/167579",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ioncreanga-nt/registru-hcl/167579",
      "sha256": null
     }
    ]
