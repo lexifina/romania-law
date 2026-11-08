@@ -3,6 +3,141 @@
  "shard": "local/maramures/asuaju-de-sus/2022",
  "acts": [
   {
+   "slug": "hcl-maramures--asuaju-de-sus-1-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/1",
+   "short": "HCL Asuaju de Sus nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 1/2022 privind alegerea președintelui de ședință pe o perioada de 3 luni",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120478",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-10-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/10",
+   "short": "HCL Asuaju de Sus nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 10/2022 privind aprobarea prețului de referință la materialul lemnos si valorificarea masei lemnoase din cadrul UAT-ului Asuaju de Sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120487",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-11-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/11",
+   "short": "HCL Asuaju de Sus nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 11/2022 privind aprobarea încheierii unui contract de comodat cu inspectoratul de poliție al judetului Maramureș– postul de poliție comunal Asuaju de Sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120488",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-12-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/12",
+   "short": "HCL Asuaju de Sus nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 12/2022 privind aprobarea depunerii proiectului inclusiv anexa privind descrierea sumară a investitiei propusă a fi realizată prin proiect , „Renovare energetică bloc locuințe în localitatea Asuaju de Sus , jud Maramureș ''",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120489",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-13-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/13",
+   "short": "HCL Asuaju de Sus nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 13/2022 privind aprobarea depunerii proiectului inclusiv anexa privind nota de fundamentare a investiției propusă spre a fi realizată prin proiect , „Renovare energetică cladire dispensar în localitatea Asuaju de Sus , comuna Asuaju de Sus , județul Maramureș”",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120490",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-14-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/14",
+   "short": "HCL Asuaju de Sus nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 14/2022 privind aprobarea depunerii proiectului inclusiv anexa privind nota de fundamentare a investiției propusă a fi realizată prin poriect „Renovare energetică cămin cultural în localitatea Asuaju de Jos , comuna Asuaju de Sus , jud Maramureș”",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120491",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-15-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/15",
+   "short": "HCL Asuaju de Sus nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 15/2022 privind alegerea președintelui de ședința pe o perioadă de 3 luni",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120492",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-16-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/16",
+   "short": "HCL Asuaju de Sus nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 16/2022 privind aprobarea bugetului – devizului general a cererii de finanațare și asigurarea cofinanțării pentru obiectivul de investiți „ Înființare rețea inteligentă de distribuire gaze naturale în comuna Asuaju de Sus, jud Maramureș ”",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120493",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-17-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/17",
+   "short": "HCL Asuaju de Sus nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 17/2022 privind aprobarea modificării tarifelor de colectare a deșeurilor municipale din cadrul contractului de delegare a gestiunii serviciului de salubrizare în zona de colectare 1 sarbi",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120494",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120494",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-18-2022",
    "path": "local/maramures/asuaju-de-sus/2022/18",
    "short": "HCL Asuaju de Sus nr. 18/2022",
@@ -28,6 +163,21 @@
      "from": "2022-05-31",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-2-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/2",
+   "short": "HCL Asuaju de Sus nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 2/2022 privind organizarea rețelei școlare a unitatii de învățământ preuniversitar școala gimnaziala Asuaju de Sus , județul Maramureș , pe anul școlar 2022-2023",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120479",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120479",
      "sha256": null
     }
    ]
@@ -183,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--asuaju-de-sus-3-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/3",
+   "short": "HCL Asuaju de Sus nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 3/2022 privind aprobarea planului de lucrări în vederea efectuării orelor de muncă conform legii nr. 416 / 2001 , privind venitul minim garantat",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120480",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120480",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-30-2022",
    "path": "local/maramures/asuaju-de-sus/2022/30",
    "short": "HCL Asuaju de Sus nr. 30/2022",
@@ -298,6 +463,81 @@
      "from": "2022-12-20",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-4-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/4",
+   "short": "HCL Asuaju de Sus nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 4/2022 privind aprobarea planului de analiză și acoperire a riscurilor",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120481",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-5-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/5",
+   "short": "HCL Asuaju de Sus nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 5/2022 privind adoptarea bugetului local al comunei Asuaju de Sus pe anul 2022",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120482",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-6-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/6",
+   "short": "HCL Asuaju de Sus nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 6/2022 privind identificarea cu date de carte funciară a unor imobile aparținând domeniului public al comunei Asuaju de Sus și însușirea documentației cadastrale intocmite în vederea inscrerii acestora in sistemul integrat de cadastru si carte funciară",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120483",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-8-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/8",
+   "short": "HCL Asuaju de Sus nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 8/2022",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120485",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-9-2022",
+   "path": "local/maramures/asuaju-de-sus/2022/9",
+   "short": "HCL Asuaju de Sus nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 9/2022 privind identificarea cu date de carte funciară a unor imobile aparținând domeniului public al comunei Asuaju de Sus și însușirea documentației cadastrale întocmite în vederea înscrerii acestora în sistemul intern de cadastru si carte funciară",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/120486",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/120486",
      "sha256": null
     }
    ]

@@ -3,6 +3,51 @@
  "shard": "local/ilfov/chiajna/2026",
  "acts": [
   {
+   "slug": "hcl-ilfov--chiajna-24-2026",
+   "path": "local/ilfov/chiajna/2026/24",
+   "short": "HCL Chiajna nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 24/2026 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile în anul 2026 din bugetul local al comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/263879",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/263879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-37-2026",
+   "path": "local/ilfov/chiajna/2026/37",
+   "short": "HCL Chiajna nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 37/2026 privind aprobarea tarifelor de utilizare a parcărilor de reședință din comuna Chiajna, în conformitate cu Hotărârea Consiliului Local nr. 36/2025 privind Regulamentul și Metodologia sistemului de parcare publică cu plată din comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/272905",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/272905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-48-2026",
+   "path": "local/ilfov/chiajna/2026/48",
+   "short": "HCL Chiajna nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 48/2026 privind aprobarea inițierii procedurii de cumpărare a unor imobile – terenuri proprietate privată a cetățenilor, în scopul edificării unor obiective de investiții de interes local, în comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/282058",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/282058",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--chiajna-53-2026",
    "path": "local/ilfov/chiajna/2026/53",
    "short": "HCL Chiajna nr. 53/2026",

@@ -3,6 +3,94 @@
 "shard": "local/maramures/ardusat/2020",
 "acts": [
 {
+"slug": "hcl-maramures--ardusat-1-2020",
+"path": "local/maramures/ardusat/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 1/2020 privind aprobarea Planului de actiuni si lucrari de interes local pentru anul 2020",
+"short": "HCL Ardusat nr. 1/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/2006",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-2-2020",
+"path": "local/maramures/ardusat/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 2/2020 privind aprobarea casarii unor mijloace fixe de inventar aflate in patrimoniul comunei ArdusaT",
+"short": "HCL Ardusat nr. 2/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/2007",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-3-2020",
+"path": "local/maramures/ardusat/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 3/2020 privind aprobarea bugetului de venituri si cheltuieli pe anul 2020, comuna Ardusat",
+"short": "HCL Ardusat nr. 3/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/2008",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--ardusat-4-2020",
+"path": "local/maramures/ardusat/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 4/2020 privind aprobarea contului de executie bugetara la 31.12.2019, comuna Ardusat",
+"short": "HCL Ardusat nr. 4/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/ardusat-mm/registru-hcl/2009",
+"council": "maramures/ardusat",
+"council_name": "Consiliul Local al Comunei Ardusat",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-maramures--ardusat-5-2020",
 "path": "local/maramures/ardusat/2020/5",
 "kind": "local",

@@ -3,6 +3,126 @@
  "shard": "local/ilfov/ciorogarla/2023",
  "acts": [
   {
+   "slug": "hcl-ilfov--ciorogarla-11-2023",
+   "path": "local/ilfov/ciorogarla/2023/11",
+   "short": "HCL Ciorogârla nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 11/2023 privind structura reţelei şcolare la nivelul comunei Ciorogârla, judeţul Ilfov, pentru anul 2023-2024",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/92506",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/92506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-14-2023",
+   "path": "local/ilfov/ciorogarla/2023/14",
+   "short": "HCL Ciorogârla nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 14/2023 privind bugetul local al comunei Ciorogârla pe anul 2023",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/94954",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/94954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-15-2023",
+   "path": "local/ilfov/ciorogarla/2023/15",
+   "short": "HCL Ciorogârla nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 15/2023 privind utilizarea sumei de 10.429.890 lei din excedentul bugetului local, pentru finanțarea unor obiective de investiții de la Secțiunea Dezvolare, în anul curent",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/94955",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/94955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-2-2023",
+   "path": "local/ilfov/ciorogarla/2023/2",
+   "short": "HCL Ciorogârla nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 2/2023 privind acoperirea integrală a deficitului Secțiunii de Dezvoltare în sumă de 3.662.845,82 lei, aferentă anului 2022, din excedentul anilor precedenți",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/85871",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/85871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-26-2023",
+   "path": "local/ilfov/ciorogarla/2023/26",
+   "short": "HCL Ciorogârla nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 26/2023 privind modificarea tarifelor pentru activitățile specifice de salubrizare pe raza comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/103096",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/103096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-3-2023",
+   "path": "local/ilfov/ciorogarla/2023/3",
+   "short": "HCL Ciorogârla nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 3/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a proiectului tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții « Reabilitare strada Mare, comuna Ciorogârla,județul Ilfov, » aprobat pentru finanțare prin Programul național de investiții « Anghel Saligny », precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/86601",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/86601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-38-2023",
+   "path": "local/ilfov/ciorogarla/2023/38",
+   "short": "HCL Ciorogârla nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 38/2023 privind stadiul completarii registrului agricol in trimestrul I al anului 2023 si stabilirea masurilor pentru eficientizarea activitatii de inscriere a datelor in registrul agricol 2020 - 2024",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/109936",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/109936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-4-2023",
+   "path": "local/ilfov/ciorogarla/2023/4",
+   "short": "HCL Ciorogârla nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 4/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții « Reabilitare strada Gradinari, comuna Ciorogârla,județul Ilfov, » aprobat pentru finanțare prin Programul național de investiții « Anghel Saligny », precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/86602",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/86602",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-47-2023",
    "path": "local/ilfov/ciorogarla/2023/47",
    "short": "HCL Ciorogârla nr. 47/2023",
@@ -43,6 +163,21 @@
      "from": "2023-10-06",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/123047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-5-2023",
+   "path": "local/ilfov/ciorogarla/2023/5",
+   "short": "HCL Ciorogârla nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 5/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții « Reabilitare strada Horia, comuna Ciorogârla,județul Ilfov, » aprobat pentru finanțare prin Programul național de investiții « Anghel Saligny », precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/86603",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/86603",
      "sha256": null
     }
    ]
@@ -198,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-6-2023",
+   "path": "local/ilfov/ciorogarla/2023/6",
+   "short": "HCL Ciorogârla nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 6/2023 privind aprobarea documentației de avizare a lucrărilor de intervenție, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții « Reabilitare strada 1 Martie, comuna Ciorogârla,județul Ilfov, » aprobat pentru finanțare prin Programul național de investiții « Anghel Saligny », precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/86604",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/86604",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-60-2023",
    "path": "local/ilfov/ciorogarla/2023/60",
    "short": "HCL Ciorogârla nr. 60/2023",
@@ -298,6 +448,36 @@
      "from": "2024-01-04",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/136310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-7-2023",
+   "path": "local/ilfov/ciorogarla/2023/7",
+   "short": "HCL Ciorogârla nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 7/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a proiectului tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții « Reabilitare strada Dealului, comuna Ciorogârla,județul Ilfov, » aprobat pentru finanțare prin Programul național de investiții « Anghel Saligny », precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/86605",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/86605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-8-2023",
+   "path": "local/ilfov/ciorogarla/2023/8",
+   "short": "HCL Ciorogârla nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 8/2023 privind stadiul completării registrului agricol în trimestrul al IIIlea al anului 2022 şi stabilirea măsurilor pentru eficientizarea activităţii de înscriere înscriere a datelor în registrul agricol 2020 2024",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/86606",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/86606",
      "sha256": null
     }
    ]

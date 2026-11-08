@@ -3,6 +3,66 @@
  "shard": "local/maramures/arinis/2025",
  "acts": [
   {
+   "slug": "hcl-maramures--arinis-28-2025",
+   "path": "local/maramures/arinis/2025/28",
+   "short": "HCL Ariniș nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 28/2025 privind mandatarea reprezentantului UAT Comuna Ariniș pentru aprobarea Regulamentului serviciului de salubrizare al Județului Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/212978",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/212978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-29-2025",
+   "path": "local/maramures/arinis/2025/29",
+   "short": "HCL Ariniș nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 29/2025 pentru stabilirea unor măsuri privind delegarea gestiunii activităților componente ale serviciului de salubrizare privind transferul, sortarea, tratarea mecano-biologică, compostarea, operarea centrelor de colectare cu aport voluntar și eliminarea prin depozitare a deșeurilor municipale în județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/212979",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/212979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-34-2025",
+   "path": "local/maramures/arinis/2025/34",
+   "short": "HCL Ariniș nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 34/2025",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/219875",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/219875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-36-2025",
+   "path": "local/maramures/arinis/2025/36",
+   "short": "HCL Ariniș nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 36/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate”",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/221018",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/221018",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-46-2025",
    "path": "local/maramures/arinis/2025/46",
    "short": "HCL Ariniș nr. 46/2025",
@@ -298,6 +358,21 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/243704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-8-2025",
+   "path": "local/maramures/arinis/2025/8",
+   "short": "HCL Ariniș nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 8/2025 privind aprobarea începerii procedurii de închiriere prin licitație publică a suprafeței de 3,4 ha pășune situată în bloc fizic nr. 334 în tarlaua ,,La tufe” din satul Tămășești, aflată în proprietatea publică a comunei Ariniș, Județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/195727",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/195727",
      "sha256": null
     }
    ]

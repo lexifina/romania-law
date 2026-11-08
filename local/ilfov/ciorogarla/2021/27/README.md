@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Ciorogârla nr. 27/2021 privind extinderea sistemului de supraveghere video în comuna Ciorogârla, judeţul Ilfov
+
+HCL Ciorogârla nr. 27/2021 · 1 versions, from 2021-05-27 (latest in force: 2021-05-27) · <https://emol.ro/ciorogarla-if/registru-hcl/33530>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-ilfov--ciorogarla-27-2021` (tags `hcl-ilfov--ciorogarla-27-2021/<day>`; `python tools/on.py <day> hcl-ilfov--ciorogarla-27-2021`).
+
+## Decisions made by hand
+
+- HCL Ciorogârla nr. 27/2021: listed from Consiliul Local al Comunei Ciorogârla (emol.ro); metadata only for now: no document of it is held.
+- HCL Ciorogârla nr. 27/2021: dated from 27 May 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Ciorogârla nr. 27/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

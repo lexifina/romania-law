@@ -3,6 +3,36 @@
  "shard": "local/maramures/farcasa/2025",
  "acts": [
   {
+   "slug": "hcl-maramures--farcasa-16-2025",
+   "path": "local/maramures/farcasa/2025/16",
+   "short": "HCL Fărcașa nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 16/2025 privind aprobarea indicatorilor pentru finanțarea actualizării Planului Urbanistic General şi Regulamentului Local de Urbanism al comunei Fărcașa, județul Maramureș",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/196868",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/196868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-18-2025",
+   "path": "local/maramures/farcasa/2025/18",
+   "short": "HCL Fărcașa nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 18/2025 privind aprobarea bugetului local al comunei Fărcașa și a bugetului Serviciului public apă, canal Fărcașa pe anul 2025",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/200485",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/200485",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--farcasa-52-2025",
    "path": "local/maramures/farcasa/2025/52",
    "short": "HCL Fărcașa nr. 52/2025",

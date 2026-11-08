@@ -3,6 +3,50 @@
 "shard": "local/maramures/farcasa/2023",
 "acts": [
 {
+"slug": "hcl-maramures--farcasa-6-2023",
+"path": "local/maramures/farcasa/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 6/2023 privind aprobarea bugetului local și a bugetului Serviciului public apă, canal Fărcașa pe anul 2023",
+"short": "HCL Fărcașa nr. 6/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/90562",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-13-2023",
+"path": "local/maramures/farcasa/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 13/2023 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2022",
+"short": "HCL Fărcașa nr. 13/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-08",
+"latest": "2023-06-08",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/99658",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-maramures--farcasa-86-2023",
 "path": "local/maramures/farcasa/2023/86",
 "kind": "local",

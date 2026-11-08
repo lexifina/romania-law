@@ -3,6 +3,116 @@
 "shard": "local/maramures/farcasa/2021",
 "acts": [
 {
+"slug": "hcl-maramures--farcasa-15-2021",
+"path": "local/maramures/farcasa/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 15/2021 privind aprobarea Regulamentului privind procedura pentru înregistrarea, evidenţa şi radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a comunei Fărcașa",
+"short": "HCL Fărcașa nr. 15/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-18",
+"latest": "2021-03-18",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/21714",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-27-2021",
+"path": "local/maramures/farcasa/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 27/2021 privind modificarea Hotărârii Consiliului local Fărcașa nr. 57 din 23 decembrie 2020 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pe anul 2021",
+"short": "HCL Fărcașa nr. 27/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/34140",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-32-2021",
+"path": "local/maramures/farcasa/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 32/2021 privind modul de valorificare în anul 2021 a masei lemnoase provenită din produse principale recoltată din fondul forestier proprietate publică a comunei Fărcașa",
+"short": "HCL Fărcașa nr. 32/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/34207",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-40-2021",
+"path": "local/maramures/farcasa/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 40/2021 privind aprobarea Strategiei de dezvoltare locală a comunei Fărcaşa, 2021—2027",
+"short": "HCL Fărcașa nr. 40/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/39410",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-46-2021",
+"path": "local/maramures/farcasa/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 46/2021 privind modul de valorificare în anul 2021 a masei lemnoase din fondul forestier proprietate publică a comunei Fărcașa, provenită din produse secundare și igienizarea pădurii",
+"short": "HCL Fărcașa nr. 46/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/39416",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-maramures--farcasa-49-2021",
 "path": "local/maramures/farcasa/2021/49",
 "kind": "local",

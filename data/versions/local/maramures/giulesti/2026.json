@@ -3,6 +3,201 @@
  "shard": "local/maramures/giulesti/2026",
  "acts": [
   {
+   "slug": "hcl-maramures--giulesti-1-2026",
+   "path": "local/maramures/giulesti/2026/1",
+   "short": "HCL Giulești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 1/2026 privind aprobarea fișei de proiect, a cheltuielilor și a acordului de parteneriat pentru obiectivul de investiții „Amenajare parc central în sat Ferești, comuna Giulești, județul Maramureș”, în vederea finanțării în cadrul Programului Regional Nord-Vest 2021-2027, Prioritatea P3, Obiectiv specific 2.7 – Infrastructură verde",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/255996",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/255996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-13-2026",
+   "path": "local/maramures/giulesti/2026/13",
+   "short": "HCL Giulești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 13/2026 privind aprobarea scrisorilor de garanție bancară (S.G.B.) pentru proiectul de investiție: „Alimentare cu apă potabilă și canalizare a localității Giulești, comuna Giulești, județul Maramureș” până la data de 30.09.2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/262752",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/262752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-14-2026",
+   "path": "local/maramures/giulesti/2026/14",
+   "short": "HCL Giulești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 14/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru proiectul: „Construirea Centrului de zi pentru copiii expuși riscului de a fi separați de familie în Comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/262753",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/262753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-15-2026",
+   "path": "local/maramures/giulesti/2026/15",
+   "short": "HCL Giulești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 15/2026 privind înfiinţarea Centru de zi pentru copii aflați în situație de risc de separare de părinți, instituţie fară personalitate juridică, în subordinea Compartimentului Asistență Socială, Organigrama, Statul de functii si Regulamentul de Organizare si functionare al Centru de zi pentru copii aflați în situație de risc de separare de părinți",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/262754",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/262754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-16-2026",
+   "path": "local/maramures/giulesti/2026/16",
+   "short": "HCL Giulești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 16/2026 privind reorganizarea structurii organizatorice a instituției, aprobarea modificării și actualizării organigramei și a statului de funcții de la nivelul aparatului de specialitate al Primarului Comunei Giulești, județul Maramureș, conform prevederilor OUG nr.7/2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/262755",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/262755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-18-2026",
+   "path": "local/maramures/giulesti/2026/18",
+   "short": "HCL Giulești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 18/2026 privind aprobarea bugetului local al comunei Giulești pe anul 2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/266048",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/266048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-19-2026",
+   "path": "local/maramures/giulesti/2026/19",
+   "short": "HCL Giulești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 19/2026 privind aprobarea indicatorilor pentru finanțarea/cofinanțarea elaborării și actualizării Planului Urbanistic General (PUG) și a Regulamentului Local de Urbanism al comunei Giulești, județul Maramureș",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/266049",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/266049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-2-2026",
+   "path": "local/maramures/giulesti/2026/2",
+   "short": "HCL Giulești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 2/2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/255997",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/255997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-20-2026",
+   "path": "local/maramures/giulesti/2026/20",
+   "short": "HCL Giulești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 20/2026 privind aprobarea planului anul al achizițiilor publice pe anul 2026",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/266050",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/266050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-22-2026",
+   "path": "local/maramures/giulesti/2026/22",
+   "short": "HCL Giulești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 22/2026 privind aprobarea Planului de dezvoltare a serviciilor sociale in comuna Giulesti în vederea depunerii documentației de acreditare a Primăriei ca si furnizor de servicii sociale",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/274327",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/274327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-23-2026",
+   "path": "local/maramures/giulesti/2026/23",
+   "short": "HCL Giulești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 23/2026 pentru aprobarea Manualului de Proceduri prevăzut la art. 9, lit 1 și 2 din Legea 197 din 1 noiembrie 2012 (*actualizată*) privind asigurarea calității în domeniul serviciilor sociale în vederea depunerii documentației de acreditare a Primăriei GIULESTI ca si furnizor de servicii sociale",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/274328",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/274328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-24-2026",
+   "path": "local/maramures/giulesti/2026/24",
+   "short": "HCL Giulești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 24/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru proiectul „Înființare Centru de zi de asistență și recuperare pentru persoane vârstnice cu echipă mobilă, localitatea Ferești, comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/274329",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/274329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-25-2026",
+   "path": "local/maramures/giulesti/2026/25",
+   "short": "HCL Giulești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 25/2026 privind înregistrarea UAT Comuna Giulești în Sistemul Național Electronic de Plată Online a taxelor și impozitelor utilizând cardul bancar (SNEP) și înrolarea în platforma națională Ghiseul.ro",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/274330",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/274330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-26-2026",
    "path": "local/maramures/giulesti/2026/26",
    "short": "HCL Giulești nr. 26/2026",
@@ -58,6 +253,21 @@
      "from": "2026-07-10",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/275764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-3-2026",
+   "path": "local/maramures/giulesti/2026/3",
+   "short": "HCL Giulești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 3/2026 privind aprobarea fișei de proiect, a cheltuielilor și a acordului de parteneriat pentru obiectivul de investiții „Reabilitare clădire Primărie – sediu 2, localitatea Giulești, comuna Giulești, județul Maramureș”, în vederea finanțării în cadrul Programului Regional Nord-Vest 2021-2027, Prioritatea P3, Obiectiv specific 2.1 – Eficiență energetică",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/255998",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/255998",
      "sha256": null
     }
    ]
@@ -213,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--giulesti-4-2026",
+   "path": "local/maramures/giulesti/2026/4",
+   "short": "HCL Giulești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 4/2026 aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Demolare și construire Școala cu clasele I-VIII Berbești, comuna Giulești, județul Maramureș”, finanțat prin Programul Național „Școli Sigure și Sănătoase”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/255999",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/255999",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-40-2026",
    "path": "local/maramures/giulesti/2026/40",
    "short": "HCL Giulești nr. 40/2026",
@@ -298,6 +523,51 @@
      "from": "2026-11-02",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/297337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-5-2026",
+   "path": "local/maramures/giulesti/2026/5",
+   "short": "HCL Giulești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 5/2026 privind aprobarea încheierii „Contractului de colaborare pentru furnizarea serviciilor de asistență medicală comunitară”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/256000",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/256000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-6-2026",
+   "path": "local/maramures/giulesti/2026/6",
+   "short": "HCL Giulești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 6/2026 privind aprobarea contului de încheiere a execuției bugetului de venituri și cheltuieli la data de 31 Decembrie 2025",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/256001",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/256001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-7-2026",
+   "path": "local/maramures/giulesti/2026/7",
+   "short": "HCL Giulești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 7/2026 privind aprobarea delegării activității de depozitare a deșeurilor",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/256002",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/256002",
      "sha256": null
     }
    ]

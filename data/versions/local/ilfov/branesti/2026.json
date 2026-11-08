@@ -301,6 +301,111 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-ilfov--branesti-21-2026",
+   "path": "local/ilfov/branesti/2026/21",
+   "short": "HCL Brănești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 21/2026 privind deblocarea si utilizarea sumei de 3.725.519,58 lei din excedentul bugetului local, pentru finantarea cheltuielilor la sectiunea de dezvoltare",
+   "url": "https://emol.ro/branesti-if/registru-hcl/249487",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/249487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--branesti-27-2026",
+   "path": "local/ilfov/branesti/2026/27",
+   "short": "HCL Brănești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 27/2026 privind aprobarea prelungirii termenului de valabilitate al Planului Urbanistic General al Comunei Branesti, până la intrarea în vigoare a noului Plan Urbanistic General, dar fără a se depăşi data de 31 decembrie 2026",
+   "url": "https://emol.ro/branesti-if/registru-hcl/256886",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/256886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--branesti-3-2026",
+   "path": "local/ilfov/branesti/2026/3",
+   "short": "HCL Brănești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 3/2026 privind aprobarea planului de actiuni sau lucrari de interes local pe anul 2026, pentru repartizarea orelor de munca prestate lunar de catre persoanele majore apte de munca din familia beneficiara de ajutor de incluziune, acordat în baza Legii nr. 196/2016, privind venitul minim de incluziune, cu modificarile ulterioare",
+   "url": "https://emol.ro/branesti-if/registru-hcl/249469",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/249469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--branesti-30-2026",
+   "path": "local/ilfov/branesti/2026/30",
+   "short": "HCL Brănești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 30/2026 privind modificarea/completarea Regulamentul privind autorizarea si desfasurarea activitatilor comerciale pe raza comunei Branesti",
+   "url": "https://emol.ro/branesti-if/registru-hcl/256889",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/256889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--branesti-4-2026",
+   "path": "local/ilfov/branesti/2026/4",
+   "short": "HCL Brănești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 4/2026 privind aprobarea listei situatiilor de dificultate care justifica acordarea ajutoarelor de urgenta, altele decat cele datorate calamitatilor naturale, incendiilor accidentelor, epidemii, epizootii",
+   "url": "https://emol.ro/branesti-if/registru-hcl/249470",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/249470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--branesti-6-2026",
+   "path": "local/ilfov/branesti/2026/6",
+   "short": "HCL Brănești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 6/2026 privind modificarea/completarea Hotararii Consiliului Local nr.199/23.12.2025 privind stabilirea valorilor impozabile, impozitele, taxele locale si amenzile, in sume fixe sau cote procentuale, pentru anul fiscal 2026",
+   "url": "https://emol.ro/branesti-if/registru-hcl/249472",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/249472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--branesti-75-2026",
+   "path": "local/ilfov/branesti/2026/75",
+   "short": "HCL Brănești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 75/2026 privind actualizarea regulamentului de organizare si functionare, precum si caietul de sarcini, aferente serviciului public de salubrizare al comunei Branesti",
+   "url": "https://emol.ro/branesti-if/registru-hcl/271053",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/271053",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

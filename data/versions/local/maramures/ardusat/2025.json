@@ -3,6 +3,141 @@
  "shard": "local/maramures/ardusat/2025",
  "acts": [
   {
+   "slug": "hcl-maramures--ardusat-1-2025",
+   "path": "local/maramures/ardusat/2025/1",
+   "short": "HCL Ardusat nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 1/2025 privind aprobarea Planului de actiuni si lucrari de interes local pentru anul 2025, comuna Ardusat",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198651",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-10-2025",
+   "path": "local/maramures/ardusat/2025/10",
+   "short": "HCL Ardusat nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 10/2025 privind aprobarea bugetului de venituri si cheltuieli pe anul 2025, comuna Ardusat",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253121",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-11-2025",
+   "path": "local/maramures/ardusat/2025/11",
+   "short": "HCL Ardusat nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 11/2025 privind aprobarea contului de executie bugetara la data de 31.12.2024, comuna Ardusat",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253122",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-12-2025",
+   "path": "local/maramures/ardusat/2025/12",
+   "short": "HCL Ardusat nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 12/2025 privind aprobarea indicatorilor tehnico-economici si a devizului general, actualizate, la finalizarea procedurilor de achizitie publica, precum si sustinerea cheltuielilor neeligibile pentru obiectivul de investitii „Reabilitare energetica moderata la scoala gimnaziala Ardusat, jud. Maramures”",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253126",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-14-2025",
+   "path": "local/maramures/ardusat/2025/14",
+   "short": "HCL Ardusat nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 14/2025 privind rectificarea bugetului de venituri si cheltuieli pe trimestrul II - 2025, comuna Ardusat",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253152",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-15-2025",
+   "path": "local/maramures/ardusat/2025/15",
+   "short": "HCL Ardusat nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 15/2025 privind aprobarea Regulamentului serviciului de salubrizare al Județului Maramureș",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253153",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-16-2025",
+   "path": "local/maramures/ardusat/2025/16",
+   "short": "HCL Ardusat nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 16/2025 privind darea in folosinta gratuita a microbuzului scolar Marca Opel Movano Cibro aflat in domeniul privat al comunei Ardusat, orasului Ulmeni cu scopul asigurarii transportului elevilor Scolii Generale Ulmeni",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253154",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-17-2025",
+   "path": "local/maramures/ardusat/2025/17",
+   "short": "HCL Ardusat nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 17/2025 pentru stabilirea unor măsuri privind delegarea gestiunii activităților componente ale serviciului de salubrizare privind transferul, sortarea, tratarea mecano-biologică, compostarea, operarea centrelor de colectare cu aport voluntar și eliminarea prin depozitare a deșeurilor municipale în județul Maramureș",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253155",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-18-2025",
+   "path": "local/maramures/ardusat/2025/18",
+   "short": "HCL Ardusat nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 18/2025 privind identificarea topografică a unor imobile aparţinând domeniului public al comunei ARDUSAT",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/253160",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253160",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ardusat-19-2025",
    "path": "local/maramures/ardusat/2025/19",
    "short": "HCL Ardusat nr. 19/2025",
@@ -13,6 +148,21 @@
      "from": "2025-06-30",
      "units": 1,
      "source_url": "https://emol.ro/ardusat-mm/registru-hcl/253161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-2-2025",
+   "path": "local/maramures/ardusat/2025/2",
+   "short": "HCL Ardusat nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 2/2025 privind aprobarea Proiectului tehnic și a detaliilor de execuție, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA ARDUSAT, JUDEȚUL MARAMUREȘ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198652",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198652",
      "sha256": null
     }
    ]
@@ -168,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--ardusat-3-2025",
+   "path": "local/maramures/ardusat/2025/3",
+   "short": "HCL Ardusat nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 3/2025 privind aprobarea Proiectului tehnic, a indicatorilor tehnico-economici actualizați după finalizarea procedurilor de achiziție publică și a devizului general actualizat după finalizarea procedurilor de achiziție publică pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA ARDUSAT, JUDEȚUL MARAMUREȘ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198653",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198653",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ardusat-30-2025",
    "path": "local/maramures/ardusat/2025/30",
    "short": "HCL Ardusat nr. 30/2025",
@@ -298,6 +463,96 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/ardusat-mm/registru-hcl/258459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-4-2025",
+   "path": "local/maramures/ardusat/2025/4",
+   "short": "HCL Ardusat nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 4/2025 privind aprobarea Actului aditional nr.1/20.01.2025 la Contractul de lucrari nr.2900/23.10.2023 pentru obiectivul de investitii “MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA ARDUSAT, JUDEȚUL MARAMUREȘ”, aprobat pentru finanțare prin Programul Național de Investiții ,,Anghel Saligny”",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198654",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-5-2025",
+   "path": "local/maramures/ardusat/2025/5",
+   "short": "HCL Ardusat nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 5/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat conform situației de lucrări nr. 6 și a ajustărilor de preț aferente pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA ARDUSAT, JUDEȚUL MARAMUREȘ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198655",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-6-2025",
+   "path": "local/maramures/ardusat/2025/6",
+   "short": "HCL Ardusat nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 6/2025 privind utilizarea excedentului bugetar aferent anului 2024,pentru finantarea cheltuielilor sectiunii de dezvoltare a comunei Ardusat",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/198656",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/198656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-7-2025",
+   "path": "local/maramures/ardusat/2025/7",
+   "short": "HCL Ardusat nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 7/2025 privind mandatarea reprezentantului UAT Ardusat pentru propunerea de ajustare a tarifelor pentru activitatile de sortare si transfer a deseurilor municipale zona de colectare 1 – Sarbi",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/199021",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/199021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-8-2025",
+   "path": "local/maramures/ardusat/2025/8",
+   "short": "HCL Ardusat nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 8/2025 privind aprobarea Proiectului tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat conform situației de lucrări nr. 6 și a ajustărilor de preț aferente pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA ARDUSAT, JUDEȚUL MARAMUREȘ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/199022",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/199022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ardusat-9-2025",
+   "path": "local/maramures/ardusat/2025/9",
+   "short": "HCL Ardusat nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ardusat nr. 9/2025 privind alegerea viceprimarului comunei Ardusat",
+   "url": "https://emol.ro/ardusat-mm/registru-hcl/199023",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ardusat-mm/registru-hcl/199023",
      "sha256": null
     }
    ]

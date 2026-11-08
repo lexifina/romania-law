@@ -3,6 +3,94 @@
 "shard": "local/maramures/bicaz/2021",
 "acts": [
 {
+"slug": "hcl-maramures--bicaz-2-2021",
+"path": "local/maramures/bicaz/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 2/2021 privind aprobarea Planului de actiuni si lucrari de interes local in vederea aplicarii Legii nr.416/2001 privind venitul minim garantat pe anul 2021",
+"short": "HCL Bicaz nr. 2/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/20237",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-3-2021",
+"path": "local/maramures/bicaz/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 3/2021 privind aprobarea completarii inventarului bunurilor care alcatuiesc domeniul public al comunei Bicaz,judetul Maramures",
+"short": "HCL Bicaz nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/20244",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-4-2021",
+"path": "local/maramures/bicaz/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 4/2021 privind modificarea și completarea Statutului Asociației de dezvoltare intercomunitarăpentru gestionarea integrată a deșeurilor menajere în județul Maramureș ADIGIDM MM",
+"short": "HCL Bicaz nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/20245",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--bicaz-5-2021",
+"path": "local/maramures/bicaz/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 5/2021 privind actualizarea Planului de analiza si acoperire a riscurilor la nivelul comunei Bicaz, judetul Maramures pentru anul 2021",
+"short": "HCL Bicaz nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/bicaz-mm/registru-hcl/61347",
+"council": "maramures/bicaz",
+"council_name": "Consiliul Local al Comunei Bicaz",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-maramures--bicaz-6-2021",
 "path": "local/maramures/bicaz/2021/6",
 "kind": "local",

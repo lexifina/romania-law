@@ -3,6 +3,246 @@
  "shard": "local/maramures/giulesti/2024",
  "acts": [
   {
+   "slug": "hcl-maramures--giulesti-1-2024",
+   "path": "local/maramures/giulesti/2024/1",
+   "short": "HCL Giulești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 1/2024 privind aprobarea contului de încheiere a execuției bugetului de venituri și cheltuieli la data de 31 Decembrie 2023",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/136424",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/136424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-11-2024",
+   "path": "local/maramures/giulesti/2024/11",
+   "short": "HCL Giulești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 11/2024 privind aprobarea Organigramei și a Statului de funcții din Serviciului de Gospodărire Comunală, Giulești, județul Maramureș",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/146586",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/146586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-12-2024",
+   "path": "local/maramures/giulesti/2024/12",
+   "short": "HCL Giulești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 12/2024 privind aprobarea participării la programul privind CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI LA SCOALA BERBESTI DIN COMUNA GIULESTI, JUDETUL MARAMURES",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/151376",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/151376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-13-2024",
+   "path": "local/maramures/giulesti/2024/13",
+   "short": "HCL Giulești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 13/2024 privind aprobarea prelungirii scrisorii de garanție pentru avans de la CEC BANK pentru proiectul „Reabilitare și modernizare cămin cultural, în localitatea Berbești, comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/151377",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/151377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-14-2024",
+   "path": "local/maramures/giulesti/2024/14",
+   "short": "HCL Giulești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 14/2024 privind aprobarea proiectului tehnic, pentru obiectivul de investiție ,,CONSTRUIRE CENTRU DE ZI PENTRU COPII EXPUȘI RISCULUI DE A FI SEPARATI DE FAMILIE ÎN COMUNA GIULEȘTI, JUDEȚUL MARAMUREȘ”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/151378",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/151378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-15-2024",
+   "path": "local/maramures/giulesti/2024/15",
+   "short": "HCL Giulești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 15/2024 privind aprobarea participării la ,,Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/151379",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/151379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-16-2024",
+   "path": "local/maramures/giulesti/2024/16",
+   "short": "HCL Giulești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 16/2024 privind aprobarea devizului general actualizat pentru obiectiul de investiții ,,Reabilitare scoala gimnaziala din localitatea Berbești, comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/151380",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/151380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-17-2024",
+   "path": "local/maramures/giulesti/2024/17",
+   "short": "HCL Giulești nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 17/2024 privind aprobarea devizului general actualizat pentru obiectiul de investiții ,,Extindere sistem de alimentare cu apă și canalizare, comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/151381",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/151381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-18-2024",
+   "path": "local/maramures/giulesti/2024/18",
+   "short": "HCL Giulești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 18/2024 privind aprobarea modificarilor salariale a asistenților personași si a altor categorii de salariați",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/151382",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/151382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-19-2024",
+   "path": "local/maramures/giulesti/2024/19",
+   "short": "HCL Giulești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 19/2024 privind rectificarea bugetului local pentru anul 2024",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/155113",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/155113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-2-2024",
+   "path": "local/maramures/giulesti/2024/2",
+   "short": "HCL Giulești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 2/2024 privind acoperirii deficitului secțiunii de dezoltare",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/136425",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/136425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-20-2024",
+   "path": "local/maramures/giulesti/2024/20",
+   "short": "HCL Giulești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 20/2024 privind aprobarea participării UAT COMUNA GIULEȘTI ca partener în cadrul proiectului Dezvoltarea Consortiului Scolar Maramures Nord, construirea si dotarea Campusului scolar rural Maramures Nord",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/156512",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/156512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-21-2024",
+   "path": "local/maramures/giulesti/2024/21",
+   "short": "HCL Giulești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 21/2024",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/156513",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/156513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-22-2024",
+   "path": "local/maramures/giulesti/2024/22",
+   "short": "HCL Giulești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 22/2024 privind aprobarea indicatorilor tehnico-economici, faza Studiu de Fezabilitate, pentru proiectul cu titlul: “ÎNFINȚARE CENTRU DE ZI DE ASISTENȚĂ ȘI RECUPERARE PENTRU PERSOANE VÂRSTNICE CU ECHIPĂ MOBILĂ LOCALITATEA FEREȘTI, ÎN COMUNA GIULESTI, JUDEŢUL MARAMUREŞ”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/162682",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/162682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-23-2024",
+   "path": "local/maramures/giulesti/2024/23",
+   "short": "HCL Giulești nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 23/2024 privind aprobarea Organigramei și a Statului de funcții din Serviciului de Gospodărire Comunală, Giulești, județul Maramureș",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/162746",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/162746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-24-2024",
+   "path": "local/maramures/giulesti/2024/24",
+   "short": "HCL Giulești nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 24/2024 privind aprobarea dezmembrării terenului înscris în Cartea Funciară nr. 50614 Giulești",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/162747",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/162747",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-25-2024",
    "path": "local/maramures/giulesti/2024/25",
    "short": "HCL Giulești nr. 25/2024",
@@ -73,6 +313,21 @@
      "from": "2024-10-01",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/173415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-3-2024",
+   "path": "local/maramures/giulesti/2024/3",
+   "short": "HCL Giulești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 3/2024 privind aprobarea delegării activității de depozitare a deșeurilor",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/136426",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/136426",
      "sha256": null
     }
    ]
@@ -228,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--giulesti-4-2024",
+   "path": "local/maramures/giulesti/2024/4",
+   "short": "HCL Giulești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 4/2024 privind aprobarea încheierii Contractelor de salubrizare",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/136427",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/136427",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-40-2024",
    "path": "local/maramures/giulesti/2024/40",
    "short": "HCL Giulești nr. 40/2024",
@@ -298,6 +568,81 @@
      "from": "2024-11-19",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/208845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-5-2024",
+   "path": "local/maramures/giulesti/2024/5",
+   "short": "HCL Giulești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 5/2024 privind trecerea din domeniul privat în domeniul public al comunei Giulești a unui imobil pentru cauză de utilitate publică și completarea inventarului bunurilor care aparțin domeniului public al comunei Giulești",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/146580",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/146580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-6-2024",
+   "path": "local/maramures/giulesti/2024/6",
+   "short": "HCL Giulești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 6/2024 privind utilizarea excedentului bugetar din anul 2023 în anul 2024",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/146581",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/146581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-7-2024",
+   "path": "local/maramures/giulesti/2024/7",
+   "short": "HCL Giulești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 7/2024 privind aprobarea bugetului local al comueni Giulești pe anul 2024",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/146582",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/146582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-8-2024",
+   "path": "local/maramures/giulesti/2024/8",
+   "short": "HCL Giulești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 8/2024 privind aprobarea planului anula al achizițiilor publice pe anul 2024",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/146583",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/146583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-9-2024",
+   "path": "local/maramures/giulesti/2024/9",
+   "short": "HCL Giulești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 9/2024 privind trecerea din domeniul public în domeniul privat al comunei Giulești a imobilului înscris în CF 54591 Giulești",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/146584",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/146584",
      "sha256": null
     }
    ]

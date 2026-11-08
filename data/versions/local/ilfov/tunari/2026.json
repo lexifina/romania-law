@@ -243,6 +243,66 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--tunari-21-2026",
+   "path": "local/ilfov/tunari/2026/21",
+   "short": "HCL Tunari nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 21/2026 privind aprobarea Regulamentului privind colectarea deșeurilor vegetale provenite din gospodării pe raza Unității Administrativ-Teritoriale Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/261495",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/261495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-38-2026",
+   "path": "local/ilfov/tunari/2026/38",
+   "short": "HCL Tunari nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 38/2026 privind aprobarea Regulamentului privind asigurarea fluenței și siguranței traficului, precum și pentru protejarea locuitorilor și a sistemului rutier de pe raza comunei Tunari, județul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/267503",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/267503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-85-2026",
+   "path": "local/ilfov/tunari/2026/85",
+   "short": "HCL Tunari nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 85/2026 privind aprobarea Regulamentului privind stabilirea şi sancţionarea faptelor care constituie contravenţii în domeniul edilitar-gospodăresc, al ordinii, curăţeniei şi igienei publice, precum şi al circulaţiei rutiere în comuna Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/280756",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/280756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-87-2026",
+   "path": "local/ilfov/tunari/2026/87",
+   "short": "HCL Tunari nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 87/2026 privind aprobarea Regulamentului privind protejarea drumurilor comunale aflate în domeniul public sau privat al Comunei Tunari și recuperarea prejudiciilor în cazul degradării acestora",
+   "url": "https://emol.ro/tunari-if/registru-hcl/280758",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/280758",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-96-2026",
    "path": "local/ilfov/tunari/2026/96",
    "short": "HCL Tunari nr. 96/2026",

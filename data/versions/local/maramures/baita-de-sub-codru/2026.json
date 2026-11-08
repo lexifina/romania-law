@@ -3,6 +3,546 @@
  "shard": "local/maramures/baita-de-sub-codru/2026",
  "acts": [
   {
+   "slug": "hcl-maramures--baita-de-sub-codru-1-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/1",
+   "short": "HCL Băița de sub Codru nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 1/2026 privind implementarea și aprobarea indicatorilor tehnico-economici pentru proiectul ”ACHIZIȚIE UTILAJ PENTRU DEZVOLTAREA SERVICIILOR PUBLICE ÎN COMUNA BĂIȚA DE SUB CODRU, JUDEȚUL MARAMUREȘ",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252378",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-10-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/10",
+   "short": "HCL Băița de sub Codru nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 10/2026 privind aprobarea modificării Regulamentului de Organizare și Funcționare al Consiliului Local al Comunei Băița de sub Codru,județul Maramureș, aprobat prin HCL 59 din 27 decembrie 2021",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262701",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-11-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/11",
+   "short": "HCL Băița de sub Codru nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 11/2026 cu privire la aprobarea inventarului bunurilor ce alcătuiesc domeniul privat al comunei BĂIŢA DE SUB CODRU,întocmit la finele anului 2025",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262702",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-12-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/12",
+   "short": "HCL Băița de sub Codru nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 12/2026 de aprobare a completării și actualizării inventarului bunurilor ce alcătuiesc domeniul public al comunei BĂIŢA DE SUB CODRU ,urmare a inventarierii anuale la finele anului 2025",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262703",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-13-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/13",
+   "short": "HCL Băița de sub Codru nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 13/2026 privind aprobarea rutelor,a statiilor precum si intervalul orelor de transport al microbuzelor scolare in anul scolar 2025-2026",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262704",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-14-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/14",
+   "short": "HCL Băița de sub Codru nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 14/2026 privind participarea UAT Comuna BĂIȚA DE SUB CODRU ca membru asociat in Organizatia de Management al Destinatiei Judetene Maramures",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262705",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-15-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/15",
+   "short": "HCL Băița de sub Codru nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 15/2026 privind aprobarea noilor indicatorilor tehnico-economici și a devizul general actualizat la finalizarea lucrarii la obiectivul de investitii denumit “Renovare energetica sediu primarie in localitatea Baita de sub Codru,Comuna Baita de sub Codru, judetul Maramures “",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262709",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-16-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/16",
+   "short": "HCL Băița de sub Codru nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 16/2026 cu privire la utilizarea unor sume din excedentul bugetar",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262728",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-18-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/18",
+   "short": "HCL Băița de sub Codru nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 18/2026 privind aprobarea instituirii unei taxe pentru utilizarea infrastructurii publice ,respectiv a drumurilor comunale și de exploatație agricolă ,a străzilor și ulițelor, a unor suprafețe de terenuri aflate în proprietatea comunei, de catre autovehiculele, echipamente și utilaje cu un tonaj mai mare de 10 tone",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262744",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-19-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/19",
+   "short": "HCL Băița de sub Codru nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 19/2026 „ Incheierea unui Acord de parteneriat în vederea depunerii spre finanțare a proiectului ”– PE CULMILE CODRULUI - BELVEDERE ȘI TRASEU CICLOTURISTIC ÎN BĂIȚA DE SUB CODRU in vederea finantarii acestuia prin Componenta C11 turism si cultură, Reforma R1 – Operationalizarea Organizatiilor de Management al Destinatiei ( OMD) in cadrul Planului National de Redresare si Rezilienta ( PNRR)",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262745",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-20-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/20",
+   "short": "HCL Băița de sub Codru nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 20/2026 privind aprobarea depunerii proiectului : PE CULMILE CODRULUI - BELVEDERE ȘI TRASEU CICLOTURISTIC ÎN BĂIȚA DE SUB CODRU in vederea finantarii acestuia prin Componenta C11 turism si cultură, Reforma R1 – Operationalizarea Organizatiilor de Management al Destinatiei ( OMD) in cadrul Planului National de Redresare si Rezilienta ( PNRR)",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262746",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-21-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/21",
+   "short": "HCL Băița de sub Codru nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 21/2026 privind modificarea și identificarea fără elemente de carte funciară a unor imobile aparținând domeniului privat al comunei Băița de sub Codru",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262747",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/262747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-22-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/22",
+   "short": "HCL Băița de sub Codru nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 22/2026 cu privire la aprobarea „REGULAMENTULUI PRIVIND FUNCȚIONAREA ȘI EXPLOATAREA SISTEMULUI DE SUPRAVEGHERE VIDEO DIN COMUNA BĂIȚA DE SUB CODRU",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268198",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-23-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/23",
+   "short": "HCL Băița de sub Codru nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 23/2026 privind modificarea Regulamentului de organizare si functionare a serviciului public de alimentare cu apa potabilă al comunei Băița de sub Codru ,judetul Maramureș aprobat prin HCL Băița de sub Codru nr. 28 din 24 iunie 2021",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268199",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-24-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/24",
+   "short": "HCL Băița de sub Codru nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 24/2026 privind aprobarea schimbarii denumirii strazii IOSĂLII din strada IOSĂLII în strada PRIMĂVERII conform nomenclatorului stradal al comunei Băița de sub Codru, judetul Maramureș, aprobat prin HCL 24 din 28 iunie 2024",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268200",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-25-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/25",
+   "short": "HCL Băița de sub Codru nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 25/2026 privind privind aprobarea modificarii art. 6 din Hotărârea de Consiliul Local nr. 11 /18.03.2025 al comunei Băița de sub Codru privind aprobarea colaborării interinstituționale din cadrul proiectulu „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268201",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-26-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/26",
+   "short": "HCL Băița de sub Codru nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 26/2026 cu privire la aprobarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268202",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-27-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/27",
+   "short": "HCL Băița de sub Codru nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 27/2026",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268203",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-28-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/28",
+   "short": "HCL Băița de sub Codru nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 28/2026 cu privire la alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268204",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/268204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-29-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/29",
+   "short": "HCL Băița de sub Codru nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 29/2026 privind aprobarea Contractului de voluntariat ce se va încheia între persoanele voluntare din cadrul Serviciului Voluntar pentru Situații de Urgență și Primăria comunei Băița de sub Codru ca beneficiar al voluntariatului, precum și acordarea de compensații în bani membrilor SVSU",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274534",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-3-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/3",
+   "short": "HCL Băița de sub Codru nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 3/2026 cu privire la aprobarea pentru anul 2026 a Planului de Analiza si Acoperire a Riscurilor",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252383",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-30-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/30",
+   "short": "HCL Băița de sub Codru nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 30/2026 privind aprobarea Regulamentului de utilizare a focului deschis la arderea miriştilor, vegetaţiei uscate şi a resturilor vegetale",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274535",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-31-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/31",
+   "short": "HCL Băița de sub Codru nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 31/2026 cu privire la aprobarea organizării serbării câmpeneşti TÂRGUL SÂNZIENELOR-ediția a 32- a și a programului de măsuri privind organizarea şi desfăşurarea acestei manifestări culturale",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274536",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-32-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/32",
+   "short": "HCL Băița de sub Codru nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 32/2026 privind aprobarea modificării HCL nr.18 din 09.04.2026 cu privire la instituirii unei taxe pentru utilizarea infrastructurii publice ,respectiv a drumurilor comunale și de exploatație agricolă ,a străzilor și ulițelor, a unor suprafețe de terenuri aflate în proprietatea comunei, de catre autovehiculele, echipamente și utilaje cu un tonaj mai mare de 10 tone",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274537",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-33-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/33",
+   "short": "HCL Băița de sub Codru nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 33/2026 privind aprobarea solicitării adresată Comunei BĂSEȘTI pentru trecerea unor bunuri imobile (teren), proprietate publică a acesteia, în proprietatea publică a comunei Băița de sub Codru",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274591",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/274591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-34-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/34",
+   "short": "HCL Băița de sub Codru nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 34/2026 cu privire la rectificarea bugetului local al comunei Băita de sub Codru pe anul 2026",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/277671",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/277671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-35-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/35",
+   "short": "HCL Băița de sub Codru nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 35/2026 privind aprobarea dezmembrării unui imobil, teren fâneață extravilan, amplasat în UAT Băița de sub Codru ,,Valtău ” , aflat în domeniul privat al comunei Băița de sub Codru, jud Maramureș",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/277672",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/277672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-36-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/36",
+   "short": "HCL Băița de sub Codru nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 36/2026 privind trecerea din domeniul privat al comunei Băița de sub Codru în domeniul privat al comunei Băsești a terenului în suprafata de 10000 mp înscris în CF 50090 , situat pe teritoriul UAT-lui Băița de sub Codru",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/277673",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/277673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-37-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/37",
+   "short": "HCL Băița de sub Codru nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 37/2026 privind aprobarea devizului General al lucrarilor de reparatii -relocare retea apa pe strada Valcea din sat Băița de sub Codru , comuna Baita de sub Codru, jud. Maramures",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/277674",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/277674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-38-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/38",
+   "short": "HCL Băița de sub Codru nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 38/2026 pentru stabilirea unor măsuri privind delegarea gestiunii activităților componente ale serviciului de salubrizare privind transferul, sortarea, tratarea mecano-biologică, compostarea, operarea centrelor de colectare cu aport voluntar și eliminarea prin depozitare a deșeurilor municipale în județul Maramureș",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282719",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-4-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/4",
+   "short": "HCL Băița de sub Codru nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 4/2026 cu privire la aprobarea acoperirii definitive a deficitului bugetar pe anul 2025 -al sectiunii de dezvoltare- din excedentul bugetar al anilor precedenți",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252384",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-43-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/43",
+   "short": "HCL Băița de sub Codru nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 43/2026 cu privire la rectificarea bugetului local al comunei Băita de sub Codru pe anul 2026",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282729",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-44-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/44",
+   "short": "HCL Băița de sub Codru nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 44/2026 privind aprobarea implementării proiectului finanțat prin ,,Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante și eficiente din punct de vedere energetic 2025-2030” în vederea achiziționării a 1 autovehicul nou tip plug-in hybrid și 2 autovehicule full electric",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282730",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-45-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/45",
+   "short": "HCL Băița de sub Codru nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 45/2026 privind aprobarea premierii elevilor din învățământul preșcolar gimnazial de stat din comuna Băița de sub Codru în anul școlar 2025-2026, pentru rezultate deosebite",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282731",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-46-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/46",
+   "short": "HCL Băița de sub Codru nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 46/2026 privind mandatarea reprezentantului UAT Băița de sub Codru de a vota în AGA ADIGIDM MM modificarea tarifelor de colectare și transport a deșeurilor municipale din cadrul Contractului pentru delegarea gestiunii serviciului de salubrizare în zona de colectare 1 – Sârbi nr. 116/2019",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282740",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-47-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/47",
+   "short": "HCL Băița de sub Codru nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 47/2026 privind mandatarea reprezentantului UAT Băița de sub Codru de a vota în AGA ADIGIDM MM modificarea tarifelor pentru activitățile de sortare si transfer a deșeurilor municipale zona de colectare 1 – Sârbi, UAT Cernești și UAT Coroieni",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282741",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282741",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--baita-de-sub-codru-49-2026",
    "path": "local/maramures/baita-de-sub-codru/2026/49",
    "short": "HCL Băița de sub Codru nr. 49/2026",
@@ -13,6 +553,21 @@
      "from": "2026-08-10",
      "units": 1,
      "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/282743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-5-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/5",
+   "short": "HCL Băița de sub Codru nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 5/2026 privind modificarea și identificarea fără elemente de carte funciară a unor imobile aparținând domeniului public al comunei Băița de sub Codru",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252385",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252385",
      "sha256": null
     }
    ]
@@ -168,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--baita-de-sub-codru-6-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/6",
+   "short": "HCL Băița de sub Codru nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 6/2026 cu privire la alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252386",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/252386",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--baita-de-sub-codru-60-2026",
    "path": "local/maramures/baita-de-sub-codru/2026/60",
    "short": "HCL Băița de sub Codru nr. 60/2026",
@@ -298,6 +868,51 @@
      "from": "2026-10-28",
      "units": 1,
      "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/296969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-7-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/7",
+   "short": "HCL Băița de sub Codru nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 7/2026 cu privire la aprobarea PROGRAMULUI DE ACŢIUNE COMUNITARĂ la nivelul Comunei Băita de sub Codru pe anul 2026",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/254687",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/254687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-8-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/8",
+   "short": "HCL Băița de sub Codru nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 8/2026",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/254688",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/254688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--baita-de-sub-codru-9-2026",
+   "path": "local/maramures/baita-de-sub-codru/2026/9",
+   "short": "HCL Băița de sub Codru nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băița de sub Codru nr. 9/2026 privind aprobarea depunerii proiectului și a fondurilor necesare implementării proiectului intitulat Codrului Cultural Farm – pottery and dowry boxes as living heritage on the cross-border cycling route – acronim The Cultural Farm Băița care urmează a fi depus spre finanțare în cadrul Programului Interreg IV-A NEXT Ungaria-Slovacia-România-Ucraina 2021-2027, Prioritatea 2 – O regiune de frontieră sănătoasă și atractivă; SO 2.2: Cultură si turism",
+   "url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/254689",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/baitadesubcodru-mm/registru-hcl/254689",
      "sha256": null
     }
    ]

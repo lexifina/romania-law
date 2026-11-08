@@ -3,6 +3,366 @@
  "shard": "local/maramures/cernesti/2022",
  "acts": [
   {
+   "slug": "hcl-maramures--cernesti-1-2022",
+   "path": "local/maramures/cernesti/2022/1",
+   "short": "HCL Cernești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 1/2022 privind aprobarea planului de acţiuni şi lucrări de interes local pe anul 2022, conform Legii nr.416/2001, cu modificările şi completările ulterioare",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/48552",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/48552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-10-2022",
+   "path": "local/maramures/cernesti/2022/10",
+   "short": "HCL Cernești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 10/2022 de modificare a HCL nr. 65/2021, privind aprobarea acordării unor compensații membrilor Serviciului Voluntar pentru Situații de Urgență Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/52982",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/52982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-11-2022",
+   "path": "local/maramures/cernesti/2022/11",
+   "short": "HCL Cernești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 11/2022 privind modificarea Organigramei și a Statului de funcții al aparatului de specialitate a primarului comunei Cernești;",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/52983",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/52983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-12-2022",
+   "path": "local/maramures/cernesti/2022/12",
+   "short": "HCL Cernești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 12/2022 privind identificarea unor bunuri imobile în domeniul public al comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/52984",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/52984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-14-2022",
+   "path": "local/maramures/cernesti/2022/14",
+   "short": "HCL Cernești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 14/2022 privind aprobarea Scrisori de garanție de la FNGCIMM SA IFN pentru proiectul „CRESTEREA EFICIENTEI ENERGETICE SI AMENAJARE SPATII VERZI LA SEDIUL PRIMARIEI COMUNEI CERNESTI”,",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/57472",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/57472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-15-2022",
+   "path": "local/maramures/cernesti/2022/15",
+   "short": "HCL Cernești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 15/2022 privind aprobarea Cererii de finanțare și a Devizului general al obiectivului de investiții \" Dezvoltare rețea inteligentă de distribuție a gazelor naturale în comuna Cernești, județul Maramureș\"",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/57473",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/57473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-16-2022",
+   "path": "local/maramures/cernesti/2022/16",
+   "short": "HCL Cernești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 16/2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cernești, pe anul 2022",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/57474",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/57474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-17-2022",
+   "path": "local/maramures/cernesti/2022/17",
+   "short": "HCL Cernești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 17/2022 privind acordarea cu titlu gratuit de material lemnos, unor culte religioase din Comuna Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/57475",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/57475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-18-2022",
+   "path": "local/maramures/cernesti/2022/18",
+   "short": "HCL Cernești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 18/2022 privind identificarea unor bunuri imobile în domeniul public al comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/57476",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/57476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-2-2022",
+   "path": "local/maramures/cernesti/2022/2",
+   "short": "HCL Cernești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 2/2022 privind aprobarea Raportului pe anul 2021, privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, angajați ai comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/48553",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/48553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-20-2022",
+   "path": "local/maramures/cernesti/2022/20",
+   "short": "HCL Cernești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 20/2022 privind aprobarea Scrisori de garanție de la FNGCIMM SA IFN pentru proiectul „Modernizare si dotare cămin cultural în localitatea Măgureni, comuna Cernești, județul Maramureș”",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/60226",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/60226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-21-2022",
+   "path": "local/maramures/cernesti/2022/21",
+   "short": "HCL Cernești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 21/2022 privind Privind aprobarea participarii in cadrul proiectului Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale: Scoala Ciocotis, in vederea finantarii acestuia in cadrul Planului National de Redresare si Rezilienta al Romaniei, Componenta C10 – Fondul Local, Obiectul de investitii I.3 - Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice prestate la nivelul unităților administrativ-teritoriale",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/60227",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/60227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-22-2022",
+   "path": "local/maramures/cernesti/2022/22",
+   "short": "HCL Cernești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 22/2022 privind aprobarea rectificării bugetului local al comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/60228",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/60228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-23-2022",
+   "path": "local/maramures/cernesti/2022/23",
+   "short": "HCL Cernești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 23/2022 privind aprobarea cofinanțării pentru evenimentul cultural Festivalul Stuparilor, ediția a 16-a",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/60229",
+   "versions": [
+    {
+     "from": "2022-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/60229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-24-2022",
+   "path": "local/maramures/cernesti/2022/24",
+   "short": "HCL Cernești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 24/2022 privind aprobarea rectificării bugetului local al comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/64002",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/64002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-25-2022",
+   "path": "local/maramures/cernesti/2022/25",
+   "short": "HCL Cernești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 25/2022 privind modificarea Hotărârii Consiliului Local al Comunei Cernești nr. 5/2020, privind aprobarea modificării coeficienților de salarizare pentru funcțiile publice de conducere și de execuție, precum și a funcțiilor contractuale din cadrul aparatului de specialitate al primarului Comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/64003",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/64003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-27-2022",
+   "path": "local/maramures/cernesti/2022/27",
+   "short": "HCL Cernești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 27/2022 privind prelungirea scrisorii de garanție de la FNGCIMM pentru obiectivul de investiții “CRESTEREA EFICIENTEI ENERGETICE SI AMENAJARE SPATII VERZI LA SEDIUL PRIMARIEI COMUNEI CERNESTI”",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/64005",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/64005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-28-2022",
+   "path": "local/maramures/cernesti/2022/28",
+   "short": "HCL Cernești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 28/2022 privind identificarea unor bunuri imobile în domeniul public al comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/64006",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/64006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-29-2022",
+   "path": "local/maramures/cernesti/2022/29",
+   "short": "HCL Cernești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 29/2022",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/64007",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/64007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-3-2022",
+   "path": "local/maramures/cernesti/2022/3",
+   "short": "HCL Cernești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 3/2022 privind aprobarea aprobarea Rețelei școlare pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/48554",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/48554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-30-2022",
+   "path": "local/maramures/cernesti/2022/30",
+   "short": "HCL Cernești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 30/2022 privind aprobarea rectificării bugetului local al comunei Cernești pe anul 2022",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/67308",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/67308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-31-2022",
+   "path": "local/maramures/cernesti/2022/31",
+   "short": "HCL Cernești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 31/2022",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/67309",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/67309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-32-2022",
+   "path": "local/maramures/cernesti/2022/32",
+   "short": "HCL Cernești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 32/2022 privind aprobarea participării în cadrul proiectului CRESTEREA EFICIENTEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC DIN COMUNA CERNESTI, JUD. MARAMURES prin Programul de Iluminat Public",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/68913",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/68913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-33-2022",
+   "path": "local/maramures/cernesti/2022/33",
+   "short": "HCL Cernești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 33/2022 privind stabilirea unei taxe de închiriere spațiu, pentru desfășurare activități economice la evenimentul Fesrtivalul Stuparilor",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/68914",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/68914",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-35-2022",
    "path": "local/maramures/cernesti/2022/35",
    "short": "HCL Cernești nr. 35/2022",
@@ -73,6 +433,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/72452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-4-2022",
+   "path": "local/maramures/cernesti/2022/4",
+   "short": "HCL Cernești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 4/2022",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/48555",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/48555",
      "sha256": null
     }
    ]
@@ -228,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-5-2022",
+   "path": "local/maramures/cernesti/2022/5",
+   "short": "HCL Cernești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 5/2022 privind modificarea anexei la Hotărârea Consiliului Local al Comunei Cernești nr. 40 din 10 noiembrie 20202, privind aprobarea regulamentului de organizare și funcționare a Consiliului Local al Comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/50687",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/50687",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-50-2022",
    "path": "local/maramures/cernesti/2022/50",
    "short": "HCL Cernești nr. 50/2022",
@@ -298,6 +688,51 @@
      "from": "2022-12-23",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/82827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-6-2022",
+   "path": "local/maramures/cernesti/2022/6",
+   "short": "HCL Cernești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 6/2022 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiții \"Construire și dotare așezământ cultural în sat Ciocotiș , comuna Cernești, județul Maramureș\"",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/50688",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/50688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-7-2022",
+   "path": "local/maramures/cernesti/2022/7",
+   "short": "HCL Cernești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 7/2022 privind actualizarea indicatorilor tehnico-economici ai obiectivului de investiții \"Construire și dotare sediu administrativ comuna Cernești\";",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/50689",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/50689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-8-2022",
+   "path": "local/maramures/cernesti/2022/8",
+   "short": "HCL Cernești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 8/2022 privind aprobarea bugetului de venituri și cheltuieli al Comunei Cernești pe anul 2022",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/50690",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/50690",
      "sha256": null
     }
    ]

@@ -3,6 +3,1041 @@
  "shard": "local/ilfov/peris/2022",
  "acts": [
   {
+   "slug": "hcl-ilfov--peris-1-2022",
+   "path": "local/ilfov/peris/2022/1",
+   "short": "HCL Periș nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 1/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/48873",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-10-2022",
+   "path": "local/ilfov/peris/2022/10",
+   "short": "HCL Periș nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 10/2022 Privind acordarea de mandat special Asociației de Dezvoltare Intercomunitară pentru Transport Public București – Ilfov în vederea aprobării stabilirii, ajustării sau modificării prețurilor și tarifelor",
+   "url": "https://emol.ro/peris-if/registru-hcl/48882",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-11-2022",
+   "path": "local/ilfov/peris/2022/11",
+   "short": "HCL Periș nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 11/2022 Aprobare cont de executie a bugetului institutiilor publice si activitatilor finantate integral sau partial din venituri proprii pe trim IV /2021",
+   "url": "https://emol.ro/peris-if/registru-hcl/48883",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-12-2022",
+   "path": "local/ilfov/peris/2022/12",
+   "short": "HCL Periș nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 12/2022 privind modificarea şi completarea Hotărârii Consiliului Local nr. 64 din 26.11.2021 privind instituirea unor măsuri fiscale şi aprobarea procedurii de anulare a accesoriilor aferente obligaţiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local al Comunei Periş",
+   "url": "https://emol.ro/peris-if/registru-hcl/50495",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/50495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-13-2022",
+   "path": "local/ilfov/peris/2022/13",
+   "short": "HCL Periș nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 13/2022 privind modificare anexa HCL 6/2022,stabilirea consumului lunar de carburanţi pentru autovehiculele care deservesc parcul auto al institutiei",
+   "url": "https://emol.ro/peris-if/registru-hcl/50496",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/50496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-14-2022",
+   "path": "local/ilfov/peris/2022/14",
+   "short": "HCL Periș nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 14/2022 privind acordarea burselor sociale , burse de studiu , burse de merit si performanță pentru elevii din unităţile de învăţământ preuniversitar de stat (primar şi gimnazial) din comuna Periș, judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/50497",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/50497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-15-2022",
+   "path": "local/ilfov/peris/2022/15",
+   "short": "HCL Periș nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 15/2022 Privind completarea HCL nr.8/2012, aprobare nomenclator stradal comuna Periș, prin atribuirea denumirii “ STRADA PĂUNILOR”- De 634 situat în T153, P 635",
+   "url": "https://emol.ro/peris-if/registru-hcl/50498",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/50498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-16-2022",
+   "path": "local/ilfov/peris/2022/16",
+   "short": "HCL Periș nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 16/2022 privind aprobarea Planului de acţiuni si lucrări de interes local pe anul 2022 , ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr.416/2001, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/peris-if/registru-hcl/50499",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/50499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-17-2022",
+   "path": "local/ilfov/peris/2022/17",
+   "short": "HCL Periș nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 17/2022 privind aprobare buget local 2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/50500",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/50500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-18-2022",
+   "path": "local/ilfov/peris/2022/18",
+   "short": "HCL Periș nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 18/2022 privind încheierea exercitiului financiar pe anul 2021",
+   "url": "https://emol.ro/peris-if/registru-hcl/50501",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/50501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-19-2022",
+   "path": "local/ilfov/peris/2022/19",
+   "short": "HCL Periș nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 19/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/53170",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/53170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-2-2022",
+   "path": "local/ilfov/peris/2022/2",
+   "short": "HCL Periș nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 2/2022 Privind acoperirea definitive a deficitului sectiunii de functionare din excedentul bugetului local pentru sursa E",
+   "url": "https://emol.ro/peris-if/registru-hcl/48874",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-20-2022",
+   "path": "local/ilfov/peris/2022/20",
+   "short": "HCL Periș nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 20/2022 privind completarea HCL nr.8/2012- aprobare nomenclator stradal comuna Periș,sat Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/53171",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/53171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-21-2022",
+   "path": "local/ilfov/peris/2022/21",
+   "short": "HCL Periș nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 21/2022 privind aprobarea alocării, din bugetul local,a sumei de 100.000 lei pentru refugiatii din Ucraina",
+   "url": "https://emol.ro/peris-if/registru-hcl/53172",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/53172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-22-2022",
+   "path": "local/ilfov/peris/2022/22",
+   "short": "HCL Periș nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 22/2022 privind aprobarea acordului de cooperare cu Consiliul Județean Ilfov „Cooperarea privind creșterea capacității operaționale la nivelul Județului Ilfov în vederea asigurării eficiente și unitare a asistenței umanitare adecvate pentru persoanele refugiate/intrate pe teritoriul județului Ilfov în urma conflictului declanșat în Ucraina”",
+   "url": "https://emol.ro/peris-if/registru-hcl/53173",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/53173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-23-2022",
+   "path": "local/ilfov/peris/2022/23",
+   "short": "HCL Periș nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 23/2022 privind reducerea cu 80% a impozitului pentru mijloacele de transport hibride şi stabilirea procedurii şi criteriilor de acordare a acesteia",
+   "url": "https://emol.ro/peris-if/registru-hcl/53174",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/53174",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-24-2022",
+   "path": "local/ilfov/peris/2022/24",
+   "short": "HCL Periș nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 24/2022 privind privind aprobarea încheierii protocolului de cooperare între Judeţul Ilfov - Consiliul Judeţean, Serviciul Judeţean de Dezinsecţie si Ecologizare Mediu Ilfov si unităţile administrativ - teritoriale din Judeţul Ilfov în vederea realizării proiectului „ Ilfov fără ţânţari”",
+   "url": "https://emol.ro/peris-if/registru-hcl/53175",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/53175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-25-2022",
+   "path": "local/ilfov/peris/2022/25",
+   "short": "HCL Periș nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 25/2022 privind rectificare buget local trim.I /2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/55178",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/55178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-26-2022",
+   "path": "local/ilfov/peris/2022/26",
+   "short": "HCL Periș nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 26/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/55179",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/55179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-27-2022",
+   "path": "local/ilfov/peris/2022/27",
+   "short": "HCL Periș nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 27/2022 privind însușirea Raportului de expertiză contabilă extrajudiciară înregistrat la Unitatea Administrativ Teritoriala COMUNA PERIȘ, sub nr. 2859/08.03.2022, întocmit de societatea A.N.G.CONSULTING SRL",
+   "url": "https://emol.ro/peris-if/registru-hcl/55180",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/55180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-28-2022",
+   "path": "local/ilfov/peris/2022/28",
+   "short": "HCL Periș nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 28/2022 privind aprobarea PLANULUI URBANISTIC ZONAL pentru “LOTIZARE PENTRU ANSAMBLU LOCUINȚE INDIVIDUALE, FUNCȚIUNI COMPLEMENTARE, SERVICII, AMENAJARE CIRCULAȚII AUTO ȘI PIETONALE, PARCĂRI, SPAȚII VERZI, ÎMPREJMUIRE TEREN, RACORD UTILITĂȚIʺ",
+   "url": "https://emol.ro/peris-if/registru-hcl/55181",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/55181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-29-2022",
+   "path": "local/ilfov/peris/2022/29",
+   "short": "HCL Periș nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 29/2022 privind completarea HCL nr. 7/10.02.2022, actualizarea indicatorilor tehnico-economici aferenti obiectivului de investiții:„Construire grădiniță în comuna Periș, județul Ilfov”cu sursa de finanțare a obiectivului",
+   "url": "https://emol.ro/peris-if/registru-hcl/55182",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/55182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-3-2022",
+   "path": "local/ilfov/peris/2022/3",
+   "short": "HCL Periș nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 3/2022 Privind acoperirea definitive a deficitului sectiunii de dezvoltare din excedentul bugetului local pentru sursa A",
+   "url": "https://emol.ro/peris-if/registru-hcl/48875",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-30-2022",
+   "path": "local/ilfov/peris/2022/30",
+   "short": "HCL Periș nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 30/2022 privind completarea inventarului bunurilor care fac parte din domeniul public al comunei Periș, județul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/55183",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/55183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-31-2022",
+   "path": "local/ilfov/peris/2022/31",
+   "short": "HCL Periș nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 31/2022 privind rectificare buget trim I/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/55184",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/55184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-32-2022",
+   "path": "local/ilfov/peris/2022/32",
+   "short": "HCL Periș nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 32/2022 privind aprobarea protocolului de cooperare cu Judeţul Ilfov - Consiliul Judeţean şi unele asociaţii non — guvernamentale, în vederea realizării campaniei de sterilizare gratuită pentru câini şi pisici",
+   "url": "https://emol.ro/peris-if/registru-hcl/55185",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/55185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-33-2022",
+   "path": "local/ilfov/peris/2022/33",
+   "short": "HCL Periș nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 33/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/58381",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/58381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-34-2022",
+   "path": "local/ilfov/peris/2022/34",
+   "short": "HCL Periș nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 34/2022 privind completarea inventarului bunurilor care fac parte din domeniul public al comunei Periș, județul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/58382",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/58382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-35-2022",
+   "path": "local/ilfov/peris/2022/35",
+   "short": "HCL Periș nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 35/2022 privind aprobarea cererii de finantare, a indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitie ,,Extindere sistem inteligent de distributie gaze naturale in satele Peris, Burias si Balteni, apartinatoare comunei Peris, judet Ilfov “",
+   "url": "https://emol.ro/peris-if/registru-hcl/58387",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/58387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-36-2022",
+   "path": "local/ilfov/peris/2022/36",
+   "short": "HCL Periș nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 36/2022 privind propunerea de stabilire a valorilor impozabile, impozitele si taxele locale si alte taxe asimilate acestora precum si amenzile aplicabile in Comuna Peris,pentru anul 2023",
+   "url": "https://emol.ro/peris-if/registru-hcl/67581",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-37-2022",
+   "path": "local/ilfov/peris/2022/37",
+   "short": "HCL Periș nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 37/2022 privind aprobare cont de executie trim I/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67582",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-38-2022",
+   "path": "local/ilfov/peris/2022/38",
+   "short": "HCL Periș nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 38/2022 privind acordarea de mandate speciale Asociației de Dezvoltare Intercomunitară pentru Transport Public București-Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/67583",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-39-2022",
+   "path": "local/ilfov/peris/2022/39",
+   "short": "HCL Periș nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 39/2022 privind acordarea de mandat special în cadrul Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov (A.D.I.G.I.D.I.)",
+   "url": "https://emol.ro/peris-if/registru-hcl/67584",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-40-2022",
+   "path": "local/ilfov/peris/2022/40",
+   "short": "HCL Periș nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 40/2022 privind rectificare buget trim. II/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67585",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-41-2022",
+   "path": "local/ilfov/peris/2022/41",
+   "short": "HCL Periș nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 41/2022 Privind aprobarea încheierii unui Protocol de cooperare între Județul Ilfov – Consiliul Județean, Inspectoratul Școlar Județean Ilfov și UAT Periș, din județul Ilfov în vederea realizării campaniei de informare privind risipa alimentară „Tu câți bani ai în coșul de gunoi? Nu arunca mâncarea!”",
+   "url": "https://emol.ro/peris-if/registru-hcl/67652",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-42-2022",
+   "path": "local/ilfov/peris/2022/42",
+   "short": "HCL Periș nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 42/2022 Aprobarea regulamentului privind activitatea de ridicare, transport şi depozitare a vehiculelor fără stăpân sau abandonate pe terenuri aparţinând domeniului public sau privat al comunei Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/67653",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-43-2022",
+   "path": "local/ilfov/peris/2022/43",
+   "short": "HCL Periș nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 43/2022 privind luarea la cunoştinţă a declaraţiei de renunţare la dreptul de proprietate , autentificată sub nr. 2196/17.05.2022, aprobarea preluării și înscrierii în domeniul public al comunei Periș,Județul Ilfov și completarea nomenclatorului stradal cu denumirea străzilor preluate de comuna Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/67654",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-44-2022",
+   "path": "local/ilfov/peris/2022/44",
+   "short": "HCL Periș nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 44/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67655",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-45-2022",
+   "path": "local/ilfov/peris/2022/45",
+   "short": "HCL Periș nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 45/2022 Privind aprobarea Regulamentului propriu privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale Consiliului local Peris",
+   "url": "https://emol.ro/peris-if/registru-hcl/67656",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-46-2022",
+   "path": "local/ilfov/peris/2022/46",
+   "short": "HCL Periș nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 46/2022 privind încheierea unui contract de prestari servicii de salubrizare prin aplicarea procedurii de negociere fără publicarea prealabilă a unui anunţ de participare pentru asigurarea continuității Serviciului de salubritate în Comuna Peris, judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/67657",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-47-2022",
+   "path": "local/ilfov/peris/2022/47",
+   "short": "HCL Periș nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 47/2022 privind afilierea UAT PERIȘ la Asociaţia de Dezvoltare Intercomunitară “Eco &Iluminat Sud-Est”Consiliul Local al localitatii Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/67658",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-48-2022",
+   "path": "local/ilfov/peris/2022/48",
+   "short": "HCL Periș nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 48/2022 privind organizarea şi finanţarea manifestărilor cultural -educative , cu ocazia “ Zilei Copilului - 1 IUNIE 2022 ” în comuna Periş , judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/67659",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-5-2022",
+   "path": "local/ilfov/peris/2022/5",
+   "short": "HCL Periș nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 5/2022 Privind aprobarea organigramei, a statului de functii si a numarului de personal pentru Aparatul de specialitate al Primarului comunei Periș",
+   "url": "https://emol.ro/peris-if/registru-hcl/48877",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-50-2022",
+   "path": "local/ilfov/peris/2022/50",
+   "short": "HCL Periș nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 50/2022 Aprobare Regulament privind acordarea de premii elevilor/tinerilor/sportivilor, care au obtinut rezultate deosebite, la faza judeţeană, naţională sau internaţională a Olimpiadelor şcolare, Concursuri si Competiţii,rezultate deosebite la examenele de evaluare naţională, precum şi recompense profesorilor/instructorilor coordonatorilor /antrenorilor,etc. care i-au pregătit pe aceştia",
+   "url": "https://emol.ro/peris-if/registru-hcl/67661",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-51-2022",
+   "path": "local/ilfov/peris/2022/51",
+   "short": "HCL Periș nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 51/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67662",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-52-2022",
+   "path": "local/ilfov/peris/2022/52",
+   "short": "HCL Periș nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 52/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67663",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-53-2022",
+   "path": "local/ilfov/peris/2022/53",
+   "short": "HCL Periș nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 53/2022 privind asumarea Raportelor de evaluare, pentru imobilele următoare: suprafața de 1786 mp situat în T82, Parcelele 3471,3472,3473, nr.cad.50508,suprafața de 150 mp situat în T 113, Parcelele 4904/4907, nr.cad.55728,suprafața de 150 mp situat în T 113, Parcelele 4904/4907, nr.cad.55802, suprafața de 812 mp situat în Cv 86, Parcelele 3630,3631, nr.cad.53046 suprafața de 2233 mp situat în T 148, Parcelele 1753,1754,1755 nr.cad.59534,suprafața de 189700 mp situat în T 176, Parcela 858, nr.cad.50301,suprafața de 643 mp situat în T 28, Parcela 1044, nr.cad.59784",
+   "url": "https://emol.ro/peris-if/registru-hcl/67664",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-54-2022",
+   "path": "local/ilfov/peris/2022/54",
+   "short": "HCL Periș nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 54/2022 Privind organizarea și finanțarea evenimentului „ ZIUA COMUNEI PERIȘ ” în anul 2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67665",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-55-2022",
+   "path": "local/ilfov/peris/2022/55",
+   "short": "HCL Periș nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 55/2022 Privind cofinanţarea proiectului „ROAD SAFETY OUTDOOR EDUCATION”, în cadrul Programului Operaţional Capital Uman 2014-2020, Axa Prioritară 6 „Educaţie şi competenţe, Prioritatea de investiţie 10.i.” din bugetul local al comunei Periș, în cuantum de 2% din valoarea totală a acestuia",
+   "url": "https://emol.ro/peris-if/registru-hcl/67666",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-56-2022",
+   "path": "local/ilfov/peris/2022/56",
+   "short": "HCL Periș nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 56/2022 privind rectificare buget trim.II / 2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67667",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-57-2022",
+   "path": "local/ilfov/peris/2022/57",
+   "short": "HCL Periș nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 57/2022 Privind punerea la dispozitia „Proiect de dezvoltare a infrastructurii de apa si apa uzata in aglomerarea Snagov, judetul Ilfov, in perioada 2014-2020”",
+   "url": "https://emol.ro/peris-if/registru-hcl/67668",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-58-2022",
+   "path": "local/ilfov/peris/2022/58",
+   "short": "HCL Periș nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 58/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67669",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-59-2022",
+   "path": "local/ilfov/peris/2022/59",
+   "short": "HCL Periș nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 59/2022 privind rectificare buget",
+   "url": "https://emol.ro/peris-if/registru-hcl/67670",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-6-2022",
+   "path": "local/ilfov/peris/2022/6",
+   "short": "HCL Periș nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 6/2022 Privind stabilirea consumului lunar de carburant",
+   "url": "https://emol.ro/peris-if/registru-hcl/48878",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-60-2022",
+   "path": "local/ilfov/peris/2022/60",
+   "short": "HCL Periș nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 60/2022 Introducere imobil – teren în suprafață de 6319 mp –compus din suprafata de 5919 mp situat in tarla T 37, parcela P 1665, si suprafata de 400 mp, situat in tarlaua T 37, parcela P 1665/2, în domeniul privat al comunei Periș, judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/67680",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-61-2022",
+   "path": "local/ilfov/peris/2022/61",
+   "short": "HCL Periș nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 61/2022 Privind acordarea cu titlul gratuit teren suprafata de 6319 mp(compus din suprafata de 5919 mp situat in tarla T 37, parcela P 1665, si suprafata de 400 mp, situat in tarlaua T 37, parcela P 1665/2), in vederea realizării investiției „Construcție statie de tratare a apei, cât și a unui rezervor de înmagazinare cu un volum de 1000 mc, în satul Buriaș, comuna Periș, judetul Ilfov”",
+   "url": "https://emol.ro/peris-if/registru-hcl/67681",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-62-2022",
+   "path": "local/ilfov/peris/2022/62",
+   "short": "HCL Periș nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 62/2022 privind aprobarea contului de execuţie a bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii pe trimestrul 1/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/67698",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-63-2022",
+   "path": "local/ilfov/peris/2022/63",
+   "short": "HCL Periș nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 63/2022 pentru participarea Ia Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public pentru proiectul „Modernizarea şi extinderea sistemului de iluminat public,in Comuna Periş, judeţul Ilfov”",
+   "url": "https://emol.ro/peris-if/registru-hcl/69496",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/69496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-64-2022",
+   "path": "local/ilfov/peris/2022/64",
+   "short": "HCL Periș nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 64/2022 privire la aprobarea participării in „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: staţii de reîncărcare pentru vehicule electrice în localităţi” cu proiectul:“CONSTRUIRE STATII DE REINCARCARE PENTRU VEHICULE ELECTRICE IN COMUNA PERIS, JUDETUL ILFOV”",
+   "url": "https://emol.ro/peris-if/registru-hcl/69497",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/69497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-65-2022",
+   "path": "local/ilfov/peris/2022/65",
+   "short": "HCL Periș nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 65/2022 privind: neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României în perioada 2017-2023, la nivelul comunei Periș, județul Ilfov, pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/peris-if/registru-hcl/69498",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/69498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-66-2022",
+   "path": "local/ilfov/peris/2022/66",
+   "short": "HCL Periș nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 66/2022 privind aprobarea cheltuielilor ocazionate de deplasarea, la Campionatul Mondial de karate Goju Ryu, în orasul Folifno din Italia , a sportivilor ce fac parte din lotul de karate ce apartin ACS PERIS",
+   "url": "https://emol.ro/peris-if/registru-hcl/69499",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/69499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-68-2022",
+   "path": "local/ilfov/peris/2022/68",
+   "short": "HCL Periș nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 68/2022 Privind rectificarea bugetului local in trimestrul al III-lea din anul 2022, prin diminuarea cheltuielilor din trimestrul al IV-lea, precum si suplimentari si virari de credite bugetare, la capitolele deficitare in cadrul sectiuniilor de functionare si dezvoltare, fara modificarea totalului general existent",
+   "url": "https://emol.ro/peris-if/registru-hcl/78578",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/78578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-69-2022",
+   "path": "local/ilfov/peris/2022/69",
+   "short": "HCL Periș nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 69/2022 Privind completarea HCL nr.8/2012, privind abrobare nomenclator stradal comuna Periș, sat Bălteni prin completarea cu “ Intrarea Pescăriei”- situat în De 193/1 situat în T 28, P 198/1/2",
+   "url": "https://emol.ro/peris-if/registru-hcl/78579",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/78579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-7-2022",
+   "path": "local/ilfov/peris/2022/7",
+   "short": "HCL Periș nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 7/2022 Privind propunerea aprobării reţelei şcolare de pe raza comunei Periș pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/peris-if/registru-hcl/48879",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-70-2022",
+   "path": "local/ilfov/peris/2022/70",
+   "short": "HCL Periș nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 70/2022 privind rectificarea bugetului local in trimestrul al III-lea din anul 2022, prin suplimentari si virari de credite bugetare, la capitolele deficitare in cadrul sectiuniilor de functionare si dezvoltare",
+   "url": "https://emol.ro/peris-if/registru-hcl/78588",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/78588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-71-2022",
+   "path": "local/ilfov/peris/2022/71",
+   "short": "HCL Periș nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 71/2022 Privind modificarea art.2 din HCL nr.54/2022, Privind organizarea și finanțarea evenimentului „ ZIUA COMUNEI PERIȘ ” în anul 2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/78589",
+   "versions": [
+    {
+     "from": "2022-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/78589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-72-2022",
+   "path": "local/ilfov/peris/2022/72",
+   "short": "HCL Periș nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 72/2022 privind rectificarea bugetului local in trimestrul al III-lea din anul 2022, prin suplimentari de credite bugetare, la capitolele deficitare in cadrul sectiuni de functionare",
+   "url": "https://emol.ro/peris-if/registru-hcl/78590",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/78590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-73-2022",
+   "path": "local/ilfov/peris/2022/73",
+   "short": "HCL Periș nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 73/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/78591",
+   "versions": [
+    {
+     "from": "2022-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/78591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-74-2022",
+   "path": "local/ilfov/peris/2022/74",
+   "short": "HCL Periș nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 74/2022 privind aprobarea contului de executie a bugetului instituțiilor publice și finanțate integral sau parțial din venituri proprii pe trimestrul III/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/78599",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/78599",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-75-2022",
    "path": "local/ilfov/peris/2022/75",
    "short": "HCL Periș nr. 75/2022",
@@ -73,6 +1108,21 @@
      "from": "2022-10-12",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/78604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-8-2022",
+   "path": "local/ilfov/peris/2022/8",
+   "short": "HCL Periș nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 8/2022 Privind aprobarea modelului de Contract de management administrativ-financiar, ce se va încheia între Primarul Comunei Periș şi directorul unităţii de învăţământ preuniversitar de stat din Comuna Periș, precum şi aprobarea Indicatorilor de performanţă, anexă la Contractul de management administrativ-financiar",
+   "url": "https://emol.ro/peris-if/registru-hcl/48880",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48880",
      "sha256": null
     }
    ]
@@ -223,6 +1273,21 @@
      "from": "2022-12-12",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/83795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-9-2022",
+   "path": "local/ilfov/peris/2022/9",
+   "short": "HCL Periș nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 9/2022 Privind aprobarea organizarii evenimentului ”24 Ianuarie 2022 – Ziua Unirii Principatelor Române”",
+   "url": "https://emol.ro/peris-if/registru-hcl/48881",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48881",
      "sha256": null
     }
    ]

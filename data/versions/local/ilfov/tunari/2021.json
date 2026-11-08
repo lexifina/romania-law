@@ -3,6 +3,51 @@
  "shard": "local/ilfov/tunari/2021",
  "acts": [
   {
+   "slug": "hcl-ilfov--tunari-10-2021",
+   "path": "local/ilfov/tunari/2021/10",
+   "short": "HCL Tunari nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 10/2021 privind aprobarea planului de acțiuni sau lucrări de interes local pe anul 2021 pentru repartizarea orelor de muncă prestate lunar de către persoanele majore apte de muncă din familiile beneficiare de ajutor social, acordate în baza Legii nr. 416/2001 privind venitul minim garantat, cu modificările ulterioare",
+   "url": "https://emol.ro/tunari-if/registru-hcl/18339",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/18339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-115-2021",
+   "path": "local/ilfov/tunari/2021/115",
+   "short": "HCL Tunari nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 115/2021 privind taxele si impozitele locale pe anul 2022",
+   "url": "https://emol.ro/tunari-if/registru-hcl/42502",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/42502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-117-2021",
+   "path": "local/ilfov/tunari/2021/117",
+   "short": "HCL Tunari nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 117/2021 privind aprobarea Regulamentului de organizare şî funcţionare a patinoarului artificial mobil amplasat in comuna Tunari, judeţul Ilfov",
+   "url": "https://emol.ro/tunari-if/registru-hcl/42504",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/42504",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--tunari-118-2021",
    "path": "local/ilfov/tunari/2021/118",
    "short": "HCL Tunari nr. 118/2021",
@@ -28,6 +73,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/42506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-12-2021",
+   "path": "local/ilfov/tunari/2021/12",
+   "short": "HCL Tunari nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 12/2021 privind aprobarea prelungirii termenului de valabilitate pentru Planul Urbanistic General și a Regulamentului local de Urbanism până la aprobarea noului PUG",
+   "url": "https://emol.ro/tunari-if/registru-hcl/18341",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/18341",
      "sha256": null
     }
    ]
@@ -298,6 +358,186 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/tunari-if/registru-hcl/45125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-15-2021",
+   "path": "local/ilfov/tunari/2021/15",
+   "short": "HCL Tunari nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 15/2021 privind aprobarea „Planul de acțiune – romii 2021”",
+   "url": "https://emol.ro/tunari-if/registru-hcl/18344",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/18344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-31-2021",
+   "path": "local/ilfov/tunari/2021/31",
+   "short": "HCL Tunari nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 31/2021 privind aprobarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/tunari-if/registru-hcl/23476",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/23476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-32-2021",
+   "path": "local/ilfov/tunari/2021/32",
+   "short": "HCL Tunari nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 32/2021 privind aprobarea propunerii Programului Anual al Achizitii Publice la nivelul anului 2021",
+   "url": "https://emol.ro/tunari-if/registru-hcl/23477",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/23477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-35-2021",
+   "path": "local/ilfov/tunari/2021/35",
+   "short": "HCL Tunari nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 35/2021 privind aprobarea unui transfer de fonduri catre Clubul Sportiv Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/23480",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/23480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-6-2021",
+   "path": "local/ilfov/tunari/2021/6",
+   "short": "HCL Tunari nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 6/2021 privind taxele si impozitele locale pe anul 2021",
+   "url": "https://emol.ro/tunari-if/registru-hcl/13685",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/13685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-60-2021",
+   "path": "local/ilfov/tunari/2021/60",
+   "short": "HCL Tunari nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 60/2021",
+   "url": "https://emol.ro/tunari-if/registru-hcl/26783",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/26783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-63-2021",
+   "path": "local/ilfov/tunari/2021/63",
+   "short": "HCL Tunari nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 63/2021 privind aprobarea tarifelor distincte pentru gestionarea deseurilor de ambalaj",
+   "url": "https://emol.ro/tunari-if/registru-hcl/27218",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/27218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-64-2021",
+   "path": "local/ilfov/tunari/2021/64",
+   "short": "HCL Tunari nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 64/2021 privind modificarea Regulamentului de organizare și funcționare a Sălii de Sport din comuna Tunari",
+   "url": "https://emol.ro/tunari-if/registru-hcl/30393",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/30393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-67-2021",
+   "path": "local/ilfov/tunari/2021/67",
+   "short": "HCL Tunari nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 67/2021 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv Tunari pe anul 2021",
+   "url": "https://emol.ro/tunari-if/registru-hcl/30396",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/30396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-77-2021",
+   "path": "local/ilfov/tunari/2021/77",
+   "short": "HCL Tunari nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 77/2021 privind aprobarea și ajustarea tarifelor pentru activitatea de salubrizare desfășurată de societatea TUNARI SALUBRIZARE SRL",
+   "url": "https://emol.ro/tunari-if/registru-hcl/34036",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/34036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-83-2021",
+   "path": "local/ilfov/tunari/2021/83",
+   "short": "HCL Tunari nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 83/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/tunari-if/registru-hcl/36273",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/36273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--tunari-87-2021",
+   "path": "local/ilfov/tunari/2021/87",
+   "short": "HCL Tunari nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Tunari nr. 87/2021 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv Tunari pe anul 2021",
+   "url": "https://emol.ro/tunari-if/registru-hcl/36277",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tunari-if/registru-hcl/36277",
      "sha256": null
     }
    ]

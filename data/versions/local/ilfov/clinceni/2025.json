@@ -3,6 +3,771 @@
  "shard": "local/ilfov/clinceni/2025",
  "acts": [
   {
+   "slug": "hcl-ilfov--clinceni-1-2025",
+   "path": "local/ilfov/clinceni/2025/1",
+   "short": "HCL Clinceni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 1/2025 privind acoperirea definitivă a deficitului secțiunii de dezvoltare pe anul 2024 din excedentul anilor precedenți",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/189442",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/189442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-10-2025",
+   "path": "local/ilfov/clinceni/2025/10",
+   "short": "HCL Clinceni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 10/2025 privind încheierea unui Acord de cooperare cu Filiala Judeţeană Ilfov a Asociaţiei Comunelor din România pentru organizarea şi exercitarea activităţii de audit public intern",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/194410",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/194410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-11-2025",
+   "path": "local/ilfov/clinceni/2025/11",
+   "short": "HCL Clinceni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 11/2025 privind indreptarea erorii materiala strecurata in art. 2 si anexa la HCL nr. 84/2023 privind dezmembrarea unor imobile teren intravilan ce apartin domeniului privat, comuna Clinceni judetul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/194411",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/194411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-12-2025",
+   "path": "local/ilfov/clinceni/2025/12",
+   "short": "HCL Clinceni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 12/2025 privind transmiterea dreptului de proprietate asupra terenului in suprafata de 484 mp situat in comuna Clinceni, judetul Ilfov, tarla 13 parcela 1254,nc 65046, teren de apartine domeniului privat al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/194412",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/194412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-13-2025",
+   "path": "local/ilfov/clinceni/2025/13",
+   "short": "HCL Clinceni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 13/2025 privind acceptare transfer microbuz școlar de la CJ Ilfov la UAT Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/194413",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/194413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-14-2025",
+   "path": "local/ilfov/clinceni/2025/14",
+   "short": "HCL Clinceni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 14/2025 privind aprobarea încheierii protocolului de cooperare între Județul Ilfov - Consiliul Județean, Serviciul Județean de Dezinsecție și Ecologizare Mediu Ilfov și unitățile administrativ - teritoriale din Județul Ilfov în vederea realizării proiectului „ Ilfov fără țânțari”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/194414",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/194414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-16-2025",
+   "path": "local/ilfov/clinceni/2025/16",
+   "short": "HCL Clinceni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 16/2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/196672",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/196672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-17-2025",
+   "path": "local/ilfov/clinceni/2025/17",
+   "short": "HCL Clinceni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 17/2025 privind preluarea unor sectoare de drum predate din administratrea C L Clinceni în administrarea Consiliului Județean Ilfov , in vederea executării lucrărilor de “Aşternere covor asfaltic”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/200866",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/200866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-18-2025",
+   "path": "local/ilfov/clinceni/2025/18",
+   "short": "HCL Clinceni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 18/2025 privind aprobarea principalilor indicatori tehnico-economici obiectivului de investiții de interes local „EXTINDERI DE REȚELE ELECTRICE ȘI ILUMINAT CLINCENI\"",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/200867",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/200867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-19-2025",
+   "path": "local/ilfov/clinceni/2025/19",
+   "short": "HCL Clinceni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 19/2025 privind aprobarea BUGETULUI LOCAL AL COMUNEI CLINCENI PENTRU ANUL 2025 SI A LISTEI PROPRII DE INVESTITII A CLC",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/200868",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/200868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-2-2025",
+   "path": "local/ilfov/clinceni/2025/2",
+   "short": "HCL Clinceni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 2/2025 privind stabilirea normativelor proprii pentru consumul lunar de carburanți pentru vehiculele din dotarea Consiliului Local al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/190305",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/190305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-20-2025",
+   "path": "local/ilfov/clinceni/2025/20",
+   "short": "HCL Clinceni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 20/2025 privind actualizarea devizului aferent obiectivul de investiții „ÎNFIINȚAREA UNUI CENTRU DE COLECTARE PRIN APORT VOLUNTAR ÎN COMUNA CLINCENI” , aprobat, prin HCL 71/2024, pentru finanțare prin Planul Național de Redresare și Reziliență Apel nr. PNRR/2022/C3/I.1. A, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru finanțarea obiectivului",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/201961",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/201961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-21-2025",
+   "path": "local/ilfov/clinceni/2025/21",
+   "short": "HCL Clinceni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 21/2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/205082",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/205082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-22-2025",
+   "path": "local/ilfov/clinceni/2025/22",
+   "short": "HCL Clinceni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 22/2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/205083",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/205083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-23-2025",
+   "path": "local/ilfov/clinceni/2025/23",
+   "short": "HCL Clinceni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 23/2025 privind acceptarea declarației autentice cu nr. 409/08. 04. 2025 privind donarea terenului intravilan in suprafata de 55 mp situat in comuna Clinceni, judetul Ilfov, tarla 9/1 parcela 40/1/29, NC 64891",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/205084",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/205084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-25-2025",
+   "path": "local/ilfov/clinceni/2025/25",
+   "short": "HCL Clinceni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 25/2025 privind acordarea unui mandat Asociaţiei de Dezvoltare Intercomunitară Apă – ADIA Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/205086",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/205086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-26-2025",
+   "path": "local/ilfov/clinceni/2025/26",
+   "short": "HCL Clinceni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 26/2025 privind încheierea unui protocol de cooperare între comuna Clinceni/Consiliul local Clinceni , Județul Ilfov – Consiliul Județean si Colegiul Medicilor Stomatologi Ilfov în vederea realizării proiectului de interes public „Ilfov zâmbește junior”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/205087",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/205087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-27-2025",
+   "path": "local/ilfov/clinceni/2025/27",
+   "short": "HCL Clinceni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 27/2025 privind încheierea unui protocol de cooperare între comuna Clinceni/Consiliul local Clinceni , Județul Ilfov – Consiliul Județean si Colegiul Medicilor Stomatologi Ilfov în vederea realizării proiectului de interes public „Ilfov zâmbește SENIOR”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/205088",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/205088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-29-2025",
+   "path": "local/ilfov/clinceni/2025/29",
+   "short": "HCL Clinceni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 29/2025 privind alegerea președintelui de ședință pentru perioada MAI - IULIE 2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/210098",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/210098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-3-2025",
+   "path": "local/ilfov/clinceni/2025/3",
+   "short": "HCL Clinceni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 3/2025 privind aprobarea achiziţionării serviciilor juridice de consultanţă, de asistenţă si / sau de reprezentare a comunei Clinceni și a Consiliului Local al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/190306",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/190306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-30-2025",
+   "path": "local/ilfov/clinceni/2025/30",
+   "short": "HCL Clinceni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 30/2025 privind aprobarea Programului de acţiune comunitară destinat prevenirii şi combaterii riscului de sărăcie şi excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/210099",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/210099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-31-2025",
+   "path": "local/ilfov/clinceni/2025/31",
+   "short": "HCL Clinceni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 31/2025 privind aprobarea Planului de acţiuni/lucrări de interes local pentru anul 2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/210100",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/210100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-32-2025",
+   "path": "local/ilfov/clinceni/2025/32",
+   "short": "HCL Clinceni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 32/2025 privind acordarea cu titlu gratuit a dreptului de folosinta , către Reţele Electrice Romania SA. asupra terenului in suprafata de 20 mp ce face parte din terenul in suprafata de 3517 mp situati in comuna Clinceni, NC 62585, aparţind domeniului public al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/210101",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/210101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-35-2025",
+   "path": "local/ilfov/clinceni/2025/35",
+   "short": "HCL Clinceni nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 35/2025 privind actualizarea tarifelor de salubritate",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/211964",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/211964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-36-2025",
+   "path": "local/ilfov/clinceni/2025/36",
+   "short": "HCL Clinceni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 36/2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218571",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-37-2025",
+   "path": "local/ilfov/clinceni/2025/37",
+   "short": "HCL Clinceni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 37/2025 privind actualizarea suprafetei strazii LILIACULUI, ce apartine domeniului public al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218572",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-38-2025",
+   "path": "local/ilfov/clinceni/2025/38",
+   "short": "HCL Clinceni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 38/2025 privind completarea Art. 1 LA HCL NR. 11/27.02.2025 - poziția 1(A) și (B)",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218573",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-39-2025",
+   "path": "local/ilfov/clinceni/2025/39",
+   "short": "HCL Clinceni nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 39/2025 privind dezmembrarea imobilului teren intravilan in suprafata de 1702 mp, situat in tarla 39 parcela 266, ce apartin domeniului public, comuna Clinceni judetul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218574",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-4-2025",
+   "path": "local/ilfov/clinceni/2025/4",
+   "short": "HCL Clinceni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 4/2025 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Clinceni, în luna ianuarie a anului 2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/190307",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/190307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-40-2025",
+   "path": "local/ilfov/clinceni/2025/40",
+   "short": "HCL Clinceni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 40/2025 privind atestarea apartenenței la domeniul privat al comunei Clinceni, judetul Ilfov, a unor imobile teren",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218575",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-41-2025",
+   "path": "local/ilfov/clinceni/2025/41",
+   "short": "HCL Clinceni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 41/2025 privind aprobarea reorganizării Serviciului Voluntar pentru Situații de Urgență al comunei Clinceni și actualizarea Regulamentului de organizare și funcționare",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218576",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-42-2025",
+   "path": "local/ilfov/clinceni/2025/42",
+   "short": "HCL Clinceni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 42/2025 privind apartenența la domeniul public al comunei Clinceni a unor imobile TERENURI",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218577",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-43-2025",
+   "path": "local/ilfov/clinceni/2025/43",
+   "short": "HCL Clinceni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 43/2025 privind modificarea anexei 2 din HCL nr. 45/2022 pentru aprobarea Regulamentului de exploatare și administrare a terenurilor de sport aparținând Bazei sportive Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218578",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-44-2025",
+   "path": "local/ilfov/clinceni/2025/44",
+   "short": "HCL Clinceni nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 44/2025 privind “Furnizare de servicii integrate în comunitățile rurale si facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate”, cod SMIS 339395",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/218579",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/218579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-45-2025",
+   "path": "local/ilfov/clinceni/2025/45",
+   "short": "HCL Clinceni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 45/2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/219096",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/219096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-46-2025",
+   "path": "local/ilfov/clinceni/2025/46",
+   "short": "HCL Clinceni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 46/2025 privind apartenența la domeniul public al comunei Clinceni a unui imobil ȘCOALĂ CU 10 SĂLI DE CLASĂ",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/219097",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/219097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-47-2025",
+   "path": "local/ilfov/clinceni/2025/47",
+   "short": "HCL Clinceni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 47/2025 privind darea in admnistrarea LPS HA a cladirii ȘCOALĂ CU 10 SĂLI DE CLASĂ ce apartine domeniului public al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/219098",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/219098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-48-2025",
+   "path": "local/ilfov/clinceni/2025/48",
+   "short": "HCL Clinceni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 48/2025 privind aprobarea modificarii programului de circulatie a liniei STB 425, Ordoreanu-Olteni-Bucuresti si retur",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/219099",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/219099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-49-2025",
+   "path": "local/ilfov/clinceni/2025/49",
+   "short": "HCL Clinceni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 49/2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/219100",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/219100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-5-2025",
+   "path": "local/ilfov/clinceni/2025/5",
+   "short": "HCL Clinceni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 5/2025 privind validarea Dispoziţiei Primarului comunei Clinceni nr. 625/20.11.2024 și 688/18.12.2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/190308",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/190308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-50-2025",
+   "path": "local/ilfov/clinceni/2025/50",
+   "short": "HCL Clinceni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 50/2025 privind acceptarea declarației autentice cu nr.596/28.05.2025 privind donarea terenului intravilan în suprafața de 63 mp situat în Comuna Clinceni , Jud. Ilfov, tarla 29/2 parcela 169/1,169/1/5,169/1/7 cu numărul cadastral 65203",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/219101",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/219101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-51-2025",
+   "path": "local/ilfov/clinceni/2025/51",
+   "short": "HCL Clinceni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 51/2025 privind alegerea președintelui de ședință pentru perioada AUGUST - OCTOMBRIE 2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/222363",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/222363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-52-2025",
+   "path": "local/ilfov/clinceni/2025/52",
+   "short": "HCL Clinceni nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 52/2025 privind modificarea Regulamentului de organizare si functionare a serviciului public de transport in regim de taxi si in regim de inchiriere, aprobat prin HCL nr. 3/2008",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/222364",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/222364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-54-2025",
+   "path": "local/ilfov/clinceni/2025/54",
+   "short": "HCL Clinceni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 54/2025 privind aprobarea Protocolului de Colaborare între Comunele Clinceni -Domneşti, și Ciorogarla pentru susţinerea Centrului Operativ pentru Situaţii de Urgenţă Domneşti",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/223411",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/223411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-55-2025",
+   "path": "local/ilfov/clinceni/2025/55",
+   "short": "HCL Clinceni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 55/2025 privind aprobarea Proiectului tehnic si actualizarea indicatorilor tehnico economici si a Devizului General pentru obiectivul de investiţii “Statii de reincarcare vehicule electrice in cadrul proiectului - Digitalizarea activitatii comunei Clinceni”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/223956",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/223956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-56-2025",
+   "path": "local/ilfov/clinceni/2025/56",
+   "short": "HCL Clinceni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 56/2025 privind revocarea Hotararii Consiliului Local nr.2/29.01.2016",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/234444",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/234444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-57-2025",
+   "path": "local/ilfov/clinceni/2025/57",
+   "short": "HCL Clinceni nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 57/2025 privind înfiintarea drumului public de inters local precum si atribuirea de denumire, de Intrarea Monumentul Eroilor",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/234445",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/234445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-58-2025",
+   "path": "local/ilfov/clinceni/2025/58",
+   "short": "HCL Clinceni nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 58/2025 privind actualizarea asocierii UAT CLINCENI, prin Consiliul local cu judetul Ilfov/Consiliul judetean Ilfov, in vederea realizarii obiectivului de investitii ” EXTINDERE RETEA ELECTRICA IN COMUNA CLINCENI, JUDETUL ILFOV``",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/234446",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/234446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-59-2025",
+   "path": "local/ilfov/clinceni/2025/59",
+   "short": "HCL Clinceni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 59/2025 privind încetarea aplicabilității prevederilor HCL nr. 77/2010, modificata si completata prin HCL nr. 66/2012, 47/2015, 82/2021",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/234458",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/234458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-6-2025",
+   "path": "local/ilfov/clinceni/2025/6",
+   "short": "HCL Clinceni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 6/2025 privind aprobarea Regulamentului privind normele de gospodărire comunală pe teritoriul comunei Clinceni judetul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/190309",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/190309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-60-2025",
+   "path": "local/ilfov/clinceni/2025/60",
+   "short": "HCL Clinceni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 60/2025 privind renunțarea la lucrările de înfiintare retea apă - canal aferente străzilor aflate in domeniu privat",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/234459",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/234459",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-61-2025",
    "path": "local/ilfov/clinceni/2025/61",
    "short": "HCL Clinceni nr. 61/2025",
@@ -133,6 +898,21 @@
      "from": "2026-06-23",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/238555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-7-2025",
+   "path": "local/ilfov/clinceni/2025/7",
+   "short": "HCL Clinceni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 7/2025 privind modificarea si completarea Regulamentului privind gestionarea cainilor cu stapan din comuna Clinceni, aprobat prin Hotararea Consiliului Local nr.84/21.12.2021 pentru aprobarea Regulamentului privind gestionarea cainilor cu stapan din comuna Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/190310",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/190310",
      "sha256": null
     }
    ]
@@ -298,6 +1078,21 @@
      "from": "2026-06-23",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/245385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-9-2025",
+   "path": "local/ilfov/clinceni/2025/9",
+   "short": "HCL Clinceni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 9/2025 privind alegerea președintelui de ședință pentru perioada februarie - aprilie 2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/194409",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/194409",
      "sha256": null
     }
    ]

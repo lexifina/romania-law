@@ -3,6 +3,141 @@
  "shard": "local/maramures/sacalaseni/2025",
  "acts": [
   {
+   "slug": "hcl-maramures--sacalaseni-10-2025",
+   "path": "local/maramures/sacalaseni/2025/10",
+   "short": "HCL Săcălășeni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 10/2025 privind încheierea de către Comuna Săcălășeni a unui acord de cooperare cu Filiala Judeţeană Maramureş a Asociației Comunelor din România și Comuna BĂIUȚ, având ca obiect desfășurarea de activităţi în interes comunitar",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/189471",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/189471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-13-2025",
+   "path": "local/maramures/sacalaseni/2025/13",
+   "short": "HCL Săcălășeni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 13/2025 privind realizarea în Comuna Săcălășeni a investiției „Centrul Respiro Săcălășeni pentru persoane cu dizabilități”",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/191460",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/191460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-14-2025",
+   "path": "local/maramures/sacalaseni/2025/14",
+   "short": "HCL Săcălășeni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 14/2025 privind aprobarea situației veniturilor și cheltuielilor realizate în anul 2024 și a bugetului prognozat pentru anul 2025, privind fondul forestier al comunei Săcălășeni, administrat de Ocolul Silvic Șomcuta Mare",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/191461",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/191461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-15-2025",
+   "path": "local/maramures/sacalaseni/2025/15",
+   "short": "HCL Săcălășeni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 15/2025 privind mandatarea reprezentantului UAT Săcălășeni pentru propunerea de ajustare a tarifelor pentru activităţile de sortare si transfer a deșeurilor municipale zona de colectare 1 – Sârbi",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/191462",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/191462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-16-2025",
+   "path": "local/maramures/sacalaseni/2025/16",
+   "short": "HCL Săcălășeni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 16/2025 privind aprobarea situației veniturilor și cheltuielilor realizate în anul 2024 și a bugetului prognozat pentru anul 2025, privind fondul forestier al comunei Săcălășeni, administrat de Ocolul Silvic Firiza",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/191463",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/191463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-18-2025",
+   "path": "local/maramures/sacalaseni/2025/18",
+   "short": "HCL Săcălășeni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 18/2025 privind aprobarea Proiectului ” Sustainable Training Educational Platform” (Platforma Educațională de Formare Durabilă) și a cheltuielilor legate de acest proiect",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/195805",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/195805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-2-2025",
+   "path": "local/maramures/sacalaseni/2025/2",
+   "short": "HCL Săcălășeni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 2/2025 privind aprobarea numărului posturilor de asistent personal al persoanei cu handicap pentru anul 2025",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/189463",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/189463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-20-2025",
+   "path": "local/maramures/sacalaseni/2025/20",
+   "short": "HCL Săcălășeni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 20/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat, varianta februarie 2025, pentru obiectivul de investiții „MODERNIZARE DRUMURI SĂTEȘTI III ÎN COMUNA SĂCĂLĂȘENI, JUDEȚUL MARAMUREȘ\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/195807",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/195807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-21-2025",
+   "path": "local/maramures/sacalaseni/2025/21",
+   "short": "HCL Săcălășeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 21/2025",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/195808",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/195808",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-79-2025",
    "path": "local/maramures/sacalaseni/2025/79",
    "short": "HCL Săcălășeni nr. 79/2025",

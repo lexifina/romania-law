@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Ardusat nr. 21/2023 privind lemnul de lucru din partida nr.2300145500380, Gorun 4,58 mc si Fag 1,46 mc pentru consum propriu
+
+HCL Ardusat nr. 21/2023 · 1 versions, from 2023-05-31 (latest in force: 2023-05-31) · <https://emol.ro/ardusat-mm/registru-hcl/197419>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-maramures--ardusat-21-2023` (tags `hcl-maramures--ardusat-21-2023/<day>`; `python tools/on.py <day> hcl-maramures--ardusat-21-2023`).
+
+## Decisions made by hand
+
+- HCL Ardusat nr. 21/2023: listed from Consiliul Local al Comunei Ardusat (emol.ro); metadata only for now: no document of it is held.
+- HCL Ardusat nr. 21/2023: dated from 31 May 2023, the day it was adopted (the register gives no later day of publication).
+- HCL Ardusat nr. 21/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

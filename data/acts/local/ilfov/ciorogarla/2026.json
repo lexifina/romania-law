@@ -3,6 +3,116 @@
 "shard": "local/ilfov/ciorogarla/2026",
 "acts": [
 {
+"slug": "hcl-ilfov--ciorogarla-17-2026",
+"path": "local/ilfov/ciorogarla/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 17/2026 privind utilizarea sumei de 7.918.000 lei din excedentul bugetului local, în anul curent , pentru finanțarea unor obiective de investiții de la Secțiunea Dezvoltare",
+"short": "HCL Ciorogârla nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/273197",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-18-2026",
+"path": "local/ilfov/ciorogarla/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 18/2026 privind aprobarea utilizării sumei de 145.000,000 lei din excedentul bugetului local, din fonduri propii ,Sursa E, al anului 2025 , pentru finanțarea achiziției de utilaje agricole",
+"short": "HCL Ciorogârla nr. 18/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/273198",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-19-2026",
+"path": "local/ilfov/ciorogarla/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 19/2026 privind bugetul local al comunei Ciorogârla pe anul 2026",
+"short": "HCL Ciorogârla nr. 19/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/273199",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-21-2026",
+"path": "local/ilfov/ciorogarla/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 21/2026 privind interzicerea desfășurării activităților de jocuri de noroc în locații fizice pe raza UAT Ciorogârla",
+"short": "HCL Ciorogârla nr. 21/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/273341",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--ciorogarla-22-2026",
+"path": "local/ilfov/ciorogarla/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 22/2026 privind contul execuției bugetare la finele anului 2025",
+"short": "HCL Ciorogârla nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/ciorogarla-if/registru-hcl/273342",
+"council": "ilfov/ciorogarla",
+"council_name": "Consiliul Local al Comunei Ciorogârla",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-ilfov--ciorogarla-27-2026",
 "path": "local/ilfov/ciorogarla/2026/27",
 "kind": "local",

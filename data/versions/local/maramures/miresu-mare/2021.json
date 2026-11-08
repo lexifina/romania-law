@@ -3,6 +3,681 @@
  "shard": "local/maramures/miresu-mare/2021",
  "acts": [
   {
+   "slug": "hcl-maramures--miresu-mare-1-2021",
+   "path": "local/maramures/miresu-mare/2021/1",
+   "short": "HCL Mireșu Mare nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 1/2021 privind aprobarea implementării proiectului „Consolidarea capacității Școlii Gimnaziale Mireșu Mare și a structurilor arondate acesteia din Comuna Mireşu Mare, Județul Maramureş, în vederea gestionării situației de pandemie generată de virusul SARS-COV-2”, în vederea depunerii acestuia pentru finanțare, precum si indicatorii tehnico-economici ai proiectului",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/13904",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/13904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-10-2021",
+   "path": "local/maramures/miresu-mare/2021/10",
+   "short": "HCL Mireșu Mare nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 10/2021 privind aderarea comunei Mireșu Mare la Asociația Comunelor din România",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20386",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-11-2021",
+   "path": "local/maramures/miresu-mare/2021/11",
+   "short": "HCL Mireșu Mare nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 11/2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20387",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-12-2021",
+   "path": "local/maramures/miresu-mare/2021/12",
+   "short": "HCL Mireșu Mare nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 12/2021 privind propunerea spre aprobare a intăbulării terenului in suprafață de 607 m.p. (Drum intravilan), situat in localitatea Lucăcești, respetiv teren in suorafață de 502 m.p. (drum intravilan), situat in localitatea Dăneștii Chioarului, comuna Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20388",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-13-2021",
+   "path": "local/maramures/miresu-mare/2021/13",
+   "short": "HCL Mireșu Mare nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 13/2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20389",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-14-2021",
+   "path": "local/maramures/miresu-mare/2021/14",
+   "short": "HCL Mireșu Mare nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 14/2021 privind aprobarea planului anual de acțiune de interes local ce se va executa de către beneficiarii de ajutor social, conf. Legii nr. 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20390",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-15-2021",
+   "path": "local/maramures/miresu-mare/2021/15",
+   "short": "HCL Mireșu Mare nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 15/2021 privind stabilirea procedurii de desfășurare a ședințelor Consiliului Local al comunei Mireșu Mare în situații excepționale, constatate de autoritățile abilitate",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20391",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-16-2021",
+   "path": "local/maramures/miresu-mare/2021/16",
+   "short": "HCL Mireșu Mare nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 16/2021 privind modificarea HCL-ului cu nr. 52/10.11.2020 - Comisia de specialitate nr. 2 pentru învățământ, social, cultură, culte, sănătate și familie, muncă și protecție socială, protectia copilului;",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20392",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-17-2021",
+   "path": "local/maramures/miresu-mare/2021/17",
+   "short": "HCL Mireșu Mare nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 17/2021 privind modificarea și completarea Statutului Asociației de dezvoltare intercomunitară pentru gestionarea integrată a deșeurilor menajere în județul Maramureș ADIGIDM MM",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20393",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-18-2021",
+   "path": "local/maramures/miresu-mare/2021/18",
+   "short": "HCL Mireșu Mare nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 18/2021 privind modificarea Organigramei și a Statului de funcții a comunei Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20394",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-19-2021",
+   "path": "local/maramures/miresu-mare/2021/19",
+   "short": "HCL Mireșu Mare nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 19/2021 privind aprobarea documentelor necesare realizării proiectului Drumul Maramureșului",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20395",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-2-2021",
+   "path": "local/maramures/miresu-mare/2021/2",
+   "short": "HCL Mireșu Mare nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 2/2021 privind propunerea spre aprobare a prelungirii perioadei de valabilitate a contractului de comodat cu nr. 218/17.01.2018, pe o perioadă de 5 ani, pentru acordarea cu titlu gratuit a spatiului administrativ cu destinația sediu post de poliție comunal Mireșu Mare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/13905",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/13905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-20-2021",
+   "path": "local/maramures/miresu-mare/2021/20",
+   "short": "HCL Mireșu Mare nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 20/2021 privind aprobarea bugetului local initial pentru anul 2021 a comunei Miresu Mare, județ Maramureș, precum și aprobarea folosirii excedentului anului 2020, in suma de 1445,69 mii lei pentru Sectiunea Dezvoltare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22601",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-21-2021",
+   "path": "local/maramures/miresu-mare/2021/21",
+   "short": "HCL Mireșu Mare nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 21/2021 privind propunerea spre aprobare a încheierii a două spații, din incinta Căminului Cultural Mireșu Mare precum si din incinta Dispensarului Uman Mireșu Mare, în vederea organizării a două cabinete parlamentare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22602",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-22-2021",
+   "path": "local/maramures/miresu-mare/2021/22",
+   "short": "HCL Mireșu Mare nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 22/2021 privind propunerea spre aprobare a Strategiei de dezvoltare locală a comunei Mireșu Mare pentru perioada 2021-2027",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22603",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-23-2021",
+   "path": "local/maramures/miresu-mare/2021/23",
+   "short": "HCL Mireșu Mare nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 23/2021 privind algerea unui președinte de ședință Consiliul Local al Comunei Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22604",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-24-2021",
+   "path": "local/maramures/miresu-mare/2021/24",
+   "short": "HCL Mireșu Mare nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 24/2021 privind aprobarea demersurilor viitoare ce urmează a fi luate de către Consiliul Local al Comunei Mireșu Mare ca urmare a Sentinței Civile cu nr. 4035 din 24 iunie 2020",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22605",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-25-2021",
+   "path": "local/maramures/miresu-mare/2021/25",
+   "short": "HCL Mireșu Mare nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 25/2021 privind aprobarea Ghidului de finanțare a proiectelor și programelor sportive din bugetul local al Comunei Mireșu Mare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22606",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-26-2021",
+   "path": "local/maramures/miresu-mare/2021/26",
+   "short": "HCL Mireșu Mare nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 26/2021 privind aprobarea Ghidului de finanțare nerambursabilă a proiectelor, programelor și acțiuni culturale din bugetul local al Comunei Mireșu Mare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22607",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-27-2021",
+   "path": "local/maramures/miresu-mare/2021/27",
+   "short": "HCL Mireșu Mare nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 27/2021 privind indexarea cu rata inflaţiei a impozitelor şi taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum şi actualizarea limitelor amenzilor",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22608",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-28-2021",
+   "path": "local/maramures/miresu-mare/2021/28",
+   "short": "HCL Mireșu Mare nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 28/2021 privind aprobarea indicatorilor tehnico-economici, conform devizului general actualizat după licitația execuției de lucrări, la obiectivul de investiție „Reabilitare și modernizare grădiniță în localitatea Tulghieș, comuna Mireșu Mare, județul Maramureș”",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22609",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-29-2021",
+   "path": "local/maramures/miresu-mare/2021/29",
+   "short": "HCL Mireșu Mare nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 29/2021 privind propunerea spre aprobare de trecere a unui imobil cu nr. cadastral 52045, in suprafață de 302,055 m.p. din domeniul public al comunei Miresu Mare județul Maramureș, in domeniul privat al comunei Miresu Mare, județul Maramureș;",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22610",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-3-2021",
+   "path": "local/maramures/miresu-mare/2021/3",
+   "short": "HCL Mireșu Mare nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 3/2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/13906",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/13906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-31-2021",
+   "path": "local/maramures/miresu-mare/2021/31",
+   "short": "HCL Mireșu Mare nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 31/2021 privind atribuirea in limita legii, a suprafețelor de teren aflate in arealul Fondului cinegetic nr. 40 Fersig, comuna Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/22612",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/22612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-32-2021",
+   "path": "local/maramures/miresu-mare/2021/32",
+   "short": "HCL Mireșu Mare nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 32/2021 privind aprobarea modificărilor tehnice și financiare prin dispoziția de șantier nr.1/01.03.2021 în cadrul proiectului „înființare și dotare grădiniță cu două săli de grupă în comuna Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/23879",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/23879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-33-2021",
+   "path": "local/maramures/miresu-mare/2021/33",
+   "short": "HCL Mireșu Mare nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 33/2021 privind revocarea H.C.L.nr. 31/13.05.2021, privind atribuirea in limita legii a suprafețelor de teren aflate in arealul Fondului Cinegetic 40 Fersig, comuna Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/24920",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/24920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-34-2021",
+   "path": "local/maramures/miresu-mare/2021/34",
+   "short": "HCL Mireșu Mare nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 34/2021 privind aprobarea solicitarii prelungirii scrisorii de garantie nr. 574/20.09.2017, emisă de Fondul Național de Garantare a Creditelor pentru Intreprinderi Mici și Mijlocii SA-IFN, în vederea garantării avansului proiectului: „Înființare și dotare grădiniță cu două săli de grupă în comuna Mireșu Mare, județul Maramureș”, până la data de 18.11.2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/24921",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/24921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-35-2021",
+   "path": "local/maramures/miresu-mare/2021/35",
+   "short": "HCL Mireșu Mare nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 35/2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/24922",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/24922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-36-2021",
+   "path": "local/maramures/miresu-mare/2021/36",
+   "short": "HCL Mireșu Mare nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 36/2021 privind propunerea spre aprobare a Rectificării de buget local cu nr. 1/2021, comuna Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/24923",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/24923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-37-2021",
+   "path": "local/maramures/miresu-mare/2021/37",
+   "short": "HCL Mireșu Mare nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 37/2021 privind aprobarea inițierii demersurilor in vederea realizarii si amplasarii a doua podete peste valea din localitatea Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/24924",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/24924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-38-2021",
+   "path": "local/maramures/miresu-mare/2021/38",
+   "short": "HCL Mireșu Mare nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 38/2021 privind redenumirea unei străzi din localitatea Mireșu Mare, comuna Mireșu Mare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/28006",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/28006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-39-2021",
+   "path": "local/maramures/miresu-mare/2021/39",
+   "short": "HCL Mireșu Mare nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 39/2021 privind aprobarea incheierii unui contract de comodat intre comuna Mireșu Mare și Asociația ,, Corul Arhanghelii -Mireșu Mare,,",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/28007",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/28007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-4-2021",
+   "path": "local/maramures/miresu-mare/2021/4",
+   "short": "HCL Mireșu Mare nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 4/2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/13907",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/13907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-40-2021",
+   "path": "local/maramures/miresu-mare/2021/40",
+   "short": "HCL Mireșu Mare nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 40/2021 privind predarea/preluarea în exploatare de către DELGAZ GRID SA, a tuturor conductelor și branșamentelor realizate în localitățiile Tulghieș, Remeți pe Someș, Lucăcești, Dăneștii Chioarului și Iadăra, din comuna Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/28008",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/28008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-41-2021",
+   "path": "local/maramures/miresu-mare/2021/41",
+   "short": "HCL Mireșu Mare nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 41/2021 privind aprobarea numărului de burse precum si cuantumul acestora aferente anului şcolar 2020-2021 pentru elevii din învăţământul preuniversitar de stat",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/28009",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/28009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-42-2021",
+   "path": "local/maramures/miresu-mare/2021/42",
+   "short": "HCL Mireșu Mare nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 42/2021 privind aprobarea sumelor acordate din bugetul local al comunei Mireșu Mare pentru finanțarea nerambursabilă a proiectelor, programelor și acțiuni culturale precum si a proiectelor și programelor sportive din bugetul local al Comunei Mireșu Mare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/28010",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/28010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-43-2021",
+   "path": "local/maramures/miresu-mare/2021/43",
+   "short": "HCL Mireșu Mare nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 43/2021 privind algerea unui președinte de ședință Consiliul Local al Comunei Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/31077",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/31077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-44-2021",
+   "path": "local/maramures/miresu-mare/2021/44",
+   "short": "HCL Mireșu Mare nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 44/2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/31078",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/31078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-45-2021",
+   "path": "local/maramures/miresu-mare/2021/45",
+   "short": "HCL Mireșu Mare nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 45/2021 privind aprobarea rectificării de buget cu nr. 2/2021, al comunei Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/32190",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/32190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-46-2021",
+   "path": "local/maramures/miresu-mare/2021/46",
+   "short": "HCL Mireșu Mare nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 46/2021 privind aprobarea suplimentarii din bugetul local al comunei Mireșu Mare al burselor scolare aferente anului școlar 2020-2021, pentru elevii din învățământul preuniversitar de stat;",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/32191",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/32191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-47-2021",
+   "path": "local/maramures/miresu-mare/2021/47",
+   "short": "HCL Mireșu Mare nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 47/2021 privind acordarea de stimulente financiare sub formă de premii pentru elevii care au obținut media generală 10, la finele anului școlar 2020 - 2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/32192",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/32192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-48-2021",
+   "path": "local/maramures/miresu-mare/2021/48",
+   "short": "HCL Mireșu Mare nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 48/2021 privind aprobarea solicitarii prelungirii scrisorii de garantie nr. 574/20.09.2017, emisă de Fondul Național de Garantare a Creditelor pentru Intreprinderi Mici și Mijlocii SA-IFN, în vederea garantării avansului proiectului: „Înființare și dotare grădiniță cu două săli de grupă în comuna Mireșu Mare, județul Maramureș”, până la data de 18.01.2022",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/32193",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/32193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-49-2021",
+   "path": "local/maramures/miresu-mare/2021/49",
+   "short": "HCL Mireșu Mare nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 49/2021 privind aprobarea rectificării de buget al comunei Mireșu Mare, jud. Maramureș, cu nr. 3/2021;",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/34133",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/34133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-5-2021",
+   "path": "local/maramures/miresu-mare/2021/5",
+   "short": "HCL Mireșu Mare nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 5/2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/13908",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/13908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-50-2021",
+   "path": "local/maramures/miresu-mare/2021/50",
+   "short": "HCL Mireșu Mare nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 50/2021 privind aprobarea Ghidului de finanțare nerambursabilă din bugetul local, pentru unitatile de cult apartinand cultelor religioase din Comuna Mireșu Mare, județul Maramureș",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/34134",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/34134",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-53-2021",
    "path": "local/maramures/miresu-mare/2021/53",
    "short": "HCL Mireșu Mare nr. 53/2021",
@@ -103,6 +778,21 @@
      "from": "2021-10-25",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/38964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-6-2021",
+   "path": "local/maramures/miresu-mare/2021/6",
+   "short": "HCL Mireșu Mare nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 6/2021",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/19681",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/19681",
      "sha256": null
     }
    ]
@@ -258,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-7-2021",
+   "path": "local/maramures/miresu-mare/2021/7",
+   "short": "HCL Mireșu Mare nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 7/2021 privind propunerea spre aprobare a revocarii HCL nr. 58/16.11.2020, privind aprobarea Studiului de Oportunitate privind realizarea obiectivului de investiții ,, Stațiunea Turistică Pădurea Bavna",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/19682",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/19682",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-70-2021",
    "path": "local/maramures/miresu-mare/2021/70",
    "short": "HCL Mireșu Mare nr. 70/2021",
@@ -298,6 +1003,36 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/44981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-8-2021",
+   "path": "local/maramures/miresu-mare/2021/8",
+   "short": "HCL Mireșu Mare nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 8/2021 privind propunerea spre aprobare a unei taxe conform legii, suportată de solicitantii informațiilor de interes public, cărora li se comunică informațiile solicitate pe format hârtie",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20384",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-9-2021",
+   "path": "local/maramures/miresu-mare/2021/9",
+   "short": "HCL Mireșu Mare nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 9/2021 privind publicarea unor documente de interes public pe site-ul instituției",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/20385",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/20385",
      "sha256": null
     }
    ]

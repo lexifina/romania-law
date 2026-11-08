@@ -3,6 +3,396 @@
  "shard": "local/ilfov/ciorogarla/2021",
  "acts": [
   {
+   "slug": "hcl-ilfov--ciorogarla-1-2021",
+   "path": "local/ilfov/ciorogarla/2021/1",
+   "short": "HCL Ciorogârla nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 1/2021 privind acoperirea integrala a deficitului sectiunii de dezvoltare in suma de 3.657.718,07 lei, aferent anului 2020 din excedentul anilor precedenti",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33445",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-10-2021",
+   "path": "local/ilfov/ciorogarla/2021/10",
+   "short": "HCL Ciorogârla nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 10/2021 privind aprobarea cuantumului şi numărului de burse acordate elevilor din învăţământul preuniversitar de stat din comuna Ciorogârla, judeţul Ilfov, pentru anul şcolar 2020-2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33501",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-11-2021",
+   "path": "local/ilfov/ciorogarla/2021/11",
+   "short": "HCL Ciorogârla nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 11/2021 privind aprobarea documentatiilor tehnico-economice - faza DALI - pentru reabilitare strazi comunale: strada Lacului, strada Fierari si strada Barbu Lautaru",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33503",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-12-2021",
+   "path": "local/ilfov/ciorogarla/2021/12",
+   "short": "HCL Ciorogârla nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 12/2021 privind aprobarea documentaţiei tehnico economică privind obiectivul de investiţie \"Reabilitare şi eficientizare energetică corp vechi Şcoala Gimnazială nr.1 Ciorogârla\"",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33502",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-13-2021",
+   "path": "local/ilfov/ciorogarla/2021/13",
+   "short": "HCL Ciorogârla nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 13/2021 privind prelungirea termenului de valabilitate a Planului Urbanistic General al comunei Ciorogarla, aprobat prin Hotararea Consiliului Local al comunei Ciorogarla nr. 13/28.04.2011",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33504",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-14-2021",
+   "path": "local/ilfov/ciorogarla/2021/14",
+   "short": "HCL Ciorogârla nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 14/2021 privind aprobarea documentaţiei de urbanism Plan Urbansitic de Detaliu întocmită de SC EUROPROIECT DESIGN SRL privind obiectivul de investiţii (funcţiunile) CONSTRUIRE HALĂ FABRICAŢIE UŞI FRIGORIFICE, amplasat în judeţul Ilfov, comuna Ciorogârla, Şos.Bucureşti (DJ601), T23/7/1,P.9,9/1, nr. cadastral 50248, suprafaţa 9941 mp",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33505",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-15-2021",
+   "path": "local/ilfov/ciorogarla/2021/15",
+   "short": "HCL Ciorogârla nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 15/2021 privind acordarea de mandat special in cadrul Adunarii Generale Asociatiei de Dezvoltare Intercomunitara pentru Gestionarea Integrata a Deseurilor Ilfov",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33507",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-16-2021",
+   "path": "local/ilfov/ciorogarla/2021/16",
+   "short": "HCL Ciorogârla nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 16/2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33506",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-17-2021",
+   "path": "local/ilfov/ciorogarla/2021/17",
+   "short": "HCL Ciorogârla nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 17/2021 privind aprobarea modelului legitimaţiei pentru aleşii locali şi a modelului semnului distinctiv al calităţii acestora",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33508",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-18-2021",
+   "path": "local/ilfov/ciorogarla/2021/18",
+   "short": "HCL Ciorogârla nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 18/2021 privind contul executiei bugetare pentru trimestrul IV al anului 2020",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33522",
+   "versions": [
+    {
+     "from": "2021-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-19-2021",
+   "path": "local/ilfov/ciorogarla/2021/19",
+   "short": "HCL Ciorogârla nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 19/2021 privind aprobarea situațiilor financiare la data de 31.12.2020",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33523",
+   "versions": [
+    {
+     "from": "2021-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-20-2021",
+   "path": "local/ilfov/ciorogarla/2021/20",
+   "short": "HCL Ciorogârla nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 20/2021 privind utilizarea sumei de 7.136.224 lei din excedentul bugetului local al anului 2020 pentru finantarea unor obiective de investitii de la Sectiunea Dezvolatre in anul 2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33524",
+   "versions": [
+    {
+     "from": "2021-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-21-2021",
+   "path": "local/ilfov/ciorogarla/2021/21",
+   "short": "HCL Ciorogârla nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 21/2021 privind bugetul local al comunei Ciorogârla pe anul 2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33525",
+   "versions": [
+    {
+     "from": "2021-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-22-2021",
+   "path": "local/ilfov/ciorogarla/2021/22",
+   "short": "HCL Ciorogârla nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 22/2021 privind acordarea de mandate speciale Asociației de Dezvoltare Intercomunitară în vederea semnării unor documente",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33526",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-23-2021",
+   "path": "local/ilfov/ciorogarla/2021/23",
+   "short": "HCL Ciorogârla nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 23/2021 privind acordare de mandate speciale Asociației de Dezvoltare Intercomunitară pentru Transport Public București-Ilfov, în vederea semnării unor documente, aprobării modalității de gestiune a serviciului de transport public local de călători, atribuirii directe a contractelor de delegare a gestiunii, și stabilirii prețurilor și tarifelor în condițiile legii speciale",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33527",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-24-2021",
+   "path": "local/ilfov/ciorogarla/2021/24",
+   "short": "HCL Ciorogârla nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 24/2021 privind alegerea preşedintelui de şedinţă pe o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33531",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-25-2021",
+   "path": "local/ilfov/ciorogarla/2021/25",
+   "short": "HCL Ciorogârla nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 25/2021 privind Regulament de organizare şi funcţionare a Consiliului Local al comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33529",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-26-2021",
+   "path": "local/ilfov/ciorogarla/2021/26",
+   "short": "HCL Ciorogârla nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 26/2021 privind aprobarea Organigramei, a Statului de funcții și a Regulamentului de organizare și Funcționare al aparatului de specialitate al primarului comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33528",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-27-2021",
+   "path": "local/ilfov/ciorogarla/2021/27",
+   "short": "HCL Ciorogârla nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 27/2021 privind extinderea sistemului de supraveghere video în comuna Ciorogârla, judeţul Ilfov",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33530",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-28-2021",
+   "path": "local/ilfov/ciorogarla/2021/28",
+   "short": "HCL Ciorogârla nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 28/2021 privind aprobarea participării Consiliului Local Ciorogârla pentru cofinanţarea lucrărilor de investiţii aferente comunei Ciorogârla din cadrul \"Proiectul regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Ilfov, în perioada 2014-2020\"",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33532",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-29-2021",
+   "path": "local/ilfov/ciorogarla/2021/29",
+   "short": "HCL Ciorogârla nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 29/2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33533",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-3-2021",
+   "path": "local/ilfov/ciorogarla/2021/3",
+   "short": "HCL Ciorogârla nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 3/2021 privind achiziționarea serviciilor juridice de consultanță, de asistență și reprezentare în justiție",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33482",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-30-2021",
+   "path": "local/ilfov/ciorogarla/2021/30",
+   "short": "HCL Ciorogârla nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 30/2021 privind stadiul completării şi stabilirea măsurilor pentru eficientizarea activităţii de înscriere a datelor în registrul agricol 2020 -2024, pentru trimestrul I al anului 2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33534",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-31-2021",
+   "path": "local/ilfov/ciorogarla/2021/31",
+   "short": "HCL Ciorogârla nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 31/2021 privind acordarea de mandate speciale Asociaţiei de Dezvoltare Intercomunitară pentru Transport Public Bucureşti Ilfov",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/49712",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/49712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-33-2021",
+   "path": "local/ilfov/ciorogarla/2021/33",
+   "short": "HCL Ciorogârla nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 33/2021 privind stabilirea nivelului de slarizare pentru funcția publică de conducere de Arhitect-Șef, începând cu luna septembrie 2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/49714",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/49714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-34-2021",
+   "path": "local/ilfov/ciorogarla/2021/34",
+   "short": "HCL Ciorogârla nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 34/2021 privind actualizarea indicatorilor tehnico economici aferenţi investiţiei Amenajare şanţuri şi trotuare pe străzile Muncii şi Legumelor ,comuna Ciorogârla,judeţul Ilfov",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/49715",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/49715",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-35-2021",
    "path": "local/ilfov/ciorogarla/2021/35",
    "short": "HCL Ciorogârla nr. 35/2021",
@@ -228,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-5-2021",
+   "path": "local/ilfov/ciorogarla/2021/5",
+   "short": "HCL Ciorogârla nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 5/2021 privind structura rețelei școlare la nivelul comunei Ciorogârla, județul Ilfov pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33484",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33484",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-50-2021",
    "path": "local/ilfov/ciorogarla/2021/50",
    "short": "HCL Ciorogârla nr. 50/2021",
@@ -298,6 +703,66 @@
      "from": "2021-12-29",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/49735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-6-2021",
+   "path": "local/ilfov/ciorogarla/2021/6",
+   "short": "HCL Ciorogârla nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 6/2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33481",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-7-2021",
+   "path": "local/ilfov/ciorogarla/2021/7",
+   "short": "HCL Ciorogârla nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 7/2021 privind Planul de actiuni sau lucrari de interes local pe anul 2021, ce vor fi executate de catre persoanele apte de munca din familiile beneficiare de ajutor social conform Legii nr. 416/2001 - Legea venitului minim garantat, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33479",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-8-2021",
+   "path": "local/ilfov/ciorogarla/2021/8",
+   "short": "HCL Ciorogârla nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 8/2021 privind ajustarea şi modificarea tarifelor pentru activităţile specifice de salubrizare pe raza comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33488",
+   "versions": [
+    {
+     "from": "2021-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-9-2021",
+   "path": "local/ilfov/ciorogarla/2021/9",
+   "short": "HCL Ciorogârla nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 9/2021 privind stadiul completării și stabilirea măsurilor pentru eficientizarea activităţii de înscriere a datelor în registrul agricol 2020-2024, pentru trimestrul IV al anului 2020",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33500",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33500",
      "sha256": null
     }
    ]

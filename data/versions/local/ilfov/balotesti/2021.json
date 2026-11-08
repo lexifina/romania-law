@@ -3,6 +3,456 @@
  "shard": "local/ilfov/balotesti/2021",
  "acts": [
   {
+   "slug": "hcl-ilfov--balotesti-1-2021",
+   "path": "local/ilfov/balotesti/2021/1",
+   "short": "HCL Balotești nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 1/2021 privind aprobarea acoperirii integrale a deficitului sectiunii de dezvoltare in suma de 660.967,93 lei si a sectiunii de functionare in suma de 73.999,38 lei aferente anului 2020 din excedentul anilor precedenti",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/31095",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/31095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-14-2021",
+   "path": "local/ilfov/balotesti/2021/14",
+   "short": "HCL Balotești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 14/2021 privind modificarea Organigramei și a Statului de funcții al aparatului de specialitate al primarului comunei Balotești",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/31117",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/31117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-15-2021",
+   "path": "local/ilfov/balotesti/2021/15",
+   "short": "HCL Balotești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 15/2021 privind aprobarea Bugetului de Venituri și Cheltuieli al Comunei Balotești pentru anul 2021",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34313",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-18-2021",
+   "path": "local/ilfov/balotesti/2021/18",
+   "short": "HCL Balotești nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 18/2021 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere Rețea de Canalizare Menajeră pe strada Privighetorilor, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34316",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-19-2021",
+   "path": "local/ilfov/balotesti/2021/19",
+   "short": "HCL Balotești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 19/2021 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere Rețea de Alimentare cu Apă pe strada Poiana Soarelui și strada Iasomiei, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34317",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-20-2021",
+   "path": "local/ilfov/balotesti/2021/20",
+   "short": "HCL Balotești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 20/2021 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere Rețea Canalizare Menajeră pe Intrarea Privighetorilor, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34318",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-21-2021",
+   "path": "local/ilfov/balotesti/2021/21",
+   "short": "HCL Balotești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 21/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere Rețea Alimentare cu Apă pe strada Antenei și strada Magnoliei, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34319",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-22-2021",
+   "path": "local/ilfov/balotesti/2021/22",
+   "short": "HCL Balotești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 22/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere Rețea Canalizare Menajeră pe strada Antenei și strada Magnoliei, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34320",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-23-2021",
+   "path": "local/ilfov/balotesti/2021/23",
+   "short": "HCL Balotești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 23/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere Rețea de Canalizare Menajeră pe strada Florilor, strada Iris și strada Mălinului, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34321",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-24-2021",
+   "path": "local/ilfov/balotesti/2021/24",
+   "short": "HCL Balotești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 24/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Modernizare sistem rutier pe strada Antenei și strada Magnoliei, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34322",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-25-2021",
+   "path": "local/ilfov/balotesti/2021/25",
+   "short": "HCL Balotești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 25/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Modernizare sistem rutier pe strada Florilor, strada Iris și strada Mălinului, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34323",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-26-2021",
+   "path": "local/ilfov/balotesti/2021/26",
+   "short": "HCL Balotești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 26/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Construcție 1 locuință socială din containere modulare''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34324",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-27-2021",
+   "path": "local/ilfov/balotesti/2021/27",
+   "short": "HCL Balotești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 27/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere Rețea Alimentare cu Apă și Rețea dwe Canalizare Menajeră pe strada Orhideelor, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34325",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-28-2021",
+   "path": "local/ilfov/balotesti/2021/28",
+   "short": "HCL Balotești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 28/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Extindere Rețea de Canalizare Menajeră pe strada Poiana Soarelui și strada Iasomiei, comuna Balotești, județul Ilfov''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34326",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-29-2021",
+   "path": "local/ilfov/balotesti/2021/29",
+   "short": "HCL Balotești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 29/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Construcție 3 locuințe de intervenție (de urgență) din containere modulare''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34327",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-3-2021",
+   "path": "local/ilfov/balotesti/2021/3",
+   "short": "HCL Balotești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 3/2021 privind aprobarea rețelei școlare a unităților de învățământ preuniveristar de stat și privat din comuna Balotești, pentru anul 2021-2022",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/31102",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/31102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-33-2021",
+   "path": "local/ilfov/balotesti/2021/33",
+   "short": "HCL Balotești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 33/2021 privind aprobarea Actului adițional nr. 5 la Contractul de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare, încheiat la data de 09.11.2009 întra Asociația de Dezvoltare Intercomunitară Apa ''ADIA Ilfov'' în numele și pe seama UAT membre, în calitate de delegatar și SC APA-CANAL ILFOV SA, în calitate de delegat (Operator)",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34331",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-34-2021",
+   "path": "local/ilfov/balotesti/2021/34",
+   "short": "HCL Balotești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 34/2021 privind aprobarea numărului și cuantumului lunar al burselor acordate elevilor din unitățile de învățământ preuniversitar de stat din comuna Balotești pentru semestrul I și II în anul școlar 2020-2021",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34332",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-35-2021",
+   "path": "local/ilfov/balotesti/2021/35",
+   "short": "HCL Balotești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 35/2021 privind aprobarea bilanțului contabil și contul de execuție al bugetului local pentru anul 2020",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34333",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-36-2021",
+   "path": "local/ilfov/balotesti/2021/36",
+   "short": "HCL Balotești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 36/2021 privind aprobarea contului de execuție al bugetului local la data de 31 Martie 2021",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34334",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-38-2021",
+   "path": "local/ilfov/balotesti/2021/38",
+   "short": "HCL Balotești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 38/2021 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții ''Amenajare intersecție giratorie DN1 km 24 +125 cu strada Ion Lahovari, comuna Balotești, județul Ilfov, faza I + faza II''",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34336",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-39-2021",
+   "path": "local/ilfov/balotesti/2021/39",
+   "short": "HCL Balotești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 39/2021 privind aprobarea primei rectificări a Bugetului de Venituri și Cheltuieli al Comunei Balotești pentru anul 2021",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34453",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-40-2021",
+   "path": "local/ilfov/balotesti/2021/40",
+   "short": "HCL Balotești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 40/2021 privind aprobarea participării Consiliului Local al comunei Balotești pentru cofinanțarea lucrarilor de investiții aferente comunei Balotești din cadrul proiectului ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Ilfov, în perioada 2014-2020",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34454",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-41-2021",
+   "path": "local/ilfov/balotesti/2021/41",
+   "short": "HCL Balotești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 41/2021 privind acordarea de mandate speciale Asociatiei de Dezvoltare Intercomunitara pentru Transportul Public Bucuresti-Ilfov",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/34464",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/34464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-42-2021",
+   "path": "local/ilfov/balotesti/2021/42",
+   "short": "HCL Balotești nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 42/2021 privind trecerea unor suprafețe de teren cu destinația de dreum de acces în proprietatea publică a comunei Balotești ca urmare a declarației de renunțare autentificata sub nr. 4685 din 25-06-2021",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/37035",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/37035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-43-2021",
+   "path": "local/ilfov/balotesti/2021/43",
+   "short": "HCL Balotești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 43/2021 privind trecerea unor suprafețe de teren cu destinație de drum de acces în proprietatea publică a comunei Balotești ca urmare a declarațiilor de renunțare autentificate sub nr. 1209 din 12-08-2021 și 5672 din 04-08-2021",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/37036",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/37036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-44-2021",
+   "path": "local/ilfov/balotesti/2021/44",
+   "short": "HCL Balotești nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 44/2021 privind trecerea unor suprafete de teren cu destinatie de drum de acces in proprietate publica a Comunei Balotesti ca urmare a declaratiei de renuntare autentificata sub numarul 370 din 11.03.2021",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/37037",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/37037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-45-2021",
+   "path": "local/ilfov/balotesti/2021/45",
+   "short": "HCL Balotești nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 45/2021 privind trecerea unor suprafete de teren cu destinatie de drum de acces in proprietatea publica a comunei Balotesti ca urmare a declaratiei de renuntare autentificata sub numarul 1036/27.09.2020",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/37038",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/37038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-46-2021",
+   "path": "local/ilfov/balotesti/2021/46",
+   "short": "HCL Balotești nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 46/2021 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/37098",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/37098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-47-2021",
+   "path": "local/ilfov/balotesti/2021/47",
+   "short": "HCL Balotești nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 47/2021 privind darea in folosinta gratuita Gradinitei nr.1 Balotesti a imobilului cladire \"Piata Agroalimentara Balotesti\"",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/37099",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/37099",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--balotesti-48-2021",
    "path": "local/ilfov/balotesti/2021/48",
    "short": "HCL Balotești nr. 48/2021",
@@ -178,6 +628,21 @@
      "from": "2021-11-08",
      "units": 1,
      "source_url": "https://emol.ro/balotesti-if/registru-hcl/41132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-6-2021",
+   "path": "local/ilfov/balotesti/2021/6",
+   "short": "HCL Balotești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 6/2021 privind darea în administrare (delegarea) prin gestiune directă a Serviciului de iluminat public al comunei Balotești, județul Ilfov",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/31105",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/31105",
      "sha256": null
     }
    ]

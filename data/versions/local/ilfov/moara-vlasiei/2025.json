@@ -3,6 +3,486 @@
  "shard": "local/ilfov/moara-vlasiei/2025",
  "acts": [
   {
+   "slug": "hcl-ilfov--moara-vlasiei-1-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/1",
+   "short": "HCL Moara Vlăsiei nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 1/2025 privind acoperirirea integrala a deficitului sectiunii de dezvoltare din excedentul anilor precedenti",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/186321",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/186321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-10-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/10",
+   "short": "HCL Moara Vlăsiei nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 10/2025 privind avizarea Documentației de Atribuire pentru delegarea, prin achiziție publică de servicii, a gestiunii activității de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate separat din deșeurile municipale, în stații de sortare, inclusiv transportul reziduurilor rezultate din sortare la depozitele de deșeuri și/sau la instalațiile de valorificare energetică pentru unități administrativ teritoriale membre ale Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov și privind acordarea unor mandate",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/196072",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/196072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-11-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/11",
+   "short": "HCL Moara Vlăsiei nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 11/2025 privind alipirea terenurilor in suprafata de 500 mp identificat prin NC 58667,CF 58667, în suprafața de 500 mp identificat prin NC 58668,CF 58668, în suprafața de 500 mp identificat prin NC 58669 ,CF 58669 și în suprafața de 700 mp identificată NC 58688, CF 58688 situate in comuna Moara Vlasiei, Tarla 33, parcela 138, în vederea constituirrii suprafeței de 2.200 mp, avînd NC 60895 , apartinand domeniului privat al comunei Moara Vlasiei necesar atribuirii de terenuri în condițiile prevăzute de Legea nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/196073",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/196073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-12-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/12",
+   "short": "HCL Moara Vlăsiei nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 12/2025 privind solicitarea trecerii imobilului – Drum exploatare De 12 situat pe teritoriul administrativ al comunei Moara Vlăsiei, din domeniul public al statului și din administrarea CNAIR SA în domeniul public al comunei Moara Vlăsiei",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/196074",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/196074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-13-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/13",
+   "short": "HCL Moara Vlăsiei nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 13/2025 privind aprobarea bugetului de venituri si cheltuieli al comunei Moara Vlasiei pe anul 2025",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/200988",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/200988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-14-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/14",
+   "short": "HCL Moara Vlăsiei nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 14/2025",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/200989",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/200989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-15-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/15",
+   "short": "HCL Moara Vlăsiei nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 15/2025 privind aprobarea încheierii unui Protocol de cooperare între Județul Ilfov – Consiliul Județean, Serviciul Județean de dezinsecție și Ecologizare Mediu Ilfov și Comuna Moara Vlăsiei – Consiliul Local Moara Vlăsiei în vederea realizării proiectului „ILFOV FĂRĂ ȚÂNȚARI”",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/200990",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/200990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-17-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/17",
+   "short": "HCL Moara Vlăsiei nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 17/2025 privind aprobarea contului de execuţie al bugetului local al comunei Moara Vlăsiei pentru anul 2024",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/200992",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/200992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-18-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/18",
+   "short": "HCL Moara Vlăsiei nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 18/2025 privind aprobarea contului de execuţie al bugetului Serviciului public de salubrizare al comunei Moara Vlăsiei pentru anul 2024",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/200993",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/200993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-19-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/19",
+   "short": "HCL Moara Vlăsiei nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 19/2025 privind aprobarea bugetului de venituri si cheltuieli pe anul 2025 al Serviciului public de Salubrizare al comunei Moara Vlasiei",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/200994",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/200994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-2-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/2",
+   "short": "HCL Moara Vlăsiei nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 2/2025 privind aprobarea modului de intocmire a registrului agricol la nivelul comunei Moara Vlasiei in perioada 2025-2029",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/190838",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/190838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-20-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/20",
+   "short": "HCL Moara Vlăsiei nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 20/2025 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Moara Vlăsiei, în luna martie 2025",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/200995",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/200995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-21-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/21",
+   "short": "HCL Moara Vlăsiei nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 21/2025 privind aprobarea Actului adițional nr. 1 la Contractul de prestări servicii de catering nr. 6200/09.01.2024",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/200996",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/200996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-23-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/23",
+   "short": "HCL Moara Vlăsiei nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 23/2025",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/207119",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/207119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-24-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/24",
+   "short": "HCL Moara Vlăsiei nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 24/2025",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/207120",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/207120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-26-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/26",
+   "short": "HCL Moara Vlăsiei nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 26/2025 privind exercitarea atribuțiilor, drepturilor și obligațiilor prevăzute la art. 27 din Legea nr. 51/2006 privind serviciile comunitare de utilități publice",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/207122",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/207122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-28-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/28",
+   "short": "HCL Moara Vlăsiei nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 28/2025 privind aprobare protocol de cooperare între Județul Ilfov - Consiliul Județean, Colegiul Medicilor Stomatologi Ilfov și UAT Moara Vlăsiei în vederea realizării în anul 2025 a proiectului de interes public ” ILFOV ZÂMBEȘTE JUNIOR”",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/207124",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/207124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-31-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/31",
+   "short": "HCL Moara Vlăsiei nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 31/2025 privind modificarea şi completarea inventarului domeniului public al comunei Moara Vlăsiei",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/207127",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/207127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-32-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/32",
+   "short": "HCL Moara Vlăsiei nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 32/2025 privind initierea demersurilor de actualizare a Planului Urbanistic General si Regulamentului Local de Urbanism al comunei Moara Vlăsiei, judetul Ilfov",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/209453",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/209453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-33-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/33",
+   "short": "HCL Moara Vlăsiei nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 33/2025 privind aprobarea contractării serviciilor de capturare, transport și gestionare a câinilor fără stăpân de pe domeniul public al comunei Moara Vlăsiei, județul Ilfov",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/209454",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/209454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-34-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/34",
+   "short": "HCL Moara Vlăsiei nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 34/2025 privind aprobare protocol de cooperare între Județul Ilfov - Consiliul Județean, Colegiul Medicilor Stomatologi Ilfov și UAT Moara Vlăsiei în vederea realizării în anul 2025 a proiectului de interes public ” ILFOV ZÂMBEȘTE SENIOR”",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/209455",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/209455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-35-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/35",
+   "short": "HCL Moara Vlăsiei nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 35/2025 privind aprobarea contului de execuţie al bugetului local al comunei Moara Vlăsiei pentru trimestrul I 2025",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/209456",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/209456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-36-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/36",
+   "short": "HCL Moara Vlăsiei nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 36/2025 privind aprobarea arondării comunei Dascălu și comunei Grădiștea din județul Ilfov de la Serviciul Public Comunitar LocaL de Evidență a Persoanelor al Orașului Otopeni, județul Ilfov la Serviciul Public Comunitar Local de Evidentă a Persoanelor al comunei Moara Vlăsiei, județul Ilfov și aprobarea Regulamentului de funcționare al acestuia",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/209457",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/209457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-38-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/38",
+   "short": "HCL Moara Vlăsiei nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 38/2025 privind aprobarea situațiilor financiare ale SC CODRII VLĂSIEI SRL pentru anul 2024",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/209459",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/209459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-4-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/4",
+   "short": "HCL Moara Vlăsiei nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 4/2025 privind aprobarea Planului local de acțiune privind incluziunea cetățenilor români aparținând minorității rome pentru anul 2025",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/190840",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/190840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-40-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/40",
+   "short": "HCL Moara Vlăsiei nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 40/2025 privind dezmembrarea imobilului – teren în suprafaţă de 10.290 mp – situat în intravilanul comunei Moara Vlăsiei , identificat prin NC 59208 înscris în C.F 59208 Moara Vlăsiei, în 13 loturi distincte",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/221206",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/221206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-44-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/44",
+   "short": "HCL Moara Vlăsiei nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 44/2025 privind alocarea unei sume din bugetul local al comunei Moara Vlăsiei în anul școlar 2025 – 2026 pentru asigurarea plății meselor copiilor care locuiesc efectiv pe raza comunei și sunt înscriși la grădinițele cu program prelungit de pe raza comunei Moara Vlăsiei",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/221210",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/221210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-45-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/45",
+   "short": "HCL Moara Vlăsiei nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 45/2025 privind dezmembrarea imobilului – teren în suprafaţă de 2.200 mp – situat în intravilanul comunei Moara Vlăsiei , identificat prin NC 60895 înscris în C.F 60895 Moara Vlăsiei, în 5 loturi distincte",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/223997",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/223997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-48-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/48",
+   "short": "HCL Moara Vlăsiei nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 48/2025 privind aprobarea rectificării bugetului local al comunei Moara Vlăsiei pe anul 2025, luna septembrie",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/225103",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/225103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-49-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/49",
+   "short": "HCL Moara Vlăsiei nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 49/2025 privind asocierea comunei Moara Vlasiei – Consiliul local Moara Vlasiei si Judetul Ilfov – Consiliul judetean Ilfov și aprobarea indicatorilor tehnico – economici in vederea realizării obiectivului de investiții “ REPARATIE DRUM COMUNAL ACCES RAMPA DE COMPOST SI CENTRUL DE APORT VOLUNTAR ( C.A.V.) DIN COMUNA MOARA VLASIEI, JUDETUL ILFOV “",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/226754",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/226754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-50-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/50",
+   "short": "HCL Moara Vlăsiei nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 50/2025 privind asocierea comunei Moara Vlasiei – Consiliul local Moara Vlasiei si Judetul Ilfov – Consiliul judetean Ilfov și aprobarea indicatorilor tehnico – economici in vederea realizării obiectivului de investiții “ REALIZARE PARCARE AUTO 76 LOCURI, IN COMUNA MOARA VLASIEI, JUDETUL ILFOV “",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/226755",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/226755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-51-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/51",
+   "short": "HCL Moara Vlăsiei nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 51/2025 privind asocierea comunei Moara Vlasiei – Consiliul local Moara Vlasiei si Judetul Ilfov – Consiliul judetean Ilfov și aprobarea indicatorilor tehnico – economici in vederea realizării obiectivului de investiții “ EXTINDERE REȚEA DE GAZE NATURALE IN COMUNA MOARA VLASIEI, JUDETUL ILFOV “",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/226756",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/226756",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--moara-vlasiei-52-2025",
    "path": "local/ilfov/moara-vlasiei/2025/52",
    "short": "HCL Moara Vlăsiei nr. 52/2025",
@@ -298,6 +778,36 @@
      "from": "2026-02-12",
      "units": 1,
      "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/244499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-8-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/8",
+   "short": "HCL Moara Vlăsiei nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 8/2025 privind aprobarea utilizarii excedentului bugetului local din anul precedent, pentru anul 2025",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/195426",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/195426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--moara-vlasiei-9-2025",
+   "path": "local/ilfov/moara-vlasiei/2025/9",
+   "short": "HCL Moara Vlăsiei nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 9/2025 privind delegarea unor activități ale serviciului public de salubrizare al comunei Moara Vlasiei",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/195427",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/195427",
      "sha256": null
     }
    ]

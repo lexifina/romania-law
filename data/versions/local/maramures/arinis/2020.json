@@ -3,6 +3,486 @@
  "shard": "local/maramures/arinis/2020",
  "acts": [
   {
+   "slug": "hcl-maramures--arinis-1-2020",
+   "path": "local/maramures/arinis/2020/1",
+   "short": "HCL Ariniș nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 1/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 30 ianuarie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3068",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-10-2020",
+   "path": "local/maramures/arinis/2020/10",
+   "short": "HCL Ariniș nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 10/2020 privind adoptarea bugetului local al comunei Ariniș, pentru anul 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3077",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-11-2020",
+   "path": "local/maramures/arinis/2020/11",
+   "short": "HCL Ariniș nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 11/2020 privind aprobarea prețului la materialul lemnos în volum de 1940 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3078",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-12-2020",
+   "path": "local/maramures/arinis/2020/12",
+   "short": "HCL Ariniș nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 12/2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3079",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-14-2020",
+   "path": "local/maramures/arinis/2020/14",
+   "short": "HCL Ariniș nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 14/2020 privind identificarea cu date de carte funciară a unor imobile în suprafață de 30.934 mp aparținând domeniului public al comunei Ariniș, Județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3081",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-15-2020",
+   "path": "local/maramures/arinis/2020/15",
+   "short": "HCL Ariniș nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 15/2020 privind aprobarea Statului de funcții și Organigrama aparatului de specialitate, transformarea unui post funcție publică de execuție al comunei Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3082",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-16-2020",
+   "path": "local/maramures/arinis/2020/16",
+   "short": "HCL Ariniș nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 16/2020 privind rectificarea bugetului local al comunei Ariniş, luna martie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3083",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-17-2020",
+   "path": "local/maramures/arinis/2020/17",
+   "short": "HCL Ariniș nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 17/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 25 martie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3084",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-18-2020",
+   "path": "local/maramures/arinis/2020/18",
+   "short": "HCL Ariniș nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 18/2020 privind identificarea cu date de carte funciară a unor imobile în suprafață de 33.352 mp aparținând domeniului public al comunei Ariniș, Județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3085",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-19-2020",
+   "path": "local/maramures/arinis/2020/19",
+   "short": "HCL Ariniș nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 19/2020 privind modificarea și completarea Regulamentului de Organizare și Functionare a Consiliului Local Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3086",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-2-2020",
+   "path": "local/maramures/arinis/2020/2",
+   "short": "HCL Ariniș nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 2/2020 privind organizarea Rețelei Școlare a unităților de învățământ preuniversitar de stat și particular de pe raza UA.T. Ariniș pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3069",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-20-2020",
+   "path": "local/maramures/arinis/2020/20",
+   "short": "HCL Ariniș nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 20/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 25 martie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3087",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-21-2020",
+   "path": "local/maramures/arinis/2020/21",
+   "short": "HCL Ariniș nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 21/2020 privind rectificarea bugetului local al comunei Ariniş, luna aprilie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3088",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-22-2020",
+   "path": "local/maramures/arinis/2020/22",
+   "short": "HCL Ariniș nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 22/2020 privind aprobarea prețului la materialul lemnos în volum de 186 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3089",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-23-2020",
+   "path": "local/maramures/arinis/2020/23",
+   "short": "HCL Ariniș nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 23/2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3090",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-24-2020",
+   "path": "local/maramures/arinis/2020/24",
+   "short": "HCL Ariniș nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 24/2020 privind identificarea și completarea cu date de carte funciară a unor imobile în suprafață de 22.684 mp aparținând domeniului public al comunei Ariniș, Județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3091",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-26-2020",
+   "path": "local/maramures/arinis/2020/26",
+   "short": "HCL Ariniș nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 26/2020 privind identificarea și comleptarea cu date de carte funciară a imobilului în suprafață de 32.800 mp aparținând domeniului public al comunei Ariniș, Județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3104",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-28-2020",
+   "path": "local/maramures/arinis/2020/28",
+   "short": "HCL Ariniș nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 28/2020 privind rectificarea bugetului local al comunei Ariniş, luna iunie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/4991",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/4991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-29-2020",
+   "path": "local/maramures/arinis/2020/29",
+   "short": "HCL Ariniș nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 29/2020 privind aprobarea prețului la materialul lemnos în volum de 1502 mc, pus în valoare până la această dată de Ocolul Silvic Ulmeni din fondul forestier - proprietate Comuna Ariniș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/4992",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/4992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-3-2020",
+   "path": "local/maramures/arinis/2020/3",
+   "short": "HCL Ariniș nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 3/2020 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav şi a numărului de îndemnizaţii pentru anul 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3070",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-30-2020",
+   "path": "local/maramures/arinis/2020/30",
+   "short": "HCL Ariniș nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 30/2020 privind alegerea președintelui pentru ședința extraordinară a Consiliului Local Ariniș din 25 iunie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/5061",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/5061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-31-2020",
+   "path": "local/maramures/arinis/2020/31",
+   "short": "HCL Ariniș nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 31/2020 privind instrumentarea proiectului: MODERNIZARE REȚEA PENTRU ILUMINAT PUBLIC ÎN COMUNA ARINIȘ, SATELE ARINIȘ ȘI RODINA, LOC. ARINIȘ, LOC. RODINA, JUD. MARAMUREȘ cu finanțare prin fonduri publice nerambursabile obținute prinProgramul privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/5062",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/5062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-33-2020",
+   "path": "local/maramures/arinis/2020/33",
+   "short": "HCL Ariniș nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 33/2020 privind darea în folosință gratuită a terenului aparținând domeniului public și privat al comunei Ariniș, firmei SC ATHOS COM SRL, Sălaj pe perioada de execuție a Reabilitării Drumului Nordului",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/6803",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/6803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-35-2020",
+   "path": "local/maramures/arinis/2020/35",
+   "short": "HCL Ariniș nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 35/2020 privind identificarea și completarea cu date de carte funciară a imobilului în suprafață de 4.487 mp aparținând domeniului public al comunei Ariniș, Județul Maramureș",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/7972",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/7972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-36-2020",
+   "path": "local/maramures/arinis/2020/36",
+   "short": "HCL Ariniș nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 36/2020 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul I al anului 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/7973",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/7973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-38-2020",
+   "path": "local/maramures/arinis/2020/38",
+   "short": "HCL Ariniș nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 38/2020 privind actualizarea Devizului general pentru obiectivul de investiții: “Extindere rețea de trotuare în localitatea Ariniș, județul Maramureș” conform OUG. nr.144/2018",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/7975",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/7975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-4-2020",
+   "path": "local/maramures/arinis/2020/4",
+   "short": "HCL Ariniș nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 4/2020 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru repartizarea orelor de muncă a beneficiarilor de ajutor social în condițiile Legii nr.416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3071",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-40-2020",
+   "path": "local/maramures/arinis/2020/40",
+   "short": "HCL Ariniș nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 40/2020 privind rectificarea bugetului local al comunei Ariniş, luna august 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/8759",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/8759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-42-2020",
+   "path": "local/maramures/arinis/2020/42",
+   "short": "HCL Ariniș nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 42/2020 privind acordarea pentru anul școlar 2020-2021 a pachetului de rechizite școlare ,,Un ghiozdan pentru fiecare copil”",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/8773",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/8773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-44-2020",
+   "path": "local/maramures/arinis/2020/44",
+   "short": "HCL Ariniș nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 44/2020 privind rectificarea bugetului local al comunei Ariniş, luna august 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/8874",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/8874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-46-2020",
+   "path": "local/maramures/arinis/2020/46",
+   "short": "HCL Ariniș nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 46/2020 privind rectificarea bugetului local al comunei Ariniş, luna septembrie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/10668",
+   "versions": [
+    {
+     "from": "2020-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/10668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-47-2020",
+   "path": "local/maramures/arinis/2020/47",
+   "short": "HCL Ariniș nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 47/2020 privind alegerea președintelui pentru ședința ordinară a Consiliului Local Ariniș din 12 octombrie 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/10669",
+   "versions": [
+    {
+     "from": "2020-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/10669",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-48-2020",
    "path": "local/maramures/arinis/2020/48",
    "short": "HCL Ariniș nr. 48/2020",
@@ -28,6 +508,21 @@
      "from": "2020-10-18",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/10671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-5-2020",
+   "path": "local/maramures/arinis/2020/5",
+   "short": "HCL Ariniș nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 5/2020 privind aprobarea Planului de analiză și acoperire a riscurilor identificate la nivelul comunei Ariniș, județul Maramureș, pentru anul 2020",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3072",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3072",
      "sha256": null
     }
    ]
@@ -183,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--arinis-6-2020",
+   "path": "local/maramures/arinis/2020/6",
+   "short": "HCL Ariniș nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 6/2020 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2019",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3073",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3073",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--arinis-60-2020",
    "path": "local/maramures/arinis/2020/60",
    "short": "HCL Ariniș nr. 60/2020",
@@ -298,6 +808,21 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/arinis-mm/registru-hcl/14353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--arinis-7-2020",
+   "path": "local/maramures/arinis/2020/7",
+   "short": "HCL Ariniș nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ariniș nr. 7/2020 privind aprobarea “Strategiei de dezvoltare a serviciilor sociale acordate la nivelul comunei Ariniș, pentru perioada 2020-2025”",
+   "url": "https://emol.ro/arinis-mm/registru-hcl/3074",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/arinis-mm/registru-hcl/3074",
      "sha256": null
     }
    ]

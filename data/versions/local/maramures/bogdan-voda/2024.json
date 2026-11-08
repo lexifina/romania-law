@@ -3,6 +3,291 @@
  "shard": "local/maramures/bogdan-voda/2024",
  "acts": [
   {
+   "slug": "hcl-maramures--bogdan-voda-1-2024",
+   "path": "local/maramures/bogdan-voda/2024/1",
+   "short": "HCL Bogdan Vodă nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 1/2024 privind implementarea proiectului „MODERNIZARE INFRASTRUCTURA RUTIERA IN COMUNA BOGDAN VODA, JUDETUL MARAMURES, ETAPA 2”",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/136404",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/136404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-10-2024",
+   "path": "local/maramures/bogdan-voda/2024/10",
+   "short": "HCL Bogdan Vodă nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 10/2024 privind însușirea Acordului de cooperare privind organizarea şi exercitarea activității de audit public intern",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/142553",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/142553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-11-2024",
+   "path": "local/maramures/bogdan-voda/2024/11",
+   "short": "HCL Bogdan Vodă nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 11/2024 privind aprobarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/142554",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/142554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-12-2024",
+   "path": "local/maramures/bogdan-voda/2024/12",
+   "short": "HCL Bogdan Vodă nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 12/2024 privind MODIFICAREA ART.1 a HCL NR.7/19.01.2024 privind aprobarea proiectului și a cheltuielilor necesare pentru obiectivul de investiții ”INFIINTARE CENTRU DE ZI PENTRU COPIII EXPUSI RISCULUI DE A FI SEPARATI DE FAMILIE, IN COMUNA BOGDAN VODA, JUDETUL MARAMURES”",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/147899",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/147899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-13-2024",
+   "path": "local/maramures/bogdan-voda/2024/13",
+   "short": "HCL Bogdan Vodă nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 13/2024 aprobarea bugetului rectificat pentru obiectivul de investiții ” INFIINTARE CENTRU DE ZI PENTRU COPIII EXPUSI RISCULUI DE A FI SEPARATI DE FAMILIE, IN COMUNA BOGDAN VODA, JUDETUL MARAMURES”",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/147900",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/147900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-14-2024",
+   "path": "local/maramures/bogdan-voda/2024/14",
+   "short": "HCL Bogdan Vodă nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 14/2024 rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/147901",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/147901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-15-2024",
+   "path": "local/maramures/bogdan-voda/2024/15",
+   "short": "HCL Bogdan Vodă nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 15/2024 Privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare infrastructură rutieră în comuna Bogdan Vodă, județul Maramureș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/148395",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/148395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-16-2024",
+   "path": "local/maramures/bogdan-voda/2024/16",
+   "short": "HCL Bogdan Vodă nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 16/2024 cu privire la aprobarea participării la „Programul vizand sisteme de alimentare cu apa, canalizare si epurare a apelor uzate\" pentru obiectivul de investiții “EXTINDERE REȚEA DE CANALIZARE ÎN COMUNA BOGDAN VODĂ, JUDEŢUL MARAMUREȘ”",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/151483",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/151483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-17-2024",
+   "path": "local/maramures/bogdan-voda/2024/17",
+   "short": "HCL Bogdan Vodă nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 17/2024 privind aprobarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/151484",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/151484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-18-2024",
+   "path": "local/maramures/bogdan-voda/2024/18",
+   "short": "HCL Bogdan Vodă nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 18/2024 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/153431",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/153431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-19-2024",
+   "path": "local/maramures/bogdan-voda/2024/19",
+   "short": "HCL Bogdan Vodă nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 19/2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/154978",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/154978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-2-2024",
+   "path": "local/maramures/bogdan-voda/2024/2",
+   "short": "HCL Bogdan Vodă nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 2/2024 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de pe raza teritorială a localitaţii Bogdan Vodă, pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138057",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-22-2024",
+   "path": "local/maramures/bogdan-voda/2024/22",
+   "short": "HCL Bogdan Vodă nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 22/2024 Privind aprobarea Acordului de Parteneriat actualizat, în vederea implementării proiectului „MARAHUB - Finanțarea bibliotecilor din județul Maramureș pentru a deveni hub-uri de dezvoltare a competențelor digitale”, proiect finanțat prin Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/160716",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/160716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-26-2024",
+   "path": "local/maramures/bogdan-voda/2024/26",
+   "short": "HCL Bogdan Vodă nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 26/2024 privind instrumentarea dosarului tehnic pentru accesarea schemei de ajutor de stat, ”Silvo-mediu și climă” elaborat în baza intervenției DR-07 ”Silvo-mediu și climă” din cadrul PS PAC 2023-2027 pentru corpurile de pădure aflate în domeniul public al Comunei Bogdan Vodă",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/167736",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/167736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-27-2024",
+   "path": "local/maramures/bogdan-voda/2024/27",
+   "short": "HCL Bogdan Vodă nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 27/2024 privind aprobarea Documentației tehnico-economice – Proiect tip și a indicatorilor tehnico-economici pentru proiectul „Construirea unui complex nZEB plus în comuna Bogdan Vodă” din Comuna Bogdan Vodă, județul Maramureș",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/167737",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/167737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-28-2024",
+   "path": "local/maramures/bogdan-voda/2024/28",
+   "short": "HCL Bogdan Vodă nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 28/2024 privind rectificarea Bugetului local de Venituri şi Cheltuieli al comunei Bogdan Vodă, pe anul 2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/167738",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/167738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-29-2024",
+   "path": "local/maramures/bogdan-voda/2024/29",
+   "short": "HCL Bogdan Vodă nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 29/2024 privind aprobarea încheierii contractelor de salubrizare cu S.C GLOD-SAL SRL",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/167739",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/167739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-3-2024",
+   "path": "local/maramures/bogdan-voda/2024/3",
+   "short": "HCL Bogdan Vodă nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 3/2024 privind aprobarea programului anual de achizitii publice pe anul 2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138058",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-30-2024",
+   "path": "local/maramures/bogdan-voda/2024/30",
+   "short": "HCL Bogdan Vodă nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 30/2024 privind introducerea imobilului înscris în Carte Funciară nr.52876 Bogdan Vodă în inventarul bunurilor care aparțin domeniului public al Comunei Bogdan Vodă",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/170153",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/170153",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--bogdan-voda-31-2024",
    "path": "local/maramures/bogdan-voda/2024/31",
    "short": "HCL Bogdan Vodă nr. 31/2024",
@@ -133,6 +418,21 @@
      "from": "2024-11-19",
      "units": 1,
      "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/177203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-4-2024",
+   "path": "local/maramures/bogdan-voda/2024/4",
+   "short": "HCL Bogdan Vodă nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 4/2024 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Bogdan Vodă, judeţul Maramureș, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138059",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138059",
      "sha256": null
     }
    ]
@@ -288,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--bogdan-voda-5-2024",
+   "path": "local/maramures/bogdan-voda/2024/5",
+   "short": "HCL Bogdan Vodă nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 5/2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138060",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138060",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--bogdan-voda-50-2024",
    "path": "local/maramures/bogdan-voda/2024/50",
    "short": "HCL Bogdan Vodă nr. 50/2024",
@@ -298,6 +613,66 @@
      "from": "2024-12-31",
      "units": 1,
      "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/185064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-6-2024",
+   "path": "local/maramures/bogdan-voda/2024/6",
+   "short": "HCL Bogdan Vodă nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 6/2024 privind aprobarea PLANULUI DE ACTIUNI sau lucrări de interes local pentru persoanele majore apte de muncă beneficiare de venit minim de incluziune conform prevederilor Legii nr. 196/2016 privind venitul minim de incluziune pe anul 2024",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138061",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-7-2024",
+   "path": "local/maramures/bogdan-voda/2024/7",
+   "short": "HCL Bogdan Vodă nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 7/2024 privind aprobarea obiectivului de investiţii \"ÎNFIINȚARE CENTRU DE ZI PENTRU COPIII EXPUȘI RISCULUI DE A FI SEPARAȚI DE FAMILIE, ÎN COMUNA BOGDAN VODA, JUDEȚUL MARAMUREȘ\"",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138201",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/138201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-8-2024",
+   "path": "local/maramures/bogdan-voda/2024/8",
+   "short": "HCL Bogdan Vodă nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 8/2024 privind utilizarea în anul 2024 a excedentului bugetar, înregistrat la 31 decembrie 2023",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/142551",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/142551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bogdan-voda-9-2024",
+   "path": "local/maramures/bogdan-voda/2024/9",
+   "short": "HCL Bogdan Vodă nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bogdan Vodă nr. 9/2024 privind modificarea Hotărârii Consiliului Local nr. 60/29.11.2023 privind implementarea proiectului „DRUMURI AGRICOLE ÎN COMUNA BOGDAN VODĂ”",
+   "url": "https://emol.ro/bogdanvoda-mm/registru-hcl/142552",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/bogdanvoda-mm/registru-hcl/142552",
      "sha256": null
     }
    ]

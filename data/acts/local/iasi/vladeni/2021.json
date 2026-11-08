@@ -3,6 +3,72 @@
 "shard": "local/iasi/vladeni/2021",
 "acts": [
 {
+"slug": "hcl-iasi--vladeni-1-2021",
+"path": "local/iasi/vladeni/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 1/2021 Privind actualizarea indicatorilor economico-financiari pentru obiectivul ” Reabilitare și modernizare școlară din sat Alexandru cel Bun, comuna Vlădeni, județul Iași” finanțat de Ministerul Dezvoltării Regionale și Administrației Publice, prin: Programul Național de Dezvoltare Locală, Subprogramul ” Modernizarea satului românesc” Domeniul ” unități de învățământ”",
+"short": "HCL Vlădeni nr. 1/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/46490",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-4-2021",
+"path": "local/iasi/vladeni/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 4/2021 Privind aprobarea prelungirii termenului de depunere a cererilor de anulare a accesoriilor pentru obligațiile bugetare restante la data de 31.03.2020 pana la data de 31.03.2021",
+"short": "HCL Vlădeni nr. 4/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/46493",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--vladeni-11-2021",
+"path": "local/iasi/vladeni/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlădeni nr. 11/2021 privind revizuirea, modificarea și actualizarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009 prin Actul Adițional nr. 41",
+"short": "HCL Vlădeni nr. 11/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/vladeni-is/registru-hcl/46530",
+"council": "iasi/vladeni",
+"council_name": "Consiliul Local al Comunei Vlădeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--vladeni-61-2021",
 "path": "local/iasi/vladeni/2021/61",
 "kind": "local",

@@ -3,6 +3,381 @@
  "shard": "local/ilfov/balotesti/2023",
  "acts": [
   {
+   "slug": "hcl-ilfov--balotesti-1-2023",
+   "path": "local/ilfov/balotesti/2023/1",
+   "short": "HCL Balotești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 1/2023",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/85476",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/85476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-10-2023",
+   "path": "local/ilfov/balotesti/2023/10",
+   "short": "HCL Balotești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 10/2023 de modificare si completare a HCL nr.18 din 28 martie 2013 privind aprobarea acordarii ajutoarelor de urgenta familiilor si persoanelor care se afla in situatii de necesitate deosebite, altele decat cele cauzate de calamitati naturale, incendii, accidente si a metodologiei de acordare a ajutoarelor de urgenta",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/97165",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/97165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-11-2023",
+   "path": "local/ilfov/balotesti/2023/11",
+   "short": "HCL Balotești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 11/2023 privind acordarea de mandat speciali Asociatiei de Dezvoltare Intercomunitara Apa - ADIA Ilfov, in vederea aprobarii actului aditional nr.07/2023 la Contractul de delegarea a gestiunii serviciilor publice de alimentare cu apa si canalizare, incheiat la data de 09.11.2009 intre Asociatia de Dezvoltare Intercomunitara Apa- ADIA Ilfov si SC Apa-Canal Ilfov SA",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/97166",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/97166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-12-2023",
+   "path": "local/ilfov/balotesti/2023/12",
+   "short": "HCL Balotești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 12/2023 privind acordarea de mandat special in cadrul Adunarii Generale a Asociatiei de Dezvoltare Intercomunitara pentru Gestionarea Integrata a Deseurilor Ilfov pentru modificarea statutului si actului constitutiv al asociatiei",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/97167",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/97167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-13-2023",
+   "path": "local/ilfov/balotesti/2023/13",
+   "short": "HCL Balotești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 13/2023 pentru aprobarea depunerii și implementării proiectului “Dotarea cu mobilier, materiale didactice si echipamente digitale pentru Scoala gimnaziala nr.1, Balotesti” în cadrul Planului Național de Redresare și Reziliență, Componenta C15 – Educatie",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/97168",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/97168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-14-2023",
+   "path": "local/ilfov/balotesti/2023/14",
+   "short": "HCL Balotești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 14/2023 pentru aprobarea depunerii și implementării proiectului “Dotarea cu mobilier, materiale didactice si echipamente digitale pentru Gradinita nr.1, Balotesti” în cadrul Planului Național de Redresare și Reziliență, Componenta C15 – Educatie",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/97169",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/97169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-15-2023",
+   "path": "local/ilfov/balotesti/2023/15",
+   "short": "HCL Balotești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 15/2023 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100398",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-16-2023",
+   "path": "local/ilfov/balotesti/2023/16",
+   "short": "HCL Balotești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 16/2023 privind aprobarea Bugetului devenituri si cheltuieli al Comunei Balotesti pentru anul 2023",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100399",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-17-2023",
+   "path": "local/ilfov/balotesti/2023/17",
+   "short": "HCL Balotești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 17/2023 pentru aprobarea indicatorilor tehnico-economici si a devizului general estimativ pentru obiectivul de investitie \"Lucrari de modernizare trotuare si accese proprietati Sos. Unirii intre Bloc P15 si str. Florilor, comuna Balotesti, judetul llfov\"",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100400",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-18-2023",
+   "path": "local/ilfov/balotesti/2023/18",
+   "short": "HCL Balotești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 18/2023 pentru aprobarea indicatorilor tehnico-economici si a devizului general estimativ pentru obiectivul de investitie \"Amenajare trotuare si accese proprietati Sos. Unirii intre Str. Unitati si Str. Narciselor, comuna Balotesti. judetul Ilfov\"",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100401",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-19-2023",
+   "path": "local/ilfov/balotesti/2023/19",
+   "short": "HCL Balotești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 19/2023 pentru aprobarea indicatorilor tehnico-economici si a devizului general estimativ pentru obiectivul de investitie \"Reparatie sistem rutier str. LC. Bratianu, comuna Balotesti. judetul Ilfov\"",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100402",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-2-2023",
+   "path": "local/ilfov/balotesti/2023/2",
+   "short": "HCL Balotești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 2/2023 privind delegarea pe o perioada de 5 luni a gestiunii activitatilor de sortare a deseurilor colectate separat si de tratare mecano-biologica a deseurilor reziduale, de pe raza comunei Balotesti, judetul Ilfov",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/88433",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/88433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-20-2023",
+   "path": "local/ilfov/balotesti/2023/20",
+   "short": "HCL Balotești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 20/2023 pentru aprobarea indicatorilor tehnico-economici si a devizului general estimativ pentru obiectivul de investitie \"Extindere retea de alimentare cu apa si retea de canalizare menajera pe str. Ciocarliei, comuna Balotesti, judetul Ilfov\"",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100403",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-21-2023",
+   "path": "local/ilfov/balotesti/2023/21",
+   "short": "HCL Balotești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 21/2023 pentru aprobarea indicatorilor tehnico-economici si a devizului general estimativ pentru obiectivul de investitie \"Extindere retea de alimentare cu apa si retea de canalizare menajera pe Intr. Tec, comuna Balotesti, judetul Ilfov\"",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100404",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-22-2023",
+   "path": "local/ilfov/balotesti/2023/22",
+   "short": "HCL Balotești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 22/2023 privind aprobarea modalității de organizare, funcționare și realizare a activității de sortare a deșeurilor de hârtie, carton, metal, plastic și sticlă colectate separat din deșeurile municipale în stații de sortare, inclusiv transportul rezidurilor rezultate din sortare la depozitele de deșeuri și/sau la instalațiile de valorificare energetică precum și acordarea unui mandat special Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov(ADIGIDI) pentru delegarea gestiunii activității în cauză",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100405",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-23-2023",
+   "path": "local/ilfov/balotesti/2023/23",
+   "short": "HCL Balotești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 23/2023 privind aprobarea regulamentului pentru acordarea voucherelor de vacanta",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/100406",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/100406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-24-2023",
+   "path": "local/ilfov/balotesti/2023/24",
+   "short": "HCL Balotești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 24/2023 privind aprobarea documentatiei PUZ si regulamentul aferent pentru obiectivul \"Reamenajare intersectie cu sens giratoriu din elemente modulare prefabricate pe DN1 Bucuresti-Ploiesti Km 24+125 intersectie cu Str. Ion Lahovari (DJ 200B)\"Comuna Balotesti, Judet Ilfov",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/103171",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/103171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-25-2023",
+   "path": "local/ilfov/balotesti/2023/25",
+   "short": "HCL Balotești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 25/2023 privind modificarea si completarea actului constitutiv al societatii Administrarea Domeniului Public si Privat Balotesti S.R.L",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/103172",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/103172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-26-2023",
+   "path": "local/ilfov/balotesti/2023/26",
+   "short": "HCL Balotești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 26/2023 privind aprobarea Scrisorii de asteptari in procedura de recrutare privind membrii in Consiliul de administratie al Societatii Administrarea Domeniului Public Si Privat BaloteSti SRL",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/103173",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/103173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-3-2023",
+   "path": "local/ilfov/balotesti/2023/3",
+   "short": "HCL Balotești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 3/2023 privind aprobarea Planului de actiuni si lucrari de interes local pe anul 2023 conform Legii nr. 416/2001 privind venitul minim garantat, republicata, cu modificarile si completarile ulterioare",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/88434",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/88434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-32-2023",
+   "path": "local/ilfov/balotesti/2023/32",
+   "short": "HCL Balotești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 32/2023 privind darea in administrare prin gestiune directa a Serviciului public de salubrizare al comunei Balotesti, judetul Ilfov (activitatile de colectare separata si transport separat al deseurilor menajere, de maturat, spalat si stropit a cailor publice din localitate, curatarea si transportul zapezii de pe caile publice din localitate si mentinerea in functiune a acestora pe timp de polei sau de inghet)",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/109201",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/109201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-4-2023",
+   "path": "local/ilfov/balotesti/2023/4",
+   "short": "HCL Balotești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 4/2023 privind atribuirea contractului de delegare pe o perioada de 5 luni a gestiunii activitatilor de sortare a deseurilor colectate separat si de tratare a deseurilor reziduale, de pe raza comunei Balotesti, judetul Ilfov",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/89770",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/89770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-5-2023",
+   "path": "local/ilfov/balotesti/2023/5",
+   "short": "HCL Balotești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 5/2023 privind aprobarea incheierii protocolului de cooperare intre Judetul Ilfov - Consiliul Judetean, Serviciul Judetean de Dezinsectie si Ecologizare Mediu Ilfov si comuna Balotesti, Judetul Ilfov in vederea realizarii proiectului ,,Ilfov fara tantari\"",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/89771",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/89771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-6-2023",
+   "path": "local/ilfov/balotesti/2023/6",
+   "short": "HCL Balotești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 6/2023 privind modificarea Hotararii Consiliului Local al comunei Balotesti nr. 79 din 21.11.2022 privind aprobarea Studiului de Oportunitate si indicatorilor tehnico­economici, a Planului de evolutie a tarifelor si taxelor si a Documentului de Pozitie pentru proiectul \"Sistem de Management Integrat al Deseurilor in judetul Ilfov -Componenta 1. Colectarea separata si transportul deseurilor municipale\"",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/89772",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/89772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-7-2023",
+   "path": "local/ilfov/balotesti/2023/7",
+   "short": "HCL Balotești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 7/2023 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar de stat si privat din comuna Balotesti, pentru anul 2023 - 2024",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/93081",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/93081",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--balotesti-72-2023",
    "path": "local/ilfov/balotesti/2023/72",
    "short": "HCL Balotești nr. 72/2023",
@@ -118,6 +493,21 @@
      "from": "2023-12-07",
      "units": 1,
      "source_url": "https://emol.ro/balotesti-if/registru-hcl/132422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-8-2023",
+   "path": "local/ilfov/balotesti/2023/8",
+   "short": "HCL Balotești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 8/2023 privind modificarea si completarea organigramei si a statului de functii a aparatului despecialitate al primarului comunei Balotesti",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/93082",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/93082",
      "sha256": null
     }
    ]
@@ -268,6 +658,21 @@
      "from": "2023-12-29",
      "units": 1,
      "source_url": "https://emol.ro/balotesti-if/registru-hcl/135836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--balotesti-9-2023",
+   "path": "local/ilfov/balotesti/2023/9",
+   "short": "HCL Balotești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Balotești nr. 9/2023 privind modificarea si completarea actului constitutiv al societatii Administrarea Domeniului Public si Privat Balotesti S.R.L",
+   "url": "https://emol.ro/balotesti-if/registru-hcl/93083",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/balotesti-if/registru-hcl/93083",
      "sha256": null
     }
    ]

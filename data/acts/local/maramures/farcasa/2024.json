@@ -3,6 +3,28 @@
 "shard": "local/maramures/farcasa/2024",
 "acts": [
 {
+"slug": "hcl-maramures--farcasa-6-2024",
+"path": "local/maramures/farcasa/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 6/2024 privind aprobarea bugetului local al comunei Fărcașa și a bugetului Serviciului public apă, canal Fărcașa pe anul 2024",
+"short": "HCL Fărcașa nr. 6/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-29",
+"latest": "2024-07-29",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/149570",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-maramures--farcasa-41-2024",
 "path": "local/maramures/farcasa/2024/41",
 "kind": "local",

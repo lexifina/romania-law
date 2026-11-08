@@ -3,6 +3,201 @@
  "shard": "local/maramures/cernesti/2024",
  "acts": [
   {
+   "slug": "hcl-maramures--cernesti-1-2024",
+   "path": "local/maramures/cernesti/2024/1",
+   "short": "HCL Cernești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 1/2024 privind aprobarea bugetului local de venituri și cheltuieli al comunei Cernești, pe anul 2024",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/139006",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/139006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-10-2024",
+   "path": "local/maramures/cernesti/2024/10",
+   "short": "HCL Cernești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 10/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat după realizarea achizițiilor pentru obiectivul de investiții „Înființare sistem de alimentare cu apa si sistem de canalizare a apelor uzate menajere, inclusiv stație de epurare, în comuna Cernești, județul Maramureș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/151835",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/151835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-11-2024",
+   "path": "local/maramures/cernesti/2024/11",
+   "short": "HCL Cernești nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 11/2024 privind aprobarea proiectului și a cheltuielilor legate de proiect, pentru obiectivul de investiții \"Înființare grădiniță cu program normal în localitatea Trestia, comuna Cernești, județul Maramureș\"",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/154390",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/154390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-13-2024",
+   "path": "local/maramures/cernesti/2024/13",
+   "short": "HCL Cernești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 13/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “REABILITARE MODERATA A CLADIRILOR PUBLICE PENTRU A IMBUNATATI SERVICIILE PUBLICE PRESTATE LA NIVELUL UNITATILOR ADMINISTRATIV – TERITORIALA SCOALA CIOCOTIS” aprobat pentru finanțare prin Programul National de Redresare si Reziliența, Componenta C10 – Fondul local",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/159302",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/159302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-14-2024",
+   "path": "local/maramures/cernesti/2024/14",
+   "short": "HCL Cernești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 14/2024 privind aprobarea indicatorilor tehnico-economici ai investiției revizuiți prin aplicarea OUG 64 din 9 mai 2022 privind ajustarea prețurilor și a valorii devizelor generale în cadrul proiectelor finanțate din fonduri externe nerambursabile pentru realizarea investiției: „MODERNIZARE SI DOTARE CAMIN CULTURAL IN LOCALITATEA MAGURENI, COMUNA CERNESTI, JUDETUL MARAMURES”",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/159303",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/159303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-15-2024",
+   "path": "local/maramures/cernesti/2024/15",
+   "short": "HCL Cernești nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 15/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/162057",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/162057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-16-2024",
+   "path": "local/maramures/cernesti/2024/16",
+   "short": "HCL Cernești nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 16/2024 privind aprobarea modelului de Protocol de finanțare și încheierea acestuia între UAT – Județul Maramureș și UAT – Comuna Cernești, în vederea implementării și derulării Programului multianual privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism pentru perioada 2024-2027, conform Hotărârii Guvernului nr. 1137/2023",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/165411",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/165411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-18-2024",
+   "path": "local/maramures/cernesti/2024/18",
+   "short": "HCL Cernești nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 18/2024",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/171022",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/171022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-19-2024",
+   "path": "local/maramures/cernesti/2024/19",
+   "short": "HCL Cernești nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 19/2024 privind aprobarea prelungirii scrisorii de garanție de la FNGCIMM SA IFN, pentru implementarea proiectului “Modernizare si dotare cămin cultural în localitatea Măgureni, comuna Cernești, județul Maramureș” com. Cernești, jud. Maramureș;",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/171023",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/171023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-2-2024",
+   "path": "local/maramures/cernesti/2024/2",
+   "short": "HCL Cernești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 2/2024 privind aprobarea modificării Organigramei și a Statului de funcții al Comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/139007",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/139007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-20-2024",
+   "path": "local/maramures/cernesti/2024/20",
+   "short": "HCL Cernești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 20/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cernești, pe anul 2023",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/171024",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/171024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-21-2024",
+   "path": "local/maramures/cernesti/2024/21",
+   "short": "HCL Cernești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 21/2024 privind completarea domeniului public al comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/171025",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/171025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-22-2024",
+   "path": "local/maramures/cernesti/2024/22",
+   "short": "HCL Cernești nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 22/2024 privind instrumentarea dosarului tehnic pentru accesarea schemei de ajutor de stat, ”Silvo-mediu și climă” elaborat în baza intervenției DR-07 ”Silvo-mediu și climă” din cadrul PS PAC 2023-2027 pentru corpurile de pădure aflate în domeniul public al Comunei Cernești",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/171026",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/171026",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-23-2024",
    "path": "local/maramures/cernesti/2024/23",
    "short": "HCL Cernești nr. 23/2024",
@@ -103,6 +298,21 @@
      "from": "2024-12-03",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/176535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-3-2024",
+   "path": "local/maramures/cernesti/2024/3",
+   "short": "HCL Cernești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 3/2024 privind aprobarea indicatorilor pentru finanțarea/ cofinanțarea elaborării și actualizării Planului Urbanistic General și Regulamentului Local de Urbanism al comunei Cernești, județul Maramureș",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/139008",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/139008",
      "sha256": null
     }
    ]
@@ -258,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--cernesti-4-2024",
+   "path": "local/maramures/cernesti/2024/4",
+   "short": "HCL Cernești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 4/2024 privind aderarea la sistemul de cooperare pentru asigurarea funcției de audit public intern și însușirea acordului de cooperare privind organizarea și exercitarea funcției de audit intern",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/146071",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/146071",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--cernesti-40-2024",
    "path": "local/maramures/cernesti/2024/40",
    "short": "HCL Cernești nr. 40/2024",
@@ -298,6 +523,81 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/cernesti-mm/registru-hcl/182831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-5-2024",
+   "path": "local/maramures/cernesti/2024/5",
+   "short": "HCL Cernești nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 5/2024 privind aprobarea revizuirii actelor statutare ale Asociației de Dezvoltare Intercomunitară \"Zona Metropolitana Baia Mare\";",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/146072",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/146072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-6-2024",
+   "path": "local/maramures/cernesti/2024/6",
+   "short": "HCL Cernești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 6/2024",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/146073",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/146073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-7-2024",
+   "path": "local/maramures/cernesti/2024/7",
+   "short": "HCL Cernești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 7/2024 privind aprobarea devizului general actualizat pentru obiectivul de investiții “CRESTEREA EFICIENTEI ENERGETICE LA CLADIREA DISPENSAR UMAN ÎN LOCALITATEA CIOCOTIȘ, COMUNA CERNEȘTI, JUDETUL MARAMURES” aprobat pentru finanțare prin Programul Național de Redresare si Reziliență, Componenta C10 – Fondul local",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/146074",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/146074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-8-2024",
+   "path": "local/maramures/cernesti/2024/8",
+   "short": "HCL Cernești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 8/2024",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/151833",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/151833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--cernesti-9-2024",
+   "path": "local/maramures/cernesti/2024/9",
+   "short": "HCL Cernești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cernești nr. 9/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat, pentru obiectivul de utilitate publică „Dezvoltare rețea inteligentă de distribuție a gazelor naturale în comuna Cernești, județul Maramureș\"aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cernesti-mm/registru-hcl/151834",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cernesti-mm/registru-hcl/151834",
      "sha256": null
     }
    ]

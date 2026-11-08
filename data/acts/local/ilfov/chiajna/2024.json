@@ -3,6 +3,116 @@
 "shard": "local/ilfov/chiajna/2024",
 "acts": [
 {
+"slug": "hcl-ilfov--chiajna-7-2024",
+"path": "local/ilfov/chiajna/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 7/2024 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile în anul 2024 din bugetul local al comunei Chiajna",
+"short": "HCL Chiajna nr. 7/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-07",
+"latest": "2024-02-07",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/138325",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-25-2024",
+"path": "local/ilfov/chiajna/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 25/2024 privind aprobarea inițierii procedurii de cumpărare a unor imobile – terenuri proprietate privată a cetățenilor, cu o suprafață aproximativ cuprinsă între 40.000 - 50.000 m.p., în scopul edificării unor obiective de investiții de interes local, în comuna Chiajna",
+"short": "HCL Chiajna nr. 25/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/157669",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-26-2024",
+"path": "local/ilfov/chiajna/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 26/2024 privind aprobarea inițierii procedurii de acceptare ofertă de donație a unor suprafețe de teren care au o lățime mai mare de 5 metri, proprietate privată a unor cetățeni, în scopul edificării unor obiecte de interes local în comuna Chiajna",
+"short": "HCL Chiajna nr. 26/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/157670",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-62-2024",
+"path": "local/ilfov/chiajna/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 62/2024 privind stabilirea și sancționarea unor contravenții pe teritoriul localității CHIAJNA",
+"short": "HCL Chiajna nr. 62/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/173175",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--chiajna-63-2024",
+"path": "local/ilfov/chiajna/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 63/2024 privind aprobarea și stabilirea numărului și cuantumului burselor aferente anului școlar 2024 – 2025 pentru elevii din învățământul preuniversitar de stat de pe raza comunei Chiajna, județul Ilfov",
+"short": "HCL Chiajna nr. 63/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-13",
+"latest": "2024-12-13",
+"portal": "https://emol.ro/chiajna-if/registru-hcl/173176",
+"council": "ilfov/chiajna",
+"council_name": "Consiliul Local al Comunei Chiajna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-ilfov--chiajna-69-2024",
 "path": "local/ilfov/chiajna/2024/69",
 "kind": "local",

@@ -3,6 +3,111 @@
  "shard": "local/ilfov/ciorogarla/2024",
  "acts": [
   {
+   "slug": "hcl-ilfov--ciorogarla-10-2024",
+   "path": "local/ilfov/ciorogarla/2024/10",
+   "short": "HCL Ciorogârla nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 10/2024 privind modificarea tarifelor pentru activitățile specifice de salubrizare pe raza comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/141918",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/141918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-12-2024",
+   "path": "local/ilfov/ciorogarla/2024/12",
+   "short": "HCL Ciorogârla nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 12/2024 privind utilizarea sumei de 14.285.383 lei din excedentul bugetului local în anul curent, pentru finanțarea unor obiective de investiții de la Secțiunea Dezvoltare",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/148961",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/148961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-13-2024",
+   "path": "local/ilfov/ciorogarla/2024/13",
+   "short": "HCL Ciorogârla nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 13/2024 privind bugetul local al comunei Ciorogârla pe anul 2024",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/148962",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/148962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-20-2024",
+   "path": "local/ilfov/ciorogarla/2024/20",
+   "short": "HCL Ciorogârla nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 20/2024 privind indexarea cu rata inflației a impozitelor și taxelor locale aplicabile în anul fiscal 2025",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/155242",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/155242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-26-2024",
+   "path": "local/ilfov/ciorogarla/2024/26",
+   "short": "HCL Ciorogârla nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 26/2024 privind prima rectificare a bugetului local al comunei Ciorogârla pe anul 2024",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/158779",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/158779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-35-2024",
+   "path": "local/ilfov/ciorogarla/2024/35",
+   "short": "HCL Ciorogârla nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 35/2024 privind modificarea tarifelor pentru activitățile de salubrizare pe raza comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/165204",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/165204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-36-2024",
+   "path": "local/ilfov/ciorogarla/2024/36",
+   "short": "HCL Ciorogârla nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 36/2024 privind a doua rectificare a bugetului local al comunei Ciorogârla pe anul 2024",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/166090",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/166090",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-40-2024",
    "path": "local/ilfov/ciorogarla/2024/40",
    "short": "HCL Ciorogârla nr. 40/2024",

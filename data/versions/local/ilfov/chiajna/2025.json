@@ -3,6 +3,81 @@
  "shard": "local/ilfov/chiajna/2025",
  "acts": [
   {
+   "slug": "hcl-ilfov--chiajna-11-2025",
+   "path": "local/ilfov/chiajna/2025/11",
+   "short": "HCL Chiajna nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 11/2025 privind aprobarea efectuării raportului de evaluare a unor imobile proprietate publică/privată a comunei Chiajna, în vederea estimării chiriei de piață",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/194419",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/194419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-15-2025",
+   "path": "local/ilfov/chiajna/2025/15",
+   "short": "HCL Chiajna nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 15/2025 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile în anul 2025 din bugetul local al comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/194423",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/194423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-40-2025",
+   "path": "local/ilfov/chiajna/2025/40",
+   "short": "HCL Chiajna nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 40/2025 privind majorarea tarifelor pentru operațiunile și activitățile de salubrizare a comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/210006",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/210006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-48-2025",
+   "path": "local/ilfov/chiajna/2025/48",
+   "short": "HCL Chiajna nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 48/2025 privind aprobarea tarifelor de utilizare a parcărilor publice de utilitate generală din comuna Chiajna, în conformitate cu Hotărârea Consiliului Local nr. 36/2025 privind Regulamentul și Metodologia sistemului de parcare publică cu plată din comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/210014",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/210014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-65-2025",
+   "path": "local/ilfov/chiajna/2025/65",
+   "short": "HCL Chiajna nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 65/2025 privind aprobarea nivelului pierderilor de apă din sistemul public de alimentare cu apă si de canalizare al comunei Chiajna, județul Ilfov, de la captare până la utilizatori, în cotă de 19.64% pentru perioada 01.01.2024 - 31.12.2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/219054",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/219054",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--chiajna-71-2025",
    "path": "local/ilfov/chiajna/2025/71",
    "short": "HCL Chiajna nr. 71/2025",

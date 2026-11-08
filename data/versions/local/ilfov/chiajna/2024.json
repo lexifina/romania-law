@@ -3,6 +3,66 @@
  "shard": "local/ilfov/chiajna/2024",
  "acts": [
   {
+   "slug": "hcl-ilfov--chiajna-25-2024",
+   "path": "local/ilfov/chiajna/2024/25",
+   "short": "HCL Chiajna nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 25/2024 privind aprobarea inițierii procedurii de cumpărare a unor imobile – terenuri proprietate privată a cetățenilor, cu o suprafață aproximativ cuprinsă între 40.000 - 50.000 m.p., în scopul edificării unor obiective de investiții de interes local, în comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157669",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-26-2024",
+   "path": "local/ilfov/chiajna/2024/26",
+   "short": "HCL Chiajna nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 26/2024 privind aprobarea inițierii procedurii de acceptare ofertă de donație a unor suprafețe de teren care au o lățime mai mare de 5 metri, proprietate privată a unor cetățeni, în scopul edificării unor obiecte de interes local în comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157670",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-62-2024",
+   "path": "local/ilfov/chiajna/2024/62",
+   "short": "HCL Chiajna nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 62/2024 privind stabilirea și sancționarea unor contravenții pe teritoriul localității CHIAJNA",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/173175",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/173175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-63-2024",
+   "path": "local/ilfov/chiajna/2024/63",
+   "short": "HCL Chiajna nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 63/2024 privind aprobarea și stabilirea numărului și cuantumului burselor aferente anului școlar 2024 – 2025 pentru elevii din învățământul preuniversitar de stat de pe raza comunei Chiajna, județul Ilfov",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/173176",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/173176",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--chiajna-69-2024",
    "path": "local/ilfov/chiajna/2024/69",
    "short": "HCL Chiajna nr. 69/2024",
@@ -13,6 +73,21 @@
      "from": "2024-12-30",
      "units": 1,
      "source_url": "https://emol.ro/chiajna-if/registru-hcl/181944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-7-2024",
+   "path": "local/ilfov/chiajna/2024/7",
+   "short": "HCL Chiajna nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 7/2024 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile în anul 2024 din bugetul local al comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/138325",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/138325",
      "sha256": null
     }
    ]

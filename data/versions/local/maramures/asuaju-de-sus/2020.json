@@ -3,6 +3,156 @@
  "shard": "local/maramures/asuaju-de-sus/2020",
  "acts": [
   {
+   "slug": "hcl-maramures--asuaju-de-sus-1-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/1",
+   "short": "HCL Asuaju de Sus nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 1/2020 privind alegerea unui nou președinte de ședință pentru lunile ianuarie,februarie si martie 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29099",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-10-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/10",
+   "short": "HCL Asuaju de Sus nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 10/2020 privind adoptarea bugetului local al comunei Asuaju de sus pe anul 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29108",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-11-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/11",
+   "short": "HCL Asuaju de Sus nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 11/2020 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2019",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29109",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-12-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/12",
+   "short": "HCL Asuaju de Sus nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 12/2020 privind aprobarea strategiei anuale de achiziții publice a comunei Asuaju de sus pe anul 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29110",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-13-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/13",
+   "short": "HCL Asuaju de Sus nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 13/2020 privind aprobarea planului de analiza si acoperire a riscurilor pe anul 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29111",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-14-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/14",
+   "short": "HCL Asuaju de Sus nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 14/2020 privind rectificarea bugetară a comunei Asuaju de sus pentru anul 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29112",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-15-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/15",
+   "short": "HCL Asuaju de Sus nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 15/2020 privind alegerea unui presedinte de sedinta pe lunile MAI, IUNIE si IULIE 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29113",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-16-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/16",
+   "short": "HCL Asuaju de Sus nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 16/2020 privind cu privire la rectificarea bugetului local al comunei ASUAJU DE SUS , pe anul 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29114",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-17-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/17",
+   "short": "HCL Asuaju de Sus nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 17/2020 privind rectificarea bugetului local al comunei ASUAJU DE SUS pe anul 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29115",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-18-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/18",
+   "short": "HCL Asuaju de Sus nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 18/2020 privind instrumentarea proiectului Modernizare rețea pentru ilumibat public în comuna Asuaju de Sus cu finanțare prin fonduri publice nerambursabile",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29116",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29116",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-19-2020",
    "path": "local/maramures/asuaju-de-sus/2020/19",
    "short": "HCL Asuaju de Sus nr. 19/2020",
@@ -13,6 +163,21 @@
      "from": "2020-06-30",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-2-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/2",
+   "short": "HCL Asuaju de Sus nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 2/2020 privind reorganizarea rețelei școlare a unității de învățământ preuniversitar-scoala gimnazială asuaju de sus maramureș",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29100",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29100",
      "sha256": null
     }
    ]
@@ -168,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--asuaju-de-sus-3-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/3",
+   "short": "HCL Asuaju de Sus nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 3/2020 privind validarea dispoziției primarului nr.1/07.01.2020 privind acoperirea definitivă din excedentul bugetului local al secțiunii de dezvoltare",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29101",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29101",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-30-2020",
    "path": "local/maramures/asuaju-de-sus/2020/30",
    "short": "HCL Asuaju de Sus nr. 30/2020",
@@ -298,6 +478,81 @@
      "from": "2020-12-28",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-4-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/4",
+   "short": "HCL Asuaju de Sus nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 4/2020 privind aprobarea planului de acțiuni de interes în vederea aplicării legii nr.416/2001 pentru anul 2020",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29102",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-5-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/5",
+   "short": "HCL Asuaju de Sus nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 5/2020 privind aprobarea participării comunei Asuaju de sus ,jud.Maramureș la programul privind instalarea de panouri fotovoltaice pt gospodăriile izolate,neracordate la rețeaua electrică",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29103",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-6-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/6",
+   "short": "HCL Asuaju de Sus nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 6/2020 privind aderarea comunei Asuaju de sus județul Maramureș la Asociatia Comunelor din România",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29104",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-8-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/8",
+   "short": "HCL Asuaju de Sus nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 8/2020 privind aprobarea indicatorilor tehnico-economici actualizați după actualizarea prețului contractului de acțiuni pentru proiectul modernizare rețea stradală în comuna Asuaju de sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29106",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-9-2020",
+   "path": "local/maramures/asuaju-de-sus/2020/9",
+   "short": "HCL Asuaju de Sus nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 9/2020 privind asigurarea finanțării de la bugetul local după actualizarea prețului contractului de achiziții pentru proiectul modernizare rețea stradală în comuna Asuaju de sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/29107",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/29107",
      "sha256": null
     }
    ]

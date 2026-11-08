@@ -3,6 +3,156 @@
  "shard": "local/maramures/asuaju-de-sus/2023",
  "acts": [
   {
+   "slug": "hcl-maramures--asuaju-de-sus-1-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/1",
+   "short": "HCL Asuaju de Sus nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 1/2023 privind organizarea rețelei școlare a unității de învățământ preuniversitar școala gimnazială Asuaju de Sus, județul Maramureș pe anul 2023-2024",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121208",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-10-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/10",
+   "short": "HCL Asuaju de Sus nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 10/2023 privind aprobarea documentației tehnico-economice faza Dali și a indicatorilor tehnico-economici privind obiectivul de investiții \" Renovare energetică bloc de locuință în localitatea Asuaju de Sus \"",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121217",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-11-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/11",
+   "short": "HCL Asuaju de Sus nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 11/2023 privind adoptarea bugetului local al comunei Asuaju de Sus pe anul 2023",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121218",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-12-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/12",
+   "short": "HCL Asuaju de Sus nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 12/2023 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2022",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121219",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-13-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/13",
+   "short": "HCL Asuaju de Sus nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 13/2023 privind utilizarea sumelor din excedentul bugetar al anului 2022",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121220",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-14-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/14",
+   "short": "HCL Asuaju de Sus nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 14/2023 privind aprobarea depunerii proiectului \" Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din comuna Asuaju de Sus \"",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121221",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-15-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/15",
+   "short": "HCL Asuaju de Sus nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 15/2023 privind aprobarea prețurilor de referință pentru producția anului 2023 pentru materialul lemnos",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121222",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-16-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/16",
+   "short": "HCL Asuaju de Sus nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 16/2023 privind aprobarea raportului de evaluare a capacității de aprobare împotriva incendiilor pe semestrul II al anului 2022",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121223",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-17-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/17",
+   "short": "HCL Asuaju de Sus nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 17/2023 privind aprobarea documentației tehnico-economice Faza Dali și a indicatorilor tehnico-economici pentru obiectivul \" Renovare energetică clădire dispensar în localitatea Asuaju de Sus \"",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121224",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-18-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/18",
+   "short": "HCL Asuaju de Sus nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 18/2023 privind aprobarea documentației tehnico-economice faza Dali și a indicatorilor tehnico-economici pentru obiectivul de investiții \" Renovare energetică cămin cultural în localitatea Asuaju de Sus \"",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121225",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121225",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-19-2023",
    "path": "local/maramures/asuaju-de-sus/2023/19",
    "short": "HCL Asuaju de Sus nr. 19/2023",
@@ -13,6 +163,21 @@
      "from": "2023-03-23",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-2-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/2",
+   "short": "HCL Asuaju de Sus nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 2/2023 privind validarea dispoziției primarului nr.1/5.01.2023 privind acoperirea definitivă din excedentul bugetului local al secțiunii de dezvoltare",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121209",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121209",
      "sha256": null
     }
    ]
@@ -168,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--asuaju-de-sus-3-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/3",
+   "short": "HCL Asuaju de Sus nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 3/2023 privind aprobarea planului de lucrări în vederea efectuarii orelor de muncă conform legii nr.416/2001 privind venitul minim garantat pe anul 2023",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121210",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121210",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--asuaju-de-sus-30-2023",
    "path": "local/maramures/asuaju-de-sus/2023/30",
    "short": "HCL Asuaju de Sus nr. 30/2023",
@@ -298,6 +478,81 @@
      "from": "2023-08-29",
      "units": 1,
      "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-4-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/4",
+   "short": "HCL Asuaju de Sus nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 4/2023 privind aprobarea planului de analiză și acoperire a riscurilor pe anul 2023",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121211",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-5-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/5",
+   "short": "HCL Asuaju de Sus nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 5/2023 privind aprobarea studiului de fezabilitate actualizat, indicatoriilor tehnico-economice actualizați și devizul general actualizat pentru obiectivul de investiții \" Asfaltarea Străzii \"",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121212",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-6-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/6",
+   "short": "HCL Asuaju de Sus nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 6/2023 privind aprobarea studiului de fezabilitate actualizat, a indicatoriilor tehnico-economici actualizați și devizul general actualizat pentru obiectivul de investiții \" Înfințare sistem de canalizare menajeră\" în comuna Asuaju de Sus",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121213",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-8-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/8",
+   "short": "HCL Asuaju de Sus nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 8/2023 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121215",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--asuaju-de-sus-9-2023",
+   "path": "local/maramures/asuaju-de-sus/2023/9",
+   "short": "HCL Asuaju de Sus nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Asuaju de Sus nr. 9/2023 privind aprobarea, analizei situației la nivel local, a documentației tehnico-economici și a indicatorilor tehnico-economici a implementării proiectului \" Sisteme alternative de colectare a apelor uzate în comuna Asuaju de Sus, județul Maramureș \"",
+   "url": "https://emol.ro/asuajudesus-mm/registru-hcl/121216",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/asuajudesus-mm/registru-hcl/121216",
      "sha256": null
     }
    ]

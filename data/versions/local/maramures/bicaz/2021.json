@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--bicaz-2-2021",
+   "path": "local/maramures/bicaz/2021/2",
+   "short": "HCL Bicaz nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 2/2021 privind aprobarea Planului de actiuni si lucrari de interes local in vederea aplicarii Legii nr.416/2001 privind venitul minim garantat pe anul 2021",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/20237",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/20237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--bicaz-20-2021",
    "path": "local/maramures/bicaz/2021/20",
    "short": "HCL Bicaz nr. 20/2021",
@@ -238,6 +253,51 @@
      "from": "2021-12-16",
      "units": 1,
      "source_url": "https://emol.ro/bicaz-mm/registru-hcl/61435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-3-2021",
+   "path": "local/maramures/bicaz/2021/3",
+   "short": "HCL Bicaz nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 3/2021 privind aprobarea completarii inventarului bunurilor care alcatuiesc domeniul public al comunei Bicaz,judetul Maramures",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/20244",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/20244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-4-2021",
+   "path": "local/maramures/bicaz/2021/4",
+   "short": "HCL Bicaz nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 4/2021 privind modificarea și completarea Statutului Asociației de dezvoltare intercomunitarăpentru gestionarea integrată a deșeurilor menajere în județul Maramureș ADIGIDM MM",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/20245",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/20245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--bicaz-5-2021",
+   "path": "local/maramures/bicaz/2021/5",
+   "short": "HCL Bicaz nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bicaz nr. 5/2021 privind actualizarea Planului de analiza si acoperire a riscurilor la nivelul comunei Bicaz, judetul Maramures pentru anul 2021",
+   "url": "https://emol.ro/bicaz-mm/registru-hcl/61347",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bicaz-mm/registru-hcl/61347",
      "sha256": null
     }
    ]

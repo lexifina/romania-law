@@ -3,6 +3,201 @@
  "shard": "local/maramures/farcasa/2020",
  "acts": [
   {
+   "slug": "hcl-maramures--farcasa-12-2020",
+   "path": "local/maramures/farcasa/2020/12",
+   "short": "HCL Fărcașa nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 12/2020 privind propunere modificare și completare inventar domeniu public",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3772",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-13-2020",
+   "path": "local/maramures/farcasa/2020/13",
+   "short": "HCL Fărcașa nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 13/2020 privind aprobare plan acțiuni ajutor social",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3773",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-14-2020",
+   "path": "local/maramures/farcasa/2020/14",
+   "short": "HCL Fărcașa nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 14/2020 privind aprobare Plan ordine și siguranță publică Poliția locală",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3774",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-15-2020",
+   "path": "local/maramures/farcasa/2020/15",
+   "short": "HCL Fărcașa nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 15/2020 privind stabilirea procedurii de desfășurare a ședințelor Consiliului local în situații excepționale",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3815",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-16-2020",
+   "path": "local/maramures/farcasa/2020/16",
+   "short": "HCL Fărcașa nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 16/2020 privind prelungire valabilitate PUG",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3816",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-17-2020",
+   "path": "local/maramures/farcasa/2020/17",
+   "short": "HCL Fărcașa nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 17/2020 privind modificare HCL.47/2019",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3817",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-20-2020",
+   "path": "local/maramures/farcasa/2020/20",
+   "short": "HCL Fărcașa nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 20/2020 privind stabilirea de măsuri privind Registrul agricol pentru perioada 2020-2024",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3835",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-23-2020",
+   "path": "local/maramures/farcasa/2020/23",
+   "short": "HCL Fărcașa nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 23/2020 privind aprobarea execuției bugetare trimestriale pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei și bugetului Serviciului public apă, canal Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3838",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-25-2020",
+   "path": "local/maramures/farcasa/2020/25",
+   "short": "HCL Fărcașa nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 25/2020 privind atribuirea unor denumiri de străzi și pentru modificarea și completarea Hotărârii Consiliului local al comunei Fărcașa 76 din 28 noiembrie 2019 privind identificarea străzilor din comuna Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3840",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-26-2020",
+   "path": "local/maramures/farcasa/2020/26",
+   "short": "HCL Fărcașa nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 26/2020 privind aprobarea înregistrării Serviciului public apă, canal Fărcașa în Sistemul national electronic de plată online a obligațiilor de plată către bugetul general consolidat",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3841",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-32-2020",
+   "path": "local/maramures/farcasa/2020/32",
+   "short": "HCL Fărcașa nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 32/2020 privind prelungirea scrisorii de garanție bancară emisă de FGCR—IFN SA pentru obiectivul de investiții ”REABILITARE, MODERNIZARE ȘI DOTARE CASĂ DE CULTURĂ ÎN LOCALITATEA FĂRCAȘA, COMUNA FĂRCAȘA, JUDEȚUL MARAMUREȘ”, finanțat prin PNDR",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10589",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-34-2020",
+   "path": "local/maramures/farcasa/2020/34",
+   "short": "HCL Fărcașa nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 34/2020 privind modul de valorificare în anul 2020 a masei lemnoase din fondul forestier proprietate publică a comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10591",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-39-2020",
+   "path": "local/maramures/farcasa/2020/39",
+   "short": "HCL Fărcașa nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 39/2020 privind prelungirea scrisorii de garanție bancară emisă de FGCR—IFN SA pentru obiectivul de investiții ”Extindere rețea de canalizare, modernizare stație de tratare și modernizare stație de epurare în Comuna Fărcașa, județul Maramureș”, finanțat prin PNDR",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10609",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10609",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--farcasa-40-2020",
    "path": "local/maramures/farcasa/2020/40",
    "short": "HCL Fărcașa nr. 40/2020",
@@ -298,6 +493,21 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-8-2020",
+   "path": "local/maramures/farcasa/2020/8",
+   "short": "HCL Fărcașa nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 8/2020 privind rețea școlară 2020-2021",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/3768",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/3768",
      "sha256": null
     }
    ]

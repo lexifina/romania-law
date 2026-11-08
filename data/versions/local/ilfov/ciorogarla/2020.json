@@ -3,6 +3,51 @@
  "shard": "local/ilfov/ciorogarla/2020",
  "acts": [
   {
+   "slug": "hcl-ilfov--ciorogarla-1-2020",
+   "path": "local/ilfov/ciorogarla/2020/1",
+   "short": "HCL Ciorogârla nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 1/2020 privind acoperirea definitivă a deficitului de secțiuni de dezvoltare, rezultat la finele anului 2019 în valoare de 3.665.075,62 lei din excedentul bugetului local",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3317",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-10-2020",
+   "path": "local/ilfov/ciorogarla/2020/10",
+   "short": "HCL Ciorogârla nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 10/2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul modernizare străzi comunale comuna Ciorogârla, strada Drumul Între Vii, strada Policlinicii - prelungire",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3331",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-11-2020",
+   "path": "local/ilfov/ciorogarla/2020/11",
+   "short": "HCL Ciorogârla nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 11/2020 privind acordarea de mandate speciale Asociației de Dezvoltare Intercomunitară pentru Transport Public București-Ilfov privind încheiere de contracte delegare gestiunii serviciului de transport public cu Groupe Prodimpex SRL, Nicarom Trans Expres SRL, Axi Tours Izi SRL",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3332",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3332",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-12-2020",
    "path": "local/ilfov/ciorogarla/2020/12",
    "short": "HCL Ciorogârla nr. 12/2020",
@@ -118,6 +163,21 @@
      "from": "2020-02-27",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/5862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-2-2020",
+   "path": "local/ilfov/ciorogarla/2020/2",
+   "short": "HCL Ciorogârla nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 2/2020 privind aprobarea revizuirii regulamentului de organizare și funcționare a consiliului local al comunei Ciorogârla",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3318",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3318",
      "sha256": null
     }
    ]
@@ -273,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-3-2020",
+   "path": "local/ilfov/ciorogarla/2020/3",
+   "short": "HCL Ciorogârla nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 3/2020 privind achiziționarea serviciilor juridice de consultanță, de asistență și/sau reprezentare",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3319",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3319",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-30-2020",
    "path": "local/ilfov/ciorogarla/2020/30",
    "short": "HCL Ciorogârla nr. 30/2020",
@@ -298,6 +373,96 @@
      "from": "2020-05-19",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/5882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-4-2020",
+   "path": "local/ilfov/ciorogarla/2020/4",
+   "short": "HCL Ciorogârla nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 4/2020 privind stadiul completării și stabilirea măsurilor pentru eficientizarea activității de înscriere a datelor în registrul agricol 2015-2019 pentru semestrul II 2019",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3320",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-5-2020",
+   "path": "local/ilfov/ciorogarla/2020/5",
+   "short": "HCL Ciorogârla nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 5/2020 privind structura rețelei școlare la nivelui comunei Ciorogârla, județul Ilfov, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3321",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-6-2020",
+   "path": "local/ilfov/ciorogarla/2020/6",
+   "short": "HCL Ciorogârla nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 6/2020 privind planul de analiză și acoperire a riscurilor din domeniul situațiilor de urgență, la nivelul comunei Ciorogârla, județul Ilfov",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3322",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-7-2020",
+   "path": "local/ilfov/ciorogarla/2020/7",
+   "short": "HCL Ciorogârla nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 7/2020 privind acordarea de burse școlare",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3328",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-8-2020",
+   "path": "local/ilfov/ciorogarla/2020/8",
+   "short": "HCL Ciorogârla nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 8/2020 privind aprobarea principalilor indicatori tehnico-economici pentru obiectivul reabilitare sediu vechi primărie",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3329",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-9-2020",
+   "path": "local/ilfov/ciorogarla/2020/9",
+   "short": "HCL Ciorogârla nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 9/2020",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/3330",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/3330",
      "sha256": null
     }
    ]

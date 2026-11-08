@@ -3,6 +3,51 @@
 "shard": "local/ilfov/tunari/2025",
 "acts": [
 {
+"slug": "hcl-ilfov--tunari-95-2025",
+"path": "local/ilfov/tunari/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 95/2025",
+"short": "HCL Tunari nr. 95/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/tunari-if/registru-hcl/229094",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--tunari-100-2025",
+"path": "local/ilfov/tunari/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tunari nr. 100/2025 privind aprobarea Regulamentului de acces, conduită și înregistrare în sediul Primăriei Comunei Tunari",
+"short": "HCL Tunari nr. 100/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/tunari-if/registru-hcl/229099",
+"council": "ilfov/tunari",
+"council_name": "Consiliul Local al Comunei Tunari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-ilfov--tunari-107-2025",
 "path": "local/ilfov/tunari/2025/107",
 "kind": "local",

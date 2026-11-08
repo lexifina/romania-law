@@ -3,6 +3,231 @@
  "shard": "local/maramures/giulesti/2022",
  "acts": [
   {
+   "slug": "hcl-maramures--giulesti-1-2022",
+   "path": "local/maramures/giulesti/2022/1",
+   "short": "HCL Giulești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 1/2022 privind aprobarea contului de încheiere a execuției bugetului de venituri și cheltuieli la data de 31 Decembrie 2021",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/50553",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/50553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-10-2022",
+   "path": "local/maramures/giulesti/2022/10",
+   "short": "HCL Giulești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 10/2022 privind modificarea prin act adițional a contractului de concesiune nr. 1784/22.03.2021",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/56325",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/56325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-11-2022",
+   "path": "local/maramures/giulesti/2022/11",
+   "short": "HCL Giulești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 11/2022 privind aprobarea cererii nr. 1669/23.03.2022 depusă de către Cooperativa Agricolă Dumbrava Giulești",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/56326",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/56326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-12-2022",
+   "path": "local/maramures/giulesti/2022/12",
+   "short": "HCL Giulești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 12/2022",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/56327",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/56327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-13-2022",
+   "path": "local/maramures/giulesti/2022/13",
+   "short": "HCL Giulești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 13/2022 privind aprobarea cererii de finanțare, a devizului general și a indicatorilor tehnico – economici pentru obiectivul de „Înființare sistem de distribuție gaze naturale în comunele Giulești, Călinești și Ocna Șugatag din județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/57908",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/57908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-14-2022",
+   "path": "local/maramures/giulesti/2022/14",
+   "short": "HCL Giulești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 14/2022 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență al comunei Giulești, județul Maramureș",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/57909",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/57909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-15-2022",
+   "path": "local/maramures/giulesti/2022/15",
+   "short": "HCL Giulești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 15/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/60465",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/60465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-16-2022",
+   "path": "local/maramures/giulesti/2022/16",
+   "short": "HCL Giulești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 16/2022 privind aprobarea cererii de finanțare, a devizului general și a indicatorilor tehnico – economici pentru obiectivul de „Reabilitare energetică și modernizare clădire dispensar din localitatea Giulești, comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/60466",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/60466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-17-2022",
+   "path": "local/maramures/giulesti/2022/17",
+   "short": "HCL Giulești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 17/2022 privind aprobarea cererii de finanțare, a devizului general și a indicatorilor tehnico – economici pentru obiectivul de „Reabilitare energetică și modernizare clădire sediu primărie, comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/60467",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/60467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-18-2022",
+   "path": "local/maramures/giulesti/2022/18",
+   "short": "HCL Giulești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 18/2022 privind donarea cu titlu gratuit a unei cantități de 25 mc de masă lemnoasă, din locul numit ,,Pădurea din față” Parohiei Ortodoxă Berbești, județul Maramureș",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/60468",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/60468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-2-2022",
+   "path": "local/maramures/giulesti/2022/2",
+   "short": "HCL Giulești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 2/2022 privind utilizarea excedentului bugetar din anul 2021 în anul 2022",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/50554",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/50554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-20-2022",
+   "path": "local/maramures/giulesti/2022/20",
+   "short": "HCL Giulești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 20/2022 privind aprobarea prelungirii scrisorii de garanție pentru avans de la CEC BANK pentru proiectul „Reabilitare și modernizare cămin cultural, în localitatea Berbești, comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/65870",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/65870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-21-2022",
+   "path": "local/maramures/giulesti/2022/21",
+   "short": "HCL Giulești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 21/2022 privind aprobarea participării în cadrul proiectului ,,Creșterea eficienței energetice a infrastructurii de iluminat public din comuna Giulești, județul Maramureș” prin Progrmul de Iluminat Public",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/69088",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/69088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-22-2022",
+   "path": "local/maramures/giulesti/2022/22",
+   "short": "HCL Giulești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 22/2022 privind rectificarea bugetului local pentru anul 2022",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/69089",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/69089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-23-2022",
+   "path": "local/maramures/giulesti/2022/23",
+   "short": "HCL Giulești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 23/2022 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/69090",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/69090",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-24-2022",
    "path": "local/maramures/giulesti/2022/24",
    "short": "HCL Giulești nr. 24/2022",
@@ -88,6 +313,21 @@
      "from": "2022-11-10",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/75603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-3-2022",
+   "path": "local/maramures/giulesti/2022/3",
+   "short": "HCL Giulești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 3/2022 privind aprobarea bugetului local al comueni Giulești pe anul 2022",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/50555",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/50555",
      "sha256": null
     }
    ]
@@ -243,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--giulesti-4-2022",
+   "path": "local/maramures/giulesti/2022/4",
+   "short": "HCL Giulești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 4/2022 privind aprobarea planului anula al achizițiilor publice pe anul 2022",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/50556",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/50556",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-40-2022",
    "path": "local/maramures/giulesti/2022/40",
    "short": "HCL Giulești nr. 40/2022",
@@ -298,6 +553,66 @@
      "from": "2023-02-06",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/85078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-5-2022",
+   "path": "local/maramures/giulesti/2022/5",
+   "short": "HCL Giulești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 5/2022 privind valorificarea prin licitație publică cu strigare a cantității de masă lemnoasă din fondul forestier proprietate publică a comunei Giulești, județul Maramureș, prevăzută în Amenajamentul Silvic",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/50557",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/50557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-6-2022",
+   "path": "local/maramures/giulesti/2022/6",
+   "short": "HCL Giulești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 6/2022 privind aprobarea cererii de finanțare, a devizului general și a indicatorilor tehnico – economici pentru obiectivul de investiție ,,Extindere sistem de alimentare cu apă și rețea de canalizare în localitatea Giulești, comuna Giulești, județul Maramureș”",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/50558",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/50558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-7-2022",
+   "path": "local/maramures/giulesti/2022/7",
+   "short": "HCL Giulești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 7/2022 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/56322",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/56322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-9-2022",
+   "path": "local/maramures/giulesti/2022/9",
+   "short": "HCL Giulești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 9/2022 privind modificarea și completarea Hotărârii Consiliului Local Giulești nr. 60/30.12.2021",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/56324",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/56324",
      "sha256": null
     }
    ]

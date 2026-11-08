@@ -3,6 +3,50 @@
 "shard": "local/maramures/farcasa/2025",
 "acts": [
 {
+"slug": "hcl-maramures--farcasa-16-2025",
+"path": "local/maramures/farcasa/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 16/2025 privind aprobarea indicatorilor pentru finanțarea actualizării Planului Urbanistic General şi Regulamentului Local de Urbanism al comunei Fărcașa, județul Maramureș",
+"short": "HCL Fărcașa nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/196868",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--farcasa-18-2025",
+"path": "local/maramures/farcasa/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 18/2025 privind aprobarea bugetului local al comunei Fărcașa și a bugetului Serviciului public apă, canal Fărcașa pe anul 2025",
+"short": "HCL Fărcașa nr. 18/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-09",
+"latest": "2025-04-09",
+"portal": "https://emol.ro/farcasa-mm/registru-hcl/200485",
+"council": "maramures/farcasa",
+"council_name": "Consiliul Local al Comunei Fărcașa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-maramures--farcasa-52-2025",
 "path": "local/maramures/farcasa/2025/52",
 "kind": "local",

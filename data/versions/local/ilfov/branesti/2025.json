@@ -3,6 +3,21 @@
  "shard": "local/ilfov/branesti/2025",
  "acts": [
   {
+   "slug": "hcl-ilfov--branesti-137-2025",
+   "path": "local/ilfov/branesti/2025/137",
+   "short": "HCL Brănești nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 137/2025 privind atribuirea de denumire de strada unor drumuri de exploatare din comuna Branesti judetul Ilfov",
+   "url": "https://emol.ro/branesti-if/registru-hcl/222802",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/222802",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--branesti-181-2025",
    "path": "local/ilfov/branesti/2025/181",
    "short": "HCL Brănești nr. 181/2025",
@@ -298,6 +313,21 @@
      "from": "2026-01-05",
      "units": 1,
      "source_url": "https://emol.ro/branesti-if/registru-hcl/243934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--branesti-59-2025",
+   "path": "local/ilfov/branesti/2025/59",
+   "short": "HCL Brănești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Brănești nr. 59/2025 privind indexarea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/branesti-if/registru-hcl/205134",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/branesti-if/registru-hcl/205134",
      "sha256": null
     }
    ]

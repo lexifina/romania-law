@@ -33,6 +33,96 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--chiajna-16-2023",
+   "path": "local/ilfov/chiajna/2023/16",
+   "short": "HCL Chiajna nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 16/2023 privind majorarea tarifelor pentru operațiunile și activitățile de salubrizare a comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/92119",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/92119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-37-2023",
+   "path": "local/ilfov/chiajna/2023/37",
+   "short": "HCL Chiajna nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 37/2023 privind actualizarea contravalorii alocației valorice a normei de hrană acordată personalului din cadrul Serviciului Poliție Locală al Comunei Chiajna, începând cu data de 01.06.2023",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/107358",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/107358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-66-2023",
+   "path": "local/ilfov/chiajna/2023/66",
+   "short": "HCL Chiajna nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 66/2023 privind completarea Hotărârii nr.37/31.05.2023 a Consiliului Local al Comunei Chiajna, privind actualizarea contravalorii alocației valorice a normei de hrană, acordată personalului din cadrul Serviciului Poliție Locală al Comunei Chiajna, începând cu data de 01.06.2023",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/126158",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/126158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-74-2023",
+   "path": "local/ilfov/chiajna/2023/74",
+   "short": "HCL Chiajna nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 74/2023 privind aprobarea și stabilirea numărului și cuantumului burselor aferente anului școlar 2023 – 2024 pentru elevii din învățământul preuniversitar de stat de pe raza comunei Chiajna, județul Ilfov",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/126166",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/126166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-79-2023",
+   "path": "local/ilfov/chiajna/2023/79",
+   "short": "HCL Chiajna nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 79/2023 privind aprobarea modificării tarifelor serviciului public de alimentare cu apă și de canalizare al comunei Chiajna și a actului Adițional nr. 5 la Contractul de Delegare a gestiunii serviciului public de alimentare cu apă și de canalizare nr.7020/1/02.08.2012",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/131007",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/131007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-80-2023",
+   "path": "local/ilfov/chiajna/2023/80",
+   "short": "HCL Chiajna nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 80/2023",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/131008",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/131008",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--chiajna-82-2023",
    "path": "local/ilfov/chiajna/2023/82",
    "short": "HCL Chiajna nr. 82/2023",
@@ -148,6 +238,21 @@
      "from": "2023-12-15",
      "units": 1,
      "source_url": "https://emol.ro/chiajna-if/registru-hcl/131017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-9-2023",
+   "path": "local/ilfov/chiajna/2023/9",
+   "short": "HCL Chiajna nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 9/2023 privind aprobarea Programului anual pentru acordarea de finanţări nerambursabile în anul 2023 din bugetul local al comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/86947",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/86947",
      "sha256": null
     }
    ]

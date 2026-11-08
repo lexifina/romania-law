@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-193-2017",
+   "path": "local/ilfov/buftea/2017/193",
+   "short": "HCL Buftea nr. 193/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 193/2017 privind aprobarea cotelor, valorilor impozabile, nivelurilor impozitelor şi taxelor locale, alte taxe speciale şi amenzile aplicabile în anul fiscal 2018, în oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/193.pdf",
+     "sha256": "0da80e139cdfbbbd5821bb2c036212a1bab738c6c78f169902337d83dc6de881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-24-2017",
+   "path": "local/ilfov/buftea/2017/24",
+   "short": "HCL Buftea nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 24/2017 privind aprobarea Regulamentului de organizare şi desfăşurare a evaluării managementului Centrului Cultural Buftea, stabilirea comisiei de evaluare şi a comisiei de soluţionare a contestaţiilor",
+   "url": "https://www.primariabuftea.ro/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2017/24.pdf",
+     "sha256": "bec1b9b4a9983501869d450b9184aee0eb0be21f82a79f0e89e6e25259244091"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-36-2017",
    "path": "local/ilfov/buftea/2017/36",
    "short": "HCL Buftea nr. 36/2017",
