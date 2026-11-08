@@ -3,6 +3,94 @@
 "shard": "local/judet/brasov/2018",
 "acts": [
 {
+"slug": "hcj-brasov-11-2018",
+"path": "local/judet/brasov/2018/11",
+"kind": "local",
+"year": "2018",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 11/2018 privind stabilirea salariilor de bază pentru funcțiile publice și funcțiile contractuale din aparatul de specialitate al Consiliului Județean Brașov, începând cu data de 1.01.2018",
+"short": "HCJ Brașov nr. 11/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5403.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-15-2018",
+"path": "local/judet/brasov/2018/15",
+"kind": "local",
+"year": "2018",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 15/2018 privind stabilirea salariilor de bază pentru personalul din cadrul Serviciului Public Județean Salvamont Brașov, începând cu data de 1.01.2018",
+"short": "HCJ Brașov nr. 15/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5407.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-17-2018",
+"path": "local/judet/brasov/2018/17",
+"kind": "local",
+"year": "2018",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 17/2018 privind aprobarea tarifului lunar pentru serviciile de pază prestate de Direcția de Pază și Ordine a Județului Brașov pentru anul 2018",
+"short": "HCJ Brașov nr. 17/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5409.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcj-brasov-27-2018",
+"path": "local/judet/brasov/2018/27",
+"kind": "local",
+"year": "2018",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 27/2018 privind aprobarea modificării Anexei la Hotărârea Consiliului Județean Brașov nr. 130/2016 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „ Consolidare și reamenajare a Spitalului Clinic Județean de Urgență Brașov — PAVILIONUL CENTRAL — Intervenții Aripa A (inclusiv Corp Recepție) și accese Aripa B”",
+"short": "HCJ Brașov nr. 27/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-30",
+"latest": "2018-01-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5419.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-42-2018",
 "path": "local/judet/brasov/2018/42",
 "kind": "local",
@@ -18,6 +106,28 @@
 "from": "2018-01-30",
 "latest": "2018-01-30",
 "portal": "https://site.judbrasov.ro/upload/hotarari/5434.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-75-2018",
+"path": "local/judet/brasov/2018/75",
+"kind": "local",
+"year": "2018",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 75/2018 privind aprobarea organigramei și a statului de funcții, modificate, ale Muzeului de Etnografie Brașov",
+"short": "HCJ Brașov nr. 75/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-28",
+"latest": "2018-02-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5467.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {
@@ -70,6 +180,28 @@
 }
 },
 {
+"slug": "hcj-brasov-118-2018",
+"path": "local/judet/brasov/2018/118",
+"kind": "local",
+"year": "2018",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 118/2018 privind aprobarea rezultatului final al evaluării anuale a managementului instituțiilor publice de cultură din subordinea Consiliului Județean Brașov",
+"short": "HCJ Brașov nr. 118/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-04-16",
+"latest": "2018-04-16",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5511.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-125-2018",
 "path": "local/judet/brasov/2018/125",
 "kind": "local",
@@ -115,6 +247,72 @@
 }
 },
 {
+"slug": "hcj-brasov-176-2018",
+"path": "local/judet/brasov/2018/176",
+"kind": "local",
+"year": "2018",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 176/2018 privind stabilirea consumului lunar de carburant pentru mijloacele de transport din dotarea instituțiilor publice din subordinea Consiliului Județean Brașov",
+"short": "HCJ Brașov nr. 176/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-30",
+"latest": "2018-05-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5569.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-180-2018",
+"path": "local/judet/brasov/2018/180",
+"kind": "local",
+"year": "2018",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 180/2018 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Pod peste râul Olt DJ 103 G, Km 0+3554”",
+"short": "HCJ Brașov nr. 180/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-30",
+"latest": "2018-05-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5573.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-186-2018",
+"path": "local/judet/brasov/2018/186",
+"kind": "local",
+"year": "2018",
+"number": "186",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 186/2018 privind aprobarea statului de funcții modificat pentru Muzeul Județean de Istorie Brașov",
+"short": "HCJ Brașov nr. 186/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5579.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-201-2018",
 "path": "local/judet/brasov/2018/201",
 "kind": "local",
@@ -130,6 +328,28 @@
 "from": "2018-06-28",
 "latest": "2018-06-28",
 "portal": "https://site.judbrasov.ro/upload/hotarari/5594.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-205-2018",
+"path": "local/judet/brasov/2018/205",
+"kind": "local",
+"year": "2018",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 205/2018 privind modificarea Hotărârii Consiliului Județean Brașov nr. 202 din data de 6.12.2016 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Aeroport Internațional Brașov-Ghimbav”",
+"short": "HCJ Brașov nr. 205/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5598.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {
@@ -226,6 +446,28 @@
 }
 },
 {
+"slug": "hcj-brasov-251-2018",
+"path": "local/judet/brasov/2018/251",
+"kind": "local",
+"year": "2018",
+"number": "251",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 251/2018 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Județean Brașov din data de 26 iulie 2018",
+"short": "HCJ Brașov nr. 251/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-08-30",
+"latest": "2018-08-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5644.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-274-2018",
 "path": "local/judet/brasov/2018/274",
 "kind": "local",
@@ -246,6 +488,138 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-275-2018",
+"path": "local/judet/brasov/2018/275",
+"kind": "local",
+"year": "2018",
+"number": "275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 275/2018 privind trecerea terenului (tronson de drum județean DJ 104D) de 13.710 mp înscris în CF nr.106000 Făgăraș, situat în municipiul Făgăraș, din domeniul public al U.A.T",
+"short": "HCJ Brașov nr. 275/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-08-30",
+"latest": "2018-08-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5668.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-279-2018",
+"path": "local/judet/brasov/2018/279",
+"kind": "local",
+"year": "2018",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 279/2018 privind aprobarea proiectului „Îmbunătățirea serviciilor sanitare ale Ambulatoriului Spitalului Clinic de Psihiatrie și Neurologie Brașov prin achiziționarea de dotări”, a cheltuielilor legate de proiect și aprobarea acordului de parteneriat între Județul Brașov — lider de proiect și Spitalul Clinic de Psihiatrie și Neurologie Brașov în vederea implementării în comun a proiectului",
+"short": "HCJ Brașov nr. 279/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-08-30",
+"latest": "2018-08-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5672.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-293-2018",
+"path": "local/judet/brasov/2018/293",
+"kind": "local",
+"year": "2018",
+"number": "293",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 293/2018 privind aprobarea procesului-verbal al ședinței extraordinare a Consiliului Județean Brașov din data de 10 septembrie 2018",
+"short": "HCJ Brașov nr. 293/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-27",
+"latest": "2018-09-27",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5686.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-298-2018",
+"path": "local/judet/brasov/2018/298",
+"kind": "local",
+"year": "2018",
+"number": "298",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 298/2018 privind repartizarea sumei de 615.762,93 lei, pentru plata cotizațiilor către asociațiile în care UAT-Județul Brașov este membru",
+"short": "HCJ Brașov nr. 298/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-27",
+"latest": "2018-09-27",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5691.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-302-2018",
+"path": "local/judet/brasov/2018/302",
+"kind": "local",
+"year": "2018",
+"number": "302",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 302/2018 privind aprobarea statului de funcții și organigramei Spitalului Clinic de Boli Infecțioase Brașov",
+"short": "HCJ Brașov nr. 302/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-27",
+"latest": "2018-09-27",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5695.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-326-2018",
+"path": "local/judet/brasov/2018/326",
+"kind": "local",
+"year": "2018",
+"number": "326",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 326/2018 privind aprobarea încheierii unui Protocol de colaborare între Spitalul Clinic de Urgență pentru Copii Brașov, U.A.T",
+"short": "HCJ Brașov nr. 326/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-27",
+"latest": "2018-09-27",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5720.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -293,6 +667,28 @@
 }
 },
 {
+"slug": "hcj-brasov-346-2018",
+"path": "local/judet/brasov/2018/346",
+"kind": "local",
+"year": "2018",
+"number": "346",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 346/2018 privind corectarea indicatorilor tehnico-economici pentru obiectivul de investiții \"Modernizare și reabilitare drum județean DJ 112C, Hălchiu — Satu — Nou Dumbrăvița— Vlădeni, km 2+755 — 14+425”* aprobat la finanțare prin Programul Național de Dezvoltare Locală - PNDL 1",
+"short": "HCJ Brașov nr. 346/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-30",
+"latest": "2018-10-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5740.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-414-2018",
 "path": "local/judet/brasov/2018/414",
 "kind": "local",
@@ -313,6 +709,28 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-421-2018",
+"path": "local/judet/brasov/2018/421",
+"kind": "local",
+"year": "2018",
+"number": "421",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 421/2018 privind validarea rezultatului examenului organizat în vederea ocupării funcțiilor de conducere Vacante de șef de secție din cadrul unității sanitare publice — Spitalul Clinic Județean de Urgență Brașov",
+"short": "HCJ Brașov nr. 421/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-28",
+"latest": "2018-11-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5817.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

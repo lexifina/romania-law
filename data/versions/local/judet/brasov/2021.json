@@ -3,6 +3,21 @@
  "shard": "local/judet/brasov/2021",
  "acts": [
   {
+   "slug": "hcj-brasov-301-2021",
+   "path": "local/judet/brasov/2021/301",
+   "short": "HCJ Brașov nr. 301/2021",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 301/2021 privind aprobarea Convenției de Asociere dintre U.A.T",
+   "url": "https://site.judbrasov.ro/upload/hotarari/7142.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/7142.pdf",
+     "sha256": "76ef6e32810255c3860dff2596cb1fdc7cd7c857c6a4db83e35f696c968e033e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-305-2021",
    "path": "local/judet/brasov/2021/305",
    "short": "HCJ Brașov nr. 305/2021",
@@ -74,6 +89,96 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/7152.pdf",
      "sha256": "4b0fe29e6eace51ecb8a556fb1beac1c5e9fe9a27e389fcb940ef22f63d1d10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-315-2021",
+   "path": "local/judet/brasov/2021/315",
+   "short": "HCJ Brașov nr. 315/2021",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 315/2021",
+   "url": "https://site.judbrasov.ro/upload/hotarari/7156.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/7156.pdf",
+     "sha256": "a41673eed910892e787df62939c9cdebe0162280bee0890a3e70d347b2805b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-316-2021",
+   "path": "local/judet/brasov/2021/316",
+   "short": "HCJ Brașov nr. 316/2021",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 316/2021 privind aprobarea introducerii Biletului unic de vizitare valabil în cadrul instituțiilor culturale județene (muzee) subordonate Consiliului Județean Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/7157.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/7157.pdf",
+     "sha256": "84ed4d97c6062eb09b5205077add4bad609161f4d2d1e2ca5fac4651de016410"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-317-2021",
+   "path": "local/judet/brasov/2021/317",
+   "short": "HCJ Brașov nr. 317/2021",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 317/2021 privind aprobarea Acordului de asociere între Județul Brașov și centrele comerciale AFI Palace Brașov (prin SC AFI Palace Brașov SRL) și Coresi (prin SC Ceetrus SRL) în vederea promovării destinației turistice Județul Brașov și a platformei de informare și promovare turistică a destinației — Brașov Tourism App",
+   "url": "https://site.judbrasov.ro/upload/hotarari/7158.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/7158.pdf",
+     "sha256": "83df11752dbbdcb81e8e18d3ed72be111a8e57f027c3eb9ccbb2dc6dc5b84e74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-318-2021",
+   "path": "local/judet/brasov/2021/318",
+   "short": "HCJ Brașov nr. 318/2021",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 318/2021",
+   "url": "https://site.judbrasov.ro/upload/hotarari/7159.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/7159.pdf",
+     "sha256": "e6a5363de73c0ef8263a12bb3ab7c525fe1a0cf44e900a567f69adb3182dc144"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-319-2021",
+   "path": "local/judet/brasov/2021/319",
+   "short": "HCJ Brașov nr. 319/2021",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 319/2021 privind componența Consiliului de administrație al Spitalului Clinic de Obstetrică-Ginecologie „Dr. LA.Sbârcea” Brașov din subordinea Consiliului Județean Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/7160.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/7160.pdf",
+     "sha256": "fe7839c564be4d2be2ce22325ca66fd8d336bd179c49f99edc9b598d698b501f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-320-2021",
+   "path": "local/judet/brasov/2021/320",
+   "short": "HCJ Brașov nr. 320/2021",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 320/2021 privind componența Consiliului de administrație al Spitalului Clinic de Boli Infecțioase Brașov din subordinea Consiliului Județean Brașov din subordinea Consiliului Județean Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/7161.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/7161.pdf",
+     "sha256": "e50abd0fe48028709616dc30e7a7050d067624b9e8e5f841b45ec49e4c25d0e2"
     }
    ]
   }

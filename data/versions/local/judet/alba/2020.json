@@ -16,6 +16,21 @@
      "sha256": "389bb3e87b4e48ced9cf90daf76f77f1ab21ea3f1f1c3626b7ab530d05975de5"
     }
    ]
+  },
+  {
+   "slug": "hcj-alba-289-2020",
+   "path": "local/judet/alba/2020/289",
+   "short": "HCJ Alba nr. 289/2020",
+   "title": "Hotărârea Consiliului Județean Alba nr. 289/2020",
+   "url": "https://www.staging.cjalba.ro/wp-content/uploads/2020/12/2_HCJ-289-din-data-de-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://www.staging.cjalba.ro/wp-content/uploads/2020/12/2_HCJ-289-din-data-de-27.11.2020.pdf",
+     "sha256": "389bb3e87b4e48ced9cf90daf76f77f1ab21ea3f1f1c3626b7ab530d05975de5"
+    }
+   ]
   }
  ]
 }

@@ -3,6 +3,28 @@
 "shard": "local/judet/brasov/2019",
 "acts": [
 {
+"slug": "hcj-brasov-29-2019",
+"path": "local/judet/brasov/2019/29",
+"kind": "local",
+"year": "2019",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 29/2019 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare și || reabilitare drum județean DJ 104L, Dacia-Viscri-Bunești Km 0+000-15+065”",
+"short": "HCJ Brașov nr. 29/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-01-29",
+"latest": "2019-01-29",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5901.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-41-2019",
 "path": "local/judet/brasov/2019/41",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcj-brasov-109-2019",
+"path": "local/judet/brasov/2019/109",
+"kind": "local",
+"year": "2019",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 109/2019 privind validarea rezultatelor examenelor de ocupare a funcțiilor de conducere vacante de Șef secție — Secția Chirurgie Generală II și Șef Serviciu — Serviciul Anatomie Patologică din cadrul unității sanitare publice — Spitalul Clinic Județean de Urgență Brașov",
+"short": "HCJ Brașov nr. 109/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5982.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-110-2019",
 "path": "local/judet/brasov/2019/110",
 "kind": "local",
@@ -67,6 +111,28 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-117-2019",
+"path": "local/judet/brasov/2019/117",
+"kind": "local",
+"year": "2019",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 117/2019 privind aprobarea Convenției de Asociere între U.A.T",
+"short": "HCJ Brașov nr. 117/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/5990.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -92,6 +158,29 @@
 }
 },
 {
+"slug": "hcj-brasov-129-2019",
+"path": "local/judet/brasov/2019/129",
+"kind": "local",
+"year": "2019",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 129/2019",
+"short": "HCJ Brașov nr. 129/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-28",
+"latest": "2019-03-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6002.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-brasov-146-2019",
 "path": "local/judet/brasov/2019/146",
 "kind": "local",
@@ -107,6 +196,28 @@
 "from": "2019-04-23",
 "latest": "2019-04-23",
 "portal": "https://site.judbrasov.ro/upload/hotarari/6018.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-159-2019",
+"path": "local/judet/brasov/2019/159",
+"kind": "local",
+"year": "2019",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 159/2019 privind aprobarea statului de funcții al Muzeului Județean de Istorie Brașov",
+"short": "HCJ Brașov nr. 159/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-23",
+"latest": "2019-04-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6031.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {
@@ -134,6 +245,50 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-172-2019",
+"path": "local/judet/brasov/2019/172",
+"kind": "local",
+"year": "2019",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 172/2019 privind aprobarea statului de funcții al aparatului de specialitate al Consiliului Județean Brașov",
+"short": "HCJ Brașov nr. 172/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-23",
+"latest": "2019-04-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6046.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-175-2019",
+"path": "local/judet/brasov/2019/175",
+"kind": "local",
+"year": "2019",
+"number": "175",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 175/2019 privind modificarea Hotărârii Consiliului Județean Brașov nr. 367/30.10.2018 referitor la participarea Județului Brașov, prin cofinanțare, cu fonduri în cuantum de minimum 5%, respectiv 10% din valoarea investițiilor propuse de către Spitalul Clinic de Urgență pentru Copii Brașov spre finanțare Ministerului Sănătății",
+"short": "HCJ Brașov nr. 175/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-23",
+"latest": "2019-04-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6049.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -182,6 +337,28 @@
 }
 },
 {
+"slug": "hcj-brasov-185-2019",
+"path": "local/judet/brasov/2019/185",
+"kind": "local",
+"year": "2019",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 185/2019 privind aprobarea Acordului de parteneriat între Județul Brașov și Academia Forțelor Aeriene “Henri Coandă” Brașov, în vederea susținerii activităților din cadrul evenimentului Săptămâna Universitară Henri Coandă 28 mai — 02 iunie 2019",
+"short": "HCJ Brașov nr. 185/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-23",
+"latest": "2019-04-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6059.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-194-2019",
 "path": "local/judet/brasov/2019/194",
 "kind": "local",
@@ -202,6 +379,138 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-195-2019",
+"path": "local/judet/brasov/2019/195",
+"kind": "local",
+"year": "2019",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 195/2019 privind aprobarea vânzării, în condițiile Legii nr. 215/2001, a spațiului 14 reprezentând magazin, înscris în CF nr. 119041-C1-U37 și a cotelor părți de uz comun intabulate ca unități individuale aferente acestuia, situate în imobilul - Policlinica Stomatologică \"Diaconu Coresi\", cu sediul în Brașov, str",
+"short": "HCJ Brașov nr. 195/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6069.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-203-2019",
+"path": "local/judet/brasov/2019/203",
+"kind": "local",
+"year": "2019",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 203/2019 privind aprobarea statului de funcții al aparatului de specialitate al Consiliului Județean Brașov",
+"short": "HCJ Brașov nr. 203/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6077.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-220-2019",
+"path": "local/judet/brasov/2019/220",
+"kind": "local",
+"year": "2019",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 220/2019 privind modificarea Hotărârii Consiliului Județean Brașov nr.364/30.10.2018 privind participarea Județului Brașov, prin cofinanțare, cu fonduri în cuantum de minimum 10% din valoarea investițiilor propuse de către Spitalul Clinic Județean de Urgență Brașov spre finanțare Ministerului Sănătății",
+"short": "HCJ Brașov nr. 220/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6094.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-225-2019",
+"path": "local/judet/brasov/2019/225",
+"kind": "local",
+"year": "2019",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 225/2019 privind aprobarea achiziționării serviciilor de consultanță, de asistență și reprezentare juridică a Consiliului Județean Brașov, în litigiile ce decurg din Proiectul ” Achiziționarea unui sistem informatic integrat, destinat gestiunii Registrului Agricol în format electronic, la nivelul județului Brașov, pentru un număr de 15 U.A.T.-uri în parteneriat cu",
+"short": "HCJ Brașov nr. 225/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6099.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-228-2019",
+"path": "local/judet/brasov/2019/228",
+"kind": "local",
+"year": "2019",
+"number": "228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 228/2019 privind aprobarea Acordului de asociere între Județul Brașov, Municipiul Brașov și Societatea Română de Televiziune (SRTv) în vederea organizării Festivalului Internațional CERBUL DE AUR Brașov, România, 2019, precum și aprobarea participării Județului Brașov cu suma de 550.000 lei",
+"short": "HCJ Brașov nr. 228/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6102.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-229-2019",
+"path": "local/judet/brasov/2019/229",
+"kind": "local",
+"year": "2019",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 229/2019 pentru modificarea Hotărârii Consiliului Județean Brașov nr. 158 din 23.04.2019 privind repartizarea sumei de 3.514.556,09 lei, pentru plata cotizațiilor către asociațiile și fundațiile în care UAT- Județul Brașov are calitatea de membru pe anul 2019",
+"short": "HCJ Brașov nr. 229/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6103.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -242,6 +551,28 @@
 "from": "2019-06-20",
 "latest": "2019-06-20",
 "portal": "https://site.judbrasov.ro/upload/hotarari/6121.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-256-2019",
+"path": "local/judet/brasov/2019/256",
+"kind": "local",
+"year": "2019",
+"number": "256",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 256/2019 privind aprobarea statului de funcții al Spitalului Clinic de Boli Infecțioase Brașov",
+"short": "HCJ Brașov nr. 256/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-06-20",
+"latest": "2019-06-20",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6132.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {
@@ -293,6 +624,28 @@
 }
 },
 {
+"slug": "hcj-brasov-272-2019",
+"path": "local/judet/brasov/2019/272",
+"kind": "local",
+"year": "2019",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 272/2019 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare și reabilitare DJ109 Beclean-Luța-Ludișor km 0+000-9+084”",
+"short": "HCJ Brașov nr. 272/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-11",
+"latest": "2019-07-11",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6147.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-276-2019",
 "path": "local/judet/brasov/2019/276",
 "kind": "local",
@@ -308,6 +661,29 @@
 "from": "2019-07-25",
 "latest": "2019-07-25",
 "portal": "https://site.judbrasov.ro/upload/hotarari/6151.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-279-2019",
+"path": "local/judet/brasov/2019/279",
+"kind": "local",
+"year": "2019",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 279/2019",
+"short": "HCJ Brașov nr. 279/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-25",
+"latest": "2019-07-25",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6154.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {
@@ -338,6 +714,72 @@
 }
 },
 {
+"slug": "hcj-brasov-299-2019",
+"path": "local/judet/brasov/2019/299",
+"kind": "local",
+"year": "2019",
+"number": "299",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 299/2019 privind modificarea Programului de acțiuni culturale pentru Muzeul Casa Mureșenilor Brașov",
+"short": "HCJ Brașov nr. 299/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-25",
+"latest": "2019-07-25",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6174.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-301-2019",
+"path": "local/judet/brasov/2019/301",
+"kind": "local",
+"year": "2019",
+"number": "301",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 301/2019 privind aprobarea modificării programului de acțiuni culturale pentru Muzeul Județean de Istorie Brașov",
+"short": "HCJ Brașov nr. 301/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-25",
+"latest": "2019-07-25",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6176.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-302-2019",
+"path": "local/judet/brasov/2019/302",
+"kind": "local",
+"year": "2019",
+"number": "302",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 302/2019 privind rectificarea bugetului de venituri și cheltuieli al Județului Brașov pe anul 2019",
+"short": "HCJ Brașov nr. 302/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-25",
+"latest": "2019-07-25",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6177.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-309-2019",
 "path": "local/judet/brasov/2019/309",
 "kind": "local",
@@ -353,6 +795,28 @@
 "from": "2019-08-29",
 "latest": "2019-08-29",
 "portal": "https://site.judbrasov.ro/upload/hotarari/6223.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-315-2019",
+"path": "local/judet/brasov/2019/315",
+"kind": "local",
+"year": "2019",
+"number": "315",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 315/2019 privind aprobarea organigramei modificate pentru aparatul de specialitate al Consiliului Județean Brașov",
+"short": "HCJ Brașov nr. 315/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-08-29",
+"latest": "2019-08-29",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6229.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {
@@ -426,6 +890,50 @@
 }
 },
 {
+"slug": "hcj-brasov-407-2019",
+"path": "local/judet/brasov/2019/407",
+"kind": "local",
+"year": "2019",
+"number": "407",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 407/2019 privind rectificarea bugetului de venituri și cheltuieli al Județului Brașov și al Centrului Școlar pentru Educație Incluzivă Făgăraș pe anul 2019",
+"short": "HCJ Brașov nr. 407/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-18",
+"latest": "2019-10-18",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6220.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-504-2019",
+"path": "local/judet/brasov/2019/504",
+"kind": "local",
+"year": "2019",
+"number": "504",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 504/2019 privind rectificarea bugetului de venituri și cheltuieli al Județului Brașov pe anul 2019",
+"short": "HCJ Brașov nr. 504/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-20",
+"latest": "2019-12-20",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6378.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-510-2019",
 "path": "local/judet/brasov/2019/510",
 "kind": "local",
@@ -441,6 +949,50 @@
 "from": "2019-12-20",
 "latest": "2019-12-20",
 "portal": "https://site.judbrasov.ro/upload/hotarari/6384.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-512-2019",
+"path": "local/judet/brasov/2019/512",
+"kind": "local",
+"year": "2019",
+"number": "512",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 512/2019 privind aprobarea statului de funcții al Spitalului Clinic de Pneumoftiziologie Brașov",
+"short": "HCJ Brașov nr. 512/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-20",
+"latest": "2019-12-20",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6386.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-517-2019",
+"path": "local/judet/brasov/2019/517",
+"kind": "local",
+"year": "2019",
+"number": "517",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 517/2019 privind aprobarea Statului de funcții al Centrului Cultural Reduta Brașov",
+"short": "HCJ Brașov nr. 517/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-20",
+"latest": "2019-12-20",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6391.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {

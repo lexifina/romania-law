@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcj-iasi-60-2013",
+"path": "local/judet/iasi/2013/60",
+"kind": "local",
+"year": "2013",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 60/2013 privind modificarea Hotărârii Consiliului Judeţean Iaşi nr.391/18.12.2012 pentru aprobarea Programului de transport public judeţean de persoane prin curse regulate pentru perioada 01.05.2013 – 30.06.2019",
+"short": "HCJ Iași nr. 60/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-19",
+"latest": "2013-02-19",
+"portal": "http://www.icc.ro/ro/hotarari/2012/2012-12-18",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-iasi-86-2013",
 "path": "local/judet/iasi/2013/86",
 "kind": "local",
@@ -374,6 +396,28 @@
 "from": "2013-08-26",
 "latest": "2013-08-26",
 "portal": "http://www.icc.ro/ro/hotarari/2013/2013-08-26/hot%C4%83r%C3%A2rea-nr-296",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-361-2013",
+"path": "local/judet/iasi/2013/361",
+"kind": "local",
+"year": "2013",
+"number": "361",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 361/2013 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Tehnico-Economic și componența comisiei din cadrul Consiliului Județean Iași",
+"short": "HCJ Iași nr. 361/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-29",
+"latest": "2013-10-29",
+"portal": "http://www.icc.ro/ro/hotarari/2013/2013-10-29",
 "council": "judet/iasi",
 "council_name": "Consiliul Județean Iași",
 "flags": {

@@ -400,6 +400,50 @@
 }
 },
 {
+"slug": "hcj-iasi-147-2010",
+"path": "local/judet/iasi/2010/147",
+"kind": "local",
+"year": "2010",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 147/2010 de respingere a proiectului de hotărâre privind tarifele de intrare la spectacolele și programele susținute de Teatrul pentru Copii și Tineret « Luceafărul »",
+"short": "HCJ Iași nr. 147/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-05-26",
+"latest": "2010-05-26",
+"portal": "http://www.icc.ro/ro/hotarari/2010/2010-05-26",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcj-iasi-149-2010",
+"path": "local/judet/iasi/2010/149",
+"kind": "local",
+"year": "2010",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 149/2010 privind taxele locale pentru anul 2011",
+"short": "HCJ Iași nr. 149/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-05-26",
+"latest": "2010-05-26",
+"portal": "http://www.icc.ro/ro/hotarari/2010/2010-05-26",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-iasi-152-2010",
 "path": "local/judet/iasi/2010/152",
 "kind": "local",

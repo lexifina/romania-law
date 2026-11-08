@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcj-brasov-184-2008",
+   "path": "local/judet/brasov/2008/184",
+   "short": "HCJ Brașov nr. 184/2008",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 184/2008 privind validarea Autorității Teritoriale de Ordine Publică Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/855.pdf",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/855.pdf",
+     "sha256": "14aa586996ebcb04feb7a9f7d5dc9aa0e3f4d7bb33cd097d0ed424ca4911d24b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-49-2008",
    "path": "local/judet/brasov/2008/49",
    "short": "HCJ Brașov nr. 49/2008",

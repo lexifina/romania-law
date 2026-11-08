@@ -45,6 +45,73 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-iasi-348-2014",
+"path": "local/judet/iasi/2014/348",
+"kind": "local",
+"year": "2014",
+"number": "348",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 348/2014",
+"short": "HCJ Iași nr. 348/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-11-21",
+"latest": "2014-11-21",
+"portal": "http://www.icc.ro/ro/hotarari/2014/2014-11-21",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-iasi-349-2014",
+"path": "local/judet/iasi/2014/349",
+"kind": "local",
+"year": "2014",
+"number": "349",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 349/2014 privind tarifele de închiriere/oră/zi a spațiilor expoziționale ale obiectivelor (muzee, case memoriale, monumente istorice) aflate în administrarea Muzeului Literaturii Române Iași, a aparaturii audio – video și a echipamentelor aflate în dotarea Muzeului Literaturii Române Iași, pentru anul 2015",
+"short": "HCJ Iași nr. 349/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-11-21",
+"latest": "2014-11-21",
+"portal": "http://www.icc.ro/ro/hotarari/2014/2014-11-21",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-iasi-382-2014",
+"path": "local/judet/iasi/2014/382",
+"kind": "local",
+"year": "2014",
+"number": "382",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 382/2014 privind aprobarea taxelor locale pentru anul fiscal 2015",
+"short": "HCJ Iași nr. 382/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-12-18",
+"latest": "2014-12-18",
+"portal": "http://www.icc.ro/ro/hotarari/2014/2014-12-18",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"text_withheld": "personal_data"
+}
 }
 ]
 }

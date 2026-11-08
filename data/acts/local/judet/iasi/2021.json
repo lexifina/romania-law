@@ -1544,6 +1544,29 @@
 }
 },
 {
+"slug": "hcj-iasi-318-2021",
+"path": "local/judet/iasi/2021/318",
+"kind": "local",
+"year": "2021",
+"number": "318",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Iași nr. 318/2021",
+"short": "HCJ Iași nr. 318/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-20",
+"latest": "2021-10-20",
+"portal": "https://www.icc.ro/sites/default/files/files/activitate/hotarari/2021/20-10/318.pdf",
+"council": "judet/iasi",
+"council_name": "Consiliul Județean Iași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-iasi-333-2021",
 "path": "local/judet/iasi/2021/333",
 "kind": "local",

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/brasov/2007",
+ "acts": [
+  {
+   "slug": "hcj-brasov-74-2007",
+   "path": "local/judet/brasov/2007/74",
+   "short": "HCJ Brașov nr. 74/2007",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 74/2007 privind aprobarea listei categoriilor de documente produse si/sau gestionate potrivit legii, de",
+   "url": "https://site.judbrasov.ro/page_Legisla-ie_105.html",
+   "versions": [
+    {
+     "from": "2007-03-09",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/files/1458214515_hot%2074%202007.pdf",
+     "sha256": "54a094e26dc2182ead009f6225228c20f536971775c5661a09cb781d788059f5"
+    }
+   ]
+  }
+ ]
+}

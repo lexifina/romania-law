@@ -3,6 +3,50 @@
 "shard": "local/judet/brasov/2020",
 "acts": [
 {
+"slug": "hcj-brasov-4-2020",
+"path": "local/judet/brasov/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 4/2020 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Județean Brașov din data de 20 decembrie 2019",
+"short": "HCJ Brașov nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6407.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-13-2020",
+"path": "local/judet/brasov/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 13/2020 privind aprobarea Statului de funcții al Muzeului de Artă Brașov",
+"short": "HCJ Brașov nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6416.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-21-2020",
 "path": "local/judet/brasov/2020/21",
 "kind": "local",
@@ -23,6 +67,50 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-33-2020",
+"path": "local/judet/brasov/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 33/2020 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții “expertiză tehnică + DALI Reabilitare DJ 108 Hărman Sânpetru km 0+000-4+380”, obiectiv finanțat din bugetul Consiliului Județean Brașov",
+"short": "HCJ Brașov nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6436.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-40-2020",
+"path": "local/judet/brasov/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 40/2020 privind aprobarea continuării serviciilor juridice de asistență și reprezentare a Consiliului Județean Brașov, a Județului Brașov și a Președintelui Consiliului Județean Brașov în unele litigii, pentru anul 2020",
+"short": "HCJ Brașov nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6443.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -90,6 +178,50 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-192-2020",
+"path": "local/judet/brasov/2020/192",
+"kind": "local",
+"year": "2020",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 192/2020 privind trecerea imobilului teren, situat în municipiul Făgăraș, str. Combinatului, nr.1, în suprafață de 21614 mp, înscris în CF nr.106514 Făgăraș, din domeniul public al U.A.T",
+"short": "HCJ Brașov nr. 192/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6594.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-211-2020",
+"path": "local/judet/brasov/2020/211",
+"kind": "local",
+"year": "2020",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 211/2020 privind acordarea unui mandat special în vederea exercitării votului favorabil pentru aprobarea prețurilor și tarifelor la serviciile publice de alimentare cu apă și de canalizare pentru întreaga arie de operare a APĂ CANAL SIBIU S.A",
+"short": "HCJ Brașov nr. 211/2020",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://site.judbrasov.ro/upload/hotarari/6613.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"text_withheld": "personal_data"
 }
 },
 {

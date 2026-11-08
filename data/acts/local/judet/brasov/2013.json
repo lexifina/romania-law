@@ -3,6 +3,119 @@
 "shard": "local/judet/brasov/2013",
 "acts": [
 {
+"slug": "hcj-brasov-45-2013",
+"path": "local/judet/brasov/2013/45",
+"kind": "local",
+"year": "2013",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 45/2013",
+"short": "HCJ Brașov nr. 45/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-11",
+"latest": "2013-03-11",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2783.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-46-2013",
+"path": "local/judet/brasov/2013/46",
+"kind": "local",
+"year": "2013",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 46/2013 privind aprobarea rezultatului final al evaluării managementului pentru Muzeul de Artă Brașov, instituție publică de cultură din subordinea Consiliului Județean Brașov",
+"short": "HCJ Brașov nr. 46/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-11",
+"latest": "2013-03-11",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2784.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-88-2013",
+"path": "local/judet/brasov/2013/88",
+"kind": "local",
+"year": "2013",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 88/2013",
+"short": "HCJ Brașov nr. 88/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-11",
+"latest": "2013-03-11",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2826.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-105-2013",
+"path": "local/judet/brasov/2013/105",
+"kind": "local",
+"year": "2013",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 105/2013 privind aprobarea bugetului de venituri și cheltuieli al Consiliului Județean Brașov, pe anul 2013",
+"short": "HCJ Brașov nr. 105/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-28",
+"latest": "2013-03-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2842.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-158-2013",
+"path": "local/judet/brasov/2013/158",
+"kind": "local",
+"year": "2013",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 158/2013",
+"short": "HCJ Brașov nr. 158/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-03-28",
+"latest": "2013-03-28",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2895.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-brasov-165-2013",
 "path": "local/judet/brasov/2013/165",
 "kind": "local",
@@ -47,6 +160,72 @@
 }
 },
 {
+"slug": "hcj-brasov-251-2013",
+"path": "local/judet/brasov/2013/251",
+"kind": "local",
+"year": "2013",
+"number": "251",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 251/2013 privind aprobarea alocării sumei de 20.000 lei pentru executarea lucrărilor de reparații ale drumului județean DJ 108 B, în vederea realizării lucrărilor necesare pe porțiunea de drum de 500 m, afectată de lucrările la microhidrocentrală",
+"short": "HCJ Brașov nr. 251/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-05-23",
+"latest": "2013-05-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/2985.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-272-2013",
+"path": "local/judet/brasov/2013/272",
+"kind": "local",
+"year": "2013",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 272/2013 privind aprobarea asocierii Județului Brașov cu Municipiul Săcele și alocarea sumei de 350.000 lei pentru finalizarea proiectului « Extindere și reabilitare rețele de apă și canalizare Baciu — Turcheș în Municipiul Săcele »",
+"short": "HCJ Brașov nr. 272/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-06-07",
+"latest": "2013-06-07",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3006.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-279-2013",
+"path": "local/judet/brasov/2013/279",
+"kind": "local",
+"year": "2013",
+"number": "279",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 279/2013 privind aprobarea alocării sumei de 126.670 lei (inclusiv TVA), Spitalului de Pneumoftiziologie Brașov, pentru demararea procedurilor de achiziție publică de echipamente medicale pentru spital",
+"short": "HCJ Brașov nr. 279/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-06-07",
+"latest": "2013-06-07",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3013.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-289-2013",
 "path": "local/judet/brasov/2013/289",
 "kind": "local",
@@ -62,6 +241,73 @@
 "from": "2013-06-20",
 "latest": "2013-06-20",
 "portal": "https://site.judbrasov.ro/upload/hotarari/3023.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-359-2013",
+"path": "local/judet/brasov/2013/359",
+"kind": "local",
+"year": "2013",
+"number": "359",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 359/2013 privind aprobarea schimbării destinației sumei de 390 mii lei din sumele repartizate Comunei Sânpetru, din cota de 20% din impozitul pe venit și din sume defalcate din TVA, pentru echilibrarea bugetelor locale pe anul 2013",
+"short": "HCJ Brașov nr. 359/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-07-23",
+"latest": "2013-07-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3093.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"text_source": "ocr"
+}
+},
+{
+"slug": "hcj-brasov-362-2013",
+"path": "local/judet/brasov/2013/362",
+"kind": "local",
+"year": "2013",
+"number": "362",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 362/2013",
+"short": "HCJ Brașov nr. 362/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-07-23",
+"latest": "2013-07-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3096.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-brasov-380-2013",
+"path": "local/judet/brasov/2013/380",
+"kind": "local",
+"year": "2013",
+"number": "380",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 380/2013 privind aprobarea modificării bugetului de venituri și cheltuieli al Muzeului de Etnografie Brașov, cu suma de 35 mii lei",
+"short": "HCJ Brașov nr. 380/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-07-23",
+"latest": "2013-07-23",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3114.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {
@@ -113,6 +359,28 @@
 }
 },
 {
+"slug": "hcj-brasov-457-2013",
+"path": "local/judet/brasov/2013/457",
+"kind": "local",
+"year": "2013",
+"number": "457",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 457/2013 privind aprobarea cooperării Județului Brașov cu Asociația Județeană pentru Protecție Socială \"Rază de lună” Brașov și finanțarea cu suma de 20.000 lei, pentru implementarea Proiectului \"O șansă pentru toți copiii\"",
+"short": "HCJ Brașov nr. 457/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-09-17",
+"latest": "2013-09-17",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3191.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-540-2013",
 "path": "local/judet/brasov/2013/540",
 "kind": "local",
@@ -157,6 +425,28 @@
 }
 },
 {
+"slug": "hcj-brasov-566-2013",
+"path": "local/judet/brasov/2013/566",
+"kind": "local",
+"year": "2013",
+"number": "566",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 566/2013 privind modificarea bugetului de venituri și cheltuieli al Unității de Asistență Medico-Socială de Pneumoftiziologie Sânpetru cu suma de 17,56 mii lei",
+"short": "HCJ Brașov nr. 566/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-09",
+"latest": "2013-12-09",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3299.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-brasov-571-2013",
 "path": "local/judet/brasov/2013/571",
 "kind": "local",
@@ -172,6 +462,28 @@
 "from": "2013-12-09",
 "latest": "2013-12-09",
 "portal": "https://site.judbrasov.ro/upload/hotarari/3304.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-586-2013",
+"path": "local/judet/brasov/2013/586",
+"kind": "local",
+"year": "2013",
+"number": "586",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 586/2013 privind aprobarea cooperării Județului Brașov cu Instituția Prefectului Județului Brașov și S.C",
+"short": "HCJ Brașov nr. 586/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-09",
+"latest": "2013-12-09",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3319.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {
@@ -216,6 +528,50 @@
 "from": "2013-12-09",
 "latest": "2013-12-09",
 "portal": "https://site.judbrasov.ro/upload/hotarari/3357.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-626-2013",
+"path": "local/judet/brasov/2013/626",
+"kind": "local",
+"year": "2013",
+"number": "626",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 626/2013 privind premierea elevilor și profesorilor din învățământul preuniversitar brașovean, care au obținut rezultate deosebite la olimpiadele naționale în anul 2013",
+"short": "HCJ Brașov nr. 626/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-09",
+"latest": "2013-12-09",
+"portal": "https://site.judbrasov.ro/upload/hotarari/3359.pdf",
+"council": "judet/brasov",
+"council_name": "Consiliul Județean Brașov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-brasov-646-2013",
+"path": "local/judet/brasov/2013/646",
+"kind": "local",
+"year": "2013",
+"number": "646",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brașov nr. 646/2013 privind atribuirea licențelor de de traseu pentru efectuarea transportului public de persoane prin curse regulate pentru traseele din cadrul Programului de transport public județean de persoane prin curse regulate 01.01.2014-30.06.2019",
+"short": "HCJ Brașov nr. 646/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-23",
+"latest": "2013-12-23",
+"portal": "https://site.judbrasov.ro/upload/files/Hotararea%20646%2023.12.2013.pdf",
 "council": "judet/brasov",
 "council_name": "Consiliul Județean Brașov",
 "flags": {

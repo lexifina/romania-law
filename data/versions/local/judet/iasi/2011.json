@@ -198,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcj-iasi-162-2011",
+   "path": "local/judet/iasi/2011/162",
+   "short": "HCJ Iași nr. 162/2011",
+   "title": "Hotărârea Consiliului Județean Iași nr. 162/2011 privind taxele locale pentru anul fiscal 2012",
+   "url": "http://www.icc.ro/ro/hotarari/2011/2011-05-30",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2011/30-05-2011/162.pdf",
+     "sha256": "c005447a029b92ca845ceba9931ddf46501c630a1c85253cbf1b216e3f28d946"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-163-2011",
+   "path": "local/judet/iasi/2011/163",
+   "short": "HCJ Iași nr. 163/2011",
+   "title": "Hotărârea Consiliului Județean Iași nr. 163/2011 privind taxele speciale şi tarifele pentru anul fiscal 2012",
+   "url": "http://www.icc.ro/ro/hotarari/2011/2011-05-30",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2011/30-05-2011/163.pdf",
+     "sha256": "ae615a47eaa57c01b4e6f615b8ddb0d85bb206800fd2917791883c68c4f3766f"
+    }
+   ]
+  },
+  {
    "slug": "hcj-iasi-165-2011",
    "path": "local/judet/iasi/2011/165",
    "short": "HCJ Iași nr. 165/2011",

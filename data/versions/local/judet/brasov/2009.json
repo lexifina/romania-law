@@ -3,6 +3,21 @@
  "shard": "local/judet/brasov/2009",
  "acts": [
   {
+   "slug": "hcj-brasov-12-2009",
+   "path": "local/judet/brasov/2009/12",
+   "short": "HCJ Brașov nr. 12/2009",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 12/2009 privind aprobarea modificării denumirii instituției din „Centrul de Recuperare și Integrare Psihopedagogică a Deficienților Senzoriali Brașov” în „Centrul Școlar pentru Educație Incluzivă de Recuperare Hipoacuzici Brașov” și aprobarea statului de funcții și organigramei pentru anul școlar 2008-2009",
+   "url": "https://site.judbrasov.ro/upload/hotarari/880.pdf",
+   "versions": [
+    {
+     "from": "2009-02-13",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/880.pdf",
+     "sha256": "c2361c5e2a361d976651c230054fe7db444ea79fa97f8c68b330640ec7956e6d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-148-2009",
    "path": "local/judet/brasov/2009/148",
    "short": "HCJ Brașov nr. 148/2009",
@@ -44,6 +59,21 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/1070.pdf",
      "sha256": "52e8a14f5e9049b8deb797b6137149739e0e9d05aa776176b31387f795bc67f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-245-2009",
+   "path": "local/judet/brasov/2009/245",
+   "short": "HCJ Brașov nr. 245/2009",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 245/2009",
+   "url": "https://site.judbrasov.ro/upload/hotarari/1111.pdf",
+   "versions": [
+    {
+     "from": "2009-10-14",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/1111.pdf",
+     "sha256": "fd334fa60d3b8d1ae9d45ec361d1db08b9c76d2973b1d3b56c38a7f610302df5"
     }
    ]
   }

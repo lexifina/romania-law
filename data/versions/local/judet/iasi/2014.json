@@ -31,6 +31,51 @@
      "sha256": "16077b50c365035e5112d65bc68921b8e5be8b962fc25669270ae0e8cb750e1f"
     }
    ]
+  },
+  {
+   "slug": "hcj-iasi-348-2014",
+   "path": "local/judet/iasi/2014/348",
+   "short": "HCJ Iași nr. 348/2014",
+   "title": "Hotărârea Consiliului Județean Iași nr. 348/2014",
+   "url": "http://www.icc.ro/ro/hotarari/2014/2014-11-21",
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2014/21-11-2014/348.pdf",
+     "sha256": "c8556e88ff19740bd938c7154627175b677218c1341b90b22a9f2aaba86907f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-349-2014",
+   "path": "local/judet/iasi/2014/349",
+   "short": "HCJ Iași nr. 349/2014",
+   "title": "Hotărârea Consiliului Județean Iași nr. 349/2014 privind tarifele de închiriere/oră/zi a spațiilor expoziționale ale obiectivelor (muzee, case memoriale, monumente istorice) aflate în administrarea Muzeului Literaturii Române Iași, a aparaturii audio – video și a echipamentelor aflate în dotarea Muzeului Literaturii Române Iași, pentru anul 2015",
+   "url": "http://www.icc.ro/ro/hotarari/2014/2014-11-21",
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2014/21-11-2014/349.pdf",
+     "sha256": "90f320e0899f97c800a09ac1345392d7e0d49c1cacd5a80554ad5d1dad079dfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-iasi-382-2014",
+   "path": "local/judet/iasi/2014/382",
+   "short": "HCJ Iași nr. 382/2014",
+   "title": "Hotărârea Consiliului Județean Iași nr. 382/2014 privind aprobarea taxelor locale pentru anul fiscal 2015",
+   "url": "http://www.icc.ro/ro/hotarari/2014/2014-12-18",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "http://www.icc.ro/sites/default/files/files/activitate/hotarari/2014/18-12-2014/382.pdf",
+     "sha256": "2d54aac9c642dfb6258c293e90281da2186999600a7e2a5cd1a5dc6452e77a90"
+    }
+   ]
   }
  ]
 }

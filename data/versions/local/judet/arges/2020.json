@@ -3,6 +3,21 @@
  "shard": "local/judet/arges/2020",
  "acts": [
   {
+   "slug": "hcj-arges-13-2020",
+   "path": "local/judet/arges/2020/13",
+   "short": "HCJ Argeș nr. 13/2020",
+   "title": "Hotărârea Consiliului Județean Argeș nr. 13/2020 privind aprobarea rectificarii Bugetului Local de Venituri și Cheltuieli pe anul 2020 conform anexei ce face parte integrantă din prezenta hotarare",
+   "url": "https://www.cjarges.ro/documents/238517/1055071/Hotarare+nr+13+din+16.03.2020.pdf/7a38e076-4bd9-45dd-ab13-5518926a92bc",
+   "versions": [
+    {
+     "from": "2020-03-16",
+     "units": 1,
+     "source_url": "https://www.cjarges.ro/documents/238517/1055071/Hotarare+nr+13+din+16.03.2020.pdf/7a38e076-4bd9-45dd-ab13-5518926a92bc",
+     "sha256": "31d6ce985c4fe08764d564a81ffdf9d0cb7e3c53064c62fa0ddf155dbd3b45ca"
+    }
+   ]
+  },
+  {
    "slug": "hcj-arges-229-2020",
    "path": "local/judet/arges/2020/229",
    "short": "HCJ Argeș nr. 229/2020",

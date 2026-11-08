@@ -3,6 +3,36 @@
  "shard": "local/judet/brasov/2015",
  "acts": [
   {
+   "slug": "hcj-brasov-106-2015",
+   "path": "local/judet/brasov/2015/106",
+   "short": "HCJ Brașov nr. 106/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 106/2015 privind validarea membrilor în Consiliul de Administrație al Spitalului Clinic de Copii Brașov, unitate sanitară publică județeană a cărui management a fost preluat de",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3973.pdf",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3973.pdf",
+     "sha256": "20cf5bd6558c4d07fa06516a58843c2b29a30ac0cb719c2d180df8e422aaea75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-119-2015",
+   "path": "local/judet/brasov/2015/119",
+   "short": "HCJ Brașov nr. 119/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 119/2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3986.pdf",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3986.pdf",
+     "sha256": "28ac1598c86f6cf77162d37e6b1526d6cce2b25db2a4e71dd0b4f39844c10c59"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-128-2015",
    "path": "local/judet/brasov/2015/128",
    "short": "HCJ Brașov nr. 128/2015",
@@ -33,6 +63,81 @@
    ]
   },
   {
+   "slug": "hcj-brasov-135-2015",
+   "path": "local/judet/brasov/2015/135",
+   "short": "HCJ Brașov nr. 135/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 135/2015 privind însușirea documentației cadastrale de identificare date imobil — domeniul public al județului Brașov, situat în Brașov, P-ța Sfatului nr. 23, cu destinația Bastion Graft, în vederea înscrierii în evidențele de publicitate imobiliare ale cărții funciare a imobilului, în favoarea Județului Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4002.pdf",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4002.pdf",
+     "sha256": "53dcaed62edadf91ee87b603b3017355dc3e5fb977681a734a2bdb294a86ce1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-144-2015",
+   "path": "local/judet/brasov/2015/144",
+   "short": "HCJ Brașov nr. 144/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 144/2015 privind aprobarea funcționării liniilor de gardă organizate la nivelul Spitalului Clinic Județean de Urgență Brașov pentru anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4011.pdf",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4011.pdf",
+     "sha256": "1e4752a81e6a7bbb08ce225a0b50eaab5b5720c24846a1542d00e721fec6906b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-145-2015",
+   "path": "local/judet/brasov/2015/145",
+   "short": "HCJ Brașov nr. 145/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 145/2015 privind aprobarea funcționării unei linii de gardă în specialitatea boli infecțioase, organizată la nivelul Spitalului de Boli Infecțioase Brașov pentru anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4012.pdf",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4012.pdf",
+     "sha256": "539c959f358b54bbe619981f9ab2650d42f037f9e526b283618e413424666030"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-147-2015",
+   "path": "local/judet/brasov/2015/147",
+   "short": "HCJ Brașov nr. 147/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 147/2015 privind aprobarea funcționării liniilor de gardă organizate la nivelul Spitalului de Psihiatrie și Neurologie Brașov pentru anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4014.pdf",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4014.pdf",
+     "sha256": "195a842ff8337dd70a607593f01132f09bb27fc31452f6d27b2badd05dbe25c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-154-2015",
+   "path": "local/judet/brasov/2015/154",
+   "short": "HCJ Brașov nr. 154/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 154/2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4021.pdf",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4021.pdf",
+     "sha256": "10444af8e73e1790c864c2894176aa3f8c22c0b120c113f7c59d26ace05424d8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-156-2015",
    "path": "local/judet/brasov/2015/156",
    "short": "HCJ Brașov nr. 156/2015",
@@ -59,6 +164,21 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/4025.pdf",
      "sha256": "6953f1fd2cb7765b747416ca8b0fd8e68bd6330a04c913c6743ad3d771851d07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-16-2015",
+   "path": "local/judet/brasov/2015/16",
+   "short": "HCJ Brașov nr. 16/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 16/2015 privind aprobarea bugetului local al județului Brașov pe anul 2015, secțiunea de funcționare",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3883.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3883.pdf",
+     "sha256": "4c1ef09fb5cd692743c4663f80c16cc154c0f8b1cf88387511e4398cada68932"
     }
    ]
   },
@@ -138,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcj-brasov-19-2015",
+   "path": "local/judet/brasov/2015/19",
+   "short": "HCJ Brașov nr. 19/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 19/2015 privind aprobarea bugetului de venituri și cheltuieli al Centrului Școlar pentru Educație Incluzivă Brașov, pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3886.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3886.pdf",
+     "sha256": "dccf5a362699c9ca24424109fc63ab1d455f9cc287243294532325ae710c1fd3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-190-2015",
    "path": "local/judet/brasov/2015/190",
    "short": "HCJ Brașov nr. 190/2015",
@@ -183,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcj-brasov-201-2015",
+   "path": "local/judet/brasov/2015/201",
+   "short": "HCJ Brașov nr. 201/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 201/2015 privind completarea anexei la Hotărârea Consiliului Județean Brașov nr. 82/20.02.2015 privind aprobarea continuării serviciilor juridice achiziționate în vederea apărării intereselor Județului Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4069.pdf",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4069.pdf",
+     "sha256": "7b8cbbc583bfb229bb7ea2e8e809935a5da4d467a2573cc6043c5acd90833242"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-209-2015",
    "path": "local/judet/brasov/2015/209",
    "short": "HCJ Brașov nr. 209/2015",
@@ -194,6 +344,21 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/4076.pdf",
      "sha256": "c9d3c56381e3c7cff1e5a4c00b34b471d5ca4b4f0bdc59089ad0a13079bb2685"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-21-2015",
+   "path": "local/judet/brasov/2015/21",
+   "short": "HCJ Brașov nr. 21/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 21/2015 privind aprobarea bugetului de venituri și cheltuieli al Centrului Școlar pentru Educație Incluzivă Făgăraș, pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3888.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3888.pdf",
+     "sha256": "7326f20b064c03bd1e72d9ed0c76a6a031500df383d9cbf8d18863240b7ead82"
     }
    ]
   },
@@ -258,6 +423,66 @@
    ]
   },
   {
+   "slug": "hcj-brasov-240-2015",
+   "path": "local/judet/brasov/2015/240",
+   "short": "HCJ Brașov nr. 240/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 240/2015 privind aprobarea rectificării bugetului de venituri și cheltuieli al Județului Brașov pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4106.pdf",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4106.pdf",
+     "sha256": "50e9b2db0353de4a7b413bdd81b1eb719aff24de591bfbb8cc0b8e18f3cc22ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-243-2015",
+   "path": "local/judet/brasov/2015/243",
+   "short": "HCJ Brașov nr. 243/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 243/2015 privind aprobarea taxei de participare la cursurile de Masterclass/Workshop-urile organizate de Centrul Cultural „Reduta”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4109.pdf",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4109.pdf",
+     "sha256": "83fc05df549d01ae554cb519d5a6e79f12364df9d98bf1f20f9f5db8c7ad1852"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-249-2015",
+   "path": "local/judet/brasov/2015/249",
+   "short": "HCJ Brașov nr. 249/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 249/2015 privind atribuirea în folosință gratuită, Asociației pentru Promovarea și Dezvoltarea Turismului din județul Brașov, a spațiului în suprafață de 60.26 .mp. situat în municipiul Brașov, str",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4114.pdf",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4114.pdf",
+     "sha256": "d7decd45b90a7c22821e3270ec6d198de1fa61960beb2ce139b70dc84e0cc1fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-256-2015",
+   "path": "local/judet/brasov/2015/256",
+   "short": "HCJ Brașov nr. 256/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 256/2015 privind aprobarea organigramei și a statului de funcții pentru Direcția de Pază și Ordine a Județului Brașov, începând cu data de 01.09.2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4121.pdf",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4121.pdf",
+     "sha256": "29e37a883d1a4c4eb9731ae3b6ae6dbd2b48afaad7683522a9b5d0ba8f101a4c"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-262-2015",
    "path": "local/judet/brasov/2015/262",
    "short": "HCJ Brașov nr. 262/2015",
@@ -273,6 +498,81 @@
    ]
   },
   {
+   "slug": "hcj-brasov-263-2015",
+   "path": "local/judet/brasov/2015/263",
+   "short": "HCJ Brașov nr. 263/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 263/2015 privind aprobarea protocoalelor de colaborare privind facilitarea procesului de interoperabilitate/interfațare a sistemelor informatice destinate gestiunii Registrului Agricol, ce se vor încheia între",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4128.pdf",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4128.pdf",
+     "sha256": "fa878d34ceac0aa60b9c61aede66663e10c108582891bce444c8ff432f5b027d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-267-2015",
+   "path": "local/judet/brasov/2015/267",
+   "short": "HCJ Brașov nr. 267/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 267/2015 privind preluarea de către Județul Brașov, a dreptului de folosință cu titlu gratuit, a unor bunuri aflate în proprietatea Municipiului Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4164.pdf",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4164.pdf",
+     "sha256": "d796c5dd12c844f85626a8293140649ad60b64fe0642707678cfa56f8f22bc5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-268-2015",
+   "path": "local/judet/brasov/2015/268",
+   "short": "HCJ Brașov nr. 268/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 268/2015 privind constituirea unei comisii speciale pentru preluarea imobilelor date în folosință gratuită, către Județul Brașov și administrarea Consiliului Județean Brașov conform Hotărârii nr.281/2015 a Consiliului Local al Municipiului Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4165.pdf",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4165.pdf",
+     "sha256": "85f7f7d3474978de29165b548b80fd57c0bff98934fd4d5711728b9a5a9e49ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-27-2015",
+   "path": "local/judet/brasov/2015/27",
+   "short": "HCJ Brașov nr. 27/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 27/2015 privind aprobarea bugetului de venituri și cheltuieli al Centrului de Zi pentru Nevăzători „Raza de lumină”, pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3894.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3894.pdf",
+     "sha256": "792f4aea71d7b482cccc5d481c789de161cac5c1ce96fe2d917f95a016bacc56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-28-2015",
+   "path": "local/judet/brasov/2015/28",
+   "short": "HCJ Brașov nr. 28/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 28/2015 privind aprobarea bugetului de venituri și cheltuieli al Serviciului Public Județean Salvamont Brașov, pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3895.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3895.pdf",
+     "sha256": "e894dfa954692a4bf061593a2132a301e561843a0f2f9dfd13aad8d60f44d8d9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-280-2015",
    "path": "local/judet/brasov/2015/280",
    "short": "HCJ Brașov nr. 280/2015",
@@ -284,6 +584,51 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/4142.pdf",
      "sha256": "4db02309f4d2e18cb45213c3db64c93e6ce8279143e66680fcc74c6329710e89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-287-2015",
+   "path": "local/judet/brasov/2015/287",
+   "short": "HCJ Brașov nr. 287/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 287/2015 privind aprobarea indicatorilor tehnico — economici pentru: „Reabilitare DJ 132 (Rupea-Homorod-limita jud. Harghita) km 2+470-3+620 (L=1.150 km): km 7+880-9+390 (L=1,510 km): km 16+370-18+250 (L=1,880 km); L total=4,540 km”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4149.pdf",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4149.pdf",
+     "sha256": "035c600d637895f841b09079a6aad3f78ac557decdcf174641cf3b09e51effc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-289-2015",
+   "path": "local/judet/brasov/2015/289",
+   "short": "HCJ Brașov nr. 289/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 289/2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4151.pdf",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4151.pdf",
+     "sha256": "17813126286c3394b0db6fceb2b2dca47554df54fb0bd61f1453c67b7514b993"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-29-2015",
+   "path": "local/judet/brasov/2015/29",
+   "short": "HCJ Brașov nr. 29/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 29/2015 privind aprobarea bugetului de venituri și cheltuieli al Serviciului Public Județean de Protecție a Plantelor Brașov, pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3896.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3896.pdf",
+     "sha256": "2e362a059badf4cee6563d18ae3f550f907fc8046b57ca995c49490b8df80c10"
     }
    ]
   },
@@ -318,6 +663,51 @@
    ]
   },
   {
+   "slug": "hcj-brasov-299-2015",
+   "path": "local/judet/brasov/2015/299",
+   "short": "HCJ Brașov nr. 299/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 299/2015 privind stabilirea modalității de exercitare a dreptului de vot aferent acțiunilor deținute de Județul Brașov pentru punctele înscrise pe ordinea de zi a ședințelor AGAO și AGAE ale SC Compania Apa S.A",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4162.pdf",
+   "versions": [
+    {
+     "from": "2015-09-11",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4162.pdf",
+     "sha256": "5f8798ece8962054d37e3888188a34c4c77d75ae9a68f75a4761020dfd69f727"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-30-2015",
+   "path": "local/judet/brasov/2015/30",
+   "short": "HCJ Brașov nr. 30/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 30/2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3897.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3897.pdf",
+     "sha256": "427bb1f77b819436702f9f059c301ada6f92d89c42223a5e7bd107da524d488c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-301-2015",
+   "path": "local/judet/brasov/2015/301",
+   "short": "HCJ Brașov nr. 301/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 301/2015 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Județean Brașov din data de 30 septembrie 2015 ko",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4166.pdf",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4166.pdf",
+     "sha256": "c70e0d36725fa836fe74dae64c6445bc7257ee339af3826e18c5f4f7c60f25f9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-324-2015",
    "path": "local/judet/brasov/2015/324",
    "short": "HCJ Brașov nr. 324/2015",
@@ -344,6 +734,36 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/4190.pdf",
      "sha256": "f265f3454c4f150c7151641bb99a7775bb2a5e5f58d517cff704f7d176760735"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-336-2015",
+   "path": "local/judet/brasov/2015/336",
+   "short": "HCJ Brașov nr. 336/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 336/2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4205.pdf",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4205.pdf",
+     "sha256": "6edc9e468998bfc5af19c632a422f7155fdcf5ec250395a8d5284f0e7cc13d68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-337-2015",
+   "path": "local/judet/brasov/2015/337",
+   "short": "HCJ Brașov nr. 337/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 337/2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4206.pdf",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4206.pdf",
+     "sha256": "4b0e230eaf1c9835a727cf7a543a433c5903ad46b7c2eba8cc050e9c612ad108"
     }
    ]
   },
@@ -438,6 +858,36 @@
    ]
   },
   {
+   "slug": "hcj-brasov-36-2015",
+   "path": "local/judet/brasov/2015/36",
+   "short": "HCJ Brașov nr. 36/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 36/2015 privind aprobarea bugetului de venituri și cheltuieli al Unității de Asistență Medico-Sociale de Pneumoftiziologie Sânpetru, pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3903.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3903.pdf",
+     "sha256": "3be8684328e8cf8f67b871c5ad70890c265c5011ae4e147fb2ee1fe605ec791e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-361-2015",
+   "path": "local/judet/brasov/2015/361",
+   "short": "HCJ Brașov nr. 361/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 361/2015 privind aprobarea modificării statului de funcții al Spitalului de Boli Infecțioase Brașov",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4230.pdf",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4230.pdf",
+     "sha256": "ac0197226b746d38049b9c5d83a087df575615ea48d0868f07ca6cd1fb63d018"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-369-2015",
    "path": "local/judet/brasov/2015/369",
    "short": "HCJ Brașov nr. 369/2015",
@@ -449,6 +899,21 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/4238.pdf",
      "sha256": "ae1440ae944ea3cf01662e877d6f772261c1072b33eb191dc0c5a0453c8a31e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-37-2015",
+   "path": "local/judet/brasov/2015/37",
+   "short": "HCJ Brașov nr. 37/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 37/2015 privind aprobarea bugetului de venituri și cheltuieli al Muzeului de Artă Brașov, pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3904.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3904.pdf",
+     "sha256": "a571ec22d29e0bc9a0d045d0007eed150f889e2c2609eac46dd5634396122568"
     }
    ]
   },
@@ -468,6 +933,21 @@
    ]
   },
   {
+   "slug": "hcj-brasov-384-2015",
+   "path": "local/judet/brasov/2015/384",
+   "short": "HCJ Brașov nr. 384/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 384/2015 privind acordarea de sume din bugetul propriu al Județului Brașov, pe anul 2015, unităților administrativ — teritoriale, care derulează proiecte finanțate din fonduri externe nerambursabile",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4253.pdf",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4253.pdf",
+     "sha256": "f9b20a8d0d05bf774e771c506163b5e88ca71d7dd4a2ab8b83c46b62e584740e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-386-2015",
    "path": "local/judet/brasov/2015/386",
    "short": "HCJ Brașov nr. 386/2015",
@@ -483,6 +963,36 @@
    ]
   },
   {
+   "slug": "hcj-brasov-388-2015",
+   "path": "local/judet/brasov/2015/388",
+   "short": "HCJ Brașov nr. 388/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 388/2015 privind stabilirea prețurilor medii ale produselor agricole pe baza cărora se evaluează în lei veniturile din arendă exprimate în natură, pentru anul 2016",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4257.pdf",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4257.pdf",
+     "sha256": "b6d596d7b72335b253688a0fff8b622c2c122063dc1c58584ffa99e737a9e30c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-391-2015",
+   "path": "local/judet/brasov/2015/391",
+   "short": "HCJ Brașov nr. 391/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 391/2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4260.pdf",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4260.pdf",
+     "sha256": "b1a9ad88d4ddc388d4fc263e25e89cf14b90a6abb9e5fbd2b868938cd15a92dc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-394-2015",
    "path": "local/judet/brasov/2015/394",
    "short": "HCJ Brașov nr. 394/2015",
@@ -494,6 +1004,21 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/4263.pdf",
      "sha256": "aa33eac2c7dd0cc2fa810cbb5e334ef85717f2fe88dd52f29272dfaef57a1828"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-404-2015",
+   "path": "local/judet/brasov/2015/404",
+   "short": "HCJ Brașov nr. 404/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 404/2015 privind aprobarea „Regulamentului privind acordarea premiilor din bugetul propriu al Județului Brașov în anul 2015”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4273.pdf",
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4273.pdf",
+     "sha256": "b3560be501de381d210ece22975a080989ca43ec7ce9a0d5b4cf789c6e0c2494"
     }
    ]
   },
@@ -524,6 +1049,66 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/4283.pdf",
      "sha256": "f15ee71e3f7c8f827e21410427186d7c255fd04f58dba9a9d34b6c6635917395"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-415-2015",
+   "path": "local/judet/brasov/2015/415",
+   "short": "HCJ Brașov nr. 415/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 415/2015 privind rectificarea bugetului de venituri și cheltuieli al Județului Brașov pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4284.pdf",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4284.pdf",
+     "sha256": "0a797a222a97e129e386210c00112de986f710b366431957db7aafec61bba7fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-416-2015",
+   "path": "local/judet/brasov/2015/416",
+   "short": "HCJ Brașov nr. 416/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 416/2015 privind validarea rectificării bugetului de venituri și cheltuieli al Județului Brașov, al Camerei Agricole Județene Brașov și al Unității de Asistență Medico-Socială de Pneumoftiziologie Sânpetru, aprobate prin Dispoziția Președintelui Consiliului Județean Brașov nr.1105/14.12.2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4285.pdf",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4285.pdf",
+     "sha256": "ec2d3fe29af65e88044c3ef34b53eed3ac153a535baff9cb90a47cd32fdb3c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-42-2015",
+   "path": "local/judet/brasov/2015/42",
+   "short": "HCJ Brașov nr. 42/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 42/2015 privind aprobarea bugetului de venituri și cheltuieli al Centrului Cultural „Reduta”, pe anul 2015",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3909.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3909.pdf",
+     "sha256": "87e4834b6f97e257ffb3139802a98cbd1bbd8aacadf6bf19d08855fb5b23e9f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-424-2015",
+   "path": "local/judet/brasov/2015/424",
+   "short": "HCJ Brașov nr. 424/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 424/2015 privind aprobarea continuării serviciilor juridice achiziționate în vederea apărării intereselor Județului Brașov, Consiliului Județean Brașov și ale Președintelui Consiliului Județean Brașov în fața instanțelor de judecată și a instituțiilor și organismelor cu care acestea interacționează, în anul 2016",
+   "url": "https://site.judbrasov.ro/upload/hotarari/4294.pdf",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/4294.pdf",
+     "sha256": "36a0b0de67a6bbf96c2372e628fad4c90a5104b5f683df0c6ce8314eec718b48"
     }
    ]
   },
@@ -573,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcj-brasov-434-2015",
+   "path": "local/judet/brasov/2015/434",
+   "short": "HCJ Brașov nr. 434/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 434/2015 privind demararea procedurilor privind aprobarea Planului multianual de reabilitare a drumurilor județene din Județul Brașov",
+   "url": "https://site.judbrasov.ro/userfiles/HCJBV%20434_21_12_2015.pdf",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/userfiles/HCJBV%20434_21_12_2015.pdf",
+     "sha256": "5121be597590a46f4b65a3a2bd80ef50b146078364bc02de18a46e93b4dd35e6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-58-2015",
    "path": "local/judet/brasov/2015/58",
    "short": "HCJ Brașov nr. 58/2015",
@@ -603,6 +1203,36 @@
    ]
   },
   {
+   "slug": "hcj-brasov-73-2015",
+   "path": "local/judet/brasov/2015/73",
+   "short": "HCJ Brașov nr. 73/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 73/2015 privind aprobarea asocierii Județului Brașov cu Județul Covasna în vederea realizării proiectului „Modernizare drum interjudețean Brașov — Covasna, care face legatură între drumul național DN12 și DN13*”",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3940.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3940.pdf",
+     "sha256": "c981988efb52be2d09b8b0cb54dc3799a2fe3fb322529621def1a93e16df257b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-77-2015",
+   "path": "local/judet/brasov/2015/77",
+   "short": "HCJ Brașov nr. 77/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 77/2015 privind desemnarea a doi reprezentanți ai Județului Brașov în Consiliul de Administrație al Asociației de Dezvoltare Intercomunitară Centrul Transilvania",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3944.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3944.pdf",
+     "sha256": "d5caf10f6cbb88e0f904da422c80ec1a488e7aa36ef6ac5eb0f42b780736c440"
+    }
+   ]
+  },
+  {
    "slug": "hcj-brasov-84-2015",
    "path": "local/judet/brasov/2015/84",
    "short": "HCJ Brașov nr. 84/2015",
@@ -629,6 +1259,21 @@
      "units": 1,
      "source_url": "https://site.judbrasov.ro/upload/hotarari/3876.pdf",
      "sha256": "74a963f946fb54f005c979406f21a88237c28c71a5bd254e9dab5ee3319a0f97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-brasov-91-2015",
+   "path": "local/judet/brasov/2015/91",
+   "short": "HCJ Brașov nr. 91/2015",
+   "title": "Hotărârea Consiliului Județean Brașov nr. 91/2015 privind participarea Județului Brașov prin cofinanțare, cu procentul de 5%, respectiv 10% din valoarea investițiilor propuse de către Spitalul de Psihiatrie și Neurologie Brașov spre finanțare Ministerului Sănătății",
+   "url": "https://site.judbrasov.ro/upload/hotarari/3958.pdf",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 1,
+     "source_url": "https://site.judbrasov.ro/upload/hotarari/3958.pdf",
+     "sha256": "3916c162ec7d718b35dc864b4fc3ee455d1e3595cb94b8e07ce7d9c41bb517f5"
     }
    ]
   }
