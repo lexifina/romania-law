@@ -3,6 +3,94 @@
 "shard": "local/cluj/sancraiu/2025",
 "acts": [
 {
+"slug": "hcl-cluj--sancraiu-14-2025",
+"path": "local/cluj/sancraiu/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 14/2025 Privind revocarea Hotârârii Consiliului Local Sâncraiu Nr. 14 – 04.04.2025",
+"short": "HCL Sâncraiu nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-04",
+"latest": "2025-04-04",
+"portal": "https://sancraiu.ro/ro/hotarari-consiliul-local-2025/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sancraiu-23-2025",
+"path": "local/cluj/sancraiu/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 23/2025 Privind revocarea Hotârârii Consiliului Local Sâncraiu Nr. 23 – 28.05.2025",
+"short": "HCL Sâncraiu nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://sancraiu.ro/ro/hotarari-consiliul-local-2025/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sancraiu-25-2025",
+"path": "local/cluj/sancraiu/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 25/2025 Privind revocarea Hotârârii Consiliului Local Sâncraiu Nr. 25 – 28.05.2025",
+"short": "HCL Sâncraiu nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://sancraiu.ro/ro/hotarari-consiliul-local-2025/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sancraiu-28-2025",
+"path": "local/cluj/sancraiu/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 28/2025 Privind revocarea Hotârârii Consiliului Local Sâncraiu Nr. 28 – 26.06.2025",
+"short": "HCL Sâncraiu nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://sancraiu.ro/ro/hotarari-consiliul-local-2025/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sancraiu-60-2025",
 "path": "local/cluj/sancraiu/2025/60",
 "kind": "local",

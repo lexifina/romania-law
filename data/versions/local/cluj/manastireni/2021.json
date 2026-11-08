@@ -3,6 +3,591 @@
  "shard": "local/cluj/manastireni/2021",
  "acts": [
   {
+   "slug": "hcl-cluj--manastireni-1-2021",
+   "path": "local/cluj/manastireni/2021/1",
+   "short": "HCL Mănăstireni nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 1/2021 privind aprobarea rețelei școlare pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20551",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-10-2021",
+   "path": "local/cluj/manastireni/2021/10",
+   "short": "HCL Mănăstireni nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 10/2021 privind aprobarea Programului de măsuri privind buna gospodărire a localităților",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20560",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-11-2021",
+   "path": "local/cluj/manastireni/2021/11",
+   "short": "HCL Mănăstireni nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 11/2021 privind aprobarea Planului de acțiuni și lucrări de interes local conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20561",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-12-2021",
+   "path": "local/cluj/manastireni/2021/12",
+   "short": "HCL Mănăstireni nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 12/2021 privind încheierea suprafeței de 10.77 ha pajiști permanente",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20562",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-13-2021",
+   "path": "local/cluj/manastireni/2021/13",
+   "short": "HCL Mănăstireni nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 13/2021 privind desemnarea reprezentantului Comunei Mănăstireni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,Moții, Țara de Piatră''",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20563",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-14-2021",
+   "path": "local/cluj/manastireni/2021/14",
+   "short": "HCL Mănăstireni nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 14/2021 privind stabilirea unor normative proprii de cheltuieli pentru autoturismul ce face parte din parcul auto al Primăriei comunei Mănăstireni",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20564",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-15-2021",
+   "path": "local/cluj/manastireni/2021/15",
+   "short": "HCL Mănăstireni nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 15/2021 privind modificarea art. 2 din HCL nr. 47/29.07.2020 privind instituirea unor măsuri fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local de către contribuabilii de pe raza administrativ teritorială a comunei Mănăstireni",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20565",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-16-2021",
+   "path": "local/cluj/manastireni/2021/16",
+   "short": "HCL Mănăstireni nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 16/2021 privind organizarea licitației publice cu strigare pentru valorificarea masei lemnoase pe picior din Trupul de pădure, partida 10034 Curba Pârtiei",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23569",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-17-2021",
+   "path": "local/cluj/manastireni/2021/17",
+   "short": "HCL Mănăstireni nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 17/2021 privind aprobarea actului adițional la contractul de vânzare-cumpărare masa lemnoasă nr. 1724/21.05.2020",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23570",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-18-2021",
+   "path": "local/cluj/manastireni/2021/18",
+   "short": "HCL Mănăstireni nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 18/2021 privind avizare pentru deschidere acces la stradă și realizare branșamente/racorduri la rețelele edilitare în zona străzii ,,Hordobea,,",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23571",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-19-2021",
+   "path": "local/cluj/manastireni/2021/19",
+   "short": "HCL Mănăstireni nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 19/2021 privind prelungirea contractelor de închiriere pentru suprafețele de teren agricol",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23572",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-2-2021",
+   "path": "local/cluj/manastireni/2021/2",
+   "short": "HCL Mănăstireni nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 2/2021",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20552",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-20-2021",
+   "path": "local/cluj/manastireni/2021/20",
+   "short": "HCL Mănăstireni nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 20/2021 privind aprobarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23673",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-21-2021",
+   "path": "local/cluj/manastireni/2021/21",
+   "short": "HCL Mănăstireni nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 21/2021 privind aprobarea utilizării excedentului anului 2021 în anul 2020",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23674",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-22-2021",
+   "path": "local/cluj/manastireni/2021/22",
+   "short": "HCL Mănăstireni nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 22/2021 privind aprobarea burselor școlare",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23675",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-23-2021",
+   "path": "local/cluj/manastireni/2021/23",
+   "short": "HCL Mănăstireni nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 23/2021 privind indexarea impozitelor și taxelor locale pentru anul 2022, cu coeficientul inflației de 2,6%",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23676",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-24-2021",
+   "path": "local/cluj/manastireni/2021/24",
+   "short": "HCL Mănăstireni nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 24/2021 privind executarea lucrărilor de regularizare și consolidare curs văi, reparații poduri, podețe, drumuri și străzi",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23677",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-25-2021",
+   "path": "local/cluj/manastireni/2021/25",
+   "short": "HCL Mănăstireni nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 25/2021 privind închirierea suprafeței de 13,91 ha pajiști",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23678",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-26-2021",
+   "path": "local/cluj/manastireni/2021/26",
+   "short": "HCL Mănăstireni nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 26/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/23679",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/23679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-27-2021",
+   "path": "local/cluj/manastireni/2021/27",
+   "short": "HCL Mănăstireni nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 27/2021 privind implementarea proiectului pe măsura 15 ,,Servicii de silvomediu, servicii climatice și conservarea pădurilor ,,respectiv Submăsura 15.1 ,,Plăți pentru angajamente de silvomediu ,, din cadrul PNDR 2014 - 2020, precum și desemnarea reprezentanților legali pentru implementarea acestui proiect",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/29855",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/29855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-28-2021",
+   "path": "local/cluj/manastireni/2021/28",
+   "short": "HCL Mănăstireni nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 28/2021 privind aprobarea prelungirii scrisorii de garanție bancară din partea Fondului de Garantare a Creditului Rural nr. IG 183300681 din 12.10.2018 pentru contractul C1920072G206061302262/23.08.2018 pentru proiectul ,,Construire teren multisport și reabilitare termică la clădirea primăriei din localitatea Mănăstireni, comuna Mănăstireni",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/29862",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/29862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-29-2021",
+   "path": "local/cluj/manastireni/2021/29",
+   "short": "HCL Mănăstireni nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 29/2021 privind aprobarea organigramei și modificarea statului de funcții",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/29863",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/29863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-3-2021",
+   "path": "local/cluj/manastireni/2021/3",
+   "short": "HCL Mănăstireni nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 3/2021 privind modalitățile de efectuare a pazei",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20554",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-30-2021",
+   "path": "local/cluj/manastireni/2021/30",
+   "short": "HCL Mănăstireni nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 30/2021 privind actualizarea Programului Anual al Achizițiilor publice pentru anul 2021",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/29864",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/29864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-31-2021",
+   "path": "local/cluj/manastireni/2021/31",
+   "short": "HCL Mănăstireni nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 31/2021 privind alocarea sume pentru familiile care au /vor sărbători nunta de aur și nunta de diamant în anul 2021",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/29865",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/29865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-32-2021",
+   "path": "local/cluj/manastireni/2021/32",
+   "short": "HCL Mănăstireni nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 32/2021 privind constituirea consiliului comunitar consultativ",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/29866",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/29866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-33-2021",
+   "path": "local/cluj/manastireni/2021/33",
+   "short": "HCL Mănăstireni nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 33/2021 privind aprobarea Regulamentului de organizare și funcționare a Poliției locale Mănăstireni",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/34632",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/34632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-34-2021",
+   "path": "local/cluj/manastireni/2021/34",
+   "short": "HCL Mănăstireni nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 34/2021 privind desființarea a două posturi contractuale din cadrul Compartimentului Poliției locale și înființarea a două posturi de funcție publică de execuție în cadrul Compartimentului Poliției locale",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/34633",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/34633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-35-2021",
+   "path": "local/cluj/manastireni/2021/35",
+   "short": "HCL Mănăstireni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 35/2021 privind creare acces nou la stradă și realizarea branțamente/racorduri în zona străzii Ursești",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/34634",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/34634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-36-2021",
+   "path": "local/cluj/manastireni/2021/36",
+   "short": "HCL Mănăstireni nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 36/2021 privind alegerea presedintelui de ședință",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/34635",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/34635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-37-2021",
+   "path": "local/cluj/manastireni/2021/37",
+   "short": "HCL Mănăstireni nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 37/2021 privind executarea lucrărilor de întreținere și pietruire a drumurilor de hotar",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/34642",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/34642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-38-2021",
+   "path": "local/cluj/manastireni/2021/38",
+   "short": "HCL Mănăstireni nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 38/2021",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/34643",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/34643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-39-2021",
+   "path": "local/cluj/manastireni/2021/39",
+   "short": "HCL Mănăstireni nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 39/2021",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/34644",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/34644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-4-2021",
+   "path": "local/cluj/manastireni/2021/4",
+   "short": "HCL Mănăstireni nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 4/2021 privind desemnarea reprezentantului comunei Mănăstireni în cadrul Adunării Generale a Asociației de Dezvoltare Intercomunitară ECO-METROPOLITAN Cluj",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20553",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-40-2021",
+   "path": "local/cluj/manastireni/2021/40",
+   "short": "HCL Mănăstireni nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 40/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/34636",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/34636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-41-2021",
+   "path": "local/cluj/manastireni/2021/41",
+   "short": "HCL Mănăstireni nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 41/2021 privind constatarea încetarii de drept a mandatului de consilier local",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/48224",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/48224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-42-2021",
+   "path": "local/cluj/manastireni/2021/42",
+   "short": "HCL Mănăstireni nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 42/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/48225",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/48225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-43-2021",
+   "path": "local/cluj/manastireni/2021/43",
+   "short": "HCL Mănăstireni nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 43/2021",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/48226",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/48226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-44-2021",
+   "path": "local/cluj/manastireni/2021/44",
+   "short": "HCL Mănăstireni nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 44/2021 privind aprobarea investiției „REABILITARE ȘI MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA MĂNĂSTIRENI, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/48227",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/48227",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--manastireni-45-2021",
    "path": "local/cluj/manastireni/2021/45",
    "short": "HCL Mănăstireni nr. 45/2021",
@@ -73,6 +658,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/manastireni-cj/registru-hcl/48511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-5-2021",
+   "path": "local/cluj/manastireni/2021/5",
+   "short": "HCL Mănăstireni nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 5/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20556",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20556",
      "sha256": null
     }
    ]
@@ -228,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--manastireni-6-2021",
+   "path": "local/cluj/manastireni/2021/6",
+   "short": "HCL Mănăstireni nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 6/2021 privind executarea lucrării - Reabilitarea termică și energetică a clădirii Căminului cultural din localitatea Mănăstireni",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20555",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20555",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--manastireni-60-2021",
    "path": "local/cluj/manastireni/2021/60",
    "short": "HCL Mănăstireni nr. 60/2021",
@@ -298,6 +913,51 @@
      "from": "2021-12-22",
      "units": 1,
      "source_url": "https://emol.ro/manastireni-cj/registru-hcl/48527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-7-2021",
+   "path": "local/cluj/manastireni/2021/7",
+   "short": "HCL Mănăstireni nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 7/2021 privind modificarea Inventarului bunurilor care aparțin domeniului public al comunei Mănăstireni",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20557",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-8-2021",
+   "path": "local/cluj/manastireni/2021/8",
+   "short": "HCL Mănăstireni nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 8/2021 privind însușirea Inventarului bunurilor care aparțin domeniului privat al comunei Mănăstireni",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20558",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--manastireni-9-2021",
+   "path": "local/cluj/manastireni/2021/9",
+   "short": "HCL Mănăstireni nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 9/2021 privind casarea unor obiecte de inventar",
+   "url": "https://emol.ro/manastireni-cj/registru-hcl/20559",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/manastireni-cj/registru-hcl/20559",
      "sha256": null
     }
    ]

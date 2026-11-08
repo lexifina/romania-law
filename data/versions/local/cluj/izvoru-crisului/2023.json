@@ -3,6 +3,96 @@
  "shard": "local/cluj/izvoru-crisului/2023",
  "acts": [
   {
+   "slug": "hcl-cluj--izvoru-crisului-1-2023",
+   "path": "local/cluj/izvoru-crisului/2023/1",
+   "short": "HCL Izvoru Crișului nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 1/2023 privind aprobarea Bugetului de Venituri şi Cheltuieli al Comunei Izvoru Crișului și Programul de Investiții pentru anul 2023",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%201.pdf",
+     "sha256": "f087fd02ff776ead9389b3da36d871f1714c49d5b75d9b1fd9ec846fa4bb3f96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-10-2023",
+   "path": "local/cluj/izvoru-crisului/2023/10",
+   "short": "HCL Izvoru Crișului nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 10/2023 privind aprobarea inventarului patrimonului administrative al Comunei Izvoru Crișului",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2010.pdf",
+     "sha256": "97c9a65cb7bfbf02c4fdf858548cab076c074a3850ef31e935cfa62e2f9a013e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-11-2023",
+   "path": "local/cluj/izvoru-crisului/2023/11",
+   "short": "HCL Izvoru Crișului nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 11/2023 privind alegerea președintelui de ședință pentru lunile (martie 2023 – mai 2023)",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2011.pdf",
+     "sha256": "869cbb08aa048632979d27e50d5b3ec00269e286b8b2c39358493a982acbebe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-13-2023",
+   "path": "local/cluj/izvoru-crisului/2023/13",
+   "short": "HCL Izvoru Crișului nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 13/2023 privind aprobarea Regulamentului de organizare şi funcţionare a serviciului voluntar pentru situaţii de urgenţă al comunei IZVORU CRIȘULUI",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2013.pdf",
+     "sha256": "9fa838e61419253850d4460d10e36a7178cf6a86c0305f5d683e31add9f0e2ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-14-2023",
+   "path": "local/cluj/izvoru-crisului/2023/14",
+   "short": "HCL Izvoru Crișului nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 14/2023 privind modificarea contractului de închiriere pentru suprafețele de pajiști aflate în domeniul public sau privat al comunei Izvoru Crișului cu nr. 32 din 24.03.2022",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2014.pdf",
+     "sha256": "47cb916fc658a2e5277fd0831b481f89136e05db878d8fe464e3035bf587cde4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-16-2023",
+   "path": "local/cluj/izvoru-crisului/2023/16",
+   "short": "HCL Izvoru Crișului nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 16/2023 privind aprobarea planului de analiză și acoperire a riscurilor",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2016.pdf",
+     "sha256": "f6d96f83dd1dbcd2ac046e2e65aeea44be144e12b4ce41eecbe00d406d3cc852"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--izvoru-crisului-17-2023",
    "path": "local/cluj/izvoru-crisului/2023/17",
    "short": "HCL Izvoru Crișului nr. 17/2023",
@@ -18,6 +108,321 @@
    ]
   },
   {
+   "slug": "hcl-cluj--izvoru-crisului-18-2023",
+   "path": "local/cluj/izvoru-crisului/2023/18",
+   "short": "HCL Izvoru Crișului nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 18/2023 privind aprobarea plății cotizațiilor de membru al Comunei Izvoru Crișului la asociații, pentru anul 2023",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2018.pdf",
+     "sha256": "80d00917feca064584d2291df2cbb355c3e196d23f236abe6612cf651ca9d2fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-19-2023",
+   "path": "local/cluj/izvoru-crisului/2023/19",
+   "short": "HCL Izvoru Crișului nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 19/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "eff56342899f755bfe8903876097a63d3d0780aa7e08a0704500dbd030caa1f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-2-2023",
+   "path": "local/cluj/izvoru-crisului/2023/2",
+   "short": "HCL Izvoru Crișului nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 2/2023 privind aprobarea reţelei unităţilor de învaţământ de stat care vor funcţiona anul şcolar 2023 - 2024, pe raza Comunei Izvoru Crișului",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%202.pdf",
+     "sha256": "2327a0f95c62fd3ee3348ed79265befa45bccfcb609066e56be92a9d54b5fc70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-20-2023",
+   "path": "local/cluj/izvoru-crisului/2023/20",
+   "short": "HCL Izvoru Crișului nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 20/2023 privind revocarea hotărârii Consiliului Local nr. 10/2023",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2020.pdf",
+     "sha256": "232daa26dc231785bc619422098b52240ef1a81cfaaeeec2bf078168bfbb8c8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-21-2023",
+   "path": "local/cluj/izvoru-crisului/2023/21",
+   "short": "HCL Izvoru Crișului nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 21/2023 privind introducerea terenului în suprafață de 24.000 mp în inventarul domeniului privat al Comunei Izvoru Crișului",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2021.pdf",
+     "sha256": "530584ef3c23a9b1415c3fa930f816692bae6023098db2bf64ad6314442f6d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-22-2023",
+   "path": "local/cluj/izvoru-crisului/2023/22",
+   "short": "HCL Izvoru Crișului nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 22/2023 privind aprobarea modificării orgnigramei și statului de funcții",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2022.pdf",
+     "sha256": "6aa532c19aec2fbc834eeef3567ffdbd39d1f40d8958605da7ea07bf10d0d6e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-24-2023",
+   "path": "local/cluj/izvoru-crisului/2023/24",
+   "short": "HCL Izvoru Crișului nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 24/2023 cu privire la aprobarea rezilierii contractului de finanțare nr. C1920074X206061309363",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2024.pdf",
+     "sha256": "b7bf19e31099f3d4190857e9040edf329d013a91c3748768f7e16e0020b7a371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-25-2023",
+   "path": "local/cluj/izvoru-crisului/2023/25",
+   "short": "HCL Izvoru Crișului nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 25/2023 privind aprobarea plății cotizației de membru al Comunei Izvoru Crișului la asociația Grupul de Acțiune Locală Napoca Porolissum pentru anul 2023",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2025.pdf",
+     "sha256": "9f3b5df84a065fd71292283323ed0eeaa7ecfb622c6938d7b5f3fafad4a88665"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-26-2023",
+   "path": "local/cluj/izvoru-crisului/2023/26",
+   "short": "HCL Izvoru Crișului nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 26/2023 privind includerea teritoriului UAT Izvoru Crișului în parteneriatul LEADER ,,Asociația Grupul de Acțiune Locală Napoca Porolissum\" pentru implementarea SDL cu finanțare prin PS 2023-2027",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2026.pdf",
+     "sha256": "f33483d9ba423e3a3b074aa1242a05cfff3bae1b117428de48703a8742805194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-27-2023",
+   "path": "local/cluj/izvoru-crisului/2023/27",
+   "short": "HCL Izvoru Crișului nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 27/2023 privind aprobarea contului de încheiere a exercițiului bugetar pe trimestrul I, anul 2023",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2027.pdf",
+     "sha256": "6fdb8aeef0e28ef6c4d0c8124758e6db513831bb1bf5052dc0d3159422f3916e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-28-2023",
+   "path": "local/cluj/izvoru-crisului/2023/28",
+   "short": "HCL Izvoru Crișului nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 28/2023 privind încheierea unui Protocol de colaborare – Contract de comodat între Comuna Izvoru Crișului și Composesoratul Nadășu privind darea în folosință gratuită a unor încăperi din clădirea școlii din satul Nadășu",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2028.pdf",
+     "sha256": "a30c1e4e32e4aa03fbb828379f65f3a7b47b533a5449da35e37a5dbd1a6e882f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-29-2023",
+   "path": "local/cluj/izvoru-crisului/2023/29",
+   "short": "HCL Izvoru Crișului nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 29/2023 privind alegerea președintelui de ședință pentru lunile (iunie 2023 – august 2023)",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2029.pdf",
+     "sha256": "cfa4b0649063f0c24ebf0df3a1b129a086244ab51bb503af0e4dfcdca93d0999"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-3-2023",
+   "path": "local/cluj/izvoru-crisului/2023/3",
+   "short": "HCL Izvoru Crișului nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 3/2023 privind aprobarea încheierii unui contract de asistenta juridică, redactare acte, cu cabinet de avocat, în dosarul 953/117/2021, pentru recurs ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%203.pdf",
+     "sha256": "dd4a097be7ffb662f862755546df4cc713a3bc1de3fa064dc3b2426188b7c689"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-30-2023",
+   "path": "local/cluj/izvoru-crisului/2023/30",
+   "short": "HCL Izvoru Crișului nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 30/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3ab8969f6b591508c3fecd88a103b60a9f08379de34fa4cdbf545ec99ea8aa00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-31-2023",
+   "path": "local/cluj/izvoru-crisului/2023/31",
+   "short": "HCL Izvoru Crișului nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 31/2023 privind aprobarea rectificării Bugetului de Venituri și Cheltuieli al Comunei Izvoru Crișului și Programul de Investiții pentru anul 2023",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2031.pdf",
+     "sha256": "90492ed19734677ffe5f0f8407d01e68c96d125da724d32d21d2ccdbc8316623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-33-2023",
+   "path": "local/cluj/izvoru-crisului/2023/33",
+   "short": "HCL Izvoru Crișului nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 33/2023 privind revocarea HCL nt. 28/2023",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2033.pdf",
+     "sha256": "6a7b67cea7e7680fea8b0f21d5f4c18389816d624c1000fd40d3d6bb090349ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-34-2023",
+   "path": "local/cluj/izvoru-crisului/2023/34",
+   "short": "HCL Izvoru Crișului nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 34/2023 privind aprobarea acceptării transmiterii fără plată a unui autoturism marca Volkswagen Passat de la Primăria Moldovenești",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2034.pdf",
+     "sha256": "017efc1780b1a6e7f9ade9b08b174c9bb034ed547081b5ffbf8f37b005ded388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-37-2023",
+   "path": "local/cluj/izvoru-crisului/2023/37",
+   "short": "HCL Izvoru Crișului nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 37/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2753edc7a739304e297e7e3c5343145e0dd120a71096e0436db6245d4068ab15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-38-2023",
+   "path": "local/cluj/izvoru-crisului/2023/38",
+   "short": "HCL Izvoru Crișului nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 38/2023 privind aprobarea unui sprijin financiar pentru Spitalul Orășenesc Huedin, în sumă de 3.500 lei din bugetul local al comunei Izvoru Crișului",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%2038.pdf",
+     "sha256": "e6c2a16e9146896051364bd8b720274be6a87d875d84b9615e180b389dcc5f94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-4-2023",
+   "path": "local/cluj/izvoru-crisului/2023/4",
+   "short": "HCL Izvoru Crișului nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 4/2023 privind aprobarea convenției de parteneriat pentru asigurarea asistenţei socio-medicale la domiciliu cu Parohia Reformată Șaula",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%204.pdf",
+     "sha256": "b9c530ede534e78541a683bbefda1dfe0abc7b192f66c8b7e61e01b4c0119ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-5-2023",
+   "path": "local/cluj/izvoru-crisului/2023/5",
+   "short": "HCL Izvoru Crișului nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 5/2023 privind utilizarea excedentului înregistrat la finele anului 2022 pentru finanţarea secţiunii de dezvoltare aferenta anului bugetar 2023",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%205.pdf",
+     "sha256": "c2003ffb61bcff8e00545ff159e4e8025786866d546e6c6208946e2f03f699e3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--izvoru-crisului-6-2023",
    "path": "local/cluj/izvoru-crisului/2023/6",
    "short": "HCL Izvoru Crișului nr. 6/2023",
@@ -29,6 +434,51 @@
      "units": 1,
      "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%206.pdf",
      "sha256": "61eb2fbd0c58db941d4a9fd77aec6af06ce2d416672fe3072d7983fc9949bb4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-7-2023",
+   "path": "local/cluj/izvoru-crisului/2023/7",
+   "short": "HCL Izvoru Crișului nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 7/2023 privind aprobarea unor măsuri privind aducerea la îndeplinire a prevederilor Legii nr. 276/2010 pentru modificarea şi completarea Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%207.pdf",
+     "sha256": "debb8f1f7db996f16f727f2d899694d9cc12c3a36bd352742ad990cb85232c6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-8-2023",
+   "path": "local/cluj/izvoru-crisului/2023/8",
+   "short": "HCL Izvoru Crișului nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 8/2023 privind aprobarea caietului de sarcini și a contractului de închiriere a pajiștilor de pe raza Comunei Izvoru Crișului, prin atribuire direct/licitație",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%208.pdf",
+     "sha256": "842271a4037aaba19c7c992c7af76eb41272d6c621623fc9cc0ed956c2df7e5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-9-2023",
+   "path": "local/cluj/izvoru-crisului/2023/9",
+   "short": "HCL Izvoru Crișului nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 9/2023 privind aprobarea contului de încheiere a exercițiului bugetar pe trimestrul IV, anul 2022",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202023/Hotararea%209.pdf",
+     "sha256": "3990e204cd8feeffa56c758718ec3da74893e9e840a4c2617f43a51ead7cc645"
     }
    ]
   }

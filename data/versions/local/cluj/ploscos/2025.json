@@ -3,6 +3,21 @@
  "shard": "local/cluj/ploscos/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--ploscos-1-2025",
+   "path": "local/cluj/ploscos/2025/1",
+   "short": "HCL Ploscoș nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 1/2025 privind aprobarea Organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al Primarului comunei Ploscoș, județul Cluj",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189255",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189255",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-10-2025",
    "path": "local/cluj/ploscos/2025/10",
    "short": "HCL Ploscoș nr. 10/2025",
@@ -18,6 +33,81 @@
    ]
   },
   {
+   "slug": "hcl-cluj--ploscos-11-2025",
+   "path": "local/cluj/ploscos/2025/11",
+   "short": "HCL Ploscoș nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 11/2025 privind aprobarea contului de execuție al bugetului local la 31.12.2024",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/195413",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/195413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-12-2025",
+   "path": "local/cluj/ploscos/2025/12",
+   "short": "HCL Ploscoș nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 12/2025 privind aprobarea domeniilor serviciilor publice și a locurilor în care vor fi prestate activități în folosul comunității de către persoanele fizice/minorii care au fost condamnate sau pentru care Instanța de judecată a dispus prestarea unei activități în folosul comunității",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/195414",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/195414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-13-2025",
+   "path": "local/cluj/ploscos/2025/13",
+   "short": "HCL Ploscoș nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 13/2025 privind aprobarea casării mijloacelor fixe și a obiectelor de inventar aflate în inventarul aparținând Consiliului Local al comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/195415",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/195415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-14-2025",
+   "path": "local/cluj/ploscos/2025/14",
+   "short": "HCL Ploscoș nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 14/2025 privind aprobarea dispoziției de șantier nr. 1/18.07.2024 și a devizului general pentru obiectivul de investiții „ASFALTARE DRUMURI ȘI STRĂZI ÎN COMUNA PLOSCOȘ”",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/195416",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/195416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-15-2025",
+   "path": "local/cluj/ploscos/2025/15",
+   "short": "HCL Ploscoș nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 15/2025 privind însușirea Acordului de cooperare privind la organizarea și funcționarea compartimentului dezvoltare rurală",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/195417",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/195417",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-16-2025",
    "path": "local/cluj/ploscos/2025/16",
    "short": "HCL Ploscoș nr. 16/2025",
@@ -28,6 +118,126 @@
      "from": "2025-04-02",
      "units": 1,
      "source_url": "https://emol.ro/ploscos-cj/registru-hcl/201041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-17-2025",
+   "path": "local/cluj/ploscos/2025/17",
+   "short": "HCL Ploscoș nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 17/2025 privind aprobarea împrumutului din excedentul anului 2024, pentru acoperirea plăților la secțiune de dezvoltare pentru anul 2025",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/201042",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/201042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-18-2025",
+   "path": "local/cluj/ploscos/2025/18",
+   "short": "HCL Ploscoș nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 18/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/201043",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/201043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-19-2025",
+   "path": "local/cluj/ploscos/2025/19",
+   "short": "HCL Ploscoș nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 19/2025 privind aprobarea planului de analiză și acoperire a riscurilor",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/201044",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/201044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-2-2025",
+   "path": "local/cluj/ploscos/2025/2",
+   "short": "HCL Ploscoș nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 2/2025 privind aprobarea Planului de perfecționare profesională a funcționarilor publici din aparatul de specialitate al primarului comunei Ploscoș, pe anul 2025",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189256",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-20-2025",
+   "path": "local/cluj/ploscos/2025/20",
+   "short": "HCL Ploscoș nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 20/2025 privind aprobarea programului de acțiune comunitară ce va fi realizat în anul 2025 la nivelul comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/201045",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/201045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-21-2025",
+   "path": "local/cluj/ploscos/2025/21",
+   "short": "HCL Ploscoș nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 21/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru proiectul „REABILITARE TERMICĂ ȘI EFICIENTIZARE ENERGETICĂ A CLĂDIRII PUBLICE, CLĂDIREA ȘCOLII DIN LOCALITATEA PLOSCOȘ, COMUNA PLOSCOȘ, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/201046",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/201046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-22-2025",
+   "path": "local/cluj/ploscos/2025/22",
+   "short": "HCL Ploscoș nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 22/2025 privind APROBAREA programului de măsuri privind gospodărirea localităților comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/201047",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/201047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-23-2025",
+   "path": "local/cluj/ploscos/2025/23",
+   "short": "HCL Ploscoș nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 23/2025",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/201048",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/201048",
      "sha256": null
     }
    ]
@@ -118,6 +328,21 @@
      "from": "2025-05-06",
      "units": 1,
      "source_url": "https://emol.ro/ploscos-cj/registru-hcl/204482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-3-2025",
+   "path": "local/cluj/ploscos/2025/3",
+   "short": "HCL Ploscoș nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 3/2025 privind constituirea comisiei de evaluare a performanțelor profesionale individuale ale Secretarului general UAT Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189257",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189257",
      "sha256": null
     }
    ]
@@ -273,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--ploscos-4-2025",
+   "path": "local/cluj/ploscos/2025/4",
+   "short": "HCL Ploscoș nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 4/2025 privind alegerea președintelui de ședință pe o perioadă de 3 luni, februarie, martie, aprilie 2025",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189258",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189258",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-40-2025",
    "path": "local/cluj/ploscos/2025/40",
    "short": "HCL Ploscoș nr. 40/2025",
@@ -403,6 +643,36 @@
      "from": "2025-09-01",
      "units": 1,
      "source_url": "https://emol.ro/ploscos-cj/registru-hcl/219521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-49-2025",
+   "path": "local/cluj/ploscos/2025/49",
+   "short": "HCL Ploscoș nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 49/2025",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/223150",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/223150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-5-2025",
+   "path": "local/cluj/ploscos/2025/5",
+   "short": "HCL Ploscoș nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 5/2025 privind schimbarea reprezentantului legal al Comunei PLOSCOȘ, în cadrul asociației „Asociației Grupul de Acțiune Locală Lider Cluj”",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189259",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189259",
      "sha256": null
     }
    ]
@@ -558,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--ploscos-6-2025",
+   "path": "local/cluj/ploscos/2025/6",
+   "short": "HCL Ploscoș nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 6/2025 privind aprobarea Regulamentului privind acordarea de sprijin financiar unităților de cult din comuna Ploscoș, aparținând cultelor religioase recunoscute din România",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189260",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189260",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-60-2025",
    "path": "local/cluj/ploscos/2025/60",
    "short": "HCL Ploscoș nr. 60/2025",
@@ -708,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--ploscos-7-2025",
+   "path": "local/cluj/ploscos/2025/7",
+   "short": "HCL Ploscoș nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 7/2025 privind solicitarea de prelungire până la data de 17.06.2025 a Scrisorii de garanție nr. 363/26.07.2018 de la FNGCIMM S.A",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189261",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189261",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-70-2025",
    "path": "local/cluj/ploscos/2025/70",
    "short": "HCL Ploscoș nr. 70/2025",
@@ -808,6 +1108,36 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/ploscos-cj/registru-hcl/245776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-8-2025",
+   "path": "local/cluj/ploscos/2025/8",
+   "short": "HCL Ploscoș nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 8/2025 privind actualizarea Regulamentului, cu privire la modul de organizare a pășunatului în comuna Ploscoș, județul Cluj",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189262",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-9-2025",
+   "path": "local/cluj/ploscos/2025/9",
+   "short": "HCL Ploscoș nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 9/2025 privind aprobarea acoperirii definitive a deficitului bugetar al secțiunii de dezvoltare din excedentul bugetului local al anului 2024",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/189263",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/189263",
      "sha256": null
     }
    ]

@@ -1,0 +1,636 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/huedin/2024",
+ "acts": [
+  {
+   "slug": "hcl-cluj--huedin-1-2024",
+   "path": "local/cluj/huedin/2024/1",
+   "short": "HCL Huedin nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 1/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.1-05.01.2024-aprobare-acoperire-definitiva-din-excedentul-anilor-precedenti-a-unor-sume-repartizare-in2023.pdf",
+     "sha256": "81ef1b66f1b79d4a1499c872df100c6f505617597c16a5e76d98213f7c74f60f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-10-2024",
+   "path": "local/cluj/huedin/2024/10",
+   "short": "HCL Huedin nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 10/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.10-26.01.2024-aprobare-introducere-in-dom.public-a-orasului-amenajare-trotuare-si-santuri-str.-A.iancu-str.-Violetelor.pdf",
+     "sha256": "cead1800c19518cfab7ae79eda2d9ee1bf3a10de3bfd6d692c23418d74a8540e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-11-2024",
+   "path": "local/cluj/huedin/2024/11",
+   "short": "HCL Huedin nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 11/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.11-26.01.2024-aprobare-aprobarea-introducerii-in-dom.-public-Extindere-retea-de-canalizare-pe-str.Manasturului-din-Orasul-Huedin.pdf",
+     "sha256": "da31238e243562779ece17cc13942eded497e65c4f20be5c27233c99337a42eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-12-2024",
+   "path": "local/cluj/huedin/2024/12",
+   "short": "HCL Huedin nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 12/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.12-26.01.2024-aprobare-statului-de-functii-actualizat-cu-1-iancuarie-2024-al-Spitalului-orasenesc-Huedin.pdf",
+     "sha256": "87e0b7d1aa40319711be7d8f6dedb8d03e240db57485d4b68876ac578fa89dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-13-2024",
+   "path": "local/cluj/huedin/2024/13",
+   "short": "HCL Huedin nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 13/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.13-26.01.2024-aprobare-reorganizare-retea-scolara-2024-2025.pdf",
+     "sha256": "e52f34f2d37187d7f77b6b58c8d549bdf160d04feed77f72e0b6fd71c50afbad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-14-2024",
+   "path": "local/cluj/huedin/2024/14",
+   "short": "HCL Huedin nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 14/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.14-26.01.2024-aprobare-program-activitaai-culturale-2024.pdf",
+     "sha256": "fd6eebc44d36708ca8d98001991a1d3331cd8a228570346378d414cf8830a87e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-15-2024",
+   "path": "local/cluj/huedin/2024/15",
+   "short": "HCL Huedin nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 15/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.15-26.01.2024-aprobare-nominalizare-comisia-evaluare-performante-Secretar-General-UAT-2023.pdf",
+     "sha256": "805de776364a623c497b05b6f1f625ebeb51ec339c3c6eb576505157e9cf8b83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-16-2024",
+   "path": "local/cluj/huedin/2024/16",
+   "short": "HCL Huedin nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 16/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.16-26.01.2024-aprobare-numire-administratror-definitiv-SC-Salubriterm-Serv-SRL-1.pdf",
+     "sha256": "314c3278ea8da22cd33bbde81b1f067bf6cf92614c5ee176e634c8a54d14549e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-17-2024",
+   "path": "local/cluj/huedin/2024/17",
+   "short": "HCL Huedin nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 17/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.17-26.01.2024-actualizare-val.inventar-imobil-corp-C3-aflat-in-administrarea-Spitlaului-or.Huedin.pdf",
+     "sha256": "066938d9982831336b41ff7495fc21f7d8a2694b6e1db3e31c753ec6875ce1fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-18-2024",
+   "path": "local/cluj/huedin/2024/18",
+   "short": "HCL Huedin nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 18/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.18-26.01.2024-aprobare-bugetul-de-venituri-si-cheltuieli-al-SC-TETAROM-SA-pe-anul-2024.pdf",
+     "sha256": "2ef3c824e7943ef620d5a1b0b764737f0052e54b605382f6d5f20b8fde5db975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-19-2024",
+   "path": "local/cluj/huedin/2024/19",
+   "short": "HCL Huedin nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 19/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.19-26.01.2024-aprobare-acord-parteneriat-intre-or.-Huedin-si-Biblioteca-judeteana-Cluj.pdf",
+     "sha256": "cfa496ae9acf8dc6813401887e6cc5d4e2a721d9e9506b55b0eb0fd95b5664c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-2-2024",
+   "path": "local/cluj/huedin/2024/2",
+   "short": "HCL Huedin nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 2/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-2-05.01.2024-aprobare-preluare-ca-venit-in-buget-pt.-2024-al-Spitalului-or.-Huedin-300.000-lei.pdf",
+     "sha256": "5def4e78de98b7432d501ea95e4764099a2027bc3fea9216267f55e547a260c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-20-2024",
+   "path": "local/cluj/huedin/2024/20",
+   "short": "HCL Huedin nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 20/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.20-06.02.2024-aprobare-buget-local-sursa-A-pe-anul-2024.pdf",
+     "sha256": "270c557bcec08bf66d88866e6f8f4ce594420b099621ee40d5aa61d8072f59f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-21-2024",
+   "path": "local/cluj/huedin/2024/21",
+   "short": "HCL Huedin nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 21/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-21-06.02.2024-aprobare-buget-Spital-sursa-F-pe-anul-2024.pdf",
+     "sha256": "5f81b117fe6ec8f57cc6973fd3d9768b928cb4588df9ba1f63c3563702a53566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-22-2024",
+   "path": "local/cluj/huedin/2024/22",
+   "short": "HCL Huedin nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 22/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-22-06.02.2024-aprobare-bugetul-de-venituri-proprii-si-subventii-pe-anul-2024-Sursa-E.pdf",
+     "sha256": "5eb6b2386dc727c3cb1013463bfee31ed0e54c7552a56fc31ce64ea9def464ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-23-2024",
+   "path": "local/cluj/huedin/2024/23",
+   "short": "HCL Huedin nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 23/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-23-06.02.2024-aprobare-buget-Liceul-Teroretic-O-Goga-Huedin-2024.pdf",
+     "sha256": "cbee77d1dd0608e6f5b53a44fc86e5ade26f84190ca5c99ac619a2aae030bed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-24-2024",
+   "path": "local/cluj/huedin/2024/24",
+   "short": "HCL Huedin nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 24/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-24-06.02.2024-aprobare-buget-Liceul-Tehnologic-Vladeasa-Huedin-2024.pdf",
+     "sha256": "9307be6a71eeed13ca91426823ed480f015bc024ef267a0eb24cd753001f2f58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-25-2024",
+   "path": "local/cluj/huedin/2024/25",
+   "short": "HCL Huedin nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 25/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-25-06.02.2024-aprobare-buget-Gradinita-cu-PP-Prichindeii-Veseli-Huedin-pe-anul-2024.pdf",
+     "sha256": "1700a92cb22a49e9d2b0b04e75cf501571b582c459b677a892b9c6bf04097a1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-26-2024",
+   "path": "local/cluj/huedin/2024/26",
+   "short": "HCL Huedin nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 26/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-26-06.02.2024-aprobare-scoatere-la-concurs-posturi-vacante-la-Spitalul-orasenesc-Huedin.pdf",
+     "sha256": "da4f6bc012d53f9282eec1c55f36ecf1ce4f874f844325eb259c73fe0852e385"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-27-2024",
+   "path": "local/cluj/huedin/2024/27",
+   "short": "HCL Huedin nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 27/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-27-23.02.2024-aprobare-contul-de-executie-bugetara-la-31.12.2023.pdf",
+     "sha256": "6aefb218fe83cfd2af8fbd38715b0bfe21f7a457469ff58d7ee07279d7a8d18e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-28-2024",
+   "path": "local/cluj/huedin/2024/28",
+   "short": "HCL Huedin nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 28/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-28-23.02.2024-aprobare-infiintare-activitate-integral-finantata-din-venituri-proprii-Lic.-O.Goga-Huedin.pdf",
+     "sha256": "10dd7fea36a17f1872745f398e845a6f78adef4665bc4fd462ab18bfd407ed30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-29-2024",
+   "path": "local/cluj/huedin/2024/29",
+   "short": "HCL Huedin nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 29/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-29-23.02.2024-aprobare-infiintare-activitate-integral-finantata-din-venituri-proprii-Lic.-Teh.Vladeasa-Huedin.pdf",
+     "sha256": "816c950f270290a41ec3e99fec89224abb135779d95aae1a0105ec91625561f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-3-2024",
+   "path": "local/cluj/huedin/2024/3",
+   "short": "HCL Huedin nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 3/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-3-05.01.2024-aprobare-preluare-ca-venit-in-bugetul-de-venituri-proprii-si-subventii-2024-50.000-lei.pdf",
+     "sha256": "ac3e05c04ecd148e8eb0497cd1c66af0a03433a978aa8ef68da61204192c385c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-30-2024",
+   "path": "local/cluj/huedin/2024/30",
+   "short": "HCL Huedin nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 30/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-30-23.02.2024-aprobare-infiintare-activitate-integral-finantata-din-venituri-proprii-Gradinita-cu-PP-Prichindeii-Veseli.pdf",
+     "sha256": "c60d5511b37884ac71c4f5817aacd0b0cb38006b44bfb257d63fa19a50addaf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-31-2024",
+   "path": "local/cluj/huedin/2024/31",
+   "short": "HCL Huedin nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 31/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-31-23.02.2024-aprobare-stabilire-valoare-chirii-ANL-2024.pdf",
+     "sha256": "10612669ffe01a894506d902bc2a369b80eef907989519b9ea714ba5fb82ec69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-32-2024",
+   "path": "local/cluj/huedin/2024/32",
+   "short": "HCL Huedin nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 32/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-32-23.02.2024-aprobare-casare-ob.inventar-si-mijloace-fixe-Spital.pdf",
+     "sha256": "87ed00dfa78834a967012c8dc434454217e6cc2fc711ae0a700fce3ddc459846"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-33-2024",
+   "path": "local/cluj/huedin/2024/33",
+   "short": "HCL Huedin nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 33/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-33-23.02.2024-aprobare-Organigrama-si-Statul-de-Functii-al-Aparatului-de-Specialitate-al-Primarului-Orasului-Huedin.pdf",
+     "sha256": "5beaceb10c65a25822858afd05c4bc953cfbf323a27a7d59f4340f6abe7efe75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-34-2024",
+   "path": "local/cluj/huedin/2024/34",
+   "short": "HCL Huedin nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 34/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-34-23.02.2024-aprobare-inchiriere-spatiu-dom.public-str.-A.iancu-nr.-3-18-mp.pdf",
+     "sha256": "5814ae6a92d2fdcb797a90a14ddcc2169a1c7eb2b8ede17327680450b647cceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-35-2024",
+   "path": "local/cluj/huedin/2024/35",
+   "short": "HCL Huedin nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 35/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-35-23.02.2024-aprobare-stabilire-chirie-pt.-Asociatia-de-terapii-Holistice.pdf",
+     "sha256": "75ae1a165bcf8713a419725369102d16acb4bf3c73540ad12edb043d8379d3cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-36-2024",
+   "path": "local/cluj/huedin/2024/36",
+   "short": "HCL Huedin nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 36/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-36-23.02.2024-aprobare-DEZMEMBRARE-TEREN.pdf",
+     "sha256": "e2b41e4c12a3c4daff10c47f5b8863eb439d0d6cb8cb16b64335bc4897e49dba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-37-2024",
+   "path": "local/cluj/huedin/2024/37",
+   "short": "HCL Huedin nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 37/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-37-23.02.2024-aprobare-amplasare-corturi-electorale.pdf",
+     "sha256": "d77cf067ca54161c0e1e6b39393b344551c1329f853e8ccd8422b94bf1eee0cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-38-2024",
+   "path": "local/cluj/huedin/2024/38",
+   "short": "HCL Huedin nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 38/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "bbb95616e63144715159ecda68c37c40577fbd5a992ba8acf73c9343023170a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-39-2024",
+   "path": "local/cluj/huedin/2024/39",
+   "short": "HCL Huedin nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 39/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-39-23.02.2024-aprobare-transformare-post-as.-medical-principal-in-as.-medical-debutant-la-cabinetul-medical-scolar.pdf",
+     "sha256": "ef83168dc0e1c6f3cadd89898580aee019b998d7c2c4456fded1d34acb9c0069"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-4-2024",
+   "path": "local/cluj/huedin/2024/4",
+   "short": "HCL Huedin nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 4/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-4-05.01.2024-aprobare-preluare-ca-venit-in-bugetul-de-venituri-proprii-si-subventii-2024-600.000-lei.pdf",
+     "sha256": "402facaecb5948ffb59bfa137290fe8d9ed8290df130bf30390734307c596ccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-40-2024",
+   "path": "local/cluj/huedin/2024/40",
+   "short": "HCL Huedin nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 40/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-40-29.02.2024-aprobare-initierea-procedurii-de-inchiriere-trupuri-de-pasune-dom.public-al-orasului-Huedin.pdf",
+     "sha256": "32421b7e7e1041bc4cf8ce25d8b6b392cf6296323feb4f7d47745adb657e0fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-41-2024",
+   "path": "local/cluj/huedin/2024/41",
+   "short": "HCL Huedin nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 41/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-41-29.02.2024-acordare-post-mortem-titlu-de-cetatean-de-Onoare-al-or.-Huedin-Natasa-Rab.pdf",
+     "sha256": "10d9969fe35a063e6a1172fc30b5b3e3b983ccc78895684ce90834f81da7174d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-42-2024",
+   "path": "local/cluj/huedin/2024/42",
+   "short": "HCL Huedin nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 42/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "3ab7e927e48eae63b08e952bf738434ba1b0bbc5affb07ebb997423e17d65d28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-5-2024",
+   "path": "local/cluj/huedin/2024/5",
+   "short": "HCL Huedin nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 5/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-5-05.01.2024-aprobare-stabilire-noul-pret-Gcal-a-energiei-termice-furnizata-de-catre-SC-Salubriterm-Serv-SRL.pdf",
+     "sha256": "fbae15283b3ccd2b46f151c63bee60088f46fd468ef166acf406490fa747f57c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-6-2024",
+   "path": "local/cluj/huedin/2024/6",
+   "short": "HCL Huedin nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 6/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-6-05.01.2024-aprobare-Plan-masuri-cu-orizont-de-timp-anul-2023.pdf",
+     "sha256": "fe97ab13aa427bec8581fa13eea29e82624be90699b0482719a98dae9bdb60bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-7-2024",
+   "path": "local/cluj/huedin/2024/7",
+   "short": "HCL Huedin nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 7/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-7-05.01.2024-aprobare-Acord-parteneriat-cu-Asociatia-Cezar-Huedin-pe-perioada-01.01.30.06.2024.pdf",
+     "sha256": "a73fee7d0f04a5b5671b8fd6281fa9bcb720fee4e5b38929c8e342f043370d82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-8-2024",
+   "path": "local/cluj/huedin/2024/8",
+   "short": "HCL Huedin nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 8/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-8-05.01.2024-aprobare-modificare-art.11.-pct.8-din-taxa-pt.-eliberare-cerificate-de-nastere-2024.pdf",
+     "sha256": "532174a1dbe9a116b56c7c090120af130fa06eea8ce3aeb92860b050e64db742"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-9-2024",
+   "path": "local/cluj/huedin/2024/9",
+   "short": "HCL Huedin nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 9/2024",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2024/03/H.C.L.-nr.-9-26.01.2024-aprobare-preluare-ca-venit-in-bugetul-Lic.-O.-Goga-Huedin-40.900-lei.pdf",
+     "sha256": "76be0b0debd9ea72c8426b2c9fdd2066f6563a0469b691d6a7b56d524e1ecfb3"
+    }
+   ]
+  }
+ ]
+}

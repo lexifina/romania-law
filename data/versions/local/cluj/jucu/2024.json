@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/jucu/2024",
+ "acts": [
+  {
+   "slug": "hcl-cluj--jucu-170-2024",
+   "path": "local/cluj/jucu/2024/170",
+   "short": "HCL Jucu nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Jucu nr. 170/2024 privind acordarea unor facilitati fiscale in coformitate cu OUG nr. 107 din 06.09.2024",
+   "url": "https://primariajucu.ro/wp-content/uploads/2024/11/Hotararea-nr.-170-din-07.11.2024-privind-acordarea-unor-facilitati-fiscale-in-coformitate-cu-OUG-nr.-107-din-06.09.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://primariajucu.ro/wp-content/uploads/2024/11/Hotararea-nr.-170-din-07.11.2024-privind-acordarea-unor-facilitati-fiscale-in-coformitate-cu-OUG-nr.-107-din-06.09.2024.pdf",
+     "sha256": "caa771f480b8dfe95cbfd0afd08385c5eacc259408b7a738036de231564d9779"
+    }
+   ]
+  }
+ ]
+}

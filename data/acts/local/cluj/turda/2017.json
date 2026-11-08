@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/turda/2017",
+"acts": [
+{
+"slug": "hcl-cluj--turda-375-2017",
+"path": "local/cluj/turda/2017/375",
+"kind": "local",
+"year": "2017",
+"number": "375",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Turda nr. 375/2017 pentru aprobarea Procedurii cadru de incadrare a cladirilor și terenurilor intravilane din municipiul Turda, in categoria celor neingrijite, a criteriilor și normelor metodologice de aplicare a acesteia, a Regulamentului de organizare și funcționare a Comisiei mixte de Control Consiliul Local al municipiului Turda, intrunit in ședința ordinara din data de 29.11.201 7; Luând în dezbatere proiectul",
+"short": "HCL Turda nr. 375/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-11-29",
+"latest": "2017-11-29",
+"portal": "https://primariaturda.ro/hotararea-nr-375-pentru-aprobarea-procedurii-cadru-de-incadrare-a-cladirilor-si-terenurilor-intravilane-din-municipiul-turda-in-categoria-celor-neingrijite-a-criteriilor-si-normelor-metodologice-de/",
+"council": "cluj/turda",
+"council_name": "Consiliul Local al Municipiului Turda",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

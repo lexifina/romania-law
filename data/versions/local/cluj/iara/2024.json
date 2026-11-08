@@ -3,6 +3,36 @@
  "shard": "local/cluj/iara/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--iara-82-2024",
+   "path": "local/cluj/iara/2024/82",
+   "short": "HCL Iara nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 82/2024 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2024 și a listei de investiții a Comunei Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 08.11.2024, Văzând : a) Proiectul de hotărâre nr. 80 /16.10.2024 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2024 și a listei de investiții a Comunei Iara; Anal",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-82-rectificare-bugetara-luna-noiembrie-2024-2-1.pdf",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-82-rectificare-bugetara-luna-noiembrie-2024-2-1.pdf",
+     "sha256": "6afca5cf130f38ebdfd2b1ed887723019cb5acbcc9169882a64884c163283170"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-83-2024",
+   "path": "local/cluj/iara/2024/83",
+   "short": "HCL Iara nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 83/2024 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al Comunei Iara, pentru trimestrul III al anului 2024, la data de 30.09.2024, precum și darea de seamă la data de 30.09.2024 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 08.11.2024, Văzând : a) Proiectul de hotărâre nr. 84 din data de 28.10. 2024, privind aprobarea contului de e",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-83-executie-venit-si-chelt-data-de-30.09.2024_v.pdf",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-83-executie-venit-si-chelt-data-de-30.09.2024_v.pdf",
+     "sha256": "aad9baa6d40fac6b45fe57e43809d552cccb757b25a76313a025eac7ff22ba71"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--iara-84-2024",
    "path": "local/cluj/iara/2024/84",
    "short": "HCL Iara nr. 84/2024",
@@ -14,6 +44,156 @@
      "units": 1,
      "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-84-modificare-PUG-Iara-si-regulament-local-de-urbanism_v.pdf",
      "sha256": "a09202518f85e26aecafa1d5e30e41e1e9352e6f09c8eb57039d153a0650ee0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-85-2024",
+   "path": "local/cluj/iara/2024/85",
+   "short": "HCL Iara nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 85/2024 privind aprobarea sprijinului financiar de la bugetul local, pentru unitățile de cult religioase din comuna Iara, în anul 2024 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 08.11.2024, Văzând : a) proiectul de hotărâre nr. 87 din 06.11.2024, privind aprobarea sprijinului financiar de la bugetul local, pentru unitățile de cult religioase din comuna Iara, în",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-85-aprobare-sprijin-culte.pdf",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-85-aprobare-sprijin-culte.pdf",
+     "sha256": "bbd24a73dca7075b41aacbf5859d30bd2c37ffb371c273c6fccb8eaa22bcdaec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-88-2024",
+   "path": "local/cluj/iara/2024/88",
+   "short": "HCL Iara nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 88/2024 privind aprobarea rețelei școlare a unităților de învățâmânt preuniversitar de stat la nivelul comunei Iara, județul Cluj pentru anul școlar 2025-2026 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 05.12.2024, Văzând: a) Proiectul de hotărâre nr.89 din data de 27.11.2024, privind aprobarea rețelei școlare a unităților de învățâmânt preuniversitar de stat la",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-88-Aprobarea-retea-scolara-2025-2026.pdf",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-88-Aprobarea-retea-scolara-2025-2026.pdf",
+     "sha256": "48c4dd2c231f061192bdd36c4d2504c8b9d4cae12bfc3a2a90172882fd94b2f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-89-2024",
+   "path": "local/cluj/iara/2024/89",
+   "short": "HCL Iara nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 89/2024 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2024 și a listei de investiții a Comunei Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 05.12.2024, Văzând : a) Proiectul de hotărâre nr. 90 /27.11.2024 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2024 și a listei de investiții a Comunei Iara; Anal",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-89-rectificare-bugetara-luna-decembrie-2024_s.pdf",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-89-rectificare-bugetara-luna-decembrie-2024_s.pdf",
+     "sha256": "97e83babcc85c114005e524d56246a32985cc32ee16093ae3e652f5cebbccb17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-90-2024",
+   "path": "local/cluj/iara/2024/90",
+   "short": "HCL Iara nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 90/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a3614d2ced28e4b8bac572742c24c32664774a97ee9d1fe318db41f92ef82c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-91-2024",
+   "path": "local/cluj/iara/2024/91",
+   "short": "HCL Iara nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 91/2024 privind majorarea valorii proiectului „Modernizare infrastructură rutieră în comuna Iara, județul Cluj” și suportarea diferenței din bugetul local al comunei Iara Consiliul Local al Comunei Iara, județul Cluj, întrunit în ședință la data de 05.12.2024 Văzând: a) Proiectul de hotărâre nr. 92 din data de 28.11.2024, privind privind majorarea valorii proiectului „Modernizare infrastructură rutieră în",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-91-modif-val-Iara-7.2-Infastructura-rutiera.pdf",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-91-modif-val-Iara-7.2-Infastructura-rutiera.pdf",
+     "sha256": "dc23649eb873636e751719e130637a0b77003a908bbed580cac2aa1a2f7a487e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-92-2024",
+   "path": "local/cluj/iara/2024/92",
+   "short": "HCL Iara nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 92/2024 privind casarea unor mijloace fixe și a unor obiecte de inventar din patrimoniul Școlii Gimnaziale Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședință ordinară, în data de 05.12.2024, Văzând : - proiectul de hotărâre nr. 93 din 03.12.2022, privind casarea unor mijloace fixe și a unor obiecte de inventar din patrimoniul Școlii Gimnaziale Iara, - Referatul de aprobare al primarul",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-92-casare-ob-inventar-2024-Scoala-Gimnaziala-Iara.pdf",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-92-casare-ob-inventar-2024-Scoala-Gimnaziala-Iara.pdf",
+     "sha256": "c193d7bfd1b5ee9c112cf3c5276d5bc7cb355d2a0e70c87b7bd596365db16362"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-93-2024",
+   "path": "local/cluj/iara/2024/93",
+   "short": "HCL Iara nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 93/2024",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-93-alegerea-presedinte-de-sedinta.pdf",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-93-alegerea-presedinte-de-sedinta.pdf",
+     "sha256": "daf3f327aa508dd81867c0997cab7013e243207941412f1609969f43c62827a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-94-2024",
+   "path": "local/cluj/iara/2024/94",
+   "short": "HCL Iara nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 94/2024 Privind încetarea contractelor de închiriere nr. 4531/26.05.2022 pentru suprafața de 5,00 Ha; 4533/26.05.2022 pentru suprafața de 6,00 Ha ; 4534/26.05.2022 pentru suprafața de 6,00 Ha ; 4535/26.05.2022 pentru suprafața de 2,00 Ha; 4536/26.05.2022 pentru suprafata de 2,00 Ha; 4548/26.05.2022 pentru suprafata de 9,00Ha și nr. 4550/26.05.2022 pentru suprafața de 8,00 ha, pajiști aflate în domeniul pu",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "59aaac128f81ae01ca52853abb3f772272fcc2e87412eed5788ee90dea887379"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-95-2024",
+   "path": "local/cluj/iara/2024/95",
+   "short": "HCL Iara nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 95/2024 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2024 a Comunei Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 19.12.2024, Văzând : a) Proiectul de hotărâre nr. 96 /18.12 .2024 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2024 ; Analizând temeiurile juridice : a) Art. 15 alin. (2), art. 120 alin",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-95-rectificare-bugetara-luna-decembrie-nr.-2_compressed.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-95-rectificare-bugetara-luna-decembrie-nr.-2_compressed.pdf",
+     "sha256": "b370af1bd32edead5e7d727e07c028a0d50db2401977debe75ed5678fa50f0c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-96-2024",
+   "path": "local/cluj/iara/2024/96",
+   "short": "HCL Iara nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 96/2024 privind închiderea Sectiunii de Funcționare -Sursa E a bugetului Școlii Gimnaziale Iara și preluarea excedentului în Secțiunea de Funcționare- Sursa A, a bugetului local al Comunei Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința extraordinară din data de 19.12.2024, Analizând temeiurile juridice, respectiv: a) Art. 70 alin (3), art 71 alin.(4 ), din Legea nr. 273/2006, priv",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.96-aprobare-preluare-excedent-scoala-.pdf",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.96-aprobare-preluare-excedent-scoala-.pdf",
+     "sha256": "f83fd159d1fee5623b542e65e6b24a64816a95c4aa31cfeff989a6a304b56557"
     }
    ]
   }

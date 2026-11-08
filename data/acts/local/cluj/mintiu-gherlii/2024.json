@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-cluj--mintiu-gherlii-2-2024",
+"path": "local/cluj/mintiu-gherlii/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 2/2024 privind modificarea anexelor nr. 1-6 la HCL nr. 28 din 28.09.2023 privind aprobarea nomenclatorului stradal al comunei Mintiu Gherlii, județul Cluj",
+"short": "HCL Mintiu Gherlii nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163021",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--mintiu-gherlii-3-2024",
 "path": "local/cluj/mintiu-gherlii/2024/3",
 "kind": "local",
@@ -69,6 +91,72 @@
 }
 },
 {
+"slug": "hcl-cluj--mintiu-gherlii-5-2024",
+"path": "local/cluj/mintiu-gherlii/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 5/2024 privind aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al Primarului Comunei Mintiu Gherlii",
+"short": "HCL Mintiu Gherlii nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163024",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-6-2024",
+"path": "local/cluj/mintiu-gherlii/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 6/2024 privind alegerea președintelui de ședință",
+"short": "HCL Mintiu Gherlii nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163025",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-7-2024",
+"path": "local/cluj/mintiu-gherlii/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 7/2024 privind aprobarea bugetului general de venituri și cheltuieli al UAT comuna Mintiu Gherlii",
+"short": "HCL Mintiu Gherlii nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163026",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--mintiu-gherlii-8-2024",
 "path": "local/cluj/mintiu-gherlii/2024/8",
 "kind": "local",
@@ -88,6 +176,94 @@
 "council_name": "Consiliul Local al Comunei Mintiu Gherlii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-9-2024",
+"path": "local/cluj/mintiu-gherlii/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 9/2024 privind însușirea Acordului de cooperare privind organizarea și funcționarea serviciului audit public intern",
+"short": "HCL Mintiu Gherlii nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-23",
+"latest": "2024-07-23",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163028",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-10-2024",
+"path": "local/cluj/mintiu-gherlii/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 10/2024 privind aprobarea Programului anual pentru acordarea de finanțări nerambursabile de la bugetul local al comunei Mintiu Gherlii pentru activități sportive pe anul 2024",
+"short": "HCL Mintiu Gherlii nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163038",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-11-2024",
+"path": "local/cluj/mintiu-gherlii/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 11/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Mintiu Gherlii, începând cu luna februarie 2024",
+"short": "HCL Mintiu Gherlii nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163039",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-12-2024",
+"path": "local/cluj/mintiu-gherlii/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 12/2024 privind aprobarea executării de lucrări pe domeniul public al Comunei Mintiu Gherlii pentru investiția ''Asfaltare străzi în comuna Mintiu Gherlii, județul Cluj''",
+"short": "HCL Mintiu Gherlii nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163040",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-cluj--mintiu-gherlii-15-2024",
+"path": "local/cluj/mintiu-gherlii/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 15/2024 privind aprobarea scutirii de la plata majorărilor de întârziere și penalităților aferente obligațiilor bugetare constând în impozite și taxe locale, redevențe, chirii și alte venituri datorate bugetului local de către persoanele fizice de pe raza administrativ-teritorială a comunei Mintiu Gherlii",
+"short": "HCL Mintiu Gherlii nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163045",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--mintiu-gherlii-16-2024",
 "path": "local/cluj/mintiu-gherlii/2024/16",
 "kind": "local",
@@ -154,6 +352,94 @@
 "council_name": "Consiliul Local al Comunei Mintiu Gherlii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-17-2024",
+"path": "local/cluj/mintiu-gherlii/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 17/2024 privind aprobarea contului anual de execuție a bugetului local pe anul 2023",
+"short": "HCL Mintiu Gherlii nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163047",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-18-2024",
+"path": "local/cluj/mintiu-gherlii/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 18/2024 privind aprobarea contului de execuție a bugetului local al comunei Mintiu Gherlii la data de 31.03.2024",
+"short": "HCL Mintiu Gherlii nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163048",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-19-2024",
+"path": "local/cluj/mintiu-gherlii/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 19/2024 privind aprobarea documentației tehnico-economice faza Proiect Tehnic, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ''Modernizare străzi Lot 2 în comuna Mintiu Gherlii, județul Cluj'', aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Mintiu Gherlii nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163049",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-20-2024",
+"path": "local/cluj/mintiu-gherlii/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 20/2024 privind alegerea președintelui de ședință",
+"short": "HCL Mintiu Gherlii nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163050",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +484,226 @@
 "council_name": "Consiliul Local al Comunei Mintiu Gherlii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-23-2024",
+"path": "local/cluj/mintiu-gherlii/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 23/2024 privind utilizarea unei sume de bani din bugetul local pentru organizarea evenimentului cultural-artistic ''Impanatul Boului''",
+"short": "HCL Mintiu Gherlii nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163053",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-24-2024",
+"path": "local/cluj/mintiu-gherlii/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 24/2024 privind majorarea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale ''Administrație'' din aparatul de specialitate al primarului comunei Mintiu Gherlii începând cu luna iunie 2024",
+"short": "HCL Mintiu Gherlii nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163054",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-25-2024",
+"path": "local/cluj/mintiu-gherlii/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 25/2024 privind aprobarea, în conformitate cu prevederile Legii nr. 296/2023, a organigramei și a statului de funcții pentru aparatul de specialitate al primarului Comunei Mintiu Gherlii",
+"short": "HCL Mintiu Gherlii nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163055",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-26-2024",
+"path": "local/cluj/mintiu-gherlii/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 26/2024 privind rectificarea bugetului local al Comunei Mintiu Gherlii, pe anul 2024",
+"short": "HCL Mintiu Gherlii nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/163056",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-27-2024",
+"path": "local/cluj/mintiu-gherlii/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 27/2024 privind reavizarea protocolului de colaborare privind implementarea proiectului „HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+"short": "HCL Mintiu Gherlii nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/164078",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-28-2024",
+"path": "local/cluj/mintiu-gherlii/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 28/2024 privind schimbarea destinatiei unui imobil apartinand domeniului public al comunei Mintiu Gherlii din spatiu de invatamant in spatiu necesar organizarii de tabere pentru copii",
+"short": "HCL Mintiu Gherlii nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/164079",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-29-2024",
+"path": "local/cluj/mintiu-gherlii/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 29/2024 privind aprobarea majorarii cotizatieii lunare in calitate de membru asociat a comunei Mintiu Gherlii la Asociatia Clubul Sportiv Vulturul 2020 Mintiu Gherlii",
+"short": "HCL Mintiu Gherlii nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/164080",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-30-2024",
+"path": "local/cluj/mintiu-gherlii/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 30/2024 privind alegerea presedintelui de sedinta",
+"short": "HCL Mintiu Gherlii nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/164081",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-31-2024",
+"path": "local/cluj/mintiu-gherlii/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 31/2024 privind aprobarea rectificarii bugetului de venituri si cheltuieli al comunei Mintiu Gherlii pe anul 2024",
+"short": "HCL Mintiu Gherlii nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/164082",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-32-2024",
+"path": "local/cluj/mintiu-gherlii/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 32/2024 privind aprobarea sprijinului financiar pentru unităţile de cult aparţinând cultelor religioase recunoscute din România pentru anul 2024",
+"short": "HCL Mintiu Gherlii nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-19",
+"latest": "2024-09-19",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/169368",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

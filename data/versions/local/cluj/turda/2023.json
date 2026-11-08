@@ -3,6 +3,36 @@
  "shard": "local/cluj/turda/2023",
  "acts": [
   {
+   "slug": "hcl-cluj--turda-11-2023",
+   "path": "local/cluj/turda/2023/11",
+   "short": "HCL Turda nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 11/2023 privind aprobarea bugetului de venituri și cheltuieli al municipiului Turda pe anul 2023 Consiliul Local al municipiului Turda întrunit în ședință ordinară din data de 31.01.2023",
+   "url": "https://primariaturda.ro/hotararea-nr-11-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-municipiului-turda-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2023/11%20din%2031.01.2023.pdf",
+     "sha256": "19ae5fd2ba492456a9f424839f650034cecf98cf70d0310bbde852f31019b33a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-14-2023",
+   "path": "local/cluj/turda/2023/14",
+   "short": "HCL Turda nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 14/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2023/14%20din%2031.01.2023.pdf",
+     "sha256": "b79d191f687f3c129b692bb7a33b4850b1565a5d73d111a62d63eec5d4f20703"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-144-2023",
    "path": "local/cluj/turda/2023/144",
    "short": "HCL Turda nr. 144/2023",
@@ -74,6 +104,21 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2023/149%20din%2020.07.2023.pdf",
      "sha256": "80e55731990fb0b5f04fa7b7bbe92c931b1a0034995b72e147216a3612517bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-15-2023",
+   "path": "local/cluj/turda/2023/15",
+   "short": "HCL Turda nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 15/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2023/15%20din%2031.01.2023.pdf",
+     "sha256": "63583bb446108735c908a98f130a02fbd8572d811973619d413393482168d93b"
     }
    ]
   },
@@ -179,6 +224,21 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2023/159%20din%2007.08.2023.pdf",
      "sha256": "31a687ed733e2d7bf52078b9d096de746b209550023599161d0fcccb21aab1d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-16-2023",
+   "path": "local/cluj/turda/2023/16",
+   "short": "HCL Turda nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 16/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2023/16%20din%2031.01.2023.pdf",
+     "sha256": "dd87d805cfa19055165440e961908b014ea9895a52e1717f2080ace5291af1c7"
     }
    ]
   },
@@ -374,6 +434,21 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2023/192%20din%2031.08.2023.pdf",
      "sha256": "3c9e81fbb7d04106f08fd41c54363b0a00bf31359bb8f7d4b81f1ebbd738eb86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-20-2023",
+   "path": "local/cluj/turda/2023/20",
+   "short": "HCL Turda nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 20/2023 privind aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru perioada ianuarie — decembrie 2023 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 31.01.2023; Luând în dezbatere proiectul de hotărâre privind aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru perioada ianuarie — decembrie 2023, proiect el",
+   "url": "https://primariaturda.ro/hotararea-nr-20-privind-aprobarea-programului-de-activitati-al-casei-de-cultura-a-municipiului-turda-pentru-perioada-ianuarie-decembrie-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2023/20%20din%2031.01.2023.pdf",
+     "sha256": "14c757ae42de86aced540f38e4253b2ab69cf4a5f6bfeef53de0a3b3e7b546d7"
     }
    ]
   },
@@ -809,6 +884,36 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2023/314%20din%2028.12.2023.pdf",
      "sha256": "cc6c937a7da31ec44e0059a4a8857cede59da862c794996634eb48cf2efaf53b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-4-2023",
+   "path": "local/cluj/turda/2023/4",
+   "short": "HCL Turda nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 4/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2023/4%20din%2017.01.2023.pdf",
+     "sha256": "3eb9b26396e8cb59e3379416f4762bcd348104c4a409905cd5fa25de56e472e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-5-2023",
+   "path": "local/cluj/turda/2023/5",
+   "short": "HCL Turda nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 5/2023 privind aprobarea devizului general actualizat conform OUG nr. 64/2022 și OG 15/2021 și a principalilor indicatori tehnico-economici al obiectivului: „Revitalizarea spațiului pietonal din zona centrală a Municipiului Turda” Consiliul Local al Municipiului Turda întrunit în ședința extraordinară din data de 17.01.2023; Luând în dezbatere proiectul de hotărâre cu privire la aprobarea devizului gener",
+   "url": "https://primariaturda.ro/hotararea-nr-5-privind-aprobarea-devizului-general-actualizat-conform-oug-nr-64-2022-si-og-15-2021-si-a-principalilor-indicatori-tehnico-economici-al-obiectivului-revitalizarea-spatiului-p/",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2023/5%20din%2017.01.2023.pdf",
+     "sha256": "700e2420cc76acd8bf226ff332f5cf1850926c890a27db245f05ea65553c2f49"
     }
    ]
   }

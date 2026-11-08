@@ -3,6 +3,36 @@
  "shard": "local/cluj/turda/2018",
  "acts": [
   {
+   "slug": "hcl-cluj--turda-103-2018",
+   "path": "local/cluj/turda/2018/103",
+   "short": "HCL Turda nr. 103/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 103/2018 privind aprobarea operațiunii de dezmembrare a imobilului înscris în CF. nr. 63406 Turda, nr",
+   "url": "https://primariaturda.ro/hotararea-nr-103-privind-aprobarea-operatiunii-de-dezmembrare-a-imobilului-inscris-in-cf-nr-63406-turda-nr-cadastral-63406/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/103%20din%2026.04.2018.pdf",
+     "sha256": "498c24120de3021d110e03fe7806d401216f2e1466be35d8a0e99ecda56c1701"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-104-2018",
+   "path": "local/cluj/turda/2018/104",
+   "short": "HCL Turda nr. 104/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 104/2018 privind aprobarea Planului Urbanistic de Detaliu — Construire restaurant P+1+M în municipiul Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-104-privind-aprobarea-planului-urbanistic-de-detaliu-construire-restaurant-p1m-in-municipiul-turda-str-rosiori-nr-14/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/104%20din%2026.04.2018.pdf",
+     "sha256": "4c88caa7780478281347220a581f8f1b621a25782b94e72e41e71427533b2c1f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-105-2018",
    "path": "local/cluj/turda/2018/105",
    "short": "HCL Turda nr. 105/2018",
@@ -14,6 +44,81 @@
      "units": 1,
      "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/105%20din%2026.04.2018.pdf",
      "sha256": "fb9084e88082c61507098f8c9a4d32499267f0f0e2dead532310355d131b7ae4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-114-2018",
+   "path": "local/cluj/turda/2018/114",
+   "short": "HCL Turda nr. 114/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 114/2018 privind aprobarea cheltuielilor pentru organizarea, în parteneriat cu Asociația Handbal Club Potaissa Turda a finalei Cupei Challenge EHF 2018 Consiliul Local al Municipiului Turda întrunit în sedinșa de îndată din data de 07.05.2018",
+   "url": "https://primariaturda.ro/hotararea-nr-114-privind-aprobarea-cheltuielilor-pentru-organizarea-in-parteneriat-cu-asociatia-handbal-club-potaissa-turda-a-finalei-cupei-challenge-ehf-2018/",
+   "versions": [
+    {
+     "from": "2018-05-07",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/114%20din%2007.05.2018.pdf",
+     "sha256": "5f261da42590439a076de86e1431607b9221d936ac8c5f32792e672ed481be0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-131-2018",
+   "path": "local/cluj/turda/2018/131",
+   "short": "HCL Turda nr. 131/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 131/2018 privind aprobarea bugetului de venituri și cheltuieli aferent anului competițional 2017-2018 — retur al Asociației Club Sportiv Sticla Arieșul Turda Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 29.05.2018",
+   "url": "https://primariaturda.ro/hotararea-nr-131-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-aferent-anului-competitional-2017-2018-retur-al-asociatiei-club-sportiv-sticla-ariesul-turda/",
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/131%20din%2029.05.2018.pdf",
+     "sha256": "6a0c4ce653a16eda4fc0e59bc5bb337afe1ca7b49f35c72425e2699e1fc89a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-135-2018",
+   "path": "local/cluj/turda/2018/135",
+   "short": "HCL Turda nr. 135/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 135/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/135%20din%2029.05.2018.pdf",
+     "sha256": "e9520324d2c6998227684057d5c4cdd985d0e48ed8e6f0b5db106252d06740c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-137-2018",
+   "path": "local/cluj/turda/2018/137",
+   "short": "HCL Turda nr. 137/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 137/2018 privind atribuirea imobilului situat în municipiul Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-137-privind-atribuirea-imobilului-situat-in-municipiul-turda-str-republicii-nr-15-ap-12-catre-partidul-alianta-liberalilor-si-democratilor-alde-filiala-turda/",
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/137%20din%2029.05.2018.pdf",
+     "sha256": "f16968204d11fbd7e6bafefc6c8bfa044c8d922fd050f670e6083739a4748804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-138-2018",
+   "path": "local/cluj/turda/2018/138",
+   "short": "HCL Turda nr. 138/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 138/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/138%20din%2029.05.2018.pdf",
+     "sha256": "f9e38c77da6c02952826dafc564ae2efd491e2ad798bd84d00e333fa36bd0d3c"
     }
    ]
   },
@@ -44,6 +149,96 @@
      "units": 1,
      "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/143%20din%2029.05.2018.pdf",
      "sha256": "dd8e35d12bbc3e66b32fc7518253bc0111723073686563285327a8f964ef147d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-148-2018",
+   "path": "local/cluj/turda/2018/148",
+   "short": "HCL Turda nr. 148/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 148/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/148%20din%2013.06.2018.pdf",
+     "sha256": "e9f010ac63ad0d4e18948de160228b313610f0774796c46408f0a0ad5b6c76e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-172-2018",
+   "path": "local/cluj/turda/2018/172",
+   "short": "HCL Turda nr. 172/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 172/2018 privind alocarea sumei de 8333 lei de la bugetul local pe anul 2018 pentru Biserica Adventistă de ziua a Șaptea din România — Conferința Transilvania de Nord în vederea realizării proiectului “Lucrări de reparații curente la clădirea bisericii — finisaje interioare și acoperiș” Consiliul Local al Municipiului Turda, întrunit în ședința de îndată din data de 13.06.2018",
+   "url": "https://primariaturda.ro/hotararea-nr-172-privind-alocarea-sumei-de-8333-lei-de-la-bugetul-local-pe-anul-2018-pentru-biserica-adventista-de-ziua-a-saptea-din-romania-conferinta-transilvania-de-nord-in-vederea-reali/",
+   "versions": [
+    {
+     "from": "2018-06-13",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/172%20din%2013.06.2018.pdf",
+     "sha256": "ca19d4c11cdcd6f37aace95874dedcd08390eead1d94182af686f52daf6f5386"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-273-2018",
+   "path": "local/cluj/turda/2018/273",
+   "short": "HCL Turda nr. 273/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 273/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/273%20din%2014.08.2018.pdf",
+     "sha256": "5a7088fb6bbb81a93a4c31c7aa76bec5284cb0e83516df158dc9ff789e67aebe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-274-2018",
+   "path": "local/cluj/turda/2018/274",
+   "short": "HCL Turda nr. 274/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 274/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/274%20din%2014.08.2018.pdf",
+     "sha256": "3b44532c8dc3662e0b4bc0cac2e1e3aa3494be2053ab4085bbc8d68365bea88b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-276-2018",
+   "path": "local/cluj/turda/2018/276",
+   "short": "HCL Turda nr. 276/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 276/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/276%20din%2014.08.2018.pdf",
+     "sha256": "77c91ef6c268c8bf1b943f62e7814bb9d4a23956f689438017a20a67d99d8272"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-277-2018",
+   "path": "local/cluj/turda/2018/277",
+   "short": "HCL Turda nr. 277/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 277/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/277%20din%2014.08.2018.pdf",
+     "sha256": "4ac07e64a64e58175a717e8fa6a9f6c511473b16f3f1f292208522ca2f9b6d2c"
     }
    ]
   },
@@ -93,6 +288,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-340-2018",
+   "path": "local/cluj/turda/2018/340",
+   "short": "HCL Turda nr. 340/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 340/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/340%20din%2019.11.2018.pdf",
+     "sha256": "1eb3ab2700289ada39593a138e2b5370717caa66a4a7480815fedbd53def17f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-342-2018",
+   "path": "local/cluj/turda/2018/342",
+   "short": "HCL Turda nr. 342/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 342/2018 privind revocarea dreptului de administrare al Județului Cluj asupra imobilului teren, situat administrativ în Municipiul Turda, str. Cheii, fn Consiliul Local al Municipiului Turda, întrunit în ședința de îndată din data de 19.11.2018; Luând în dezbatere proiectul de hotărâre privind revocarea dreptului de administrare al Județului Cluj asupra imobilului teren, situat administrativ în Municipiul",
+   "url": "https://primariaturda.ro/hotararea-nr-342-privind-revocarea-dreptului-de-administrare-al-judetului-cluj-asupra-imobilului-teren-situat-administrativ-in-municipiul-turda-str-cheii-fn/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "http://www.primariaturda.ro/uploads/hcl/2018/342%20din%2019.11.2018.pdf",
+     "sha256": "fd5f6ba69ae0cc50c8430183f58966d798b96bc6994e951b135abeb688946137"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-351-2018",
    "path": "local/cluj/turda/2018/351",
    "short": "HCL Turda nr. 351/2018",
@@ -108,6 +333,111 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-352-2018",
+   "path": "local/cluj/turda/2018/352",
+   "short": "HCL Turda nr. 352/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 352/2018 privind aprobarea execuției bugetare la data de 30.09.2018 a societății Salina Turda S.A",
+   "url": "https://primariaturda.ro/hotararea-nr-352-privind-aprobarea-executiei-bugetare-la-data-de-30-09-2018-a-societatii-salina-turda-s-a/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2018/352%20din%2028.11.2018.pdf",
+     "sha256": "d43a0421fb278763ca29742dadd2564a357822cbc2767df70771bde2d224ffc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-358-2018",
+   "path": "local/cluj/turda/2018/358",
+   "short": "HCL Turda nr. 358/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 358/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2018/358%20din%2028.11.2018.pdf",
+     "sha256": "1c61fd895c26e173d64d7e8cdc30f76b44e3dd8c59cc70d7b74787fae58d757d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-365-2018",
+   "path": "local/cluj/turda/2018/365",
+   "short": "HCL Turda nr. 365/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 365/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2018/365%20din%2020.12.2018.pdf",
+     "sha256": "2d5b3db5f4f7c2f0a42c99b0927e02fae50ccc6911c1a30eac2868682804313c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-366-2018",
+   "path": "local/cluj/turda/2018/366",
+   "short": "HCL Turda nr. 366/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 366/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2018/366%20din%2020.12.2018.pdf",
+     "sha256": "e32d1c0007099d0eaf9cadeb2350494a90f57094d6351034cce77e635d57f4ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-368-2018",
+   "path": "local/cluj/turda/2018/368",
+   "short": "HCL Turda nr. 368/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 368/2018 privind aprobarea rectificării anexei nr. 1 din bugetul de venituri și cheltuieli al societății Administrarea Patrimoniului Imobiliar Turda SRI, Consiliul Local al municipiului Turda întrunit în ședință ordinara în data de 20.12.2018",
+   "url": "https://primariaturda.ro/hotararea-nr-368-privind-aprobarea-rectificarii-anexei-nr-1-din-bugetul-de-venituri-si-cheltuieli-al-societatii-administrarea-patrimoniului-imobiliar-turda-srl/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2018/368%20din%2020.12.2018.pdf",
+     "sha256": "741c24f38d729389e70965a7cbd291a29ed39f53fd6e051196ba02d158088ea7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-369-2018",
+   "path": "local/cluj/turda/2018/369",
+   "short": "HCL Turda nr. 369/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 369/2018 privind aprobarea modificării unor poziții din anexa la Hotărârea Consiliului Local al Municipiului Turda nr. 145/1999 Consiliul Local al Municipiului Turda, întrunit în ședință ordinară în data de 20.12.2018; Luând în dezbatere proiectul de hotărâre privind aprobarea modificării unor poziții din anexa la Hotărârea Consiliului Local al Municipiului Turda nr. 145/1999, elaborat din inițiativa Prima",
+   "url": "https://primariaturda.ro/hotararea-nr-369-privind-aprobarea-modificarii-unor-pozitii-din-anexa-la-hotararea-consiliului-local-al-municipiului-turda-nr-145-1999/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2018/369%20din%2020.12.2018.pdf",
+     "sha256": "0f82167a3bc77187b2a7cafba1e0085ebdd2f11172f3ca68e0582746c186e86a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-373-2018",
+   "path": "local/cluj/turda/2018/373",
+   "short": "HCL Turda nr. 373/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 373/2018 privind acordarea unui mandat special reprezentantului Municipiului Turda în Adunarea Generală a Acționarilor a Societății Compania de Apă Arieș S.A",
+   "url": "https://primariaturda.ro/hotararea-nr-373-privind-acordarea-unui-mandat-special-reprezentantului-municipiului-turda-in-adunarea-generala-a-actionarilor-a-societatii-compania-de-apa-aries-s-a/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2018/373%20din%2020.12.2018.pdf",
+     "sha256": "80579b249366a5bf5c1db8c2cc132d19e5ddf7479c3f83a02759839bbe6abaca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-374-2018",
    "path": "local/cluj/turda/2018/374",
    "short": "HCL Turda nr. 374/2018",
@@ -119,6 +449,21 @@
      "units": 1,
      "source_url": "http://primariaturda.ro/uploads/hcl/2018/374%20din%2020.12.2018.pdf",
      "sha256": "d0bdd2ebf86dc11de27030a2af7cb5d350b5197448b404f484f64cd5f48fff12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-375-2018",
+   "path": "local/cluj/turda/2018/375",
+   "short": "HCL Turda nr. 375/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 375/2018 privind aprobarea Planului anual de acțiuni sau lucrări de interes local, pentru persoane majore apte de muncă, beneficiare ale prevederilor Legii nr. 416/2001, privind venitul minim garantat și calculul valoric estimat al muncii ce se va presta de aceștia Consiliul Local al municipiului Turda, intrunit in ședință ordinară în data de 20.12.2018; Luand in dezbatere proiectul de hotarare privind apr",
+   "url": "https://primariaturda.ro/hotararea-nr-375-privind-aprobarea-planului-anual-de-actiuni-sau-lucrari-de-interes-local-pentru-persoane-majore-apte-de-munca-beneficiare-ale-prevederilor-legii-nr-416-2001-privind-venitul-minim/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2018/375%20din%2020.12.2018.pdf",
+     "sha256": "501eed20044502af3e31c31752c7c5d9bf44c337a9a6797b8a05260042450b95"
     }
    ]
   }

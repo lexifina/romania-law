@@ -3,6 +3,51 @@
 "shard": "local/cluj/sandulesti/2026",
 "acts": [
 {
+"slug": "hcl-cluj--sandulesti-17-2026",
+"path": "local/cluj/sandulesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 17/2026 privind aprobarea modificării organigramei aparatului de specialitate al primarului comunei Săndulești pentru anul 2026",
+"short": "HCL Săndulești nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/275564",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-18-2026",
+"path": "local/cluj/sandulesti/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 18/2026",
+"short": "HCL Săndulești nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/275565",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--sandulesti-19-2026",
 "path": "local/cluj/sandulesti/2026/19",
 "kind": "local",
@@ -91,6 +136,50 @@
 }
 },
 {
+"slug": "hcl-cluj--sandulesti-23-2026",
+"path": "local/cluj/sandulesti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 23/2026 privind închirierea prin licitație publică a imobilului din localitatea Săndulești, nr. 170 (fostul dispensar uman) în suprafață de 60 mp",
+"short": "HCL Săndulești nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/275570",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-24-2026",
+"path": "local/cluj/sandulesti/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 24/2026 privind alegerea preşedintelui de şedinţă al consiliului local al comunei Săndulești",
+"short": "HCL Săndulești nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/275576",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sandulesti-25-2026",
 "path": "local/cluj/sandulesti/2026/25",
 "kind": "local",
@@ -135,6 +224,72 @@
 }
 },
 {
+"slug": "hcl-cluj--sandulesti-27-2026",
+"path": "local/cluj/sandulesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 27/2026 privind însușirea Raportului final al Comisiei de selecție și nominalizare a candidaților pentru ocuparea posturilor de membru în Consiliul de administrație al societății Transport Urban Public SRL și numirea membrilor în Consiliul de administrație al societății Transport Urban Public SRL",
+"short": "HCL Săndulești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/275624",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-28-2026",
+"path": "local/cluj/sandulesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 28/2026 privind aprobarea bugetului de venituri și cheltuieli rectificat pentru anul 2026",
+"short": "HCL Săndulești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/275625",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-29-2026",
+"path": "local/cluj/sandulesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 29/2026 privind aprobarea modificării statului de funcții al aparatului de specialitate al primarului comunei Săndulești",
+"short": "HCL Săndulești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/275626",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sandulesti-30-2026",
 "path": "local/cluj/sandulesti/2026/30",
 "kind": "local",
@@ -157,6 +312,138 @@
 }
 },
 {
+"slug": "hcl-cluj--sandulesti-31-2026",
+"path": "local/cluj/sandulesti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 31/2026 privind alegerea preşedintelui de şedinţă al consiliului local al comunei Săndulești pentru perioada iulie-septembrie 2026",
+"short": "HCL Săndulești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/295556",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-32-2026",
+"path": "local/cluj/sandulesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 32/2026 privind modificarea art. 5, HCL nr. 55 din 22.10.2025 privind implementarea proiectului \"Achizitionare tractor în comuna Săndulești, jud. Cluj\"",
+"short": "HCL Săndulești nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/295557",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-33-2026",
+"path": "local/cluj/sandulesti/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 33/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Săndulești nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/295558",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-34-2026",
+"path": "local/cluj/sandulesti/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 34/2026 privind acordarea unui sprijin financiar catre asociatia \"Asociația casa colecțiilor\" pentru organizarea proiectului cultural \"DOCFEST EDIȚIA A II-A FESTIVAL DE FILM DOCUMENTAR ÎN CHEILE COPANDULUI\"",
+"short": "HCL Săndulești nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/295559",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-35-2026",
+"path": "local/cluj/sandulesti/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 35/2026 privind acoradrea unui sprijin financiar în suma de 18 000 lei echipei de dansuri moderne Infinity a școlii gimnaziale Simion Balint Copăceni pentru deplasarea într-o tabără de pregătire",
+"short": "HCL Săndulești nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/295560",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-36-2026",
+"path": "local/cluj/sandulesti/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 36/2026 privind aprobarea sprijinului financiar pentru unitățile de cult aparținând cultelor religioase recunoscute din România pentr anul 2026",
+"short": "HCL Săndulești nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-22",
+"latest": "2026-06-22",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/295561",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sandulesti-37-2026",
 "path": "local/cluj/sandulesti/2026/37",
 "kind": "local",
@@ -176,6 +463,28 @@
 "council_name": "Consiliul Local al Comunei Săndulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sandulesti-38-2026",
+"path": "local/cluj/sandulesti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săndulești nr. 38/2026 privind aprobarea Bugetului de venituri si cheltuieli al societatii Transport Urban Public SRL , pentru exercitiul financiar al anului 2026 si a listeti de investitii pe anul 2026",
+"short": "HCL Săndulești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-07",
+"latest": "2026-07-07",
+"portal": "https://emol.ro/sandulesti-cj/registru-hcl/295570",
+"council": "cluj/sandulesti",
+"council_name": "Consiliul Local al Comunei Săndulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

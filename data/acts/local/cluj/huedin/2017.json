@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/huedin/2017",
+"acts": [
+{
+"slug": "hcl-cluj--huedin-66-2017",
+"path": "local/cluj/huedin/2017/66",
+"kind": "local",
+"year": "2017",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Huedin nr. 66/2017",
+"short": "HCL Huedin nr. 66/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-04-28",
+"latest": "2017-04-28",
+"portal": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+"council": "cluj/huedin",
+"council_name": "Consiliul Local al Orașului Huedin",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

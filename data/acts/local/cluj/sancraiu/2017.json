@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/sancraiu/2017",
+"acts": [
+{
+"slug": "hcl-cluj--sancraiu-28-2017",
+"path": "local/cluj/sancraiu/2017/28",
+"kind": "local",
+"year": "2017",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 28/2017 Privind modificarea HCL nr. 28-27.07.2017 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Sâncraiu",
+"short": "HCL Sâncraiu nr. 28/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-27",
+"latest": "2017-07-27",
+"portal": "https://sancraiu.ro/ro/hotarari-2021/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

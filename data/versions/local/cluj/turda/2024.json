@@ -798,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-19-2024",
+   "path": "local/cluj/turda/2024/19",
+   "short": "HCL Turda nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 19/2024",
+   "url": "https://primariaturda.ro/consiliul-local/hotararile-consiliului-local/anul-2024/page/9/",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2024/161%20din%2029.08.2024.pdf",
+     "sha256": "b93aa2f64dd5604086bd3e96d7d0ab8a3b728e35cbee59f5a5d848e3c210b562"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-190-2024",
    "path": "local/cluj/turda/2024/190",
    "short": "HCL Turda nr. 190/2024",

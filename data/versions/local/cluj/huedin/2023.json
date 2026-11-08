@@ -1,0 +1,2766 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/huedin/2023",
+ "acts": [
+  {
+   "slug": "hcl-cluj--huedin-1-2023",
+   "path": "local/cluj/huedin/2023/1",
+   "short": "HCL Huedin nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 1/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-1-05.01.2023-aprobare-acoperire-definitiva-din-excedentul-anilor-precedenti-a-sumelor-repartizate-din-acesta-in-cursul-anului-2022.pdf",
+     "sha256": "3158d18f3b1615b4fe5273eddc758d5539f3c50f4bdc232aae8135f49aee1d74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-10-2023",
+   "path": "local/cluj/huedin/2023/10",
+   "short": "HCL Huedin nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 10/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-10-27.01.2023-aprobare-Organigrama-si-Statul-de-Functii-al-Spitalului-Orasenesc-Huedin-actualizat-la-data-de-01.01.2023.pdf",
+     "sha256": "43a74669283a6b25b7734f06dbeaeddcfde32c4f9c1bbfda76ced2a278ae9a86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-100-2023",
+   "path": "local/cluj/huedin/2023/100",
+   "short": "HCL Huedin nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 100/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-100-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-sursa-A-pe-trim.III-2023-cu-suma-de-1.948.60945-lei.pdf",
+     "sha256": "2f156cdd8a489cf30e58022106ed77f90cb609b9f72dd4fcdbf9a8134f62c19c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-101-2023",
+   "path": "local/cluj/huedin/2023/101",
+   "short": "HCL Huedin nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 101/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-101-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-sursa-A-pe-trim.III-2023-cu-suma-de-5.100.92340-lei.pdf",
+     "sha256": "cf43472033b55a890f25c239ddc31dbcc83c0c53f2ef4c913fd00256b7b6b49c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-102-2023",
+   "path": "local/cluj/huedin/2023/102",
+   "short": "HCL Huedin nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 102/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-102-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-sursa-A-pe-trim.III-2023-cu-suma-de-1.211.43709-lei.pdf",
+     "sha256": "5198a45bdee4e9c338e6fea81f2777d0ad39c3d55b9fcf16022ef372655da561"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-103-2023",
+   "path": "local/cluj/huedin/2023/103",
+   "short": "HCL Huedin nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 103/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-103-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-sursa-A-pe-trim.III-2023-cu-suma-de-1.768.18265-LEI.pdf",
+     "sha256": "011cbdd36bede3faea3274d66f7fa7c2d446e9b84e25d65707d62c693cc5c176"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-104-2023",
+   "path": "local/cluj/huedin/2023/104",
+   "short": "HCL Huedin nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 104/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-104-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-sursa-A-pe-trim.III-2023-cu-suma-de-293.83793-lei.pdf",
+     "sha256": "bd29ebd1d082dfbd9abd6b218d9455c1f55ed80c0614c04caf0120dc2c4aac4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-105-2023",
+   "path": "local/cluj/huedin/2023/105",
+   "short": "HCL Huedin nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 105/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-105-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-sursa-A-pe-trim.III-2023-cu-suma-de-293.83793-lei.pdf",
+     "sha256": "39f7b89e27bc896622ad396be74fabb88c3a7f3f7bc254ba5e450e003ea70580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-106-2023",
+   "path": "local/cluj/huedin/2023/106",
+   "short": "HCL Huedin nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 106/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-106-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-sursa-A-pe-trim.III-2023-cu-suma-de-2.909.79221-LEI.pdf",
+     "sha256": "f4fa5ed36ef0f81b9d511e08442d0408ec7a32eecbcc0d1ab702c0fa027d8670"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-107-2023",
+   "path": "local/cluj/huedin/2023/107",
+   "short": "HCL Huedin nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 107/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-107-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-sursa-A-pe-trim.III-2023-cu-suma-de-16.962.69677-lei.pdf",
+     "sha256": "bedce1b553ce0e90a4d6f542b870b5f65743e9199ee50898ddad1ebc8bf916e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-108-2023",
+   "path": "local/cluj/huedin/2023/108",
+   "short": "HCL Huedin nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 108/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-108-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-a-Gradinitei-Prichindeii-Veseli-intre-titluri-si-aliniate.pdf",
+     "sha256": "2cb2f641e09dbbf45d9f97c4d3ca87e16917203f7a34f4c5de7e3877892b7117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-109-2023",
+   "path": "local/cluj/huedin/2023/109",
+   "short": "HCL Huedin nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 109/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-109-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-a-Liceului-O.Goga-intre-titluri-si-aliniate.pdf",
+     "sha256": "4b95519dfd518cb72e15b715266ab6a8926fdebc4982bbe72d1878e0ade36e75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-11-2023",
+   "path": "local/cluj/huedin/2023/11",
+   "short": "HCL Huedin nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 11/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-11-27.01.2023-aprobare-Regulament-privind-prestarea-activitatii-in-folosul-comunitatii.pdf",
+     "sha256": "297c884b9480bf46e0f5769e08264ab5af8005c0230575d5e2940487960e24cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-110-2023",
+   "path": "local/cluj/huedin/2023/110",
+   "short": "HCL Huedin nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 110/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-110-17.08.2023-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-a-Liceului-Tehnologioc-Vladeasa-Huedin-intre-titluri-si-aliniate.pdf",
+     "sha256": "07c5770003fe04fcff18653e1d47f3495dade8d24e722c12ead2ce72ffa00037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-111-2023",
+   "path": "local/cluj/huedin/2023/111",
+   "short": "HCL Huedin nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 111/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-111-17.08.2023-aprobarea-preluarii-ca-venit-a-sumei-de-63.315-lei-Lic.-O.-Goga.pdf",
+     "sha256": "3a229fdcf7b177e4cf2ce2812f0c77d94494fd7b118d034b0b0e91962118ef57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-112-2023",
+   "path": "local/cluj/huedin/2023/112",
+   "short": "HCL Huedin nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 112/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-112-25.08.2023-reorganizare-RETEA-SCOLARA-2023-2024.pdf",
+     "sha256": "76c4db774163377b1d4463d9799bce0ebfb4181e7b50504567bdf110eb4114d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-113-2023",
+   "path": "local/cluj/huedin/2023/113",
+   "short": "HCL Huedin nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 113/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-113-25.08.2023-executare-lucrari-domeniul-public.pdf",
+     "sha256": "9d2def768f59662b97a3cadb5a316beafc291369137e5a93907872cf090f18cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-114-2023",
+   "path": "local/cluj/huedin/2023/114",
+   "short": "HCL Huedin nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 114/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-114-25.08.2023-desemnare-adminsitrator-provizoriu-SC-Salubriterm-Serv-SRL.pdf",
+     "sha256": "3ae31cf831d1c47127107e56bf2bf8722049bd7e8727b823c8cf12d00fedc66a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-115-2023",
+   "path": "local/cluj/huedin/2023/115",
+   "short": "HCL Huedin nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 115/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-115-31.08.2023-neasumare-resp.organiz-proceduri-atribuire-contractew-achizitie-produse-program-pt.-scoli.pdf",
+     "sha256": "7a65004c35a90d8f0545ae662054cc9d9859da57450eb02f01cb939d71a11f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-116-2023",
+   "path": "local/cluj/huedin/2023/116",
+   "short": "HCL Huedin nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 116/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-116-12.09.20230-aprobare-rectificare-buget-2023-cu-suma-de-348.000-lei.pdf",
+     "sha256": "53a956011725755e7db12512d0737c69996a719bc75584ddc154c38bc61a1e3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-117-2023",
+   "path": "local/cluj/huedin/2023/117",
+   "short": "HCL Huedin nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 117/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-117-12.09.20230-aprobare-rectificare-buget-2023-cu-suma-de15.000-lei.pdf",
+     "sha256": "b58d82972ada2f0502f6fc37d35812c98df6f575204deaf05a62db2bc99f3f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-118-2023",
+   "path": "local/cluj/huedin/2023/118",
+   "short": "HCL Huedin nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 118/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-118-12.09.20230-aprobare-rectificare-buget-2023-cu-suma-de-10.225-lei.pdf",
+     "sha256": "489033e64e1e5860aad2d93cbd7b43e7d3c392b80da70eebaa083137dc7200aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-119-2023",
+   "path": "local/cluj/huedin/2023/119",
+   "short": "HCL Huedin nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 119/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-119-12.09.2023-casare-ob.inventar-casate.pdf",
+     "sha256": "73e680fcd0654421215b9ac47ef4106b01c4c2022b1c59e78997f3785ebed78e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-12-2023",
+   "path": "local/cluj/huedin/2023/12",
+   "short": "HCL Huedin nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 12/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "17b15a520f7e25512bbfa4da62c4f4d51da1f51225abed6028d76140a072b68e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-120-2023",
+   "path": "local/cluj/huedin/2023/120",
+   "short": "HCL Huedin nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 120/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-120-12.09.20230-aprobare-rectificare-lista-investitii-2023-cu-suma-de-35.834-lei.pdf",
+     "sha256": "dd736fde7b8213dec6fae7be5a84bf7d113ff1e50caf56df42387eaa648b060d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-121-2023",
+   "path": "local/cluj/huedin/2023/121",
+   "short": "HCL Huedin nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 121/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-121-29.09.2023-APROBARE-INVENTARUL-DOM.-PUBLIC-31.07.2023.pdf",
+     "sha256": "abc0631ec8c8b7cf5f2e7f25063006e7c2c4a52522ca486f6a0c5d3d8a9a1443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-122-2023",
+   "path": "local/cluj/huedin/2023/122",
+   "short": "HCL Huedin nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 122/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-122-12.09.20230-aprobare-rectificare-buget-Spital-2023-cu-suma-de-437.000-lei.pdf",
+     "sha256": "41b42249fa56a40d1b5ec06b672cac410e70e1a8bc18e61e432e9211de060d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-123-2023",
+   "path": "local/cluj/huedin/2023/123",
+   "short": "HCL Huedin nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 123/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-123-12.09.20230-aprobare-Stat-de-functii-Spital-la-01.09.2023.pdf",
+     "sha256": "0641ec82e28aaffa86c82eccfba8523b8ff023adb13406e1246bae6315ce113a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-124-2023",
+   "path": "local/cluj/huedin/2023/124",
+   "short": "HCL Huedin nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 124/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-124-12.09.20230-aprobare-pud-spatiu-comercial.pdf",
+     "sha256": "7b515041ceae8a6cbf7c5c3f8f4444f5437bf7c44ce165908179dcb125a6e381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-125-2023",
+   "path": "local/cluj/huedin/2023/125",
+   "short": "HCL Huedin nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 125/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-125-12.09.20230-aprobare-executare-lucrari-pe-domeniul-public-al-orasului-Huedin.pdf",
+     "sha256": "af43ca40e601e4037f3b62621c4f007af886e07b464b6bc2525050aadcf5ca6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-126-2023",
+   "path": "local/cluj/huedin/2023/126",
+   "short": "HCL Huedin nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 126/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-126-12.09.20230-aprobare-clasificare-drumuri-intravilan-extravinan-oras-Huedin.pdf",
+     "sha256": "753b5d46c6191303a2219d8c93ac86fc94a82cc9ab61e64672705fccc46f0212"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-127-2023",
+   "path": "local/cluj/huedin/2023/127",
+   "short": "HCL Huedin nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 127/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-127-12.09.20230-aprobare-demisie-Edves-Calin-adm.-SC-Salubriterm-Serv-SRL.pdf",
+     "sha256": "f1f766a001fd5d4c1456ed7dcd1c57c1d5ad82279d20fbc8facbd45a8ebd4822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-128-2023",
+   "path": "local/cluj/huedin/2023/128",
+   "short": "HCL Huedin nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 128/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-128-29.09.20230-aprobare-numire-administrator-SC-Salubriterm-Serv-SRL.pdf",
+     "sha256": "99f52215fe27492f01f03d394475ce5187c19ce82d551d6c4fb8870e412f52b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-129-2023",
+   "path": "local/cluj/huedin/2023/129",
+   "short": "HCL Huedin nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 129/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-129-29.09.20230-aprobare-transferare-sume-intre-actvitati-culturale.pdf",
+     "sha256": "80cfe13c6eeae8c6543d9edc9071b1fce06f179cc7a82e9509d1ccd19b324e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-13-2023",
+   "path": "local/cluj/huedin/2023/13",
+   "short": "HCL Huedin nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 13/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-13-27.01.2023-aprobare-amplasare-doua-banci-in-Cimitirul-Orasului-Huedin.pdf",
+     "sha256": "a13225fd7c34c8705325d4c9466d4981ac64ccd3156245285e213a95a6b8f0a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-130-2023",
+   "path": "local/cluj/huedin/2023/130",
+   "short": "HCL Huedin nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 130/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-130-29.09.20230-aprobare-desemnare-reprezentanti-CLH-in-CA-si-CEAC-la-Lic.-O.Goga-Huedin.pdf",
+     "sha256": "e6f8112d65be3be9d12fba3b4db334d4df71b28622828614e82c9cc6646af029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-131-2023",
+   "path": "local/cluj/huedin/2023/131",
+   "short": "HCL Huedin nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 131/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-131-29.09.20230-aprobare-desemnare-reprezentanti-CLH-in-CA-si-CEAC-la-Lic.-Tehnologic-Vladeasa-Huedin.pdf",
+     "sha256": "17df459487b7250373926e93decd1e062132d011f6b265a5f616b41db28e8040"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-132-2023",
+   "path": "local/cluj/huedin/2023/132",
+   "short": "HCL Huedin nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 132/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-132-29.09.20230-aprobare-desemnare-reprezentanti-CLH-in-CA-si-CEAC-la-Gradinita-Prichindeii-veseli-Huedin.pdf",
+     "sha256": "5222209317bad7de7ae42895e6740921b30bafd01b7df77288758f136afdd59c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-133-2023",
+   "path": "local/cluj/huedin/2023/133",
+   "short": "HCL Huedin nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 133/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-133-29.09.20230-aprobare-desemnare-reprez.-ai-CLH-in-comisia-de-evaluare-oferte-pentru-inchiriere-bunuri-mobile-si-imobile-Huedin.pdf",
+     "sha256": "e27d7e09cedb32437bb18aa6e708502878dbcacf2cb32d26514b292cfa0dda35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-134-2023",
+   "path": "local/cluj/huedin/2023/134",
+   "short": "HCL Huedin nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 134/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-134-06.10.2023-aprobare-rectificare-buget-2023-cu-suma-de-86.000-LEI.pdf",
+     "sha256": "da9398a7212596002d3dfd059d4b1206d1da2ee11df110c9ed66c5022a139728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-135-2023",
+   "path": "local/cluj/huedin/2023/135",
+   "short": "HCL Huedin nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 135/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-135-06.10.2023-aprobare-rectificare-buget-2023-cu-suma-de-2.329.000-LEI.pdf",
+     "sha256": "70d311a2ccb917faa519b1c4b70897b5996662339141fe2eacb625019e59ed74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-136-2023",
+   "path": "local/cluj/huedin/2023/136",
+   "short": "HCL Huedin nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 136/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-136-06.10.2023-aprobare-rectificare-buget-2023-cu-suma-de-26.900-LEI.pdf",
+     "sha256": "92e0ad3f67e4f7eb087e56728db9deab9a40f213e85267ca32d227987441f580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-137-2023",
+   "path": "local/cluj/huedin/2023/137",
+   "short": "HCL Huedin nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 137/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-137-27.10.2023-aprobare-contul-de-executie-bugetara-la-30.09.2023.pdf",
+     "sha256": "c7418bae052104616fe51668f4d910890897d9edb1c4ff310516121764f57571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-138-2023",
+   "path": "local/cluj/huedin/2023/138",
+   "short": "HCL Huedin nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 138/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-138-27.10.2023-aprobare-rectificare-buget-Spital-cu-7000-lei.pdf",
+     "sha256": "b1eaf42f73ddc1782a19e45c562bcc9971ee266e1c6c9521c98ac9439e83c9ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-139-2023",
+   "path": "local/cluj/huedin/2023/139",
+   "short": "HCL Huedin nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 139/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-139-27.10.2023-aprobare-scoatere-la-concurs-posturi-vacante-Spital.pdf",
+     "sha256": "e9ee397d6e4319cd89d8d9e0ec7332999d84038da4a961463642a3752a75e70e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-14-2023",
+   "path": "local/cluj/huedin/2023/14",
+   "short": "HCL Huedin nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 14/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-14-27.01.2023-aprobare-buget-TETAROM-2023.pdf",
+     "sha256": "8c90f325cab24dd8d23a1ac2af91a65dfc790100637cfc704da0036758c1908f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-140-2023",
+   "path": "local/cluj/huedin/2023/140",
+   "short": "HCL Huedin nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 140/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-140-27.10.2023-aprobare-diminuare-sume-Casa-de-Cultura.pdf",
+     "sha256": "56852dc7db87ec4f870210cc711c7044e8d22ef267e5a4ebda504dacbaa9e6a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-141-2023",
+   "path": "local/cluj/huedin/2023/141",
+   "short": "HCL Huedin nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 141/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-141-27.10.2023-aprobare-inchiriere-teren-dom.public-14-mp.pdf",
+     "sha256": "955b27388377901cf2bdc1f1f8dc0a2ab6bcb1ba546192474a7abdc493f364cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-142-2023",
+   "path": "local/cluj/huedin/2023/142",
+   "short": "HCL Huedin nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 142/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-142-27.10.2023-aprobare-realizare-lucrari-domeniul-public.pdf",
+     "sha256": "afbd4751b65530b3eac62031bfae07156d0d5535da64c6ba991658397a04c406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-143-2023",
+   "path": "local/cluj/huedin/2023/143",
+   "short": "HCL Huedin nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 143/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-143-27.10.2023-aprobare-introducere-pozitii-noi-in-Inventarul-Domeniului-public-si-privat-al-UAT-oras-Huedin.pdf",
+     "sha256": "3eb6d201e7b52bd39256cfa23ad323537eb9039388e2c0b0316e1ad1be9b4b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-144-2023",
+   "path": "local/cluj/huedin/2023/144",
+   "short": "HCL Huedin nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 144/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-144-27.10.2023-aprobare-modificare-regulament-de-functionare-a-Pietei-traditionale-taranesti.pdf",
+     "sha256": "91af49416871cb30ddfbbcee752814f026c8120b5ea484b4205a07fc2d1b94d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-145-2023",
+   "path": "local/cluj/huedin/2023/145",
+   "short": "HCL Huedin nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 145/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-145-27.10.2023-aprobare-completare-anexa-la-HCL-nr.-198-25.11.2022.pdf",
+     "sha256": "75e3c7f08b3dafbeb61321a6aa3c1bec5e14fffa9526804418ce3c848cc2e62d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-146-2023",
+   "path": "local/cluj/huedin/2023/146",
+   "short": "HCL Huedin nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 146/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "ffaa469f3ce5c1663cc1113f089084f439bff6a521a5dd778af7f69a24fcf010"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-147-2023",
+   "path": "local/cluj/huedin/2023/147",
+   "short": "HCL Huedin nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 147/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-147-27.10.2023-aprobare-Plan-selectie-pentru-desemnare-membru-in-CA-la-Sc-Salubriterm-Serv-SRL.pdf",
+     "sha256": "9846b295cb2f810d9bd1b16c1d41f65f64290532e64323fbf3e692dc6b69bf9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-148-2023",
+   "path": "local/cluj/huedin/2023/148",
+   "short": "HCL Huedin nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 148/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-148-27.10.2023-aprobare-rectificare-buget-Spital-cu-625.000-lei.pdf",
+     "sha256": "d3b226e0e6ffbca945af964f9b7d3f78c420395e44690ac2cb50638b2da90c1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-149-2023",
+   "path": "local/cluj/huedin/2023/149",
+   "short": "HCL Huedin nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 149/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-149-7.11.2023-aprobare-tip-suport-alimentar-pentru-prescolarii-si-elevii-Lic.-Tehnologic-Vladeasa-Huedin.pdf",
+     "sha256": "1f97d1a124d1be42fb546c1a6860c55ce0037b3f9947f9bda8a1f0e6f2b6f2ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-15-2023",
+   "path": "local/cluj/huedin/2023/15",
+   "short": "HCL Huedin nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 15/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-15-02.02.2023-aprobare-buget-2023-SURSA-A.pdf",
+     "sha256": "aba311dfe66610463d1353eeaead2a170e1f4c6ee71a334dad977c66a35a1d21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-150-2023",
+   "path": "local/cluj/huedin/2023/150",
+   "short": "HCL Huedin nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 150/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-150-14.11.2023-aprobare-rectificare-buget-2023-cu-suma-de-327.000-lei.pdf",
+     "sha256": "54e076fcb326dbf80b9d33cf8548893a38a04c28862d71c2116b5dd8c602cc31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-151-2023",
+   "path": "local/cluj/huedin/2023/151",
+   "short": "HCL Huedin nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 151/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-151-14.11.2023-aprobare-rectificare-buget-2023-cu-suma-de-625.000-lei.pdf",
+     "sha256": "4f737d4b3febf08d72a6bbabcd4ab5adaabbb7f8bb88d4eea2b5760f27c06b85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-152-2023",
+   "path": "local/cluj/huedin/2023/152",
+   "short": "HCL Huedin nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 152/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-152-14.11.2023-aprobare-rectificare-buget-2023-intre-aliniate-390.565-lei.pdf",
+     "sha256": "d7395bd245c0dfe6e9546b39f37f94757420d2adb7078256ce9415b6a36d2f75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-153-2023",
+   "path": "local/cluj/huedin/2023/153",
+   "short": "HCL Huedin nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 153/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-153-14.11.2023-aprobare-rectificare-buget-2023-Gradionita-Prichindeii-Veseli-Huedin.pdf",
+     "sha256": "61e47a7daad67d27906804ccc97316f36a5fc92e22ebd1b0b72e506ca6e91726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-154-2023",
+   "path": "local/cluj/huedin/2023/154",
+   "short": "HCL Huedin nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 154/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-154-14.11.2023-aprobare-rectificare-buget-2023-Liceul-O.-Goga-Huedin.pdf",
+     "sha256": "20737d28f66700b97239aab2f7d0a5fd11be48ec92ae6e53d17bcd0e9aadea17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-155-2023",
+   "path": "local/cluj/huedin/2023/155",
+   "short": "HCL Huedin nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 155/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-155-24.11.2023-aprobare-rectificare-buget-1000-LEI.pdf",
+     "sha256": "a2e303f53ffa6e1168988179a652d375653ada4af7697726b50e6caba1265a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-156-2023",
+   "path": "local/cluj/huedin/2023/156",
+   "short": "HCL Huedin nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 156/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-156-24.11.2023-aprobare-rectificare-buget-2023-intre-articole-de-cheltuieli.pdf",
+     "sha256": "8f5001a9dc18a7fa2bbfc17d439bb523eec5427ff7827a89f02a7f526948075d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-157-2023",
+   "path": "local/cluj/huedin/2023/157",
+   "short": "HCL Huedin nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 157/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-157-24.11.2023-aprobare-modificare-HCL-nr.-104-22.05.2018.pdf",
+     "sha256": "3909bdf9f936431227084c5e13e301a55cb2638511082d550e1bf5b92b634243"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-158-2023",
+   "path": "local/cluj/huedin/2023/158",
+   "short": "HCL Huedin nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 158/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-158-24.11.2023-aprobare-modificare-HCL-nr.-81-20.06.2017.pdf",
+     "sha256": "7308e266c8e5c5c54ae11c6aa56831db40ae5874eb8fb8d8479b533e03572424"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-159-2023",
+   "path": "local/cluj/huedin/2023/159",
+   "short": "HCL Huedin nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 159/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-159-24.11.2023-aprobare-Impozitele-si-taxele-Locale-aplicabile-in-anul-fiscal-2024-la-nivelul-orasului-Huedin.pdf",
+     "sha256": "29e0280ca2386b39de4058890f22b72e4ec504a1a5b552562bfa7e8ab219d341"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-16-2023",
+   "path": "local/cluj/huedin/2023/16",
+   "short": "HCL Huedin nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 16/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-16-02.02.2023-aprobare-buget-de-venituri-si-subventii-pe-anul-2023-SURSA-E.pdf",
+     "sha256": "95016e07003c40c5e019da751e13fc3dd629a9a14c40978b5422c01da1f14b3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-160-2023",
+   "path": "local/cluj/huedin/2023/160",
+   "short": "HCL Huedin nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 160/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-160-24.11.2023-aprobare-Statul-de-Functii-actualizat-la-data-de-01.11.2023-al-Spitalului-orasenesc-Huedin.pdf",
+     "sha256": "37442d8429669dac515b510117e1056999b0a02c37a84d4151f0731a78ba9a41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-161-2023",
+   "path": "local/cluj/huedin/2023/161",
+   "short": "HCL Huedin nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 161/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-161-24.11.2023-aprobare-inchiriere-prin-licitatie-spatiu-policlinica.pdf",
+     "sha256": "aa10ffc8d37650a95b3acffa75263cba61b2b626ce3d46fa3006c6a4548e57dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-162-2023",
+   "path": "local/cluj/huedin/2023/162",
+   "short": "HCL Huedin nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 162/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "139a290400728d35b1a6eebb545683c1c1d59ec484504a5eb2cadc2dc132b11b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-163-2023",
+   "path": "local/cluj/huedin/2023/163",
+   "short": "HCL Huedin nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 163/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-163-24.11.2023-aprobare-infiintare-Serviciu-de-gestionare-a-cainilor-fara-stapan-in-cadrul-UAT-oras-Huedin.pdf",
+     "sha256": "2305423131f5b10f8fbeac9ab20c5afda22ece69e8630dc2a29217f5db600aad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-164-2023",
+   "path": "local/cluj/huedin/2023/164",
+   "short": "HCL Huedin nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 164/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-164-24.11.2023-aprobare-inchiriere-spatiu-dom.public-3-mp.pdf",
+     "sha256": "1e1a60a6ba95369ad1dd143b8bf9d2721470bbde56a80d6967105e7a41781358"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-165-2023",
+   "path": "local/cluj/huedin/2023/165",
+   "short": "HCL Huedin nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 165/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-165-24.11.2023-aprobare-PUD-construire-garaj.pdf",
+     "sha256": "2e145de92c1fe7ce370404795c652a495b23d9bbfd292a580a173f6ae1c330e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-166-2023",
+   "path": "local/cluj/huedin/2023/166",
+   "short": "HCL Huedin nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 166/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-166-24.11.2023-aprobare-MODIFICARE-POZITII-IN-iNVENTARUL-DOM.PUBLIC.pdf",
+     "sha256": "cfa0008325bf442c7ea7cbc0827670837383725c7641b81f4ae9fe721f012278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-167-2023",
+   "path": "local/cluj/huedin/2023/167",
+   "short": "HCL Huedin nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 167/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.167-29.11.2023.pdf",
+     "sha256": "d99f8718377fa57fdaec6a79e5e47370676801c352e4b89538edebe4703c7470"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-168-2023",
+   "path": "local/cluj/huedin/2023/168",
+   "short": "HCL Huedin nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 168/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-168-29.11.2023-aprobare-predare-aparate-medicale-Spital-Lotul-4.pdf",
+     "sha256": "9e022735c4510eec986e87dc22eb4d5ac19b24eab9066216a366ca8a957d1d4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-169-2023",
+   "path": "local/cluj/huedin/2023/169",
+   "short": "HCL Huedin nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 169/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-169-11.12.2023-aprobare-rectificare-buget-cu-suma-de-600.000-lei.pdf",
+     "sha256": "417cb11cef8d46a75973809ceff513dab7126a406858824d9c60320ac9995667"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-17-2023",
+   "path": "local/cluj/huedin/2023/17",
+   "short": "HCL Huedin nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 17/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-17-02.02.2023-aprobare-preluare-ca-venit-in-buget-2023-Spital-suma-de-85.000-lei.pdf",
+     "sha256": "a42e33c55796c68bcace760b9bcd6ea981a44a596ceb3a462edd5d9bf3f03ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-170-2023",
+   "path": "local/cluj/huedin/2023/170",
+   "short": "HCL Huedin nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 170/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-170-14.12.2023-aprobare-rectificare-buget-cu-suma-de-3.000.000-lei.pdf",
+     "sha256": "4c6eacba56254b5342001e5d5a1706097d2a883c0c269fc8b908b40a6cd49b0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-171-2023",
+   "path": "local/cluj/huedin/2023/171",
+   "short": "HCL Huedin nr. 171/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 171/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-171-14.12.2023-aprobare-rectificare-buget-cu-suma-de-25.420-lei.pdf",
+     "sha256": "963f5060c377e80264902ea0ef2b7a40d5ddf15c03317314d308ca04e1404247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-172-2023",
+   "path": "local/cluj/huedin/2023/172",
+   "short": "HCL Huedin nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 172/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-172-14.12.2023-aprobare-rectificare-buget-cu-suma-de-32.000-lei.pdf",
+     "sha256": "77eda87460184827a92286065260dee9b5a70c9ab86ff049e4d5f2f1248abdb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-173-2023",
+   "path": "local/cluj/huedin/2023/173",
+   "short": "HCL Huedin nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 173/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-173-14.12.2023-aprobare-rectificare-buget-Spital-2023.pdf",
+     "sha256": "30c00f8b7e963e1f503f2d007e7f10d4628cabc3999c510aec6a50289941ceff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-174-2023",
+   "path": "local/cluj/huedin/2023/174",
+   "short": "HCL Huedin nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 174/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-174-20.12.2023-1.pdf",
+     "sha256": "2399744e06ec6a44b7ac041d7c1ce37d7a1937c56cae54920f16a7945bb54b1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-175-2023",
+   "path": "local/cluj/huedin/2023/175",
+   "short": "HCL Huedin nr. 175/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 175/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-175-20.12.2023-Lotul-5-aprobare-darea-in-administrare-aparate-medicale-Spital.pdf",
+     "sha256": "fcdb8644d3a0a4d1f9d3a53ca3c6093c6bf6fec5ecf76474f41ab5fae03471ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-176-2023",
+   "path": "local/cluj/huedin/2023/176",
+   "short": "HCL Huedin nr. 176/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 176/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-176-20.12.2023-aprobare-darea-in-administrare-aparate-medicale-Spital.-Lotul-2.pdf",
+     "sha256": "69262a425670ab22b49131da512697d793fc49f94072a27d49214ba9f7ab42f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-177-2023",
+   "path": "local/cluj/huedin/2023/177",
+   "short": "HCL Huedin nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 177/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "5ae9c89518a866dd161d41dda2fe743f61211a5970b63d7600eb9e2b11f07ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-178-2023",
+   "path": "local/cluj/huedin/2023/178",
+   "short": "HCL Huedin nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 178/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-178-20.12.2023-aprobare-incheiere-conventie-de-Cooperare-intre-CLH-si-Fundatia-Diakonia-Cluj-2024.pdf",
+     "sha256": "81c341e865866629153b130332e2bd8731716c5517bd894d16607910c2ce6ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-179-2023",
+   "path": "local/cluj/huedin/2023/179",
+   "short": "HCL Huedin nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 179/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-179-20.12.2023-aprobare-modificare-art.2-la-HCL-239-2022-privind-stabilirea-salariilro-de-baza.pdf",
+     "sha256": "ff4ff9776e3f91c6d2f560989d1b8b3613c39de2e0874ff96af854a6b9d17b57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-18-2023",
+   "path": "local/cluj/huedin/2023/18",
+   "short": "HCL Huedin nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 18/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-18-02.02.2023-aprobare-buget-2023-Spital.pdf",
+     "sha256": "bb123856fd5e1c413aaa5358bf5e88613e9b64282362b5b6d3fd5d498179af26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-180-2023",
+   "path": "local/cluj/huedin/2023/180",
+   "short": "HCL Huedin nr. 180/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 180/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-180-20.12.2023-aprobare-inchiriere-spatiu-40-mp.pdf",
+     "sha256": "1305eea8d64ee46acf8e52d662cc952e6df8f7d920da873bb6cd90b3cf1e66c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-181-2023",
+   "path": "local/cluj/huedin/2023/181",
+   "short": "HCL Huedin nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 181/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-181-20.12.2023-aprobare-inchiriere-spatiu-21-mp.-str.-Horea-nr.-1.pdf",
+     "sha256": "fd68ac5f7b9707394a6f9cbdbac4b165cdba2e70198a1d5e89b01f2ac5f7e831"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-182-2023",
+   "path": "local/cluj/huedin/2023/182",
+   "short": "HCL Huedin nr. 182/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 182/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-182-20.12.2023-aprobare-Regulament-organizare-si-fucntionare-al-aparatului-de-specialitate.pdf",
+     "sha256": "021c9d14a3b9622e2c20bba72a8f79591efaaa4ba9398eb9065b8b7cdd2c465f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-183-2023",
+   "path": "local/cluj/huedin/2023/183",
+   "short": "HCL Huedin nr. 183/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 183/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-183-20.12.2023-aprobare-Organigrama-si-Statului-de-Functii-al-Spitalului-or.-Huedin-actaulizat-la-data-de-01.12.2023.pdf",
+     "sha256": "38ddadc9a7acdfdd30aa8ffce6017348b61007f7e52b6c93570769929e3942cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-184-2023",
+   "path": "local/cluj/huedin/2023/184",
+   "short": "HCL Huedin nr. 184/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 184/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-184-20.12.2023-aprobare-rectificare-buget-2023-Gradinita-Prichindeii-Veseli-intre-aliniate.pdf",
+     "sha256": "228fee0dcdabc2a31b9915234f04f996885b242f1061a940aa387e6665b178bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-185-2023",
+   "path": "local/cluj/huedin/2023/185",
+   "short": "HCL Huedin nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 185/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-185-20.12.2023-aprobare-rectificare-buget-2023-Lic.-Tehnologic-Vladeasa-Huedin-intre-aliniate.pdf",
+     "sha256": "c53411f1b2440ba8179681f8b8d21147e126e7049334eca2f7611db97152d947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-186-2023",
+   "path": "local/cluj/huedin/2023/186",
+   "short": "HCL Huedin nr. 186/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 186/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-186-20.12.2023-aprobare-rectificare-buget-2023-21.000-lei.pdf",
+     "sha256": "dce43c4b58c7f7d0d7d8d70a1c6da8953e692a5383d2587f5492c7a1734d449f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-187-2023",
+   "path": "local/cluj/huedin/2023/187",
+   "short": "HCL Huedin nr. 187/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 187/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-187-20.12.2023-aprobare-modificare-partiala-HCL-121-29.09.2023.pdf",
+     "sha256": "9fed30d5b897a87669aff73372f6e39c7fe9a74582b44d94eeb23290cd004548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-188-2023",
+   "path": "local/cluj/huedin/2023/188",
+   "short": "HCL Huedin nr. 188/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 188/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-188-20.12.2023-aprobare-angajare-muncitori-ecologisti-2024.pdf",
+     "sha256": "bfa400375b65aa15783521a0335f292351b634534b2b8f06b474dbf16b8d16e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-19-2023",
+   "path": "local/cluj/huedin/2023/19",
+   "short": "HCL Huedin nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 19/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-19-02.02.2023-aprobare-buget-2023-Liceul-Teoretic-O.Goga-Huedin.pdf",
+     "sha256": "f0f8b86412e684b77b09d7c5b4a050aebe1410872addd770c876b52a8a9fd20d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-2-2023",
+   "path": "local/cluj/huedin/2023/2",
+   "short": "HCL Huedin nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 2/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-2-05.01.2023-aprobare-acoperire-definitiva-din-excedentul-anilor-precedenti-a-sumelor-repartizate-din-acesta-in-cursul-anului-2022-Spitalul-orasenesc-Huedin.pdf",
+     "sha256": "d0e8c8896ccc572037837712ba731b4b064ccf85f32dc0979a6cc3e67822f0d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-20-2023",
+   "path": "local/cluj/huedin/2023/20",
+   "short": "HCL Huedin nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 20/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-20-02.02.2023-aprobare-buget-2023-Liceul-Tehnologic-Vladeasa-Huedin.pdf",
+     "sha256": "342c27fad4ac04624411b96d203cb3435f8c97426a4d1be27cbeb07044a0648c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-21-2023",
+   "path": "local/cluj/huedin/2023/21",
+   "short": "HCL Huedin nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 21/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-21-02.02.2023-aprobare-buget-2023-Gradinita-prichindeii-veseli-Huedin.pdf",
+     "sha256": "94d1dbf5111adce75d4d08b4f64c120c6ded808df0d59e2d20d3086a6070ec68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-22-2023",
+   "path": "local/cluj/huedin/2023/22",
+   "short": "HCL Huedin nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 22/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-22-24.02.2023-aprobare-preluarei-din-excedentul-anilor-precedenti-a-sumei-de-223.060-lei.pdf",
+     "sha256": "f72c96414ef9b6b0d23efa60d18483822a31ab932405fe446c355fd59d0f7e73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-23-2023",
+   "path": "local/cluj/huedin/2023/23",
+   "short": "HCL Huedin nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 23/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-23-24.02.2023-aprobare-contul-de-executie-bugetara-la-31.12.2022-Sursa-A.pdf",
+     "sha256": "210b06fd2fc1dc9f00e11e7a99bb0bfaab42839a9126d6357ef1bf42a7f3af57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-25-2023",
+   "path": "local/cluj/huedin/2023/25",
+   "short": "HCL Huedin nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 25/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-25-24.02.2023-aprobare-criterii-si-ordinea-de-prioritate-cereri-locuinte-ANL.pdf",
+     "sha256": "4544f6d6b8a13cebf8fc0f4ea7fa862b652623462aba0fa33c7c860cb1cc66c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-26-2023",
+   "path": "local/cluj/huedin/2023/26",
+   "short": "HCL Huedin nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 26/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-26-24.02.2023-aprobare-stabilire-valoare-chirii-ANL.pdf",
+     "sha256": "d7b10908f36814cbea233a4787709f3f177533cff13cb904067eabcb004a5656"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-27-2023",
+   "path": "local/cluj/huedin/2023/27",
+   "short": "HCL Huedin nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 27/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-27-24.02.2023-aprobare-reorganizare-Aparatul-de-Specialitate-al-primarului-Organigrama-si-Statul-de-Functii.pdf",
+     "sha256": "521da3adbf312e1a970acd61306f74344fdbd81804062276ca53bdd27958a9f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-28-2023",
+   "path": "local/cluj/huedin/2023/28",
+   "short": "HCL Huedin nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 28/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-28-24.02.2023-aprobare-scoatere-la-concurs-posturi-vacante-Spital.pdf",
+     "sha256": "6d5fa04c93527d91d30dfafab727b2cd8aa951107ab5f7a7c5b2b0a143ca7611"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-29-2023",
+   "path": "local/cluj/huedin/2023/29",
+   "short": "HCL Huedin nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 29/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-29-24.02.2023-aprobare-Structuta-organizatorica-a-spitalsului-Orasenesc-Huedin.pdf",
+     "sha256": "3d0fda38ec038fec516ca1ea7cdc1a9efcd91e6a124202f07299a3459fed26b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-3-2023",
+   "path": "local/cluj/huedin/2023/3",
+   "short": "HCL Huedin nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 3/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-3-05.01.2023-aprobare-preluarei-din-excedentul-anilor-precedenti-a-sumei-de-500.000-lei-in-bugetul-local-al-anului-2023.pdf",
+     "sha256": "c915d4e8ab31cabe80409c6e78858f44232ebd460ff69decf16f60deb535d13f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-30-2023",
+   "path": "local/cluj/huedin/2023/30",
+   "short": "HCL Huedin nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 30/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-30-24.02.2023-aprobare-Statul-de-Functii-a-Spitalului-Orasenesc-Huedin.pdf",
+     "sha256": "e121adde8c95c999d628bf2eb7666af5a3846341b6d9f9aba8ecfa855b1cc835"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-31-2023",
+   "path": "local/cluj/huedin/2023/31",
+   "short": "HCL Huedin nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 31/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-31-24.02.2023-aprobare-alocare-sume-necesare-pentru-activitati-culturale-2023.pdf",
+     "sha256": "7b1e3937be38028c1d28e5e07349be9e0dde74276e1c24b99ed7c98ae50b89cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-32-2023",
+   "path": "local/cluj/huedin/2023/32",
+   "short": "HCL Huedin nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 32/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-32-24.02.2023-aprobare-introducere-s-doua-pozitii-noi-in-inventarul-dom.-public.pdf",
+     "sha256": "74b0363243abefc3fd328d222acc032d92ee44fc33668331adb8cae2b6bbe55e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-33-2023",
+   "path": "local/cluj/huedin/2023/33",
+   "short": "HCL Huedin nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 33/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-33-24.02.2023-aprobare-revocare-art.2-din-H.C.L.-nr.-143-26.11.2021.pdf",
+     "sha256": "7d39d2459151583250060609fc1c5f07cb784e88dd2e793cdc5f10b3f1583d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-34-2023",
+   "path": "local/cluj/huedin/2023/34",
+   "short": "HCL Huedin nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 34/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-34-24.02.2023-incetare-contract-de-delegare-a-gestiunii-serviciului-de-Salubrizare-cu-Sc-NBissdog-SRL-nr.-9800-31.10.2019.pdf",
+     "sha256": "58d5f85e65190ba1eaea5f78ccac4f47f8f710fa6490c623442c6d71151b593c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-35-2023",
+   "path": "local/cluj/huedin/2023/35",
+   "short": "HCL Huedin nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 35/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-35-31.03.2023-Casare-ob.inventar-la-Primaria-oras-Huedin.pdf",
+     "sha256": "dd22a299c863531dc72539466311ba1e5a23aa433a36404561f2c974b3bbb77e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-36-2023",
+   "path": "local/cluj/huedin/2023/36",
+   "short": "HCL Huedin nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 36/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-36-31.03.2023-Casare-ob.inventar-la-Spitalul-orasenesc-Huedin.pdf",
+     "sha256": "be4d5b04334df11eb98cb86e8f352d28acb6bc5a48a37e3ce327d8e432acdadf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-37-2023",
+   "path": "local/cluj/huedin/2023/37",
+   "short": "HCL Huedin nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 37/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-37-31.03.2023-Casare-carti-la-Biblioteca-oraseneasca-Huedin.pdf",
+     "sha256": "cd04fe19661b1d80f7aa967b70a61a9246fcbb88c4ac48bf16d6f2fd3da832f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-38-2023",
+   "path": "local/cluj/huedin/2023/38",
+   "short": "HCL Huedin nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 38/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-38-31.03.2023-numire-auditor-financiar-SC-Salubriterm-Serv-SRL.pdf",
+     "sha256": "5a4c7160a849ce472467614e681a6a626e09f72c6cee947818365a50c6fb5b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-39-2023",
+   "path": "local/cluj/huedin/2023/39",
+   "short": "HCL Huedin nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 39/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-39-31.03.2023-aprobare-buget-SC-Saluibriterm-Serv-SRL-pe-anul-2023.pdf",
+     "sha256": "1ea347e555c4452ec5db187c4d03e4595b89284646acd7ed6f9dbf03fa07b80b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-4-2023",
+   "path": "local/cluj/huedin/2023/4",
+   "short": "HCL Huedin nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 4/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-4-05.01.2023-aprobare-preluarei-din-excedentul-anilor-precedenti-a-sumei-de-50.000-lei-in-bugetul-local-al-anului-2023.pdf",
+     "sha256": "5ecb0335c451809dc185e5f682319de453592dc115b3990fffeeca89a455cdec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-40-2023",
+   "path": "local/cluj/huedin/2023/40",
+   "short": "HCL Huedin nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 40/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-40-31.03.2023-aprobare-buget-SC-Transim-SA-Huedin-pe-anul-2023.pdf",
+     "sha256": "76e476db11091c70801a1f3eae5232235aff68960f947d4d3fbd8c66c12c84b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-41-2023",
+   "path": "local/cluj/huedin/2023/41",
+   "short": "HCL Huedin nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 41/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-41-31.03.2023-aprobare-aprobarea-transmiterii-in-folosinta-gratuita-imobil-Serviciul-de-Ambulanta-al-Judetului-Cluj.pdf",
+     "sha256": "023dbbdc8b8b375c18450e107da5599be7c48e36b2b24d945655af34c1677078"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-42-2023",
+   "path": "local/cluj/huedin/2023/42",
+   "short": "HCL Huedin nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 42/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-42-31.03.2023-aprobare-aprobarea-transformarii-si-scoaterii-la-concurs-porturi-vacante-Spital.pdf",
+     "sha256": "c9712e81147a8cba1ea42c106f639dbf142bcd13eb4b38bddf1d5956b36b537f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-43-2023",
+   "path": "local/cluj/huedin/2023/43",
+   "short": "HCL Huedin nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 43/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-43-31.03.2023-aprobarea-componentei-Comisiei-Locale-de-Ordine-Publica-la-nivelul-orasului-Huedin.pdf",
+     "sha256": "211750bf3728a6b1a8b4731a77c290ee031d366c0a91a73dcb5010af92f6fbf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-44-2023",
+   "path": "local/cluj/huedin/2023/44",
+   "short": "HCL Huedin nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 44/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-44-28.04.2023-aprobarea-ACORDARE-tTTLU-DE-CETATEAN-DE-ONOARE-DACIANA-LOI.pdf",
+     "sha256": "50f10246c70b7bcd7e47a521d29a9b7ea841e48a0dad5dd183b872f6f26032cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-45-2023",
+   "path": "local/cluj/huedin/2023/45",
+   "short": "HCL Huedin nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 45/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-45-28.04.2023-aprobarea-contului-de-executie-bugetara-la-31.03.2023.pdf",
+     "sha256": "b707fbe568569b16a4bbdb8fdcabb98973c9f4eafbb8807631eea22e4b0cebe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-46-2023",
+   "path": "local/cluj/huedin/2023/46",
+   "short": "HCL Huedin nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 46/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-46-28.04.2023-aprobarea-transformarii-si-scoaterii-la-concurs-a-unor-posturi-vacante-in-Statul-de-Functii-al-Spitalului-Orasenesc-Huedin.pdf",
+     "sha256": "952a2ad8ef7cfed63b63fa28ca3086ca162c192fb6f949279768a8d5b69182e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-47-2023",
+   "path": "local/cluj/huedin/2023/47",
+   "short": "HCL Huedin nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 47/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-47-28.04.2023-aprobarea-listei-de-prioritati-la-repartizarea-locuintelor-ANL.pdf",
+     "sha256": "d3df53b7fac1d1f9ec6fe06a0c16dff8fb070aef4dbd0d865d93fc140ca5d1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-48-2023",
+   "path": "local/cluj/huedin/2023/48",
+   "short": "HCL Huedin nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 48/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-48-28.04.2023-aprobarea-amplasarii-unui-baner-cu-firma-pentru-punctul-de-lucru-BN-Antal-2.pdf",
+     "sha256": "0a6a6b46e18105872998e9db3183713d6a9580fbfde1eaa60441b2fa53b83a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-49-2023",
+   "path": "local/cluj/huedin/2023/49",
+   "short": "HCL Huedin nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 49/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-49-28.04.2023-aprobarea-inchirierii-spatiu-domeniul-public-10-mp.-in-P.ta-Republicii-nr.-8-Bl.-6-7.pdf",
+     "sha256": "2f844cd8a5881798962e02c9936fe1b0f89d702f221034e5da067482f44ae023"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-5-2023",
+   "path": "local/cluj/huedin/2023/5",
+   "short": "HCL Huedin nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 5/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-5-05.01.2023-aprobare-preluare-ca-venit-in-bugetul-de-venituri-proprii-si-subventii-pe-anul-2022-a-sumei-de-63.315-lei-Lic.-O.-Goga-Huedin.pdf",
+     "sha256": "b6d9bec243f465d6e48671308305e5e4ee5c547cee4965f93c926fb05dfd0bc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-50-2023",
+   "path": "local/cluj/huedin/2023/50",
+   "short": "HCL Huedin nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 50/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-50-28.04.2023-aprobarea-inchirierii-spatiu-domeniul-public-1-mp.-in-str.-Vladeasa-nr.-5.pdf",
+     "sha256": "9918b5aa3eb498b951f6f29a3f487da805270528403b92f605b67bb3a920d5a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-51-2023",
+   "path": "local/cluj/huedin/2023/51",
+   "short": "HCL Huedin nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 51/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-51-28.04.2023-aprobarea-inchirierii-spatiu-domeniul-public-4-mp.-in-str.-P.ta-Victoriei.pdf",
+     "sha256": "6f7ae28579559f6cc56662ddeab25a46ca42792a238e84c38108d191029b4684"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-52-2023",
+   "path": "local/cluj/huedin/2023/52",
+   "short": "HCL Huedin nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 52/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-52-28.04.2023-aprobare-acorduri-de-parteneriat-intre-Lic.-tehnologic-Vladeasa-Huedin-si-Asociatia-Tehnology-And-Inovation-For-Sociaty.pdf",
+     "sha256": "14a61f03ec2a61dfeaf8ff65702f5ddc2c84f4e9c664393635c5eabd2fcebe28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-53-2023",
+   "path": "local/cluj/huedin/2023/53",
+   "short": "HCL Huedin nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 53/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-53-28.04.2023-aprobare-includere-UAT-Huedin-in-parteneriatul-LEADER-Asociata-Grupul-de-Actiune-napoca-Porolissum-pt.-implementare-SDL.pdf",
+     "sha256": "aa350a15a505aad9e166cdb25076b9ab6766c949e2e9b331459161896eb4dde8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-54-2023",
+   "path": "local/cluj/huedin/2023/54",
+   "short": "HCL Huedin nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 54/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-54-08.05.2023-acordare-mandat.pdf",
+     "sha256": "4611a3528c88d54db26e6d58efc9ea2f5f3e11c6e6de6a7a3a7eb0eb1d19422c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-55-2023",
+   "path": "local/cluj/huedin/2023/55",
+   "short": "HCL Huedin nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 55/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-55-26.05.2023-Raportului-CA-2022-SC-TETAROM-SA.pdf",
+     "sha256": "523176ad0d7d288fa50c7853b196dbb64af8fbcd930c5716542ae82c6325e6ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-56-2023",
+   "path": "local/cluj/huedin/2023/56",
+   "short": "HCL Huedin nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 56/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-56-26.05.2023-aprobare-Situatii-financiare-2022-SC-Transim-SA.pdf",
+     "sha256": "7bc69f4aa868259e52200cb780d5e62506cc5495680d094f7713e038940d8ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-57-2023",
+   "path": "local/cluj/huedin/2023/57",
+   "short": "HCL Huedin nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 57/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-57-26.05.2023-aprobare-Situatii-financiare-2022-SC-Salubritem-Serv-SRL.pdf",
+     "sha256": "757ca07b368a708fe18d87bc823b9303580cf72f26a9fb737653d97b3e80ed60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-58-2023",
+   "path": "local/cluj/huedin/2023/58",
+   "short": "HCL Huedin nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 58/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-58-26.05.2023-APROBARE-REVOCARE-H.C.L.-nr.-54-2023.pdf",
+     "sha256": "de3602e699c3a791229bf110acd641ba73205f5c725b2e973bf75e8f4f3a1a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-59-2023",
+   "path": "local/cluj/huedin/2023/59",
+   "short": "HCL Huedin nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 59/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "505d9f3fb9ecef4383f6b886b2653d32f102cc56c2ba457902587328bb8c2cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-6-2023",
+   "path": "local/cluj/huedin/2023/6",
+   "short": "HCL Huedin nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 6/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-6-05.01.2023-aprobare-preluare-ca-venit-in-bugetul-de-venituri-proprii-si-subventii-al-Spitalului-orasenesc-Huedin-pe-anul-2023-suma-de-121.86472-lei.pdf",
+     "sha256": "f7de72f05d328ed1ea21b3db240ccd8113f9ca11ed14d02e6a6e1cf9c40e2147"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-60-2023",
+   "path": "local/cluj/huedin/2023/60",
+   "short": "HCL Huedin nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 60/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-60-26.05.2023-revocare-H.C.L.-nr.-48-25.03.2022.pdf",
+     "sha256": "be2c2b747f1615776d3f9b4d0b16301e5dc7a15d972338515baefe2f28840838"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-61-2023",
+   "path": "local/cluj/huedin/2023/61",
+   "short": "HCL Huedin nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 61/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-61-26.05.2023-aprobare-modificare-Organigrama-si-Statul-de-Functii.pdf",
+     "sha256": "638c90700c457806ee71c6a82f7d37b78172cfe6dbdef663466aaa6836c1873a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-62-2023",
+   "path": "local/cluj/huedin/2023/62",
+   "short": "HCL Huedin nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 62/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-62-26.05.2023-aprobare-Darea-in-administrare-a-aparatelor-echipamentelor-medicale-lot.-1-Spital.pdf",
+     "sha256": "ef81ee4b3484fb55ea7da1e3e660121a5621c281ebf4fe31918d556576c89c5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-63-2023",
+   "path": "local/cluj/huedin/2023/63",
+   "short": "HCL Huedin nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 63/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-63-26.05.2023-aprobare-Darea-in-administrare-a-aparatelor-echipamentelor-medicale-lot.-3-Spital.pdf",
+     "sha256": "72588c593eacbf69fb087ded7ebb9434d9c18d5f22faef5f8509da6dddcf7820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-64-2023",
+   "path": "local/cluj/huedin/2023/64",
+   "short": "HCL Huedin nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 64/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-64-26.05.2023-aprobare-rectificare-buget-local-cu-suma-de-196.000-lei.pdf",
+     "sha256": "2954fd504e22ea17ae42417fa482fe1ea02cf7a492010a8f620a48cbb7650eac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-65-2023",
+   "path": "local/cluj/huedin/2023/65",
+   "short": "HCL Huedin nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 65/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-65-26.05.2023-aprobare-indicatori-tehnico-ec.pt_.-obiectivul-de-investitii-Renovare-energetica-a-Corpului-C-Spital.pdf",
+     "sha256": "a49e452dbea9ba17350d8e662cec207b9d5cd952badef1bd069f3dd8f5c6d6c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-66-2023",
+   "path": "local/cluj/huedin/2023/66",
+   "short": "HCL Huedin nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 66/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-66-26.05.2023-aprobare-indicatori-tehnico-ec.pt_.-obiectivul-de-investitii-Renovare-energetica-a-Gradinitei-Prichindeii-Veseli-nr.-1.pdf",
+     "sha256": "fd02f18aa07cb3534c1028b88fb2448cd7eeb1b881bca36869d75879b7cc3c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-67-2023",
+   "path": "local/cluj/huedin/2023/67",
+   "short": "HCL Huedin nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 67/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-67-26.05.2023-aprobare-indicatori-tehnico-ec.pt_.-obiectivul-de-investitii-Renovare-energetica-a-Gradinitei-Prichindeii-Veseli-nr.-2.pdf",
+     "sha256": "982192646d5f1fc27fcf458ff31408035676b0b36dd0a04a055f5e3dbe212613"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-68-2023",
+   "path": "local/cluj/huedin/2023/68",
+   "short": "HCL Huedin nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 68/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-68-26.05.2023-aprobare-indicatori-tehnico-ec.pt_.-obiectivul-de-investitii-Renovare-energetica-a-Gradinitei-Prichindeii-Veseli-nr.-3.pdf",
+     "sha256": "e3ec8e14667b54434d633d1baaab362ed1e0d76e9546865c2f453297bdcdb915"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-69-2023",
+   "path": "local/cluj/huedin/2023/69",
+   "short": "HCL Huedin nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 69/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-69-26.05.2023-aprobare-indicatori-tehnico-ec.pt_.-obiectivul-de-investitii-Renovare-energetica-a-Liceului-O.Goga-Huedin-Corp-C1.pdf",
+     "sha256": "8c27c398ffb1e61b5dd4ebb0e0bfac32b9b3097dd4e5f4e63037972189433e85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-7-2023",
+   "path": "local/cluj/huedin/2023/7",
+   "short": "HCL Huedin nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 7/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-7-05.01.2023-aprobare-suma-85.000-lei-accesare-fonduri.pdf",
+     "sha256": "e297a8ebc805a81f08752c29d099006f4165af464190de5c7b8bd015d2d96d65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-70-2023",
+   "path": "local/cluj/huedin/2023/70",
+   "short": "HCL Huedin nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 70/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-70-26.05.2023-aprobare-indicatori-tehnico-ec.pt_.-obiectivul-de-investitii-Renovare-energetica-a-Liceului-O.Goga-Huedin-Corp-C2-C3.pdf",
+     "sha256": "81eba561fffac6282a10d5307786b7773557dc28d7dea3c26b511a71f0642731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-71-2023",
+   "path": "local/cluj/huedin/2023/71",
+   "short": "HCL Huedin nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 71/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-71-26.05.2023-aprobare-indicatori-tehnico-ec.pt_.-obiectivul-de-investitii-Renovare-energetica-a-Liceului-Tehnologic-Vladeasa-Huedin-corp-C2.pdf",
+     "sha256": "51569a1b833919634610a5728b151708c0edc75bc351c576dbc33d60db5c3d84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-72-2023",
+   "path": "local/cluj/huedin/2023/72",
+   "short": "HCL Huedin nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 72/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-72-26.05.2023-aprobare-indicatori-tehnico-ec.pt_.-obiectivul-de-investitii-Renovare-energetica-a-Liceului-Tehnologic-Vladeasa-Huedin-corp-C2.pdf",
+     "sha256": "25fa2dcb6015a47f8b6d4236a21ed3818e5b6d7c84780289bfdf2ef56cb39483"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-73-2023",
+   "path": "local/cluj/huedin/2023/73",
+   "short": "HCL Huedin nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 73/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-73-26.05.2023-aprobare-revocare-art.3-din-H.C.L.-nr.-133-2022-art.5-din-H.C.L.-nr.-138-2022.pdf",
+     "sha256": "c218ea1ec70c1183f046870ad7ec5cffee704c350d116a68aeff7fb8e18c0858"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-74-2023",
+   "path": "local/cluj/huedin/2023/74",
+   "short": "HCL Huedin nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 74/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-74-26.05.2023-aprobare-plata-unor-sume-catre-SC-Calibra-SRL.pdf",
+     "sha256": "6fecc62d98310ab95624d59aa1e13ea2c30c29e45c910669c4e44a5c3f8f9aad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-75-2023",
+   "path": "local/cluj/huedin/2023/75",
+   "short": "HCL Huedin nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 75/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-75-26.05.2023-aprobare-predare-catre-CNI-amplasament.pdf",
+     "sha256": "ed447c57fc5a15553600b88261d458437281c192f1ea0f1d5c1410073618cb27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-76-2023",
+   "path": "local/cluj/huedin/2023/76",
+   "short": "HCL Huedin nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 76/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-76-27.06.2023-aprobare-rectificare-buget-750.000-lei.pdf",
+     "sha256": "7b817bc1d8c1ea481526a51f2782953f077da95ff2cd29346087dbac70296308"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-77-2023",
+   "path": "local/cluj/huedin/2023/77",
+   "short": "HCL Huedin nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 77/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-77-27.06.2023-aprobare-cheltuieli-neeligibile-aferente-actelor-aditionale-478-la-ctr.-4227-2021-Sc-Nord-Conforest.pdf",
+     "sha256": "f79917b23281e48add4c630db518837759a885aa995b8c3efe63271e7f9cde43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-78-2023",
+   "path": "local/cluj/huedin/2023/78",
+   "short": "HCL Huedin nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 78/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-78-27.06.2023-aprobare-modificare-art.-3-din-H.C.L.-143-2021-UM.pdf",
+     "sha256": "6d51f89b5d5fbfced0a816d5668d7b6cd45d90bd9d1ac13d5a5d72952af3ec34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-79-2023",
+   "path": "local/cluj/huedin/2023/79",
+   "short": "HCL Huedin nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 79/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-79-27.06.2023-aprobare-revocare-H.C.L.-nr.-85-2022-H.C.L.-nr.-49-2023.pdf",
+     "sha256": "c4579b4bb0c9a8a4612cf600817c474b4d9db5bf1bb5e79b9f93fd30dbe46641"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-8-2023",
+   "path": "local/cluj/huedin/2023/8",
+   "short": "HCL Huedin nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 8/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-8-27.01.2023-aprobare-scoatere-la-concurs-posturi-spital.pdf",
+     "sha256": "a6ec95e4fcd931775c4b5a5fd1aa0b9ca77ac444be6b714600e5e0633bd62a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-80-2023",
+   "path": "local/cluj/huedin/2023/80",
+   "short": "HCL Huedin nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 80/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-80-27.06.2023-dare-in-folosinta-gratuita-imobil-P.ta-victoriei-6-8-arhiva-Judecatorie.pdf",
+     "sha256": "3e94bd0787bbd16aed5289ae752019323e993703ea0689717ccf5351024fd12d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-81-2023",
+   "path": "local/cluj/huedin/2023/81",
+   "short": "HCL Huedin nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 81/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-81-27.06.2023-aprobare-Plan-selectie-SC-Salubriterm-Serv-SRL.pdf",
+     "sha256": "fd9c8116bd242e43841188dbc84fa1a14e89ecdca87c9ae34b4087ff5f82feeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-82-2023",
+   "path": "local/cluj/huedin/2023/82",
+   "short": "HCL Huedin nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 82/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "02bbdc4834ae09d61ab35c62acd12a77e7b2c0e0399630706d7f8984f9d057e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-83-2023",
+   "path": "local/cluj/huedin/2023/83",
+   "short": "HCL Huedin nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 83/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-83-27.06.2023-aprobare-modificare-Anexa-la-H.C.L.-nr.-l25-2023-ANL.pdf",
+     "sha256": "040f2e81f672bfc0fd1085668248d51a611ce6766bb5000b6cd0b3c67b63e29f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-84-2023",
+   "path": "local/cluj/huedin/2023/84",
+   "short": "HCL Huedin nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 84/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-84-27.06.2023-aprobare-actualizare-Stat-de-Functii-Spital.pdf",
+     "sha256": "3c1fb7b7026770ae96305745b4e527f0a1daa96e6331ffae689d9e01a47071c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-85-2023",
+   "path": "local/cluj/huedin/2023/85",
+   "short": "HCL Huedin nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 85/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-85-28.07.2023-aprobare-rectificare-buget-Spital-300.000-lei.pdf",
+     "sha256": "4ea19dde7723590faec8c37270aa772ed69adab9185b4f2b45c0d20e1051c378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-86-2023",
+   "path": "local/cluj/huedin/2023/86",
+   "short": "HCL Huedin nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 86/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-86-28.07.2023-aprobare-rectificare-buget-110.000-lei.pdf",
+     "sha256": "12d01e1ffbfb6afce447c20648774386a9ff6f5af650ed476ed7722699c66401"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-87-2023",
+   "path": "local/cluj/huedin/2023/87",
+   "short": "HCL Huedin nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 87/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-87-28.07.2023-aprobare-CONTUL-DE-EXECUTIE-BUGETARA-LA-30.06.2023.pdf",
+     "sha256": "d26cb2b97c5cb262ec96174e8d72bf97202e27b1a9b44955b82dfb49a49939c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-88-2023",
+   "path": "local/cluj/huedin/2023/88",
+   "short": "HCL Huedin nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 88/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-88-28.07.2023-aprobare-rectificarea-Bugetului-de-venituri-si-cheltuieli-si-a-listei-de-investitii-pe-anul-2023-350.000-LEI.pdf",
+     "sha256": "aa03a2ca6a3316bd62a9d81ba55ca149bb7263c6da37ba5492f75c631cb47c5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-89-2023",
+   "path": "local/cluj/huedin/2023/89",
+   "short": "HCL Huedin nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 89/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-89-28.07.2023-aprobare-rectificarea-Bugetului-de-venituri-si-cheltuieli-2023-442.797-LEI.pdf",
+     "sha256": "a7729a20c8e80e09c6f29a90fb5f6fe05ead6a1b356306fc6be46cb1eb77e9df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-9-2023",
+   "path": "local/cluj/huedin/2023/9",
+   "short": "HCL Huedin nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 9/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-9-27.01.2023-aprobare-structura-organizatorica-a-Spitlaului-orasenesc-Huedin.pdf",
+     "sha256": "0706370bb7fad1431a20e7649784e4145d8134c00d0cbb90dbd11bcb0089baf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-90-2023",
+   "path": "local/cluj/huedin/2023/90",
+   "short": "HCL Huedin nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 90/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-90-28.07.2023-aprobare-tarif-inchiriere-teren-de-fotbal.pdf",
+     "sha256": "b5538a716236e3ceb4483bdd7c8e8274099ffb6e32ee6bf42e2dfbfeb47ddc46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-91-2023",
+   "path": "local/cluj/huedin/2023/91",
+   "short": "HCL Huedin nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 91/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-91-28.07.2023-aprobare-Organigrama-si-Statul-de-Functii-al-Spitlaului-Orasenesc-Huedin-actualizat-la-01.07.2023.pdf",
+     "sha256": "024cfe77ba88a355fb4f53f666dbddda75970306135d9dd5fb224b32aaf3b0e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-93-2023",
+   "path": "local/cluj/huedin/2023/93",
+   "short": "HCL Huedin nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 93/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-93-28.07.2023-aprobare-executare-lucrari-dom.public.pdf",
+     "sha256": "53e2c102a41258c0a9f41c0acdfea373c59875d28d82142c266b7911c2c741c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-94-2023",
+   "path": "local/cluj/huedin/2023/94",
+   "short": "HCL Huedin nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 94/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-94-28.07.2023-aprobare-inchiriere-spatiu-dom.public-16-mp.pdf",
+     "sha256": "1e0b2c5e65d8e9bafeb2bfde0b6868a7a62ed29220f2bf35d5b84feaf0a115dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-95-2023",
+   "path": "local/cluj/huedin/2023/95",
+   "short": "HCL Huedin nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 95/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-95-28.07.2023-aprobare-sistare-chirie-pe-perioada-23.05.2023-01.10.2023-pt.-spatiul-inchiriat-de-Sc.-Henri-Coanda.pdf",
+     "sha256": "4ab15a850eef02107d6c7d6e53c6c55f4e0ea227b23d4a1eac76dc2af356e8eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-96-2023",
+   "path": "local/cluj/huedin/2023/96",
+   "short": "HCL Huedin nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 96/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-96-28.07.2023-aprobare-MODIFICARE-ANEXA-1-DIN-H.C.L.-nr.-81-20.06.2017.pdf",
+     "sha256": "13d8905c752d25ba39fb7396fe4b37bdf0693c58cc64704e9710aaba7f7dd892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-99-2023",
+   "path": "local/cluj/huedin/2023/99",
+   "short": "HCL Huedin nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 99/2023",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2023/08/H.C.L.-nr.-99-09.08.2023-aprobarea-indicatorilor-tehnico-economici-Masuri-integrate-pentru-mobilitate-alternativa-in-Huedin.pdf",
+     "sha256": "4c7da11f994c8e0cecbfb4df8aeed20a5854baa8306a3b8e930dd74a730c9810"
+    }
+   ]
+  }
+ ]
+}

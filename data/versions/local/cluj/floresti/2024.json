@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/floresti/2024",
+ "acts": [
+  {
+   "slug": "hcl-cluj--floresti-284-2024",
+   "path": "local/cluj/floresti/2024/284",
+   "short": "HCL Florești nr. 284/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 284/2024",
+   "url": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://floresticluj.ro/wp-content/uploads/2024/10/Hotararea-Nr.-284-30.09.2024.pdf",
+     "sha256": "bfd5c1b7ae94c5913c13e7d216255b1c2cf3c3ce44ba7e024baa4e6e3bfe5b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--floresti-297-2024",
+   "path": "local/cluj/floresti/2024/297",
+   "short": "HCL Florești nr. 297/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 297/2024",
+   "url": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://floresticluj.ro/wp-content/uploads/2024/10/Hotararea-Nr.-297-30.09.2024.pdf",
+     "sha256": "7ae7ef2e96ba93bb3c945d1fb2a0efb4e31a8753b0ef5d5277d9d3cc41cbecb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--floresti-319-2024",
+   "path": "local/cluj/floresti/2024/319",
+   "short": "HCL Florești nr. 319/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 319/2024",
+   "url": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://floresticluj.ro/wp-content/uploads/2024/11/Hotararea-Nr.-319-30.10.2024.pdf",
+     "sha256": "a5f011313c3f178c2ac2c17ed8fbd74826af1b3a03b3d093e54b5faf688b7d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--floresti-320-2024",
+   "path": "local/cluj/floresti/2024/320",
+   "short": "HCL Florești nr. 320/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 320/2024",
+   "url": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://floresticluj.ro/wp-content/uploads/2024/11/Hotararea-Nr.-320-30.10.2024.pdf",
+     "sha256": "e61a053a4859cd13201127c8068455a5a311a924a2ffd46f6e0173ff6536f40a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--floresti-321-2024",
+   "path": "local/cluj/floresti/2024/321",
+   "short": "HCL Florești nr. 321/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 321/2024",
+   "url": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://floresticluj.ro/wp-content/uploads/2024/11/Hotararea-Nr.-321-30.10.2024.pdf",
+     "sha256": "ce4f9695a63ae199642921f0672e4e26ae60b2f66c311a26c38797526fe123d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--floresti-322-2024",
+   "path": "local/cluj/floresti/2024/322",
+   "short": "HCL Florești nr. 322/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 322/2024",
+   "url": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://floresticluj.ro/wp-content/uploads/2024/11/Hotararea-Nr.-322-30.10.2024.pdf",
+     "sha256": "d5e0ee9046a6d6ebc4f5ea72492d6283b3c76d3ad87f45e6f51f2d18adaeb984"
+    }
+   ]
+  }
+ ]
+}

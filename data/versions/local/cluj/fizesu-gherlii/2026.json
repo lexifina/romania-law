@@ -3,6 +3,21 @@
  "shard": "local/cluj/fizesu-gherlii/2026",
  "acts": [
   {
+   "slug": "hcl-cluj--fizesu-gherlii-1-2026",
+   "path": "local/cluj/fizesu-gherlii/2026/1",
+   "short": "HCL Fizeșu Gherlii nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 1/2026 privind aprobarea acoperirii definitive a deficitului bugetar al anului 2025, sectiunea dezvoltare din excedentul anului precedent",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/246554",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/246554",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--fizesu-gherlii-10-2026",
    "path": "local/cluj/fizesu-gherlii/2026/10",
    "short": "HCL Fizeșu Gherlii nr. 10/2026",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--fizesu-gherlii-2-2026",
+   "path": "local/cluj/fizesu-gherlii/2026/2",
+   "short": "HCL Fizeșu Gherlii nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 2/2026 privind schimbarea persoanei responsabile să reprezinte Comuna Fizeșu Gherlii în relația cu AFIR în cadrul proiectului ”MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA FIZEȘU GHERLII, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/247159",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/247159",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--fizesu-gherlii-20-2026",
    "path": "local/cluj/fizesu-gherlii/2026/20",
    "short": "HCL Fizeșu Gherlii nr. 20/2026",
@@ -288,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--fizesu-gherlii-3-2026",
+   "path": "local/cluj/fizesu-gherlii/2026/3",
+   "short": "HCL Fizeșu Gherlii nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 3/2026 privind modificarea punctuală a unor prevederi din Anexa la HCL 54/29.12.2025 privind stabilirea taxelor și impozitelor locale (art. 7, alin. (1), art. 8 alin. (1), art. 10 alin. (1) și art. 34 alin (11)",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/248249",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/248249",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--fizesu-gherlii-4-2026",
    "path": "local/cluj/fizesu-gherlii/2026/4",
    "short": "HCL Fizeșu Gherlii nr. 4/2026",
@@ -303,6 +348,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--fizesu-gherlii-5-2026",
+   "path": "local/cluj/fizesu-gherlii/2026/5",
+   "short": "HCL Fizeșu Gherlii nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 5/2026 privind stabilirea unor măsuri și a condițiilor de înregistrare a vehiculelor pentru care nu există obligația inmatriculării",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/255184",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/255184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-6-2026",
+   "path": "local/cluj/fizesu-gherlii/2026/6",
+   "short": "HCL Fizeșu Gherlii nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 6/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/259915",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/259915",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--fizesu-gherlii-7-2026",
    "path": "local/cluj/fizesu-gherlii/2026/7",
    "short": "HCL Fizeșu Gherlii nr. 7/2026",
@@ -313,6 +388,21 @@
      "from": "2026-06-03",
      "units": 1,
      "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/259916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-8-2026",
+   "path": "local/cluj/fizesu-gherlii/2026/8",
+   "short": "HCL Fizeșu Gherlii nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 8/2026 privind aprobarea numărului de posturi pentru anul 2026 la nivelui UAT Fizeșu Gherlii, jud. Cluj, conform prevederilor ORDONANȚEI DE URGENȚĂ A GUVERNULUI ROMÂNIEI nr. 7/2026",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/262672",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/262672",
      "sha256": null
     }
    ]

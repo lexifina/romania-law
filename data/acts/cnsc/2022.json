@@ -3,6 +3,23 @@
 "shard": "cnsc/2022",
 "acts": [
 {
+"slug": "cnsc-decizie-2022-1150",
+"path": "cnsc/decizie/2022/1150",
+"kind": "cnsc",
+"year": "2022",
+"number": "1150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia CNSC nr. 1150/C10/1074 din 22.05.2022: contestația GB INDCO SRL în contradictoriu cu COMUNA CERTEZE",
+"short": "Decizia CNSC nr. 1150/C10/1074 din 22.05.2022",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2022-05-22",
+"latest": "2022-05-22",
+"portal": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=Mzg4ZmJkMGEtZDljNy00M2MxLWFhZjktMWE5NmNlNGZjOTg3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMTUwLnBkZg==&action=YXR0YWNobWVudA=="
+},
+{
 "slug": "cnsc-decizie-2022-1364",
 "path": "cnsc/decizie/2022/1364",
 "kind": "cnsc",

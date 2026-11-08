@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--floresti-59-2025",
+   "path": "local/cluj/floresti/2025/59",
+   "short": "HCL Florești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 59/2025",
+   "url": "https://floresticluj.ro/hotarari-ale-comisiei-judetene-de-fond-funciar/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://floresticluj.ro/wp-content/uploads/2025/04/Hotararea-Nr.-59-27.03.2025.pdf",
+     "sha256": "5da56f629ef0eb1fff78c9199a245d04daecf776f209c4073be83bab1153d641"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--floresti-63-2025",
    "path": "local/cluj/floresti/2025/63",
    "short": "HCL Florești nr. 63/2025",

@@ -3,6 +3,21 @@
  "shard": "local/cluj/huedin/2016",
  "acts": [
   {
+   "slug": "hcl-cluj--huedin-58-2016",
+   "path": "local/cluj/huedin/2016/58",
+   "short": "HCL Huedin nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 58/2016 cu privire la componența Comisiei de validare",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2020/12/H.C.L.-nr.58-din-23.06.2016-alegere-comisia-pentru-validarea-mandatelor-consilierilor-locali-iunie-2016.pdf",
+     "sha256": "1b3c1d7eefd0864d672fae18a5c265720263eb47d0ad105225a384eab49eb067"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--huedin-59-2016",
    "path": "local/cluj/huedin/2016/59",
    "short": "HCL Huedin nr. 59/2016",
@@ -14,6 +29,51 @@
      "units": 1,
      "source_url": "https://primariahuedin.ro/wp-content/uploads/2020/12/H.C.L.-nr.59-din-23.06.2016-validare-mandat-de-consilier-local-ales-iunie-2016.pdf",
      "sha256": "4e32e635d731a3c44db54822258fc03d4f832384affbeb96a9492ed5239284f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-61-2016",
+   "path": "local/cluj/huedin/2016/61",
+   "short": "HCL Huedin nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 61/2016 cu privire la președintele de ședință",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2020/12/H.C.L.-nr.61-din-23.06.2016-alegere-presedinte-de-sedinta-iunie-2016.pdf",
+     "sha256": "a04cca812b9039b884d7ef8bae1524ce40d3531f08b6ee2c23ab89f0992a6986"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-62-2016",
+   "path": "local/cluj/huedin/2016/62",
+   "short": "HCL Huedin nr. 62/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 62/2016 pentru funcția de viceprimar al orasului Huedin, consemnate în procesul verbal întocmit de Comisia de numărare a voturilor( comisia de validare)",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2020/12/H.C.L.-nr.62-din-23.06.2016-alegere-viceprimar-iunie-2016.pdf",
+     "sha256": "7c4f2f122e0d804c8b81ccef27772646c9e053a05ddcc7e4bf7c8cdbe2aece8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-63-2016",
+   "path": "local/cluj/huedin/2016/63",
+   "short": "HCL Huedin nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 63/2016 privind organizarea comisiilor de specialitate pe principalele domenii de activitate social – economică",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2020/12/H.C.L.-nr.63-din-23.06.2016-organizare-comisii-de-specialitate-ale-CLH.pdf",
+     "sha256": "648c61b2930345948b979a08b2fa398841cfd84017ae44d5e57ac3c1630ed208"
     }
    ]
   }

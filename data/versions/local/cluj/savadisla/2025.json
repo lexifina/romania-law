@@ -3,6 +3,36 @@
  "shard": "local/cluj/savadisla/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--savadisla-1-2025",
+   "path": "local/cluj/savadisla/2025/1",
+   "short": "HCL Săvădisla nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 1/2025 privind modificarea prevederilor din Planul Urbanistic General şi Regulamentul Local de Urbanism aferent, comuna Săvădisla, județul Cluj, în sensul modificării funcționale a terenului identificat prin CF nr. 55289 Săvădisla din UTR Vpe1.1 – zona plantaților forestiere în UTR -Cc – zonă centrală, funcțiuni de interes public",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/186296",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/186296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-10-2025",
+   "path": "local/cluj/savadisla/2025/10",
+   "short": "HCL Săvădisla nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 10/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/191390",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/191390",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--savadisla-100-2025",
    "path": "local/cluj/savadisla/2025/100",
    "short": "HCL Săvădisla nr. 100/2025",
@@ -198,6 +228,111 @@
    ]
   },
   {
+   "slug": "hcl-cluj--savadisla-12-2025",
+   "path": "local/cluj/savadisla/2025/12",
+   "short": "HCL Săvădisla nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 12/2025 privind aprobarea execuției bugetare pe trimestrul IV al anului 2024",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/191392",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/191392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-13-2025",
+   "path": "local/cluj/savadisla/2025/13",
+   "short": "HCL Săvădisla nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 13/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/194054",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/194054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-14-2025",
+   "path": "local/cluj/savadisla/2025/14",
+   "short": "HCL Săvădisla nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 14/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/194055",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/194055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-15-2025",
+   "path": "local/cluj/savadisla/2025/15",
+   "short": "HCL Săvădisla nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 15/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/194056",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/194056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-16-2025",
+   "path": "local/cluj/savadisla/2025/16",
+   "short": "HCL Săvădisla nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 16/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/194057",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/194057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-17-2025",
+   "path": "local/cluj/savadisla/2025/17",
+   "short": "HCL Săvădisla nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 17/2025 privind aprobarea tipului de suport alimentar și modalitatea de distribuire a acestuia elevilor și preșcolarilor de la unitățile de învățământ din comuna Săvădisla, în cadrul Programului național ”Masă sănătoasă”",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/195784",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/195784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-18-2025",
+   "path": "local/cluj/savadisla/2025/18",
+   "short": "HCL Săvădisla nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 18/2025 privind aprobarea încetării Contractului de închiriere a suprafeței de 5 ha de pășune aflat în domeniul privat al comunei Săvădisla, județul Cluj, nr.2615 din 17.04.2019 încheiat între Comuna Săvădisla și Oltean Claudiu-Ilie",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/195785",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/195785",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--savadisla-19-2025",
    "path": "local/cluj/savadisla/2025/19",
    "short": "HCL Săvădisla nr. 19/2025",
@@ -208,6 +343,576 @@
      "from": "2025-04-09",
      "units": 1,
      "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-2-2025",
+   "path": "local/cluj/savadisla/2025/2",
+   "short": "HCL Săvădisla nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 2/2025 privind acoperirea definitivă a deficitului secțiunii de dezvoltare la sfârșitul exercițiului bugetar 2024",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/186297",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/186297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-20-2025",
+   "path": "local/cluj/savadisla/2025/20",
+   "short": "HCL Săvădisla nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 20/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201008",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-21-2025",
+   "path": "local/cluj/savadisla/2025/21",
+   "short": "HCL Săvădisla nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 21/2025 privind acordul Consiliului local Săvădisla în scop de realizare branșamente/racorduri la rețelele tehnico-edilitare în zona străzii De598 a localității Vlaha pentru proiectul ,, Elaborare documentație pentru autorizarea executării lucrărilor de construire structura suport pentru statii de baza si instalatii echipamente telefonie mobila pentru imobilul situat în extravilanul localitatii Vlaha, înscris în CF nr. 50565 Savadisla",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201009",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-22-2025",
+   "path": "local/cluj/savadisla/2025/22",
+   "short": "HCL Săvădisla nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 22/2025 privind modificarea Anexei nr.1 și Anexei nr.2 la Hotărârea nr.101 din 29.08.2024 prin care a fost modificat Anexa nr.1 și Anexa nr.2 la Hotărârea nr.58 din 27.07.2023 privind stabilirea și însușirea variantei finale a stemei comunei Săvădisla, județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201010",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-23-2025",
+   "path": "local/cluj/savadisla/2025/23",
+   "short": "HCL Săvădisla nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 23/2025 privind alegerea Președintelui de ședință al Consiliului Local al Comunei Săvădisla, pentru ședințele din perioada Aprilie 2025 - Iunie 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201011",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-24-2025",
+   "path": "local/cluj/savadisla/2025/24",
+   "short": "HCL Săvădisla nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 24/2025 privind stabilirea modalității de valorificare a masei lemnoase provenite din fondul forestier al comunei Săvădisla",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201012",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-25-2025",
+   "path": "local/cluj/savadisla/2025/25",
+   "short": "HCL Săvădisla nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 25/2025 privind aprobarea prelungirii, prin act adițional a contractului de închiriere nr. 45 din 01.05.2010 încheiat între Consiliul Local Săvădisla și SC Unimode Impex SRL",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201013",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-26-2025",
+   "path": "local/cluj/savadisla/2025/26",
+   "short": "HCL Săvădisla nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 26/2025 privind modificarea componenţei Comisiei de specialitate nr.1 a Consiliului local al Comunei Săvădisla, judeţul Cluj – Comisia pentru programe de dezvoltare economico-sociala buget - finante, agricultură, gospodarire comunala,administrarea domeniului public și privat al comunei, protectia mediului, servicii si comerț",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201014",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-27-2025",
+   "path": "local/cluj/savadisla/2025/27",
+   "short": "HCL Săvădisla nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 27/2025 privind modificarea tarifelor de călătorie și modificarea anexei nr. 58.1 Tarife de călătorie a Contractului de delegare în gestiune directă a serviciului de transport public local de călători prin curse regulate în comuna Săvădisla, aprobat prin HCL nr. 15 din 13.02.2024",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201015",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-28-2025",
+   "path": "local/cluj/savadisla/2025/28",
+   "short": "HCL Săvădisla nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 28/2025 privind acordarea unui mandat special, reprezentantului UAT Săvădisla in adunarea generala a membrilor Asociației Metropolitane de Transport Public Cluj, (A.M.T.P.C.) spre a aproba modificarea contractului de delegare a gestiunii serviciului de transport public local nr.42/29.12.2018",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201016",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-29-2025",
+   "path": "local/cluj/savadisla/2025/29",
+   "short": "HCL Săvădisla nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 29/2025 privind inițierea procedurii de închiriere a pajiștilor proprietate privată al comunei Săvădisla disponibile pentru anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201017",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-3-2025",
+   "path": "local/cluj/savadisla/2025/3",
+   "short": "HCL Săvădisla nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 3/2025 privind darea în administrare a unităților de învățământ proprietate publică și privată a comunei Săvădisla, județul Cluj, către Școala Gimnazială Hășdate-Finișel comuna Săvădisla, județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/189782",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/189782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-30-2025",
+   "path": "local/cluj/savadisla/2025/30",
+   "short": "HCL Săvădisla nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 30/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/201018",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/201018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-31-2025",
+   "path": "local/cluj/savadisla/2025/31",
+   "short": "HCL Săvădisla nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 31/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/202703",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/202703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-32-2025",
+   "path": "local/cluj/savadisla/2025/32",
+   "short": "HCL Săvădisla nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 32/2025 privind aprobarea programului anual pentru acordarea de finantari nerambursabile pentru anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/202704",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/202704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-33-2025",
+   "path": "local/cluj/savadisla/2025/33",
+   "short": "HCL Săvădisla nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 33/2025 privind decontarea cheltuielilor de transport ale cadrelor didactice navetiste pentru lunile Ianuarie, Februarie, Martie al anului 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/202705",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/202705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-34-2025",
+   "path": "local/cluj/savadisla/2025/34",
+   "short": "HCL Săvădisla nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 34/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/204415",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/204415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-35-2025",
+   "path": "local/cluj/savadisla/2025/35",
+   "short": "HCL Săvădisla nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 35/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/204416",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/204416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-36-2025",
+   "path": "local/cluj/savadisla/2025/36",
+   "short": "HCL Săvădisla nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 36/2025 privind încheierea unui contract de dare în folosință gratuită (comodat) între Județul Cluj și UAT Comuna Săvădisla, județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/204417",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/204417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-37-2025",
+   "path": "local/cluj/savadisla/2025/37",
+   "short": "HCL Săvădisla nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 37/2025 privind modificarea și completarea HCL nr.24 din 27.03.2025 privind stabilirea modalității de valorificare a masei lemnoase provenite din fondul forestier al comunei Săvădisla",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/204418",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/204418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-38-2025",
+   "path": "local/cluj/savadisla/2025/38",
+   "short": "HCL Săvădisla nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 38/2025 privind aprobarea execuției bugetare pe trimestrul I al anului 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/204419",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/204419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-39-2025",
+   "path": "local/cluj/savadisla/2025/39",
+   "short": "HCL Săvădisla nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 39/2025 privind solicitarea prelungirii valabilității scrisorii de garantare de la FNGCIMM SA IFN in vederea garantării obligațiilor de plata a avansului din fonduri nerambursabile pentru implementarea Proiectului privind: “Infrastructura de apa si apa uzata in aglomerarea Hășdate-Lita-Liteni, comuna Săvădisla, județul Cluj” in baza contractului de finanțare nerambursabila nr. C0720AM00021661300306 / 82.08.2017 şi actelor adiționale ulterioare, in favoarea Agenției pentru Finanțarea Investițiilor Rurale (AFIR)",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/204420",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/204420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-4-2025",
+   "path": "local/cluj/savadisla/2025/4",
+   "short": "HCL Săvădisla nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 4/2025 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru anul 2025, pentru stabilirea activității desfășurate de persoanele beneficiare de ajutor de incluziune, acordat în baza Legii nr.196/2016",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/189783",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/189783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-40-2025",
+   "path": "local/cluj/savadisla/2025/40",
+   "short": "HCL Săvădisla nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 40/2025 privind rectificarea bugetului local al comunei Săvădisla pe anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/204421",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/204421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-41-2025",
+   "path": "local/cluj/savadisla/2025/41",
+   "short": "HCL Săvădisla nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 41/2025 privind confirmarea aprobării modificării Statutului Asociaţiei de Dezvoltare Intercomunitară Eco-Metropolitan Cluj, mandatarea Preşedintelui Asociaţiei pentru semnarea Statutului actualizat, și mandatarea Directorului Executiv al Asociaţiei pentru înregistrarea Statutului actualizat la Registrul Asociaţiilor şi Fundaţiilor",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210104",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-42-2025",
+   "path": "local/cluj/savadisla/2025/42",
+   "short": "HCL Săvădisla nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 42/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210105",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-43-2025",
+   "path": "local/cluj/savadisla/2025/43",
+   "short": "HCL Săvădisla nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 43/2025 privind modificarea contractului de delegare a gestiunii nr.42/29.12.2018, dintre Asociatia Metropolitana de Transport Public Cluj, (AMTPC) si Compania de Transport Public Cluj-Napoca SA, potrivit HCL Floresti nr.43/25.04.2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210106",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-44-2025",
+   "path": "local/cluj/savadisla/2025/44",
+   "short": "HCL Săvădisla nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 44/2025 privind validarea și însușirea Dispoziției Primarului comunei Săvădisla nr.103 din 12.05.2025 privind rectificarea bugetului local al comunei Săvădisla , pentru anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210107",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-45-2025",
+   "path": "local/cluj/savadisla/2025/45",
+   "short": "HCL Săvădisla nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 45/2025 privind modificarea și înlocuirea Anexei nr. 1 la HCL nr.21 din 29.02.2024, privind aprobarea varianta electronică revizuită a intravilanului aferent Planului Urbanistic General al Comunei SĂVĂDISLA aprogat prin HOTÂRÂREA CONSILIULUI LOCAL AL COMUNEI SĂVĂDISLA",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210108",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-46-2025",
+   "path": "local/cluj/savadisla/2025/46",
+   "short": "HCL Săvădisla nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 46/2025 privind decontarea cheltuielilor de transport ale cadrelor didactice navetiste pentru luna Aprilie al anului 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210109",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-47-2025",
+   "path": "local/cluj/savadisla/2025/47",
+   "short": "HCL Săvădisla nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 47/2025 privind alocarea finanţărilor nerambursabile din fondurile bugetului local al comunei Săvădisla pentru activităţi nonprofit de interes local, domeniul sport",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210110",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-48-2025",
+   "path": "local/cluj/savadisla/2025/48",
+   "short": "HCL Săvădisla nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 48/2025 privind alocarea finanţărilor nerambursabile din fondurile bugetului local al comunei Săvădisla pentru activităţi nonprofit de interes local, domeniul cultură",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210111",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-49-2025",
+   "path": "local/cluj/savadisla/2025/49",
+   "short": "HCL Săvădisla nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 49/2025 privind alocarea finanţărilor nerambursabile din fondurile bugetului local al comunei Săvădisla pentru activităţi nonprofit de interes local, domeniul after school",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210112",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-5-2025",
+   "path": "local/cluj/savadisla/2025/5",
+   "short": "HCL Săvădisla nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 5/2025 privind aprobarea a indicatorilor tehnico-economici actualizați și a devizului general al obiectivului de investiții inițial și actualizat, respectiv pentru categoriile de cheltuieli finanțate de la bugetul local aferente proiectului de investiții\"EXTINDERE RETEA APA SI CANALIZARE IN SATELE LITA-LITENI, COMUNA SAVADISLA, JUDETUL CLUJ\"",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/189784",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/189784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-50-2025",
+   "path": "local/cluj/savadisla/2025/50",
+   "short": "HCL Săvădisla nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 50/2025 privind aprobarea Planului local pentru asigurarea resurselor umane, materiale si financiare necesare gestionarii situatiilor de urgenta pe anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/210113",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/210113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-51-2025",
+   "path": "local/cluj/savadisla/2025/51",
+   "short": "HCL Săvădisla nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 51/2025 privind aprobarea prelungirii, prin act adițional a contractului de închiriere nr. 3926 din 01.07.2015 încheiat între Consiliul Local Săvădisla și SC WEST INTERCOM SRL",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214615",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-52-2025",
+   "path": "local/cluj/savadisla/2025/52",
+   "short": "HCL Săvădisla nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 52/2025 privind decontarea cheltuielilor de transport ale cadrelor didactice navetiste pentru lunile Mai - Iunie al anului 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214616",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-53-2025",
+   "path": "local/cluj/savadisla/2025/53",
+   "short": "HCL Săvădisla nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 53/2025 privind alegerea Președintelui de ședință al Consiliului Local al Comunei Săvădisla, pentru ședințele din perioada Iulie 2025 - Septembrie 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214617",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214617",
      "sha256": null
     }
    ]
@@ -243,6 +948,351 @@
    ]
   },
   {
+   "slug": "hcl-cluj--savadisla-56-2025",
+   "path": "local/cluj/savadisla/2025/56",
+   "short": "HCL Săvădisla nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 56/2025 privind acordarea premiului în cuantum de 500 de lei cuplurilor care au împlinit 50 ani de casatorie",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214620",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-57-2025",
+   "path": "local/cluj/savadisla/2025/57",
+   "short": "HCL Săvădisla nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 57/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214621",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-58-2025",
+   "path": "local/cluj/savadisla/2025/58",
+   "short": "HCL Săvădisla nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 58/2025 privind rectificarea bugetului local al comunei Săvădisla pe anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214622",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-59-2025",
+   "path": "local/cluj/savadisla/2025/59",
+   "short": "HCL Săvădisla nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 59/2025 privind aprobarea acordării unui sprijin financiar în vederea completării fondurilor proprii Parohiei Reformate Săvădisla, pentru finanțarea lucrării ,, Construire capelă funerară”",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214623",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-6-2025",
+   "path": "local/cluj/savadisla/2025/6",
+   "short": "HCL Săvădisla nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 6/2025 privind actualizarea echipei mobile, pentru intervenția în regim de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/189785",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/189785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-60-2025",
+   "path": "local/cluj/savadisla/2025/60",
+   "short": "HCL Săvădisla nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 60/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214624",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-61-2025",
+   "path": "local/cluj/savadisla/2025/61",
+   "short": "HCL Săvădisla nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 61/2025 Privind alocarea unor fonduri bănești pentru sprijinirea unităților de cult din comuna Săvădisla: Parohia Ortodoxă Stolna",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214625",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-62-2025",
+   "path": "local/cluj/savadisla/2025/62",
+   "short": "HCL Săvădisla nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 62/2025 Privind alocarea unor fonduri bănești pentru sprijinirea unităților de cult din comuna Săvădisla: Parohia Reformată Vlaha",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214626",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-63-2025",
+   "path": "local/cluj/savadisla/2025/63",
+   "short": "HCL Săvădisla nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 63/2025 Privind alocarea unor fonduri bănești pentru sprijinirea unităților de cult din comuna Săvădisla: Parohia Reformată Săvădisla",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214627",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-64-2025",
+   "path": "local/cluj/savadisla/2025/64",
+   "short": "HCL Săvădisla nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 64/2025 Privind alocarea unor fonduri bănești pentru sprijinirea unităților de cult din comuna Săvădisla: Parohia Ortodoxă Lita",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214628",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-65-2025",
+   "path": "local/cluj/savadisla/2025/65",
+   "short": "HCL Săvădisla nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 65/2025 Privind alocarea unor fonduri bănești pentru sprijinirea unităților de cult din comuna Săvădisla: Parohia Ortodoxă Finișel",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214629",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-66-2025",
+   "path": "local/cluj/savadisla/2025/66",
+   "short": "HCL Săvădisla nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 66/2025 Privind alocarea unor fonduri bănești pentru sprijinirea unităților de cult din comuna Săvădisla: Parohia Romano-catolică Vlaha",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214630",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-67-2025",
+   "path": "local/cluj/savadisla/2025/67",
+   "short": "HCL Săvădisla nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 67/2025 Privind alocarea unor fonduri bănești pentru sprijinirea unităților de cult din comuna Săvădisla: Parohia Ortodoxă Hășdate",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214631",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-68-2025",
+   "path": "local/cluj/savadisla/2025/68",
+   "short": "HCL Săvădisla nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 68/2025 Privind alocarea unor fonduri bănești pentru sprijinirea unităților de cult din comuna Săvădisla: Parohia Reformată Liteni",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214632",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-69-2025",
+   "path": "local/cluj/savadisla/2025/69",
+   "short": "HCL Săvădisla nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 69/2025 privind închirierea prin licitație publică a unui spațiu cu destinația,sediu social Asociații sau fundații, situat în clădirea căminului cultural,sat Hășdate,nr.41/A, comuna Săvădisla, județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/214633",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/214633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-7-2025",
+   "path": "local/cluj/savadisla/2025/7",
+   "short": "HCL Săvădisla nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 7/2025 privind actualizarea componenței Structurii Comunitare Consultative al comunei Săvădisla, aprobat prin HCL nr. 88 din 26.10.2023 privind constituirea Structurii Comunitare Consultative al comunei Săvădisla și aprobarea Regulamentului de organizare și funcționare al Structurii Comunitare Consultative al comunei Săvădisla ,județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/189786",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/189786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-70-2025",
+   "path": "local/cluj/savadisla/2025/70",
+   "short": "HCL Săvădisla nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 70/2025 privind aprobare documentație de urbanism ”Elaborare P.U.Z pentru schimbare funcțiune din zonă industrială în zonă de locuințe și mixtă, parcelare”",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/216081",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/216081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-71-2025",
+   "path": "local/cluj/savadisla/2025/71",
+   "short": "HCL Săvădisla nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 71/2025 privind acordul Consiliului local Săvădisla, în calitate de administrator al domeniului public si privat al comunei, pentru executarea lucrărilor de extinderea rețelelei de apă-canal în zona străzii De 173 a localității Vlaha aferent investiției ,,Elaborarea documentație pentru autorizarea executării lucrărilor de ”Extindere conductă de alimentare cu apă și canalizare în localitatea Vlaha, comuna Săvădisla”",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/216082",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/216082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-72-2025",
+   "path": "local/cluj/savadisla/2025/72",
+   "short": "HCL Săvădisla nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 72/2025 privind acordul Consiliului local Săvădisla, în calitate de administrator al domeniului public si privat al comunei, pentru executarea lucrărilor de extinderea rețelelei de apă-canal în zona străzii Ds 197 a localității Finișel aferent investiției ,,Elaborarea documentație pentru autorizarea executării lucrărilor de ”Extindere conductă de alimentare cu apă și canalizare în localitatea Finișel, comuna Săvădisla”",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/216083",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/216083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-73-2025",
+   "path": "local/cluj/savadisla/2025/73",
+   "short": "HCL Săvădisla nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 73/2025 privind aprobarea dispozitiilor de santier si a actualizării indicatorilor tehnico-economici, a devizului general actualizat aferent proiectului de investiții: „Infrastructura de apă și apă uzată în aglomerarea Hășdate - Lita - Liteni, comuna Săvădisla, județul Cluj”",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/217410",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/217410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-74-2025",
+   "path": "local/cluj/savadisla/2025/74",
+   "short": "HCL Săvădisla nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 74/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/217411",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/217411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-75-2025",
+   "path": "local/cluj/savadisla/2025/75",
+   "short": "HCL Săvădisla nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 75/2025 privind rectificarea bugetului local al comunei Săvădisla pe anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/217412",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/217412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-76-2025",
+   "path": "local/cluj/savadisla/2025/76",
+   "short": "HCL Săvădisla nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 76/2025 privind aprobarea execuției bugetare pe trimestrul II al anului 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/219437",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/219437",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--savadisla-77-2025",
    "path": "local/cluj/savadisla/2025/77",
    "short": "HCL Săvădisla nr. 77/2025",
@@ -268,6 +1318,231 @@
      "from": "2025-08-28",
      "units": 1,
      "source_url": "https://emol.ro/savadisla-cj/registru-hcl/222523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-79-2025",
+   "path": "local/cluj/savadisla/2025/79",
+   "short": "HCL Săvădisla nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 79/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/222524",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/222524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-8-2025",
+   "path": "local/cluj/savadisla/2025/8",
+   "short": "HCL Săvădisla nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 8/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/189787",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/189787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-80-2025",
+   "path": "local/cluj/savadisla/2025/80",
+   "short": "HCL Săvădisla nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 80/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/222525",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/222525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-81-2025",
+   "path": "local/cluj/savadisla/2025/81",
+   "short": "HCL Săvădisla nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 81/2025 privind însușirea documentației tehnico-cadastrale în vederea primei înscrieri în domeniul public al comunei Săvădisla și întabularea în domeniul public al comunei Săvădisla a terenului zonă verde, parcare în curs de amenajare, în sat Vlaha, comuna Săvădisla, jud. Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/222526",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/222526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-82-2025",
+   "path": "local/cluj/savadisla/2025/82",
+   "short": "HCL Săvădisla nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 82/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/225122",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/225122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-83-2025",
+   "path": "local/cluj/savadisla/2025/83",
+   "short": "HCL Săvădisla nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 83/2025 privind însușirea documentației tehnico-cadastrale în vederea primei înscrieri în domeniul public al comunei Săvădisla și întabularea în domeniul public al comunei Săvădisla a terenului și a construcțiilor,situate în sat Vlaha,nr.240 comuna Săvădisla, jud. Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/225123",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/225123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-84-2025",
+   "path": "local/cluj/savadisla/2025/84",
+   "short": "HCL Săvădisla nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 84/2025 privind rectificarea bugetului local al comunei Săvădisla pe anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/225124",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/225124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-85-2025",
+   "path": "local/cluj/savadisla/2025/85",
+   "short": "HCL Săvădisla nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 85/2025 privind modificarea Anexei nr.1 la HCL nr.27 din 27.03.2025 privind modificarea tarifelor de călătorie și modificarea anexei nr. 58.1 Tarife de călătorie a Contractului de delegare în gestiune directă a serviciului de transport public local de călători prin curse regulate în comuna Săvădisla, aprobat prin HCL nr. 15 din 13.02.2024",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/225125",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/225125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-86-2025",
+   "path": "local/cluj/savadisla/2025/86",
+   "short": "HCL Săvădisla nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 86/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/226528",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/226528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-87-2025",
+   "path": "local/cluj/savadisla/2025/87",
+   "short": "HCL Săvădisla nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 87/2025 privind alegerea Președintelui de ședință al Consiliului Local al Comunei Săvădisla, pentru ședințele din perioada Octombrie 2025 - Decembrie 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/226529",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/226529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-88-2025",
+   "path": "local/cluj/savadisla/2025/88",
+   "short": "HCL Săvădisla nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 88/2025 privind stabilirea modalității de valorificare a masei lemnoase provenite din fondul forestier al comunei Săvădisla",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/226530",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/226530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-89-2025",
+   "path": "local/cluj/savadisla/2025/89",
+   "short": "HCL Săvădisla nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 89/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/226531",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/226531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-9-2025",
+   "path": "local/cluj/savadisla/2025/9",
+   "short": "HCL Săvădisla nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 9/2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/191389",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/191389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-90-2025",
+   "path": "local/cluj/savadisla/2025/90",
+   "short": "HCL Săvădisla nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 90/2025 privind inițierea procedurii de închiriere a pajiștilor proprietate privată al comunei Săvădisla disponibile pentru anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/226532",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/226532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-91-2025",
+   "path": "local/cluj/savadisla/2025/91",
+   "short": "HCL Săvădisla nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 91/2025 privind rectificarea bugetului local al comunei Săvădisla pe anul 2025",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/226533",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/226533",
      "sha256": null
     }
    ]

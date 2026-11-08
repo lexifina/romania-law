@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-10-2021",
+   "path": "local/cluj/luna/2021/10",
+   "short": "HCL Luna nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 10/2021 privind aprobarea Planului anual de acțiuni și lucrări de interes local care se vor efectua de către persoanele apte de muncă din familiile beneficiare de ajutor social",
+   "url": "https://emol.ro/luna-cj/registru-hcl/31002",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/31002",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-11-2021",
    "path": "local/cluj/luna/2021/11",
    "short": "HCL Luna nr. 11/2021",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-13-2021",
+   "path": "local/cluj/luna/2021/13",
+   "short": "HCL Luna nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 13/2021 privind inchirierea pajistilor aflate in domeniul privat al Comunei Luna, prin atribuire directa",
+   "url": "https://emol.ro/luna-cj/registru-hcl/31005",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/31005",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-14-2021",
    "path": "local/cluj/luna/2021/14",
    "short": "HCL Luna nr. 14/2021",
@@ -63,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-15-2021",
+   "path": "local/cluj/luna/2021/15",
+   "short": "HCL Luna nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 15/2021 privind transmiterea din domeniul public al Comunei Luna în domeniul public al Statului Român în vederea dării în administrarea Ministerului Apărării Naționale a unor imobile situate în extravilanul Comunei Luna, județul Cluj",
+   "url": "https://emol.ro/luna-cj/registru-hcl/31014",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/31014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-16-2021",
+   "path": "local/cluj/luna/2021/16",
+   "short": "HCL Luna nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 16/2021 privind desemnarea consilierilor locali in vederea constituirii comisiei pentru evaluarea performanțelor profesionale ale Secretarului general al Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/31015",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/31015",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-17-2021",
    "path": "local/cluj/luna/2021/17",
    "short": "HCL Luna nr. 17/2021",
@@ -73,6 +133,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/31033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-18-2021",
+   "path": "local/cluj/luna/2021/18",
+   "short": "HCL Luna nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 18/2021 privind aprobarea solicitarii prelungirii Scrisorii de garantie de la FGCR IFN SA nr. IG173301066/13.10.2017 in suma de 1.440.211,00 lei in vederea garantarii in procent de 100% a obligatiilor de plata a avansului de 1.440.211,00 lei din fondurile nerambursabile pentru implementarea proiectului “ Reabilitare retea stradala” com. Luna, jud.Cluj, in baza contractului de finantare nerambursabila nr. C0720RN00011661300089/22.06.2017, cu modificarile si completarile ulterioare, in favoarea Agentiei pentru Finantarea Investitiilor Rurale",
+   "url": "https://emol.ro/luna-cj/registru-hcl/31034",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/31034",
      "sha256": null
     }
    ]
@@ -168,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-24-2021",
+   "path": "local/cluj/luna/2021/24",
+   "short": "HCL Luna nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 24/2021",
+   "url": "https://emol.ro/luna-cj/registru-hcl/31047",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/31047",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-25-2021",
    "path": "local/cluj/luna/2021/25",
    "short": "HCL Luna nr. 25/2021",
@@ -193,6 +283,21 @@
      "from": "2021-06-25",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/31049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-27-2021",
+   "path": "local/cluj/luna/2021/27",
+   "short": "HCL Luna nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 27/2021 privind aprobarea concesionării prin licitație publică a unui teren neproductiv în suprafață de 2 ha situat în extravilanul localității Luna, proprietate privată a Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/31050",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/31050",
      "sha256": null
     }
    ]
@@ -243,6 +348,81 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-30-2021",
+   "path": "local/cluj/luna/2021/30",
+   "short": "HCL Luna nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 30/2021 privind aprobarea concesionării prin licitație publică a cabinetului stomatologic și a camerei de sterilizare în suprafață totală de 18,12 mp aflate în incinta Dispensarului Uman Luncani",
+   "url": "https://emol.ro/luna-cj/registru-hcl/41182",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/41182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-31-2021",
+   "path": "local/cluj/luna/2021/31",
+   "short": "HCL Luna nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 31/2021 pentru completarea Anexei 1 la Hotărârea Consiliului Local al Comunei Luna nr. 39/28.07.2017 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Primăriei Comunei Luna și al serviciilor publice din subordinea Consiliului Local al Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/41183",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/41183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-32-2021",
+   "path": "local/cluj/luna/2021/32",
+   "short": "HCL Luna nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 32/2021 privind aprobarea listei persoanelor beneficiare de terenuri pentru construirea de locuinte",
+   "url": "https://emol.ro/luna-cj/registru-hcl/41184",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/41184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-33-2021",
+   "path": "local/cluj/luna/2021/33",
+   "short": "HCL Luna nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 33/2021 privind actualizarea indicatorilor tehnico-economici din Documentația de avizare a lucrărilor de intervenție pentru obiectivul « Modernizare drumuri de interes local în Comuna Luna, Județul Cluj »",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42192",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-34-2021",
+   "path": "local/cluj/luna/2021/34",
+   "short": "HCL Luna nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 34/2021 privind aprobarea solicitării de transmitere cu titlu gratuit a unei remorci cisterne de 6000 litri din patrimoniul Ministerului Apărării Naționale în patrimoniul Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42193",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42193",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-35-2021",
    "path": "local/cluj/luna/2021/35",
    "short": "HCL Luna nr. 35/2021",
@@ -253,6 +433,36 @@
      "from": "2021-09-24",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/42194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-36-2021",
+   "path": "local/cluj/luna/2021/36",
+   "short": "HCL Luna nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 36/2021 privind aprobarea concesionării directe a cabinetelor medicale de medicină generală și pediatrie din incinta Dispensarului Uman Luncani în favoarea medicilor care dețin praxisul de medicină de familie în loc. Luncani și Gligorești",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42195",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-37-2021",
+   "path": "local/cluj/luna/2021/37",
+   "short": "HCL Luna nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 37/2021 privind aprobarea modificarii şi completării Contractului de delegare prin concesiune a gestiunii activităţilor de colectare şi transport a deşeurilor în județul Cluj – lotul 2 înregistrat sub nr. 775/02.12.2020 şi pentru mandatarea Asociaţiei de Dezvoltare Intercomunitară ECO-METROPOLITAN Cluj în vederea încheierii contractelor cu organizaţiile care implementează obligaţiile privind răspunderea extinsă a producătorului (OIREP) în scopul îndeplinirii obiectivelor stabilite prin Legea nr. 249/2015 privind modalitatea de gestionare a ambalajelor şi a deşeurilor de ambalaje",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42196",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42196",
      "sha256": null
     }
    ]
@@ -283,6 +493,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/42211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-4-2021",
+   "path": "local/cluj/luna/2021/4",
+   "short": "HCL Luna nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 4/2021 privind aprobarea numarului de autoturisme necesare desfasurarii activitatilor specifice de catre Primaria Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/30996",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/30996",
      "sha256": null
     }
    ]
@@ -438,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-5-2021",
+   "path": "local/cluj/luna/2021/5",
+   "short": "HCL Luna nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 5/2021 privind aprobarea contractarii de prestari servicii de publicitate",
+   "url": "https://emol.ro/luna-cj/registru-hcl/30997",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/30997",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-50-2021",
    "path": "local/cluj/luna/2021/50",
    "short": "HCL Luna nr. 50/2021",
@@ -588,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-6-2021",
+   "path": "local/cluj/luna/2021/6",
+   "short": "HCL Luna nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 6/2021 privind revocarea Hotărârii nr. 9/30.04.2020 referitoare la trecerea imobilelor clădire Blocul specialiștilor și terenul aferent din domeniul public al Comunei Luna în domeniul privat al Comunei Luna și aprobarea schimbării destinației clădirii Blocul Specialiștilor",
+   "url": "https://emol.ro/luna-cj/registru-hcl/30998",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/30998",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-7-2021",
    "path": "local/cluj/luna/2021/7",
    "short": "HCL Luna nr. 7/2021",
@@ -598,6 +853,21 @@
      "from": "2021-01-29",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/30999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-8-2021",
+   "path": "local/cluj/luna/2021/8",
+   "short": "HCL Luna nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 8/2021 privind aprobarea constituirii cu titlu gratuit a dreptului de servitute in favoarea SC Depozitul Arhivele Transilvania asupra terenului identificat prin CF nr. 56759, proprietate privata a Comunei Luna, in vederea asigurarii accesului la utilitati, la caile de acces, inclusiv la drumul judetean DJ 107F, si la parcari",
+   "url": "https://emol.ro/luna-cj/registru-hcl/31000",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/31000",
      "sha256": null
     }
    ]

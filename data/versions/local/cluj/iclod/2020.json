@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/iclod/2020",
+ "acts": [
+  {
+   "slug": "hcl-cluj--iclod-54-2020",
+   "path": "local/cluj/iclod/2020/54",
+   "short": "HCL Iclod nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 54/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-54-din-30.10.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-54-din-30.10.2020.pdf",
+     "sha256": "49d0bc8ed78f5b066e2997ee26fa9445432af0d04e022d5a9c88ffbea35a57c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-55-2020",
+   "path": "local/cluj/iclod/2020/55",
+   "short": "HCL Iclod nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 55/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-55-din-30.10.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-55-din-30.10.2020.pdf",
+     "sha256": "4a30f9db26d5cb66717d309654cdda0d75cbca8d2af47be4143bc259320640bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-57-2020",
+   "path": "local/cluj/iclod/2020/57",
+   "short": "HCL Iclod nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 57/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-57-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-57-din-27.11.2020.pdf",
+     "sha256": "5798204263d775b84084c1946aa1653dace2c74c5caa5236b00e617c97d7af14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-58-2020",
+   "path": "local/cluj/iclod/2020/58",
+   "short": "HCL Iclod nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 58/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-58-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-58-din-27.11.2020.pdf",
+     "sha256": "1426c744adb1d757922d12cc4081bf13fdd4542ebf04dc1f7de500280b8d2b75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-59-2020",
+   "path": "local/cluj/iclod/2020/59",
+   "short": "HCL Iclod nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 59/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-59-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-59-din-27.11.2020.pdf",
+     "sha256": "3533a78dbb460a13e874774e2b1ce3297e7897c581fdfc4b60ceabb257949b16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-60-2020",
+   "path": "local/cluj/iclod/2020/60",
+   "short": "HCL Iclod nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 60/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-60-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-60-din-27.11.2020.pdf",
+     "sha256": "dedaf841785cdccbbfdafe203bb6c9b014bc3e61184d403ca6db49399a446c13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-61-2020",
+   "path": "local/cluj/iclod/2020/61",
+   "short": "HCL Iclod nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 61/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-61-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-61-din-27.11.2020.pdf",
+     "sha256": "854f7621039f7345b6d7655cc39cf588005ba6f4da450d5ee3bcde48975e0a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-62-2020",
+   "path": "local/cluj/iclod/2020/62",
+   "short": "HCL Iclod nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 62/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-62-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-62-din-27.11.2020.pdf",
+     "sha256": "f9e2b640b08d68fb79e67f07233d704c27989ba18a3c0226df9f2af49846ac84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-63-2020",
+   "path": "local/cluj/iclod/2020/63",
+   "short": "HCL Iclod nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 63/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-63-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-63-din-27.11.2020.pdf",
+     "sha256": "e12ac6fa903b4a07bb04c0f82b8492070c0efb02e083e512463132a8e8362000"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-64-2020",
+   "path": "local/cluj/iclod/2020/64",
+   "short": "HCL Iclod nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 64/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-64-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-64-din-27.11.2020.pdf",
+     "sha256": "ff8574d589a2daa40893a5762a6afd7025a3eea6c3df5586b576b80eaaaa1c4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-65-2020",
+   "path": "local/cluj/iclod/2020/65",
+   "short": "HCL Iclod nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 65/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-65-din-27.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-65-din-27.11.2020.pdf",
+     "sha256": "18804ff475f8432d1d592744b78d960f98970a0b598cad35698d6a1773946c70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-66-2020",
+   "path": "local/cluj/iclod/2020/66",
+   "short": "HCL Iclod nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 66/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-66-din-22.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-66-din-22.12.2020.pdf",
+     "sha256": "c3cba6da07dda3d377aed2311b228663b0fdd36c08283369c0db1e0bc12e4a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-67-2020",
+   "path": "local/cluj/iclod/2020/67",
+   "short": "HCL Iclod nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 67/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-67-din-22.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-67-din-22.12.2020.pdf",
+     "sha256": "b95b6af0782919ecebb53a772f71695bf6e2910ad6572fb37a29b6dc31a0cc8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-68-2020",
+   "path": "local/cluj/iclod/2020/68",
+   "short": "HCL Iclod nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 68/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-68-din-22.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-68-din-22.12.2020.pdf",
+     "sha256": "abe76f647d0e037dffbeb212cef34f33cfba796b819c59bac18484df09867a1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-69-2020",
+   "path": "local/cluj/iclod/2020/69",
+   "short": "HCL Iclod nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 69/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-69-din-22.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-69-din-22.12.2020.pdf",
+     "sha256": "c9bec54a2ea619fa1ad8e4479545316307bc86d320820f1149bef619944c9248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-70-2020",
+   "path": "local/cluj/iclod/2020/70",
+   "short": "HCL Iclod nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 70/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-70-din-22.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-70-din-22.12.2020.pdf",
+     "sha256": "ddcd80d6fab7611f76a681a66755f32ed000ee40473bf2816779e7c988d877b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-71-2020",
+   "path": "local/cluj/iclod/2020/71",
+   "short": "HCL Iclod nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 71/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-71-din-22.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-71-din-22.12.2020.pdf",
+     "sha256": "80c3355521d56d4cef9c8a60557117cd9d5458d9071b7e6d00463338e17c085d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-72-2020",
+   "path": "local/cluj/iclod/2020/72",
+   "short": "HCL Iclod nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 72/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-72-din-22.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-72-din-22.12.2020.pdf",
+     "sha256": "a396912a4085366e50da559e36e93db9d968c245bb062ce01e4deb2f6dcdb6ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iclod-73-2020",
+   "path": "local/cluj/iclod/2020/73",
+   "short": "HCL Iclod nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Iclod nr. 73/2020",
+   "url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-73-din-22.12.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariaiclod.ro/wp-content/uploads/2026/11/hcl-nr.-73-din-22.12.2020.pdf",
+     "sha256": "f6c5d30c1b3b6265cf9c004542a57d4d9cf868dedb54681a35251d9082544c0f"
+    }
+   ]
+  }
+ ]
+}

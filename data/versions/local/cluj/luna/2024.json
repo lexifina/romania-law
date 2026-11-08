@@ -3,6 +3,156 @@
  "shard": "local/cluj/luna/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--luna-1-2024",
+   "path": "local/cluj/luna/2024/1",
+   "short": "HCL Luna nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 1/2024 privind aprobarea utilizării excedentului rezultat din exercițiul financiar din anii anteriori pentru acoperirea deficitului secțiunii de dezvoltare, pentru acoperirea temporară a golurilor de casă, respectiv pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/luna-cj/registru-hcl/136469",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/136469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-10-2024",
+   "path": "local/cluj/luna/2024/10",
+   "short": "HCL Luna nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 10/2024 privind aprobarea concesionării prin licitație publică a unor terenuri în suprafață totală de 32,5927 ha, identificate prin nr. cad. 59407, 59408 și 59409, înscrise în CF nr. 59407, 59408 și 59409 Luna, situate în intravilanul satului Luna, proprietate privată a Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/144555",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/144555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-11-2024",
+   "path": "local/cluj/luna/2024/11",
+   "short": "HCL Luna nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 11/2024 privind rectificarea bugetului local al Comunei Luna pe anul 2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/144556",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/144556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-12-2024",
+   "path": "local/cluj/luna/2024/12",
+   "short": "HCL Luna nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 12/2024 privind rectificarea bugetului local al Comunei Luna pe anul 2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/148149",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/148149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-13-2024",
+   "path": "local/cluj/luna/2024/13",
+   "short": "HCL Luna nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 13/2024 privind aprobarea tipului de suport alimentar acordat către elevii şi preşcolarii din cadrul Școlii Gimnaziale Luna, prin Programul național ”Masă Sănătoasă”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/148150",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/148150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-14-2024",
+   "path": "local/cluj/luna/2024/14",
+   "short": "HCL Luna nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 14/2024 privind aprobarea Planului de analiză și acoperire a riscurilor generatoare de situații de urgență în Comuna Luna, Județul Cluj",
+   "url": "https://emol.ro/luna-cj/registru-hcl/150405",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/150405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-15-2024",
+   "path": "local/cluj/luna/2024/15",
+   "short": "HCL Luna nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 15/2024 pentru însușirea Acordului de cooperare privind organizarea şi funcționarea serviciului audit public intern",
+   "url": "https://emol.ro/luna-cj/registru-hcl/150406",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/150406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-16-2024",
+   "path": "local/cluj/luna/2024/16",
+   "short": "HCL Luna nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 16/2024 privind aprobarea documentației tehnice faza PT, a indicatorilor tehnico-economici actualizați și a devizului general actualizat după procedura de achiziție publică pentru obiectivul de investiții „Modernizare drumuri de interes local în Comuna Luna, Județul Cluj”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/luna-cj/registru-hcl/150407",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/150407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-17-2024",
+   "path": "local/cluj/luna/2024/17",
+   "short": "HCL Luna nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 17/2024 privind aprobarea documentației tehnice faza PT, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Eficientizarea sistemului de iluminat public din Comuna Luna, Judetul Cluj”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/150408",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/150408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-18-2024",
+   "path": "local/cluj/luna/2024/18",
+   "short": "HCL Luna nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 18/2024 privind aprobarea variantei electronice revizuite a intravilanului aferent Planului Urbanistic General al Comunei LUNA",
+   "url": "https://emol.ro/luna-cj/registru-hcl/154125",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/154125",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-19-2024",
    "path": "local/cluj/luna/2024/19",
    "short": "HCL Luna nr. 19/2024",
@@ -13,6 +163,261 @@
      "from": "2024-04-26",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/154126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-2-2024",
+   "path": "local/cluj/luna/2024/2",
+   "short": "HCL Luna nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 2/2024 privind aprobarea rețelei unităților de învățământ de pe raza Comunei Luna pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/139422",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/139422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-20-2024",
+   "path": "local/cluj/luna/2024/20",
+   "short": "HCL Luna nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 20/2024 privind aprobarea documentaţiei tehnico-economice faza SF, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSTRUIRE LOCUINȚE PENTRU SPECIALIȘTI ÎN COMUNA LUNA, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/154127",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/154127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-21-2024",
+   "path": "local/cluj/luna/2024/21",
+   "short": "HCL Luna nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 21/2024 privind aprobarea documentației tehnice faza PT, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSTRUCȚIE ALEI, LOC DE JOACĂ ȘI RECREERE ÎN COMUNA LUNA, SAT GLIGOREȘTI, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/154128",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/154128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-22-2024",
+   "path": "local/cluj/luna/2024/22",
+   "short": "HCL Luna nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 22/2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/154129",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/154129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-23-2024",
+   "path": "local/cluj/luna/2024/23",
+   "short": "HCL Luna nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 23/2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/158168",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/158168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-24-2024",
+   "path": "local/cluj/luna/2024/24",
+   "short": "HCL Luna nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 24/2024 privind rectificarea bugetului local al Comunei Luna pe anul 2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/158169",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/158169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-25-2024",
+   "path": "local/cluj/luna/2024/25",
+   "short": "HCL Luna nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 25/2024 privind aprobarea execuției bugetului local al Comunei Luna la trimestrul IV al anului 2023",
+   "url": "https://emol.ro/luna-cj/registru-hcl/160670",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/160670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-26-2024",
+   "path": "local/cluj/luna/2024/26",
+   "short": "HCL Luna nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 26/2024 privind aprobarea execuției bugetului local al Comunei Luna la trimestrul I al anului 2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/160671",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/160671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-27-2024",
+   "path": "local/cluj/luna/2024/27",
+   "short": "HCL Luna nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 27/2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/160672",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/160672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-28-2024",
+   "path": "local/cluj/luna/2024/28",
+   "short": "HCL Luna nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 28/2024 privind includerea în domeniul public al Comunei Luna a obiectivului de investiții ”Hală metalică” și aprobarea trecerii din domeniul privat al Comunei Luna în domeniul public al Comunei Luna a terenului aferent obiectivului de investiții",
+   "url": "https://emol.ro/luna-cj/registru-hcl/163686",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/163686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-29-2024",
+   "path": "local/cluj/luna/2024/29",
+   "short": "HCL Luna nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 29/2024 privind rectificarea bugetului local al Comunei Luna pe anul 2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/163687",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/163687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-3-2024",
+   "path": "local/cluj/luna/2024/3",
+   "short": "HCL Luna nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 3/2024 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2024 privind administrarea în regim silvic a fondului forestier în suprafață de 130,6 ha, proprietatea publică a Comunei Luna, de către Ocolul Silvic Șoimul Arieș R.A",
+   "url": "https://emol.ro/luna-cj/registru-hcl/139423",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/139423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-30-2024",
+   "path": "local/cluj/luna/2024/30",
+   "short": "HCL Luna nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 30/2024 privind aprobarea concesionării prin licitație publică a unor terenuri în suprafață totală de 51,2835 ha, identificate prin nr. cad. 59402, 59403, 59404, 59405 și 59406, înscrise în CF nr. 59402, 59403, 59404, 59405 și 59406 Luna, situate în intravilanul satului Luna, proprietate privată a Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/163688",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/163688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-31-2024",
+   "path": "local/cluj/luna/2024/31",
+   "short": "HCL Luna nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 31/2024 pentru modificarea Hotărârii Consiliului Local al Comunei Luna nr. 20/26.04.2024 privind aprobarea documentaţiei tehnico-economice faza SF, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „CONSTRUIRE LOCUINȚE PENTRU SPECIALIȘTI ÎN COMUNA LUNA, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/165991",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/165991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-32-2024",
+   "path": "local/cluj/luna/2024/32",
+   "short": "HCL Luna nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 32/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general la faza PT pentru obiectivul de investiții “REABILITARE, MODERNIZARE ȘI EFICIENTIZARE ENERGETICĂ DISPENSAR UMAN ÎN LOCALITATEA LUNA, COMUNA LUNA”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/165992",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/165992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-33-2024",
+   "path": "local/cluj/luna/2024/33",
+   "short": "HCL Luna nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 33/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general la faza PT pentru obiectivul de investiții “REABILITARE, MODERNIZARE ȘI EFICIENTIZARE ENERGETICĂ CĂMIN CULTURAL ÎN LOCALITATEA LUNA, COMUNA LUNA”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/165993",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/165993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-34-2024",
+   "path": "local/cluj/luna/2024/34",
+   "short": "HCL Luna nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 34/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general la faza PT pentru obiectivul de investiții “REABILITARE, MODERNIZARE ȘI EFICIENTIZARE ENERGETICĂ CĂMIN CULTURAL ÎN LOCALITATEA GLIGOREȘTI, COMUNA LUNA”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/165994",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/165994",
      "sha256": null
     }
    ]
@@ -88,6 +493,21 @@
      "from": "2024-10-29",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/173499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-4-2024",
+   "path": "local/cluj/luna/2024/4",
+   "short": "HCL Luna nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 4/2024 privind aprobarea participării Comunei Luna la înființarea ASOCIAȚIEI PENTRU PROMOVAREA GASTRONOMIEI, CULTURII ȘI TRADIȚIILOR TRANSILVANE",
+   "url": "https://emol.ro/luna-cj/registru-hcl/139424",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/139424",
      "sha256": null
     }
    ]
@@ -243,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-5-2024",
+   "path": "local/cluj/luna/2024/5",
+   "short": "HCL Luna nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 5/2024 privind aprobarea documentației tehnice faza PT, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drumuri de interes local în Comuna Luna, Județul Cluj”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/luna-cj/registru-hcl/139425",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/139425",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-50-2024",
    "path": "local/cluj/luna/2024/50",
    "short": "HCL Luna nr. 50/2024",
@@ -313,6 +748,66 @@
      "from": "2024-12-31",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/183609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-6-2024",
+   "path": "local/cluj/luna/2024/6",
+   "short": "HCL Luna nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 6/2024 privind implementarea proiectului, aprobarea documentaţiei tehnico-economice faza SF, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”PRODUCȚIE ENERGIE ELECTRICĂ DIN SURSĂ REGENERABILĂ SOLARĂ PENTRU AUTOCONSUM ÎN UAT COMUNA LUNA, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/139426",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/139426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-7-2024",
+   "path": "local/cluj/luna/2024/7",
+   "short": "HCL Luna nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 7/2024 privind aprobarea bugetului local al Comunei Luna pentru anul 2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/142355",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/142355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-8-2024",
+   "path": "local/cluj/luna/2024/8",
+   "short": "HCL Luna nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 8/2024 privind aprobarea documentației tehnico-economice - faza SF, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Rețea de alimentare cu apă, rețea de canalizare pentru obiectivul Cartier Avram Iancu, Comuna Luna, Județul Cluj”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/luna-cj/registru-hcl/142356",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/142356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-9-2024",
+   "path": "local/cluj/luna/2024/9",
+   "short": "HCL Luna nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 9/2024 privind modificarea anexei la Hotărârea nr. 8/27.02.2023 privind înființarea serviciului social furnizat în comunitate ”Servicii de asistență comunitară” și aprobarea Regulamentului de Organizare și Funcționare a acestui serviciu",
+   "url": "https://emol.ro/luna-cj/registru-hcl/142357",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/142357",
      "sha256": null
     }
    ]

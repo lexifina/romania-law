@@ -3,6 +3,36 @@
  "shard": "local/cluj/turda/2021",
  "acts": [
   {
+   "slug": "hcl-cluj--turda-140-2021",
+   "path": "local/cluj/turda/2021/140",
+   "short": "HCL Turda nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 140/2021 privind acordarea unui mandat special reprezentantului Municipiului Turda în Adunarea Generală a Acționarilor a Societății Compania de Apă Arieș S.A",
+   "url": "https://primariaturda.ro/hotararea-nr-140-privind-acordarea-unui-mandat-special-reprezentantului-municipiului-turda-in-adunarea-generala-a-actionarilor-a-societatii-compania-de-apa-aries-s-a/",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/140%20din%2017.08.2021.pdf",
+     "sha256": "2c5d0a965ff29c6e672e8014db88b82e21490a2224ed95e63ba16984f87356ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-142-2021",
+   "path": "local/cluj/turda/2021/142",
+   "short": "HCL Turda nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 142/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/142%20din%2017.08.2021.pdf",
+     "sha256": "27b8c89ef7cd7bcd26e00a3713d21eec533b66e5bdb0aa8a39faefa8a52cb22d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-143-2021",
    "path": "local/cluj/turda/2021/143",
    "short": "HCL Turda nr. 143/2021",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2021/143%20din%2017.08.2021.pdf",
      "sha256": "23e6ba90e35e574615140ccaade4b9b57cc3eed6aba8ad0219f3ee30d448bc12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-153-2021",
+   "path": "local/cluj/turda/2021/153",
+   "short": "HCL Turda nr. 153/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 153/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/153%20din%2024.09.2021.pdf",
+     "sha256": "5ba9c85dadc3909f7f092aa3196b66dd438177fa29a69697395cbee4e1acbb7a"
     }
    ]
   },
@@ -48,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-169-2021",
+   "path": "local/cluj/turda/2021/169",
+   "short": "HCL Turda nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 169/2021 privind rectificarea bugetului pe anul 2021 Consiliul Local al municipiului Turda întrunit în ședința extraordinară din data de 13.10.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-169-privind-rectificarea-bugetului-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/169%20din%2013.10.2021.pdf",
+     "sha256": "97486bd3af0bfde2f47d60696771f378141b65ac0892bd8b4fa6757688ae6eb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-170-2021",
+   "path": "local/cluj/turda/2021/170",
+   "short": "HCL Turda nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 170/2021 privind aprobarea documentației tehnice de dezmembrare a unui imobil situat administrativ în Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-170-privind-aprobarea-documentatiei-tehnice-de-dezmembrare-a-unui-imobil-situat-administrativ-in-turda-str-axente-sever-nr-4-judetul-cluj/",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/170%20din%2012.10.2021.pdf",
+     "sha256": "ea580b445066afe6edf8c612f6e7ca3eb839a7403e3a391fee1dee7e210945ae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-171-2021",
    "path": "local/cluj/turda/2021/171",
    "short": "HCL Turda nr. 171/2021",
@@ -59,6 +134,66 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2021/171%20din%2013.10.2021.pdf",
      "sha256": "a1036e9c2937045ac5e20ef0cddef3e341c051129999bde97feb57f0b6f202a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-172-2021",
+   "path": "local/cluj/turda/2021/172",
+   "short": "HCL Turda nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 172/2021 privind rectificarea bugetului pe anul 2021 Consiliul Local al municipiului Turda întrunit în ședința extraordinară din data de 22.10.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-172-privind-rectificarea-bugetului-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/172%20din%2022.10.2021.pdf",
+     "sha256": "41a668b05d61646d5eb81944426b845028385ba76af31cc2279019b184a720ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-173-2021",
+   "path": "local/cluj/turda/2021/173",
+   "short": "HCL Turda nr. 173/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 173/2021 privind execuția bugetului pe trimestrul HI 2021 Consiliul Local al municipiului Turda întrunit în ședința extraordinară din data de 21.10.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-173-privind-executia-bugetului-pe-trimestrul-iii-2021/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/173%20din%2022.10.2021.pdf",
+     "sha256": "71e1fb334efa3081eae9e6f1fa697610cd6cb3020fff68d59967a18cd54daf26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-174-2021",
+   "path": "local/cluj/turda/2021/174",
+   "short": "HCL Turda nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 174/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/174%20din%2022.10.2021.pdf",
+     "sha256": "ceed5fcb2ff39a7d9c02c3b1f8b5338242abcaf755c0d94ad06ccb9874f8732f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-175-2021",
+   "path": "local/cluj/turda/2021/175",
+   "short": "HCL Turda nr. 175/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 175/2021 privind aprobarea Documentației de avizare pentru lucrări de intervenții- DALI și a principalilor indicatori tehnico-economici inclusiv Devizul General aferenți obiectivului de investiții : « Reabilitare și modernizare străzi în municipiul Turda — cartier Turda Nouă, Băi și legături între cartiere — județul Cluj» pentru includerea la finanțare în cadrul programelor aplicabile conform legii Consili",
+   "url": "https://primariaturda.ro/hotararea-nr-175-privind-aprobarea-documentatiei-de-avizare-pentru-lucrari-de-interventii-dali-si-a-principalilor-indicatori-tehnico-economici-inclusiv-devizul-general-aferenti-obiectivului-de-inves/",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/175%20din%2022.10.2021.pdf",
+     "sha256": "910ae0ce744d3311987811d31e1e2cc794e1eb0ee54301685ec472f306333614"
     }
    ]
   },
@@ -78,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-187-2021",
+   "path": "local/cluj/turda/2021/187",
+   "short": "HCL Turda nr. 187/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 187/2021 privind aprobarea prelungirii prin act adițional a contractului de administrare nr. 27863/23.12.2019 având ca obiect bunul imobil “patinoar artificial în suprafață de 600 metri patrați” Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 25.1 1.2021; Luând în considerare proiectul de hotărâre privind aprobarea prelungirii prin act adițional a contractului de administrar",
+   "url": "https://primariaturda.ro/hotararea-nr-187-privind-aprobarea-prelungirii-prin-act-aditional-a-contractului-de-administrare-nr-27863-23-12-2019-avand-ca-obiect-bunul-imobil-patinoar-artificial-in-suprafata-de-600-met/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/187%20din%2025.11.2021.pdf",
+     "sha256": "a54bef5f979c4dad096352af09ca8fafdcde7f803590ee3d22b5d3c343dab5f4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-188-2021",
    "path": "local/cluj/turda/2021/188",
    "short": "HCL Turda nr. 188/2021",
@@ -93,6 +243,171 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-200-2021",
+   "path": "local/cluj/turda/2021/200",
+   "short": "HCL Turda nr. 200/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 200/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/200%20din%2016.12.2021.pdf",
+     "sha256": "2b31ceeef0b25355216db6c68d37abb778b432007462ddd3370cf94bd506a9d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-203-2021",
+   "path": "local/cluj/turda/2021/203",
+   "short": "HCL Turda nr. 203/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 203/2021 privind aprobarea documentației, principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitare locuințe sociale (124 apartamente)” Consiliul Local al municipiului Turda întrunit în ședința extraordinară cu convocare de îndată din data de 16.12.2021; Luând în dezbatere proiectul de hotărâre inițiat de primarul municipiului Turda, Cristian-Octavian MA",
+   "url": "https://primariaturda.ro/hotararea-nr-203-privind-aprobarea-documentatiei-principalilor-indicatori-tehnico-economici-si-a-devizului-general-pentru-obiectivul-de-investitii-reabilitare-locuinte-sociale-124-apartame/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/203%20din%2016.12.2021.pdf",
+     "sha256": "09d3f5bc061b7e856a656c8783d55056249e5ca566bfc6b69ab052431d80505a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-204-2021",
+   "path": "local/cluj/turda/2021/204",
+   "short": "HCL Turda nr. 204/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 204/2021 privind aprobarea documentației, principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții „Construire Centru comunitar de igienă și sănătate” Consiliul Local al municipiului Turda întrunit în ședința extraordinară cu convocare de îndată din data de 16.12.2021; Luând în dezbatere Proiectul de hotărâre inițiat de primarul municipiului Turda. Cristian-Octavian",
+   "url": "https://primariaturda.ro/hotararea-nr-204-privind-aprobarea-documentatiei-principalilor-indicatori-tehnico-economici-si-a-devizului-general-pentru-obiectivul-de-investitii-construire-centru-comunitar-de-igiena-si-s/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/204%20din%2016.12.2021.pdf",
+     "sha256": "6bf0f9f7fd4cfdad006e4e8c7ffb9cc2ed4407f790da033a0431f01e00775888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-205-2021",
+   "path": "local/cluj/turda/2021/205",
+   "short": "HCL Turda nr. 205/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 205/2021 privind aprobarea documentației, principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții „Construire infrastructură educațională suport pentru formare profesională (Laborator Școală Profesională)” Consiliul Local al municipiului Turda întrunit în ședința extraordinară cu convocare de îndată din data de 16.12.2021; Luând în dezbatere proiectul de hotărâre i",
+   "url": "https://primariaturda.ro/hotararea-nr-205-privind-aprobarea-documentatiei-principalilor-indicatori-tehnico-economici-si-a-devizului-general-pentru-obiectivul-de-investitii-construire-infrastructura-educationala-sup/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/205%20din%2016.12.2021.pdf",
+     "sha256": "ae09e52f59986129aaf786fd0e10a565310b644134876f77486d8d933e8a1650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-206-2021",
+   "path": "local/cluj/turda/2021/206",
+   "short": "HCL Turda nr. 206/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 206/2021 privind aprobarea documentației, principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții „Construire Centru social Ș A P ț pentru copii aflați în situație de risc social” Consiliul Local -al municipiului Turda întrunit în ședința extraordinară cu convocare de îndată din data de 16.12.2021; Luând în dezbatere proiectul de hotărâre inițiat de primarul munici",
+   "url": "https://primariaturda.ro/hotararea-nr-206-privind-aprobarea-documentatiei-principalilor-indicatori-tehnico-economici-si-a-devizului-general-pentru-obiectivul-de-investitii-construire-centru-social-pentru-copii-afla/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/206%20din%2016.12.2021.pdf",
+     "sha256": "f2f09c870c1973c58ad992e1bd43b6adc66b5a1ec0cd74215219967d98adbac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-207-2021",
+   "path": "local/cluj/turda/2021/207",
+   "short": "HCL Turda nr. 207/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 207/2021 privind aprobarea Acordului de parteneriat între Municipiul Turda și Direcția de Asistență Socială Turda pentru evaluarea și implementarea „Construire Centru comunitar de igienă și sănătate” și \"Construire Centru social pentru copii aflați în situație de risc social” Consiliul Local al municipiului Turda întrunit în ședința extraordinară cu convocare de îndată din data de 16.12.2021; Luând în dezb",
+   "url": "https://primariaturda.ro/hotararea-nr-207-privind-aprobarea-acordului-de-parteneriat-intre-municipiul-turda-si-directia-de-asistenta-sociala-turda-pentru-evaluarea-si-implementarea-construire-centru-comunitar-de-igi/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/207%20din%2016.12.2021.pdf",
+     "sha256": "d33d3dc7daa89ed50e7ce03057d126dff5b51e3fdafce705425c1ef6c30c670b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-208-2021",
+   "path": "local/cluj/turda/2021/208",
+   "short": "HCL Turda nr. 208/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 208/2021 privind aprobarea Acordului de parteneriat între Fundația Caritabilă Sfântul Daniel și Direcția de Asistență Socială Turda pentru evaluarea și implementarea „Construirea și dotarea unui Centru de igienă și sănătate ” și \"Construirea Centrului social pentru copiii aflați în situație de risc social” Consiliul Local al Municipiului Turda, întrunit în ședința extraordinară din data de 16.12.2021; Luân",
+   "url": "https://primariaturda.ro/hotararea-nr-208-privind-aprobarea-acordului-de-parteneriat-intre-fundatia-caritabila-sfantul-daniel-si-directia-de-asistenta-sociala-turda-pentru-evaluarea-si-implementarea-construirea-si-dotar/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/208%20din%2016.12.2021.pdf",
+     "sha256": "32994fe827c4a0fd38d25101753facd4f7d64e17ad64e1b379a10530e2a0b920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-209-2021",
+   "path": "local/cluj/turda/2021/209",
+   "short": "HCL Turda nr. 209/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 209/2021 privind execuția bugetului pe trimestrul IV 2021 Consiliul Local al municipiului Turda întrunit în ședința extraordinară din data de 22.12.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-209-privind-executia-bugetului-pe-trimestrul-iv-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/209%20din%2022.12.2021.pdf",
+     "sha256": "af79f3cfdcb09526a8b44f959d3de8d34afb26f584e706b76c44c13811d5ed8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-210-2021",
+   "path": "local/cluj/turda/2021/210",
+   "short": "HCL Turda nr. 210/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 210/2021 privind rectificarea bugetului pe anul 2021 Consiliul Local al municipiului Turda întrunit în ședința extraordinară din data de 22.12.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-210-privind-rectificarea-bugetului-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/210%20din%2022.12.2021.pdf",
+     "sha256": "ba42970797b3afc6ad2d25bd024099ff0d785aca8311a74d51dfb8d37fbb4864"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-211-2021",
+   "path": "local/cluj/turda/2021/211",
+   "short": "HCL Turda nr. 211/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 211/2021 privind rectificarea bugetului pe anul 2021 Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 27.12.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-211-privind-rectificarea-bugetului-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/211%20din%2027.12.2021.pdf",
+     "sha256": "1c24e3a5fda94383fbfc7d894553d473386c625eee8fefe55fae2b899b691c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-214-2021",
+   "path": "local/cluj/turda/2021/214",
+   "short": "HCL Turda nr. 214/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 214/2021 privind aprobarea Planului anual de acțiuni sau lucrări de interes local, pentru persoane majore apte de muncă, beneficiare ale prevederilor Legii nr. 416/2001, privind venitul minim garantat și calculul valoric estimat al muncii ce se va presta de aceștia în anul 2022 Consiliul Local al municipiului Turda, intrunit in ședință ordinară în data de 27.12.2021; Luând în dezbatere proiectul de hotărâr",
+   "url": "https://primariaturda.ro/hotararea-nr-214-privind-aprobarea-planului-anual-de-actiuni-sau-lucrari-de-interes-local-pentru-persoane-majore-apte-de-munca-beneficiare-ale-prevederilor-legii-nr-416-2001-privind-venitul-mini/",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/214%20din%2027.12.2021.pdf",
+     "sha256": "26d8e9bb8df57faa0a543165abaaf89b073a02e623b1ba60c369ea70370abd9f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-219-2021",
    "path": "local/cluj/turda/2021/219",
    "short": "HCL Turda nr. 219/2021",
@@ -104,6 +419,21 @@
      "units": 1,
      "source_url": "https://primariaturda.ro/uploads/hcl/2021/219%20din%2027.12.2021.pdf",
      "sha256": "55d6663f56beb1c828bcfbf3b68d925acee89cd1fe0d2854b409f21dc6e9dd2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-221-2021",
+   "path": "local/cluj/turda/2021/221",
+   "short": "HCL Turda nr. 221/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 221/2021 privind aprobarea documentației tehnice pentru dezmembrarea terenului înscris în CF 58053 Turda, nr. top. 2681/4/1/2 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 27.12.2021; Luând în dezbatere proiectul de hotărâre privind aprobarea documentației tehnice întocmite pentru dezmembrarea terenului înscris în CF 58053 Turda, nr. top. 2681/4/1/2, elaborat din inițiativ",
+   "url": "https://primariaturda.ro/hotararea-nr-221-privind-aprobarea-documentatiei-tehnice-pentru-dezmembrarea-terenului-inscris-in-cf-58053-turda-nr-top-2681-4-1-2/",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "https://primariaturda.ro/uploads/hcl/2021/221%20din%2027.12.2021.pdf",
+     "sha256": "0ab7e27f3ab6cb2215db575efe3aea9dd032e731051c202b36c5b9536969496b"
     }
    ]
   },
@@ -138,6 +468,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-3-2021",
+   "path": "local/cluj/turda/2021/3",
+   "short": "HCL Turda nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 3/2021 privind execuția bugetului pe trimestrul IV 2020 Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 28.01.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-3-privind-executia-bugetului-pe-trimestrul-iv-2020/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/3%20din%2028.01.2021.pdf",
+     "sha256": "a40ad2b087d15e83dcc42d2b1cd6779390457c2be41251c780ba1c0e31ab656e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-34-2021",
+   "path": "local/cluj/turda/2021/34",
+   "short": "HCL Turda nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 34/2021 privind aprobarea actualizării Actului Constitutiv al societății Salina Turda SA cu modificările și completările ulterioare Consiliul Local al municipiului Turda, întrunit în ședința extraordinara din data de 19.02.2021; Luând în dezbatere proiectul de hotărâre privind aprobarea actualizării Actului Constitutiv al societății Salina Turda SA, cu modificările și completarile ulterioare, proiect elab",
+   "url": "https://primariaturda.ro/hotararea-nr-34-privind-aprobarea-actualizarii-actului-constitutiv-al-societatii-salina-turda-sa-cu-modificarile-si-completarile-ulterioare/",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/34%20din%2019.02.2021.pdf",
+     "sha256": "f1e169b84d0b1c911b25274ef6955b02d6ebbab1345d55db78653b966800ed24"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-35-2021",
    "path": "local/cluj/turda/2021/35",
    "short": "HCL Turda nr. 35/2021",
@@ -149,6 +509,36 @@
      "units": 1,
      "source_url": "http://primariaturda.ro/uploads/hcl/2021/35%20din%2025.02.2021.pdf",
      "sha256": "808ff3fe439879d122a7164e2b7d64ab453a9bbf176e0fdd002d0bec65f523ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-4-2021",
+   "path": "local/cluj/turda/2021/4",
+   "short": "HCL Turda nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 4/2021 privind utilizarea Excedentului bugetar pentru finanțarea cheltuielilor secțiunii de dezvoltare Consiliul Local al municipiului Turda întrunit în ședință ordinara din data de 28.01.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-4-privind-utilizarea-excedentului-bugetar-pentru-finantarea-cheltuielilor-sectiunii-de-dezvoltare/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/4%20din%2028.01.2021.pdf",
+     "sha256": "1a3223397a467aa769d5954dd619b8e521ab40b5d996b39286d540aa37fb75fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-44-2021",
+   "path": "local/cluj/turda/2021/44",
+   "short": "HCL Turda nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 44/2021 privind aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru perioada februarie — martie 2021 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 25.02.2021; Luând în dezbatere proiectul de hotărâre privind aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru perioada februarie — martie 2021, proiect elabor",
+   "url": "https://primariaturda.ro/hotararea-nr-44-privind-aprobarea-programului-de-activitati-al-casei-de-cultura-a-municipiului-turda-pentru-perioada-februarie-martie-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/44%20din%2025.02.2021.pdf",
+     "sha256": "7292bc89e72f9571301526c90d9afe0d2fa8aa9edecd9856e074acfd212ef267"
     }
    ]
   },
@@ -168,6 +558,51 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-51-2021",
+   "path": "local/cluj/turda/2021/51",
+   "short": "HCL Turda nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 51/2021 privind aprobarea documentației tehnice pentru reglementarea situației juridice a imobilului teren situat în Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-51-privind-aprobarea-documentatiei-tehnice-pentru-reglementarea-situatiei-juridice-a-imobilului-teren-situat-in-turda-str-piata-romana-nr-28/",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/51%20din%2025.03.2021.pdf",
+     "sha256": "c3e855c35c4d60316075058e4ea9ebbd8ff42d2db9cfedfb56a7ca66dd2ce221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-57-2021",
+   "path": "local/cluj/turda/2021/57",
+   "short": "HCL Turda nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 57/2021 privind aprobarea bugetului de venituri și cheltuieli al Municipiului Turda pe anul 2021 Consiliul Local al municipiului Turda întrunit în ședință ordinară din data de 22.04.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-57-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-municipiului-turda-pe-anul-2021/",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/57%20din%2022.04.2021.pdf",
+     "sha256": "1d428aed72f54dd5addc507e2245ceaffea7ce8a6433c929b99d201a05724279"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-58-2021",
+   "path": "local/cluj/turda/2021/58",
+   "short": "HCL Turda nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 58/2021 privind execuția bugetului pe trimestrul I 2021 Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 22.04.2021",
+   "url": "https://primariaturda.ro/hotararea-nr-58-privind-executia-bugetului-pe-trimestrul-i-2021/",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/58%20din%2022.04.2021.pdf",
+     "sha256": "53d98b4f7a97c0de55bd5c7d0acd2993f4224912a1ecfdcf160b678a76999ade"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-59-2021",
    "path": "local/cluj/turda/2021/59",
    "short": "HCL Turda nr. 59/2021",
@@ -179,6 +614,111 @@
      "units": 1,
      "source_url": "http://primariaturda.ro/uploads/hcl/2021/59%20din%2022.04.2021(1).pdf",
      "sha256": "134947a2fd77058e62f9d1229d99458f7af7a19852a2362c5388169d0fdca194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-6-2021",
+   "path": "local/cluj/turda/2021/6",
+   "short": "HCL Turda nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 6/2021 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de pe raza administrativ -teritorială a Municipiului Turda, care vor funcționa în anul școlar 2021-2022 Consiliul Local al Municipiului Turda întrunit în ședința ordinară din data de 28.01.2021; Luând în dezbatere proiectul de hotărâre privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de pe raza a",
+   "url": "https://primariaturda.ro/hotararea-nr-6-privind-aprobarea-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-de-pe-raza-administrativ-teritoriala-a-municipiului-turda-care-vor-functiona-in-anul-scolar-2021-2022/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/6%20din%2028.01.2021.pdf",
+     "sha256": "8f4ac0aae1f1039db5e29607c8869c0e79d8f07c497b2ee264fae47f9818443e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-67-2021",
+   "path": "local/cluj/turda/2021/67",
+   "short": "HCL Turda nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 67/2021 privind aprobarea Bugetului de Venituri și Cheltuieli al Societății Salina Turda SA, aferent exercițiului financiar al anului 2021 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 22.04.2021; : Luând în dezbatere proiectul de hotărâre privind aprobarea Bugetului de Venituri și Cheltuieli al Societatii Salina Turda SA, aferent exercițiului financiar al anului 2021, pr",
+   "url": "https://primariaturda.ro/hotararea-nr-67-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-societatii-salina-turda-sa-aferent-exercitiului-financiar-al-anului-2021/",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/67%20din%2022.04.2021.pdf",
+     "sha256": "bb4349c9c92d58e840572211c16001f6627627391c21ed3637c57a61e913acff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-68-2021",
+   "path": "local/cluj/turda/2021/68",
+   "short": "HCL Turda nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 68/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/68%20din%2022.04.2021.pdf",
+     "sha256": "464e77fa2795d54f802292341cf12fcc857c1248316d0ac87bc17b33ef140de2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-70-2021",
+   "path": "local/cluj/turda/2021/70",
+   "short": "HCL Turda nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 70/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/70%20din%2022.04.2021.pdf",
+     "sha256": "05f488f0468b0991c2cb2cffa9225271cece89a9047b86889e97802b90c9d697"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-73-2021",
+   "path": "local/cluj/turda/2021/73",
+   "short": "HCL Turda nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 73/2021 privind aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru luna aprilie 2021 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 22.04.2021; Luând în dezbatere proiectul de hotărâre privind aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru luna aprilie 2021, proiect elaborat la inițiativa Primarului mu",
+   "url": "https://primariaturda.ro/hotararea-nr-73-privind-aprobarea-programului-de-activitati-al-casei-de-cultura-a-municipiului-turda-pentru-luna-aprilie-2021/",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/73%20din%2022.04.2021.pdf",
+     "sha256": "d9b4de307af5874f07092e7bf0b0cf12ee04496afd3f06fb89dc3ecd27a77938"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-8-2021",
+   "path": "local/cluj/turda/2021/8",
+   "short": "HCL Turda nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 8/2021 privind aprobarea costului de instituționalizare pentru persoanele vârstnice aflate în Centrul de Îngrijire și Asistenta “Acoperământul Maicii Domnului” Turda Consiliul Local al municipiului Turda, întrunit în ședința ordinară din data de 28.01.2021; Luând în dezbatere proiectul de hotărâre privind aprobarea costului de instituționalizare pentru persoanele vârstnice aflate în Centrul de Îngrijire",
+   "url": "https://primariaturda.ro/hotararea-nr-8-privind-aprobarea-costului-de-institutionalizare-pentru-persoanele-varstnice-aflate-in-centrul-de-ingrijire-si-asistenta-acoperamantul-maicii-domnului-turda/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/8%20din%2028.01.2021.pdf",
+     "sha256": "d72df5a599c1996d82e13c8dc4f3d2a9d434468269f68a6e7ed755f84a5aee30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-9-2021",
+   "path": "local/cluj/turda/2021/9",
+   "short": "HCL Turda nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 9/2021 privind acordul de principiu in vederea acordarii scutirilor prevazute de art. 20 din Legea 186/2013 cu privire la constituirea și funcționarea parcurilor industriale, pentru obținerea titlului de Parc Industrial de către NERVIA CENTER S.R.L",
+   "url": "https://primariaturda.ro/hotararea-nr-9-privind-acordul-de-principiu-in-vederea-acordarii-scutirilor-prevazute-de-art-20-din-legea-186-2013-cu-privire-la-constituirea-si-functionarea-parcurilor-industriale-pentru-obtinerea/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2021/9%20din%2028.01.2021.pdf",
+     "sha256": "044329dc374610241c5c149cbaa6371fd9b3c8d6bb81be1a11b789cfd66e36f0"
     }
    ]
   }

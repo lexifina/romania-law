@@ -348,6 +348,81 @@
    ]
   },
   {
+   "slug": "hcl-cluj--izvoru-crisului-32-2026",
+   "path": "local/cluj/izvoru-crisului/2026/32",
+   "short": "HCL Izvoru Crișului nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 32/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d0030d0545176cbe7968cbefdf9588aed798298b466ebae80bc8eb5fefba9684"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-33-2026",
+   "path": "local/cluj/izvoru-crisului/2026/33",
+   "short": "HCL Izvoru Crișului nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 33/2026 privind aprobarea Programului de masuri pentru asigurarea curateniei , buna gospodarire si infrumusetarea comunei Izvoru Crisului",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2033.pdf",
+     "sha256": "34fb5b26de3f2cfba31efd571cfba5c587243ba6a711cf0fcdaf1795febe536f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-34-2026",
+   "path": "local/cluj/izvoru-crisului/2026/34",
+   "short": "HCL Izvoru Crișului nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 34/2026 privind nominalizarea reprezentantului Consiliului Local al Comunei Izvoru Crișului și a membrului supleant în comisia de evaluare a probei de interviu pentru concursul pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preunive",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2034.pdf",
+     "sha256": "2efa2575f31b2ad412fefb80c5fe4957ff2c2a86775094febf35cbd916c758d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-36-2026",
+   "path": "local/cluj/izvoru-crisului/2026/36",
+   "short": "HCL Izvoru Crișului nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 36/2026 privind aprobarea a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Alimentare cu apă și canalizare în localitățile Nadășu și Șaula, comuna Izvoru Crișului, județul Cluj”, aprobat pentru finanțare prin",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2036.pdf",
+     "sha256": "d8ff48fc3b0e1b1ef2dbf385a8418264b313bbcb1e959980c3da60840363aebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-37-2026",
+   "path": "local/cluj/izvoru-crisului/2026/37",
+   "short": "HCL Izvoru Crișului nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 37/2026 privind aprobarea modalității de decontare a cheltuielilor de transport pentru angajații din cadrul aparatului de specialitate al Comunei Izvoru Crișului",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2037.pdf",
+     "sha256": "6b33508ba60a71af9e848933df47659512bdbc0f7cc55031c907356c6dd1db2e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--izvoru-crisului-38-2026",
    "path": "local/cluj/izvoru-crisului/2026/38",
    "short": "HCL Izvoru Crișului nr. 38/2026",
@@ -363,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--izvoru-crisului-39-2026",
+   "path": "local/cluj/izvoru-crisului/2026/39",
+   "short": "HCL Izvoru Crișului nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 39/2026 privind aprobarea rectificării Bugetului de Venituri şi Cheltuieli și Programul de Investiții al Comunei Izvoru Crișului pentru anul 2026",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2039.pdf",
+     "sha256": "65230fac3beae96c26785d8a962cbbb7a51deae922d20876e6845169fdf6eeda"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--izvoru-crisului-4-2026",
    "path": "local/cluj/izvoru-crisului/2026/4",
    "short": "HCL Izvoru Crișului nr. 4/2026",
@@ -374,6 +464,81 @@
      "units": 1,
      "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%204.pdf",
      "sha256": "207cb3d2512806cb71a516da7796ed26a681a42117c6c141b359a5ff0fd6c565"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-40-2026",
+   "path": "local/cluj/izvoru-crisului/2026/40",
+   "short": "HCL Izvoru Crișului nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 40/2026 privind aprobarea rectificării Bugetului de Venituri şi Cheltuieli și Programul de Investiții al Comunei Iz",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2040.pdf",
+     "sha256": "a7123c7971edf0652ff4fd93718c1a7318222a0ab58963aec564b6d297d47373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-41-2026",
+   "path": "local/cluj/izvoru-crisului/2026/41",
+   "short": "HCL Izvoru Crișului nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 41/2026 privind aprobarea demarării lucrărilor de reparare a drumului situat paralel cu pista de biciclete dintre localitățile Izvoru Crișului și Șaula, comuna Izvoru Crișului, județul Cluj",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2041.pdf",
+     "sha256": "ca05b5f1e29d250442da479d2aefe14b9139df8ffe31369e53d9f29406454855"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-42-2026",
+   "path": "local/cluj/izvoru-crisului/2026/42",
+   "short": "HCL Izvoru Crișului nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 42/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ac5c19e45c453287dbf953a89b6db72b935f57c91a2c529fb8b147ef80284eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-43-2026",
+   "path": "local/cluj/izvoru-crisului/2026/43",
+   "short": "HCL Izvoru Crișului nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 43/2026 privind alegerea președintelui de ședință pentru lunile ( noiembrie 2026 – ianuarie 2027 )",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2043.pdf",
+     "sha256": "865c84b59598faf7aadf7f2b3abb14b03e19f3384a48f0e8302d0f0b469c1a1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--izvoru-crisului-45-2026",
+   "path": "local/cluj/izvoru-crisului/2026/45",
+   "short": "HCL Izvoru Crișului nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Izvoru Crișului nr. 45/2026 privind înscrierea unui imobil în inventarul bunurilor care alcătuiesc domeniul privat al Comunei Izvoru Crișului, județul Cluj",
+   "url": "http://www.primariaizvorucrisului.ro/ro/consiliul-local/29/Hot%C4%83r%C3%A2ri-Consiliul-Local/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "http://www.primariaizvorucrisului.ro/uploads/Hotarari%20ale%20Consiliului%20Local/Hotarari%202026/Hotararea%2045.pdf",
+     "sha256": "e3f717e73eaed2fdd88046570e4f0e945aa0794c66c964c5a0874093bae598cb"
     }
    ]
   },

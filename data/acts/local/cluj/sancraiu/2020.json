@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/sancraiu/2020",
+"acts": [
+{
+"slug": "hcl-cluj--sancraiu-27-2020",
+"path": "local/cluj/sancraiu/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 27/2020 Privind revocarea Hotârârii Consiliului Local Sâncraiu Nr. 27 – 26.06.205",
+"short": "HCL Sâncraiu nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://sancraiu.ro/ro/hotarari-consiliul-local-2025/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

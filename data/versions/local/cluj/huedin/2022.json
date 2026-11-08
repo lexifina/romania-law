@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/huedin/2022",
+ "acts": [
+  {
+   "slug": "hcl-cluj--huedin-148-2022",
+   "path": "local/cluj/huedin/2022/148",
+   "short": "HCL Huedin nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 148/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/10/HCL-nr.-148-29.09.2022-aprobare-rectificare-buget.pdf",
+     "sha256": "a24614e525d4b1e20964bcc8a34f789ad39cf9a7e1d21661b503c021401c298b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-149-2022",
+   "path": "local/cluj/huedin/2022/149",
+   "short": "HCL Huedin nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 149/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/10/HCL-nr.-149-29.09.2022-aprobare-rectificare-buget-1-1.pdf",
+     "sha256": "1e3126fdbaf7996c51f15f215c2d3e0ce93b4d13f2d42128814badfec1de03f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-150-2022",
+   "path": "local/cluj/huedin/2022/150",
+   "short": "HCL Huedin nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 150/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/10/HCL-nr.-150-29.09.2022-aprobare-rectificare-buget-Sursa-E.pdf",
+     "sha256": "f15fc1efdf7ccf0fee9a385650349674e17f30b88504770823c1ea33d81d6cfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-151-2022",
+   "path": "local/cluj/huedin/2022/151",
+   "short": "HCL Huedin nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 151/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/10/HCL-nr.-151-29.09.2022-aprobare-rectificare-buget-3000-LEI-2.pdf",
+     "sha256": "24645187eb246007b7eca4985d50039378b249dcd90a068d3a28e92ac58a2d4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-152-2022",
+   "path": "local/cluj/huedin/2022/152",
+   "short": "HCL Huedin nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 152/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/10/HCL-nr.-152-29.09.2022-aprobare-rectificare-buget-280.000-LEI.pdf",
+     "sha256": "529227294fa8ed17fcdb38b3a0c1289d65b75119dccf6c7024b5105f9979efa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-153-2022",
+   "path": "local/cluj/huedin/2022/153",
+   "short": "HCL Huedin nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 153/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-153-29.09.2022-aprobare-rectificare-buget-la-Gradinita.pdf",
+     "sha256": "41b0970a01dad707a7a378d65efef8b259d146a5d16b906911790e34c0d1faec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-154-2022",
+   "path": "local/cluj/huedin/2022/154",
+   "short": "HCL Huedin nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 154/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-154-29.09.2022-aprobare-premiere-fam.50-ani-casatorie.pdf",
+     "sha256": "06959ab84c5dc8d93867394eb27f590a942446ae72a87f1fb7055b41d4410216"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-155-2022",
+   "path": "local/cluj/huedin/2022/155",
+   "short": "HCL Huedin nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 155/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-155-29.09.2022-aprobare-achizitionare-servicii-de-consultanta-juridica.pdf",
+     "sha256": "faa33ab12ba0ba1f10275fab9aaf0c86f533d76c0d16abe0e9ad825e62d06672"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-156-2022",
+   "path": "local/cluj/huedin/2022/156",
+   "short": "HCL Huedin nr. 156/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 156/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-156-29.09.2022-aprobare-inchiriere-spatiu-10-mp.pdf",
+     "sha256": "f981eb51fc041099e3b8e3790ce4f66246997072e3bd92c4d8d40afd7b89cb3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-157-2022",
+   "path": "local/cluj/huedin/2022/157",
+   "short": "HCL Huedin nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 157/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-157-29.09.2022-aprobare-inchiriere-spatiu-5-mp.pdf",
+     "sha256": "061982047f5a7c21a4dd0cb928e7786805c1ce8f274f1648695cecb65ecb1761"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-158-2022",
+   "path": "local/cluj/huedin/2022/158",
+   "short": "HCL Huedin nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 158/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "0f74fe6ecec95f7851494db4188b75197d23180ed6b7072e0de7593de32a5d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-159-2022",
+   "path": "local/cluj/huedin/2022/159",
+   "short": "HCL Huedin nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 159/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-159-29.09.2022-inchiriere-spatiu-Policlinica-3478-mp.pdf",
+     "sha256": "31019951c6eaf411e9a128acf465c53c08b5a073aa7421ac1f9931c34da0d66a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-160-2022",
+   "path": "local/cluj/huedin/2022/160",
+   "short": "HCL Huedin nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 160/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-160-29.09.2022-acordare-drept-de-folosinta-gratuita-imobil-Jandarmi.pdf",
+     "sha256": "44c3e5b484810ff9f7d523e26dde5357150e1ad176274e3e95056e1bd761d6af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-162-2022",
+   "path": "local/cluj/huedin/2022/162",
+   "short": "HCL Huedin nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 162/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-162-29.09.2022-aprobare-realizare-lucrari-dom.-public-la-DC-124.pdf",
+     "sha256": "6f4f419986a3cb21817d66dc3213823f889995fc51721b4d4b4f7d89b2a378f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-163-2022",
+   "path": "local/cluj/huedin/2022/163",
+   "short": "HCL Huedin nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 163/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-163-29.09.2022-desemnare-reprezentant-CLH-in-grupul-Mixt-de-Lucru.pdf",
+     "sha256": "01ebd29e9a59246f7f4360d16850b28d36fbf9b07a9d72d136b2da91c34a0377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-164-2022",
+   "path": "local/cluj/huedin/2022/164",
+   "short": "HCL Huedin nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 164/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-164-29.09.2022-desemnare-reprezentant-CLH-in-CA-si-CEAC-Lic.-O.-Goga-Huedin-an-scolar-2022-2023.pdf",
+     "sha256": "8eb66770cb0192fc22045247a48d8f8ab59c07db2902cfe8b1a607234eea56ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-165-2022",
+   "path": "local/cluj/huedin/2022/165",
+   "short": "HCL Huedin nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 165/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-165-29.09.2022-desemnare-reprezentant-CLH-in-CA-si-CEAC-Lic.-Tehnologic-Vladeasa-Huedin.pdf",
+     "sha256": "4a5ea44467090abc4d666296cfd51c357fdd7a1a5dd7c5ea1ffe13ceb8f3e5b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-166-2022",
+   "path": "local/cluj/huedin/2022/166",
+   "short": "HCL Huedin nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 166/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-166-29.09.2022-desemnare-reprezentant-CLH-in-CA-si-CEAC-LA-GRADINITA-CU-PP-PRICHINDEII-VESELI-HUEDIN.pdf",
+     "sha256": "ef20502938b14b6a766b3f19400a8f25483c90258194ce73b136ddc0fafeb388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-167-2022",
+   "path": "local/cluj/huedin/2022/167",
+   "short": "HCL Huedin nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 167/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-167-29.09.2022-aprobare-rectificare-buget-70.000-LEI.pdf",
+     "sha256": "850b16690b373d8ecdc6b5466e7199546a06769600920a18c117bd577c6af567"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-168-2022",
+   "path": "local/cluj/huedin/2022/168",
+   "short": "HCL Huedin nr. 168/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 168/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-168-29.09.2022-aprobare-rectificare-buget-2022-150.000-lei-.pdf",
+     "sha256": "f76aafeb1cb0e27b06c4d86c7d63ef26285e290bb4646d42b244ceab14ed0335"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-169-2022",
+   "path": "local/cluj/huedin/2022/169",
+   "short": "HCL Huedin nr. 169/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 169/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-169-29.09.2022-aprobare-cunatum-pt.-cheltuieli-inchiriere-Casa-de-Cultura.pdf",
+     "sha256": "2ff74675c81a00ac078f4cb427059aa545a3fcdebe40f6d47f5640e30c7f8606"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-170-2022",
+   "path": "local/cluj/huedin/2022/170",
+   "short": "HCL Huedin nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 170/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/09/HCL-nr.-170-29.09.2022-aprobare-PARTICIPARE-LA-FINANTARE-IN-CADRUL-pnrr-RENOVARE-CORP-C1-A-SPITALULUI-ORASENESC-HUEDIN.pdf",
+     "sha256": "96d645d40420836ec19a5b057dbe01fdf0cd28050827e5d049ab5d570b6ab53e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-172-2022",
+   "path": "local/cluj/huedin/2022/172",
+   "short": "HCL Huedin nr. 172/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 172/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-172-28.10.2022-aprobare-contul-de-executie-bugetara-la-30.09.2022.pdf",
+     "sha256": "0e665f0279f4d6f8dde8a0e30d17a218ff77e019f8d7be39c99a96ef26bd6d09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-173-2022",
+   "path": "local/cluj/huedin/2022/173",
+   "short": "HCL Huedin nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 173/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-173-28.10.2022-aprobare-casare-cazan-apa-calda-Spital.pdf",
+     "sha256": "cc3284151371eae041565f0a1948da4e2fc14480607527c334f3884d6210e919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-174-2022",
+   "path": "local/cluj/huedin/2022/174",
+   "short": "HCL Huedin nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 174/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.174-28.10.2022-aprobare-MAJORARE-COTIZATIE-NAPOCA-POROLISSUM.pdf",
+     "sha256": "1a4a9ffd1ebf648c067f5769046581a16f1acd615eddf04770f28cc870d8a273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-175-2022",
+   "path": "local/cluj/huedin/2022/175",
+   "short": "HCL Huedin nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 175/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-175-28.10.2022-aprobare-rectificare-buget-Spital.pdf",
+     "sha256": "63f965bb411fa113093cadbadc14eaa5360e7d9bbea52af12cf6558b4b480b42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-176-2022",
+   "path": "local/cluj/huedin/2022/176",
+   "short": "HCL Huedin nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 176/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-176-28.10.2022-aprobare-rscoatere-la-concurs-posturi-Spital.pdf",
+     "sha256": "c934451ddfa07657ce6a04109a4cfa6b6514fe30bf3063aeb93c8608dbc97980"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-177-2022",
+   "path": "local/cluj/huedin/2022/177",
+   "short": "HCL Huedin nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 177/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-177-28.10.2022-aprobare-stat-de-functii-Spital.pdf",
+     "sha256": "e581e02346ae19c7e2dcda38ca790a1f238c47bac0a7bdc552ef42aa550cfeb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-178-2022",
+   "path": "local/cluj/huedin/2022/178",
+   "short": "HCL Huedin nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 178/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-178-28.10.2022-aprobare-transferare-sume-Casa-de-Cultura.pdf",
+     "sha256": "7b01c19b4370dde5037b7d2956fbb0aec46d7452812bfa31713b7c937905a048"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-179-2022",
+   "path": "local/cluj/huedin/2022/179",
+   "short": "HCL Huedin nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 179/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-179-28.10.2022-aprobare-actualizare-pozitie-din-inventarul-dom.-public.pdf",
+     "sha256": "f3c66c9c7f80faaf75406a6fe33442c34761f5e19e4d6835860e320734623ef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-180-2022",
+   "path": "local/cluj/huedin/2022/180",
+   "short": "HCL Huedin nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 180/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-180-28.10.2022-aprobare-masuri-organizatorice-Sc-Centrul-Agro-transilvania-Cluj-SA.pdf",
+     "sha256": "27d62b542100ed419e572910bb80344a26f7ead4809f5ba3923b2ccbe337b4f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-181-2022",
+   "path": "local/cluj/huedin/2022/181",
+   "short": "HCL Huedin nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 181/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-181-28.10.2022-aprobare-masuri-organizatorice-TETAROM-SA.pdf",
+     "sha256": "ef1b138f915d2d3de87fd95f4abef48089784f65b8a4e0af604cb49e61ec9c9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-182-2022",
+   "path": "local/cluj/huedin/2022/182",
+   "short": "HCL Huedin nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 182/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-182-28.10.2022-aprobare-infiintare-centru-medical-de-permanenta-la-nivelul-or.-Huedin.pdf",
+     "sha256": "3cf2e046814fd3d93c765dbfa5edefb79b8b6a38a1f54108929a0db8f73b59f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-183-2022",
+   "path": "local/cluj/huedin/2022/183",
+   "short": "HCL Huedin nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 183/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-183-28.10.2022-aprobare-atribuire-in-folosinta-gratuita-IPJ-Cluj-8-camere-mobile-de-supraveghere.pdf",
+     "sha256": "fc14a7cd5474301e0457b957072a8baacc06073715219cbff293bb47a8eea608"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-184-2022",
+   "path": "local/cluj/huedin/2022/184",
+   "short": "HCL Huedin nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 184/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-184-28.10.2022-aprobare-imputernicire-primar-sa-reprezinte-CLH-in-justitie.pdf",
+     "sha256": "ce64257692d121efa003b565f6dbd62e725879bf9b1d35be01393814d4c79884"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-185-2022",
+   "path": "local/cluj/huedin/2022/185",
+   "short": "HCL Huedin nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 185/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-185-28.10.2022-aprobare-amplasare-mijloace-publicitare.pdf",
+     "sha256": "e3cd041c5479f779a5c6fa8546dea7b680af899c101e59c8374bfc57af9926e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-186-2022",
+   "path": "local/cluj/huedin/2022/186",
+   "short": "HCL Huedin nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 186/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-186-28.10.2022-aprobare-rectificare-buget-164.000-lei.pdf",
+     "sha256": "f3ed05e5bddeccc974bc80be6f38112fc29448e14bc49beb931947d1d57e2c1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-187-2022",
+   "path": "local/cluj/huedin/2022/187",
+   "short": "HCL Huedin nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 187/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-187-28.10.2022-aprobare-rectificare-buget-Lic.-Tehnologic-Vladeasa-Huedin.pdf",
+     "sha256": "e131a4a539b10b8706aa4af86d5cb13d94be272089a1b1eba81c157d1094e1fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-188-2022",
+   "path": "local/cluj/huedin/2022/188",
+   "short": "HCL Huedin nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 188/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-188-28.10.2022-aprobare-rectificare-buget-Gradinita-Prichindeii-Veseli-Huedin.pdf",
+     "sha256": "48c9300b0f2aad66d0161d5cba96b5a74d3d776490c6f94880a055c69e26a513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-189-2022",
+   "path": "local/cluj/huedin/2022/189",
+   "short": "HCL Huedin nr. 189/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 189/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-189-28.10.2022-aprobare-desemnare-reprezentanti-CLH-in-comisia-de-concurs-director-medical-Spital.pdf",
+     "sha256": "357a5531d109029b4e41ad768b09ddd11a12eb79697982bb589680c29a861f52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-190-2022",
+   "path": "local/cluj/huedin/2022/190",
+   "short": "HCL Huedin nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 190/2022",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2022/11/HCL-nr.-190-28.10.2022-aprobare-desemnare-reprezentanti-CLH-in-comisia-de-concurs-director-financiar-contabil-Spital.pdf",
+     "sha256": "bc305ba519bae9a65ecb137f17f6333c45f39f655e105e87000457af47369bd7"
+    }
+   ]
+  }
+ ]
+}

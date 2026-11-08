@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--cojocna-72-2022",
+   "path": "local/cluj/cojocna/2022/72",
+   "short": "HCL Cojocna nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 72/2022",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/74277",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/74277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-73-2022",
+   "path": "local/cluj/cojocna/2022/73",
+   "short": "HCL Cojocna nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 73/2022 privind decontarea cheltuielilor de transport de la domiciliu la serviciu și de la serviciu la domiciliu, pentru funcționarii publici și personalul contractual din cadrul Primăriei Comunei Cojocna, județul Cluj",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/74278",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/74278",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--cojocna-74-2022",
    "path": "local/cluj/cojocna/2022/74",
    "short": "HCL Cojocna nr. 74/2022",
@@ -48,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--cojocna-76-2022",
+   "path": "local/cluj/cojocna/2022/76",
+   "short": "HCL Cojocna nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 76/2022 privind acordul Consiliului Local Cojocna în calitate de administrator al domeniului public al UAT Cojocna și predarea bunurilor de protocol catre Asociația Regională Pentru Dezvoltarea Infrastructurii din Bazinul Hidrografic Someș – Tisa, în scopul delegării serviciului de alimentare cu apă către Compania de Apa Somes S.A",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/74281",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/74281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-77-2022",
+   "path": "local/cluj/cojocna/2022/77",
+   "short": "HCL Cojocna nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 77/2022 privind modificarea organigramei, statului de funcții și statului nominal de funcții al aparatului de specialitate al Primarului Comunei Cojocna",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/76500",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/76500",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--cojocna-78-2022",
    "path": "local/cluj/cojocna/2022/78",
    "short": "HCL Cojocna nr. 78/2022",
@@ -73,6 +133,21 @@
      "from": "2022-10-31",
      "units": 1,
      "source_url": "https://emol.ro/cojocna-cj/registru-hcl/76502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--cojocna-80-2022",
+   "path": "local/cluj/cojocna/2022/80",
+   "short": "HCL Cojocna nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 80/2022 privind aprobarea unor măsuri referitoare la organizarea și funcționarea societății SC Băi Cojocna SRL",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/76503",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/76503",
      "sha256": null
     }
    ]

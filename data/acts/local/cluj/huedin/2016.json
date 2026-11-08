@@ -3,6 +3,28 @@
 "shard": "local/cluj/huedin/2016",
 "acts": [
 {
+"slug": "hcl-cluj--huedin-58-2016",
+"path": "local/cluj/huedin/2016/58",
+"kind": "local",
+"year": "2016",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Huedin nr. 58/2016 cu privire la componența Comisiei de validare",
+"short": "HCL Huedin nr. 58/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-23",
+"latest": "2016-06-23",
+"portal": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+"council": "cluj/huedin",
+"council_name": "Consiliul Local al Orașului Huedin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--huedin-59-2016",
 "path": "local/cluj/huedin/2016/59",
 "kind": "local",
@@ -22,6 +44,72 @@
 "council_name": "Consiliul Local al Orașului Huedin",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-cluj--huedin-61-2016",
+"path": "local/cluj/huedin/2016/61",
+"kind": "local",
+"year": "2016",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Huedin nr. 61/2016 cu privire la președintele de ședință",
+"short": "HCL Huedin nr. 61/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-23",
+"latest": "2016-06-23",
+"portal": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+"council": "cluj/huedin",
+"council_name": "Consiliul Local al Orașului Huedin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--huedin-62-2016",
+"path": "local/cluj/huedin/2016/62",
+"kind": "local",
+"year": "2016",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Huedin nr. 62/2016 pentru funcția de viceprimar al orasului Huedin, consemnate în procesul verbal întocmit de Comisia de numărare a voturilor( comisia de validare)",
+"short": "HCL Huedin nr. 62/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-23",
+"latest": "2016-06-23",
+"portal": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+"council": "cluj/huedin",
+"council_name": "Consiliul Local al Orașului Huedin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--huedin-63-2016",
+"path": "local/cluj/huedin/2016/63",
+"kind": "local",
+"year": "2016",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Huedin nr. 63/2016 privind organizarea comisiilor de specialitate pe principalele domenii de activitate social – economică",
+"short": "HCL Huedin nr. 63/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-06-23",
+"latest": "2016-06-23",
+"portal": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+"council": "cluj/huedin",
+"council_name": "Consiliul Local al Orașului Huedin",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

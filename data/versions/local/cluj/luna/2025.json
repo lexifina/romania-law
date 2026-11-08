@@ -3,6 +3,96 @@
  "shard": "local/cluj/luna/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--luna-1-2025",
+   "path": "local/cluj/luna/2025/1",
+   "short": "HCL Luna nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 1/2025 privind aprobarea utilizării excedentului rezultat din exercițiul financiar din anii anteriori pentru acoperirea deficitului secțiunii de dezvoltare, pentru acoperirea temporară a golurilor de casă, respectiv pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/luna-cj/registru-hcl/185919",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/185919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-10-2025",
+   "path": "local/cluj/luna/2025/10",
+   "short": "HCL Luna nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 10/2025 privind constituirea Consiliului Consultativ pentru Probleme de Tineret al Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/194647",
+   "versions": [
+    {
+     "from": "2025-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/194647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-11-2025",
+   "path": "local/cluj/luna/2025/11",
+   "short": "HCL Luna nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 11/2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/197664",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/197664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-12-2025",
+   "path": "local/cluj/luna/2025/12",
+   "short": "HCL Luna nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 12/2025 privind aprobarea bugetului local al Comunei Luna pentru anul 2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/197665",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/197665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-13-2025",
+   "path": "local/cluj/luna/2025/13",
+   "short": "HCL Luna nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 13/2025 pentru însușirea Acordului de cooperare privind organizarea şi funcționarea serviciilor de dezvoltare rurală",
+   "url": "https://emol.ro/luna-cj/registru-hcl/197666",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/197666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-14-2025",
+   "path": "local/cluj/luna/2025/14",
+   "short": "HCL Luna nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 14/2025 privind aprobarea Acordului de colaborare pentru asigurarea sustenabilității proiectului ”Microbuze electrice pentru elevii din județul Cluj”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/197667",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/197667",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-15-2025",
    "path": "local/cluj/luna/2025/15",
    "short": "HCL Luna nr. 15/2025",
@@ -13,6 +103,186 @@
      "from": "2025-04-28",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/204427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-16-2025",
+   "path": "local/cluj/luna/2025/16",
+   "short": "HCL Luna nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 16/2025 privind aprobarea execuției bugetului local al Comunei Luna la trimestrul IV al anului 2024",
+   "url": "https://emol.ro/luna-cj/registru-hcl/204428",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/204428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-17-2025",
+   "path": "local/cluj/luna/2025/17",
+   "short": "HCL Luna nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 17/2025 privind rectificarea bugetului local al Comunei Luna pe anul 2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/204429",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/204429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-18-2025",
+   "path": "local/cluj/luna/2025/18",
+   "short": "HCL Luna nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 18/2025 privind organizarea Serviciului Voluntar pentru Situații de Urgenţă al Comunei Luna, Judeţul Cluj și aprobarea Regulamentului de organizare și funcționare al acestui serviciu",
+   "url": "https://emol.ro/luna-cj/registru-hcl/204430",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/204430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-19-2025",
+   "path": "local/cluj/luna/2025/19",
+   "short": "HCL Luna nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 19/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/204431",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/204431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-2-2025",
+   "path": "local/cluj/luna/2025/2",
+   "short": "HCL Luna nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 2/2025 privind însușirea documentației cadastrale de alipire pentru imobilele situate în Comuna Luna identificate cu numerele cadastrale 56759 și 56760 ale Comunei Luna, proprietate privată a Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/189869",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/189869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-20-2025",
+   "path": "local/cluj/luna/2025/20",
+   "short": "HCL Luna nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 20/2025 privind aprobarea condițiilor în care se realizează accesul furnizorilor de rețele de comunicații electronice pe proprietatea publică sau privată a Comunei Luna, în vederea construirii, instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură fizică necesare susținerii acestora",
+   "url": "https://emol.ro/luna-cj/registru-hcl/204432",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/204432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-21-2025",
+   "path": "local/cluj/luna/2025/21",
+   "short": "HCL Luna nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 21/2025 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară “Apa Vǎii Ariesului”",
+   "url": "https://emol.ro/luna-cj/registru-hcl/210327",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/210327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-22-2025",
+   "path": "local/cluj/luna/2025/22",
+   "short": "HCL Luna nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 22/2025 privind rectificarea bugetului local al Comunei Luna pe anul 2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/214180",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/214180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-23-2025",
+   "path": "local/cluj/luna/2025/23",
+   "short": "HCL Luna nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 23/2025 pentru completarea Hotărârii Consiliului Local al Comunei Luna nr. 10/28.02.2025 privind constituirea Consiliului Consultativ pentru Probleme de Tineret al Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/214181",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/214181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-24-2025",
+   "path": "local/cluj/luna/2025/24",
+   "short": "HCL Luna nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 24/2025 privind aprobarea execuției bugetului local al Comunei Luna la trimestrul I al anului 2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/218082",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/218082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-25-2025",
+   "path": "local/cluj/luna/2025/25",
+   "short": "HCL Luna nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 25/2025 privind aprobarea execuției bugetului local al Comunei Luna la trimestrul II al anului 2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/223519",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/223519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-26-2025",
+   "path": "local/cluj/luna/2025/26",
+   "short": "HCL Luna nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 26/2025 privind rectificarea bugetului local al Comunei Luna pe anul 2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/223520",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/223520",
      "sha256": null
     }
    ]
@@ -58,6 +328,21 @@
      "from": "2025-09-18",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/224610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-3-2025",
+   "path": "local/cluj/luna/2025/3",
+   "short": "HCL Luna nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 3/2025 privind aprobarea amenajării unui spațiu pentru colectarea separată a deșeurilor",
+   "url": "https://emol.ro/luna-cj/registru-hcl/189870",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/189870",
      "sha256": null
     }
    ]
@@ -213,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--luna-4-2025",
+   "path": "local/cluj/luna/2025/4",
+   "short": "HCL Luna nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 4/2025 privind includerea în domeniul privat al Comunei Luna a unor imobile preluate de la SC Delgaz Grid SA",
+   "url": "https://emol.ro/luna-cj/registru-hcl/189871",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/189871",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--luna-40-2025",
    "path": "local/cluj/luna/2025/40",
    "short": "HCL Luna nr. 40/2025",
@@ -313,6 +613,81 @@
      "from": "2025-12-22",
      "units": 1,
      "source_url": "https://emol.ro/luna-cj/registru-hcl/242946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-5-2025",
+   "path": "local/cluj/luna/2025/5",
+   "short": "HCL Luna nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 5/2025 privind însușirea documentațiilor cadastrale de alipire a unor imobile situate în Comuna Luna, proprietate privată a Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/189872",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/189872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-6-2025",
+   "path": "local/cluj/luna/2025/6",
+   "short": "HCL Luna nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 6/2025",
+   "url": "https://emol.ro/luna-cj/registru-hcl/189873",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/189873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-7-2025",
+   "path": "local/cluj/luna/2025/7",
+   "short": "HCL Luna nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 7/2025 privind aprobarea finanțării din bugetul local al Comunei Luna pe anul 2025 a lucrărilor de execuție a unui gard de protecție la Cimitirul Reformat din Luncani",
+   "url": "https://emol.ro/luna-cj/registru-hcl/194644",
+   "versions": [
+    {
+     "from": "2025-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/194644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-8-2025",
+   "path": "local/cluj/luna/2025/8",
+   "short": "HCL Luna nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 8/2025 privind însușirea documentațiilor cadastrale de alipire a imobilelor, proprietate privată a Comunei Luna, identificate cu numerele cadastrale 59583, 59584 și 59585 ale Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/194645",
+   "versions": [
+    {
+     "from": "2025-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/194645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-9-2025",
+   "path": "local/cluj/luna/2025/9",
+   "short": "HCL Luna nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 9/2025 privind aprobarea documentației de atribuire aferentă procedurii de delegare a gestiunii serviciului de iluminat public din Comuna Luna, Județul Cluj prin achiziție publică de servicii",
+   "url": "https://emol.ro/luna-cj/registru-hcl/194646",
+   "versions": [
+    {
+     "from": "2025-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/194646",
      "sha256": null
     }
    ]

@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/ciucea/2023",
+ "acts": [
+  {
+   "slug": "hcl-cluj--ciucea-36-2023",
+   "path": "local/cluj/ciucea/2023/36",
+   "short": "HCL Ciucea nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 36/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.36-din-26.07.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.36-din-26.07.2023.pdf",
+     "sha256": "b744f54b8803fef4326c28f9f1759cd76711176b411360c23a824ebfef3ecade"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-37-2023",
+   "path": "local/cluj/ciucea/2023/37",
+   "short": "HCL Ciucea nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 37/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.37-din-26.07.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.37-din-26.07.2023.pdf",
+     "sha256": "8799f206fd267263541fa6fd4ba5260767ffd26bd05293d561c7cc2d61e39861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-38-2023",
+   "path": "local/cluj/ciucea/2023/38",
+   "short": "HCL Ciucea nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 38/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.38-din-26.07.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.38-din-26.07.2023.pdf",
+     "sha256": "f7b2b8c85b617108dcde1f86120266edc63188bedbff91fece0089cb7e5a19f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-39-2023",
+   "path": "local/cluj/ciucea/2023/39",
+   "short": "HCL Ciucea nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 39/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.39-din-29.08.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.39-din-29.08.2023.pdf",
+     "sha256": "007f562fc07dd1e1b98432ef8b12ab0b6e9588cbc483b2a377dc9506559a75e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-40-2023",
+   "path": "local/cluj/ciucea/2023/40",
+   "short": "HCL Ciucea nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 40/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.40-din-29.08.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.40-din-29.08.2023.pdf",
+     "sha256": "3e6f3b223c76223542f5c7c77e5b24f956952bd1af363d5243ec0c35ac8a1ae9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-41-2023",
+   "path": "local/cluj/ciucea/2023/41",
+   "short": "HCL Ciucea nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 41/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.41-din-29.08.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.41-din-29.08.2023.pdf",
+     "sha256": "5079be1243aceefa9e791d3111e58a7818f34ff5695740fc8e9208f0fd9b81ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-42-2023",
+   "path": "local/cluj/ciucea/2023/42",
+   "short": "HCL Ciucea nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 42/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.42-din-29.08.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.42-din-29.08.2023.pdf",
+     "sha256": "4b1b5a7440d8845137b09ef6dedfd5b0042da02348a19ac9145ac7e639f4baa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-43-2023",
+   "path": "local/cluj/ciucea/2023/43",
+   "short": "HCL Ciucea nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 43/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.43-din-29.08.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.43-din-29.08.2023.pdf",
+     "sha256": "51f7d6c9c3a9d0f2d97f3ca165e2cad99a58aa796e8cfe78b30957727be7434f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-44-2023",
+   "path": "local/cluj/ciucea/2023/44",
+   "short": "HCL Ciucea nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 44/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.44-din-29.08.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.44-din-29.08.2023.pdf",
+     "sha256": "29c13febb4ac889e9f47a245f567b0b0712bf5a273b163ae89e877a0c6873a0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-45-2023",
+   "path": "local/cluj/ciucea/2023/45",
+   "short": "HCL Ciucea nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 45/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.45-din-31.08.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2023/10/HCL-nr.45-din-31.08.2023.pdf",
+     "sha256": "6308b9abe1a010b938ae3938280ba5822e5fda417667f45efc0eff42217da0b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-46-2023",
+   "path": "local/cluj/ciucea/2023/46",
+   "short": "HCL Ciucea nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 46/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.46-din-data-de-27.09.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.46-din-data-de-27.09.2023.pdf",
+     "sha256": "2f338e66b88172a3e4a4f23931bca8d1f7c0536edbbbdc642261597a129b6a8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-47-2023",
+   "path": "local/cluj/ciucea/2023/47",
+   "short": "HCL Ciucea nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 47/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.47-din-27.09.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.47-din-27.09.2023.pdf",
+     "sha256": "2252c2ac39f676d6bbbc8a2e611d142c21186101803e29534ba39252c520b7a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-48-2023",
+   "path": "local/cluj/ciucea/2023/48",
+   "short": "HCL Ciucea nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 48/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.48-din-data-de-27.09.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.48-din-data-de-27.09.2023.pdf",
+     "sha256": "36db5409f387289e6171ef7613f980a34c41add3acde208a4aea0250ae291504"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-49-2023",
+   "path": "local/cluj/ciucea/2023/49",
+   "short": "HCL Ciucea nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 49/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.49-din-data-de-27.09.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.49-din-data-de-27.09.2023.pdf",
+     "sha256": "29d0f0bbe05308003c0acf838a84508274a9d58f1cf756ef854284976844aa18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-50-2023",
+   "path": "local/cluj/ciucea/2023/50",
+   "short": "HCL Ciucea nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 50/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.50-din-data-de-30.10.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.50-din-data-de-30.10.2023.pdf",
+     "sha256": "97db343530d5c70c1a355710706fd3dc198a12cdc5e92d24aa089a6fb460b9a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-51-2023",
+   "path": "local/cluj/ciucea/2023/51",
+   "short": "HCL Ciucea nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 51/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.51-din-data-de-30.10.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.51-din-data-de-30.10.2023.pdf",
+     "sha256": "57474b11ec846b5ceff4a424142c31fd75895e427f4ca63655095d7848a1d6ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-52-2023",
+   "path": "local/cluj/ciucea/2023/52",
+   "short": "HCL Ciucea nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 52/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.52-din-data-de-30.10.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.52-din-data-de-30.10.2023.pdf",
+     "sha256": "f9232feaf1b10b460eec7b5f8994038aceb6b97d86c45d8448f3174cde530df6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-53-2023",
+   "path": "local/cluj/ciucea/2023/53",
+   "short": "HCL Ciucea nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 53/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.53-din-data-de-30.10.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.53-din-data-de-30.10.2023.pdf",
+     "sha256": "c79ec0e77c0c6e28d70d17ffb1be6836f5c978d190b54a382f2b62d8cb63d853"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-54-2023",
+   "path": "local/cluj/ciucea/2023/54",
+   "short": "HCL Ciucea nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 54/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.54-din-data-de-08.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.54-din-data-de-08.11.2023.pdf",
+     "sha256": "34b405737b5afa95de96858caba2cf8d984cf6376e34021b337bf04c61fc5ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-55-2023",
+   "path": "local/cluj/ciucea/2023/55",
+   "short": "HCL Ciucea nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 55/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.55-din-data-de-08.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.55-din-data-de-08.11.2023.pdf",
+     "sha256": "a42cfb09271a435d844416380553e644758fdece4e619797403b28640c09c6f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-56-2023",
+   "path": "local/cluj/ciucea/2023/56",
+   "short": "HCL Ciucea nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 56/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.56-din-data-de-08.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.56-din-data-de-08.11.2023.pdf",
+     "sha256": "34d29f45f0b52267dc2e81e1474e554aa0b96b80fd4447bb0d14537a51ec7523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-57-2023",
+   "path": "local/cluj/ciucea/2023/57",
+   "short": "HCL Ciucea nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 57/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.57-din-data-de-08.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.57-din-data-de-08.11.2023.pdf",
+     "sha256": "3c3a52fe5e892e1e898f83833778b1f94e6861e8ccf96d9b91d3763d34ba7b71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-58-2023",
+   "path": "local/cluj/ciucea/2023/58",
+   "short": "HCL Ciucea nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 58/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.58-din-data-de-27.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.58-din-data-de-27.11.2023.pdf",
+     "sha256": "7fed01cc57fdbe6adc1a54f11ecb0661a2cb246432811cbdb47680922bc7a2e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-59-2023",
+   "path": "local/cluj/ciucea/2023/59",
+   "short": "HCL Ciucea nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 59/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.59-din-data-de-27.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.59-din-data-de-27.11.2023.pdf",
+     "sha256": "1adbdc40c4ed7c8896151f159ec5a23300c44ff83c9e9696ab2b06a429928b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-60-2023",
+   "path": "local/cluj/ciucea/2023/60",
+   "short": "HCL Ciucea nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 60/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.60-din-data-de-27.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.60-din-data-de-27.11.2023.pdf",
+     "sha256": "a2e9970fa4d93d132d6b8823aa339857936956a323ffe2eab5171edbf4b56c4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-61-2023",
+   "path": "local/cluj/ciucea/2023/61",
+   "short": "HCL Ciucea nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 61/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.61-din-data-de-27.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.61-din-data-de-27.11.2023.pdf",
+     "sha256": "6da44f800651615ea44e2b36aea17495ba029ed28b8bb5207a9cbc9d4016e1af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-62-2023",
+   "path": "local/cluj/ciucea/2023/62",
+   "short": "HCL Ciucea nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 62/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.62-din-data-de-27.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.62-din-data-de-27.11.2023.pdf",
+     "sha256": "031553777b65d52a24f2d297db2dbafdb0dfa0821aaebcde37db12dea8e066c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-63-2023",
+   "path": "local/cluj/ciucea/2023/63",
+   "short": "HCL Ciucea nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 63/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.63-din-data-de-27.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.63-din-data-de-27.11.2023.pdf",
+     "sha256": "da895a7095df5cd2ddfbe7863ae349d718dbc95b07d7c5ad40092ad17d40d703"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-64-2023",
+   "path": "local/cluj/ciucea/2023/64",
+   "short": "HCL Ciucea nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 64/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.64-din-data-de-07.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.64-din-data-de-07.12.2023.pdf",
+     "sha256": "c4b7c763b948f9f263e84356352d9497465f7ea75bf89a621b9fde9d1c34be85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-65-2023",
+   "path": "local/cluj/ciucea/2023/65",
+   "short": "HCL Ciucea nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 65/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.65-din-data-de-07.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.65-din-data-de-07.12.2023.pdf",
+     "sha256": "9fd2ec774ddeb5ab642a253d9d394ef6d77a64300feb33a9df91147ba6508e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-66-2023",
+   "path": "local/cluj/ciucea/2023/66",
+   "short": "HCL Ciucea nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 66/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.66-din-data-de-18.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.66-din-data-de-18.12.2023.pdf",
+     "sha256": "1581398db98cb462e2864f7859838eb19510678e57dafbdbb31c5af336c6242f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ciucea-67-2023",
+   "path": "local/cluj/ciucea/2023/67",
+   "short": "HCL Ciucea nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciucea nr. 67/2023",
+   "url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.67-din-data-de-18.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://primariaciucea.ro/wp-content/uploads/2024/01/HCL-nr.67-din-data-de-18.12.2023.pdf",
+     "sha256": "3f304d436bff22e81f5a990cdb6fedadecf3a80ec1e41cb33e4b43dfb03549a4"
+    }
+   ]
+  }
+ ]
+}

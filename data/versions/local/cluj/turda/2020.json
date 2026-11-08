@@ -3,6 +3,51 @@
  "shard": "local/cluj/turda/2020",
  "acts": [
   {
+   "slug": "hcl-cluj--turda-12-2020",
+   "path": "local/cluj/turda/2020/12",
+   "short": "HCL Turda nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 12/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/12%20din%2030.01.2020.pdf",
+     "sha256": "a8ce77121fb39135136533be65868073eccbec2be755ed8fe578e5774c3d6c08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-129-2020",
+   "path": "local/cluj/turda/2020/129",
+   "short": "HCL Turda nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 129/2020 privind aprobarea Documentației de avizare pentru lucrări de intervenții- DALI și a principalilor indicatori tehnico-economici aferenți obiectivului de investiții: “Reabilitare și modernizare infrastructură urbană în Municipiul Turda - Cartierul Oprișani — zonele 2; 4; 4A și 4B; Cartier Centru, Turda Nouă Nord și Sud, Cartier Poiana și alte străzi din Municipiul Turda” Consiliul Local al municipiu",
+   "url": "https://primariaturda.ro/hotararea-nr-129-privind-aprobarea-documentatiei-de-avizare-pentru-lucrari-de-interventii-dali-si-a-principalilor-indicatori-tehnico-economici-aferenti-obiectivului-de-investitii-reabilita/",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/129%20din%2025.06.2020.pdf",
+     "sha256": "e254e4005cf5652ed970f09760d69bd8126a65bd95edfb64b8fffe4a3681e213"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-13-2020",
+   "path": "local/cluj/turda/2020/13",
+   "short": "HCL Turda nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 13/2020 privind aprobarea costului de instituționalizare pentru persoanele vârstnice aflate în Centrul de Îngrijire și Asistenta “Acoperământul Maicii Domnului” Turda Consiliul Local al municipiului Turda, întrunit în ședința ordinară din data de 30.01.2020; Luând în dezbatere proiectul de hotărâre privind aprobarea costului de instituționalizare pentru persoanele vârstnice aflate în Centrul de Îngrijire",
+   "url": "https://primariaturda.ro/hotararea-nr-13-privind-aprobarea-costului-de-institutionalizare-pentru-persoanele-varstnice-aflate-in-centrul-de-ingrijire-si-asistenta-acoperamantul-maicii-domnului-turda/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/13%20din%2030.01.2020.pdf",
+     "sha256": "31decade7c14e973959e87a08261c9734c573e74dc47108810c371215c51445a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-14-2020",
    "path": "local/cluj/turda/2020/14",
    "short": "HCL Turda nr. 14/2020",
@@ -14,6 +59,36 @@
      "units": 1,
      "source_url": "http://primariaturda.ro/uploads/hcl/2020/14%20din%2030.01.2020.pdf",
      "sha256": "1508964348f922fe3c74a56bc46b791f34ecc0c93fc8390233f5be66cc5a58bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-15-2020",
+   "path": "local/cluj/turda/2020/15",
+   "short": "HCL Turda nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 15/2020 privind aprobarea Regulamentului de Organizare și Funcționare, a Organigramei și a Statului de funcții pentru Teatrul Național Aureliu Manea Turda, instituție publică de cultură aflată în subordinea Consiliului Local al Municipiului Turda Consiliul Local al Municipiului Turda întrunit în ședința ordinară din data de 30.01.2020; Luând în dezbatere proiectul de hotărâre privind aprobarea Regulamentu",
+   "url": "https://primariaturda.ro/hotararea-nr-15-privind-aprobarea-regulamentului-de-organizare-si-functionare-a-organigramei-si-a-statului-de-functii-pentru-teatrul-national-aureliu-manea-turda-institutie-publica-de-cultura-aflat/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/15%20din%2030.01.2020.pdf",
+     "sha256": "f0d5f0cac9a0efeaca74405fb98077326d7fee273aad6e9cf68239f0342bab9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-17-2020",
+   "path": "local/cluj/turda/2020/17",
+   "short": "HCL Turda nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 17/2020 privind aprobarea valorilor actualizate ale principalilor indicatori tehnico- economici și a devizului general pentru obiectivul de investiții „Modernizarea coridorului de mobilitate urbană integrată in zona de Vest a municipiului Turda” Consiliul Local al municipiului Turda întrunit în ședința ordinară din data de 30.01.2020; Luând în dezbatere proiectul de hotărâre cu privire la aprobarea valori",
+   "url": "https://primariaturda.ro/hotararea-nr-17-privind-aprobarea-valorilor-actualizate-ale-principalilor-indicatori-tehnico-economici-si-a-devizului-general-pentru-obiectivul-de-investitii-modernizarea-coridorului-de-mobi/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/17%20din%2030.01.2020.pdf",
+     "sha256": "9ea3a80b02b7ec95062dfc7bc2236a7c858a41ad19861cf87868019a7b5347d8"
     }
    ]
   },
@@ -33,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-21-2020",
+   "path": "local/cluj/turda/2020/21",
+   "short": "HCL Turda nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 21/2020 privind aprobarea închirierii a unui spațiu din imobilul situat administrativ în Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-21-privind-aprobarea-inchirierii-a-unui-spatiu-din-imobilul-situat-administrativ-in-turda-str-republicii-nr-15-catre-asociatia-partida-romilor-pro-europa-sucursal/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/21%20din%2030.01.2020.pdf",
+     "sha256": "f40e0e953d8827a238f51f4c3641a021185c68592ac9cff085c33787a72a7d23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-22-2020",
+   "path": "local/cluj/turda/2020/22",
+   "short": "HCL Turda nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 22/2020 privind atribuirea în regim de închiriere a unui spațiu situat administrativ în Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-22-privind-atribuirea-in-regim-de-inchiriere-a-unui-spatiu-situat-administrativ-in-turda-str-republicii-nr-15-catre-partidul-libertate-unitate-si-solidaritate-plus-turda/",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/22%20din%2030.01.2020.pdf",
+     "sha256": "9bc54e44315b798112df81a44fcaffa2878b54c8c80a366f9ee1301fbdc7e57e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-224-2020",
+   "path": "local/cluj/turda/2020/224",
+   "short": "HCL Turda nr. 224/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 224/2020 privind aprobarea modificării Organigramei și a Statului de funcții al societății TRANSPORT URBAN PUBLIC S.R.L",
+   "url": "https://primariaturda.ro/hotararea-nr-224-privind-aprobarea-modificarii-organigramei-si-a-statului-de-functii-al-societatii-transport-urban-public-s-r-l/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/224%20din%2026.11.2020.pdf",
+     "sha256": "487c1af468498e284640df6b3a24a1f1fb4cd7c49ebfe5b45921ef1bf507c58e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-225-2020",
    "path": "local/cluj/turda/2020/225",
    "short": "HCL Turda nr. 225/2020",
@@ -44,6 +164,36 @@
      "units": 1,
      "source_url": "http://primariaturda.ro/uploads/hcl/2020/225%20din%2026.11.2020.pdf",
      "sha256": "b7986a492b9f53cbaa6e39b3e198c21a3219bb3016455b97e4d9a0188495a308"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-227-2020",
+   "path": "local/cluj/turda/2020/227",
+   "short": "HCL Turda nr. 227/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 227/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/227%20din%2026.11.2020.pdf",
+     "sha256": "1370ec8c0d18c78b4fcb2760250a3725dc8d0ad422adc84acd76ff79daff0c11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-228-2020",
+   "path": "local/cluj/turda/2020/228",
+   "short": "HCL Turda nr. 228/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 228/2020 privind aprobarea componenței comisiei pentru stabilirea ordinii de prioritate în vederea repartizării locuințelor sociale și a celor din fondul locativ de stat, altele decât cele sociale Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 26.11.2020; Luând în dezbatere proiectul de hotărâre privind aprobarea componenței comisiei pentru stabilirea ordinii de prioritate",
+   "url": "https://primariaturda.ro/hotararea-nr-228-privind-aprobarea-componentei-comisiei-pentru-stabilirea-ordinii-de-prioritate-in-vederea-repartizarii-locuintelor-sociale-si-a-celor-din-fondul-locativ-de-stat-altele-decat-cele-so/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/228%20din%2026.11.2020.pdf",
+     "sha256": "6b57bf350a73eb55c4e279e245951a6e378c06af1c553a5ebf5ad7aa2ed4bed8"
     }
    ]
   },
@@ -78,6 +228,441 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-250-2020",
+   "path": "local/cluj/turda/2020/250",
+   "short": "HCL Turda nr. 250/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 250/2020 privind aprobarea contribuției financiare lunare a municipiului Turda către Asociația Club Sportiv Sticla Arieșul Turda, pe o perioadă cuprinsă între 01.01.2021-01.07.2021 Consiliul Local al municipiului Turda, întrunit în ședința ordinară din data de 22.12.2020; Luând în dezbatere proiectul de hotărâre cu privire la aprobarea contribuției financiare lunare a municipiului Turda către Asociația Clu",
+   "url": "https://primariaturda.ro/hotararea-nr-250-privind-aprobarea-contributiei-financiare-lunare-a-municipiului-turda-catre-asociatia-club-sportiv-sticla-ariesul-turda-pe-o-perioada-cuprinsa-intre-01-01-2021-01-07-2021/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/250%20din%2022.12.2020.pdf",
+     "sha256": "71891977831f122d442c7ed086a897f3a2debab2e9565c8890220da36e446f91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-264-2020",
+   "path": "local/cluj/turda/2020/264",
+   "short": "HCL Turda nr. 264/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 264/2020 privind aprobarea modificării organigramei, numărului de posturi și statului de funcții pentru Serviciul Public Poliția Locală Turda Consiliul Local al municipiului Turda, județul Cluj, întrunit în ședința ordinară din data de 22.12.2020; Luând în dezbatere proiectul de hotarâre cu privire la aprobarea modificării organigramei, numărului de posturi și statului de funcții pentru Serviciul Public Po",
+   "url": "https://primariaturda.ro/hotararea-nr-264-privind-aprobarea-modificarii-organigramei-numarului-de-posturi-si-statului-de-functii-pentru-serviciul-public-politia-locala-turda/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/264%20din%2022.12.2020.pdf",
+     "sha256": "5b92f290e804737dc95d2efd59a0a493bd72f20a1efb02cd0ea35e7a85f8b120"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-270-2020",
+   "path": "local/cluj/turda/2020/270",
+   "short": "HCL Turda nr. 270/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 270/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/270%20din%2030.12.2020.pdf",
+     "sha256": "97e7082c5a3b107c7dff6f3f4ab683a3445a2bcd2cd0b9ba80c696d95f74ec9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-272-2020",
+   "path": "local/cluj/turda/2020/272",
+   "short": "HCL Turda nr. 272/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 272/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Frăgăristei, nr. 78, proprietatea dlui",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/272%20din%2030.12.2020.pdf",
+     "sha256": "4b9c977d3a6ce577372cf40fe85acf0b32f3bfacdd75c91ab8afb7786491e1ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-273-2020",
+   "path": "local/cluj/turda/2020/273",
+   "short": "HCL Turda nr. 273/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 273/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/273%20din%2030.12.2020.pdf",
+     "sha256": "4093c93dbdf40718d4569ede04b55fb425d05662ed3c511f086cdacc79300cdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-275-2020",
+   "path": "local/cluj/turda/2020/275",
+   "short": "HCL Turda nr. 275/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 275/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Axente Sever, nr. 22, proprietatea dnei",
+   "url": "https://primariaturda.ro/hotararea-nr-275-privind-majorarea-cu-500-a-impozitului-incepand-cu-anul-2021-pentru-cladirea-situata-in-municipiul-turda-strada-axente-sever-nr-22-proprietatea-dnei-stanescu-rodica-ca-urmare/",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/275%20din%2030.12.2020.pdf",
+     "sha256": "184866651478fd0d6625917b7a1dd4e8314b0f7f9b5bd5db93ee6c7b2be0f539"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-279-2020",
+   "path": "local/cluj/turda/2020/279",
+   "short": "HCL Turda nr. 279/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 279/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru terenul situat în Municipiul Turda, strada Aurel Vlaicu, nr. 4, proprietatea SC CROSEST SRL, ca urmare a constatării stării tehnice de teren neîngrijit Consiliul Local al municipiului Turda întrunit în ședința extraordinară din data de 30.12.2020; Luând în dezbatere proiectul de hotărâre privind majorarea cu 500% a impozitului î",
+   "url": "https://primariaturda.ro/hotararea-nr-279-privind-majorarea-cu-500-a-impozitului-incepand-cu-anul-2021-pentru-terenul-situat-in-municipiul-turda-strada-aurel-vlaicu-nr-4-proprietatea-sc-crosest-srl-ca-urmare-a-constat/",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/279%20din%2030.12.2020.pdf",
+     "sha256": "5f7aa9acfdb549d6563fe9fd8bec4fc52dc690ea39099bdd440f2e0330cdd33c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-28-2020",
+   "path": "local/cluj/turda/2020/28",
+   "short": "HCL Turda nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 28/2020 privind aprobarea valorilor actualizate ale principalilor indicatori tehnico- economici și a devizului general pentru obiectivul de investiții „Restaurarea, conservarea și reabilitarea clădirii fostei Judecătorii (P-ța Republicii nr. 5) și redestinarea ei ca Centru de cultură, artă și tradiții” Consiliul Local al Municipiului Turda întrunit în ședința extraordinară din data de 18.02.2020; Luând în",
+   "url": "https://primariaturda.ro/hotararea-nr-28-privind-aprobarea-valorilor-actualizate-ale-principalilor-indicatori-tehnico-economici-si-a-devizului-general-pentru-obiectivul-de-investitii-restaurarea-conservarea-si-reab/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/28%20din%2018.02.2020.pdf",
+     "sha256": "e586d9594953068b1ce0b53e5d8d0794d7c20c40072ed9b72460f53ce137f101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-282-2020",
+   "path": "local/cluj/turda/2020/282",
+   "short": "HCL Turda nr. 282/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 282/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru terenul și clădirea situate în Municipiul Turda, strada Rândunicii nr. SOA , proprietatea dlui",
+   "url": "https://primariaturda.ro/hotararea-nr-282-privind-majorarea-cu-500-a-impozitului-incepand-cu-anul-2021-pentru-terenul-si-cladirea-situate-in-municipiul-turda-strada-randunicii-nr-50a-proprietatea-dlui-popa-simion-ca/",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/282%20din%2030.12.2020.pdf",
+     "sha256": "56f2aa7040509db4b47d9fff5415a6f9e5f9e195dff0a8a020bceb3fafb0df05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-283-2020",
+   "path": "local/cluj/turda/2020/283",
+   "short": "HCL Turda nr. 283/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 283/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/283%20din%2030.12.2020.pdf",
+     "sha256": "2b1f857a91963db1848848e216a6aa1501b32244230939d3d0f889de429224a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-284-2020",
+   "path": "local/cluj/turda/2020/284",
+   "short": "HCL Turda nr. 284/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 284/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/284%20din%2030.12.2020.pdf",
+     "sha256": "f1e5d682dfa4966fa145730aec861f264af6d9fc13470e58aeb4dbd5b92d6cde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-285-2020",
+   "path": "local/cluj/turda/2020/285",
+   "short": "HCL Turda nr. 285/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 285/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/285%20din%2030.12.2020.pdf",
+     "sha256": "fae6b4da5dec4bcffa04ce88a5544c47a853a9b02f30b708278fc615804beff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-286-2020",
+   "path": "local/cluj/turda/2020/286",
+   "short": "HCL Turda nr. 286/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 286/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada G",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/286%20din%2030.12.2020.pdf",
+     "sha256": "2492db0d5b090c419d5f085379eec8eb956ab51180c9ca300969b201ed52bb63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-287-2020",
+   "path": "local/cluj/turda/2020/287",
+   "short": "HCL Turda nr. 287/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 287/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/287%20din%2030.12.2020.pdf",
+     "sha256": "d04e2bff1b66f0f0fbd03407686ce80f5ad5a4edcd10b941352b252d025d6c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-288-2020",
+   "path": "local/cluj/turda/2020/288",
+   "short": "HCL Turda nr. 288/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 288/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Romană, nr. 42, proprietatea dnei",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/288%20din%2030.12.2020.pdf",
+     "sha256": "0f290740392eeebc47d4c418f122cca3b5cce38042554cf14b370dfa18e8f529"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-289-2020",
+   "path": "local/cluj/turda/2020/289",
+   "short": "HCL Turda nr. 289/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 289/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/289%20din%2030.12.2020.pdf",
+     "sha256": "9ed4bbf50368b8aff7bd1e3291b693be5161b699d5f0fa9a083ab63646ddb86f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-290-2020",
+   "path": "local/cluj/turda/2020/290",
+   "short": "HCL Turda nr. 290/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 290/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Mihai Eminescu, nr. 34, ap. 2, proprietatea dlui",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/290%20din%2030.12.2020.pdf",
+     "sha256": "48abc2378a500bb7ac148056ac359ef6ae9a26983eb515fc2b9fbb1c82a681af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-291-2020",
+   "path": "local/cluj/turda/2020/291",
+   "short": "HCL Turda nr. 291/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 291/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/291%20din%2030.12.2020.pdf",
+     "sha256": "6a21efe89dae0ceecff736807c625a384be092e5a39182da6c8b45d9eba9ca87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-292-2020",
+   "path": "local/cluj/turda/2020/292",
+   "short": "HCL Turda nr. 292/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 292/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Detunata, nr. 10, proprietatea dlui",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/292%20din%2030.12.2020.pdf",
+     "sha256": "336baa7dfd5b5b47c3a2cc56db945b8f14596d73a14ab36455717c178baf44cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-293-2020",
+   "path": "local/cluj/turda/2020/293",
+   "short": "HCL Turda nr. 293/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 293/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Dr",
+   "url": "https://primariaturda.ro/hotararea-nr-293-privind-aprobarea-retelei-unitatilor-de-invatamant-de-pe-raza-administrativ-teritoriala-a-municipiului-turda-care-vor-functiona-in-anul-scolar-2020-2021/",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2019/293%20din%2020.12.2019%20corectata.pdf",
+     "sha256": "30702f75c83cffb3c69fc280948e0e26ec5dbab23399b77212e6b6e25c3306ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-295-2020",
+   "path": "local/cluj/turda/2020/295",
+   "short": "HCL Turda nr. 295/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 295/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/295%20din%2030.12.2020.pdf",
+     "sha256": "7a88b462424dad1f6b264388391afdc67afce73d13908bb4365365dca8fdeb90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-296-2020",
+   "path": "local/cluj/turda/2020/296",
+   "short": "HCL Turda nr. 296/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 296/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Negru Vodă, nr. 2B, proprietatea dlui",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/296%20din%2030.12.2020.pdf",
+     "sha256": "936eaa130772e65c51f55ebdbb558598a8f27df71f3f6a557a06a8d3abeccd98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-297-2020",
+   "path": "local/cluj/turda/2020/297",
+   "short": "HCL Turda nr. 297/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 297/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/297%20din%2030.12.2020.pdf",
+     "sha256": "27f14baefc279b077b9cbe3f524a310cd14152e8b6c7a0168fe0ef8a79016726"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-298-2020",
+   "path": "local/cluj/turda/2020/298",
+   "short": "HCL Turda nr. 298/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 298/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Fabricii, nr. 53, proprietatea dlui",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/298%20din%2030.12.2020.pdf",
+     "sha256": "f2ddf0c1c0373fe6ee7612694eb68824545518b96ca21441a0455fc9c146c280"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-299-2020",
+   "path": "local/cluj/turda/2020/299",
+   "short": "HCL Turda nr. 299/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 299/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/299%20din%2030.12.2020.pdf",
+     "sha256": "220ab4fc3b0a30a33ebcddbef4afeeb109488b91bc616943a3cdfb77a974c938"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-300-2020",
+   "path": "local/cluj/turda/2020/300",
+   "short": "HCL Turda nr. 300/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 300/2020 privind majorarea cu 500% a impozitului începând cu anul 2021, pentru clădirea situată în Municipiul Turda, strada Fabricii, nr. 71 C, proprietatea SNTCF CFR CĂLĂTORI SA — Sucursala Regională Transport feroviar Călători Cluj ca urmare a constatării stării tehnice de clădire neîngrijită Consiliul Local al municipiului Turda întrunit în ședința extraordinară din data de 30.12.2020; Luând în dezbater",
+   "url": "https://primariaturda.ro/hotararea-nr-300-privind-majorarea-cu-500-a-impozitului-incepand-cu-anul-2021-pentru-cladirea-situata-in-municipiul-turda-strada-fabricii-nr-71-c-proprietatea-sntcf-cfr-calatori-sa-suc/",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/300%20din%2030.12.2020.pdf",
+     "sha256": "ce9372af445bdd35edb2f7006303793a68b90211e1f85386565a8a3637f07063"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-301-2020",
+   "path": "local/cluj/turda/2020/301",
+   "short": "HCL Turda nr. 301/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 301/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/301%20din%2030.12.2020.pdf",
+     "sha256": "7f170dac309a8427c7c5a95c7ac8a052b46df5a3463057d5760d80199d1ff235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-302-2020",
+   "path": "local/cluj/turda/2020/302",
+   "short": "HCL Turda nr. 302/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 302/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/302%20din%2030.12.2020.pdf",
+     "sha256": "2ba39e1b5dfb816fd7ca716c741d6152bee3ba4e0f5e4f2cb1df3702cc916414"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-304-2020",
+   "path": "local/cluj/turda/2020/304",
+   "short": "HCL Turda nr. 304/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 304/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/304%20din%2030.12.2020.pdf",
+     "sha256": "4fa8ad5c06638e19d4e7abc1abf7dbbdb00f6b07df8c2d3b32de8728401b5daa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-34-2020",
    "path": "local/cluj/turda/2020/34",
    "short": "HCL Turda nr. 34/2020",
@@ -93,6 +678,81 @@
    ]
   },
   {
+   "slug": "hcl-cluj--turda-36-2020",
+   "path": "local/cluj/turda/2020/36",
+   "short": "HCL Turda nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 36/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/36%20din%2027.02.2020.pdf",
+     "sha256": "8627306a47da8e4817b3677a5d57ea506c2c60aec09750abb73fcb5ca40793b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-39-2020",
+   "path": "local/cluj/turda/2020/39",
+   "short": "HCL Turda nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 39/2020 privind aprobarea înființării unui punct de lucru situat în str",
+   "url": "https://primariaturda.ro/hotararea-nr-39-privind-aprobarea-infiintarii-unui-punct-de-lucru-situat-in-str-mihai-viteazu-nr-43-jud-cluj-la-societatea-transport-urban-public-s-r-l/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/39%20din%2027.02.2020.pdf",
+     "sha256": "c377c42e5551fa69207552659d753dc2753fed95ed4927a601cf50d7503468d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-49-2020",
+   "path": "local/cluj/turda/2020/49",
+   "short": "HCL Turda nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 49/2020 privind aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru perioada 1 martie — 31 decembrie 2020 Consiliul Local al Municipiului Turda, întrunit în ședința ordinară din data de 27.02.2020; Luând în dezbatere proiectul de hotărâre privind aprobarea programului de activități al Casei de Cultură a municipiului Turda. pentru perioada 1 martie — 31 decembrie 2020, proi",
+   "url": "https://primariaturda.ro/hotararea-nr-49-privind-aprobarea-programului-de-activitati-al-casei-de-cultura-a-municipiului-turda-pentru-perioada-1-martie-31-decembrie-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/49%20din%2027.02.2020.pdf",
+     "sha256": "f6ea80033c9e37e6f3efdc18f5a4309aa48854d4ad3ff49d2c776f8abb59b255"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-50-2020",
+   "path": "local/cluj/turda/2020/50",
+   "short": "HCL Turda nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 50/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/50%20din%2027.02.2020.pdf",
+     "sha256": "b083dec8b8a1cb69347456ed82ca148c7113b5ae5acf8f1a8e024724e9924a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-55-2020",
+   "path": "local/cluj/turda/2020/55",
+   "short": "HCL Turda nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 55/2020 privind aprobarea valorilor actualizate ale principalilor indicatori tehnico- economici și a devizului general pentru obiectivul de investiții „Reabilitarea, modernizarea și dotarea Teatrului Aureliu Manea, Turda” Consiliul Local al Municipiului Turda întrunit în ședința ordinară din data de 27.02.2020; Luând în dezbatere Proiectul de hotărâre inițiat de primarul Municipiului Turda, Cristian-Octav",
+   "url": "https://primariaturda.ro/hotararea-nr-55-privind-aprobarea-valorilor-actualizate-ale-principalilor-indicatori-tehnico-economici-si-a-devizului-general-pentru-obiectivul-de-investitii-reabilitarea-modernizarea-si-do/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/55%20din%2027.02.2020.pdf",
+     "sha256": "02bba60985fc50ae06bd288ea13612833ae16b0390b43654d405bc610b4372d7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--turda-59-2020",
    "path": "local/cluj/turda/2020/59",
    "short": "HCL Turda nr. 59/2020",
@@ -104,6 +764,156 @@
      "units": 1,
      "source_url": "http://primariaturda.ro/uploads/hcl/2020/59%20din%2027.02.2020.pdf",
      "sha256": "0e7a9d6b4bbcf308c839883df156b8a6c4c9777509b9c7fe2f174c7887468656"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-6-2020",
+   "path": "local/cluj/turda/2020/6",
+   "short": "HCL Turda nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 6/2020 privind aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru perioada ianuarie-februarie 2020 Consiliul Local al Municipiului Turda, întrunit în ședința extraordinară din data de 15.01.2020; Luând în dezbatere proiectul de hotărâre privind aprobarea aprobarea programului de activități al Casei de Cultură a municipiului Turda, pentru perioada ianuarie-februarie 2020",
+   "url": "https://primariaturda.ro/hotararea-nr-6-privind-aprobarea-programului-de-activitati-al-casei-de-cultura-a-municipiului-turda-pentru-perioada-ianuarie-februarie-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/6%20din%2015.01.2020.pdf",
+     "sha256": "17dff21fe284f4d1dd522d900b7a1e7735846336c9c481cb1ea3820c6498a6e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-62-2020",
+   "path": "local/cluj/turda/2020/62",
+   "short": "HCL Turda nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 62/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/62%20din%2009.03.2020.pdf",
+     "sha256": "825383bec5998e1298f30949d63fe4d0b7fce5189d36f66173d325914950246a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-65-2020",
+   "path": "local/cluj/turda/2020/65",
+   "short": "HCL Turda nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 65/2020 privind aprobarea unor măsuri pentru implementarea procesului de bugetare participativă la nivelul Municipiului Turda Consiliul Local al Municipiului Turda, intrunit în ședința extraordinara din data de 09.03.2020; Luând în dezbatere proiectul de hotărâre privind aprobarea unor măsuri pentru continuarea procesului de bugetare participativă la nivelul Municipiului Turda, elaborat din inițiativa Pri",
+   "url": "https://primariaturda.ro/hotararea-nr-65-privind-aprobarea-unor-masuri-pentru-implementarea-procesului-de-bugetare-participativa-la-nivelul-municipiului-turda/",
+   "versions": [
+    {
+     "from": "2020-03-09",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/65%20din%2009.03.2020.pdf",
+     "sha256": "e0b47905cc29368d51189b201756d909877c15cdbdc9a2d57d6371f26b74e538"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-67-2020",
+   "path": "local/cluj/turda/2020/67",
+   "short": "HCL Turda nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 67/2020 privind aprobarea prelungirii contractului de delegare a gestiunii serviciilor publice de salubrizare din municipiul Turda Consiliul Local al Municipiului Turda întrunit în ședința extraordinară din data de 13.03.2020",
+   "url": "https://primariaturda.ro/hotararea-nr-67-privind-aprobarea-prelungirii-contractului-de-delegare-a-gestiunii-serviciilor-publice-de-salubrizare-din-municipiul-turda/",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/67%20din%2013.03.2020.pdf",
+     "sha256": "949e2531d5093ab1a68df2383e4ddad5b45cd37595eb3a238f753f6566fa4502"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-68-2020",
+   "path": "local/cluj/turda/2020/68",
+   "short": "HCL Turda nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 68/2020 privind utilizarea Excedentului bugetar pentru finanțarea cheltuielilor secțiunii de funcționare Consiliul Local al municipiului Turda întrunit în ședință ordinara din data de 26.03.2020",
+   "url": "https://primariaturda.ro/hotararea-nr-68-privind-utilizarea-excedentului-bugetar-pentru-finantarea-cheltuielilor-sectiunii-de-functionare/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/68%20din%2026.03.2020.pdf",
+     "sha256": "29660a46eea722021aabce2288df403065adabfaed0b8267fb3c3c3225b3573e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-69-2020",
+   "path": "local/cluj/turda/2020/69",
+   "short": "HCL Turda nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 69/2020 privind rectificarea bugetului pe anul 2020 Consiliul Local al municipiului Turda întrunit în ședință ordinara din data de 26.03.2020",
+   "url": "https://primariaturda.ro/hotararea-nr-69-privind-rectificarea-bugetului-pe-anul-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/69%20din%2026.03.2020.pdf",
+     "sha256": "433842b1ffb07147c054aba9bdc1fa5e5ab98488aa628476a093c21e69605a2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-7-2020",
+   "path": "local/cluj/turda/2020/7",
+   "short": "HCL Turda nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 7/2020 privind atribuirea în regim de închiriere a unui spațiu cu destinația de sediu partid politic, situat administrativ în Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-7-privind-atribuirea-in-regim-de-inchiriere-a-unui-spatiu-cu-destinatia-de-sediu-partid-politic-situat-administrativ-in-turda-str-republicii-nr-38-ap-6-catre-partidul-national-lib/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/7%20din%2015.01.2020.pdf",
+     "sha256": "e6cc8b24b48bbe55b2ba9cf8868d4bedf39e59c5c660b3772d478987198528b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-73-2020",
+   "path": "local/cluj/turda/2020/73",
+   "short": "HCL Turda nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 73/2020 privind aprobarea PLANULUI ANUAL DE POLITICI PUBLICE LA NIVELUL INSTITUȚIEI PENTRU ANUL 2020 ȘI A POLITICILOR PUBLICE DIN SECTOARELE EDUCAȚIE, SĂNĂTATE, ASISTENȚĂ SOCIALĂ, MEDIU ȘI TRANSPORT, realizate în cadrul proiectului „ADEPT — Administrație digitală eficientă pentru cetățenii din Turda” Consiliul Local al Municipiului Turda întrunit în ședința ordinară din data de 26.03.2020; Luând în dezbat",
+   "url": "https://primariaturda.ro/hotararea-nr-73-privind-aprobarea-planului-anual-de-politici-publice-la-nivelul-institutiei-pentru-anul-2020-si-a-politicilor-publice-din-sectoarele-educatie-sanatate-asistenta-sociala-mediu-si-tr/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/73%20din%2026.03.2020.pdf",
+     "sha256": "9dfbd36d5dfcffe067b1dccdea4c8726aabbfc019be555ed5735f3256704ebf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-78-2020",
+   "path": "local/cluj/turda/2020/78",
+   "short": "HCL Turda nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 78/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/78%20din%2026.03.2020.pdf",
+     "sha256": "4b7ab2e2d37553cce2eec66a7f1be97ef3c87580a15f967499b1e34893265598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--turda-79-2020",
+   "path": "local/cluj/turda/2020/79",
+   "short": "HCL Turda nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Turda nr. 79/2020 privind aprobarea Planului Urbanistic de Detaliu — Construire locuințe unifamiliale în Municipiul Turda, str",
+   "url": "https://primariaturda.ro/hotararea-nr-79-privind-aprobarea-planului-urbanistic-de-detaliu-construire-locuinte-unifamiliale-in-municipiul-turda-str-univers-f-n/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "http://primariaturda.ro/uploads/hcl/2020/79%20din%2026.03.2020.pdf",
+     "sha256": "64e21bea3e2aa4e5c10c7074de90fdc77b3b20bc2cb1fd7a354f227f32554ecf"
     }
    ]
   }

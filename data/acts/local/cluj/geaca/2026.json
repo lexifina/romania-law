@@ -3,6 +3,50 @@
 "shard": "local/cluj/geaca/2026",
 "acts": [
 {
+"slug": "hcl-cluj--geaca-1-2026",
+"path": "local/cluj/geaca/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 1/2026 Privind acoperirea deficitului din excedentul de la finele anului 2025",
+"short": "HCL Geaca nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/246064",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-2-2026",
+"path": "local/cluj/geaca/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 2/2026 privind aprobarea caietului de sarcini si a documentatiei de atribuire pentru achiziția de servicii de catering pentru Programul National ,, Masă sănătoasă\"in anul 2026 , de acordare a unui suport alimentar tip masa calda (felul 2+desert/ fruct) pentru preșcolarii și elevii din Școala Gimnazială Geaca",
+"short": "HCL Geaca nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-19",
+"latest": "2026-01-19",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/246065",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--geaca-3-2026",
 "path": "local/cluj/geaca/2026/3",
 "kind": "local",
@@ -22,6 +66,248 @@
 "council_name": "Consiliul Local al Comunei Geaca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-4-2026",
+"path": "local/cluj/geaca/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 4/2026 privind inlocuirea si actualizarea membrilor Consiliului Comunitar Consultativ al comunei Geaca, judeţul Cluj",
+"short": "HCL Geaca nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/251914",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-5-2026",
+"path": "local/cluj/geaca/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 5/2026 privind aprobarea Programului anual al achiziţiilor publice pe anul 2026",
+"short": "HCL Geaca nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-06",
+"latest": "2026-02-06",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/251915",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-6-2026",
+"path": "local/cluj/geaca/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 6/2026 Privind utilizarea unei sume din excedentul de la finele anului 2025 , pentru plata facturii nr. ACG 714/11.12.2025 privind investitia “Dotare cu mobilier, materiale didactice si echipamente digitale a Scolii Gimnaziale Geaca, judetul Cluj,",
+"short": "HCL Geaca nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/252968",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-7-2026",
+"path": "local/cluj/geaca/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 7/2026 privind alegerea presedintelui de sedinta",
+"short": "HCL Geaca nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/254894",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-8-2026",
+"path": "local/cluj/geaca/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 8/2026 Privind utilizarea unei sume din excedentul de la finele anului 2025 , pentru plata facturii nr. MRB 0477 pentru servicii de consultanta proiecte pentru investitia \"Dezvoltare retea inteligenta de distributie a gazelor naturale , in satele Geaca, Lacu si Legii din Comuna Geaca, judetul Cluj",
+"short": "HCL Geaca nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/254895",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-9-2026",
+"path": "local/cluj/geaca/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 9/2026 privind aprobarea devizului general actualizat conform modificarii cotei de TVA pentru obiectivului de investiție „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC IN COMUNA GEACA”",
+"short": "HCL Geaca nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/254896",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-10-2026",
+"path": "local/cluj/geaca/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 10/2026 privind aprobarea programului de acţiune comunitară ce va fî realizat în anul 2026 la nivelul Comunei GEACA",
+"short": "HCL Geaca nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/254897",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-11-2026",
+"path": "local/cluj/geaca/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 11/2026 privind aprobarea: Metodologiei privind evaluarea nevoilor comunitatii din Comuna Geaca, Planului anual de actiune privind serviciile sociale pentru anul 2026, Strategiei de dezvoltare a serviciilor sociale acordate la nivelul Comunei Geaca 2026-2027",
+"short": "HCL Geaca nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/254898",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-12-2026",
+"path": "local/cluj/geaca/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 12/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE DRUMURI COMUNALE SI STRAZI DE INTERES LOCAL, COMUNA GEACA, JUDETUL CLUJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului dupa stribuirea contractului de executie si modificarea cotei de TVA",
+"short": "HCL Geaca nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/254899",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-13-2026",
+"path": "local/cluj/geaca/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 13/2026 privind retragerea Comunei Geaca din cadrul proiectului „ Furnizare de servicii integrate în comunităţile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate\"",
+"short": "HCL Geaca nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/260719",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-14-2026",
+"path": "local/cluj/geaca/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 14/2026 Privind utilizarea unei sume din excedentul de la finele anului 2025 , pentru plata unor facturi de investitii",
+"short": "HCL Geaca nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/260720",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +333,206 @@
 }
 },
 {
+"slug": "hcl-cluj--geaca-16-2026",
+"path": "local/cluj/geaca/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 16/2026",
+"short": "HCL Geaca nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/260722",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--geaca-17-2026",
+"path": "local/cluj/geaca/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 17/2026 privind referitor la însușirea Acordului de cooperare privind la organizarea şi funcționarea serviciului Dezvoltare rurală",
+"short": "HCL Geaca nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/260723",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-18-2026",
+"path": "local/cluj/geaca/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 18/2026 privind modificarea coeficientilor si stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Geaca, judeţul Cluj",
+"short": "HCL Geaca nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/260724",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-19-2026",
+"path": "local/cluj/geaca/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 19/2026 privind aprobarea raportului de evaluare in vederea stabilirii redeventei unor contracte de concesionare directa",
+"short": "HCL Geaca nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/263001",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-20-2026",
+"path": "local/cluj/geaca/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 20/2026",
+"short": "HCL Geaca nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/265846",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--geaca-21-2026",
+"path": "local/cluj/geaca/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 21/2026 Privind procedura de licitație în vederea închirierii pajiștilor rămase disponibile în anul 2026 prin rezilierea sau încetarea „Contractelor de închiriere”",
+"short": "HCL Geaca nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/265847",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-22-2026",
+"path": "local/cluj/geaca/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 22/2026 Privind aprobarea reorganizării aparatului de specialitate a Primarului comunei Geaca, aprobarea organigramei si a statului de funcții pentru anul 2026",
+"short": "HCL Geaca nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/265848",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-23-2026",
+"path": "local/cluj/geaca/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 23/2026 Privind modificarea coeficienților si stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Geaca, județul Cluj",
+"short": "HCL Geaca nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/265849",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-24-2026",
+"path": "local/cluj/geaca/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 24/2026 privind aprobarea bugetului local de venituri şi cheltuieli pe anul 2026",
+"short": "HCL Geaca nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/267693",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--geaca-25-2026",
 "path": "local/cluj/geaca/2026/25",
 "kind": "local",
@@ -66,6 +552,72 @@
 "council_name": "Consiliul Local al Comunei Geaca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-26-2026",
+"path": "local/cluj/geaca/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 26/2026 privind rectificarea bugetului de venituri şi cheltuieli pentru anul 2026, trimestrul II",
+"short": "HCL Geaca nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/269982",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-27-2026",
+"path": "local/cluj/geaca/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 27/2026 privind reaprobarea indicatorilor tehnico-economici pentru proiectul „Realizare capacitate de producție a energiei electrice din sursă regenerabilă solară, pentru consumul propriu al UAT Geaca, jud. Cluj” cod smis 315323",
+"short": "HCL Geaca nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-27",
+"latest": "2026-05-27",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/269983",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--geaca-28-2026",
+"path": "local/cluj/geaca/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 28/2026 privind alegerea presedintelui de sedinta",
+"short": "HCL Geaca nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/272750",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +662,28 @@
 "council_name": "Consiliul Local al Comunei Geaca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-31-2026",
+"path": "local/cluj/geaca/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 31/2026 privind rectificarea bugetului de venituri şi cheltuieli pentru anul 2026, trimestrul II",
+"short": "HCL Geaca nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/274686",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

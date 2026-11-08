@@ -3,6 +3,81 @@
  "shard": "local/cluj/huedin/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--huedin-115-2025",
+   "path": "local/cluj/huedin/2025/115",
+   "short": "HCL Huedin nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 115/2025 privind aprobarea ini!icrii procedurii de modillcare a Actului Constitutiv al SC SALTJBRITERM SERV SRL Consiliul Local l{uedin inlrunit in Ecdinla ordinari din data de 29 08 2025 ' AvAndinvedereadresanr..6T25l06.08'2025inaintatidec6trcSCSALUBRI.I.ERMSERVSRLprivind iniliereaprocedrrriidernodilicareaActuluiConstitutiv(Statutului)alsocietiliiSALUBRIT]]IIMSE,IIV SCoRrLpo,lcirnautsiivuedddipusrliievnai",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2025/09/HCL-nr.-115-29.08.2025-aprobare-initiere-procedura-modificare-Act-Constitutiv-SALUBRITERM-docx.pdf",
+     "sha256": "daaa17532025985c0d172d849b6b9fe9dd554200b045698121edf2a7fed82619"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-162-2025",
+   "path": "local/cluj/huedin/2025/162",
+   "short": "HCL Huedin nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 162/2025",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+     "sha256": "8b4f530e62e45ccc21c39e95dd81a1755d252add18a79d3be00379bdaabae9b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-178-2025",
+   "path": "local/cluj/huedin/2025/178",
+   "short": "HCL Huedin nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 178/2025 privind aprobarea Strategiei de tarilarc aferentd perioaclci 2026-2030, respectiv a forrrulei de calcLrl pclttru proiecnrl ,,Proiect regiona-l de dezvoltare a infrastructurii dc apa gi apd uzatl diniudetele Cluj Ei Sdlaj in perioada 2014-2020, ctapa a II-a\" Consiliul Local Huedin intrunit in qedin{a ordinari din data de I8.12.2025 ' Avdnd in vcclere adresa nr,832/20.11.2025 inaintatd de cdtre Asoc",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2025/12/HCL-nr.178-18.12.2025-aprobare-Strategiei-de-tarifare-aferenta-perioadei-2026-2030.pdf",
+     "sha256": "d49d8e7b9b10895aeb01442f6749a716b8157e6ce81168ecc5cf5d53b60032c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-181-2025",
+   "path": "local/cluj/huedin/2025/181",
+   "short": "HCL Huedin nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 181/2025 pentru buna des{Egurare a activitdlii Consiliul Local Huedin intrunit in gedinla ordinarl din data de 18'12'2025 ' Av6nd in vedere Comitetului Director adresa nr.10g7 510g.12.202-5 inaintata de c6tre Spitalul oragenesc Huedin ;i Hotirarile aI Spitalului origenesc Huedin nr.69l08.1 2.2025, nr.1 0108,12,2025, nr.71108,12.2025, nr.72l08.12.20259inr.73.08.12.2025din08.07,2025aComitetuluiDirectoralSpit",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2025/12/HCL-nr.181-18.12.2025-aprobare-transformarii-si-scoaterii-la-concurs-a-unor-posturi-vacante-SOH.pdf",
+     "sha256": "628ff3c198fd81259ae4fe2b019cb207fbabfbb7df1347095564b912b3f805c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-187-2025",
+   "path": "local/cluj/huedin/2025/187",
+   "short": "HCL Huedin nr. 187/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 187/2025 privind aprobarea actualizarii valolii activclor fixe ,,imprejmuire internat, str",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2025/12/HCL-nr.187-18.12.2025-aprobare-actualizare-valoare-active-fixe-finalizare-reparatii-Liceul-teoretic-O.-Goga-Huedin-si-cladire-internat.pdf",
+     "sha256": "fb88c5f3ab3402a737b1ed90b8fb5fea822b3194a9d5b2024083ae5f0fa60a68"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--huedin-190-2025",
    "path": "local/cluj/huedin/2025/190",
    "short": "HCL Huedin nr. 190/2025",
@@ -14,6 +89,36 @@
      "units": 1,
      "source_url": "https://primariahuedin.ro/wp-content/uploads/2026/10/HCL-nr.176-25.09.2026-aprobare-inchiriere-prin-licitatie-publica-perioada-de-1-an-a-spatiului-situat-in-oras-Huedin-str.-Vladeasa-nr.4B-jud.-Cluj-in-suprafata-totala-de-20mp.pdf",
      "sha256": "d49162ecdc8a6d5298332cf9b9c7d1f31cca90c6365e5259462334be405bee4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-22-2025",
+   "path": "local/cluj/huedin/2025/22",
+   "short": "HCL Huedin nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 22/2025 privind aprobarea coutului de execulie bugetarl a bugetului local a oraEului Huedin pe Sectiunea de Funclionare gi Secliunea de Dezvoltare, la data de 31.12.2024 - sursa A",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2025/02/H.C.L.-nr.-22-28.02.2025-aprobare-CONT-DE-EXECUTIE-BUGETARA-LA-31.12.2024.pdf",
+     "sha256": "048d5e2cb1a3d2441cb1f361d0b6f57f514748e5bbcad00403c2557fe64f7ec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--huedin-87-2025",
+   "path": "local/cluj/huedin/2025/87",
+   "short": "HCL Huedin nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Huedin nr. 87/2025 privind aprobarca situatiilor finanoiare pentru anul 2024 BILANTUL CONTABIL, CON1'UL DE PROFIT $l PIERDERE, la societatea Salubriterm Serv S.R.L",
+   "url": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://primariahuedin.ro/wp-content/uploads/2025/06/HCL-nr.-87-din-16.06.2025-aprobare-situatii-financiare-pentru-anul-2024-Salubriterm-Serv-SRL.pdf",
+     "sha256": "8a14469afb5aba1c1886351801ccc35569411d596e7ac13416c4a18654a70a89"
     }
    ]
   }

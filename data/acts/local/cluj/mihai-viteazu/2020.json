@@ -113,6 +113,52 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-6-2020",
+"path": "local/cluj/mihai-viteazu/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 6/2020",
+"short": "HCL Mihai Viteazu nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/5509",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-7-2020",
+"path": "local/cluj/mihai-viteazu/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 7/2020",
+"short": "HCL Mihai Viteazu nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/5510",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-9-2020",
 "path": "local/cluj/mihai-viteazu/2020/9",
 "kind": "local",
@@ -154,6 +200,52 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-12-2020",
+"path": "local/cluj/mihai-viteazu/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 12/2020",
+"short": "HCL Mihai Viteazu nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/5587",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-13-2020",
+"path": "local/cluj/mihai-viteazu/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 13/2020",
+"short": "HCL Mihai Viteazu nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-14",
+"latest": "2020-02-14",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/5588",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -269,6 +361,29 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-19-2020",
+"path": "local/cluj/mihai-viteazu/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 19/2020",
+"short": "HCL Mihai Viteazu nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/5611",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-20-2020",
 "path": "local/cluj/mihai-viteazu/2020/20",
 "kind": "local",
@@ -288,6 +403,28 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-21-2020",
+"path": "local/cluj/mihai-viteazu/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 21/2020 privind aprobarea închirierii pășunilor disponibile aflate în proprietatea privată a comunei Mihai Viteazu, județul Cluj",
+"short": "HCL Mihai Viteazu nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/5613",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -706,6 +843,29 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-41-2020",
+"path": "local/cluj/mihai-viteazu/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 41/2020",
+"short": "HCL Mihai Viteazu nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-21",
+"latest": "2020-07-21",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/6512",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

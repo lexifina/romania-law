@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/sancraiu/2021",
+"acts": [
+{
+"slug": "hcl-cluj--sancraiu-24-2021",
+"path": "local/cluj/sancraiu/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 24/2021 Privind revocarea HCL cu nr. 24-28.05.2021, privind aprobarea patrimoniului public și privat al comunei Sâncraiu pentru anul 2020",
+"short": "HCL Sâncraiu nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://sancraiu.ro/ro/hotarari-2021/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

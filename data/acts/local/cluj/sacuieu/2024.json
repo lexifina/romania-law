@@ -3,6 +3,270 @@
 "shard": "local/cluj/sacuieu/2024",
 "acts": [
 {
+"slug": "hcl-cluj--sacuieu-1-2024",
+"path": "local/cluj/sacuieu/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 1/2024 privind rețeaua școlară pe raza UAT-Comuna Săcuieu, Județul Cluj pentru anul școlar 2024-2025",
+"short": "HCL Săcuieu nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149671",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-2-2024",
+"path": "local/cluj/sacuieu/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 2/2024 privind aprobarea bugetului local pe anul 2024",
+"short": "HCL Săcuieu nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149680",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-3-2024",
+"path": "local/cluj/sacuieu/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 3/2024 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna decembrie 2023 a drepturilor bănești aferente personalului didactic de la Școala Gimnazială Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149681",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-4-2024",
+"path": "local/cluj/sacuieu/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 4/2024 privind însușirea Acordului de cooperare privind organizarea și funcționarea serviciului audit public intern",
+"short": "HCL Săcuieu nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149682",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-5-2024",
+"path": "local/cluj/sacuieu/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 5/2024 privind aprobarea acordului de parteneriat între Primăria Săcuieu și Biblioteca Județeană „Octavian Goga” Cluj în vederea depunerii proiectului ”ClujDigitalHub@BibliotecaTa” finanțat prin PNRR, în cadrul apelului de proiecte „Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a competențelor digitale”, Apelul nr.2",
+"short": "HCL Săcuieu nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149683",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-6-2024",
+"path": "local/cluj/sacuieu/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 6/2024 privind aprobarea demarării procedurilor în vederea scoaterii definive din circuitul agricol a suprafeței de 1200 mp. teren extravilan din CF 52964, pentru realizare capacitate de producere a energiei electrice din surse regenerabile pentru autoconsumul comunei Săcuieu, județul Cluj",
+"short": "HCL Săcuieu nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149684",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-7-2024",
+"path": "local/cluj/sacuieu/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 7/2024 privind aprobarea completării Strategiei de dezvoltare locală a Comunei Săcuieu pentru perioada 2022-2027",
+"short": "HCL Săcuieu nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149685",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-8-2024",
+"path": "local/cluj/sacuieu/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 8/2024 privind aprobarea documentației tehnico-economice fata SF și a principalilor indicatori tehnico-economici pentru proiectul „Alimentare cu apă și colectarea apelor uzate în comuna Săcuieu, județul Cluj”",
+"short": "HCL Săcuieu nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149686",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-9-2024",
+"path": "local/cluj/sacuieu/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 9/2024 privind revocare hotărârii nr. 7/05.02.2024 privind aprobarea completării Strategiei de dezvoltare locală a Comunei Săcuieu pentru perioada 2022-2027",
+"short": "HCL Săcuieu nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149687",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-10-2024",
+"path": "local/cluj/sacuieu/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 10/2024 privind aprobarea Strategiei de Dezvoltare Locală a comunei Săcuieu pentru perioada 2022-2027",
+"short": "HCL Săcuieu nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149688",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-11-2024",
+"path": "local/cluj/sacuieu/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 11/2024 privind alegerea președintelui de ședință pentru lunile martie, aprilie și mai 2024",
+"short": "HCL Săcuieu nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149692",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-12-2024",
+"path": "local/cluj/sacuieu/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 12/2024 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna ianuarie 2024 a drepturilor bănești aferente personalului didactic de la Școala Gimnazială Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149693",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-13-2024",
 "path": "local/cluj/sacuieu/2024/13",
 "kind": "local",
@@ -69,6 +333,116 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-16-2024",
+"path": "local/cluj/sacuieu/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 16/2024 privind aprobare contractare de servicii juridice externalizate pentru anul 2024",
+"short": "HCL Săcuieu nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149697",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-17-2024",
+"path": "local/cluj/sacuieu/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 17/2024 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „MODERNIZARE DRUMURI TURISTICE ȘI UTILE ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Săcuieu nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149698",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-18-2024",
+"path": "local/cluj/sacuieu/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 18/2024 privind rectificarea bugetului local nr.2, pe anul 2024",
+"short": "HCL Săcuieu nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149699",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-19-2024",
+"path": "local/cluj/sacuieu/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 19/2024 privind aprobarea unor măsuri pentru implementarea Programului național „Masă sănătoasă”, de acordare a unui suport alimentar elevilor de la Școala Gimnazială Săcuieu și Structurii Rogojel",
+"short": "HCL Săcuieu nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/149700",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-20-2024",
+"path": "local/cluj/sacuieu/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 20/2024 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna februarie 2024 a drepturilor bănești aferente personalului didactic de la Școala Gimnazială Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/209110",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-21-2024",
 "path": "local/cluj/sacuieu/2024/21",
 "kind": "local",
@@ -113,6 +487,50 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-23-2024",
+"path": "local/cluj/sacuieu/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 23/2024 privind aprobarea devizului general actualizat pentru obiectivul de investiții „MODERNIZARE DISPENSAR UMAN ÎN COMUNA SĂCUIEU, JUDEȚUL CLUJ” aprobat pentru finanțare prin Programul Național de Redresare și Reziliență, Componenta C10-Fondul local",
+"short": "HCL Săcuieu nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/209116",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-24-2024",
+"path": "local/cluj/sacuieu/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 24/2024 privind aprobarea prelungirii pană la data de 30.12.2024 a Scrisorii de Garanție nr. 63/18.03.2022 de la FNGCIMM S.A.-IFN în valoare 243.000,00 lei destinată acoperirii în proporție de 100% a avansului de 243.000,00 lei conform Contractului de finanțare nerambursabila nr. C1920072X206061302267/13.05.2019, cu modificările și completările ulterioare încheiate cu AFIR",
+"short": "HCL Săcuieu nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/209117",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-25-2024",
 "path": "local/cluj/sacuieu/2024/25",
 "kind": "local",
@@ -154,6 +572,28 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-27-2024",
+"path": "local/cluj/sacuieu/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 27/2024 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna martie 2024 a drepturilor bănești aferente personalului didactic de la Școala Gimnaziala Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211004",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +730,50 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-34-2024",
+"path": "local/cluj/sacuieu/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 34/2024 privind aprobarea situațiilor financiare pe trimestrul I 2024",
+"short": "HCL Săcuieu nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211026",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-35-2024",
+"path": "local/cluj/sacuieu/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 35/2024 privind indexarea impozitelor și taxelor locale pentru anul 2025 cu rata inflației de 10,4%",
+"short": "HCL Săcuieu nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211028",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-36-2024",
 "path": "local/cluj/sacuieu/2024/36",
 "kind": "local",
@@ -331,6 +815,50 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-38-2024",
+"path": "local/cluj/sacuieu/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 38/2024 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna aprilie 2024 a drepturilor bănești aferente personalului didactic de la Școala Gimnaziala Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211060",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-39-2024",
+"path": "local/cluj/sacuieu/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 39/2024 privind alegerea președintelui de ședință pentru lunile iunie, iulie și august 2024",
+"short": "HCL Săcuieu nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211062",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -400,6 +928,72 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-43-2024",
+"path": "local/cluj/sacuieu/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 43/2024 privind aprobarea Consiliului Local al comunei Săcuieu a sumei de 1000 lei pentru Școala Gimnazială Săcuieu în vederea acordării unor premii pentru 2 elevi cu rezultate deosebite la concursurile și olimpiadele școlare",
+"short": "HCL Săcuieu nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211082",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-44-2024",
+"path": "local/cluj/sacuieu/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 44/2024 privind rectificarea Bugetului Local nr. 3, pe anul 2024",
+"short": "HCL Săcuieu nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211090",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-45-2024",
+"path": "local/cluj/sacuieu/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 45/2024 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna mai 2024 a drepturilor bănești aferente personalului didactic de la Școala Gimnazială Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211094",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-46-2024",
 "path": "local/cluj/sacuieu/2024/46",
 "kind": "local",
@@ -419,6 +1013,28 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-47-2024",
+"path": "local/cluj/sacuieu/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 47/2024 privind aprobare acces din drumul public și realizare bransamente pentru investiția-Construire pensiune și anexe, amenajări exterioare, amplasare bazin vidanjabil etans, racorduri și bransamente utilități, împrejmuire pentru imobil teren situat în comuna Săcuieu, sat Rogojel, identificat cu CF nr. 52005",
+"short": "HCL Săcuieu nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211110",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -510,6 +1126,50 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-52-2024",
+"path": "local/cluj/sacuieu/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 52/2024 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna iunie 2024 a drepturilor bănești aferente personalului didactic de la Școala Gimnaziala Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211133",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-53-2024",
+"path": "local/cluj/sacuieu/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 53/2024 privind rectificarea bugetului local nr. 4, pe anul 2024",
+"short": "HCL Săcuieu nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211134",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-54-2024",
 "path": "local/cluj/sacuieu/2024/54",
 "kind": "local",
@@ -598,6 +1258,72 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-58-2024",
+"path": "local/cluj/sacuieu/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 58/2024 privind aprobarea încetării activității serviciului social-Centru de zi pentru consiliere și sprijin pentru părinți și copii",
+"short": "HCL Săcuieu nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211163",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-59-2024",
+"path": "local/cluj/sacuieu/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 59/2024 privind aprobarea Consiliului Local al Comunei Săcuieu de a emite acordul comunei privind „Construire centru de zi pentru copii aflați în situație de risc de separare de părinți în comuna Săcuieu, județul Cluj”",
+"short": "HCL Săcuieu nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211164",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-60-2024",
+"path": "local/cluj/sacuieu/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 60/2024 privind rectificarea bugetului local nr. 5, pe anul 2024",
+"short": "HCL Săcuieu nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211165",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-61-2024",
 "path": "local/cluj/sacuieu/2024/61",
 "kind": "local",
@@ -644,6 +1370,28 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-63-2024",
+"path": "local/cluj/sacuieu/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 63/2024 privind rectificare suprafață și geometrie CF-52984",
+"short": "HCL Săcuieu nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211176",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-64-2024",
 "path": "local/cluj/sacuieu/2024/64",
 "kind": "local",
@@ -666,6 +1414,28 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-65-2024",
+"path": "local/cluj/sacuieu/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 65/2024 privind aprobarea Consiliului Local al comunei Săcuieu pentru lunile iulie și august 2024 a drepturilor bănești aferente personalului didactic de la Școala Gimnaziala Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-04",
+"latest": "2025-06-04",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211197",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-66-2024",
 "path": "local/cluj/sacuieu/2024/66",
 "kind": "local",
@@ -685,6 +1455,28 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-67-2024",
+"path": "local/cluj/sacuieu/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 67/2024 privind alegerea președintelui de ședință pentru lunile noiembrie, decembrie 2024 și ianuarie 2025",
+"short": "HCL Săcuieu nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-04",
+"latest": "2025-06-04",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211202",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

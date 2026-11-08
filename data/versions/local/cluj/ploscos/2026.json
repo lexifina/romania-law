@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--ploscos-17-2026",
+   "path": "local/cluj/ploscos/2026/17",
+   "short": "HCL Ploscoș nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 17/2026 privind actualizarea taxei de închiriere a utilajului-buldoexcavator aflat în proprietatea comunei Ploscoș",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/261950",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/261950",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-18-2026",
    "path": "local/cluj/ploscos/2026/18",
    "short": "HCL Ploscoș nr. 18/2026",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--ploscos-23-2026",
+   "path": "local/cluj/ploscos/2026/23",
+   "short": "HCL Ploscoș nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 23/2026 privind constatarea, validarea și confirmarea nivelurilor salariilor de bază brute și ale indemnizațiilor lunare acordate în anul 2024, funcționarilor publici, personalului contractual din cadrul aparatului de specialitate al primarului comunei Ploscoș, precum și demnitarilor locali",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/274491",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/274491",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--ploscos-24-2026",
    "path": "local/cluj/ploscos/2026/24",
    "short": "HCL Ploscoș nr. 24/2026",
@@ -223,6 +253,21 @@
      "from": "2026-06-18",
      "units": 1,
      "source_url": "https://emol.ro/ploscos-cj/registru-hcl/274492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--ploscos-25-2026",
+   "path": "local/cluj/ploscos/2026/25",
+   "short": "HCL Ploscoș nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ploscoș nr. 25/2026 privind întocmirea unui studiu de oportunitate și stabilirea redevenței în vederea concesionării unor terenuri în suprafață totală de 22.823 mp aparținând domeniului privat al comunei Ploscoș, pentru realizarea unor investiții miniere pentru extracție și procesare sustenabilă a sării de înaltă puritate",
+   "url": "https://emol.ro/ploscos-cj/registru-hcl/274493",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ploscos-cj/registru-hcl/274493",
      "sha256": null
     }
    ]

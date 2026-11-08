@@ -91,6 +91,72 @@
 }
 },
 {
+"slug": "hcl-cluj--moldovenesti-5-2026",
+"path": "local/cluj/moldovenesti/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 5/2026 privind prelungirea mandatului administratorilor provizorii în Consiliul de administrație al societății Transport Urban Public SRL",
+"short": "HCL Moldovenești nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/248039",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-6-2026",
+"path": "local/cluj/moldovenesti/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 6/2026 privind alegerea președintelui de ședință pe următorii 3 luni",
+"short": "HCL Moldovenești nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/254486",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-7-2026",
+"path": "local/cluj/moldovenesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 7/2026 privind emiterea avizului solicitat prin Certificatul de urbanism nr.28 din 17.09.2025 pentru obiectivul Elaborare D.T.A.C -Menținere amplasament a fundației realizate din beton armat cu pereți de cărămidă executată fără autorizație de construire în vederea edificării unei locuințe unifamiliale,garaj,carport,zid de sprijin și împrejmurie parțială,imobil situat în loc Bădeni,nr.46",
+"short": "HCL Moldovenești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/254487",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--moldovenesti-8-2026",
 "path": "local/cluj/moldovenesti/2026/8",
 "kind": "local",
@@ -157,6 +223,50 @@
 }
 },
 {
+"slug": "hcl-cluj--moldovenesti-11-2026",
+"path": "local/cluj/moldovenesti/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 11/2026 privind emiterea avizului solicitat prin Certificatul de urbanism nr.3 din 25.02.2026 pentru obiectivul Elaborare D.T.A.C -Elaborare documentație pentru autorizarea executării lucrărilor de construire a obiectivului -Construire locuință unifamilială,anexă și foișor,refcere împrejmuire,racorduri și branșamente ,imobil situat în loc Stejeriș,nr.FN",
+"short": "HCL Moldovenești nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/261085",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-12-2026",
+"path": "local/cluj/moldovenesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 12/2026 privind privind emiterea avizului solicitat prin Certificatul de urbanism nr.4 din 25.02.2026 pentru obiectivul Elaborare D.T.A.C -Elaborare documentație pentru autorizarea executării lucrărilor de construire a obiectivului -Construire locuință unifamilială,anexă și foișor,refcere împrejmuire,racorduri și branșamente ,imobil situat în loc Stejeriș,nr.FN",
+"short": "HCL Moldovenești nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/261086",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--moldovenesti-13-2026",
 "path": "local/cluj/moldovenesti/2026/13",
 "kind": "local",
@@ -176,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Moldovenești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-14-2026",
+"path": "local/cluj/moldovenesti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 14/2026 privind actualizarea contractului de delegare a serviciului public de gestionare a câinilor fără stăpân",
+"short": "HCL Moldovenești nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/261088",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +333,51 @@
 }
 },
 {
+"slug": "hcl-cluj--moldovenesti-16-2026",
+"path": "local/cluj/moldovenesti/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 16/2026",
+"short": "HCL Moldovenești nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/264615",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-17-2026",
+"path": "local/cluj/moldovenesti/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 17/2026 privind indexarea impozitelor și taxelor locale, precum și limitele amenzilor care se fac venit la bugetul local, care se indexează anual pe baza ratei inflației, aplicabile în anul fiscal 2027",
+"short": "HCL Moldovenești nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/264616",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--moldovenesti-18-2026",
 "path": "local/cluj/moldovenesti/2026/18",
 "kind": "local",
@@ -220,6 +397,358 @@
 "council_name": "Consiliul Local al Comunei Moldovenești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-19-2026",
+"path": "local/cluj/moldovenesti/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 19/2026 privind alegerea președintelui de ședință",
+"short": "HCL Moldovenești nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/266408",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-20-2026",
+"path": "local/cluj/moldovenesti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 20/2026 privind privind aprobarea încheierii contractului de custodie și a modelului acestuia, în cadrul proiectului: “Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale Moldovenesti, comuna Moldovenești, județul Cluj \", finantat prin Programul National de Redresare și Reziliență, Componenta C15: Educație",
+"short": "HCL Moldovenești nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/266409",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-21-2026",
+"path": "local/cluj/moldovenesti/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 21/2026 privind privind aprobarea DALI-ului aferent proiectului: „REABILITARE, MODERNIZARE, EXTINDERE SI RECOMPARTIMENTARE INTERIOARA CORP C1 – DISPENSAR PLAIESTI”",
+"short": "HCL Moldovenești nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/266410",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-22-2026",
+"path": "local/cluj/moldovenesti/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 22/2026 privind privind implementarea proiectului „REABILITARE, MODERNIZARE, EXTINDERE SI RECOMPARTIMENTARE INTERIOARA CORP C1 – DISPENSAR PLAIESTI",
+"short": "HCL Moldovenești nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-18",
+"latest": "2026-05-18",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/266411",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-23-2026",
+"path": "local/cluj/moldovenesti/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 23/2026 privind însușirea Acordului de cooperare privind organizarea și funcționarea serviciului Dezvoltare rurală",
+"short": "HCL Moldovenești nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/271990",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-24-2026",
+"path": "local/cluj/moldovenesti/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 24/2026 privind aprobarea organizarii si desfasurarii in comuna Moldovenești a evenimentului dedicat Zilei de 1 Iunie – Ziua Internationala a Copilului si alocarea sumei necesare desfășurării in bune conditii a acestuia",
+"short": "HCL Moldovenești nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/271991",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-25-2026",
+"path": "local/cluj/moldovenesti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 25/2026 privind modificarea art. 6 al Hotărârii nr. 33 din 18.06.2025 al Consiliului local Moldovenești",
+"short": "HCL Moldovenești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275048",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-26-2026",
+"path": "local/cluj/moldovenesti/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 26/2026 privind eliberarea avizului specific solicitat prin Certificatul de urbanism nr.8 din 18.03.2026 eliberat de Primăria comunei Moldovenești în vederea realizării unor lucrări pe domeniul public al comunei pentru obiectivul -Elaborare documentație pentru autorizarea executării lucrărilor de construire a obiectivului -”REABILITARE,MODERNIZARE,EXTINDERE ȘI RECOMPARTIMENTARE INTERIOARĂ CORP C1-DISPENSAR PLĂIEȘTI”",
+"short": "HCL Moldovenești nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275049",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-27-2026",
+"path": "local/cluj/moldovenesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 27/2026 privind însușirea Raportului final al Comisiei de selecție și nominalizare a candidaților pentru ocuparea posturilor de membru în Consiliul de administrație al societății Transport Urban Public SRL și numirea membrilor în Consiliul de administrație al societății Transport Urban Public SRL",
+"short": "HCL Moldovenești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275050",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-28-2026",
+"path": "local/cluj/moldovenesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 28/2026 privind îndreptarea erorii materiale la poziția nr.114 din inventarul bunurilor care aparțin domeniului public al comunei Moldovenești",
+"short": "HCL Moldovenești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275051",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-29-2026",
+"path": "local/cluj/moldovenesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 29/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat în urma modificării cotei legale de TVA de 21% pentru obiectivul de investiții ”Extindere rețea de alimentare cu apă în loc.Pietroasa,Comuna Moldovenești,jud.Cluj”",
+"short": "HCL Moldovenești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275052",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-30-2026",
+"path": "local/cluj/moldovenesti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 30/2026 Privind aprobarea transformării lemnului rotund în lemn de foc,stabilirea prețului de vânzare către populație, pe mc la drum auto și aprobarea cotei anuale de lemn foc pentru populație",
+"short": "HCL Moldovenești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275053",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-31-2026",
+"path": "local/cluj/moldovenesti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 31/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat în urma modificării cotei legale de TVA de 21% pentru obiectivul ”Rețea de canalizare în localitățile Moldovenești și Plăiești,Comuna Moldovenești,jud.Cluj” aprobat pentru finanțare prin Programul național de investiții ”Anghel Saligny”,precum și a sumei reprezentând categoriile de cheltuieli finanțate din bugetul local pentru realizarea obiectivului;",
+"short": "HCL Moldovenești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275054",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-32-2026",
+"path": "local/cluj/moldovenesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 32/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții pentru proiectul:”Creșterea eficienței energetice pentru Clădirea publică situată în localitatea Moldovenești,nr.360Bis,comuna Moldovenești,jud.Cluj;",
+"short": "HCL Moldovenești nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275055",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-33-2026",
+"path": "local/cluj/moldovenesti/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 33/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții pentru proiectul:”Creșterea eficienței energetice a Școlii generale din localitatea Moldovenești,nr.360A,comuna Moldovenești,jud.Cluj;",
+"short": "HCL Moldovenești nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275056",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-34-2026",
+"path": "local/cluj/moldovenesti/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 34/2026 privind menținerea cotizației pentru asigurarea continuității și funcționării Asociației PAZIA, la nivelul anului 2025,respectiv la 980 lei lunar pentru anul 2026",
+"short": "HCL Moldovenești nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275057",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +774,116 @@
 }
 },
 {
+"slug": "hcl-cluj--moldovenesti-36-2026",
+"path": "local/cluj/moldovenesti/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 36/2026 privind revocarea Hotărârii de consiliu local având nr.14 din 26.03.2026 cu privire la actualizarea contractului de delegare a serviciului public de gestionare a câinilor fără stăpân",
+"short": "HCL Moldovenești nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275059",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-37-2026",
+"path": "local/cluj/moldovenesti/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 37/2026 privind aprobarea de principiu a încheierii unui parteneriat între FINAS INVEST SRL și Consiliul local al comunei Moldovenești în vederea asigurării accesului la terenurile cu nr. cadastral: .56057,56061,56013,56007,56009,56015,56017,56031 aflate în proprietatea FINAS INVEST SRL,după elaborare documentației necesare în vederii realizării lucrării;",
+"short": "HCL Moldovenești nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275060",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-38-2026",
+"path": "local/cluj/moldovenesti/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 38/2026 privind eliberarea avizului specific solicitat prin Certificatul de urbanism nr.9 din 18.03.2026 eliberat de Primăria comunei Moldovenești în vederea realizării unor lucrări pe domeniul public al comunei pentru obiectivul -Elaborare documentație pentru autorizarea executării lucrărilor de construire a obiectivului -”REABILITARE,MODERNIZARE,EXTINDERE ȘI RECOMPARTIMENTARE INTERIOARĂ CORP C2 FARMACIE PLĂIEȘTI”",
+"short": "HCL Moldovenești nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275061",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-39-2026",
+"path": "local/cluj/moldovenesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 39/2026 privind cuantumul burselor de merit/excelență ce se pot acorda din partea autorităților publice locale,",
+"short": "HCL Moldovenești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/275062",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-40-2026",
+"path": "local/cluj/moldovenesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 40/2026 privind aprobarea actului adițional nr.1 la Acordul de cooperare privind organizarea și funcționarea serviciului de Dezvoltare Rurală însușit prin HCL nr.23/19.05.2026",
+"short": "HCL Moldovenești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/279818",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--moldovenesti-41-2026",
 "path": "local/cluj/moldovenesti/2026/41",
 "kind": "local",
@@ -264,6 +903,73 @@
 "council_name": "Consiliul Local al Comunei Moldovenești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-42-2026",
+"path": "local/cluj/moldovenesti/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 42/2026 privind aprobarea Actului adițional nr.1 la Contractul de cooperare privind organizarea și funcționarea serviciului Dezvoltare Rurală însuțit prin HCL nr.56/12.08.2024",
+"short": "HCL Moldovenești nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/279820",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-43-2026",
+"path": "local/cluj/moldovenesti/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 43/2026 privind privind eliberarea avizului specific solicitat prin Certificatul de urbanism nr.37 din 10.12.2025 eliberat de Primăria comunei Moldovenești în vederea realizării unor lucrări pe domeniul public al comunei pentru obiectivul -Elaborare documentație pentru autorizarea executării lucrărilor de construire a obiectivului -”MODERNIZARE ȘI MANSARDARE C1,CONSTRUIRE ANEXĂ ȘI PERGOLĂ,ACCES NOU,ÎMPREJMUIRE,BAZIN ETANȘ VIDANJABIL,AMENAJĂRI EXTERIOARE.” situat în com.Moldovenești,sat Podeni,beneficiari fiind Crișan Maria-Olimpia și Crișan Daniel-Sorin",
+"short": "HCL Moldovenești nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/279821",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--moldovenesti-44-2026",
+"path": "local/cluj/moldovenesti/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 44/2026",
+"short": "HCL Moldovenești nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-10",
+"latest": "2026-08-10",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/279822",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

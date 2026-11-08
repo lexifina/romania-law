@@ -3,6 +3,28 @@
 "shard": "local/cluj/fizesu-gherlii/2025",
 "acts": [
 {
+"slug": "hcl-cluj--fizesu-gherlii-1-2025",
+"path": "local/cluj/fizesu-gherlii/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 1/2025 privind alegerea președintelui de ședință",
+"short": "HCL Fizeșu Gherlii nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/fizesugherlii-cj/registru-hcl/189556",
+"council": "cluj/fizesu-gherlii",
+"council_name": "Consiliul Local al Comunei Fizeșu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--fizesu-gherlii-2-2025",
 "path": "local/cluj/fizesu-gherlii/2025/2",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Fizeșu Gherlii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--fizesu-gherlii-3-2025",
+"path": "local/cluj/fizesu-gherlii/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 3/2025 privind aprobarea închirierii prin licitaţie publică a terenurilor agricole din proprietatea privata a comunei Fizeșu Gherlii,",
+"short": "HCL Fizeșu Gherlii nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/fizesugherlii-cj/registru-hcl/189558",
+"council": "cluj/fizesu-gherlii",
+"council_name": "Consiliul Local al Comunei Fizeșu Gherlii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -111,6 +155,50 @@
 "council_name": "Consiliul Local al Comunei Fizeșu Gherlii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--fizesu-gherlii-8-2025",
+"path": "local/cluj/fizesu-gherlii/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 8/2025 privind acordarea ajutorului financiar cultelor religioase de pe raza comunei Fizesu-Gherlii",
+"short": "HCL Fizeșu Gherlii nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/fizesugherlii-cj/registru-hcl/199491",
+"council": "cluj/fizesu-gherlii",
+"council_name": "Consiliul Local al Comunei Fizeșu Gherlii",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--fizesu-gherlii-9-2025",
+"path": "local/cluj/fizesu-gherlii/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 9/2025 privind alegerea președintelui de ședință",
+"short": "HCL Fizeșu Gherlii nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/fizesugherlii-cj/registru-hcl/202385",
+"council": "cluj/fizesu-gherlii",
+"council_name": "Consiliul Local al Comunei Fizeșu Gherlii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -375,6 +463,28 @@
 "council_name": "Consiliul Local al Comunei Fizeșu Gherlii",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--fizesu-gherlii-22-2025",
+"path": "local/cluj/fizesu-gherlii/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 22/2025 privind alegerea președintelui de ședință",
+"short": "HCL Fizeșu Gherlii nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-14",
+"latest": "2025-10-14",
+"portal": "https://emol.ro/fizesugherlii-cj/registru-hcl/217243",
+"council": "cluj/fizesu-gherlii",
+"council_name": "Consiliul Local al Comunei Fizeșu Gherlii",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

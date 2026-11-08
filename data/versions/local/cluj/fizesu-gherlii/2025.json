@@ -3,6 +3,21 @@
  "shard": "local/cluj/fizesu-gherlii/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--fizesu-gherlii-1-2025",
+   "path": "local/cluj/fizesu-gherlii/2025/1",
+   "short": "HCL Fizeșu Gherlii nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 1/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/189556",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/189556",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--fizesu-gherlii-10-2025",
    "path": "local/cluj/fizesu-gherlii/2025/10",
    "short": "HCL Fizeșu Gherlii nr. 10/2025",
@@ -198,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--fizesu-gherlii-22-2025",
+   "path": "local/cluj/fizesu-gherlii/2025/22",
+   "short": "HCL Fizeșu Gherlii nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 22/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/217243",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/217243",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--fizesu-gherlii-23-2025",
    "path": "local/cluj/fizesu-gherlii/2025/23",
    "short": "HCL Fizeșu Gherlii nr. 23/2025",
@@ -298,6 +328,21 @@
      "from": "2025-10-14",
      "units": 1,
      "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/220363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-3-2025",
+   "path": "local/cluj/fizesu-gherlii/2025/3",
+   "short": "HCL Fizeșu Gherlii nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 3/2025 privind aprobarea închirierii prin licitaţie publică a terenurilor agricole din proprietatea privata a comunei Fizeșu Gherlii,",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/189558",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/189558",
      "sha256": null
     }
    ]
@@ -733,6 +778,36 @@
      "from": "2025-06-10",
      "units": 1,
      "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/199490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-8-2025",
+   "path": "local/cluj/fizesu-gherlii/2025/8",
+   "short": "HCL Fizeșu Gherlii nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 8/2025 privind acordarea ajutorului financiar cultelor religioase de pe raza comunei Fizesu-Gherlii",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/199491",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/199491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--fizesu-gherlii-9-2025",
+   "path": "local/cluj/fizesu-gherlii/2025/9",
+   "short": "HCL Fizeșu Gherlii nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Fizeșu Gherlii nr. 9/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/fizesugherlii-cj/registru-hcl/202385",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/fizesugherlii-cj/registru-hcl/202385",
      "sha256": null
     }
    ]

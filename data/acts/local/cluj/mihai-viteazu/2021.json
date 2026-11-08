@@ -48,6 +48,29 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-3-2021",
+"path": "local/cluj/mihai-viteazu/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 3/2021",
+"short": "HCL Mihai Viteazu nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-19",
+"latest": "2021-01-19",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/14940",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-4-2021",
 "path": "local/cluj/mihai-viteazu/2021/4",
 "kind": "local",
@@ -203,6 +226,29 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-11-2021",
+"path": "local/cluj/mihai-viteazu/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 11/2021",
+"short": "HCL Mihai Viteazu nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-19",
+"latest": "2021-01-19",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/14948",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-12-2021",
 "path": "local/cluj/mihai-viteazu/2021/12",
 "kind": "local",
@@ -222,6 +268,50 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-13-2021",
+"path": "local/cluj/mihai-viteazu/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 13/2021 privind aprobarea lucrărilor pe domeniul public al Comunei Mihai Viteazu , -Lucrări de Realizare branșamente și racorduri la rețele de utilități și acordul Comunei Mihai Viteazu pentru funcțiune propusă , aferent obiectivului de investiție, Construire Oficiu Central pentru rețea fibră optică având ca beneficiar Societatea Orange România S.A",
+"short": "HCL Mihai Viteazu nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-16",
+"latest": "2021-02-16",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/18479",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-14-2021",
+"path": "local/cluj/mihai-viteazu/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 14/2021 privind aprobarea lucrărilor pe domeniul public al Comunei Mihai Viteazu , aferent obiectivului de investiție Constituirea Rețea Fixă de Telecomunicații FTTH Orange în Comuna Mihai Viteazu, jud Cluj",
+"short": "HCL Mihai Viteazu nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-16",
+"latest": "2021-02-16",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/18480",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -310,6 +400,29 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-19-2021",
+"path": "local/cluj/mihai-viteazu/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 19/2021",
+"short": "HCL Mihai Viteazu nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-16",
+"latest": "2021-03-16",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/20084",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -445,6 +558,29 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-26-2021",
+"path": "local/cluj/mihai-viteazu/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 26/2021",
+"short": "HCL Mihai Viteazu nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-28",
+"latest": "2021-04-28",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/23691",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-27-2021",
 "path": "local/cluj/mihai-viteazu/2021/27",
 "kind": "local",
@@ -464,6 +600,29 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-28-2021",
+"path": "local/cluj/mihai-viteazu/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 28/2021",
+"short": "HCL Mihai Viteazu nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-28",
+"latest": "2021-04-28",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/23693",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -554,6 +713,163 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-33-2021",
+"path": "local/cluj/mihai-viteazu/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 33/2021 privind aprobarea alipirii imobilelor înscrise în CF nr.50147 Mihai Viteazu cu nr. cadastral 5147 în suprafață de 5000mp și imobilul înscris în CF nr.50459 Mihai Viteazu cu nr. cadastral 50459 în suprafață de 1400mp, date în administrarea Consiliului județean Cluj prin H.C.L 4/16.12.2009",
+"short": "HCL Mihai Viteazu nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-18",
+"latest": "2021-05-18",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/24624",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-34-2021",
+"path": "local/cluj/mihai-viteazu/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 34/2021",
+"short": "HCL Mihai Viteazu nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-15",
+"latest": "2021-06-15",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/26593",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-35-2021",
+"path": "local/cluj/mihai-viteazu/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 35/2021",
+"short": "HCL Mihai Viteazu nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-15",
+"latest": "2021-06-15",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/26594",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-36-2021",
+"path": "local/cluj/mihai-viteazu/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 36/2021",
+"short": "HCL Mihai Viteazu nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-15",
+"latest": "2021-06-15",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/26595",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-37-2021",
+"path": "local/cluj/mihai-viteazu/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 37/2021 privind acordarea unor premii elevilor olimpici și a profesorilor îndrumători de la Școala Gimnazială “Mihai Vodă”. Comuna Mihai Viteazu, jud.Cluj",
+"short": "HCL Mihai Viteazu nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-15",
+"latest": "2021-06-15",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/26596",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-38-2021",
+"path": "local/cluj/mihai-viteazu/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 38/2021 privind aprobarea deplasării unui grup de meșteșugari din sat Cornești , Comuna Mihai Viteazu la JASZBOLDOGHAZA– Ungaria, în perioada 09– 11 iulie 2021 pentru a participa la Festivalul Sfârșit de Săptămână a tradițiilor",
+"short": "HCL Mihai Viteazu nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-15",
+"latest": "2021-06-15",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/26597",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-39-2021",
+"path": "local/cluj/mihai-viteazu/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 39/2021 privind închirierea prin licitație publică a imobilului în suprafață de 5000 mp, din com. Mihai Viteazu nr. 1406 și cele doua construcții existente pe acesta Clădire administrativa în suprafața de 144 mp și Hala de sortare în suprafața de 535 mp înscrise în CF nr.50146 Mihai Viteazu situat pe domeniul public al Comunei Mihai Viteazu pentru închiriere stație de sortare al deșeurilor menajere din com. Mihai Viteazu",
+"short": "HCL Mihai Viteazu nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-20",
+"latest": "2021-07-20",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/30252",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -802,6 +1118,52 @@
 }
 },
 {
+"slug": "hcl-cluj--mihai-viteazu-51-2021",
+"path": "local/cluj/mihai-viteazu/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 51/2021",
+"short": "HCL Mihai Viteazu nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-21",
+"latest": "2021-09-21",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/35371",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-52-2021",
+"path": "local/cluj/mihai-viteazu/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 52/2021",
+"short": "HCL Mihai Viteazu nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-21",
+"latest": "2021-09-21",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/35372",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--mihai-viteazu-53-2021",
 "path": "local/cluj/mihai-viteazu/2021/53",
 "kind": "local",
@@ -887,6 +1249,29 @@
 "council_name": "Consiliul Local al Comunei Mihai Viteazu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-57-2021",
+"path": "local/cluj/mihai-viteazu/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 57/2021",
+"short": "HCL Mihai Viteazu nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-21",
+"latest": "2021-09-21",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/35377",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1240,6 +1625,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--mihai-viteazu-74-2021",
+"path": "local/cluj/mihai-viteazu/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mihai Viteazu nr. 74/2021 privind desemnarea unui reprezentant al consiliului local, care face parte din Comisia de evaluare a probei de interviu, din cadrul concursului pentru ocuparea funcțiilor de director și de director adjunct la Școala Gimnazială Mihai Vodă din comuna Mihai Viteazu, Jud Cluj",
+"short": "HCL Mihai Viteazu nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-08",
+"latest": "2021-11-08",
+"portal": "https://emol.ro/mihaiviteazu-cj/registru-hcl/40555",
+"council": "cluj/mihai-viteazu",
+"council_name": "Consiliul Local al Comunei Mihai Viteazu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

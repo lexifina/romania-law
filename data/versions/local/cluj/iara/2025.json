@@ -3,6 +3,111 @@
  "shard": "local/cluj/iara/2025",
  "acts": [
   {
+   "slug": "hcl-cluj--iara-10-2025",
+   "path": "local/cluj/iara/2025/10",
+   "short": "HCL Iara nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 10/2025 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al Comunei Iara, la data de 31.12.2025, precum și a situației financiare, la data de 31.12.2025 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 17.02.2026, Analizând temeiurile juridice, respectiv: a) Art. 15 alin. (2), art. 120 alin. (1), art.121 alin. (1) și alin. (2), respectiv",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/03/HCL-nr.-10-executie-la-data-de-31.12.2025_.pdf",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/03/HCL-nr.-10-executie-la-data-de-31.12.2025_.pdf",
+     "sha256": "2ff203827f9c96e0c8dca82f3795cc03c3af3420d744beaa171afb949c850717"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-11-2025",
+   "path": "local/cluj/iara/2025/11",
+   "short": "HCL Iara nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 11/2025 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al Comunei Iara, la data de 31.12.2024, precum și a situației financiare, la data de 31.12.2024 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 27.02.2024, Analizând temeiurile juridice, respectiv: a) Art. 15 alin. (2), art. 120 alin. (1), art.121 alin. (1) și alin. (2), respectiv",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-11-executie-la-data-de-31.12.2024-__.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-11-executie-la-data-de-31.12.2024-__.pdf",
+     "sha256": "a23e260941b10a654a7c8688dac98103f789e0e80b20d7423b629ffaeaf456b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-12-2025",
+   "path": "local/cluj/iara/2025/12",
+   "short": "HCL Iara nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 12/2025 privind aprobarea vânzării directe a cantității de 79,06 mc lemn de foc, către populația comunei Iara, conform APV1931P -Pr",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-12-vanzare-lemn-populatie-.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-12-vanzare-lemn-populatie-.pdf",
+     "sha256": "fb4a29371b9e33a631970c7c23ff5e27e2c84441aa28cb9e6d1daefdd95caad7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-13-2025",
+   "path": "local/cluj/iara/2025/13",
+   "short": "HCL Iara nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 13/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "154c8a37ed0f9fde0369d1b0fc745443a34d6c0579415b1a2edec4a2230bcfea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-14-2025",
+   "path": "local/cluj/iara/2025/14",
+   "short": "HCL Iara nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 14/2025 privind aprobare unui acord prealabil pentru realizare acces nou în zona drumului comunal DC 103, Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 27.02.2025, Văzând : a) Proiectul de hotărâre nr. 14 din 25.02.2025, privind aprobare acor prealabil realizare , acces nou în zona drumului comunal DC 103, Iara Analizând temeiurile juridice, respectiv: a) Le",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-14-aprobare-realizare-acces-nou-in-zona-DC-103-Iara-.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/03/HCL-nr.-14-aprobare-realizare-acces-nou-in-zona-DC-103-Iara-.pdf",
+     "sha256": "b7b327292fd9b1a9bd0c469693c8bdf636c7e929b79d00c6144534c4cbfe868b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-15-2025",
+   "path": "local/cluj/iara/2025/15",
+   "short": "HCL Iara nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 15/2025 privind aprobarea Acordului de colaborare pentru asigurarea sustenabilității proiectului ”Microbuze electrice pentru elevii din județul Cluj” Consiliul Local al Comunei Iara , județul Cluj întrunit în ședință ordinară în data de 21.03.2025; Având în vedere a) Proiectul de hotărâre înregistrat cu nr. 19 din 14.03.2025 privind aprobarea Acordului de colaborare pentru asigurarea sustenabilității proi",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-15-aprobare-acord-microbuze-scolare-.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-15-aprobare-acord-microbuze-scolare-.pdf",
+     "sha256": "564ed601fbfbcc5a23c9f1b857dec5a91707537f2c3901d39a83982c33b8a315"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-17-2025",
+   "path": "local/cluj/iara/2025/17",
+   "short": "HCL Iara nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 17/2025 Privind aprobarea Planului de selectie -componenta inițială pentru funcțía de administrator al Societății La Sala Parc SRL Consiliul Local al comunei Iara, județul Cluj întrunit în ședință ordinară din data de 21.03.2025, Văzând: a) Proiectul de hotărâre nr.17 din data de 13.03.2025, privind aprobarea Planului de selectie - componenta inițială pentru funcțía de administrator al Societății La Sala",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-17-aprobare-Plan-de-selectie-componenta-initiala.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-17-aprobare-Plan-de-selectie-componenta-initiala.pdf",
+     "sha256": "d0e12f888ba18e7ab71748e680b2fbaca7781741e69ffb4e3779ba4c7bf9168e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--iara-18-2025",
    "path": "local/cluj/iara/2025/18",
    "short": "HCL Iara nr. 18/2025",
@@ -14,6 +119,426 @@
      "units": 1,
      "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-18-aprobare-comisie-de-selectie-.pdf",
      "sha256": "9d0af6ff3b65266222e65c3a45d274eaff1427203790578c6a6257188f33d25d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-19-2025",
+   "path": "local/cluj/iara/2025/19",
+   "short": "HCL Iara nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 19/2025 Privind încetarea contractului de închiriere nr. 2725/15.05.2017 pentru suprafața de 60 ha , pajiști aflate în domeniul public al Comunei Iara cu Asociația Crescătorilor de animale Agriș Consiliul Local al comunei Iara, județul Cluj întrunit în ședință ordinară din data de 21.03.2025, Având în vedere următoarele prevederi: - art.9 din OUG nr.34/2013 privind organizarea, administrarea și exploatare",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-19-reziliere-Contract-2725-Asoc-Cresc-de-Animale-agris-.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-19-reziliere-Contract-2725-Asoc-Cresc-de-Animale-agris-.pdf",
+     "sha256": "9c807cc3e3f9f790ea57033c600815af8d0a00424a8a610112b7625c401699bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-20-2025",
+   "path": "local/cluj/iara/2025/20",
+   "short": "HCL Iara nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 20/2025 privind aprobarea închirierii, prin licitatie publică, a trupurilor de pășune din comuna IARA, aflate în domeniul public și privat al comunei Iara, judetul Cluj Consiliul Local al comunei Iara, judetul Cluj, întrunit în ședință ordinara în data de 21.03.2025 I.Analizând temeiurile juridice: a)art. 858,art,859-8703 din Legea nr.287/2009 privind Cod civil, cu modificarile si completarile ulterioare",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-20-din-21-03-2025-aprobare-licitatie-pasuni_.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-20-din-21-03-2025-aprobare-licitatie-pasuni_.pdf",
+     "sha256": "49d9137f18c7f62e185f6d86456bdc95e48bd26e24c054556de46f6ad1bc89d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-22-2025",
+   "path": "local/cluj/iara/2025/22",
+   "short": "HCL Iara nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 22/2025 Privind Actualizarea Planului de Analiză și Acoperire a Riscurilor (PAAR) la nivelul comunei Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 21.03.2025, Văzând : a) Proiectul de hotărâre nr. 22/20.03.2025 privind Actualizarea Planului de Analiză și Acoperire a Riscurilor (PAAR) la nivelul comunei Iara Analizând temeiurile juridice, respectiv: a) Art. 15",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-22-actualizare-PAAR-2.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-22-actualizare-PAAR-2.pdf",
+     "sha256": "e86263e15f697698d0a92c0b2c502b8cd0f7370825bffb9c449e22c5aa157773"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-23-2025",
+   "path": "local/cluj/iara/2025/23",
+   "short": "HCL Iara nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 23/2025 cu privire la aprobarea efectuării lucrarilor de „ - Refacere infrastructura afectata in urma fenomenelor hidrometeorologice periculoase si a inundatiilor din 15.07.2021 in comuna Iara, judetul Cluj- Lucrari de interventie in prima urgenta ” prin lucrari executate pe domeniul public al comunei Iara Consiliul Local al comunei Iara, județul Cluj întrunit în ședința ordinară din data de 19.03.2025, V",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/05/HCL-nr.-23-lucrari-executate-pe-domeniul-public-.pdf",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/05/HCL-nr.-23-lucrari-executate-pe-domeniul-public-.pdf",
+     "sha256": "85d72bedabbe83c7c418cc910196988857b80555268f1b4bc38ce676739212fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-24-2025",
+   "path": "local/cluj/iara/2025/24",
+   "short": "HCL Iara nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 24/2025 privind alocarea sumei de 10.000 lei de la bugetul local pe anul 2025, în vederea susținerea activităților sportive ale Asociației Club Sportiv Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 10.04.2025, Analizând temeiurile juridice, respectiv: a) Art. 15 alin. (2), art. 120 alin. (1), art.121 alin. (1) și alin. (2) și art. 138 alin. (4) și alin. (5)",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-24-alocare-sume-Asociatiei-Club-Sportiv-Iara-.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-24-alocare-sume-Asociatiei-Club-Sportiv-Iara-.pdf",
+     "sha256": "0d56010728e05a20e2fab80cd5fd24711fbf4959382cd738ffabdedb7455db80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-25-2025",
+   "path": "local/cluj/iara/2025/25",
+   "short": "HCL Iara nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 25/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7effdde0fe7139222b0d5545437ba7d4b201a5996952efc16e3192af9f79a034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-26-2025",
+   "path": "local/cluj/iara/2025/26",
+   "short": "HCL Iara nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 26/2025 Privind aprobarea Planului de selecție -componenta integrală în cadrul procedurii OUG 109/2011 pentru funcțía de administrator al Societății La Sala Parc SRL Consiliul Local al comunei Iara, județul Cluj întrunit în ședință ordinară din data de 10.04.2025, Văzând: a) Proiectul de hotărâre nr.26 din data de 08.04.2025, aprobarea Planului de selecție - componenta integrală în cadrul procedurii OUG 1",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-26-Componenta-integrala-plan-de-selectie.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-26-Componenta-integrala-plan-de-selectie.pdf",
+     "sha256": "8ac241a8407e281e3db966ec5f517d3664bf8c3a6800272b45fe3172e048b55c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-27-2025",
+   "path": "local/cluj/iara/2025/27",
+   "short": "HCL Iara nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 27/2025 privind aprobarea scoaterii din funcțiune, casării și valorificării unor obiecte de inventar și mijloace fixe cuprinse în inventarul bunurilor aparținând patrimoniului privat al Comunei Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 10.04.2025, Văzând : a) Proiectul de hotărâre nr. 27 din 08.10.2025, privind aprobarea scoaterii din funcțiune, casării ș",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-27-casare-obiecte-de-inventar.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr.-27-casare-obiecte-de-inventar.pdf",
+     "sha256": "85be4354a108b0f97e64aea68cf9496a49fda0f7c9cc5f8a93797b320f822b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-28-2025",
+   "path": "local/cluj/iara/2025/28",
+   "short": "HCL Iara nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 28/2025 privind aprobarea dării în folosință cu titlu gratuit a microbuzului electric marca Aveuro Transit, către Scoală Gimnazială Iara în scopul asigurării transportului elevilor Consiliului Local al comunei Iara , Județul Cluj , întrunit în ședință ordinara convocata pentru data de 10.04.2025; Având în vedere a) Proiectul de hotărâre înregistrat cu nr. 28. din 08.04.2025 privind aprobarea dării în folo",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr-28-predare-microbuz-scoala-.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/06/HCL-nr-28-predare-microbuz-scoala-.pdf",
+     "sha256": "6df9a975937b82e8fa46d5fa994e20254083d6633951b51d0cf22d1d17e5c18c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-29-2025",
+   "path": "local/cluj/iara/2025/29",
+   "short": "HCL Iara nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 29/2025 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al Comunei Iara, pentru trimestrul I al anului 2025, la data de 31.03.2025, precum și darea de seamă la data de 31.03.2025 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 15.05.2025, Analizând temeiurile juridice, respectiv: a) Art. 15 alin. (2), art. 120 alin. (1), art.121 alin. (",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-29-executie-venit-si-cheltuieli-la-dta-de-31.03.2025-_.pdf",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-29-executie-venit-si-cheltuieli-la-dta-de-31.03.2025-_.pdf",
+     "sha256": "8d027c61ecd6a804768210f0861bc7078da010d240af49b758afbd3df2f7eda3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-30-2025",
+   "path": "local/cluj/iara/2025/30",
+   "short": "HCL Iara nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 30/2025 privind confirmarea aprobării modificării Statutului Asociației de Dezvoltare Intercomunitară Eco- Metropolitan Cluj, mandatarea Președintelui Asociației pentru semnarea Statutului actualizat, și mandatarea Directorului Executiv al Asociației pentru înregistrarea Statutului actualizat la Registrul Asociațiilor și Fundațiilor Consiliul Local al Comunei Iara , județul Cluj întrunit în ședința ordina",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "055944bdecfd914455f58fed676b8093b94fcb2af6acdcfa3851b0b50580834c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-33-2025",
+   "path": "local/cluj/iara/2025/33",
+   "short": "HCL Iara nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 33/2025 Privind aprobarea prelungirii contractului de mandat din data de 01.11.2015 al Societății La Sala Parc SRL și aprobarea unui act adițional la contractul de mandat încheiat cu administratorul actual al societății La Sala Parc SRL -Bica Mirela-Ioana, pentru o perioada provizorie Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 15.05.2025, Văzând: a) Proiectul d",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e2876a9a6e57a436895632b9b9cb0173621a6e533cf39cbbe2f2a5b62896e360"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-35-2025",
+   "path": "local/cluj/iara/2025/35",
+   "short": "HCL Iara nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 35/2025 pentru investitii la Sala Parc",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-35-desfiintare-cont-pentru-investitii-la-Sala-Parc-.pdf",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-35-desfiintare-cont-pentru-investitii-la-Sala-Parc-.pdf",
+     "sha256": "c6f52b7db08fde0f7f98295bad2e731bf494686ceeb31b0f1ce96dab4a684c5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-36-2025",
+   "path": "local/cluj/iara/2025/36",
+   "short": "HCL Iara nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 36/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a2141e13098a91aaf3daf616f2f000fc05283c14da73bd0019517ff60be8c21f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-37-2025",
+   "path": "local/cluj/iara/2025/37",
+   "short": "HCL Iara nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 37/2025 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2025 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 05.06.2025, Văzând : a) Proiectul de hotărâre nr. 39 /29.05.2025 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2025; Analizând temeiurile juridice : a) Art. 15 alin. (2), art. 120 alin. (1), art.121 alin",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-37-rectificare-bugetara-luna-iunie-2025-__.pdf",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-37-rectificare-bugetara-luna-iunie-2025-__.pdf",
+     "sha256": "99941163ade563b54c5f8fc3648c8cfe613ffd4fd1654d6ace3aef79a1cf07cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-38-2025",
+   "path": "local/cluj/iara/2025/38",
+   "short": "HCL Iara nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 38/2025",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-38-alegerea-presedinte-de-sedinta-.pdf",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-38-alegerea-presedinte-de-sedinta-.pdf",
+     "sha256": "cd6eb9bb3606c8822de31210572af57ac975f39294efb86b827c08c67c69dcbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-39-2025",
+   "path": "local/cluj/iara/2025/39",
+   "short": "HCL Iara nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 39/2025 privind aprobare creare acces și realizare racorduri/bransamentelor electrice amplasate pe domeniul public al Comunei Iara în scopul Construire Stație de Bază pentru Servicii de Comunicații Electronice Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 05.06.2025, Văzând : a) Proiectul de hotărâre nr. 41 din 03.06.2025, privind aprobare creare acces și realiza",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-39-aprobare-realizare-acces-nou-Iara-.pdf",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/07/HCL-nr.-39-aprobare-realizare-acces-nou-Iara-.pdf",
+     "sha256": "1436d3bf99ccc87cba776302767ddab96966d6e8fc27a684e97b3e00dccb7206"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-40-2025",
+   "path": "local/cluj/iara/2025/40",
+   "short": "HCL Iara nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 40/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "04c2d28c6fee69240c32e87b20d141468dbeefadf73abbbc26281222adc5a2c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-42-2025",
+   "path": "local/cluj/iara/2025/42",
+   "short": "HCL Iara nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 42/2025 privind aprobare realizare acces nou și branșamente/racorduri la rețelele edilitare, în zona străzii localității Cacova Ierii Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 17.07.2025, Văzând : a) Proiectul de hotărâre nr. 44 din 11.07.2025, privind aprobare realizare branșamente/racorduri la rețelele edilitare, în zona străzii localității, Iara ; Analizân",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/08/HCL-nr.42-aprobare-bransamente-racorduri-la-retele-edilitare-Cacova-Ierii-.pdf",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/08/HCL-nr.42-aprobare-bransamente-racorduri-la-retele-edilitare-Cacova-Ierii-.pdf",
+     "sha256": "d5b535e0d625b55725b9598e23bbaa9f28b5df528774951fbd2e5f0df92144c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-43-2025",
+   "path": "local/cluj/iara/2025/43",
+   "short": "HCL Iara nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 43/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "305c0138b793296bdcc80a3090ac38e18bd7fdfda107cac4663234a12bc1c72a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-45-2025",
+   "path": "local/cluj/iara/2025/45",
+   "short": "HCL Iara nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 45/2025 privind delegarea gestiunii serviciului de alimentare cu apă în localitatea Cacova Ierii, comuna Iara, către Compania de Apă Someș S.A",
+   "url": "https://primariaiara.ro/wp-content/uploads/2025/08/HCL-nr.-45-delegare-gestiune-APA-CACOVA-.pdf",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2025/08/HCL-nr.-45-delegare-gestiune-APA-CACOVA-.pdf",
+     "sha256": "7f40d652ad8c9e554d8455f47b2108f13dadb1f286ca354677e619da0733f17e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-46-2025",
+   "path": "local/cluj/iara/2025/46",
+   "short": "HCL Iara nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 46/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "60f3eae5e2190ead23158920574e07bf1d423b0931dba8494debce38b601ae1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-48-2025",
+   "path": "local/cluj/iara/2025/48",
+   "short": "HCL Iara nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 48/2025 privind aprobarea contului de execuție a bugetului de venituri și cheltuieli al Comunei Iara, pentru trimestrul II al anului 2025, la data de 30.06.2025, precum și darea de seamă la data de 30.06.2025 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 28.08.2025, Analizând temeiurile juridice, respectiv: a) Art. 15 alin. (2), art. 120 alin. (1), art.121 alin",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-48-executie-venit-si-cheltuieli-la-dta-de-30.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-48-executie-venit-si-cheltuieli-la-dta-de-30.06.2025.pdf",
+     "sha256": "165b65d967c395ac0aeee9339b487fca2a11c1a6c03185f34f9ee6123febdebe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-49-2025",
+   "path": "local/cluj/iara/2025/49",
+   "short": "HCL Iara nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 49/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e79a9c641c8a8fcd3d0258af01ccdc4fe04a1cad6dbd9578a0f7bd14a4fe347e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-50-2025",
+   "path": "local/cluj/iara/2025/50",
+   "short": "HCL Iara nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 50/2025 Privind actualizarea organigramei și a statului de funcții al personalului din cadrul aparatului de specialitate al primarului comunei Iara , județul Cluj Consiliul local al comunei Iara, județul Cluj, întrunit în ședința ordinară la data de 28.08.2025; Luând în dezbatere : a) Proiectul de hotărâre nr. 53 /22.08.2025 privind actualizarea organigramei și a statului de funcții, inițiat de primarul c",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-50-actualizarea-organigrama-si-stat-de-functii-august-_-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-50-actualizarea-organigrama-si-stat-de-functii-august-_-2025.pdf",
+     "sha256": "bdcbc478a6e89887e67546c7daf379c5f05d23072de2c73703a5e7e3499faaf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-51-2025",
+   "path": "local/cluj/iara/2025/51",
+   "short": "HCL Iara nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 51/2025 Privind numirea administratorului Societății La Sala Parc SRL în cadrul procedurii prevazute de OUG 109/2011 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 28.08.2025, a) Proiectul de hotărâre nr. 54/26.08.2025 privind numirea administratorului Societății La Sala Parc SRL în cadrul procedurii prevazute de OUG 109/2011inițiat de primarul comunei Iara, dl Po",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-51-numire-administrator_.pdf",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-51-numire-administrator_.pdf",
+     "sha256": "8c17d07a9ab07c0e2669786c2f7c239b9aaf03c1369c09553f624360daf3d1b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-52-2025",
+   "path": "local/cluj/iara/2025/52",
+   "short": "HCL Iara nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 52/2025 privind desemnarea reprezentantului Consiliului local Iara, în Consiliul de administrație al Școlii Gimnaziale Iara, pentru anul școlar 2025-2026 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 25.09.2025, Văzând : a) Proiectul de hotărâre nr. 56 din data de 18.09.2025, privind desemnarea reprezentantului Consiliului local Iara, în Consiliul de administrație",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-52-reprezentant-CL-in-CA-scoala-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-52-reprezentant-CL-in-CA-scoala-.pdf",
+     "sha256": "0c4f250fe53f22288095bb1e0c3e81bc2cb8a3f666e5984a7dc8f47db220263c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-53-2025",
+   "path": "local/cluj/iara/2025/53",
+   "short": "HCL Iara nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 53/2025 privind darea in folosința Școlii Gimnaziale Iara a unor bunuri achiziționate in cadrul proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale Iara, Județul Cluj” finanțat în cadrul PNRR, Componenta C15, cod proiect F- PNRR-Dotări-2023-2877 Consiliul local al comunei Iara, jud. Cluj, întrunit in ședința ordinara în data de 25.09.2025 Văzând : Proiectul de",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-53-dare-in-folosinta-mobilier-Scoala-Gimanziala-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-53-dare-in-folosinta-mobilier-Scoala-Gimanziala-.pdf",
+     "sha256": "31684d90f42b2f09bfcf54f69dea17ebc073bd299b4c9587c398f61c70a8c92e"
     }
    ]
   },
@@ -33,6 +558,171 @@
    ]
   },
   {
+   "slug": "hcl-cluj--iara-55-2025",
+   "path": "local/cluj/iara/2025/55",
+   "short": "HCL Iara nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 55/2025 privind acordul Consiliului Local Iara în scopul realizare acces nou și realizare branșamente/racorduri la rețelele tehnico-edilitare în zona străzii localității Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 25.09.2025, Văzând : a) Proiectul de hotărâre nr. 59 din 19.09.2025, privind aprobare acces și realizare branșamente /racorduri la strada locali",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-55-aprobare-realizare-acces-si-bransamente-Iara-taberre-elevi-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-55-aprobare-realizare-acces-si-bransamente-Iara-taberre-elevi-.pdf",
+     "sha256": "d927897dda21ff9967fcfb663940f05c9c3342dd865eb1392797a061ed678dfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-56-2025",
+   "path": "local/cluj/iara/2025/56",
+   "short": "HCL Iara nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 56/2025 privind aprobarea sprijinului financiar de la bugetul local, pentru unitățile de cult religioase din comuna Iara, în anul 2025 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 25.09.2025, Văzând : a) proiectul de hotărâre nr. 60 din 19.09.2025, privind aprobarea sprijinului financiar de la bugetul local, pentru unitățile de cult religioase din comuna Iara, în",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-56-aprobare-sprijin-culte-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-56-aprobare-sprijin-culte-.pdf",
+     "sha256": "0460f7b42609900b3725905c3c42f86119308a5dd661e8939898628e1b905c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-58-2025",
+   "path": "local/cluj/iara/2025/58",
+   "short": "HCL Iara nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 58/2025",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-58-alegerea-presedinte-de-sedinta-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-58-alegerea-presedinte-de-sedinta-.pdf",
+     "sha256": "b3cd889ea250c3038675a21a2617587307659c43efbefe4a80ef7fc88911546f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-59-2025",
+   "path": "local/cluj/iara/2025/59",
+   "short": "HCL Iara nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 59/2025 privind aprobare consumului mediu de carburanți și stabilirea cotei lunare pentru autovehiculele aflate in patrimoniul U.A.T Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 25.09.2025, Văzând : a) Proiectul de hotărâre nr. 63 din data de 23.09.2025, privind aprobare consumului mediu de carburanți și stabilirea cotei lunare pentru autovehiculele aflate i",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-59-aprobare-consum-auto-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-59-aprobare-consum-auto-.pdf",
+     "sha256": "709e03b52429b480af2bce489db27830cc7937a9170c55307da467d80c9e4bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-60-2025",
+   "path": "local/cluj/iara/2025/60",
+   "short": "HCL Iara nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 60/2025 Privind anularea procedurii de licitație publică din data de 27.04.2023 privind constituirea dreptului de superficie cu titlu oneros pentru terenurile în suprafață totală de 452.675 mp destinat obiectivului de investiții \"Construire Parc Panouri Fotovoltaice, în extravilanul Comunei Iara, județul Cluj\" Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 25.09.20",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-60-anularea-procedurii-de-licitatie-.pdf",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-60-anularea-procedurii-de-licitatie-.pdf",
+     "sha256": "5e711a608cdf6f6dd59b37ea9686f8d1f68dd36f26a902114eee306011175cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-61-2025",
+   "path": "local/cluj/iara/2025/61",
+   "short": "HCL Iara nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 61/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3139a74bc08bbdc8d522a55bd7fe7379d70c1a199708c7d01472041de6079716"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-64-2025",
+   "path": "local/cluj/iara/2025/64",
+   "short": "HCL Iara nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 64/2025 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2025 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 21.10.2025, Văzând : a) Proiectul de hotărâre nr. 68/16.10.2025 privind rectificarea bugetului general consolidat al comunei IARA, pe anul 2025; Analizând temeiurile juridice : a) Art. 15 alin. (2), art. 120 alin. (1), art.121 alin",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-64-rectificare-bugetara-luna-octombrie-2025-.pdf",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-nr.-64-rectificare-bugetara-luna-octombrie-2025-.pdf",
+     "sha256": "8e43ae61f28b3a7759bcd94d3cd09ce135e00feba30bb9885c97fca46336dbdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-67-2025",
+   "path": "local/cluj/iara/2025/67",
+   "short": "HCL Iara nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 67/2025 privind aprobarea modificării STRATEGIA DE DEZVOLTARE LOCALĂ A COMUNEI IARA PENTRU PERIOADA 2019-2027 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 21.10.2025, Văzând : a) Referatul de aprobare al primarului comunei Iara, înregistrat cu nr. 7970/20.10.2025; b) Raportul de specialitate al compartimentului de resort, înregistrat cu nr. 7971/20.10.2025; c) Av",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-67-modificare-strategie-de-dezvoltare-.pdf",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/01/HCL-67-modificare-strategie-de-dezvoltare-.pdf",
+     "sha256": "7c672488cfd34c12b99f9161ef615935c0c3956986383a23bc0c64b783f1408b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-71-2025",
+   "path": "local/cluj/iara/2025/71",
+   "short": "HCL Iara nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 71/2025 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat la nivelul comunei Iara, județul Cluj pentru anul școlar 2026-2027 Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară din data de 27.11.2025, Văzând: a) Proiectul de hotărâre nr.76 din data de 19.11.2025, privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat la",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/02/HCL-nr.-71-Aprobarea-retea-scolara-2026-2027-.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/02/HCL-nr.-71-Aprobarea-retea-scolara-2026-2027-.pdf",
+     "sha256": "bb9ba4ac9301d5d81927829a849b27163b4acb880f5ed10b39367071165f1982"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-73-2025",
+   "path": "local/cluj/iara/2025/73",
+   "short": "HCL Iara nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 73/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c91a62941301f5daef691edae880d792605763d585bff4f8a6f0d81e14767ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-74-2025",
+   "path": "local/cluj/iara/2025/74",
+   "short": "HCL Iara nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 74/2025 Privind aprobarea exploatării masei lemnoase aferente APV 2055 P-Buru Depozit lemn provenit din fondul forestier aflat în proprietatea comunei Iara în vederea asigurării necesarului de lemn de foc, pentru instituțiile de interes local de pe raza comuna Iara Consiliul Local al comunei Iara, județul Cluj, întrunit în ședința ordinară, din data de 27.11.2025, Văzând: a)Proiectul de hotărâre nr. 79 di",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/02/HCL-nr.-74-aprobare-exploatare-lemn-in-vederea-asigurarii-cu-lemn-de-foc-a-institutiilor-de-interes-loca1.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/02/HCL-nr.-74-aprobare-exploatare-lemn-in-vederea-asigurarii-cu-lemn-de-foc-a-institutiilor-de-interes-loca1.pdf",
+     "sha256": "bca0288d07f9f7df4dba43844eb8fedfc520b8b1c867a18c19649c661ef78fa2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--iara-76-2025",
    "path": "local/cluj/iara/2025/76",
    "short": "HCL Iara nr. 76/2025",
@@ -44,6 +734,51 @@
      "units": 6,
      "source_url": null,
      "sha256": "edf9ad18bc72667981572953029e5c8c8cef9062a78e69e261077b7fd3004321"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-79-2025",
+   "path": "local/cluj/iara/2025/79",
+   "short": "HCL Iara nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 79/2025 privind neasumarea responsabilității organizării și derulării la nivel local, a procedurilor de atribuire a contractelor/ acordurilor- cadru pentru achiziționarea produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru Școli al României pentru anii școlarii 2026-2027,2027-2028, 2028-2029 Consiliul Local al comunei I",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/02/HCL-nr.79-neasumare-program-scoala-.pdf",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/02/HCL-nr.79-neasumare-program-scoala-.pdf",
+     "sha256": "49a70c069e0e1b1822548119d8e1cf6376734402a3ce329fad705a21d017d4f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-82-2025",
+   "path": "local/cluj/iara/2025/82",
+   "short": "HCL Iara nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 82/2025",
+   "url": "https://primariaiara.ro/wp-content/uploads/2026/02/HCL-nr.-82-alegerea-presedinte-de-sedinta-.pdf",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://primariaiara.ro/wp-content/uploads/2026/02/HCL-nr.-82-alegerea-presedinte-de-sedinta-.pdf",
+     "sha256": "3ffb7e16cb9b454b0d55c22164564b42ff77cb6357629026f42c6914a2131ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--iara-9-2025",
+   "path": "local/cluj/iara/2025/9",
+   "short": "HCL Iara nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Iara nr. 9/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0b4d929f17b94a1c9a7f19aa6f0cd8d2d93c8558bfa99c3b220c3667c7f5e63c"
     }
    ]
   }

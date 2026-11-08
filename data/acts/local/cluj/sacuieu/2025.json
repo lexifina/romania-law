@@ -3,6 +3,50 @@
 "shard": "local/cluj/sacuieu/2025",
 "acts": [
 {
+"slug": "hcl-cluj--sacuieu-1-2025",
+"path": "local/cluj/sacuieu/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 1/2025 privind alegerea președintelui de ședință pentru lunile februarie, martie și aprilie 2025",
+"short": "HCL Săcuieu nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211418",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-2-2025",
+"path": "local/cluj/sacuieu/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 2/2025 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna decembrie 2024 a drepturilor bănești aferente personalului didactic de la Școala Gimnazială Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211419",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-3-2025",
 "path": "local/cluj/sacuieu/2025/3",
 "kind": "local",
@@ -22,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-4-2025",
+"path": "local/cluj/sacuieu/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 4/2025 privind aprobarea reactualizării",
+"short": "HCL Săcuieu nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211421",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-7-2025",
+"path": "local/cluj/sacuieu/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 7/2025 privind aprobarea unor măsuri pentru implementarea Programului național „Masă sănătoasă”, de acordare a unui suport alimentar elevilor de la Școala Gimnaziala Săcuieu și Structurii Rogojel",
+"short": "HCL Săcuieu nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211424",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-8-2025",
 "path": "local/cluj/sacuieu/2025/8",
 "kind": "local",
@@ -88,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-9-2025",
+"path": "local/cluj/sacuieu/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 9/2025 privind aprobarea bugetului local pe anul 2025 și a listei de investiții pe anul 2025",
+"short": "HCL Săcuieu nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211426",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-12-2025",
+"path": "local/cluj/sacuieu/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 12/2025 privind aprobarea Consiliului Local al Comunei Săcuieu-Acordul comunei pentru realizare acces nou și realizare de racorduri/branșamente la rețelele edilitare pentru construire locuință individuală sezoniera cu piscină, pe terenul situat în intravilan, amenajari exterioare, imprejmuire și organizare santier pentru imobilul situat în județul Cluj, comuna Săcuieu, sat Rogojel, identificat prin CF nr. 51632",
+"short": "HCL Săcuieu nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211429",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +356,28 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-17-2025",
+"path": "local/cluj/sacuieu/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 17/2025 privind alegerea președintelui de ședință pentru lunile mai, iunie și iulie 2025",
+"short": "HCL Săcuieu nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211434",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-18-2025",
 "path": "local/cluj/sacuieu/2025/18",
 "kind": "local",
@@ -290,6 +444,28 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-21-2025",
+"path": "local/cluj/sacuieu/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 21/2025 privind aprobarea Consiliului Local al comunei Săcuieu de a acorda un sprijin financiar pentru Parohia Ortodoxa Visagu",
+"short": "HCL Săcuieu nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211443",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-22-2025",
 "path": "local/cluj/sacuieu/2025/22",
 "kind": "local",
@@ -309,6 +485,72 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-23-2025",
+"path": "local/cluj/sacuieu/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 23/2025 privind aprobarea Consiliului Local al comunei Săcuieu pentru lunile ianuarie, februarie și martie 2025 a drepturilor bănești aferente personalului didactic de la Școala Gimnaziala Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211445",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-24-2025",
+"path": "local/cluj/sacuieu/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 24/2025 privind aprobarea Organigramei și a Statului de funcții pentru anul 2025",
+"short": "HCL Săcuieu nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211446",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-25-2025",
+"path": "local/cluj/sacuieu/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 25/2025 privind aprobarea Consiliului Local Săcuieu-Plan Urbanistic de detaliu pentru contruire Biserica Penticostala",
+"short": "HCL Săcuieu nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211460",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -400,6 +642,72 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-30-2025",
+"path": "local/cluj/sacuieu/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 30/2025 privind acordul comunei pentru creare acces și realizare racorduri/branșamente la rețelele edilitare pentru casa de vacanță, impremuire teren, amenajari exterioare pentru imobilul identificat prin DF-52899",
+"short": "HCL Săcuieu nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211510",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-31-2025",
+"path": "local/cluj/sacuieu/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 31/2025 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna aprilie 2025 a drepturilor bănești aferente personalului didactic de la Școala Gimnaziala Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-05",
+"latest": "2025-06-05",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/211512",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-32-2025",
+"path": "local/cluj/sacuieu/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 32/2025 privind aprobarea Consiliului Local al comunei Săcuieu pentru luna mai 2025 a drepturilor bănești aferente personalului didactic de la Școala Gimnazială Săcuieu și Rogojel pentru cheltuieli de deplasare-decontarea navetei",
+"short": "HCL Săcuieu nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283405",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-33-2025",
 "path": "local/cluj/sacuieu/2025/33",
 "kind": "local",
@@ -441,6 +749,73 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-35-2025",
+"path": "local/cluj/sacuieu/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 35/2025",
+"short": "HCL Săcuieu nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283408",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-36-2025",
+"path": "local/cluj/sacuieu/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 36/2025 privind aprobarea raportului de evaluare și a studiului de oportunitate privind concesionarea unei suprafețe de 41, 2 Ha teren din CF-52756 Săcuieu, CF-52783 Săcuieu și CF-52755 Săcuieu pentru realizarea unui parc eolian de mare capacitate în comuna Săcuieu, jud. Cluj",
+"short": "HCL Săcuieu nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283437",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-37-2025",
+"path": "local/cluj/sacuieu/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 37/2025 privind aprobarea documentației de atribuire privind concesionarea unei suprafețe de 41,2 Ha teren din CF-52756 Săcuieu, CF-52783 Săcuieu și CF-52755 Săcuieu pentru realizarea unui parc eolian de mare capacitatea în comuna Săcuieu, jud. Cluj",
+"short": "HCL Săcuieu nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283438",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -576,6 +951,140 @@
 }
 },
 {
+"slug": "hcl-cluj--sacuieu-44-2025",
+"path": "local/cluj/sacuieu/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 44/2025 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie 2025",
+"short": "HCL Săcuieu nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283463",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-45-2025",
+"path": "local/cluj/sacuieu/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 45/2025",
+"short": "HCL Săcuieu nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283468",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-46-2025",
+"path": "local/cluj/sacuieu/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 46/2025 privind aprobarea rețelei școlare actualizate",
+"short": "HCL Săcuieu nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283473",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-47-2025",
+"path": "local/cluj/sacuieu/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 47/2025",
+"short": "HCL Săcuieu nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283477",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-48-2025",
+"path": "local/cluj/sacuieu/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 48/2025 privind modificarea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Săcuieu, județul Cluj, începând cu 01 octombrie 2025",
+"short": "HCL Săcuieu nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283478",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-49-2025",
+"path": "local/cluj/sacuieu/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 49/2025 privind aprobarea situațiilor financiare la 30.06.2025",
+"short": "HCL Săcuieu nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283479",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--sacuieu-50-2025",
 "path": "local/cluj/sacuieu/2025/50",
 "kind": "local",
@@ -595,6 +1104,94 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-51-2025",
+"path": "local/cluj/sacuieu/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 51/2025 privind aprobarea Planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme a deșeurilor",
+"short": "HCL Săcuieu nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283492",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-52-2025",
+"path": "local/cluj/sacuieu/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 52/2025 privind acordarea ajutoarelor de urgență la nivelul comunei Săcuieu, județul Cluj",
+"short": "HCL Săcuieu nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283493",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-53-2025",
+"path": "local/cluj/sacuieu/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 53/2025 privind aprobarea încheierii unui contract de asistență juridică, privind reprezentarea în litigii",
+"short": "HCL Săcuieu nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283498",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-54-2025",
+"path": "local/cluj/sacuieu/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 54/2025 privind aprobarea Consiliului Local al comunei Săcuieu - Acord lucrări pe domeniul public pentru proiectul- Implementarea unui sistem de Alimentare Centralizată cu Energie Termică (SACET) realizat utilizând cogenerarea de înaltă eficiență din biomasă în comuna Săcuieu, județul Cluj",
+"short": "HCL Săcuieu nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283504",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -640,6 +1237,161 @@
 "council_name": "Consiliul Local al Comunei Săcuieu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-57-2025",
+"path": "local/cluj/sacuieu/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 57/2025 privind aprobarea Studiului de Fezabilitate cu elemente DALI și a indicatorilor tehnico-econimici pentru proiectul cu titlu „DESFIINȚARE C2, CONSTRUIRE ȘI MODERNIZARE TABĂRĂ ȘCOLARĂ ÎN LOCALITATEA SĂCUIEU” din comuna Săcuieu, județul Cluj",
+"short": "HCL Săcuieu nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283511",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-58-2025",
+"path": "local/cluj/sacuieu/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 58/2025 privind desemnarea Asociației „GRUPUL DE ACȚIUNE LOCALĂ NAPOCA POROLISSUM” ca partener pentru obiectivul de investiții „DESFIINȚARE C2, CONSTRUIRE ȘI MODERNIZARE TABĂRĂ ȘCOLARĂ ÎN LOCALITATEA SĂCUIEU” și aporbarea Acordului de parteneriat dintre comuna Săcuieu și Asociația „GRUPUL DE ACȚIUNE LOCALĂ NAPOCA POROLISSUM”",
+"short": "HCL Săcuieu nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283512",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-59-2025",
+"path": "local/cluj/sacuieu/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 59/2025 privind aprobarea Planului de dezvoltare al obiectivului „DESFIINȚARE C2, CONSTRUIRE ȘI MODERNIZARE TABĂRĂ ȘCOLARĂ ÎN LOCALITATEA SĂCUIEU”",
+"short": "HCL Săcuieu nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283513",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-60-2025",
+"path": "local/cluj/sacuieu/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 60/2025",
+"short": "HCL Săcuieu nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283517",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-61-2025",
+"path": "local/cluj/sacuieu/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 61/2025 privind rectificarea Bugetului Local nr.2, pe anul 2025",
+"short": "HCL Săcuieu nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283520",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-62-2025",
+"path": "local/cluj/sacuieu/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 62/2025 privind acordul Consiliului Local al comunei Săcuieu, de a încheia un contract cu o unitate specializată în gestionarea câinilor fără stăpân",
+"short": "HCL Săcuieu nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283521",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--sacuieu-63-2025",
+"path": "local/cluj/sacuieu/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Săcuieu nr. 63/2025 privind alegerea președintelui de ședință pentru lunile noiembrie, decembrie 2025 și ianuarie 2026",
+"short": "HCL Săcuieu nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-18",
+"latest": "2026-08-18",
+"portal": "https://emol.ro/sacuieu-cj/registru-hcl/283523",
+"council": "cluj/sacuieu",
+"council_name": "Consiliul Local al Comunei Săcuieu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

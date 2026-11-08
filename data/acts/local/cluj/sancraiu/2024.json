@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/sancraiu/2024",
+"acts": [
+{
+"slug": "hcl-cluj--sancraiu-40-2024",
+"path": "local/cluj/sancraiu/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sâncraiu nr. 40/2024 Privind revocarea HCL cu nr. 40-30.09.2024, privind aprobarea rețelei unităților de învățământ în Comuna Sâncraiu pe anul școlar 2022 – 2023",
+"short": "HCL Sâncraiu nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://sancraiu.ro/ro/hotarari-2021/",
+"council": "cluj/sancraiu",
+"council_name": "Consiliul Local al Comunei Sâncraiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

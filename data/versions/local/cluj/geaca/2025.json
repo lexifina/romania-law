@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--geaca-40-2025",
+   "path": "local/cluj/geaca/2025/40",
+   "short": "HCL Geaca nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Geaca nr. 40/2025",
+   "url": "https://emol.ro/geaca-cj/registru-hcl/217800",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/geaca-cj/registru-hcl/217800",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--geaca-41-2025",
    "path": "local/cluj/geaca/2025/41",
    "short": "HCL Geaca nr. 41/2025",
@@ -148,6 +163,21 @@
      "from": "2025-09-01",
      "units": 1,
      "source_url": "https://emol.ro/geaca-cj/registru-hcl/217803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--geaca-44-2025",
+   "path": "local/cluj/geaca/2025/44",
+   "short": "HCL Geaca nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Geaca nr. 44/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/geaca-cj/registru-hcl/223203",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/geaca-cj/registru-hcl/223203",
      "sha256": null
     }
    ]
