@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/fundata/2023",
+ "acts": [
+  {
+   "slug": "hcl-brasov--fundata-68-2023",
+   "path": "local/brasov/fundata/2023/68",
+   "short": "HCL Fundata nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Fundata nr. 68/2023 Privind aprobarea modificarii si completarii HCL nr.68 din 28.12.2023",
+   "url": "https://primariafundata.ro/hotararile-autoritatii-deliberative-2024/",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariafundata.ro/wp-content/uploads/2024/09/HCL-nr.23-Privind-aprobarea-modificarii-si-completarii-HCL-nr.68-din-28.12.2023.pdf",
+     "sha256": "d12aa6eea37e6256967aca130f37bdbd8924ba6dfec731c49a077c1fef05f18c"
+    }
+   ]
+  }
+ ]
+}

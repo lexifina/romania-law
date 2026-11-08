@@ -3,6 +3,111 @@
  "shard": "local/brasov/ghimbav/2025",
  "acts": [
   {
+   "slug": "hcl-brasov--ghimbav-1-2025",
+   "path": "local/brasov/ghimbav/2025/1",
+   "short": "HCL Ghimbav nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 1/2025 privind oprobarea Ordinii de zi a ședinței extraordinare a Consiliului Local al Orașului Ghimbav din data de 13.01.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-01-17-HCL_nr_1_13_01-2025.pdf",
+     "sha256": "7eeb2773f84f519c84d5176c78840470541256eec24ca8a768c7506dd65f709c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-10-2025",
+   "path": "local/brasov/ghimbav/2025/10",
+   "short": "HCL Ghimbav nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 10/2025 privind aprobarea obiectivului de investiții „Amenajare zonă agrement str. Lalelei”, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-05-HCL_nr_10_25_02-2025.pdf",
+     "sha256": "b0347d0c5760b3e0fd4f9d65fe5a82c0156a9aefc7c2e8465a357c0ed55494df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-100-2025",
+   "path": "local/brasov/ghimbav/2025/100",
+   "short": "HCL Ghimbav nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 100/2025 privind apartenența la domeniul privat al Orașului Ghimbav a imobilului teren identificat în CF nr. 106794 Ghimbav, nr. top. 362/1, în suprafață de 1.993 mp Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_100_21-07-2025.pdf",
+     "sha256": "cc015a94f081f31ba3219cfe759fdd8d3b9db5554309dbe11609fb9ff573e26b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-101-2025",
+   "path": "local/brasov/ghimbav/2025/101",
+   "short": "HCL Ghimbav nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 101/2025 privind aprobarea contului de execuție aferent trimestrului II 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_101_21-07-2025.pdf",
+     "sha256": "01c9149bec2e48e8ab2ca51fd82e48a51db9acc6af997495890f0cf61aafabf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-102-2025",
+   "path": "local/brasov/ghimbav/2025/102",
+   "short": "HCL Ghimbav nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 102/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_102_21-07-2025.pdf",
+     "sha256": "2b53caf69aefbc38075be4595afb16d16dbf1ef8aa1f9ec74946bb12f73d7029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-103-2025",
+   "path": "local/brasov/ghimbav/2025/103",
+   "short": "HCL Ghimbav nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 103/2025 privind alegerea președintelui de ședință ce va conduce lucrările Consiliului Local Ghimbav în data de 31 Iunie 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_103_31-07-2025.pdf",
+     "sha256": "7c432eb1bfbb7d47b5f9e1201072e30bffb6d6c36ac74a002b5d7b24659e7898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-104-2025",
+   "path": "local/brasov/ghimbav/2025/104",
+   "short": "HCL Ghimbav nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 104/2025 privind aprobarea Ordinii de zi a ședinței extraordinare a Consiliului Local al Orașului Ghimbav din data de 31.07.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_104_31-07-2025.pdf",
+     "sha256": "ae94afc9aa2d93a17394fcccde204b361f1ccd25ba8f8f7ccd096d3fa8f9c128"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-105-2025",
    "path": "local/brasov/ghimbav/2025/105",
    "short": "HCL Ghimbav nr. 105/2025",
@@ -14,6 +119,261 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_105_31-07-2025.pdf",
      "sha256": "6dc4b8e16781d11c0c614e5ea279a87fce6eb70118ac4cb013d6e1b926b18ceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-106-2025",
+   "path": "local/brasov/ghimbav/2025/106",
+   "short": "HCL Ghimbav nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 106/2025 privind aprobarea listei privind ordinea de prioritate în soluționarea cererilor de locuințe sociale aflate în patrimoniul Orașului Ghimbav, pentru anul 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_106_31-07-2025.pdf",
+     "sha256": "c38bce22fc5b59a9a275aba7a8874a5a11a80c4fec32573c59af33afa7f72220"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-107-2025",
+   "path": "local/brasov/ghimbav/2025/107",
+   "short": "HCL Ghimbav nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 107/2025 privind revocarea HCL Ghimbav nr. 160/18.12.2024 privind darea în folosință gratuită a unei suprafețe de teren către Grădinița Ghimbav în vederea amplasării temporare a unor containere cu destinația săli de clasă Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_107_31-07-2025.pdf",
+     "sha256": "17c86670d51be4f1864987343fdd2abc54dc48f387898c57e203e8d538e917f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-108-2025",
+   "path": "local/brasov/ghimbav/2025/108",
+   "short": "HCL Ghimbav nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 108/2025 privind aprobarea Acordului de parteneriat pentru promovarea utilizării bicicletelor ca modalitate de transport alternativ pentru cetățenii orașului Ghimbav și pentru vizitatorii localității Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_108_31-07-2025.pdf",
+     "sha256": "2ed97ea109f1b0c381354fcd5020c98f57c901f7008710aa1ed45bc8eb4dec11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-109-2025",
+   "path": "local/brasov/ghimbav/2025/109",
+   "short": "HCL Ghimbav nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 109/2025 privind aderarea ca membru pentru cooperare a Orașului Ghimbav, județul Brașov la Asociația Comunelor din România Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_109_31-07-2025.pdf",
+     "sha256": "de3af1f3da3d3f4d650294fe70e74f07542ffef99d9e6e2612354ddd197ff9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-11-2025",
+   "path": "local/brasov/ghimbav/2025/11",
+   "short": "HCL Ghimbav nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 11/2025 privind aprobarea obiectivului de investiții „Removare Cămin cultural, oraș Ghimbav, jud. Brașov” și a indicatorilor tehnico-economici Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-05-HCL_nr_11_25_02-2025.pdf",
+     "sha256": "fac02a9d8b10ab483ea17f89b5d3b935d9ca391749aeeac0634852f42ebc6576"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-110-2025",
+   "path": "local/brasov/ghimbav/2025/110",
+   "short": "HCL Ghimbav nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 110/2025 privind aderarea Orașului Ghimbav, județul Brașov la sistemul prin cooperare pentru organizarea și exercitarea activității de audit public intern la nivelul Filialei Județene Brașov a Asociației Comunelor din România Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_110_31-07-2025.pdf",
+     "sha256": "401ce6c1c8b96bc41cb01b34c7ca3a1d64d553d2f22790e73a95d2b9617fc316"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-111-2025",
+   "path": "local/brasov/ghimbav/2025/111",
+   "short": "HCL Ghimbav nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 111/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-08-08-HCL_nr_111_31-07-2025.pdf",
+     "sha256": "c6f23e60b6deb7b127251c8e37618fd7d2708770195c558b4247e9ba543806cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-112-2025",
+   "path": "local/brasov/ghimbav/2025/112",
+   "short": "HCL Ghimbav nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 112/2025 privind alegerea președintelui de ședință ce va conduce lucrările Consiliului Local al Orașului Ghimbav în lunile August – Septembrie – Octombrie 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_112_28-08-2025.pdf",
+     "sha256": "b551e4d890e9a5f3582010ac71cc2598b744400a77ec37169088dc1693f60202"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-113-2025",
+   "path": "local/brasov/ghimbav/2025/113",
+   "short": "HCL Ghimbav nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 113/2025 privind aprobarea procesului-verbal al ședinței ordinare din data de 21 iuline 2025 și al ședinței extraordinare din data de 31 iulie 2025 ale Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_113_28-08-2025.pdf",
+     "sha256": "68ff29c934d19e7375eb315ee0ccd466090e1997e538b30239b028850a8db11b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-114-2025",
+   "path": "local/brasov/ghimbav/2025/114",
+   "short": "HCL Ghimbav nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 114/2025 privind aprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 28.08.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_114_28-08-2025.pdf",
+     "sha256": "1f699bf66ab814fa7dfed7ed361e8e1aad7a89cd90de3727954c969fb5bb2b11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-115-2025",
+   "path": "local/brasov/ghimbav/2025/115",
+   "short": "HCL Ghimbav nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 115/2025 privind apartenența la domeniul privat al Orașului Ghimbav a imobilului teren identificat în CF nr. 104306 Ghimbav, nr. topografic Top: 594/2, 595/2/2, 589/2, în suprafață de 210 mp. Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_115_28-08-2025.pdf",
+     "sha256": "c04dfb85fb5e2a8ad243849a3d8af9250cd5fc918c049b72369896bc62b39340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-116-2025",
+   "path": "local/brasov/ghimbav/2025/116",
+   "short": "HCL Ghimbav nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 116/2025 privind aprobarea schimbării destinației clădirii PUNCT TERMIC, situat în str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_116_28-08-2025.pdf",
+     "sha256": "c6e837771a4b53a9ff2bf732b4ddb9067656d08c1f88a0701a975af37223c5a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-117-2025",
+   "path": "local/brasov/ghimbav/2025/117",
+   "short": "HCL Ghimbav nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 117/2025 privind modificarea Hotărârii Consiliului Local Ghimbav nr. 93/21.07.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_117_28-08-2025.pdf",
+     "sha256": "9741e97dd2a9d8c8ab06375cd748303ca1316d8d661094eb233a49657b65a3df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-118-2025",
+   "path": "local/brasov/ghimbav/2025/118",
+   "short": "HCL Ghimbav nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 118/2025 pentru modificarea condițiilor de vânzare către SC RAP INVEST SRL, aprobate cu Hotărârea Consiliului Local Ghimbav nr. 94/21.07.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_118_28-08-2025.pdf",
+     "sha256": "67191444193277cfabd53d7eada2ac9f72f68e4d68cabb7ddc3b7bb8489f34e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-119-2025",
+   "path": "local/brasov/ghimbav/2025/119",
+   "short": "HCL Ghimbav nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 119/2025 pentru aprobarea listei finale privind ordinea de prioritate în soluționarea cererilor de locuințe sociale aflate în patrimoniul Orașului Ghimbav, pentru anul 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_119_28-08-2025.pdf",
+     "sha256": "26bca00b2b56c2e8b30615b96ab400c73a615878c7ba617fd190499d43e8aec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-12-2025",
+   "path": "local/brasov/ghimbav/2025/12",
+   "short": "HCL Ghimbav nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 12/2025 privind aprobarea obiectivului de investiții „INFRASTRUCTURĂ CULTURALĂ MODERNĂ ȘI REGENERARE SPAȚII PUBLICE ÎN ORAȘUL GHIMBAV, JUDEȚUL BRAȘOV” și a cheltuielilor legate de proiect Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-05-HCL_nr_12_25_02-2025.pdf",
+     "sha256": "8f8c8c0a89588a93a020a0f3d5821be89839a7096b9d17139ceef9b44bdcb505"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-120-2025",
+   "path": "local/brasov/ghimbav/2025/120",
+   "short": "HCL Ghimbav nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 120/2025 privind repartizarea locuințelor sociale, prin închiriere, persoanelor aflate în lista finală de priorități Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_120_28-08-2025.pdf",
+     "sha256": "28be10479a526f1f37011cd7694656ffb532a6ee87d2cd4cb294e7d6cc4a1c6d"
     }
    ]
   },
@@ -33,6 +393,96 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-122-2025",
+   "path": "local/brasov/ghimbav/2025/122",
+   "short": "HCL Ghimbav nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 122/2025 pentru modificarea HCL Ghimbav nr. 32/30.03.2023 privind stabilirea componenței echipei mobile pentru intervenția de urgență în cazurile de violență domestică Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_122_28-08-2025.pdf",
+     "sha256": "78525cf22f5da9b79fb1561c2341569ca8a7fb399ef7dcba603176c9f34556bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-123-2025",
+   "path": "local/brasov/ghimbav/2025/123",
+   "short": "HCL Ghimbav nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 123/2025 privind aprobarea Proiectului Actului adițional nr. 8/2025 la Contractul de Delegare a Gestiunii Serviciului de Transport Public Local de Călători nr. 1/2018, încheiat cu ATBv cu operatorul de transport regional RATBV SA Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-08-HCL_nr_123_28-08-2025.pdf",
+     "sha256": "330ebaec6403115874af86edc9b770a9946c4230857e37656f557e046243b210"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-124-2025",
+   "path": "local/brasov/ghimbav/2025/124",
+   "short": "HCL Ghimbav nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 124/2025 privind parobarea procesului-verbal al ședinței ordinare din data de 28 August 2025 al Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-26-HCL_nr_124_18-09-2025.pdf",
+     "sha256": "e30e0868c9d253071e412935d31b46b7cad00cd2e17ca05b1964fb86ad3f9ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-125-2025",
+   "path": "local/brasov/ghimbav/2025/125",
+   "short": "HCL Ghimbav nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 125/2025 privind aprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 18.09.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-26-HCL_nr_125_18-09-2025.pdf",
+     "sha256": "73d2ed200f29818b751f1c2b24344a99db1504e573f18fbbbc811c63970f58f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-126-2025",
+   "path": "local/brasov/ghimbav/2025/126",
+   "short": "HCL Ghimbav nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 126/2025 privind modificarea HCL Ghimbav nr. 12/28.02.2017 privind aprobarea Regulamentului de Organizare și Funcționare a Sălii de Sport din Orașul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-26-HCL_nr_126_18-09-2025.pdf",
+     "sha256": "8a6e2492b0089073dbafef8d76c9d0b4206982f05056ec6cc9c8cbb59d71d3f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-127-2025",
+   "path": "local/brasov/ghimbav/2025/127",
+   "short": "HCL Ghimbav nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 127/2025 privind modificarea HCL Ghimbav nr. 95/27.07.2017 privind aprobarea Regulamentului de Organizare și Funcționare a „Bazei Sportive – stadion cu teren de forbal” din Orașul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-26-HCL_nr_127_18-09-2025.pdf",
+     "sha256": "e880eebe30e06464c6720430f16c89c2eda9a2100a1f5a4b13f1ffe8ff26702d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-128-2025",
    "path": "local/brasov/ghimbav/2025/128",
    "short": "HCL Ghimbav nr. 128/2025",
@@ -44,6 +494,156 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-26-HCL_nr_128_18-09-2025.pdf",
      "sha256": "bcc1420954941d6d1b3e30750b7443f5ba5c2d6ef3decb5d72a993c95a4e464b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-129-2025",
+   "path": "local/brasov/ghimbav/2025/129",
+   "short": "HCL Ghimbav nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 129/2025 pentru aprobare Plan Urbanistic de Detaliu (P.U.D.) „Construire locuință unifamilială P+1E, împrejmuire teren și utilități” – str. Busuiocului, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-26-HCL_nr_129_18-09-2025.pdf",
+     "sha256": "e1505fd6013bc558467b66074b28f6c62965c50c32ca2900594df362da247d5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-13-2025",
+   "path": "local/brasov/ghimbav/2025/13",
+   "short": "HCL Ghimbav nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 13/2025 privind aprobarea procesului-verbal al ședinței extraordinare din data de 18 decembrie 2024, ședinței extraordinare din data de 13 ianuarie 2025 și ședinței extraordiare din data de 21 ianuarie 2025, ale Consiliului Local al Orașului Ghimbav, județul Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_13_27_02-2025.pdf",
+     "sha256": "cc11492b7b7133bb628db02f212ec9e325bfd76284950a463dc355a0f4cb125d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-130-2025",
+   "path": "local/brasov/ghimbav/2025/130",
+   "short": "HCL Ghimbav nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 130/2025 privind aprobarea retragerii UAT Ghimbav din Agenția Metropolitană pentru Dezvoltare Durabilă Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-26-HCL_nr_130_18-09-2025.pdf",
+     "sha256": "76d520374472115ea5d0684295e8abe5ca16f97a7f84d23d0b8e13de22699992"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-131-2025",
+   "path": "local/brasov/ghimbav/2025/131",
+   "short": "HCL Ghimbav nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 131/2025 privind aprobarea documentației de licitație publică pentru închirierea Microbuzului de transport școlar, aflat în inventarul Orașului Ghimbav, județul Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-09-26-HCL_nr_131_18-09-2025-1.pdf",
+     "sha256": "60432b3bb6e1abe63138afd3fd3f8f82e496fb050bf9fb56e01f7a9b3686094b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-132-2025",
+   "path": "local/brasov/ghimbav/2025/132",
+   "short": "HCL Ghimbav nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 132/2025 privind probarea procesului-verbal al ședinței ordinare din data de 18 Septembrie 2025 a Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-06-HCL_nr_132_30-10-2025.pdf",
+     "sha256": "1c6ea5666c3fc32f53de5f2e66a7b357832ae2d76c3c9dd0ade8c0d44c0ff2fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-133-2025",
+   "path": "local/brasov/ghimbav/2025/133",
+   "short": "HCL Ghimbav nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 133/2025 privind oprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 30.10.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-06-HCL_nr_133_30-10-2025.pdf",
+     "sha256": "3654f869678645c4e25e4bd470794f6d2990b6c5754d6e287e6504ed98ee3885"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-134-2025",
+   "path": "local/brasov/ghimbav/2025/134",
+   "short": "HCL Ghimbav nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 134/2025 privind apartenența la domeniul privat al Orașului Ghimbav a cotei de 1/3 din terenul de la A.1 aferent imobilului identificat în CF nr. 100951 Ghimbav, nr. topografic 100951, cu suprafața totală de 703 mp Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-06-HCL_nr_134_30-10-2025.pdf",
+     "sha256": "e8679eac687276ec0581374c7d5ddc9a8419e36f6d0c9d66f5342b68f170b12c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-135-2025",
+   "path": "local/brasov/ghimbav/2025/135",
+   "short": "HCL Ghimbav nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 135/2025 privind respingerea Plângerii prealabile nr. 32988/18.09.2025 formulată de I.N.C.D.C.S.Z",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-06-HCL_nr_135_30-10-2025.pdf",
+     "sha256": "178eaba900e440aeed77f456b5c81424cd15bc4d0197a32555138af4cb775a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-136-2025",
+   "path": "local/brasov/ghimbav/2025/136",
+   "short": "HCL Ghimbav nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 136/2025 privind aprobarea Actului adițional nr. 8/2025 la Contractul de Delegare a Gestiunii Serviciului de Transport Public Local de Călători nr. 1/2018, încheiat de ATBv cu operatorul de transport regional RATBV SA Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-06-HCL_nr_136_30-10-2025.pdf",
+     "sha256": "53ea22268e9ffb7c6c94d7ca2fbdd4c6c1f28f25c270ca5dcc2f91931d6f1b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-137-2025",
+   "path": "local/brasov/ghimbav/2025/137",
+   "short": "HCL Ghimbav nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 137/2025 privind modificarea organigramei și statului de funcții al aparatului se specialitate al Primarului Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-06-HCL_nr_137_30-10-2025.pdf",
+     "sha256": "9bade6adf5e8256988dd2c4a3219cf26ab8828499e387fadbbb3fd6533b39938"
     }
    ]
   },
@@ -74,6 +674,21 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/155/2026-10-02-HCL_139_24-09-2026.pdf",
      "sha256": "ed638cc6a6c45a082d80242b5b80650d4ead9c90fa9d9035c27f1f13c55a7270"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-14-2025",
+   "path": "local/brasov/ghimbav/2025/14",
+   "short": "HCL Ghimbav nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 14/2025 privind aprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 27.02.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_14_27_02-2025.pdf",
+     "sha256": "8423f3e677f45350d5dd370395767670565b6b51d64017a665434c73f5acd957"
     }
    ]
   },
@@ -153,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-145-2025",
+   "path": "local/brasov/ghimbav/2025/145",
+   "short": "HCL Ghimbav nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 145/2025 privind aprobarea procesului-verbal al ședinței ordinare din data de 30 Octombrie 2025 al Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-27-HCL_nr_145_18-11-2025.pdf",
+     "sha256": "f21449dbeea1562625633d3afc15c5f48104b0b883ea5eeb7d1f76496b5d194b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-146-2025",
    "path": "local/brasov/ghimbav/2025/146",
    "short": "HCL Ghimbav nr. 146/2025",
@@ -183,6 +813,111 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-148-2025",
+   "path": "local/brasov/ghimbav/2025/148",
+   "short": "HCL Ghimbav nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 148/2025 privind trecerea cotei de 96/2592 din imobilul teren, identificat în CF nr. 100155 Ghimbav, nr. cad. 100155, în suprafață de 2208 mp, (str. Afinului), în proprietatea Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-27-HCL_nr_148_18-11-2025.pdf",
+     "sha256": "b326c0cd673d7f5f73c60f3c7aa94b6ca530d52a56f2fcdfd1bdaeb0cd94432e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-149-2025",
+   "path": "local/brasov/ghimbav/2025/149",
+   "short": "HCL Ghimbav nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 149/2025 privind trecerea imobilelor terenuri, identificate în CF nr. 109111 Ghimbav, nr. cad. 109111, în suprafață de 742 mp (str. Gențianei), CF nr. 109112 Ghimbav, nr. cad. 109112, în suprafață de 595 mp (str. Margaretei) în proprietatea Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-27-HCL_nr_149_18-11-2025.pdf",
+     "sha256": "291a4f3e398a0e56912b2ab7f6660eb25386ec11e813043fe5d548fab0934d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-15-2025",
+   "path": "local/brasov/ghimbav/2025/15",
+   "short": "HCL Ghimbav nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 15/2025 privind aprobarea contului de execuție aferent anului 2024 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_15_27_02-2025.pdf",
+     "sha256": "4202cbd48461f0fc6c2b8c02d71810ba1ede447dbdf3c69163568b751b4503a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-150-2025",
+   "path": "local/brasov/ghimbav/2025/150",
+   "short": "HCL Ghimbav nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 150/2025 privind trecerea imobilului teren, identificat în CF nr. 100301 Ghimbav, nr. cad. 100301, în suprafață de 167 mp (str. Morii), în proprietatea Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-27-HCL_nr_150_18-11-2025.pdf",
+     "sha256": "4b626f602b08010e38484ba81c6b62705065897e38d10993b9b8b1a2ca8c0b3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-151-2025",
+   "path": "local/brasov/ghimbav/2025/151",
+   "short": "HCL Ghimbav nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 151/2025 pentru modificarea HCL nr. 92/27.07.2017 privind acordarea unui stimulent financiar pentru nou-născuți Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-27-HCL_nr_151_18-11-2025.pdf",
+     "sha256": "8813d26419d17042a7471c8bba62d6403a72753e2a28a792a30b919562fd9dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-152-2025",
+   "path": "local/brasov/ghimbav/2025/152",
+   "short": "HCL Ghimbav nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 152/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-27-HCL_nr_152_18-11-2025.pdf",
+     "sha256": "9dbcb67da412fae2e32f16fff8942b49bc56ecbc44ca183aeef1bec3e66e5985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-153-2025",
+   "path": "local/brasov/ghimbav/2025/153",
+   "short": "HCL Ghimbav nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 153/2025 privind reaprobarea valorii totale și a indicatorilor tehnico-economici pentru obiectivul de investiții: „MODERNIZARE SEDIU PRIMĂRIE” str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-11-27-HCL_nr_153_18-11-2025.pdf",
+     "sha256": "056f58156abcb07217f87e8e409e244f1fb656478f1d0503746ce561fff174cf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-154-2025",
    "path": "local/brasov/ghimbav/2025/154",
    "short": "HCL Ghimbav nr. 154/2025",
@@ -198,6 +933,66 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-155-2025",
+   "path": "local/brasov/ghimbav/2025/155",
+   "short": "HCL Ghimbav nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 155/2025 privind aprobarea procesului-verbal al ședinței extraordinare din data de 13.11.2025 și al ședinței ordinare din data de 18.11.2025 ale Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-02-HCL_nr_155_25-11-2025.pdf",
+     "sha256": "599eef68a772ba736fa3c82e3bdcffca24e91c89c775d3f012aa00f8ee5e6906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-156-2025",
+   "path": "local/brasov/ghimbav/2025/156",
+   "short": "HCL Ghimbav nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 156/2025 privind aprobarea Ordinii de zi a ședinței extraordinare a Consiliului Local al Orașului Ghimbav din data de 25.11.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-02-HCL_nr_156_25-11-2025.pdf",
+     "sha256": "91132cf874323fa4ede261f373312fd6d559a7b7731ada0f7027c219b7abc13a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-157-2025",
+   "path": "local/brasov/ghimbav/2025/157",
+   "short": "HCL Ghimbav nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 157/2025 pentru modificarea HCL nr. 29/26.02.2025 privind acordarea pachetului cu alimente „Pentru suflet”, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-02-HCL_nr_157_25-11-2025.pdf",
+     "sha256": "f85962b68b80f9fa85735685f03f9999ee3826392da20cfff82f90dfd0ecc658"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-158-2025",
+   "path": "local/brasov/ghimbav/2025/158",
+   "short": "HCL Ghimbav nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 158/2025 privind aprobarea Planului de acțiune și lucrări de interes local pe anul 2026, ce vor fi executate de către beneficiarii de venit minim de incluziune, conform Legii nr. 196/2026 privind venitul minim de inlcuziune, cu modificările și completările ulterioare Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-02-HCL_nr_158_25-11-2025.pdf",
+     "sha256": "d19d07d9bd206e466486509e5ecae64ec68ce429e76220ded9fbfe99ef3029c8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-159-2025",
    "path": "local/brasov/ghimbav/2025/159",
    "short": "HCL Ghimbav nr. 159/2025",
@@ -209,6 +1004,126 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-02-HCL_nr_159_25-11-2025.pdf",
      "sha256": "6d6a8f65260a5a9d6d9ecbddbf749aebe551af756fa2375543744e54c3442f29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-16-2025",
+   "path": "local/brasov/ghimbav/2025/16",
+   "short": "HCL Ghimbav nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 16/2025 privind aprobarea obiectivului de investiții „SEDIU PSI”, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_16_27_02-2025.pdf",
+     "sha256": "d76dc65c50f03542c0d8ad7159e89b7927e7a842eca8b16e500eb3f0653f0ded"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-160-2025",
+   "path": "local/brasov/ghimbav/2025/160",
+   "short": "HCL Ghimbav nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 160/2025 privind încheierea unui contract de asistență juridică cu Cabinet individual de avocatură Durbacă Adina-Alexandrina Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-02-HCL_nr_160_25-11-2025.pdf",
+     "sha256": "530d24907a305477a9c31081c1bb9904bfc3688104621f0f3c3cedeedfbcdc79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-161-2025",
+   "path": "local/brasov/ghimbav/2025/161",
+   "short": "HCL Ghimbav nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 161/2025 privind aprobarea Ordinii de zi a ședinței extraordinare a ConsiliuluiLocal al Orașului Ghimbav din data de 03.12.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-08-HCL_nr_161_03-12-2025.pdf",
+     "sha256": "2202f24e26fd4d46fd72250c9ca5a6c6d6514239ba4b5249c2516e4af5bdaf06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-162-2025",
+   "path": "local/brasov/ghimbav/2025/162",
+   "short": "HCL Ghimbav nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 162/2025 pentru modificarea HCL nr. 147/18.11.2025 privind rectificarea bugetului local al Orașului Ghimbav, pe anul 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-08-HCL_nr_162_03-12-2025.pdf",
+     "sha256": "5c592e9c3f14a574976eeee6b431094bde6022820ba02053494cf2f5b35905a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-163-2025",
+   "path": "local/brasov/ghimbav/2025/163",
+   "short": "HCL Ghimbav nr. 163/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 163/2025 privind aprobarea modificării HCL 140/30.10.2025 care a modificat HCL 104/09.08.2023, modificat prin HCL 140/31.10.2023, modificat prin HCL 88 din 31.07.2024 și completat prin HCL 21/28.03.2024 modificat prin HCL 30/27.02.2025 privind aprobarea bugetului creditelor interne din creditul obținut în valoare de 55000000 lei Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-08-HCL_nr_163_03-12-2025.pdf",
+     "sha256": "6f1c5383e3cc6650626d059663483dad221763b8cbd5fd57b91c439407ca0b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-164-2025",
+   "path": "local/brasov/ghimbav/2025/164",
+   "short": "HCL Ghimbav nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 164/2025 privind modificarea HCL nr. 155/18.12.2024 de înființare a activității de asigurare hrană preșcolari în Grădinița cu program prelungit Ghimbav, cu finanțare integrală din venituri proprii Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-08-HCL_nr_164_03-12-2025.pdf",
+     "sha256": "a0fc9a7694ff07db7acc3e8d0f67af8eae65e553c26514e2c058076247043cfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-165-2025",
+   "path": "local/brasov/ghimbav/2025/165",
+   "short": "HCL Ghimbav nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 165/2025 privind aprobarea proceselor-verbale ale ședințelor extraordinare din data de 25 Noiembrie 2025 și din data de 03 Decembrie 2025 ale Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_165_16-12-2025.pdf",
+     "sha256": "84991ecea2a5b3cadc939a33ad46ffbd7702b628f86fb04b62a84113cf9b8474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-166-2025",
+   "path": "local/brasov/ghimbav/2025/166",
+   "short": "HCL Ghimbav nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 166/2025 privind aprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 16.12.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_166_16-12-2025.pdf",
+     "sha256": "ec22398c8509f02fa2ff8813c245d0466e667855504dd65f1ce061344ad522fd"
     }
    ]
   },
@@ -243,6 +1158,66 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-169-2025",
+   "path": "local/brasov/ghimbav/2025/169",
+   "short": "HCL Ghimbav nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 169/2025 privind aprobarea Documentației de Avizare a Lucrărilor de Intervenții (D.A.L.I.) și a indicatorilor tehnico-economici pentru obiectivul de investiții: „Reconfigurare elemente geometrice ale intersecției DN1 cu str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_169_16-12-2025.pdf",
+     "sha256": "7306564b0f2bf926ec9517e427d490dddeca6d7105995508c0020ce1459f1f45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-17-2025",
+   "path": "local/brasov/ghimbav/2025/17",
+   "short": "HCL Ghimbav nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 17/2025 privind aprobarea documentației tehnico-economice pentru investiția „Demolare imobil str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_17_27_02-2025.pdf",
+     "sha256": "69776fcc64f9bead034d580cb2573cc0969d42f19186abffe86dc78c4cece366"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-170-2025",
+   "path": "local/brasov/ghimbav/2025/170",
+   "short": "HCL Ghimbav nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 170/2025 privind aprobarea Studiului de delimitare privind INFRASTRUCTURA CULTURALĂ MODERNĂ ȘI REGENERARE SPAȚII PUBLICE ÎN ORAȘUL GHIMBAV Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_170_16-12-2025.pdf",
+     "sha256": "d1978a0e03cedd10d705b99dc227f27c0c0250ad09b53c126906740d6e73a10d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-171-2025",
+   "path": "local/brasov/ghimbav/2025/171",
+   "short": "HCL Ghimbav nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 171/2025 privind aprobarea Strategiei Locale de Dezvoltare a Serviciilor Sociale în Orașul Ghimbav, jud. Brașov, pentru perioada 2026-2031 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_171_16-12-2025.pdf",
+     "sha256": "7d27c06ba468b65a1bb50bb82b681165b957c93d153428878e6f20ffc588de23"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-172-2025",
    "path": "local/brasov/ghimbav/2025/172",
    "short": "HCL Ghimbav nr. 172/2025",
@@ -254,6 +1229,111 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_172_16-12-2025.pdf",
      "sha256": "8f373cf62b1088231df3163ac57f0d0e30ef63f6685e642f29f4585e4e5ac398"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-173-2025",
+   "path": "local/brasov/ghimbav/2025/173",
+   "short": "HCL Ghimbav nr. 173/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 173/2025 pentru modificarea HCL nr. 147/18.11.2025 privind rectificarea bugetului local al Orașului Ghimbav, pe anul 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_173_16-12-2025.pdf",
+     "sha256": "375cdcbf9a62ff859f750913014a18609314d3117c3eaaaa961399be3c89b01d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-174-2025",
+   "path": "local/brasov/ghimbav/2025/174",
+   "short": "HCL Ghimbav nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 174/2025 privind aprobarea contului de execuție aferent trimestrului III 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_174_16-12-2025.pdf",
+     "sha256": "aa0315832fabe9fa2499e7c47f945d9a7b1a380704f290de819607b89978820a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-175-2025",
+   "path": "local/brasov/ghimbav/2025/175",
+   "short": "HCL Ghimbav nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 175/2025 privind analiza stadiului de înscriere a datelor în registrul agricol în anul 2024 cu stabilirea măsurilor pentru eficientizarea acestei activități în anul 2025-2026 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_175_16-12-2025.pdf",
+     "sha256": "5d6a25df4112ee54e39520269b3c3bf94c5db51622a0574265755368bb9bffe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-176-2025",
+   "path": "local/brasov/ghimbav/2025/176",
+   "short": "HCL Ghimbav nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 176/2025 privind scutirea Fundației Creștină O.M",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_176_16-12-2025.pdf",
+     "sha256": "5e667b4aa86a80d41440bb359c4f3abb2155a36f63f532ce90b7d6c5e7df98b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-177-2025",
+   "path": "local/brasov/ghimbav/2025/177",
+   "short": "HCL Ghimbav nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 177/2025 privind aprobarea ajustării tarifelor din Contractul de delegare a gestiunii serviciilor publice de salubrizare a localității Ghimbav prin concesiune 17241/28.11.2018 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_177_16-12-2025.pdf",
+     "sha256": "b8e6bdd3cc505cef29724e8f70f79619984c7164252671db76d1cd1a730ff4c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-178-2025",
+   "path": "local/brasov/ghimbav/2025/178",
+   "short": "HCL Ghimbav nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 178/2025 privind aprobarea Proiectului Planului de școlarizare – Rețeaua școlară a unităților de învățământ din Orașul Ghimbav pentru anul școlar 2026-2027 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_178_16-12-2025.pdf",
+     "sha256": "12a75f8e50ee595264aab23fd72a1ea0ffa38dcb80c6a4f9639949464cf6641a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-179-2025",
+   "path": "local/brasov/ghimbav/2025/179",
+   "short": "HCL Ghimbav nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 179/2025 privind aprobarea premierii unor sportivi/elevi precum și a antrenorilor/profesorilor pentru performanțe deosebite Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_179_16-12-2025.pdf",
+     "sha256": "cc9e1e7bf145610c39335e399195b6dee4488a2bbece9f688f3f318629b1025e"
     }
    ]
   },
@@ -273,6 +1353,96 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-180-2025",
+   "path": "local/brasov/ghimbav/2025/180",
+   "short": "HCL Ghimbav nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 180/2025 pentru îndreptare eroare materială din cuprinsul HCL Ghimbav nr. 42/02.07.2020 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_180_16-12-2025.pdf",
+     "sha256": "eedaf2fbed59ede45c36f9b2e723081c00a8d2e28d5bbb2de0face84ebb69ec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-181-2025",
+   "path": "local/brasov/ghimbav/2025/181",
+   "short": "HCL Ghimbav nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 181/2025 pentru îndreptare eroare materială din cuprinsul HCL Ghimbav nr. 44/02.07.2020 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_181_16-12-2025.pdf",
+     "sha256": "d4dad11f545cf0822c8f32bca450f0ecb8a94f25953f5649ee78e51d72596140"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-182-2025",
+   "path": "local/brasov/ghimbav/2025/182",
+   "short": "HCL Ghimbav nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 182/2025 privind aprobarea vânzării imobilului-teren situat în Orașul Ghimbav, str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_182_16-12-2025.pdf",
+     "sha256": "c692ab3d233b0f4a44de1842d2d3d12f5c48c0680fbd9f9abf857889fbc77b83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-183-2025",
+   "path": "local/brasov/ghimbav/2025/183",
+   "short": "HCL Ghimbav nr. 183/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 183/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_183_16-12-2025.pdf",
+     "sha256": "7c9e36bda67a4ce0f51378de9e4e4505d8a506c90d719e20f64a7de2309248ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-184-2025",
+   "path": "local/brasov/ghimbav/2025/184",
+   "short": "HCL Ghimbav nr. 184/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 184/2025 privind transferul dreptului de proprietate asupra bunurilor ce au făcut obiectul Contractului de finanțare nr. 1142DOT/2023, încheiat între Orașul Ghimbav și Uniunea Executivă pentru Finanțarea Învățământului Superior, a Cercetării, Dezvoltării și Inovării în numele și pentru Ministerul Educației, către Școala Gimnazială Ghimbav, județul Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-24-HCL_nr_184_16-12-2025.pdf",
+     "sha256": "d7d328872cf49744b89979c3a753f8c98041558ca7d9c88b7b716881e56a9a6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-185-2025",
+   "path": "local/brasov/ghimbav/2025/185",
+   "short": "HCL Ghimbav nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 185/2025 privind aprobarea Ordinii de zi a ședinței extraordinare a Consiliului Local al Orașului Ghimbav din data de 23.12.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-05-HCL_nr_185_23-12-2025.pdf",
+     "sha256": "a070483b143d49bada1b10d69ce16c1a98fa13ea81f19cf5d1b4d511334ccc41"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-186-2025",
    "path": "local/brasov/ghimbav/2025/186",
    "short": "HCL Ghimbav nr. 186/2025",
@@ -288,6 +1458,66 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-187-2025",
+   "path": "local/brasov/ghimbav/2025/187",
+   "short": "HCL Ghimbav nr. 187/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 187/2025 privind aprobarea Studiului de frezabilitate (S.F.) și a indicatorilor tehnico-economici pentru obiectivul de investiții: „Amenajare infrastructură pentru evenimente” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-05-HCL_nr_187_23-12-2025.pdf",
+     "sha256": "e6c1778f90a516c1fb97d4ea26e15b5e675e4903fdf268f09ecfef2cb8331cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-188-2025",
+   "path": "local/brasov/ghimbav/2025/188",
+   "short": "HCL Ghimbav nr. 188/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 188/2025 privind declararea de utilitate publică de interes local a obiectivului de investiții „Amenajare infrastructură pentru evenimente”, Orașul Ghimbav, județul Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-05-HCL_nr_188_23-12-2025.pdf",
+     "sha256": "7440db2c1042e43b4055cdfc64747add6ea48e1fd71db6c2a93b709faf0b1786"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-189-2025",
+   "path": "local/brasov/ghimbav/2025/189",
+   "short": "HCL Ghimbav nr. 189/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 189/2025 privind aprobarea declanțării procedurii de expropriere pentru cauză de utilitate publică a imobilelor-terenuri care constituie coridorul necesar obiectivului de investiții „Amenajare infrastructură pentru evenimente”, Orașul Ghimbav, județul Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-05-HCL_nr_189_23-12-2025.pdf",
+     "sha256": "3eef8f662692a010e3db543b8c257b8ed9336c69c270986759469ae61b989b09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-19-2025",
+   "path": "local/brasov/ghimbav/2025/19",
+   "short": "HCL Ghimbav nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 19/2025 privind aprobarea documentației cadastrale de dezmembrare a imobilului înscris în CF nr. 101064 Ghimbav; Nr. cadastral 101064 în suprafață de 29663 mp, situat în intravilanul Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_19_27_02-2025.pdf",
+     "sha256": "e9994657c8fe2fa78aff1c3d8fc579d9f0eaf75f2102011dfb28f0e2a850ac88"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-190-2025",
    "path": "local/brasov/ghimbav/2025/190",
    "short": "HCL Ghimbav nr. 190/2025",
@@ -299,6 +1529,66 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-12-05-HCL_nr_190_23-12-2025.pdf",
      "sha256": "7f90ee4f114ed69d521698185993c13039e2b48f5b890a717f6e22c64df8f14e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-2-2025",
+   "path": "local/brasov/ghimbav/2025/2",
+   "short": "HCL Ghimbav nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 2/2025 privind aprobarea aderării Orașului Ghimbav, județul Brașov la Asociația Orașelor din România (AOR) și plata cotizației către AOR Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-01-17-HCL_nr_2_13_01-2025.pdf",
+     "sha256": "478031844b8bf22ea54192fbab971dbbfcbddbfb0872fe1b122ca122110f4f32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-20-2025",
+   "path": "local/brasov/ghimbav/2025/20",
+   "short": "HCL Ghimbav nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 20/2025 privind aprobarea documentației cadastrale de dezmembrare a imobilului înscris în CF nr. 101095 Ghimbav; Nr. cadastral 101095 în suprafață de 6207 mp, situat în intravilanul Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_20_27_02-2025.pdf",
+     "sha256": "90ec2e924fd242fe90c9e96f51de71c57e10aa9a01ea9da8427e18085ac6e13e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-21-2025",
+   "path": "local/brasov/ghimbav/2025/21",
+   "short": "HCL Ghimbav nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 21/2025 privind aprobarea documentației cadastrale de dezmembrare a imobilului înscris în CF nr. 108287 Ghimbav; Nr. cadastral 108287 în suprafață de 2179 mp, situat în intravilanul Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_21_27_02-2025.pdf",
+     "sha256": "6c885f4a18ebd165430600bcd2cfb7ec3b9f37ededf8a61af6ac49bbbd5492fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-22-2025",
+   "path": "local/brasov/ghimbav/2025/22",
+   "short": "HCL Ghimbav nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 22/2025 privind trecerea imobilului teren, identificat în CF nr. 102881 Ghimbav, nr. cad. 102881, în suprafață de 55 mp (str. Salciei), în proprietatea Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_22_27_02-2025.pdf",
+     "sha256": "6f3fffb64aba78570703626b8aa9c300ac6b1570b4c1759a39007b239900399f"
     }
    ]
   },
@@ -363,6 +1653,36 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-27-2025",
+   "path": "local/brasov/ghimbav/2025/27",
+   "short": "HCL Ghimbav nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 27/2025 privind aprobarea documentației de licitație publică în plic închis, în vederea vânzării unui număr de 4 (patru) loturi de teren intravilan, situate în str. Bârsei, Orașul Gimbav, județul Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_27_27_02-2025.pdf",
+     "sha256": "b5903a58e3d1ed449a636323a2aa5dbfa6d466d60fad2e1a3ea11f1186d12841"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-28-2025",
+   "path": "local/brasov/ghimbav/2025/28",
+   "short": "HCL Ghimbav nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 28/2025 privind încheierea unui contract de asistență juridică cu Cabinet individual de avocatură Durbacă Adina-Alexandrina Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_28_27_02-2025.pdf",
+     "sha256": "245eab6c54acabf227d163a2f5e37f28f2eecb0adaa8cca037442b5467d2006a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-29-2025",
    "path": "local/brasov/ghimbav/2025/29",
    "short": "HCL Ghimbav nr. 29/2025",
@@ -378,6 +1698,141 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-3-2025",
+   "path": "local/brasov/ghimbav/2025/3",
+   "short": "HCL Ghimbav nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 3/2025 privind aprobarea implementării proiectului „Achiziție tocător de crengi – UAT Ghimbav, județul Brașov” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-01-17-HCL_nr_3_13_01-2025.pdf",
+     "sha256": "6921d70d8c29b28038951039fa377224bf52c7577674a7deb6c8773bb161c761"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-30-2025",
+   "path": "local/brasov/ghimbav/2025/30",
+   "short": "HCL Ghimbav nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 30/2025 privind aprobarea modificării HCL nr. 104/09.08.2023, modificat prin HCL nr. 140/31.10.2023, modificat prin HCL nr. 88/31.07.2024 și completat prin HCL nr. 21/28.03.2024 și HCL nr. 134/28.11.2024 privind aprobarea bugetului creditelor interne din creditul obținut în valoare de 55000000 lei Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-11-HCL_nr_30_27_02-2025.pdf",
+     "sha256": "19a77ee388d1ff4705b85eda143cb71febc9ce44ec2bc31c47385c2c2e83ae60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-31-2025",
+   "path": "local/brasov/ghimbav/2025/31",
+   "short": "HCL Ghimbav nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 31/2025 privind aprobarea procesului-verbal al ședinței extraordinare din data de 25.02.2025 și al ședinței ordinare din data de 27.02.2025 ale Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_31_20_03-2025.pdf",
+     "sha256": "75456aa687f3f65af5688d60aaa7671774b592e79d201138df8c9779b5b37ddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-32-2025",
+   "path": "local/brasov/ghimbav/2025/32",
+   "short": "HCL Ghimbav nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 32/2025 privind aprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 20.03.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_32_20_03-2025.pdf",
+     "sha256": "dd515746598ef2af0a72d1d55d19f7108b176df4f8c115e7fa3b2674f34ee0a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-33-2025",
+   "path": "local/brasov/ghimbav/2025/33",
+   "short": "HCL Ghimbav nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 33/2025 privind acordarea unor facilități pentru S.C",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_33_20_03-2025.pdf",
+     "sha256": "e6dba4aafcc1baaeb6406192490c442f94dcdd0520f3599f817b316fbfc48cc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-34-2025",
+   "path": "local/brasov/ghimbav/2025/34",
+   "short": "HCL Ghimbav nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 34/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_34_20_03-2025.pdf",
+     "sha256": "b3bf5ec41983c4e76435620b912bc652f43655bc84b193b2d65b052de96d1d9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-35-2025",
+   "path": "local/brasov/ghimbav/2025/35",
+   "short": "HCL Ghimbav nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 35/2025 privind completarea prevederilor Contractului de delegare a gestiunii Serviciului de Salubrizare nr. 17241/28.11.2018 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_35_20_03-2025.pdf",
+     "sha256": "8ba410cba73143b2b835337f2d6cf3ff4fc166952e3c9b0cf7e13546d29a000d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-36-2025",
+   "path": "local/brasov/ghimbav/2025/36",
+   "short": "HCL Ghimbav nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 36/2025 pentru aprobarea Actului adițional nr. 7 la Contractul de Delegare a Gestiunii Serviciului de Transport Public de Călători nr. 1/2018, încheiat de AMDDTPBv cu operatorul de transport regional RATBV SA Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_36_20_03-2025.pdf",
+     "sha256": "bbf70cf689a5fba92adacdd3460fe6e66b8d7e78d0f98817b0f44e0b907e60f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-37-2025",
+   "path": "local/brasov/ghimbav/2025/37",
+   "short": "HCL Ghimbav nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 37/2025 privind Propunere atribuire denumire stradă în Orașul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_37_20_03-2025.pdf",
+     "sha256": "3cc0f1400adbe955711d0d0995490101c8f6b66e8f69f18b2f2df9a9d750cb59"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-38-2025",
    "path": "local/brasov/ghimbav/2025/38",
    "short": "HCL Ghimbav nr. 38/2025",
@@ -389,6 +1844,66 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_38_20_03-2025.pdf",
      "sha256": "eabcdef54312e7289a722baf86ca13fdea623dc3f7450705a7db949ade73870a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-39-2025",
+   "path": "local/brasov/ghimbav/2025/39",
+   "short": "HCL Ghimbav nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 39/2025 privind reaprobarea valorii indicatorilor tehnico-economici pentru obiectivul de investiții: „Amenajare zonă pietonală str. Victoriei”, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_39_20_03-2025.pdf",
+     "sha256": "e41c86eb4648b6a3f19e8b1f6b18954984c53c3a45f5958ee699884bcc368097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-4-2025",
+   "path": "local/brasov/ghimbav/2025/4",
+   "short": "HCL Ghimbav nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 4/2025 privind aprobarea Ordinii de zi a ședinței extraordinare a Consiliului Local al Orașului Ghimbav din data de 21.01.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-01-22-HCL_nr_4_21_01-2025.pdf",
+     "sha256": "68a1700b3473dc7b52acab3bcb8c3fe841d12439c4f5a1834ad3b1a388a3cae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-40-2025",
+   "path": "local/brasov/ghimbav/2025/40",
+   "short": "HCL Ghimbav nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 40/2025 privind modificarea statului de funcții al aparatului de specialitate al Primarului Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-26-HCL_nr_40_20_03-2025.pdf",
+     "sha256": "f284b3313ca4bbffffc488cee98fc8a5d85e624cb9eff6e5ddf1f3358eab1041"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-41-2025",
+   "path": "local/brasov/ghimbav/2025/41",
+   "short": "HCL Ghimbav nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 41/2025 privind aprobarea Ordinii de zi a ședinței extraordinare a Consiliului Local al Orașului Ghimbav din data de 26.03.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-04-02-HCL_nr_41_26-03-2025.pdf",
+     "sha256": "b00aadc77a34aa1dee557bc145d5b0c00f87326ff4c9252a5e558665ddfde85b"
     }
    ]
   },
@@ -423,6 +1938,36 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-44-2025",
+   "path": "local/brasov/ghimbav/2025/44",
+   "short": "HCL Ghimbav nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 44/2025 privind aprobarea procesului-verbal al ședinței ordinare din data de 20.03.2025 și al ședinței extraordinare di data de 26.03.2025, ale Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_44_28-04-2025.pdf",
+     "sha256": "d265943ceb224eaea202341f215bfc5ca51a51140f003dd967d825918bbe1f8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-45-2025",
+   "path": "local/brasov/ghimbav/2025/45",
+   "short": "HCL Ghimbav nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 45/2025 privind aprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 28.04.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_45_28-04-2025.pdf",
+     "sha256": "e1a8178026d40a22ea669d935d9b1bd16a1cf5ea5f10edf2760e9a94fb61a162"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-46-2025",
    "path": "local/brasov/ghimbav/2025/46",
    "short": "HCL Ghimbav nr. 46/2025",
@@ -434,6 +1979,96 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_46_28-04-2025.pdf",
      "sha256": "61ea3bf1f0d4e112bc0f9fb109a4afe084331f5f8371405050bb8e708364f938"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-47-2025",
+   "path": "local/brasov/ghimbav/2025/47",
+   "short": "HCL Ghimbav nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 47/2025 privind atribuirea de denumire stradă în orașul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_47_28-04-2025.pdf",
+     "sha256": "f2af3704fcf869b0621d138e6d866d3429ddc9417544007d28a1fee900a4f535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-48-2025",
+   "path": "local/brasov/ghimbav/2025/48",
+   "short": "HCL Ghimbav nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 48/2025 privind atestarea apartenenței la domeniul privat al Orașului Ghimbav a cotei actuale de 7325/14175 din imobilul-teren identificat în CF nr. 106035/Ghimbav, nr. cad. 106035, în suprafață de 14175 mp Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_48_28-04-2025.pdf",
+     "sha256": "96c5cf9fb5b1df8d5c0268db84eeb2f1938023fcd8d97425a71d918de9f693ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-49-2025",
+   "path": "local/brasov/ghimbav/2025/49",
+   "short": "HCL Ghimbav nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 49/2025 privind încheierea unui contract de asistență juridică cu Cabinet individual de avocatură Durbacă Adina-Alexandrina Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_49_28-04-2025.pdf",
+     "sha256": "24488ccb8401bfcf9170eb225f402d8e6fc93d1951e281e65a218f0ec4f4e5b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-5-2025",
+   "path": "local/brasov/ghimbav/2025/5",
+   "short": "HCL Ghimbav nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 5/2025 pentru modificarea HCL nr. 3/13.01.2025 privind „Achiziție tocător crengi – UAT Ghimbav, județul Brașov” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-01-22-HCL_nr_5_21_01-2025.pdf",
+     "sha256": "06890159ca01d13787db027671f5a215fce06663358f5bead8426d87d01662ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-50-2025",
+   "path": "local/brasov/ghimbav/2025/50",
+   "short": "HCL Ghimbav nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 50/2025 privind aprobarea încheierii unui Acord de parteneriat având ca obiect de pregătirea și implementarea proiectului „Trenul Metropolitan Brașov” și operarea serviciului Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_50_28-04-2025.pdf",
+     "sha256": "de83949c3602cb623d8416e28f533e105ccbbaa7bc72b9ec5befe767ae299f7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-51-2025",
+   "path": "local/brasov/ghimbav/2025/51",
+   "short": "HCL Ghimbav nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 51/2025 pentru modificarea și completarea HCL nr. 178/2023 pentru acordarea unor facilități anumitor categorii de persoane, pe traseele operate de RATBV SA, în cadrul serviciului public de transport local prin curse regulate efectuat în UAT-urile membre ale ATBv Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_51_28-04-2025.pdf",
+     "sha256": "d5f39fca5d334c2266711a9019918ea7e1e76b4f7bfda6da7b3b29377b7026f9"
     }
    ]
   },
@@ -468,6 +2103,96 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-54-2025",
+   "path": "local/brasov/ghimbav/2025/54",
+   "short": "HCL Ghimbav nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 54/2025 privind deplasarea delegației Orașului Ghimbav la Misiunea Economică Organizată de Camera de Comerț și Industrie Brașov în cadrul Forumului Primarilor – CEEC în perioada 20-27 mai 2025 la Ningbo și Shanghai Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_54_28-04-2025.pdf",
+     "sha256": "8c43c0fc5f5ffd291d837c89f614516dd55e439dbb004f7623959e11717769ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-55-2025",
+   "path": "local/brasov/ghimbav/2025/55",
+   "short": "HCL Ghimbav nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 55/2025 privind aprobarea documentației cadastrale de înscriere în sistemul integrat de cadastru și carte funciară a imobilului identificat ca DE 146/16, Orașul Ghimbav, jud. Brașov, în suprafață de 3076 mp Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_55_28-04-2025.pdf",
+     "sha256": "62a57879ff5f80457322d322d6691ae7db5e280fbc8ae1e26fab033152414d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-56-2025",
+   "path": "local/brasov/ghimbav/2025/56",
+   "short": "HCL Ghimbav nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 56/2025 privind alocarea de la bugetul local a unor fonduri pentru Parohia Ortodoxă Română Ghimbav I – Hramul „Sfânta Treime” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_56_28-04-2025.pdf",
+     "sha256": "0be06921f8825e550a249f28c250098506ae619a641d021d05489d9aef8355da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-57-2025",
+   "path": "local/brasov/ghimbav/2025/57",
+   "short": "HCL Ghimbav nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 57/2025 privind alocarea de la bugetul local a unor fonduri pentru Parohia Ortodoxă Română Ghimbav II – Hramul „Sf",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_57_28-04-2025.pdf",
+     "sha256": "cb044620f3d43dde65391d35f5227a914c3c104847c332e63307476db735cf38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-58-2025",
+   "path": "local/brasov/ghimbav/2025/58",
+   "short": "HCL Ghimbav nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 58/2025 privind alocarea de la bugetul local a unor fonduri pentru „Biserica Evanghelică – C.A Parohia Ghimbav” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-05-09-HCL_nr_58_28-04-2025.pdf",
+     "sha256": "9b1588506713590275bb3e724b20f57467ce5b37ae256bd449054524396b48c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-59-2025",
+   "path": "local/brasov/ghimbav/2025/59",
+   "short": "HCL Ghimbav nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 59/2025 privind alegerea președintelui de ședință ce va conduce lucrarile Consiliului Local al Orașului Ghimbav în lunile mai – iunie – iulie 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_59_30-05-2025.pdf",
+     "sha256": "dee59b93bb449e5099f5341a24e371357763819e3547157234789457132508c6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-6-2025",
    "path": "local/brasov/ghimbav/2025/6",
    "short": "HCL Ghimbav nr. 6/2025",
@@ -479,6 +2204,351 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-01-22-HCL_nr_6_21_01-2025.pdf",
      "sha256": "79f190e5459b8727a62a324977d84f43a0c2e9655f4f39714809f6c2a6217ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-60-2025",
+   "path": "local/brasov/ghimbav/2025/60",
+   "short": "HCL Ghimbav nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 60/2025 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 28 aprilie 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_60_30-05-2025.pdf",
+     "sha256": "9ce112931c031ff0c28970b2f8961a3c0739abcf518f2c4d43b3e070cbca6fcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-61-2025",
+   "path": "local/brasov/ghimbav/2025/61",
+   "short": "HCL Ghimbav nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 61/2025 privind aprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 30.05.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_61_30-05-2025.pdf",
+     "sha256": "4d08b45f9c030775bb30604e2824e80794e9dfa40b7a85e6550a50b45222edc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-62-2025",
+   "path": "local/brasov/ghimbav/2025/62",
+   "short": "HCL Ghimbav nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 62/2025 privind aprobarea Statutului Revizuit și Actualizat al Agenției Metropolitane pentru Dezvoltare Durabilă Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_62_30-05-2025.pdf",
+     "sha256": "b41364687e0f59bf92723944c701f4238629b405a3c83c141fa8a34b65d6862a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-63-2025",
+   "path": "local/brasov/ghimbav/2025/63",
+   "short": "HCL Ghimbav nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 63/2025 privind acordarea unui ajutor financiar lunar, pentru dl",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_63_30-05-2025.pdf",
+     "sha256": "3658de2454053d08a0427109078f75a51bc6066b82eda39dd3ac541f1ba579b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-64-2025",
+   "path": "local/brasov/ghimbav/2025/64",
+   "short": "HCL Ghimbav nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 64/2025 privind aprobarea studiului de frezabilitate (S.F.) și a indicatorilor tehnico-economici pentru obiectivul de investiții: „Construire imobil locuințe sociale, str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_64_30-05-2025.pdf",
+     "sha256": "82ee3189141dab8a7fe58e9f6ee37c358c63b6ede9ad9ee81c2704d6e528b8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-65-2025",
+   "path": "local/brasov/ghimbav/2025/65",
+   "short": "HCL Ghimbav nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 65/2025 privind aprobarea scoaterii din evidență a unor elemente de natura activelor, imobilizări corporale în curs de execuție, deținute de Orașul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_65_30-05-2025.pdf",
+     "sha256": "209840bfb2d99da8e2977aa6778c257542695739d7d6c082ea97d62662669acf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-66-2025",
+   "path": "local/brasov/ghimbav/2025/66",
+   "short": "HCL Ghimbav nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 66/2025 privind darea la scădere a unor creanțe fiscale datorate la bugetul local de către persoane jurudice radiate, înregistrate în evidențele fiscale ale Orașului Ghimbav în vederea scoaterii acestora din evidență Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_66_30-05-2025.pdf",
+     "sha256": "b795c8903e751b90738c99091e18a809898d9015451a5ae3094d1d26bd36aaca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-67-2025",
+   "path": "local/brasov/ghimbav/2025/67",
+   "short": "HCL Ghimbav nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 67/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_67_30-05-2025.pdf",
+     "sha256": "510c723b245aa3b1e9c1e9f0202e9eb17b47133a62c3c31c0d3c35766c993300"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-68-2025",
+   "path": "local/brasov/ghimbav/2025/68",
+   "short": "HCL Ghimbav nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 68/2025 privind reaprobarea valorii totale și a indicatorilor tehnico-economici pentru obiectivul de investiții: „Investiții Sistem de iluminat și telegestiune inclusiv modernizare rețele electrice, iluminat public în Orașul Ghimbav” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_68_30-05-2025.pdf",
+     "sha256": "a376e1695d5219e6163c3c0c1b821699930b722177afebb86b6748345344ead2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-69-2025",
+   "path": "local/brasov/ghimbav/2025/69",
+   "short": "HCL Ghimbav nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 69/2025 privind aprobarea Programului anual propriu pentru acordarea de finanțări nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general în domeniul sport și a Ghidului solicitantului Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_69_30-05-2025.pdf",
+     "sha256": "1e0271f4092994454ebb1a0aa9bedce5a368d82f90391550c58d14aad3ef5809"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-7-2025",
+   "path": "local/brasov/ghimbav/2025/7",
+   "short": "HCL Ghimbav nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 7/2025 privind alegerea președintelui de ședință ce va conduce lucrările Consiliului Local al Orașului Ghimbav în lunile februarie – martie – aprilie 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-05-HCL_nr_07_25_02-2025.pdf",
+     "sha256": "af24cc4d3b60b038e140d399911b7d8347e92d855817125361d3e132bd130b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-70-2025",
+   "path": "local/brasov/ghimbav/2025/70",
+   "short": "HCL Ghimbav nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 70/2025 pentru modificarea și completarea HCL nr. 5/2023 privind aprobarea reglementărilor juridice și tehnice cu privire la parcelarea terenurilor și proiectarea infrasctructurii stradale din documentațiile de urbanism Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_70_30-05-2025.pdf",
+     "sha256": "a37a8d471b9fb54aec92147921b80f7203c8e9bd4090cc0b6cea46127477ba55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-71-2025",
+   "path": "local/brasov/ghimbav/2025/71",
+   "short": "HCL Ghimbav nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 71/2025 privind aprobarea contului de execuție aferent trimestrului I 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_71_30-05-2025.pdf",
+     "sha256": "52828690f57ccc506c7c6e7b9b4af413ddab7fc2c07c13e6004d588f3a39ae4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-72-2025",
+   "path": "local/brasov/ghimbav/2025/72",
+   "short": "HCL Ghimbav nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 72/2025 privind acordarea pentru anul școlar 2025-2026 a pachetului cu rechizite școlare Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-06-12-HCL_nr_72_30-05-2025.pdf",
+     "sha256": "e08d4449038350299d36973c90bb6c551bdb17d4ba45fbd244845e2b5b9629e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-73-2025",
+   "path": "local/brasov/ghimbav/2025/73",
+   "short": "HCL Ghimbav nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 73/2025 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 30 Mai 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_73_26-06-2025.pdf",
+     "sha256": "5722ca60aabd7c18e7bd0431c3f4a495bc044905cf29720a4dd914ac8915d82d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-74-2025",
+   "path": "local/brasov/ghimbav/2025/74",
+   "short": "HCL Ghimbav nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 74/2025 privind aprobarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 26.06.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_74_26-06-2025.pdf",
+     "sha256": "52f43dd9d2c452e1b3a28885786dad1a76ca2c0a7f977a403acb3ac60da38b27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-75-2025",
+   "path": "local/brasov/ghimbav/2025/75",
+   "short": "HCL Ghimbav nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 75/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_75_26-06-2025.pdf",
+     "sha256": "314b4bbdc0f4504ff58dacfac11af2f5f83473b739872b93514176b40ce8ba94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-76-2025",
+   "path": "local/brasov/ghimbav/2025/76",
+   "short": "HCL Ghimbav nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 76/2025 privind trecerea celor două cote de 60/3024 părți din imobilul teren, identificat în CF nr. 100858 Ghimbav, nr. cad.:100858, în suprafață de 3880 mp (str. Busuiocului), în proprietatea Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_76_26-06-2025.pdf",
+     "sha256": "d2307ba8ce74e75381fa0888351a02dd654f6da119cb99cf64d168965db735d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-77-2025",
+   "path": "local/brasov/ghimbav/2025/77",
+   "short": "HCL Ghimbav nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 77/2025 privind trecerea cotei de 112/3024 din imobilul teren, identificat în CF nr. 100858 Ghimbav, nr. cad.:100858, în suprafață de 3880 mp (str. Busuiocului), în proprietatea Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_77_26-06-2025.pdf",
+     "sha256": "57edd0ffbb2bbcf19252c86b6daef4a31d27378d961e8bc3af59d46009721ee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-78-2025",
+   "path": "local/brasov/ghimbav/2025/78",
+   "short": "HCL Ghimbav nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 78/2025 privind aprobarea obiectivului de investiții „Lucrări de reparații capitale la imobilul Școală Generală clasele V-VIII, str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_78_26-06-2025.pdf",
+     "sha256": "c3850f3a462ec57e74b5406b375648ed84403331415b916fbaab18fbefb2554f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-79-2025",
+   "path": "local/brasov/ghimbav/2025/79",
+   "short": "HCL Ghimbav nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 79/2025 privind aprobarea obiectivului de investiții „Școală gimnazială clasa 0” și a indicatorilor tehnico-economici Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_79_26-06-2025.pdf",
+     "sha256": "b2423221b7354ced9eac74de58cf980877a3937758e7209745bd2e0edff98b5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-8-2025",
+   "path": "local/brasov/ghimbav/2025/8",
+   "short": "HCL Ghimbav nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 8/2025 privind aprobarea Ordinii de zi a ședinței extraordinare a Consiliului Local al Orașului Ghimbav din data de 25.02.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-05-HCL_nr_08_25_02-2025.pdf",
+     "sha256": "5bbd7e487525dcb1b34457885e1375a6a1f2b813c900cdb6681a0a1cbb7eb14f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-80-2025",
+   "path": "local/brasov/ghimbav/2025/80",
+   "short": "HCL Ghimbav nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 80/2025 pentru înființarea Comisiei Tehnice de Amenajare a Teritoriului și Urbanismului U.A.T",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_80_26-06-2025.pdf",
+     "sha256": "a3a8e5340c931a1065a9bbfaeb6cba17eebd88ad3aa8b892280679351facbffc"
     }
    ]
   },
@@ -528,6 +2598,111 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-84-2025",
+   "path": "local/brasov/ghimbav/2025/84",
+   "short": "HCL Ghimbav nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 84/2025 privind rectificarea bugetului local al U.A.T",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-07-HCL_nr_84_26-06-2025.pdf",
+     "sha256": "506ce44ca20f7df2c7048c1ffaed89b97af87a2ad4996dd3cc5eaf8d0e253033"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-85-2025",
+   "path": "local/brasov/ghimbav/2025/85",
+   "short": "HCL Ghimbav nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 85/2025 privind aprobarea procesului-verbal al ședinței ordinare din data de 26.06.2025 al Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_85_21-07-2025.pdf",
+     "sha256": "ac2095d32cfe12ef69b2bc8c726f2fecfe0a3578ccb8cb4c19cc1c83c37e92d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-86-2025",
+   "path": "local/brasov/ghimbav/2025/86",
+   "short": "HCL Ghimbav nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 86/2025 privind probarea Ordinii de zi a ședinței ordinare a Consiliului Local al Orașului Ghimbav din data de 21.07.2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_86_21-07-2025.pdf",
+     "sha256": "d99b62b34a0184f89eff394a9360acd646c1c9d5106876fb3a4d53cf46b04e91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-87-2025",
+   "path": "local/brasov/ghimbav/2025/87",
+   "short": "HCL Ghimbav nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 87/2025 privind rectificarea bugetului local al Orașului Ghimbav, pe anul 2025 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_87_21-07-2025.pdf",
+     "sha256": "83633bc332b5880952b704a1307df0d3c42f7ff49506da45d9aa2426f70c0fa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-88-2025",
+   "path": "local/brasov/ghimbav/2025/88",
+   "short": "HCL Ghimbav nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 88/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_88_21-07-2025.pdf",
+     "sha256": "f1388fe5990fc3cefab77a44580e518bf276a3d97f319562ad37fa41a83ccfd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-89-2025",
+   "path": "local/brasov/ghimbav/2025/89",
+   "short": "HCL Ghimbav nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 89/2025 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 30000000,00 lei pentru asigurarea finanțării obiectivelor de investiții de interes local, respectiv aprobarea contractării unei finanțări rambursabile interne/externe în valoare de până la 8863322,45 lei pentru refinanțarea datoriei publice locale Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_89_21-07-2025.pdf",
+     "sha256": "1c234609cfa9aa2e0fa7845888a4a6e96c51646c2e6e7b22c57f4caa53486ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-9-2025",
+   "path": "local/brasov/ghimbav/2025/9",
+   "short": "HCL Ghimbav nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 9/2025 privind aprobarea obiectivului de investiții „Amenajare scuar str. Zambilei”, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-03-05-HCL_nr_09_25_02-2025.pdf",
+     "sha256": "3fbfa3da80dcea1000783f813dbca86dfe8a6988d7774963c3b89ca2f47a6955"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-90-2025",
    "path": "local/brasov/ghimbav/2025/90",
    "short": "HCL Ghimbav nr. 90/2025",
@@ -539,6 +2714,141 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_90_21-07-2025.pdf",
      "sha256": "b3f917b7c3329ff69345cf142e4c6b5a72a338f1b295eab99d321cd892fbe8ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-91-2025",
+   "path": "local/brasov/ghimbav/2025/91",
+   "short": "HCL Ghimbav nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 91/2025 privind trecerea cotei de 60/1512 din imobilul teren, identificat în CF nr. 100858 Ghimbav, nr. cad. 100585, în suprafață de 3880 mp (str. Busuiocului), în proprietatea Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_91_21-07-2025.pdf",
+     "sha256": "dd123cdad8698843c2887256800227c47db6a9f7ac8e79ca3f5029cd37243dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-92-2025",
+   "path": "local/brasov/ghimbav/2025/92",
+   "short": "HCL Ghimbav nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 92/2025 privind trecerea cotei de 112/3024 din imobilul teren, identificat în CF nr. 100858 Ghimbav, nr. cad. 100585, în suprafață de 3880 mp (str. Busuiocului), în proprietatea Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_92_21-07-2025.pdf",
+     "sha256": "73aadeb4995ffa8a3326ffe7b644adc377b90a754ece2dd847c7a3acbcfc596e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-93-2025",
+   "path": "local/brasov/ghimbav/2025/93",
+   "short": "HCL Ghimbav nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 93/2025 privind aprobarea vânzării imobilelor-teren situate în Orașul Ghimbav, str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_93_21-07-2025.pdf",
+     "sha256": "3aa1acd8110f51bcf1de33a58c3a0387a47a6a06a15f6687f1718173d521376d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-94-2025",
+   "path": "local/brasov/ghimbav/2025/94",
+   "short": "HCL Ghimbav nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 94/2025 privind aprobarea vânzării imobilului-teren situat în Orașul Ghimbav, str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_94_21-07-2025.pdf",
+     "sha256": "32549830fa0cc7bb04110c49cf601d565684d3a7f5e90b5a9d670e9dc99aeeb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-95-2025",
+   "path": "local/brasov/ghimbav/2025/95",
+   "short": "HCL Ghimbav nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 95/2025 privind aprobarea documentației cadastrale de înscriere provizorie în sistemul integrat de cadastru și carte funciară a imobilului identificat ca DE 146/18, Orașul Ghimbav, jud. Brașov, în suprafață de 3076 mp Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_95_21-07-2025.pdf",
+     "sha256": "8acc84d66ebbe475b82e2690b37fd4be08b7fdace93fce6fbb1c6fb7ca051ce6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-96-2025",
+   "path": "local/brasov/ghimbav/2025/96",
+   "short": "HCL Ghimbav nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 96/2025 privind aprobarea documentației cadastrale de dezmembrare a imobilului înscris în CF nr. 100466 Ghimbav; nr. cad. 100466 în suprafață de 21.249 mp, situat în intravilanul Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_96_21-07-2025.pdf",
+     "sha256": "4fb9f30c0790ec0c65b54c7c75977fadd8be21fa1d66fa997f5eb8011d3ed702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-97-2025",
+   "path": "local/brasov/ghimbav/2025/97",
+   "short": "HCL Ghimbav nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 97/2025 privind aprobarea documentației cadastrale de dezmembrare a imobilului înscris în CF nr. 104356 Ghimbav; nr. cad. 104356 în suprafață de 16.129 mp, situat în intravilanul Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_97_21-07-2025.pdf",
+     "sha256": "61b79c6e1b8cd56c29de53658df8db4676e553bacab537f756df13cf42072c77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-98-2025",
+   "path": "local/brasov/ghimbav/2025/98",
+   "short": "HCL Ghimbav nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 98/2025 privind aprobarea documentației cadastrale de dezmembrare a imobilului înscris în CF nr. 104355 Ghimbav; nr. cad. 104355 în suprafață de 900 mp, situat în intravilanul Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_98_21-07-2025.pdf",
+     "sha256": "b1a4f9ced372a43c462052f37acafa3fb7507e9f817b9ee7a8dded45788a4346"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-99-2025",
+   "path": "local/brasov/ghimbav/2025/99",
+   "short": "HCL Ghimbav nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 99/2025 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2025-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/129/2025-07-31-HCL_nr_99_21-07-2025.pdf",
+     "sha256": "be3bad2dd470b61c8b4fa03b5fcad1bae8e4462506d50866c6a4ab1b68ff5ec8"
     }
    ]
   }

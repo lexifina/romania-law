@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/brasov/brasov/2022",
+"acts": [
+{
+"slug": "hcl-brasov--brasov-605-2022",
+"path": "local/brasov/brasov/2022/605",
+"kind": "local",
+"year": "2022",
+"number": "605",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brașov nr. 605/2022",
+"short": "HCL Brașov nr. 605/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": null,
+"council": "brasov/brasov",
+"council_name": "Consiliul Local al Municipiului Brașov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

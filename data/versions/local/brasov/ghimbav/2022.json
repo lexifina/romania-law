@@ -3,6 +3,1386 @@
  "shard": "local/brasov/ghimbav/2022",
  "acts": [
   {
+   "slug": "hcl-brasov--ghimbav-1-2022",
+   "path": "local/brasov/ghimbav/2022/1",
+   "short": "HCL Ghimbav nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 1/2022 pentru Oferta de vânzare nr. 9/23.11.2021",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-08-HCL_nr_1_31-01-2022.pdf",
+     "sha256": "c563087ec369ee1401d00e078bbac5d235b919304c64197de9329c122377ec67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-100-2022",
+   "path": "local/brasov/ghimbav/2022/100",
+   "short": "HCL Ghimbav nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 100/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_100_26-07-2022.pdf",
+     "sha256": "c14e0d1dd97f1dadfaad8cf2a5e99107c384d46d2a3eae582d778ecdceb02039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-101-2022",
+   "path": "local/brasov/ghimbav/2022/101",
+   "short": "HCL Ghimbav nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 101/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_101_26-07-2022.pdf",
+     "sha256": "9e505eadfe014b6c875dca96363603727e4d66c114fc7f2095feac208339ee50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-102-2022",
+   "path": "local/brasov/ghimbav/2022/102",
+   "short": "HCL Ghimbav nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 102/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_102_26-07-2022.pdf",
+     "sha256": "0ca0913e2225b9e7f29f78ef4ea483d5d7289af9a15ad0325b98b4db1bc5caae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-103-2022",
+   "path": "local/brasov/ghimbav/2022/103",
+   "short": "HCL Ghimbav nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 103/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_103_26-07-2022.pdf",
+     "sha256": "c4ebda55f612d0d094fd1790d8fab68cfe7d038f74ee4360c9f72614b5f6e3f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-104-2022",
+   "path": "local/brasov/ghimbav/2022/104",
+   "short": "HCL Ghimbav nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 104/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_104_26-07-2022.pdf",
+     "sha256": "f6916693bfe6600e34b915074226cb347ec932698dbb6fd8745fd8a2bd0cccad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-105-2022",
+   "path": "local/brasov/ghimbav/2022/105",
+   "short": "HCL Ghimbav nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 105/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_105_26-07-2022.pdf",
+     "sha256": "06025faf29752e4134031f99548ded111f7ed13c5b7f3436058565088f281ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-106-2022",
+   "path": "local/brasov/ghimbav/2022/106",
+   "short": "HCL Ghimbav nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 106/2022 pentru Parohia Ortodoxă Ghimbav II „Sf. Ap",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_106_26-07-2022.pdf",
+     "sha256": "a53546758bcce82a348ec40c3eea3fb17a0a4330e24993435b4b027b87734347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-107-2022",
+   "path": "local/brasov/ghimbav/2022/107",
+   "short": "HCL Ghimbav nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 107/2022 pentru Biseria Evanghelică CA Parohia Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_107_26-07-2022.pdf",
+     "sha256": "2ddabd7fa2894ecb72f584e26fc4448a98af15f668043e3c55d15d0e370d29ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-108-2022",
+   "path": "local/brasov/ghimbav/2022/108",
+   "short": "HCL Ghimbav nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 108/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-09-12-HCL_nr_108_31-08-2022.pdf",
+     "sha256": "b46d9612972261bec4a0a42ea51245ef886009957c6a6e8ca4ceef302745af12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-109-2022",
+   "path": "local/brasov/ghimbav/2022/109",
+   "short": "HCL Ghimbav nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 109/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-09-12-HCL_nr_109_31-08-2022.pdf",
+     "sha256": "14dc67a8484b66f421cf54905865607fd95642369984a038b0425752df2061c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-110-2022",
+   "path": "local/brasov/ghimbav/2022/110",
+   "short": "HCL Ghimbav nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 110/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-09-12-HCL_nr_110_31-08-2022.pdf",
+     "sha256": "5f671fd129f915ab4a415a209644d5b77e482f0f53da0ee2e13322079670740f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-111-2022",
+   "path": "local/brasov/ghimbav/2022/111",
+   "short": "HCL Ghimbav nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 111/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-09-12-HCL_nr_111_31-08-2022.pdf",
+     "sha256": "5be5e9b84a11183e0667ea2fc42a2036ef88ed6544ad66c459986a491cc2263c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-112-2022",
+   "path": "local/brasov/ghimbav/2022/112",
+   "short": "HCL Ghimbav nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 112/2022 pentru anul școlar 2022-2023 a pachetului de rechizite școlare Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-09-12-HCL_nr_112_31-08-2022.pdf",
+     "sha256": "21bc3860b8c16e6bca585b5460b0f60155be1858fadad488e885447d09c6f277"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-113-2022",
+   "path": "local/brasov/ghimbav/2022/113",
+   "short": "HCL Ghimbav nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 113/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-09-12-HCL_nr_113_31-08-2022.pdf",
+     "sha256": "15c44fb7f804e71c441bd760f41a6a9ecaf5f69219e7573765beb0fb0db6ed7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-114-2022",
+   "path": "local/brasov/ghimbav/2022/114",
+   "short": "HCL Ghimbav nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 114/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-09-12-HCL_nr_114_31-08-2022.pdf",
+     "sha256": "359e101e7d31e5107ef3c5ad03cbc2ce4c72ecb33a4b9de75698c395f28a8ac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-115-2022",
+   "path": "local/brasov/ghimbav/2022/115",
+   "short": "HCL Ghimbav nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 115/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-10-06-HCL_nr_115_27-09-2022.pdf",
+     "sha256": "2643ab7eaa8c033d4e7997904afe74d838abdc1e9e373df0fc0ba52471a6f74f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-116-2022",
+   "path": "local/brasov/ghimbav/2022/116",
+   "short": "HCL Ghimbav nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 116/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-10-06-HCL_nr_116_27-09-2022.pdf",
+     "sha256": "411e4ccb17ac09fd1455fb81e91274ab597a36a213bbc1fdda04777ef2d1f500"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-117-2022",
+   "path": "local/brasov/ghimbav/2022/117",
+   "short": "HCL Ghimbav nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 117/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-10-06-HCL_nr_117_27-09-2022.pdf",
+     "sha256": "402be4bb219dc1d5a851ed9e3cbc27893fa7d0fc4bf41718280a5705c133dc86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-118-2022",
+   "path": "local/brasov/ghimbav/2022/118",
+   "short": "HCL Ghimbav nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 118/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-10-06-HCL_nr_118_27-09-2022.pdf",
+     "sha256": "0a6a683879b2672c554de15633040f5d9bf950adc27cea7c506d28f73b3b5b46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-119-2022",
+   "path": "local/brasov/ghimbav/2022/119",
+   "short": "HCL Ghimbav nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 119/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-10-06-HCL_nr_119_27-09-2022.pdf",
+     "sha256": "33607d74a5f6a4869ad97b3efcc5bd5b64df532716aaf26e454da3f5beb5a072"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-120-2022",
+   "path": "local/brasov/ghimbav/2022/120",
+   "short": "HCL Ghimbav nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 120/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-10-06-HCL_nr_120_27-09-2022.pdf",
+     "sha256": "1bac3d4a91ef6a89ccd861724daa6fb5b78c19c9a28340c89cc08ee438121f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-121-2022",
+   "path": "local/brasov/ghimbav/2022/121",
+   "short": "HCL Ghimbav nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 121/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-10-06-HCL_nr_121_27-09-2022.pdf",
+     "sha256": "0fdb76a833ddc7b8f6e4832bc7efe2a2e1ad758432a576835540a20d903d270d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-130-2022",
+   "path": "local/brasov/ghimbav/2022/130",
+   "short": "HCL Ghimbav nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 130/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_130_27-10-2022.pdf",
+     "sha256": "f5bb38fbd211dc7d57bda13474ddf611d3709f488939d42ac139d2a8d363de32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-131-2022",
+   "path": "local/brasov/ghimbav/2022/131",
+   "short": "HCL Ghimbav nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 131/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_131_27-10-2022.pdf",
+     "sha256": "318668b69fd372ff0a603227991a4f5079f9d0fa27a11a28a3e7d5c81981b65f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-132-2022",
+   "path": "local/brasov/ghimbav/2022/132",
+   "short": "HCL Ghimbav nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 132/2022 pentru anul școlar 2022-2023 precum și a cuantumului acestora Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_132_27-10-2022.pdf",
+     "sha256": "5c37639719e23d49fbcc88fa9cddf61eb10846bc91e8d0efedae9cec64fb52be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-134-2022",
+   "path": "local/brasov/ghimbav/2022/134",
+   "short": "HCL Ghimbav nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 134/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_134_27-10-2022.pdf",
+     "sha256": "7ad3f540017ec58814a2c644ad77c537a880fca197a6dbf3d7def7f406366bab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-135-2022",
+   "path": "local/brasov/ghimbav/2022/135",
+   "short": "HCL Ghimbav nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 135/2022 pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_135_27-10-2022.pdf",
+     "sha256": "5482c1033069912c554dc31eacfa41cc6f1a202358df6ba9302fa2483bc131ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-136-2022",
+   "path": "local/brasov/ghimbav/2022/136",
+   "short": "HCL Ghimbav nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 136/2022 pentru Organizarea Execuției (DTOE) și Documentație Tehnică pentru obținerea Autorizației de Demolare (DTAD)” și a indicatorilor tehnico-economici pentru demolare imobil situat pe str. Pieții, nr. 12, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_136_27-10-2022.pdf",
+     "sha256": "25329633be8da39e4ed17372bf90d5b35b46407a81e399f3182e8137d6c6db6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-137-2022",
+   "path": "local/brasov/ghimbav/2022/137",
+   "short": "HCL Ghimbav nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 137/2022 pentru Organizarea Execuției (DTOE) și Documentație Tehnică pentru obținerea Autorizației de Demolare (DTAD)” și a indicatorilor tehnico-economici pentru demolare imobil situat pe str",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_137_27-10-2022.pdf",
+     "sha256": "1ede8ff099ca8c46e45ae688f365cd24f07e9d85a12e32cd94f8826c6959657b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-138-2022",
+   "path": "local/brasov/ghimbav/2022/138",
+   "short": "HCL Ghimbav nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 138/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_138_27-10-2022.pdf",
+     "sha256": "d85fa7b03e42bde62c849f913d632d0fc09e9761ec11ce029036ee7ce00d1682"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-139-2022",
+   "path": "local/brasov/ghimbav/2022/139",
+   "short": "HCL Ghimbav nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 139/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_139_27-10-2022.pdf",
+     "sha256": "cc69c40b8f9db9540639dd72beee2b0cfb723105df8514cc42bd4a551bc7dec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-14-2022",
+   "path": "local/brasov/ghimbav/2022/14",
+   "short": "HCL Ghimbav nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 14/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_14_24-02-2022.pdf",
+     "sha256": "8de92e91727dddbb551e41476143b85436c7f56de9f392ed80562ae615c0c4dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-140-2022",
+   "path": "local/brasov/ghimbav/2022/140",
+   "short": "HCL Ghimbav nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 140/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_140_27-10-2022.pdf",
+     "sha256": "d6bc473f02d35464aacb5efc04ff07954ee7402ace72e71d4c98d14e19e92bae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-141-2022",
+   "path": "local/brasov/ghimbav/2022/141",
+   "short": "HCL Ghimbav nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 141/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_141_27-10-2022.pdf",
+     "sha256": "46a92c3f624c0b0c02f89beaeccfa5d6c8cfb047260e99d883683c3264ff8a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-142-2022",
+   "path": "local/brasov/ghimbav/2022/142",
+   "short": "HCL Ghimbav nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 142/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_142_27-10-2022.pdf",
+     "sha256": "6a0975bdf18ceec3e8eb4e5698a533a1c180fe1f47a196ea346202b692663491"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-143-2022",
+   "path": "local/brasov/ghimbav/2022/143",
+   "short": "HCL Ghimbav nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 143/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_143_27-10-2022.pdf",
+     "sha256": "e730fff6a50076c1c5297202fc34357eed70fe9dbb72d4305895bb7bda58c035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-144-2022",
+   "path": "local/brasov/ghimbav/2022/144",
+   "short": "HCL Ghimbav nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 144/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_144_27-10-2022.pdf",
+     "sha256": "1c3565df30e84aef2d22ea0aa68d3f40d8a4f3e3edf68eb7e6a959d904896317"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-145-2022",
+   "path": "local/brasov/ghimbav/2022/145",
+   "short": "HCL Ghimbav nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 145/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_145_27-10-2022.pdf",
+     "sha256": "dec632efe9c669faf56a5dbccf1f08a83a4db5dfdfbda19362fc43abeb4afa3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-146-2022",
+   "path": "local/brasov/ghimbav/2022/146",
+   "short": "HCL Ghimbav nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 146/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_146_27-10-2022.pdf",
+     "sha256": "051e7b7785ebb46f89ca8203bcb6369b297a9482ca34c27001e38b1777106f47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-147-2022",
+   "path": "local/brasov/ghimbav/2022/147",
+   "short": "HCL Ghimbav nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 147/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_147_27-10-2022.pdf",
+     "sha256": "e44ba904a0d62580c9ecb6f30552c131ebf689e6b6b07e8c941b39ed7b6f0dbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-148-2022",
+   "path": "local/brasov/ghimbav/2022/148",
+   "short": "HCL Ghimbav nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 148/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_148_27-10-2022.pdf",
+     "sha256": "74aa0d03b48b0b3edd31e1400a930ea1a3157ee3624e7db4d46eb1f92317a806"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-149-2022",
+   "path": "local/brasov/ghimbav/2022/149",
+   "short": "HCL Ghimbav nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 149/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_149_27-10-2022.pdf",
+     "sha256": "dbdc3e0208b797af0bd6e8b0d7e59f912ddd90b84dc8bc85944d8b771f70dd14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-150-2022",
+   "path": "local/brasov/ghimbav/2022/150",
+   "short": "HCL Ghimbav nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 150/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_150_27-10-2022.pdf",
+     "sha256": "5bfc67a34f768a71b7d753cdcdb3e55d9c0075bfad7fed3310fd514b866af691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-153-2022",
+   "path": "local/brasov/ghimbav/2022/153",
+   "short": "HCL Ghimbav nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 153/2022 privind alocarea de la bugetul local a unor fonduri pentru Biserica Evanghelică CA Parohia Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_153_27-10-2022.pdf",
+     "sha256": "1826c9e699d4e067dd1ed1ba256f57c766cb4a016a8c28d9d5f5840e763063ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-154-2022",
+   "path": "local/brasov/ghimbav/2022/154",
+   "short": "HCL Ghimbav nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 154/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-07-HCL_nr_154_27-10-2022.pdf",
+     "sha256": "845cf01aedb3ce7b19b2e00d54decbc76974d1ee0a9e9d1f7a6a673fec3d7ced"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-157-2022",
+   "path": "local/brasov/ghimbav/2022/157",
+   "short": "HCL Ghimbav nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 157/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_157_15-11-2022.pdf",
+     "sha256": "ba73e011398ea78286d863f98a24801102d246a756c5a0be8e9fee3ce0266db2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-158-2022",
+   "path": "local/brasov/ghimbav/2022/158",
+   "short": "HCL Ghimbav nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 158/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_158_15-11-2022.pdf",
+     "sha256": "cbcfa6f1ee88e4427dd8240d96df0a21801f1067efa16f99d4b6a79cd3603a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-159-2022",
+   "path": "local/brasov/ghimbav/2022/159",
+   "short": "HCL Ghimbav nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 159/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_159_15-11-2022.pdf",
+     "sha256": "2a86c6d6040652fbc62c3b2b94ef84639b9fef7508fb7a7ab41d7caa3f97db13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-16-2022",
+   "path": "local/brasov/ghimbav/2022/16",
+   "short": "HCL Ghimbav nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 16/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_16_24-02-2022.pdf",
+     "sha256": "a9390ebad0574b585b529f7c26e2b232506dede70bd638f8990058c634418698"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-160-2022",
+   "path": "local/brasov/ghimbav/2022/160",
+   "short": "HCL Ghimbav nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 160/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_160_15-11-2022.pdf",
+     "sha256": "ac032ec79599ff38c3da40f2ac693ee953020eb8a76426ac19a33fa65d30e8b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-161-2022",
+   "path": "local/brasov/ghimbav/2022/161",
+   "short": "HCL Ghimbav nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 161/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_161_15-11-2022.pdf",
+     "sha256": "e7d2babcc30f607380626f7ef01bf6606ccaf1b06640e963fcb93a243c197e6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-162-2022",
+   "path": "local/brasov/ghimbav/2022/162",
+   "short": "HCL Ghimbav nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 162/2022 PENTRU LOCUIRE, CULTURĂ ȘI CULTE”, Orașul Ghimbav, județul Brașov Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_162_15-11-2022.pdf",
+     "sha256": "e1abde72561586a292eb05a16e59e744a76cbb5719ed3f954ad2e43ec6c4aa85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-163-2022",
+   "path": "local/brasov/ghimbav/2022/163",
+   "short": "HCL Ghimbav nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 163/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_163_15-11-2022.pdf",
+     "sha256": "aae227885250e995c7dcfcdae272c8b350cedcf491e4b16fd40ab2b58f62ded4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-164-2022",
+   "path": "local/brasov/ghimbav/2022/164",
+   "short": "HCL Ghimbav nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 164/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_164_15-11-2022.pdf",
+     "sha256": "5bf17c8bfc015e4d4238a985dc620f010c7599e73621b337b35dfd786ca1fb20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-165-2022",
+   "path": "local/brasov/ghimbav/2022/165",
+   "short": "HCL Ghimbav nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 165/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_165_15-11-2022.pdf",
+     "sha256": "cf957de2f64346485dc2526c17a0b3f53245b9d64e38151546de2ae57de0fad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-17-2022",
+   "path": "local/brasov/ghimbav/2022/17",
+   "short": "HCL Ghimbav nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 17/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_17_24-02-2022.pdf",
+     "sha256": "375bf173b789c890cb81d0d58e69d0f69c3520542efc16453c4ce87c2968e8fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-175-2022",
+   "path": "local/brasov/ghimbav/2022/175",
+   "short": "HCL Ghimbav nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 175/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-11-28-HCL_nr_175_15-11-2022.pdf",
+     "sha256": "183d180c5269df431c96d10b527998c106f8c8a449acc858005a54d3f59f4635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-176-2022",
+   "path": "local/brasov/ghimbav/2022/176",
+   "short": "HCL Ghimbav nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 176/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_176_15-12-2022.pdf",
+     "sha256": "7acb82c8116bed453bf3a9e6b495c14da4a986ffd3d4ba07990db78ec3933d54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-177-2022",
+   "path": "local/brasov/ghimbav/2022/177",
+   "short": "HCL Ghimbav nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 177/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_177_15-12-2022.pdf",
+     "sha256": "feecf711b42514a2c857a9ee541e1195739f39b8752439bc16cc38523aadb62b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-178-2022",
+   "path": "local/brasov/ghimbav/2022/178",
+   "short": "HCL Ghimbav nr. 178/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 178/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_178_15-12-2022.pdf",
+     "sha256": "3b2e22c56f0e16e08e5a968b22d8cf8f195a6a540a42ec1c13a8e6d73f908c8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-179-2022",
+   "path": "local/brasov/ghimbav/2022/179",
+   "short": "HCL Ghimbav nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 179/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_179_15-12-2022.pdf",
+     "sha256": "8ed5f85cd76731dc1c524276d064b820caf9fcf75ce86bdf951814df124876c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-18-2022",
+   "path": "local/brasov/ghimbav/2022/18",
+   "short": "HCL Ghimbav nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 18/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_18_24-02-2022.pdf",
+     "sha256": "1c0134f7575510bb9d79baec4870177f413f0211de759efd5cfe400422557c4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-180-2022",
+   "path": "local/brasov/ghimbav/2022/180",
+   "short": "HCL Ghimbav nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 180/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_180_15-12-2022.pdf",
+     "sha256": "c1bb13b008f40fa4a886c94d6e344797accb66215e4ade4fbb4221fa8d22c407"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-181-2022",
+   "path": "local/brasov/ghimbav/2022/181",
+   "short": "HCL Ghimbav nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 181/2022 pentru consumul de carburanți necesar autoturismelor și utilajelor din dotarea Primăriei orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_181_15-12-2022.pdf",
+     "sha256": "41071b37256c7796cd68db4a58c5b615608a7c5bf209860223cd96cd49d8bb60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-182-2022",
+   "path": "local/brasov/ghimbav/2022/182",
+   "short": "HCL Ghimbav nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 182/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_182_15-12-2022.pdf",
+     "sha256": "527ead8c00b8907a44583e25591087b3aaa35580dcfbe5a1fbfbb5c6667880d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-183-2022",
+   "path": "local/brasov/ghimbav/2022/183",
+   "short": "HCL Ghimbav nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 183/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_183_15-12-2022.pdf",
+     "sha256": "03c5c6d774d888b99e327e2b8609392074c0a91149f3a8d4fe9bd49b1a541e8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-184-2022",
+   "path": "local/brasov/ghimbav/2022/184",
+   "short": "HCL Ghimbav nr. 184/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 184/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_184_15-12-2022.pdf",
+     "sha256": "5c63c45b8c6b2c325e85c379f1ce846752576114c5d8e91ff4d9f4d4ffbf800e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-185-2022",
+   "path": "local/brasov/ghimbav/2022/185",
+   "short": "HCL Ghimbav nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 185/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_185_15-12-2022.pdf",
+     "sha256": "059f2fbb5004e42f9992e5bf65c0fa4e219c9032db3a66f214cb9503323f19e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-186-2022",
+   "path": "local/brasov/ghimbav/2022/186",
+   "short": "HCL Ghimbav nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 186/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_186_15-12-2022.pdf",
+     "sha256": "cbe9d1d1f855f6e9f79052e0d5fcd98e77cdf4b12159b6e99de1c5e38993dcf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-187-2022",
+   "path": "local/brasov/ghimbav/2022/187",
+   "short": "HCL Ghimbav nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 187/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_187_15-12-2022.pdf",
+     "sha256": "4ff5ff2e226607ad69e206c73176992e81ff232d9713ebf37cedeedbd7b005e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-188-2022",
+   "path": "local/brasov/ghimbav/2022/188",
+   "short": "HCL Ghimbav nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 188/2022 pentru performanțe deosebite Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_188_15-12-2022.pdf",
+     "sha256": "4ff9f763d7658e7dfe312c8dc16b3cdb9bae3dd575ac3e268975b87524dbd572"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-189-2022",
+   "path": "local/brasov/ghimbav/2022/189",
+   "short": "HCL Ghimbav nr. 189/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 189/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_189_15-12-2022.pdf",
+     "sha256": "46b2ee978f2e6d913b62e3fccd13c33e4ae6cbfa3be309dc5d20e4f587a31ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-19-2022",
+   "path": "local/brasov/ghimbav/2022/19",
+   "short": "HCL Ghimbav nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 19/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_19_24-02-2022.pdf",
+     "sha256": "f64d2ebff97ae488f7a288a829eefe3c277ef11c3f90657c6ade90ef969b5f6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-190-2022",
+   "path": "local/brasov/ghimbav/2022/190",
+   "short": "HCL Ghimbav nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 190/2022 pentru darea în folosință gratuită a instrumentelor muzicale pentru fanfara de tineret Weidenbach Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-12-28-HCL_nr_190_15-12-2022.pdf",
+     "sha256": "60dbc8c4344bebc3f9dd9acc325b28aed7255e6799eb6b3b5d1f0b3196bf54eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-191-2022",
+   "path": "local/brasov/ghimbav/2022/191",
+   "short": "HCL Ghimbav nr. 191/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 191/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2023-01-11-HCL_nr_191_27-12-2022.pdf",
+     "sha256": "340e5ffaf93d046b654947f0fada9b15ced5516b6ecef415692bb2e106ebc993"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-192-2022",
+   "path": "local/brasov/ghimbav/2022/192",
+   "short": "HCL Ghimbav nr. 192/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 192/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2023-01-11-HCL_nr_192_27-12-2022.pdf",
+     "sha256": "03d7f6e8c7f4918d449317bb796721634d1b9a76546c888774fc25e6f728036a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-193-2022",
+   "path": "local/brasov/ghimbav/2022/193",
+   "short": "HCL Ghimbav nr. 193/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 193/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2023-01-11-HCL_nr_193_27-12-2022.pdf",
+     "sha256": "cd4b02f9256747c39a5fe802bead3422093037ef552b9ef4cf12418ff65fd574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-194-2022",
+   "path": "local/brasov/ghimbav/2022/194",
+   "short": "HCL Ghimbav nr. 194/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 194/2022 pentru Parohia Ortodoxă Ghimbav I „Sfânta Treime” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2023-01-11-HCL_nr_194_27-12-2022.pdf",
+     "sha256": "6c450b7edaf438a272192e5700984a1657225c99203534fafb8461ba0de13d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-195-2022",
+   "path": "local/brasov/ghimbav/2022/195",
+   "short": "HCL Ghimbav nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 195/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2023-01-11-HCL_nr_195_27-12-2022-1.pdf",
+     "sha256": "5a54cf75739d7eda5512f76a5715350a40462b93b538b6ebe8c5d519983116f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-196-2022",
+   "path": "local/brasov/ghimbav/2022/196",
+   "short": "HCL Ghimbav nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 196/2022 privind stabilirea, începând cu data de 01.01.2018, a salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2023-01-11-HCL_nr_196_27-12-2022.pdf",
+     "sha256": "07a73029b521645a8d36c613eba25909aa175c3b949242e6d9ec79d9ac69b1e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-2-2022",
+   "path": "local/brasov/ghimbav/2022/2",
+   "short": "HCL Ghimbav nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 2/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-08-HCL_nr_2_31-01-2022.pdf",
+     "sha256": "d61df96d0b0406a084626f27d5aba42620490742b3a83f073d0702d269ce9a3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-20-2022",
+   "path": "local/brasov/ghimbav/2022/20",
+   "short": "HCL Ghimbav nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 20/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_20_24-02-2022.pdf",
+     "sha256": "001de4f7793df034ed47ac2b9262abaed5fb5733ea766b120671082ea3c3e41c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-21-2022",
+   "path": "local/brasov/ghimbav/2022/21",
+   "short": "HCL Ghimbav nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 21/2022 pentru asigurarea suprafeței de teren necesară Aeroportului Internațional Brașov-Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_21_24-02-2022.pdf",
+     "sha256": "7844eb208b08d11f14d3e80d860c64d7570fc8f1adb8648d9de329bfad60b48b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-22-2022",
+   "path": "local/brasov/ghimbav/2022/22",
+   "short": "HCL Ghimbav nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 22/2022 privind acordarea unor premii pentru aniversarea a 50 de ani de căsătorie, pentru împlinirea vărstei de 100 de ani și pentru veteranii de război Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_22_24-02-2022.pdf",
+     "sha256": "3bba15c9b4462461c9a677f977757c2810d7bea3a2901aecd0565ac417dca997"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-23-2022",
+   "path": "local/brasov/ghimbav/2022/23",
+   "short": "HCL Ghimbav nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 23/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_23_24-02-2022.pdf",
+     "sha256": "fd7b00cc4f494036c022b117c5ccba5926be7aa9bfe6d49759bea32d388e8a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-24-2022",
+   "path": "local/brasov/ghimbav/2022/24",
+   "short": "HCL Ghimbav nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 24/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_24_24-02-2022.pdf",
+     "sha256": "ef2ecba78e16f3626f12d9d347f9667a87d0647892f2a992119fb2e542e596ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-25-2022",
+   "path": "local/brasov/ghimbav/2022/25",
+   "short": "HCL Ghimbav nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 25/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_25_24-02-2022.pdf",
+     "sha256": "e50b472e437d3631820c5e1755316b92530e0b93519842ef0ad325caf7776cb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-26-2022",
+   "path": "local/brasov/ghimbav/2022/26",
+   "short": "HCL Ghimbav nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 26/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_26_24-02-2022.pdf",
+     "sha256": "c0dddb3e29895055ae6febf0010d243993ba2093bffb6d54f61e790bd2092757"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-27-2022",
+   "path": "local/brasov/ghimbav/2022/27",
+   "short": "HCL Ghimbav nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 27/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-28-HCL_nr_27_24-02-2022.pdf",
+     "sha256": "67b97ad1dd24f563a7c86fe249d1355b26f89f26074e6dc9f733aa906d3dd368"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-28-2022",
+   "path": "local/brasov/ghimbav/2022/28",
+   "short": "HCL Ghimbav nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 28/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-03-16-HCL_nr_28_03-03-2022.pdf",
+     "sha256": "f4deeb98b53bcb9a178647f3a14979622cdcd12f4cf457864e6f145d86d431fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-29-2022",
+   "path": "local/brasov/ghimbav/2022/29",
+   "short": "HCL Ghimbav nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 29/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-03-16-HCL_nr_29_03-03-2022.pdf",
+     "sha256": "c03c25613c730b1b59f71b6f35fed3b85807965c6b76712370537929b89f441e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-3-2022",
    "path": "local/brasov/ghimbav/2022/3",
    "short": "HCL Ghimbav nr. 3/2022",
@@ -18,6 +1398,81 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-30-2022",
+   "path": "local/brasov/ghimbav/2022/30",
+   "short": "HCL Ghimbav nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 30/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-03-16-HCL_nr_30_03-03-2022.pdf",
+     "sha256": "dd982eb7b9a4f97e070f6e7fd024ed141e3302d5a2e6fadafcdff652612f9cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-31-2022",
+   "path": "local/brasov/ghimbav/2022/31",
+   "short": "HCL Ghimbav nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 31/2022 pentru Parohia Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-03-16-HCL_nr_31_03-03-2022.pdf",
+     "sha256": "11fce37f5ad05750724be894bd0a485dafa1622f22e2e124b044d8c5f8b95383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-32-2022",
+   "path": "local/brasov/ghimbav/2022/32",
+   "short": "HCL Ghimbav nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 32/2022 pentru Parohia Ortodoxă II „Sf. Ap",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-03-16-HCL_nr_32_03-03-2022.pdf",
+     "sha256": "2f36b924067da7ae4ec553285fdbf6c4072cabfe6edf78ae7582146ee540d2cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-33-2022",
+   "path": "local/brasov/ghimbav/2022/33",
+   "short": "HCL Ghimbav nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 33/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-03-16-HCL_nr_33_03-03-2022.pdf",
+     "sha256": "25468f6c00c84429aeacb49d0018383cb0f67b3005b51adcc416cc5e6e3c09c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-34-2022",
+   "path": "local/brasov/ghimbav/2022/34",
+   "short": "HCL Ghimbav nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 34/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-03-16-HCL_nr_34_03-03-2022.pdf",
+     "sha256": "d212c435d081bb97ffbf5b073168827f96342894311940aff1197c7c4b3f21cf"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-35-2022",
    "path": "local/brasov/ghimbav/2022/35",
    "short": "HCL Ghimbav nr. 35/2022",
@@ -29,6 +1484,741 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/2020/07/2022-03-15-HCL_nr_35_11-03-2022.pdf",
      "sha256": "9548464db39fbfb013daffc698ebff0987a597735891baba3471766934daa477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-36-2022",
+   "path": "local/brasov/ghimbav/2022/36",
+   "short": "HCL Ghimbav nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 36/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-06-HCL_nr_36_29-03-2022.pdf",
+     "sha256": "65cafed5b44d77011229a5dd28be38a93a69ec3508f061a5b85a533d9b6f4848"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-37-2022",
+   "path": "local/brasov/ghimbav/2022/37",
+   "short": "HCL Ghimbav nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 37/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-06-HCL_nr_37_29-03-2022.pdf",
+     "sha256": "df244dd3405b6fc5a5d8e0285c9feeee6e1b84b88111839904531f47ce282082"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-38-2022",
+   "path": "local/brasov/ghimbav/2022/38",
+   "short": "HCL Ghimbav nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 38/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-06-HCL_nr_38_29-03-2022.pdf",
+     "sha256": "87da2f17ca55c15d174478f16901a37ec8dc6764439dd2e299cf670013eb329b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-39-2022",
+   "path": "local/brasov/ghimbav/2022/39",
+   "short": "HCL Ghimbav nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 39/2022 pentru finanțare nerambursabilă din Bugetul propriu al Orașului Ghimbav a proiectelor culturale pe anul 2022 și a Ghidului solicitantului Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-06-HCL_nr_39_29-03-2022.pdf",
+     "sha256": "60377fa086480ffa854acb6cd0603aee19d5c6feeb22630da2697e2eeabab6b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-4-2022",
+   "path": "local/brasov/ghimbav/2022/4",
+   "short": "HCL Ghimbav nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 4/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-02-08-HCL_nr_4_31-01-2022.pdf",
+     "sha256": "8713cc9fcdc1cbb24c84456e556e930732124f8d6f8bb0c9aa1e64c86b445d13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-40-2022",
+   "path": "local/brasov/ghimbav/2022/40",
+   "short": "HCL Ghimbav nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 40/2022 pentru acordarea de finanțări nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general în domeniul sport și a Ghidului solicitantului Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-06-HCL_nr_40_29-03-2022.pdf",
+     "sha256": "9f5d99c55b64f4ec6b4ca0e0da2604d51a8a9479ce263fea876510bf09572b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-41-2022",
+   "path": "local/brasov/ghimbav/2022/41",
+   "short": "HCL Ghimbav nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 41/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-06-HCL_nr_41_29-03-2022.pdf",
+     "sha256": "1c97df2588c223c3944a538948947d38554237f48abe44b6cb33dca2709e3c61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-42-2022",
+   "path": "local/brasov/ghimbav/2022/42",
+   "short": "HCL Ghimbav nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 42/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-06-HCL_nr_42_29-03-2022.pdf",
+     "sha256": "d8be476361e35f1bf132e6aa61b947b03290e16d085d566c895b8f7d40c498e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-43-2022",
+   "path": "local/brasov/ghimbav/2022/43",
+   "short": "HCL Ghimbav nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 43/2022 privind aprobarea Nomenclatorului stradal al Orașului Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-06-HCL_nr_43_29-03-2022.pdf",
+     "sha256": "0b0dd5ef38ff43d468379fcacc7d0fd0f60eee50e404afe0292263b43c5a945d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-44-2022",
+   "path": "local/brasov/ghimbav/2022/44",
+   "short": "HCL Ghimbav nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 44/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-28-HCL_nr_44_12-04-2022.pdf",
+     "sha256": "6e707c59c3f56f0d6b981f9529eae2056f0c2cf25455ea989b3e1438ba73b7cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-45-2022",
+   "path": "local/brasov/ghimbav/2022/45",
+   "short": "HCL Ghimbav nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 45/2022 pentru Proiect regional de dezvoltare a infrastructurii de apă și apă uzată în județul Brașov/Regiunea Centru, în perioada 2014-2020, a indicatorilor tehnico-economici ai proiectului, a părții cotei de co-finanțare a cheltuielilor eligibile ale proiectului și acordarea mandatului special reprezentantului UAT Ghimbav pentru aprobarea strategiei de tarifare și încheierea Actului Adițional la Contrac",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-04-28-HCL_nr_45_12-04-2022.pdf",
+     "sha256": "a4c5b87d39fc0637cc25965f424b86bebc26da19034e6f7ec73f17ce9d214e55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-55-2022",
+   "path": "local/brasov/ghimbav/2022/55",
+   "short": "HCL Ghimbav nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 55/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-05-12-HCL_nr_55_28-04-2022.pdf",
+     "sha256": "cc45b76c5a69d09fac245f30a0b4c69792e5412ad61e8e16ea9dfe815dc4ce3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-56-2022",
+   "path": "local/brasov/ghimbav/2022/56",
+   "short": "HCL Ghimbav nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 56/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-05-12-HCL_nr_56_28-04-2022.pdf",
+     "sha256": "dca4f6001a2d3d4c230d49bd18972b0ffddbfe0a46f0cf80eee7c68a8fbe6e31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-57-2022",
+   "path": "local/brasov/ghimbav/2022/57",
+   "short": "HCL Ghimbav nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 57/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-05-16-HCL_nr_57_13-05-2022.pdf",
+     "sha256": "c6609f4a01694744b7d90f6386850d845800a164be09b6b8cea366ea9b5598c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-58-2022",
+   "path": "local/brasov/ghimbav/2022/58",
+   "short": "HCL Ghimbav nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 58/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-05-16-HCL_nr_58_13-05-2022.pdf",
+     "sha256": "f76e3166073e07f1e6c6f552a2848dd3e43c438f14d4c0be8935236dfbfa7cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-59-2022",
+   "path": "local/brasov/ghimbav/2022/59",
+   "short": "HCL Ghimbav nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 59/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-05-16-HCL_nr_59_13-05-2022.pdf",
+     "sha256": "336828799ac178a1f2192be7b426bb6c889dac2d700c2afe7185286fc9269053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-60-2022",
+   "path": "local/brasov/ghimbav/2022/60",
+   "short": "HCL Ghimbav nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 60/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-05-16-HCL_nr_60_13-05-2022.pdf",
+     "sha256": "9710ad50fbfb3562fb90edba2b59d62f4f0f23e623643820d1a2a852fb30bba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-61-2022",
+   "path": "local/brasov/ghimbav/2022/61",
+   "short": "HCL Ghimbav nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 61/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-05-16-HCL_nr_61_13-05-2022.pdf",
+     "sha256": "a191f62c7d2aedc3ebf7743053458e4965ad38bc24d24c6c8f4db3ca9e16ae4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-62-2022",
+   "path": "local/brasov/ghimbav/2022/62",
+   "short": "HCL Ghimbav nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 62/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_62_26-05-2022.pdf",
+     "sha256": "863a8d1f02a6641dd2eabdf56cc99d3863f0c92fce22fc02209a7b9a94144937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-63-2022",
+   "path": "local/brasov/ghimbav/2022/63",
+   "short": "HCL Ghimbav nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 63/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_63_26-05-2022.pdf",
+     "sha256": "5b3ded38b8c079e85c610272cfe6c3f45f6aa175a381aa53878824e377f4a034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-64-2022",
+   "path": "local/brasov/ghimbav/2022/64",
+   "short": "HCL Ghimbav nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 64/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_64_26-05-2022.pdf",
+     "sha256": "f5ec1a2102af05fbafc9dadd364fbc45dc17f8c87e96ad0ec45c895f03180560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-65-2022",
+   "path": "local/brasov/ghimbav/2022/65",
+   "short": "HCL Ghimbav nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 65/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_65_26-05-2022.pdf",
+     "sha256": "5eec086b519f404bf963b75f3c07e11b5596390629219fb42bdd4862157d1302"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-66-2022",
+   "path": "local/brasov/ghimbav/2022/66",
+   "short": "HCL Ghimbav nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 66/2022 privind acordarea voucherelor de vacanță în anul 2022 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_66_26-05-2022.pdf",
+     "sha256": "39a466df8c05ab5808ccbfe46ff3e521dfcfad28adb389a44c0f295dac5d5ad1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-67-2022",
+   "path": "local/brasov/ghimbav/2022/67",
+   "short": "HCL Ghimbav nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 67/2022 privind acordarea unor premii pentru aniversarea a 50 de ani de căsătorie, pentru împlinirea vârstei de 100 de ani și pentru veteranii de război Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_67_26-05-2022.pdf",
+     "sha256": "df3e352a5802cbb1cb37754b195f8655301fba75bf4469f8fe69a78cf81f1b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-68-2022",
+   "path": "local/brasov/ghimbav/2022/68",
+   "short": "HCL Ghimbav nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 68/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_68_26-05-2022.pdf",
+     "sha256": "5412229bb520e570320cf1774be1a2f589519cd33c45fe7af6ffb86e8b825baf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-69-2022",
+   "path": "local/brasov/ghimbav/2022/69",
+   "short": "HCL Ghimbav nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 69/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_69_26-05-2022.pdf",
+     "sha256": "a45d165ead909d9257cb302dc1859c9b781b7888cf3291c1577e0736ca97da03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-70-2022",
+   "path": "local/brasov/ghimbav/2022/70",
+   "short": "HCL Ghimbav nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 70/2022 privind completarea și actualizarea inventarului bunurilor care aparțin domeniului public al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_70_26-05-2022.pdf",
+     "sha256": "0ab2a8c746ed367244dd4bbc5520c8ca4dae3b7e0f0d759b623fb4b94d597d03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-71-2022",
+   "path": "local/brasov/ghimbav/2022/71",
+   "short": "HCL Ghimbav nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 71/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_71_26-05-2022.pdf",
+     "sha256": "499ba9f4115432d4f4c5d73449a1d8bb764cfd710a4f6c4ec7815762d522b59b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-72-2022",
+   "path": "local/brasov/ghimbav/2022/72",
+   "short": "HCL Ghimbav nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 72/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_72_26-05-2022.pdf",
+     "sha256": "4d49d04dadb9c791c4af2431475ae73b15914162cb6c001424ae2a3f7b8104fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-73-2022",
+   "path": "local/brasov/ghimbav/2022/73",
+   "short": "HCL Ghimbav nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 73/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_73_26-05-2022.pdf",
+     "sha256": "98cee9289e60e1f6272efdbb02e6298524ccb4fe2a8f5fea0b1b3003392e59cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-74-2022",
+   "path": "local/brasov/ghimbav/2022/74",
+   "short": "HCL Ghimbav nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 74/2022 pentru călători în Orașul Ghimbav, jud. Brașov” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_74_26-05-2022.pdf",
+     "sha256": "b7a2351e97b17f8ae86794c7a0a7b96f2a177a7357458124594b1b0f3836fac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-75-2022",
+   "path": "local/brasov/ghimbav/2022/75",
+   "short": "HCL Ghimbav nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 75/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_75_26-05-2022.pdf",
+     "sha256": "757c6e8f8830a7306e03b013c16879251e9f73e05a1f51f90b8284b3fa68e5ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-76-2022",
+   "path": "local/brasov/ghimbav/2022/76",
+   "short": "HCL Ghimbav nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 76/2022 pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale și aprobarea proiectului „Renovare energetică moderată a sediului Primăriei UAT Oraș Ghimbav, str. Lungă, nr. 2” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-06-06-HCL_nr_76_26-05-2022.pdf",
+     "sha256": "90331923f93cb1dad49b26ecaa047411ba6d32c35129aa65087e274a7690b348"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-77-2022",
+   "path": "local/brasov/ghimbav/2022/77",
+   "short": "HCL Ghimbav nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 77/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-07-04-HCL_nr_77_23-06-2022.pdf",
+     "sha256": "e039873a28315cbae6c36b3c624b5861403c87e96908a831352dbfe59c6218dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-78-2022",
+   "path": "local/brasov/ghimbav/2022/78",
+   "short": "HCL Ghimbav nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 78/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-07-04-HCL_nr_78_23-06-2022.pdf",
+     "sha256": "4a53710cc1ae817a2fd154da0711a7e46d6a76363715171329c5dcd20b536d3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-79-2022",
+   "path": "local/brasov/ghimbav/2022/79",
+   "short": "HCL Ghimbav nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 79/2022 pentru anul fiscal 2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-07-04-HCL_nr_79_23-06-2022.pdf",
+     "sha256": "e5f54d682854989b4f698e54479b394e6c22b5ab2069a81759d56033b00baf2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-80-2022",
+   "path": "local/brasov/ghimbav/2022/80",
+   "short": "HCL Ghimbav nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 80/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-07-04-HCL_nr_80_23-06-2022.pdf",
+     "sha256": "da53b2720f900a6e0368a1cdfa8541ba1518263a6bd3891d33153cb7c1652960"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-81-2022",
+   "path": "local/brasov/ghimbav/2022/81",
+   "short": "HCL Ghimbav nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 81/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-07-04-HCL_nr_81_23-06-2022.pdf",
+     "sha256": "bf3b062d790517c41b726a202c6f507232ffd386d45246c08b9c3ba231d94af3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-82-2022",
+   "path": "local/brasov/ghimbav/2022/82",
+   "short": "HCL Ghimbav nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 82/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-07-04-HCL_nr_82_23-06-2022.pdf",
+     "sha256": "b732e2fb738c057503f9f970b9a55879c1f18904f622363277916992e9a86147"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-83-2022",
+   "path": "local/brasov/ghimbav/2022/83",
+   "short": "HCL Ghimbav nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 83/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-07-04-HCL_nr_83_23-06-2022.pdf",
+     "sha256": "2c371a0dd35f6b8638ee42696716c1e725345c8f5c66461c91ba1898905cd476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-84-2022",
+   "path": "local/brasov/ghimbav/2022/84",
+   "short": "HCL Ghimbav nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 84/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-07-04-HCL_nr_84_23-06-2022.pdf",
+     "sha256": "667c20eae9b9900f85248fff77d0f44f713e66d8caf78278cf4bc4cab9504a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-92-2022",
+   "path": "local/brasov/ghimbav/2022/92",
+   "short": "HCL Ghimbav nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 92/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_92_26-07-2022.pdf",
+     "sha256": "04169628d47738a4e153cf530c85895b3882876bd68a71b16cfb7363db420ded"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-93-2022",
+   "path": "local/brasov/ghimbav/2022/93",
+   "short": "HCL Ghimbav nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 93/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_93_26-07-2022.pdf",
+     "sha256": "166c46355258366d948e7b0de7a9fbbf3e4751d94602c1a814320c1ba5a4ca0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-94-2022",
+   "path": "local/brasov/ghimbav/2022/94",
+   "short": "HCL Ghimbav nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 94/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_94_26-07-2022.pdf",
+     "sha256": "c98948c700d3f75281c672beecbb916659d211d77eb1df2000ec4778c7ba3812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-95-2022",
+   "path": "local/brasov/ghimbav/2022/95",
+   "short": "HCL Ghimbav nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 95/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_95_26-07-2022.pdf",
+     "sha256": "fc5bd6ab35bdffb59b47296b8d6aea4cdc6704609dd1d195e6deb27e489ac488"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-96-2022",
+   "path": "local/brasov/ghimbav/2022/96",
+   "short": "HCL Ghimbav nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 96/2022",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2022-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_96_26-07-2022.pdf",
+     "sha256": "648894996c9ee6771ac472c47dc0b592126234833183e344f513dae92d1fe618"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-97-2022",
+   "path": "local/brasov/ghimbav/2022/97",
+   "short": "HCL Ghimbav nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 97/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_97_26-07-2022.pdf",
+     "sha256": "c9d290468046fd940378e627af7e23670b587368e6000fbc673b55b6b0f56bd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-98-2022",
+   "path": "local/brasov/ghimbav/2022/98",
+   "short": "HCL Ghimbav nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 98/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_98_26-07-2022.pdf",
+     "sha256": "c9f17525a980f31e9d2e283c8fe0e84210632262eb5e0529ecbbe475a031a2bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-99-2022",
+   "path": "local/brasov/ghimbav/2022/99",
+   "short": "HCL Ghimbav nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 99/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/73/2022-08-11-HCL_nr_99_26-07-2022.pdf",
+     "sha256": "1c44ee41fc5a1a1709fa922f0d2fc1e9b1242c942627910af9a0d5d59bd04ec7"
     }
    ]
   }

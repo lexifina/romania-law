@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-2-2020",
+"path": "local/braila/silistea/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 2/2020 privind aprobarea utilizării temporare, începând cu luna ianuarie 2020, a sumei de 220.000lei din excedentul anilor precedenți pentru acoperirea golurilor de casă provenite din decalajele dintre venituri și cheltuieli",
+"short": "HCL Siliștea nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14532",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-3-2020",
 "path": "local/braila/silistea/2020/3",
 "kind": "local",
@@ -267,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-14-2020",
+"path": "local/braila/silistea/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 14/2020 privind stabilirea salariului de bază pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale'' Administrație'' din aparatul propriu al Primarului comunei Siliștea, junețul Brăila, și serviciile publice fără personalitate juridică din subordinea Consiliului Local al Comunei Siliștea, județul Brăila, precum și stabilirea nivelului de ședință a aleșilor locali",
+"short": "HCL Siliștea nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-05",
+"latest": "2020-02-05",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14536",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-15-2020",
 "path": "local/braila/silistea/2020/15",
 "kind": "local",
@@ -447,6 +491,29 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-23-2020",
+"path": "local/braila/silistea/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 23/2020",
+"short": "HCL Siliștea nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14560",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--silistea-24-2020",
 "path": "local/braila/silistea/2020/24",
 "kind": "local",
@@ -488,6 +555,28 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-26-2020",
+"path": "local/braila/silistea/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 26/2020 privind rezilierea contractului de concesiune nr.404/14.05.1999 având ca obiect concesionarea unei suprafețe de 1000mp.( real măsurată 890MP), conform Extrasului de carte funciară nr. 74457/07.02.2018, T.114, P.3015, lot.2",
+"short": "HCL Siliștea nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14557",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -664,6 +753,29 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-35-2020",
+"path": "local/braila/silistea/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 35/2020",
+"short": "HCL Siliștea nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://emol.ro/silistea-br/registru-hcl/14551",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,516 @@
  "shard": "local/brasov/ghimbav/2014",
  "acts": [
   {
+   "slug": "hcl-brasov--ghimbav-1-2014",
+   "path": "local/brasov/ghimbav/2014/1",
+   "short": "HCL Ghimbav nr. 1/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 1/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-10",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-10-HCL1-2014.pdf",
+     "sha256": "266dffaacfeb5077752f864eb5805eb902978550991a8e9b3ca1ceda7b224c35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-10-2014",
+   "path": "local/brasov/ghimbav/2014/10",
+   "short": "HCL Ghimbav nr. 10/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 10/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL10-2014.pdf",
+     "sha256": "2af60f2d348cdf46e4fc9654e3c33ff32e902b1406accce949c869241069d763"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-11-2014",
+   "path": "local/brasov/ghimbav/2014/11",
+   "short": "HCL Ghimbav nr. 11/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 11/2014 pentru inchiriere Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL11-2014.pdf",
+     "sha256": "fa012bb470ca8cb9f5ee972cf2bbbacf1f70c1078e282c2eaca67719e46ff155"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-12-2014",
+   "path": "local/brasov/ghimbav/2014/12",
+   "short": "HCL Ghimbav nr. 12/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 12/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL12-2014.pdf",
+     "sha256": "cda5a0f8fe820e8e94a97ad633a5b047b88acdf52613a79761b0bed4a14dd188"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-13-2014",
+   "path": "local/brasov/ghimbav/2014/13",
+   "short": "HCL Ghimbav nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 13/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL13-2014.pdf",
+     "sha256": "d6d45a4ec6cf051f33e6152b7aed74523ea4be108ab3814f04f1872f586018c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-14-2014",
+   "path": "local/brasov/ghimbav/2014/14",
+   "short": "HCL Ghimbav nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 14/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL14-2014.pdf",
+     "sha256": "f16ca8fcd326b9a17a1d98af54a07ba61073b40c5833882d34164b4b1d8887c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-15-2014",
+   "path": "local/brasov/ghimbav/2014/15",
+   "short": "HCL Ghimbav nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 15/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL15-2014.pdf",
+     "sha256": "b3a969c1cd2ccadb74ddbdc0866c6f95df7a704f1004594feda838c6f218614b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-16-2014",
+   "path": "local/brasov/ghimbav/2014/16",
+   "short": "HCL Ghimbav nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 16/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL16-2014.pdf",
+     "sha256": "1a28bbf538f2f34106cf3e8a8c077434c493cc8f27e33e42cea4c436e708e503"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-17-2014",
+   "path": "local/brasov/ghimbav/2014/17",
+   "short": "HCL Ghimbav nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 17/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL17-2014.pdf",
+     "sha256": "540f619ae512920f12f9feefb73a045d48e41866895bc473e6c3a0074d1c318e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-18-2014",
+   "path": "local/brasov/ghimbav/2014/18",
+   "short": "HCL Ghimbav nr. 18/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 18/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL18-2014.pdf",
+     "sha256": "3f8f91423dbe2dcac60bfa4eefd002e266f3c02c54b033c49cbc18560a366d73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-19-2014",
+   "path": "local/brasov/ghimbav/2014/19",
+   "short": "HCL Ghimbav nr. 19/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 19/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-02-27-HCL19-2014.pdf",
+     "sha256": "8ea11c19a2027d088bb9add1c2cb58376771c60648613e06f40896aff4639e28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-2-2014",
+   "path": "local/brasov/ghimbav/2014/2",
+   "short": "HCL Ghimbav nr. 2/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 2/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL2-2014.pdf",
+     "sha256": "52938c0c5edf71c72b6744e1f3142bd7234819ce83fc19aaf3a4205016278ee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-20-2014",
+   "path": "local/brasov/ghimbav/2014/20",
+   "short": "HCL Ghimbav nr. 20/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 20/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-02-27-HCL20-2014.pdf",
+     "sha256": "8268a7d4a09b449b14bf27a66f225bdc72774e2209b8e2a4fbae242c401834f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-21-2014",
+   "path": "local/brasov/ghimbav/2014/21",
+   "short": "HCL Ghimbav nr. 21/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 21/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-02-27-HCL21-2014.pdf",
+     "sha256": "6ba3030e4c99adb0afead71c175fbe328ceefb37400d95121ec75f76050c956b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-22-2014",
+   "path": "local/brasov/ghimbav/2014/22",
+   "short": "HCL Ghimbav nr. 22/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 22/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-02-27-HCL22-2014.pdf",
+     "sha256": "d21375a5eb2c299ff447e7a7b503a9d662a23c8d1bee3e74cdb47670d3077147"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-23-2014",
+   "path": "local/brasov/ghimbav/2014/23",
+   "short": "HCL Ghimbav nr. 23/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 23/2014 pentru naveta cadrelor didactice – ianuarie 2014 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-02-27-HCL23-2014.pdf",
+     "sha256": "977a4edcb9faf34227a79306138eaaf9dc01b0617fd05d57ddd66fec31df7599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-24-2014",
+   "path": "local/brasov/ghimbav/2014/24",
+   "short": "HCL Ghimbav nr. 24/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 24/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-02-27-HCL24-2014.pdf",
+     "sha256": "ee2c1ed0d2608af7163be6fc79f0413f9611090899dce4e747fdd37e6c021ffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-25-2014",
+   "path": "local/brasov/ghimbav/2014/25",
+   "short": "HCL Ghimbav nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 25/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-02-27-HCL25-2014.pdf",
+     "sha256": "2eb7761826cba83ca585d410f56977600dc17c7c64eeb8cc2482bd36a7000c32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-26-2014",
+   "path": "local/brasov/ghimbav/2014/26",
+   "short": "HCL Ghimbav nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 26/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-03-26-HCL26-2014.pdf",
+     "sha256": "a2c099eaab843cc6c59ec4c0445ecfc65edecbc6eba3196d5621bf041596acba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-27-2014",
+   "path": "local/brasov/ghimbav/2014/27",
+   "short": "HCL Ghimbav nr. 27/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 27/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-03-26-HCL27-2014.pdf",
+     "sha256": "2beb9e2238413ef2cd3d61dc70ca64a2216b28e09e1b837834f2754c96755bba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-28-2014",
+   "path": "local/brasov/ghimbav/2014/28",
+   "short": "HCL Ghimbav nr. 28/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 28/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-03-26-HCL28-2014.pdf",
+     "sha256": "4d372338e52939016a23ff0cf4727ccca6f64e254dbdc5c9df9220fcf8abebea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-29-2014",
+   "path": "local/brasov/ghimbav/2014/29",
+   "short": "HCL Ghimbav nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 29/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-03-26-HCL29-2014.pdf",
+     "sha256": "5b9474d13b2f63bd98b6d26a11438e0ceab9b171c68370d6ae6f9a51faf02934"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-3-2014",
+   "path": "local/brasov/ghimbav/2014/3",
+   "short": "HCL Ghimbav nr. 3/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 3/2014 pentru acordarea de finantari nerambursabile Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL3-2014.pdf",
+     "sha256": "9a0bc9a91cb7b2c3adef24190dc4dff9745a96ca47fe9150c97b3db06c32f29c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-30-2014",
+   "path": "local/brasov/ghimbav/2014/30",
+   "short": "HCL Ghimbav nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 30/2014 pentru naveta cadrelor didactice – februarie 2014 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-03-26-HCL30-2014.pdf",
+     "sha256": "8d8149adc097a6f944e3ac5c503a9061226c4261f70bb3eb1229505eba56469f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-4-2014",
+   "path": "local/brasov/ghimbav/2014/4",
+   "short": "HCL Ghimbav nr. 4/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 4/2014 pentru naveta cadrelor didactice – decembrie 2013 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL4-2014.pdf",
+     "sha256": "239fa83e0e335252436f6b0f19cae88995381ae11b0282a80f0be61df4c2a6ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-40-2014",
+   "path": "local/brasov/ghimbav/2014/40",
+   "short": "HCL Ghimbav nr. 40/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 40/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-06-24-HCL40-2014.pdf",
+     "sha256": "36331dcf040398a3dd377cd85ea2b57d8be7c10cc1dcefd05e4d898923555f73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-41-2014",
+   "path": "local/brasov/ghimbav/2014/41",
+   "short": "HCL Ghimbav nr. 41/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 41/2014 pentru naveta cadrelor didactice – Martie – Mai 2014 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-06-24-HCL41-2014.pdf",
+     "sha256": "626e701f9139ddd14bafcf13bf50d0c19ede81e289b553e4e3f1d8e103df534b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-42-2014",
+   "path": "local/brasov/ghimbav/2014/42",
+   "short": "HCL Ghimbav nr. 42/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 42/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-06-24-HCL42-2014.pdf",
+     "sha256": "168e3224451743e4c656f6cd7817d15e230af59b1a59e24a406003603a90ab07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-43-2014",
+   "path": "local/brasov/ghimbav/2014/43",
+   "short": "HCL Ghimbav nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 43/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-06-24-HCL43-2014.pdf",
+     "sha256": "85317c06906ed87b5c571363dd2a1cde2e88ddf6ed6a8d1f7f1087262a54921c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-44-2014",
+   "path": "local/brasov/ghimbav/2014/44",
+   "short": "HCL Ghimbav nr. 44/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 44/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-06-24-HCL44-2014.pdf",
+     "sha256": "8db7b2da31264501ba2961d8cda39f3da430e6f0870ea288c7d2f9d0a1dd9d44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-45-2014",
+   "path": "local/brasov/ghimbav/2014/45",
+   "short": "HCL Ghimbav nr. 45/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 45/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-06-24-HCL45-2014.pdf",
+     "sha256": "6c286acca3ea94ae4f236dbc41b73e766d1f9bfb6c7f2ad424e1b00b0364f801"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-46-2014",
+   "path": "local/brasov/ghimbav/2014/46",
+   "short": "HCL Ghimbav nr. 46/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 46/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-06-24-HCL46-2014.pdf",
+     "sha256": "9390601e9ea321dd4ecbe8f439c55dc30683408d04d6de4648cdc6df8ce6628b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-47-2014",
+   "path": "local/brasov/ghimbav/2014/47",
+   "short": "HCL Ghimbav nr. 47/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 47/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-06-24",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-06-24-HCL47-2014.pdf",
+     "sha256": "3afd69eea85c2a1165d98508aefc270dcdbc833ba75a736a6b1282e13f66ba4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-5-2014",
+   "path": "local/brasov/ghimbav/2014/5",
+   "short": "HCL Ghimbav nr. 5/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 5/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL5-2014.pdf",
+     "sha256": "b0a0b73541700a38a4938d1e3fc0fac42572775b83891dec6919fd49a0a3264a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-6-2014",
    "path": "local/brasov/ghimbav/2014/6",
    "short": "HCL Ghimbav nr. 6/2014",
@@ -14,6 +524,51 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL6-2014.pdf",
      "sha256": "07c5b17ca6959b0f36bb250e68c8d7b76915a878a91f749d1338e2f457bb8465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-7-2014",
+   "path": "local/brasov/ghimbav/2014/7",
+   "short": "HCL Ghimbav nr. 7/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 7/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL7-2014-1.pdf",
+     "sha256": "ef3856a203fa2b5eebdf971be279c6ce0000fbc93039d365c0bc8381fe351f45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-8-2014",
+   "path": "local/brasov/ghimbav/2014/8",
+   "short": "HCL Ghimbav nr. 8/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 8/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL8-2014.pdf",
+     "sha256": "fa5a776c702177fe98de818276b0d0c5e9a1c98e89bc2ed938022837b2600de1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-9-2014",
+   "path": "local/brasov/ghimbav/2014/9",
+   "short": "HCL Ghimbav nr. 9/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 9/2014",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2014-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/89/2014-01-31-HCL9-2014.pdf",
+     "sha256": "2d510316addc83ee3b48c73c4858fa019a3c1f0d2ca125d51dd3d51d89fe5714"
     }
    ]
   }

@@ -333,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-braila--faurei-16-2026",
+"path": "local/braila/faurei/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Făurei nr. 16/2026",
+"short": "HCL Făurei nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-24",
+"latest": "2026-02-24",
+"portal": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-24-02-2026/",
+"council": "braila/faurei",
+"council_name": "Consiliul Local al Orașului Făurei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--faurei-17-2026",
 "path": "local/braila/faurei/2026/17",
 "kind": "local",

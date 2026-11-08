@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/fagaras/2026",
+ "acts": [
+  {
+   "slug": "hcl-brasov--fagaras-143-2026",
+   "path": "local/brasov/fagaras/2026/143",
+   "short": "HCL Făgăraș nr. 143/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 143/2026",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/9303",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/SKM_C257i26062313110.pdf",
+     "sha256": "2f7f038d311b251a878f3c72ba44c87c1bf7b380f5383b586d6f3e64ea28512a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-144-2026",
+   "path": "local/brasov/fagaras/2026/144",
+   "short": "HCL Făgăraș nr. 144/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 144/2026",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/9304",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/SKM_C257i26062313111.pdf",
+     "sha256": "92bd721631e8a764b239c011893597f190f6539608533745c9aba6c5130ff4c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-229-2026",
+   "path": "local/brasov/fagaras/2026/229",
+   "short": "HCL Făgăraș nr. 229/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 229/2026 pentru autorizarea SC DARIOSERGIO SRL privind activitatea de jocuri de noroc pe raza municipiului Făgăraș și încetarea efectelor HCL.nr. 79/08.04.2026",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/9456",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/SKM_C257i26101613381.pdf",
+     "sha256": "12fc0ee9671d5200928b231bf3e8c03e357f71ce8a92461e142b8262619a6e88"
+    }
+   ]
+  }
+ ]
+}

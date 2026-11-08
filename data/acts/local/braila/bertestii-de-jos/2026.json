@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-braila--bertestii-de-jos-7-2026",
+"path": "local/braila/bertestii-de-jos/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 7/2026 privind aprobarea inchirierii prin licitatie publica cu strigare a suprafetei de 17,72 ha pajisti apartinand domeniului privat al comunei Bertestii de Jos, judetul Braila, crescatorilor de animale de pe raza comunei",
+"short": "HCL Berteștii de Jos nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-14",
+"latest": "2026-04-14",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/259785",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--bertestii-de-jos-8-2026",
 "path": "local/braila/bertestii-de-jos/2026/8",
 "kind": "local",
@@ -154,6 +176,29 @@
 "council_name": "Consiliul Local al Comunei Berteștii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-9-2026",
+"path": "local/braila/bertestii-de-jos/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 9/2026",
+"short": "HCL Berteștii de Jos nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-27",
+"latest": "2026-04-27",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/263401",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -377,6 +422,139 @@
 }
 },
 {
+"slug": "hcl-braila--bertestii-de-jos-20-2026",
+"path": "local/braila/bertestii-de-jos/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 20/2026",
+"short": "HCL Berteștii de Jos nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-10",
+"latest": "2026-06-10",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/270895",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-21-2026",
+"path": "local/braila/bertestii-de-jos/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 21/2026 privind alegerea presedintelui de sedinta a Consiliului local Bertestii de Jos pentru urmatoarele trei luni :iunie, iulie, august anul 2026",
+"short": "HCL Berteștii de Jos nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/274366",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-22-2026",
+"path": "local/braila/bertestii-de-jos/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 22/2026 privind aprobarea devizului general privind cheltuielile necesare realizarii obiectivului de investitii REPARATII ACOPERIS CLADIRE C1 SCOALA GENERALA BERTESTII DE JOS, COMUNA BERTESTII DE JOS, JUDETUL BRAILA",
+"short": "HCL Berteștii de Jos nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/274367",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-23-2026",
+"path": "local/braila/bertestii-de-jos/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 23/2026 privind aprobarea devizului general privind cheltuielile necesare realizarii obiectivului de investitii REABILITARE INTERIOR-EXTERIOR CLADIRE TEREN SPORT BERTESTII DE JOS, COMUNA BERTESTII DE JOS, JUDETUL BRAILA",
+"short": "HCL Berteștii de Jos nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/274368",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-24-2026",
+"path": "local/braila/bertestii-de-jos/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 24/2026 privind aprobarea inchirierii prin licitatie publica cu oferta la plic /atribuire directa a aprtementului nr 2. din bloc cu 8 apartamente , parter , in suprafata de 77.26 mp situat pe un teren intravilan in cv 14, p 455 , nr cadastral 90907-C1-U8, CARTE FUNCIARA NR 90907-C1-U8, in satul Bertestii de jos, comuna Bertestii de Jos, judetul Braila, str Principala, nr 22, apartiand domeniului privat al comunei Bertestii de Jos",
+"short": "HCL Berteștii de Jos nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/274369",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-25-2026",
+"path": "local/braila/bertestii-de-jos/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 25/2026 privind aprobarea inchirierii prin licitatie publica /atribuire directa a unei suprafete de 37,64 mp ce face parte din suprafata totala de 62,97 mp a aprtamentului nr 1 din bloc cu 8 apartamente , parter, situat pe un teren intravilan ,cv 14, p 455, nr cadastral 90907-C1-U8, carte funciara 90907-C1-U8, sat Bertestii de Jos,comuna Bertestii de Jos, judetul Braila , str Principala, nr 22, apartinand domeniului privat al comunei Bertestii de Jos",
+"short": "HCL Berteștii de Jos nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-08",
+"latest": "2026-07-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/274370",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--bertestii-de-jos-26-2026",
 "path": "local/braila/bertestii-de-jos/2026/26",
 "kind": "local",
@@ -396,6 +574,94 @@
 "council_name": "Consiliul Local al Comunei Berteștii de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-27-2026",
+"path": "local/braila/bertestii-de-jos/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 27/2026 privind aprobarea completarii HCL nr 24/17,06,2026 privind inchirierea prin licitatie publica cu oferta la plic / atribuire directa a apartamentului nr 2 din bloc cu 8 apartamente , parter, in suprafata de 77,26 mp situat pe un teren intravilan in cvartal 14, parcela 455, nr cadastral 90907-C1-U8, cartea funciara 90907- C1-U8 situat in satul Bertestii de Jos,comuna Bertestii de Jos, judetul Braila, str principala, nr 22, apartinand domeniului privat al comunei Bertestii de Jos",
+"short": "HCL Berteștii de Jos nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/279365",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-28-2026",
+"path": "local/braila/bertestii-de-jos/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 28/2026 privind probarea completarii HCL nr 25/17,06,2026 privind inchirierea prin licitatie publica cu oferta la plic / atribuire directa a unei suprafete de 37,64 mp ce face parte din suprafata totala de 62,97 mp a apartamentului nr 1 din bloc cu 8 apartamente , situat pe un teren intravilan in cvartal 14, parcela 455, nr cadastral 90907-C1-U8, cartea funciara 90907- C1-U8 situat in satul Bertestii de Jos, comuna Bertestii de Jos, judetul Braila, str Principala, nr 22, apartinand domeniului privat al comunei Bertestii de Jos",
+"short": "HCL Berteștii de Jos nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/279366",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-29-2026",
+"path": "local/braila/bertestii-de-jos/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 29/2026 privind aprobarea executiei bugetare pe sectiunea de functionare si sectiunea de dezvoltare si activitati finantate din venituri proprii ale bugetului local al comunei pe trim II, anul 2026",
+"short": "HCL Berteștii de Jos nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/279367",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--bertestii-de-jos-30-2026",
+"path": "local/braila/bertestii-de-jos/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berteștii de Jos nr. 30/2026 privind alegerea presedintelui de sedinta al Consiliului local Bertestii de Jos pentru o perioada de trei luni :septembrie, octombrie, noiembrie anul 2026",
+"short": "HCL Berteștii de Jos nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/bertestiidejos-br/registru-hcl/289838",
+"council": "braila/bertestii-de-jos",
+"council_name": "Consiliul Local al Comunei Berteștii de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

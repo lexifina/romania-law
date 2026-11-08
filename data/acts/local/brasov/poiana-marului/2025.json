@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-5-2025",
+"path": "local/brasov/poiana-marului/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 5/2025 privind aprobarea închirierii cu titlu gratuit a sălii de evenimente a căminului cultural, în vederea organizării ”Balului Vânătorilor”",
+"short": "HCL Poiana Mărului nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-12",
+"latest": "2025-02-12",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/189138",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-6-2025",
 "path": "local/brasov/poiana-marului/2025/6",
 "kind": "local",
@@ -245,6 +267,28 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-13-2025",
+"path": "local/brasov/poiana-marului/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 13/2025 privind aprobarea închirierii unui spațiu din cadrul Căminului Cultural Poiana Mărului cu destinația de centru de recoltare analize medicale",
+"short": "HCL Poiana Mărului nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/194972",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -468,6 +512,28 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-24-2025",
+"path": "local/brasov/poiana-marului/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 24/2025 privind aprobarea închirierii unui mijloc de transport școlar (microbuz) în perioada activităţii școlare până la finalul anului școlar 2024-2025",
+"short": "HCL Poiana Mărului nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/199955",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-25-2025",
 "path": "local/brasov/poiana-marului/2025/25",
 "kind": "local",
@@ -665,6 +731,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-34-2025",
+"path": "local/brasov/poiana-marului/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 34/2025 privind prelungirea cu o perioadă de 9 ani a contractului de comodat cu APIA Centrul Județean Brașov, pentru spațiul situat în comuna Poiana Mărului, str. Laterală, nr. 224",
+"short": "HCL Poiana Mărului nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-24",
+"latest": "2025-06-24",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/212603",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1132,6 +1220,50 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-56-2025",
+"path": "local/brasov/poiana-marului/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 56/2025 privind rectificarea de suprafață a terenului situat în Comuna Poiana Mărului, str. Principală, nr. 195, identificat prin nr. cad. 101093-C1, CF 101093 aparținând domeniului privat al UAT Poiana Mărului, conform documentației cadastrale",
+"short": "HCL Poiana Mărului nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/226260",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-57-2025",
+"path": "local/brasov/poiana-marului/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 57/2025 privind desemnarea unui reprezentant al primarului și a reprezentanților Consiliului Local, în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Poiana Mărului, pentru anul școlar 2025-2026",
+"short": "HCL Poiana Mărului nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/226261",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-58-2025",
 "path": "local/brasov/poiana-marului/2025/58",
 "kind": "local",
@@ -1151,6 +1283,28 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-59-2025",
+"path": "local/brasov/poiana-marului/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 59/2025 privind aprobarea închirierii sălii de evenimente a căminului cultural, în vederea organizării ”Balului de Sf. Nicolae”",
+"short": "HCL Poiana Mărului nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/231047",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1177,6 +1331,28 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-61-2025",
+"path": "local/brasov/poiana-marului/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 61/2025 privind aprobarea închirierii cu titlu gratuit a sălii de spectacol a căminului cultural",
+"short": "HCL Poiana Mărului nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/231049",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-62-2025",
 "path": "local/brasov/poiana-marului/2025/62",
 "kind": "local",
@@ -1196,6 +1372,28 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-63-2025",
+"path": "local/brasov/poiana-marului/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 63/2025 de modificare a HCL nr. 8/31.01.2024 privind aprobarea decontării de la bugetul local a cheltuielilor de transport pentru funcţionarii publici şi personalul contractual din cadrul familiei ocupaţionale \"Administraţie\" din aparatul de specialitate al primarului comunei Poiana Mărului",
+"short": "HCL Poiana Mărului nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/231051",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1309,6 +1507,50 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-69-2025",
+"path": "local/brasov/poiana-marului/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 69/2025 privind rectificarea de suprafață a terenului situat în Comuna Poiana identificat prin nr. cad. 104405, CF 104405 aparținând domeniului public al UAT Poiana Mărului, conform documentației cadastrale",
+"short": "HCL Poiana Mărului nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/231057",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-70-2025",
+"path": "local/brasov/poiana-marului/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 70/2025 privind aprobarea unei NOTE de îndreptare a erorilor materiale din ”HCL nr. 56/24.09.2025 privind rectificarea de suprafață a terenului situat în Comuna Poiana Mărului, str. Principală, nr. 195, identificat prin nr. cad. 101093-C1, CF 101093 aparținând domeniului privat al UAT Poiana Mărului, conform documentației cadastrale”",
+"short": "HCL Poiana Mărului nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/231058",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-71-2025",
 "path": "local/brasov/poiana-marului/2025/71",
 "kind": "local",
@@ -1350,6 +1592,29 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-73-2025",
+"path": "local/brasov/poiana-marului/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 73/2025",
+"short": "HCL Poiana Mărului nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-19",
+"latest": "2025-11-19",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/234824",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1573,6 +1838,28 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-84-2025",
+"path": "local/brasov/poiana-marului/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 84/2025 privind aprobarea acordării unui ajutor financiar de urgență",
+"short": "HCL Poiana Mărului nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/237277",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

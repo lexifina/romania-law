@@ -3,6 +3,66 @@
  "shard": "local/brasov/ghimbav/2023",
  "acts": [
   {
+   "slug": "hcl-brasov--ghimbav-1-2023",
+   "path": "local/brasov/ghimbav/2023/1",
+   "short": "HCL Ghimbav nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 1/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_1_26-01-2023.pdf",
+     "sha256": "0ca54563345c3aebea67296bf694185f0d6a043b4958fb59d608644fef96a421"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-100-2023",
+   "path": "local/brasov/ghimbav/2023/100",
+   "short": "HCL Ghimbav nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 100/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-21-HCL_nr_100_09-08-2023.pdf",
+     "sha256": "79f95cc89edeb6380436ea56b04387dec80d63fce4169492ada375a5341e4ecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-101-2023",
+   "path": "local/brasov/ghimbav/2023/101",
+   "short": "HCL Ghimbav nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 101/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-21-HCL_nr_101_09-08-2023.pdf",
+     "sha256": "7d8d3d13f16a15938213ea938c8ca86c94de1c3d2a1e648660631a4328d79b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-102-2023",
+   "path": "local/brasov/ghimbav/2023/102",
+   "short": "HCL Ghimbav nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 102/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-21-HCL_nr_102_09-08-2023.pdf",
+     "sha256": "833262a2e0b0e4d267c81e1a8217d77304807153abb1c82c28d8b659ed19763e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-103-2023",
    "path": "local/brasov/ghimbav/2023/103",
    "short": "HCL Ghimbav nr. 103/2023",
@@ -18,6 +78,156 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-104-2023",
+   "path": "local/brasov/ghimbav/2023/104",
+   "short": "HCL Ghimbav nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 104/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-21-HCL_nr_104_09-08-2023.pdf",
+     "sha256": "fa66ca8f4f1cba46e2167a840074261b52975df308816b9d4520c8cfda3f1a62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-105-2023",
+   "path": "local/brasov/ghimbav/2023/105",
+   "short": "HCL Ghimbav nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 105/2023 privind casarea autovehiculelor uzate din oraș Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-21-HCL_nr_105_09-08-2023.pdf",
+     "sha256": "543554fb316334f2ac3ec4eb75bb99789ccf0e88ef6b96532801af3ec47a78d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-106-2023",
+   "path": "local/brasov/ghimbav/2023/106",
+   "short": "HCL Ghimbav nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 106/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-21-HCL_nr_106_09-08-2023.pdf",
+     "sha256": "2f61f618327ad2d074e465ae997100cae7a7a65c2f6c114597c75d4451139e16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-107-2023",
+   "path": "local/brasov/ghimbav/2023/107",
+   "short": "HCL Ghimbav nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 107/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_107_31-08-2023.pdf",
+     "sha256": "677d196e585cd952d6991ff85e422ba72cc3afe62dbfcc4b3a0baf5e82dc6812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-108-2023",
+   "path": "local/brasov/ghimbav/2023/108",
+   "short": "HCL Ghimbav nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 108/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_108_31-08-2023.pdf",
+     "sha256": "2b2efa834d5891c8cf824896d867d9b8da2758b8d0aa94718f3507000d00956b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-109-2023",
+   "path": "local/brasov/ghimbav/2023/109",
+   "short": "HCL Ghimbav nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 109/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_109_31-08-2023.pdf",
+     "sha256": "fbde64eb5311bc32589eb44be9a877a6e424a64f9b3240b8b88ccb5b97f09545"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-11-2023",
+   "path": "local/brasov/ghimbav/2023/11",
+   "short": "HCL Ghimbav nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 11/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_11_26-01-2023.pdf",
+     "sha256": "fe1988dd589d0d778fb74c5d3389f658ee03cb01e2466f02ced6768f6bed6974"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-110-2023",
+   "path": "local/brasov/ghimbav/2023/110",
+   "short": "HCL Ghimbav nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 110/2023 pentru achiziția produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_110_31-08-2023.pdf",
+     "sha256": "de6957aca52401b9e6afe3fc26d74ef9b482317dd447c83b0e717678f5d280ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-111-2023",
+   "path": "local/brasov/ghimbav/2023/111",
+   "short": "HCL Ghimbav nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 111/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_111_31-08-2023.pdf",
+     "sha256": "b8106d88417eee447a877a2966cacacea8917f4d1385f6ae628d175830a9f004"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-112-2023",
+   "path": "local/brasov/ghimbav/2023/112",
+   "short": "HCL Ghimbav nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 112/2023 pentru soluționarea cererilor de locuințe sociale și repartizarea acestora în regim de închiriere, a formularelor de înscriere pe lista de priorități la locuințe sociale, documentele justificative pentru întocmirea dosarelor, stabilirea datei și locului de depunere a dosarelor, precum și modul de comunicare a acestor informații către solicitanți Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_112_31-08-2023.pdf",
+     "sha256": "05beb7753b2ef6c74506e9b340f49332e864fddd5ccab305b2fa4a33f7acc07f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-113-2023",
    "path": "local/brasov/ghimbav/2023/113",
    "short": "HCL Ghimbav nr. 113/2023",
@@ -29,6 +239,471 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_113_31-08-2023.pdf",
      "sha256": "762c6836e535f1d1d64982541f490be11e5b3f4a2a756905a25ca66ea2c5d566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-114-2023",
+   "path": "local/brasov/ghimbav/2023/114",
+   "short": "HCL Ghimbav nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 114/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_114_31-08-2023.pdf",
+     "sha256": "1a61719840e6b567a3bf79726d6e225bfd0acc5f491a6642346991d8897e55ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-115-2023",
+   "path": "local/brasov/ghimbav/2023/115",
+   "short": "HCL Ghimbav nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 115/2023 pentru închiriere de containere cu destinația săli de clasă pentru Școala Gimnazială Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_115_31-08-2023.pdf",
+     "sha256": "a16bd62688ee8ec41e7af5ebab3b5d4effe0f70b5748ab14f8499ea09dbdc44f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-116-2023",
+   "path": "local/brasov/ghimbav/2023/116",
+   "short": "HCL Ghimbav nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 116/2023 privind aprobarea reglementărilor juridice și tehnice cu privire la parcelarea terenurilor și proiectarea infrastructurii stradale din documentațiile de urbanism ale orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_116_31-08-2023.pdf",
+     "sha256": "1d95fc07dc44fda47dde246155543f1a395a603bad9e53595f5d543a7587bc87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-117-2023",
+   "path": "local/brasov/ghimbav/2023/117",
+   "short": "HCL Ghimbav nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 117/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_117_31-08-2023.pdf",
+     "sha256": "58facf584054b412eac8b1b9cd0d8d37dc6c47565033a7099f9415d616a59811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-118-2023",
+   "path": "local/brasov/ghimbav/2023/118",
+   "short": "HCL Ghimbav nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 118/2023 privind acordarea unor facilități anumitor categorii de persoane, pe mijloacele de transport public local de călători utilizate de către societatea RATBV SA, pe raza teritorial administrativă a Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_118_31-08-2023.pdf",
+     "sha256": "2e9ff779657ac5164f127af79dcbd4d990e37c82865c840f62f1e1c2a57fbda1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-119-2023",
+   "path": "local/brasov/ghimbav/2023/119",
+   "short": "HCL Ghimbav nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 119/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_119_31-08-2023.pdf",
+     "sha256": "7798bdea41153889ea42c1ed7f98e8784b32254c97efece58289edfaa055b0b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-12-2023",
+   "path": "local/brasov/ghimbav/2023/12",
+   "short": "HCL Ghimbav nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 12/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_12_26-01-2023.pdf",
+     "sha256": "6b8e9590f90e77bc741b0c2b9dde2d709447a30e92ee889ac080105654942f86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-120-2023",
+   "path": "local/brasov/ghimbav/2023/120",
+   "short": "HCL Ghimbav nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 120/2023 pentru suprafețele cu destinația de locuințe sociale Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-11-HCL_nr_120_31-08-2023.pdf",
+     "sha256": "1bcd226bd590b97125e85760ea8768d3f39991c0dda19774b4b8ac9cab52c58d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-121-2023",
+   "path": "local/brasov/ghimbav/2023/121",
+   "short": "HCL Ghimbav nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 121/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-12-HCL_nr_121_05-09-2023.pdf",
+     "sha256": "3f717550ff85446b6f25dc1e2c179d1d369585311f4b7b978397daacba9f8718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-122-2023",
+   "path": "local/brasov/ghimbav/2023/122",
+   "short": "HCL Ghimbav nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 122/2023 privind înființarea Clubului Sportiv Orășenesc Teutonii Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-09-12-HCL_nr_122_05-09-2023.pdf",
+     "sha256": "cc8dec219049b1e42aefd4ad99cf17b606f23ad2a25a773ec1b0066143c259f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-123-2023",
+   "path": "local/brasov/ghimbav/2023/123",
+   "short": "HCL Ghimbav nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 123/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_123_28-09-2023.pdf",
+     "sha256": "1fa30fce15e3f1670f6625dda9f1e95eb6ea3fa6ea8790dd834cfea6bf38d717"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-124-2023",
+   "path": "local/brasov/ghimbav/2023/124",
+   "short": "HCL Ghimbav nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 124/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_124_28-09-2023.pdf",
+     "sha256": "6ee3971914827508583509f667d894c86ff83035b13a4e373ef0b5722a9072a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-125-2023",
+   "path": "local/brasov/ghimbav/2023/125",
+   "short": "HCL Ghimbav nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 125/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_125_28-09-2023.pdf",
+     "sha256": "2c4887614c394c731476a903c471ddbf02759569851ccdf4863731ce68d999d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-126-2023",
+   "path": "local/brasov/ghimbav/2023/126",
+   "short": "HCL Ghimbav nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 126/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_126_28-09-2023.pdf",
+     "sha256": "9f6a249761303d98e7269f0f59bc262f8f82c564a82a8fb1e7641734519c7b9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-127-2023",
+   "path": "local/brasov/ghimbav/2023/127",
+   "short": "HCL Ghimbav nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 127/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_127_28-09-2023.pdf",
+     "sha256": "9004a6d6d33b705856987ac728f5f428ce6d8c44efe0157b353df3edf6d211f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-128-2023",
+   "path": "local/brasov/ghimbav/2023/128",
+   "short": "HCL Ghimbav nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 128/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_128_28-09-2023.pdf",
+     "sha256": "ff61bf71450a6025d555d77120ef97a76581577c9e9498edd28666c50150e82b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-129-2023",
+   "path": "local/brasov/ghimbav/2023/129",
+   "short": "HCL Ghimbav nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 129/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_129_28-09-2023.pdf",
+     "sha256": "2a9a71847c745be742209e2394afd6ec534a4f6c25983f25eef02945f3e1daf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-13-2023",
+   "path": "local/brasov/ghimbav/2023/13",
+   "short": "HCL Ghimbav nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 13/2023 privind probarea unor facilități anumitor categorii de persoane, pe mijloacele de transport public local de călători utilizate de caătre societatea RATBV SA, pe raza teritorial-administrativă a Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_13_26-01-2023.pdf",
+     "sha256": "203ab037a990b361f551aa8d8d1b6f8e1e9c1efdbec6d00a458617253001985f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-130-2023",
+   "path": "local/brasov/ghimbav/2023/130",
+   "short": "HCL Ghimbav nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 130/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_130_28-09-2023.pdf",
+     "sha256": "70ca9ee756fadbb380dce9744dd9e2b5497db1c0f166f14f5f810bb214a0c419"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-131-2023",
+   "path": "local/brasov/ghimbav/2023/131",
+   "short": "HCL Ghimbav nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 131/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_131_28-09-2023.pdf",
+     "sha256": "b319ce3f86672e563b1c0b129feb728b4d0bf047a0afb3d1a3aa560858ce0b76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-132-2023",
+   "path": "local/brasov/ghimbav/2023/132",
+   "short": "HCL Ghimbav nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 132/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_132_28-09-2023.pdf",
+     "sha256": "2545c4b3e9744fc0308309e04c7a8b06f90b6eed724bfcb5a7eecdc27cdfe607"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-133-2023",
+   "path": "local/brasov/ghimbav/2023/133",
+   "short": "HCL Ghimbav nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 133/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_133_28-09-2023.pdf",
+     "sha256": "e0279f8b4c008ba61b4ab678b1e453fc69e5b807d85d1576261cd468b2cc1c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-134-2023",
+   "path": "local/brasov/ghimbav/2023/134",
+   "short": "HCL Ghimbav nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 134/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-10-03-HCL_nr_134_28-09-2023.pdf",
+     "sha256": "94a6d6fdd411056ce276cd2cc6660860d7320eddefa8be09ddea574509aedd26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-135-2023",
+   "path": "local/brasov/ghimbav/2023/135",
+   "short": "HCL Ghimbav nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 135/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_135_31-10-2023.pdf",
+     "sha256": "204e6c8bb8a4bd9904ce66c0cb8ca37c764faeb5cb474df80b63a55bf0d0e95c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-136-2023",
+   "path": "local/brasov/ghimbav/2023/136",
+   "short": "HCL Ghimbav nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 136/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_136_31-10-2023.pdf",
+     "sha256": "4c283fa10b7d7cb5068faccc9ae78a9df554d8a36641e10bcf8b7c2f22e643ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-137-2023",
+   "path": "local/brasov/ghimbav/2023/137",
+   "short": "HCL Ghimbav nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 137/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_137_31-10-2023.pdf",
+     "sha256": "a0225b1f6b02b867102cbbe03d625ab05ded13c3ae6342e2300b4b977a9c9e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-138-2023",
+   "path": "local/brasov/ghimbav/2023/138",
+   "short": "HCL Ghimbav nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 138/2023",
+   "url": "https://primaria-ghimbav.ro/wp-content/uploads/2024/04/2024-02-02-Primaria_Orasului_Ghimbav-Organigrama-HCL_nr_138_31-10-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/wp-content/uploads/2024/04/2024-02-02-Primaria_Orasului_Ghimbav-Organigrama-HCL_nr_138_31-10-2023.pdf",
+     "sha256": "1d4e5745078a8c2c5ffc97596194f6c9c568f710c128ee3e885d94e366a6cec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-139-2023",
+   "path": "local/brasov/ghimbav/2023/139",
+   "short": "HCL Ghimbav nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 139/2023 pentru investiția „Stație de compost” în oraș Ghimbav jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_139_31-10-2023.pdf",
+     "sha256": "acdac28ecaa5f1d875609da3d259393be768c66462541046c82790df4f1e37cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-14-2023",
+   "path": "local/brasov/ghimbav/2023/14",
+   "short": "HCL Ghimbav nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 14/2023 pentru obiectivul de investiții POD NOU ÎN ORAȘUL GHIMBAV, ZONA MOARĂ, JUD. BRAȘOV Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_14_26-01-2023.pdf",
+     "sha256": "0a02015391d41d54d48d85c8fe7f81e2866745eb1889adecef75a6decee9614e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-140-2023",
+   "path": "local/brasov/ghimbav/2023/140",
+   "short": "HCL Ghimbav nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 140/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_140_31-10-2023.pdf",
+     "sha256": "3a665eeabb7bdc604650542258350f67680fd5f39528157c50a97f2ec2d03c7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-141-2023",
+   "path": "local/brasov/ghimbav/2023/141",
+   "short": "HCL Ghimbav nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 141/2023 pentru imobilul situat în Tarla 31, Parcela A 239/1, reprezentat de „DE 239/2” – drum în suprafață de 4542 mp, Orașul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_141_31-10-2023.pdf",
+     "sha256": "46f4f19d650fc1009fe343230806a775466cebe2facdb3e77f83fe319f9b17df"
     }
    ]
   },
@@ -63,6 +738,261 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-144-2023",
+   "path": "local/brasov/ghimbav/2023/144",
+   "short": "HCL Ghimbav nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 144/2023 privind aprobarea reglementărilor juridice și tehnice cu privire la parcelarea terenurilor și proiectarea infrastructurii stradale din documentațiile de urbanism ale Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_144_31-10-2023.pdf",
+     "sha256": "3a1e2b7fb905fab3102668af947184342fd05f84596a77fc37353bb8586a9d35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-145-2023",
+   "path": "local/brasov/ghimbav/2023/145",
+   "short": "HCL Ghimbav nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 145/2023 privind aprobarea Documentației cadastrale de primă înscriere în sistemul integrat de cadastru și carte funciară pentru imobilele: „DE 225” – drum, în suprafață de 5469 mp și „DE 223” – drum, în suprafață de 4867 mp, Orașul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_145_31-10-2023.pdf",
+     "sha256": "c706d706389212add71605c3c53c1ed4fbc565d019383973881c85a26cf21ec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-146-2023",
+   "path": "local/brasov/ghimbav/2023/146",
+   "short": "HCL Ghimbav nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 146/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_146_31-10-2023.pdf",
+     "sha256": "002f34fb34a1b1f463ea3b4d195223c412033b1c9da3b3fada88732e178ec5f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-147-2023",
+   "path": "local/brasov/ghimbav/2023/147",
+   "short": "HCL Ghimbav nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 147/2023 privind ordinea de prioritate în soluționarea cererilor de locuințe sociale aflate în patrimoniul Orașului Ghimbav, pentru anul 2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_147_31-10-2023.pdf",
+     "sha256": "df92c06cd73feb8e50eba19089fd539ebd320191e0d228bea93efaaaa1c9420e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-148-2023",
+   "path": "local/brasov/ghimbav/2023/148",
+   "short": "HCL Ghimbav nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 148/2023 pentru terenurile înscrise în CF nr. 103198 și CF 102842, Oraș Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-15-HCL_nr_148_31-10-2023.pdf",
+     "sha256": "eae74902ed09884b4390fecc1ee08f5bbd22fdac9931345b5a7b8803d386b173"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-149-2023",
+   "path": "local/brasov/ghimbav/2023/149",
+   "short": "HCL Ghimbav nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 149/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-22-HCL_nr_149_13-11-2023.pdf",
+     "sha256": "8ca640340afcf173782299b259fad5205367e9c56eb3fde65317e86fe277ba43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-15-2023",
+   "path": "local/brasov/ghimbav/2023/15",
+   "short": "HCL Ghimbav nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 15/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_15_26-01-2023.pdf",
+     "sha256": "de78f865a0973d17b109eb02b8faee21920d2928b65928efc5a5668e03a58534"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-150-2023",
+   "path": "local/brasov/ghimbav/2023/150",
+   "short": "HCL Ghimbav nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 150/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-22-HCL_nr_150_13-11-2023.pdf",
+     "sha256": "45d6632182e45b1570be7221eaabfeaaba0e69a66f7996a487fdc737aa1391bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-151-2023",
+   "path": "local/brasov/ghimbav/2023/151",
+   "short": "HCL Ghimbav nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 151/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-22-HCL_nr_151_13-11-2023.pdf",
+     "sha256": "baf9aa43dafadf3aa9a86820f08e32fc47ddc76c31eda78c6147c25e93b2d031"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-152-2023",
+   "path": "local/brasov/ghimbav/2023/152",
+   "short": "HCL Ghimbav nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 152/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-22-HCL_nr_152_13-11-2023.pdf",
+     "sha256": "a8cbe7ab21e8ceee9e48ff2555cc0e825954908aa20e9653286176e534e67d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-153-2023",
+   "path": "local/brasov/ghimbav/2023/153",
+   "short": "HCL Ghimbav nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 153/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-22-HCL_nr_153_13-11-2023.pdf",
+     "sha256": "d0d4c69fbc1a21f8f4689933d03b6ac027f110bd8f4a959398a2a0d44fc210eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-154-2023",
+   "path": "local/brasov/ghimbav/2023/154",
+   "short": "HCL Ghimbav nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 154/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-22-HCL_nr_154_13-11-2023.pdf",
+     "sha256": "1771c3e7d62b0d6684291df38c9f0ef2c96f2da41908acb8d80e31f6c172fbf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-155-2023",
+   "path": "local/brasov/ghimbav/2023/155",
+   "short": "HCL Ghimbav nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 155/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-22-HCL_nr_155_13-11-2023.pdf",
+     "sha256": "238c024ff042d286705e540ab927a8483673f005426bd2b7c86703c45ddc3fe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-156-2023",
+   "path": "local/brasov/ghimbav/2023/156",
+   "short": "HCL Ghimbav nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 156/2023 privind înființarea Clubului Sportiv Orășenesc Teotonii Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-22-HCL_nr_156_13-11-2023.pdf",
+     "sha256": "34e65032cec7b20b792c9a56dc2dad72fb09001ffe4558bf8c3da9fd38f6f959"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-157-2023",
+   "path": "local/brasov/ghimbav/2023/157",
+   "short": "HCL Ghimbav nr. 157/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 157/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_157_28-11-2023.pdf",
+     "sha256": "28b0693d77c4109d56b4083e47c725c260508b526cbfbfcf7c9c049f4ab8cf6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-158-2023",
+   "path": "local/brasov/ghimbav/2023/158",
+   "short": "HCL Ghimbav nr. 158/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 158/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_158_28-11-2023.pdf",
+     "sha256": "b72f589fce5a3610249c75241ae27ac02577329c60a39c80e60f7810d10cc5e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-159-2023",
+   "path": "local/brasov/ghimbav/2023/159",
+   "short": "HCL Ghimbav nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 159/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_159_28-11-2023.pdf",
+     "sha256": "b7db1074f23daaa8eef4232d75db4d9d974fc7f3e6fa53055a881ec2b5995d6d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-16-2023",
    "path": "local/brasov/ghimbav/2023/16",
    "short": "HCL Ghimbav nr. 16/2023",
@@ -74,6 +1004,171 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_16_26-01-2023.pdf",
      "sha256": "34ae528cc3c4013e1aa7e67622cdc070d10eb73f13f2ccbd73be3fc6ccf4bd83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-160-2023",
+   "path": "local/brasov/ghimbav/2023/160",
+   "short": "HCL Ghimbav nr. 160/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 160/2023 privind punerea în suguranță a conductelor de transport gaze naturale aparținâmd operatorului de transport gaze naturale SNTGN TRANSGAZ SA Medias din cadrul Investiției Modernizare străzi în orașul Ghimbav, zona Livadă – Strada Nucului, Strada Prunului, strada Unirii, Strada Progresului, CF nr. 104230, CF vechi nr. 1934 și CF 104696” și a indica",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_160_28-11-2023.pdf",
+     "sha256": "7335db9efd26f791228a7c16959f1449f30a273d688f92d8f3f516792900f216"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-161-2023",
+   "path": "local/brasov/ghimbav/2023/161",
+   "short": "HCL Ghimbav nr. 161/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 161/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_161_28-11-2023.pdf",
+     "sha256": "36e62fa2358ad4b3e78980a78b31152f9b4bda627c3617ad3ab51190b7f580ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-162-2023",
+   "path": "local/brasov/ghimbav/2023/162",
+   "short": "HCL Ghimbav nr. 162/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 162/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_162_28-11-2023.pdf",
+     "sha256": "b309ae37997ed2dec1b8e23234b4fa72fc15b95962b565a346718f9e6f4617a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-163-2023",
+   "path": "local/brasov/ghimbav/2023/163",
+   "short": "HCL Ghimbav nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 163/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_163_28-11-2023.pdf",
+     "sha256": "d884d60ac19a6632bb3ed16fb9519a0ef34cf940742d01b5546a417b65cde048"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-164-2023",
+   "path": "local/brasov/ghimbav/2023/164",
+   "short": "HCL Ghimbav nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 164/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_164_28-11-2023.pdf",
+     "sha256": "972be8e5c40cdb468902c2a4d2b323944e0f1b539ab47360fa37a347b72c2d3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-165-2023",
+   "path": "local/brasov/ghimbav/2023/165",
+   "short": "HCL Ghimbav nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 165/2023 pentru Biserica Evanghelică CA Parohia Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_165_28-11-2023.pdf",
+     "sha256": "7d54110067e51d2cdbb23efca6a983e90173c7f759283bd1e4e3211acc5cc704"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-166-2023",
+   "path": "local/brasov/ghimbav/2023/166",
+   "short": "HCL Ghimbav nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 166/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_166_28-11-2023.pdf",
+     "sha256": "41c43fb11fd6285608e747c05e5c83c0b1ff4b7c0dae14056dd8ed73925ae5df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-167-2023",
+   "path": "local/brasov/ghimbav/2023/167",
+   "short": "HCL Ghimbav nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 167/2023 pentru anul 2023, aprobată prin HCL 147/31.10.2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-11-28-HCL_nr_167_28-11-2023.pdf",
+     "sha256": "2b7353fc2b03e19298a3fe264202ff42201528f00c19c8b5f44d98c01bb8710e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-168-2023",
+   "path": "local/brasov/ghimbav/2023/168",
+   "short": "HCL Ghimbav nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 168/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-12-15-HCL_nr_168_08-12-2023.pdf",
+     "sha256": "831758bb8579733be50241665da98e801c6158e67e4245f96c293e3f55c21674"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-169-2023",
+   "path": "local/brasov/ghimbav/2023/169",
+   "short": "HCL Ghimbav nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 169/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-12-15-HCL_nr_169_08-12-2023.pdf",
+     "sha256": "f5a2372cb347e09f09f94cea5e39c8fa02278f513738da66ece1436caf507bee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-17-2023",
+   "path": "local/brasov/ghimbav/2023/17",
+   "short": "HCL Ghimbav nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 17/2023 pentru proiectul „Dotarea Serviciului Întreținere Parcuri și Zone Verzi din cadrul Primăriei orașului Ghimbav cu un tractor, o remorcă basculantă, o cositoare cu discuri și o cisternă” finanțat în baza Contractului de finanțare nr. C1920074X218470808920/2022 semnat cu Agenția Pentru Finanțarea Investițiilor Rurale Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_17_26-01-2023.pdf",
+     "sha256": "0a61f9826587e158b88a8b163f5ceca7d45c197bcaec02454043217677c4cbe8"
     }
    ]
   },
@@ -93,6 +1188,306 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-171-2023",
+   "path": "local/brasov/ghimbav/2023/171",
+   "short": "HCL Ghimbav nr. 171/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 171/2023 pentru Parohia Ortodoxă Română Ghimbav 2 – Hramul „Sf",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-12-15-HCL_nr_171_08-12-2023.pdf",
+     "sha256": "da96ab153d2a39aa5544c4e820477802eb6966675426bf3c782fb5492fb5df12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-173-2023",
+   "path": "local/brasov/ghimbav/2023/173",
+   "short": "HCL Ghimbav nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 173/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-12-15-HCL_nr_173_08-12-2023.pdf",
+     "sha256": "09d3c776d46d7b9087dfa449c41148dec58c79cdaeec113b9a848fa0f1905611"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-174-2023",
+   "path": "local/brasov/ghimbav/2023/174",
+   "short": "HCL Ghimbav nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 174/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_174_21-12-2023.pdf",
+     "sha256": "c88c08376d51ceb0129bfcc1a9a9bb898954cd0faae6ab757b922aff5acc2007"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-175-2023",
+   "path": "local/brasov/ghimbav/2023/175",
+   "short": "HCL Ghimbav nr. 175/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 175/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_175_21-12-2023.pdf",
+     "sha256": "fb5a1a4bcdde6a1abe3416ca307cf9cdea2d6215fcb394de4512fd472ef0dde0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-176-2023",
+   "path": "local/brasov/ghimbav/2023/176",
+   "short": "HCL Ghimbav nr. 176/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 176/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_176_21-12-2023.pdf",
+     "sha256": "8f8d7669afbda8c3c51a6c9be840fcf38a32d3adac18d73612abdf9d26ccf89c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-177-2023",
+   "path": "local/brasov/ghimbav/2023/177",
+   "short": "HCL Ghimbav nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 177/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_177_21-12-2023.pdf",
+     "sha256": "c8d84aeaf40c1f7626b5a9616c5853a8fb9adf07b8885a3000073ae92356c9ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-178-2023",
+   "path": "local/brasov/ghimbav/2023/178",
+   "short": "HCL Ghimbav nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 178/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_178_21-12-2023.pdf",
+     "sha256": "b625afd4ea2d526daca97127b263559764c1b59fcf7b224f009e35c453527d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-179-2023",
+   "path": "local/brasov/ghimbav/2023/179",
+   "short": "HCL Ghimbav nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 179/2023 pentru performanțe deosebite Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_179_21-12-2023.pdf",
+     "sha256": "0f48c1f035e81df0084776b704226e66380383fd41aa844feb9a1646cdeee1b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-18-2023",
+   "path": "local/brasov/ghimbav/2023/18",
+   "short": "HCL Ghimbav nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 18/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-27-HCL_nr_18_21-02-2023.pdf",
+     "sha256": "c2e67f9a771f238502cb13246efa30079d45dabe8a3aabec6a646eee9b9b457e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-180-2023",
+   "path": "local/brasov/ghimbav/2023/180",
+   "short": "HCL Ghimbav nr. 180/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 180/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_180_21-12-2023.pdf",
+     "sha256": "0a08efa6be77b108d5c4266a86b1ce65e5761527854044e472fc2664bf9faf78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-181-2023",
+   "path": "local/brasov/ghimbav/2023/181",
+   "short": "HCL Ghimbav nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 181/2023 pentru imobilele-terenuri ce au destinația de drum/cale de acces, Oraș Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_181_21-12-2023.pdf",
+     "sha256": "2bb4fd4ec5078f41145c60b30c32d32092ceb3bf7bdc862f187ad324d600f409"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-182-2023",
+   "path": "local/brasov/ghimbav/2023/182",
+   "short": "HCL Ghimbav nr. 182/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 182/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_182_21-12-2023.pdf",
+     "sha256": "62e78addb76c455494b0bbbf44d643162fb612f8214e559f05f4ec7621b6c435"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-183-2023",
+   "path": "local/brasov/ghimbav/2023/183",
+   "short": "HCL Ghimbav nr. 183/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 183/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_183_21-12-2023.pdf",
+     "sha256": "a8b035b0b0960c1d335d296c05619a619675fc4ad55785020d1de1d0a147259c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-184-2023",
+   "path": "local/brasov/ghimbav/2023/184",
+   "short": "HCL Ghimbav nr. 184/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 184/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2024-01-03-HCL_nr_184_21-12-2023.pdf",
+     "sha256": "50948db91cde30f0901787c90342364c046bdce7324e37be7288a4f2790a80a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-19-2023",
+   "path": "local/brasov/ghimbav/2023/19",
+   "short": "HCL Ghimbav nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 19/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-27-HCL_nr_19_21-02-2023.pdf",
+     "sha256": "e4e05422a2a98e38da251f9029e60511715e3b135def10e8f9c273c5fee30084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-2-2023",
+   "path": "local/brasov/ghimbav/2023/2",
+   "short": "HCL Ghimbav nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 2/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-06-HCL_nr_2_26-01-2023.pdf",
+     "sha256": "b7cb122b2102b75f7f25b2a4bd75dda03ba60edf12079fea86fbabc424152d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-20-2023",
+   "path": "local/brasov/ghimbav/2023/20",
+   "short": "HCL Ghimbav nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 20/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-27-HCL_nr_20_21-02-2023.pdf",
+     "sha256": "85d38ecccaafff11ce4b4f849020b2a3646f77d6b198e8726d4ab4fe19d192f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-21-2023",
+   "path": "local/brasov/ghimbav/2023/21",
+   "short": "HCL Ghimbav nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 21/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-27-HCL_nr_21_21-02-2023.pdf",
+     "sha256": "c0ca22152fa6445f3cb87fbfe529844824ff75bc1388cc488666d454a04419a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-22-2023",
+   "path": "local/brasov/ghimbav/2023/22",
+   "short": "HCL Ghimbav nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 22/2023 pentru construcția / extinderea / reabilitarea noilor investiții aferente acestuia Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-27-HCL_nr_22_21-02-2023.pdf",
+     "sha256": "b3c05a98e37d0ff23bf878d299824e0dce0609f0bb6c7d6c4e3f711206f8d367"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-23-2023",
+   "path": "local/brasov/ghimbav/2023/23",
+   "short": "HCL Ghimbav nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 23/2023 pentru Dezvoltare Durabilă Brașov pentru Zona Metropolitană Brașov, conform proiectului prezentat, astfel cum a fost revizuit conform dispozițiilor Legii nr. 246 din 20 iulie 2022 privind zonele metropolitane, precum și pentru modificarea și completarea unor acte normative Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-27-HCL_nr_23_21-02-2023.pdf",
+     "sha256": "bfe1d4b8d561b56b777ca21633e0c6099121fd5a78ba926fb3fd16206f3a19fa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-24-2023",
    "path": "local/brasov/ghimbav/2023/24",
    "short": "HCL Ghimbav nr. 24/2023",
@@ -104,6 +1499,81 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-02-27-HCL_nr_24_21-02-2023.pdf",
      "sha256": "2c13831e86ad2e0a35c07087c70e9bba8f4bb14e4ddf4921611f4debc28cf0b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-25-2023",
+   "path": "local/brasov/ghimbav/2023/25",
+   "short": "HCL Ghimbav nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 25/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-03-22-HCL_nr_25_14-03-2023.pdf",
+     "sha256": "b940c18661383ccefae793d6b2e096ba2224c91f370c21f1d71131ae0189380f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-26-2023",
+   "path": "local/brasov/ghimbav/2023/26",
+   "short": "HCL Ghimbav nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 26/2023 privind aprobarea bugetului local pe anul 2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-03-22-HCL_nr_26_14-03-2023.pdf",
+     "sha256": "b558e442fb05da130f2f809092ef498408bcb409c1c79a8e8ad003d731e3f06b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-27-2023",
+   "path": "local/brasov/ghimbav/2023/27",
+   "short": "HCL Ghimbav nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 27/2023 privind exercitarea dreptului de preemptiune nr. 27/08.11.2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/registrul-agricol/oferte-vanzare-teren-si-comunicari-de-acceptare/2023-legea-17-2014/",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/91/2023-11-09-Anexa_1K-PV-CDEPPEDP_nr_27_08-11-2023-Oferta_nr_27-2023.pdf",
+     "sha256": "746cdff8f7059a0915926601536076775d7f17996d32e8684c699a35194aba01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-28-2023",
+   "path": "local/brasov/ghimbav/2023/28",
+   "short": "HCL Ghimbav nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 28/2023 privind exercitarea dreptului de preemptiune nr. 28/12.12.2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/registrul-agricol/oferte-vanzare-teren-si-comunicari-de-acceptare/2023-legea-17-2014/",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/91/2023-12-15-Anexa_1K-PV-CDEPPEDP_nr_28_12-12-2023-Oferta_nr_28_29-08-2023.pdf",
+     "sha256": "adfeae79b5bf01cd966a4a12a3017ab3dd384fa61c4c0c6a2398a806f5ce00f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-29-2023",
+   "path": "local/brasov/ghimbav/2023/29",
+   "short": "HCL Ghimbav nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 29/2023 privind exercitarea dreptului de preemptiune nr. 29/20.12.2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/registrul-agricol/oferte-vanzare-teren-si-comunicari-de-acceptare/2023-legea-17-2014/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/91/2023-12-21-Anexa_1K-PV-CDEPPEDP_nr_29_20-12-2023-Oferta_nr_29-2023.pdf",
+     "sha256": "863b4ecbd92cfa6a014e16a68c93ffdde85a0622e77c701ea863c43ca177b35f"
     }
    ]
   },
@@ -123,6 +1593,36 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-30-2023",
+   "path": "local/brasov/ghimbav/2023/30",
+   "short": "HCL Ghimbav nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 30/2023 privind exercitarea dreptului de preemptiune nr. 30/20.12.2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/registrul-agricol/oferte-vanzare-teren-si-comunicari-de-acceptare/2023-legea-17-2014/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/91/2023-12-21-Anexa_1K-PV-CDEPPEDP_nr_30_20-12-2023-Oferta_nr_30-2023.pdf",
+     "sha256": "464175e567688b4883600c9b849c08b53e5f3de5422fecd6b19567f5e26f6a2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-31-2023",
+   "path": "local/brasov/ghimbav/2023/31",
+   "short": "HCL Ghimbav nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 31/2023 privind exercitarea dreptului de preemptiune nr. 31/20.12.2023 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/registrul-agricol/oferte-vanzare-teren-si-comunicari-de-acceptare/2023-legea-17-2014/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/91/2023-12-21-Anexa_1K-PV-CDEPPEDP_nr_31_20-12-2023-Oferta_nr_31-2023.pdf",
+     "sha256": "4240e1cc4840a31106970f8087290f0ab9cd7ee75981a2bfc21bbc60b5578293"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-32-2023",
    "path": "local/brasov/ghimbav/2023/32",
    "short": "HCL Ghimbav nr. 32/2023",
@@ -138,6 +1638,141 @@
    ]
   },
   {
+   "slug": "hcl-brasov--ghimbav-47-2023",
+   "path": "local/brasov/ghimbav/2023/47",
+   "short": "HCL Ghimbav nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 47/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_47_27-04-2023.pdf",
+     "sha256": "b27884b5dd1c79c2296572cb839181737e221c0e45cd4caf4db28f00bad88453"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-48-2023",
+   "path": "local/brasov/ghimbav/2023/48",
+   "short": "HCL Ghimbav nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 48/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_48_27-04-2023.pdf",
+     "sha256": "ddc7885511c262e8ad98d0af44321aacaa033984dbec5a42a072aa1614631558"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-49-2023",
+   "path": "local/brasov/ghimbav/2023/49",
+   "short": "HCL Ghimbav nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 49/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_49_27-04-2023.pdf",
+     "sha256": "70866a0083f7b4876244e8d9de94340a8ad281896f1e51213574cb88fe55fd2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-50-2023",
+   "path": "local/brasov/ghimbav/2023/50",
+   "short": "HCL Ghimbav nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 50/2023 privind acordarea pachetului cu alimente „Pentru suflet” Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_50_27-04-2023.pdf",
+     "sha256": "e634e58d2b4d207b87f74b57af5e1bcd5b2c9087806e9b7bb4f1cbc7fac9d707"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-51-2023",
+   "path": "local/brasov/ghimbav/2023/51",
+   "short": "HCL Ghimbav nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 51/2023 pentru acordarea de finanțări nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general în domeniul sport și a Ghidului solicitantului Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_51_27-04-2023.pdf",
+     "sha256": "4d4d5cf8e98632fb2e20dca671dc8e66dfd69dd00425348c16ca265ddd472858"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-52-2023",
+   "path": "local/brasov/ghimbav/2023/52",
+   "short": "HCL Ghimbav nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 52/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_52_27-04-2023.pdf",
+     "sha256": "9bba0f744620f9232501aaa2346c59a4bde7196d23aed57f647ce0347e95d26a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-53-2023",
+   "path": "local/brasov/ghimbav/2023/53",
+   "short": "HCL Ghimbav nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 53/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_53_27-04-2023.pdf",
+     "sha256": "509436a8e451144cfb6fb038efc19afea443d1b85034e0ddfa1c37eb4cf2f4fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-54-2023",
+   "path": "local/brasov/ghimbav/2023/54",
+   "short": "HCL Ghimbav nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 54/2023 privind aprobarea modificării tarifelor unitare din Contractul de delegare a gestiunii serviciilor de salubrizare a loalității Ghimbav prin concesiune Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_54_27-04-2023.pdf",
+     "sha256": "fcd1137fb54702595b9e60c72aeba58be0e0a1d5130f71c2327e4edff0f1fffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-55-2023",
+   "path": "local/brasov/ghimbav/2023/55",
+   "short": "HCL Ghimbav nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 55/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_55_27-04-2023.pdf",
+     "sha256": "9be1d9e98a7aa1bd0b55cac2ac71334f3b574a14b25f3f58129ce428cbbc836e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--ghimbav-56-2023",
    "path": "local/brasov/ghimbav/2023/56",
    "short": "HCL Ghimbav nr. 56/2023",
@@ -149,6 +1784,546 @@
      "units": 1,
      "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_56_27-04-2023.pdf",
      "sha256": "b7348b3d9909188094b7bf1a9d0b16ae69ad1983734cc8066e2e6854bb063635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-57-2023",
+   "path": "local/brasov/ghimbav/2023/57",
+   "short": "HCL Ghimbav nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 57/2023 pentru stabilirea începând cu data de 01.11.2022 a salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_57_27-04-2023.pdf",
+     "sha256": "29d01e110dff84714927ba2c3cbe714bd364351e5c4a7ab129f54dffd2fb526c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-58-2023",
+   "path": "local/brasov/ghimbav/2023/58",
+   "short": "HCL Ghimbav nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 58/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_58_27-04-2023.pdf",
+     "sha256": "eb63f6d63e1b9e9118de35b5d318153376e5d14261d595f64513f4ae4c49c89c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-59-2023",
+   "path": "local/brasov/ghimbav/2023/59",
+   "short": "HCL Ghimbav nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 59/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_59_27-04-2023.pdf",
+     "sha256": "818ae9466765b621d62db1e4d91eda7d4ee2ef1176d53ec25ea7c8c2edece5b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-60-2023",
+   "path": "local/brasov/ghimbav/2023/60",
+   "short": "HCL Ghimbav nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 60/2023 pentru Biserica Evanghelică CA Parohia Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-12-HCL_nr_60_27-04-2023.pdf",
+     "sha256": "79f3c93cae88e3533acac2d0e1c4b3eab013d74113cd5078c5d714409f36d7fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-61-2023",
+   "path": "local/brasov/ghimbav/2023/61",
+   "short": "HCL Ghimbav nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 61/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-05-31-HCL_nr_61_25-05-2023.pdf",
+     "sha256": "1cd64c76e318f5700b92acfcb54e7ba2fd8a6d02bb824e967a93c1d9c74bd0fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-62-2023",
+   "path": "local/brasov/ghimbav/2023/62",
+   "short": "HCL Ghimbav nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 62/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_62_30-05-2023.pdf",
+     "sha256": "dde88f2e2bf11e8e89eb5047074526b07fdf56105de046c1cf4bd38005fd9863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-63-2023",
+   "path": "local/brasov/ghimbav/2023/63",
+   "short": "HCL Ghimbav nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 63/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_63_30-05-2023.pdf",
+     "sha256": "c950108ca26ef437b6a6c0800f53fbb7ef8591b01b1032e5982e9bbd58de3bd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-64-2023",
+   "path": "local/brasov/ghimbav/2023/64",
+   "short": "HCL Ghimbav nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 64/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_64_30-05-2023.pdf",
+     "sha256": "5d9405861f1d798111ed67620c2ec246895f7214165f37b81c9e44cca80cc135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-65-2023",
+   "path": "local/brasov/ghimbav/2023/65",
+   "short": "HCL Ghimbav nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 65/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_65_30-05-2023.pdf",
+     "sha256": "ba615fc529bba6832a702e66488d14321896228778bab41bd72fb7d90037c7ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-66-2023",
+   "path": "local/brasov/ghimbav/2023/66",
+   "short": "HCL Ghimbav nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 66/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_66_30-05-2023.pdf",
+     "sha256": "07904728852e0c1bf73e7c65cc4e2f427fc0c125d96b5b2c7a05d7754b3eec7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-67-2023",
+   "path": "local/brasov/ghimbav/2023/67",
+   "short": "HCL Ghimbav nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 67/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_67_30-05-2023.pdf",
+     "sha256": "d1153fe27715ce77e3d73a9dd613c514b98e9ec483caf1ec0dafac867641cb24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-68-2023",
+   "path": "local/brasov/ghimbav/2023/68",
+   "short": "HCL Ghimbav nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 68/2023 privind aprobarea prelungirii valabilității Contractului de Delegare a gestiunii serviciilor publice de salubrizare a localității Ghimbav prin concesiune nr. 17241/28.11.2018 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_68_30-05-2023.pdf",
+     "sha256": "53a692b2f7513117dce52098cde0490c2562fa07ba9c3783d4a681f919f40d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-69-2023",
+   "path": "local/brasov/ghimbav/2023/69",
+   "short": "HCL Ghimbav nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 69/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_69_30-05-2023.pdf",
+     "sha256": "f7ff228b8780f64172b29390b09167f60dd7f4f44b295d52e2d70d79e0b76cf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-70-2023",
+   "path": "local/brasov/ghimbav/2023/70",
+   "short": "HCL Ghimbav nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 70/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_70_30-05-2023.pdf",
+     "sha256": "cdbbb460cb3c8aad779caeeaa146453b4cc950c0a51ad06edcd0c3937d52e6e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-71-2023",
+   "path": "local/brasov/ghimbav/2023/71",
+   "short": "HCL Ghimbav nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 71/2023 pentru „Ănființare și operaționalizare centru de colectare prin aport voluntar”, orașul Ghimbav, jud",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_71_30-05-2023.pdf",
+     "sha256": "bc0b692a360613250505215b5cf7c9c87c4ef935228cdc7830c73e6b40ce2a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-72-2023",
+   "path": "local/brasov/ghimbav/2023/72",
+   "short": "HCL Ghimbav nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 72/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_72_30-05-2023.pdf",
+     "sha256": "59506c213d8818b08ea342a8775b0c5d42014115825fdc8abadd64b4be93e3de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-73-2023",
+   "path": "local/brasov/ghimbav/2023/73",
+   "short": "HCL Ghimbav nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 73/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_73_30-05-2023.pdf",
+     "sha256": "1887333e429f04a9dfe83a3425b9fc596587f58e9ed1f8c5dc4e0de6b6a317b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-74-2023",
+   "path": "local/brasov/ghimbav/2023/74",
+   "short": "HCL Ghimbav nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 74/2023 pentru anul fiscal 2024 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_74_30-05-2023.pdf",
+     "sha256": "e63a6f66bd9fec102cefac1c0ffe21fe05c036625aca3da2b05827bb4ea64464"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-75-2023",
+   "path": "local/brasov/ghimbav/2023/75",
+   "short": "HCL Ghimbav nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 75/2023 pentru realizarea în comun a achiziției de mijloace de transport public – 4 autobuze nepoluante de 10m, în cadrul proiectului PNRR C10-I1.1-85: „Achiziții mijloace de transport nepoluante Zona Metropolitană Brașov” contract de finanțare nr. 125810/08.11.2022 Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_75_30-05-2023.pdf",
+     "sha256": "dff88755e5f68b6d129832f8a5c75695c656c9339df9f15eccf1b9a4cab2b184"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-76-2023",
+   "path": "local/brasov/ghimbav/2023/76",
+   "short": "HCL Ghimbav nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 76/2023 pentru imobile – teren vândute în baza unor contracte de vânzare-cumpărare Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_76_30-05-2023.pdf",
+     "sha256": "bd22c7de2d40fab081d8176e61305404197a2d2fc95413bc9fadb14dbaad1a3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-77-2023",
+   "path": "local/brasov/ghimbav/2023/77",
+   "short": "HCL Ghimbav nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 77/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-06-08-HCL_nr_77_30-05-2023.pdf",
+     "sha256": "83926887186b10b778cc163a343c4d395633748ee2840ba8fa957b12cc3611b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-84-2023",
+   "path": "local/brasov/ghimbav/2023/84",
+   "short": "HCL Ghimbav nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 84/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-03-HCL_nr_84_28-06-2023.pdf",
+     "sha256": "70c0d6440f65547de2cc362ead995d932ee1e007f7423079fab8a3643e06aace"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-85-2023",
+   "path": "local/brasov/ghimbav/2023/85",
+   "short": "HCL Ghimbav nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 85/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-03-HCL_nr_85_28-06-2023.pdf",
+     "sha256": "110c4451f334ef9daf04e9cef49fef1df7d82d7e4b872512981e5a2749a44b30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-86-2023",
+   "path": "local/brasov/ghimbav/2023/86",
+   "short": "HCL Ghimbav nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 86/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-03-HCL_nr_86_28-06-2023.pdf",
+     "sha256": "8e4a2f9b2d66e14a0dde4bdaae20d129eaf5f8bb73d18a24db494edb7e029c61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-87-2023",
+   "path": "local/brasov/ghimbav/2023/87",
+   "short": "HCL Ghimbav nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 87/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-03-HCL_nr_87_28-06-2023.pdf",
+     "sha256": "9bfa68aaa85812f90b114c07977f4124f0a31431693b586f19a6e29fb33141d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-88-2023",
+   "path": "local/brasov/ghimbav/2023/88",
+   "short": "HCL Ghimbav nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 88/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-03-HCL_nr_88_28-06-2023.pdf",
+     "sha256": "fa1ba31f6535d619cc6230b6aaa414094f11418d308cb727c86175ab40833b1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-89-2023",
+   "path": "local/brasov/ghimbav/2023/89",
+   "short": "HCL Ghimbav nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 89/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_89_20-07-2023.pdf",
+     "sha256": "288f94114afa82bdaa10f37e1a61bc51ce1a04ffea5b25199d907df842ff6adc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-90-2023",
+   "path": "local/brasov/ghimbav/2023/90",
+   "short": "HCL Ghimbav nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 90/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_90_20-07-2023.pdf",
+     "sha256": "7edc1e28089148c2d739f66d3ec8ac3e0cd28dcacb4387e86f3dad3596a7c838"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-91-2023",
+   "path": "local/brasov/ghimbav/2023/91",
+   "short": "HCL Ghimbav nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 91/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_91_20-07-2023.pdf",
+     "sha256": "64133b4463a0e47b551b24a8ac66a85393060e808f29530967112d21d00a7b29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-92-2023",
+   "path": "local/brasov/ghimbav/2023/92",
+   "short": "HCL Ghimbav nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 92/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_92_20-07-2023.pdf",
+     "sha256": "4a7fe1905485bdcf87766402d8b72bdcb9d8917400427d24fa601ddc3e91826b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-93-2023",
+   "path": "local/brasov/ghimbav/2023/93",
+   "short": "HCL Ghimbav nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 93/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_93_20-07-2023.pdf",
+     "sha256": "e6972633729e0bf70160eae4e49252bbe9784fc1a65874c44e262efd7812288f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-94-2023",
+   "path": "local/brasov/ghimbav/2023/94",
+   "short": "HCL Ghimbav nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 94/2023 pentru activitatea sportivă a Clubului Sportiv Orășenesc Teutonii Ghimbav, structură sportivă cu personalitate juridică, de drept public, aflată în subordinea Consiliului Local al Orașului Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_94_20-07-2023.pdf",
+     "sha256": "20e2f8606d1e60a6d117dc689aa475950f52dafeb232e3e354afbd63be06ccdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-95-2023",
+   "path": "local/brasov/ghimbav/2023/95",
+   "short": "HCL Ghimbav nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 95/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_95_20-07-2023.pdf",
+     "sha256": "d8fe97354c7be6e100dd599182bfd2dedd5aa8c50ea48b4f4fb43c544ec2e989"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-96-2023",
+   "path": "local/brasov/ghimbav/2023/96",
+   "short": "HCL Ghimbav nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 96/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_96_20-07-2023.pdf",
+     "sha256": "357c4a9b3f7cd8a3e7d0a286ddf881f0f5372864d97da1d2c37d72dc1071bcb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-97-2023",
+   "path": "local/brasov/ghimbav/2023/97",
+   "short": "HCL Ghimbav nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 97/2023",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_97_20-07-2023.pdf",
+     "sha256": "45288ecae4550b5a9c87e6d43fb38641629b562bcc8f0b74e221b4c81fb8dfc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--ghimbav-98-2023",
+   "path": "local/brasov/ghimbav/2023/98",
+   "short": "HCL Ghimbav nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 98/2023 pentru anul școlar 2023-2024 a pachetului cu rechizite școlare Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2023-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/9/2023-07-25-HCL_nr_98_20-07-2023.pdf",
+     "sha256": "fd5b88936a17c4803f4bb08b0db6b10f6812a4db6378ff9de8833511dd0af5fd"
     }
    ]
   },

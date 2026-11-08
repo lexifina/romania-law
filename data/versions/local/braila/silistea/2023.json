@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-12-2023",
+   "path": "local/braila/silistea/2023/12",
+   "short": "HCL Siliștea nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 12/2023 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap pentru anul 2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110477",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110477",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-13-2023",
    "path": "local/braila/silistea/2023/13",
    "short": "HCL Siliștea nr. 13/2023",
@@ -58,6 +73,21 @@
      "from": "2023-11-06",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/110478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-14-2023",
+   "path": "local/braila/silistea/2023/14",
+   "short": "HCL Siliștea nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 14/2023 privind revocarea Hotărârii nr. 86/18.11.2022 privind aprobarea modificării contractului de concesiune din data de 27.04.1998 între UAT Siliștea și Societatea Națională de Transport Gaze Naturale TRANSGAZ S.A",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110493",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110493",
      "sha256": null
     }
    ]
@@ -123,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-19-2023",
+   "path": "local/braila/silistea/2023/19",
+   "short": "HCL Siliștea nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 19/2023 privind modificarea bugetului local de venituri și cheltuieli al comunei Siliștea pe anul 2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110508",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110508",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-2-2023",
    "path": "local/braila/silistea/2023/2",
    "short": "HCL Siliștea nr. 2/2023",
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-21-2023",
+   "path": "local/braila/silistea/2023/21",
+   "short": "HCL Siliștea nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 21/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110521",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110521",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-22-2023",
    "path": "local/braila/silistea/2023/22",
    "short": "HCL Siliștea nr. 22/2023",
@@ -178,6 +238,36 @@
      "from": "2023-11-06",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/110523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-24-2023",
+   "path": "local/braila/silistea/2023/24",
+   "short": "HCL Siliștea nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 24/2023 privind desemnarea reprezentantului de drept al membrului Asociat-Uat Comuna Siliștea, prin Consiliul Local Siliștea în Adunarea Generală a Asociației \"Centrul de Informare și Documentare pentru Integrare Europeană și Dezvoltare Durabilă \"",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110524",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-25-2023",
+   "path": "local/braila/silistea/2023/25",
+   "short": "HCL Siliștea nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 25/2023 privind transmiterea dreptului de concesiune asupra terenului intravilan aparținând domeniului privat al comunei Siliștea în suprafață de 200 mp situat în localitatea Siliștea, str, Ozana nr.8 jud. Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110525",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110525",
      "sha256": null
     }
    ]
@@ -228,6 +318,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-29-2023",
+   "path": "local/braila/silistea/2023/29",
+   "short": "HCL Siliștea nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 29/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalului contractual din aparatul de specialitate al Primarului comunei Siliștea, și stabilirea cuantumului indemnizației consilieriilor locali",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110568",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-3-2023",
+   "path": "local/braila/silistea/2023/3",
+   "short": "HCL Siliștea nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 3/2023 privind aprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru particiaprea la licitație și modelului de contact de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 754 mp, sitat în intravilanul localității Siliștea, str. Unirii, nr. 54, comuna Siliștea, înscris în CF nr. 75964 Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110468",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110468",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-30-2023",
    "path": "local/braila/silistea/2023/30",
    "short": "HCL Siliștea nr. 30/2023",
@@ -238,6 +358,36 @@
      "from": "2023-11-06",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/110569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-31-2023",
+   "path": "local/braila/silistea/2023/31",
+   "short": "HCL Siliștea nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 31/2023 privind alegerea președintelui de ședință pentru perioada mai-iulie 2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110619",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-32-2023",
+   "path": "local/braila/silistea/2023/32",
+   "short": "HCL Siliștea nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 32/2023 privind aprobarea dezmembrării unui teren extravilan aflat în domeniul privta al comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110620",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110620",
      "sha256": null
     }
    ]
@@ -303,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-37-2023",
+   "path": "local/braila/silistea/2023/37",
+   "short": "HCL Siliștea nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 37/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110625",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110625",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-38-2023",
    "path": "local/braila/silistea/2023/38",
    "short": "HCL Siliștea nr. 38/2023",
@@ -328,6 +493,21 @@
      "from": "2023-11-06",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/110636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-4-2023",
+   "path": "local/braila/silistea/2023/4",
+   "short": "HCL Siliștea nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 4/2023 privind aprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și metodelor de documente pentru participarea la licitație și modelul de contact de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 690mp, sitat în intravilanul localității Șilițtea, str. Unirii, nr. 76, comuna Siliștea, înscris în CF nr. 76252 Siliștea",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110469",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110469",
      "sha256": null
     }
    ]
@@ -363,6 +543,126 @@
    ]
   },
   {
+   "slug": "hcl-braila--silistea-42-2023",
+   "path": "local/braila/silistea/2023/42",
+   "short": "HCL Siliștea nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 42/2023 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții și demolări de pe raza comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/125842",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/125842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-43-2023",
+   "path": "local/braila/silistea/2023/43",
+   "short": "HCL Siliștea nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 43/2023 privind trecerea unui bun imobil (teren extravilan) situat în comuna Siliștea, Județul Brăila, în suprafață de 6.847 mp, înscris în cartea funciară nr. 81939/Siliștea, din domeniul public al Comunei Siliștea și administrarea Consiliului Județean Brăila, în domeniul public al Județului Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/125843",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/125843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-44-2023",
+   "path": "local/braila/silistea/2023/44",
+   "short": "HCL Siliștea nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 44/2023 privind vânzarea fără licitație publică (directă) a unui teren proprietate privată a Unității Administrativ Teritoriale Comuna Siliștea, județul Brăila înscris în cartea funciară nr. 77036",
+   "url": "https://emol.ro/silistea-br/registru-hcl/125844",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/125844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-45-2023",
+   "path": "local/braila/silistea/2023/45",
+   "short": "HCL Siliștea nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 45/2023 privind vânzarea fără licitație publică (directă) a unui teren proprietate privată a Unității Administrativ Teritoriale Comuna Siliștea, județul Brăila înscris în cartea funciară nr. 75911",
+   "url": "https://emol.ro/silistea-br/registru-hcl/125845",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/125845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-46-2023",
+   "path": "local/braila/silistea/2023/46",
+   "short": "HCL Siliștea nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 46/2023 privind revocarea Hotărârii de Consiliu local nr. 25/29.06.2023 privind transmiterea dreptului de concesiune asupra terenului intravilan aparținând domeniului privat al comunei Siliștea în suprafața de 200mp situat în localitatea Siliștea, str. Ozana, nr. 8, jud. Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/125999",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/125999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-47-2023",
+   "path": "local/braila/silistea/2023/47",
+   "short": "HCL Siliștea nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 47/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/126000",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/126000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-48-2023",
+   "path": "local/braila/silistea/2023/48",
+   "short": "HCL Siliștea nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 48/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/126001",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/126001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-49-2023",
+   "path": "local/braila/silistea/2023/49",
+   "short": "HCL Siliștea nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 49/2023 privind redenumirea aparatului de specialitate al primarului comunei Siliștea, județul Brăila și aprobarea modificării organigramei și a statului de funcții",
+   "url": "https://emol.ro/silistea-br/registru-hcl/126002",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/126002",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--silistea-5-2023",
    "path": "local/braila/silistea/2023/5",
    "short": "HCL Siliștea nr. 5/2023",
@@ -373,6 +673,231 @@
      "from": "2023-11-06",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/110470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-50-2023",
+   "path": "local/braila/silistea/2023/50",
+   "short": "HCL Siliștea nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 50/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/126003",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/126003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-51-2023",
+   "path": "local/braila/silistea/2023/51",
+   "short": "HCL Siliștea nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 51/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/126004",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/126004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-52-2023",
+   "path": "local/braila/silistea/2023/52",
+   "short": "HCL Siliștea nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 52/2023 privind neasumarea de către Consiliul local a responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziția produselor și a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru anii școlari 2023-2026",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127874",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-53-2023",
+   "path": "local/braila/silistea/2023/53",
+   "short": "HCL Siliștea nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 53/2023 privind aprobarea înființării Serviciului public de gestionare a câinilor fără stăpân la în cadrul UAT Siliștea și aprobarea concesionării acestuia",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127875",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-54-2023",
+   "path": "local/braila/silistea/2023/54",
+   "short": "HCL Siliștea nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 54/2023 privind aprobarea rectificării bugetului local trimestrul III, anul 2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127876",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-55-2023",
+   "path": "local/braila/silistea/2023/55",
+   "short": "HCL Siliștea nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 55/2023 privind aprobarea indicatorilor tehnico-economici reprezentând cheltuielile pentru realizarea obiectivului de investiții „Amenajare teren tenis, loc de joacă și împrejmuire teren, sat Mărtăcești, com. Siliștea, jud. Brăila”",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127877",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-56-2023",
+   "path": "local/braila/silistea/2023/56",
+   "short": "HCL Siliștea nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 56/2023 privind aprobarea asocierii comunei Siliștea, prin Consiliul Local Siliștea cu județul Brăila, prin Consiliul Județean Brăila, pentru cofinanțarea și realizarea lucrărilor de „Amenajare teren tenis, loc de joacă și împrejmuire teren, sat Mărtăcești, com. Siliștea, jud. Brăila”",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127878",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-57-2023",
+   "path": "local/braila/silistea/2023/57",
+   "short": "HCL Siliștea nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 57/2023 privind desemnarea unui reprezentant al Consiliului Local în Consiliul de administrație al Școlii Gimnaziale Siliștea în anul școlar 2023-2024",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127879",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-58-2023",
+   "path": "local/braila/silistea/2023/58",
+   "short": "HCL Siliștea nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 58/2023 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Siliștea pe anul 2023, trimestrul III",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127886",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-59-2023",
+   "path": "local/braila/silistea/2023/59",
+   "short": "HCL Siliștea nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 59/2023 privind alegerea președintelui de ședință pentru perioada octombrie-decembrie 2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127888",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-6-2023",
+   "path": "local/braila/silistea/2023/6",
+   "short": "HCL Siliștea nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 6/2023 privind alegerea președintelui de ședință pentru perioada februarie-aprilie 2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/110471",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/110471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-60-2023",
+   "path": "local/braila/silistea/2023/60",
+   "short": "HCL Siliștea nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 60/2023 privind modificarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127889",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-61-2023",
+   "path": "local/braila/silistea/2023/61",
+   "short": "HCL Siliștea nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 61/2023 privind aprobarea achiziționării de microcipuri pentru identificarea câinilor din gospodăriile de pe raza comunei Siliștea, județul Brăila",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127890",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-62-2023",
+   "path": "local/braila/silistea/2023/62",
+   "short": "HCL Siliștea nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 62/2023 privind însușirea inventarului bunurilor aparținând sistemului public de alimentare cu apă, aprobarea apartenenței la domeniul public al comunei Siliștea a Bunurilor de Retur inventariate - anul 2022",
+   "url": "https://emol.ro/silistea-br/registru-hcl/127891",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/127891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-63-2023",
+   "path": "local/braila/silistea/2023/63",
+   "short": "HCL Siliștea nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 63/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/146715",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/146715",
      "sha256": null
     }
    ]
@@ -403,6 +928,51 @@
      "from": "2024-03-06",
      "units": 1,
      "source_url": "https://emol.ro/silistea-br/registru-hcl/146717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-66-2023",
+   "path": "local/braila/silistea/2023/66",
+   "short": "HCL Siliștea nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 66/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/146718",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/146718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-67-2023",
+   "path": "local/braila/silistea/2023/67",
+   "short": "HCL Siliștea nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 67/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/146719",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/146719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--silistea-68-2023",
+   "path": "local/braila/silistea/2023/68",
+   "short": "HCL Siliștea nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 68/2023",
+   "url": "https://emol.ro/silistea-br/registru-hcl/146720",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/silistea-br/registru-hcl/146720",
      "sha256": null
     }
    ]

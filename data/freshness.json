@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 447050,
+  "acts": 450050,
   "by_status": {
-   "current": 377678,
+   "current": 380678,
    "pending-change": 29438,
    "stale": 4595,
    "unverified": 35339,
    "source-unavailable": 0
   },
-  "verified_7d": 391090,
-  "verified_30d": 391133,
-  "pct_verified_7d": 87.5,
-  "pct_verified_30d": 87.5,
-  "pct_current": 84.5,
+  "verified_7d": 394090,
+  "verified_30d": 394133,
+  "pct_verified_7d": 87.6,
+  "pct_verified_30d": 87.6,
+  "pct_current": 84.6,
   "newest_verified": "2026-11-08",
   "oldest_verified": "2018-07-23"
  },
@@ -142,19 +142,19 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 291166,
+   "acts": 294166,
    "by_status": {
-    "current": 285188,
+    "current": 288188,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3422,
     "source-unavailable": 0
    },
-   "verified_7d": 285146,
-   "verified_30d": 285188,
-   "pct_verified_7d": 97.9,
-   "pct_verified_30d": 97.9,
-   "pct_current": 97.9,
+   "verified_7d": 288146,
+   "verified_30d": 288188,
+   "pct_verified_7d": 98.0,
+   "pct_verified_30d": 98.0,
+   "pct_current": 98.0,
    "newest_verified": "2026-11-08",
    "oldest_verified": "2023-03-20"
   },
@@ -569,19 +569,19 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 291166,
+   "acts": 294166,
    "by_status": {
-    "current": 285188,
+    "current": 288188,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3422,
     "source-unavailable": 0
    },
-   "verified_7d": 285146,
-   "verified_30d": 285188,
-   "pct_verified_7d": 97.9,
-   "pct_verified_30d": 97.9,
-   "pct_current": 97.9,
+   "verified_7d": 288146,
+   "verified_30d": 288188,
+   "pct_verified_7d": 98.0,
+   "pct_verified_30d": 98.0,
+   "pct_current": 98.0,
    "newest_verified": "2026-11-08",
    "oldest_verified": "2023-03-20"
   },
@@ -904,7 +904,7 @@
    "kinds": [
     "local"
    ],
-   "acts": 289188,
+   "acts": 292188,
    "last_successful_check": "2026-11-08",
    "unavailable_since": null,
    "sites": 654,

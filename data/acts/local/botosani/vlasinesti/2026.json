@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/vlasinesti/2026",
+"acts": [
+{
+"slug": "hcl-botosani--vlasinesti-33-2026",
+"path": "local/botosani/vlasinesti/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vlăsinești nr. 33/2026 privind rectificarea bugetului de venituri și cheltuieli al Primăriei comunei Vlăsinești, județul Botoșani, pe anul 2026 Consiliul local al comunei Vlăsinești, județul Botoșani, analizând: - referatul nr.351 din 24 iulie 2026 - proiectul de hotărâre nr.352 din 24 iulie 2026 al primarului comunei Vlăsinești - raportul compartimentului de specialitate al primarului; - avizul comisiilor de specialita",
+"short": "HCL Vlăsinești nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://comunavlasinesti.ro/wp-content/uploads/2026/09/HCL-nr.-33-din-31.08.2026-rectificare-buget-pentru-an-2026.pdf",
+"council": "botosani/vlasinesti",
+"council_name": "Consiliul Local al Comunei Vlăsinești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

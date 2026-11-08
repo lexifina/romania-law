@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/braila/gradistea/2024",
+"acts": [
+{
+"slug": "hcl-braila--gradistea-47-2024",
+"path": "local/braila/gradistea/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grădiștea nr. 47/2024",
+"short": "HCL Grădiștea nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://www.primariagradisteabraila.ro/consiliul-local/hotarari-de-consiliu/",
+"council": "braila/gradistea",
+"council_name": "Consiliul Local al Comunei Grădiștea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

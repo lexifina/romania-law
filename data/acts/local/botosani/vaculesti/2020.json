@@ -421,6 +421,72 @@
 }
 },
 {
+"slug": "hcl-botosani--vaculesti-20-2020",
+"path": "local/botosani/vaculesti/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 20/2020 privind aprobare actualizare preț vânzare teren magazin sat Saucenița",
+"short": "HCL Văculești nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/6074",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-21-2020",
+"path": "local/botosani/vaculesti/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 21/2020 privind aprobare actualizare preț vânzare teren magazin sat Văculești",
+"short": "HCL Văculești nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/6075",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vaculesti-22-2020",
+"path": "local/botosani/vaculesti/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Văculești nr. 22/2020 privind delegare consilier local pentru a face parte din Comisia de vânzare terenuri magazine",
+"short": "HCL Văculești nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/vaculesti-bt/registru-hcl/6086",
+"council": "botosani/vaculesti",
+"council_name": "Consiliul Local al Comunei Văculești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vaculesti-23-2020",
 "path": "local/botosani/vaculesti/2020/23",
 "kind": "local",

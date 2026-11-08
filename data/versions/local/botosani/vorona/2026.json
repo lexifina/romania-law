@@ -3,6 +3,21 @@
  "shard": "local/botosani/vorona/2026",
  "acts": [
   {
+   "slug": "hcl-botosani--vorona-1-2026",
+   "path": "local/botosani/vorona/2026/1",
+   "short": "HCL Vorona nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 1/2026 privind aprobarea Raportului de activitate al asistenților personali pe semestrul II, anul 2025",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251386",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251386",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vorona-10-2026",
    "path": "local/botosani/vorona/2026/10",
    "short": "HCL Vorona nr. 10/2026",
@@ -13,6 +28,111 @@
      "from": "2026-03-11",
      "units": 1,
      "source_url": "https://emol.ro/vorona-bt/registru-hcl/257724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-11-2026",
+   "path": "local/botosani/vorona/2026/11",
+   "short": "HCL Vorona nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 11/2026 privind aprobarea cuantumului cotizației pentru anul 2026 a membrilor asociați ai Grupului de Actiune Locala GAL Valea Siretului de Sus",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257725",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-12-2026",
+   "path": "local/botosani/vorona/2026/12",
+   "short": "HCL Vorona nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 12/2026 privind aprobarea cuantumului cotizației pentru anul 2026 a membrilor asociați ai Asociatiei de Dezvoltare Intercomunitara “AQUA” Botosani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257726",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-13-2026",
+   "path": "local/botosani/vorona/2026/13",
+   "short": "HCL Vorona nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 13/2026 privind aprobarea cuantumului cotizației pentru anul 2026 a membrilor asociați ai Asociației de Dezvoltare Intercomunitara ”Ecoproces Botosani”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257727",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-14-2026",
+   "path": "local/botosani/vorona/2026/14",
+   "short": "HCL Vorona nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 14/2026 privind aprobarea cotei de contribuție a Consiliului Local Vorona pentru susținerea activitătii de audit public intern",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257728",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-15-2026",
+   "path": "local/botosani/vorona/2026/15",
+   "short": "HCL Vorona nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 15/2026 privind aprobarea cotei de contribuție a Consiliului Local Vorona pentru susținerea activitatii Asociatiei de Dezvoltare intercomunitara -dezvoltare sustenabila si integrata in Tara de SUS",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257729",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-16-2026",
+   "path": "local/botosani/vorona/2026/16",
+   "short": "HCL Vorona nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 16/2026 privind aprobarea cotizației lunare pentru organizarea și funcționarea activității desfășurate de cele 3 persoane angajate prin A.Co.R Botoșani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257730",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-17-2026",
+   "path": "local/botosani/vorona/2026/17",
+   "short": "HCL Vorona nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 17/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026 la nivelul Comunei Vorona",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/257731",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/257731",
      "sha256": null
     }
    ]
@@ -253,6 +373,21 @@
      "from": "2026-05-11",
      "units": 1,
      "source_url": "https://emol.ro/vorona-bt/registru-hcl/267461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-32-2026",
+   "path": "local/botosani/vorona/2026/32",
+   "short": "HCL Vorona nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 32/2026 privind alegerea președintelui de ședință pentru lunile mai, iunie și iulie 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/267462",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/267462",
      "sha256": null
     }
    ]
@@ -618,6 +753,36 @@
    ]
   },
   {
+   "slug": "hcl-botosani--vorona-55-2026",
+   "path": "local/botosani/vorona/2026/55",
+   "short": "HCL Vorona nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 55/2026 privind aprobarea Raportului de activitate al asistenților personali pe semestrul I, anul 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/280675",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/280675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-56-2026",
+   "path": "local/botosani/vorona/2026/56",
+   "short": "HCL Vorona nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 56/2026 privind aprobarea plății pentru acoperirea cheltuielilor de judecată conform Deciziei nr.160/2025 a Tribunalului Botoșani",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/280676",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/280676",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vorona-57-2026",
    "path": "local/botosani/vorona/2026/57",
    "short": "HCL Vorona nr. 57/2026",
@@ -643,6 +808,21 @@
      "from": "2026-07-30",
      "units": 1,
      "source_url": "https://emol.ro/vorona-bt/registru-hcl/280678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-59-2026",
+   "path": "local/botosani/vorona/2026/59",
+   "short": "HCL Vorona nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 59/2026 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/280679",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/280679",
      "sha256": null
     }
    ]
@@ -738,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--vorona-65-2026",
+   "path": "local/botosani/vorona/2026/65",
+   "short": "HCL Vorona nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 65/2026 privind modificarea și completarea Hotărârii Consiliului Local Vorona nr. 18 din 25.02.2026, privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286775",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286775",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vorona-66-2026",
    "path": "local/botosani/vorona/2026/66",
    "short": "HCL Vorona nr. 66/2026",
@@ -763,6 +958,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/vorona-bt/registru-hcl/286777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-68-2026",
+   "path": "local/botosani/vorona/2026/68",
+   "short": "HCL Vorona nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 68/2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/286778",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/286778",
      "sha256": null
     }
    ]
@@ -948,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--vorona-8-2026",
+   "path": "local/botosani/vorona/2026/8",
+   "short": "HCL Vorona nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 8/2026 privind alegerea președintelui de ședință pentru lunile februarie, martie și aprilie 2026",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251393",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251393",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vorona-80-2026",
    "path": "local/botosani/vorona/2026/80",
    "short": "HCL Vorona nr. 80/2026",
@@ -1093,6 +1318,21 @@
      "from": "2026-11-04",
      "units": 1,
      "source_url": "https://emol.ro/vorona-bt/registru-hcl/297487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vorona-9-2026",
+   "path": "local/botosani/vorona/2026/9",
+   "short": "HCL Vorona nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vorona nr. 9/2026 privind reorganizarea comisiilor de specialitate în principalele domenii de activitate, precum și stabilirea componenței comisiilor de specialitate",
+   "url": "https://emol.ro/vorona-bt/registru-hcl/251394",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vorona-bt/registru-hcl/251394",
      "sha256": null
     }
    ]

@@ -3,6 +3,1011 @@
  "shard": "local/braila/faurei/2023",
  "acts": [
   {
+   "slug": "hcl-braila--faurei-1-2023",
+   "path": "local/braila/faurei/2023/1",
+   "short": "HCL Făurei nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 1/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-1-din-31.01.2023.pdf",
+     "sha256": "a7bba0f837914276a84155249fa0e3621a356248822ec20bf6186491f166d792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-10-2023",
+   "path": "local/braila/faurei/2023/10",
+   "short": "HCL Făurei nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 10/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-20-02-2023/",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-10-din-20.02.2023.pdf",
+     "sha256": "12ebf7abe1c03f1046bb62d1c11678e013eb9f4301622ba15871034885a31a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-11-2023",
+   "path": "local/braila/faurei/2023/11",
+   "short": "HCL Făurei nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 11/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-02-2023/",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-11-din-28.02.2023.pdf",
+     "sha256": "16219adc48fc89ceed7d9bb04fa0c942deb73c1f3094f7e02eadd9f590721f7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-12-2023",
+   "path": "local/braila/faurei/2023/12",
+   "short": "HCL Făurei nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 12/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-17-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-12-din-17.03.2023.pdf",
+     "sha256": "1ee5ae7c03d8ef4eceb400cd3ceecd0c67a40666be354536211346b59b6240b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-13-2023",
+   "path": "local/braila/faurei/2023/13",
+   "short": "HCL Făurei nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 13/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-17-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-13-din-17.03.2023.pdf",
+     "sha256": "6077ffc8a1261a8c8d7ff08ea9a3ab1b7c85206364f24d69116f0061b0d1e700"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-14-2023",
+   "path": "local/braila/faurei/2023/14",
+   "short": "HCL Făurei nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 14/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-17-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-14-din-17.03.2023.pdf",
+     "sha256": "ab8d35654acc339e69b390389cad41480a3ae2c3d5fdb297db1d380b1fe38a2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-15-2023",
+   "path": "local/braila/faurei/2023/15",
+   "short": "HCL Făurei nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 15/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-30-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-15-din-30.03.2023.pdf",
+     "sha256": "55ebe51a9ca5a58dae78468247a80ac72647b3509a5e06e71ff35eac2091a621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-16-2023",
+   "path": "local/braila/faurei/2023/16",
+   "short": "HCL Făurei nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 16/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-30-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-16-din-30.03.2023.pdf",
+     "sha256": "cb995b34ad56782a49a8897790631aab68728132880636ef3c0caa696d11ec37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-17-2023",
+   "path": "local/braila/faurei/2023/17",
+   "short": "HCL Făurei nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 17/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-30-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-17-din-30.03.2023.pdf",
+     "sha256": "06257997278440ac54109420b13d70f486054a811568f81ffb1b2a52d5013f4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-18-2023",
+   "path": "local/braila/faurei/2023/18",
+   "short": "HCL Făurei nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 18/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-30-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-18-din-30.03.2023.pdf",
+     "sha256": "90f572762c9e4f7ec1b92fe626c50e216b4dc3bcb6a9a39207750dec64625bb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-19-2023",
+   "path": "local/braila/faurei/2023/19",
+   "short": "HCL Făurei nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 19/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-30-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-19-din-30.03.2023.pdf",
+     "sha256": "939fda3fbd9247d90b590834ec6489e11b22944281b98e67ae2f46134589fcb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-2-2023",
+   "path": "local/braila/faurei/2023/2",
+   "short": "HCL Făurei nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 2/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-2-din-31.01.2023.pdf",
+     "sha256": "ef5d1f441bc4eca7db2317fac00473615cfc6140d1e945696b3b6cbe76ad5143"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-20-2023",
+   "path": "local/braila/faurei/2023/20",
+   "short": "HCL Făurei nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 20/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-30-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-20-din-30.03.2023.pdf",
+     "sha256": "b583dd12670e5d430fad85c32a52e119e4b91ed6a61c603bd817043f972155bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-21-2023",
+   "path": "local/braila/faurei/2023/21",
+   "short": "HCL Făurei nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 21/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-30-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-21-din-30.03.2023.pdf",
+     "sha256": "ac4fba4adbf619c19bdc7327deace36b7538cdfe0e6da1a5c3619982055a9c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-22-2023",
+   "path": "local/braila/faurei/2023/22",
+   "short": "HCL Făurei nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 22/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-30-03-2023/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-22-din-30.03.2023.pdf",
+     "sha256": "c7a569395a5ec8ac394e34f0495db59668da8427ca9fe621081f1f90452e88f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-23-2023",
+   "path": "local/braila/faurei/2023/23",
+   "short": "HCL Făurei nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 23/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-23-din-26.04.2023.pdf",
+     "sha256": "03b93095a1b6b7cc211b52e3a157154d5fff87b9d6fce355405e0bf2747a1a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-24-2023",
+   "path": "local/braila/faurei/2023/24",
+   "short": "HCL Făurei nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 24/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-24-din-26.04.2023.pdf",
+     "sha256": "9ce5012240cb1c2e225a0d16f441eb14e47869461fac359baaeecd67afa215b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-25-2023",
+   "path": "local/braila/faurei/2023/25",
+   "short": "HCL Făurei nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 25/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-25-din-26.04.2023.pdf",
+     "sha256": "6c421cf43bfcb67c85d0493e3058a26569ebb5feaad4388ecf4aa5408a149a03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-26-2023",
+   "path": "local/braila/faurei/2023/26",
+   "short": "HCL Făurei nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 26/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-26-din-26.04.2023.pdf",
+     "sha256": "337bd9c7974b81ba5226fa525bede2ce49835b43062c0e3a711aa9d5b440e4e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-27-2023",
+   "path": "local/braila/faurei/2023/27",
+   "short": "HCL Făurei nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 27/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-27-din-26.04.2023.pdf",
+     "sha256": "a0b684585706a6971cb5ffe23b8046d55e8576209c927b2e027900dfacd9ff13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-28-2023",
+   "path": "local/braila/faurei/2023/28",
+   "short": "HCL Făurei nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 28/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-28-din-26.04.2023.pdf",
+     "sha256": "46c686235a1508bb66da68f67673b6b2ce952168e54e11eec7d460feea249937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-29-2023",
+   "path": "local/braila/faurei/2023/29",
+   "short": "HCL Făurei nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 29/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-29-din-26.04.2023.pdf",
+     "sha256": "8d0ee6bf5e871da53b35f180498d6aa22dfb8407b642369b899946ae62c74327"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-3-2023",
+   "path": "local/braila/faurei/2023/3",
+   "short": "HCL Făurei nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 3/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-3-din-31.01.2023.pdf",
+     "sha256": "8fc49bc501c6a7f210f86f77498828f6e18fde8412b77d9d3c8ea7e1d396111d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-30-2023",
+   "path": "local/braila/faurei/2023/30",
+   "short": "HCL Făurei nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 30/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-30-din-26.04.2023-Imp.pdf",
+     "sha256": "d5541f3ce1912152ae7ac84a420d181224f951dcef532221e7e582769a6135ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-31-2023",
+   "path": "local/braila/faurei/2023/31",
+   "short": "HCL Făurei nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 31/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-31-din-26.04.2023.pdf",
+     "sha256": "43b467336fa7e72d5446d80105b5615a47842cca1f4372e2c048d6a68e197eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-32-2023",
+   "path": "local/braila/faurei/2023/32",
+   "short": "HCL Făurei nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 32/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-32-din-26.04.2023.pdf",
+     "sha256": "d189b394b0c8a557785883ed19d8c8bb9ac151f18de28aa1b58ae43b9aa7a521"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-33-2023",
+   "path": "local/braila/faurei/2023/33",
+   "short": "HCL Făurei nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 33/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-33-din-26.04.2023.pdf",
+     "sha256": "fefdb74ac5c8fd37ad770937c99388a1bbe442c911fb0a777de6f05eef95e8d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-34-2023",
+   "path": "local/braila/faurei/2023/34",
+   "short": "HCL Făurei nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 34/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-34-din-26.04.2023.pdf",
+     "sha256": "42497a8868ed89c360435b256f2fb5b9a4f7fc22347a858cc9a5120bdc97f27e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-35-2023",
+   "path": "local/braila/faurei/2023/35",
+   "short": "HCL Făurei nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 35/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-35-din-26.04.2023.pdf",
+     "sha256": "dc27b85566967c90c03b1c622a1496238e65501eb0dc302b1dd50ac26c558295"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-36-2023",
+   "path": "local/braila/faurei/2023/36",
+   "short": "HCL Făurei nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 36/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-26-04-2023/",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-36-din-26.04.2023.pdf",
+     "sha256": "e2aaa43fc7e8fb4666da0c7d01047c2712cd471223981998894bea309cd133f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-37-2023",
+   "path": "local/braila/faurei/2023/37",
+   "short": "HCL Făurei nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 37/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-15-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-37-din-15.05.2023.pdf",
+     "sha256": "9ea6be6add9465ad5421bb3c21ce0d0adb9d5a6b68d4cca37f8a7d86165d8f89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-38-2023",
+   "path": "local/braila/faurei/2023/38",
+   "short": "HCL Făurei nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 38/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-38-din-31.05.2023.pdf",
+     "sha256": "5a5c02f9bcf139c51212e57af36da250fc2fce045ef704843cfed3ffeb550949"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-39-2023",
+   "path": "local/braila/faurei/2023/39",
+   "short": "HCL Făurei nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 39/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-39-din-31.05.2023.pdf",
+     "sha256": "08d39eb7591fd51e52390dd48570a55acf742011585f688f359cbe434da6baa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-4-2023",
+   "path": "local/braila/faurei/2023/4",
+   "short": "HCL Făurei nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 4/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-4-din-31.01.2023.pdf",
+     "sha256": "b741560bd51f8ebf8a7b628fc1f379d0a03536ccf86ead49ed646ce3ffc33fd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-40-2023",
+   "path": "local/braila/faurei/2023/40",
+   "short": "HCL Făurei nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 40/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-40-din-31.05.2023.pdf",
+     "sha256": "1719aed098e936caed0c39681f0d30f2d1da4b6ae6d31018fc46f4dac8a50820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-41-2023",
+   "path": "local/braila/faurei/2023/41",
+   "short": "HCL Făurei nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 41/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-41-din-31.05.2023-Imp.pdf",
+     "sha256": "2b324fd36da2e0fa3bc586071f85fb771b9b028f4aaa4c7bcaa78802f4b8d00b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-42-2023",
+   "path": "local/braila/faurei/2023/42",
+   "short": "HCL Făurei nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 42/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-05-2023/",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-42-din-31.05.2023.pdf",
+     "sha256": "cb9586ca5a7e542d15713ca503a032363ddceb6d3799baa9d2157763bebf164a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-43-2023",
+   "path": "local/braila/faurei/2023/43",
+   "short": "HCL Făurei nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 43/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-06-2023/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-43-din-28.06.2023.pdf",
+     "sha256": "ce206b1a847cc3345b8bc7fa395709c3b0d16708530215643f758cdca5ae9623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-44-2023",
+   "path": "local/braila/faurei/2023/44",
+   "short": "HCL Făurei nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 44/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-06-2023/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-44-din-28.06.2023.pdf",
+     "sha256": "b594cdf02d7c773d5cc545bda8b24e085e3f11903dee038ce1187ba032777038"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-45-2023",
+   "path": "local/braila/faurei/2023/45",
+   "short": "HCL Făurei nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 45/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-06-2023/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-45-din-28.06.2023.pdf",
+     "sha256": "51ba081c30264cc2e75cd93562fc5b9a76bfb2828bea5d3ac71cbb221b187613"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-46-2023",
+   "path": "local/braila/faurei/2023/46",
+   "short": "HCL Făurei nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 46/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-06-2023/",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-46-din-28.06.2023.pdf",
+     "sha256": "06e42f93e6c5a5820cb361d6a2b11136e053a12c3789a001345bc4692c201ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-47-2023",
+   "path": "local/braila/faurei/2023/47",
+   "short": "HCL Făurei nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 47/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-27-07-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-47-din-27.07.2023.pdf",
+     "sha256": "e650bde4010da8e5a9bda5b39750e3b965c281df1db7d557e60fce298f6ab1b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-48-2023",
+   "path": "local/braila/faurei/2023/48",
+   "short": "HCL Făurei nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 48/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-27-07-2023/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-48-din-27.07.2023.pdf",
+     "sha256": "d472ccd51edf331ef8293dbc50a1f442e8ad65129a3b089edfc0e0f5ef4cfdfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-49-2023",
+   "path": "local/braila/faurei/2023/49",
+   "short": "HCL Făurei nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 49/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-24-08-2023/",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-49-din-24.08.2023.pdf",
+     "sha256": "011675c51ec3934db6e0d6d68493ca84439d2c47f7862c78c628895b9adbda4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-5-2023",
+   "path": "local/braila/faurei/2023/5",
+   "short": "HCL Făurei nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 5/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-5-din-31.01.2023.pdf",
+     "sha256": "6a2e6b29e1908096cfb48de239c3bb820d6e2bb18f6b8433f5f093d6a4787fb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-50-2023",
+   "path": "local/braila/faurei/2023/50",
+   "short": "HCL Făurei nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 50/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-24-08-2023/",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-50-din-24.08.2023.pdf",
+     "sha256": "723c02a6e1286eea0db69be20e0ed45bbe92b3115c648389ad5948ce4ddb80eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-51-2023",
+   "path": "local/braila/faurei/2023/51",
+   "short": "HCL Făurei nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 51/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-09-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-51-din-28.09.2023.pdf",
+     "sha256": "9863dbc68e1788447de89178c8912107dc7975f5dd81cbd9e696626f94b49f84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-52-2023",
+   "path": "local/braila/faurei/2023/52",
+   "short": "HCL Făurei nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 52/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-09-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-52-din-28.09.2023.pdf",
+     "sha256": "4f90c0c55034b8fd3ee67f9733cab5a3979a10fb590409e8fc6b963947eb76c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-53-2023",
+   "path": "local/braila/faurei/2023/53",
+   "short": "HCL Făurei nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 53/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-09-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-53-din-28.09.2023.pdf",
+     "sha256": "d8f4e2f835f68e09e115cc2a744d89374eb867cb4348884576bc9f8a8bf82144"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-54-2023",
+   "path": "local/braila/faurei/2023/54",
+   "short": "HCL Făurei nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 54/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-09-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-54-din-28.09.2023.pdf",
+     "sha256": "913225d4e9df9be878d62a1c552f5dbab1f262033387ebe698870930fab732cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-55-2023",
+   "path": "local/braila/faurei/2023/55",
+   "short": "HCL Făurei nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 55/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-09-2023/",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-55-din-28.09.2023.pdf",
+     "sha256": "4a6dcd8cc6e5266c8ed423b48f3a6c4962e305b947b716e691b2da5135df8af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-56-2023",
+   "path": "local/braila/faurei/2023/56",
+   "short": "HCL Făurei nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 56/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-16-10-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-56-din-16.10.2023.pdf",
+     "sha256": "be416ab5bcf4005ff8643b0bcfda832cd7841759ffba68f5af7ff17ec7bc0a67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-57-2023",
+   "path": "local/braila/faurei/2023/57",
+   "short": "HCL Făurei nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 57/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-16-10-2023/",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-57-din-16.10.2023.pdf",
+     "sha256": "c06dbc9ea38d852497437f555499ac40bd309672b8eecaa62a0b76192391fa92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-58-2023",
+   "path": "local/braila/faurei/2023/58",
+   "short": "HCL Făurei nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 58/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-10-2023/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-58-din-31.10.2023.pdf",
+     "sha256": "5e62cc070aeb14ec7340e5ac75ccc81340c03b82b0872273cb978acca465b53b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-59-2023",
+   "path": "local/braila/faurei/2023/59",
+   "short": "HCL Făurei nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 59/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-10-2023/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-59-din-31.10.2023.pdf",
+     "sha256": "5d8f222a485d344c46e89a9f47b893599f22edb97cebab422588ef0ecf102c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-6-2023",
+   "path": "local/braila/faurei/2023/6",
+   "short": "HCL Făurei nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 6/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-6-din-31.01.2023.pdf",
+     "sha256": "66b9e3395c2a54f823c7e9ebc46b7f62d720a951bab00d7f8cc7fe887198213f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-60-2023",
+   "path": "local/braila/faurei/2023/60",
+   "short": "HCL Făurei nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 60/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-10-2023/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-60-din-31.10.2023.pdf",
+     "sha256": "650f415e1f26e0ed953763905a5949762b21dc312840d10819d373a93e45773f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-61-2023",
+   "path": "local/braila/faurei/2023/61",
+   "short": "HCL Făurei nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 61/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-61-din-28.11.2023.pdf",
+     "sha256": "5e86c2e39924d1548c040da3d4a4faefbd9d196f93f0ec5d18123448e8186e1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-62-2023",
+   "path": "local/braila/faurei/2023/62",
+   "short": "HCL Făurei nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 62/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-62-din-28.11.2023.pdf",
+     "sha256": "e407c3b025bb2e93e8fcd4958ec63972e964775dea8ccaed86a14d25d43837fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-63-2023",
+   "path": "local/braila/faurei/2023/63",
+   "short": "HCL Făurei nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 63/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-63-din-28.11.2023.pdf",
+     "sha256": "3cf972888cc5871d3dd2dd3a19bfae52c3e8836269cd114bcb3a22935c0b3721"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-64-2023",
+   "path": "local/braila/faurei/2023/64",
+   "short": "HCL Făurei nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 64/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-64-din-28.11.2023.pdf",
+     "sha256": "f54ccb21836fb2aa2f9df59fd3385a0a02ed331ba9e4d7009990895649b69285"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-65-2023",
+   "path": "local/braila/faurei/2023/65",
+   "short": "HCL Făurei nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 65/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-65-din-28.11.2023.pdf",
+     "sha256": "72452e6aa0f4976cfe5ea0bb95a4ac909e36dd1e571efaf68aeb3bc4a417a0bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-66-2023",
+   "path": "local/braila/faurei/2023/66",
+   "short": "HCL Făurei nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 66/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-66-din-28.11.2023.pdf",
+     "sha256": "fa3d5fef337eae32c32ac55bacb310a7fdc422e7db976ff8c8d640cb1d792dda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-67-2023",
+   "path": "local/braila/faurei/2023/67",
+   "short": "HCL Făurei nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 67/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-67-din-28.11.2023.pdf",
+     "sha256": "ca88dc3ef565c1ded07bec56c34823a9fdcbc307c3826a5d8be257e9fa4cbacc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-68-2023",
+   "path": "local/braila/faurei/2023/68",
+   "short": "HCL Făurei nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 68/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-68-din-28.11.2023.pdf",
+     "sha256": "c3b9099b82e900107ffce648c52fd25adc3df8a967fce916f4a66c388123f5a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-69-2023",
+   "path": "local/braila/faurei/2023/69",
+   "short": "HCL Făurei nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 69/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-69-din-28.11.2023.pdf",
+     "sha256": "81bb8ba1715329ce3a281db80f03afb5d6f893cdeb91ac5edb16a7b02856361d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-7-2023",
+   "path": "local/braila/faurei/2023/7",
+   "short": "HCL Făurei nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 7/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-7-din-31.01.2023.pdf",
+     "sha256": "a175d24da5b49d6d9450170454839d104b17403e3266dd6a561d14040dee27a2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--faurei-70-2023",
    "path": "local/braila/faurei/2023/70",
    "short": "HCL Făurei nr. 70/2023",
@@ -14,6 +1019,111 @@
      "units": 1,
      "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-70-din-28.11.2023.pdf",
      "sha256": "4752aec6d17814bde5243b8b108eab063c62d18ea60dacca4a605b53fe27e131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-71-2023",
+   "path": "local/braila/faurei/2023/71",
+   "short": "HCL Făurei nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 71/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-71-din-28.11.2023.pdf",
+     "sha256": "f5c41097e1f45ee59b5bea4ee11577146c0950ab0f879e5ef0891921f72ad7fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-72-2023",
+   "path": "local/braila/faurei/2023/72",
+   "short": "HCL Făurei nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 72/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-72-din-28.11.2023.pdf",
+     "sha256": "6522dd05e62120bd58a55bd21669d4b3a611da4225b1ca2979b579bd97dc2322"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-73-2023",
+   "path": "local/braila/faurei/2023/73",
+   "short": "HCL Făurei nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 73/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-28-11-2023/",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-73-din-28.11.2023.pdf",
+     "sha256": "ba09d4b00edeeea5aac493df52f6f716fb40d1a941c1cf4abfabf1e130e0f9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-74-2023",
+   "path": "local/braila/faurei/2023/74",
+   "short": "HCL Făurei nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 74/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-19-12-2023/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-74-din-19.12.2023.pdf.pdf",
+     "sha256": "c8d04dc318132caf2fce65b8a3093d4c890f79ab98a1878934c7f4492114433d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-75-2023",
+   "path": "local/braila/faurei/2023/75",
+   "short": "HCL Făurei nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 75/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-19-12-2023/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-75-din-19.12.2023.pdf",
+     "sha256": "a433118ecfcb294fec7863386400595a0867b9a902f8bc45d29ec0a9f91fc2ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-8-2023",
+   "path": "local/braila/faurei/2023/8",
+   "short": "HCL Făurei nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 8/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-8-din-31.01.2023.pdf",
+     "sha256": "d9c18bcfd584ebc53105c2e889abfffe68a4cc3399ff77c909311fdb3fd6fc81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-9-2023",
+   "path": "local/braila/faurei/2023/9",
+   "short": "HCL Făurei nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 9/2023",
+   "url": "https://orasulfaurei.ro/hotarari-2022/hotararile-consiliului-local-aprobate-in-sedinta-din-data-de-31-01-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-9-din-31.01.2023.pdf",
+     "sha256": "9dbcdf4774515203f374500c657484dda7c7a784445968f0fb9a5d3e7449ee5e"
     }
    ]
   }

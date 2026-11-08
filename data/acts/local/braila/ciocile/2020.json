@@ -3,6 +3,28 @@
 "shard": "local/braila/ciocile/2020",
 "acts": [
 {
+"slug": "hcl-braila--ciocile-1-2020",
+"path": "local/braila/ciocile/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 1/2020 privind aprobarea utilizării sumei 150000de lei din excedentul bugetului local existent la finele anului 2019 pentru finanțarea cheltuielilor secțiunii de funcționare, necesare pentru plata salariilor pe luna decembrie 2019 a indemnizatiilor lunare pentru persoanele cu handicap si cheltuielilor de functionare aferente desfasurarii activitatii institutiei",
+"short": "HCL Ciocile nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-10",
+"latest": "2020-01-10",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/5748",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-2-2020",
 "path": "local/braila/ciocile/2020/2",
 "kind": "local",
@@ -292,6 +314,28 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-15-2020",
+"path": "local/braila/ciocile/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 15/2020 privind aprobarea utilizării sumei 2876000 lei din excedentul bugetului local existent la finele anului 2019 pentru finanțarea cheltuielilor secțiunii de dezvoltare , pe anul 2020",
+"short": "HCL Ciocile nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/5772",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-16-2020",
 "path": "local/braila/ciocile/2020/16",
 "kind": "local",
@@ -377,6 +421,29 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-20-2020",
+"path": "local/braila/ciocile/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 20/2020",
+"short": "HCL Ciocile nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-09",
+"latest": "2020-03-09",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/5776",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -579,6 +646,51 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-31-2020",
+"path": "local/braila/ciocile/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 31/2020",
+"short": "HCL Ciocile nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15307",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--ciocile-32-2020",
+"path": "local/braila/ciocile/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 32/2020 privind aprobarea contului de încheiere a exercițiului bugetar pe trim.I 2020 al U.A.T comuna Ciocile",
+"short": "HCL Ciocile nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15308",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-33-2020",
 "path": "local/braila/ciocile/2020/33",
 "kind": "local",
@@ -623,6 +735,50 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-35-2020",
+"path": "local/braila/ciocile/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 35/2020 privind aprobarea situațiilor financiare anuale la 31.12.2019 ale societății cu răspundere limitată „SES Igiena Ciocile” SRL",
+"short": "HCL Ciocile nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15311",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-36-2020",
+"path": "local/braila/ciocile/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 36/2020 privind aprobarea situațiilor financiare anuale la 31.12.2019 ale societății cu răspundere limitată „Ciocile Panificație SES” SRL",
+"short": "HCL Ciocile nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15312",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-37-2020",
 "path": "local/braila/ciocile/2020/37",
 "kind": "local",
@@ -642,6 +798,117 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-38-2020",
+"path": "local/braila/ciocile/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 38/2020 privind alegerea președintelui de ședință pentru lunile iunie-august 2020",
+"short": "HCL Ciocile nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-20",
+"latest": "2020-05-20",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15314",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-39-2020",
+"path": "local/braila/ciocile/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 39/2020",
+"short": "HCL Ciocile nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15315",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--ciocile-40-2020",
+"path": "local/braila/ciocile/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 40/2020 privind dezafectarea din interesul public a bunurilor mobile, respectiv materiale recuperate, din demolarea imobilului Grădinița Ciocile și trecerea in domeniul privat, cu valoare de consum și aprobarea valorificării acestora, dupa caz",
+"short": "HCL Ciocile nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15316",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-41-2020",
+"path": "local/braila/ciocile/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 41/2020 privind aprobarea Regulamentului intern pentru acordarea voucherelor de vacanță pentru anul 2020",
+"short": "HCL Ciocile nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15317",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-42-2020",
+"path": "local/braila/ciocile/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 42/2020 privind acordarea unui mandat special reprezentantului Consiliului Local al comunei Ciocile, în Adunarea Generală a Asociației de Dezvoltare intercomunitară de Utilitate Publică „Brăila Gaz”, la care comuna este membru asociat",
+"short": "HCL Ciocile nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/15318",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/braila/mircea-voda/2019",
+"acts": [
+{
+"slug": "hcl-braila--mircea-voda-80-2019",
+"path": "local/braila/mircea-voda/2019/80",
+"kind": "local",
+"year": "2019",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mircea Vodă nr. 80/2019",
+"short": "HCL Mircea Vodă nr. 80/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-22",
+"latest": "2019-10-22",
+"portal": null,
+"council": "braila/mircea-voda",
+"council_name": "Consiliul Local al Comunei Mircea Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

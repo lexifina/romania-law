@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/vorniceni/2025",
+"acts": [
+{
+"slug": "hcl-botosani--vorniceni-18-2025",
+"path": "local/botosani/vorniceni/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 18/2025 privind aprobarea Programului de actiune comunitara",
+"short": "HCL Vorniceni nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/03/Hotararea-NR.-18-privind-aprobarea-Programului-de-actiune-comunitara.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

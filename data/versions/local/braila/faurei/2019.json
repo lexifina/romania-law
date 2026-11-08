@@ -3,6 +3,156 @@
  "shard": "local/braila/faurei/2019",
  "acts": [
   {
+   "slug": "hcl-braila--faurei-1-2019",
+   "path": "local/braila/faurei/2019/1",
+   "short": "HCL Făurei nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 1/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-1-2019/",
+   "versions": [
+    {
+     "from": "2019-01-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-1-din-21.01.2019.pdf",
+     "sha256": "57c59abc40adad7ae4f7e286cc10ada677c2fed4a70ab92212f7be4be7bfa69e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-10-2019",
+   "path": "local/braila/faurei/2019/10",
+   "short": "HCL Făurei nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 10/2019 privind constituirea dreptului de superficie cu titlu oneros, prin licitație publică, asupra terenului în suprafață de 447 mp, aparținând domeniului privat al orașului Făurei situat în intravilanul orașului Făurei, str. Stadionului, nr. 2B, CF 70935, pentru activități comerciale Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 20 februarie 2019; Având în vedere: Ø Refera",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-10-2019/",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-10-din-20.02.2019.pdf",
+     "sha256": "0085c2135acd196f17e4fc59c48913e7bc5b44a86e45079ea561609e44c6980d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-11-2019",
+   "path": "local/braila/faurei/2019/11",
+   "short": "HCL Făurei nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 11/2019 privind aprobarea Planului de analiză și acoperire a riscurilor pentru anul 2019 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 20 februarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul șefului serviciului voluntar pentru situații de urgență din aparatul de specialitate al primarului; Ø Rapoartele de avizare ale comisiilor de",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-11-2019/",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-11-din-20.02.2019.pdf",
+     "sha256": "a3a3f746cb102f022b4013b2007a18123f66dfd389e47d2a09cc2ba1158676df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-12-2019",
+   "path": "local/braila/faurei/2019/12",
+   "short": "HCL Făurei nr. 12/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 12/2019 Privind aprobarea Strategiei de dezvoltare a serviciilor sociale acordate de furnizorii publici și privați la nivelul orașului Făurei, județul Brăila pentru perioada 2019-2023 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 20 februarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Referatul compartimentului de asistență socială din apa",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-12-2019/",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-12-din-20.02.2019.pdf",
+     "sha256": "95efeeefd1e570303bece5606ccfbf254375e19bdf6251b233a9bcc80ad29977"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-13-2019",
+   "path": "local/braila/faurei/2019/13",
+   "short": "HCL Făurei nr. 13/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 13/2019 privind aprobarea statului de funcții al Spitalului Orășenesc Făurei pe anul 2019 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 20 februarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 517/19.02.2019 a Spitalului Orășenesc Făurei înregistrată sub nr. 1063/19.02.2019; Ø Rapoartele de avizare ale comisiilor de specialitate",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-13-2019/",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-13-din-20.02.2019.pdf",
+     "sha256": "3f365035dbd43831eb94cb5edc7f63707a890fe6fbbae1a32eb6571b942e508f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-14-2019",
+   "path": "local/braila/faurei/2019/14",
+   "short": "HCL Făurei nr. 14/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 14/2019 privind alegerea președintelui de ședință Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 04 martie 2019; În baza prevederilor art. 35 din Legea administrației publice locale nr. 215/2001 - republicată, cu modificările și completările ulterioare; În temeiul art. 45 și art. 115 alin. 1 lit. „b” din Legea administrației publice locale nr. 215/2001 - republicată, cu m",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-14-2019/",
+   "versions": [
+    {
+     "from": "2019-03-04",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-14-din-04.03.2019.pdf",
+     "sha256": "ac2adeda236a778b31cfaff3868273ac00b96408ad102a91ad52d86224e13bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-15-2019",
+   "path": "local/braila/faurei/2019/15",
+   "short": "HCL Făurei nr. 15/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 15/2019 Privind stabilirea salariilor de bază pentru functionarii publici și personalul contractual din cadrul aparatului de specialitate si serviciul public de salubrizare începând cu data de 01 martie 2019 Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 04 martie 2019; Având în vedere: • Referatul de aprobare întocmit de primarul orașului; • Raportul nr. 1350/26.02.2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-15-2019/",
+   "versions": [
+    {
+     "from": "2019-03-04",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-15-din-04.03.2019.pdf",
+     "sha256": "d71003e63803939508bb4b6accdf5aea901ee10de1ab10b755471fd64e9e8258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-16-2019",
+   "path": "local/braila/faurei/2019/16",
+   "short": "HCL Făurei nr. 16/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 16/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-16-2019/",
+   "versions": [
+    {
+     "from": "2019-03-04",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-16-din-04.03.2019.pdf",
+     "sha256": "fdc65fd3c4243529e412fefcf1b069528f3a18a274e013ca598099b8cadd6dad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-17-2019",
+   "path": "local/braila/faurei/2019/17",
+   "short": "HCL Făurei nr. 17/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 17/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-17-2019/",
+   "versions": [
+    {
+     "from": "2019-03-04",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-17-din-04.03.2019.pdf",
+     "sha256": "ef87d9770e5f7b8104d2ec5bc1ade3bc3bf88e34b595cc25d8b8e3db811f5b1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-18-2019",
+   "path": "local/braila/faurei/2019/18",
+   "short": "HCL Făurei nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 18/2019 privind aprobarea Regulamentului intern actualizat și a Regulamentului de organizare și funcționare actualizat ale Spitalului Orășenesc Făurei Consiliul Local al Orașului Făurei, întrunit în ședință de ordinară la data de 28 martie 2019; Având în vedere: Ø Referatul de aprobare al primarului orașului; Ø Adresa nr. 625/01.03.2019 a Spitalului Orășenesc Făurei; Ø Rapoartele de avizare ale comisiilor",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-18-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-18-din-28.03.2019.pdf",
+     "sha256": "0887bde925a06a7ccc212284b860bbf639185645e123249dc1a487f446aa67ba"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--faurei-19-2019",
    "path": "local/braila/faurei/2019/19",
    "short": "HCL Făurei nr. 19/2019",
@@ -14,6 +164,51 @@
      "units": 1,
      "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-19-din-28.03.2019.pdf",
      "sha256": "6c56fc27c8c43acefff28d8c27bc9533b4e82d32e32835599ca794427a0c7362"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-2-2019",
+   "path": "local/braila/faurei/2019/2",
+   "short": "HCL Făurei nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 2/2019 privind aprobarea Planului de management pentru perioada 2018-2020, Planului de dezvoltare și Planului strategic de management pentru perioada 2018-2022 ale Spitalului Orășenesc Făurei Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 21 ianuarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 77/11.01.2019 a Spitalului Orăș",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-2-2019/",
+   "versions": [
+    {
+     "from": "2019-01-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-2-din-21.01.2019.pdf",
+     "sha256": "eff7dca2f1918cd08117f54c8a40d7d41e4e70e7051b175abf1687df7a958ef7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-20-2019",
+   "path": "local/braila/faurei/2019/20",
+   "short": "HCL Făurei nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 20/2019 Privind aprobarea înființării și amenajării unui spațiu de depozitare temporară pentru deșeurile provenite din construcții și demolări generate din activitatea proprie și din gospodăriile cetățenilor orașului Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 28 martie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Referatul nr. 1995",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-20-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-20-din-28.03.2019.pdf",
+     "sha256": "1d18045a1c9c0cb6faff155704c4dddb779455641126a3ea5815d9ca8435010a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-21-2019",
+   "path": "local/braila/faurei/2019/21",
+   "short": "HCL Făurei nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 21/2019 privind aprobarea transformării unui post din statul de funcții al Spitalului Orășenesc Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 28 martie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 848/21.03.2019 a Spitalului Orășenesc Făurei înregistrată sub nr. 2032/22.03.2019; Ø Rapoartele de avizare ale comisiilor de spe",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-21-2019/",
+   "versions": [
+    {
+     "from": "2019-03-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-21-din-28.03.2019.pdf",
+     "sha256": "3032e2d9d7508e852c79f46a52f144c4f9dbcdc3d68aafb61241cf398aae606b"
     }
    ]
   },
@@ -33,6 +228,51 @@
    ]
   },
   {
+   "slug": "hcl-braila--faurei-24-2019",
+   "path": "local/braila/faurei/2019/24",
+   "short": "HCL Făurei nr. 24/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 24/2019 Privind aprobarea cuantumului și a numărului burselor care se acordă din bugetul local elevilor din învățământul preuniversitar în semestrul II al anului școlar 2018/2019 Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 19 aprilie 2019; Având în vedere: - Referatul de aprobare întocmit de primarul orașului; - Referatul nr. 955/11.04.2019 al Liceului Teoretic «George",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-24-2019/",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-24-din-19.04.2019.pdf",
+     "sha256": "535b005fc88641882b6d84d51963a934f18841b0dedc4f6feaa9f5bc4b8ee1ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-25-2019",
+   "path": "local/braila/faurei/2019/25",
+   "short": "HCL Făurei nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 25/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-25-2019/",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-25-din-19.04.2019.pdf",
+     "sha256": "40e5aff954592554875a72d56b6a02627141e01a12950c7902026f02940bad83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-26-2019",
+   "path": "local/braila/faurei/2019/26",
+   "short": "HCL Făurei nr. 26/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 26/2019 Privind aprobarea bugetului local și bugetului activităților și instituțiilor finanțate din venituri proprii pe anul 2019 și a estimărilor pentru 2020-2022 Consiliul Local al Orașului Făurei, întrunit în ședință extraordinara la data de 19 aprilie 2019; Având în vedere: Ø Expunerea de motive a primarului orașului; Ø Raportul nr. 2605/11.04.2019 al Biroul financiar-contabil, impozite și taxe din ca",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-26-2019/",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-26-din-19.04.2019.pdf",
+     "sha256": "c77bfba362f5004a2f5966ed594c0dfc3afb5b45a5c2531fea47b8046c30fe83"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--faurei-27-2019",
    "path": "local/braila/faurei/2019/27",
    "short": "HCL Făurei nr. 27/2019",
@@ -44,6 +284,636 @@
      "units": 1,
      "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-27-din-25.04.2019.pdf",
      "sha256": "24a9f1d54c0248b0d86b75b9a1e246e49863e78e42288fe6deddd31606c330f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-28-2019",
+   "path": "local/braila/faurei/2019/28",
+   "short": "HCL Făurei nr. 28/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 28/2019 privind aprobarea Planului privind asigurarea resurselor financiare, umane și materiale pentru gestionarea situațiilor de urgență pe anul 2019 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 25 aprilie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului Făurei; Ø Adresa ISU Brăila nr. 2360765/20.03.2019; Ø Referatul șefului SVSU nr. 2702/16.04.2",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-28-2019/",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-28-din-25.04.2019.pdf",
+     "sha256": "ac05c322947710e5eb385a954fb35c537b3f0b9ca9d741f6af56afa60b7a2b1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-29-2019",
+   "path": "local/braila/faurei/2019/29",
+   "short": "HCL Făurei nr. 29/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 29/2019 privind aprobarea noii structuri a ambulatoriului integrat al Spitalului Orășenesc Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 30 mai 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 1363/21.05.2019 a Spitalului Orășenesc Făurei; Ø Avizul Ministerului Sănătății nr. XI/A/3705/SP/4749/09.04.2019 pentru noua structură a",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-29-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-29-din-30.05.2019.pdf",
+     "sha256": "ed3a023c9a2e48fd678349d84129bedac96f745669d620a661cf06363808935f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-3-2019",
+   "path": "local/braila/faurei/2019/3",
+   "short": "HCL Făurei nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 3/2019 privind aprobarea transformării unor posturi din statul de funcții al Spitalului Orășenesc Făurei Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 21 ianuarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 88/14.01.2019 a Spitalului Orășenesc Făurei înregistrată sub nr. 238/14.01.2019; Ø Rapoartele de avizare ale comisiilo",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-3-2019/",
+   "versions": [
+    {
+     "from": "2019-01-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-3-din-21.01.2019.pdf",
+     "sha256": "db9c8851d3a41244afe0876abb466a01efa6d302c1859cff766e7a43a06f7b39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-30-2019",
+   "path": "local/braila/faurei/2019/30",
+   "short": "HCL Făurei nr. 30/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 30/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-30-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-30-din-30.05.2019.pdf",
+     "sha256": "89450eaeb7640a6ac239769ce6adef15fc145d1b8aa855dfb3b0128225e7b52e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-31-2019",
+   "path": "local/braila/faurei/2019/31",
+   "short": "HCL Făurei nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 31/2019 privind alegerea președintelui de ședință Consiliul Local al Orașului Făurei, întrunit în ședință de îndată la data de 21 iunie 2019; În baza prevederilor art. 35 din Legea administrației publice locale nr. 215/2001 - republicată, cu modificările și completările ulterioare; În temeiul art. 45 și art. 115 alin. 1 lit. „b” din Legea administrației publice locale nr. 215/2001 - republicată, cu modifi",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-31-2019/",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-31-din-21.06.2019.pdf",
+     "sha256": "ec10a056ba2525760cfdc86c59a9ee3fa1113342658b126314321244b2af5d64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-32-2019",
+   "path": "local/braila/faurei/2019/32",
+   "short": "HCL Făurei nr. 32/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 32/2019 privind aprobarea finanțării programului sportiv,, Fotbalul din Făurei în Liga 3 și Campionatele de juniori” al Clubului Sportiv Făurei Consiliul Local al Orașului Făurei, întrunit în ședință de îndată la data de 21 iunie 2019; Având în vedere: Ø Referatul de aprobare al primarului orașului; Ø Adresa Clubului Sportiv Făurei înregistrată la Primăria orașului Făurei sub nr.3884/05.06.2019; Ø Raportu",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-32-2019/",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-32-din-21.06.2019.pdf",
+     "sha256": "7bd5dfa04de5ef749aa7e97d0048124de682ed33214149094736928b6252cd7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-33-2019",
+   "path": "local/braila/faurei/2019/33",
+   "short": "HCL Făurei nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 33/2019 privind aprobarea finanțării programului sportiv ,,Cupa Chojo-Ryu ediția a-II-a” al Clubului Chojo-Ryu Făurei Consiliul Local al Orașului Făurei, întrunit în ședință de îndată la data de 21 iunie 2019; Având în vedere: Ø Referatul de aprobare al primarului orașului; Ø Adresa Clubului Chojo- Ryu Făurei înregistrată la Primăria orașului Făurei sub nr.4025/11.06.2019; Ø Raportul nr. 4151/18.06.2019 a",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-33-2019/",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-33-din-21.06.2019.pdf",
+     "sha256": "23135c01f4c7a99ebc3b0a8a1bca9bc9ed6e9895ef2605caadae93fed0a0535c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-34-2019",
+   "path": "local/braila/faurei/2019/34",
+   "short": "HCL Făurei nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 34/2019 privind aprobarea transformării unor posturi din statul de funcții al Spitalului Orășenesc Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 iunie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 1395/27.05.2019 a Spitalului Orășenesc Făurei înregistrată sub nr. 3702/29.05.2019; Ø Rapoartele de avizare ale comisiilor de",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-34-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-34-din-27.06.2019.pdf",
+     "sha256": "ace19d73e1a3a88e605f01e0a914a394aa74b54bd1d8fadb72597caac90f0c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-35-2019",
+   "path": "local/braila/faurei/2019/35",
+   "short": "HCL Făurei nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 35/2019 privind aprobarea documentației tehnico-economice – faza SF și a indicatorilor tehnico- economici pentru proiectul ,, Sistem de supraveghere video în orașul Făurei, județul Brăila” Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 iunie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul compartimentului urbanism din cadrul aparatul",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-35-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-35-din-27.06.2019.pdf",
+     "sha256": "aa8100895b6da256782a5947d7c1f5bc508e3dffbcf451e62a5275f1ec562a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-36-2019",
+   "path": "local/braila/faurei/2019/36",
+   "short": "HCL Făurei nr. 36/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 36/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-36-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-36-din-27.06.2019.pdf",
+     "sha256": "4ee83a23c5bba840fb7e60d0e9f2b3a751fbbebbf0750485239137b57de3ab7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-37-2019",
+   "path": "local/braila/faurei/2019/37",
+   "short": "HCL Făurei nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 37/2019 privind aprobarea Raportului informării și consultării publicului și a Planului Urbanistic de Detaliu (PUD) „CONSTRUIRE PIAȚĂ AGROALIMENTARĂ ” în orașul Făurei, str. Castanilor, nr.18, jud",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-37-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-37-din-27.06.2019.pdf",
+     "sha256": "4a38984935f4210cf39d3c2ea369d81d81e56fe9c36f494d80776b858b97331a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-38-2019",
+   "path": "local/braila/faurei/2019/38",
+   "short": "HCL Făurei nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 38/2019 privind implementarea proiectului ,, Sistem de supraveghere video în orașul Făurei, județul Brăila” Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 iunie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului prin care se susține necesitatea și oportunitatea proiectului, constituind un aport pentru dezvoltarea colectivității; Ø Raportul comparti",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-38-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-38-din-27.06.2019.pdf",
+     "sha256": "bba5ee3f0a50feec138a1d71abbb7ebbd48ab6debc8f406d77c16095d7e93439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-39-2019",
+   "path": "local/braila/faurei/2019/39",
+   "short": "HCL Făurei nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 39/2019 Privind aprobarea Documentației tehnico-economice-faza SF și indicatorilor tehnico- economici- pentru obiectivul de investiții „Modernizare rețea pietonală zona civică oraș Făurei – Etapa a-II-a” Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 iunie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul compartimentului de urbanism d",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-39-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-39-din-27.06.2019.pdf",
+     "sha256": "ee8873509980ad814120a656fb7008f36e80ee1f6bcd714fefaf8d0ab9b00197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-4-2019",
+   "path": "local/braila/faurei/2019/4",
+   "short": "HCL Făurei nr. 4/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 4/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-4-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-4-din-29.01.2019.pdf",
+     "sha256": "e573bc538cf15afe064aded8f3d003d0f9ca9b86ced6b4263e4a492ed1e3d906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-40-2019",
+   "path": "local/braila/faurei/2019/40",
+   "short": "HCL Făurei nr. 40/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 40/2019 Privind aprobarea Documentației tehnico-economice-faza PT și indicatorilor tehnico- economici- pentru obiectivul de investiții „Construire piață agroalimentară” Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 iunie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul compartimentului de urbanism din cadrul aparatului de specialitat",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-40-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-40-din-27.06.2019.pdf",
+     "sha256": "f8691b0eaef1c7d1513470b856224bfca7b5b19c14836141f81326bf0974d44e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-41-2019",
+   "path": "local/braila/faurei/2019/41",
+   "short": "HCL Făurei nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 41/2019 privind aprobarea asocierii Orașului FAUREI prin Consiliul Local FAUREI cu Județul Braila, prin",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-41-2019/",
+   "versions": [
+    {
+     "from": "2019-07-16",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-41-din-16.07.2019.pdf",
+     "sha256": "2b99c3470d464a400e37b48c725cd09e2cb941d8f18acafd95f3ef93ac80d521"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-42-2019",
+   "path": "local/braila/faurei/2019/42",
+   "short": "HCL Făurei nr. 42/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 42/2019 privind aprobarea asocierii Orașului FAUREI prin Consiliul Local FAUREI cu Județul Braila, prin",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-42-2019/",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-42-din-29.07.2019.pdf",
+     "sha256": "4baccee761ed61e17b552cfc788b3bd93569040f37fcc72d490599aa25d2fbe5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-43-2019",
+   "path": "local/braila/faurei/2019/43",
+   "short": "HCL Făurei nr. 43/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 43/2019 privind închirierea cu titlu oneros, prin licitație publică, asupra terenului în suprafață de 800 mp, aparținând domeniului privat al orașului Făurei situat în intravilanul orașului Făurei, str. Parcului, nr. 22 A, CF 71317/2019, în vederea exploatării ca teren arabil Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 29 iulie 2019; Având în vedere:  Referatul de apr",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-43-2019/",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-43-din-29.07.2019.pdf",
+     "sha256": "5737e8d32fec730b8c3bb83abdfd2322b763e9fb82a5d09093873f8aea6d9dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-44-2019",
+   "path": "local/braila/faurei/2019/44",
+   "short": "HCL Făurei nr. 44/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 44/2019 privind constituirea dreptului de superficie cu titlu oneros, prin licitație publică, asupra terenului în suprafață de 368 mp, aparținând domeniului privat al orașului Făurei situat în intravilanul orașului Făurei, str. Parcului, nr. 20, lot. 2, CF 71342/2019, pentru construcție Anexe Gospodărești Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 29 iulie 2019; Având",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-44-2019/",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-44-din-29.07.2019.pdf",
+     "sha256": "b77dd3188bd416ea222de7f339628691d64c44c4d65863504ff204fc663a712e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-45-2019",
+   "path": "local/braila/faurei/2019/45",
+   "short": "HCL Făurei nr. 45/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 45/2019 privind insusirea Raportului de evaluare privind stabilirea valorii minime de constituire a dreptului de superficie a terenului situat in oras Faurei, str",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-45-2019/",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-45-din-29.07.2019.pdf",
+     "sha256": "2f09e620b91906194a1a9fef734f606cbd8688ab081f08ae27211bb805913ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-46-2019",
+   "path": "local/braila/faurei/2019/46",
+   "short": "HCL Făurei nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 46/2019 privind aprobarea trecerii din domeniul public in domeniul privat al orasului Făurei a construcției C2 cu destinație copertină piață agroalimentară, situată în incinta Pieții Agroalimentare din orașul Făurei, str. Castanilor, nr. 18, în vederea desființării Consiliul Local al Orașului Făurei, întrunit în ședință extrordinară la data de 29 iulie 2019; Având în vedere:  Referatul de aprobare al pri",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-46-2019/",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-46-din-29.07.2019.pdf",
+     "sha256": "e8663650792335c17c16c66c87c4d0da3514cd4bea6cf1427ee85ece7383fd28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-47-2019",
+   "path": "local/braila/faurei/2019/47",
+   "short": "HCL Făurei nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 47/2019 Privind aprobarea Documentației tehnico-economice-faza SF și indicatorilor tehnico- economici- pentru obiectivul de investiții „Sistematizare verticală incinte Piață Agroalimentară, Blocuri de locuințe și Parcări- Etapa I, oraș Făurei, județul Brăila” Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 20 august 2019; Având în vedere: Ø Referatul de aprobare întocmit d",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-47-2019/",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-47-din-20.08.2019.pdf",
+     "sha256": "5b5363d201f68a7587bd8d3da1d615d6d6fe9d8a45d84236559310900aa42a57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-48-2019",
+   "path": "local/braila/faurei/2019/48",
+   "short": "HCL Făurei nr. 48/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 48/2019 privind aprobarea rectificării bugetului local pe anul 2019 Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 20 august 2019; Având în vedere: Ø Expunerea de motive a primarului orașului; Ø Raportul nr. 5553/20.08.2019 al Biroului financiar-contabil, impozite și taxe din cadrul aparatului de specialitate al primarului; Ø Rapoartele de avizare ale comisiilor de specia",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-48-2019/",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-48-din-20.08.2019.pdf",
+     "sha256": "3d9f6873ed438e8b19512a9b90ee72563baf4722ec35190dfdd2ec10020b16d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-49-2019",
+   "path": "local/braila/faurei/2019/49",
+   "short": "HCL Făurei nr. 49/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 49/2019 privind aprobarea asocierii Orașului FAUREI prin Consiliul Local FAUREI cu Județul Braila, prin",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-49-2019/",
+   "versions": [
+    {
+     "from": "2019-08-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-49-din-20.08.2019.pdf",
+     "sha256": "62d96967abb664e545034862422bdfb9317310ccfa36c4c69d39a554b03cd497"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-5-2019",
+   "path": "local/braila/faurei/2019/5",
+   "short": "HCL Făurei nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 5/2019 privind aprobarea Planului lucrărilor și activităților propuse a se realiza în anul 2019 cu beneficiarii Legii nr. 416/2001 și cu părinții apți de muncă ai copiilor dați în plasament conform Legii nr. 272/2004 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 29 ianuarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul nr. 345/17.01",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-5-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-5-din-29.01.2019.pdf",
+     "sha256": "59721955e8d7dd74fe924616a14ecb2d92bdf93bb80e0f109a9274eb543e2a7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-50-2019",
+   "path": "local/braila/faurei/2019/50",
+   "short": "HCL Făurei nr. 50/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 50/2019 privind aprobarea vânzării directe către Lazăr(fostă Pisău) Elena a terenului aparținând domeniului privat al orașului Făurei, atribuit în folosință gratuită pe durata existenței locuinței proprietate personală în conformitate cu prevederile Legii nr. 15/2003, situat în orașul Făurei, str. Bărăganului, nr. 18G, lot 7, județul Brăila, în suprafață de 297 mp, Consiliul Local al Orașului Făurei, într",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-50-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-50-din-29.08.2019.pdf",
+     "sha256": "b0c87449846f7390bf57e45ccc485d2f0965e689a96f9f7841943f94c2e26d98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-51-2019",
+   "path": "local/braila/faurei/2019/51",
+   "short": "HCL Făurei nr. 51/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 51/2019 Privind instituirea dreptului de uz și servitute, cu titlu gratuit, asupra unui teren în suprafață de 1,75 mp, pentru amplasarea unor construcții energetice de către SC Distribuție Energie Electrică Muntenia Nord SA prin SDEE Brăila Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 29 august 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø A",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-51-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-51-din-29.08.2019.pdf",
+     "sha256": "579a8623643f2741d904d92e4cf70b97bba1b113c687084a61d6118776185f5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-52-2019",
+   "path": "local/braila/faurei/2019/52",
+   "short": "HCL Făurei nr. 52/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 52/2019 privind alegerea președintelui de ședință Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 30 septembrie 2019; În baza prevederilor art. 133 alin. 1 din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administartiv; În temeiul art. 139 alin. 1 și art. 196 alin. 1 lit. „a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; HOTĂRĂȘTE",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-52-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-52-din-30.09.2019.pdf",
+     "sha256": "54e42d484f69441cd8b2209f5e07193f7f0f3155c1e00b672890952e2536fe2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-53-2019",
+   "path": "local/braila/faurei/2019/53",
+   "short": "HCL Făurei nr. 53/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 53/2019 privind aprobarea trecerii din domeniul public in domeniul privat al orasului Făurei a construcției C1 cu destinația grup sanitar public, situată în incinta Pieții Agroalimentare din orașul Făurei, str. Castanilor, nr. 18, în vederea desființării Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 30 septembrie 2019; Având în vedere: Ø Referatul de aprobare al primarului or",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-53-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-53-din-30.09.2019.pdf",
+     "sha256": "b75c13342c6ef47c64cb2c85cbe0d6634e80a47a0768a1f278029462376d46f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-55-2019",
+   "path": "local/braila/faurei/2019/55",
+   "short": "HCL Făurei nr. 55/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 55/2019 Privind aprobarea actualizării Inventarului bunurilor aparținând domeniului privat al Orașului Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 30 septembrie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul comisiei de inventariere a bunurilor imobile din domeniul privat al orașului Făurei; Ø Rapoartele de avizare ale comisi",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-55-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-55-din-30.09.2019.pdf",
+     "sha256": "fc7849ed3d0efb55a232a86e64a883a97679fd17ad39688bcde508d3a2e8bde2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-56-2019",
+   "path": "local/braila/faurei/2019/56",
+   "short": "HCL Făurei nr. 56/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 56/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-56-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-56-din-31.10.2019.pdf",
+     "sha256": "c9c259fa70b0ab6d951069aa722fd62997e6df175a6a4e69a31f0f3166fd94ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-57-2019",
+   "path": "local/braila/faurei/2019/57",
+   "short": "HCL Făurei nr. 57/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 57/2019 pentru activitatea desfasurata de operatorul serviciului de salubrizare din Orașul Făurei privind gestionarea deseurilor de hartie, metal, plastic si sticla din deseurile municipale, inclusiv cu asigurarea trasabilitatii, pentru cantitatile predate in vederea valorificarii",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-57-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-57-din-31.10.2019.pdf",
+     "sha256": "2bd1b5bbf5ade2af25224d3d488bc3bec0b2adfb272e1cff5090dc2712f0ebe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-58-2019",
+   "path": "local/braila/faurei/2019/58",
+   "short": "HCL Făurei nr. 58/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 58/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-58-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-58-din-28.11.2019.pdf",
+     "sha256": "680f09a8d703da812b37437818aa534a45fc773f5584c04474132ddb46662621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-59-2019",
+   "path": "local/braila/faurei/2019/59",
+   "short": "HCL Făurei nr. 59/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 59/2019 Privind aprobarea cuantumului și a numărului burselor care se acordă din bugetul local elevilor din învățământul preuniversitar în semestrul I al anului școlar 2019/2020 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 28 noiembrie 2019; Având în vedere: - Referatul de aprobare întocmit de primarul orașului; - Referatul nr. 3933/06.11.2019 al Liceului Teoretic «George Vâ",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-59-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-59-din-28.11.2019.pdf",
+     "sha256": "93e9455a5e30307a4881199af02db84cf3225cbfe5c5acf43709cb7042facb1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-6-2019",
+   "path": "local/braila/faurei/2019/6",
+   "short": "HCL Făurei nr. 6/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 6/2019 privind aprobarea structurii organizatorice a Spitalului Orășenesc Făurei pe anul 2019 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 29 ianuarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 104/14.01.2019 a Spitalului Orășenesc Făurei înregistrată sub nr. 246/16.01.2019; Ø Rapoartele de avizare ale comisiilor de specialita",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-6-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-6-din-29.01.2019.pdf",
+     "sha256": "b5f2e223427addc1877a948cdc3324e8c5cb17a77e1300801c70ada8b1bfa393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-60-2019",
+   "path": "local/braila/faurei/2019/60",
+   "short": "HCL Făurei nr. 60/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 60/2019 Privind aprobarea actualizării poziției 1 -Clădiri din Inventarul bunurilor aparținând domeniului privat al Orașului Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 28 noiembrie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul comisiei de inventariere a bunurilor imobile din domeniul privat al orașului Făurei; Ø Rapoartele",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-60-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-60-din-28.11.2019.pdf",
+     "sha256": "4e29fa2e8c1c3e7e930058ca7ad72175e0fc3f12e8e7054655257e83b7479d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-61-2019",
+   "path": "local/braila/faurei/2019/61",
+   "short": "HCL Făurei nr. 61/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 61/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-61-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-61-din-28.11.2019.pdf",
+     "sha256": "03d6dc231f1e1f81c05230e594069c72c0f9a468e85c5231679852a18af5d13c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-62-2019",
+   "path": "local/braila/faurei/2019/62",
+   "short": "HCL Făurei nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 62/2019 privind alegerea președintelui de ședință Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 09 decembrie 2019; În baza prevederilor art. 133 alin. 2 lit. ,,a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; În temeiul art. 139 alin. 1 și art. 196 alin. 1 lit. „a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administra",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-62-2019/",
+   "versions": [
+    {
+     "from": "2019-02-09",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-62-din-09.02.2019.pdf",
+     "sha256": "60a61ee44fb92a63ba695b520286e43ba6ca67e4cbb4873db645e4c6aa3a69c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-63-2019",
+   "path": "local/braila/faurei/2019/63",
+   "short": "HCL Făurei nr. 63/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 63/2019 Privind darea în administrare a unui bun aparținând domeniului privat de interes local al orașului Făurei către Serviciul Public de Salubrizare Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 09 decembrie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Referatul compartimentului mediu și protecție civilă din aparatul de specialitate",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-63-2019/",
+   "versions": [
+    {
+     "from": "2019-12-09",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-63-din-09.12.2019.pdf",
+     "sha256": "51cfffdbe33829a304a9a708957efa9512ebeb15cabfdeae0959313f5efc105b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-64-2019",
+   "path": "local/braila/faurei/2019/64",
+   "short": "HCL Făurei nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 64/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-64-2019/",
+   "versions": [
+    {
+     "from": "2019-12-09",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-64-din-09.12.2019.pdf",
+     "sha256": "eff2539f3a032f97ebfde7e072e8a769d65ecb9842ce206d47f1231b1f37e11e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-65-2019",
+   "path": "local/braila/faurei/2019/65",
+   "short": "HCL Făurei nr. 65/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 65/2019 privind aprobarea rectificării bugetului local pe anul 2019 Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 16 decembrie 2019; Având în vedere: Ø Referatul de aprobare al primarului orașului; Ø Raportul nr. 8208/11.12.2019 al Biroului financiar-contabil, impozite și taxe din cadrul aparatului de specialitate al primarului; Ø Referatul nr. 7574/14.11.2019 al Spitalu",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-65-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-65-din-16.12.2019.pdf",
+     "sha256": "7d25ffe6683f499fd4fbf88348cb74232e7d476c1fc963432b6d96bd5ee98ec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-66-2019",
+   "path": "local/braila/faurei/2019/66",
+   "short": "HCL Făurei nr. 66/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 66/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-66-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-66-din-19.12.2019.pdf",
+     "sha256": "d04dbd946926a4c3714998b67b082801d3deae13ddae179e71be588cf3b336ea"
     }
    ]
   },
@@ -63,6 +933,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--faurei-68-2019",
+   "path": "local/braila/faurei/2019/68",
+   "short": "HCL Făurei nr. 68/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 68/2019 privind aprobarea implementării proiectului ,,Economia socială, oportunitate de dezvoltare a comunităților” depus în cadrul Programului Operațional Capital Uman 2014-2020, Axa prioritară 4 ,, Incluziunea socială, combaterea sărăciei și a oricărei forme de discriminare” derulat în cadrul parteneriatului cu SC ORFINI BELL SRL Brăila Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-68-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-68-din-19.12.2019.pdf",
+     "sha256": "ec3e73c335eab4cbed0ea06fa91158b5bc47e94a0f436e3a048a31e1c15f0f82"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--faurei-69-2019",
    "path": "local/braila/faurei/2019/69",
    "short": "HCL Făurei nr. 69/2019",
@@ -78,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--faurei-7-2019",
+   "path": "local/braila/faurei/2019/7",
+   "short": "HCL Făurei nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 7/2019",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-7-2019/",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-7-din-20.02.2019.pdf",
+     "sha256": "adafbdb904225cd633bf5ccc01ff1a32d51a9e86f9672df42a3e80610566caca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--faurei-70-2019",
    "path": "local/braila/faurei/2019/70",
    "short": "HCL Făurei nr. 70/2019",
@@ -89,6 +989,51 @@
      "units": 1,
      "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-70-din-19.12.2019.pdf",
      "sha256": "114c899c6b6b2c97cb2ef61a4dd8a4ee3d7412d259be32a62294a70a2cc71d62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-71-2019",
+   "path": "local/braila/faurei/2019/71",
+   "short": "HCL Făurei nr. 71/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 71/2019 privind aprobarea Planului lucrărilor și activităților propuse a se realiza în anul 2020 cu beneficiarii Legii nr. 416/2001 și cu părinții apți de muncă ai copiilor dați în plasament conform Legii nr. 272/2004 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 19 decembrie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul nr. 8184/11",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-71-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-71-din-19.12.2019.pdf",
+     "sha256": "707aadd37272fde7f989cf3bb342c506a3c6fe98e76758e031c67470ae5affef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-72-2019",
+   "path": "local/braila/faurei/2019/72",
+   "short": "HCL Făurei nr. 72/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 72/2019 Privind aprobarea constituirii unui drept de superficie cu titlu oneros, fără licitație publică asupra terenului în suprafață de 106 mp, proprietate privată a orașului Făurei, județul Brăila, situat în orașul Făurei, str. Păcii, nr. 6A către SC Aligand Protect Srl Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 19 decembrie 2019; Având în vedere: Ø Referatul de a",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-72-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-72-din-19.12.2019.pdf",
+     "sha256": "ee4c0434c6557a93e5f5fca6fa75b52de37bb320bc6881ccca2611451e88b454"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-8-2019",
+   "path": "local/braila/faurei/2019/8",
+   "short": "HCL Făurei nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 8/2019 Privind aprobarea rețelei școlare a orașului Făurei pentru anul școlar 2019-2020 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 20 februarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø AVIZUL CONFORM nr. 833/28.01.2019 al Inspectoratului Școlar Județean Brăila; Ø Rapoartele de avizare ale comisiilor de specialitate ale Consiliului Lo",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-8-2019/",
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-8-din-20.02.2019.pdf",
+     "sha256": "a8da8380ec0b6379fbb9dbe4920264084ae010f1b27502f821bb40c735143acd"
     }
    ]
   }

@@ -3,6 +3,291 @@
  "shard": "local/braila/faurei/2020",
  "acts": [
   {
+   "slug": "hcl-braila--faurei-1-2020",
+   "path": "local/braila/faurei/2020/1",
+   "short": "HCL Făurei nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 1/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-1-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-1-din-29.01.2020.pdf",
+     "sha256": "0523629f21a5b96dc0571859db3d264b9c932c1130146bf1816a70e9c28f05d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-12-2020",
+   "path": "local/braila/faurei/2020/12",
+   "short": "HCL Făurei nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 12/2020 Privind aprobarea bugetului local și bugetului activităților și instituțiilor finanțate din venituri proprii pe anul 2020 și a estimărilor pentru 2021-2023 Consiliul Local al Orașului Făurei, întrunit în ședință extraordinara la data de 21 februarie 2020; Având în vedere: Ø Expunerea de motive a primarului orașului; Ø Raportul nr. 1021/17.02.2020 al Biroul financiar-contabil, impozite și taxe din",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-12-2020/",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-12-din-21.02.2020.pdf",
+     "sha256": "1b1b9ccbad73ea3ad1f5d2c8921fa9e4f9d26272f44fa846a7afc42e4599f111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-13-2020",
+   "path": "local/braila/faurei/2020/13",
+   "short": "HCL Făurei nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 13/2020 Privind aprobarea Planului local de măsuri privind incluziunea cetățenilor români aparținând minorității rome în orașul Făurei pentru anul 2020 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 februarie 2020; Având în vedere: - Referatul de aprobare întocmit de primarul orașului; - Referatul nr. 651/31.01.2020; - Rapoartele de avizare ale comisiilor de specialitate al",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-13-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-13-din-27.02.2020.pdf",
+     "sha256": "1bb8073c847bf29c3ca1f0f882becc23ea4108ec49daf5d1c8adf610c96d1518"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-14-2020",
+   "path": "local/braila/faurei/2020/14",
+   "short": "HCL Făurei nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 14/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-14-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-14-din-27.02.2020.pdf",
+     "sha256": "f4c88403816d5bb0745e6eec8aa93094b6d52d826cf046f6e0d755379e6f8333"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-15-2020",
+   "path": "local/braila/faurei/2020/15",
+   "short": "HCL Făurei nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 15/2020 Privind aprobarea Documentației tehnico-economice-faza DTAC+PT pentru obiectivul de investiții „Construire postament monument” amplasament oraș Făurei, str. Republicii, nr. 65A, jud",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-15-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-15-din-27.02.2020.pdf",
+     "sha256": "73b3792a111573768bfd6a12f50e5d64b38ba73683b89f74650efea9193c0ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-17-2020",
+   "path": "local/braila/faurei/2020/17",
+   "short": "HCL Făurei nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 17/2020 privind aprobarea organigramei și statului de funcții ale Spitalului Orășenesc Făurei pe anul 2020 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 februarie 2020; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 487/14.02.2020 a Spitalului Orășenesc Făurei înregistrată sub nr. 1005/14.02.2020; Ø Rapoartele de avizare ale comisiilor",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-17-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-17-din-27.02.2020.pdf",
+     "sha256": "67805386c5472947900eae9125f1480d8f61c665b4e56899985b90a6c3bbe16a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-18-2020",
+   "path": "local/braila/faurei/2020/18",
+   "short": "HCL Făurei nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 18/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-18-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-18-din-27.02.2020.pdf",
+     "sha256": "c11318a3efde74adec9e6eaaebd4d5629bb8fc9f448d8de0d831e3dd00f87084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-19-2020",
+   "path": "local/braila/faurei/2020/19",
+   "short": "HCL Făurei nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 19/2020 privind aprobarea coeficienților de salarizare pentru funcțiile de conducere și de execuție din cadrul aparatului de specialitate al primarului și din cadrul Serviciului public de salubrizare al orașului Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 februarie 2020; Având în vedere: • Referatul de aprobare întocmit de primarul orașului; • Referatul nr. 1073/1",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-19-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-19-din-27.02.2020.pdf",
+     "sha256": "b7d0b23665ff20bc68bd7d6a6ef890f9b071017b5326886ace3bac2435c8f31d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-2-2020",
+   "path": "local/braila/faurei/2020/2",
+   "short": "HCL Făurei nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 2/2020 Privind aprobarea rețelei școlare a orașului Făurei pentru anul școlar 2020-2021 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 29 ianuarie 2019; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Inspectoratului Școlar Ø AVIZUL CONFORM nr. 15001/16.12.2019 al Județean Brăila; Ø Rapoartele de avizare ale comisiilor de specialitate ale Consiliului L",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-2-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-2-din-29.01.2020.pdf",
+     "sha256": "641728c232fec3a016ad1d4890f20e8df6cd75a5f90592af74c3d6d5d8b574a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-20-2020",
+   "path": "local/braila/faurei/2020/20",
+   "short": "HCL Făurei nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 20/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-20-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-20-din-27.02.2020.pdf",
+     "sha256": "cbe129a58ba3d1b455e873a90d44c0d36519f18b9f8e3ecc82ed06e62d6ab812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-21-2020",
+   "path": "local/braila/faurei/2020/21",
+   "short": "HCL Făurei nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 21/2020 Privind aprobarea de achiziție directă a activităților specifice serviciului de iluminat public al orașului Făurei , județul Brăila Consiliul local al orașului Făurei întrunit în ședință ordinară la data de 27 februarie 2020; Având în vedere: - Referatul de aprobare al primarului; - Raportul compartimentului urbanism din aparatul de specialitate al primarului; - Rapoartele de avizare ale comisiilo",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-21-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-21-din-27.02.2020.pdf",
+     "sha256": "4371ae06e9cc125c72b90de66810fbe320309c23d8ec55930b313673af68ad4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-22-2020",
+   "path": "local/braila/faurei/2020/22",
+   "short": "HCL Făurei nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 22/2020 Privind aprobarea Planului de măsuri privind eficientizarea activității de înregistrare la zi a datelor din Registrul Agricol 2015-2019 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 27 februarie 2020; Având în vedere: - Referatul de aprobare întocmit de primarul orașului; - Nota de constatare nr. 1173/24.02.2020; - Rapoartele de avizare ale comisiilor de specialitate",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-22-2020/",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-22-din-27.02.2020.pdf",
+     "sha256": "7c1a2fd685d9db97948f189e66d805d1f7f7743b9b3d7415ca6f6b907591f7b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-23-2020",
+   "path": "local/braila/faurei/2020/23",
+   "short": "HCL Făurei nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 23/2020 privind alegerea președintelui de ședință Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 26 martie 2020; În baza prevederilor art. 133 alin. 2 lit. ,,a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; În temeiul art. 139 alin. 1 și art. 196 alin. 1 lit. „a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; HOT",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-23-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-23-din-26.03.2020.pdf",
+     "sha256": "59ab1aa5621df7411f903d0c9fa6df182176e1ca0542772cea9e54e79d9143a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-24-2020",
+   "path": "local/braila/faurei/2020/24",
+   "short": "HCL Făurei nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 24/2020 privind aprobarea Planului privind asigurarea resurselor financiare, umane și materiale pentru gestionarea situațiilor de urgență pe anul 2020 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 26 martie 2020; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului Făurei; Ø Referatul șefului SVSU nr. 1668/12.03.2020; Ø Rapoartele de avizare ale comisiilor d",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-24-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-24-din-26.03.2020.pdf",
+     "sha256": "1703fa8878628f8c8eca53c28050309805f72948bb804bacc853c2f626447e55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-25-2020",
+   "path": "local/braila/faurei/2020/25",
+   "short": "HCL Făurei nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 25/2020 privind aprobarea Planului de analiză și acoperire a riscurilor pentru anul 2020 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 26 martie 2020; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Raportul inspectorului de protecție civilă din aparatul de specialitate al primarului; Ø Rapoartele de avizare ale comisiilor de specialitate ale Consili",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-25-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-25-din-26.03.2020.pdf",
+     "sha256": "6696ac77ed5e35341e6c7622e8307d123cf84f6a80233da9a23239a17ff7af6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-26-2020",
+   "path": "local/braila/faurei/2020/26",
+   "short": "HCL Făurei nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 26/2020 Privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului local Făurei pentru anul 2020 Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 26 martie 2020; Având în vedere: - Referatul de aprobare întocmit de primarul orașului; - Raportul nr. 1130/21.02.2020; -Hotărârea Consiliului Județean nr. 043/13 februarie",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-26-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-26-din-26.03.2020.pdf",
+     "sha256": "e9bfed84491927b173e78c9713a1212206322cec821138bfc644d4a41f818793"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-27-2020",
+   "path": "local/braila/faurei/2020/27",
+   "short": "HCL Făurei nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 27/2020 privind aprobarea transformării unor posturi din statul de funcții al Spitalului Orășenesc Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 26 martie 2020; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 715/06.03.2020 a Spitalului Orășenesc Făurei înregistrată sub nr. 1531/09.03.2020; Ø Rapoartele de avizare ale comisiilor de",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-27-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-27-din-26.03.2020.pdf",
+     "sha256": "513ca62d640662c28b6bd506a819025b5d2736ab48f2fe05ebe4ffe36f13d518"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-28-2020",
+   "path": "local/braila/faurei/2020/28",
+   "short": "HCL Făurei nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 28/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-28-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-28-din-26.03.2020.pdf",
+     "sha256": "aec3054b54ce2b983ccc4ee30aa44dc92368aee694deb13a6ed93f18e3609e6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-29-2020",
+   "path": "local/braila/faurei/2020/29",
+   "short": "HCL Făurei nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 29/2020 Privind aprobarea documentației-cadru pentru închirierea sau concesionarea unor terenuri din domeniul public sau privat al orașului Făurei administrat de consiliul local Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 26 martie 2020; Având în vedere: - Referatul de aprobare întocmit de primarul orașului; - Raportul compartimentului de urbanism din aparatul de specialita",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-29-2020/",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-29-din-26.03.2020.pdf",
+     "sha256": "36c67df59f9662f71f3d987fd5c7f5cfe1d4dddbbbbda28fa1f896bf25d9c8a1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--faurei-3-2020",
    "path": "local/braila/faurei/2020/3",
    "short": "HCL Făurei nr. 3/2020",
@@ -14,6 +299,36 @@
      "units": 1,
      "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-3-din-29.01.2020.pdf",
      "sha256": "357caffbd3bf892046dc674b634a217ff442119ee0eaa6c82f345a40d7dd10be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-30-2020",
+   "path": "local/braila/faurei/2020/30",
+   "short": "HCL Făurei nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 30/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-30-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-30-din-30.04.2020.pdf",
+     "sha256": "75eb40ba7fa92606f6ed7144466a639d673fd53643cea4087cf537fc513f6d45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-31-2020",
+   "path": "local/braila/faurei/2020/31",
+   "short": "HCL Făurei nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 31/2020 privind aprobarea transformării unui post din statul de funcții al Spitalului Orășenesc Făurei Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 30 aprilie 2020; Având în vedere: Ø Referatul de aprobare întocmit de primarul orașului; Ø Adresa nr. 909/26.03.2020 a Spitalului Orășenesc Făurei înregistrată sub nr. 1921/27.03.2020; Ø Rapoartele de avizare ale comisiilor de sp",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-31-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-31-din-30.04.2020.pdf",
+     "sha256": "6046e1167617eb2a8c2096a6b2e4d6c1e152f43de8ace1cb5fccde5bf3d0afc5"
     }
    ]
   },
@@ -33,6 +348,426 @@
    ]
   },
   {
+   "slug": "hcl-braila--faurei-33-2020",
+   "path": "local/braila/faurei/2020/33",
+   "short": "HCL Făurei nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 33/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-33-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-33-din-30.04.2020.pdf",
+     "sha256": "651304af54aca737b924fdc4b77c0df558157d76c0147465af132a52bcc22b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-34-2020",
+   "path": "local/braila/faurei/2020/34",
+   "short": "HCL Făurei nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 34/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-34-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-34-din-28.05.2020.pdf",
+     "sha256": "4fb0064cb971f82465b17d8950c1d9fa90dfb2431e23fd41b6d58ffa7daa4160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-35-2020",
+   "path": "local/braila/faurei/2020/35",
+   "short": "HCL Făurei nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 35/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-35-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-35-din-28.05.2020.pdf",
+     "sha256": "1080be7a7dab33b57619b25c783259eb126aedaadddac4775ac3e3201b19f69d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-36-2020",
+   "path": "local/braila/faurei/2020/36",
+   "short": "HCL Făurei nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 36/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-36-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-36-din-28.05.2020.pdf",
+     "sha256": "08699d0d49a45296b19c0d81a3c1647b323a29803d03a995b9e43603156c2abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-37-2020",
+   "path": "local/braila/faurei/2020/37",
+   "short": "HCL Făurei nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 37/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-37-2020/",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-37-din-28.05.2020.pdf",
+     "sha256": "fad6838523187ea03c81de66c4f960e3a806008915b8893332e44d274b9566ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-38-2020",
+   "path": "local/braila/faurei/2020/38",
+   "short": "HCL Făurei nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 38/2020 privind alegerea președintelui de ședință Consiliul Local al Orașului Făurei, întrunit în ședință ordinară la data de 29 iunie 2020; În baza prevederilor art. 133 alin. 2 lit. ,,a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; În temeiul art. 139 alin. 1 și art. 196 alin. 1 lit. „a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; HOTĂ",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-38-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-38-din-29.06.2020.pdf",
+     "sha256": "e03e55f4de417168ae5e8e0276560c296159024b146acbb443cf7bd351915b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-39-2020",
+   "path": "local/braila/faurei/2020/39",
+   "short": "HCL Făurei nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 39/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-39-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-39-din-29.06.2020.pdf",
+     "sha256": "87e4745e476a87cf697b794dc5f2b79917784b54304786a80888f0066b493a48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-4-2020",
+   "path": "local/braila/faurei/2020/4",
+   "short": "HCL Făurei nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 4/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-4-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-4-din-29.01.2020.pdf",
+     "sha256": "b366c79ebecf7be0046c8ab741fb868802158f7192c98f702f59bacb5cc5d12d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-40-2020",
+   "path": "local/braila/faurei/2020/40",
+   "short": "HCL Făurei nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 40/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-40-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-40-din-29.06.2020.pdf",
+     "sha256": "6ff5f4bb322b6a3e20e2b20d61e3db564057f59f1663eb6048ea7c78a4bdf816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-41-2020",
+   "path": "local/braila/faurei/2020/41",
+   "short": "HCL Făurei nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 41/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-41-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-41-din-29.06.2020.pdf",
+     "sha256": "95d67d31fe7b941f72a235dddb3466fec4eb4831595d02afd42239d30816cdf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-42-2020",
+   "path": "local/braila/faurei/2020/42",
+   "short": "HCL Făurei nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 42/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-42-2020/",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-42-din-29.06.2020.pdf",
+     "sha256": "834974221507311e846e2c8a3d5b84099f1f0054eae7f3d5e5c8578e8ad8729e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-43-2020",
+   "path": "local/braila/faurei/2020/43",
+   "short": "HCL Făurei nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 43/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-43-2020/",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-43-din-20.07.2020.pdf",
+     "sha256": "d5af648bde22fad84f66be8e055385ba29d8f22411a894c013a4585c5f7d6d96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-44-2020",
+   "path": "local/braila/faurei/2020/44",
+   "short": "HCL Făurei nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 44/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-44-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-44-din-31.08.2020.pdf",
+     "sha256": "e0fa99e729d31f4dc08a821072e63a2a5fee2b42c739d35bdff69e530f47d3ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-45-2020",
+   "path": "local/braila/faurei/2020/45",
+   "short": "HCL Făurei nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 45/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-45-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-45-din-31.08.2020.pdf",
+     "sha256": "a192bbc7d9038bf7c007062b168e46af1253d5b249dd3e3e12813514d85cf4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-46-2020",
+   "path": "local/braila/faurei/2020/46",
+   "short": "HCL Făurei nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 46/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-46-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-46-din-31.08.2020.pdf",
+     "sha256": "e54e1600a59f7049975b65990a429f8e9da31f0eb1e004dc8569aa15c465c48f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-47-2020",
+   "path": "local/braila/faurei/2020/47",
+   "short": "HCL Făurei nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 47/2020 privind alegerea președintelui de ședință Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 25 septembrie 2020; În baza prevederilor art. 133 alin. 2 lit. ,,a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ; În temeiul art. 139 alin. 1 și art. 196 alin. 1 lit. „a” din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administr",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-47-2020/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-47-din-31.08.2020.pdf",
+     "sha256": "89a43d718bf1daeb87874e20c1ddb88791057575b56e29aa7463eed151581d3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-48-2020",
+   "path": "local/braila/faurei/2020/48",
+   "short": "HCL Făurei nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 48/2020 privind aprobarea rectificării bugetului local pe anul 2020 Consiliul Local al Orașului Făurei, întrunit în ședință extraordinară la data de 25 septembrie 2020; Având în vedere: Ø Referatul de aprobare al primarului orașului; Ø Raportul nr. 5399/21.09.2020 al Biroului financiar-contabil, impozite și taxe din cadrul aparatului de specialitate al primarului; Ø Referatul nr. 2477/21.09.2020 al Liceul",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-48-2020/",
+   "versions": [
+    {
+     "from": "2020-09-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-48-din-25.09.2020.pdf",
+     "sha256": "cbffa444f41eaa80870e146c67b0ff1894a98ba7a63e43369d966bba193c5cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-49-2020",
+   "path": "local/braila/faurei/2020/49",
+   "short": "HCL Făurei nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 49/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-49-2020/",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-49-din-29.10.2020.pdf",
+     "sha256": "76f8ab7c19ef997c1c2c097d8fad79d5ae68d4b00291e2dde77b5b3e0967077c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-5-2020",
+   "path": "local/braila/faurei/2020/5",
+   "short": "HCL Făurei nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 5/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-5-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-5-din-29.01.2020.pdf",
+     "sha256": "82d68737b96d070ad4034af95bffe3668ad0d7b54538e966877c16dd88a902b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-50-2020",
+   "path": "local/braila/faurei/2020/50",
+   "short": "HCL Făurei nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 50/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-50-2020/",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-50-din-29.10.2020.pdf",
+     "sha256": "0dcbe700ec9bf7cf922244ed2561417517421a6caead54496dba47a737c5a0eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-51-2020",
+   "path": "local/braila/faurei/2020/51",
+   "short": "HCL Făurei nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 51/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-51-2020/",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-51-din-29.10.2020.pdf",
+     "sha256": "43dfaaf5784b2c390a1609acb58a3031305d5a4a7e8032b4e7d916edfc2ec1ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-52-2020",
+   "path": "local/braila/faurei/2020/52",
+   "short": "HCL Făurei nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 52/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-52-2020/",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-52-din-10.11.2020.pdf",
+     "sha256": "791448317bdc7d6b6844a2c60e9991e3aaf9761ddea169b2bfcceb15d32bde4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-53-2020",
+   "path": "local/braila/faurei/2020/53",
+   "short": "HCL Făurei nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 53/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-53-2020/",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-53-din-10.11.2020.pdf",
+     "sha256": "df4e23db9bfc5c456bcb42838ec303ad9b6aad3fc5b544ea34e541036466c91c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-54-2020",
+   "path": "local/braila/faurei/2020/54",
+   "short": "HCL Făurei nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 54/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-54-2020/",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-54-din-10.11.2020.pdf",
+     "sha256": "0edf00e50d85990696743c51d27b72384e5c53fdec8c2153067265e098558ebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-55-2020",
+   "path": "local/braila/faurei/2020/55",
+   "short": "HCL Făurei nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 55/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-55-2020/",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-55-din-10.11.2020.pdf",
+     "sha256": "03785225004cde21ccf1d45df1490bf6c026df9564143101d9958b1d9634f5ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-56-2020",
+   "path": "local/braila/faurei/2020/56",
+   "short": "HCL Făurei nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 56/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-56-2020/",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-56-din-10.11.2020.pdf",
+     "sha256": "5301c3bb6677ef5a2d6621c1ec04d2f0a763fe806b7e706cc2e419cd9e449ff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-57-2020",
+   "path": "local/braila/faurei/2020/57",
+   "short": "HCL Făurei nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 57/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-57-2020/",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-57-din-10.11.2020.pdf",
+     "sha256": "82d32c0e7858e54a5e4abf92d0166dfee25e1089d569f59c8766483958609d35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-58-2020",
+   "path": "local/braila/faurei/2020/58",
+   "short": "HCL Făurei nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 58/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-58-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-58-din-26.11.2020.pdf",
+     "sha256": "1628d06e5985007b553885985660e1541518fdff93caa4b497f906c3e8612e72"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--faurei-59-2020",
    "path": "local/braila/faurei/2020/59",
    "short": "HCL Făurei nr. 59/2020",
@@ -44,6 +779,216 @@
      "units": 1,
      "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-59-din-26.11.2020.pdf",
      "sha256": "408c257b4981ddd1a34bcf841818a264dfe035d715217718d714f1c73bdceffe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-6-2020",
+   "path": "local/braila/faurei/2020/6",
+   "short": "HCL Făurei nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 6/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-6-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-6-din-29.01.2020.pdf",
+     "sha256": "3d38efc86b4f25361460f142a1373e95a75ac44140a841eeb06a87d9938cc623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-60-2020",
+   "path": "local/braila/faurei/2020/60",
+   "short": "HCL Făurei nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 60/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-60-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-60-din-26.11.2020.pdf",
+     "sha256": "cdb12c7644e4a2c274456397203e803170eb5bb84097dc2d7a0867bbca6f7dde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-61-2020",
+   "path": "local/braila/faurei/2020/61",
+   "short": "HCL Făurei nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 61/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-61-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-61-din-26.11.2020.pdf",
+     "sha256": "ee7709fb8d20998013f601ec89c0a0b3500871b64d133f6b27994d6df5fe1149"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-62-2020",
+   "path": "local/braila/faurei/2020/62",
+   "short": "HCL Făurei nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 62/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-62-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-62-din-26.11.2020.pdf",
+     "sha256": "1b707a8cd7d0e39d2903f4a827b97bb01057f0f6141e6772a86f7fc21464dda1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-63-2020",
+   "path": "local/braila/faurei/2020/63",
+   "short": "HCL Făurei nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 63/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-63-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-63-din-26.11.2020.pdf",
+     "sha256": "8c4dff59a292b9d8a514f60b0979c64a922067f89863d59f334d5a9638811494"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-64-2020",
+   "path": "local/braila/faurei/2020/64",
+   "short": "HCL Făurei nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 64/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-64-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-64-din-26.11.2020.pdf",
+     "sha256": "44d6ee7fe2b02f30cd020b94b6f7c39ef4215ad21c34443f3e01f01b37aa1306"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-65-2020",
+   "path": "local/braila/faurei/2020/65",
+   "short": "HCL Făurei nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 65/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-65-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-65-din-26.11.2020.pdf",
+     "sha256": "ea122f6abc7e48c96c2919d0f05ef20a0f50c9a90c86b078ea4a1e41b466554d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-66-2020",
+   "path": "local/braila/faurei/2020/66",
+   "short": "HCL Făurei nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 66/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-66-2020/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-66-din-26.11.2020.pdf",
+     "sha256": "cba48c8694870a4c4e1fb27e012286f1b8bd07cf74fe84ec320cf03238e29085"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-67-2020",
+   "path": "local/braila/faurei/2020/67",
+   "short": "HCL Făurei nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 67/2020",
+   "url": "https://orasulfaurei.ro/monitorul-oficial-local/bugetul-local/bugetul-local-si-situatii-financiare-pe-anul-2020/",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-67-din-14.12.2020.pdf",
+     "sha256": "426fc71d954fdf08ddb98dc885ab2cb293b386fcc61530c07d19edec39f58f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-68-2020",
+   "path": "local/braila/faurei/2020/68",
+   "short": "HCL Făurei nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 68/2020 privind aprobarePalanuluilucr6rilor9iactivitdlilorpropusea serealizain anul2021cu beneficiariLi egii nr. 416120019ciupdrin{iiapfidemuncdai copiilor daliin plasamenctonformLegiinr.27212004 ConsiliulLocal al OraguluFi durei,intrunitin gedinleordinardla datade 23 decembrie 2020; Avind in vedere: F Referatulde aprobareintocmit deprimaruloragului; } Raportul nr. 7336109.12.202a0l doamneiToma Georgeta",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-68-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-68-din-23.12.2020.pdf",
+     "sha256": "242c479030e79d5a97b65669c28ccb0c5edfe3e40a631a88d4ea98d868875ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-69-2020",
+   "path": "local/braila/faurei/2020/69",
+   "short": "HCL Făurei nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 69/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-69-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-69-din-23.12.2020.pdf",
+     "sha256": "a89498b7295304a0f99865604ff41db79516ad28e8bd6a557e8095e029f4d585"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-70-2020",
+   "path": "local/braila/faurei/2020/70",
+   "short": "HCL Făurei nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 70/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-70-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-70-din-23.12.2020.pdf",
+     "sha256": "149c5bd73c17a61cd7e280cd9fe488461407d6ebec0a2d4c046e51601e207c8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-71-2020",
+   "path": "local/braila/faurei/2020/71",
+   "short": "HCL Făurei nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 71/2020",
+   "url": "https://orasulfaurei.ro/monitorul-oficial-local/bugetul-local/bugetul-local-si-situatii-financiare-pe-anul-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-71-din-23.12.2020.pdf",
+     "sha256": "bf3df41ea37d8f5045c8310aeb8095d0b5d77438f43e49afe7f71cbd3579bada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-72-2020",
+   "path": "local/braila/faurei/2020/72",
+   "short": "HCL Făurei nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 72/2020",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-72-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-72-din-23.12.2020.pdf",
+     "sha256": "76873979d8f0d42714a3eabbf36eb27a1123561e52a091c7ab423ac331bd95b0"
     }
    ]
   }

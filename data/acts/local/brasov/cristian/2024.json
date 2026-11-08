@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/cristian/2024",
+"acts": [
+{
+"slug": "hcl-brasov--cristian-134-2024",
+"path": "local/brasov/cristian/2024/134",
+"kind": "local",
+"year": "2024",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristian nr. 134/2024 privind aprobarea Regulamentului de Organizare și Functionare a Consiliului Local al comunei Cristian, județul Brașov Consiliul Local al comunei Cristian întrunit în ședință ordinară la data de 27.11.2024; Analizând temeiurile juridice: a) art. 15 alin. (2), art. 120, art. 121, alin. (1) si alin. (2) din Constituția României, republicată; b) art. 7 alin. (2) din Codul Civil al României, adoptat pr",
+"short": "HCL Cristian nr. 134/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://primariacristian.ro/",
+"council": "brasov/cristian",
+"council_name": "Consiliul Local al Comunei Cristian",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

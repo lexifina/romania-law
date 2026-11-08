@@ -45,6 +45,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-brasov--brasov-852-2024",
+"path": "local/brasov/brasov/2024/852",
+"kind": "local",
+"year": "2024",
+"number": "852",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brașov nr. 852/2024 pentru realizarea obiectivului de investiții de utilitate publică locală \"Modernizare Calea Feldioarei - amenajare sens GIRATORIU intersecția cu str. Fântânii”; Consiliul Local al Municipiului Brașov, întrunit în ședință ordinară, azi 23 decembrie 2024; Având în vedere: - Referatul de aprobare nr. 177.517 din 10.12.2024 al Primarului Municipiului Brașov, în calitate de inițiator; - HCL. nr. 155/27",
+"short": "HCL Brașov nr. 852/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://www.brasovcity.ro/monitorul-oficial-local/alte-documente",
+"council": "brasov/brasov",
+"council_name": "Consiliul Local al Municipiului Brașov",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

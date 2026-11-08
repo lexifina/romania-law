@@ -577,6 +577,51 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-27-2025",
+"path": "local/braila/chiscani/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 27/2025",
+"short": "HCL Chiscani nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/196622",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--chiscani-28-2025",
+"path": "local/braila/chiscani/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 28/2025 privind desemnarea consilierilor locali care sa faca parte din comisia de evaluare a performantelor profesionale individuale ale Secretarului General al com. Chiscani pentru anul 2024",
+"short": "HCL Chiscani nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/196623",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--chiscani-29-2025",
 "path": "local/braila/chiscani/2025/29",
 "kind": "local",
@@ -662,6 +707,29 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-33-2025",
+"path": "local/braila/chiscani/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 33/2025",
+"short": "HCL Chiscani nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-15",
+"latest": "2025-05-15",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/207560",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1281,6 +1349,52 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-62-2025",
+"path": "local/braila/chiscani/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 62/2025",
+"short": "HCL Chiscani nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/211839",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--chiscani-63-2025",
+"path": "local/braila/chiscani/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 63/2025",
+"short": "HCL Chiscani nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/211840",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-64-2025",
 "path": "local/braila/chiscani/2025/64",
 "kind": "local",
@@ -1300,6 +1414,52 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--chiscani-65-2025",
+"path": "local/braila/chiscani/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 65/2025",
+"short": "HCL Chiscani nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/211842",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--chiscani-66-2025",
+"path": "local/braila/chiscani/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 66/2025",
+"short": "HCL Chiscani nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/211843",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1433,6 +1593,29 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--chiscani-73-2025",
+"path": "local/braila/chiscani/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 73/2025",
+"short": "HCL Chiscani nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/216013",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1724,6 +1907,50 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-87-2025",
+"path": "local/braila/chiscani/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 87/2025 privind alocarea sumei de 138.324,11 lei Parohiei Lacu Sarat ca urmare a aplicarii criteriilor de evaluare prevazute in regulamentul aprobat prin HCL nr. 68 din 28.05.2025 privind sprijinul financiar pentru unitatile de cult din com. Chiscani cu modificarile si completarile aduse prin HCL nr. 75 din 26.06.2025",
+"short": "HCL Chiscani nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/218449",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--chiscani-88-2025",
+"path": "local/braila/chiscani/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 88/2025 privind alocarea sumei de 50.000 lei Bisericii Penticostale Betel Chiscani ca urmare a aplicarii criteriilor de evaluare prevazute in regulamentul aprobat prin HCL nr. 68 din 28.05.2025 privind sprijinul financiar pentru unitatile de cult din com. Chiscani cu modificarile si completarile aduse prin HCL nr. 75 din 26.06.2025",
+"short": "HCL Chiscani nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-11",
+"latest": "2025-08-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/218450",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--chiscani-89-2025",
 "path": "local/braila/chiscani/2025/89",
 "kind": "local",
@@ -2011,6 +2238,28 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-102-2025",
+"path": "local/braila/chiscani/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 102/2025 privind desemnarea reprezentantilor Consiliului Local Chiscani in Consiliul de Administratie si Comisia pentru Evaluarea si Asigurarea Calitatii in cadrul Școlii Gimnaziale Chiscani in anul școlar 2025-2026",
+"short": "HCL Chiscani nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/228998",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--chiscani-103-2025",
 "path": "local/braila/chiscani/2025/103",
 "kind": "local",
@@ -2052,6 +2301,29 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-105-2025",
+"path": "local/braila/chiscani/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 105/2025",
+"short": "HCL Chiscani nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/229001",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2340,6 +2612,29 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-119-2025",
+"path": "local/braila/chiscani/2025/119",
+"kind": "local",
+"year": "2025",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 119/2025",
+"short": "HCL Chiscani nr. 119/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/240065",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

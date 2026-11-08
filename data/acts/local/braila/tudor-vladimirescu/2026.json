@@ -138,6 +138,28 @@
 }
 },
 {
+"slug": "hcl-braila--tudor-vladimirescu-7-2026",
+"path": "local/braila/tudor-vladimirescu/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 7/2026 privind schimbarea destinației imobilului situat în Comuna Tudor Vladimirescu, sat Comaneasca, str. Scolii, nr.1, din spaţiu pentru învăţământ, în spaţiu cu altă destinaţie",
+"short": "HCL Tudor Vladimirescu nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/tudorvladimirescu-br/registru-hcl/257932",
+"council": "braila/tudor-vladimirescu",
+"council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--tudor-vladimirescu-8-2026",
 "path": "local/braila/tudor-vladimirescu/2026/8",
 "kind": "local",
@@ -493,6 +515,28 @@
 }
 },
 {
+"slug": "hcl-braila--tudor-vladimirescu-24-2026",
+"path": "local/braila/tudor-vladimirescu/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 24/2026 privind numirea reprezentanţilor Consiliului Local în Comisia de analiză, în baza Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personale",
+"short": "HCL Tudor Vladimirescu nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-16",
+"latest": "2026-04-16",
+"portal": "https://emol.ro/tudorvladimirescu-br/registru-hcl/262577",
+"council": "braila/tudor-vladimirescu",
+"council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--tudor-vladimirescu-25-2026",
 "path": "local/braila/tudor-vladimirescu/2026/25",
 "kind": "local",
@@ -669,6 +713,29 @@
 "council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--tudor-vladimirescu-33-2026",
+"path": "local/braila/tudor-vladimirescu/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 33/2026",
+"short": "HCL Tudor Vladimirescu nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-08",
+"latest": "2026-06-08",
+"portal": "https://emol.ro/tudorvladimirescu-br/registru-hcl/270247",
+"council": "braila/tudor-vladimirescu",
+"council_name": "Consiliul Local al Comunei Tudor Vladimirescu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,28 @@
 "shard": "local/braila/silistea/2024",
 "acts": [
 {
+"slug": "hcl-braila--silistea-1-2024",
+"path": "local/braila/silistea/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 1/2024 privind alegerea președintelui de ședință pentru perioada ianuarie-martie 2024",
+"short": "HCL Siliștea nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/162735",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-2-2024",
 "path": "local/braila/silistea/2024/2",
 "kind": "local",
@@ -44,6 +66,74 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-4-2024",
+"path": "local/braila/silistea/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 4/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalului contractual din aparatul de specialitate al Primarului comunei Siliștea, și stabilirea cuantumului indemnizației consilierilor locali acordate începând cu data de 1.01.2024",
+"short": "HCL Siliștea nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/162738",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-5-2024",
+"path": "local/braila/silistea/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 5/2024",
+"short": "HCL Siliștea nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/162739",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-6-2024",
+"path": "local/braila/silistea/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 6/2024",
+"short": "HCL Siliștea nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/162740",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -91,6 +181,50 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-9-2024",
+"path": "local/braila/silistea/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 9/2024 privind aprobarea decontării contravalorii cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Siliștea, județul Brăila",
+"short": "HCL Siliștea nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/162743",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-10-2024",
+"path": "local/braila/silistea/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 10/2024 privind aprobarea inventarierii materiei impozabile pentru anul fiscal 2024",
+"short": "HCL Siliștea nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/162744",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-11-2024",
 "path": "local/braila/silistea/2024/11",
 "kind": "local",
@@ -132,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-13-2024",
+"path": "local/braila/silistea/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 13/2024 privind acordarea unui mandat special pentru a vota în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ”ECO DUNĂREA” Brăila pentru aprobarea Actelor Adiționale la Contractele de delegare din cadrul Proiectului Sistem de management Integrat al Deșeurilor în Județul Brăila și a tarifelor serviciilor conexe serviciului de salubrizare a localităților",
+"short": "HCL Siliștea nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-18",
+"latest": "2024-07-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/162751",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +423,118 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-20-2024",
+"path": "local/braila/silistea/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 20/2024",
+"short": "HCL Siliștea nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175835",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-21-2024",
+"path": "local/braila/silistea/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 21/2024",
+"short": "HCL Siliștea nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175838",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-22-2024",
+"path": "local/braila/silistea/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 22/2024 privind aprobarea dezlipirii unui teren intravilan aflat în domeniul privat al comunei Siliștea",
+"short": "HCL Siliștea nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175839",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-23-2024",
+"path": "local/braila/silistea/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 23/2024 privind aprobarea dezlipirii unui teren intravilan aflat în doemniul privat al comunei Siliștea",
+"short": "HCL Siliștea nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175840",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-24-2024",
+"path": "local/braila/silistea/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 24/2024 privind aprobarea Planului de Analiză și acoperire a Riscurilor din zona de competență a Comitetului Local pentru situații de Urgență al Comunei Siliștea, actualizat, pentru anul 2024",
+"short": "HCL Siliștea nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175843",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-25-2024",
 "path": "local/braila/silistea/2024/25",
 "kind": "local",
@@ -289,6 +557,72 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-26-2024",
+"path": "local/braila/silistea/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 26/2024 privind aprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelul de contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 754 mp, situat în intravilanul localității Siliștea, str. Unirii, nr. 54, comuna siliștea, înscris în CF nr. 75964 Siliștea",
+"short": "HCL Siliștea nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175845",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-27-2024",
+"path": "local/braila/silistea/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 27/2024 privind aprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 3.569 mp, situat în intravilanul localității Mărtăcești, str. Argeș, comuna Siliștea, înscris în CF nr. 76647 Siliștea",
+"short": "HCL Siliștea nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175850",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-28-2024",
+"path": "local/braila/silistea/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 28/2024 privind aprobarea asocierii Comunei Silștea, prin Consiliul Local Siliștea cu județul Brăila, prin Consiliul Județean Brăila, pentru cofinanțarea și realizarea lucrărilor de ''Amenajare teren tenis și loc de joacă, sat Cotu Lung, comuna Siliștea, județul Brăila''",
+"short": "HCL Siliștea nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175851",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-29-2024",
 "path": "local/braila/silistea/2024/29",
 "kind": "local",
@@ -308,6 +642,28 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-30-2024",
+"path": "local/braila/silistea/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 30/2024 privind aprobarea scoaterii din funcțiune și casarea unui mijloc fix din patrimoniul Unității Administrativ Teritoriale Siliștea, județul Brăila",
+"short": "HCL Siliștea nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175853",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -355,6 +711,28 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-33-2024",
+"path": "local/braila/silistea/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 33/2024 privind alegerea președintelui de ședință",
+"short": "HCL Siliștea nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175862",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-34-2024",
 "path": "local/braila/silistea/2024/34",
 "kind": "local",
@@ -374,6 +752,405 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-35-2024",
+"path": "local/braila/silistea/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 35/2024",
+"short": "HCL Siliștea nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175864",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-36-2024",
+"path": "local/braila/silistea/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 36/2024 privind aprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 631 mp, situat în întravilanul localității Siliștea, str. Principală, comuna Siliștea, înscris în CF nr. 75915 Siliștea",
+"short": "HCL Siliștea nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175865",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-37-2024",
+"path": "local/braila/silistea/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 37/2024 privind aprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 10.107 mp, situat în extravilanul localității Siliștea, înscris în CF nr. 77927 Siliștea",
+"short": "HCL Siliștea nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175866",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-38-2024",
+"path": "local/braila/silistea/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 38/2024 privind aprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 5.365 mp, situat în extravilanul localității Siliștea, înscris în CF nr. 83931 Siliștea",
+"short": "HCL Siliștea nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175867",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-39-2024",
+"path": "local/braila/silistea/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 39/2024 privind aprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 1.319 mp, situat în intravilanul localității Siliștea, str. Vrancei, nr. 6, comuna Siliștea, înscris în CF nr. 77196 Siliștea",
+"short": "HCL Siliștea nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175868",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-40-2024",
+"path": "local/braila/silistea/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 40/2024 privind aprobarea Planului pentru asigurarea cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență în anul 2024",
+"short": "HCL Siliștea nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175870",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-41-2024",
+"path": "local/braila/silistea/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 41/2024 privind retragerea drepului de folosință a unui teren atribuit în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+"short": "HCL Siliștea nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175873",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-42-2024",
+"path": "local/braila/silistea/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 42/2024 privind acordarea unor mandate speciale pentru a vota în Adunarea Generală a Asociației de Dezvoltare Intercomunitar ''ECO DUNĂREA'' Brăila pentru aprobarea Actului Adițional nr. 2 la Contractul de delegare nr. 302/27.02.2023 încheiat cu TRACON SRL București",
+"short": "HCL Siliștea nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175878",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-43-2024",
+"path": "local/braila/silistea/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 43/2024 privind aprobarea proiectului de contract de prestări servicii pentru mentenanța rețelelor de iluminat public",
+"short": "HCL Siliștea nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175879",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-44-2024",
+"path": "local/braila/silistea/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 44/2024 privind aprobarea încheierii protocolului de cooperare între Consiliul Județean Brăila și UAT Comuna Siliștea având ca obiect finanțarea Planului Urbanistic General al comunei",
+"short": "HCL Siliștea nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175880",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-45-2024",
+"path": "local/braila/silistea/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 45/2024 privind retragerea dreptului de folosință a unui teren atribuit în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+"short": "HCL Siliștea nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175881",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-46-2024",
+"path": "local/braila/silistea/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 46/2024",
+"short": "HCL Siliștea nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175882",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-47-2024",
+"path": "local/braila/silistea/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 47/2024 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului comunei Siliștea",
+"short": "HCL Siliștea nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-11",
+"latest": "2024-11-11",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175883",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-48-2024",
+"path": "local/braila/silistea/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 48/2024 privind rectificarea bugetului local pe anul 2024",
+"short": "HCL Siliștea nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175897",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-49-2024",
+"path": "local/braila/silistea/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 49/2024 privind transformarea unui post aferent unei funcții publice de execuție din cadrul aparatului de specialitate al Instituției Primarului comunei Siliștea",
+"short": "HCL Siliștea nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175898",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-50-2024",
+"path": "local/braila/silistea/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 50/2024 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al Primarului comunei Siliștea, și stabilirea cuantumului indemnizației consilierilor locali acordate începând cu luna iulie 2024",
+"short": "HCL Siliștea nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175899",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-51-2024",
+"path": "local/braila/silistea/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 51/2024 privind sprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 330 mp, situat în intravilanul localității Siliștea, str. Suceviței, comuna Siliștea, înscris în CF nr. 83392 Siliștea",
+"short": "HCL Siliștea nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175900",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-52-2024",
+"path": "local/braila/silistea/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 52/2024",
+"short": "HCL Siliștea nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175901",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -421,6 +1198,297 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-55-2024",
+"path": "local/braila/silistea/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 55/2024 privind aprobarea asocierii Comunei Siliștea, prin Consiliul Local Siliștea cu județul Brăila, prin Consiliul Județean Brăila, pentru cofinanțarea și realizarea lucrărilor de ''Amenajare teren tenis și loc de joacă, sat Cotu Lung, comuna Siliștea, județul Brăila''",
+"short": "HCL Siliștea nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175944",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-56-2024",
+"path": "local/braila/silistea/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 56/2024 privind alegerea președintelui de ședință pentru perioada august-octombrie 2024",
+"short": "HCL Siliștea nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175957",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-57-2024",
+"path": "local/braila/silistea/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 57/2024",
+"short": "HCL Siliștea nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175965",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-58-2024",
+"path": "local/braila/silistea/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 58/2024",
+"short": "HCL Siliștea nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175966",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-59-2024",
+"path": "local/braila/silistea/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 59/2024 privind aprobarea vânzării prin licitație publică a unui imobil-teren în suprafață de 717 mp situat în intravilanul comunei Siliștea, str. Unirii, înscris în CF nr. 76198 proprietate privată a comunei Siliștea, județul Brăila",
+"short": "HCL Siliștea nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175972",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-60-2024",
+"path": "local/braila/silistea/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 60/2024 privind sprobarea Studiului de oportunitate, caietului de sarcini, a formularelor și modelelor de documente pentru participarea la licitație și modelului de contract de concesiune, în vederea concesionării prin licitație publică a terenului aparținând domeniului privat al comunei Siliștea, jud. Brăila, în suprafață de 258 mp, situat în intravilanul localității Mărtăcești, str. Principală, comuna Siliștea, înscris în CF nr. 76977 Siliștea",
+"short": "HCL Siliștea nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175973",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-61-2024",
+"path": "local/braila/silistea/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 61/2024",
+"short": "HCL Siliștea nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175975",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-62-2024",
+"path": "local/braila/silistea/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 62/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Siliștea, trimestrul III pe anul 2024",
+"short": "HCL Siliștea nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175977",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-63-2024",
+"path": "local/braila/silistea/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 63/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ''Reabilitare străzi în satele Mărtăcești, Siliștea, Cotu Lung, Cotu Mihalea, Comuna Siliștea, județul Brăila'', aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Siliștea nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/175996",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-64-2024",
+"path": "local/braila/silistea/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 64/2024 privind aprobarea asocierii Comunei Siliștea, prin Consiliul Local Siliștea cu județul Brăila, prin Consiliul Județean Brăila, pentru cofinanțarea și realizarea lucrărilor de ''Amenajare teren tenis și loc de joacă, sat Cotu Lung, comuna Siliștea, județul Brăila''",
+"short": "HCL Siliștea nr. 64/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/silistea-br/registru-hcl/176026",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-65-2024",
+"path": "local/braila/silistea/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 65/2024",
+"short": "HCL Siliștea nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-02",
+"latest": "2024-12-02",
+"portal": "https://emol.ro/silistea-br/registru-hcl/178412",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-66-2024",
+"path": "local/braila/silistea/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 66/2024",
+"short": "HCL Siliștea nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-02",
+"latest": "2024-12-02",
+"portal": "https://emol.ro/silistea-br/registru-hcl/178413",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-67-2024",
+"path": "local/braila/silistea/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 67/2024 privind aprobarea măsurilor necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme a deșeurilor de pe raza UAT Siliștea",
+"short": "HCL Siliștea nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-02",
+"latest": "2024-12-02",
+"portal": "https://emol.ro/silistea-br/registru-hcl/178415",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-68-2024",
 "path": "local/braila/silistea/2024/68",
 "kind": "local",
@@ -443,6 +1511,28 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-69-2024",
+"path": "local/braila/silistea/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 69/2024 privind alegerea președintelui de ședință pentru perioada noiembrie 2024 - ianuarie 2025",
+"short": "HCL Siliștea nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/183068",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-70-2024",
 "path": "local/braila/silistea/2024/70",
 "kind": "local",
@@ -462,6 +1552,50 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-71-2024",
+"path": "local/braila/silistea/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 71/2024 privind alegerea viceprimarului comunei Siliștea, jud. Brăila",
+"short": "HCL Siliștea nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/183070",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--silistea-72-2024",
+"path": "local/braila/silistea/2024/72",
+"kind": "local",
+"year": "2024",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 72/2024 privind aprobarea Regulamentului de Organizare și funcționare al Consiliului local al comunei Siliștea, județul Brăila",
+"short": "HCL Siliștea nr. 72/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/silistea-br/registru-hcl/183071",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

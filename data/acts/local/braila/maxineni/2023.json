@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-3-2023",
+"path": "local/braila/maxineni/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 3/2023 privind aprobarea Planului local de acțiune pentru protecția apelor împotriva poluării cu nitrați din surse agricole pentru anul 2023",
+"short": "HCL Măxineni nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124558",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-4-2023",
 "path": "local/braila/maxineni/2023/4",
 "kind": "local",
@@ -66,6 +88,72 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-5-2023",
+"path": "local/braila/maxineni/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 5/2023 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2023, ce vor fi excutate de către beneficiarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+"short": "HCL Măxineni nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124560",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-6-2023",
+"path": "local/braila/maxineni/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 6/2023 privind modificarea și completarea inventarului bunurilor care aparțin domeniului privat al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124561",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-7-2023",
+"path": "local/braila/maxineni/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 7/2023 privind aprobarea Organigramei și Statului de funcții al aparatului de specialitate al primarului comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124562",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-9-2023",
+"path": "local/braila/maxineni/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 9/2023 privind utilizarea excedentului anului 2022 în suma de 1405000 lei pentru acoperirea deficitului secțiunii de dezvoltare din anul 2023",
+"short": "HCL Măxineni nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124564",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-10-2023",
 "path": "local/braila/maxineni/2023/10",
 "kind": "local",
@@ -113,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-11-2023",
+"path": "local/braila/maxineni/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 11/2023 privind aprobarea Programului anual al achizițiilor publice pe anul 2023",
+"short": "HCL Măxineni nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124566",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-12-2023",
 "path": "local/braila/maxineni/2023/12",
 "kind": "local",
@@ -132,6 +264,50 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-13-2023",
+"path": "local/braila/maxineni/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 13/2023 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124570",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-14-2023",
+"path": "local/braila/maxineni/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 14/2023 privind aprobarea documentației privind delegarea Serviciului pentru gestionarea câinilor fără stăpân la nivelul unității administrativ-teritoriale comuna Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124571",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +443,161 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-21-2023",
+"path": "local/braila/maxineni/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 21/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale pentru anul 2023",
+"short": "HCL Măxineni nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124584",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-22-2023",
+"path": "local/braila/maxineni/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 22/2023 privind aprobarea contractului de acordare de servicii sociale încheiat între primăria Comunei Măxineni și Asociația Grande center Senior, privind serviciile soaciale acordate numitei panait Mandica",
+"short": "HCL Măxineni nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124585",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-23-2023",
+"path": "local/braila/maxineni/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 23/2023 privind aprobarea regulamentului de instituire și administrare a taxei de salubrizare în Comuna Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124586",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-24-2023",
+"path": "local/braila/maxineni/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 24/2023",
+"short": "HCL Măxineni nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124587",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-25-2023",
+"path": "local/braila/maxineni/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 25/2023 privind aprobarea situațiilor financiare la data de 31.12.2022 la SC Amenajare și întreținere comunală Măxineni SRL",
+"short": "HCL Măxineni nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124588",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-26-2023",
+"path": "local/braila/maxineni/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 26/2023 privind rectificarea bugetului local al comunei Măxineni pe anul 2023",
+"short": "HCL Măxineni nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124589",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-27-2023",
+"path": "local/braila/maxineni/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 27/2023 privind acordul de principiu al Consiliului local Măxineni la solicitarea PNE RO SUNLIGHT 6 SRL în vederea schimbării categoriei de folosință din arabil extravilan în pășune extravilan a suprafeței de 92,2 ha situat în extravilanul comunei Măxineni, județul Brăila, în tarla 110, parcela 1527, suprafata ce face obiectul contractului de concesiune nr. 6974 din data de 02.11.2022",
+"short": "HCL Măxineni nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124590",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-28-2023",
 "path": "local/braila/maxineni/2023/28",
 "kind": "local",
@@ -308,6 +639,28 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-30-2023",
+"path": "local/braila/maxineni/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 30/2023 privind darea de bunuri- utilaje, în folosință gratuită către SC ''Amenajare și Întreținere Comunală Măxineni, SRL''",
+"short": "HCL Măxineni nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124593",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -421,6 +774,95 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-36-2023",
+"path": "local/braila/maxineni/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 36/2023 privind aprobarea închirierii prin atribuire directă a terenurilor agricole disponibile, în vederea pășunării, aflate în proprietatea privată a comunei Măxineni",
+"short": "HCL Măxineni nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124606",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-37-2023",
+"path": "local/braila/maxineni/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 37/2023 privind închirierea prin licitație pubcliă,a unei suprafețe totale de 100,335375 ha teren arabil situață în extravilanul comunei Măxineni, județul Brăila, amplasată conform anexa",
+"short": "HCL Măxineni nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124607",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-38-2023",
+"path": "local/braila/maxineni/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 38/2023",
+"short": "HCL Măxineni nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124608",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-39-2023",
+"path": "local/braila/maxineni/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 39/2023 privind aprobarea planului anual de pregătire profesională a aparatului de specialitate al primarului comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124609",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-40-2023",
 "path": "local/braila/maxineni/2023/40",
 "kind": "local",
@@ -440,6 +882,50 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-41-2023",
+"path": "local/braila/maxineni/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 41/2023 privind stabilirea salariilor de bază ce se vor acorda începând cu luna aprilie 2023 funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124611",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-42-2023",
+"path": "local/braila/maxineni/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 42/2023 privind aprobarea includerii în inventarul bunurilor ce aparțin domeniului privat al comunei Măxineni, județul Brăila, a autoturismului marca Dacia Logan, nr. de înmatriculare b 97 BIW",
+"short": "HCL Măxineni nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124612",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -509,6 +995,72 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-46-2023",
+"path": "local/braila/maxineni/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 46/2023 privind aprobarea Organigramei și Statului de funcții al aparatului de specialitate al primarului comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124618",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-47-2023",
+"path": "local/braila/maxineni/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 47/2023 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124620",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-48-2023",
+"path": "local/braila/maxineni/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 48/2023 privind stabilirea datei pentru organizarea zilei Comunei Măxineni, județul Brăila, în anul2 023",
+"short": "HCL Măxineni nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124621",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-49-2023",
 "path": "local/braila/maxineni/2023/49",
 "kind": "local",
@@ -575,6 +1127,28 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-52-2023",
+"path": "local/braila/maxineni/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 52/2023 privind avizarea modificării și completării Regulamentului Serviciului de Alimentare cu Apă și de Canalizare - Actualizat - aprobat prin Hotărârea nr. 2 din 26.03.2018 a Adunării Generale a Asociației și a formei actualizate a acestuia",
+"short": "HCL Măxineni nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124625",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-53-2023",
 "path": "local/braila/maxineni/2023/53",
 "kind": "local",
@@ -616,6 +1190,28 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-55-2023",
+"path": "local/braila/maxineni/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 55/2023 privind aprobarea dezmembrării terenului în suprafață de 922000 mp, număr cadastral 79558, Carte Funciară nr. 79558",
+"short": "HCL Măxineni nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124635",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -685,6 +1281,539 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-59-2023",
+"path": "local/braila/maxineni/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 59/2023",
+"short": "HCL Măxineni nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124639",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-60-2023",
+"path": "local/braila/maxineni/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 60/2023 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124863",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-61-2023",
+"path": "local/braila/maxineni/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 61/2023 privind rectificarea bugetului local al comunei Măxineni pe anul 2023",
+"short": "HCL Măxineni nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124864",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-62-2023",
+"path": "local/braila/maxineni/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 62/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziția produselor aferente programului și contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, pentru perioada august 2023 - iulie 2029 în cadrul Programului pentru școli al României",
+"short": "HCL Măxineni nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124865",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-63-2023",
+"path": "local/braila/maxineni/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 63/2023 privind aprobarea Regulamentului de înființare parc industrial în comuna Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124866",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-64-2023",
+"path": "local/braila/maxineni/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 64/2023 privind atribuirea în folosință gratuită a suprafeței neconstruite de 112 mp, Punctului de lucru Măxineni, situat în comuna Măxineni, str. Administrației, nr. 53, județul Brăila, pe perioada cât va funcționa Punctul de lucru din cadrul Detașamentului 1 de pompieri Brăila al Inspectoratului pentru Situații de Urgență „Dunărea” al județului Brăila, amplasată la aceeași adresă",
+"short": "HCL Măxineni nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124867",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-65-2023",
+"path": "local/braila/maxineni/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 65/2023 privind aprobarea Caietului de sarcini și Strategia de contractare privind aplicarea procedurii simplificate pentru atribuirea contractului de Execuție lucrări aferente proiectului „Înființare Centru de Colectare Selectivă, prin Aport Voluntar, în Comuna Măxineni, județul Brăila, contract de finanțare nr. C3I1A0122000 122/09.02.2023",
+"short": "HCL Măxineni nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124868",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-66-2023",
+"path": "local/braila/maxineni/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 66/2023",
+"short": "HCL Măxineni nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124869",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-67-2023",
+"path": "local/braila/maxineni/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 67/2023 privind aprobarea Raportului de evaluare pentru estimarea valorii de piață pentru apartamentul situat în sat Măxineni, str. Administrației, nr. 51, sc. 1, etj. 1, cvartal 30, parcela 446, comuna Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124870",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-68-2023",
+"path": "local/braila/maxineni/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 68/2023 privind însușirea inventarului bunurilor aparținând sistemului public de alimentare cu apă și canalizare, aprobarea apartenenței la domeniul public al Comunei Măxineni a Bunurilor de Retur inventariate, aprobarea trecerii din domeniul public în domeniul privat al Comunei Măxineni a unor bunuri, în vederea scoaterii din funcțiune și casării și aprobarea casării acestora",
+"short": "HCL Măxineni nr. 68/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/124871",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-69-2023",
+"path": "local/braila/maxineni/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 69/2023 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/127867",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-70-2023",
+"path": "local/braila/maxineni/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 70/2023",
+"short": "HCL Măxineni nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/127868",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-71-2023",
+"path": "local/braila/maxineni/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 71/2023 privind modificarea și completarea inventarului bunurilor care aparțin domeniului privat al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/127869",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-72-2023",
+"path": "local/braila/maxineni/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 72/2023 privind desemnarea a doi reprezentanți din rândul consilierilor locali ai comunei, în consiliul de administrație al unității de învățământ aparținând comunei Măxineni, județul Brăila, pentru anul școlar 2023-2024",
+"short": "HCL Măxineni nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/127870",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-73-2023",
+"path": "local/braila/maxineni/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 73/2023 privind aprobarea Regulamentului de funcționare a spațiilor de joacă pentru copii și a terenurilor de sport din Comuna Măxineni",
+"short": "HCL Măxineni nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/127871",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-74-2023",
+"path": "local/braila/maxineni/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 74/2023 privind implementarea proiectului “Infiintare platforma comunala TIP PC 4 pentru depozitarea si managementul gunoiului de grajd în comuna MĂXINENI , județul BRĂILA” prin intermediul Programului Național de Redresare și Rezilienta, gestionat de către Ministerul Mediului, Apelor si Padurilor - COMPONENTA C3 - MANAGEMENTUL DEȘEURILOR, Investitia 12. Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deseuri agricole compostabile - Sub-investiția I1.A-B - SISTEME INTEGRATE DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD",
+"short": "HCL Măxineni nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/127872",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-75-2023",
+"path": "local/braila/maxineni/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 75/2023 privind rectificarea bugetului local al comunei Măxineni pe anul 2023",
+"short": "HCL Măxineni nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/127873",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-76-2023",
+"path": "local/braila/maxineni/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 76/2023 privind aprobarea Organigramei și Statului de funcții al aparatului de specialitate al primarului comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151892",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-77-2023",
+"path": "local/braila/maxineni/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 77/2023 privind stabilirea salariilor de bază ce se vor acorda începând cu luna noiembrie 2023 funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al primarului comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151893",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-78-2023",
+"path": "local/braila/maxineni/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 78/2023 privind aprobarea Raportului de evaluare în vederea estimării prețului de superficie/vânzare pentru terenurile intravilane cu o suprafață totală de 170.749 mp, situate în satele Măxineni, Corbu Nou și Latinu din comuna Măxineni, județul Brăila aparținând domeniului privat al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151894",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-79-2023",
+"path": "local/braila/maxineni/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 79/2023",
+"short": "HCL Măxineni nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151895",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-80-2023",
+"path": "local/braila/maxineni/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 80/2023",
+"short": "HCL Măxineni nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151896",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-81-2023",
+"path": "local/braila/maxineni/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 81/2023 privind aprobarea Regulamentului privind procedura de vânzare directă a terenurilor din domeniul privat al Comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151897",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-82-2023",
+"path": "local/braila/maxineni/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 82/2023 privind aprobarea vânzării directe a terenului întravilan, propreitate privată a comunei Măxineni, județul Brăila, în suprafață de 965 mp, înscris în CF 87214, situat pe strada Brazdei, nr. 4, cvartal 11 parcela nr. 218, localitatea Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151898",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-83-2023",
 "path": "local/braila/maxineni/2023/83",
 "kind": "local",
@@ -707,6 +1836,142 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-84-2023",
+"path": "local/braila/maxineni/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 84/2023",
+"short": "HCL Măxineni nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151900",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-85-2023",
+"path": "local/braila/maxineni/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 85/2023",
+"short": "HCL Măxineni nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151901",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-86-2023",
+"path": "local/braila/maxineni/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 86/2023 privind aprobarea includerii teritoriului comunei Măxineni, județul Brăila în zona pescărească ce va fi arie eligibilă a Strategiei de dezvoltare locală a zonei pescărești a județului Brăila pentru perioada de programare 2021-2027",
+"short": "HCL Măxineni nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151902",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-87-2023",
+"path": "local/braila/maxineni/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 87/2023",
+"short": "HCL Măxineni nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151903",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-88-2023",
+"path": "local/braila/maxineni/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 88/2023 privind aprobarea actului adițional nr. 1 la contractul nr. 147/2023 de acordare de servicii sociale încheiat între Primăria Comunei Măxineni și Asociația Grande Center Senior, privind serviciile sociale acordate numitei Panait Mandica",
+"short": "HCL Măxineni nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151904",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-89-2023",
+"path": "local/braila/maxineni/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 89/2023",
+"short": "HCL Măxineni nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151905",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--maxineni-90-2023",
 "path": "local/braila/maxineni/2023/90",
 "kind": "local",
@@ -726,6 +1991,160 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-91-2023",
+"path": "local/braila/maxineni/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 91/2023 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Măxineni începând cu 01 noimebrie 2023 precum și aprobarea statului de funcții și a organigramei în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare",
+"short": "HCL Măxineni nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151907",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-92-2023",
+"path": "local/braila/maxineni/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 92/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Măxineni, județul Brăila, începând cu 01 ianuarie 2024",
+"short": "HCL Măxineni nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151908",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-93-2023",
+"path": "local/braila/maxineni/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 93/2023 privind trecerea bunului imobil ''Sediu Sistem Măxineni, localitatea Măxineni'' Carte funciară nr. 3064/N/Măxineni, cu număr de inventar 10012, valoare de inventar 100412,25 lei, din domeniul public al statului în domeniul public al unității administrativ-teritoriale, Măxineni",
+"short": "HCL Măxineni nr. 93/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151909",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-94-2023",
+"path": "local/braila/maxineni/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 94/2023 privind aprobarea contractării unui împrumut în valoare de 500.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 92/2023 privind aprobarea unor măsuri fiscla-bugetare, prin acordarea unor împrumuturi din Trezoreria Statului",
+"short": "HCL Măxineni nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151910",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-95-2023",
+"path": "local/braila/maxineni/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 95/2023 privind aprobarea înființării și concesionării Serviciului public pentru gestionarea câinilor fără stăpân al UAT Măxineni",
+"short": "HCL Măxineni nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151916",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-96-2023",
+"path": "local/braila/maxineni/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 96/2023 privind modificare art. 3 din HCL nr. 68/23.08.2023 privind însușirea inventarului bunurilor aparținând sistemului public de alimentare cu apă și canalizare, aprobarea apartenenței la domeniul public al Comunei Măxineni a Bunurilor de Retr inventariate, aprobarea trecerii din domeniul public în domeniul privat al Comunei Măxineni a unor bunuri, în vederea scoaterii din funcțiune și casării și aprobarea casării acestora",
+"short": "HCL Măxineni nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151917",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-97-2023",
+"path": "local/braila/maxineni/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 97/2023 privind Planul de măsuri al Comitetului Local pentru Situații de Urgență Măxineni, pentru asisgurarea deșfășurării în condiții de normalitate a activităților în sezonul rece 2023-2024 și pe timpul sărbătorilor de iarnă",
+"short": "HCL Măxineni nr. 97/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/151918",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

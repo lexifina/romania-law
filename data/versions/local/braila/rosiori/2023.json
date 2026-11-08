@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/braila/rosiori/2023",
+ "acts": [
+  {
+   "slug": "hcl-braila--rosiori-72-2023",
+   "path": "local/braila/rosiori/2023/72",
+   "short": "HCL Roșiori nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 72/2023",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-72-din-18.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-72-din-18.12.2023.pdf",
+     "sha256": "d9aa3cc0d5dc327d019afd3769b1726c65b3684eaec414de0aeb81d9579ced5c"
+    }
+   ]
+  }
+ ]
+}

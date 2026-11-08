@@ -179,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-9-2023",
+"path": "local/braila/chiscani/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 9/2023",
+"short": "HCL Chiscani nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/91196",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-10-2023",
 "path": "local/braila/chiscani/2023/10",
 "kind": "local",
@@ -421,6 +444,52 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-21-2023",
+"path": "local/braila/chiscani/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 21/2023",
+"short": "HCL Chiscani nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-10",
+"latest": "2023-03-10",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/94381",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--chiscani-22-2023",
+"path": "local/braila/chiscani/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 22/2023",
+"short": "HCL Chiscani nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-10",
+"latest": "2023-03-10",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/94382",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-23-2023",
 "path": "local/braila/chiscani/2023/23",
 "kind": "local",
@@ -555,6 +624,50 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-29-2023",
+"path": "local/braila/chiscani/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 29/2023 privind desemnarea a doi consilieri locali care sa faca parte din comisia de evaluare a performantelor profesionale individuale ale Secretarului General al com. Chiscani",
+"short": "HCL Chiscani nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/100317",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--chiscani-30-2023",
+"path": "local/braila/chiscani/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 30/2023 privind desemnarea reprezentantului UAT Chiscani in Adunarea Generala a Asociatiei ,,Centrul de Informare si Documentare pentru Integrarea Europeana si Dezvoltarea Durabila,,Braila",
+"short": "HCL Chiscani nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/100318",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--chiscani-31-2023",
 "path": "local/braila/chiscani/2023/31",
 "kind": "local",
@@ -574,6 +687,29 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-32-2023",
+"path": "local/braila/chiscani/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 32/2023",
+"short": "HCL Chiscani nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/100320",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -819,6 +955,29 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-44-2023",
+"path": "local/braila/chiscani/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 44/2023",
+"short": "HCL Chiscani nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/106026",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-45-2023",
 "path": "local/braila/chiscani/2023/45",
 "kind": "local",
@@ -953,6 +1112,74 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-51-2023",
+"path": "local/braila/chiscani/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 51/2023 privind concesionarea prin licitatie publica a unor terenuri proprietate privata a com. Chiscani, jud. Braila categoria de folosinta curti constructii in suprafata de 112 mp, situat in localitatea Chiscani,Statiunea Lacu Sarat, Aleea Parcului, nr. 5C/1, T-68, P-373/5, LOT 1 inscris in CFG. nr. 78997Chiscani, identificat cu nr. cad. 78997 si teren in suprafata de 111 mp situat in localitatea acahiscani, Statiunea Lacu Sarat ,Aleea Parcului , nr. 5C/1, T-68, P-373/5. LOT 2 inscris in CF. nr.78997 Chiscani, identificat cu nr. cad. 78998",
+"short": "HCL Chiscani nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/106041",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--chiscani-52-2023",
+"path": "local/braila/chiscani/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 52/2023",
+"short": "HCL Chiscani nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/106042",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--chiscani-53-2023",
+"path": "local/braila/chiscani/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 53/2023",
+"short": "HCL Chiscani nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/106043",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-54-2023",
 "path": "local/braila/chiscani/2023/54",
 "kind": "local",
@@ -972,6 +1199,51 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--chiscani-55-2023",
+"path": "local/braila/chiscani/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 55/2023 privind acordarea unor facilitati personalului angajat in cadrul aparatului de specialitate al primarului comunei Chiscani",
+"short": "HCL Chiscani nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/108589",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--chiscani-56-2023",
+"path": "local/braila/chiscani/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 56/2023",
+"short": "HCL Chiscani nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-12",
+"latest": "2023-06-12",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/108590",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1017,6 +1289,28 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-59-2023",
+"path": "local/braila/chiscani/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 59/2023 privind concesionarea prin licittatie publica a unui teren proprietate privata a com. Chiscani, jud. Braila , categoria de folosinta neproductiv extravilan in suprafata de 1000mp, situat in T-70, P-390/1, inscris in CF. nr.78638 Chiscani, identificat cu nr. 78638",
+"short": "HCL Chiscani nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/114278",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1108,6 +1402,29 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-64-2023",
+"path": "local/braila/chiscani/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 64/2023",
+"short": "HCL Chiscani nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/114339",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-65-2023",
 "path": "local/braila/chiscani/2023/65",
 "kind": "local",
@@ -1127,6 +1444,28 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-66-2023",
+"path": "local/braila/chiscani/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 66/2023 privind retragerea concesiunii si constatarea desfiintarii de plin drept a contractului de concesiune nr. 93/18.01.2022, ca urmare a renuntatii concesionarului",
+"short": "HCL Chiscani nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/124101",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1174,6 +1513,29 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-69-2023",
+"path": "local/braila/chiscani/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 69/2023",
+"short": "HCL Chiscani nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/124104",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-70-2023",
 "path": "local/braila/chiscani/2023/70",
 "kind": "local",
@@ -1193,6 +1555,29 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-71-2023",
+"path": "local/braila/chiscani/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 71/2023",
+"short": "HCL Chiscani nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/124106",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1237,6 +1622,28 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-74-2023",
+"path": "local/braila/chiscani/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 74/2023 privind desemnarea reprezentantilor Consiliului Local Chiscani în Consiliul de Administrație și Comisia pentru Evaluarea și Asigurarea Calității în cadrul Școlii Gimnaziale Chiscani în anul școlar 2023-2024",
+"short": "HCL Chiscani nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/124130",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1306,6 +1713,29 @@
 }
 },
 {
+"slug": "hcl-braila--chiscani-78-2023",
+"path": "local/braila/chiscani/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 78/2023",
+"short": "HCL Chiscani nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/124181",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--chiscani-79-2023",
 "path": "local/braila/chiscani/2023/79",
 "kind": "local",
@@ -1347,6 +1777,28 @@
 "council_name": "Consiliul Local al Comunei Chiscani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--chiscani-81-2023",
+"path": "local/braila/chiscani/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiscani nr. 81/2023 privind scoaterea la licitatie publica a unui spatiu cu alta destinatie decat aceea de locuinta in suprafata de 58,58 m.p. amplasat pe teren apartinand domeniului public al comunei Chiscani situat in com. Chiscani, Calea Calarasilor , nr. 10K, c4-bl. C, ap. 5 , judetul Braila, in vederea inchirierii acestuia pentru desfasurarea activitati comerciale",
+"short": "HCL Chiscani nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/chiscani-br/registru-hcl/124184",
+"council": "braila/chiscani",
+"council_name": "Consiliul Local al Comunei Chiscani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

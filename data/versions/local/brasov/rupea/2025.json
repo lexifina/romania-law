@@ -3,6 +3,156 @@
  "shard": "local/brasov/rupea/2025",
  "acts": [
   {
+   "slug": "hcl-brasov--rupea-10-2025",
+   "path": "local/brasov/rupea/2025/10",
+   "short": "HCL Rupea nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 10/2025 privind aprobarea bugetului de venituri si cheltuieli al orasului Rupea pe anul 2025",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/10_Hotararea-nr.-10-aprobare-BUGET.pdf",
+     "sha256": "12144a6afc24ff2dfa0eead13814ad870c77a5c54b6c299e6ae4f9c8e94ba514"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-11-2025",
+   "path": "local/brasov/rupea/2025/11",
+   "short": "HCL Rupea nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 11/2025 privind înființarea clubului sportiv ”Club Sportiv Zona Rupea”",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/11_Hotararea-nr.-11-club-sportiv.pdf",
+     "sha256": "f11c5545f3f54bf1850d137df3949c1473a77cc066500f52c20821efbb67ebc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-13-2025",
+   "path": "local/brasov/rupea/2025/13",
+   "short": "HCL Rupea nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 13/2025 privind aprobarea bugetului de venituri si cheltuieli al RPL Ocolul Silvic Padurea Bogatii RA pentru anul 2025",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/13_Hotararea-nr.-13-privind-buget-Ocol-silvic-2025.pdf",
+     "sha256": "510ba362ec5b54a14a9411f2451810263af2c1d4de771993a5177064cd95de42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-14-2025",
+   "path": "local/brasov/rupea/2025/14",
+   "short": "HCL Rupea nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 14/2025 privind aprobarea bugetului de venituri si cheltuieli SC Serviciul Public Rupea SRL pe anul 2025",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/14_Hotararea-nr.-14-privind-aprobare-buget-Serviciul-Public-SRL.pdf",
+     "sha256": "4d9be1d20fec0337d8ea2b3babae6daa5369f8941152da90345d6152749649a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-15-2025",
+   "path": "local/brasov/rupea/2025/15",
+   "short": "HCL Rupea nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 15/2025 pentru aprobarea programului de actiuni comunitare pentru combaterea saraciei si excluziunii sociale",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/15_Hotararea-nr.-15-privind-aprobare-plan-comunitar.pdf",
+     "sha256": "82f1606731e83ceee5b76fff12632c7d7423c89da8bbdb7e2ba10745ae0a8128"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-16-2025",
+   "path": "local/brasov/rupea/2025/16",
+   "short": "HCL Rupea nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 16/2025 pentru aprobarea planului de actiuni si lucrari de interes local",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/16_Hotararea-nr.-16-privind-aprobare-plan-de-actiuni-si-lucrari-de-interes-local.pdf",
+     "sha256": "2b04c0960c4a3f14a5b141786bbfcbf821338f52fa8b2ad9b1a6dc650c946174"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-17-2025",
+   "path": "local/brasov/rupea/2025/17",
+   "short": "HCL Rupea nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 17/2025 privind aprobarea vanzarii prin licitatie publica cu strigare a materialului lemnos",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/17_Hotararea-nr.-17-valorificare-masa-lemnoasa.pdf",
+     "sha256": "0dd6584f02367157c22f5d6597c14dc999ad79a6febdbbf12b00a63b28b07991"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-18-2025",
+   "path": "local/brasov/rupea/2025/18",
+   "short": "HCL Rupea nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 18/2025 Privind darea in administrare Liceului St. O",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/18_hotararea-nr.-18-dare-in-administrare-liceu.pdf",
+     "sha256": "283dcb6ae869245fd02a0255e9ecc8b379b0afbe604971ec0bc16ce442061abc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-19-2025",
+   "path": "local/brasov/rupea/2025/19",
+   "short": "HCL Rupea nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 19/2025 privind asocierea Orașului Rupea în Asociația de dezvoltare intercomunitară “Eco Zona Rupea” - prevederile art.89, art,90, art,91, art. 92 din OUG 57/2019, privind Codul administrativ, cu modificarile si completarile uilterioare",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+     "sha256": "cacccdfd88bea8d1815309bc3f2838b36fd2fd2fa68d014c5f0e1a18b802ae04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-20-2025",
+   "path": "local/brasov/rupea/2025/20",
+   "short": "HCL Rupea nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 20/2025 Privind desemnarea a doi consilieri locali pentru comisia de evaluare a perfomantelor profesionale ale Secretarului General UAT",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/20_Hotararea-nr.-20-desemnare-membri-comisie-evaluare-secretar.pdf",
+     "sha256": "d66935b0edf033c38aa3c1ad8adbe1e783cecccc8d65c938e224e86be6d895f4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-21-2025",
    "path": "local/brasov/rupea/2025/21",
    "short": "HCL Rupea nr. 21/2025",
@@ -14,6 +164,81 @@
      "units": 6,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/21_Hotararea-nr.-21-tarife-salubrizare.pdf",
      "sha256": "92097560773cfd37480c8fb094d2709bfefc57ffaa6a29fb3db395680e07f6db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-22-2025",
+   "path": "local/brasov/rupea/2025/22",
+   "short": "HCL Rupea nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 22/2025 privind aprobarea închirierii prin licitație publică a unui imobil aflat în proprieatea privată a orasului Rupea, a Studiului de opurtunitate, a documentatiei de atribuire şi a modelului cadru a Contractului de inchiriere",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/22_hotararea-nr.-22-inchiriere-imobil-grajd-Tirgului-34A.pdf",
+     "sha256": "a446038799bc30225dd697e6840c9c3dff7d02e9df46840ed7400d5992be8cd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-23-2025",
+   "path": "local/brasov/rupea/2025/23",
+   "short": "HCL Rupea nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 23/2025 privind aprobarea acordarii unui sprijin financiar",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/23_hotararea-nr.-23-privind-acordare-sprijin-financiar-Biserica-Evanghelica.pdf",
+     "sha256": "a5c4212dbe957ed9ecc45d607ec82b7b7ff5c40fd87ec6e4ed073abe483c8270"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-24-2025",
+   "path": "local/brasov/rupea/2025/24",
+   "short": "HCL Rupea nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 24/2025 privind aprobarea închirierii prin licitație publică a unui imobil aflat în proprieatea publică a orasului Rupea, a Studiului de opurtunitate, a documentatiei de atribuire şi a modelului cadru a Contractului de inchiriere",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/24_Hotararea-nr.-24-inchiriere-imobil-gara-Muncii-nr.17A.pdf",
+     "sha256": "e7aa349c0120994bda1a9260a4921dd20f4eef25f5534b8ae099a076bfaf6f77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-25-2025",
+   "path": "local/brasov/rupea/2025/25",
+   "short": "HCL Rupea nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 25/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "078af61e49c7d009fc21d1c902f05c6c5f5bdbc78f683de6e3a34c47f035e8b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-26-2025",
+   "path": "local/brasov/rupea/2025/26",
+   "short": "HCL Rupea nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 26/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d63a50ce80e666e75d8f2374c4e2658ed5e5da99074787086b3226e70daba20f"
     }
    ]
   },
@@ -33,6 +258,66 @@
    ]
   },
   {
+   "slug": "hcl-brasov--rupea-28-2025",
+   "path": "local/brasov/rupea/2025/28",
+   "short": "HCL Rupea nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 28/2025 privind atestarea apatenentei la domeniul public a unor drumuri de exploatare din extravilanul orasului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/28_Hotararea-nr.-28-atestare-apartenentei-la-domeniul-public-a-unor-drumuri-de-exploatare.pdf",
+     "sha256": "2dfa1ba16f21edcc2c76cabaf59639f40566dc764ac332c9ad64fea7e0596f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-29-2025",
+   "path": "local/brasov/rupea/2025/29",
+   "short": "HCL Rupea nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 29/2025 privind alegerea preşedintelui de sedinţă",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/29_hOTARARE-nr.-29-alegere-presedinte.pdf",
+     "sha256": "0af0fa3857c50f107bc497e5a881ffcf3a23526b22c5aef59ed1852aff94f945"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-30-2025",
+   "path": "local/brasov/rupea/2025/30",
+   "short": "HCL Rupea nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 30/2025 Pentru modificarea HCL nr. 65/11.09.2024,modificată prin HCL nr. 5/05.02.2025 privind aprobarea trecerii imobilului teren , inscris in Cartea Funciara nr.100901 Rupea, nr. Cad. 100901 , in suprafata de 15284 mp – categoria de folosinta neproductiv- depozit de deseuri",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/30_hotarare-nr.30-pentru-modificare-HCL-nr.-65-din-2024-COMPLETAT.pdf",
+     "sha256": "0cc8e72c9b02ecd18176adaab58975c11658b27ee82405a670383a7d6b3764bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-32-2025",
+   "path": "local/brasov/rupea/2025/32",
+   "short": "HCL Rupea nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 32/2025 privind aprobarea organizării și desfășurării „Festivalului Cetății Rupea – 2025 în perioada 20iunie-22 iunie 2025",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/32_HOTARARE-nr.32-aprobare-organizare-FESTIVAL-SI-REGULAMENT.pdf",
+     "sha256": "079bf1bfd93b8d10f4a1402c7b958ea903a8ff9cd2f9d42853f07825da296a8f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-34-2025",
    "path": "local/brasov/rupea/2025/34",
    "short": "HCL Rupea nr. 34/2025",
@@ -44,6 +329,126 @@
      "units": 1,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/34_Hotararea-nr.-34-privind-modificare-impozite-si-taxe-locale-2025-taxa-cetate.pdf",
      "sha256": "ab55dff766d47621d687b6184787cf4ddb920e49003887ef70936b43aef36444"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-35-2025",
+   "path": "local/brasov/rupea/2025/35",
+   "short": "HCL Rupea nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 35/2025 privind aprobarea unui acord de parteneriat",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/35_Hotararea-NR.-35-privind-aprobarea-parteneriat-Biserica-evanghelica.pdf",
+     "sha256": "50e62f677708bdf53d5effda3a939f5ee6c86550d8aa351ba41946bc588075e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-36-2025",
+   "path": "local/brasov/rupea/2025/36",
+   "short": "HCL Rupea nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 36/2025 privind aprobarea închirierii prin licitație publică a unui imobil aflat în proprieatea publică a orasului Rupea, a Studiului de opurtunitate, a documentatiei de atribuire şi a modelului cadru a Contractului de inchiriere",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+     "sha256": "8a83e64159235816e79f4854a1b1feba4e27b06ff8a23cc6328b431900be665c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-4-2025",
+   "path": "local/brasov/rupea/2025/4",
+   "short": "HCL Rupea nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 4/2025 privind alegerea preşedintelui de sedinţă",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HOTARARE-nr.-4-alegere-presedinte.pdf",
+     "sha256": "23e42d5ea863c2ea682cf5b6bdc6ac74d4a20d84b73e99078cea3dcc3f0b3896"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-40-2025",
+   "path": "local/brasov/rupea/2025/40",
+   "short": "HCL Rupea nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 40/2025 privind rectificarea bugetului de venituri si cheltuieli al orasului Rupea pe anul 2025",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/40_Hotararea-nr.40-privind-rectificare-buget.pdf",
+     "sha256": "cb8401ed21abe4da3fc7ad86e1b263044d376708d7cd0d5d8fab327ebe6f0214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-41-2025",
+   "path": "local/brasov/rupea/2025/41",
+   "short": "HCL Rupea nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 41/2025 privind atestarea apartenentei la domeniul PRIVAT al Orasului Rupea a unor imobile",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/41_Hotararea-nr.-41-aprobare-prima-inscriere-imobil-domeniul-privat-modif-HCL-63-DIN-2024.pdf",
+     "sha256": "ab4fac556ffe84928168406348c391648db5d75bc31bd52ac9ed166e351e9199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-42-2025",
+   "path": "local/brasov/rupea/2025/42",
+   "short": "HCL Rupea nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 42/2025 privind aprobarea apartamentarii imobilului situat in orașul Rupea, str",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/42_hotararea-nr.-42-apartamentare-imobil-Parchetarilor-nr.-17.pdf",
+     "sha256": "b7a5c96bd5d156a9536b5277b288f1acaff20e3bc96cbc47da63256369df002b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-43-2025",
+   "path": "local/brasov/rupea/2025/43",
+   "short": "HCL Rupea nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 43/2025 Privind atestarea apatenentei la domeniul public a imobilului inscris in CF nr. 101887 Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/43_hotararea-nr-43.-atestare-apartenentei-la-domeniul-public-gradinita-Rupea-nr.-181.pdf",
+     "sha256": "ae22de7d8eb76c9761f7ddfa826f58b88ff2fe908c247c5fe27f39880022079c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-44-2025",
+   "path": "local/brasov/rupea/2025/44",
+   "short": "HCL Rupea nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 44/2025 privind aprobarea Programului de aprovizionare a populatiei orașului Rupea cu principalele produse alimentare, in caz de mobilizare sau razboi",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/44_Hotararea-nr.-44-aprobare-program-aprovizionare-in-caz-de-razboi.pdf",
+     "sha256": "ed4cb867b7069ea3373286a2f7b469b782d967481531ed0fb8ca520df182d7c4"
     }
    ]
   },
@@ -78,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--rupea-5-2025",
+   "path": "local/brasov/rupea/2025/5",
+   "short": "HCL Rupea nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 5/2025 Pentru modificarea HCL nr. 65/11.09.2024, privind aprobarea trecerii imobilului teren , inscris in Cartea Funciara nr.100901 Rupea, nr. Cad. 100901 , in suprafata de 15284 mp – categoria de folosinta neproductiv- depozit de deseuri , din domeniul public al UAT oras Rupe",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr-5-pentru-modificare-HCL-nr.-65-din-2024-privind-aprobare-trecere-in-domeniul-public-al-statului-depozit-deseuri.pdf",
+     "sha256": "eb78636ae1479bd14efcaec84ed260e561f5312e8ca2de49fb5aab890288414e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-50-2025",
    "path": "local/brasov/rupea/2025/50",
    "short": "HCL Rupea nr. 50/2025",
@@ -104,6 +524,186 @@
      "units": 1,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/51_Hotararea-nr.51-privind-rectificare-buget.pdf",
      "sha256": "636afae0ad7fe6b0c8d0fdcf88f51d0c95460833e77b8bc22a698107903604de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-52-2025",
+   "path": "local/brasov/rupea/2025/52",
+   "short": "HCL Rupea nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 52/2025 privind aprobarea valorificarii masei lemnoase catre populatie si a vanzarii prin licitatie publica cu strigare a materialului lemnos",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/52_hotararea-nr.52-valorificare-masa-lemnoasa-si-valorificare-diverse-moi.pdf",
+     "sha256": "4f2c73a201167b9aaaba997db6882837fcf003ee48db68cee1205829a6514690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-53-2025",
+   "path": "local/brasov/rupea/2025/53",
+   "short": "HCL Rupea nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 53/2025 privind aprobarea valorificarii masei lemnoase catre populatie si a vanzarii prin licitatie publica cu strigare a materialului lemnos",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/53_Hotararea-nr.53-valorificare-masa-lemnoasa.pdf",
+     "sha256": "894ddcb85f66a9099350f067ffa5fa139c9ec783e33e7f7c1baf86edfe4cfc01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-54-2025",
+   "path": "local/brasov/rupea/2025/54",
+   "short": "HCL Rupea nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 54/2025 privind aprobarea valorificarii masei lemnoase catre populatie si a vanzarii prin licitatie publica cu strigare a materialului lemnos",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/54_Hotararea-nr.54-valorificare-masa-lemnoasa-si-valorificare-masa-lemnoasa-licitatie-2-partide.pdf",
+     "sha256": "7b1e66e9473b1fd12ce9c16504d9c329f8cc233685c7c7c7d9eb6d2658e3fa8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-55-2025",
+   "path": "local/brasov/rupea/2025/55",
+   "short": "HCL Rupea nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 55/2025 privind numirea în calitate de reprezentanţi ai Consiliului Local Rupea, cu atribuţiile aferente în consiliile de administraţie ale unităţilor de învăţământ din orasul Rupea, în anul şcolar 2025-2026",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/55_Hotararea-nr.55-numire-reprezentanti-CA-scoli.pdf",
+     "sha256": "903448514fef9020a52895d865f619bea4eac89acaf141e589aa3e9cb16b36ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-56-2025",
+   "path": "local/brasov/rupea/2025/56",
+   "short": "HCL Rupea nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 56/2025 Privind aprobarea demisiei unui membru CA Spital Oasenesc Rupea si desemnarea unui nou reprezentant in Consiliul de Administrație al Spitalului orășenesc Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/56_Hotararea-nr.56-desemnare-reprezentant-CA-Spital.pdf",
+     "sha256": "3ee20da17b116cb6d8daaa6a8e02bddc22e6e71acd2fa87b5fb2bd82a0107091"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-58-2025",
+   "path": "local/brasov/rupea/2025/58",
+   "short": "HCL Rupea nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 58/2025 Privind scăderea din evidența analitică pe plătitor a creanțelor fiscale datorate Bugetului local al orașului Rupea, de către persoana juridica radiata de la Oficiul Registrului Comerțului, SC MARINESCU SRL",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/58_Hotararea-nr.58-aprobare-radiere-SC.-MARINESCU-SRL.pdf",
+     "sha256": "a8c2f529186cb222e9f525e24789b74aed1e37c7021aa4dd8e2c1d2f81b951c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-59-2025",
+   "path": "local/brasov/rupea/2025/59",
+   "short": "HCL Rupea nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 59/2025 privind atestarea apartenentei la domeniul PRIVAT al Orasului Rupea a unui imobil",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/59_Hotararea-nr.59-aprobare-apartenenta-domeniu-privat-imobil-Casa-Medicilor-si-cantina.pdf",
+     "sha256": "7c09ce73a5a38333d2591ac6fceb545be2f2d43fa89a5b919ef1190febcd862a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-60-2025",
+   "path": "local/brasov/rupea/2025/60",
+   "short": "HCL Rupea nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 60/2025 Privind atestarea apatenentei la domeniul public a unor drumuri de exploatare din extravilanul orasului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/60_Hotararea-nr.60-atestare-apartenentei-la-domeniul-public-a-unor-drumuri-de-exploatare-Drumul-Daisorii.pdf",
+     "sha256": "424071a677334459d6ee770f2f972bc49c7470f47faf51a74605af83b95e76d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-61-2025",
+   "path": "local/brasov/rupea/2025/61",
+   "short": "HCL Rupea nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 61/2025 privind atestarea apartenentei la domeniul PRIVAT al Orasului Rupea a unui imobil",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/61_Hotararea-nr.61-aprobare-apartenenta-domeniu-privat-imobil-langa-rampa-de-transfer.pdf",
+     "sha256": "8b6de18ece75e78396524dcf3c4b3387f55a1479509d5d596a6e7ced009caf35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-62-2025",
+   "path": "local/brasov/rupea/2025/62",
+   "short": "HCL Rupea nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 62/2025 Privind atestarea apatenentei la domeniul public a unui drum de exploatare din extravilanul orasului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/62_Hotararea-nr.62-atestare-apartenentei-la-domeniul-public-a-unor-drumuri-de-exploatare-Drumul-spre-cimitirul-ortodox.pdf",
+     "sha256": "d5dc24a6adcba9d758cf9a5a6d767ed8a5a8b4cc0e8375d9f72f93a89ce7fd56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-63-2025",
+   "path": "local/brasov/rupea/2025/63",
+   "short": "HCL Rupea nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 63/2025 Privind atestarea apatenentei la domeniul public a unui drum din intravilanul orasului Rupea",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/63_Hotararea-nr.63-atestare-apartenentei-la-domeniul-public-a-unei-portiuni-de-drum-randul-scurt.pdf",
+     "sha256": "0596d2d2ad0e01a1d24f5e69ab9be24b7152a4143d7bd92d902d9a13717b0302"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-64-2025",
+   "path": "local/brasov/rupea/2025/64",
+   "short": "HCL Rupea nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 64/2025 privind atestarea apartenentei la domeniul PRIVAT al Orasului Rupea a unui imobil",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/64_Hotararea-nr.64-aprobare-apartenenta-domeniu-privat-imobil-promenazii.pdf",
+     "sha256": "4df551156062fce686750ed5963929651c3539dd534624b57c4d6f168e83c827"
     }
    ]
   },
@@ -284,6 +884,21 @@
      "units": 1,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/79_Hotararea-nr.79-valorificare-masa-lemnoasa-2026.pdf",
      "sha256": "869b8703696e17810228cb28262d06ee3abbd0fdfc20c910487b0ab5017f06d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-8-2025",
+   "path": "local/brasov/rupea/2025/8",
+   "short": "HCL Rupea nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 8/2025 pentru anul 2025",
+   "url": "https://www.primariarupea.ro/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative-2025",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/8_Hotararea-nr.-8-privind-aprobarea-planului-de-achizitii-pentru-anul-2025.pdf",
+     "sha256": "b5372458150554b67a9fbaa1c031674b32e263cd8966ceb9c200ce9737bfe750"
     }
    ]
   },

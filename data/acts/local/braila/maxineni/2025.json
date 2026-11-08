@@ -3,6 +3,50 @@
 "shard": "local/braila/maxineni/2025",
 "acts": [
 {
+"slug": "hcl-braila--maxineni-1-2025",
+"path": "local/braila/maxineni/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 1/2025 privind alegerea președintelui de ședință al consiliului local al comunei Maxineni, județul Brăila",
+"short": "HCL Măxineni nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/193291",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-2-2025",
+"path": "local/braila/maxineni/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 2/2025 privind modificarea și completarea comisiei de specialitate nr. 2 din cadrul Consiliului Local Maxineni, județul Brăila",
+"short": "HCL Măxineni nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/193293",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-3-2025",
 "path": "local/braila/maxineni/2025/3",
 "kind": "local",
@@ -22,6 +66,50 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-4-2025",
+"path": "local/braila/maxineni/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 4/2025 privind aprobarea participării viceprimarului comunei Măxineni, județul Brăila, la cursuri de pregătire, formare și perfecționare organizate de instituții specializate în anul 2025",
+"short": "HCL Măxineni nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/193296",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-5-2025",
+"path": "local/braila/maxineni/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 5/2025 privind aprobarea modalității de decontare a cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale ”Administrație” din cadrul aparatului de specialitate al primarului și al instituțiilor și serviciilor publice de interes local, înființate în subordinea, coordonarea sau autoritatea consiliilor locale, din comuna Maxineni, județul Brăila",
+"short": "HCL Măxineni nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/193298",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +267,51 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-13-2025",
+"path": "local/braila/maxineni/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 13/2025 privind închirierea prin licitație publică, a unei suprafețe totale de 31,3753 ha teren arabil situată în extravilanul comunei Maxineni, județul Brăila, amplasata conform anexa",
+"short": "HCL Măxineni nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/193306",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-14-2025",
+"path": "local/braila/maxineni/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 14/2025",
+"short": "HCL Măxineni nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/193307",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--maxineni-15-2025",
 "path": "local/braila/maxineni/2025/15",
 "kind": "local",
@@ -223,6 +356,29 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-17-2025",
+"path": "local/braila/maxineni/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 17/2025",
+"short": "HCL Măxineni nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/197291",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--maxineni-18-2025",
 "path": "local/braila/maxineni/2025/18",
 "kind": "local",
@@ -264,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-20-2025",
+"path": "local/braila/maxineni/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 20/2025 privind aprobarea organigramei, a statului de funcții și numărul de personal din aparatul de specialitate al primarului comunei Măxineni începând cu luna februarie 2025",
+"short": "HCL Măxineni nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-18",
+"latest": "2025-03-18",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/197306",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +555,28 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-26-2025",
+"path": "local/braila/maxineni/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 26/2025 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2024",
+"short": "HCL Măxineni nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/203962",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-27-2025",
 "path": "local/braila/maxineni/2025/27",
 "kind": "local",
@@ -399,6 +599,50 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-28-2025",
+"path": "local/braila/maxineni/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 28/2025 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2025",
+"short": "HCL Măxineni nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/203973",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-29-2025",
+"path": "local/braila/maxineni/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 29/2025 privind aprobarea situațiilor financiare anuale la 31.12.2024 la SC Amenajare și întreținere comunală Măxineni SRL",
+"short": "HCL Măxineni nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/203974",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-30-2025",
 "path": "local/braila/maxineni/2025/30",
 "kind": "local",
@@ -418,6 +662,140 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-31-2025",
+"path": "local/braila/maxineni/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 31/2025 privind acordarea ajutoarelor de urgență în conformitate cu prevederile Legii nr. 196/2016, privind venitul minim de incluziune",
+"short": "HCL Măxineni nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/203976",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-32-2025",
+"path": "local/braila/maxineni/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 32/2025 privind aprobarea Planului de pregătire în domeniul situațiilor de urgență la nivelul localității Măxineni în anul 2025",
+"short": "HCL Măxineni nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/203977",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-33-2025",
+"path": "local/braila/maxineni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 33/2025",
+"short": "HCL Măxineni nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/203979",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-34-2025",
+"path": "local/braila/maxineni/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 34/2025 privind aprobarea bilanțului la data de 31.12.2024 pentru SC Amenajare și întreținere comunală Măxineni SRL",
+"short": "HCL Măxineni nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/203980",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-35-2025",
+"path": "local/braila/maxineni/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 35/2025",
+"short": "HCL Măxineni nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/203981",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-36-2025",
+"path": "local/braila/maxineni/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 36/2025 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/216789",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -484,6 +862,138 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-40-2025",
+"path": "local/braila/maxineni/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 40/2025 privind numire administrator SC ''Amenajare și Întreținere Comunală Măxineni'' Societate cu Răspundere Limitată, urmare vacantare post",
+"short": "HCL Măxineni nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/216800",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-41-2025",
+"path": "local/braila/maxineni/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 41/2025 privind modificarea Actului constitutiv și actualizarea obiectivelor de activitate conform CAEN REV. 3 la SC Amenajare și Întreținere Comunală Măxineni Societate cu Răspundere Limitata",
+"short": "HCL Măxineni nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/216801",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-42-2025",
+"path": "local/braila/maxineni/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 42/2025 privind includerea în CF 89285-DN 23 a suprafeței de 989 mp, suprafața apartinand domeniului privat al comunei Măxineni, judetul Braila",
+"short": "HCL Măxineni nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/216804",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-43-2025",
+"path": "local/braila/maxineni/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 43/2025 privind semnarea actului adițional nr. 3 la contractul de concesiune nr. 6974/02.11.2022 încheiat între Unitatea Administrativ Teritorială Comuna Măxineni și PNE RO Sunlight 6 SRL",
+"short": "HCL Măxineni nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/216805",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-44-2025",
+"path": "local/braila/maxineni/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 44/2025 privind modificarea Hotărârii Consiliului Local al Comunei Măxineni nr. 117/21.12.2023 privind aprobarea proiectului ''Hub-uri de dezvoltare digitală în bibliotecile publice brăilene', în cadrul Apelului de proiecte nr. 2 cu titlul ''Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a competențelor digitale'', finanțat în cadrul Planului Național de Redresare și Reziliență (PNRR), Pilonul II, Componenta C7 - Transformare digitală, Investiția 117 ''Scheme de finanțare pentru biblioteci penttru a deveni hub-uri de dezvoltare a competențelor digitale'', a cheltuielilor legate de proiect precum și a Acordului de parteneriat pentru realizarea acestuia",
+"short": "HCL Măxineni nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/216806",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-45-2025",
+"path": "local/braila/maxineni/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 45/2025 privind aprobarea participării Comunei Măxineni, în cadrul proiectului finanțat prin ''Programul de Incluziune și Demnitate socială (PIDS) 2021-2027'' prioritatate P06 ''servicii de suport pentru persoane vârstnice ''Acțiunea 6.1 ''servicii de îngrijire la domiciliu pentru persoanele vârstnice, Obiectiv specific - ESO4.11 (FSE+) din comuna Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/216807",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -597,6 +1107,28 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-51-2025",
+"path": "local/braila/maxineni/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 51/2025 privind închirierea prin licitație publică a imobilului aparținând domeniului privat al comunei Măxineni, amplasat pe Tarla 202 parcela 2106, 2108, 2109, 2110, 2111 lot 2 în localitatea Latinu, INCINTA 1 Centru de Producție al fostului Cap Latinu, comuna Măxineni, județul Brăila, conform CF nr. 88958",
+"short": "HCL Măxineni nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-14",
+"latest": "2025-07-14",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/216813",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-52-2025",
 "path": "local/braila/maxineni/2025/52",
 "kind": "local",
@@ -687,6 +1219,28 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-56-2025",
+"path": "local/braila/maxineni/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 56/2025 privind aprobarea documentației tehnico-economice a obiectivului de investiții „CONSTRUIRE CENTRU DE TIP RESPIRO PENTRU PERSOANELE CU DIZABILITĂȚI ÎN COMUNA MAXINENI, JUDEȚUL BRĂILA”",
+"short": "HCL Măxineni nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-22",
+"latest": "2025-07-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/217624",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--maxineni-57-2025",
 "path": "local/braila/maxineni/2025/57",
 "kind": "local",
@@ -707,6 +1261,116 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-58-2025",
+"path": "local/braila/maxineni/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 58/2025 privind rectificarea bugetului local al comunei Maxineni începând cu data de 01.07.2025",
+"short": "HCL Măxineni nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-22",
+"latest": "2025-07-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/217626",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-59-2025",
+"path": "local/braila/maxineni/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 59/2025 privind închirierea prin licitație publică a imobilului aparținând domeniului privat al comunei Maxineni, amplasat pe Tarla 202 parcela 2106: 2108; 2109; 2110; 2111 lot 2 în localitatea Latinu, INCINTA 1 „CENTRU DE PRODUCȚIE” al fostului CAP LATINU, comuna Maxineni, județul Brăila, conform CF. nr.88958",
+"short": "HCL Măxineni nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-22",
+"latest": "2025-07-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/217627",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-60-2025",
+"path": "local/braila/maxineni/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 60/2025 privind semnarea actului adițional nr.4 la contractul de concesiune nr. 6974/02.11.2022 încheiat între Unitatea Administrativ Teritorială Comuna Măxineni și PNE RO SUNLIGHT 6 S.R.L",
+"short": "HCL Măxineni nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-22",
+"latest": "2025-07-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/217628",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-61-2025",
+"path": "local/braila/maxineni/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 61/2025 privind aprobarea proiectului și a cheltuielilor actualizate legate de proiect",
+"short": "HCL Măxineni nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-22",
+"latest": "2025-07-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/217629",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-62-2025",
+"path": "local/braila/maxineni/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 62/2025 privind modificarea și completarea Hotărârii Consiliului Local al Comunei Maxineni nr. 44/12.05.2025 privind modificarea Hotărârii Consiliului Local al Comunei Maxineni nr. 117/21.12.2023 privind aprobarea proiectului „Hub-uri de dezvoltare digitală în bibliotecile publice brăilene”, în cadrul Apelului de proiecte nr. 2 cu titlul „Finanțarea bibliotecilor pentru a deveni hub-uri de dezvoltare a competențelor digitale”, finanțat în cadrul Planului Național de Redresare și Reziliență (PNRR), pilonul II, Componenta C7-Transformare digitală, Investiția I17. „Scheme de finanțare pentru biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale”, a cheltuielilor legate de proiect precum și a Acordului de parteneriat pentru realizarea acestuia",
+"short": "HCL Măxineni nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-22",
+"latest": "2025-07-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/217630",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -773,6 +1437,28 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-66-2025",
+"path": "local/braila/maxineni/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 66/2025 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/239554",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1062,6 +1748,97 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-80-2025",
+"path": "local/braila/maxineni/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 80/2025 privind desemnarea a doi reprezentanți din rândul consilierilor locali ai comunei, în consiliul de administrație al unității de învățământ aparținând comunei Măxineni, județul Brăila, pentru anul școlar 2025-2026",
+"short": "HCL Măxineni nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/239581",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--maxineni-81-2025",
+"path": "local/braila/maxineni/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 81/2025",
+"short": "HCL Măxineni nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/239582",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-82-2025",
+"path": "local/braila/maxineni/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 82/2025",
+"short": "HCL Măxineni nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/239583",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--maxineni-83-2025",
+"path": "local/braila/maxineni/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 83/2025",
+"short": "HCL Măxineni nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/239584",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--maxineni-84-2025",
 "path": "local/braila/maxineni/2025/84",
 "kind": "local",
@@ -1103,6 +1880,28 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-86-2025",
+"path": "local/braila/maxineni/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 86/2025 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+"short": "HCL Măxineni nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/242965",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1238,6 +2037,29 @@
 }
 },
 {
+"slug": "hcl-braila--maxineni-93-2025",
+"path": "local/braila/maxineni/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 93/2025",
+"short": "HCL Măxineni nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/242997",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--maxineni-94-2025",
 "path": "local/braila/maxineni/2025/94",
 "kind": "local",
@@ -1257,6 +2079,29 @@
 "council_name": "Consiliul Local al Comunei Măxineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--maxineni-95-2025",
+"path": "local/braila/maxineni/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 95/2025",
+"short": "HCL Măxineni nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/maxineni-br/registru-hcl/243013",
+"council": "braila/maxineni",
+"council_name": "Consiliul Local al Comunei Măxineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

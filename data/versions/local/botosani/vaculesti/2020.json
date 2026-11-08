@@ -183,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-botosani--vaculesti-20-2020",
+   "path": "local/botosani/vaculesti/2020/20",
+   "short": "HCL Văculești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 20/2020 privind aprobare actualizare preț vânzare teren magazin sat Saucenița",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6074",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-21-2020",
+   "path": "local/botosani/vaculesti/2020/21",
+   "short": "HCL Văculești nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 21/2020 privind aprobare actualizare preț vânzare teren magazin sat Văculești",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6075",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--vaculesti-22-2020",
+   "path": "local/botosani/vaculesti/2020/22",
+   "short": "HCL Văculești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Văculești nr. 22/2020 privind delegare consilier local pentru a face parte din Comisia de vânzare terenuri magazine",
+   "url": "https://emol.ro/vaculesti-bt/registru-hcl/6086",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vaculesti-bt/registru-hcl/6086",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--vaculesti-23-2020",
    "path": "local/botosani/vaculesti/2020/23",
    "short": "HCL Văculești nr. 23/2020",

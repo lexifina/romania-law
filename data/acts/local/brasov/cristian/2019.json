@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/brasov/cristian/2019",
+"acts": [
+{
+"slug": "hcl-brasov--cristian-66-2019",
+"path": "local/brasov/cristian/2019/66",
+"kind": "local",
+"year": "2019",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristian nr. 66/2019",
+"short": "HCL Cristian nr. 66/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-15",
+"latest": "2019-04-15",
+"portal": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+"council": "brasov/cristian",
+"council_name": "Consiliul Local al Comunei Cristian",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--cristian-67-2019",
+"path": "local/brasov/cristian/2019/67",
+"kind": "local",
+"year": "2019",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristian nr. 67/2019",
+"short": "HCL Cristian nr. 67/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-15",
+"latest": "2019-04-15",
+"portal": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+"council": "brasov/cristian",
+"council_name": "Consiliul Local al Comunei Cristian",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--cristian-68-2019",
+"path": "local/brasov/cristian/2019/68",
+"kind": "local",
+"year": "2019",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristian nr. 68/2019",
+"short": "HCL Cristian nr. 68/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-15",
+"latest": "2019-04-15",
+"portal": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+"council": "brasov/cristian",
+"council_name": "Consiliul Local al Comunei Cristian",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

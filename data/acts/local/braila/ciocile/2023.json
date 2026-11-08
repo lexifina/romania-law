@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-4-2023",
+"path": "local/braila/ciocile/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 4/2023",
+"short": "HCL Ciocile nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/91490",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--ciocile-5-2023",
 "path": "local/braila/ciocile/2023/5",
 "kind": "local",
@@ -179,6 +202,29 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-10-2023",
+"path": "local/braila/ciocile/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 10/2023",
+"short": "HCL Ciocile nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/110256",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--ciocile-11-2023",
 "path": "local/braila/ciocile/2023/11",
 "kind": "local",
@@ -202,6 +248,50 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-12-2023",
+"path": "local/braila/ciocile/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 12/2023 privind aprobarea numarului de indemnizaţii acordate persoanelor cu handicap grav, la nivelul comunei Ciocile, judetul Braila",
+"short": "HCL Ciocile nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/110258",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-13-2023",
+"path": "local/braila/ciocile/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 13/2023 privind aprobarea proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unității de învățământ preuniversitar: Școala Gimnazială Ciocile, comuna Ciocile, judetul Brăila”",
+"short": "HCL Ciocile nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/110295",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-14-2023",
 "path": "local/braila/ciocile/2023/14",
 "kind": "local",
@@ -221,6 +311,29 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-15-2023",
+"path": "local/braila/ciocile/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 15/2023",
+"short": "HCL Ciocile nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/110304",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -467,6 +580,72 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-27-2023",
+"path": "local/braila/ciocile/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 27/2023 privind aprobarea bugetului de venituri si cheltuieli ale societatii cu raspundere limitata “SERVICII ECOLOGIZARE CIOCILE” SRL pe anul 2023",
+"short": "HCL Ciocile nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/110316",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-28-2023",
+"path": "local/braila/ciocile/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 28/2023 privind aprobarea situatiilor financiare anuale Ia 31.12.2022 ale societatii cu raspundere limitata “SES IGIENA CIOCILE” SRL",
+"short": "HCL Ciocile nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/110317",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-29-2023",
+"path": "local/braila/ciocile/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 29/2023 privind aprobarea bugetului de venituri si cheltuieli ale societatii cu raspundere limitata “SES IGIENA CIOCILE ” SRL pe anul 2023",
+"short": "HCL Ciocile nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-23",
+"latest": "2023-06-23",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/110318",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-30-2023",
 "path": "local/braila/ciocile/2023/30",
 "kind": "local",
@@ -531,6 +710,160 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-33-2023",
+"path": "local/braila/ciocile/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 33/2023 privind rectificarea bugetului local de venituri si cheltuieli al unităţii administrativ-teritoriale comuna Ciocile, judetul Braila",
+"short": "HCL Ciocile nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155013",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-34-2023",
+"path": "local/braila/ciocile/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 34/2023 privind aprobarea rezultatului inventarierii pe anul 2022 a bunurilor mobile si imobile care aparţin domeniului public si privat al comunei Ciocile",
+"short": "HCL Ciocile nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155014",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-35-2023",
+"path": "local/braila/ciocile/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 35/2023 privind avizarea modificarii si completarii Regulamentului Serviciului de Alimentare cu Apa si de Canalizare - Actualizat - aprobat prin Hotararea nr.2 din 26.03.2018 a Adunarii Generale a Asociatiei si a formei actualizate a acestuia",
+"short": "HCL Ciocile nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155015",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-36-2023",
+"path": "local/braila/ciocile/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 36/2023 privind avizarea Studiului de specialitate pentru stabilirea nivelurilor Indicatorilor de Performanta ai Serviciului public de alimentare cu apa si de canalizare in Aria Delegata Operatorului SC Compania de Utilitati Publice Dunarea Braila SA, a nivelurilor Indicatorilor de Performanta ai Serviciului rezultate din Studiul de specialitate si acordarea unui mandat special Primarului Comunei Ciocile",
+"short": "HCL Ciocile nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155016",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-37-2023",
+"path": "local/braila/ciocile/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 37/2023 privind majorarea numarului de indemnizaţii acordate persoanelor cu handicap grav, la nivelul comunei Ciocile, judetul Braila",
+"short": "HCL Ciocile nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155017",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-38-2023",
+"path": "local/braila/ciocile/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 38/2023 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Ciocile, judeţul Brăila, pentru lunile iulie, august și septembrie 2023, care conduce şedinţele consiliului şi semnează hotărârile adoptate de acesta",
+"short": "HCL Ciocile nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155018",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ciocile-39-2023",
+"path": "local/braila/ciocile/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 39/2023 privind aprobarea apartenenței la domeniul privat al comunei Ciocile, județul Brăila a unor bunuri imobile drumuri și canale din extravilan",
+"short": "HCL Ciocile nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155019",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -689,6 +1022,28 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-47-2023",
+"path": "local/braila/ciocile/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 47/2023 privind rectificarea bugetului local de venituri si cheltuieli al unităţii administrativ-teritoriale comuna Ciocile, judetul Braila",
+"short": "HCL Ciocile nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155027",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-48-2023",
 "path": "local/braila/ciocile/2023/48",
 "kind": "local",
@@ -730,6 +1085,28 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-50-2023",
+"path": "local/braila/ciocile/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 50/2023 privind insusirea inventarului bunurilor de retur aferent sistemului public de alimentare cu apa pentru anul 2022 al Comunei Ciocile",
+"short": "HCL Ciocile nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-02",
+"latest": "2024-05-02",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/155030",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

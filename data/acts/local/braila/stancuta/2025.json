@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-braila--stancuta-5-2025",
+"path": "local/braila/stancuta/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 5/2025 privind alegerea președintelui de ședință",
+"short": "HCL Stăncuța nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/228281",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--stancuta-6-2025",
 "path": "local/braila/stancuta/2025/6",
 "kind": "local",
@@ -132,6 +154,73 @@
 "council_name": "Consiliul Local al Comunei Stăncuța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--stancuta-8-2025",
+"path": "local/braila/stancuta/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 8/2025 privind alegerea viceprimarului comunei Stăncuța, județul Brăila",
+"short": "HCL Stăncuța nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/228284",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-9-2025",
+"path": "local/braila/stancuta/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 9/2025 privind alegerea președintelui de ședință",
+"short": "HCL Stăncuța nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/228293",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-10-2025",
+"path": "local/braila/stancuta/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 10/2025",
+"short": "HCL Stăncuța nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/228294",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -532,6 +621,28 @@
 }
 },
 {
+"slug": "hcl-braila--stancuta-29-2025",
+"path": "local/braila/stancuta/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 29/2025 privind alegerea președintelui de ședință",
+"short": "HCL Stăncuța nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/228387",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--stancuta-30-2025",
 "path": "local/braila/stancuta/2025/30",
 "kind": "local",
@@ -686,6 +797,72 @@
 "council_name": "Consiliul Local al Comunei Stăncuța",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--stancuta-37-2025",
+"path": "local/braila/stancuta/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 37/2025 privind alegerea președintelui de ședință",
+"short": "HCL Stăncuța nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/228690",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-38-2025",
+"path": "local/braila/stancuta/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 38/2025 privind alegerea comisiilor pe domenii de specialitate ale Consiliului Local Stăncuța, județul Brăila",
+"short": "HCL Stăncuța nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/228691",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--stancuta-39-2025",
+"path": "local/braila/stancuta/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 39/2025 privind desemnarea reprezentanților Consiliului Local Stăncuța în Consiliul de Administrație al Școlii Profesionale Stăncuța",
+"short": "HCL Stăncuța nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/stancuta-br/registru-hcl/228692",
+"council": "braila/stancuta",
+"council_name": "Consiliul Local al Comunei Stăncuța",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

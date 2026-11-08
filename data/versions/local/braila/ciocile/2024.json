@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--ciocile-15-2024",
+   "path": "local/braila/ciocile/2024/15",
+   "short": "HCL Ciocile nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 15/2024 privind aprobarea decontarii cheltuielilor cu naveta, pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Ciocile, județul Brăila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/152946",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/152946",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--ciocile-16-2024",
    "path": "local/braila/ciocile/2024/16",
    "short": "HCL Ciocile nr. 16/2024",
@@ -118,6 +133,36 @@
      "from": "2024-04-17",
      "units": 1,
      "source_url": "https://emol.ro/ciocile-br/registru-hcl/152948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-18-2024",
+   "path": "local/braila/ciocile/2024/18",
+   "short": "HCL Ciocile nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 18/2024",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/152949",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/152949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-19-2024",
+   "path": "local/braila/ciocile/2024/19",
+   "short": "HCL Ciocile nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 19/2024 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Ciocile, judeţul Brăila, pentru lunile aprilie, mai și iunie 2024, care conduce şedinţele consiliului şi semnează hotărârile adoptate de acesta",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/152950",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/152950",
      "sha256": null
     }
    ]
@@ -153,6 +198,51 @@
    ]
   },
   {
+   "slug": "hcl-braila--ciocile-21-2024",
+   "path": "local/braila/ciocile/2024/21",
+   "short": "HCL Ciocile nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 21/2024 privind rectificarea bugetului local de venituri si cheltuieli al unităţii administrativ-teritoriale comuna Ciocile, judetul Braila",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/156142",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/156142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-22-2024",
+   "path": "local/braila/ciocile/2024/22",
+   "short": "HCL Ciocile nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 22/2024 privind aprobarea indexarii impozitelor si taxelor locale pentru anul 2025 cu rata inflației de 10,4 %",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/156143",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/156143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-23-2024",
+   "path": "local/braila/ciocile/2024/23",
+   "short": "HCL Ciocile nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 23/2024 privind prelungirea mandatului de administrator al societatii comerciale cu raspundere limitata ,,Ciocile Servicii Ecologizare SRL“",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/156144",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/156144",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--ciocile-24-2024",
    "path": "local/braila/ciocile/2024/24",
    "short": "HCL Ciocile nr. 24/2024",
@@ -183,6 +273,66 @@
    ]
   },
   {
+   "slug": "hcl-braila--ciocile-26-2024",
+   "path": "local/braila/ciocile/2024/26",
+   "short": "HCL Ciocile nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 26/2024 privind aprobarea situatiilor financiare anuale Ia 31.12.2023 ale societatii cu raspundere limitata SERVICII ECOLOGIZARE CIOCILE” SRL",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/175958",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/175958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-27-2024",
+   "path": "local/braila/ciocile/2024/27",
+   "short": "HCL Ciocile nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 27/2024 privind aprobarea bugetului de venituri si cheltuieli ale societatii cu raspundere limitata “SERVICII ECOLOGIZARE CIOCILE” SRL pe anul 2024",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/175971",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/175971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-28-2024",
+   "path": "local/braila/ciocile/2024/28",
+   "short": "HCL Ciocile nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 28/2024 privind aprobarea situatiilor financiare anuale Ia 31.12.2023 ale societatii cu raspundere limitata “SES IGIENA CIOCILE”SRL",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/175974",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/175974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-29-2024",
+   "path": "local/braila/ciocile/2024/29",
+   "short": "HCL Ciocile nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 29/2024 privind aprobarea bugetului de venituri si cheltuieli ale societatii cu raspundere limitata “SES IGIENA CIOCILE ”SRL pe anul 2024",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/175976",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/175976",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--ciocile-3-2024",
    "path": "local/braila/ciocile/2024/3",
    "short": "HCL Ciocile nr. 3/2024",
@@ -198,6 +348,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--ciocile-30-2024",
+   "path": "local/braila/ciocile/2024/30",
+   "short": "HCL Ciocile nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 30/2024 privind punerea la dispoziție a terenului în suprafață de 5162mp, categoria de folosință arabil, situat în extravilanul comunei Ciocile, Tarlaua 45, parcela 409, număr cadastral 76781 și carte funciară nr. 76781, aparținînd domeniului privat al unității administrativ teritoriale Ciocile, județul Brăila, în scopul construirii sistemului fotovoltaic pentru consum propriu de energie",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/175987",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/175987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-31-2024",
+   "path": "local/braila/ciocile/2024/31",
+   "short": "HCL Ciocile nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 31/2024 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Ciocile, judeţul Brăila, pentru sedinta din data de 06.06.2024, care conduce şedinţa consiliului şi semnează hotărârile adoptate de acesta",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/175994",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/175994",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--ciocile-32-2024",
    "path": "local/braila/ciocile/2024/32",
    "short": "HCL Ciocile nr. 32/2024",
@@ -208,6 +388,21 @@
      "from": "2024-11-14",
      "units": 1,
      "source_url": "https://emol.ro/ciocile-br/registru-hcl/175995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-33-2024",
+   "path": "local/braila/ciocile/2024/33",
+   "short": "HCL Ciocile nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 33/2024 privind aprobarea majorarii cu 10% fata de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale angajatilor din cadrul aparatului de specialitate al Primarului Comunei Ciocile, incepand cu data de 1 iunie 2024",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/175997",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/175997",
      "sha256": null
     }
    ]
@@ -583,6 +778,36 @@
      "from": "2024-04-16",
      "units": 1,
      "source_url": "https://emol.ro/ciocile-br/registru-hcl/152928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-8-2024",
+   "path": "local/braila/ciocile/2024/8",
+   "short": "HCL Ciocile nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 8/2024",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/152929",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/152929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ciocile-9-2024",
+   "path": "local/braila/ciocile/2024/9",
+   "short": "HCL Ciocile nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 9/2024 privind aprobarea tipului de suport alimentar acordat prescolarilor si elevilor Școlii Gimnaziale Ciocile, comuna Ciocile, judetul Brăila în cadrul Programului national „Masa sanatoasa”",
+   "url": "https://emol.ro/ciocile-br/registru-hcl/152940",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocile-br/registru-hcl/152940",
      "sha256": null
     }
    ]

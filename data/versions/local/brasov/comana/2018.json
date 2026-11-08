@@ -16,6 +16,66 @@
      "sha256": "34b8c1dae34253250b1662160be4f5cbb95cf8bddad7a2ed11c7135dd0ccbe10"
     }
    ]
+  },
+  {
+   "slug": "hcl-brasov--comana-6-2018",
+   "path": "local/brasov/comana/2018/6",
+   "short": "HCL Comăna nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Comăna nr. 6/2018",
+   "url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-6-din-15.02.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-6-din-15.02.2018.pdf",
+     "sha256": "96ee2ff60b092d4474b849c848386777f8b44cf8d749b1de0ca158ac99950c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--comana-7-2018",
+   "path": "local/brasov/comana/2018/7",
+   "short": "HCL Comăna nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Comăna nr. 7/2018",
+   "url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-7-din-06.03.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-03-06",
+     "units": 1,
+     "source_url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-7-din-06.03.2018.pdf",
+     "sha256": "dd26036913728bdb43fd61d7d794bb445ce5fc84873129b3ef26c5e7b218b312"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--comana-8-2018",
+   "path": "local/brasov/comana/2018/8",
+   "short": "HCL Comăna nr. 8/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Comăna nr. 8/2018",
+   "url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-8-din-06.03.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-03-06",
+     "units": 1,
+     "source_url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-8-din-06.03.2018.pdf",
+     "sha256": "ec7d2796da6c682b44883574d1f5178394b033c5095a884a22eb336ecc4a0254"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--comana-9-2018",
+   "path": "local/brasov/comana/2018/9",
+   "short": "HCL Comăna nr. 9/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Comăna nr. 9/2018",
+   "url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-9-din-20.03.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 1,
+     "source_url": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-9-din-20.03.2018.pdf",
+     "sha256": "1ed0a1465c5525640d8e632b43f2147909e9516647cff490ff26a6914735f19d"
+    }
+   ]
   }
  ]
 }

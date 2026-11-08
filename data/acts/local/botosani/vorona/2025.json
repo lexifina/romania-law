@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-2-2025",
+"path": "local/botosani/vorona/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 2/2025 privind aprobarea Raportului de activitate al asistenților personali pe semestrul II, anul 2024",
+"short": "HCL Vorona nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/190976",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-3-2025",
 "path": "local/botosani/vorona/2025/3",
 "kind": "local",
@@ -88,6 +110,73 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-6-2025",
+"path": "local/botosani/vorona/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 6/2025 privind actualizarea Comisiei de atribuire directă a suprafeţelor de păşune proprietate privata a UAT Vorona",
+"short": "HCL Vorona nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/190980",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-7-2025",
+"path": "local/botosani/vorona/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 7/2025 privind alegerea președintelui de ședință pentru lunile februarie, martie și aprilie 2025",
+"short": "HCL Vorona nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/190981",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-8-2025",
+"path": "local/botosani/vorona/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 8/2025",
+"short": "HCL Vorona nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/190982",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -223,6 +312,50 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-15-2025",
+"path": "local/botosani/vorona/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 15/2025 privind aprobarea plăților pentru acoperirea cheltuielilor de judecată conform Sentinței Civile nr.2269/2024, pronunțată în Dosar nr.7569/193/2021 de către Judecătoria Botoșani",
+"short": "HCL Vorona nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/196650",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-16-2025",
+"path": "local/botosani/vorona/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 16/2025 privind aprobarea Regulamentului pentru stabilirea unor forme de sprijin financiar de la bugetul local al comunei Vorona pentru unitățile de cult aparținând cultelor religioase recunoscute din Romania",
+"short": "HCL Vorona nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/196651",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-17-2025",
 "path": "local/botosani/vorona/2025/17",
 "kind": "local",
@@ -264,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-19-2025",
+"path": "local/botosani/vorona/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 19/2025 privind mandatarea Primarului în vederea încheierii unui contract de asistență juridică și reprezentarea în instanță, precum și plata de către Consiliul Local a cheltuielilor arondate de recuperarea prejudiciilor stabilite prin Raporturile Curții de Conturi nr. 1387/7.02.2025 și 1269/5.02.2025",
+"short": "HCL Vorona nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/196654",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-20-2025",
+"path": "local/botosani/vorona/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 20/2025 privind aprobarea sumei necesare prezentării spectacolului susținut de ”Teatrul Mihai Eminescu” Botoșani cu ocazia ”Zilei Femeii”",
+"short": "HCL Vorona nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/196655",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -575,6 +752,51 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-35-2025",
+"path": "local/botosani/vorona/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 35/2025 privind darea în administrare a microbuzului electric școlar PACIFIC TUR către Liceul Tehnologic ”Ștefan cel Mare și Sfânt” Vorona",
+"short": "HCL Vorona nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-25",
+"latest": "2025-04-25",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/204375",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-36-2025",
+"path": "local/botosani/vorona/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 36/2025",
+"short": "HCL Vorona nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-25",
+"latest": "2025-04-25",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/204376",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-botosani--vorona-37-2025",
 "path": "local/botosani/vorona/2025/37",
 "kind": "local",
@@ -619,6 +841,28 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-39-2025",
+"path": "local/botosani/vorona/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 39/2025 privind aprobarea organigramei și a statului de funcții ale Primăriei Comunei Vorona",
+"short": "HCL Vorona nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/209025",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-40-2025",
 "path": "local/botosani/vorona/2025/40",
 "kind": "local",
@@ -641,6 +885,28 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-41-2025",
+"path": "local/botosani/vorona/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 41/2025 privind alegerea președintelui de ședință pentru lunile mai, iunie și iulie 2025",
+"short": "HCL Vorona nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/209027",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-42-2025",
 "path": "local/botosani/vorona/2025/42",
 "kind": "local",
@@ -660,6 +926,28 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-43-2025",
+"path": "local/botosani/vorona/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 43/2025 privind aprobarea plăților pentru acoperirea cheltuielilor de judecată conform Sentinței Civile nr. 1772/2024, rămasă definitivă prin respingerea apelului conform Deciziei nr.160/2025 a Tribunalului Botoșani și a Sentinței Civile nr. 1902/2024 rămasă definitivă prin Decizia nr. 84/2025 a Tribunalului Botoșani",
+"short": "HCL Vorona nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/211582",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -884,6 +1172,50 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-54-2025",
+"path": "local/botosani/vorona/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 54/2025 privind aprobarea Raportului de activitate al asistenților personali pe semestrul I, anul 2025",
+"short": "HCL Vorona nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/219034",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-55-2025",
+"path": "local/botosani/vorona/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 55/2025 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie 2025",
+"short": "HCL Vorona nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/219035",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-56-2025",
 "path": "local/botosani/vorona/2025/56",
 "kind": "local",
@@ -903,6 +1235,28 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-57-2025",
+"path": "local/botosani/vorona/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 57/2025 privind aprobarea plății sumei de 2501 lei, reprezentând minimul amenzii stabilite de către ISU Botoșani prin Procesul-verbal de constatare și sancționare a contravențiilor seria K nr.14912",
+"short": "HCL Vorona nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/220487",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -928,6 +1282,51 @@
 }
 },
 {
+"slug": "hcl-botosani--vorona-59-2025",
+"path": "local/botosani/vorona/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 59/2025",
+"short": "HCL Vorona nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/222174",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--vorona-60-2025",
+"path": "local/botosani/vorona/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 60/2025 privind reorganizarea componenței Consiliului Comunitar Consultativ pentru identificarea și soluționarea problemelor sociale care privesc copiii din comuna Vorona",
+"short": "HCL Vorona nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/222175",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorona-61-2025",
 "path": "local/botosani/vorona/2025/61",
 "kind": "local",
@@ -947,6 +1346,50 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-62-2025",
+"path": "local/botosani/vorona/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 62/2025 privind avizarea Regulamentului de salubrizare a localităților din judeţul Botoşani, precum și acordarea unui mandat special Asociaţiei de Dezvoltare Intercomunitară ,,ECOPROCES” Botoşani pentru aprobarea acestuia în Adunarea Generală a Asociaţiei",
+"short": "HCL Vorona nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/223716",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorona-63-2025",
+"path": "local/botosani/vorona/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 63/2025 privind alipire imobile-terenuri avand nr.cadastrale 50964, 54223 -domeniu public al comunei Vorona, rezultand un imobil cu numar cadastral 55544 in suprafata de 27973 mp",
+"short": "HCL Vorona nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/223717",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1123,6 +1566,28 @@
 "council_name": "Consiliul Local al Comunei Vorona",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-botosani--vorona-72-2025",
+"path": "local/botosani/vorona/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorona nr. 72/2025 privind desemnarea a doi reprezentanți ai Consiliului Local Vorona în Consiliul de Administrație al Liceului Tehnologic ”Ștefan cel Mare și Sfânt” Vorona",
+"short": "HCL Vorona nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/vorona-bt/registru-hcl/234192",
+"council": "botosani/vorona",
+"council_name": "Consiliul Local al Comunei Vorona",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

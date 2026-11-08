@@ -61,6 +61,36 @@
      "sha256": "8aca0395a4356d7dc1f09fce428c97ca1aff7f78ea479302460977bc8ab825d7"
     }
    ]
+  },
+  {
+   "slug": "hcl-braila--ulmu-39-2026",
+   "path": "local/braila/ulmu/2026/39",
+   "short": "HCL Ulmu nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 39/2026 pentru aprobarea ajustării tarifelor aferente activităților de colectare și transport al deșeurilor municipale, precum și tarifelor pentru serviciile conexe serviciului de salubrizare, prevăzute în „Contractul de delegare a gestiunii activităților de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare din județul Brăila și salubrizare căi publice în Municipiul",
+   "url": "https://www.primariaulmu.ro/fisiere/HCL-nr.-39-din-20.10.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://www.primariaulmu.ro/fisiere/HCL-nr.-39-din-20.10.2026.pdf",
+     "sha256": "aeb6320e7c49761641e709a80a3003c86547a1bf3113329a27e46ce1862cd354"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--ulmu-40-2026",
+   "path": "local/braila/ulmu/2026/40",
+   "short": "HCL Ulmu nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 40/2026 pentru aprobarea ajustării tarifelor aferente Contractului de delegare a gestiunii serviciului de administrare a stației de transfer Însurăței, depozitul ecologic și stației de sortare Ianca din cadrul Sistemului de Management Integrat al Deșeurilor în Județul Brăila nr. 294/14.12.2021 încheiat cu FCC ENVIRONMENT ROMANIA S.R.L",
+   "url": "https://www.primariaulmu.ro/fisiere/HCL-nr.-40-din-20.10.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://www.primariaulmu.ro/fisiere/HCL-nr.-40-din-20.10.2026.pdf",
+     "sha256": "47368770b4cde3f14cbab7fcfe4e0f889b0d7e1710bb4719b2e65c7d59393f6d"
+    }
+   ]
   }
  ]
 }

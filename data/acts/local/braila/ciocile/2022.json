@@ -268,6 +268,51 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-13-2022",
+"path": "local/braila/ciocile/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 13/2022",
+"short": "HCL Ciocile nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/68160",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--ciocile-14-2022",
+"path": "local/braila/ciocile/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 14/2022 privind aprobarea documentaţiei-cadru pentru închirierea sau concesionarea unor terenuri din domeniul public sau privat al unităţii administrativ- teritoriale comuna Ciocile, administrat de Consiliul Local al comunei Ciocile, judeţul Brăila",
+"short": "HCL Ciocile nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/68161",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-15-2022",
 "path": "local/braila/ciocile/2022/15",
 "kind": "local",
@@ -287,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-16-2022",
+"path": "local/braila/ciocile/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 16/2022 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Ciocile, judeţul Brăila, pentru lunile aprilie, mai si iunie 2022, care conduce şedinţele consiliului şi semnează hotărârile adoptate de acesta",
+"short": "HCL Ciocile nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/68163",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -581,6 +648,29 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-30-2022",
+"path": "local/braila/ciocile/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 30/2022",
+"short": "HCL Ciocile nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/68177",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--ciocile-31-2022",
 "path": "local/braila/ciocile/2022/31",
 "kind": "local",
@@ -735,6 +825,29 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-38-2022",
+"path": "local/braila/ciocile/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 38/2022",
+"short": "HCL Ciocile nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/68185",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--ciocile-39-2022",
 "path": "local/braila/ciocile/2022/39",
 "kind": "local",
@@ -886,6 +999,28 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-46-2022",
+"path": "local/braila/ciocile/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 46/2022 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Ciocile, judeţul Brăila, pentru lunile iulie august si septembrie 2022, care conduce şedinţele consiliului şi semnează hotărârile adoptate de acesta",
+"short": "HCL Ciocile nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/68194",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1045,6 +1180,28 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-54-2022",
+"path": "local/braila/ciocile/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 54/2022 privind desemnarea reprezentantului Consiliului Local al comunei Ciocile, în Consiliul de Administraţie şi în Comisia pentru Evaluarea şi Asigurarea Calităţii, din unitatea de învăţământ preuniversitar de stat, Şcoala Gimnazială Ciocile, judeţul Brăila",
+"short": "HCL Ciocile nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/72584",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-55-2022",
 "path": "local/braila/ciocile/2022/55",
 "kind": "local",
@@ -1086,6 +1243,28 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-57-2022",
+"path": "local/braila/ciocile/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 57/2022 privind aprobarea numarului de indemnizaţii acordate persoanelor cu handicap grav, la nivelul comunei Ciocile, judetul Braila",
+"short": "HCL Ciocile nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-25",
+"latest": "2022-10-25",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/76528",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

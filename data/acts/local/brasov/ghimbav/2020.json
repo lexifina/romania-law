@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-brasov--ghimbav-4-2020",
+"path": "local/brasov/ghimbav/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 4/2020",
+"short": "HCL Ghimbav nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2020-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-5-2020",
 "path": "local/brasov/ghimbav/2020/5",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-brasov--ghimbav-6-2020",
+"path": "local/brasov/ghimbav/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 6/2020 privind actualizare Deviz general la lucrarea „Modernizarea străzilor Gențianei și Zambilei, Orașul Ghimbav, Jud. Brașov” Consiliul Local al Orașului Ghimbav, întrunit în ședință în data de 23.01.2020, Văzând Proiectul de hotărâre, HCL Ghimbav nr. 11/30.01.2019 privind aprobarea Studiu de fezabilitate „Modernizarea străzilor Gențianei și Zambilei, Orașul Ghimbav, Jud. Brașov”, Studiul de fezabilit",
+"short": "HCL Ghimbav nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2020-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--ghimbav-24-2020",
 "path": "local/brasov/ghimbav/2020/24",
 "kind": "local",
@@ -106,6 +150,28 @@
 "from": "2020-03-03",
 "latest": "2020-03-03",
 "portal": "https://primaria-ghimbav.ro/monitorul-oficial-local/documente-si-informatii-financiare/bugetele-aprobate/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ghimbav-82-2020",
+"path": "local/brasov/ghimbav/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 82/2020",
+"short": "HCL Ghimbav nr. 82/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2020-registrul-pentru-evidenta-hotararilor-consiliului-local/",
 "council": "brasov/ghimbav",
 "council_name": "Consiliul Local al Orașului Ghimbav",
 "flags": {

@@ -3,6 +3,21 @@
  "shard": "local/braila/rosiori/2026",
  "acts": [
   {
+   "slug": "hcl-braila--rosiori-15-2026",
+   "path": "local/braila/rosiori/2026/15",
+   "short": "HCL Roșiori nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 15/2026 privind avizarea,rlistei de investitii prioritare pe sistemele de alimentare cu apa in perioada2024- 2053\" si a ,,Listei de investitii prioritare pe sistemele de apa uzata in perioada2024-2053\" Consiliul Local al Comunei Ro;iori, judeful Briila, intrunit in sedin{i ordinari la data de 3L martie 2026; Av6nd in vedere : - Adresa nr.7690 din 19.02.2026 a Operatorului Societatea Compania de Utilitati",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.15-din-31.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.15-din-31.03.2026.pdf",
+     "sha256": "dabd3779e789740b3577103de612db9ced655a8a98aea5c7c8ee44d668b899ef"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--rosiori-23-2026",
    "path": "local/braila/rosiori/2026/23",
    "short": "HCL Roșiori nr. 23/2026",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-23-din-16.04.2026.pdf",
      "sha256": "2889ab87ec888e241c0fc0d122db5c0844625724c543b4caf570bb6d3959ee5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--rosiori-24-2026",
+   "path": "local/braila/rosiori/2026/24",
+   "short": "HCL Roșiori nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 24/2026 privind alegerea Pregedintelui de gedin{d al Consiliului Local al comunei Rogiori, jude}ui Braila, penfiu sedinla din 11 mai2026",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-24-din-11.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-24-din-11.05.2026.pdf",
+     "sha256": "931b89c3136a2a5f84f41d041025906d441322b4ada3827846753a21650e3919"
     }
    ]
   },
@@ -33,6 +63,66 @@
    ]
   },
   {
+   "slug": "hcl-braila--rosiori-38-2026",
+   "path": "local/braila/rosiori/2026/38",
+   "short": "HCL Roșiori nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 38/2026 privind insuqirea acordului de cooperare privind otganizarea 9i exercitarea serviciului administrativ consiliul local al comunei Roqiori, judepl Br6ila' intrunit in gedin!6 r ereqciaceenxnioosfp,dttimoriicrregtaepeaapuuoztesJceenrriprini[dnnatereptaiirdddnicuetpeneata,boinedr,vcldpicl,nceatsoirdatvifernrnieqicutatfdaiidmiiiei.nnalla.iifnaeissldtuaaltiaadginec{tddeuusiocqmeierlmlifaineiapii0nrullpr",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-38-din-09.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-38-din-09.06.2026.pdf",
+     "sha256": "3f486ba914c87bf6df938c1511135809082fab3fc14343f49883fd76623ffd52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--rosiori-41-2026",
+   "path": "local/braila/rosiori/2026/41",
+   "short": "HCL Roșiori nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 41/2026",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-41-din-31.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-41-din-31.07.2026.pdf",
+     "sha256": "a97ecae106cabdedb6217dcfe7c5b480c4232e81b7cc1886ce25e9aa1a15d33b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--rosiori-43-2026",
+   "path": "local/braila/rosiori/2026/43",
+   "short": "HCL Roșiori nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 43/2026",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-43-din-31.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-43-din-31.07.2026.pdf",
+     "sha256": "173f341ff30f4b3316bc769ce455590be0fe003d0f92185ae0a3898469e34138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--rosiori-44-2026",
+   "path": "local/braila/rosiori/2026/44",
+   "short": "HCL Roșiori nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 44/2026",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-44-din-31.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-44-din-31.07.2026.pdf",
+     "sha256": "876b207d6d4b475f604679084048474d317958f7a8b50ad7ae5fd0028b7f144c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--rosiori-51-2026",
    "path": "local/braila/rosiori/2026/51",
    "short": "HCL Roșiori nr. 51/2026",
@@ -44,6 +134,21 @@
      "units": 1,
      "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-51-din-25.09.2026.pdf",
      "sha256": "9a58abfd0630b0be111b579f4fa077925050d2456e11b495c9391f9895981452"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--rosiori-9-2026",
+   "path": "local/braila/rosiori/2026/9",
+   "short": "HCL Roșiori nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 9/2026",
+   "url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.9-din-23.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.9-din-23.02.2026.pdf",
+     "sha256": "a940f0ecaf4d672e91a9de44d474f7806d403ffd467312f3830f9f9021c18fee"
     }
    ]
   }

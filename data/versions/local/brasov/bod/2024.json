@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/bod/2024",
+ "acts": [
+  {
+   "slug": "hcl-brasov--bod-111-2024",
+   "path": "local/brasov/bod/2024/111",
+   "short": "HCL Bod nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bod nr. 111/2024 privind aprobarea Comisiei de specialitate nr.1 a Consiliului Local Bod, pentru activități economico-financiare, muncă și protecție socială, protecție copii CONSILIUL LOCAL al COMUNEI BOD Având în vedere: ▪ Proiectul de hotărâre nr.28019/04.11.2024, inițiat de Primarul comunei Bod; ▪ Referatul de aprobare nr. 28021/ 04.11.2024 întocmit de Primarul comunei Bod; ▪ Raportul de specialitate nr. 28020/",
+   "url": "https://www.primariabod.ro/consiliul_local/comisii_de_specialitate/",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://www.primariabod.ro/wp-content/uploads/2024/11/HCL_111_11112024_Comisia-nr.1.pdf",
+     "sha256": "f1c76302a7d12037333b9b183e90dbbcc973084255f99297086a1a1b7e7c6333"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--bod-112-2024",
+   "path": "local/brasov/bod/2024/112",
+   "short": "HCL Bod nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bod nr. 112/2024 privind aprobarea Comisiei de specialitate nr.2 a Consiliului Local Bod, pentru activități social-culturale, culte, învățământ, sănătate și familie, tineret și sport, agricultură și dezvoltare rurală CONSILIUL LOCAL al COMUNEI BOD Având în vedere: ▪ Proiectul de hotărâre nr.28022/04.11.2024, inițiat de Primarul comunei Bod; ▪ Referat de aprobare nr.28024/04.11.2024, întocmit de Primarul comunei Bo",
+   "url": "https://www.primariabod.ro/consiliul_local/comisii_de_specialitate/",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://www.primariabod.ro/wp-content/uploads/2024/11/HCL_112_11112024_Comisia-nr.2.pdf",
+     "sha256": "286133eb40d0c519f577f35ae9822526a1a35bb7039cde6b753b2dcb9db79134"
+    }
+   ]
+  }
+ ]
+}

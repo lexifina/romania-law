@@ -23,6 +23,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-brasov--brasov-456-2020",
+"path": "local/brasov/brasov/2020/456",
+"kind": "local",
+"year": "2020",
+"number": "456",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brașov nr. 456/2020 privind procedura de expropriere - imobil Str",
+"short": "HCL Brașov nr. 456/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-14",
+"latest": "2020-08-14",
+"portal": "https://www.brasovcity.ro/monitorul-oficial-local/alte-documente",
+"council": "brasov/brasov",
+"council_name": "Consiliul Local al Municipiului Brașov",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

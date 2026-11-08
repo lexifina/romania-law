@@ -3,6 +3,141 @@
  "shard": "local/braila/tudor-vladimirescu/2025",
  "acts": [
   {
+   "slug": "hcl-braila--tudor-vladimirescu-17-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/17",
+   "short": "HCL Tudor Vladimirescu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 17/2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204771",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-18-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/18",
+   "short": "HCL Tudor Vladimirescu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 18/2025 privind aprobarea actualizării organigramei si statului de funcții a aparatului de specialitate al Primarului comunei Tudor Vladimirescu",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204772",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-19-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/19",
+   "short": "HCL Tudor Vladimirescu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 19/2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204773",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-20-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/20",
+   "short": "HCL Tudor Vladimirescu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 20/2025 privind aprobarea închirierii disponibilului de pajişti din patrimoniul privat al comunei Tudor Vladimirescu, precum și aprobarea Regulamentului privind închirierea prin atribuire directă",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204774",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-21-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/21",
+   "short": "HCL Tudor Vladimirescu nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 21/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Tudor Vladimirescu , județul Brăila pentru anul 2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204775",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-22-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/22",
+   "short": "HCL Tudor Vladimirescu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 22/2025 privind aprobarea Planului de asigurare cu resurse financiare, umane și materiale pentru gestionarea situațiilor de urgenta pe teritoriul administrativ al comunei Tudor Vladimirescu în anul 2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204776",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/204776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-23-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/23",
+   "short": "HCL Tudor Vladimirescu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 23/2025 privind ieşirea din Asociaţia Comunelor din România a Comunei Tudor Vladimirescu,judeţul Brăila",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/206653",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/206653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-24-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/24",
+   "short": "HCL Tudor Vladimirescu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 24/2025 privind alegerea președintelui de ședință pentru lunile mai, iunie, iulie 2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/208256",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/208256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-25-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/25",
+   "short": "HCL Tudor Vladimirescu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 25/2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/208257",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/208257",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--tudor-vladimirescu-26-2025",
    "path": "local/braila/tudor-vladimirescu/2025/26",
    "short": "HCL Tudor Vladimirescu nr. 26/2025",
@@ -88,6 +223,21 @@
      "from": "2025-06-05",
      "units": 1,
      "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/208263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-32-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/32",
+   "short": "HCL Tudor Vladimirescu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 32/2025 privind stabilirea normativelor proprii de consum carburanți pentru autovehiculele și utilajele aflate în dotarea comunei Tudor Vladimirescu",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/208264",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/208264",
      "sha256": null
     }
    ]
@@ -333,6 +483,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--tudor-vladimirescu-49-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/49",
+   "short": "HCL Tudor Vladimirescu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 49/2025 privind aprobarea vânzării directe, fără licitație publică, a unui teren proprietate privată a u.a.t. Comuna Tudor Vladimirescu, sat Scorțaru Vechi, strada Învățătorilor, nr.14, județul Brăila, înscris în cartea funciară nr.81536",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/217752",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/217752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-50-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/50",
+   "short": "HCL Tudor Vladimirescu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 50/2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/217753",
+   "versions": [
+    {
+     "from": "2025-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/217753",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--tudor-vladimirescu-51-2025",
    "path": "local/braila/tudor-vladimirescu/2025/51",
    "short": "HCL Tudor Vladimirescu nr. 51/2025",
@@ -538,6 +718,51 @@
      "from": "2025-09-11",
      "units": 1,
      "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/224544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-65-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/65",
+   "short": "HCL Tudor Vladimirescu nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 65/2025 privind desemnarea unui membru al Consiliului local al Comunei Tudor Vladimirescu pentru a face parte din Comisia de evaluarea și asigurare a calității (C.E.A.C.), în educație, în anul școlar 2025-2026",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/226691",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/226691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-66-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/66",
+   "short": "HCL Tudor Vladimirescu nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 66/2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/226692",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/226692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--tudor-vladimirescu-67-2025",
+   "path": "local/braila/tudor-vladimirescu/2025/67",
+   "short": "HCL Tudor Vladimirescu nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tudor Vladimirescu nr. 67/2025",
+   "url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/226693",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tudorvladimirescu-br/registru-hcl/226693",
      "sha256": null
     }
    ]

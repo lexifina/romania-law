@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/ghimbav/2019",
+"acts": [
+{
+"slug": "hcl-brasov--ghimbav-4-2019",
+"path": "local/brasov/ghimbav/2019/4",
+"kind": "local",
+"year": "2019",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 4/2019",
+"short": "HCL Ghimbav nr. 4/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-02",
+"latest": "2019-10-02",
+"portal": "https://primaria-ghimbav.ro/registrul-agricol/oferte-vanzare-teren-si-comunicari-de-acceptare/2019-legea-17-2014/",
+"council": "brasov/ghimbav",
+"council_name": "Consiliul Local al Orașului Ghimbav",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

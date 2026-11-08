@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-botosani--vorniceni-10-2026",
+"path": "local/botosani/vorniceni/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 10/2026 privind actualizarea ROF",
+"short": "HCL Vorniceni nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/03/Hotararea-NR.-10-privind-actualizarea-ROF.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorniceni-11-2026",
 "path": "local/botosani/vorniceni/2026/11",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Vorniceni",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-botosani--vorniceni-12-2026",
+"path": "local/botosani/vorniceni/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 12/2026 privind aprobarea Strategiei de Dezvoltare Locala",
+"short": "HCL Vorniceni nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/03/Hotararea-NR.-12-privind-aprobarea-Strategiei-de-Dezvoltare-Locala.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +113,94 @@
 }
 },
 {
+"slug": "hcl-botosani--vorniceni-14-2026",
+"path": "local/botosani/vorniceni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 14/2026 privind declararea de uz și interes public local, a investiției \"Sistem de captare și stocare apa pentru situații de urgență in localitatea Vorniceni, județul Botoșani” Consiliul Local al comunei Vorniceni, întrunit în ședința ordinară din data de 13.03.2026; Având în vedere:  referatul de aprobare nr. 908 / 06.03.2026 al primarului comunei Vorniceni,  raportul de specialitate nr. 787 / 27.02.20",
+"short": "HCL Vorniceni nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/03/Hotararea-NR.-14-declarare-de-uz-public-bazin-captare-apa-SVSU.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorniceni-15-2026",
+"path": "local/botosani/vorniceni/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 15/2026 privind completarea si actualizarea inventarului domeniului public",
+"short": "HCL Vorniceni nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/04/Hotararea-NR.-15-privind-completarea-si-actualizarea-inventarului-domeniului-public-1.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorniceni-16-2026",
+"path": "local/botosani/vorniceni/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 16/2026 privind desemnarea unui număr de 2 consilieri locali care să facă parte din comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al comunei Vorniceni, județul Botoșani pentru anul 2025 Consiliul Local al comunei VORNICENI, județul BOTOȘANI: Întrunit în ședința ordinară din data de 13.03.2025, Având în vedere:  referatul de aprobare al proiectului de hotărâre,  r",
+"short": "HCL Vorniceni nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/03/Hotararea-NR.-16-COMISIE-EVALUARE-SECRETAR-GENERAL.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorniceni-17-2026",
+"path": "local/botosani/vorniceni/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 17/2026 privind aprobarea achiziționării unor servicii de realizare a Strategiei de dezvoltare Locală a comunei Vorniceni, județul Botoșani, pentru perioada 2025-2031 Având în vedere temeiurile juridice, respectiv prevederile: a) Art. 120 alin. (1) și art. 121 alin. (1) și alin. (2) din Constituția României, republicată; b) Art. 3 și art. 4 din Carta europeană a autonomiei locale, adoptată la Strasbourg l",
+"short": "HCL Vorniceni nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/03/Hotararea-NR.-17-APROBARE-SDL.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--vorniceni-20-2026",
 "path": "local/botosani/vorniceni/2026/20",
 "kind": "local",
@@ -84,6 +216,72 @@
 "from": "2026-04-09",
 "latest": "2026-04-09",
 "portal": "https://primaria-vorniceni.ro/categorie-documente/hotarari-ale-consiliului-local-2026/",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorniceni-21-2026",
+"path": "local/botosani/vorniceni/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 21/2026 privind completarea si actualizarea inventarului domeniului public si privat",
+"short": "HCL Vorniceni nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/04/Hotararea-NR.-21-privind-completarea-si-actualizarea-inventarului-domeniului-public-si-privat.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorniceni-22-2026",
+"path": "local/botosani/vorniceni/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 22/2026 privind aprobarea infintarii Serviciului Public Comunitar Local",
+"short": "HCL Vorniceni nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/04/Hotararea-NR.-22-privind-aprobarea-infintarii-Serviciului-Public-Comunitar-Local.pdf",
+"council": "botosani/vorniceni",
+"council_name": "Consiliul Local al Comunei Vorniceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--vorniceni-23-2026",
+"path": "local/botosani/vorniceni/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vorniceni nr. 23/2026 privind aprobarea executiei bugetare pentru trimestrul I al anului 2026",
+"short": "HCL Vorniceni nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://primaria-vorniceni.ro/wp-content/uploads/2026/04/Hotararea-NR.-23-privind-aprobarea-executiei-bugetare-pentru-trimestrul-I-al-anului-2026.pdf",
 "council": "botosani/vorniceni",
 "council_name": "Consiliul Local al Comunei Vorniceni",
 "flags": {

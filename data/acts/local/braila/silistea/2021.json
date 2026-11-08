@@ -377,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-braila--silistea-18-2021",
+"path": "local/braila/silistea/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 18/2021 privind instaurarea unei taxe speciale pentru înregistrarea dosarelor de vânzare teren extravilan",
+"short": "HCL Siliștea nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/silistea-br/registru-hcl/22812",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--silistea-19-2021",
 "path": "local/braila/silistea/2021/19",
 "kind": "local",
@@ -397,6 +419,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--silistea-20-2021",
+"path": "local/braila/silistea/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 20/2021 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului Local al Comunei Siliştea din lunilie aprilie, mai şi iunie 2021",
+"short": "HCL Siliștea nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/silistea-br/registru-hcl/24310",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -574,6 +618,28 @@
 "council_name": "Consiliul Local al Comunei Siliștea",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--silistea-29-2021",
+"path": "local/braila/silistea/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Siliștea nr. 29/2021 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Siliștea din lunile iulie, august și septembrie 2021",
+"short": "HCL Siliștea nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-08",
+"latest": "2021-07-08",
+"portal": "https://emol.ro/silistea-br/registru-hcl/30639",
+"council": "braila/silistea",
+"council_name": "Consiliul Local al Comunei Siliștea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

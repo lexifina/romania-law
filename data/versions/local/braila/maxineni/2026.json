@@ -3,6 +3,21 @@
  "shard": "local/braila/maxineni/2026",
  "acts": [
   {
+   "slug": "hcl-braila--maxineni-1-2026",
+   "path": "local/braila/maxineni/2026/1",
+   "short": "HCL Măxineni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 1/2026 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/253715",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/253715",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-10-2026",
    "path": "local/braila/maxineni/2026/10",
    "short": "HCL Măxineni nr. 10/2026",
@@ -78,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-15-2026",
+   "path": "local/braila/maxineni/2026/15",
+   "short": "HCL Măxineni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 15/2026",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/253742",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/253742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-16-2026",
+   "path": "local/braila/maxineni/2026/16",
+   "short": "HCL Măxineni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 16/2026 privind aprobarea ACT ADIȚIONAL nr. 5 la Contractul de concesiune nr. 589/01.03.2015 (denumit în continuare ''Contract'')",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/253744",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/253744",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-17-2026",
    "path": "local/braila/maxineni/2026/17",
    "short": "HCL Măxineni nr. 17/2026",
@@ -123,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-2-2026",
+   "path": "local/braila/maxineni/2026/2",
+   "short": "HCL Măxineni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 2/2026 privind modificarea și completarea Hotărârii nr. 86 din data de 30.09.2025 privind implementarea proiectului ''Dotarea Serviciului Voluntar pentru Situații de Urgență al comunei Măxineni, Județul Brăila cu utilaje moderne'' finanțat din Fondul European Agricol pentru Dezvoltare Rurală - Intervenția I.3 Renovarea, dezvoltarea satelor și îmbunătățirea serviciilor pentru populația rurală prin Asociația Grupul de Acțiune Locală Vrancea Sud",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/253717",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/253717",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-20-2026",
    "path": "local/braila/maxineni/2026/20",
    "short": "HCL Măxineni nr. 20/2026",
@@ -133,6 +193,21 @@
      "from": "2026-03-05",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/257256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-21-2026",
+   "path": "local/braila/maxineni/2026/21",
+   "short": "HCL Măxineni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 21/2026",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/257258",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/257258",
      "sha256": null
     }
    ]
@@ -178,6 +253,21 @@
      "from": "2026-03-05",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/257264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-25-2026",
+   "path": "local/braila/maxineni/2026/25",
+   "short": "HCL Măxineni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 25/2026 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/264654",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/264654",
      "sha256": null
     }
    ]
@@ -243,6 +333,51 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-3-2026",
+   "path": "local/braila/maxineni/2026/3",
+   "short": "HCL Măxineni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 3/2026 privind aprobarea modalității de decontare a cheltuielilor de transport pentru funcționarii public și personalul contractual din cadrul familiei ocupaționale ''Administrație'' din cadrul aparatului de specialitate al primarului și al instituțiilor și serviciilor publice de interes local, înființate în subordinea, coordonarea sau autoritatea consiliilor locale, din comuna Măxineni, județul Brăila",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/253718",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/253718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-30-2026",
+   "path": "local/braila/maxineni/2026/30",
+   "short": "HCL Măxineni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 30/2026 privind acordarea unui ajutor financiar persoanelor cu handicap grav sau accentuat aflate în situații de vulnerabilitate și persoanelor aflate în situații de dificultate și a persoanelor cu afecțiuni oncologice, pentru plata impozitului aferent locuinței de domiciliu datorat bugetului local al comunei Măxineni pentru anul 2026",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/264659",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/264659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-31-2026",
+   "path": "local/braila/maxineni/2026/31",
+   "short": "HCL Măxineni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 31/2026",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/264660",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/264660",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-32-2026",
    "path": "local/braila/maxineni/2026/32",
    "short": "HCL Măxineni nr. 32/2026",
@@ -258,6 +393,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-33-2026",
+   "path": "local/braila/maxineni/2026/33",
+   "short": "HCL Măxineni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 33/2026 privind intrarea în proces de dizolvare a SC Amenajare și întreținere comunală Măxineni SRL, fără numirea unui lichidator",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/264669",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/264669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-34-2026",
+   "path": "local/braila/maxineni/2026/34",
+   "short": "HCL Măxineni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 34/2026 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/264670",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/264670",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-35-2026",
    "path": "local/braila/maxineni/2026/35",
    "short": "HCL Măxineni nr. 35/2026",
@@ -268,6 +433,51 @@
      "from": "2026-04-27",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/264671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-36-2026",
+   "path": "local/braila/maxineni/2026/36",
+   "short": "HCL Măxineni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 36/2026 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/272853",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/272853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-37-2026",
+   "path": "local/braila/maxineni/2026/37",
+   "short": "HCL Măxineni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 37/2026",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/272854",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/272854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-38-2026",
+   "path": "local/braila/maxineni/2026/38",
+   "short": "HCL Măxineni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 38/2026 privind aprobarea modificării și completării unor prevederi din Dispoziții Generale ale Contractului de Delegare Gestiunii Serviciilor Publice de Alimentare cu Apă și de Canalizare nr. 670 din 10.09.2009, cu modificările și completările ulterioare, prin Actul Adițional nr. 27 cu Anexele nr. 1-3 părți integrante, precum și acordarea unor mandate speciale",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/272855",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/272855",
      "sha256": null
     }
    ]
@@ -298,6 +508,21 @@
      "from": "2026-02-18",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/253720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-40-2026",
+   "path": "local/braila/maxineni/2026/40",
+   "short": "HCL Măxineni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 40/2026 privind aprobarea închirierii în vederea utilizării temporare ca Pășune a suprafeței totale de 600 HA prin atribuire directă a terenurilor agricole disponibile, aflate în proprietatea privată a comunei Măxineni",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/272857",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/272857",
      "sha256": null
     }
    ]
@@ -378,6 +603,66 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-46-2026",
+   "path": "local/braila/maxineni/2026/46",
+   "short": "HCL Măxineni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 46/2026 privind revocarea HCL nr. 83/2024 privind aprobare ACT ADIȚIONAL nr. 3 la Contractul de concesiune nr. 589/01.03.2015",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/272878",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/272878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-47-2026",
+   "path": "local/braila/maxineni/2026/47",
+   "short": "HCL Măxineni nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 47/2026 privind revocarea HCL nr. 104/2025 privind aprobare ACT ADIȚIONAL nr. 4 la Contractul de concesiune nr. 589/01.03.2015",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/272879",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/272879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-48-2026",
+   "path": "local/braila/maxineni/2026/48",
+   "short": "HCL Măxineni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 48/2026",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/272880",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/272880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-49-2026",
+   "path": "local/braila/maxineni/2026/49",
+   "short": "HCL Măxineni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 49/2026 privind concesionarea prin licitație a două cabinete medicale umane situate în dispensarul medical uman din localitatea Latinu, str. Șoseaua Focșani, nr. 9 , comuna Măxineni, județul Brăila și dispensarul mediacl uman (construcție parțială) din localitatea Măxineni, str. Șoseaua Matei Basarab, nr. 58, comuna Măxineni, județul Brăila în vederea desfășurări de activități medicale cod CAEN 8623 - activități de asistență stomatologică",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/272881",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/272881",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-5-2026",
    "path": "local/braila/maxineni/2026/5",
    "short": "HCL Măxineni nr. 5/2026",
@@ -418,6 +703,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/286673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-52-2026",
+   "path": "local/braila/maxineni/2026/52",
+   "short": "HCL Măxineni nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 52/2026 privind alegerea președintelui de ședință al consiliului local al comunei Măxineni, județul Brăila",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/286674",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/286674",
      "sha256": null
     }
    ]
@@ -468,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--maxineni-56-2026",
+   "path": "local/braila/maxineni/2026/56",
+   "short": "HCL Măxineni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 56/2026 privind revocarea HCL nr. 30/2026 privind acordarea unui ajutor financiar persoanelor cu handicap grav sau accentuat aflate în situații de vulenrabilitate și persoanelor aflate în situații de dificultate și a persoanelor cu afecțiuni oncologice, pentru plata impozitului aferent locuinței de domiciliu datorat bugetului local al comunei Măxineni pentru anul 2026",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/286696",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/286696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--maxineni-57-2026",
    "path": "local/braila/maxineni/2026/57",
    "short": "HCL Măxineni nr. 57/2026",
@@ -478,6 +793,21 @@
      "from": "2026-09-09",
      "units": 1,
      "source_url": "https://emol.ro/maxineni-br/registru-hcl/286716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--maxineni-58-2026",
+   "path": "local/braila/maxineni/2026/58",
+   "short": "HCL Măxineni nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măxineni nr. 58/2026 privind aprobarea Statutului Comunei Măxineni, județul Brăila",
+   "url": "https://emol.ro/maxineni-br/registru-hcl/286717",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/maxineni-br/registru-hcl/286717",
      "sha256": null
     }
    ]

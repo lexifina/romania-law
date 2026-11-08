@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-2-2025",
+"path": "local/braila/ciocile/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 2/2025",
+"short": "HCL Ciocile nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/225185",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-braila--ciocile-3-2025",
 "path": "local/braila/ciocile/2025/3",
 "kind": "local",
@@ -47,6 +70,51 @@
 }
 },
 {
+"slug": "hcl-braila--ciocile-4-2025",
+"path": "local/braila/ciocile/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 4/2025",
+"short": "HCL Ciocile nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/225187",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-braila--ciocile-5-2025",
+"path": "local/braila/ciocile/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 5/2025 privind prelungirea perioadei de implementare a proiectului cu Titlu “Achizitia unei autospeciale pentru stingerea incendiilor”, Nr. contract: C1920074X205520910055 /29.06.2023S, incheiat in data de 29.06.2023 cu Agentia Pentru Finantarea Investitiilor Rurale",
+"short": "HCL Ciocile nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/225188",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--ciocile-6-2025",
 "path": "local/braila/ciocile/2025/6",
 "kind": "local",
@@ -66,6 +134,28 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-7-2025",
+"path": "local/braila/ciocile/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 7/2025 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Ciocile, judeţul Brăila, pentru lunile februarie, martie și aprilie 2025, care conduce şedinţele consiliului şi semnează hotărârile adoptate de acesta",
+"short": "HCL Ciocile nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/225190",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -287,6 +377,29 @@
 "council_name": "Consiliul Local al Comunei Ciocile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--ciocile-18-2025",
+"path": "local/braila/ciocile/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocile nr. 18/2025",
+"short": "HCL Ciocile nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-17",
+"latest": "2025-09-17",
+"portal": "https://emol.ro/ciocile-br/registru-hcl/225201",
+"council": "braila/ciocile",
+"council_name": "Consiliul Local al Comunei Ciocile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

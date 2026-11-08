@@ -49,6 +49,50 @@
 }
 },
 {
+"slug": "hcl-braila--traian-31-2026",
+"path": "local/braila/traian/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Traian nr. 31/2026 privind atribuirea în folosință a terenului în suprafață de 750 m.p. pentru construirea unei locuințe proprietate personală, în conformitate cu prevederile Legii nr. 15/203, cu modificările și completările ulterioare numitului Duca Fanel",
+"short": "HCL Traian nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/traian-br/registru-hcl/272271",
+"council": "braila/traian",
+"council_name": "Consiliul Local al Comunei Traian",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--traian-32-2026",
+"path": "local/braila/traian/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Traian nr. 32/2026 privind atribuirea în folosință gratuită a terenului în suprfață de 750 m.p. pentru construirea unei locuințe proprietate personală, în conformitate cu prevederile Legii nr. 15/2003, cu modificările și completările ulterioare numitului Voicila Constantin-Florentin",
+"short": "HCL Traian nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/traian-br/registru-hcl/272272",
+"council": "braila/traian",
+"council_name": "Consiliul Local al Comunei Traian",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-braila--traian-33-2026",
 "path": "local/braila/traian/2026/33",
 "kind": "local",
@@ -289,6 +333,29 @@
 "council_name": "Consiliul Local al Comunei Traian",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-braila--traian-44-2026",
+"path": "local/braila/traian/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Traian nr. 44/2026",
+"short": "HCL Traian nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/traian-br/registru-hcl/279117",
+"council": "braila/traian",
+"council_name": "Consiliul Local al Comunei Traian",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

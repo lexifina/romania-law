@@ -1,0 +1,74 @@
+{
+"country": "RO",
+"shard": "local/brasov/fagaras/2026",
+"acts": [
+{
+"slug": "hcl-brasov--fagaras-143-2026",
+"path": "local/brasov/fagaras/2026/143",
+"kind": "local",
+"year": "2026",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 143/2026",
+"short": "HCL Făgăraș nr. 143/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/9303",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-144-2026",
+"path": "local/brasov/fagaras/2026/144",
+"kind": "local",
+"year": "2026",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 144/2026",
+"short": "HCL Făgăraș nr. 144/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/9304",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--fagaras-229-2026",
+"path": "local/brasov/fagaras/2026/229",
+"kind": "local",
+"year": "2026",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 229/2026 pentru autorizarea SC DARIOSERGIO SRL privind activitatea de jocuri de noroc pe raza municipiului Făgăraș și încetarea efectelor HCL.nr. 79/08.04.2026",
+"short": "HCL Făgăraș nr. 229/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/9456",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,51 @@
  "shard": "local/brasov/cristian/2026",
  "acts": [
   {
+   "slug": "hcl-brasov--cristian-100-2026",
+   "path": "local/brasov/cristian/2026/100",
+   "short": "HCL Cristian nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 100/2026 privind aprobarea exercițiului bugetar pentru trimestrul I al anului 2026 pentru bugetul local, bugetul instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii și subvenții",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/09/HOTARAREA-NR.-100-din-31.08.2026-privind-aprobarea-exercitiului-bugetar-pentru-trimestrul-I-al-anului-2026-pentru-bugetul-local-bugetul-institutiilor-publice.pdf",
+     "sha256": "14cfcf6e5fabb7d266bbbb584e4d00c94c3647c28611007a06682c1a8c6dcadf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-101-2026",
+   "path": "local/brasov/cristian/2026/101",
+   "short": "HCL Cristian nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 101/2026 privind aprobarea exercițiului bugetar pentru trimestrul II al anului 2026 pentru bugetul local, bugetul instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii și subvenții",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/09/HOTARAREA-NR.-101-din-31.08.2026-privind-aprobarea-exercitiului-bugetar-pentru-trimestrul-II-al-anului-2026-pentru-bugetul-local-bugetul-institutiilor-publice.pdf",
+     "sha256": "45f5dc36ee76bb21c33def07ad3f70cd7a6c65ce1b5c4450169daff1a2d41bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-102-2026",
+   "path": "local/brasov/cristian/2026/102",
+   "short": "HCL Cristian nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 102/2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "de49dded5d88ec0a68c9e5aaa117b0003b00c4cf37fdfc8313316af3b9a58772"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--cristian-104-2026",
    "path": "local/brasov/cristian/2026/104",
    "short": "HCL Cristian nr. 104/2026",
@@ -29,6 +74,21 @@
      "units": 1,
      "source_url": "https://primariacristian.ro/wp-content/uploads/2026/09/HOTARAREA-NR.-105-din-31.08.2026-privind-aprobarea-Actului-aditional-nr.-92026-la-Contractul-de-Delegare-a-Gestiunii-Serviciului-de-Transport-Public-Local-de-Calatori.pdf",
      "sha256": "8224e758d1654e7d1a7ef4d24d3941cfb449f9496ec21050e5149d66ba527c3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-106-2026",
+   "path": "local/brasov/cristian/2026/106",
+   "short": "HCL Cristian nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 106/2026 privind aprobarea procesului verbal al ședinței ordinare din data de 17.07.2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/09/HOTARAREA-NR.-106-din-31.08.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-data-de-17.07.2026.pdf",
+     "sha256": "08d93ec0423feb8e26b166b13e53b649704ba9779a70ff8f8d92b7bc17e163b3"
     }
    ]
   },
@@ -558,6 +618,246 @@
    ]
   },
   {
+   "slug": "hcl-brasov--cristian-72-2026",
+   "path": "local/brasov/cristian/2026/72",
+   "short": "HCL Cristian nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 72/2026 privind aprobarea procesului verbal al ședinței ordinare din data de 12.05.2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/06/HOTARAREA-NR.-72-din-18.06.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-data-de-12.05.2026.pdf",
+     "sha256": "1b154fdb4a33ae5d44f1e424bf59465a86cc3ca4913228c73f206031c5e06956"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-73-2026",
+   "path": "local/brasov/cristian/2026/73",
+   "short": "HCL Cristian nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 73/2026 privind aprobarea procesului verbal al ședinței extraordinare din data de 28.05.2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/06/HOTARAREA-NR.-73-din-18.06.2026-privind-aprobarea-procesului-verbal-al-sedintei-extraordinare-din-data-de-28.05.2026.pdf",
+     "sha256": "8df19eb74cd8b775cdb08a7908159e9f34aa763dee22109bfb319616181bf3f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-74-2026",
+   "path": "local/brasov/cristian/2026/74",
+   "short": "HCL Cristian nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 74/2026 privind aprobarea procesului verbal al ședinței extraordinare din data de 04.06.2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/06/HOTARAREA-NR.-74-din-18.06.2026-privind-aprobarea-procesului-verbal-al-sedintei-extraordinare-din-data-de-04.06.2026.pdf",
+     "sha256": "5cb5ba4fe9c7acb79e3ca802227a216c54cddc1fc58de13dfbcaad9a4809089e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-75-2026",
+   "path": "local/brasov/cristian/2026/75",
+   "short": "HCL Cristian nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 75/2026 privind aplicarea mecanismului de repartizare a costurilor aferente serviciului public de transport public local",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/06/HOTARAREA-NR.-75-din-18.06.2026-privind-aplicarea-mecanismului-de-repartizare-a-costurilor-aferente-serviciului-public-de-transport-public-local.pdf",
+     "sha256": "5dd04ad7afb51c17985d9eb6ea63bad8948d7d8ac0745e19c10f2da348899f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-76-2026",
+   "path": "local/brasov/cristian/2026/76",
+   "short": "HCL Cristian nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 76/2026 privind modificarea și completarea Hotărârii de Consiliu Local nr. 24/30.01.2023 privind aprobarea declanșării procedurilor de expropriere a imobilelor proprietate privată afectate de coridorul de expropriere aferent lucrărilor de utilitate publică de interes local",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/06/HOTARAREA-NR.-76-din-18.06.2026-privind-modificarea-si-completarea-Hotararii-de-Consiliu-Local-nr.-24-30.01.2023-privind-aprobarea-declansarii-procedurilor-de-expropriere.pdf",
+     "sha256": "2a4a94a253e8757ec1a31187659f9af2e13e9ae3f5200462bbb7d2dda20b284c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-77-2026",
+   "path": "local/brasov/cristian/2026/77",
+   "short": "HCL Cristian nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 77/2026 privind aprobarea prelungirii închirierii spațiului cu destinația locuință, situat în Cristian, str. Teilor, nr. 3, jud",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/06/HOTARAREA-NR.-77-din-18.06.2026-privind-aprobarea-prelungirii-inchirierii-spatiului-cu-destinatia-locuinta-situat-in-Cristian-str.-Teilor-nr.-3-jud.-Brasov.pdf",
+     "sha256": "53bafe0fd9ccd71d23143d3e34b25d4a0ec198ab09ff1e6911dcff658d049490"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-78-2026",
+   "path": "local/brasov/cristian/2026/78",
+   "short": "HCL Cristian nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 78/2026 privind mandatarea Agenției Metropolitane pentru Dezvoltare Durabilă Brașov de către U.A.T Comuna Cristian în vederea organizării și exercitării în comun a unor activități în domeniul achizițiilor publice, atribuții stabilite prin lege autorităților administrației pub",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "c1b0975e5d30a52843481d514373cd5a93060a4b5c681cb503fe9d5abb94ccab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-79-2026",
+   "path": "local/brasov/cristian/2026/79",
+   "short": "HCL Cristian nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 79/2026 privind aprobarea prelungirii contractului de închiriere nr. 500 din 24.04.1998 având ca obiect spațiul situat în Cristian, str. Lungă, nr. 103, către DIGI România S.A",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/06/HOTARAREA-NR.-79-din-18.06.2026-privind-aprobarea-prelungirii-contractului-de-inchiriere-nr.-500-din-24.04.1998.pdf",
+     "sha256": "d4e1194cca065d2727654c21a4a7576c6343c74cb4f924e229b9ffcaa6cd5207"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-80-2026",
+   "path": "local/brasov/cristian/2026/80",
+   "short": "HCL Cristian nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 80/2026 privind alegerea președintelui de ședință al Consiliului Local Cristian pentru ședința extraordinară din data de 25.06.2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "9f6768b6afcf3ab3798d2ae31fb5fe28caea74bd786f77cea91e06826f7b0f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-81-2026",
+   "path": "local/brasov/cristian/2026/81",
+   "short": "HCL Cristian nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 81/2026 privind aprobarea închirierii unor bunuri aparținând domeniului privat a comunei Cristian către S.C",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "acc4036d5267ab97f3652fe8aa8392f5a4d53f3685b44f147553ad97e4838749"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-82-2026",
+   "path": "local/brasov/cristian/2026/82",
+   "short": "HCL Cristian nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 82/2026 pentru modificarea și actualizarea art. 2, art. 3 și art. 4 din Hotărârea Consiliului Local al comunei Cristian nr. 150/28.11.2023 privind aprobarea accesării Programului-cheie 1 – Surse regenerabile de energie și stocarea energiei prin apelul de finanțare: “Sprijinir",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/07/HOTARAREA-NR.-82-din-17.07.2026-pentru-modificarea-si-actualizarea-art.-2-art.-3-si-art.-4-din-Hotararea-Consiliului-Local-al-comunei-Cristian-nr.-150-din-28.11.2023.pdf",
+     "sha256": "951ae85070bccc24127ad88998b5926498d1226617f1963154bb2b4fccd30eb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-83-2026",
+   "path": "local/brasov/cristian/2026/83",
+   "short": "HCL Cristian nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 83/2026 privind trecerea din domeniul public al comunei Cristian în domeniul privat al comunei Cristian a imobilului teren înscris în Cartea Funciară nr. 108703 a localității Cristian, identificat prin nr. cadastral 108703 în suprafață de 79 mp, având categoria de folosință a",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/07/HOTARAREA-NR.-83-din-22.07.2026-privind-trecerea-din-domeniul-public-al-comunei-Cristian-in-domeniul-privat-al-comunei-Cristian-a-imobilului-teren-inscris-in-Cartea-Funciara-nr.-108703.pdf",
+     "sha256": "be50e1aea4ffc5cfb19e99cc2e4e7f58827221182c8174ac94335371679ff588"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-84-2026",
+   "path": "local/brasov/cristian/2026/84",
+   "short": "HCL Cristian nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 84/2026 privind înscrierea în Cartea Funciară a dreptului de proprietate în favoarea comunei Cristian, conform documentației întocmite de Topcon SRL, pentru imobilul în suprafață de 873 mp ( ce se compune din CF 104269, CF 104270, CF 104271, CF 104272, CF 109821, CF 104273, C",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "df31dadf422890b2def9e4000b3e10be687dbcc785f407cf25b25cfa13ffb7ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-86-2026",
+   "path": "local/brasov/cristian/2026/86",
+   "short": "HCL Cristian nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 86/2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "7119f0208390cb594c1d5f6e1ee878ba3fe2029bcdeaabe3f8608e4eda6f06d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-87-2026",
+   "path": "local/brasov/cristian/2026/87",
+   "short": "HCL Cristian nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 87/2026 privind luarea la cunoștință a Declarației de renunțare autentificată sub nr. 1466 din data de 21 mai 2026 la N.P Dr",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "4ae856cf815d4aa29502d214c3570b523ae987b54d520b2a2f292ebc590efda2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-88-2026",
+   "path": "local/brasov/cristian/2026/88",
+   "short": "HCL Cristian nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 88/2026 privind înscrierea dreptului de proprietate, în favoarea comunei Cristian pentru imobilul teren cu indicativ cadastral DE 1241, situat în comuna Cristian, având categoria de folosință drum de exploatare agricolă și atestarea apartenenței la domeniul public al comunei",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "88f0872a670f4bbbb7572a56f3e064a41e720bb6cf0d70adc1fb073b47bee222"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--cristian-89-2026",
    "path": "local/brasov/cristian/2026/89",
    "short": "HCL Cristian nr. 89/2026",
@@ -573,6 +873,96 @@
    ]
   },
   {
+   "slug": "hcl-brasov--cristian-90-2026",
+   "path": "local/brasov/cristian/2026/90",
+   "short": "HCL Cristian nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 90/2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "dc7dc0f12966a0b29c03b346d5e5ceb5a358e8dafc8ebae868614e8cc249b7b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-91-2026",
+   "path": "local/brasov/cristian/2026/91",
+   "short": "HCL Cristian nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 91/2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "7a76d0436bc08e394da47fb6c9fab11c9b7bacda0fdef24f49678156667bf176"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-92-2026",
+   "path": "local/brasov/cristian/2026/92",
+   "short": "HCL Cristian nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 92/2026 privind alegerea președintelui de ședință al Consiliului Local Cristian pentru perioada august 2026 – octombrie 2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "c07ed4e59a55dd9503ccaae96e82b238b6c74eaefe4aef70969f055b157c25dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-93-2026",
+   "path": "local/brasov/cristian/2026/93",
+   "short": "HCL Cristian nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 93/2026 privind aprobarea procesului verbal al ședinței ordinare din data de 18.06.2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/07/HOTARAREA-NR.-93-din-22.07.2026-privind-aprobarea-procesului-verbal-al-sedintei-ordinare-din-data-de-18.06.2026.pdf",
+     "sha256": "115a0edf957ab6b9d9fcedf6f42a1295cabf014b7b33ab88d351d325c9a7fa53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-94-2026",
+   "path": "local/brasov/cristian/2026/94",
+   "short": "HCL Cristian nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 94/2026 privind aprobarea procesului verbal al ședinței extraordinare din data de 25.06.2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/07/HOTARAREA-NR.-94-din-22.07.2026-privind-aprobarea-procesului-verbal-al-sedintei-extraordinare-din-data-de-25.06.2026.pdf",
+     "sha256": "f61ca32a7201b4decfb5a28c9181218dac3c31cf187a0c5d97025588e3601a0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-95-2026",
+   "path": "local/brasov/cristian/2026/95",
+   "short": "HCL Cristian nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 95/2026 privind aprobarea deplasării unei delegații SVSU a comunei Cristian, în Germania, localitatea Titisee-Neustadt, Pădurea Neagră, în perioada 08-11 octombrie 2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2026/07/HOTARAREA-NR.-95-din-22.07.2026-privind-aprobarea-deplasarii-unei-delegatii-SVSU-a-comunei-Cristian-in-Germania-localitatea-Titisee-Neustadt-Padurea-Neagra-in-perioada-08-11-octombrie-2026.pdf",
+     "sha256": "2dc26bb10482753fd0c643b0b8fc54269aa4f5226a3000cc867f0f00e3be7e4f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--cristian-98-2026",
    "path": "local/brasov/cristian/2026/98",
    "short": "HCL Cristian nr. 98/2026",
@@ -584,6 +974,21 @@
      "units": 1,
      "source_url": "https://primariacristian.ro/wp-content/uploads/2026/09/HOTARAREA-NR.-98-din-31.08.2026-privind-aprobarea-contractarii-unei-finantari-nerambursabile-interne-in-valoare-de-15.000.000-euro-pentru-realizarea-unor-investitii-de-interes-local-1.pdf",
      "sha256": "82cfa4fc778b7203b03292131bfa699305456f122feed246a2e1d3c096af3fdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-99-2026",
+   "path": "local/brasov/cristian/2026/99",
+   "short": "HCL Cristian nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 99/2026",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+     "sha256": "3d3ba71ba1f4aeb3c28faffd938533ff0f2d8bb79baa94fa43cf7b405c883a62"
     }
    ]
   }

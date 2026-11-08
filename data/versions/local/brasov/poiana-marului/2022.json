@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--poiana-marului-22-2022",
+   "path": "local/brasov/poiana-marului/2022/22",
+   "short": "HCL Poiana Mărului nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 22/2022",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/55041",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/55041",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--poiana-marului-23-2022",
    "path": "local/brasov/poiana-marului/2022/23",
    "short": "HCL Poiana Mărului nr. 23/2022",
@@ -358,6 +373,21 @@
      "from": "2022-02-24",
      "units": 1,
      "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/55043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--poiana-marului-25-2022",
+   "path": "local/brasov/poiana-marului/2022/25",
+   "short": "HCL Poiana Mărului nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 25/2022 privind aprobarea achiziționării în sistem leasing, cu opțiune de cumpărare, a unui microbuz de transport persoane",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/56677",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/56677",
      "sha256": null
     }
    ]
@@ -403,6 +433,21 @@
      "from": "2022-04-11",
      "units": 1,
      "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/56680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--poiana-marului-29-2022",
+   "path": "local/brasov/poiana-marului/2022/29",
+   "short": "HCL Poiana Mărului nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 29/2022",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/56681",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/56681",
      "sha256": null
     }
    ]
@@ -498,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--poiana-marului-35-2022",
+   "path": "local/brasov/poiana-marului/2022/35",
+   "short": "HCL Poiana Mărului nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 35/2022",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/58829",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/58829",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--poiana-marului-36-2022",
    "path": "local/brasov/poiana-marului/2022/36",
    "short": "HCL Poiana Mărului nr. 36/2022",
@@ -508,6 +568,21 @@
      "from": "2022-05-19",
      "units": 1,
      "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/58830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--poiana-marului-37-2022",
+   "path": "local/brasov/poiana-marului/2022/37",
+   "short": "HCL Poiana Mărului nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 37/2022",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/58831",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/58831",
      "sha256": null
     }
    ]
@@ -873,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--poiana-marului-6-2022",
+   "path": "local/brasov/poiana-marului/2022/6",
+   "short": "HCL Poiana Mărului nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 6/2022 privind aprobarea unor facilități fiscale",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/55022",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/55022",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--poiana-marului-60-2022",
    "path": "local/brasov/poiana-marului/2022/60",
    "short": "HCL Poiana Mărului nr. 60/2022",
@@ -943,6 +1033,21 @@
      "from": "2022-09-22",
      "units": 1,
      "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/71808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--poiana-marului-65-2022",
+   "path": "local/brasov/poiana-marului/2022/65",
+   "short": "HCL Poiana Mărului nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 65/2022 privind modul de ducere la îndeplinire a măsurii II.4 dispusă de Curtea de Conturi prin Decizia nr. 4/23.03.2020",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/71809",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/71809",
      "sha256": null
     }
    ]
@@ -1143,6 +1248,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--poiana-marului-78-2022",
+   "path": "local/brasov/poiana-marului/2022/78",
+   "short": "HCL Poiana Mărului nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 78/2022 privind aprobarea cesiunii contractului de închiriere nr. 47/04.01.2018",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/80311",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/80311",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--poiana-marului-79-2022",
    "path": "local/brasov/poiana-marului/2022/79",
    "short": "HCL Poiana Mărului nr. 79/2022",
@@ -1218,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--poiana-marului-83-2022",
+   "path": "local/brasov/poiana-marului/2022/83",
+   "short": "HCL Poiana Mărului nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 83/2022 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanaelor care se află în situații de necesitate",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/80316",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/80316",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--poiana-marului-84-2022",
    "path": "local/brasov/poiana-marului/2022/84",
    "short": "HCL Poiana Mărului nr. 84/2022",
@@ -1243,6 +1378,21 @@
      "from": "2022-11-23",
      "units": 1,
      "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/80318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--poiana-marului-86-2022",
+   "path": "local/brasov/poiana-marului/2022/86",
+   "short": "HCL Poiana Mărului nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 86/2022",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/80319",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/80319",
      "sha256": null
     }
    ]

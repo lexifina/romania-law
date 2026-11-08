@@ -23,6 +23,94 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-brasov--comana-6-2018",
+"path": "local/brasov/comana/2018/6",
+"kind": "local",
+"year": "2018",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comăna nr. 6/2018",
+"short": "HCL Comăna nr. 6/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-15",
+"latest": "2018-02-15",
+"portal": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-6-din-15.02.2018.pdf",
+"council": "brasov/comana",
+"council_name": "Consiliul Local al Comunei Comăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--comana-7-2018",
+"path": "local/brasov/comana/2018/7",
+"kind": "local",
+"year": "2018",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comăna nr. 7/2018",
+"short": "HCL Comăna nr. 7/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-06",
+"latest": "2018-03-06",
+"portal": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-7-din-06.03.2018.pdf",
+"council": "brasov/comana",
+"council_name": "Consiliul Local al Comunei Comăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--comana-8-2018",
+"path": "local/brasov/comana/2018/8",
+"kind": "local",
+"year": "2018",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comăna nr. 8/2018",
+"short": "HCL Comăna nr. 8/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-06",
+"latest": "2018-03-06",
+"portal": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-8-din-06.03.2018.pdf",
+"council": "brasov/comana",
+"council_name": "Consiliul Local al Comunei Comăna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--comana-9-2018",
+"path": "local/brasov/comana/2018/9",
+"kind": "local",
+"year": "2018",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Comăna nr. 9/2018",
+"short": "HCL Comăna nr. 9/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-20",
+"latest": "2018-03-20",
+"portal": "https://www.comuna-comana.ro/wp-content/uploads/2026/10/Hotararea-nr-9-din-20.03.2018.pdf",
+"council": "brasov/comana",
+"council_name": "Consiliul Local al Comunei Comăna",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

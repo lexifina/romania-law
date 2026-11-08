@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--stancuta-10-2025",
+   "path": "local/braila/stancuta/2025/10",
+   "short": "HCL Stăncuța nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 10/2025",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228294",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228294",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-11-2025",
    "path": "local/braila/stancuta/2025/11",
    "short": "HCL Stăncuța nr. 11/2025",
@@ -303,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-braila--stancuta-29-2025",
+   "path": "local/braila/stancuta/2025/29",
+   "short": "HCL Stăncuța nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 29/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228387",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228387",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-3-2025",
    "path": "local/braila/stancuta/2025/3",
    "short": "HCL Stăncuța nr. 3/2025",
@@ -418,6 +448,51 @@
      "from": "2025-10-06",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/228623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-37-2025",
+   "path": "local/braila/stancuta/2025/37",
+   "short": "HCL Stăncuța nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 37/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228690",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-38-2025",
+   "path": "local/braila/stancuta/2025/38",
+   "short": "HCL Stăncuța nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 38/2025 privind alegerea comisiilor pe domenii de specialitate ale Consiliului Local Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228691",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-39-2025",
+   "path": "local/braila/stancuta/2025/39",
+   "short": "HCL Stăncuța nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 39/2025 privind desemnarea reprezentanților Consiliului Local Stăncuța în Consiliul de Administrație al Școlii Profesionale Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228692",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228692",
      "sha256": null
     }
    ]
@@ -583,6 +658,21 @@
      "from": "2025-10-06",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/228709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-5-2025",
+   "path": "local/braila/stancuta/2025/5",
+   "short": "HCL Stăncuța nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 5/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228281",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228281",
      "sha256": null
     }
    ]
@@ -808,6 +898,36 @@
      "from": "2025-10-06",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/228283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-8-2025",
+   "path": "local/braila/stancuta/2025/8",
+   "short": "HCL Stăncuța nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 8/2025 privind alegerea viceprimarului comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228284",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-9-2025",
+   "path": "local/braila/stancuta/2025/9",
+   "short": "HCL Stăncuța nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 9/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/228293",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/228293",
      "sha256": null
     }
    ]

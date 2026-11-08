@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/braila/rosiori/2024",
+"acts": [
+{
+"slug": "hcl-braila--rosiori-10-2024",
+"path": "local/braila/rosiori/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 10/2024 privind Codul HoriRi$rE: del 91A33an3n*.he\"2\"1ox-\"1eStd:i.er1:n,€irr-p.:e' rnIio1pbl1aidjrrtFueLi,ir1sn:k;tlre\"g;.re,ra\"nrtlont.ictua.lr,a.,,a,iptl'r\"!eci,ozf'\"emonnultia'nlileih.i#oRteriiorrie$irziioe.o...iui+fpie.\".oailnn:ur'ot,,.2r;0n24 venituri in sumd totald de 3.117.000 lei nr.2 pane integrantd *#l fi Sl\"!\"Hff tnanciar contabil si primarul comunei duce la indeplinire la cuno$tinia celor I,t*",
+"short": "HCL Roșiori nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-06",
+"latest": "2024-02-06",
+"portal": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-10-din-06.02.2024.pdf",
+"council": "braila/rosiori",
+"council_name": "Consiliul Local al Comunei Roșiori",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--rosiori-11-2024",
+"path": "local/braila/rosiori/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roșiori nr. 11/2024",
+"short": "HCL Roșiori nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-06",
+"latest": "2024-02-06",
+"portal": "https://rosiori-br.ro/wp-content/uploads/HCL-nr.-11-din-06.02.2024.pdf",
+"council": "braila/rosiori",
+"council_name": "Consiliul Local al Comunei Roșiori",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

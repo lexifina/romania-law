@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-8-2023",
+"path": "local/brasov/poiana-marului/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 8/2023 în legătură cu aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pe semestrul II al anului 2022",
+"short": "HCL Poiana Mărului nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/86757",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-9-2023",
 "path": "local/brasov/poiana-marului/2023/9",
 "kind": "local",
@@ -465,6 +487,28 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-23-2023",
+"path": "local/brasov/poiana-marului/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 23/2023 privind aprobarea modificării anexei nr. 1 la HCL nr. 57/2019 privind aprobarea statului de funcții al comunei Poiana Mărului",
+"short": "HCL Poiana Mărului nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/89763",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-24-2023",
 "path": "local/brasov/poiana-marului/2023/24",
 "kind": "local",
@@ -572,6 +616,28 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-29-2023",
+"path": "local/brasov/poiana-marului/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 29/2023 privind aprobarea Organigramei și a Statului de Funcții din cadrul aparatului de specialitate al comunei Poiana Mărului",
+"short": "HCL Poiana Mărului nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/97911",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -770,6 +836,28 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-39-2023",
+"path": "local/brasov/poiana-marului/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 39/2023 privind aprobarea indemnizațiilor demnitarilor și consilierilor locali, a salariilor de bază ale personalului contractual și funcționarilor publici din cadrul familiei ocupaţionale \"Administraţie\", la nivelul Comunei Poiana Mărului",
+"short": "HCL Poiana Mărului nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/101968",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1148,6 +1236,28 @@
 }
 },
 {
+"slug": "hcl-brasov--poiana-marului-57-2023",
+"path": "local/brasov/poiana-marului/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 57/2023 privind stabilirea salariilor de bază ale funcțiilor publice și contractuale din cadrul familiei ocupaționale “Administrație‘‘ din aparatul de specialitate al primarului comunei Poiana Mărului",
+"short": "HCL Poiana Mărului nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/113266",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--poiana-marului-58-2023",
 "path": "local/brasov/poiana-marului/2023/58",
 "kind": "local",
@@ -1189,6 +1299,74 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-60-2023",
+"path": "local/brasov/poiana-marului/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 60/2023 privind aprobarea acordării unei despăgubiri pentru pagubele produse unui autoturism, în timpul intervențiilor de urgență din noaptea de 7-8.07.2023",
+"short": "HCL Poiana Mărului nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-08",
+"latest": "2023-08-08",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/114187",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-61-2023",
+"path": "local/brasov/poiana-marului/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 61/2023",
+"short": "HCL Poiana Mărului nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-08",
+"latest": "2023-08-08",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/114188",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-62-2023",
+"path": "local/brasov/poiana-marului/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 62/2023",
+"short": "HCL Poiana Mărului nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-08",
+"latest": "2023-08-08",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/114189",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1519,6 +1697,28 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-78-2023",
+"path": "local/brasov/poiana-marului/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 78/2023 privind aprobarea acordării unui ajutor de urgență familiilor ai căror copii beneficiază de terapii medicale costisitoare",
+"short": "HCL Poiana Mărului nr. 78/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/122883",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1894,6 +2094,29 @@
 "council_name": "Consiliul Local al Comunei Poiana Mărului",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--poiana-marului-96-2023",
+"path": "local/brasov/poiana-marului/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 96/2023",
+"short": "HCL Poiana Mărului nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/poianamarului-bv/registru-hcl/131537",
+"council": "brasov/poiana-marului",
+"council_name": "Consiliul Local al Comunei Poiana Mărului",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

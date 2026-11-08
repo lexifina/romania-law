@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/homorod/2021",
+"acts": [
+{
+"slug": "hcl-brasov--homorod-93-2021",
+"path": "local/brasov/homorod/2021/93",
+"kind": "local",
+"year": "2021",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Homorod nr. 93/2021 privind constatarea incidenței cumulate a cazurilor de infectare cu virusul SARS-CoV-2",
+"short": "HCL Homorod nr. 93/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-05",
+"latest": "2021-04-05",
+"portal": "https://homorod.ro/wp-content/uploads/Hotararea-nr.-93-din-05.04.2021-privind-constatarea-incidentei-cumulate-a-cazurilor-de-infectare-cu-virusul-SARS-CoV-2.pdf",
+"council": "brasov/homorod",
+"council_name": "Consiliul Local al Comunei Homorod",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

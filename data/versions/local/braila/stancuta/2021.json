@@ -3,6 +3,21 @@
  "shard": "local/braila/stancuta/2021",
  "acts": [
   {
+   "slug": "hcl-braila--stancuta-1-2021",
+   "path": "local/braila/stancuta/2021/1",
+   "short": "HCL Stăncuța nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 1/2021 privind aprobarea organizării și funcționării rețelei școlare de pe raza localității Stăncuța",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79115",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79115",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-10-2021",
    "path": "local/braila/stancuta/2021/10",
    "short": "HCL Stăncuța nr. 10/2021",
@@ -43,6 +58,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/79137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-13-2021",
+   "path": "local/braila/stancuta/2021/13",
+   "short": "HCL Stăncuța nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 13/2021 privind revocarea H.C.L nr. 47/21.12.2020 privind vânzarea apartamentului",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79138",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79138",
      "sha256": null
     }
    ]
@@ -123,6 +153,126 @@
    ]
   },
   {
+   "slug": "hcl-braila--stancuta-19-2021",
+   "path": "local/braila/stancuta/2021/19",
+   "short": "HCL Stăncuța nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 19/2021 privind însusțirea raportului de evaluare, aprobarea studiului de oportunitate, a caietului de sarcini și stabilirea comisiei comisiei de licitație pentru concesionarea prin licitație publică a suprafeței de 14, 693 teren situat în T 172, parcela 14105, lot 1, CF 74260, teren aflat în domeniul public al comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79309",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-2-2021",
+   "path": "local/braila/stancuta/2021/2",
+   "short": "HCL Stăncuța nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 2/2021",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79116",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-20-2021",
+   "path": "local/braila/stancuta/2021/20",
+   "short": "HCL Stăncuța nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 20/2021 privind însusțirea raportului de evaluare, aprobarea studiului de oprtunitate , a caietului de sarcini și stabilirea comisiei de licitație pentru concesionarea prin licitație publică a suprafetei 2.770 mp teren situat în T 172, parcela 14105, lot 2, CF 74260, teren aflat în domeniul public al comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79310",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-21-2021",
+   "path": "local/braila/stancuta/2021/21",
+   "short": "HCL Stăncuța nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 21/2021 privind însusțirea raportului de evaluare, aprobarea studiului de oportunitate, a caietului de sarcini și stabilirea comisiei de licitație pentru concesionarea prin licitație publică a suprafeței de 4.857 mp teren situat în T 172, parcela 14105, lot 3, CF 74260, teren aflat în domeniul public al comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79311",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-22-2021",
+   "path": "local/braila/stancuta/2021/22",
+   "short": "HCL Stăncuța nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 22/2021 privind însusțirea raportului de evaluare, aprobarea studiului de oportunitate , a caietului de sarcini și stabilirea comisiei de licitație pentru concesionarea prin licitație publică pentru concesionarea prin licitație publică a suprafeței de 8.961 mp teren situat în T 172, parcela 14105 , lot 4, CF 74260, teren aflat în domeniul public al comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79312",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-23-2021",
+   "path": "local/braila/stancuta/2021/23",
+   "short": "HCL Stăncuța nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 23/2021 privind însușirea raportului de evaluare , aprobarea studiului de oportunitate , a caietului de sarcini și stabilirea comisiei de licitație pentru concesionarea prin licitație publică a suprafeței de 1.333 mp teren situat în T 172, parcela 14105, lot 5, CF 74260, teren aflat în domeniul public al comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79313",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-24-2021",
+   "path": "local/braila/stancuta/2021/24",
+   "short": "HCL Stăncuța nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 24/2021 privind însusțirea raportului de evaluare, aprobarea studiului de oportunitate, a caietului de sarcini și stabilirea comisiei de licitație pentru concesionarea prin licitație publică a suprafeței de 31.079 mp teren situat în T 172, parcela 14105, lot 6, CF 74260, teren aflat în domeniul public al comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79314",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-25-2021",
+   "path": "local/braila/stancuta/2021/25",
+   "short": "HCL Stăncuța nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 25/2021 privind însusțirea raportului de evaluare, aprobarea studiului de oportunitate, a caietului de sarcini și stabilirea comisiei de licitație pentru concesionarea prin licitație publică a asuprafeței de 14.250 mp teren situt în T 172, parcela 14105, lot 8, CF 74260, teren aflat în domeniul public al comunei Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79315",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79315",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-26-2021",
    "path": "local/braila/stancuta/2021/26",
    "short": "HCL Stăncuța nr. 26/2021",
@@ -183,6 +333,36 @@
    ]
   },
   {
+   "slug": "hcl-braila--stancuta-3-2021",
+   "path": "local/braila/stancuta/2021/3",
+   "short": "HCL Stăncuța nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 3/2021",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79117",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-30-2021",
+   "path": "local/braila/stancuta/2021/30",
+   "short": "HCL Stăncuța nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 30/2021",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79326",
+   "versions": [
+    {
+     "from": "2021-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79326",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--stancuta-31-2021",
    "path": "local/braila/stancuta/2021/31",
    "short": "HCL Stăncuța nr. 31/2021",
@@ -193,6 +373,21 @@
      "from": "2021-07-30",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/79336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-32-2021",
+   "path": "local/braila/stancuta/2021/32",
+   "short": "HCL Stăncuța nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 32/2021 privind acordarea unui stimulent financiar pentru nou-născuții din comuna Stăncuța, județul Brăila",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79337",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79337",
      "sha256": null
     }
    ]
@@ -298,6 +493,21 @@
      "from": "2021-09-24",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/79368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-4-2021",
+   "path": "local/braila/stancuta/2021/4",
+   "short": "HCL Stăncuța nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 4/2021",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79118",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79118",
      "sha256": null
     }
    ]
@@ -448,6 +658,21 @@
      "from": "2022-11-15",
      "units": 1,
      "source_url": "https://emol.ro/stancuta-br/registru-hcl/79413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--stancuta-5-2021",
+   "path": "local/braila/stancuta/2021/5",
+   "short": "HCL Stăncuța nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stăncuța nr. 5/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stancuta-br/registru-hcl/79130",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stancuta-br/registru-hcl/79130",
      "sha256": null
     }
    ]

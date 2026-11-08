@@ -3,6 +3,21 @@
  "shard": "local/braila/sutesti/2011",
  "acts": [
   {
+   "slug": "hcl-braila--sutesti-12-2011",
+   "path": "local/braila/sutesti/2011/12",
+   "short": "HCL Șuțești nr. 12/2011",
+   "title": "Hotărârea Consiliului Local al Comunei Șuțești nr. 12/2011 privind necesitatea acordarii exprese in prealabil a unui mandat special prin Hotarare a autoritatii deliberative a Consiliului Local Sutesti, reprezentantului sau in Adunarea Generala a Asociatiei - Primarul Comunei Sutesti pentru a vota cotizatia anuala a membrilor Asociati pe anul 2011; Hotararea Consiliului Local al Comunei Sutesti nr. 55/19.09.2008, pentru constituirea Asociatiei de Dezvoltar",
+   "url": "https://www.primariasutesti.ro/wp-content/uploads/2011/05/Hotararea-nr.-12-din-31.01.2011.pdf",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "https://www.primariasutesti.ro/wp-content/uploads/2011/05/Hotararea-nr.-12-din-31.01.2011.pdf",
+     "sha256": "caca7aba1e697fc3f3f9cf7265a972c865436019dead78fdd1db41b504489ba6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-braila--sutesti-20-2011",
    "path": "local/braila/sutesti/2011/20",
    "short": "HCL Șuțești nr. 20/2011",

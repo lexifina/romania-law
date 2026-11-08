@@ -1,0 +1,981 @@
+{
+ "country": "RO",
+ "shard": "local/braila/faurei/2021",
+ "acts": [
+  {
+   "slug": "hcl-braila--faurei-1-2021",
+   "path": "local/braila/faurei/2021/1",
+   "short": "HCL Făurei nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 1/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-1-2021/",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-1-din-15.01.2021.pdf",
+     "sha256": "bdf1471c47b0af2ef9a296269eded03a070539856e940fda5e0dd0429535ba38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-10-2021",
+   "path": "local/braila/faurei/2021/10",
+   "short": "HCL Făurei nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 10/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-10-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-10-din-25.02.2021.pdf",
+     "sha256": "8c484e7f1b059acc034a6b454e35ca5b81a627852ff6b0c89aa4d114c90cbfb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-11-2021",
+   "path": "local/braila/faurei/2021/11",
+   "short": "HCL Făurei nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 11/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-11-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-11-din-25.02.2021.pdf",
+     "sha256": "ce3c591d74b5acd3a0c8fd6a6da17111634bf51cc683037045083e0bef4423a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-12-2021",
+   "path": "local/braila/faurei/2021/12",
+   "short": "HCL Făurei nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 12/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-12-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-12-din-25.02.2021.pdf",
+     "sha256": "43ebe1c490ce1d67cc398c4d95fa1aec1b1a628fc5d223f0a60b64a87ecf1ae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-13-2021",
+   "path": "local/braila/faurei/2021/13",
+   "short": "HCL Făurei nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 13/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-13-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-13-din-25.02.2021.pdf",
+     "sha256": "a565248adb1503aa5c37230061d691336da76e9b37b0ae6a8fcc3f6b11972edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-14-2021",
+   "path": "local/braila/faurei/2021/14",
+   "short": "HCL Făurei nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 14/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-14-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-14-din-25.02.2021.pdf",
+     "sha256": "7753fd6d79324d1bbb2035210fb689d4610da81eea02881c643737a5aa6843eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-15-2021",
+   "path": "local/braila/faurei/2021/15",
+   "short": "HCL Făurei nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 15/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-15-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-15-din-25.02.2021.pdf",
+     "sha256": "4587fdc1cce7b9f9bb54590b10da2cb40d084aa4c626fe2ddd5358a3cb094368"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-16-2021",
+   "path": "local/braila/faurei/2021/16",
+   "short": "HCL Făurei nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 16/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-16-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-16-din-25.02.2021.pdf",
+     "sha256": "315e83c5514f3ad09acf2c6cf8bd6e6a3926ada9e63c534766d68e34aef394b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-17-2021",
+   "path": "local/braila/faurei/2021/17",
+   "short": "HCL Făurei nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 17/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-17-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-17-din-25.02.2021.pdf",
+     "sha256": "4db0d608ea07ec04e0c39a6d09e9d4930ef9f4bc8cc60164a670b6ae313fbab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-18-2021",
+   "path": "local/braila/faurei/2021/18",
+   "short": "HCL Făurei nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 18/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-18-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-18-din-25.02.2021.pdf",
+     "sha256": "e78edec1c18fa5d0b95efcf8f656955252f98b9deaf221984e7f0ef5003fa02a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-19-2021",
+   "path": "local/braila/faurei/2021/19",
+   "short": "HCL Făurei nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 19/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-19-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-19-din-29.03.2021.pdf",
+     "sha256": "c80215f4b3dbf26068521022757f1c685cd52c43c33d43d00996f93a48a4c619"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-2-2021",
+   "path": "local/braila/faurei/2021/2",
+   "short": "HCL Făurei nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 2/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-2-2021/",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-2-din-15.01.2021.pdf",
+     "sha256": "073f4ea2f538fa996841899b02055943ac7733be406db73c04778fb4302b71c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-20-2021",
+   "path": "local/braila/faurei/2021/20",
+   "short": "HCL Făurei nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 20/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-20-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-20-din-29.03.2021.pdf",
+     "sha256": "f16948972961509876ee952d146a36d02b62f4a5a3de33d475a0cdd7c2bc4b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-21-2021",
+   "path": "local/braila/faurei/2021/21",
+   "short": "HCL Făurei nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 21/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-21-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-21-din-29.03.2021.pdf",
+     "sha256": "5d2389378ec73a18c2bc03273ea0cd44c8a7b2e49c2a73a401c9098a5fc2fe86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-22-2021",
+   "path": "local/braila/faurei/2021/22",
+   "short": "HCL Făurei nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 22/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-22-2021/",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-22-din-29.03.2021.pdf",
+     "sha256": "f2f4caa970216a479cbfe703d0f7a2a1aa21243b55f26fbf3d23d30973be0325"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-23-2021",
+   "path": "local/braila/faurei/2021/23",
+   "short": "HCL Făurei nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 23/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-23-2021/",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-23-din-15.04.2021.pdf",
+     "sha256": "727f2973afa34706ff7b1ee1370719df5f14780050ce11fa6ce9f72ca37acdb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-24-2021",
+   "path": "local/braila/faurei/2021/24",
+   "short": "HCL Făurei nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 24/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-24-2021/",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-24-din-15.04.2021.pdf",
+     "sha256": "7a32dcd02b2ef5b860981025703435b49068ce48c6f0e489841ec5ac228c576f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-25-2021",
+   "path": "local/braila/faurei/2021/25",
+   "short": "HCL Făurei nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 25/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-25-2021/",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-25-din-15.04.2021.pdf",
+     "sha256": "f4c5bdd13e5de31d91ae1414c8d95439c7712904944cbc39940c38c2c33b5b10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-26-2021",
+   "path": "local/braila/faurei/2021/26",
+   "short": "HCL Făurei nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 26/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-26-2021/",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-26-din-15.04.2021.pdf",
+     "sha256": "913a8d35d3cf7a8023c0c17cac56ef82d7fd803442d7eb3e9213c220dbb674ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-27-2021",
+   "path": "local/braila/faurei/2021/27",
+   "short": "HCL Făurei nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 27/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-27-2021/",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-27-din-15.04.2021.pdf",
+     "sha256": "dd0f36232ded0a7034e8b75cb63b577fec48a26380121933ee2bb1181d5cc5b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-28-2021",
+   "path": "local/braila/faurei/2021/28",
+   "short": "HCL Făurei nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 28/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-28-2021/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-28-din-27.04.2021.pdf",
+     "sha256": "1b096501fb6d58b7ce84b355f8425c6aa1f63145c38964bac299180cd1ffa8d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-29-2021",
+   "path": "local/braila/faurei/2021/29",
+   "short": "HCL Făurei nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 29/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-29-2021/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-29-din-27.04.2021.pdf",
+     "sha256": "6cbac62c724d2ae07ec9132291f2c038707b21e9557a028c14257949cbe83d83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-3-2021",
+   "path": "local/braila/faurei/2021/3",
+   "short": "HCL Făurei nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 3/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-3-2021/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-3-din-27.01.2021.pdf",
+     "sha256": "7ae15249f4ce26720c24ae9f8a7cf8b637fdc41a3553597ab083997cb0f687d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-30-2021",
+   "path": "local/braila/faurei/2021/30",
+   "short": "HCL Făurei nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 30/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-30-2021/",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-30-din-27.04.2021.pdf",
+     "sha256": "d394f64f0f3450454d7a20c9759784e4cb2ce7536856f38b7ffbbc8fbfb5e541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-31-2021",
+   "path": "local/braila/faurei/2021/31",
+   "short": "HCL Făurei nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 31/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-31-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-31-din-27.05.2021.pdf",
+     "sha256": "31440b63d173477f2c7fa9411028edf9c8c27f90fea284d5a4a5cf1809ca2cb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-32-2021",
+   "path": "local/braila/faurei/2021/32",
+   "short": "HCL Făurei nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 32/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-32-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-32-din-27.05.2021.pdf",
+     "sha256": "3d5364d2fb469d491b6470a79ca807dd280af3b3e8f5f14010460d5751445dbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-33-2021",
+   "path": "local/braila/faurei/2021/33",
+   "short": "HCL Făurei nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 33/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-33-2021/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-33-din-27.05.2021.pdf",
+     "sha256": "72461aa33d255554fccfa93bf702409b0df0db075dbd558ac893bd344e2f6edc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-34-2021",
+   "path": "local/braila/faurei/2021/34",
+   "short": "HCL Făurei nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 34/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-34-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-34-din-30.06.2021.pdf",
+     "sha256": "bfb098d302a5c7d4599c47644f07abbb4f15369f2d9cfd5e00cd5124af680ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-35-2021",
+   "path": "local/braila/faurei/2021/35",
+   "short": "HCL Făurei nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 35/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-35-2021/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-35-din-30.06.2021.pdf",
+     "sha256": "7b48afc7f6a679e37cabe183d5d5463b3843d1d66d38824eaa574214c264df75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-36-2021",
+   "path": "local/braila/faurei/2021/36",
+   "short": "HCL Făurei nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 36/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-36-2021/",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-36-din-21.07.2021.pdf",
+     "sha256": "33f7168ad8cbc89846a0714fb8f1cbf88fe88614eebe62a2212972e070e839f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-37-2021",
+   "path": "local/braila/faurei/2021/37",
+   "short": "HCL Făurei nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 37/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-37-2021/",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-37-din-21.07.2021.pdf",
+     "sha256": "7d43cbfa0aa257cb3f731a0a8fc5af499104805907a602b82c9b39dd432ba1e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-38-2021",
+   "path": "local/braila/faurei/2021/38",
+   "short": "HCL Făurei nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 38/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-38-2021/",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-38-din-21.07.2021.pdf",
+     "sha256": "c33e6ab7f1ec901dc22e6a9c91b75fcdfadddcf6836447ae0e4118c964261492"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-39-2021",
+   "path": "local/braila/faurei/2021/39",
+   "short": "HCL Făurei nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 39/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-39-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-39-din-30.08.2021.pdf",
+     "sha256": "bcaa1f6f5ac9647c88cd95145c41a612764ee98b1f445481cec93b25340d77c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-4-2021",
+   "path": "local/braila/faurei/2021/4",
+   "short": "HCL Făurei nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 4/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-4-2021/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-4-din-27.01.2021.pdf",
+     "sha256": "86993100474d7902c511f776e8ee4bacfc4a49ab713b2996898ec1d2b8bd3dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-40-2021",
+   "path": "local/braila/faurei/2021/40",
+   "short": "HCL Făurei nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 40/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-40-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-40-din-30.08.2021.pdf",
+     "sha256": "c635a6d8b5d07c890adf8d1bfa27cfa6dbfdc9243d42010a0c5a68318c520a7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-41-2021",
+   "path": "local/braila/faurei/2021/41",
+   "short": "HCL Făurei nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 41/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-41-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-41-din-30.08.2021.pdf",
+     "sha256": "f59e64492a4712a6ed625c63813ff4aaff0f354e63b0133121b4615ba1ff751d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-42-2021",
+   "path": "local/braila/faurei/2021/42",
+   "short": "HCL Făurei nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 42/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-42-2021/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-42-din-29.09.2021.pdf",
+     "sha256": "a540421211ed0ffb8818cfbc8ce12a60d0ec8843fb5f316434facca106dd3b46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-43-2021",
+   "path": "local/braila/faurei/2021/43",
+   "short": "HCL Făurei nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 43/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-43-2021/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-43-din-29.09.2021.pdf",
+     "sha256": "24fd95872a63141d0b3df382029b7023fea4cd89e3667bbbced2bb065862d84b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-44-2021",
+   "path": "local/braila/faurei/2021/44",
+   "short": "HCL Făurei nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 44/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-44-2021/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-44-din-29.09.2021.pdf",
+     "sha256": "d493a5873be8bffdf8033987f3ebd9886a88a0bb9178b4da9a7a8cbffc27c63d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-45-2021",
+   "path": "local/braila/faurei/2021/45",
+   "short": "HCL Făurei nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 45/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-45-2021/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-45-din-29.09.2021.pdf",
+     "sha256": "b7c1e2db0afbc333a7ff475217d054ff81e53b10b8719b997a16aa614cb0a3d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-46-2021",
+   "path": "local/braila/faurei/2021/46",
+   "short": "HCL Făurei nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 46/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-46-2021/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-46-din-29.09.2021.pdf",
+     "sha256": "efcc48d9b7fae455edb0f7d52e42a9cefba306d9c8ef94edc924bcdbf3853115"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-47-2021",
+   "path": "local/braila/faurei/2021/47",
+   "short": "HCL Făurei nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 47/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-47-2021/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-47-din-27.10.2021.pdf",
+     "sha256": "16415ccd8db2dd9f25f3a742dbda534c1d1eebf66da335e2159826506980941d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-48-2021",
+   "path": "local/braila/faurei/2021/48",
+   "short": "HCL Făurei nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 48/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-48-2021/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-48-din-27.10.2021.pdf",
+     "sha256": "8ad154ca0f5f483ab43527c7d30bb5741e1fff5cdc32a7501364461f59f25b6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-49-2021",
+   "path": "local/braila/faurei/2021/49",
+   "short": "HCL Făurei nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 49/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-49-2021/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-49-din-27.10.2021.pdf",
+     "sha256": "2de5133f860cf6cf189fee733c6db86136e15d8f5fc4ef1280299586892c6d56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-5-2021",
+   "path": "local/braila/faurei/2021/5",
+   "short": "HCL Făurei nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 5/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-5-2021/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-5-din-27.01.2021.pdf",
+     "sha256": "f82afcc4d6c763c76be8148b863d735e994618fc50556c07bb5b99e1a86abb36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-50-2021",
+   "path": "local/braila/faurei/2021/50",
+   "short": "HCL Făurei nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 50/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-50-2021/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-50-din-27.10.2021.pdf",
+     "sha256": "d5fa300e47db4c990df276ad7c7977506100c68502f0b719105688e86dac4970"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-51-2021",
+   "path": "local/braila/faurei/2021/51",
+   "short": "HCL Făurei nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 51/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-51-2021/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-51-din-27.10.2021.pdf",
+     "sha256": "93167f7b26994714b8c76564cfb154c766340c5bfcf5d5a8e4ab6e75b80e72a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-52-2021",
+   "path": "local/braila/faurei/2021/52",
+   "short": "HCL Făurei nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 52/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-52-2021/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-52-din-27.10.2021.pdf",
+     "sha256": "a5bf1328670f3c96bfdbebf2bad5becdeb8cf052de4c08fabf44719f0714c8a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-53-2021",
+   "path": "local/braila/faurei/2021/53",
+   "short": "HCL Făurei nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 53/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-53-2021/",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-53-din-27.10.2021.pdf",
+     "sha256": "17a07009e11b1e818f1d895daf7a63ce205ccd374aa1200d4a89672c10d0923e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-54-2021",
+   "path": "local/braila/faurei/2021/54",
+   "short": "HCL Făurei nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 54/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-54-2021-2/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-54-din-05.11.2021.pdf",
+     "sha256": "366d74b7b7a48195406a230db848d5f84d27935fc61476600571f48a02bebe93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-55-2021",
+   "path": "local/braila/faurei/2021/55",
+   "short": "HCL Făurei nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 55/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-55-2021/",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-55-din-05.11.2021.pdf",
+     "sha256": "0f5dd76c6b9e398e92c5ee695dd6b0b89e03b84d7159d49a8ab429e4ef87d814"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-56-2021",
+   "path": "local/braila/faurei/2021/56",
+   "short": "HCL Făurei nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 56/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-56-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-56-din-24.11.2021.pdf",
+     "sha256": "640e152b239bcd16d9f610031491251b319dcddbc09e1d555b3c3da3e95462c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-57-2021",
+   "path": "local/braila/faurei/2021/57",
+   "short": "HCL Făurei nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 57/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-57-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-57-din-24.11.2021.pdf",
+     "sha256": "66129d41553216015405e6758f9244b7c81035777220d28788c9d32f211920d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-58-2021",
+   "path": "local/braila/faurei/2021/58",
+   "short": "HCL Făurei nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 58/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-58-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-58-din-24.11.2021.pdf",
+     "sha256": "d041d9b61d97a392301e69328653e394ecb27ec65ff542f35d5197d53ce33b67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-6-2021",
+   "path": "local/braila/faurei/2021/6",
+   "short": "HCL Făurei nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 6/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-6-2021/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-6-din-27.01.2021.pdf",
+     "sha256": "1afbcada4c15be6e7c1fb6fb17aa5b575d515d6cf72e0b5c6c164416107d6d7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-60-2021",
+   "path": "local/braila/faurei/2021/60",
+   "short": "HCL Făurei nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 60/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-60-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-60-din-24.11.2021.pdf",
+     "sha256": "50ddbbfd92b2a3b6f52dc44e8c4b2445c2b66cd47a2367bed2de7c5760529831"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-61-2021",
+   "path": "local/braila/faurei/2021/61",
+   "short": "HCL Făurei nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 61/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-61-2021/",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-61-din-24.11.2021.pdf",
+     "sha256": "a749763538b9fa0b91994ac04ddd673850f5de2679f68c3394444f0f583efcd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-62-2021",
+   "path": "local/braila/faurei/2021/62",
+   "short": "HCL Făurei nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 62/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-62-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-62-din-21.12.2021.pdf",
+     "sha256": "5775356decf3d2efc145e9e35af65aae8f9f54eb2f27e5fcf6e0826c238f0e33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-63-2021",
+   "path": "local/braila/faurei/2021/63",
+   "short": "HCL Făurei nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 63/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-63-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-63-din-21.12.2021.pdf",
+     "sha256": "cfb08c9b09cf6d01607f1bcb59e1bbd10335c4e1bb62ca5fb283f37f7d3c6cfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-64-2021",
+   "path": "local/braila/faurei/2021/64",
+   "short": "HCL Făurei nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 64/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-64-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-64-din-21.12.2021.pdf",
+     "sha256": "6f37a580bb3b3da1f5ad7dc50c1996e5c893eaac7d7c97927fadb92539af1736"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-65-2021",
+   "path": "local/braila/faurei/2021/65",
+   "short": "HCL Făurei nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 65/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-65-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-65-din-21.12.2021.pdf",
+     "sha256": "d0e2498e0bdf12f0eb89269922d6f238618af836168db207e523e3a64a24d6c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-66-2021",
+   "path": "local/braila/faurei/2021/66",
+   "short": "HCL Făurei nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 66/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-66-2021/",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-66-din-21.12.2021.pdf",
+     "sha256": "64019a4da2965c7c25044592f9c24ad57cfb74bfa219670233f1018697aa05d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-7-2021",
+   "path": "local/braila/faurei/2021/7",
+   "short": "HCL Făurei nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 7/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-7-2021/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-7-din-27.01.2021.pdf",
+     "sha256": "f525cb339dd05e27dd8dbc6c08578d0e4c82c78e75e7a1cf9c604bb2eb2005c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-8-2021",
+   "path": "local/braila/faurei/2021/8",
+   "short": "HCL Făurei nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 8/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-8-2021/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-8-din-27.01.2021.pdf",
+     "sha256": "83c23a9bd123ee81119001db696ca2e6de77543feb33cdfac42f4b74af9a61aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-braila--faurei-9-2021",
+   "path": "local/braila/faurei/2021/9",
+   "short": "HCL Făurei nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Făurei nr. 9/2021",
+   "url": "https://orasulfaurei.ro/hotarari/hcl-9-2021/",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://orasulfaurei.ro/wp-content/uploads/HCL-nr.-9-din-27.01.2021.pdf",
+     "sha256": "3f964cc42e44344e74e2698aff3d2b5664e037728ead39de57af8f74a84ba165"
+    }
+   ]
+  }
+ ]
+}

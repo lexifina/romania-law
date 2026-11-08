@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/cristian/2019",
+ "acts": [
+  {
+   "slug": "hcl-brasov--cristian-66-2019",
+   "path": "local/brasov/cristian/2019/66",
+   "short": "HCL Cristian nr. 66/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 66/2019",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2019/06/hotararea_66_2016.pdf",
+     "sha256": "01ac84a2ca6c699639b251c24ee85ae0a2c21ac07dccdf10b7ca3648caf4977d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-67-2019",
+   "path": "local/brasov/cristian/2019/67",
+   "short": "HCL Cristian nr. 67/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 67/2019",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2019/06/hotararea_67_2016.pdf",
+     "sha256": "c85df320ab644eace7b083a70275188531ecead480b10ebe5126ea8d0830de00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--cristian-68-2019",
+   "path": "local/brasov/cristian/2019/68",
+   "short": "HCL Cristian nr. 68/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Cristian nr. 68/2019",
+   "url": "https://primariacristian.ro/index.php/documente-categorie/hotarari-de-consiliu-local/",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://primariacristian.ro/wp-content/uploads/2019/06/hotararea_68_2016.pdf",
+     "sha256": "3689d9f088a9b2936a9b670cbb06d819d2709b741db5fb11a885a698727ba449"
+    }
+   ]
+  }
+ ]
+}

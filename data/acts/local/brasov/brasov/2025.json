@@ -23,6 +23,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-brasov--brasov-807-2025",
+"path": "local/brasov/brasov/2025/807",
+"kind": "local",
+"year": "2025",
+"number": "807",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brașov nr. 807/2025 privind aprobarea documentației și a indicatorilor tehnico- economici aferenți realizării obiectivului de investiție ”Construire corp clădire nou, sistematizare perimetrală, asigurare utilități, amenajări exterioare și împrejmuire - Școala Gimnazială nr. 8, Brașov”, - Certificatul de Urbanism nr. 2433/29.08.2024; - Documentația conținând planul topografic, aferent coridorului de expropriere pentru",
+"short": "HCL Brașov nr. 807/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://www.brasovcity.ro/monitorul-oficial-local/alte-documente",
+"council": "brasov/brasov",
+"council_name": "Consiliul Local al Municipiului Brașov",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

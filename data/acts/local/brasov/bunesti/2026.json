@@ -3,6 +3,28 @@
 "shard": "local/brasov/bunesti/2026",
 "acts": [
 {
+"slug": "hcl-brasov--bunesti-1-2026",
+"path": "local/brasov/bunesti/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 1/2026 privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, respectiv ianuarie 2026 – martie 2026",
+"short": "HCL Bunești nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/245657",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-2-2026",
 "path": "local/brasov/bunesti/2026/2",
 "kind": "local",
@@ -69,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-brasov--bunesti-5-2026",
+"path": "local/brasov/bunesti/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 5/2026 privind prelungirea mandatelor membrilor actuali, pentru 5 luni, în Consiliul de Administrație a RPLP Stejarul RA începând cu 04.02.2026",
+"short": "HCL Bunești nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/251279",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-6-2026",
 "path": "local/brasov/bunesti/2026/6",
 "kind": "local",
@@ -91,6 +135,29 @@
 }
 },
 {
+"slug": "hcl-brasov--bunesti-7-2026",
+"path": "local/brasov/bunesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 7/2026",
+"short": "HCL Bunești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/251281",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-8-2026",
 "path": "local/brasov/bunesti/2026/8",
 "kind": "local",
@@ -110,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Bunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-9-2026",
+"path": "local/brasov/bunesti/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 9/2026 privind desemnarea reprezentanților Consiliului Local Bunești, în Consiliul de Administrație al Școlii Gimnaziale Bunești",
+"short": "HCL Bunești nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/251283",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +243,28 @@
 "council_name": "Consiliul Local al Comunei Bunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-12-2026",
+"path": "local/brasov/bunesti/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 12/2026 privind constituirea unei Comisii speciale în vederea realizării unei analize cost – beneficiu pentru acordarea scutiriilor și reducerilor cuprinse la art.464 alin.(2) din Legea 227/2015 privind Codul Fiscal",
+"short": "HCL Bunești nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/251286",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +599,28 @@
 }
 },
 {
+"slug": "hcl-brasov--bunesti-28-2026",
+"path": "local/brasov/bunesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 28/2026 privind punerea în aplicare a articolului IV alin. 5 din contractul de închiriere a suprafețelor de pășune aparținând domeniului privat al comunei Bunești",
+"short": "HCL Bunești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/259088",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-29-2026",
 "path": "local/brasov/bunesti/2026/29",
 "kind": "local",
@@ -711,6 +844,73 @@
 }
 },
 {
+"slug": "hcl-brasov--bunesti-39-2026",
+"path": "local/brasov/bunesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 39/2026 privind alegerea preşedintelui de şedinţă pe o perioadă de 3 luni, respectiv aprilie 2026 – iunie 2026",
+"short": "HCL Bunești nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/268803",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-40-2026",
+"path": "local/brasov/bunesti/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 40/2026",
+"short": "HCL Bunești nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/268804",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-41-2026",
+"path": "local/brasov/bunesti/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 41/2026 privind aprobarea modificării Contractului de comodat nr.5938 din 12.10.2026, prin act adițional, în sensul introducerii unui nou comodatar",
+"short": "HCL Bunești nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/268805",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--bunesti-42-2026",
 "path": "local/brasov/bunesti/2026/42",
 "kind": "local",
@@ -752,6 +952,28 @@
 "council_name": "Consiliul Local al Comunei Bunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-44-2026",
+"path": "local/brasov/bunesti/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 44/2026 privind aprobarea închirierii prin atribuire directă a suprafețelor de pajiști/pășuni ale Comunei Bunești, județul Brașov, rămase libere de contract precum și a Documentației de atribuire",
+"short": "HCL Bunești nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/268808",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -862,6 +1084,139 @@
 "council_name": "Consiliul Local al Comunei Bunești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-50-2026",
+"path": "local/brasov/bunesti/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 50/2026 privind scutirea de la plata chiriei pentru suprafețele de teren acoperite de vegetație forestieră, până la punerea în aplicare a Hotărârii Consiliului Local nr. 6 din 29.01.2026, a locatarilor contractelor de închiriere a pășunii din proprietatea privată a Comunei Bunești adoptate prin Hotărârea Consiliului Local nr. 17 din 28.04.2025 privind atribuirea suprafețelor de pășune din localitatea Roadeș",
+"short": "HCL Bunești nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/272944",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-51-2026",
+"path": "local/brasov/bunesti/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 51/2026 privind scutirea de la plata chiriei pentru suprafețele de teren acoperite de vegetație forestieră, până la punerea în aplicare a Hotărârii Consiliului Local nr. 6 din 29.01.2026, a locatarilor contractelor de închiriere a pășunii din proprietatea privată a Comunei Bunești adoptate prin Hotărârea Consiliului Local nr. 16 din 28.04.2025 privind atribuirea suprafețelor de pășune din localitatea Meșendorf",
+"short": "HCL Bunești nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/272945",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-52-2026",
+"path": "local/brasov/bunesti/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 52/2026 privind scutirea de la plata chiriei pentru suprafețele de teren acoperite de vegetație forestieră, până la punerea în aplicare a Hotărârii Consiliului Local nr. 6 din 29.01.2026, a locatarilor contractelor de închiriere a pășunii din proprietatea privată a Comunei Bunești adoptate prin Hotărârea Consiliului Local nr. 15 din 28.04.2025 privind atribuirea suprafețelor de pășune din localitatea Bunești",
+"short": "HCL Bunești nr. 52/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/272946",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-53-2026",
+"path": "local/brasov/bunesti/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 53/2026 privind scutirea de la plata chiriei pentru suprafețele de teren acoperite de vegetație forestieră, până la punerea în aplicare a Hotărârii Consiliului Local nr. 6 din 29.01.2026, a locatarilor contractelor de închiriere a pășunii din proprietatea privată a Comunei Bunești adoptate prin Hotărârea Consiliului Local nr. 14 din 28.04.2025 privind atribuirea suprafețelor de pășune din localitatea Criț",
+"short": "HCL Bunești nr. 53/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/272947",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-54-2026",
+"path": "local/brasov/bunesti/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 54/2026 Proiect de hotărâre privind scutirea de la plata chiriei pentru suprafețele de teren acoperite de vegetație forestieră, până la punerea în aplicare a Hotărârii Consiliului Local nr. 6 din 29.01.2026, a locatarilor contractelor de închiriere a pășunii din proprietatea privată a Comunei Bunești adoptate prin Hotărârea Consiliului Local nr. 18 din 28.04.2025 privind atribuirea suprafețelor de pășune din localitatea Viscri",
+"short": "HCL Bunești nr. 54/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/272948",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--bunesti-55-2026",
+"path": "local/brasov/bunesti/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bunești nr. 55/2026",
+"short": "HCL Bunești nr. 55/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/bunesti-bv/registru-hcl/272949",
+"council": "brasov/bunesti",
+"council_name": "Consiliul Local al Comunei Bunești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/brasov/fundata/2007",
+"acts": [
+{
+"slug": "hcl-brasov--fundata-404-2007",
+"path": "local/brasov/fundata/2007/404",
+"kind": "local",
+"year": "2007",
+"number": "404",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Fundata nr. 404/2007",
+"short": "HCL Fundata nr. 404/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-02-15",
+"latest": "2007-02-15",
+"portal": null,
+"council": "brasov/fundata",
+"council_name": "Consiliul Local al Comunei Fundata",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

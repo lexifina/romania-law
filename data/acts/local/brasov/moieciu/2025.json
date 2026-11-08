@@ -3,6 +3,138 @@
 "shard": "local/brasov/moieciu/2025",
 "acts": [
 {
+"slug": "hcl-brasov--moieciu-1-2025",
+"path": "local/brasov/moieciu/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 1/2025 privind acoperirea definitiva a deficitului pe anul 2024 din excedentul bugetar al anilor precedenti - Consiliul Local al Comunei Moieciu, Judetul Bra!jiov, intrunit in !jiedinta ordinarade indata din data de -09.01.2025, Analizand raportul de aprobare nr. 90/2025 al primarului pentru proiectul de hotarare nr. 92/2025, referatul de specialitate al compartimentului de resort nr. 91/2025 !;ii avizul",
+"short": "HCL Moieciu nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-1-2025.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-2-2025",
+"path": "local/brasov/moieciu/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 2/2025 privind aprobarea utilizarii, in anul 2025, a excedentului anual al bugetului local rezultat la inchiderea exercitiului bugetar al anului 2024 - Consiliul Local al Comunei Moieciu, Judetul Bra$OV, intrunit in $edinta ordinarade indata din data de •09.01.2025, Analizand raportul de aprobare nr. 94/2025 al primarului pentru proiectul de hotarare nr. 96/2025, referatul de specialitate al compartiment",
+"short": "HCL Moieciu nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-2-2025.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-3-2025",
+"path": "local/brasov/moieciu/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 3/2025 privind aprobarea implementarii de masuri active de catre R.N .P",
+"short": "HCL Moieciu nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-3-2025.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-4-2025",
+"path": "local/brasov/moieciu/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 4/2025 privind scaderea din evidenta analitica pe platitor a creantelor fiscale datorate bugetului local al comunei Moieciu, de catre persoanele juridice radiate de la Oficiul Registrului Comertului Consiliul local al comunei Moieciu, judetul Bra$OV, intrunit in $edinta ordinara din data de 30.01.2025, Analizand referatul de aprobare al primarului, nr. 577/2025, in calitate de initiator pentru proiectul",
+"short": "HCL Moieciu nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-4-2025.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-6-2025",
+"path": "local/brasov/moieciu/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 6/2025 pentru rectificarea anexei la HCL nr. 48 din 28.11.2024 privind stabilirea impozitelor ~i taxelor locale pentru anul 2025 Consiliul local al comunei Moieciu, judetul Bra~ov, intrunit in ~edinta ordinara din data de 27.02.2025, Analizand referatul de aprobare al primarului nr. 1707/2025, in calitate de initiator pentru proiectul de hotarare nr. 1703/2025, raportul compartimentului de specialitate a",
+"short": "HCL Moieciu nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-6-2025.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-7-2025",
+"path": "local/brasov/moieciu/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 7/2025 privind darea in folosinta gratuita a unei suprafete de teren catre RPL Ocolul Silvie Bucegi-Piatra Craiului Ciuca$ RA, in vederea infiintarii unui depozit pentru materialul lemnos provenit din confiscari - Consiliul Local al Comunei Moieciu, judetul Bra$OV, intrunit in $edinta ordinara din data de 27.02.2025, · Analizand raportul de aprobare nr. 348/16.01.2025 al primarului Comunei Moieciu in cal",
+"short": "HCL Moieciu nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-7-2025.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--moieciu-8-2025",
 "path": "local/brasov/moieciu/2025/8",
 "kind": "local",
@@ -22,6 +154,50 @@
 "council_name": "Consiliul Local al Comunei Moieciu",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-9-2025",
+"path": "local/brasov/moieciu/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 9/2025 privind acordare ajutor de urgenta pentru situatii de necesitate cauzate de incendii Consiliul local al comunei Moieciu, judetul Bra~ov, intrunit in ~edinta ordinara din data de 27.02.2025 Avand in vedere referatul de aprobare al primarului nr. 1737/21.02.2025 pentru proiectul de hotarare nr. 773/21.02.2025, raportul compartimentului de specialitate nr. 1738/21.02.2025 ~i avizul comisiilor de spec",
+"short": "HCL Moieciu nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-9-2025.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--moieciu-10-2025",
+"path": "local/brasov/moieciu/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moieciu nr. 10/2025 privind stabilirea perioadei de pa$unat pe teritoriul administrativ al comunei Moieciu Consiliul local al comunei Moieciu, judetul Bra$0V, intrunit in $edinta ordinara din data de 27.02.2025, Analizand referatul de aprobare al primarului nr. 1914/2025, in calitate de initiator pentru proiectul de hotarare nr. 1913/2025, raportul compartimentului de specialitate al primarului nr. 1915/2025 $i avizu",
+"short": "HCL Moieciu nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://primariamoieciu.ro/wp-content/uploads/2025/03/HCL-10-2025.pdf",
+"council": "brasov/moieciu",
+"council_name": "Consiliul Local al Comunei Moieciu",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

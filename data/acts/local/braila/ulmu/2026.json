@@ -92,6 +92,50 @@
 "metadata_only": "individual",
 "title_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-braila--ulmu-39-2026",
+"path": "local/braila/ulmu/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 39/2026 pentru aprobarea ajustării tarifelor aferente activităților de colectare și transport al deșeurilor municipale, precum și tarifelor pentru serviciile conexe serviciului de salubrizare, prevăzute în „Contractul de delegare a gestiunii activităților de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare din județul Brăila și salubrizare căi publice în Municipiul",
+"short": "HCL Ulmu nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://www.primariaulmu.ro/fisiere/HCL-nr.-39-din-20.10.2026.pdf",
+"council": "braila/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-braila--ulmu-40-2026",
+"path": "local/braila/ulmu/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 40/2026 pentru aprobarea ajustării tarifelor aferente Contractului de delegare a gestiunii serviciului de administrare a stației de transfer Însurăței, depozitul ecologic și stației de sortare Ianca din cadrul Sistemului de Management Integrat al Deșeurilor în Județul Brăila nr. 294/14.12.2021 încheiat cu FCC ENVIRONMENT ROMANIA S.R.L",
+"short": "HCL Ulmu nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://www.primariaulmu.ro/fisiere/HCL-nr.-40-din-20.10.2026.pdf",
+"council": "braila/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

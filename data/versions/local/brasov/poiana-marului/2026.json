@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--poiana-marului-23-2026",
+   "path": "local/brasov/poiana-marului/2026/23",
+   "short": "HCL Poiana Mărului nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Mărului nr. 23/2026 privind aprobarea cesiunii contractului de închiriere nr. 2399/16.04.2019",
+   "url": "https://emol.ro/poianamarului-bv/registru-hcl/268898",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/poianamarului-bv/registru-hcl/268898",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--poiana-marului-24-2026",
    "path": "local/brasov/poiana-marului/2026/24",
    "short": "HCL Poiana Mărului nr. 24/2026",
