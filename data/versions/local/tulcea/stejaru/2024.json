@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/stejaru/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--stejaru-45-2024",
+   "path": "local/tulcea/stejaru/2024/45",
+   "short": "HCL Stejaru nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 45/2024 privind rectificarea Bugetului local de venituri si cheltuieli al comunei Stejaru pe anul 2024",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/176184",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/176184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-46-2024",
+   "path": "local/tulcea/stejaru/2024/46",
+   "short": "HCL Stejaru nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 46/2024 privind actualizarea HCL 19/01.03.2024 privind impozitele şi taxelor locale, precum şi a taxelor speciale, pentru anul 2024",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/176241",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/176241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-47-2024",
+   "path": "local/tulcea/stejaru/2024/47",
+   "short": "HCL Stejaru nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 47/2024 privind actualizarea HCL nr.27/ 15.05.2024 ptivind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2025",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/176242",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/176242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-50-2024",
+   "path": "local/tulcea/stejaru/2024/50",
+   "short": "HCL Stejaru nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 50/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții “MODERNIZARE DRUMURI IN COMUNA STEJARU, JUD TULCEA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului, ca urmare a finalizării procedurilor de achiziție",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/178491",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/178491",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

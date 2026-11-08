@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/dragoesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-valcea--dragoesti-1-2020",
+   "path": "local/valcea/dragoesti/2020/1",
+   "short": "HCL Drăgoești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 1/2020 privind aprobarea retelei scolare ce urmeaza a functiona in anul scolar 2020-2021 pe raza comunei Drăgoești, judetul Vâlcea",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/400",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-10-2020",
+   "path": "local/valcea/dragoesti/2020/10",
+   "short": "HCL Drăgoești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 10/2020 privind aprobarea organigramei si statului de functii din aparatul propriu al primarului comunei Dragoesti, judetul Valcea",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/954",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-11-2020",
+   "path": "local/valcea/dragoesti/2020/11",
+   "short": "HCL Drăgoești nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 11/2020 privind aprobarea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului si din serviciile publice din subordinea Consiliului local",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/955",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-12-2020",
+   "path": "local/valcea/dragoesti/2020/12",
+   "short": "HCL Drăgoești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 12/2020 aprobare documente necesare demararii procedurii de atribuire a contractului de delegare prin concesiune a serviciului de salubrizare constand din colectare,transfer si sortare a deseurilor municipale in judetul Valcea",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/956",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-13-2020",
+   "path": "local/valcea/dragoesti/2020/13",
+   "short": "HCL Drăgoești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 13/2020 privind aprobare constituire fond de rezerva bugetara pe anul 2020",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/957",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-14-2020",
+   "path": "local/valcea/dragoesti/2020/14",
+   "short": "HCL Drăgoești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 14/2020 privind : rectificarea bugetului local al comunei Dragoesti pe anul 2020 si estimari pe anii 2021-2023",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/11076",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/11076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-15-2020",
+   "path": "local/valcea/dragoesti/2020/15",
+   "short": "HCL Drăgoești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 15/2020 privind aprobarea contului de executie a bugetului local al comunei Dragoesti la 31.03.2020",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/11077",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/11077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-16-2020",
+   "path": "local/valcea/dragoesti/2020/16",
+   "short": "HCL Drăgoești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 16/2020 Privitor la : Revizuirea Regulamentului de Organizare şi funcţionare al Consiliului local al comunei DRĂGOEŞTI, Judeţul VÂLCEA",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/11078",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/11078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-17-2020",
+   "path": "local/valcea/dragoesti/2020/17",
+   "short": "HCL Drăgoești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 17/2020 privind privind aprobarea documentelor necesare demarării procedurii de atribuire a Contractului de delegare prin concesiune a Serviciului de salubrizare constând din colectare, transfer și sortare ale deșeurilor municipale în Județul Vâlcea",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/11079",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/11079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-18-2020",
+   "path": "local/valcea/dragoesti/2020/18",
+   "short": "HCL Drăgoești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 18/2020 privind : Aprobarea contului de executie a bugetului local al comunei Dragoesti la 30.06.2020",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/11080",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/11080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-19-2020",
+   "path": "local/valcea/dragoesti/2020/19",
+   "short": "HCL Drăgoești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 19/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/19399",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/19399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-2-2020",
+   "path": "local/valcea/dragoesti/2020/2",
+   "short": "HCL Drăgoești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 2/2020 privind aprobare „Plan de actiuni sau de lucrari de interes local”",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/401",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--dragoesti-20-2020",
+   "path": "local/valcea/dragoesti/2020/20",
+   "short": "HCL Drăgoești nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Drăgoești nr. 20/2020 privind stabilirea comisiilor de specialitate ale consiliului local",
+   "url": "https://emol.ro/dragoesti-vl/registru-hcl/19400",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragoesti-vl/registru-hcl/19400",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

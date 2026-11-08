@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Stejaru nr. 2/2025 privind actualizarea HCL 72/19.12.2022 privind revizuirea planului de masuri necesare pentru interzicerea abandonării, aruncării sau gestionării necontrolate a deșeurilor
+
+HCL Stejaru nr. 2/2025 · 1 versions, from 2025-01-31 (latest in force: 2025-01-31) · <https://emol.ro/stejaru-tl/registru-hcl/190076>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-tulcea--stejaru-2-2025` (tags `hcl-tulcea--stejaru-2-2025/<day>`; `python tools/on.py <day> hcl-tulcea--stejaru-2-2025`).
+
+## Decisions made by hand
+
+- HCL Stejaru nr. 2/2025: listed from Consiliul Local al Comunei Stejaru (emol.ro); metadata only for now: no document of it is held.
+- HCL Stejaru nr. 2/2025: dated from 31 January 2025, the day it was adopted (the register gives no later day of publication).
+- HCL Stejaru nr. 2/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

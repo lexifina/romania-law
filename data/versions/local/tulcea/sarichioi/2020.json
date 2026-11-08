@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sarichioi/2020",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sarichioi-61-2020",
+   "path": "local/tulcea/sarichioi/2020/61",
+   "short": "HCL Sarichioi nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 61/2020 privind aprobarea cuantumului şi a numărului burselor care vor fi acordate elevilor din unităţile de învăţământ preuniversitar de stat din comuna Sarichioi, judeţul Tulcea pentru anul şcolar 2020 – 2021",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/14057",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/14057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-62-2020",
+   "path": "local/tulcea/sarichioi/2020/62",
+   "short": "HCL Sarichioi nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 62/2020 privind aprobarea proiectului „Acces la e-educație prin dezvoltarea infrastructurii IT la nivelul Scolii Gimnaziale Sarichioi si a unităților de învățământ arondate\" precum și a cheltuielilor aferente",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/14061",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/14061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-63-2020",
+   "path": "local/tulcea/sarichioi/2020/63",
+   "short": "HCL Sarichioi nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 63/2020 privind modificarea Regulamentului de Organizare şi funcţionare al Consiliului Local al comunei Sarichioi, judeţul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/14060",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/14060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-69-2020",
+   "path": "local/tulcea/sarichioi/2020/69",
+   "short": "HCL Sarichioi nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 69/2020 privind aprobarea Planului de acţiune pe timpul iernii 2020 - 2021 la nivelul comunei Sarichioi, judeţul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/14059",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/14059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-70-2020",
+   "path": "local/tulcea/sarichioi/2020/70",
+   "short": "HCL Sarichioi nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 70/2020 privind aprobarea proiectului „Protejarea sănătăţii elevilor şi a personalului implicat în desfăşurarea activităţilor educaţionale din Școala Gimnaziala Sarichioi si a unităților de învățământ arondate în contextul răspândirii virusului SARS-CoV-2\" precum și a cheltuielilor aferente",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/14064",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/14064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-71-2020",
+   "path": "local/tulcea/sarichioi/2020/71",
+   "short": "HCL Sarichioi nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 71/2020 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Sarichioi judeţul Tulcea pe anul 2020",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/14065",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/14065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-72-2020",
+   "path": "local/tulcea/sarichioi/2020/72",
+   "short": "HCL Sarichioi nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 72/2020 privind aprobarea impozitelor şi taxelor locale la nivelul comunei Sarichioi, judeţul Tulcea pentru anul 2021",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/14066",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/14066",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

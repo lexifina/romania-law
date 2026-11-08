@@ -1,0 +1,816 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/nalbant/2025",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--nalbant-1-2025",
+   "path": "local/tulcea/nalbant/2025/1",
+   "short": "HCL Nalbant nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 1/2025 privind revocarea Hotărârii Consiliului Local Nalbant, județul Tulcea nr. 71/11.11.2024 referitor la aprobarea organizării rețelei unităților de învățământ preuniversitar de stat din comuna Nalbant propuse să funcționeze în anul școlar 2025-2026",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/187687",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/187687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-11-2025",
+   "path": "local/tulcea/nalbant/2025/11",
+   "short": "HCL Nalbant nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 11/2025 privind dezmembrarea unor suprafețe de teren din extravilanul comunei Nalbant, jud. Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/191019",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/191019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-13-2025",
+   "path": "local/tulcea/nalbant/2025/13",
+   "short": "HCL Nalbant nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 13/2025 privind aprobarea normelor procedurale interne pentru organizarea si desfășurarea propriilor proceduri de atribuire a contractelor de achizitie publică ce au ca obiect Servicii sociale si alte servicii specifice pentru aprobarea suportului alimentar acordat preșcolarilor si elevilor în cadrul Programului naţional \"Masă sănătoasă\" în anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/191746",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/191746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-14-2025",
+   "path": "local/tulcea/nalbant/2025/14",
+   "short": "HCL Nalbant nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 14/2025 privind aprobarea Bugetului local al comunei Nalbant, jud. Tulcea pentru anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199024",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-15-2025",
+   "path": "local/tulcea/nalbant/2025/15",
+   "short": "HCL Nalbant nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 15/2025 privind aprobarea Bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199025",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-16-2025",
+   "path": "local/tulcea/nalbant/2025/16",
+   "short": "HCL Nalbant nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 16/2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199026",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-17-2025",
+   "path": "local/tulcea/nalbant/2025/17",
+   "short": "HCL Nalbant nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 17/2025 privind aprobarea decontării contravalorii cheltuielilor de transport a personalului didactic din unităţile de învăţământ de stat din comuna Nalbant, judeţul Tulcea, pentru lunile ianuarie- februarie, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199027",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-18-2025",
+   "path": "local/tulcea/nalbant/2025/18",
+   "short": "HCL Nalbant nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 18/2025 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de gestionare a câinilor fără stăpăn",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199028",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-19-2025",
+   "path": "local/tulcea/nalbant/2025/19",
+   "short": "HCL Nalbant nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 19/2025 privind aprobarea Regulamentului de organizare si functionare a Consiliului Local al Comunei Nalbant, Judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199029",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-2-2025",
+   "path": "local/tulcea/nalbant/2025/2",
+   "short": "HCL Nalbant nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 2/2025 privind aprobarea organizării rețelei unităților de învățământ preuniversitar de stat din comuna Nalbant propuse să funcționeze în anul școlar 2025-2026",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/187688",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/187688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-20-2025",
+   "path": "local/tulcea/nalbant/2025/20",
+   "short": "HCL Nalbant nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 20/2025 privind includerea unor terenuri in inventarul domeniului privat al comunei Nalbant, judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199030",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-21-2025",
+   "path": "local/tulcea/nalbant/2025/21",
+   "short": "HCL Nalbant nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 21/2025 privind dezmembrarea unor suprafețe de teren din extravilanul comunei Nalbant, jud. Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199031",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-22-2025",
+   "path": "local/tulcea/nalbant/2025/22",
+   "short": "HCL Nalbant nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 22/2025 privind aprobarea majorarii nivelului cotizatiei datorata Asociatiei Comunelor din Romania Filiala Tulcea corespunzator acordarii salariului de baza pentru postul de mediator scolar care asigura satisfacerea nevoilor de utilitate publica la nivelul Primariei Comunei Nalbant",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199032",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-23-2025",
+   "path": "local/tulcea/nalbant/2025/23",
+   "short": "HCL Nalbant nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 23/2025 privind neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor – cadru pentru achizitia produselor aferente programului și contractelor/acordurilor – cadru de prestare a serviciilor pentru derularea masurilor educative, la nivel local, în perioada 2023–2029 și pentru stabilirea bugetului pentru implementarea acestuia in anul scolar 2025–2027",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199033",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-24-2025",
+   "path": "local/tulcea/nalbant/2025/24",
+   "short": "HCL Nalbant nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 24/2025 privind aprobarea decontării din bugetul local al Comunei Nalbant pe anul 2025 a sumei de 252.088,74 lei reprezentând contravaloare facturi energie electrică emise pentru serviciul de alimentare cu apă al Comunei Nalbant",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199034",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-25-2025",
+   "path": "local/tulcea/nalbant/2025/25",
+   "short": "HCL Nalbant nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 25/2025 privind aprobarea actualizarii devizului general si a indicatorilor tehnico-economici aferenti obiectivului de Investitii “Modernizare strazi in lungime de aproximativ 15 km in Comuna Nalbant judetul Tulcea” aprobat pentru finantare prin Programul National de Investitii “Anghel Saligny” precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/199035",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/199035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-26-2025",
+   "path": "local/tulcea/nalbant/2025/26",
+   "short": "HCL Nalbant nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 26/2025 privind aprobarea indexarii impozitelor și taxelor locale în anul fiscal 2026, ținând cont de rata inflației pentru anul anterior",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/206957",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/206957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-27-2025",
+   "path": "local/tulcea/nalbant/2025/27",
+   "short": "HCL Nalbant nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 27/2025 privind aprobarea decontării contravalorii cheltuielilor de transport a personalului didactic din unităţile de învăţământ de stat din comuna Nalbant, judeţul Tulcea, pentru luna martie, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/206958",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/206958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-3-2025",
+   "path": "local/tulcea/nalbant/2025/3",
+   "short": "HCL Nalbant nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 3/2025 privind stabilirea şi aprobarea impozitelor taxelor locale şi a altor taxe asimilate acestora, începând cu anul fiscal 2025, la nivelul Comunei Nalbant, Judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/187689",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/187689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-32-2025",
+   "path": "local/tulcea/nalbant/2025/32",
+   "short": "HCL Nalbant nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 32/2025 privind includerea unor terenuri in inventarul domeniului privat al comunei Nalbant, judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/206963",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/206963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-33-2025",
+   "path": "local/tulcea/nalbant/2025/33",
+   "short": "HCL Nalbant nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 33/2025 privind însușirea Acordului de cooperare pentru asigurarea suportului IT în vederea dezvoltării și gestionării Registrului Spațiilor Verzi",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/206964",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/206964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-38-2025",
+   "path": "local/tulcea/nalbant/2025/38",
+   "short": "HCL Nalbant nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 38/2025 privind aprobarea decontării contravalorii cheltuielilor de transport a personalului didactic din unităţile de învăţământ de stat din comuna Nalbant, judeţul Tulcea, pentru luna aprilie, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/209682",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/209682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-39-2025",
+   "path": "local/tulcea/nalbant/2025/39",
+   "short": "HCL Nalbant nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 39/2025 privind includerea unor terenuri in inventarul domeniului privat al comunei Nalbant, judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/209683",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/209683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-41-2025",
+   "path": "local/tulcea/nalbant/2025/41",
+   "short": "HCL Nalbant nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 41/2025 privind aprobarea rectificării bugetului local al comunei Nalbant, jud. Tulcea, pentru anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/209685",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/209685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-43-2025",
+   "path": "local/tulcea/nalbant/2025/43",
+   "short": "HCL Nalbant nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 43/2025 privind aprobarea decontării contravalorii cheltuielilor de transport a personalului didactic din unităţile de învăţământ de stat din comuna Nalbant, judeţul Tulcea, pentru luna iunie, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/216337",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/216337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-46-2025",
+   "path": "local/tulcea/nalbant/2025/46",
+   "short": "HCL Nalbant nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 46/2025 privind includerea unor terenuri in inventarul domeniului privat al comunei Nalbant, judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/216340",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/216340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-48-2025",
+   "path": "local/tulcea/nalbant/2025/48",
+   "short": "HCL Nalbant nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 48/2025 privind aprobarea Documentației de atribuire compusă din: Caiet de sarcini, Fișa de date, Regulamentul de organizare a licitației și formulare de înscriere pentru participarea la licitația publică de vânzare a 5 loturi de teren intravilan, situate în comuna Nalbant, judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/219961",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/219961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-49-2025",
+   "path": "local/tulcea/nalbant/2025/49",
+   "short": "HCL Nalbant nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 49/2025 privind aprobarea Normelor procedurale privind vânzarea prin licitație publică a bunurilor imobile (terenuri și/sau clădiri) aflate în domeniul privat al comunei Nalbant, județul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/219962",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/219962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-50-2025",
+   "path": "local/tulcea/nalbant/2025/50",
+   "short": "HCL Nalbant nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 50/2025 pentru aprobarea Regulamentului privind normele de gospodarire comunală al comunei Nalbant, judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/219963",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/219963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-51-2025",
+   "path": "local/tulcea/nalbant/2025/51",
+   "short": "HCL Nalbant nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 51/2025 privind includerea unor terenuri in inventarul domeniului privat al comunei Nalbant, judetul Tulcea T12, P321",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/219964",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/219964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-52-2025",
+   "path": "local/tulcea/nalbant/2025/52",
+   "short": "HCL Nalbant nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 52/2025 privind aprobarea bilantului de apă al Serviciului de alimentare cu apă al comunei Nalbant",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/221578",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/221578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-53-2025",
+   "path": "local/tulcea/nalbant/2025/53",
+   "short": "HCL Nalbant nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 53/2025 privind aprobarea cotei corespunzătoare pierderilor de apă din Serviciul de alimentare cu apă al comunei Nalbant",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/221579",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/221579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-54-2025",
+   "path": "local/tulcea/nalbant/2025/54",
+   "short": "HCL Nalbant nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 54/2025 privind stabilirea redeventei aferente Serviciului de alimentare cu apă in comuna Nalbant",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/221580",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/221580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-55-2025",
+   "path": "local/tulcea/nalbant/2025/55",
+   "short": "HCL Nalbant nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 55/2025 privind aprobarea strategiei de tarifare a Serviciului de alimentare cu apă din comuna Nalbant pentru perioada 2025-2030",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/221581",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/221581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-56-2025",
+   "path": "local/tulcea/nalbant/2025/56",
+   "short": "HCL Nalbant nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 56/2025 privind includerea unor terenuri in inventarul domeniului privat al comunei Nalbant, judetul Tulcea T1, A17",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/221582",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/221582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-59-2025",
+   "path": "local/tulcea/nalbant/2025/59",
+   "short": "HCL Nalbant nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 59/2025 privind aprobarea devizului pe rest de executat, a actualizarii devizului general si a indicatorilor tehnico-economici aferenti obiectivului de Investitii “Modernizare strazi in lungime de aproximativ 15 km in Comuna Nalbant judetul Tulcea” aprobat pentru finantare prin Programul National de Investitii “Anghel Saligny” precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/221585",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/221585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-6-2025",
+   "path": "local/tulcea/nalbant/2025/6",
+   "short": "HCL Nalbant nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 6/2025 privind aprobarea decontării contravalorii cheltuielilor de transport a personalului didactic din unităţile de învăţământ de stat din comuna Nalbant, judeţul Tulcea, pentru luna decembrie, anul 2024",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/191014",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/191014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-60-2025",
+   "path": "local/tulcea/nalbant/2025/60",
+   "short": "HCL Nalbant nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 60/2025 privind aprobarea Planului de acțiune pe timpul iernii 2025-2026",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/228761",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/228761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-62-2025",
+   "path": "local/tulcea/nalbant/2025/62",
+   "short": "HCL Nalbant nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 62/2025 privind ajustarea prețului pentru serviciul de alimentare cu apă, pentru Serviciul Alimentare cu Apă, comuna Nalbant, jud. Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/228763",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/228763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-63-2025",
+   "path": "local/tulcea/nalbant/2025/63",
+   "short": "HCL Nalbant nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 63/2025 privind includerea unor terenuri in inventarul domeniului privat al comunei Nalbant, judetul Tulcea T31, A249, T17, A607/1, T17, A607/2, T39, A1162, T39, DS 1183, T13, A500, CC 498, T49, CC403",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/228764",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/228764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-64-2025",
+   "path": "local/tulcea/nalbant/2025/64",
+   "short": "HCL Nalbant nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 64/2025 privind aprobarea rectificării bugetului local al comunei Nalbant, jud. Tulcea, pentru trimestrul IV, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/230880",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/230880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-65-2025",
+   "path": "local/tulcea/nalbant/2025/65",
+   "short": "HCL Nalbant nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 65/2025 privind aprobarea raportului ce vizeaza activitatea asistenților personali al persoanelor cu handicap grav din com. Nalbant, desfasurata in semestrul I al anului 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/230881",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/230881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-66-2025",
+   "path": "local/tulcea/nalbant/2025/66",
+   "short": "HCL Nalbant nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 66/2025 privind aprobarea decontării contravalorii cheltuielilor de transport a personalului didactic din unităţile de învăţământ de stat din comuna Nalbant, judeţul Tulcea, pentru luna septembrie, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/230882",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/230882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-69-2025",
+   "path": "local/tulcea/nalbant/2025/69",
+   "short": "HCL Nalbant nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 69/2025 privind aprobarea decontării contravalorii cheltuielilor de transport a personalului didactic din unităţile de învăţământ de stat din comuna Nalbant, judeţul Tulcea, pentru luna octombrie, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/239835",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/239835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-71-2025",
+   "path": "local/tulcea/nalbant/2025/71",
+   "short": "HCL Nalbant nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 71/2025 privind aprobarea Planului de acțiune și a lucrărilor de interes local pe anul 2026 pentru persoanele beneficiare de prevederile Legii nr. 196/2016, din comuna Nalbant, judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/239837",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/239837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-72-2025",
+   "path": "local/tulcea/nalbant/2025/72",
+   "short": "HCL Nalbant nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 72/2025 privind aprobarea rectificării bugetului local al comunei Nalbant, jud. Tulcea, pentru trimestrul IV, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/239838",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/239838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-73-2025",
+   "path": "local/tulcea/nalbant/2025/73",
+   "short": "HCL Nalbant nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 73/2025 privind includerea unor terenuri in inventarul domeniului privat al comunei Nalbant, judetul Tulcea T19, A689/2 loc Nicolae Balcescu",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/239839",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/239839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-74-2025",
+   "path": "local/tulcea/nalbant/2025/74",
+   "short": "HCL Nalbant nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 74/2025 privind aprobarea organizării rețelei unităților de învățământ preuniversitar de stat din comuna Nalbant propuse să funcționeze în anul școlar 2026-2027",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/240775",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/240775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-75-2025",
+   "path": "local/tulcea/nalbant/2025/75",
+   "short": "HCL Nalbant nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 75/2025 privind aprobarea rectificării bugetului local al comunei Nalbant, jud. Tulcea, pentru trimestrul IV, anul 2025",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/240776",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/240776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-76-2025",
+   "path": "local/tulcea/nalbant/2025/76",
+   "short": "HCL Nalbant nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 76/2025 privind modificarea și actualizarea HCL 84/14.11.2024 privind aprobarea participării Comunei Nalbant în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Modernizarea sistemului de iluminat public stradal în Comuna Nalbant, Județul Tulcea”",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/240777",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/240777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-77-2025",
+   "path": "local/tulcea/nalbant/2025/77",
+   "short": "HCL Nalbant nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 77/2025 privind stabilirea şi aprobarea impozitelor taxelor locale şi a altor taxe asimilate acestora, începând cu anul fiscal 2026, la nivelul Comunei Nalbant, Judetul Tulcea",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/240778",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/240778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-78-2025",
+   "path": "local/tulcea/nalbant/2025/78",
+   "short": "HCL Nalbant nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 78/2025 privind implementarea proiectului „Trotuare Nalbant”",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/240779",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/240779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-79-2025",
+   "path": "local/tulcea/nalbant/2025/79",
+   "short": "HCL Nalbant nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 79/2025 privind cotele și nivelurile impozitelor și taxelor locale stabilite pentru anul 2026, potrivit actului normativ adoptat de Guvern",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/243748",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/243748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--nalbant-8-2025",
+   "path": "local/tulcea/nalbant/2025/8",
+   "short": "HCL Nalbant nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Nalbant nr. 8/2025 privind aprobarea raportului ce vizeaza activitatea asistenților personali al persoanelor cu handicap grav din com. Nalbant, desfasurata in semestrul II al anului 2024",
+   "url": "https://emol.ro/nalbant-tl/registru-hcl/191016",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/nalbant-tl/registru-hcl/191016",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

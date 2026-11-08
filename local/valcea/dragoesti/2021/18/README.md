@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Drăgoești nr. 18/2021 privind aprobarea utilizarii sumei de 633437.67 lei din excedentul bugetar al anului 2020
+
+HCL Drăgoești nr. 18/2021 · 1 versions, from 2021-04-21 (latest in force: 2021-04-21) · <https://emol.ro/dragoesti-vl/registru-hcl/33124>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-valcea--dragoesti-18-2021` (tags `hcl-valcea--dragoesti-18-2021/<day>`; `python tools/on.py <day> hcl-valcea--dragoesti-18-2021`).
+
+## Decisions made by hand
+
+- HCL Drăgoești nr. 18/2021: listed from Consiliul Local al Comunei Drăgoești (emol.ro); metadata only for now: no document of it is held.
+- HCL Drăgoești nr. 18/2021: dated from 21 April 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Drăgoești nr. 18/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

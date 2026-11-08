@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sulina/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sulina-107-2024",
+   "path": "local/tulcea/sulina/2024/107",
+   "short": "HCL Sulina nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 107/2024 privind stabilirea taxelor pentru activitatea autofinanțată „PIAȚĂ”",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2024.html",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL107din20dec2024_taxe_piata.doc",
+     "sha256": "83cbd53c6aa4aeff0f565206dd9072167f51145877db8097034079dbebc1819e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-108-2024",
+   "path": "local/tulcea/sulina/2024/108",
+   "short": "HCL Sulina nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 108/2024 privind aprobarea stabilirii impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2024.html",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL108din20dec2024_taxe_locale.docx",
+     "sha256": "964f8354ea8f1741acd360a0a5a05f97571da095f4ca729ae21a1b95b3b1f31b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-73-2024",
+   "path": "local/tulcea/sulina/2024/73",
+   "short": "HCL Sulina nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 73/2024 privind aprobarea Regulamentului privind acordarea Titlului de „Cetățean de Onoare al orașului Sulina”",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2024.html",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL73din30sep2024_reg_cetatean_onoare.docx",
+     "sha256": "b9486b5bc1991bbe5af14c4b58eb10cb3fbf67d4313bd1d45ebcdad7ce59e14c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-79-2024",
+   "path": "local/tulcea/sulina/2024/79",
+   "short": "HCL Sulina nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 79/2024",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2024.html",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL79din30sep2024_aprobare_PUZ.docx",
+     "sha256": "cd7546b7946b73de5f807cb57c9d0762ecb9c6c33868305f6094e4a9957e3560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-8-2024",
+   "path": "local/tulcea/sulina/2024/8",
+   "short": "HCL Sulina nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 8/2024 privind aprobarea documentației de urbanism Plan Urbanistic Zonal ,,Înființare structură de turism”, intravilan , strada a VI-a, nr. 88, orașul Sulina, județul Tulcea",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2024.html",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL8din2024_aprobare_PUZ.docx",
+     "sha256": "1fc62734c8689bc266e61093d9540143dd6335a8ec1e8d7c6b29b5609ca310ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-99-2024",
+   "path": "local/tulcea/sulina/2024/99",
+   "short": "HCL Sulina nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 99/2024",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2024.html",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL99din20dec2024_lista__reducere_taxe.docx",
+     "sha256": "e8d92012948f5a22c397ae70c559dadcdaf1dd3d3af7e8f012a32b45bfd9b219"
+    }
+   ]
+  }
+ ]
+}

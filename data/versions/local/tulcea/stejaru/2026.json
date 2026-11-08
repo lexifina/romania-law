@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/stejaru/2026",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--stejaru-1-2026",
+   "path": "local/tulcea/stejaru/2026/1",
+   "short": "HCL Stejaru nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 1/2026 privind aprobarea utilizarii excedentului anilor anteriori pentru sectiunea de dezvoltare, sursa A, a bugetului local al Comunei Stejaru in anul 2026",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/252488",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/252488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-10-2026",
+   "path": "local/tulcea/stejaru/2026/10",
+   "short": "HCL Stejaru nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 10/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/260502",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/260502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-11-2026",
+   "path": "local/tulcea/stejaru/2026/11",
+   "short": "HCL Stejaru nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 11/2026 Privind înființarea, organigrama și numărul de personal ale Serviciului Voluntar pentru Situații de Urgență comunei Stejaru, județul Tulcea",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/260503",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/260503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-12-2026",
+   "path": "local/tulcea/stejaru/2026/12",
+   "short": "HCL Stejaru nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 12/2026 privind modificarea acordului de cooperare privind organizarea şi exercitarea activitătii Departamentului Urbanism cu Asociatia de dezvoltare locala si intercomunitara Stejaru Beidaud, judetul Tulcea",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/260504",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/260504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-13-2026",
+   "path": "local/tulcea/stejaru/2026/13",
+   "short": "HCL Stejaru nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 13/2026 privind aprobarea tarifelor serviciilor si lucrarilor efectuate de SC SERVICII PUBLICE STEJARU SRL",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/260505",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/260505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-14-2026",
+   "path": "local/tulcea/stejaru/2026/14",
+   "short": "HCL Stejaru nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 14/2026 privind implementarea proiectului ”LUCRĂRI DE INTREȚINERE ȘI REPARAȚII CURENTE LA CONSTRUCȚII ȘI SPAȚII EXTERIOARE – CLUBUL DEALUL DE AUR, LOCALITATEA MINA ALTÂN TEPE, COMUNA STEJARU”",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/260506",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/260506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-16-2026",
+   "path": "local/tulcea/stejaru/2026/16",
+   "short": "HCL Stejaru nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 16/2026 privind aprobarea numarului maxim de posturi care pot fi incadrate la nivelul Unitatii Administrativ-Teritoriala Stejaru stabilite conform Ordonantei de Urgenta a Guvernului nr.7/2026 pentru modificarea si completarea unor acte normative , precum si pentru adoptarea unor masuri pentru cresterea capacitatii financiare a Unitatilor Administrativ-teritoriale",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/263681",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/263681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-18-2026",
+   "path": "local/tulcea/stejaru/2026/18",
+   "short": "HCL Stejaru nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 18/2026 privind asigurarea mentenanței stațiilor de încărcare pentru vehicule electrice, stabilirea regimului de utilizare a acestora de către public, precum și aprobarea tarifului de încărcare",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/263683",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/263683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-19-2026",
+   "path": "local/tulcea/stejaru/2026/19",
+   "short": "HCL Stejaru nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 19/2026 privind indexarea impozitelor şi taxelor locale, precum și a taxelor speciale cu 7.30 % pentru anul fiscal 2027",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/265502",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/265502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-2-2026",
+   "path": "local/tulcea/stejaru/2026/2",
+   "short": "HCL Stejaru nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 2/2026 privind aprobarea utilizarii excedentului anilor anteriori pentru sectiunea de functionare in anul 2026 la activitati finantate integral din venituri proprii",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/252489",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/252489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-20-2026",
+   "path": "local/tulcea/stejaru/2026/20",
+   "short": "HCL Stejaru nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 20/2026 privind aprobarea bugetului local de venituri si cheltuieli al Comunei Stejaru pe anul 2026",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/265904",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/265904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-21-2026",
+   "path": "local/tulcea/stejaru/2026/21",
+   "short": "HCL Stejaru nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 21/2026 privind aprobarea bugetului de venituri si cheltuieli al comunei Stejaru pe anul 2026 la activităţi finanţate integral din venituri proprii",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/265905",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/265905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-27-2026",
+   "path": "local/tulcea/stejaru/2026/27",
+   "short": "HCL Stejaru nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 27/2026 privind aprobarea documentației tehnico-economice faza PT a indicatorilor tehnico-economici si a devizului general pentru proiectul „ CRESTERE EFICIENTA ENERGETICA - EXTINDERE ILUMINAT PUBLIC, COMUNA STEJARU, JUD. TULCEA”",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/273967",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/273967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-28-2026",
+   "path": "local/tulcea/stejaru/2026/28",
+   "short": "HCL Stejaru nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 28/2026 privind actualizarea devizului general si al indicatoriror tehnico-economici ai obiectivului de investiti “MODERNIZARE DRUMURI IN COMUNA STEJARU, JUD TULCEA”",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/273968",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/273968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-31-2026",
+   "path": "local/tulcea/stejaru/2026/31",
+   "short": "HCL Stejaru nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 31/2026 privind aprobarea studiului de oportunitate, a documentației de delegare, a inventarului bunurilor aferente serviciului de apă și canalizare, a procesului-verbal de predare-primire, a indicatorilor de performanță și a structurii tarifare pentru serviciul public de alimentare cu apă și canalizare din comuna Stejaru",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/273971",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/273971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-32-2026",
+   "path": "local/tulcea/stejaru/2026/32",
+   "short": "HCL Stejaru nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 32/2026",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/273972",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/273972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-33-2026",
+   "path": "local/tulcea/stejaru/2026/33",
+   "short": "HCL Stejaru nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 33/2026 privind aprobarea decontării cheltuielilor aferente obținerii și utilizării semnăturii electronice calificate pentru funcționarii publici, personalul contractual din aparatul de specialitate al primarului și consilierii locali",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/273973",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/273973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-34-2026",
+   "path": "local/tulcea/stejaru/2026/34",
+   "short": "HCL Stejaru nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 34/2026 privind scaderea unor creante fiscale provenite din debite mijloace transport ce nu au putut fi urmarite silit, din evidentele fiscale ale comunei Stejaru, jud Tulcea",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/273974",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/273974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-35-2026",
+   "path": "local/tulcea/stejaru/2026/35",
+   "short": "HCL Stejaru nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 35/2026 privind anularea obligaţiilor fiscale datorate de debitori, persoane juridice, radiaţi din Registrul Comerţului şi scăderea societăţilor radiate din evidenţa fiscală a Comunei Stejaru, Jud Tulcea",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/273975",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/273975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-36-2026",
+   "path": "local/tulcea/stejaru/2026/36",
+   "short": "HCL Stejaru nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 36/2026 privind actualizarea HCL nr.13 din 31.03.2026 privind aprobarea tarifelor serviciilor si lucrarilor efectuate de SC SERVICII PUBLICE STEJARU SRL",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/273976",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/273976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-37-2026",
+   "path": "local/tulcea/stejaru/2026/37",
+   "short": "HCL Stejaru nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 37/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/279097",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/279097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-38-2026",
+   "path": "local/tulcea/stejaru/2026/38",
+   "short": "HCL Stejaru nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 38/2026 privind actualizarea nomenclatorului stradal al Comunei Stejaru, județul Tulcea",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/279098",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/279098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-39-2026",
+   "path": "local/tulcea/stejaru/2026/39",
+   "short": "HCL Stejaru nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 39/2026 privind actualizarea Acordului de cooperare pentru funcționarea Serviciului Public Comunitar Local de Evidenţă a Persoanelor al comunei BAIA conform legislatiei în vigoare, prin care se asigură satisfacerea nevoilor de utilitate si interes public general al comunelor semnatare",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/279099",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/279099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-40-2026",
+   "path": "local/tulcea/stejaru/2026/40",
+   "short": "HCL Stejaru nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 40/2026 privind aprobarea documentației tehnico-economice faza PT a indicatorilor tehnico-economici si a devizului general pentru proiectul „ Infiintare centru de colectare prin aport voluntar in comuna Stejaru, judetul Tulcea”",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/279100",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/279100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-42-2026",
+   "path": "local/tulcea/stejaru/2026/42",
+   "short": "HCL Stejaru nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 42/2026 privind actualizarea devizului general si al indicatoriror tehnico-economici ai obiectivului de investiti “INFIINTARE CENTRU DE COLECTARE PRIN APORT VOLUNTAR IN COMUNA STEJARU, JUDETUL TULCEA”",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/279102",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/279102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-43-2026",
+   "path": "local/tulcea/stejaru/2026/43",
+   "short": "HCL Stejaru nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 43/2026 privind darea în administrare a obiectivului de investiții „Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale Stejaru”",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/279936",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/279936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-44-2026",
+   "path": "local/tulcea/stejaru/2026/44",
+   "short": "HCL Stejaru nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 44/2026 privind aprobarea Actualizării Planului Urbanistic General (P.U.G.) și a Regulamentului Local de Urbanism (R.L.U.) ale Comunei Stejaru, județul Tulcea",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/284743",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/284743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-47-2026",
+   "path": "local/tulcea/stejaru/2026/47",
+   "short": "HCL Stejaru nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 47/2026 privind actualizarea nomenclatorului stradal al Comunei Stejaru, județul Tulcea",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/291095",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/291095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-48-2026",
+   "path": "local/tulcea/stejaru/2026/48",
+   "short": "HCL Stejaru nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 48/2026 privind aprobarea planului de actiuni si lucrari de interes local pentru persoanele apte de munca din familiile beneficiare ale dreptului ajutorului de incluziune pentru anul 2026",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/293824",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/293824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-49-2026",
+   "path": "local/tulcea/stejaru/2026/49",
+   "short": "HCL Stejaru nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 49/2026 privind actualizarea impozitele şi taxelor locale, precum şi a taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/293825",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/293825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-50-2026",
+   "path": "local/tulcea/stejaru/2026/50",
+   "short": "HCL Stejaru nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 50/2026 privind actualizarea impozitele şi taxelor locale, precum şi a taxelor speciale, pentru anul 2027",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/293826",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/293826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--stejaru-9-2026",
+   "path": "local/tulcea/stejaru/2026/9",
+   "short": "HCL Stejaru nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stejaru nr. 9/2026 privind acordarea unor facilități fiscale și stabilirea unor reduceri ale impozitelor și taxelor locale pentru anul fiscal 2026, în conformitate cu Ordonanța de Urgență a Guvernului nr. 9/2026",
+   "url": "https://emol.ro/stejaru-tl/registru-hcl/257331",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/stejaru-tl/registru-hcl/257331",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Sarichioi nr. 44/2021 privind modificarea H.C.L Sarichioi nr.14/12.02.2021 privind implementarea proiectului „Eficientizare energetică, schimbare acoperiș, reparații și modernizare atelier școală și Școala nr. 1 Sarichioi”, comuna Sarichioi, județul Tulcea și a indicatorilor tehnico-financiari
+
+HCL Sarichioi nr. 44/2021 · 1 versions, from 2021-06-10 (latest in force: 2021-06-10) · <https://emol.ro/sarichioi-tl/registru-hcl/26071>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-tulcea--sarichioi-44-2021` (tags `hcl-tulcea--sarichioi-44-2021/<day>`; `python tools/on.py <day> hcl-tulcea--sarichioi-44-2021`).
+
+## Decisions made by hand
+
+- HCL Sarichioi nr. 44/2021: listed from Consiliul Local al Comunei Sarichioi (emol.ro); metadata only for now: no document of it is held.
+- HCL Sarichioi nr. 44/2021: dated from 10 June 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Sarichioi nr. 44/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

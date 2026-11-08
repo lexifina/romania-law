@@ -1,0 +1,756 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sfantu-gheorghe/2022",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-10-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/10",
+   "short": "HCL Sfântu Gheorghe nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 10/2022 privind aprobarea bugetului local de venituri și cheltuieli al Consiliului local Sfântu Gheorghe pe anul 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52264",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-11-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/11",
+   "short": "HCL Sfântu Gheorghe nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 11/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Sfântu Gheorghe, judetul Tulcea pentru perioada februarie 2022, martie 2022, aprilie 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52265",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-12-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/12",
+   "short": "HCL Sfântu Gheorghe nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 12/2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52266",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-13-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/13",
+   "short": "HCL Sfântu Gheorghe nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 13/2022 privind modificarea Hotararii Consiliului Local nr.20 din 25.03.2019 privind însușirea Acordului de cooperarepentru organizarea şi exercitarea acțiunilor și activităților Departamentului Administrativ prin care se asigură satisfacerea nevoilor de utilitate și interes public general al comunelor semnatare",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52267",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-14-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/14",
+   "short": "HCL Sfântu Gheorghe nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 14/2022 privind aprobarea Strategiei de tarifare a prețului unic la apa potabilă și a tarifului unic la canalizare-epurare din comuna Sfântu Gheorghe, pentru perioada 2022-2026, ce urmează a fi practicate de Societatea Uzina de Apă Sfântu Gheorghe S.R.L",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/54047",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/54047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-29-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/29",
+   "short": "HCL Sfântu Gheorghe nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 29/2022 privind aprobarea documentației tehnice și a indicatorilor tehnico-economici pentru obiectivul de investiții Sistem video de supraveghere la sediul/clădirea Primăriei comunei Sfântu Gheorghe, județul Tulcea;",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64327",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-3-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/3",
+   "short": "HCL Sfântu Gheorghe nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 3/2022 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate și finanțate din bugetul comunei Sfântu Gheorghe, judeţul Tulcea pentru anul 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52254",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-30-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/30",
+   "short": "HCL Sfântu Gheorghe nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 30/2022 privind aprobarea realizării obiectivului de investiții Extindere sistem de supraveghere pe raza comunei Sfantu Gheorghe, județul Tulcea",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64328",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-31-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/31",
+   "short": "HCL Sfântu Gheorghe nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 31/2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64329",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-32-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/32",
+   "short": "HCL Sfântu Gheorghe nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 32/2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64330",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-33-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/33",
+   "short": "HCL Sfântu Gheorghe nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 33/2022 privind acordarea burselor elevilor din învățământul preuniversitar de stat din cadrul Școlii Gimnaziale Sfântu Gheorghe, județul Tulcea, pentru semestrul II al anului școlar 2021 - 2022;",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64331",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-34-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/34",
+   "short": "HCL Sfântu Gheorghe nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 34/2022 privind aprobarea încetării contractului de concesiune nr.8/2010 încheiat între Consiliul local al comunei și SC Pescom Aliment SRL;",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64332",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-36-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/36",
+   "short": "HCL Sfântu Gheorghe nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 36/2022 privind reglementarea acordării ajutoarelor de urgență și a ajutoarelor de înmormântare la nivelul comunei Sfântu Gheorghe, judeţul Tulcea;",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64334",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-37-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/37",
+   "short": "HCL Sfântu Gheorghe nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 37/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Sfântu Gheorghe, judetul Tulcea pentru perioada mai 2022, iunie 2022, iulie 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64890",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-38-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/38",
+   "short": "HCL Sfântu Gheorghe nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 38/2022 privind alocarea unor sume de bani de la bugetul local pe anul 2022, în vederea achiziționării de cadouri pentru copiii din comuna Sfântu Gheorghe, județul Tulcea, cu ocazia Zilei Internaționale a Copilului",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64891",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-39-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/39",
+   "short": "HCL Sfântu Gheorghe nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 39/2022 privind aprobarea execuției bugetare pe trim. IV 2021 a bugetului local al comunei Sfântu Gheorghe, județul Tulcea",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64893",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-4-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/4",
+   "short": "HCL Sfântu Gheorghe nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 4/2022 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali a persoanelor cu handicap grav din cadrul Primăriei comunei Sfântu Gheorghe, județul Tulcea, în perioada iulie – decembrie 2021",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52255",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-40-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/40",
+   "short": "HCL Sfântu Gheorghe nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 40/2022 privind privind aprobarea rectificării Bugetului local de venituri și cheltuieli al Comunei Sfântu Gheorghe",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64892",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-41-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/41",
+   "short": "HCL Sfântu Gheorghe nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 41/2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64894",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/64894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-48-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/48",
+   "short": "HCL Sfântu Gheorghe nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 48/2022 privind aprobarea Regulamentului privind achiziția de imobile de către Comuna Sfântu Gheorghe, județul Tulcea",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/69143",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/69143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-49-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/49",
+   "short": "HCL Sfântu Gheorghe nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 49/2022 privind aprobarea trecerii în domeniul public al comunei Sfântu Gheorghe, a unui lot de teren în suprafață de 19.056 mp, cu destinația FACILITĂȚI DE ACOSTARE PENTRU AMBARCAȚIUNI în comuna Sfântu Gheorghe, având numărul cadastral 30121 aparținând domeniului privat al comunei Sfântu Gheorghe, județul Tulcea",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/69797",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/69797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-5-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/5",
+   "short": "HCL Sfântu Gheorghe nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 5/2022 privind aprobarea utilizării excedentului din anii precedenti a sumei de 2.000.000 lei pentru acoperirea temporară a golurilor de casă provenite din decalaje între veniturile și cheltuielile secțiunii de funcționare, a bugetului local de venituri și cheltuieli în anul 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52256",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-50-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/50",
+   "short": "HCL Sfântu Gheorghe nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 50/2022 privind aprobarea participării Comunei Sfântu Gheorghe la Programul Operațional pentru Pescuit și Afaceri Maritime (POPAM) 2014-2020 și aprobarea implementării proiectului “Cresterea capacității de intervenție în situații de urgență în Comuna Sfântu Gheorghe, Județul Tulcea”",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/69798",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/69798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-51-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/51",
+   "short": "HCL Sfântu Gheorghe nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 51/2022 privind aprobarea participării Comunei Sfântu Gheorghe la Programul Operațional pentru Pescuit și Afaceri Maritime (POPAM) 2014-2020 și aprobarea implementării proiectului “Facilități de acostare ambarcațiuni în Comuna Sfântu Gheorghe, Județul Tulcea”",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/69799",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/69799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-52-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/52",
+   "short": "HCL Sfântu Gheorghe nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 52/2022 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Sfantu Gheorghe, judetul Tulcea pentru perioada august, septembrie, octombrie 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/70075",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/70075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-53-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/53",
+   "short": "HCL Sfântu Gheorghe nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 53/2022 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor care nu sunt supuse înmatriculării de pe raza administrativ teritorială a comunei Sfântu Gheorghe, județul Tulcea",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/70074",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/70074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-54-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/54",
+   "short": "HCL Sfântu Gheorghe nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 54/2022 privind aprobarea Raportului pentru activitatea desfasurata de asistentii personali ai persoanelor cu handicap din cadrul Primariei comunei Sfantu Gheorghe, judetul Tulcea in perioada ianuarie - iunie 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/70076",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/70076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-55-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/55",
+   "short": "HCL Sfântu Gheorghe nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 55/2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/70077",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/70077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-56-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/56",
+   "short": "HCL Sfântu Gheorghe nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 56/2022 privind aprobarea actualizării listei cuprinzând persoanele/familiile care beneficiază de reducerea cu 50% a tarifului la energia electrică pentru trimestrul IV 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/78312",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/78312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-6-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/6",
+   "short": "HCL Sfântu Gheorghe nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 6/2022 privind utilizarea sumei de 193.956,75 lei din excedentul bugetului activitatii finantate din venituri proprii rezultat la sfarsitul exercitiului financiar 2021, ca sursa de finantare a bugetului local pe anul 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52257",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-64-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/64",
+   "short": "HCL Sfântu Gheorghe nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 64/2022 privind aprobarea măsurilor pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme cu ierarhia deșeurilor",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/78656",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/78656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-69-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/69",
+   "short": "HCL Sfântu Gheorghe nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 69/2022 privind aprobarea Planului de măsuri al Comitetului Local pentru Situații de Urgență al comunei Sfantu Gheorghe pentru perioada sezonului rece 2022-2023;",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83065",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-70-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/70",
+   "short": "HCL Sfântu Gheorghe nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 70/2022 privind aprobarea “Programului pentru acordarea de finanțări nerambursabile în anul 2022 din bugetul Comunei Sfântu Gheorghe, pentru activități nonprofit de interes general local (activități legate de educație și formare profesională pentru tinerii comunei) și a Ghidului Solicitantului”;",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83066",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-71-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/71",
+   "short": "HCL Sfântu Gheorghe nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 71/2022 privind ajustarea prețurilor aferente materialelor de construcții conform prevederilor Ordonanței Guvernului nr.15/2021 și a Ordinului MDLPA nr.1336/2021 privind aprobarea metodologiei în vederea punerii în aplicare a Ordonanței Guvernului nr.15/2021 pentru obiectul de investiții „ÎNFIINȚARE PARC CU SPAȚII DE JOACĂ ÎN COMUNA SFÂNTU GHEORGHE, JUDEȚUL TULCEA”",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83067",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-72-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/72",
+   "short": "HCL Sfântu Gheorghe nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 72/2022 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Sfântu Gheorghe, judetul Tulcea pentru perioada noiembrie 2022, decembrie 2022, ianuarie 2023",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83301",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-73-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/73",
+   "short": "HCL Sfântu Gheorghe nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 73/2022 privind aprobarea rectificării Bugetului local de venituri și cheltuieli al Comunei Sfântu Gheorghe",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83302",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-74-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/74",
+   "short": "HCL Sfântu Gheorghe nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 74/2022 privind acordarea burselor elevilor din învățământul preuniversitar de stat din cadrul Școlii Gimnaziale Sfântu Gheorghe, județul Tulcea, pentru anul școlar 2022 - 2023",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83303",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-75-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/75",
+   "short": "HCL Sfântu Gheorghe nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 75/2022 privind aprobarea finanțării de către Consiliul Local al Comunei Sfântu Gheorghe, județul Tulcea, a unei sume de bani, în vederea organizării și desfășurării activităților cu ocazia Sărbătorilor de iarnă 2022-2023",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83304",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-76-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/76",
+   "short": "HCL Sfântu Gheorghe nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 76/2022 privind aprobarea proiectului ”Construire și dotare centru de colectare deșeuri prin aport voluntar în Comuna Sfântu Gheorghe, județul Tulcea” și a cheltuielilor aferente",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83305",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/83305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-77-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/77",
+   "short": "HCL Sfântu Gheorghe nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 77/2022 privind aprobarea revizuirii, modificării și completării Regulamentului de organizare și funcționare al Consiliului local al Comunei Sfântu Gheorghe, județul Tulcea",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86112",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-78-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/78",
+   "short": "HCL Sfântu Gheorghe nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 78/2022 privind însușirea și aprobarea listei cuprinzând acordarea sumelor de finanțări către beneficiari, aprobată prin HCL nr.71/30.10.2022 privind aprobarea „Programului pentru acordarea de finantari nerambursabile in anul 2022 din Bugetul Comunei Sfantu Gheorghe, pentru activitati nonprofit de interes general local (activitati legate de educatie si formare profesionala pentru tinerii comunei) si a Ghidului solicitantului”",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86113",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-79-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/79",
+   "short": "HCL Sfântu Gheorghe nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 79/2022 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali a persoanelor cu handicap grav din cadrul Primăriei comunei Sfântu Gheorghe, județul Tulcea, în perioada iulie – decembrie 2022",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86482",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-8-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/8",
+   "short": "HCL Sfântu Gheorghe nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 8/2022 privind aprobarea Planului anual de acțiuni și a lucrărilor de interes local pentru anul 2022, prestate de către beneficiarii de venit minim garantat aflați în evidențele Primăriei comunei Sfântu Gheorghe, județul Tulcea, conform Legii 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52259",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-80-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/80",
+   "short": "HCL Sfântu Gheorghe nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 80/2022 privind aprobarea Planului anual de acțiuni și a lucrărilor de interes local pentru anul 2023, prestate de către beneficiarii de venit minim garantat aflați în evidențele Primăriei comunei Sfântu Gheorghe, județul Tulcea, conform Legii 416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86483",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-81-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/81",
+   "short": "HCL Sfântu Gheorghe nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 81/2022 privind aprobarea actualizării listei cuprinzând persoanele/familiile care beneficiază de reducerea cu 50% a tarifelor la energia electrică, pentru trimestrul I 2023",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86484",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-82-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/82",
+   "short": "HCL Sfântu Gheorghe nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 82/2022 privind aprobarea rectificării Bugetului local de venituri și cheltuieli al Comunei Sfântu Gheorghe",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86485",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-83-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/83",
+   "short": "HCL Sfântu Gheorghe nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 83/2022 privind modificarea art.1 din HCL nr.78/2022 privind aprobarea proiectului ”Construire și dotare centru de colectare deșeuri prin aport voluntar în Comuna Sfântu Gheorghe, județul Tulcea” și a cheltuielilor aferente",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86486",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-84-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/84",
+   "short": "HCL Sfântu Gheorghe nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 84/2022 privind aprobarea valorilor impozabile, impozitele şi taxele locale, precum și a taxelor speciale pentru anul fiscal 2023",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86496",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-85-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/85",
+   "short": "HCL Sfântu Gheorghe nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 85/2022 privind aprobarea propunerii reţelei şcolare care va funcționa în comuna Sfântu Gheorghe, județul Tulcea în anul şcolar 2023-2024",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86497",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/86497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sfantu-gheorghe-9-2022",
+   "path": "local/tulcea/sfantu-gheorghe/2022/9",
+   "short": "HCL Sfântu Gheorghe nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sfântu Gheorghe nr. 9/2022 privind aprobarea bugetului pentru Serviciul Pasune pe anul 2022 al Consiliului Local al Comunei Sfântu Gheorghe",
+   "url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52263",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sfantugheorghe-tl/registru-hcl/52263",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

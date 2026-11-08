@@ -3,6 +3,666 @@
  "shard": "local/valcea/barbatesti/2023",
  "acts": [
   {
+   "slug": "hcl-valcea--barbatesti-1-2023",
+   "path": "local/valcea/barbatesti/2023/1",
+   "short": "HCL Bărbătești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 1/2023 /2022 Cu privire la aprobarea bugetului local pe anul 2023 și estimările pentru anii 2024, 2025, 2026",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40609",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-10-2023",
+   "path": "local/valcea/barbatesti/2023/10",
+   "short": "HCL Bărbătești nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 10/2023 /2023 Privitor la: stabilirea numarului de asistenti personali ai persoanelor cu handicap grav din subordinea Consiliului local al comunei Bărbătesti, pentru anul 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43576",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-11-2023",
+   "path": "local/valcea/barbatesti/2023/11",
+   "short": "HCL Bărbătești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 11/2023 /2023 Privind: aprobarea unor măsuri privind ducerea la îndeplinire a prevederilor Legii nr. 276/2010 pentru modificarea si completarea Legii nr. 416/2001 privind venitul minim garantat",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43577",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-12-2023",
+   "path": "local/valcea/barbatesti/2023/12",
+   "short": "HCL Bărbătești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 12/2023 /2023 Privitor la: Programului anual de achiziții publice a comunei Bărbătești pentru anul 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43578",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-13-2023",
+   "path": "local/valcea/barbatesti/2023/13",
+   "short": "HCL Bărbătești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 13/2023 /2023 Privind: aprobarea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Bărbătesti şi din serviciile publice din subordinea Consiliului local Bărbătesti, incepând cu 01.01.2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43579",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-14-2023",
+   "path": "local/valcea/barbatesti/2023/14",
+   "short": "HCL Bărbătești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 14/2023 /2023 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Bărbătesti și a serviciilor din subordinea Consiliului Local Bărbătesti, jud.Vâlcea",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43580",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-15-2023",
+   "path": "local/valcea/barbatesti/2023/15",
+   "short": "HCL Bărbătești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 15/2023 PHOTĂRÂRE NR. 15/2023 Cu privire la : aprobarea Planului de pază pe anul 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43581",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-16-2023",
+   "path": "local/valcea/barbatesti/2023/16",
+   "short": "HCL Bărbătești nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 16/2023 /2023 privind aprobarea Regulamentului de instituire și administrare a taxei speciale de salubrizare, pentru utilizatorii casnici în Comuna Bărbătești",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43582",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-17-2023",
+   "path": "local/valcea/barbatesti/2023/17",
+   "short": "HCL Bărbătești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 17/2023 /2023 Privind aprobarea executiei bugetului local si bugetului institutiilor finantate integral sau partial din venituri proprii la 31.12. 2022",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43583",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-18-2023",
+   "path": "local/valcea/barbatesti/2023/18",
+   "short": "HCL Bărbătești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 18/2023 /2023 Privind: aprobarea indicatorilor tehnico-economici aferenți lucrării de investiție Proiectare și Instalare Sistem Supraveghere Video pe support de fibră optică în comuna Bărbătești, județul Vâlcea",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43584",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-19-2023",
+   "path": "local/valcea/barbatesti/2023/19",
+   "short": "HCL Bărbătești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 19/2023 prvind implementarea proiectului DOTAREA SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENTA, COMUNA BARBATESTI, JUDETUL VALCEA",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43585",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-2-2023",
+   "path": "local/valcea/barbatesti/2023/2",
+   "short": "HCL Bărbătești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 2/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-20-2023",
+   "path": "local/valcea/barbatesti/2023/20",
+   "short": "HCL Bărbătești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 20/2023 /2023 Proiect de hotarare privind aprobarea Protocolului de Colaborare incheiat intre MINISTERUL MUNCII ȘI SOLIDARITĂȚII SOCIALE (MMSS) si UAT Comuna Bărbătești, în cadrul proiectului ,,HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963, dotarea serviciului public de asistenta socială cu echipamente informatice necesare pentru utilizarea platformei informatice E-asistență socială",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43586",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-21-2023",
+   "path": "local/valcea/barbatesti/2023/21",
+   "short": "HCL Bărbătești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 21/2023 Cu privire la aprobarea participării in cadrul ”Planului Național de Redresare și Reziliență, Componenta 15 – Educație cu proiectul: “DOTAREA CU MOBILIER, MATERIALE DIDACTICE SI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE BODEȘTI, COMUNA BĂRBĂTEȘTI, JUDEȚUL VÂLCEA”",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43587",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-22-2023",
+   "path": "local/valcea/barbatesti/2023/22",
+   "short": "HCL Bărbătești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 22/2023 PROIECT DE HOTARARE NR.22/2023 Privitor la : alegerea preşedintelui de şedinţă",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43682",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#43682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-24-2023",
+   "path": "local/valcea/barbatesti/2023/24",
+   "short": "HCL Bărbătești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 24/2023 /2023 privind aprobarea depunerii proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a unității de învățământ Școala Gimnazială Sat Bodești, comuna Bărbătești, județul Vâlcea” în cadrul Programului de finanțare Planul Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15 Educație",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#45749",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#45749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-25-2023",
+   "path": "local/valcea/barbatesti/2023/25",
+   "short": "HCL Bărbătești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 25/2023 /2023 privind aprobarea rezultatului reevaluarii bunurilor imobile care apartin domeniului public si privat al COMUNEI BARBATESTI, judetul Valcea;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#45750",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#45750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-26-2023",
+   "path": "local/valcea/barbatesti/2023/26",
+   "short": "HCL Bărbătești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 26/2023 /2023 privind aprobarea bilanţului contabil şi a contului de profit şi pierderi pe anul 2022, Organigrama, statul de funcții, prețurile practicate pe utilaje și intervenții și a cotelor de cheltuieli indirecte și profit și Raportul Administratorului al SC Apa Canal Buila SRL;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#45751",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#45751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-27-2023",
+   "path": "local/valcea/barbatesti/2023/27",
+   "short": "HCL Bărbătești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 27/2023 Cu privire la aprobarea participării in cadrul ”Planului Național de Redresare și Reziliență, Componenta 15 – C.15 Educație Sprijinirea unităților de învățământ cu risc ridicat de abandon școlar PNRAS runda a II – a,,: “PNRAS- ȘCOALA GIMNAZIALĂ BODEȘTI, COMUNA BĂRBĂTEȘTI, JUDEȚUL VÂLCEA”",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#45752",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#45752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-28-2023",
+   "path": "local/valcea/barbatesti/2023/28",
+   "short": "HCL Bărbătești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 28/2023 /2023 Privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului, precum si procentul pentru insemnizatia lunară de ședinta a consilierilor locali, incepand cu 01.05.2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47515",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-29-2023",
+   "path": "local/valcea/barbatesti/2023/29",
+   "short": "HCL Bărbătești nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 29/2023 /2023, Privind aprobarea participării Comunei Bărbătești la Programul privind casarea autovehiculelor uzate, denumit ,,Rabla local,, derulat în cofinanțare cu Administrația Fondului de Mediu (AFM)",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47517",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-3-2023",
+   "path": "local/valcea/barbatesti/2023/3",
+   "short": "HCL Bărbătești nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 3/2023 /2023 Cu privire la : aprobarea Rețelei unităților școlare de învățământ preuniversitar de stat din Comuna Bărbătești, pentru anul școlar 2023-2024",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40611",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-30-2023",
+   "path": "local/valcea/barbatesti/2023/30",
+   "short": "HCL Bărbătești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 30/2023 PROIECT DE HOTĂRÂRE NR. 29/2023, Privind aprobarea participării Comunei Bărbătești la Programul privind casarea autovehiculelor uzate, denumit ,,Rabla local,, derulat în cofinanțare cu Administrația Fondului de Mediu (AFM)",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47535",
+   "versions": [
+    {
+     "from": "2023-04-30",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-31-2023",
+   "path": "local/valcea/barbatesti/2023/31",
+   "short": "HCL Bărbătești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 31/2023 /2023, privind aprobarea înființării clubului sportiv ”CLUBUL SPORTIV BĂRBĂTEȘTI” instituție publică în subordinea Consiliului Local al comunei Bărbătești, județul Vâlcea",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47536",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-32-2023",
+   "path": "local/valcea/barbatesti/2023/32",
+   "short": "HCL Bărbătești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 32/2023 /2023 Privind: aprobarea indicatorilor-economici și a Proiectului Tehnic necesari realizarii investitiei ,,BETONARE 8 STRĂZI L-1131 ÎN COMUNA BĂRBĂTEȘTI, JUDEȚUL VÂLCEA,,",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47537",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-33-2023",
+   "path": "local/valcea/barbatesti/2023/33",
+   "short": "HCL Bărbătești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 33/2023 /2023 privind modificarea și completarea HCL 18/2023 cu aprobarea indicatorilor tehnico-economici aferenți lucrării de investiție Proiectare și Instalare Sistem Supraveghere Video pe support de fibră optică în comuna Bărbătești, județul Vâlcea",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47538",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-34-2023",
+   "path": "local/valcea/barbatesti/2023/34",
+   "short": "HCL Bărbătești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 34/2023 /2023 Privind indexarea cu rata inflației-13, 8% a impozitelor si taxelor locale, precum si a taxelor speciale pentru anul 2024",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47539",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-35-2023",
+   "path": "local/valcea/barbatesti/2023/35",
+   "short": "HCL Bărbătești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 35/2023 /2023 Privind aprobarea rectificării Bugetului local de Venituri şi Cheltuieli al comunei Bărbătesti și a Listei de investiții pe anul 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47540",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-36-2023",
+   "path": "local/valcea/barbatesti/2023/36",
+   "short": "HCL Bărbătești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 36/2023 /2022 Privind: achiziționarea unui laptop și a unei tablete necesare activității compartimentelor Achiziții publice, Implementare proiecte și Impozite și taxe locale",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47541",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-37-2023",
+   "path": "local/valcea/barbatesti/2023/37",
+   "short": "HCL Bărbătești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 37/2023 /2023 privind APROBAREA REZULTATELOR INVENTARIERII BUNURILOR CE FAC PARTE DIN PATRIMONIUL PUBLIC SI PRIVAT AL COMUNEI BĂRBĂTESTI PENTRU ANUL 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47542",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#47542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-38-2023",
+   "path": "local/valcea/barbatesti/2023/38",
+   "short": "HCL Bărbătești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 38/2023 /2023 Privind: aprobarea actualizării devizului general pentru investitia ,,Stații de reîncărcare pentru vehicule electrice în Comuna Bărbătesti, județul Vâlcea,,",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49702",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-4-2023",
+   "path": "local/valcea/barbatesti/2023/4",
+   "short": "HCL Bărbătești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 4/2023 /2023 Privind implementarea proiectului ,,Amenajare teren de sport multifunctional Scoala Gimnaziala Bodesti, Comuna Barbatesti, Judetul Valcea,,",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40612",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-40-2023",
+   "path": "local/valcea/barbatesti/2023/40",
+   "short": "HCL Bărbătești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 40/2023 Privind: inventarierea materiei impozabile pe anul 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49704",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-41-2023",
+   "path": "local/valcea/barbatesti/2023/41",
+   "short": "HCL Bărbătești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 41/2023 Privind : aprobarea Contractelor de mandat pentru administrare și actualizarea Actului Constitutiv al SC APA CANAL BUILA SRL",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49705",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-42-2023",
+   "path": "local/valcea/barbatesti/2023/42",
+   "short": "HCL Bărbătești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 42/2023 privind aprobarea asocierii cu Unitatea Administrativ Teritorială - Județul Vâlcea, prin Consiliul Județean Vâlcea, în vederea depunerii spre finanțare, implementării și monitorizării proiectului „Microbuze electrice pentru elevii din județul Vâlcea” în cadrul apelului de proiecte cu titlul Microbuze electrice pentru elevi, finanțat din componenta C15: Educație, Reforma 6. Actualizarea cadrului legislativ pentru a asigura standarde ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar, Investiția 10. Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi prin Planul Național de Redresare și Reziliență",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49706",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-43-2023",
+   "path": "local/valcea/barbatesti/2023/43",
+   "short": "HCL Bărbătești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 43/2023 privind aderarea, sustinerea si participarea comunei Bărbătești, judetul Valcea la parteneriatul constituit de Asociatia Grupul de Actiune Locala Microregiunea Horezu",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49707",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-44-2023",
+   "path": "local/valcea/barbatesti/2023/44",
+   "short": "HCL Bărbătești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 44/2023 Proiect de HOTĂRÂRE nr. 43 privind aprobarea Proiectului tehnic, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitare conductă alimentare cu apă, strada Băltăreț, satul Bărbătești, județul Vâlcea”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”,",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49708",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-45-2023",
+   "path": "local/valcea/barbatesti/2023/45",
+   "short": "HCL Bărbătești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 45/2023 Privind aprobarea executiei bugetului local si bugetului institutiilor finantate integral sau partial din venituri proprii la 31.03.2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49709",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-46-2023",
+   "path": "local/valcea/barbatesti/2023/46",
+   "short": "HCL Bărbătești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 46/2023 Cu privire la aprobarea participării in cadrul Componenta 3 – Managementul deșeurilor, Investiția I2, Subinvestiția I.2.A-B, din PNRR cu proiectul: “Sistem integrat de colectare și valorificare a gunoiului de grajd în comuna Bărbătești, județul Vâlcea”",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49710",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-47-2023",
+   "path": "local/valcea/barbatesti/2023/47",
+   "short": "HCL Bărbătești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 47/2023 privind aprobarea Raportului semestrial privind inscrierea datelor in registrul agricol la nivelul primariei comunei Bărbătesti",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49711",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-48-2023",
+   "path": "local/valcea/barbatesti/2023/48",
+   "short": "HCL Bărbătești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 48/2023 Privind aprobarea proiectului “DEZVOLTAREA SISTEMULUI DE MANAGEMENT LOCAL PRIN IMPLEMENTAREA UNOR INFRASTRUCTURI INTELIGENTE LA NIVELUL COMUNEI BĂRBĂTEȘTI, JUDETUL VALCEA”",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49712",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-49-2023",
+   "path": "local/valcea/barbatesti/2023/49",
+   "short": "HCL Bărbătești nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 49/2023 /2023 pentru modificarea și completarea HCL Bărbătești nr. 29/2023, privind aprobarea participării Comunei Bărbătești la Programul privind casarea autovehiculelor uzate, denumit ,,Rabla local,, derulat în cofinanțare cu Administrația Fondului de Mediu (AFM)",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49925",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-5-2023",
+   "path": "local/valcea/barbatesti/2023/5",
+   "short": "HCL Bărbătești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 5/2023 /2023 Privitoare la : stabilirea tarifului de salubrizare pentru anul 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40613",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-50-2023",
+   "path": "local/valcea/barbatesti/2023/50",
+   "short": "HCL Bărbătești nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 50/2023 privind implementarea proiectului „Dotarea Serviciului voluntar pentru situații din cadrul comunei Bărbătești, județul Vâlcea”",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49926",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#49926",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-valcea--barbatesti-51-2023",
    "path": "local/valcea/barbatesti/2023/51",
    "short": "HCL Bărbătești nr. 51/2023",
@@ -13,6 +673,486 @@
      "from": "2023-07-14",
      "units": 1,
      "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-52-2023",
+   "path": "local/valcea/barbatesti/2023/52",
+   "short": "HCL Bărbătești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 52/2023 /2023 privitor la: aprobarea Acord de Parteneriat incheiat cu Asociația Sport fără Limite Vâlcea, in vederea organizarii in comuna Bărbătesti a BUILA TRAIL RACE, 22 iulie 2023;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53211",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-53-2023",
+   "path": "local/valcea/barbatesti/2023/53",
+   "short": "HCL Bărbătești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 53/2023 /2023 privind aprobarea rectificării Bugetului local de Venituri şi Cheltuieli al comunei Bărbătesti și a Listei de investiții pe anul 2023;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53212",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-54-2023",
+   "path": "local/valcea/barbatesti/2023/54",
+   "short": "HCL Bărbătești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 54/2023 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ASIGURAREA SCURGERII APELOR PRIN ȘANȚURI BETONATE PE DJ 646 E, COMUNA BĂRBĂTEȘTI, JUDEȚUL VÂLCEA”,, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și suma reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53213",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-56-2023",
+   "path": "local/valcea/barbatesti/2023/56",
+   "short": "HCL Bărbătești nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 56/2023 privind : actualizarea Devizului general și indicatorii tehnico-economici aferenți investiției “ Extindere, reabilitare, modernizare si dotare Dispensar medical Bodești, comuna Bărbătești, județul Vâlcea;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53215",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-57-2023",
+   "path": "local/valcea/barbatesti/2023/57",
+   "short": "HCL Bărbătești nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 57/2023 privind aprobarea contului de executie al bugetului local aferent trimestrului al II lea 2023;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53216",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-58-2023",
+   "path": "local/valcea/barbatesti/2023/58",
+   "short": "HCL Bărbătești nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 58/2023 /2023 privind aprobarea modificării organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Bărbătesti și a serviciilor din subordinea Consiliului Local Bărbătesti, jud.Vâlcea.;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55490",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-59-2023",
+   "path": "local/valcea/barbatesti/2023/59",
+   "short": "HCL Bărbătești nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 59/2023 /2023 privind aprobarea rectificării Bugetului local de Venituri şi Cheltuieli al comunei Bărbătesti și a Listei de investiții pe anul 2023;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55491",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-6-2023",
+   "path": "local/valcea/barbatesti/2023/6",
+   "short": "HCL Bărbătești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 6/2023 /2023, Privind aprobarea Strategiei de dezvoltare a serviciului de salubrizare pentru județul Vâlcea pe termen mediu și lung",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40614",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-60-2023",
+   "path": "local/valcea/barbatesti/2023/60",
+   "short": "HCL Bărbătești nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 60/2023 /2023 privind: organizarea si desfasurarea manifestării cultural-artistice Festivalul Dansului Popular “Braul de Aur” editia a 51-a, Bărbătesti-2023;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55492",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-61-2023",
+   "path": "local/valcea/barbatesti/2023/61",
+   "short": "HCL Bărbătești nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 61/2023 /2023 Privind: aprobarea fondului de premiere a cuplurilor din comuna Bărbătești județul Vâlcea, care au împlinit 50 ani de casatorie",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55493",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-62-2023",
+   "path": "local/valcea/barbatesti/2023/62",
+   "short": "HCL Bărbătești nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 62/2023 /2023 privind : aprobarea fondului de premiere a ansamblurilor prezente la ediția 50 a Festivalului Folcloric Brâul de aur, precum și pentru fondatorii Ansamblului Brâuleț de Bărbătești care se află în viață și promotorii activității acestuia în județ, țară și străinătate;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55494",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-63-2023",
+   "path": "local/valcea/barbatesti/2023/63",
+   "short": "HCL Bărbătești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 63/2023 /2023 privind : aprobarea fondului de premiere a tinerilor din comuna Bărbătești județul Vâlcea, care împlinesc 18 ani în anul 2023;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55495",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-64-2023",
+   "path": "local/valcea/barbatesti/2023/64",
+   "short": "HCL Bărbătești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 64/2023 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ASIGURAREA SCURGERII APELOR PRIN ȘANȚURI BETONATE PE DJ 646 E, COMUNA BĂRBĂTEȘTI, JUDEȚUL VÂLCEA”,, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și suma reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55496",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-65-2023",
+   "path": "local/valcea/barbatesti/2023/65",
+   "short": "HCL Bărbătești nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 65/2023 privind aprobarea Regulamentului privind promovarea acțiunilor având ca obiect transformarea amenzilor contravenționale și a celor judiciare în muncă neremunerată în folosul comunității;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55497",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-66-2023",
+   "path": "local/valcea/barbatesti/2023/66",
+   "short": "HCL Bărbătești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 66/2023 /2023 PRIVITOR LA: APROBAREA SUSŢINERII FINANCIARE A CLUBULUI SPORTIV BĂRBĂTEȘTI PENTRU ANUL CALENDARISTIC 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55498",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#55498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-67-2023",
+   "path": "local/valcea/barbatesti/2023/67",
+   "short": "HCL Bărbătești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 67/2023 Privitor la: alegerea preşedintelui de şedinţă;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59699",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-68-2023",
+   "path": "local/valcea/barbatesti/2023/68",
+   "short": "HCL Bărbătești nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 68/2023 /2023 privind utilizarea excedentului bugetului local, înregistrat la 31.12.2022;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59700",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-69-2023",
+   "path": "local/valcea/barbatesti/2023/69",
+   "short": "HCL Bărbătești nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 69/2023 /2023 cu privire la aprobarea elaborarii unui Studiu de validare a zonei marginalizate, situată în Comuna Bărbătești, Județul Vâlcea, in vederea participarii UAT Comuna Bărbătești, ca partener, in cadrul Programului de Incluziune si Demnitate Sociala 2021-2027, Prioritate: P03. Protejarea dreptului la demnitate sociala, Obiectiv specific: Îmbunătățirea accesului la piața muncii și măsuri de activare pentru toate persoanele aflate în căutarea unui loc de muncă, în special pentru tineri, îndeosebi prin implementarea Garanței pentru tineret, pentru șomerii de lungă durată și grupurile defavorizate de pe piața muncii și pentru persoanele inactive, precum și prin promovarea desfășurării de activități independente și a economiei sociale (FSE+);",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59701",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-7-2023",
+   "path": "local/valcea/barbatesti/2023/7",
+   "short": "HCL Bărbătești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 7/2023 /2023, Privind aprobarea schimbării denumirii obiectivului de interes local, din ,,Punct sanitar Bodești,, în ,,Dispensar Medical Bodești,,",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40958",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#40958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-70-2023",
+   "path": "local/valcea/barbatesti/2023/70",
+   "short": "HCL Bărbătești nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 70/2023 /2023 privind aprobarea achiziţionării activităților juridice de consultanță, de asistenţă şi/sau de reprezentare pentru anul 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59702",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-71-2023",
+   "path": "local/valcea/barbatesti/2023/71",
+   "short": "HCL Bărbătești nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 71/2023 /2023 privind aprobarea rectificării Bugetului local de Venituri şi Cheltuieli al comunei Bărbătesti și a Listei de investiții pe anul 2023;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59703",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-72-2023",
+   "path": "local/valcea/barbatesti/2023/72",
+   "short": "HCL Bărbătești nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 72/2023 /2023 privind alocarea sumei de 5000 lei din bugetul local al Comunei Bărbătești, pentru anul 2023 către fiecare parohie ortodoxă din localitate;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59704",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#59704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-74-2023",
+   "path": "local/valcea/barbatesti/2023/74",
+   "short": "HCL Bărbătești nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 74/2023 PROIECT DE HOTĂRÂRE 73 Privind achiziţionarea unor microcipuri pentru câinii cu stăpân din Comuna Bărbătești, judetul Vâlcea;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#62993",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#62993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-76-2023",
+   "path": "local/valcea/barbatesti/2023/76",
+   "short": "HCL Bărbătești nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 76/2023 /2023 Privind aprobarea rectificării Bugetului local de Venituri şi Cheltuieli al comunei Bărbătesti și a Listei de investiții pe anul 2023;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#62995",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#62995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-77-2023",
+   "path": "local/valcea/barbatesti/2023/77",
+   "short": "HCL Bărbătești nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 77/2023 /2023 privind transferul cu titlu gratuit a unor autoturisme apartinand UAT Barbatesti;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#62996",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#62996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-78-2023",
+   "path": "local/valcea/barbatesti/2023/78",
+   "short": "HCL Bărbătești nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 78/2023 /2023 privind aprobarea modificării organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Bărbătesti și a serviciilor din subordinea Consiliului Local Bărbătesti, jud.Vâlcea prin reducerea cu 10% a numărului de posturi.;",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#62997",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#62997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-79-2023",
+   "path": "local/valcea/barbatesti/2023/79",
+   "short": "HCL Bărbătești nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 79/2023 /2023 Privind: alocarea sumelor necesare pentru cadourile specifice la evenimentele ocazionate de sfârșitul de an la nivelul comunei Bărbătești",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65529",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-8-2023",
+   "path": "local/valcea/barbatesti/2023/8",
+   "short": "HCL Bărbătești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 8/2023 PROIEC DE HOTĂRÂRE Nr.8/2023 Privind: aprobarea intocmirii documentatiei necesare realizarii investitiei ,,BETONARE 8 STRĂZI L-1177 ÎN COMUNA BĂRBĂTEȘTI, JUDEȚUL VÂLCEA,,",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#41064",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#41064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-80-2023",
+   "path": "local/valcea/barbatesti/2023/80",
+   "short": "HCL Bărbătești nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 80/2023 /2023 Privind aprobarea rectificării Bugetului local de Venituri şi Cheltuieli al comunei Bărbătesti și a Listei de investiții pe anul 2023",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65530",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-81-2023",
+   "path": "local/valcea/barbatesti/2023/81",
+   "short": "HCL Bărbătești nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 81/2023 /2023 privind aprobarea Regulamentului de instituire și administrare a taxei speciale de salubrizare, pentru utilizatorii casnici în Comuna Bărbătești",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65531",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-82-2023",
+   "path": "local/valcea/barbatesti/2023/82",
+   "short": "HCL Bărbătești nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 82/2023 /2023 Privind indexarea cu rata inflației-13,8% a impozitelor si taxelor locale, precum si a taxelor speciale pentru anul 2024",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65532",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--barbatesti-83-2023",
+   "path": "local/valcea/barbatesti/2023/83",
+   "short": "HCL Bărbătești nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 83/2023 privind actualizarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Asfaltare drumuri de interes local în comuna Bărbătești, județul Vâlcea”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65533",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#65533",
      "sha256": null
     }
    ]

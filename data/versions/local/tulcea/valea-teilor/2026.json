@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/valea-teilor/2026",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--valea-teilor-12-2026",
+   "path": "local/tulcea/valea-teilor/2026/12",
+   "short": "HCL Valea Teilor nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 12/2026 privind actualizarea Devizului general ca urmare a creșterii cotei standard de TVA de la 19% la 21% pentru obiectivul de investiții „Reabilitare drumuri in Localitatea Valea Teilor, Comuna Valea Teilor, Județul Tulcea”",
+   "url": "https://emol.ro/valeateilor-tl/registru-hcl/258354",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/valeateilor-tl/registru-hcl/258354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--valea-teilor-42-2026",
+   "path": "local/tulcea/valea-teilor/2026/42",
+   "short": "HCL Valea Teilor nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 42/2026 privind stabilirea unor masuri pentru gospodarirea comunei Valea Teilor precum si constatarea si sanctionarea faptelor ce constituie contraventii",
+   "url": "https://emol.ro/valeateilor-tl/registru-hcl/292227",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/valeateilor-tl/registru-hcl/292227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--valea-teilor-7-2026",
+   "path": "local/tulcea/valea-teilor/2026/7",
+   "short": "HCL Valea Teilor nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 7/2026 privind aprobarea casării unor mijloace fixe din inventarul Comunei Valea Teilor jud Tulcea",
+   "url": "https://emol.ro/valeateilor-tl/registru-hcl/254727",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/valeateilor-tl/registru-hcl/254727",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1506 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/alunu/2023",
+ "acts": [
+  {
+   "slug": "hcl-valcea--alunu-1-2023",
+   "path": "local/valcea/alunu/2023/1",
+   "short": "HCL Alunu nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 1/2023 privind alegerea d-lui Ciobanu David în funcția de președinte al Consiliului Local Alunu, județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94881",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-100-2023",
+   "path": "local/valcea/alunu/2023/100",
+   "short": "HCL Alunu nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 100/2023 privind aprobarea proiectului tehnic și a devizului general actualizat pentru obiectivul de investiții „Creșterea eficienței energetice a Școlii Gimnaziale, sat Igoiu, comuna Alunu, județul Vâlcea”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/129554",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/129554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-101-2023",
+   "path": "local/valcea/alunu/2023/101",
+   "short": "HCL Alunu nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 101/2023 privind reorganizarea aparatului de specialitate al primarului comunei Alunu începând cu 01.11.2023, în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/132314",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/132314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-102-2023",
+   "path": "local/valcea/alunu/2023/102",
+   "short": "HCL Alunu nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 102/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/132315",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/132315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-103-2023",
+   "path": "local/valcea/alunu/2023/103",
+   "short": "HCL Alunu nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 103/2023 privind aprobarea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe assimilate acestora, precum și amenzile aplicabile, în anul fiscal 2024",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/132316",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/132316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-107-2023",
+   "path": "local/valcea/alunu/2023/107",
+   "short": "HCL Alunu nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 107/2023 privind delegarea serviciului public de salubrizare de pe raza administrativ teritorială a comunei Alunu, județul Vâlcea, prin procedura de atribuire a achiziției directe",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/132320",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/132320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-108-2023",
+   "path": "local/valcea/alunu/2023/108",
+   "short": "HCL Alunu nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 108/2023 privind aprobarea validării Dispoziţiei Primarului comunei Alunu, Județul Vâlcea nr. 529/06.12.2023, privind rectificarea bugetului local al comunei Alunu,Județul Vâlcea, Sursa A, pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135849",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-109-2023",
+   "path": "local/valcea/alunu/2023/109",
+   "short": "HCL Alunu nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 109/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135850",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-11-2023",
+   "path": "local/valcea/alunu/2023/11",
+   "short": "HCL Alunu nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 11/2023 privind aprobarea bugetului local al comunei Alunu pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94985",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-110-2023",
+   "path": "local/valcea/alunu/2023/110",
+   "short": "HCL Alunu nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 110/2023 privind revocarea Hotărârii Consiliului Local Alunu, Județul Vâlcea nr. 97/31.10.2023 privitoare la instituirea taxei pentru utilizarea infrastructurii publice locale și reglementarea circulației autovehiculelor cu masa maximă autorizată de peste 7,5 tone pe drumurile comunale și sătești din comuna Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135851",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-111-2023",
+   "path": "local/valcea/alunu/2023/111",
+   "short": "HCL Alunu nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 111/2023 privind acordarea de premii bănești elevilor unităților de învățământ din comun Alunu, cu rezultate deosebite obținute la olimpiadele și concursurile școlare, în anul școlar 2022-2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135852",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-112-2023",
+   "path": "local/valcea/alunu/2023/112",
+   "short": "HCL Alunu nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 112/2023 privind aprobarea proiectului reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna Alunu, Judeţul Vâlcea, pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135853",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-113-2023",
+   "path": "local/valcea/alunu/2023/113",
+   "short": "HCL Alunu nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 113/2023 privind aprobarea valorii estimate pentru atribuirea contractului de execuţie lucrări privind proiectul „Creşterea eficienţei energetice a Şcolii Gimnaizale sat Igoiu, comuna Alunu, Judeţul Vâlcea”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135854",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-114-2023",
+   "path": "local/valcea/alunu/2023/114",
+   "short": "HCL Alunu nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 114/2023 privind aprobarea documentației tehnico-economice faza DALI, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,Modernizare, reabilitare si dotare clădire Școala cu clasele I-IV Ocracu pentru inființare Centru de zi de recuperare pentru copiii cu dizabilități”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135855",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-115-2023",
+   "path": "local/valcea/alunu/2023/115",
+   "short": "HCL Alunu nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 115/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect : “Modernizare , reabilitare si dotare cladire Scoala cu clasele I-IV Ocracu pentru infiintare Centru de zi de recuperare pentru copiii cu dizabilități”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135856",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-116-2023",
+   "path": "local/valcea/alunu/2023/116",
+   "short": "HCL Alunu nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 116/2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/135857",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/135857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-12-2023",
+   "path": "local/valcea/alunu/2023/12",
+   "short": "HCL Alunu nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 12/2023 privind aprobarea Regulamentului de Ordine Interioară al Clubului Sportiv Oltețul Alunu",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94986",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-13-2023",
+   "path": "local/valcea/alunu/2023/13",
+   "short": "HCL Alunu nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 13/2023 privind alegerea președintelui de ședință pentru o perioadă de trei luni (februarie, martie, aprilie 2023)",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94987",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-14-2023",
+   "path": "local/valcea/alunu/2023/14",
+   "short": "HCL Alunu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 14/2023 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului com. Alunu, Județul Vâlcea, pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94988",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-15-2023",
+   "path": "local/valcea/alunu/2023/15",
+   "short": "HCL Alunu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 15/2023 privind aprobarea Devizului General actualizat pentru obiectivele de investiții „Modernizare, reabilitare și dotare Grădinița cu Program Normal, sat Coltești, comuna Alunu, județul Vâlcea” și „Modernizare, reabilitare și dotare Școala cu clasele I-VIII sat Coltești, comuna Alunu, județul Vâlcea”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94989",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-16-2023",
+   "path": "local/valcea/alunu/2023/16",
+   "short": "HCL Alunu nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 16/2023 privind prelungirea mandatului administratorului S.C Primcons Alunu SRL",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94990",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-17-2023",
+   "path": "local/valcea/alunu/2023/17",
+   "short": "HCL Alunu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 17/2023 privitor la aprobarea situațiilor financiare ale comunei Alunu, inclusiv anexele la acestea, încheiate la data de 31.12.2022",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95033",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-18-2023",
+   "path": "local/valcea/alunu/2023/18",
+   "short": "HCL Alunu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 18/2023 privind însușirea de către membrii Consiliului Local Alunu a raportului privind aprobarea rezultatelor patrimoniului comunei Alunu, pe anul 2022",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95034",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-19-2023",
+   "path": "local/valcea/alunu/2023/19",
+   "short": "HCL Alunu nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 19/2023 privind achiziționarea cantității de 3500 tone piatră spartă și a serviciilor de transport, în vederea reabilitării drumurilor de interes local din comuna Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95035",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-2-2023",
+   "path": "local/valcea/alunu/2023/2",
+   "short": "HCL Alunu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 2/2023 privind acoperirea din excedentul bugetului local a deficitului secțiunilor de funcționare și dezvoltare aferent anului 2022 și utilizarea excedentului în anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94882",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-20-2023",
+   "path": "local/valcea/alunu/2023/20",
+   "short": "HCL Alunu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 20/2023 privind aprobarea Acordului de parteneriat privind executarea lucrărilor de alimentare cu apă/canalizare/gaze naturale pe traseul drumurilor județene modernizate și aflate în perioada de garanție dintre Unitatea Administrativ-Teritorială Județul Vâlcea, prin Consiliul Județean Vâlcea și Unitatea Administrativ-Teritorială Comuna Alunu, prin Consiliul Local al Comunei Alunu",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95036",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-22-2023",
+   "path": "local/valcea/alunu/2023/22",
+   "short": "HCL Alunu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 22/2023 privind aprobarea asocierii UAT Comuna Alunu cu Unitatea Administrativ Teritorială-Județul Vâlcea, prin Consiliul Județean Vâlcea, în vederea depunerii spre finanțare, implementării și monitorizării proiectului cu titlul “Dotarea cu mobilier și echipamente digitale a unităților de învățământ preuniversitar la nivelul Județului Vâlcea, gestionat de Ministerul Educației, în cadrul apelului de proiecte PNRR/2022/C15/MEDU/19./II3./II.4”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95038",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-23-2023",
+   "path": "local/valcea/alunu/2023/23",
+   "short": "HCL Alunu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 23/2023 privind aprobarea Normelor Financiare pentru activitatea sportivă a Clubului Sportiv Oltețul Alunu",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95039",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-24-2023",
+   "path": "local/valcea/alunu/2023/24",
+   "short": "HCL Alunu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 24/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95040",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-25-2023",
+   "path": "local/valcea/alunu/2023/25",
+   "short": "HCL Alunu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 25/2023 privind scutirea de la plata contravalorii serviciului de alimentare cu apă potabilă pentru persoanele ale căror terenuri sunt ocupate de bazinele de apă, proprietatea comunei Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95041",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-27-2023",
+   "path": "local/valcea/alunu/2023/27",
+   "short": "HCL Alunu nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 27/2023 privind aprobarea organigramei și a statului de funcții ale S.C Primcons Alunu SRL",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95043",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-28-2023",
+   "path": "local/valcea/alunu/2023/28",
+   "short": "HCL Alunu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 28/2023 privind derularea achizițiilor pentru atribuirea contractului de servicii în vederea întocmirii DALI și Proiect tehnic cât și derularea achiziției publice pentru atribuirea contractului de lucrări privind proiectul „Creșterea eficientei energetice a Școlii Gimnaziale sat Igoiu, comuna Alunu, județul Vâlcea”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/95044",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/95044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-3-2023",
+   "path": "local/valcea/alunu/2023/3",
+   "short": "HCL Alunu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 3/2023 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă beneficiarilor de ajutor social, pentru anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94977",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-30-2023",
+   "path": "local/valcea/alunu/2023/30",
+   "short": "HCL Alunu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 30/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/99430",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/99430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-31-2023",
+   "path": "local/valcea/alunu/2023/31",
+   "short": "HCL Alunu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 31/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitare stație de tratare monobloc, incl. conductă de refulare și extindere sistem de canalizare și stație de epurare în comuna Alunu, județul Vâlcea”, aprobat pentru finanțare prin programul Național de Investiții Anghel Saligny, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/99431",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/99431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-32-2023",
+   "path": "local/valcea/alunu/2023/32",
+   "short": "HCL Alunu nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 32/2023 privind preluarea de către Primăria comunei Alunu, județul Vâlcea de la Școala Gimnazială Alunu a microbuzului școlar cu nr. de înmatriculare VL-05-JLX",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/99432",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/99432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-33-2023",
+   "path": "local/valcea/alunu/2023/33",
+   "short": "HCL Alunu nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 33/2023 privind aprobarea situațiilor financiare ale comunei Alunu, inclusiv anexele la acestea, încheiate la data de 31.03.2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106553",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-34-2023",
+   "path": "local/valcea/alunu/2023/34",
+   "short": "HCL Alunu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 34/2023 privind indexarea impozitelor și taxelor locale pentru anul fiscal 2024",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106554",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-35-2023",
+   "path": "local/valcea/alunu/2023/35",
+   "short": "HCL Alunu nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 35/2023 aprobarea planului de perfecționare profesională a funcționarilor publici și personalului contractual din aparatul de specialitate al primarului comunei Alunu, Județul Vâlcea, pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106555",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-37-2023",
+   "path": "local/valcea/alunu/2023/37",
+   "short": "HCL Alunu nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 37/2023 privind alegerea d-lui Ciobanu David în funcția de președinte de ședință al Consiliului Local Alunu, Județul Vâlcea, pentru o perioadă de trei luni (mai, iunie, iulie 2023)",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106557",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-38-2023",
+   "path": "local/valcea/alunu/2023/38",
+   "short": "HCL Alunu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 38/2023 aprobarea organigramei şi a statului de funcţii ale aparatului de specialitate al primarului comunei Alunu, Judeţul Vâlcea, pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106558",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-39-2023",
+   "path": "local/valcea/alunu/2023/39",
+   "short": "HCL Alunu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 39/2023 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului com. Alunu, Județul Vâlcea, pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106559",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-4-2023",
+   "path": "local/valcea/alunu/2023/4",
+   "short": "HCL Alunu nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 4/2023 privind aprobarea Strategiei anuale de achiziții publice și a Programului de achiziții publice, la nivelul comunei Alunu, Județul Vâlcea, pentru anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94978",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-40-2023",
+   "path": "local/valcea/alunu/2023/40",
+   "short": "HCL Alunu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 40/2023 privind achiziția serviciilor pentru întocmirea documentațiilor DALI și a studiilor conexe la clădirile din domeniul public și privat al comunei Alunu, județul Vâlcea, în vederea accesării apelului de proiecte PNRR/2022/C13/I1 Reforme sociale – Crearea unei rețele de centre de zi pentru copiii expuși riscului de a fi separați de familie",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106560",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-41-2023",
+   "path": "local/valcea/alunu/2023/41",
+   "short": "HCL Alunu nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 41/2023 privind aprobarea realizării obiectivului „Construire anexă parter (magazie)” la Grădinița cu Program Normal Coltești din satul Coltești, comuna Alunu, județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106561",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-42-2023",
+   "path": "local/valcea/alunu/2023/42",
+   "short": "HCL Alunu nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 42/2023 privind aprobarea documentației de avizare a lucrărilor de investiții , a indicatorilor tehnico-economici și a devizului gheneral pentru obiectivul de investiții Creșterea Eficienței Energetice a Scolii Gimnaziale, sat Igoiu, Comuna Alunu, Județul Vâlcea, aprobat pentru finanțare prin PNRR în cadrul apelurilor de proiecte PNRR/2022/C10 Componenta C10-Fondul Local",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106598",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-43-2023",
+   "path": "local/valcea/alunu/2023/43",
+   "short": "HCL Alunu nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 43/2023 privind aprobarea participării comumnei Alunu, Județul Vâlcea la parteneriatul LEADER cu denumirea Asociația GAL “Parângul Mare”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106599",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-44-2023",
+   "path": "local/valcea/alunu/2023/44",
+   "short": "HCL Alunu nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 44/2023 privind trecerea din domeniul public al comunei Alunu în domeniul privat al acesteia a imobilului cu nr. Cadastral 37625-C1-Grădinița sat Bodești, aflat la poziția 78 din Anexa 10-Inventarul bunurilor care aparțin domeniului public al comunei Alunu, aprobat prin HG nr.1362/2001 privind atestarea domeniului public al Județului Vâlcea, precum și a municipiilor, orașelor și comunelor din Județul Vâlcea și demolarea imobilului",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/106600",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/106600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-45-2023",
+   "path": "local/valcea/alunu/2023/45",
+   "short": "HCL Alunu nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 45/2023 privind aprobarea contului anual de execuție al bugetului general de venituri și cheltuieli - Sursa A, Sursa E, Sursa G, secțiunea de funcționare și secțiunea de dezvoltare, la sfârșitul anului 2022",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111652",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-46-2023",
+   "path": "local/valcea/alunu/2023/46",
+   "short": "HCL Alunu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 46/2023 privind aprobarea repartizării sumei de 4.000 lei din bugetul local al comunei Alunu, Școlii Gimnaziale Alunu, în vederea achiziționării diplomelor și a cărților pentru premierea elevilor cu rezultate bune la învățătură în anul școlar 2022-2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111653",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-47-2023",
+   "path": "local/valcea/alunu/2023/47",
+   "short": "HCL Alunu nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 47/2023 privind cooperarea Consiliului Local al comunei Alunu, Județul Vâlcea, în vederea implementării proiectului Festivalul Cultural Dealul Muierii, ediția a II-a 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111654",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-48-2023",
+   "path": "local/valcea/alunu/2023/48",
+   "short": "HCL Alunu nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 48/2023 privind aprobarea achiziționării materialelor necesare schimbării coloanei de distribuție a apei potabile în comuna Alunu",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111655",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-49-2023",
+   "path": "local/valcea/alunu/2023/49",
+   "short": "HCL Alunu nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 49/2023 privind aprobarea renovării magaziei de lemne de la Școala Gimnazială Coltești",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111656",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-5-2023",
+   "path": "local/valcea/alunu/2023/5",
+   "short": "HCL Alunu nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 5/2023 privind aprobarea tarifului pentru închirierea terenului destinat construirii de spații cu altă destinație decât locuințe (magazii, depozite combustibili solizi), pentru locuitorii blocurilor din satul Igoiu, comuna Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94979",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-50-2023",
+   "path": "local/valcea/alunu/2023/50",
+   "short": "HCL Alunu nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 50/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111657",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-51-2023",
+   "path": "local/valcea/alunu/2023/51",
+   "short": "HCL Alunu nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 51/2023 privind revocarea art. 3 din Hotărârea Consiliului Local Alunu, Județul Vâlcea nr. 30/22.03.2023, privitoare la aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111658",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-53-2023",
+   "path": "local/valcea/alunu/2023/53",
+   "short": "HCL Alunu nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 53/2023 privind repartizarea sumei de 35.000 lei din bugetul local al comunei Alunu, în vederea ridicării câinilor fără stăpân de pe domeniul public",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111660",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-54-2023",
+   "path": "local/valcea/alunu/2023/54",
+   "short": "HCL Alunu nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 54/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect „Modernizare, reabilitare și dotare clădire Școala cu clasele I-IV Ocracu pentru înființare Centru de zi de recuperare pentru copiii cu dizabilități”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111661",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-55-2023",
+   "path": "local/valcea/alunu/2023/55",
+   "short": "HCL Alunu nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 55/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect: „Modernizare, reabilitare și dotare clădire Școala sat Roșia pentru înființare Centru de zi pentru copiii aflați în situație de risc de separare de părinți”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111662",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-56-2023",
+   "path": "local/valcea/alunu/2023/56",
+   "short": "HCL Alunu nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 56/2023 privind „Înființare centru de zi pentru consiliere și sprijin pentru părinți și copii din satul Bodești, comuna Alunu, județul Vâlcea”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111663",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-57-2023",
+   "path": "local/valcea/alunu/2023/57",
+   "short": "HCL Alunu nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 57/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111687",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-58-2023",
+   "path": "local/valcea/alunu/2023/58",
+   "short": "HCL Alunu nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 58/2023 privind aprobarea dării în administrare a autoturismului Dacia Logan către Serviciul Public de Alimentare cu Apă și Canalizare Alunu, serviciu aflat în subordinea Consiliului Local Alunu",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111688",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-59-2023",
+   "path": "local/valcea/alunu/2023/59",
+   "short": "HCL Alunu nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 59/2023 privind aprobarea procedurii de acordare a ajutoarelor de urgență la nivelul comunei Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/111689",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/111689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-6-2023",
+   "path": "local/valcea/alunu/2023/6",
+   "short": "HCL Alunu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 6/2023 privind aprobarea suportării din bugetul local al comunei Alunu a utilităților (energie electrică, apă și canalizare) pentru Grădinița Coltești, care funcționează provizoriu în localul Bazei Sportive Multifuncționale Tip II Coltești",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94980",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-61-2023",
+   "path": "local/valcea/alunu/2023/61",
+   "short": "HCL Alunu nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 61/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/113655",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/113655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-62-2023",
+   "path": "local/valcea/alunu/2023/62",
+   "short": "HCL Alunu nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 62/2023 privind aprobarea situațiilor financiare aferente anului 2022 ale SC PRIMCONS ALUNU SRL",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/113656",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/113656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-63-2023",
+   "path": "local/valcea/alunu/2023/63",
+   "short": "HCL Alunu nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 63/2023 privind modificarea și completarea organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/113657",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/113657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-66-2023",
+   "path": "local/valcea/alunu/2023/66",
+   "short": "HCL Alunu nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 66/2023 privind aprobarea organizării Zilei Comunei Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/113660",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/113660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-67-2023",
+   "path": "local/valcea/alunu/2023/67",
+   "short": "HCL Alunu nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 67/2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/113661",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/113661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-68-2023",
+   "path": "local/valcea/alunu/2023/68",
+   "short": "HCL Alunu nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 68/2023 privind la participarea UAT Comuna Alunu la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice”, derulat de Administrația Fondului pentru Mediu, cu proiectul „Reabilitarea și modernizarea Conacului Săndulescu (fosta primărie), sat Alunu com. Alunu, jud. Vâlcea”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/113662",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/113662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-69-2023",
+   "path": "local/valcea/alunu/2023/69",
+   "short": "HCL Alunu nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 69/2023 privind participarea UAT Comuna Alunu la „Programul vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate” cu proiectul „Extindere și modernizare sistem de alimentare cu apă și extindere rețea de canalizare în satele Bodești și Igoiu, com. Alunu, jud. Vâlcea”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/113663",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/113663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-7-2023",
+   "path": "local/valcea/alunu/2023/7",
+   "short": "HCL Alunu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 7/2023 privind contractarea serviciilor de elaborare a documentației privind întabularea Drumului Comunal 113 Coltești-Ocracu-Sinești",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94981",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-70-2023",
+   "path": "local/valcea/alunu/2023/70",
+   "short": "HCL Alunu nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 70/2023 privind aprobarea Proiectului și a cheltuielilor aferente cât și depunerea la finanțare a Proiectului ,,Înființare centru de zi de asistență și recuperare, cu echipa mobilă de îngrijire la domiciliu, pentru persoane vârstnice, comuna Alunu, județul Vâlcea”, în cadrul apelului de proiecte PNRR, Componenta C13- Reforme Sociale, Investiția 14 crearea unei rețele de centre de zi de asistență și recuperare pentru persoane vârstnice",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/113664",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/113664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-71-2023",
+   "path": "local/valcea/alunu/2023/71",
+   "short": "HCL Alunu nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 71/2023 privind completarea HCL Alunu nr. 70 din 13.07.2023, privitoare la aprobarea Proiectului și a cheltuielilor aferente, cât și depunerea la finanțare a Proiectului ,,Înființare centru de zi de asistenta și recuperare, cu echipă mobilă de îngrijire la domiciliu, pentru persoane vârstnice, Comuna Alunu, județul Vâlcea”, în cadrul PNRR, CI3-reforme sociale, Investiția 14 - crearea unei rețele de centre de zi de asistență și recuperare pentru persoane vârstnice",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/116823",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/116823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-72-2023",
+   "path": "local/valcea/alunu/2023/72",
+   "short": "HCL Alunu nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 72/2023 privind aprobarea bugetului Societății PRIMCONS ALUNU SRL, pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/116824",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/116824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-73-2023",
+   "path": "local/valcea/alunu/2023/73",
+   "short": "HCL Alunu nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 73/2023 privind aprobarea suplimentării cu suma de 35.000 lei, TVA inclus, în vederea achiziționării serviciilor pentru întocmire documentație balastieră, obținere avize, extragere și transport agregate minerale (balast) din albia pârâului Olteț la depozit",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/116825",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/116825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-74-2023",
+   "path": "local/valcea/alunu/2023/74",
+   "short": "HCL Alunu nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 74/2023 privind aprobarea încheierii unui contract de sponsorizare cu S.C PYRONOVA IS ROMÂNIA SRL",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/116826",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/116826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-75-2023",
+   "path": "local/valcea/alunu/2023/75",
+   "short": "HCL Alunu nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 75/2023 privind aprobarea situațiilor financiare ale comunei Alunu, inclusiv anexele la acestea, încheiate la data de 30.06.2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/119203",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/119203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-77-2023",
+   "path": "local/valcea/alunu/2023/77",
+   "short": "HCL Alunu nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 77/2023 privind aprobarea achiziționării materialelor necesare schimbării coloanei de distribuție a apei potabile în comuna Alunu",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/119205",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/119205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-78-2023",
+   "path": "local/valcea/alunu/2023/78",
+   "short": "HCL Alunu nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 78/2023 privind aprobarea organigramei, a statului de funcții și stabilirea salariilor de bază la nivelul Serviciului Public de Alimentare cu Apă și Canalizare Alunu, pentru anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/119206",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/119206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-79-2023",
+   "path": "local/valcea/alunu/2023/79",
+   "short": "HCL Alunu nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 79/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/119207",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/119207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-80-2023",
+   "path": "local/valcea/alunu/2023/80",
+   "short": "HCL Alunu nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 80/2023 privind acordarea de pachete cadou preșcolarilor și elevilor înscriși la Școala Gimnazială Alunu în anul școlar 2023-2024, cu ocazia începerii anului școlar",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/119208",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/119208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-81-2023",
+   "path": "local/valcea/alunu/2023/81",
+   "short": "HCL Alunu nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 81/2023 privind aprobarea efectuării unor reparații capitale și dotări la Baza sportivă din satul lgoiu",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/119209",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/119209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-82-2023",
+   "path": "local/valcea/alunu/2023/82",
+   "short": "HCL Alunu nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 82/2023 privind participarea UAT Comuna Alunu la „Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice”, derulat de Administrația Fondului pentru Mediu, cu proiectul „Reabilitarea și modernizarea Grădiniței Alunu, sat Alunu com. Alunu, jud. Vâlcea”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/119210",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/119210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-83-2023",
+   "path": "local/valcea/alunu/2023/83",
+   "short": "HCL Alunu nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 83/2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/123882",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/123882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-84-2023",
+   "path": "local/valcea/alunu/2023/84",
+   "short": "HCL Alunu nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 84/2023 privind modificarea și completarea organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Alunu, Județul Vâlcea, pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/123883",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/123883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-85-2023",
+   "path": "local/valcea/alunu/2023/85",
+   "short": "HCL Alunu nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 85/2023 stabilirea salariilor de bază pentru personalul contractual din cadrul SC PRIMCONS ALUNU SRL, societate cu acționar unic Consiliul Local Alunu",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/123884",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/123884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-86-2023",
+   "path": "local/valcea/alunu/2023/86",
+   "short": "HCL Alunu nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 86/2023 privind constituirea echipei mobile pentru intervenția în regim de urgență a cazurilor de violență domestică identificate pe raza U.A.T comuna Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/123885",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/123885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-88-2023",
+   "path": "local/valcea/alunu/2023/88",
+   "short": "HCL Alunu nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 88/2023 privind înființarea Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul comunei Alunu, Județul Vâlcea, aprobarea Regulamentului privind organizarea și funcționarea acestuia, a Studiului de Oportunitate și a Caietului de sarcini privind delegarea gestiunii serviciului, precum și a contractului de delegare prin concesiune a serviciului",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/123887",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/123887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-89-2023",
+   "path": "local/valcea/alunu/2023/89",
+   "short": "HCL Alunu nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 89/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/123888",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/123888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-9-2023",
+   "path": "local/valcea/alunu/2023/9",
+   "short": "HCL Alunu nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 9/2023 privind aprobarea numărului asitenților personali ai persoanelor cu handicap grav, pentru anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/94983",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/94983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-90-2023",
+   "path": "local/valcea/alunu/2023/90",
+   "short": "HCL Alunu nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 90/2023 privind aprobarea tarifelor și prețurilor practicate de SC PRIMCONS ALUNU SRL",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/123889",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/123889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-92-2023",
+   "path": "local/valcea/alunu/2023/92",
+   "short": "HCL Alunu nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 92/2023 privind achiziția serviciilor de proiectare în vederea obținerii autorizației de securitate la incendiu pentru Grădinița cu Program Normal sat Coltești, comuna Alunu, județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/124185",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/124185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-93-2023",
+   "path": "local/valcea/alunu/2023/93",
+   "short": "HCL Alunu nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 93/2023 privind aprobarea achiziționării de material antiderapant (nisip, sare), precum și transportul acestora în vederea întreținerii drumurilor comunale și sătești, în perioada sezonului rece, 2023-2024",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/128049",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/128049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-94-2023",
+   "path": "local/valcea/alunu/2023/94",
+   "short": "HCL Alunu nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 94/2023 privind aprobarea situațiilor financiare ale comunei Alunu, inclusiv anexele la acestea, încheiate la data de 30.09.2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/128050",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/128050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-95-2023",
+   "path": "local/valcea/alunu/2023/95",
+   "short": "HCL Alunu nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 95/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/128051",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/128051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-96-2023",
+   "path": "local/valcea/alunu/2023/96",
+   "short": "HCL Alunu nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 96/2023",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/128052",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/128052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-97-2023",
+   "path": "local/valcea/alunu/2023/97",
+   "short": "HCL Alunu nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 97/2023 privind aprobarea instituirii taxei pentru utilizarea infrastructurii publice locale și reglementarea circulației autovehiculelor cu masa maximă autorizată de peste 7,5 tone pe drumurile comunale și sătești din comuna Alunu, Județul Vâlcea",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/128053",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/128053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-98-2023",
+   "path": "local/valcea/alunu/2023/98",
+   "short": "HCL Alunu nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 98/2023 privind achiziționarea unui număr de 290 pachete cadou, cu ocazia sărbătorilor de Crăciun",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/128054",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/128054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--alunu-99-2023",
+   "path": "local/valcea/alunu/2023/99",
+   "short": "HCL Alunu nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Alunu nr. 99/2023 privind aprobarea documentației tehnico-economice faza DALI, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,Modernizare, reabilitare și dotare clădire Școala sat Roșia pentru înființare Centru de zi pentru copiii aflați în situația de risc de separare de părinți”",
+   "url": "https://emol.ro/alunu-vl/registru-hcl/128055",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/alunu-vl/registru-hcl/128055",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

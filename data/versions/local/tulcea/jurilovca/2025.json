@@ -468,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--jurilovca-8-2025",
+   "path": "local/tulcea/jurilovca/2025/8",
+   "short": "HCL Jurilovca nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 8/2025 privind aprobarea modificării și actualizării Acordului de cooperare pentru organizarea acțiunilor Departamentului Administrativ prin care se asigură satisfacerea nevoilor de utilitate și interes public general al comunei Jurilovca",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/217191",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/217191",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--jurilovca-87-2025",
    "path": "local/tulcea/jurilovca/2025/87",
    "short": "HCL Jurilovca nr. 87/2025",
@@ -508,6 +523,21 @@
      "from": "2026-02-02",
      "units": 1,
      "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/250517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-9-2025",
+   "path": "local/tulcea/jurilovca/2025/9",
+   "short": "HCL Jurilovca nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 9/2025 privind aprobarea proiectului de investiții ”Amplasare panouri fotovoltaice în vederea retehnologizării sistemului sistemului de iluminat public”",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/217192",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/217192",
      "sha256": null
     }
    ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/topolog/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--topolog-44-2024",
+   "path": "local/tulcea/topolog/2024/44",
+   "short": "HCL Topolog nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Topolog nr. 44/2024 privind aprobarea actualizării devizului general pentru obiectivul de investiții „Modernizare drum comunal 36 Calfa DN 22A, comuna Topolog, județul Tulcea” aprobat pentru finanțare prin Programul Național de Investiții ”Anghel Saligny”, precum și a sumei represent/nd categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului, ca urmare a finalizării procedurilor de achiziție publică",
+   "url": "https://emol.ro/topolog-tl/registru-hcl/182466",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/topolog-tl/registru-hcl/182466",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

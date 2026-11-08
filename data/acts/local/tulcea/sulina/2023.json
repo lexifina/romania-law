@@ -71,6 +71,51 @@
 }
 },
 {
+"slug": "hcl-tulcea--sulina-34-2023",
+"path": "local/tulcea/sulina/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 34/2023 privind aprobarea indexării impozitelor şi taxelor locale, precum și a taxelor speciale, în anul 2024",
+"short": "HCL Sulina nr. 34/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-tulcea--sulina-67-2023",
+"path": "local/tulcea/sulina/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sulina nr. 67/2023",
+"short": "HCL Sulina nr. 67/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2023.html",
+"council": "tulcea/sulina",
+"council_name": "Consiliul Local al Orașului Sulina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-tulcea--sulina-121-2023",
 "path": "local/tulcea/sulina/2023/121",
 "kind": "local",

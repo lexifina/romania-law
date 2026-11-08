@@ -1,0 +1,456 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/peceneaga/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--peceneaga-1-2024",
+   "path": "local/tulcea/peceneaga/2024/1",
+   "short": "HCL Peceneaga nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 1/2024 privind acoperirea definitivă din excedentul bugetului local a deficitului sectiunii de dezvoltare",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/136468",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/136468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-16-2024",
+   "path": "local/tulcea/peceneaga/2024/16",
+   "short": "HCL Peceneaga nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 16/2024 privind aprobarea modificării Organigramei si a statului de functii al aparatului de specialitate al primarului comunei Peceneaga",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/148849",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/148849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-17-2024",
+   "path": "local/tulcea/peceneaga/2024/17",
+   "short": "HCL Peceneaga nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 17/2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/153706",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/153706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-2-2024",
+   "path": "local/tulcea/peceneaga/2024/2",
+   "short": "HCL Peceneaga nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 2/2024 privind aprobarea organizării retelei de invățământ cu personalitate juridică pentru anul scolar 2024-2025 la nivelul comunei Peceneaga",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/138363",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/138363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-20-2024",
+   "path": "local/tulcea/peceneaga/2024/20",
+   "short": "HCL Peceneaga nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 20/2024 privind modificarea actului constitutiv al SC SERVICII LOCALE PECENEAGA SRL",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/153842",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/153842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-21-2024",
+   "path": "local/tulcea/peceneaga/2024/21",
+   "short": "HCL Peceneaga nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 21/2024 privind stabilirea impozitelor si taxelor locale ce se vor aplica in anul 2025 la comuna Peceneaga,judetul Tulcea",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/153843",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/153843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-23-2024",
+   "path": "local/tulcea/peceneaga/2024/23",
+   "short": "HCL Peceneaga nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 23/2024 privind ALEGEREA PREȘEDINTELUI DE SEDINȚĂ AL CONSILIULUI LOCAL",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/157351",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/157351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-24-2024",
+   "path": "local/tulcea/peceneaga/2024/24",
+   "short": "HCL Peceneaga nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 24/2024 privind aprobarea rectificării bugetului general de venituri si cheltuieli al comunei Peceneaga pe anul 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/157352",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/157352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-25-2024",
+   "path": "local/tulcea/peceneaga/2024/25",
+   "short": "HCL Peceneaga nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 25/2024 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Peceneaga la 31 martie 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/157353",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/157353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-28-2024",
+   "path": "local/tulcea/peceneaga/2024/28",
+   "short": "HCL Peceneaga nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 28/2024 privind aprobarea modificării Organigramei si a statului de functii al aparatului de specialitate al primarului comunei Peceneaga",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/157356",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/157356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-3-2024",
+   "path": "local/tulcea/peceneaga/2024/3",
+   "short": "HCL Peceneaga nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 3/2024 privind aprobarea implementării la nivelul comunei Peceneaga a proiectului ,,CENTRU PENTRU VÂRSTNICI IN COMUNA PECENEAGA,,",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/138364",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/138364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-31-2024",
+   "path": "local/tulcea/peceneaga/2024/31",
+   "short": "HCL Peceneaga nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 31/2024 privind scăderea unor debite eronat calculate la compartimentul impozite si taxe",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/164736",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/164736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-33-2024",
+   "path": "local/tulcea/peceneaga/2024/33",
+   "short": "HCL Peceneaga nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 33/2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/164738",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/164738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-36-2024",
+   "path": "local/tulcea/peceneaga/2024/36",
+   "short": "HCL Peceneaga nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 36/2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/166991",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/166991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-38-2024",
+   "path": "local/tulcea/peceneaga/2024/38",
+   "short": "HCL Peceneaga nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 38/2024 privind aprobarea modificării cotei părti către ACoR Filiala Tulcea privind Acordul de cooperare pentru activitatea administrativă si contabilitate",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/166993",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/166993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-39-2024",
+   "path": "local/tulcea/peceneaga/2024/39",
+   "short": "HCL Peceneaga nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 39/2024 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Peceneaga la 30 iunie 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/170407",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/170407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-4-2024",
+   "path": "local/tulcea/peceneaga/2024/4",
+   "short": "HCL Peceneaga nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 4/2024 privind aprobarea BUGETULUI GENERAL DE VENITURI SI CHELTUIELI al comunei Peceneaga pentru anul 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/143297",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/143297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-43-2024",
+   "path": "local/tulcea/peceneaga/2024/43",
+   "short": "HCL Peceneaga nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 43/2024 privind ALEGEREA PREȘEDINTELUI DE SEDINȚĂ AL CONSILIULUI LOCAL",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/176224",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/176224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-47-2024",
+   "path": "local/tulcea/peceneaga/2024/47",
+   "short": "HCL Peceneaga nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 47/2024 privind instituirea unor facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024, datorate bugetului local al comunei Peceneaga, precum și acordarea bonificației de 50%, respectiv de 25% din obligațiile bugetare principale restante",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/176228",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/176228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-48-2024",
+   "path": "local/tulcea/peceneaga/2024/48",
+   "short": "HCL Peceneaga nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 48/2024 privind aprobarea PLANULUI DE ACTIUNE pe timpul iernii 2024-2025 al Unitatii Administrativ Teritoriale comuna Peceneaga",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/176229",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/176229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-49-2024",
+   "path": "local/tulcea/peceneaga/2024/49",
+   "short": "HCL Peceneaga nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 49/2024 privind aprobarea rectificării bugetului general de venituri si cheltuieli al comunei Peceneaga pe anul 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/177045",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/177045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-5-2024",
+   "path": "local/tulcea/peceneaga/2024/5",
+   "short": "HCL Peceneaga nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 5/2024 privind aprobarea bugetului general de venituri si cheltuieli al SC SERVICII LOCALE PECENEAGA SRL pe anul 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/143298",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/143298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-50-2024",
+   "path": "local/tulcea/peceneaga/2024/50",
+   "short": "HCL Peceneaga nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 50/2024 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Peceneaga la 31 septembrie 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/177046",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/177046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-51-2024",
+   "path": "local/tulcea/peceneaga/2024/51",
+   "short": "HCL Peceneaga nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 51/2024 privind scăderea unor debite eronat calculate la compartimentul impozite si taxe",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/177047",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/177047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-52-2024",
+   "path": "local/tulcea/peceneaga/2024/52",
+   "short": "HCL Peceneaga nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 52/2024 privind ALEGEREA PREȘEDINTELUI DE SEDINȚĂ AL CONSILIULUI LOCAL",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/182035",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/182035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-53-2024",
+   "path": "local/tulcea/peceneaga/2024/53",
+   "short": "HCL Peceneaga nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 53/2024 privind aprobarea rectificării bugetului general de venituri si cheltuieli al comunei Peceneaga pe anul 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/182036",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/182036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-58-2024",
+   "path": "local/tulcea/peceneaga/2024/58",
+   "short": "HCL Peceneaga nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 58/2024 privind modificarea si actualizarea Hotărârii nr 47/2024 a Consiliului Local Peceneaga referitor la instituirea unor facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024, datorate bugetului local al comunei Peceneaga, precum și acordarea bonificației de 50%, respectiv de 25% din obligațiile bugetare principale restante",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/182041",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/182041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-6-2024",
+   "path": "local/tulcea/peceneaga/2024/6",
+   "short": "HCL Peceneaga nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 6/2024 privind ALEGEREA PREȘEDINTELUI DE SEDINȚĂ AL CONSILIULUI LOCAL",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/147880",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/147880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-7-2024",
+   "path": "local/tulcea/peceneaga/2024/7",
+   "short": "HCL Peceneaga nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 7/2024 privind aprobarea rectificării bugetului general de venituri si cheltuieli al comunei Peceneaga pe anul 2024",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/147881",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/147881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-8-2024",
+   "path": "local/tulcea/peceneaga/2024/8",
+   "short": "HCL Peceneaga nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 8/2024 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Peceneaga la 31 decembrie 2023",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/147882",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/147882",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

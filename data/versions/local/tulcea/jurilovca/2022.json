@@ -1,0 +1,471 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/jurilovca/2022",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--jurilovca-100-2022",
+   "path": "local/tulcea/jurilovca/2022/100",
+   "short": "HCL Jurilovca nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 100/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții ”Modernizare drumuri de interes local în sat Jurilovca, comuna Jurilovca, județul Tulcea-Sălcioara”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/95949",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/95949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-106-2022",
+   "path": "local/tulcea/jurilovca/2022/106",
+   "short": "HCL Jurilovca nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 106/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/ devizului general actualizat pentru obiectivul de investiții ”Înființare canalizare în sat Vișina, comuna Jurilovca, județul Tulcea” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96013",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-107-2022",
+   "path": "local/tulcea/jurilovca/2022/107",
+   "short": "HCL Jurilovca nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 107/2022 privind suplimentarea valorii indicatorilor tehnico-economici pentru obiectivul de investiții ”Asfaltare străzi în comuna Jurilovca, județul Tulcea”",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96014",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-116-2022",
+   "path": "local/tulcea/jurilovca/2022/116",
+   "short": "HCL Jurilovca nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 116/2022 privind aprobarea Planului de Operativ de Acțiune pe timpul iernii 2022-2023",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96027",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-117-2022",
+   "path": "local/tulcea/jurilovca/2022/117",
+   "short": "HCL Jurilovca nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 117/2022 privind aprobarea valorii finale a proiectului de investiții ”Rețea de canalizare în localitatea Sălcioara, comuna Jurilovca”",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96028",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-132-2022",
+   "path": "local/tulcea/jurilovca/2022/132",
+   "short": "HCL Jurilovca nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 132/2022 privind aprobarea proiectului de investiții ”Reparații și întreținere drum acces stație de epurare localitatea Sălcioara” (CF 39232)",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96129",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-133-2022",
+   "path": "local/tulcea/jurilovca/2022/133",
+   "short": "HCL Jurilovca nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 133/2022 privind aprobarea proiectului de investiții ”Reparații și întreținere drum localitatea Sălcioara” (CF 39230, 37539)",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96130",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-136-2022",
+   "path": "local/tulcea/jurilovca/2022/136",
+   "short": "HCL Jurilovca nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 136/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizuluigeneral/ devizului general actualizat pentru obiectivul de investiții ”Modernizare străzi, alei pietonale și dispozitive de scurgere a apelor, în comuna Jurilovca, jud. Tulcea” aprobat pentru finanțare prin programul național de finanțare Anghel Saligny precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96133",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-144-2022",
+   "path": "local/tulcea/jurilovca/2022/144",
+   "short": "HCL Jurilovca nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 144/2022 privind trecerea unor bunuri din domeniul privat în domeniul public al Comunei Jurilovca",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96208",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-145-2022",
+   "path": "local/tulcea/jurilovca/2022/145",
+   "short": "HCL Jurilovca nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 145/2022 privind aprobarea Planului de urgență pentru intervenția în focarele de pestă porcină africană",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96209",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-147-2022",
+   "path": "local/tulcea/jurilovca/2022/147",
+   "short": "HCL Jurilovca nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 147/2022 privind stabilirea nivelurilor valorilor impozabile, impozitelor și taxelor locale și a altor taxe asimilate acestora, precum și a amenzilor aplicabile anului fiscal 2023",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96211",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-148-2022",
+   "path": "local/tulcea/jurilovca/2022/148",
+   "short": "HCL Jurilovca nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 148/2022 privind stabilirea unor tarife pentru serviciile prestate de către SC SERVICII PUBLICE JURILOVCA SRL aplicabile anului 2023",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96212",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-153-2022",
+   "path": "local/tulcea/jurilovca/2022/153",
+   "short": "HCL Jurilovca nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 153/2022 privind alipirea a două terenuri aparținând domeniului public al Comunei Jurilovca",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96217",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-154-2022",
+   "path": "local/tulcea/jurilovca/2022/154",
+   "short": "HCL Jurilovca nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 154/2022 privind trecerea din domeniul public al Comunei Jurilovca în domeniul privat al Jurilovca a terenului cu suprafața de 4169 mp, identificat cu număr cadastral 39258",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96218",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-159-2022",
+   "path": "local/tulcea/jurilovca/2022/159",
+   "short": "HCL Jurilovca nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 159/2022 privind stabilirea nivelurilor valorilor impozabile, impozitelor și taxelor locale și a altor taxe asimilate acestora, precum și a amenzilor aplicabile anului fiscal 2023",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96327",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-160-2022",
+   "path": "local/tulcea/jurilovca/2022/160",
+   "short": "HCL Jurilovca nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 160/2022 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizuluigeneral/ devizului general actualizat pentru obiectivul de investiții ”Modernizare străzi, alei pietonale și dispozitive de scurgere a apelor, în comuna Jurilovca, jud. Tulcea” aprobat pentru finanțare prin programul național de finanțare Anghel Saligny precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/96328",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/96328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-20-2022",
+   "path": "local/tulcea/jurilovca/2022/20",
+   "short": "HCL Jurilovca nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 20/2022 privind stabilirea prețului și a tarifului unic pentru serviciile de alimentare cu apă și canalizare către SC SERVICII PUBLICE JURILOVCA SRL",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/59640",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/59640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-32-2022",
+   "path": "local/tulcea/jurilovca/2022/32",
+   "short": "HCL Jurilovca nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 32/2022 privind aprobarea Regulamentului de funcționare a platformei de depozitare a gunoiului de grajd, aflată în domeniul public al comunei Jurilovca",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/59676",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/59676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-33-2022",
+   "path": "local/tulcea/jurilovca/2022/33",
+   "short": "HCL Jurilovca nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 33/2022 privind aprobarea proiectului tehnic și a indicatorilor tehnico-economici ai proiectului de investiții ”Construire Piață legume-fructe, comuna Jurilovca”",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/59677",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/59677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-34-2022",
+   "path": "local/tulcea/jurilovca/2022/34",
+   "short": "HCL Jurilovca nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 34/2022 privind modificarea și completarea HCL nr. 111/21.10.2021, privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiție ”Modernizare străzi, alei pietonale și dispositive de scurgere a apelor în comuna Jurilovca, județul Tulcea” prin Programul national de investiții ”Anghel Saligny” aprobat prin OUG nr. 95/2021",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/59675",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/59675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-35-2022",
+   "path": "local/tulcea/jurilovca/2022/35",
+   "short": "HCL Jurilovca nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 35/2022 privind modificarea și completarea HCL nr. 112/21.10.2021, privind aprobarea cererii de finanțare și a devizului general estimativ pentru obiectivul de investiție ”Înființare canalizare în sat Vișina, comuna Jurilovca, județul Tulcea” prin Programul national de investiții ”Anghel Saligny” aprobat prin OUG nr. 95/2021",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/59674",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/59674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-49-2022",
+   "path": "local/tulcea/jurilovca/2022/49",
+   "short": "HCL Jurilovca nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 49/2022 privind aprobarea pierderilor de apă din sistemul de alimenatre cu apă al comunei Jurilovca",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/59722",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/59722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-55-2022",
+   "path": "local/tulcea/jurilovca/2022/55",
+   "short": "HCL Jurilovca nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 55/2022 privind aprobarea proiectului de investiții ”Inființare Sistem de supraveghere și management al traficului în Comuna Jurilovca”",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/68837",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/68837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-59-2022",
+   "path": "local/tulcea/jurilovca/2022/59",
+   "short": "HCL Jurilovca nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 59/2022 privind aprobare cont încheiere exercițiu bugetar pentru anul financiar 2021",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/252409",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/252409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-60-2022",
+   "path": "local/tulcea/jurilovca/2022/60",
+   "short": "HCL Jurilovca nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 60/2022 privind aprobare raport administrare, bilanț, contabilitate precum și contul de profit și pierderi pe anul 2021 și al SC SERVICII PUBLICE JURILOVCA SRL",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/252408",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/252408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-65-2022",
+   "path": "local/tulcea/jurilovca/2022/65",
+   "short": "HCL Jurilovca nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 65/2022 privind aprobarea concesiune prin licitație publică a unui teren 1195 mp-Sat Vișina domeniului privat",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/252403",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/252403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-66-2022",
+   "path": "local/tulcea/jurilovca/2022/66",
+   "short": "HCL Jurilovca nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 66/2022 privind indexarea nivelurilor valorilor impozabile, impozitelor și taxelor locale aplicabile anului fiscal 2023 cu indicele de inflație 5,1%",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/252402",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/252402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-68-2022",
+   "path": "local/tulcea/jurilovca/2022/68",
+   "short": "HCL Jurilovca nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 68/2022 privind însușirea acordului de cooperare privind activitatea de gestionare a câinilor fără stăpân prin intermediul „Imasingle dog”",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/252400",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/252400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-85-2022",
+   "path": "local/tulcea/jurilovca/2022/85",
+   "short": "HCL Jurilovca nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 85/2022 privind aprobarea proiectului de investiții ”FESTIVALUL BORȘULUI LIPOVENESC DE JURILOVCA” și valoarea totală a acestui",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/68900",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/68900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-86-2022",
+   "path": "local/tulcea/jurilovca/2022/86",
+   "short": "HCL Jurilovca nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 86/2022 privind implementarea proiectului ”FACILITĂȚI DE ACOSTARE PENTRU AMBARCAȚIUNI ÎN COM. JURILOVCA, JUD. TULCEA”",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/68901",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/68901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--jurilovca-87-2022",
+   "path": "local/tulcea/jurilovca/2022/87",
+   "short": "HCL Jurilovca nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Jurilovca nr. 87/2022 privind implementarea proiectului ”Achiziție echipamente specifice pentru îmbunătățirea capacității și calității sistemului de intervenție în situații de urgență a Comunei Jurilovca",
+   "url": "https://emol.ro/jurilovca-tl/registru-hcl/68902",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/jurilovca-tl/registru-hcl/68902",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/peceneaga/2026",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--peceneaga-1-2026",
+   "path": "local/tulcea/peceneaga/2026/1",
+   "short": "HCL Peceneaga nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 1/2026 privind ALEGEREA PREȘEDINTELUI DE SEDINȚĂ AL CONSILIULUI LOCAL",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/245655",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/245655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-11-2026",
+   "path": "local/tulcea/peceneaga/2026/11",
+   "short": "HCL Peceneaga nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 11/2026 privind aprobarea PLANULUI DE LUCRĂRI ce vor fi executate cu beneficiarii de venit minim de incluziune in anul 2026",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/254696",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/254696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-15-2026",
+   "path": "local/tulcea/peceneaga/2026/15",
+   "short": "HCL Peceneaga nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 15/2026 privind ALEGEREA PREȘEDINTELUI DE SEDINȚĂ AL CONSILIULUI LOCAL PECENEAGA",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/263704",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/263704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-2-2026",
+   "path": "local/tulcea/peceneaga/2026/2",
+   "short": "HCL Peceneaga nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 2/2026 privind acoperirea definitivă din excedentul bugetului local a deficitului sectiunii de dezvoltare",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/245656",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/245656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-20-2026",
+   "path": "local/tulcea/peceneaga/2026/20",
+   "short": "HCL Peceneaga nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 20/2026 privind aprobarea taxelor si tarifelor pentru anul 2026 aplicabile la comuna Peceneaga,judetul Tulcea",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/263709",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/263709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-21-2026",
+   "path": "local/tulcea/peceneaga/2026/21",
+   "short": "HCL Peceneaga nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 21/2026 privind aprobarea BUGETULUI GENERAL DE VENITURI SI CHELTUIELI al comunei Peceneaga pentru anul 2026",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/267948",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/267948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-22-2026",
+   "path": "local/tulcea/peceneaga/2026/22",
+   "short": "HCL Peceneaga nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 22/2026 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Peceneaga la 31 MARTIE 2026",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/267949",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/267949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-25-2026",
+   "path": "local/tulcea/peceneaga/2026/25",
+   "short": "HCL Peceneaga nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 25/2026 privind aprobarea rectificării bugetul general de venituri si cheltuieli al comunei Peceneaga pe anul 2026",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/271517",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/271517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-26-2026",
+   "path": "local/tulcea/peceneaga/2026/26",
+   "short": "HCL Peceneaga nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 26/2026 privind aprobarea bugetului general de venituri si cheltuieli al SC SERVICII LOCALE PECENEAGA SRL pe anul 2026",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/271518",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/271518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-29-2026",
+   "path": "local/tulcea/peceneaga/2026/29",
+   "short": "HCL Peceneaga nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 29/2026 privind ALEGEREA PREȘEDINTELUI DE SEDINȚĂ AL CONSILIULUI LOCAL PECENEAGA",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/282470",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/282470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-3-2026",
+   "path": "local/tulcea/peceneaga/2026/3",
+   "short": "HCL Peceneaga nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 3/2026 privind aprobarea taxelor speciale pentru anul 2026 aplicabile la comuna Peceneaga,judetul Tulcea",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/251048",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/251048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-30-2026",
+   "path": "local/tulcea/peceneaga/2026/30",
+   "short": "HCL Peceneaga nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 30/2026 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Peceneaga la 30 iunie 2026",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/282471",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/282471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-33-2026",
+   "path": "local/tulcea/peceneaga/2026/33",
+   "short": "HCL Peceneaga nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 33/2026 privind aprobarea PLANULUI DE ACTIUNE pe timpul iernii 2026-2027 al Unitatii Administrativ Teritoriale comuna Peceneaga",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/291329",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/291329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-37-2026",
+   "path": "local/tulcea/peceneaga/2026/37",
+   "short": "HCL Peceneaga nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 37/2026 privind alegerea presedintelui de sedintă pentru lunile octombrie,noiembrie si decembrie 2026",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/295539",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/295539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-38-2026",
+   "path": "local/tulcea/peceneaga/2026/38",
+   "short": "HCL Peceneaga nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 38/2026 privind aprobarea rectificării bugetul general de venituri si cheltuieli al comunei Peceneaga pe anul 2026",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/295540",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/295540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--peceneaga-9-2026",
+   "path": "local/tulcea/peceneaga/2026/9",
+   "short": "HCL Peceneaga nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Peceneaga nr. 9/2026 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Peceneaga la 31 DECEMBRIE 2025",
+   "url": "https://emol.ro/peceneaga-tl/registru-hcl/254694",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peceneaga-tl/registru-hcl/254694",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

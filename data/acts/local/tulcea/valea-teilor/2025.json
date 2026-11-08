@@ -1,0 +1,227 @@
+{
+"country": "RO",
+"shard": "local/tulcea/valea-teilor/2025",
+"acts": [
+{
+"slug": "hcl-tulcea--valea-teilor-2-2025",
+"path": "local/tulcea/valea-teilor/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 2/2025",
+"short": "HCL Valea Teilor nr. 2/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-07",
+"latest": "2025-02-07",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/190320",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-9-2025",
+"path": "local/tulcea/valea-teilor/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 9/2025 privind aprobarea procedurii de închiriere prin licitație publică a suprafețelor de pășune –pajiști permanente, rămase disponibile aflate în proprietatea privată a Comunei Valea Teilor, jud Tulcea",
+"short": "HCL Valea Teilor nr. 9/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/194355",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-13-2025",
+"path": "local/tulcea/valea-teilor/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 13/2025 privind majorarea în anul 2025 a cuantumului taxei de salubritate",
+"short": "HCL Valea Teilor nr. 13/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/194359",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-21-2025",
+"path": "local/tulcea/valea-teilor/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 21/2025 privind aprobarea completării inventarului bunurilor care aparțin domeniului privat al comunei Valea Teilor jud Tulcea",
+"short": "HCL Valea Teilor nr. 21/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/203149",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-26-2025",
+"path": "local/tulcea/valea-teilor/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 26/2025 privind aprobarea organizării evenimentului Izvorul Tămăduirii și alocarea sumei de 4.000 lei",
+"short": "HCL Valea Teilor nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/209704",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-30-2025",
+"path": "local/tulcea/valea-teilor/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 30/2025 privind Privind aprobarea rectificării bugetului de venituri și cheltuieli al Comunei Valea Teilor jud Tulcea pe anul 2025",
+"short": "HCL Valea Teilor nr. 30/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-13",
+"latest": "2025-06-13",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/211823",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-34-2025",
+"path": "local/tulcea/valea-teilor/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 34/2025 privind indexarea cu rata inflaţiei în procent de 5,6%, a impozitelor si taxelor locale pentru anul fiscal 2026, conform Legii nr. 227/2015 privind Codul Fiscal",
+"short": "HCL Valea Teilor nr. 34/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-13",
+"latest": "2025-06-13",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/211827",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-46-2025",
+"path": "local/tulcea/valea-teilor/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 46/2025 privind stabilirea consumului de carburant pentru utilajele din dotarea Primăriei Comunei Valea Teilor jud Tulcea",
+"short": "HCL Valea Teilor nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/229693",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-59-2025",
+"path": "local/tulcea/valea-teilor/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 59/2025 privind aprobarea colaborarii interstitutionale din cadrul proiectului Furnizare de servicii integrate in comunitatile rurale -facilitarea accesului persoanelor vulnerabile la servicii de baza eficiente si de calitate",
+"short": "HCL Valea Teilor nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/247337",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--valea-teilor-63-2025",
+"path": "local/tulcea/valea-teilor/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Teilor nr. 63/2025 privind stabilirea impozitelor şi taxelor locale datorate de persoanele fizice şi juridice din comuna Valea Teilor, județul Tulcea, în anul 2026",
+"short": "HCL Valea Teilor nr. 63/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/valeateilor-tl/registru-hcl/247342",
+"council": "tulcea/valea-teilor",
+"council_name": "Consiliul Local al Comunei Valea Teilor",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

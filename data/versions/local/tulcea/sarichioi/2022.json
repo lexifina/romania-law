@@ -1,0 +1,741 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/sarichioi/2022",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--sarichioi-100-2022",
+   "path": "local/tulcea/sarichioi/2022/100",
+   "short": "HCL Sarichioi nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 100/2022 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Sarichioi judeţul Tulcea pe anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/84076",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/84076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-101-2022",
+   "path": "local/tulcea/sarichioi/2022/101",
+   "short": "HCL Sarichioi nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 101/2022 privind aprobarea rectificării Listei obiectivelor de investiţii propuse a se realiza în anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/84077",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/84077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-102-2022",
+   "path": "local/tulcea/sarichioi/2022/102",
+   "short": "HCL Sarichioi nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 102/2022 privind aprobarea impozitelor şi taxelor locale la nivelul comunei Sarichioi, judeţul Tulcea pentru anul 2023",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/84929",
+   "versions": [
+    {
+     "from": "2023-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/84929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-14-2022",
+   "path": "local/tulcea/sarichioi/2022/14",
+   "short": "HCL Sarichioi nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 14/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/50818",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/50818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-17-2022",
+   "path": "local/tulcea/sarichioi/2022/17",
+   "short": "HCL Sarichioi nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 17/2022 privind aprobarea Regulamentului privind instituirea și administrarea taxei de salubrizare pentru anul 2022 la nivelul comunei Sarichioi, judeţul Tulcea și modificarea taxei de salubritate pe anul 2021",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/50821",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/50821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-18-2022",
+   "path": "local/tulcea/sarichioi/2022/18",
+   "short": "HCL Sarichioi nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 18/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/50822",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/50822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-33-2022",
+   "path": "local/tulcea/sarichioi/2022/33",
+   "short": "HCL Sarichioi nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 33/2022 privind aprobarea nomenclatorului stradal al comunei Sarichioi, judeţul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/52619",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/52619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-36-2022",
+   "path": "local/tulcea/sarichioi/2022/36",
+   "short": "HCL Sarichioi nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 36/2022 privind indexarea impozitelor și taxelor locale, precum și a taxelor speciale, la nivelul comunei Sarichioi, județul Tulcea, pentru anul 2023",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/57583",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/57583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-42-2022",
+   "path": "local/tulcea/sarichioi/2022/42",
+   "short": "HCL Sarichioi nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 42/2022 privind aprobarea Regulamentului pentru ocuparea temporară a domeniului public sau privat al comunei Sarichioi, județul Tulcea, în zona lacului Razim, în vederea amplasării de terase sezoniere",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/57589",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/57589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-47-2022",
+   "path": "local/tulcea/sarichioi/2022/47",
+   "short": "HCL Sarichioi nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 47/2022 privind aprobarea preturilor la apa potabila produsa, transportata si distribuita la nivelul comunei Sarichioi, judetul Tulcea prin Serviciul public de alimentare cu apa Sarichioi",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/64974",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/64974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-48-2022",
+   "path": "local/tulcea/sarichioi/2022/48",
+   "short": "HCL Sarichioi nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 48/2022 privind aprobarea modificării nomenclatorului stradal al comunei Sarichioi, județul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/64975",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/64975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-52-2022",
+   "path": "local/tulcea/sarichioi/2022/52",
+   "short": "HCL Sarichioi nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 52/2022 privind privind aprobarea contractării unei finanţări rambursabile interne/externe în valoare de maxim 2.301.441 lei",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/65960",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/65960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-53-2022",
+   "path": "local/tulcea/sarichioi/2022/53",
+   "short": "HCL Sarichioi nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 53/2022 privind aprobarea proiectului \"ACHIZIȚIONARE UTILAJE SVSU IN COMUNA SARICHIOI, JUDEȚUL TULCEA”",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/65961",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/65961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-54-2022",
+   "path": "local/tulcea/sarichioi/2022/54",
+   "short": "HCL Sarichioi nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 54/2022 privind aprobarea proiectului ACHIZITIONARE PONTOANE SI DOTARI PENTRU LOC DE AGREMENT TEMATIC IN COMUNA SARICHIOI, JUDETUL TULCEA",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/65962",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/65962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-55-2022",
+   "path": "local/tulcea/sarichioi/2022/55",
+   "short": "HCL Sarichioi nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 55/2022 privind aprobarea proiectului ACHIZITIONARE ECHIPAMENTE SPATIU PENTRU EVENIMENTE CULTURALE IN COMUNA SARICHIOI, JUDETUL TULCEA",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/65963",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/65963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-57-2022",
+   "path": "local/tulcea/sarichioi/2022/57",
+   "short": "HCL Sarichioi nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 57/2022 privind participarea Comunei Sarichioi la “Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” și aprobarea Devizului General al obiectivului de investiții: „EFICIENTIZAREA SI EXTINDEREA SISTEMULUI DE ILUMINAT PUBLIC DIN COMUNA SARICHIOI, JUDETUL TULCEA”",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/69006",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/69006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-58-2022",
+   "path": "local/tulcea/sarichioi/2022/58",
+   "short": "HCL Sarichioi nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 58/2022 privind aprobarea prelungirii scrisorii de garanție din partea Fondului de Garantare a Creditului Rural nr. IG 203300364 din 02.10.2020, pentru proiectul \"CENTRU SOCIAL DE ZI “ SAT ENISALA, COMUNA SARICHIOI, JUDETUL TULCEA”",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/73583",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/73583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-59-2022",
+   "path": "local/tulcea/sarichioi/2022/59",
+   "short": "HCL Sarichioi nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 59/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/73584",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/73584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-63-2022",
+   "path": "local/tulcea/sarichioi/2022/63",
+   "short": "HCL Sarichioi nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 63/2022 privind trecerea în inventarul domeniului privat al comunei Sarichioi, județul Tulcea a terenului în suprafață de 62.925 mp., amplasat în T 60, Np 1006/1 si Np 1006/2",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/73588",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/73588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-64-2022",
+   "path": "local/tulcea/sarichioi/2022/64",
+   "short": "HCL Sarichioi nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 64/2022 privind încheierea unui Acord de colaborare între Asociația de Vânători SAN RAFAEL, comuna Baia, județul Tulcea, gestionarul Fondului cinegetic nr.8 Codru cu Consiliul Local al comunei Sarichioi, județul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/73589",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/73589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-65-2022",
+   "path": "local/tulcea/sarichioi/2022/65",
+   "short": "HCL Sarichioi nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 65/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/73590",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/73590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-66-2022",
+   "path": "local/tulcea/sarichioi/2022/66",
+   "short": "HCL Sarichioi nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 66/2022 privind încheierea unui Acord de colaborare între Asociația Trei Stejari București, gestionarul Fondului cinegetic nr.5 Babadag cu Consiliul Local al comunei Sarichioi, județul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/73591",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/73591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-67-2022",
+   "path": "local/tulcea/sarichioi/2022/67",
+   "short": "HCL Sarichioi nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 67/2022 privind aprobarea înfrățirii, asocierii și cooperării comunei Sarichioi, județul Tulcea, din România, cu orașul Tvardița, raionul Taraclia, Republica Moldova",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/80793",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/80793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-68-2022",
+   "path": "local/tulcea/sarichioi/2022/68",
+   "short": "HCL Sarichioi nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 68/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/80794",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/80794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-69-2022",
+   "path": "local/tulcea/sarichioi/2022/69",
+   "short": "HCL Sarichioi nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 69/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli al comunei Sarichioi județul Tulcea pe anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/80795",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/80795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-70-2022",
+   "path": "local/tulcea/sarichioi/2022/70",
+   "short": "HCL Sarichioi nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 70/2022 privind aprobarea rectificării Listei obiectivelor de investiții propuse a se realiza în anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/80796",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/80796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-71-2022",
+   "path": "local/tulcea/sarichioi/2022/71",
+   "short": "HCL Sarichioi nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 71/2022 privind stabilirea criteriilor și a procedurilor de conferire și retragere a titlului \"Cetățean de Onoare\" al comunei Sarichioi, județul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/80797",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/80797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-75-2022",
+   "path": "local/tulcea/sarichioi/2022/75",
+   "short": "HCL Sarichioi nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 75/2022 privind privind aprobarea Regulamentului privind instituirea și administrarea taxei de salubrizare pentru anul 2022 la nivelul comunei Sarichioi, județul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/80801",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/80801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-76-2022",
+   "path": "local/tulcea/sarichioi/2022/76",
+   "short": "HCL Sarichioi nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 76/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/80802",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/80802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-77-2022",
+   "path": "local/tulcea/sarichioi/2022/77",
+   "short": "HCL Sarichioi nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 77/2022 privind aprobarea dezmembrării unor suprafețe de teren din extravilanul comunei SARICHIOI, Tarla 36, parcela A 540/1, Carte Funciara 39745, județul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/80803",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/80803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-78-2022",
+   "path": "local/tulcea/sarichioi/2022/78",
+   "short": "HCL Sarichioi nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 78/2022 privind aprobarea înființării serviciului comunitar “CENTRU SOCIAL DE ZI” (cod 8899 CZ-PN-V) din localitatea Enisala, comuna Sarichioi, județul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/82646",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/82646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-79-2022",
+   "path": "local/tulcea/sarichioi/2022/79",
+   "short": "HCL Sarichioi nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 79/2022 privind aprobarea rectificării bugetului local de venituri şi cheltuieli al comunei Sarichioi judeţul Tulcea pe anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/82761",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/82761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-80-2022",
+   "path": "local/tulcea/sarichioi/2022/80",
+   "short": "HCL Sarichioi nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 80/2022 privind aprobarea rectificării bugetului local de venituri proprii şi subvenţii al comunei Sarichioi judeţul Tulcea pe anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/82762",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/82762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-81-2022",
+   "path": "local/tulcea/sarichioi/2022/81",
+   "short": "HCL Sarichioi nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 81/2022 privind aprobarea bugetului local de Credite Interne al comunei Sarichioi, judeţul Tulcea, pe anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/82763",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/82763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-82-2022",
+   "path": "local/tulcea/sarichioi/2022/82",
+   "short": "HCL Sarichioi nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 82/2022 privind aprobarea rectificării bugetului Serviciului public de alimentare cu apă potabilă al comunei Sarichioi, judeţul Tulcea, pe anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/82764",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/82764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-83-2022",
+   "path": "local/tulcea/sarichioi/2022/83",
+   "short": "HCL Sarichioi nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 83/2022 privind aprobarea rectificării Listei obiectivelor de investiţii propuse a se realiza în anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/82765",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/82765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-84-2022",
+   "path": "local/tulcea/sarichioi/2022/84",
+   "short": "HCL Sarichioi nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 84/2022 privind aprobarea Listei de investiţii pe Credite Interne propuse a se realiza în anul 2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/82766",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/82766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-85-2022",
+   "path": "local/tulcea/sarichioi/2022/85",
+   "short": "HCL Sarichioi nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 85/2022 privind aprobarea depunerii și implementării proiectului cu titlul “Înființarea de centru de colectare prin aport voluntar raza comunei Sarichioi, județul Tulcea” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/82767",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/82767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-87-2022",
+   "path": "local/tulcea/sarichioi/2022/87",
+   "short": "HCL Sarichioi nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 87/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83224",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-88-2022",
+   "path": "local/tulcea/sarichioi/2022/88",
+   "short": "HCL Sarichioi nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 88/2022 privind aprobarea Planului de acţiune pe timpul iernii 2022 - 2023 la nivelul comunei Sarichioi, judeţul Tulcea",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83225",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-90-2022",
+   "path": "local/tulcea/sarichioi/2022/90",
+   "short": "HCL Sarichioi nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 90/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83227",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-91-2022",
+   "path": "local/tulcea/sarichioi/2022/91",
+   "short": "HCL Sarichioi nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 91/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83228",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-92-2022",
+   "path": "local/tulcea/sarichioi/2022/92",
+   "short": "HCL Sarichioi nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 92/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83229",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-93-2022",
+   "path": "local/tulcea/sarichioi/2022/93",
+   "short": "HCL Sarichioi nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 93/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83230",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-94-2022",
+   "path": "local/tulcea/sarichioi/2022/94",
+   "short": "HCL Sarichioi nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 94/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83231",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-95-2022",
+   "path": "local/tulcea/sarichioi/2022/95",
+   "short": "HCL Sarichioi nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 95/2022 privind aprobarea prelungirii scrisorii de garanție din partea Fondului de Garantare a Creditului Rural nr. IG 203300362 din 02.10.2020, pentru proiectul \"CONSOLIDARE, REABILITARE, MODERNIZARE ȘI EXTINDERE CĂMIN CULTURAL, COMUNA SARICHIOI, JUDEȚUL TULCEA”",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83232",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-96-2022",
+   "path": "local/tulcea/sarichioi/2022/96",
+   "short": "HCL Sarichioi nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 96/2022",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83233",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-98-2022",
+   "path": "local/tulcea/sarichioi/2022/98",
+   "short": "HCL Sarichioi nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 98/2022 privind aprobarea Memoriului justificativ si a indicatorilor tehnico-economici, pentru realizarea proiectului ”Amenajare teren sport Scoala Veche Sarichioi”",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83235",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sarichioi-99-2022",
+   "path": "local/tulcea/sarichioi/2022/99",
+   "short": "HCL Sarichioi nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sarichioi nr. 99/2022 privind implementarea proiectului ”Amenajare teren sport Scoala Veche Sarichioi”",
+   "url": "https://emol.ro/sarichioi-tl/registru-hcl/83236",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sarichioi-tl/registru-hcl/83236",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
