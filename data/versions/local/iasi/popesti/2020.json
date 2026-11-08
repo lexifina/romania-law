@@ -3,6 +3,96 @@
  "shard": "local/iasi/popesti/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--popesti-56-2020",
+   "path": "local/iasi/popesti/2020/56",
+   "short": "HCL Popești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 56/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Popești la nivel de an și trim. II 2020",
+   "url": "https://emol.ro/popesti-is/registru-hcl/20627",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/20627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-57-2020",
+   "path": "local/iasi/popesti/2020/57",
+   "short": "HCL Popești nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 57/2020 privind aprobarea STUDIULUI DE FEZABILITATE pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020” precum și a indicatorilor tehnico-economici ai proiectului",
+   "url": "https://emol.ro/popesti-is/registru-hcl/20628",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/20628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-58-2020",
+   "path": "local/iasi/popesti/2020/58",
+   "short": "HCL Popești nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 58/2020 privind aprobarea valorii investițiilor aferente UAT POPEȘTI, Jud. Iași și a participării Consiliului Local al UAT POPEȘTI la cofinanțarea Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Iași, în perioada 2014-2020",
+   "url": "https://emol.ro/popesti-is/registru-hcl/20629",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/20629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-60-2020",
+   "path": "local/iasi/popesti/2020/60",
+   "short": "HCL Popești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 60/2020 privind asigurarea unei zone de siguranță a drumurilor publice în comuna Popești, județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/20631",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/20631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-64-2020",
+   "path": "local/iasi/popesti/2020/64",
+   "short": "HCL Popești nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 64/2020 privind aprobarea începerii investiției „Modernizarea sistemului de iluminat stradal în Comuna Popești, Județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/20638",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/20638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-66-2020",
+   "path": "local/iasi/popesti/2020/66",
+   "short": "HCL Popești nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 66/2020 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Popești la nivel de an și trim. II 2020",
+   "url": "https://emol.ro/popesti-is/registru-hcl/20640",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/20640",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-69-2020",
    "path": "local/iasi/popesti/2020/69",
    "short": "HCL Popești nr. 69/2020",

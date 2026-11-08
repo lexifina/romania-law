@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popesti-6-2026",
+   "path": "local/iasi/popesti/2026/6",
+   "short": "HCL Popești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 6/2026 privind aprobarea aprobarea Regulamentului cu privire la procedura de eliberare a certificatului de atestare a edificării/extinderii/radierii construcțiilor de pe raza administrativ teritorială a Comunei Popești, Județul Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/248647",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/248647",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-60-2026",
    "path": "local/iasi/popesti/2026/60",
    "short": "HCL Popești nr. 60/2026",

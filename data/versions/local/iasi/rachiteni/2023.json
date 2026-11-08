@@ -3,6 +3,156 @@
  "shard": "local/iasi/rachiteni/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--rachiteni-17-2023",
+   "path": "local/iasi/rachiteni/2023/17",
+   "short": "HCL Răchiteni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 17/2023 privind aprobarea includerii în domeniul public al Comunei Răchiteni a imobilului „Parc cu locuri de joacă și spații de recreere”",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114037",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-18-2023",
+   "path": "local/iasi/rachiteni/2023/18",
+   "short": "HCL Răchiteni nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 18/2023 privind aprobarea includerii în domeniul public al Comunei Răchiteni a unui drum de exploatare în suprafață de 1289 mp",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114038",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-21-2023",
+   "path": "local/iasi/rachiteni/2023/21",
+   "short": "HCL Răchiteni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 21/2023 privind atribuirea nomenclatorului stradal al comunei Răchiteni, județul Iași",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114041",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-23-2023",
+   "path": "local/iasi/rachiteni/2023/23",
+   "short": "HCL Răchiteni nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 23/2023 privind aprobarea includerii în domeniul public al Comunei Răchiteni a imobilului „Parc cu locuri de joacă și spații de recreere”",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114058",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-24-2023",
+   "path": "local/iasi/rachiteni/2023/24",
+   "short": "HCL Răchiteni nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 24/2023 privind completarea HCL nr. 8 din 03.02.2023 privind implementarea proiectului „Înființare sistem public inteligent alternativ pentru procesare ape uzate în Sat Ursărești, comuna Răchiteni, județul Iași”",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114066",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-25-2023",
+   "path": "local/iasi/rachiteni/2023/25",
+   "short": "HCL Răchiteni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 25/2023 privind corectare HCL 12 din 15.02.2023 de aprobare documentația tehnico-economică-studiul de fezabilitate și indicatorilor tehnico-economici aferente proiectului „Înființare sistem public inteligent alternativ pentru procesare ape uzate în Sat Ursărești, comuna Rachiteni, județul Iași în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 1-Managementul apei",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114067",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-26-2023",
+   "path": "local/iasi/rachiteni/2023/26",
+   "short": "HCL Răchiteni nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 26/2023 privind refacere anexa HCL 13 din 15 februarie 2023 privind aprobarea analizei situației la nivel local pentru proiectul „Înființare sistem public inteligent alternativ pentru procesare ape uzate în Sat Ursărești, comuna Rachiteni, județul Iași” în cadrul Planului Național de Redresare și Reziliență al României",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114068",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-28-2023",
+   "path": "local/iasi/rachiteni/2023/28",
+   "short": "HCL Răchiteni nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 28/2023 privind aprobarea obligațiilor financiare rezultate din Acordul de cooperare nr. 31 din 09.10.2012",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114073",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-31-2023",
+   "path": "local/iasi/rachiteni/2023/31",
+   "short": "HCL Răchiteni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 31/2023",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114083",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rachiteni-33-2023",
+   "path": "local/iasi/rachiteni/2023/33",
+   "short": "HCL Răchiteni nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 33/2023 privind aprobarea Devizului general și a PROIECTULUI TEHNIC DE EXECUȚIE, pentru implementarea obiectivului de investiții „Amenajare piste pentru circulația bicicletelor în comuna Răchiteni, județul Iași” ce se implementează prin Programul Național de Redresare și Reziliență, PNRR-COMPONENTA C10-FONDUL LOCAL I.1.4-Asigurarea infrastructurii pentru transportul verde-piste pentru biciclete",
+   "url": "https://emol.ro/rachiteni-is/registru-hcl/114823",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rachiteni-is/registru-hcl/114823",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rachiteni-34-2023",
    "path": "local/iasi/rachiteni/2023/34",
    "short": "HCL Răchiteni nr. 34/2023",

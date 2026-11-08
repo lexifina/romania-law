@@ -3,6 +3,531 @@
  "shard": "local/iasi/tansa/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--tansa-1-2024",
+   "path": "local/iasi/tansa/2024/1",
+   "short": "HCL Tansa nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 1/2024 privind realizarea veniturilor și cheltuielilor bugetului local și aprobarea contului de execuție la data de 31.12.2023",
+   "url": "https://emol.ro/tansa-is/registru-hcl/142226",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/142226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-10-2024",
+   "path": "local/iasi/tansa/2024/10",
+   "short": "HCL Tansa nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 10/2024 privind organizarea pășunatului și stabilirea taxelor de pășunat în anul 2024, pentru persoanele care au închiriat pășune",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151433",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-11-2024",
+   "path": "local/iasi/tansa/2024/11",
+   "short": "HCL Tansa nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 11/2024 privind revocarea HCL nr. 42 din 23.06.2023 cu privire la aprobarea contractului de asociere în participație încheiat între Comuna Tansa, reprezentată de Consiliul Local Tansa și Wind Developement Renovable Energy S.R.L",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151434",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-12-2024",
+   "path": "local/iasi/tansa/2024/12",
+   "short": "HCL Tansa nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 12/2024 privind aprobarea participării la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public cu proiectul \" Creșterea eficienței energetice a infrastructurii de iluminat public în comuna Tansa, județul Iași \"",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151435",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-13-2024",
+   "path": "local/iasi/tansa/2024/13",
+   "short": "HCL Tansa nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 13/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151436",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-14-2024",
+   "path": "local/iasi/tansa/2024/14",
+   "short": "HCL Tansa nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 14/2024 privind aprobarea documentației de atribuire pentru delegarea gestiunii activității de eliminare prin depozitare a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pâmânt și pietre provenite de pe caile publice, a reziduurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate provenite din activității de reamenajare și reabilitare interioară și/sau exterioară a locuințelor la Depozitul de deșeuri nepericuloase Țuțora",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151437",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-15-2024",
+   "path": "local/iasi/tansa/2024/15",
+   "short": "HCL Tansa nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 15/2024 privind alegerea unui președinte de ședință pentru lunile ianuarie, februarie , martie anul 2024",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151438",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-16-2024",
+   "path": "local/iasi/tansa/2024/16",
+   "short": "HCL Tansa nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 16/2024 privind stabilirea graficului de ședință al Consiliului Local Tansa, pentru trimestrul III 2024",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151439",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-17-2024",
+   "path": "local/iasi/tansa/2024/17",
+   "short": "HCL Tansa nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 17/2024 privind aprobarea proiectului și a documentației tehnico-economice-faza studiu de dezabilitate și proiect tehnic pentru investiția \" Renovarea și modernizare centru de zi \" Bunicii Comunității \" comuna Tansa, județul Iași, în vederea obținerii finanțării prin Programul Incluziune și Demnitate Socială 2021-2027-Proprietatea PO6 Servicii de suport pentru persoane vârstnice - \" Comunități de seniori \"",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151446",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-18-2024",
+   "path": "local/iasi/tansa/2024/18",
+   "short": "HCL Tansa nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 18/2024 privind aprobarea participării în cadrul Programului vizând sisteme de alimentare cu apă, canalizare și epurarea apelor uzate cu proiectul de investiție \" Extindere sistem de alimentare cu apă și canalizare în Comuna Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151521",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151521",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-19-2024",
+   "path": "local/iasi/tansa/2024/19",
+   "short": "HCL Tansa nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 19/2024 privind aprobarea documentației tehnico-economice ( faza SF/DALI) și a indicatorilor tehnico-economici aferenți proiectului \" Extindere sistem de alimentare cu apă și canalizare în Comuna Tansa, județul Iași \" în cadrul Programului vizând sisteme de alimentare cu apă, canalizare și epurare a apelor uzate",
+   "url": "https://emol.ro/tansa-is/registru-hcl/151522",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/151522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-2-2024",
+   "path": "local/iasi/tansa/2024/2",
+   "short": "HCL Tansa nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 2/2024 privind stabilirea salariilor de bază pentru funcțiile publice de conducere și de execuție, precum și pentru funcțiile contractuale de execuție din cadrul aparatului de specialitate al primarului comunei Tansa",
+   "url": "https://emol.ro/tansa-is/registru-hcl/142227",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/142227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-23-2024",
+   "path": "local/iasi/tansa/2024/23",
+   "short": "HCL Tansa nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 23/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/157293",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/157293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-25-2024",
+   "path": "local/iasi/tansa/2024/25",
+   "short": "HCL Tansa nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 25/2024 privind aprobarea modificării Organigramei și a Statului de funcții ale aparatului de specialitate al primarului Comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161864",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-26-2024",
+   "path": "local/iasi/tansa/2024/26",
+   "short": "HCL Tansa nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 26/2024 privind organizarea sărbătorii festive \" Ziua Comunei Tansa\" ediția a VIII în ziua de 23 iunie 2024 și alocarea sumei de 70.000 lei pentru desfășurarea evenimentului din bugetul local al Comunei Tansa de la capitolul \" Cultură \"",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161865",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-27-2024",
+   "path": "local/iasi/tansa/2024/27",
+   "short": "HCL Tansa nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 27/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161866",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-28-2024",
+   "path": "local/iasi/tansa/2024/28",
+   "short": "HCL Tansa nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 28/2024 privind aprobarea unui cîmin pentru montare apometru pe domeniul public al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161867",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-29-2024",
+   "path": "local/iasi/tansa/2024/29",
+   "short": "HCL Tansa nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 29/2024 privind pregătirile pentru deschiderea noului an școlar 2024-2025",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161985",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-3-2024",
+   "path": "local/iasi/tansa/2024/3",
+   "short": "HCL Tansa nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 3/2024 privind aprobarea bugetului local al comunei Tansa, județul Iași, pentru anul 2024",
+   "url": "https://emol.ro/tansa-is/registru-hcl/146265",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/146265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-30-2024",
+   "path": "local/iasi/tansa/2024/30",
+   "short": "HCL Tansa nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 30/2024 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru Școli a României și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul UAT Comuna Tansa, pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161986",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-31-2024",
+   "path": "local/iasi/tansa/2024/31",
+   "short": "HCL Tansa nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 31/2024 privind alegerea unui președinte de ședință pentru lunile, iulie, august, septembrie 2024",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161987",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-32-2024",
+   "path": "local/iasi/tansa/2024/32",
+   "short": "HCL Tansa nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 32/2024 privind stabilirea graficului de ședință al Consiliului Local Tansa, pentru trimestrul II 2024",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161988",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-33-2024",
+   "path": "local/iasi/tansa/2024/33",
+   "short": "HCL Tansa nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 33/2024 privind aprobarea indicatorilor tehnico-economici și a Devizului general actualizat al obiectivului de investiții \" Construire teren de sport în sat Tansa, comuna Tansa, județul Iași \"",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161989",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-34-2024",
+   "path": "local/iasi/tansa/2024/34",
+   "short": "HCL Tansa nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 34/2024 privind aprobarea devizului general actualizat pentru obiectivul de investiții \" Modernizare drumuri de interes local în comuna Tansa, Județul Iași \" aprobat pentru finanțare prin Programul național de investiții \" Anghel Saligny \"",
+   "url": "https://emol.ro/tansa-is/registru-hcl/161990",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/161990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-37-2024",
+   "path": "local/iasi/tansa/2024/37",
+   "short": "HCL Tansa nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 37/2024 privind aprobarea procedurii de executare silită a creanțelor fiscale restante datorate bugetului local al Comunei Tansa, prin aplicarea sechestrului asupra bunurilor mobile sau imobile aflate în proprietatea sau coproprietatea contribuabilului precum și procedura de evaluare și valorificare a acestora",
+   "url": "https://emol.ro/tansa-is/registru-hcl/165089",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/165089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-4-2024",
+   "path": "local/iasi/tansa/2024/4",
+   "short": "HCL Tansa nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 4/2024 privind aprobarea inițierii procedurii de încheiere prin licitație publică a pajiștilor permanente din domeniul public/privat al comunei Tansa, județul Iași, râmase neîncheiate din anii anteriori",
+   "url": "https://emol.ro/tansa-is/registru-hcl/146266",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/146266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-41-2024",
+   "path": "local/iasi/tansa/2024/41",
+   "short": "HCL Tansa nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 41/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/169072",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/169072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-42-2024",
+   "path": "local/iasi/tansa/2024/42",
+   "short": "HCL Tansa nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 42/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/169073",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/169073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-44-2024",
+   "path": "local/iasi/tansa/2024/44",
+   "short": "HCL Tansa nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 44/2024 privind dezmembrarea imobilului teren situat în extravilanul comunei Tansa, județul Iași, aflat în domeniul public al UAT Comuna Tansa - rezerva CLFF Tansa, având număr cadastral 62613, înscris în Cartea Funciară în 62613 UAT Tansa",
+   "url": "https://emol.ro/tansa-is/registru-hcl/169075",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/169075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-45-2024",
+   "path": "local/iasi/tansa/2024/45",
+   "short": "HCL Tansa nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 45/2024 privind acordarea voucherelor de vacanță asistenților personali din cadrul UAT Comuna Tansa",
+   "url": "https://emol.ro/tansa-is/registru-hcl/172887",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/172887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-46-2024",
+   "path": "local/iasi/tansa/2024/46",
+   "short": "HCL Tansa nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 46/2024 privind anularea acesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv și anularea unor obligații fiscale principale, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscale-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/tansa-is/registru-hcl/172888",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/172888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-47-2024",
+   "path": "local/iasi/tansa/2024/47",
+   "short": "HCL Tansa nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 47/2024 privind amplasarea unui cămin pentru montare apometru pe domeniul public al comunei Tansa județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/172889",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/172889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-48-2024",
+   "path": "local/iasi/tansa/2024/48",
+   "short": "HCL Tansa nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 48/2024 privind aprobarea Planului de afaceri, Strategia de tarifare aferentă planului de afaceri, formula de ajutare tarifară și strategia privind redevența",
+   "url": "https://emol.ro/tansa-is/registru-hcl/172890",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/172890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-49-2024",
+   "path": "local/iasi/tansa/2024/49",
+   "short": "HCL Tansa nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 49/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/174363",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/174363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-5-2024",
+   "path": "local/iasi/tansa/2024/5",
+   "short": "HCL Tansa nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 5/2024 privind aprobarea încheierii unui contract de colaborare cu un executor judecătoresc pentru aplicarea procedurii de executare silită în vederea recuperării creanțelor fiscale restante datorate de contribuabili la comuna Tansa",
+   "url": "https://emol.ro/tansa-is/registru-hcl/146267",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/146267",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tansa-51-2024",
    "path": "local/iasi/tansa/2024/51",
    "short": "HCL Tansa nr. 51/2024",
@@ -133,6 +658,21 @@
      "from": "2024-12-12",
      "units": 1,
      "source_url": "https://emol.ro/tansa-is/registru-hcl/180848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-6-2024",
+   "path": "local/iasi/tansa/2024/6",
+   "short": "HCL Tansa nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 6/2024 privind aprobarea Regulamentului privind promovarea acțiunilor având ca obiect transformarea amenzilor contravenționale în muncă nerenumerată în folosul comunității",
+   "url": "https://emol.ro/tansa-is/registru-hcl/146268",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/146268",
      "sha256": null
     }
    ]
@@ -288,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tansa-7-2024",
+   "path": "local/iasi/tansa/2024/7",
+   "short": "HCL Tansa nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 7/2024 privind aprobare regulament complex de joacă la Grădinița Suhuleț",
+   "url": "https://emol.ro/tansa-is/registru-hcl/146269",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/146269",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tansa-70-2024",
    "path": "local/iasi/tansa/2024/70",
    "short": "HCL Tansa nr. 70/2024",
@@ -298,6 +853,36 @@
      "from": "2025-01-03",
      "units": 1,
      "source_url": "https://emol.ro/tansa-is/registru-hcl/184581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-8-2024",
+   "path": "local/iasi/tansa/2024/8",
+   "short": "HCL Tansa nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 8/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statutului Asociației Regionale a Serviciilor Apă Canal Iași-ARSACIS",
+   "url": "https://emol.ro/tansa-is/registru-hcl/146270",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/146270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-9-2024",
+   "path": "local/iasi/tansa/2024/9",
+   "short": "HCL Tansa nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 9/2024 privind aprobarea Raportului privind activitatea desfășurată de către asistenții personali ai persoanelor cu grad de habdicap cu asistent personal pentru anul 2024 la nivel U.A.T Comuna Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/146271",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/146271",
      "sha256": null
     }
    ]

@@ -3,6 +3,50 @@
 "shard": "local/iasi/targu-frumos/2025",
 "acts": [
 {
+"slug": "hcl-iasi--targu-frumos-1-2025",
+"path": "local/iasi/targu-frumos/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 1/2025 pentru modificarea H C L Orasul Tg Frumos nr. 64/11.05.2023 (privind aprobarea depunerii proiectului „Construirea de insule ecologice digitalizate în orașul Târgu Frumos, județul Iași”, în cadrul apelurilor de proiecte PNRR/2022/C3/S/I.1.B componenta C3 - Managementul deșeurilor, Investiția I.1, Subinvestiția I.1.B Construirea de insule ecologice digitalizate din Planul Național de Redresare si Reziliență (PNRR))",
+"short": "HCL Târgu Frumos nr. 1/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#91696",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-4-2025",
+"path": "local/iasi/targu-frumos/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 4/2025 ,privind modificarea si completarea H C L Orasul Tg Frumos, jud. Iasi nr. 47 din 26.04.2023 (privind aprobarea aderării UAT Orașul Târgu Frumos, județul Iași, la parteneriatul Asociația Grupul de Acțiune Locală (G.A.L.) Iași Sud-Vest, pentru perioada 2023 - 2027)",
+"short": "HCL Târgu Frumos nr. 4/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#92886",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-7-2025",
 "path": "local/iasi/targu-frumos/2025/7",
 "kind": "local",
@@ -132,6 +176,28 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-28-2025",
+"path": "local/iasi/targu-frumos/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 28/2025 , pentru modificare H C L Orasul Tg Frumos nr. 5/29.01.2025 privind aprobarea Acordului de cooperare privind organizarea și exercitarea activității de audit public intern 1 / 15.12.2017 încheiat cu Asociația de Dezvoltare Intercomunitară „Moldova”",
+"short": "HCL Târgu Frumos nr. 28/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#93379",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"text_pending": "review"
 }
 },
 {

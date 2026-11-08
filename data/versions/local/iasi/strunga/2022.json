@@ -3,6 +3,66 @@
  "shard": "local/iasi/strunga/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--strunga-10-2022",
+   "path": "local/iasi/strunga/2022/10",
+   "short": "HCL Strunga nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 10/2022 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/72386",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/72386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-11-2022",
+   "path": "local/iasi/strunga/2022/11",
+   "short": "HCL Strunga nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 11/2022 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap de pe raza comunei Strunga, județul Iași, pentru anul 2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/72387",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/72387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-19-2022",
+   "path": "local/iasi/strunga/2022/19",
+   "short": "HCL Strunga nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 19/2022 privind buna gospodărire, înfrumusețare și întreținere a comunei Strunga, județul Iași, în anul 2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/72407",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/72407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-20-2022",
+   "path": "local/iasi/strunga/2022/20",
+   "short": "HCL Strunga nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 20/2022 privind aprobarea numărului burselor școlare ce se vor acorda elevilor din învățământul preuniversitar de stat din comuna Strunga, județul Iași, în semestrul II al anului școlar 2021-2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/72408",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/72408",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-25-2022",
    "path": "local/iasi/strunga/2022/25",
    "short": "HCL Strunga nr. 25/2022",
@@ -228,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-4-2022",
+   "path": "local/iasi/strunga/2022/4",
+   "short": "HCL Strunga nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 4/2022 privind aprobarea Programului de Investiții pe anul 2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/72373",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/72373",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-40-2022",
    "path": "local/iasi/strunga/2022/40",
    "short": "HCL Strunga nr. 40/2022",
@@ -298,6 +373,21 @@
      "from": "2022-09-23",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/72472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-8-2022",
+   "path": "local/iasi/strunga/2022/8",
+   "short": "HCL Strunga nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 8/2022 privind aprobarea programului anual al achizițiilor publice pe anul 2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/72384",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/72384",
      "sha256": null
     }
    ]

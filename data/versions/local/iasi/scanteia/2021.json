@@ -3,6 +3,321 @@
  "shard": "local/iasi/scanteia/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--scanteia-1-2021",
+   "path": "local/iasi/scanteia/2021/1",
+   "short": "HCL Scânteia nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 1/2021 privind revizuirea și consolidarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Aditional nr. 41- 4",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15652",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-10-2021",
+   "path": "local/iasi/scanteia/2021/10",
+   "short": "HCL Scânteia nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 10/2021 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat din raza teritorială a comunei Scânteia, județul Iași pentru anul școlar 2021-2022, în baza avizului prealabil, conform de la Inspectoratul Școlar Județean Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15660",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-11-2021",
+   "path": "local/iasi/scanteia/2021/11",
+   "short": "HCL Scânteia nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 11/2021 privind aprobarea Regulamentului intern pentru acordarea voucherelor de vacanță personalului din cadrul aparatului de specialitate al primarului și din cadrul serviciilor publice de interes local",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15661",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-14-2021",
+   "path": "local/iasi/scanteia/2021/14",
+   "short": "HCL Scânteia nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 14/2021 privind revizuirea modificarea și actualizarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 prin Actul Adițional nr. 41",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/19042",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/19042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-18-2021",
+   "path": "local/iasi/scanteia/2021/18",
+   "short": "HCL Scânteia nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 18/2021 privind stabilirea situațiilor deosebite care motivează acordarea ajutoarelor de urgență",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/19046",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/19046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-2-2021",
+   "path": "local/iasi/scanteia/2021/2",
+   "short": "HCL Scânteia nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 2/2021 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 40",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15653",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-3-2021",
+   "path": "local/iasi/scanteia/2021/3",
+   "short": "HCL Scânteia nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 3/2021 privind aprobarea Planului de Ordine şi Siguranţă Publică al Poliției locale Scânteia, judeţul Iaşi, pentru anul 2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15654",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-35-2021",
+   "path": "local/iasi/scanteia/2021/35",
+   "short": "HCL Scânteia nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 35/2021 aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Scânteia, judeţul Iaşi",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/22722",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/22722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-36-2021",
+   "path": "local/iasi/scanteia/2021/36",
+   "short": "HCL Scânteia nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 36/2021 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale autorității deliberative",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/22724",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/22724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-37-2021",
+   "path": "local/iasi/scanteia/2021/37",
+   "short": "HCL Scânteia nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 37/2021 privind stabilirea impozitelor şi taxelor locale şi altor taxe asimilate acestora care se fac venit al bugetului local pentru anul fiscal 2022",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/22723",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/22723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-4-2021",
+   "path": "local/iasi/scanteia/2021/4",
+   "short": "HCL Scânteia nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 4/2021 privind stabilirea drepturilor, compensațiilor în bani și scutirii de unele taxe locale a personalului voluntar din cadrul Serviciului Public Voluntar pentru Situații de Urgență Scânteia",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15655",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-48-2021",
+   "path": "local/iasi/scanteia/2021/48",
+   "short": "HCL Scânteia nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 48/2021 privind rectificarea bugetului local din anul 2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/27812",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/27812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-5-2021",
+   "path": "local/iasi/scanteia/2021/5",
+   "short": "HCL Scânteia nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 5/2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15662",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-57-2021",
+   "path": "local/iasi/scanteia/2021/57",
+   "short": "HCL Scânteia nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 57/2021 privind aprobarea Statutului comunei Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/31548",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/31548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-6-2021",
+   "path": "local/iasi/scanteia/2021/6",
+   "short": "HCL Scânteia nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 6/2021 privind aprobarea Devizului General actualizat pentru obiectivul de investiții “Reabilitarea, modernizarea și dotarea Școlii Primare Lunca Rateș din localitatea Scânteia, comuna Scânteia, judetul Iași”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15656",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-60-2021",
+   "path": "local/iasi/scanteia/2021/60",
+   "short": "HCL Scânteia nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 60/2021 privind rectificarea bugetului local din anul 2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/31551",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/31551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-62-2021",
+   "path": "local/iasi/scanteia/2021/62",
+   "short": "HCL Scânteia nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 62/2021 privind aprobarea Regulamentului privind concesionarea bunurilor imobile ce aparţin domeniului public/privat al Comunei Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/33515",
+   "versions": [
+    {
+     "from": "2021-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/33515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-7-2021",
+   "path": "local/iasi/scanteia/2021/7",
+   "short": "HCL Scânteia nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 7/2021 privind aprobarea Devizului General actualizat pentru obiectivul de investiții “Reabilitarea, modernizarea, extinderea și dotarea Grădiniței cu program normal Scânteia, din localitatea Scânteia, comuna Scânteia, judetul Iași”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15657",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-71-2021",
+   "path": "local/iasi/scanteia/2021/71",
+   "short": "HCL Scânteia nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 71/2021 privind aprobarea Devizului General actualizat pentru obiectivul de investiții “Reabilitarea, modernizarea, extinderea și dotarea Grădiniței cu program normal Borosești din localitatea Borosești, comuna Scânteia, judetul Iași”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/35530",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/35530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-72-2021",
+   "path": "local/iasi/scanteia/2021/72",
+   "short": "HCL Scânteia nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 72/2021 privind aprobarea Devizului General actualizat pentru obiectivul de investiții “Reabilitarea, modernizarea, extinderea și dotarea Școlii Gimnaziale ‘’Axinte Uricariul’’, corp A și corp B, din localitatea Scânteia, comuna Scânteia, județul Iași”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/35531",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/35531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-74-2021",
+   "path": "local/iasi/scanteia/2021/74",
+   "short": "HCL Scânteia nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 74/2021 privind rectificarea bugetului local din anul 2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/35533",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/35533",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scanteia-78-2021",
    "path": "local/iasi/scanteia/2021/78",
    "short": "HCL Scânteia nr. 78/2021",
@@ -28,6 +343,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-is/registru-hcl/40347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-8-2021",
+   "path": "local/iasi/scanteia/2021/8",
+   "short": "HCL Scânteia nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 8/2021 privind aprobarea Devizului General actualizat pentru obiectivul de investiții “Reabilitarea, modernizarea, extinderea și dotarea Grădiniței cu program normal Borosești din localitatea Borosești, comuna Scânteia, judetul Iași”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/15658",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/15658",
      "sha256": null
     }
    ]

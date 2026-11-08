@@ -3,6 +3,246 @@
  "shard": "local/iasi/scobinti/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--scobinti-1-2022",
+   "path": "local/iasi/scobinti/2022/1",
+   "short": "HCL Scobinți nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 1/2022",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/55574",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/55574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-12-2022",
+   "path": "local/iasi/scobinti/2022/12",
+   "short": "HCL Scobinți nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 12/2022 privind aprobare plan lucrari Legea 416 și muncă în folosul comunității",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64289",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-14-2022",
+   "path": "local/iasi/scobinti/2022/14",
+   "short": "HCL Scobinți nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 14/2022 privind acordarea sumei de 1000 lei și 5000 lei - sportivi de performanță",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64357",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-15-2022",
+   "path": "local/iasi/scobinti/2022/15",
+   "short": "HCL Scobinți nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 15/2022 privind aprobare realizare lucrări reparații cladire Cabinet Stomatologic",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64358",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-16-2022",
+   "path": "local/iasi/scobinti/2022/16",
+   "short": "HCL Scobinți nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 16/2022 privind aprobare rectificare buget local 2022",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64359",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-17-2022",
+   "path": "local/iasi/scobinti/2022/17",
+   "short": "HCL Scobinți nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 17/2022 privind aprobarea execuției bugetare pe trimestrul IV al anului 2021",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64360",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-18-2022",
+   "path": "local/iasi/scobinti/2022/18",
+   "short": "HCL Scobinți nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 18/2022 privind rectificare buget local",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65015",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-19-2022",
+   "path": "local/iasi/scobinti/2022/19",
+   "short": "HCL Scobinți nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 19/2022",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65016",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-2-2022",
+   "path": "local/iasi/scobinti/2022/2",
+   "short": "HCL Scobinți nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 2/2022 privind modificarea capitolulu 1, pozitia 12, din HCL nr. 46/1999",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64171",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-20-2022",
+   "path": "local/iasi/scobinti/2022/20",
+   "short": "HCL Scobinți nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 20/2022 privind aprobare modificării indicatorilor economici și tehnici ai proiectului „înființare centru de zi pentru persoanele vârstnice în Satul Scobinți, Comuna Scobinți, Județul Iași”, ca urmare a actualizării fișelor tejnice de către proiectant pentru demararea procedurii și semnarea contractului de furnizare dotări",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65017",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-21-2022",
+   "path": "local/iasi/scobinti/2022/21",
+   "short": "HCL Scobinți nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 21/2022 privind trecerea în domeniul public a investiției „Extinderea rețelei de apă în satele Scobinți, Bădeni, Fetești și Sticlăria” și punerea la dispoziție în vederea operării, administrării și exploatării în baza Contractului de delegare a gestiunii serviciilor publice de alimnetare cu apă și de canalizare nr 48/14.07.2016 către SC APAVITAL SA",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65018",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-23-2022",
+   "path": "local/iasi/scobinti/2022/23",
+   "short": "HCL Scobinți nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 23/2022 privind dezmembrarea unor imobile înscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65020",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-24-2022",
+   "path": "local/iasi/scobinti/2022/24",
+   "short": "HCL Scobinți nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 24/2022 privind extindere rețea canalizare și apobare lucrări de reparații la fațada imobilului - Cabinet Stomatologic",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65021",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-25-2022",
+   "path": "local/iasi/scobinti/2022/25",
+   "short": "HCL Scobinți nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 25/2022 privind modificare tarife taxi",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65022",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-26-2022",
+   "path": "local/iasi/scobinti/2022/26",
+   "short": "HCL Scobinți nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 26/2022 privind trecerea în domeniul public al comunei Scobinți a suprafeței de 300 mp situat în intravilan sat Fetești, comuna Scobinți, județul Iași, indentificat cadastral în T67 - CC742/10",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65023",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-27-2022",
+   "path": "local/iasi/scobinti/2022/27",
+   "short": "HCL Scobinți nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 27/2022 privind aprobarea regulamentului pentru acordarea titlului de Cetățean de onoare a Comunei",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65024",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-29-2022",
    "path": "local/iasi/scobinti/2022/29",
    "short": "HCL Scobinți nr. 29/2022",
@@ -13,6 +253,21 @@
      "from": "2022-06-30",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/65026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-3-2022",
+   "path": "local/iasi/scobinti/2022/3",
+   "short": "HCL Scobinți nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 3/2022 privind organizarea rețelei școlare pe anul 2022-2023",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64172",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64172",
      "sha256": null
     }
    ]
@@ -168,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-4-2022",
+   "path": "local/iasi/scobinti/2022/4",
+   "short": "HCL Scobinți nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 4/2022 privind înființarea și delegarea gestiunii prin concesiune a serviciului pentru gestionarea câinilor fără stăpân din Comuna Scobinți, Jud. Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64173",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64173",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-40-2022",
    "path": "local/iasi/scobinti/2022/40",
    "short": "HCL Scobinți nr. 40/2022",
@@ -298,6 +568,66 @@
      "from": "2022-09-29",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/73575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-6-2022",
+   "path": "local/iasi/scobinti/2022/6",
+   "short": "HCL Scobinți nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 6/2022 privind aprobarea prevederilor legii nr. 153//2017 la comuna Scobinți, Jud. Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64175",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64175",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-7-2022",
+   "path": "local/iasi/scobinti/2022/7",
+   "short": "HCL Scobinți nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 7/2022 privind actualizarea prețului contractuluui de lucrări nr. 5292/56 din 29.05.2020 închieat între Comuna Scobinți și Asocierea SC Vertical Build Construct SRL - BDP Construct SRL, ca urmare a prevederilor OG 15/2021 și a finalizării lucrărilor de execuție",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64224",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-8-2022",
+   "path": "local/iasi/scobinti/2022/8",
+   "short": "HCL Scobinți nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 8/2022 privind aprobare buget local pentru anul 2022",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64241",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-9-2022",
+   "path": "local/iasi/scobinti/2022/9",
+   "short": "HCL Scobinți nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 9/2022 privind modificare HCL nr. 34/2016, indicatori cadastrali",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64242",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64242",
      "sha256": null
     }
    ]

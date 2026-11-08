@@ -92,6 +92,72 @@
 }
 },
 {
+"slug": "hcl-iasi--miroslovesti-7-2025",
+"path": "local/iasi/miroslovesti/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 7/2025 privind aprobarea reprezentării comunei Miroslovești, în instanțe, de un avocat, pentru anul 2025, având în vedere dosarele de pe rolul instanțelor, în conformitate cu prevederile legale în vigoare",
+"short": "HCL Miroslovești nr. 7/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235887",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-8-2025",
+"path": "local/iasi/miroslovesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 8/2025 privind aprobarea, scoaterea din funcțiune și casarea bunurilor provenite din autodemolarea imobilului unde a funcționat Grădinița din localitatea Miroslovești, județul Iași - degradată fizic, neutilizată de peste 10 ani, necorespunzătoare destinației, cu risc de prăbușire",
+"short": "HCL Miroslovești nr. 8/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235888",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--miroslovesti-9-2025",
+"path": "local/iasi/miroslovesti/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 9/2025 privind aprobarea actualizării indicatorilor tehnico-economici actualizați și a Devizului General actualizat la finalizarea lucrărilor și aplicarea formulei de ajustare pentru obiectivul de investiții „Modernizare drumuri locale în comuna Miroslovești, județul Iași”, aprobat pentru finanțare prin Programul național de investiții, Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Miroslovești nr. 9/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://emol.ro/miroslovesti-is/registru-hcl/235889",
+"council": "iasi/miroslovesti",
+"council_name": "Consiliul Local al Comunei Miroslovești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--miroslovesti-10-2025",
 "path": "local/iasi/miroslovesti/2025/10",
 "kind": "local",

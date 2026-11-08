@@ -3,6 +3,21 @@
  "shard": "local/iasi/rediu/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--rediu-1-2026",
+   "path": "local/iasi/rediu/2026/1",
+   "short": "HCL Rediu nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 1/2026 privind “externalizarea și achizitia publica a serviciilor de contabilitate din cadrul Compartimentului contabilitate (bugetară) al aparatului de specialitate al primarului comunei Rediu, județul Iași, pentru anul 2026”",
+   "url": "https://emol.ro/rediu-is/registru-hcl/252503",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/252503",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rediu-103-2026",
    "path": "local/iasi/rediu/2026/103",
    "short": "HCL Rediu nr. 103/2026",
@@ -298,6 +313,201 @@
      "from": "2026-11-06",
      "units": 1,
      "source_url": "https://emol.ro/rediu-is/registru-hcl/297882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-14-2026",
+   "path": "local/iasi/rediu/2026/14",
+   "short": "HCL Rediu nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 14/2026 privind aprobarea Programului de acţiune comunitară la nivelul comunei Rediu, județul Iași, pentru anul 2026",
+   "url": "https://emol.ro/rediu-is/registru-hcl/257775",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/257775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-17-2026",
+   "path": "local/iasi/rediu/2026/17",
+   "short": "HCL Rediu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 17/2026 privind aprobarea situatiilor financiare anuale si a contului de executie a bugetului local de venituri si cheltuieli al UAT Comuna Rediu pe anul 2025",
+   "url": "https://emol.ro/rediu-is/registru-hcl/257778",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/257778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-2-2026",
+   "path": "local/iasi/rediu/2026/2",
+   "short": "HCL Rediu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 2/2026",
+   "url": "https://emol.ro/rediu-is/registru-hcl/252556",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/252556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-25-2026",
+   "path": "local/iasi/rediu/2026/25",
+   "short": "HCL Rediu nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 25/2026 privind aprobarea situatiilor financiare anuale si a contului de executie a bugetului local de venituri si cheltuieli al UAT Comuna Rediu pe anul 2024",
+   "url": "https://emol.ro/rediu-is/registru-hcl/257786",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/257786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-27-2026",
+   "path": "local/iasi/rediu/2026/27",
+   "short": "HCL Rediu nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 27/2026",
+   "url": "https://emol.ro/rediu-is/registru-hcl/258677",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/258677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-29-2026",
+   "path": "local/iasi/rediu/2026/29",
+   "short": "HCL Rediu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 29/2026 privind aprobarea Planului Urbanistic Zonal (PUZ) elaborat în vederea proiectului ” PUZ-Ridicare interdicție de construire și introducere teren în intravilan pentru construire locuințe colective, comerț, servicii și funcțiuni asociate” (beneficiar: SC STONE REAL ESTATE SRL- jud. Iasi, com. Rediu, sat Rediu, nr.cad. 71420)",
+   "url": "https://emol.ro/rediu-is/registru-hcl/261726",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/261726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-3-2026",
+   "path": "local/iasi/rediu/2026/3",
+   "short": "HCL Rediu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 3/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “EXTINDERE RETEA DE CANALIZARE IN COMUNA REDIU, JUDETUL IASI-TRONSOANE CANALIZARE 2”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/rediu-is/registru-hcl/252557",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/252557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-36-2026",
+   "path": "local/iasi/rediu/2026/36",
+   "short": "HCL Rediu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 36/2026 privind reorganizarea activității Unității Administrativ-Teritoriale comuna Rediu, județul Iași, în conformitate cu prevederile Ordonanței de Urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale, cu modificările și completările ulterioare și aprobarea organigramei și a statului de funcții ale instituției",
+   "url": "https://emol.ro/rediu-is/registru-hcl/264605",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/264605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-4-2026",
+   "path": "local/iasi/rediu/2026/4",
+   "short": "HCL Rediu nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 4/2026 privind privind aprobarea dezmembrării imobilului - teren în suprafață de 1188 mp, din intravilanul extins al comunei Rediu, jud. Iași, identificat cu Nr.cad. 75175 înscris în cartea funciară nr. 75175 UAT Rediu, T43-A(1549/5/1/1) - domeniul privat al comunei Rediu",
+   "url": "https://emol.ro/rediu-is/registru-hcl/252772",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/252772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-5-2026",
+   "path": "local/iasi/rediu/2026/5",
+   "short": "HCL Rediu nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 5/2026 privind îndreptarea erorii materiale din HCL nr.130 din data de 22.12.2025, privind ,,stabilirea impozitelor si taxelor locale, precum si a taxelor speciale, pentru anul 2026”",
+   "url": "https://emol.ro/rediu-is/registru-hcl/252773",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/252773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-55-2026",
+   "path": "local/iasi/rediu/2026/55",
+   "short": "HCL Rediu nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 55/2026 pentru adoptarea bugetului local pentru anul 2026",
+   "url": "https://emol.ro/rediu-is/registru-hcl/270178",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/270178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-87-2026",
+   "path": "local/iasi/rediu/2026/87",
+   "short": "HCL Rediu nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 87/2026 privind modificarea si actualizarea listei de investitii pentru anul 2026",
+   "url": "https://emol.ro/rediu-is/registru-hcl/283583",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/283583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-92-2026",
+   "path": "local/iasi/rediu/2026/92",
+   "short": "HCL Rediu nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 92/2026",
+   "url": "https://emol.ro/rediu-is/registru-hcl/286912",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/286912",
      "sha256": null
     }
    ]

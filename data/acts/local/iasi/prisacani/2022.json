@@ -3,6 +3,94 @@
 "shard": "local/iasi/prisacani/2022",
 "acts": [
 {
+"slug": "hcl-iasi--prisacani-16-2022",
+"path": "local/iasi/prisacani/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 16/2022 privind modificarea pct.3 din REGULAMENTUL DE INSTITUIRE ȘI ADMINISTRARE A TAXEI SPECIALE DE SALUBRIZARE AL COMUNEI PRISĂCANI, JUDEȚUL IAȘI, începînd cu anul fiscal 2023",
+"short": "HCL Prisăcani nr. 16/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-26",
+"latest": "2022-04-26",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/58213",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-26-2022",
+"path": "local/iasi/prisacani/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 26/2022 privind aprobarea obiectivului de investiții „Construire magazie de lemne” la Primăria comunei Prisăcani",
+"short": "HCL Prisăcani nr. 26/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-13",
+"latest": "2022-05-13",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/60176",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-39-2022",
+"path": "local/iasi/prisacani/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 39/2022 privind aprobarea plantării cu puiuți de salcâm și împădurarea suprafeței de 15619 mp teren extravilan domeniul public al comunei Prisăcani, județul Iași în cadrul proiectului ”Plantează în România”",
+"short": "HCL Prisăcani nr. 39/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/92789",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-43-2022",
+"path": "local/iasi/prisacani/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 43/2022 privind actualizarea indicatorlor tehnico-economici și asigurarea cofinanțării din BVC Comuna Prisăcani a cheltuielilor pentru obiectivul „Modernizare drumuri comunale și vicinale în comuna Prisăcani, județul Iași lungime de 2105 ml, pentru anii 2020 și 2022",
+"short": "HCL Prisăcani nr. 43/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/92793",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-80-2022",
 "path": "local/iasi/prisacani/2022/80",
 "kind": "local",

@@ -3,6 +3,36 @@
  "shard": "local/iasi/miroslovesti/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--miroslovesti-1-2022",
+   "path": "local/iasi/miroslovesti/2022/1",
+   "short": "HCL Miroslovești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 1/2022 privind aprobarea Raportului privind inventarierea patrimoniului Comunei Miroslovești, pe anul 2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52018",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-10-2022",
+   "path": "local/iasi/miroslovesti/2022/10",
+   "short": "HCL Miroslovești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 10/2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52027",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52027",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-100-2022",
    "path": "local/iasi/miroslovesti/2022/100",
    "short": "HCL Miroslovești nr. 100/2022",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-11-2022",
+   "path": "local/iasi/miroslovesti/2022/11",
+   "short": "HCL Miroslovești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 11/2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52028",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52028",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-110-2022",
    "path": "local/iasi/miroslovesti/2022/110",
    "short": "HCL Miroslovești nr. 110/2022",
@@ -283,6 +328,1341 @@
      "from": "2023-11-02",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/127598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-12-2022",
+   "path": "local/iasi/miroslovesti/2022/12",
+   "short": "HCL Miroslovești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 12/2022 privind instituirea unor măsuri fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 30.12.2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52029",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-13-2022",
+   "path": "local/iasi/miroslovesti/2022/13",
+   "short": "HCL Miroslovești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 13/2022 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții Reabilitare și Modernizare drumuri locale în satele Soci și Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52030",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-14-2022",
+   "path": "local/iasi/miroslovesti/2022/14",
+   "short": "HCL Miroslovești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 14/2022 privind aprobarea predării către MDLPA și prin CNI a amplasamentului pentru Reabilitare si Modernizare Drumuri Locale în satele Soci și Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52031",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-15-2022",
+   "path": "local/iasi/miroslovesti/2022/15",
+   "short": "HCL Miroslovești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 15/2022 privind alegerea președintelui de ședință al CL Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52032",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-16-2022",
+   "path": "local/iasi/miroslovesti/2022/16",
+   "short": "HCL Miroslovești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 16/2022 privind adoptarea Bugetului de venituri și cheltuieli a Comunei Miroslovești pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/57711",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/57711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-17-2022",
+   "path": "local/iasi/miroslovesti/2022/17",
+   "short": "HCL Miroslovești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 17/2022 privind aprobarea programului anual de achiziții publice pentru anul bugetar 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/57712",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/57712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-18-2022",
+   "path": "local/iasi/miroslovesti/2022/18",
+   "short": "HCL Miroslovești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 18/2022 privind aprobarea Strategiei anuale de achiziții publice a comunei Miroslovești pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/57713",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/57713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-19-2022",
+   "path": "local/iasi/miroslovesti/2022/19",
+   "short": "HCL Miroslovești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 19/2022 privind aprobarea Planului de acțiuni și lucrări de interes local, ce urmează a fi realizat de către beneficiarii L 416",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/57714",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/57714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-2-2022",
+   "path": "local/iasi/miroslovesti/2022/2",
+   "short": "HCL Miroslovești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 2/2022 privind aprobarea contului de închidere al exercițiului bugetar pe anul 2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52019",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-20-2022",
+   "path": "local/iasi/miroslovesti/2022/20",
+   "short": "HCL Miroslovești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 20/2022 privind acordarea voucherelor de vacanță pentru anul 2022 în cuantum de 1450 lei",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/57715",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/57715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-21-2022",
+   "path": "local/iasi/miroslovesti/2022/21",
+   "short": "HCL Miroslovești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 21/2022 privind alegerea președintelui de ședință al CL Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/57716",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/57716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-22-2022",
+   "path": "local/iasi/miroslovesti/2022/22",
+   "short": "HCL Miroslovești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 22/2022 privind aprobarea completării HCL 16 din 2022 cu cotele atribuite învățământului preuniversitar de stat",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/57965",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/57965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-23-2022",
+   "path": "local/iasi/miroslovesti/2022/23",
+   "short": "HCL Miroslovești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 23/2022 privind alegerea președintelui de ședință al CL Miroslovești pentru ședința urmăroare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/57966",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/57966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-24-2022",
+   "path": "local/iasi/miroslovesti/2022/24",
+   "short": "HCL Miroslovești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 24/2022 privind aprobarea Strategiei Naționale Anticorupție 2021-2025",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63930",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-25-2022",
+   "path": "local/iasi/miroslovesti/2022/25",
+   "short": "HCL Miroslovești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 25/2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63931",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-27-2022",
+   "path": "local/iasi/miroslovesti/2022/27",
+   "short": "HCL Miroslovești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 27/2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63933",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-28-2022",
+   "path": "local/iasi/miroslovesti/2022/28",
+   "short": "HCL Miroslovești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 28/2022 privind aprobarea majorării tarifului pe oră pentru orice utilaj închiriat cetățenilor",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63934",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-29-2022",
+   "path": "local/iasi/miroslovesti/2022/29",
+   "short": "HCL Miroslovești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 29/2022 privind solicitarea de prelungire a Scrisorii de Garanție din partea Fondului de Garantare și aprobarea comisionului de garantare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63935",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-3-2022",
+   "path": "local/iasi/miroslovesti/2022/3",
+   "short": "HCL Miroslovești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 3/2022 privind transformarea Clasei și Gradului profesional pentru o funcție publica de execuție vacantă de la Clasa III gradul Superior la Clasa I gradul asistent",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52020",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-31-2022",
+   "path": "local/iasi/miroslovesti/2022/31",
+   "short": "HCL Miroslovești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 31/2022 privind aprobarea dezmembrării imobilului 9500 mp cu nr carte funciara 61568 în doua imobile",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63937",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-32-2022",
+   "path": "local/iasi/miroslovesti/2022/32",
+   "short": "HCL Miroslovești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 32/2022 privind constatarea încetării mandatului de consilier local pentru Filote Mihai-Lucia și vacantarea postului de consilier local",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63938",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-33-2022",
+   "path": "local/iasi/miroslovesti/2022/33",
+   "short": "HCL Miroslovești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 33/2022 privind aprobarea necesității și oportunității întocmirii SF în vederea realizării unui nou sediu de Primărie al comunei Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63939",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-34-2022",
+   "path": "local/iasi/miroslovesti/2022/34",
+   "short": "HCL Miroslovești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 34/2022 privind aprobarea Regulamentului de impunere și organizare a pășunatului în Comuna Miroslovești în anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63940",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-35-2022",
+   "path": "local/iasi/miroslovesti/2022/35",
+   "short": "HCL Miroslovești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 35/2022 privind aprobarea alocării din Bugetul Local a unor sume pentru finanțarea activităților sportive în limita a 5% din bugetul aprobat",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63941",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-36-2022",
+   "path": "local/iasi/miroslovesti/2022/36",
+   "short": "HCL Miroslovești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 36/2022 privind alegerea președintelui de ședință al CL pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63942",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-38-2022",
+   "path": "local/iasi/miroslovesti/2022/38",
+   "short": "HCL Miroslovești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 38/2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63969",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-39-2022",
+   "path": "local/iasi/miroslovesti/2022/39",
+   "short": "HCL Miroslovești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 39/2022 privind revocarea HCL nr 101 din 18.10.2021 privind interzicerea traficului greu pe drumurile comunale și sătești modernizate",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63970",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-4-2022",
+   "path": "local/iasi/miroslovesti/2022/4",
+   "short": "HCL Miroslovești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 4/2022 privind aprobarea reprezentării Comunei Miroslovești în instanțe de către un avocat",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52021",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-40-2022",
+   "path": "local/iasi/miroslovesti/2022/40",
+   "short": "HCL Miroslovești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 40/2022 privind aprobarea sponsorizării Comunei Miroslovești de către Direcția Silvică Iași cu 5000 puieți forestieri",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63971",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-41-2022",
+   "path": "local/iasi/miroslovesti/2022/41",
+   "short": "HCL Miroslovești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 41/2022 privind aprobarea realizării achiziției de servicii de consultanță pentru întocmirea dosarului Cererii de finanțare pentru obținerea nerambursabilă prin PNRR pentru Amenajare piste pentru circulația bicicletelor în comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63972",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-42-2022",
+   "path": "local/iasi/miroslovesti/2022/42",
+   "short": "HCL Miroslovești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 42/2022 privind aprobarea SF pentru obiectivul de investiție Amenajare piste pentru circulația bicicletelor",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63973",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-43-2022",
+   "path": "local/iasi/miroslovesti/2022/43",
+   "short": "HCL Miroslovești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 43/2022 privind aprobarea realizării achiziției de servicii de consultanță în vederea întocmirii dosarului cererii de finanțare pentru obținerea finanțării nerambursabila prin PNRR Componenta C10 Construire de locuințe de serviciu pentru specialiști",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63974",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-44-2022",
+   "path": "local/iasi/miroslovesti/2022/44",
+   "short": "HCL Miroslovești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 44/2022 privind privind aprobarea SF pentru Construire locuințe de serviciu pentru specialiști în comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63975",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-45-2022",
+   "path": "local/iasi/miroslovesti/2022/45",
+   "short": "HCL Miroslovești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 45/2022 privind trecerea în Domeniul Public a unor bunuri având recepția obiectivelor și lucrărilor executate, măsurătorile efectuate de persoană specializată pentru realizare piste pentru circulația bicicletelor",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63976",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-46-2022",
+   "path": "local/iasi/miroslovesti/2022/46",
+   "short": "HCL Miroslovești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 46/2022 privind alegerea președintelui de ședință al CL pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/63977",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/63977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-47-2022",
+   "path": "local/iasi/miroslovesti/2022/47",
+   "short": "HCL Miroslovești nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 47/2022 privind aprobarea proiectului a cheltuielilor aferente și depunerea proiectului Amenajare piste pentru circulația bicicletelor",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96338",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-48-2022",
+   "path": "local/iasi/miroslovesti/2022/48",
+   "short": "HCL Miroslovești nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 48/2022 privind aprobarea proiectului, a cheltuielilor aferente proiectului și depunerea proiectului Construire de locuințe de serviciu pentru Specialiști",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96339",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-49-2022",
+   "path": "local/iasi/miroslovesti/2022/49",
+   "short": "HCL Miroslovești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 49/2022 privind completarea CL al Comunei Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96340",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-5-2022",
+   "path": "local/iasi/miroslovesti/2022/5",
+   "short": "HCL Miroslovești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 5/2022 privind aprobarea pentru anul 2022 a numărului de posturi bugetare, organigramei, statului de funcții, planului de ocupare a funcțiilor publice și a coeficienților salariilor de bază",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52022",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-50-2022",
+   "path": "local/iasi/miroslovesti/2022/50",
+   "short": "HCL Miroslovești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 50/2022 privind completarea comisiilor de specialitate al CL Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96341",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-51-2022",
+   "path": "local/iasi/miroslovesti/2022/51",
+   "short": "HCL Miroslovești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 51/2022 privind aprobarea de a sărbătorii zilele satului Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96342",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-52-2022",
+   "path": "local/iasi/miroslovesti/2022/52",
+   "short": "HCL Miroslovești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 52/2022 privind acordarea unor premii și diplome de fidelitate cuplurilor care au domiciliul în comuna Miroslovșeti și au împlinit 50 și 60 ani căsătorie",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96343",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-53-2022",
+   "path": "local/iasi/miroslovesti/2022/53",
+   "short": "HCL Miroslovești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 53/2022 privind asumarea sau neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor acordurilor cadru pentru achiziția produselor aferente Programului de prestare a serviciilor pentru derularea măsurilor educative pentru anul 2022-2023",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96344",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-54-2022",
+   "path": "local/iasi/miroslovesti/2022/54",
+   "short": "HCL Miroslovești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 54/2022 privind rectificarea bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96345",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-55-2022",
+   "path": "local/iasi/miroslovesti/2022/55",
+   "short": "HCL Miroslovești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 55/2022 privind alegerea președintelui de ședință pentru ședina următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96346",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-56-2022",
+   "path": "local/iasi/miroslovesti/2022/56",
+   "short": "HCL Miroslovești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 56/2022 privind alegearea președintelui de ședință al CL pentru ședința din data de 23.06.2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96386",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-57-2022",
+   "path": "local/iasi/miroslovesti/2022/57",
+   "short": "HCL Miroslovești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 57/2022 privind rectificarea BVC pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96387",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-58-2022",
+   "path": "local/iasi/miroslovesti/2022/58",
+   "short": "HCL Miroslovești nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 58/2022 privind aprobarea planului e analiză și acoperire a riscurilor anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96388",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-59-2022",
+   "path": "local/iasi/miroslovesti/2022/59",
+   "short": "HCL Miroslovești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 59/2022 privind aprobarea dezmembrării imobilului 9500 mp carte funciara 61568 în două cu suprafața 5000 mp și 4500 mp ce face obiectul lucrărilor de înregistrare sistematică",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96389",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-6-2022",
+   "path": "local/iasi/miroslovesti/2022/6",
+   "short": "HCL Miroslovești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 6/2022 privind aprobarea Statutului UAT Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52023",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-60-2022",
+   "path": "local/iasi/miroslovesti/2022/60",
+   "short": "HCL Miroslovești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 60/2022 privind alegerea președintelui de ședință al CL Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96390",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-61-2022",
+   "path": "local/iasi/miroslovesti/2022/61",
+   "short": "HCL Miroslovești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 61/2022 privind rectificarea BVC pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96403",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-62-2022",
+   "path": "local/iasi/miroslovesti/2022/62",
+   "short": "HCL Miroslovești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 62/2022 privind aprobarea Acordului de Parteneriat pentru participare la Târgul Comunelor organizat în municipiul Pașcani în data de 04.09.2022 și a cheltuielilor aferente",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96404",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-63-2022",
+   "path": "local/iasi/miroslovesti/2022/63",
+   "short": "HCL Miroslovești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 63/2022 privind aprobarea dezmembrării imobilului 5000 mp carte funciară 64636 în două imobile 1000 mp și 4000 mp ce face obiectul înregistrării sistematice",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96405",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-64-2022",
+   "path": "local/iasi/miroslovesti/2022/64",
+   "short": "HCL Miroslovești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 64/2022 privind alegerea președintelui de ședință al CL Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96406",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-65-2022",
+   "path": "local/iasi/miroslovesti/2022/65",
+   "short": "HCL Miroslovești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 65/2022 privind solicitarea de prelungire a Scrisorii de Garanție din partea FNGCIMM SA IFN",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96602",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-66-2022",
+   "path": "local/iasi/miroslovesti/2022/66",
+   "short": "HCL Miroslovești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 66/2022 privind rectificarea BVC pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96603",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-67-2022",
+   "path": "local/iasi/miroslovesti/2022/67",
+   "short": "HCL Miroslovești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 67/2022 privind aprobarea Pth a indicatorilor tehnico-economici actualizați pentru obiectivul Modernizare drumuri locale în comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96604",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-68-2022",
+   "path": "local/iasi/miroslovesti/2022/68",
+   "short": "HCL Miroslovești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 68/2022 privind aprobarea realizării lucrărilor ce se impun a fi executate pentru obtinere autorizatie de functionare a Scolii Gimnaziale Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96605",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-69-2022",
+   "path": "local/iasi/miroslovesti/2022/69",
+   "short": "HCL Miroslovești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 69/2022 privind alegerea președintelui de ședință al CL pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96606",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-7-2022",
+   "path": "local/iasi/miroslovesti/2022/7",
+   "short": "HCL Miroslovești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 7/2022 privind aprobarea asumării și plata sumei de 10000 lei din Bugetul Local sumă achitată în baza procesului verbal 0001877 din 2011",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52024",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-70-2022",
+   "path": "local/iasi/miroslovesti/2022/70",
+   "short": "HCL Miroslovești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 70/2022 privind aprobarea proiectului Construire de locuințe de serviciu pentru specialiști in comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96608",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-71-2022",
+   "path": "local/iasi/miroslovesti/2022/71",
+   "short": "HCL Miroslovești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 71/2022 privind alegerea președintelui de ședință al CL Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96609",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-72-2022",
+   "path": "local/iasi/miroslovesti/2022/72",
+   "short": "HCL Miroslovești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 72/2022 privind rectificarea BVC pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96631",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-73-2022",
+   "path": "local/iasi/miroslovesti/2022/73",
+   "short": "HCL Miroslovești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 73/2022 privind aprobarea recoltării masei lemnoase din Zăvoi - Verșeni zona din afara fondului național",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96632",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-75-2022",
+   "path": "local/iasi/miroslovesti/2022/75",
+   "short": "HCL Miroslovești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 75/2022 privind confirmarea apartenentei la domeniul public a celor 3 spații de recreere din inventarul bunurilor care alcătuiesc dom public",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96634",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-76-2022",
+   "path": "local/iasi/miroslovesti/2022/76",
+   "short": "HCL Miroslovești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 76/2022 privind completarea HCL 47 din 2022 pentru aprobare proiect Amenajare piste pentru circulație bicicletelor în comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96635",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-77-2022",
+   "path": "local/iasi/miroslovesti/2022/77",
+   "short": "HCL Miroslovești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 77/2022 privind alegerea președintelui de ședință al CL pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96636",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-78-2022",
+   "path": "local/iasi/miroslovesti/2022/78",
+   "short": "HCL Miroslovești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 78/2022 privind rectificarea BVC pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96646",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-79-2022",
+   "path": "local/iasi/miroslovesti/2022/79",
+   "short": "HCL Miroslovești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 79/2022 privind depunerea proiectului Reabilitare scoală Verșeni",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96647",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-8-2022",
+   "path": "local/iasi/miroslovesti/2022/8",
+   "short": "HCL Miroslovești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 8/2022 privind aprobarea asumării și plata sumei de 15500 lei din bugetul local să achitată în baza procesului verbal de contravenție seria GNM 10756 din 2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52025",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-80-2022",
+   "path": "local/iasi/miroslovesti/2022/80",
+   "short": "HCL Miroslovești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 80/2022 privind depunerea proiectului Reabilitare scoala Soci",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96648",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-81-2022",
+   "path": "local/iasi/miroslovesti/2022/81",
+   "short": "HCL Miroslovești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 81/2022 privind depunerea proiectului Reabilitarea grădiniței Soci",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96649",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-82-2022",
+   "path": "local/iasi/miroslovesti/2022/82",
+   "short": "HCL Miroslovești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 82/2022 privind alegerea presedintelui de ședință al CL pentru ședinta urmatoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/96650",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/96650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-83-2022",
+   "path": "local/iasi/miroslovesti/2022/83",
+   "short": "HCL Miroslovești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 83/2022 privind aprobarea completării Strategiei de dezvoltare Locala a Comunei Miroslovești pentru perioada 2021-2027",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99596",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-84-2022",
+   "path": "local/iasi/miroslovesti/2022/84",
+   "short": "HCL Miroslovești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 84/2022 privind declararea ca fiind bunuri de uz și interes public local a unor spații adiacente drumului E85 cuprinse pe teritoriul administrativ al Comunei Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99597",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-85-2022",
+   "path": "local/iasi/miroslovesti/2022/85",
+   "short": "HCL Miroslovești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 85/2022 privind aprobarea proiectului a cheltuielilor aferente și a depunerii proiectului Asigurare de piste pentru biciclete în comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99598",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-86-2022",
+   "path": "local/iasi/miroslovesti/2022/86",
+   "short": "HCL Miroslovești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 86/2022 privind aprobarea proiectului a cheltuielilor aferente și a depunerii proiectului Construire de locuințe de serviciu pentru specialiști în sat Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99599",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-87-2022",
+   "path": "local/iasi/miroslovesti/2022/87",
+   "short": "HCL Miroslovești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 87/2022 privind aprobarea proiectului a cheltuielilor aferente si a depunerii proiectului Achiziție mobilier urban inteligent în comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99600",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-88-2022",
+   "path": "local/iasi/miroslovesti/2022/88",
+   "short": "HCL Miroslovești nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 88/2022 privind alegerea președintelui de ședință al CL pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99601",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-89-2022",
+   "path": "local/iasi/miroslovesti/2022/89",
+   "short": "HCL Miroslovești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 89/2022 privind rectificarea BVC pe anul 2022",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99743",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-9-2022",
+   "path": "local/iasi/miroslovesti/2022/9",
+   "short": "HCL Miroslovești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 9/2022 privind aprobarea dezmembrării imobilului 10000 mp cu nr carte funciară 61576 în două imobile cu suprafata de 5000 mp și 5000 mp",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/52026",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/52026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-91-2022",
+   "path": "local/iasi/miroslovesti/2022/91",
+   "short": "HCL Miroslovești nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 91/2022 privind modificarea si completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă si de canalizare nr 48 din 2009",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99745",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-92-2022",
+   "path": "local/iasi/miroslovesti/2022/92",
+   "short": "HCL Miroslovești nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 92/2022 privind aprobarea participării la Programul de realizare a pistelor pentru biciclete și a Devizului general pentru proiectul Asigurare de piste de biciclete în comuna Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99746",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-93-2022",
+   "path": "local/iasi/miroslovesti/2022/93",
+   "short": "HCL Miroslovești nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 93/2022 privind aprobarea achiziționării unui Tractor cu toate accesoriile",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99747",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-94-2022",
+   "path": "local/iasi/miroslovesti/2022/94",
+   "short": "HCL Miroslovești nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 94/2022 privind aprobarea achiziționării unei Centrale Termice necesară scolii Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99748",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-95-2022",
+   "path": "local/iasi/miroslovesti/2022/95",
+   "short": "HCL Miroslovești nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 95/2022 privind aprobarea achiziționării unui Autoturism Dacia Duster",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99749",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-96-2022",
+   "path": "local/iasi/miroslovesti/2022/96",
+   "short": "HCL Miroslovești nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 96/2022 privind alegerea președintelui de ședință al CL pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/99750",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/99750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-97-2022",
+   "path": "local/iasi/miroslovesti/2022/97",
+   "short": "HCL Miroslovești nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 97/2022 privind înființarea si delegarea gestiunii prin concesiune a serviciului de gestionare a câinilor fara stapan",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/127520",
+   "versions": [
+    {
+     "from": "2023-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/127520",
      "sha256": null
     }
    ]

@@ -3,6 +3,138 @@
 "shard": "local/iasi/strunga/2022",
 "acts": [
 {
+"slug": "hcl-iasi--strunga-4-2022",
+"path": "local/iasi/strunga/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 4/2022 privind aprobarea Programului de Investiții pe anul 2022",
+"short": "HCL Strunga nr. 4/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": "https://emol.ro/strunga-is/registru-hcl/72373",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-8-2022",
+"path": "local/iasi/strunga/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 8/2022 privind aprobarea programului anual al achizițiilor publice pe anul 2022",
+"short": "HCL Strunga nr. 8/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": "https://emol.ro/strunga-is/registru-hcl/72384",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-10-2022",
+"path": "local/iasi/strunga/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 10/2022 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2022",
+"short": "HCL Strunga nr. 10/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": "https://emol.ro/strunga-is/registru-hcl/72386",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-11-2022",
+"path": "local/iasi/strunga/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 11/2022 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap de pe raza comunei Strunga, județul Iași, pentru anul 2022",
+"short": "HCL Strunga nr. 11/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": "https://emol.ro/strunga-is/registru-hcl/72387",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-19-2022",
+"path": "local/iasi/strunga/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 19/2022 privind buna gospodărire, înfrumusețare și întreținere a comunei Strunga, județul Iași, în anul 2022",
+"short": "HCL Strunga nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": "https://emol.ro/strunga-is/registru-hcl/72407",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-20-2022",
+"path": "local/iasi/strunga/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 20/2022 privind aprobarea numărului burselor școlare ce se vor acorda elevilor din învățământul preuniversitar de stat din comuna Strunga, județul Iași, în semestrul II al anului școlar 2021-2022",
+"short": "HCL Strunga nr. 20/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": "https://emol.ro/strunga-is/registru-hcl/72408",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--strunga-25-2022",
 "path": "local/iasi/strunga/2022/25",
 "kind": "local",

@@ -3,6 +3,138 @@
 "shard": "local/iasi/popesti/2025",
 "acts": [
 {
+"slug": "hcl-iasi--popesti-25-2025",
+"path": "local/iasi/popesti/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 25/2025 privind aprobarea aprobarea procedurii și regulamentului pentru concursul 'Gospodarul Anului' în comuna Popești, județul Iași",
+"short": "HCL Popești nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/popesti-is/registru-hcl/203633",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-46-2025",
+"path": "local/iasi/popesti/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 46/2025 privind aprobarea Regulamentului de organizare și funcționare a aparatului de specialitate al Primarului Comunei Popești, a Statului de Funcții și a Organigramei începând cu data de 01.07.2025",
+"short": "HCL Popești nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/popesti-is/registru-hcl/214388",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-49-2025",
+"path": "local/iasi/popesti/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 49/2025 privind aprobarea Regulamentului privind acordarea de premii elevilor/tinerilor/sportivilor și profesorilor/îndrumătorilor/antrenorilor care au obţinut rezultate deosebite la concursurile/olimpiadele/competițiile județene/naționale/internaționale oficiale precum și la absolvirea studiilor, începând cu anul 2025",
+"short": "HCL Popești nr. 49/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/popesti-is/registru-hcl/214391",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-62-2025",
+"path": "local/iasi/popesti/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 62/2025 privind aprobarea documentației de urbanism Actualizare Plan Urbanistic General și Regulament Local de Urbanism Comuna Popești, județul Iași",
+"short": "HCL Popești nr. 62/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://emol.ro/popesti-is/registru-hcl/219059",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-72-2025",
+"path": "local/iasi/popesti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 72/2025 privind aprobarea Regulamentului privind organizarea și desfășurarea activităților de comerț stradal/ambulant în zonele publice din comuna Popești, județul Iași",
+"short": "HCL Popești nr. 72/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-05",
+"latest": "2025-09-05",
+"portal": "https://emol.ro/popesti-is/registru-hcl/222763",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popesti-78-2025",
+"path": "local/iasi/popesti/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 78/2025 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale consiliului local al comunei Popești, județul Iași",
+"short": "HCL Popești nr. 78/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/popesti-is/registru-hcl/227335",
+"council": "iasi/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--popesti-87-2025",
 "path": "local/iasi/popesti/2025/87",
 "kind": "local",

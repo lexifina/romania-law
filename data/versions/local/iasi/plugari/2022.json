@@ -3,6 +3,36 @@
  "shard": "local/iasi/plugari/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--plugari-1-2022",
+   "path": "local/iasi/plugari/2022/1",
+   "short": "HCL Plugari nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 1/2022 privind organizarea reţelei scolare a unităţilor de învăţământ din comuna Plugari, judeţul Iaşi, pentru anul şcolar 2022 – 2023",
+   "url": "https://emol.ro/plugari-is/registru-hcl/50922",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/50922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-10-2022",
+   "path": "local/iasi/plugari/2022/10",
+   "short": "HCL Plugari nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 10/2022 privind aprobarea bugetului local de venituri si cheltuieli pe anul 2022 si estimarile pentru anii 2023 – 2025",
+   "url": "https://emol.ro/plugari-is/registru-hcl/51720",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/51720",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--plugari-100-2022",
    "path": "local/iasi/plugari/2022/100",
    "short": "HCL Plugari nr. 100/2022",
@@ -13,6 +43,276 @@
      "from": "2023-02-06",
      "units": 1,
      "source_url": "https://emol.ro/plugari-is/registru-hcl/89303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-11-2022",
+   "path": "local/iasi/plugari/2022/11",
+   "short": "HCL Plugari nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 11/2022 privind aprobarea Listei de investitii pe anul 2022, cu finantare partiala sau integrala de la buget",
+   "url": "https://emol.ro/plugari-is/registru-hcl/51721",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/51721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-12-2022",
+   "path": "local/iasi/plugari/2022/12",
+   "short": "HCL Plugari nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 12/2022 privind aprobarea indicatorilor tehnico-economici actualizați pentru rest de executat la obiectivul de investiție ''Demolare și construire școala gimnazială în comuna Plugari, sat Borosoaia, județul Iași''",
+   "url": "https://emol.ro/plugari-is/registru-hcl/51722",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/51722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-13-2022",
+   "path": "local/iasi/plugari/2022/13",
+   "short": "HCL Plugari nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 13/2022 privind aprobarea indicatorilor tehnico-economici actualizati pentru rest de executat la obiectivul de investiție:,,Demolare si construire gradinita cu program normal din sat Borosoaia, comuna Plugari,judetul Iasi”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/51723",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/51723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-2-2022",
+   "path": "local/iasi/plugari/2022/2",
+   "short": "HCL Plugari nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 2/2022 privind aprobarea numarului de posturi de asistent personal al persoanei cu handicap grav pentru anul 2022",
+   "url": "https://emol.ro/plugari-is/registru-hcl/50923",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/50923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-3-2022",
+   "path": "local/iasi/plugari/2022/3",
+   "short": "HCL Plugari nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 3/2022 privind aprobarea Planului de acţiuni şi lucrări de interes local ce urmează a fi realizate de către persoanele apte de muncă beneficiare de ajutor social în anul 2022",
+   "url": "https://emol.ro/plugari-is/registru-hcl/50924",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/50924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-32-2022",
+   "path": "local/iasi/plugari/2022/32",
+   "short": "HCL Plugari nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 32/2022 privind aprobarea indexării cu rata inflației a impozitelor și taxelor locale aferente anului 2023",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68059",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-34-2022",
+   "path": "local/iasi/plugari/2022/34",
+   "short": "HCL Plugari nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 34/2022 privind asumarea/neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru școli al României pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68061",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-36-2022",
+   "path": "local/iasi/plugari/2022/36",
+   "short": "HCL Plugari nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 36/2022 privind aprobarea Regulamentului de Organizare și Funcționare al Aparatului de Specialitate al Primarului comunei Plugari, județul Iași",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68063",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-4-2022",
+   "path": "local/iasi/plugari/2022/4",
+   "short": "HCL Plugari nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 4/2022 privind aprobarea Programului de de măsuri pentru gospodărirea şi înfrumuseţarea comunei Plugari,pentru anul 2022",
+   "url": "https://emol.ro/plugari-is/registru-hcl/50925",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/50925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-42-2022",
+   "path": "local/iasi/plugari/2022/42",
+   "short": "HCL Plugari nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 42/2022 privind aprobarea demarării procedurii de achiziție publică aferentă serviciilor de proiectare în vederea realizării proiectului de investiție „ÎNFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA PLUGARI DIN JUDEȚUL IAȘI ȘI COMUNA PRĂJENI DIN JUDEȚUL BOTOȘANI”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68069",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-43-2022",
+   "path": "local/iasi/plugari/2022/43",
+   "short": "HCL Plugari nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 43/2022 privind aprobarea inițierii procedurii de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale, în comuna Plugari, județul Iași",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68070",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-46-2022",
+   "path": "local/iasi/plugari/2022/46",
+   "short": "HCL Plugari nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 46/2022 privind aprobarea devizului general actualizat și a devizului general pentru lucrări rest de executat actualizat pentru obiectivul de investiție: ,,Demolare și construire grădiniță cu program normal din sat Boroșoaia, comuna Plugari, județul Iași”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68073",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-47-2022",
+   "path": "local/iasi/plugari/2022/47",
+   "short": "HCL Plugari nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 47/2022 privind aprobarea devizului general actualizat și a devizului general pentru lucrări rest de executat actualizat pentru obiectivul de investiție: ,,Demolare și construire școala gimnaziala în comuna Plugari, sat Boroșoaia, județul Iași”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68074",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-49-2022",
+   "path": "local/iasi/plugari/2022/49",
+   "short": "HCL Plugari nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 49/2022 privind aprobarea rectificării bugetului local de venituri și cheltuieli in trim.III 2022",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68076",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-50-2022",
+   "path": "local/iasi/plugari/2022/50",
+   "short": "HCL Plugari nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 50/2022 privind modificarea și completarea Listei de investiții în trim.III, anul 2022, cu finanțare parțială sau integrală de la buget",
+   "url": "https://emol.ro/plugari-is/registru-hcl/68077",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/68077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-6-2022",
+   "path": "local/iasi/plugari/2022/6",
+   "short": "HCL Plugari nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 6/2022 privind stabilirea salariilor de baza pentru functiile contractuale din cadrul Caminului cultural al comunei Plugari,judetul Iasi",
+   "url": "https://emol.ro/plugari-is/registru-hcl/50927",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/50927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-7-2022",
+   "path": "local/iasi/plugari/2022/7",
+   "short": "HCL Plugari nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 7/2022 privind aprobarea ,, Strategiei de dezvoltare locala a comunei Plugari,judetul Iasi ,pentru perioada 2021-2027”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/50928",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/50928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-8-2022",
+   "path": "local/iasi/plugari/2022/8",
+   "short": "HCL Plugari nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 8/2022 privind aprobarea contului de executie al bugetului local al comunei Plugari,judetul Iasi la data de 31.12.2021",
+   "url": "https://emol.ro/plugari-is/registru-hcl/51718",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/51718",
      "sha256": null
     }
    ]
@@ -148,6 +448,21 @@
      "from": "2023-02-06",
      "units": 1,
      "source_url": "https://emol.ro/plugari-is/registru-hcl/89289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-9-2022",
+   "path": "local/iasi/plugari/2022/9",
+   "short": "HCL Plugari nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 9/2022 privind aprobarea utilizarii excedentului bugetului local aferent exercitiului bugetar al anului 2021,pentru finantarea sectiunii de dezvoltare",
+   "url": "https://emol.ro/plugari-is/registru-hcl/51719",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/51719",
      "sha256": null
     }
    ]

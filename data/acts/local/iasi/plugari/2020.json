@@ -3,6 +3,28 @@
 "shard": "local/iasi/plugari/2020",
 "acts": [
 {
+"slug": "hcl-iasi--plugari-76-2020",
+"path": "local/iasi/plugari/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plugari nr. 76/2020 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Plugari,judetul Iasi",
+"short": "HCL Plugari nr. 76/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/plugari-is/registru-hcl/27675",
+"council": "iasi/plugari",
+"council_name": "Consiliul Local al Comunei Plugari",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--plugari-77-2020",
 "path": "local/iasi/plugari/2020/77",
 "kind": "local",

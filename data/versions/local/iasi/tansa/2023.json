@@ -3,6 +3,111 @@
  "shard": "local/iasi/tansa/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--tansa-15-2023",
+   "path": "local/iasi/tansa/2023/15",
+   "short": "HCL Tansa nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 15/2023 privind aprobarea realizării investiției și a devizului general al obiectivului de investitii ,,CONSTRUIRE TEREN MULTIFUNCȚIONAL ÎN COMUNA TANSA\"",
+   "url": "https://emol.ro/tansa-is/registru-hcl/95278",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/95278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-16-2023",
+   "path": "local/iasi/tansa/2023/16",
+   "short": "HCL Tansa nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 16/2023 privind aprobarea realizării investiției și a devizului general al obiectivului de investitii ,,AMENAJARE LOC DE JOACĂ ÎN COMUNA TANSA\"",
+   "url": "https://emol.ro/tansa-is/registru-hcl/95279",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/95279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-19-2023",
+   "path": "local/iasi/tansa/2023/19",
+   "short": "HCL Tansa nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 19/2023 privind aprobarea ,,Programului de masuri privind gospodărirea, întreţinerea si înfrumuseţarea localității Tansa″",
+   "url": "https://emol.ro/tansa-is/registru-hcl/100131",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/100131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-3-2023",
+   "path": "local/iasi/tansa/2023/3",
+   "short": "HCL Tansa nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 3/2023 privind dezmembrarea imobilului teren situat în extravilanul comunei Tansa, județul Iași, aflat în domeniul public al UAT Comuna Tansa, având numar cadastral 60692, înscris în Cartea Funciară în 60692 UAT Tansa",
+   "url": "https://emol.ro/tansa-is/registru-hcl/95251",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/95251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-33-2023",
+   "path": "local/iasi/tansa/2023/33",
+   "short": "HCL Tansa nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 33/2023 privind aprobarea Devizului General al obiectivul de investiții “Reabilitarea drumurilor afectate de pagubele produse în urma calamităţilor în comuna Tansa, judeţul Iaşi”",
+   "url": "https://emol.ro/tansa-is/registru-hcl/105940",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/105940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-34-2023",
+   "path": "local/iasi/tansa/2023/34",
+   "short": "HCL Tansa nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 34/2023 privind măsurile de prevenire pentru perioadele caniculare, precum și prevenirea incendiilor de pe raza UAT Comuna Tansa",
+   "url": "https://emol.ro/tansa-is/registru-hcl/108786",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/108786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-39-2023",
+   "path": "local/iasi/tansa/2023/39",
+   "short": "HCL Tansa nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 39/2023",
+   "url": "https://emol.ro/tansa-is/registru-hcl/109919",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/109919",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tansa-67-2023",
    "path": "local/iasi/tansa/2023/67",
    "short": "HCL Tansa nr. 67/2023",
@@ -193,6 +298,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/tansa-is/registru-hcl/136785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-8-2023",
+   "path": "local/iasi/tansa/2023/8",
+   "short": "HCL Tansa nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 8/2023",
+   "url": "https://emol.ro/tansa-is/registru-hcl/95261",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/95261",
      "sha256": null
     }
    ]

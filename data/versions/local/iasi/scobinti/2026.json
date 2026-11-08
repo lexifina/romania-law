@@ -3,6 +3,36 @@
  "shard": "local/iasi/scobinti/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--scobinti-100-2026",
+   "path": "local/iasi/scobinti/2026/100",
+   "short": "HCL Scobinți nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 100/2026 privind modificarea și completarea HCL nr. 95/27.08.2026 pentru aprobarea caietului de sarcini în vederea atribuirii contractului de servicii de sterilizare a câinilor de pe raza comunei Scobinți, județul Iași, cu stăpân ce aparține rasei comune sau a metișilor acestora",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286720",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-101-2026",
+   "path": "local/iasi/scobinti/2026/101",
+   "short": "HCL Scobinți nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 101/2026 privind alegerea președintelui de ședință pentru trimestrul IV al anului 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286721",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286721",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-102-2026",
    "path": "local/iasi/scobinti/2026/102",
    "short": "HCL Scobinți nr. 102/2026",
@@ -298,6 +328,921 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/293399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-35-2026",
+   "path": "local/iasi/scobinti/2026/35",
+   "short": "HCL Scobinți nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 35/2026 privind alegerea președintelui de ședință pentru trimestrul II al anului 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/266444",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/266444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-36-2026",
+   "path": "local/iasi/scobinti/2026/36",
+   "short": "HCL Scobinți nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 36/2026 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 1.928.421 lei",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/266445",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/266445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-37-2026",
+   "path": "local/iasi/scobinti/2026/37",
+   "short": "HCL Scobinți nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 37/2026 privind aprobarea contractării unui împrumut în valoare de 377.542 lei, în conformitate cu prevederile art. XXXI din Ordonanța de urgență a Guvernului nr. 89/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/266446",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/266446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-38-2026",
+   "path": "local/iasi/scobinti/2026/38",
+   "short": "HCL Scobinți nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 38/2026 privind reorganizarea organigramei și a statului de funcții a Centrului de zi pentru persoane vârstnice în satul Scobinți, comuna Scobinți, Județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/266447",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/266447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-39-2026",
+   "path": "local/iasi/scobinti/2026/39",
+   "short": "HCL Scobinți nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 39/2026 privind reorganizarea organigramei și a statului de funcții al Afther School în satul Sticlăria, comuna Scobinți, jud. Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/266448",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/266448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-41-2026",
+   "path": "local/iasi/scobinti/2026/41",
+   "short": "HCL Scobinți nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 41/2026 privind aprobarea actualizării indicatorilor tehnico-economici a proiectului și a cheltuielilor proiectului pentru obiectivul de investiții '' PROIECT TIP - CONSTRUIRE CREȘĂ MICĂ, SAT FETEȘTI, TARLA 42, 132, PARCELE 1CC, 2A, 3CC, COMUNA SCOBINȚI, JUDEȚUL IAȘI'",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/266450",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/266450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-43-2026",
+   "path": "local/iasi/scobinti/2026/43",
+   "short": "HCL Scobinți nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 43/2026 privind aprobarea devizului general aferent proiectului \"REABILITARE SEDIU PRIMĂRIE, COMUNA SCOBINȚI, JUDEȚUL IAȘI\" aprobat pentru finanțare prin Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/269630",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/269630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-44-2026",
+   "path": "local/iasi/scobinti/2026/44",
+   "short": "HCL Scobinți nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 44/2026 privind aprobarea activității economico-financiare pe trimestrul I al anului 2026 conform cifrelor cuprinse în raportul de venituri și cheltuieli prezentat în anexa care face parte din prezenta hotărâre",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/269631",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/269631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-45-2026",
+   "path": "local/iasi/scobinti/2026/45",
+   "short": "HCL Scobinți nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 45/2026 privind reorganizarea Comitetului Local pentru Situații de Urgență și a Centrului Operativ pentru Situații de Urgentă Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/269632",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/269632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-47-2026",
+   "path": "local/iasi/scobinti/2026/47",
+   "short": "HCL Scobinți nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 47/2026 privind aprobarea bugetului local al comunei Scobinți pentru anul 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/269634",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/269634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-48-2026",
+   "path": "local/iasi/scobinti/2026/48",
+   "short": "HCL Scobinți nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 48/2026 privind aprobarea Raportului privind rezultatele etichetării cheltuielilor bugetare detaliat pe capitole și surse de finanțare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/269635",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/269635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-49-2026",
+   "path": "local/iasi/scobinti/2026/49",
+   "short": "HCL Scobinți nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 49/2026 privind aprobarea sumei de 5000 de lei din bugetul local pentru ziua de 1 iunie 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/273344",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/273344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-50-2026",
+   "path": "local/iasi/scobinti/2026/50",
+   "short": "HCL Scobinți nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 50/2026 privind aprobarea contractării unui împrumut în valoare de 195.161 lei în conformitate cu prevederile articolului XXXI din Ordonanața de Urgență a Guvernului nr. 89/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/273345",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/273345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-51-2026",
+   "path": "local/iasi/scobinti/2026/51",
+   "short": "HCL Scobinți nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 51/2026 privind aprobarea sumelor necesare pentru transportul ansamblului „Cetinioara din Scobinți”",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/273346",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/273346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-52-2026",
+   "path": "local/iasi/scobinti/2026/52",
+   "short": "HCL Scobinți nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 52/2026 privind îndreptare eroare materială din HCL 4/14.02.2019",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/273347",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/273347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-53-2026",
+   "path": "local/iasi/scobinti/2026/53",
+   "short": "HCL Scobinți nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 53/2026 privind aprobare execuție lucrări de amenajare platformă betonată - stație de încărcare curent continuu pentru vehicule electrice",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/273348",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/273348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-54-2026",
+   "path": "local/iasi/scobinti/2026/54",
+   "short": "HCL Scobinți nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 54/2026 privind execuție lucrări de bransament - stație de încărcare curent continuu pentru vehicule eletrice",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/273349",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/273349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-55-2026",
+   "path": "local/iasi/scobinti/2026/55",
+   "short": "HCL Scobinți nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 55/2026 privind aprobarea regulamentului de funcționare și exploatare a stațiilor de reîncărcare a vehiculelor electrice și hybrid plug-in în Comuna Scobinți, Județul Iași, inclusiv a documentației în vederea delegării operării acestora pe baza unui contract de prestări servicii",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/273350",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/273350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-56-2026",
+   "path": "local/iasi/scobinti/2026/56",
+   "short": "HCL Scobinți nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 56/2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/273351",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/273351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-57-2026",
+   "path": "local/iasi/scobinti/2026/57",
+   "short": "HCL Scobinți nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 57/2026 privind alocarea sumei de 7500 de lei din bugetul local al comunei Scobinți, pentru transportul ansamblului Basaraba",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278245",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-58-2026",
+   "path": "local/iasi/scobinti/2026/58",
+   "short": "HCL Scobinți nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 58/2026 privind aprobarea trecerii unor drumuri în domeniul public al comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278246",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-59-2026",
+   "path": "local/iasi/scobinti/2026/59",
+   "short": "HCL Scobinți nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 59/2026 privind modificarea art. 2, art. 3 și art. 4 din HCL 67/24.06.2025, ce are ca obiect aprobarea înființării a Serviciului pentru gestionarea câinilor fără stăpân al Comunei Scobinți, Județul Iași, studiului de fundamentare a deciziei de delegare a Serviciului pentru gestionarea câinilor fără stăpân al Comunei Scobinți, Județul Iași, a Regulamentului de Organizare și funcționare al serviciului pentru gestionarea câinilor fără stăpân, a Caietului de Sarcini, a documentației de atribuire prin procedura simplificată",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278247",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-60-2026",
+   "path": "local/iasi/scobinti/2026/60",
+   "short": "HCL Scobinți nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 60/2026 privind aprobarea președintelui de ședință și a graficului de ședințe pe trimestrul al III-lea al anului 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278248",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-61-2026",
+   "path": "local/iasi/scobinti/2026/61",
+   "short": "HCL Scobinți nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 61/2026 privind aprobarea modificării art. 1 și 2 din HCL nr. 23/2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278255",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-62-2026",
+   "path": "local/iasi/scobinti/2026/62",
+   "short": "HCL Scobinți nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 62/2026 privind aprobarea rectificării bugetului local pentru anul 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278256",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-63-2026",
+   "path": "local/iasi/scobinti/2026/63",
+   "short": "HCL Scobinți nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 63/2026 privind aprobarea neasumării responsabilității privind organizarea și derularea procedurilor de atribuire a contractelor/accordurilor-cadru pentru achiziția produselor aferente programului pentru școli al României, pentru anul 2026-2027 și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivelul Comunei Scobinți, jud. Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278257",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-64-2026",
+   "path": "local/iasi/scobinti/2026/64",
+   "short": "HCL Scobinți nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 64/2026 privind aprobarea etichetării rectificării bugetului local al Comunei Scobinți pentru anul 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278258",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-65-2026",
+   "path": "local/iasi/scobinti/2026/65",
+   "short": "HCL Scobinți nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 65/2026 privind aprobarea procesului verbal nr. 7890/24.06.2026 privind procedura sport",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/278259",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/278259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-66-2026",
+   "path": "local/iasi/scobinti/2026/66",
+   "short": "HCL Scobinți nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 66/2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280333",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-67-2026",
+   "path": "local/iasi/scobinti/2026/67",
+   "short": "HCL Scobinți nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 67/2026 privind implementarea proiectului „Înființare parc recreere în Comuna Scobinți, Județul Iași” prin Planul Strategic PAC 2023-2027",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280334",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-68-2026",
+   "path": "local/iasi/scobinti/2026/68",
+   "short": "HCL Scobinți nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 68/2026 privind aprobarea participării Comunei Scobinți, în calitate de membru fondator al Grupării Europene de Cooperare Teritorială „EAST GATE”",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280335",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-69-2026",
+   "path": "local/iasi/scobinti/2026/69",
+   "short": "HCL Scobinți nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 69/2026 privind acceptarea dezmembrării unor imobile înscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280336",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-70-2026",
+   "path": "local/iasi/scobinti/2026/70",
+   "short": "HCL Scobinți nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 70/2026 privind aprobarea modificărilor tehnico-economice survenite în urma Dispoziției de șantier nr. 1 ca urmare a adaptării proiectului tehnic la situația din teren în cadrul „Teren de sport multifuncțional pentru Școala Gimnazială Bădeni” din cadrul proiectului „Connecting cross border communities through education”, cod proiect ROMD00552",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280337",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-71-2026",
+   "path": "local/iasi/scobinti/2026/71",
+   "short": "HCL Scobinți nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 71/2026 privind dezmembrarea unui imobil inscris cu nr. cadastral în cartea funciară a comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280338",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-72-2026",
+   "path": "local/iasi/scobinti/2026/72",
+   "short": "HCL Scobinți nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 72/2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280339",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-73-2026",
+   "path": "local/iasi/scobinti/2026/73",
+   "short": "HCL Scobinți nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 73/2026 privind acceptarea alipirii imobilului înscris în cartea funciară nr. 66830 cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280340",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-74-2026",
+   "path": "local/iasi/scobinti/2026/74",
+   "short": "HCL Scobinți nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 74/2026 privind modificarea și completarea HCL nr. 32/31.03.2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280341",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-75-2026",
+   "path": "local/iasi/scobinti/2026/75",
+   "short": "HCL Scobinți nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 75/2026 privind trecerea în domeniul privat al Comunei Scobinți a suprafeței de 631 mp - pentru atribuirea unui loc de casă",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280342",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-76-2026",
+   "path": "local/iasi/scobinti/2026/76",
+   "short": "HCL Scobinți nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 76/2026 privind aprobarea semnării contractului de credit în valoare de 1.928.431 lei cu CEC Bank, în condițiile de rambursare și garantare rezultate în urma analizei efectuate",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280343",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-77-2026",
+   "path": "local/iasi/scobinti/2026/77",
+   "short": "HCL Scobinți nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 77/2026 privind aprobarea alocării sumei de 46.185,16 lei din bugteul local al Comunei Scobinți pentru participarea Ansamblului folcloric Basaraba la Festivalul Internațional de Folclor de la Gaziosmanpașa, organizat în Istambul, Turcia, în perioada 03-07 august 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280344",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-78-2026",
+   "path": "local/iasi/scobinti/2026/78",
+   "short": "HCL Scobinți nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 78/2026 privind aprobarea documentației de atribuire pentru delegarea activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, în cadrul Sistemului de Management Integrat al Deșeurilor din Județul Iași, cu excepția municipiului Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280345",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-79-2026",
+   "path": "local/iasi/scobinti/2026/79",
+   "short": "HCL Scobinți nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 79/2026 privind aprobarea participării Comunei Scobinți, în calitate de partener, la implementarea proiectului „A Regional Governance Model for Improving Air Quality and Protecting Public Health” („Un model regional de guvernanță pentru îmbunătățirea calității aerului și protejarea sănătății publice”), acronim CLEAN-AIR, cod ROMD00884, precum și a cofinanțării acestuia, în cadrul Programului Interreg VI-A NEXT România – Republica Moldova 2021-2027",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280346",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-80-2026",
+   "path": "local/iasi/scobinti/2026/80",
+   "short": "HCL Scobinți nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 80/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general aferent proiectului „Modernizarea, extinderea și creșterea eficienței energetice a infrastructurii de iluminat public în comuna Scobinți, Județul Iași”",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/280347",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/280347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-81-2026",
+   "path": "local/iasi/scobinti/2026/81",
+   "short": "HCL Scobinți nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 81/2026 privind aprobarea execuției bugetare pe trimestrul II al anului 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/283435",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/283435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-82-2026",
+   "path": "local/iasi/scobinti/2026/82",
+   "short": "HCL Scobinți nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 82/2026 privind aprobarea rectificării bugetului local al comunei Scobinti pentru anul 2026 și a raportului privind rezultatele etichetării bugetului local rectificat pentru anul 2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/283436",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/283436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-83-2026",
+   "path": "local/iasi/scobinti/2026/83",
+   "short": "HCL Scobinți nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 83/2026 privind aprobarea dării în administrare a bunurilor imobile (clădiri și terenuri), teren de sport, echipamente către Școala Gimnazială Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286697",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-84-2026",
+   "path": "local/iasi/scobinti/2026/84",
+   "short": "HCL Scobinți nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 84/2026 privind aprobarea necesității și oportunității obiectivului de investiții - proiect „Achiziție de microbuz pentru transport școlari în comuna Scobinți, județul Iași, și a cofinanțării proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286698",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-85-2026",
+   "path": "local/iasi/scobinti/2026/85",
+   "short": "HCL Scobinți nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 85/2026 privind aprobarea necesității și oportunității obiectivului de investiții - proiect „Construire piață în Comuna Scobinți, Județul Iași, și a cofinanțării proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286699",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-86-2026",
+   "path": "local/iasi/scobinti/2026/86",
+   "short": "HCL Scobinți nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 86/2026 privind aprobarea sumelor necesare pentru transportu ansamblului ”Cetinioara din Scobinți”",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286700",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-87-2026",
+   "path": "local/iasi/scobinti/2026/87",
+   "short": "HCL Scobinți nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 87/2026 privind aprobarea indicatorilor tehnico-economici finali, precum și a devizului general actualizat pentru obictivul de investiții \"Modernizare drumuri de interes local în comuna Scobinți, județul Iași\" aprobat pentru finantare prin Programul Național de Investiții \"Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286701",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-88-2026",
+   "path": "local/iasi/scobinti/2026/88",
+   "short": "HCL Scobinți nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 88/2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286702",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-90-2026",
+   "path": "local/iasi/scobinti/2026/90",
+   "short": "HCL Scobinți nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 90/2026 privind realizarea lucrărilor de introducere în subteran/îngroparea cablurilor în zona DC 1049/1 și DC 1274 /NC 66637), în comuna Scobinți, judetul lași pe cheltuiala ACK SRL",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286704",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-91-2026",
+   "path": "local/iasi/scobinti/2026/91",
+   "short": "HCL Scobinți nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 91/2026 privind trecerea în inventarul domeniului public al comunei Scobinți a unor drumuri",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286705",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-92-2026",
+   "path": "local/iasi/scobinti/2026/92",
+   "short": "HCL Scobinți nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 92/2026 privind dezmembrarea unor imobile înscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286706",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-93-2026",
+   "path": "local/iasi/scobinti/2026/93",
+   "short": "HCL Scobinți nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 93/2026 privind aprobarea desfășurării ,,Campaniei de sterilizare a câinilor de pe raza Comunei Scobinți, judetul lași\", cu stăpân, ce aparțin rasei comune sau a metișilor acestora",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286707",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-94-2026",
+   "path": "local/iasi/scobinti/2026/94",
+   "short": "HCL Scobinți nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 94/2026 privind aprobarea Proiectului tehnic și detalii de execuție, a devizului general cât și actualizarea bugetului, aferent proiectului ,,Construire parc de joaca în comuna Scobinți, Judetul lași\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286708",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-95-2026",
+   "path": "local/iasi/scobinti/2026/95",
+   "short": "HCL Scobinți nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 95/2026 privind aprobarea caietului de sarcini în vederea atribuirii contractului de servicii de sterilizare a câinilor de pe raza comunei Scobinți, judetul Iași, cu stăpân ,ce aparțin rasei comune sau a metișilor acestora",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286709",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-96-2026",
+   "path": "local/iasi/scobinti/2026/96",
+   "short": "HCL Scobinți nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 96/2026",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286710",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-97-2026",
+   "path": "local/iasi/scobinti/2026/97",
+   "short": "HCL Scobinți nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 97/2026 privind aprobarea valorii finale a investiției \"REABILITARE SEDIU PRIMĂRIE COMUNA SCOBINȚI, COMUNA SCOBINȚI, JUDEȚUL IAȘI\" aprobat pentru finanțare prin Planul Național Redresare și Reziliență - Titlu apel : PNRR - C10-13- 2566",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286711",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-98-2026",
+   "path": "local/iasi/scobinti/2026/98",
+   "short": "HCL Scobinți nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 98/2026 privind aprobarea valorii finale a investiției \"REABILITARE MODERATĂ ȘCOALA GIMNAZIALĂ BĂDENI - CORP C1, COMUNA SCOBINȚI, JUDEȚUL IAȘI\" aprobat pentru finanțare prin Planul Național de Redresare și Reziliență - Titlu apel : PNRR/C10/13/2436",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286712",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-99-2026",
+   "path": "local/iasi/scobinti/2026/99",
+   "short": "HCL Scobinți nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 99/2026 privind aprobarea valorii finale a investiției \"REABILITARE ȘCOALA GENERALĂ STICLĂRIA - CORP C1, COMUNA SCOBINȚI, JUDEȚUL IAȘI\" aprobat pentru finanțarea prin Planul Național de Redresare și Reziliență - Titlu apel: PNRR/2022/C10/13, Runda 2",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/286713",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/286713",
      "sha256": null
     }
    ]

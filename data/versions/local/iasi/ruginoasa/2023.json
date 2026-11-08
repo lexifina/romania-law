@@ -3,6 +3,36 @@
  "shard": "local/iasi/ruginoasa/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--ruginoasa-20-2023",
+   "path": "local/iasi/ruginoasa/2023/20",
+   "short": "HCL Ruginoasa nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 20/2023 privind acordarea mandatului special reprezentantului UAT Ruginoasa în AGA ADIS Iași în vederea aprobării modificării tarifelor de sortare, compostare, transfer și tratare mecano-biologică a deșeurilor aferente activităților de salubrizare din Contractul de delegere prin concesiune a operării stațiilor de transfer și a instalațiilor de tratare a deșeurilor municipale în județul Iași",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/104745",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/104745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-25-2023",
+   "path": "local/iasi/ruginoasa/2023/25",
+   "short": "HCL Ruginoasa nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 25/2023 privind aprobarea realizării Registrului local al spațiilor verzi din intravilanul comunei Ruginoasa, judeţul Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/104809",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/104809",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ruginoasa-62-2023",
    "path": "local/iasi/ruginoasa/2023/62",
    "short": "HCL Ruginoasa nr. 62/2023",

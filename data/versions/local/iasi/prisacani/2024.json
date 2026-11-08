@@ -3,6 +3,36 @@
  "shard": "local/iasi/prisacani/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--prisacani-1-2024",
+   "path": "local/iasi/prisacani/2024/1",
+   "short": "HCL Prisăcani nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 1/2024 privind aprobarea raportului și însusțirea cheltuieliilor efectuate cu achizițiile directe aprobate de Consiliul Local Prisăcani pentru anul 2023",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151200",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-10-2024",
+   "path": "local/iasi/prisacani/2024/10",
+   "short": "HCL Prisăcani nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 10/2024 privind actualizarea Anexei Programului Anual al Achiziiților Publice-Achiziții directe pentru anul 2024, al comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151308",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151308",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--prisacani-100-2024",
    "path": "local/iasi/prisacani/2024/100",
    "short": "HCL Prisăcani nr. 100/2024",
@@ -148,6 +178,1146 @@
      "from": "2025-01-20",
      "units": 1,
      "source_url": "https://emol.ro/prisacani-is/registru-hcl/186487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-12-2024",
+   "path": "local/iasi/prisacani/2024/12",
+   "short": "HCL Prisăcani nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 12/2024 privind amplasarea unui sistem de supraveghere video pe malul drept al Răului Jijia, vizavi de containerul-pește, coordonate GPS aproximative 47'0658.7''N 27'49'39.5''E",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151310",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-13-2024",
+   "path": "local/iasi/prisacani/2024/13",
+   "short": "HCL Prisăcani nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 13/2024 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2024, a listei cuprinzând beneficiarii de ajutor social precum și persoanele care urmează să efectueze acțiuni și lucrări de interes local conform legii 416/2001",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151311",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-14-2024",
+   "path": "local/iasi/prisacani/2024/14",
+   "short": "HCL Prisăcani nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 14/2024 privind reutilizarea materialelor rezultate din urma demontării gradului de al Baza Sportivă pentru repararea stațiilor de autobuz și construirea spațiului pentru depozitarea lemnului de foc la Primaria Comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151312",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-15-2024",
+   "path": "local/iasi/prisacani/2024/15",
+   "short": "HCL Prisăcani nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 15/2024 privind rectificarea bugetului local de venituri și cheltuieli la nivelul trimestrului I anul 2024, sursa 2A ( buget local) și actualizarea listei de investiții a Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156019",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-16-2024",
+   "path": "local/iasi/prisacani/2024/16",
+   "short": "HCL Prisăcani nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 16/2024 privind aprobarea Programului Anual al Achizițiilor Publice proiecte finanțate din fonduri nerambursabile și actualizarea Anexei Programului Anual al Achizițiilor Publice-Achiziții directe pentru anul 2204, al Comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156020",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-17-2024",
+   "path": "local/iasi/prisacani/2024/17",
+   "short": "HCL Prisăcani nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 17/2024 privind aprobarea actelor adiționale nr. 1044/06.02.2024 la contractul de lucrări multiannual \" Compartimentare pod Anexă Gospodărească și garaș pentru mașini pompieri \" nr.8157 din 10.101.2023 și 1145/09.02.2024 la contractul de servicii multianual \" Servicii de mentenanță și întreținere a iluminatului public în comuna Prisăcani nr. 5547/ 18.07.2023",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156021",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-18-2024",
+   "path": "local/iasi/prisacani/2024/18",
+   "short": "HCL Prisăcani nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 18/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție \" Lucrări de reparații trotuare din sat Prisăcani \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156022",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-19-2024",
+   "path": "local/iasi/prisacani/2024/19",
+   "short": "HCL Prisăcani nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 19/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție finanțat prin PNRR- \" Dezvoltarea sistemelor de monitorizare și creșterea siguranței în spațiile publice din comuna Prisăcani \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156023",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-2-2024",
+   "path": "local/iasi/prisacani/2024/2",
+   "short": "HCL Prisăcani nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 2/2024 privind actualizarea Anexei Programului Anual al Achizițiilor Publice- Achiziții directe pentru naul 2024, al comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151201",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-20-2024",
+   "path": "local/iasi/prisacani/2024/20",
+   "short": "HCL Prisăcani nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 20/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție \" Construire teren sintetic de fotbal în sat Macarești, Comuna Prisăcani \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156024",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-21-2024",
+   "path": "local/iasi/prisacani/2024/21",
+   "short": "HCL Prisăcani nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 21/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție \" Construire teren sintetic de fotbal în sat Moreni, Comuna Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156025",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-22-2024",
+   "path": "local/iasi/prisacani/2024/22",
+   "short": "HCL Prisăcani nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 22/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție \" Creșterea eficienței energetice a clădirii primăriei Prisăcani din Comuna Prisăcani \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156026",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-23-2024",
+   "path": "local/iasi/prisacani/2024/23",
+   "short": "HCL Prisăcani nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 23/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție \" Creșterea eficienței energetice a Școlii Primăriei din satul Moreni din comuna Prisăcani \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156027",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-24-2024",
+   "path": "local/iasi/prisacani/2024/24",
+   "short": "HCL Prisăcani nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 24/2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156028",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-26-2024",
+   "path": "local/iasi/prisacani/2024/26",
+   "short": "HCL Prisăcani nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 26/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă Canal Iași-ARSACIS",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156030",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-31-2024",
+   "path": "local/iasi/prisacani/2024/31",
+   "short": "HCL Prisăcani nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 31/2024 privind aprobarea tipului de suport alimentar zilnic, constând într-o masă caldă, în regim de catering, pentru preșcolarii și elevii Școlii Gimnaziale Prisăcani, inclusiv structurile arondate, în cadrul Proiectului Național \" Masă Sănătoasă \" începând cu naul școlar 2023-2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156035",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-32-2024",
+   "path": "local/iasi/prisacani/2024/32",
+   "short": "HCL Prisăcani nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 32/2024 privind modificarea Anexei nr.1 la Hotărîrea nr. 106 din data de 21.12.2203 privind modificarea Hotărârii nr.77 din data de 5.10.2023 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a Devizului general actualizat pentru obiectivul de investiții \" Extindere rețea de canalizare în Comuna Prisăcani \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/156036",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/156036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-33-2024",
+   "path": "local/iasi/prisacani/2024/33",
+   "short": "HCL Prisăcani nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 33/2024 privind rectificarea bugetului local de venituri și cheltuieli la nivelul trimestrului II 2024 și actualizarea listei de investiții ( buget local) pe trimestrul II 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170011",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-34-2024",
+   "path": "local/iasi/prisacani/2024/34",
+   "short": "HCL Prisăcani nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 34/2024 privind actualizarea Anexei Programului Anual al Achizițiilor Publice-Achiziții directe pentru anul 2024, al comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170012",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-35-2024",
+   "path": "local/iasi/prisacani/2024/35",
+   "short": "HCL Prisăcani nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 35/2024 privind alocarea unei finanțări din B.C.V Prisăcani pentru Asociația Sportivă \" PRUTUL Prisăcani\" la vederea susținerii activităților sportive la anul 2024, pentru echipele de fotbal din comuna Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170013",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-36-2024",
+   "path": "local/iasi/prisacani/2024/36",
+   "short": "HCL Prisăcani nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 36/2024 privind atribuirea unui număr de 16 loturi de teren intravilan sat Prisăcani aparținând domeniului privat al Comunei Prisăcani, unor tineri, pentru construirea de locuințe proprietate personală, în condițiile Legii nr. 15 din 2003",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170014",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-37-2024",
+   "path": "local/iasi/prisacani/2024/37",
+   "short": "HCL Prisăcani nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 37/2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170015",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-38-2024",
+   "path": "local/iasi/prisacani/2024/38",
+   "short": "HCL Prisăcani nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 38/2024 privind alegerea președintelui de ședință al Consiliului Local-Prisăcani pentru perioada mai 2024-iulie 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170016",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-39-2024",
+   "path": "local/iasi/prisacani/2024/39",
+   "short": "HCL Prisăcani nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 39/2024 privind actualizarea comisiei de avizare a cererilor de organizare a adunărilor publice la nivelul UAT Comuna Prisăcani, județul Iasi",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170017",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-4-2024",
+   "path": "local/iasi/prisacani/2024/4",
+   "short": "HCL Prisăcani nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 4/2024 privind aprobarea infințării și delegării prin concesiune a Serviciului de iluminat public al Comunei Prisăcani, a studiului de fundamentare a deciziei de delegarea a Serviciului Public de Iluminat al Comunei Prisăcani, a Regulamentului de Organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentației de atribuire prin procedură simplificată",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151203",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-40-2024",
+   "path": "local/iasi/prisacani/2024/40",
+   "short": "HCL Prisăcani nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 40/2024 privind aprobarea Programului Anual al Achiziților Publice pentru obiectivul de investiție Extindere rețea de canalizare în comuna Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170018",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-41-2024",
+   "path": "local/iasi/prisacani/2024/41",
+   "short": "HCL Prisăcani nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 41/2024 privind aprobarea sumei de 10.000 lei cu TVA privind organizarea și desfășurarea de activități culturale și sportive cu prilejul Zilei Internaționale a Copilului 1 iunie",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170019",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-42-2024",
+   "path": "local/iasi/prisacani/2024/42",
+   "short": "HCL Prisăcani nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 42/2024 privind aprobarea delimitării spațiului recreativ de la Baza Sportivă prin construirea unui grad, cu o valoare estimată de 5.120 lei fără tva",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170020",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-43-2024",
+   "path": "local/iasi/prisacani/2024/43",
+   "short": "HCL Prisăcani nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 43/2024 privind modificarea HCL Prisăcani nr.26 din 30.04.2024 privind atribuirea unui număr de 16 loturi de teren intravilan sat Prisăcani aparținând domeniului privat al Comunei Prisăcani unor tineri, pentru construirea de locuințe proprietate personală în condițiile Legii nr.15 din 2003",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170021",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-44-2024",
+   "path": "local/iasi/prisacani/2024/44",
+   "short": "HCL Prisăcani nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 44/2024 privind rectificarea Bugetului local de venituri și cheltuieli la nivelul Trimestrului II și III 2024 și actualizarea listei de investiții ( buget local) a comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170026",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-45-2024",
+   "path": "local/iasi/prisacani/2024/45",
+   "short": "HCL Prisăcani nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 45/2024 privind aprobarea Programului Anual al Achizițiilor Publice pentru obiectivul \" Echipare utilitară pentru comuna Prisăcani, județul Iași \" și aprobarea actualizării Anexei cu achizițiile directe pentru anul 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170027",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-46-2024",
+   "path": "local/iasi/prisacani/2024/46",
+   "short": "HCL Prisăcani nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 46/2024 privind aprobarea indicatorilor tehnico economici pentru obiectivul de investiție \" Echipare Utilitară pentru Comuna Prisăcani, județul Iași \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170028",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-47-2024",
+   "path": "local/iasi/prisacani/2024/47",
+   "short": "HCL Prisăcani nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 47/2024 privind aprobarea Protocolului de colaborare în vederea realizării în comuna a unor activități privind dezvoltarea asistenței medicale comunitare și astfel de a crește accesul membrilor comunităților locale de pe raza Comunei Costuleni și Comunei Prisăcani la servicii medico-sociale de calitate prin promovarea serviciilor medico-sociale oferite de către Centrul Comunitar Integrat Costuleni și integrarea la nivelul comunitar a serviciilor de sănătate, sociale și educaționale, responsabilizarea în implementarea strategiilor locale, județene și naționale în domeniu",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170029",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-48-2024",
+   "path": "local/iasi/prisacani/2024/48",
+   "short": "HCL Prisăcani nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 48/2024 privind aprobarea contribuției UAT Comuna Prisăcani cu suma de 3200 lei anual din B.V.C la A.D.I Moldova făcând parte din sistemul de cooperare pentru asigurarea funcției administrative, pentru acordarea de vouchere de vacanță cu valoare nominală de 1600 lei/vouchere",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170030",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-49-2024",
+   "path": "local/iasi/prisacani/2024/49",
+   "short": "HCL Prisăcani nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 49/2024 privind aprobarea documentației de atribuire pentru delegarea gestiunii activității de eliminare prin depozitare a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a reziduurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate provenite din activități de reamenajare și reabilitare interioară si/sau exterioară a locuințelor la Depozitul de deșeuri nepericuloase Țuțora",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170031",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-5-2024",
+   "path": "local/iasi/prisacani/2024/5",
+   "short": "HCL Prisăcani nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 5/2024 privind modificarea organigramei, statelor de funcții și de Personal la Primaria comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151204",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-50-2024",
+   "path": "local/iasi/prisacani/2024/50",
+   "short": "HCL Prisăcani nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 50/2024 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2024-2025, la nivelul comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170032",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-51-2024",
+   "path": "local/iasi/prisacani/2024/51",
+   "short": "HCL Prisăcani nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 51/2024 privind rectificarea bugetului local de venituri și cheltuieli la nivelul Trim. III și IV 2024 și actualizarea listei de investiții ( buget local) a comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170033",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-52-2024",
+   "path": "local/iasi/prisacani/2024/52",
+   "short": "HCL Prisăcani nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 52/2024 privind actualizarea Anexei Programului Anual al Achizițiilor Publice-Achizițiile directe pentru anul 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170034",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-53-2024",
+   "path": "local/iasi/prisacani/2024/53",
+   "short": "HCL Prisăcani nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 53/2024 privind organizarea și finanțarea evenimentului \"Roadele din Prisăcani\" Ediția 2024 cu suma de 99757,04 lei cu TVA din B.V.C 2024 Comuna Prisăcani, județul Iai, desfășurat în zilele de 27-28 iulie 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170035",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-54-2024",
+   "path": "local/iasi/prisacani/2024/54",
+   "short": "HCL Prisăcani nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 54/2024 privind aprobarea aderării Comunei Prisăcani, județul Iași la sistemul de cooperare pentru asigurarea funcției de urbanism și amenajarea teritoriului, prin semnarea Acordului de cooperare în cadrul căruia Asociația de Dezvoltare Intercomunitară Moldova are rol de entitate organizatoare",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170036",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-55-2024",
+   "path": "local/iasi/prisacani/2024/55",
+   "short": "HCL Prisăcani nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 55/2024 privind rectificarea bugetului local de venituri și cheltuieli la nivelul trim.III 2024 și actualizarea listei de investiții ( buget local) a comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170082",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-56-2024",
+   "path": "local/iasi/prisacani/2024/56",
+   "short": "HCL Prisăcani nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 56/2024 privind actualizarea Anexei Programului Anula al Achiziților Publice-Achiziții directe pentru anul 2024 a Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170083",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-57-2024",
+   "path": "local/iasi/prisacani/2024/57",
+   "short": "HCL Prisăcani nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 57/2024 privind modificarea organigramei, statelor de funcții si de personal la Primaria comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170084",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-58-2024",
+   "path": "local/iasi/prisacani/2024/58",
+   "short": "HCL Prisăcani nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 58/2024 privind încheierea Acordului de Parteneriat între UAT Comuna Prisăcani și Asociația Sportivă Prutul Prisăcani 2024 din comuna Prisăcani și alocarea unei finanțări de BVC Comuna Prisăcani în vederea susținerii activităților sportive prevazute în Contractul de Societatate al asociaților",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/170085",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/170085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-6-2024",
+   "path": "local/iasi/prisacani/2024/6",
+   "short": "HCL Prisăcani nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 6/2024 privind stabilirea rețelei școlare pentru anul școlar 2024-2025 pe raza comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151205",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-61-2024",
+   "path": "local/iasi/prisacani/2024/61",
+   "short": "HCL Prisăcani nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 61/2024 privind alegerea președintelui de ședință al Consiliului Local Prisăcani pentru perioada august 2024-septembrie 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/174364",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/174364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-62-2024",
+   "path": "local/iasi/prisacani/2024/62",
+   "short": "HCL Prisăcani nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 62/2024 privind rectificarea bugetului local de venituri și cheltuieli la nivelul TRIM III 2024 sursa 2 A ( buget local ) al comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/174365",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/174365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-63-2024",
+   "path": "local/iasi/prisacani/2024/63",
+   "short": "HCL Prisăcani nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 63/2024 privind actualizarea Anexei Programului Anual al Achizițiilor Publice-Achiziții directe pentru anul 2024 a Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/174366",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/174366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-64-2024",
+   "path": "local/iasi/prisacani/2024/64",
+   "short": "HCL Prisăcani nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 64/2024 privind aprobarea menținerii nivelurilor impozite și taxe locale, precum și amenzile aplicabile aferente anului fiscal 2025 la nivelul aplicat anului fiscal 2024 în Comuna Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/174367",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/174367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-65-2024",
+   "path": "local/iasi/prisacani/2024/65",
+   "short": "HCL Prisăcani nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 65/2024 privind anularea creanțelor fiscale restante aflate în sold de 31 decembrie a anului, mai mici de 40 de lei, Comuna Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/174368",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/174368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-66-2024",
+   "path": "local/iasi/prisacani/2024/66",
+   "short": "HCL Prisăcani nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 66/2024 privind reorganizarea planului de școlarizare pentru anul 2024-2025 la învățământ preșcolar, prin transformarea a două grupe cu program normal în două grupe cu program normal prelungit la grădinițele din comuna Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/174369",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/174369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-67-2024",
+   "path": "local/iasi/prisacani/2024/67",
+   "short": "HCL Prisăcani nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 67/2024 privind revocarea HCL Prisăcani nr.35 din 30.04.2024, privind alocarea unei finanțări din B.V.C Prisăcani pentru Asociația Sportivă \" Prutul Prisăcani' în vederea susținerii activităților sportive in anul 2024, pentru echipele de fotbal din comuna Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/174370",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/174370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-68-2024",
+   "path": "local/iasi/prisacani/2024/68",
+   "short": "HCL Prisăcani nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 68/2024 privind rectificarea bugetului local de venituri și cheltuieli la nivelul TRIM III 2024 și actualizarea listei de investiții ( buget local) a comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/175662",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/175662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-69-2024",
+   "path": "local/iasi/prisacani/2024/69",
+   "short": "HCL Prisăcani nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 69/2024 privind actualizarea Anexei Programului Anual al Achizițiilo Publice-Achizițiile directe pentru anul școlar 2024 a Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/175663",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/175663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-7-2024",
+   "path": "local/iasi/prisacani/2024/7",
+   "short": "HCL Prisăcani nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 7/2024 privind alegerea președintelui de ședință al Consiliului Local Prisăcani pentru perioada februarie 2024-aprilie 2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151206",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-70-2024",
+   "path": "local/iasi/prisacani/2024/70",
+   "short": "HCL Prisăcani nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 70/2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/175664",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/175664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-71-2024",
+   "path": "local/iasi/prisacani/2024/71",
+   "short": "HCL Prisăcani nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 71/2024 privind darea în folosință gratuită a suprafeței de 20000 mp-C.F 62152 teren aparținând domeniului public al UAT Comuna Prisăcani, către TEHNIMARJET SRL pentru loc de depozitare pentru pământul ce rezultă din execuția lucrărilor de săpătură și groapă de imprumut, pe durata realizării obiectivului de investiții \" Extindere rețea de canalizare în comuna Prisacani \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/175665",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/175665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-72-2024",
+   "path": "local/iasi/prisacani/2024/72",
+   "short": "HCL Prisăcani nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 72/2024 privind înfințarea SC ECO TRANS PRIETENIA SRL societate comercială cu raspundere limitată în subordinea Consiliului Local al UAT comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/175666",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/175666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-73-2024",
+   "path": "local/iasi/prisacani/2024/73",
+   "short": "HCL Prisăcani nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 73/2024 privind alegerea președintelui de ședință al Consiliului Local Prisăcani pentru data de 25.10.2024",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185684",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-74-2024",
+   "path": "local/iasi/prisacani/2024/74",
+   "short": "HCL Prisăcani nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 74/2024 privind rectificarea Bugetului local de venituri și cheltuieli la nivelul TRIM.IV 2024 sursa 2A ( buget local) și actualizarea listei de investiții a comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185685",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-75-2024",
+   "path": "local/iasi/prisacani/2024/75",
+   "short": "HCL Prisăcani nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 75/2024 privind înfințarea sursei de finanțare 2E \" Activități finanțate integral din venituri proprii, în BVC Comuna Prisăcani, județul Iași \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185686",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-76-2024",
+   "path": "local/iasi/prisacani/2024/76",
+   "short": "HCL Prisăcani nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 76/2024 privind actualizarea Anexei Programului Anual al Achizițiilor Publice-Achizițiile directe pentru anul 2024 a Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185687",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-77-2024",
+   "path": "local/iasi/prisacani/2024/77",
+   "short": "HCL Prisăcani nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 77/2024 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție Dezvoltarea sistemelor de monitorizare și creștere a siguranței la spațiile publice din comuna Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185688",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-78-2024",
+   "path": "local/iasi/prisacani/2024/78",
+   "short": "HCL Prisăcani nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 78/2024 privind actualizarea indicatorilor tehnico-economici, pentru obiectivul de investiție \" Extindere rețea de canalizare în Comuna Prisăcani, județul Iași \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185689",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-79-2024",
+   "path": "local/iasi/prisacani/2024/79",
+   "short": "HCL Prisăcani nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 79/2024 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție \" Creșterea eficienței energetice a clădirii primăriei Prisăcani din comuna Prisăcani, județul Iași \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185690",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-8-2024",
+   "path": "local/iasi/prisacani/2024/8",
+   "short": "HCL Prisăcani nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 8/2024 privind aprobarea propunerilor orientative pentru Bugetul de venituri și cheltuieli și a Listei obiectivelor de investiții pentru anul 2024, sursa 2A ( buget local ) al Comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151267",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-80-2024",
+   "path": "local/iasi/prisacani/2024/80",
+   "short": "HCL Prisăcani nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 80/2024 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție \" Creșterea eficienței energetice a clădirii Școlii Primare din satul Moreni, comuna Prisăcani, județul Iași \"",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185691",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-82-2024",
+   "path": "local/iasi/prisacani/2024/82",
+   "short": "HCL Prisăcani nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 82/2024 privind alocarea sumei de 15.000 lei cu TVA din BVC Prisăcani pentru Sărbătorile de iarnă 2024, din Comuna Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185693",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-83-2024",
+   "path": "local/iasi/prisacani/2024/83",
+   "short": "HCL Prisăcani nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 83/2024 privind instituirea facilităților fiscale și aprobarea procedurii ( Anexa1) de anulare a accesoriilor aferente obligatorii bugetare principale restante la data de 31.08.2024 inclusiv la instituirea facilităților fiscale de anulare a obligațiilor bugetare principale restante la data de 31 august 2024 inclusiv, în cuantum mai mare de 5000 lei inclusiv, dotarea bugetului local de către contribuabili de pe raza administrativ teritorială a Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185694",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-84-2024",
+   "path": "local/iasi/prisacani/2024/84",
+   "short": "HCL Prisăcani nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 84/2024 privind dezmembrarea imobilului cu nr. cadastral 6259=21810 mp reprezentând teren în sat Prisăcani, aparținând domeniului public al Comunei Prisăcani, județul Iași, la imobil cu nr. cadastral 62647=21610 mp imobil cu nr. cadastral 62648=200 mp",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185695",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-86-2024",
+   "path": "local/iasi/prisacani/2024/86",
+   "short": "HCL Prisăcani nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 86/2024 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale Consiliului Local al Comunei Prisăcani, județul Iași",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185697",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-87-2024",
+   "path": "local/iasi/prisacani/2024/87",
+   "short": "HCL Prisăcani nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 87/2024 privind aprobarea Planului de gospodărire al localități din comuna Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185698",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-88-2024",
+   "path": "local/iasi/prisacani/2024/88",
+   "short": "HCL Prisăcani nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 88/2024 privind alegerea președintelui de ședință a Consiliului Local Prisăcani pentru perioada noiembrie 2024-ianuarie 2025",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185755",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-89-2024",
+   "path": "local/iasi/prisacani/2024/89",
+   "short": "HCL Prisăcani nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 89/2024 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/185756",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/185756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--prisacani-9-2024",
+   "path": "local/iasi/prisacani/2024/9",
+   "short": "HCL Prisăcani nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 9/2024 privind actualizarea Anexei Achiziții directe la Programul Anual al Achiziților Publice pentru anul 2024, al Comunei Prisăcani",
+   "url": "https://emol.ro/prisacani-is/registru-hcl/151268",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/prisacani-is/registru-hcl/151268",
      "sha256": null
     }
    ]

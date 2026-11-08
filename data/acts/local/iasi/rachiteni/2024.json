@@ -3,6 +3,28 @@
 "shard": "local/iasi/rachiteni/2024",
 "acts": [
 {
+"slug": "hcl-iasi--rachiteni-18-2024",
+"path": "local/iasi/rachiteni/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Răchiteni nr. 18/2024 privind aprobarea documentației de atribuire pentru delegarea gestiunii activității de eliminare prin depozitare a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pămâmt și pietre provenite de pe căile publice, a rezidurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate provenite din activități de reamenajare și reabilitare interioară și/sau exterioară a locuințelor la Depozitul de deșeuri nepericuloase Țuțora",
+"short": "HCL Răchiteni nr. 18/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://emol.ro/rachiteni-is/registru-hcl/166432",
+"council": "iasi/rachiteni",
+"council_name": "Consiliul Local al Comunei Răchiteni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--rachiteni-20-2024",
 "path": "local/iasi/rachiteni/2024/20",
 "kind": "local",

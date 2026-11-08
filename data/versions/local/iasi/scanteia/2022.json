@@ -3,6 +3,66 @@
  "shard": "local/iasi/scanteia/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--scanteia-1-2022",
+   "path": "local/iasi/scanteia/2022/1",
+   "short": "HCL Scânteia nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 1/2022 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat din raza teritorială a comunei Scânteia, județul Iași pentru anul școlar 2022-2023, în baza avizului prealabil, conform al Inspectoratului Școlar Județean Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/48455",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/48455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-13-2022",
+   "path": "local/iasi/scanteia/2022/13",
+   "short": "HCL Scânteia nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 13/2022 privind modificarea Regulamentului de organizare și funcționare a Consiliului local al comunei Scânteia, judeţul Iaşi",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/55826",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/55826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-2-2022",
+   "path": "local/iasi/scanteia/2022/2",
+   "short": "HCL Scânteia nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 2/2022 privind aprobarea Planului de Ordine şi Siguranţă Publică al Poliției locale Scânteia, judeţul Iaşi, pentru anul 2022",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/48456",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/48456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-47-2022",
+   "path": "local/iasi/scanteia/2022/47",
+   "short": "HCL Scânteia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 47/2022 privind aprobarea Regulamentului de desfășurare a activității de depunere a cererilor pentru acte de identitate și vize de reședință pe bază de programare on-line la Serviciul Public Comunitar Local de Evidență a Persoanelor al comunei Scânteia, județul Iași, precum și organizarea activității de transcriere a certificatelor/extraselor de stare civilă/extraselor multilingve ale actelor de stare civilă ale cetățenilor români",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/73579",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/73579",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scanteia-56-2022",
    "path": "local/iasi/scanteia/2022/56",
    "short": "HCL Scânteia nr. 56/2022",

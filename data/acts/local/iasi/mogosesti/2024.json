@@ -3,6 +3,28 @@
 "shard": "local/iasi/mogosesti/2024",
 "acts": [
 {
+"slug": "hcl-iasi--mogosesti-1-2024",
+"path": "local/iasi/mogosesti/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mogoșești nr. 1/2024 privind aprobarea Programului activităților de interes local, ce vor fi desfășurate de către beneficiarii de ajutor social în anul 2024",
+"short": "HCL Mogoșești nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://mogosesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/23221#65484",
+"council": "iasi/mogosesti",
+"council_name": "Consiliul Local al Comunei Mogoșești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--mogosesti-2-2024",
 "path": "local/iasi/mogosesti/2024/2",
 "kind": "local",

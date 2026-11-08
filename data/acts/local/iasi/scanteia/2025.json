@@ -3,6 +3,28 @@
 "shard": "local/iasi/scanteia/2025",
 "acts": [
 {
+"slug": "hcl-iasi--scanteia-29-2025",
+"path": "local/iasi/scanteia/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 29/2025 privind stabilirea impozitelor şi taxelor locale şi altor taxe asimilate acestora care se fac venit al bugetului local al comunei Scânteia, județul Iași, pentru anul fiscal 2026, indexate cu rata inflației de 5,6%",
+"short": "HCL Scânteia nr. 29/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-06",
+"latest": "2025-05-06",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/204349",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--scanteia-70-2025",
 "path": "local/iasi/scanteia/2025/70",
 "kind": "local",

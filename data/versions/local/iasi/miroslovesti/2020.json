@@ -3,6 +3,36 @@
  "shard": "local/iasi/miroslovesti/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--miroslovesti-1-2020",
+   "path": "local/iasi/miroslovesti/2020/1",
+   "short": "HCL Miroslovești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 1/2020 privind aprobarea strategiei anuale de achiziții publice a comunei Miroslovești, pentru anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28616",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-10-2020",
+   "path": "local/iasi/miroslovesti/2020/10",
+   "short": "HCL Miroslovești nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 10/2020 privind aprobarea Planului de acțiuni și lucrări de interes local, ce urmează a fi realizat de către beneficiarii Legii nr. 416/2001, privind venitul minim garantat",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28625",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28625",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-100-2020",
    "path": "local/iasi/miroslovesti/2020/100",
    "short": "HCL Miroslovești nr. 100/2020",
@@ -78,6 +108,726 @@
    ]
   },
   {
+   "slug": "hcl-iasi--miroslovesti-12-2020",
+   "path": "local/iasi/miroslovesti/2020/12",
+   "short": "HCL Miroslovești nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 12/2020 privind adoptarea bugetului de venituri și cheltuieli al comunei Miroslovești, județul Iași, pe anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28627",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-13-2020",
+   "path": "local/iasi/miroslovesti/2020/13",
+   "short": "HCL Miroslovești nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 13/2020 privind aprobarea indicatorilor tehnico-economici pentru extindere rețele de gaze naturale Etapa IV - 1.545 ml în localitatea soci - Comuna Miroslovești, județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28628",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-14-2020",
+   "path": "local/iasi/miroslovesti/2020/14",
+   "short": "HCL Miroslovești nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 14/2020 privind aprobarea Planului de Analiză și Acoperire a Riscurilor, pe teritoriul comunei Miroslovești, județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28629",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-15-2020",
+   "path": "local/iasi/miroslovesti/2020/15",
+   "short": "HCL Miroslovești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 15/2020 privind aprobarea Programului de Inspecție Fiscală pentru anul 2020 pentru contribuabili - perdoane fizice și juridice din comuna Miroslovești, județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28630",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-18-2020",
+   "path": "local/iasi/miroslovesti/2020/18",
+   "short": "HCL Miroslovești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 18/2020 privind aprobarea modificării și completării Inventarului bunurilor care aparțin Domeniului Public și privat al comunei Miroslovești, județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28633",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-2-2020",
+   "path": "local/iasi/miroslovesti/2020/2",
+   "short": "HCL Miroslovești nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 2/2020 privind aprobarea programului anual de achiziții publice pentru anul bugetar 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28617",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-22-2020",
+   "path": "local/iasi/miroslovesti/2020/22",
+   "short": "HCL Miroslovești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 22/2020 privind aprobarea repartizării pentru familiile cu o situație materială precară, a materialelor provenite din demolarea imobilelor",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28637",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-26-2020",
+   "path": "local/iasi/miroslovesti/2020/26",
+   "short": "HCL Miroslovești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 26/2020 privind rectificarea Bugetului de Venituri și Cheltuieli al comunei Miroslovești, județul Iași, pentru anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28641",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-30-2020",
+   "path": "local/iasi/miroslovesti/2020/30",
+   "short": "HCL Miroslovești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 30/2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28645",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-31-2020",
+   "path": "local/iasi/miroslovesti/2020/31",
+   "short": "HCL Miroslovești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 31/2020 privind Revocarea Hotărârii nr. 108/30.12.2019 prin care s-a aprobat modificarea și completarea Inventarului bunurilor care aparțin Domeniului Public și Privat al Comunei Miroslovești, Județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28646",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-32-2020",
+   "path": "local/iasi/miroslovesti/2020/32",
+   "short": "HCL Miroslovești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 32/2020 privind Revocarea Hotărârii nr. 18/20.02.2020 prin care s-a aprobat modificarea și completarea Inventarului bunurilor care aparțin Domeniului Public și Privat al Comunei Miroslovești, Județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28647",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-38-2020",
+   "path": "local/iasi/miroslovesti/2020/38",
+   "short": "HCL Miroslovești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 38/2020 privind aprobarea achiziționării și distribuirii de măști și mănuși tuturor cetățenilor din Comuna Miroslovești în vederea conștientizării populației cu privire la importanța respectării acțiunilor preventive și a măsurilor de sănătate publică dispuse în gestionarea riscului manifestat de virusul SARS - CoV2",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28880",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-40-2020",
+   "path": "local/iasi/miroslovesti/2020/40",
+   "short": "HCL Miroslovești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 40/2020 privind Rectificarea Bugetului de Venituri și Cheltuieli al Comunei Miroslovești, județul Iași, pe anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28882",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-42-2020",
+   "path": "local/iasi/miroslovesti/2020/42",
+   "short": "HCL Miroslovești nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 42/2020 privind aprobarea achiziționării de echipamente informatice (laptop-uri, tablete, telefoane SMART) tuturor elevilor din medii dezavantajate, pentru a asigura șanse egale la educație, pentru toți elevii (accesul la activități de învățare - prin participarea la activitățile online, organizate de unitățile de învățământ) în funcție de sumele alocate în acest sens de instituțiile abilitate",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28884",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-43-2020",
+   "path": "local/iasi/miroslovesti/2020/43",
+   "short": "HCL Miroslovești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 43/2020 privind aprobarea asigurării unei zone de siguranță a drumurilor publice, în afara părții carosabile (asfalt+rigolă) de minim 0,20 m - zonă ce poate fi folosită pentru amenajarea de trotuare, pentru asigurarea condițiilor de deplasare a pietonilor, din Com. Miroslovești, jud. Iași (drumuri ce se vor moderniza atât prin Programul Național de Dezvoltare Rurală PNDR, AFIR, MDRAP)",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28885",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-48-2020",
+   "path": "local/iasi/miroslovesti/2020/48",
+   "short": "HCL Miroslovești nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 48/2020 privind alegerea președintelui de ședință al Consiliului Local Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28890",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-5-2020",
+   "path": "local/iasi/miroslovesti/2020/5",
+   "short": "HCL Miroslovești nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 5/2020 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Voluntar pentru Situații de Urgență al comunei Miroslovești, județul Iași - pentru anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28620",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-50-2020",
+   "path": "local/iasi/miroslovesti/2020/50",
+   "short": "HCL Miroslovești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 50/2020 privind aprobarea oportunității și necesității efectuării unor modificări față de proiectul tehnic inițial, întocmit pentru realizarea obiectivului ,,Modernizare Drum Comunal - DC 107 - Miroslovești - Mitești (5,980 km) modificări dispuse prin Dispoziția de Șantier Nr. 1/28.06.2017 ce vor asigura rezistența ți stabilitatea investiție cerințe esențiale pe care trebuie să le îndeplinească obiectivul de investiție conform Legii nr. 10/1995",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28892",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-52-2020",
+   "path": "local/iasi/miroslovesti/2020/52",
+   "short": "HCL Miroslovești nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 52/2020 privind aprobarea trecerii sumei de 49.600 lei din contul ,,Active fixe corporale în curs de execuție'' în contul ,,Alte active fixe necorporale\" privind cheltuielile de proiectare efectuate în anii anteriori, pentru Obiectivul ,,Demolare Corp A, consolidare și etajare Corp C, reabilitare termică Școala Gimnazială Miroslovești, în baza hotărârii Consiliului Local Miroslovești din domeniul specific ,,Realizare/Extindere/Reabilitare/Modernizare/Dotare a unităților de învățământ Preuniversitar\" din cadrul subprogramului ,,Modernizarea Satului Românesc\"",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28894",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-53-2020",
+   "path": "local/iasi/miroslovesti/2020/53",
+   "short": "HCL Miroslovești nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 53/2020 privind .aprobarea amplasării pe Domeniul public a instalațiilor electrice pentru lucrarea ,,Buclare LEA 20KV DERIVAȚIA MITEȘTI, DIN LEA 20KV PAȘCANI-VATRA CU LEA 20 KV TUPILAȚI - HANUL ANCUȚEI",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28895",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-56-2020",
+   "path": "local/iasi/miroslovesti/2020/56",
+   "short": "HCL Miroslovești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 56/2020 privind alegerea președintelui de ședință al consiliului Local Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28898",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-57-2020",
+   "path": "local/iasi/miroslovesti/2020/57",
+   "short": "HCL Miroslovești nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 57/2020 privind rectificarea Bugetului de venituri și Cheltuieli al Comunei Miroslovești, județul Iași, pe anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28899",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-58-2020",
+   "path": "local/iasi/miroslovesti/2020/58",
+   "short": "HCL Miroslovești nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 58/2020 privind participarea Comunei Miroslovești - în calitate de partener la proiectul ,,CUIB - Cu iubire, învățăm și creștem!\" proiect care va fi depus în cadrul Apelului Program Pilot de stimulare a participării la educație a copiilor cu părinți plecați la muncă în străinătate, prin PROGRAMUL OPERAȚIONAL CAPITAL UMAN 2014 - 2020 - Axa prioritară nr. 6 - Educație și competențe;",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28900",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-59-2020",
+   "path": "local/iasi/miroslovesti/2020/59",
+   "short": "HCL Miroslovești nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 59/2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28901",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-60-2020",
+   "path": "local/iasi/miroslovesti/2020/60",
+   "short": "HCL Miroslovești nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 60/2020 privind aprobarea alocării di Bugetul Local a unor sume pentru finanțarea activităților sportive în limita a maximum 5% din bugetul aprobat",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28902",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-61-2020",
+   "path": "local/iasi/miroslovesti/2020/61",
+   "short": "HCL Miroslovești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 61/2020 privind alegerea președintelui de ședință al Consiliului Local Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28903",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-62-2020",
+   "path": "local/iasi/miroslovesti/2020/62",
+   "short": "HCL Miroslovești nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 62/2020 privind Rectificarea Bugetului de Venituri și Cheltuieli al Comunei Miroslovești, județul Iași, pe anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28904",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-63-2020",
+   "path": "local/iasi/miroslovesti/2020/63",
+   "short": "HCL Miroslovești nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 63/2020 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 39",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28905",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-64-2020",
+   "path": "local/iasi/miroslovesti/2020/64",
+   "short": "HCL Miroslovești nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 64/2020 privind aprobarea realizării investiției ,,Lucrări de extindere a rețelei de gaze naturale, existentă, în satele Verseni și Soci, Comuna Miroslovești, județul Iași - Etapa V",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28906",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-66-2020",
+   "path": "local/iasi/miroslovesti/2020/66",
+   "short": "HCL Miroslovești nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 66/2020 privind Revocarea Art. 1 din cadrul Hotărârii Consiliului Local Miroslovești nr. 42/08.05.2020 pentru achiziționarea de echipamente informatice (laptop-uri, tablete, telefoane SMART) tuturor elevilor din medii dezavantajate, pentru a se asigura șanse egale la educație, pentru toți elevii (accesul la activități de învățare - prin participarea la activitățile online, organizate de unitățile de învățământ) în funcție de sumele alocate în acest sens de instituțiile abilitate",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28908",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-67-2020",
+   "path": "local/iasi/miroslovesti/2020/67",
+   "short": "HCL Miroslovești nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 67/2020 privind alegerea președintelui de ședință al Consiliului Local Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28909",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-68-2020",
+   "path": "local/iasi/miroslovesti/2020/68",
+   "short": "HCL Miroslovești nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 68/2020 privind Rectificarea Bugetului de Venituri și Cheltuieli al Comunei Miroslovești, județul Iași, pe anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28910",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-69-2020",
+   "path": "local/iasi/miroslovesti/2020/69",
+   "short": "HCL Miroslovești nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 69/2020 privind aprobarea necesității și oportunității realizării investiției ,,Amenajarea PARC DE RECREERE\" în sat Vereseni, comuna Miroslovești, județul Iași",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28911",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-7-2020",
+   "path": "local/iasi/miroslovesti/2020/7",
+   "short": "HCL Miroslovești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 7/2020 privind aprobarea pentru anul 2020 a Numărului de posturi bugetare, Organigramei, statului de Funcții, Planului de ocupare a funcțiilor publice și a coeficienților salariilor de bază, atât pentru funcțiile locale cât și pentru personalul contractual",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28622",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-70-2020",
+   "path": "local/iasi/miroslovesti/2020/70",
+   "short": "HCL Miroslovești nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 70/2020 privind asumarea/neasumarea responsabilității organizării și derulării de atribuire a contractelor/acordurilor cadru pentru achiziția, monitorizarea și controlul distribuției produselor prevăzute prin Programul pentru școli al României în perioada 2020-2021",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28912",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-71-2020",
+   "path": "local/iasi/miroslovesti/2020/71",
+   "short": "HCL Miroslovești nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 71/2020 privind aprobarea Planului Tarifar APAVITAL S.A: pentru perioada 2020-2024 prin actualizarea/modificarea și completarea Contractului de delegare a gestiunii serviciilor publice dde alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 38",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28913",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-72-2020",
+   "path": "local/iasi/miroslovesti/2020/72",
+   "short": "HCL Miroslovești nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 72/2020 privind alegerea președintelui de ședință al Consiliului Local Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28914",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-73-2020",
+   "path": "local/iasi/miroslovesti/2020/73",
+   "short": "HCL Miroslovești nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 73/2020 privind Rectificarea bugetului de Venituri și Cheltuieli al Comunei Miroslovești, județul Iași, pe anul 2020 conform Dispoziției Primarului nr. 187/21.09.2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28915",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-74-2020",
+   "path": "local/iasi/miroslovesti/2020/74",
+   "short": "HCL Miroslovești nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 74/2020 privind rectificarea Bugetului de Venituri și Cheltuieli al Comunei Miroslovești, județul Iași, pe anul 2020 conform Dispoziției Primarului nr. 190/29.09.2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28916",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-75-2020",
+   "path": "local/iasi/miroslovesti/2020/75",
+   "short": "HCL Miroslovești nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 75/2020 privind rectificarea Bugetului de Venituri și Cheltuieli al Comunei Miroslovești, județul Iași, pe anul 2020",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28917",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-76-2020",
+   "path": "local/iasi/miroslovesti/2020/76",
+   "short": "HCL Miroslovești nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 76/2020 privind aprobarea necesității și oportunității Modernizării a unor drumuri locale din comuna Miroslovești, județul Iași în lungime de 4922 ml - finanțare prin Compania Națională de Investiții",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28918",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-77-2020",
+   "path": "local/iasi/miroslovesti/2020/77",
+   "short": "HCL Miroslovești nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 77/2020 privind aprobarea necesității și oportunității realizării obiectivului de investiție ,,Amenajarea unui sediu nou pentru Primăria Comunei Miroslovești, județul Iași\"",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28919",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-78-2020",
+   "path": "local/iasi/miroslovesti/2020/78",
+   "short": "HCL Miroslovești nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 78/2020 privind aprobarea Comunei Ciohorani de a utiliza Domeniul Public al Comunei Miroslovești ]n zona unde se realizează subtraversarea Drumului de Exploatare situat în T 102, A 845, în vederea interconectării sistemului de canalizare din Comuna Ciohorani, județul Iași, la sistemul de canalizare al Comunei Botești, județul Neamț",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28920",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-8-2020",
+   "path": "local/iasi/miroslovesti/2020/8",
+   "short": "HCL Miroslovești nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 8/2020 privind aprobarea contului de închidere al exercițiului bugetar pe anul 2019",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28623",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-80-2020",
+   "path": "local/iasi/miroslovesti/2020/80",
+   "short": "HCL Miroslovești nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 80/2020 privind aprobarea indicatorilor tehnico-economici pentru extindere rețele de gaze naturale Etapa V=3.306ml în localitatea SOCI, Verseni și Mitești - comuna Miroslovești, județul Iași,",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28922",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-81-2020",
+   "path": "local/iasi/miroslovesti/2020/81",
+   "short": "HCL Miroslovești nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 81/2020 privind alegerea președintelui de ședință al Consiliului Local Miroslovești pentru ședința următoare",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28923",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-82-2020",
+   "path": "local/iasi/miroslovesti/2020/82",
+   "short": "HCL Miroslovești nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 82/2020 privind constituirea Consiliului Local al comunei Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28924",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-84-2020",
+   "path": "local/iasi/miroslovesti/2020/84",
+   "short": "HCL Miroslovești nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 84/2020 privind completarea Consiliului Local al comunei Miroslovești",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28930",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28930",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--miroslovesti-85-2020",
    "path": "local/iasi/miroslovesti/2020/85",
    "short": "HCL Miroslovești nr. 85/2020",
@@ -148,6 +898,21 @@
      "from": "2020-11-16",
      "units": 1,
      "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--miroslovesti-9-2020",
+   "path": "local/iasi/miroslovesti/2020/9",
+   "short": "HCL Miroslovești nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Miroslovești nr. 9/2020 privind aprobarea Raportului privind inventarierea patrimoniului Comunei Miroslovești, pe anul 2019",
+   "url": "https://emol.ro/miroslovesti-is/registru-hcl/28624",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/miroslovesti-is/registru-hcl/28624",
      "sha256": null
     }
    ]

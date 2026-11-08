@@ -3,6 +3,73 @@
 "shard": "local/iasi/scanteia/2023",
 "acts": [
 {
+"slug": "hcl-iasi--scanteia-9-2023",
+"path": "local/iasi/scanteia/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 9/2023",
+"short": "HCL Scânteia nr. 9/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/91339",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-27-2023",
+"path": "local/iasi/scanteia/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 27/2023 privind stabilirea impozitelor şi taxelor locale şi altor taxe asimilate acestora care se fac venit al bugetului local al comunei Scânteia, județul Iași, pentru anul fiscal 2024, indexate cu rata inflației de 13,8%",
+"short": "HCL Scânteia nr. 27/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/101006",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-36-2023",
+"path": "local/iasi/scanteia/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 36/2023 privind aprobarea Planului urbanistic general și a Regulamentului local de Urbanism al comunei Scânteia, județul Iași",
+"short": "HCL Scânteia nr. 36/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-07",
+"latest": "2023-06-07",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/105764",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-iasi--scanteia-64-2023",
 "path": "local/iasi/scanteia/2023/64",
 "kind": "local",

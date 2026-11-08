@@ -3,6 +3,516 @@
  "shard": "local/iasi/sipote/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--sipote-1-2022",
+   "path": "local/iasi/sipote/2022/1",
+   "short": "HCL Șipote nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 1/2022 privind aprobarea ordinii de zi a ședinței „ ordinară ” din data de 28 ianuarie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49086",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-10-2022",
+   "path": "local/iasi/sipote/2022/10",
+   "short": "HCL Șipote nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 10/2022 privind aprobarea Nomenclatorului arhivistic care cuprinde termenele de păstrare a documentelor create de aparatul de specialitate al Primarului, respectiv de către Consiliul Local al comunei Șipote , județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49095",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-100-2022",
+   "path": "local/iasi/sipote/2022/100",
+   "short": "HCL Șipote nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 100/2022 privind privind participarea Comunei Sipote la Programul privind creșterea eficientei energetice a infrastructurii de iluminat public cu proiectul„Cresterea eficientei energetice a infrastructurii de iluminat public in Comuna Sipote, judetul Iasi”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/68951",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/68951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-101-2022",
+   "path": "local/iasi/sipote/2022/101",
+   "short": "HCL Șipote nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 101/2022 privind trecerea din domeniul privat al Comunei Șipote in domeniul public al Comunei Șipote a imobilului Școala cu clasele I-IV Chișcăreni ,și a terenului in suprafata de 1024 mp, categoria de folosință curți ,construcții, situat in intravilanul satului Chiscareni, comuna Sipote, județul Iasi, amplasat in T19, Parcela 599 ,identificat cu numar cadastral 61408, inscris in cartea funciară 61408 a Comunei Sipote,respectiv constructia C1- Scoala cu clasele I-IV in suprafata de 210 mp., identificată cu număr cadastral 61408-C1 si constructia C2 – anexa in suprafată de 23 mp. identificată cu numar cadastral 61408-C2, inscrise in Cartea Funciara 61408 a comunei Șipote,județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/68952",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/68952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-102-2022",
+   "path": "local/iasi/sipote/2022/102",
+   "short": "HCL Șipote nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 102/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/68953",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/68953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-103-2022",
+   "path": "local/iasi/sipote/2022/103",
+   "short": "HCL Șipote nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 103/2022 privind aprobarea Regulamentului privind acordarea titlului de Cetățean de onoare al Comunei Șipote , județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/68954",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/68954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-105-2022",
+   "path": "local/iasi/sipote/2022/105",
+   "short": "HCL Șipote nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 105/2022 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 30 august 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/70257",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/70257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-106-2022",
+   "path": "local/iasi/sipote/2022/106",
+   "short": "HCL Șipote nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 106/2022 privind aprobarea procesului verbal al ședinței ” extraordinare ” din data 17 august 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/70258",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/70258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-107-2022",
+   "path": "local/iasi/sipote/2022/107",
+   "short": "HCL Șipote nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 107/2022 privind rectificarea nr.5 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/70259",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/70259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-108-2022",
+   "path": "local/iasi/sipote/2022/108",
+   "short": "HCL Șipote nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 108/2022 privind aprobarea documentației de dezmembrare a unui imobil în suprafață de 9177 mp, identificată cu numar cadastral 60312,înscris în Cartea Funciră 60312 a Comunei Șipote , județul Iași , situat în intravilanul satului Mitoc;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/70260",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/70260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-109-2022",
+   "path": "local/iasi/sipote/2022/109",
+   "short": "HCL Șipote nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 109/2022 privind aprobarea documentației de dezmembrare a unui imobil în suprafață de 25128 mp, identificată cu numar cadastral 61316 ,înscris în Cartea Funciră 61316 a Comunei Șipote , județul Iași , situat în intravilanul satului Iazu Nou;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/70261",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/70261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-11-2022",
+   "path": "local/iasi/sipote/2022/11",
+   "short": "HCL Șipote nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 11/2022 privind aprobarea ordinii de zi a ședinței „ ordinară ” din data de 10 februarie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/50766",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/50766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-110-2022",
+   "path": "local/iasi/sipote/2022/110",
+   "short": "HCL Șipote nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 110/2022 privind aprobarea documentației de dezmembrare a unui imobil în suprafață de 6403 mp, identificată cu numar cadastral 61317,înscris în Cartea Funciară 61317 a Comunei Șipote , județul Iași , situat în intravilanul satului Chișcăreni ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/70262",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/70262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-111-2022",
+   "path": "local/iasi/sipote/2022/111",
+   "short": "HCL Șipote nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 111/2022 privind aprobarea dării în administrare a unor bunuri imobile, proprietate publică a comunei Șipote , către Școala Gimnazială ’’ Șipote ” din comuna Șipote,județul Iași;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/70263",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/70263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-112-2022",
+   "path": "local/iasi/sipote/2022/112",
+   "short": "HCL Șipote nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 112/2022 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 22 septembrie 2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72392",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-113-2022",
+   "path": "local/iasi/sipote/2022/113",
+   "short": "HCL Șipote nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 113/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data 30 august 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72393",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-114-2022",
+   "path": "local/iasi/sipote/2022/114",
+   "short": "HCL Șipote nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 114/2022 privind alegerea preşedintelui de şedinţă pentru lunile octombrie 2022,noiembrie 2022, decembrie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72394",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-115-2022",
+   "path": "local/iasi/sipote/2022/115",
+   "short": "HCL Șipote nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 115/2022 privind aprobarea Graficului de ședințe pe trimestrul IV 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72395",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-116-2022",
+   "path": "local/iasi/sipote/2022/116",
+   "short": "HCL Șipote nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 116/2022 privind modificarea statului de funcții al aparatului de specialitate al primarului comunei Șipote , în vederea transformării unei funcții publice de execuție , ca urmare a promovării în clasă, de către un funcționar public din cadrul compartimentului administrare patrimoniu și încadrarea pe perioadă nedeterminată pe o funcție contractuală de execuție de jurist din cadrul compartimentului cabinet primar ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72396",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-117-2022",
+   "path": "local/iasi/sipote/2022/117",
+   "short": "HCL Șipote nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 117/2022 privind nominalizarea reprezentanților Consiliului Local Șipote in Consiliul de Administratie a Scoli Gimnaziale Șipote și în Comisia pentru Evaluarea și Asigurarea calității în Învățământul preuniversitar al Școlii Gimnaziale Șipote în anul școlar 2022 – 2023 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72397",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-118-2022",
+   "path": "local/iasi/sipote/2022/118",
+   "short": "HCL Șipote nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 118/2022 privind inrolarea Primăriei Șipote în Sistemul naţional electronic de plată online a taxelor şi impozitelor utilizând cardul bancar , prin platforma ‘’Ghiseul.ro’’",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72398",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-119-2022",
+   "path": "local/iasi/sipote/2022/119",
+   "short": "HCL Șipote nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 119/2022 privind rectificarea nr.6 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72399",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-12-2022",
+   "path": "local/iasi/sipote/2022/12",
+   "short": "HCL Șipote nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 12/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data de 28 ianuarie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/50767",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/50767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-120-2022",
+   "path": "local/iasi/sipote/2022/120",
+   "short": "HCL Șipote nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 120/2022 privind privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „Modernizare drumuri în comuna Șipote, județul Iași”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/72400",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/72400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-121-2022",
+   "path": "local/iasi/sipote/2022/121",
+   "short": "HCL Șipote nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 121/2022 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 26 octombrie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77209",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-122-2022",
+   "path": "local/iasi/sipote/2022/122",
+   "short": "HCL Șipote nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 122/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data 22 septembrie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77210",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-123-2022",
+   "path": "local/iasi/sipote/2022/123",
+   "short": "HCL Șipote nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 123/2022 privind validarea Dispoziției numărul 198 din 27 septembrie 2022 ,privind rectificarea bugetului de venituri si cheltuieli pe anul 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77211",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-124-2022",
+   "path": "local/iasi/sipote/2022/124",
+   "short": "HCL Șipote nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 124/2022 privind rectificarea nr.7 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77212",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-127-2022",
+   "path": "local/iasi/sipote/2022/127",
+   "short": "HCL Șipote nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 127/2022 privind trecerea din domeniul privat al Comunei Șipote in domeniul public al Comunei Șipote a imobilului Atelier Școală Chișcăreni și a suprafaței de 6403 mp,situată în intravilanul satului Chișcăreni ,comuna Șipote , județul Iași, identificate cu numar cadastral 61457,61458,61459,61460,61461,inscrise in carțile funciare 61457,61458,61459,61460,61461 a Comunei Sipote;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77215",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-128-2022",
+   "path": "local/iasi/sipote/2022/128",
+   "short": "HCL Șipote nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 128/2022 privind trecerea din domeniul privat al Comunei Șipote in domeniul public al Comunei Șipote a imobilului Școala Iazu Nou cu clasele I-VIII si a suprafetei de 25.128 mp., situată in intravilanul satului Iazu Nou, comuna Sipote, județul Iasi, identificate cu numar cadastral 61465,61466 și 61467 , inscrise in carțile funciare 61465,61466,61467 a Comunei Sipote;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77216",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-129-2022",
+   "path": "local/iasi/sipote/2022/129",
+   "short": "HCL Șipote nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 129/2022 privind trecerea din domeniul privat al Comunei Șipote in domeniul public al Comunei Șipote a suprafetei de 9.177 mp., situată in intravilanul satului Mitoc , comuna Sipote, jud. Iasi, identificate cu numar cadastral 61455,61456, inscrise in carțile funciare 61455,61456, a Comunei Sipote;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77217",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-13-2022",
+   "path": "local/iasi/sipote/2022/13",
+   "short": "HCL Șipote nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 13/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/50768",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/50768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-130-2022",
+   "path": "local/iasi/sipote/2022/130",
+   "short": "HCL Șipote nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 130/2022 privind trecerea din domeniul public al Comunei Șipote in domeniul privat al Comunei Șipote a imobilului Școala cu clasele I-IV Chiscareni, identificată cu număr cadastral 61408-C1, inscrisă in Cartea Funciara 61408 in vederea demolării, amplasată pe terenului in suprafața de 1024 mp. situat in intravilanul satului Chiscareni, comuna Șipote, județul Iași, identificat cu număr cadastral 61408, inscris in cartea funciara 61408 a Comunei Șipote, județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77218",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-131-2022",
+   "path": "local/iasi/sipote/2022/131",
+   "short": "HCL Șipote nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 131/2022 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 2 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77219",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77219",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-133-2022",
    "path": "local/iasi/sipote/2022/133",
    "short": "HCL Șipote nr. 133/2022",
@@ -103,6 +613,21 @@
      "from": "2022-11-29",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/82730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-14-2022",
+   "path": "local/iasi/sipote/2022/14",
+   "short": "HCL Șipote nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 14/2022 privind aprobarea Bugetului local de Venituri şi Cheltuieli și a Programului obiectivelor de investiții, cu finanțare de la bugetul local și alte surse de finanțare al Comunei Sipote , judetul Iasi , pe anul 2022 și estimările anilor 2023-2025;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/50769",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/50769",
      "sha256": null
     }
    ]
@@ -258,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-15-2022",
+   "path": "local/iasi/sipote/2022/15",
+   "short": "HCL Șipote nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 15/2022 privind aprobarea Strategiei anuale de achizitii publice a comunei Sipote , judetul Iasi pe anul 2022 si a Anexelor la Strategia anuala a achizitiilor publice a comunei Sipote (Programul Anual al achizițiilor publice) pentru anul 2022 în urma aprobării bugetului de venituri și cheltuieli ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/50770",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/50770",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-150-2022",
    "path": "local/iasi/sipote/2022/150",
    "short": "HCL Șipote nr. 150/2022",
@@ -298,6 +838,1176 @@
      "from": "2022-12-16",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/83409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-17-2022",
+   "path": "local/iasi/sipote/2022/17",
+   "short": "HCL Șipote nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 17/2022 privind aprobarea ordinii de zi a ședinței „ extraordinară ” din data de 25 februarie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/52441",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/52441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-18-2022",
+   "path": "local/iasi/sipote/2022/18",
+   "short": "HCL Șipote nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 18/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data de 10 februarie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/52442",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/52442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-19-2022",
+   "path": "local/iasi/sipote/2022/19",
+   "short": "HCL Șipote nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 19/2022 privind însușirea Raportului de activitate al personalului din cadrul aparatului de specialitate al primarului comunei Șipote ,pe anul 2021 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/52443",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/52443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-2-2022",
+   "path": "local/iasi/sipote/2022/2",
+   "short": "HCL Șipote nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 2/2022 privind aprobarea procesului verbal al ședinței ”extraordinare din data de 23 decembrie 2021 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49087",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-20-2022",
+   "path": "local/iasi/sipote/2022/20",
+   "short": "HCL Șipote nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 20/2022 privind aprobarea rezultatelor inventarierii generale a elementelor de natura activelor, datoriilor si capitalurilor proprii aflate in patrimoniul Comunei Șipote,județul Iași, pe anul 2021 și aprobarea casării-declasării bunurilor degradate, uzate fizic și moral;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/52444",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/52444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-21-2022",
+   "path": "local/iasi/sipote/2022/21",
+   "short": "HCL Șipote nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 21/2022 privind aprobarea Regulamentului privind procedura pentru înregistrarea și radierea vehiculelor pentru care nu există obligația înmatriculării ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/52445",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/52445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-22-2022",
+   "path": "local/iasi/sipote/2022/22",
+   "short": "HCL Șipote nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 22/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/52446",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/52446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-25-2022",
+   "path": "local/iasi/sipote/2022/25",
+   "short": "HCL Șipote nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 25/2022 privind privind aprobarea ordinii de zi a ședinței „ ordinară ” din data de 30 martie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55891",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-26-2022",
+   "path": "local/iasi/sipote/2022/26",
+   "short": "HCL Șipote nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 26/2022 privind aprobarea procesului verbal al ședinței ” extraordinare ” din data de 25 februarie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55892",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-27-2022",
+   "path": "local/iasi/sipote/2022/27",
+   "short": "HCL Șipote nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 27/2022 privind alegerea preşedintelui de şedinţă pentru lunile aprilie 2022, mai 2022, iunie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55893",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-28-2022",
+   "path": "local/iasi/sipote/2022/28",
+   "short": "HCL Șipote nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 28/2022 privind aprobarea Graficului de ședințe pe trimestrul II 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55894",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-29-2022",
+   "path": "local/iasi/sipote/2022/29",
+   "short": "HCL Șipote nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 29/2022 privind modificarea și completarea Hotărârii Consiliului Local Șipote numărul 9 din 28 februarie 2019 privind aprobarea : „Actualizării traseelor și stațiilor de îmbarcare/debarcare a călătorilor pentru transportul public județean de persoane “ ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55895",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-3-2022",
+   "path": "local/iasi/sipote/2022/3",
+   "short": "HCL Șipote nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 3/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49088",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-30-2022",
+   "path": "local/iasi/sipote/2022/30",
+   "short": "HCL Șipote nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 30/2022 privind achiziția de granule,criblură,nisip fin,pietre mici,pietriș,piatră fărămițată și concasată,amestec de nisip și pietriș și alte agregate(refuz ciur);",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55896",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-31-2022",
+   "path": "local/iasi/sipote/2022/31",
+   "short": "HCL Șipote nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 31/2022 privind scoaterea din funcțiune și valorificarea autovehiculului DACIA LOGAN , aflat ca mijloc fix în proprietatea privată a comunei Șipote,județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55897",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-32-2022",
+   "path": "local/iasi/sipote/2022/32",
+   "short": "HCL Șipote nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 32/2022 privind achiziționarea de mobilier,bunuri necesare desfasurarii activității in cadrul Primăriei comunei Șipote , in limita fondurilor prevazute in bugetul local cu această destinație pentru anul 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55898",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-33-2022",
+   "path": "local/iasi/sipote/2022/33",
+   "short": "HCL Șipote nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 33/2022 privind aprobarea achiziționării unui autoturism necesar pentru buna desfășurare a activității autorității publice locale la nivelul comunei Șipote, judetul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55899",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-34-2022",
+   "path": "local/iasi/sipote/2022/34",
+   "short": "HCL Șipote nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 34/2022 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al Primarului Comunei Șipote și al structurilor aflate în subordinea Consiliului Local al Comunei Șipote, județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55900",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-35-2022",
+   "path": "local/iasi/sipote/2022/35",
+   "short": "HCL Șipote nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 35/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55901",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-36-2022",
+   "path": "local/iasi/sipote/2022/36",
+   "short": "HCL Șipote nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 36/2022 privind rectificarea nr 1 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55902",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-38-2022",
+   "path": "local/iasi/sipote/2022/38",
+   "short": "HCL Șipote nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 38/2022 privind trecerea din domeniul public al Comunei Șipote în domeniul privat al Comunei Șipote a terenului în suprafață de 3292 mp,situat în intravilanul localității Șipote,comuna Șipote , județul Iași, amplasată în T25, Parcela CC 795/1 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55904",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-39-2022",
+   "path": "local/iasi/sipote/2022/39",
+   "short": "HCL Șipote nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 39/2022 privind privire la modificarea și completarea Hotărârii Consiliului Local Șipote numărul 10 din 29 ianuarie 2021 privind aprobarea acordului de asociere în vederea realizării în comun a Proiectului de investiție „Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Sipote si Fântânele din județul Iași”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55905",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-4-2022",
+   "path": "local/iasi/sipote/2022/4",
+   "short": "HCL Șipote nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 4/2022 privind stabilirea consumului lunar de carburanți pentru autoturismele și utilajele care deservesc Comuna Șipote , județul Iasi, pentru anul 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49089",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-40-2022",
+   "path": "local/iasi/sipote/2022/40",
+   "short": "HCL Șipote nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 40/2022 privind aprobarea ordinii de zi a ședinței „ extraordinară ” din data de 08 aprilie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/56727",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/56727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-41-2022",
+   "path": "local/iasi/sipote/2022/41",
+   "short": "HCL Șipote nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 41/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data de 30 martie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/56728",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/56728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-42-2022",
+   "path": "local/iasi/sipote/2022/42",
+   "short": "HCL Șipote nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 42/2022 privind 3.PROIECT DE HOTĂRÂRE privind alocarea unei sume de bani în valoare de 1.000 lei din bugetul propriu al Consiliului local al comunei Şipote , judeţul Iaşi, pe anul 2022 , pentru premierea celor 10 copii, care au participat la festivalul de teatru pentru copii și tineret “Hai la teatru, “organizat de către Teatrul Luceafărul Iași în perioada 23 martie -24 martie 2022 ”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/56729",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/56729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-43-2022",
+   "path": "local/iasi/sipote/2022/43",
+   "short": "HCL Șipote nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 43/2022 privind trecerea in domeniul public al comunei Șipote a unor bunuri imobile in vederea realizarii publicitatii imobiliare ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/56730",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/56730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-45-2022",
+   "path": "local/iasi/sipote/2022/45",
+   "short": "HCL Șipote nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 45/2022 privind revocarea Hotararii Consiliului Local Șipote nr. 38 din 30 martie 2022 privind trecerea din domeniul public al Comunei Șipote în domeniul privat al Comunei Șipote a terenului în suprafață de 3292 mp,situat în intravilanul localității Șipote,comuna Șipote , județul Iași, amplasată în T25, Parcela CC 795/1",
+   "url": "https://emol.ro/sipote-is/registru-hcl/56732",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/56732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-46-2022",
+   "path": "local/iasi/sipote/2022/46",
+   "short": "HCL Șipote nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 46/2022 privind aprobarea ordinii de zi a ședinței „ extraordinară ” din data de 19 aprilie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/57680",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/57680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-47-2022",
+   "path": "local/iasi/sipote/2022/47",
+   "short": "HCL Șipote nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 47/2022 privind aprobarea procesului verbal al ședinței ” extraordinare ” din data de 08 aprilie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/57681",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/57681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-48-2022",
+   "path": "local/iasi/sipote/2022/48",
+   "short": "HCL Șipote nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 48/2022 privind HOTĂRÂRE de aprobare a Actului Adițional nr 1 la Acordul de parteneriat în vederea realizării în comun a Proiectului de investiție : „Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Sipote si Fântânele din județul Iași” ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/57682",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/57682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-49-2022",
+   "path": "local/iasi/sipote/2022/49",
+   "short": "HCL Șipote nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 49/2022 privind aprobarea cererii de finanțare si a devizului general estimativ aferente proiectului de investiție: “INFIINTARE RETEA DE GAZE NATURALE IN COMUNELE COARNELE CAPREI, ȘIPOTE ȘI FÂNTÂNELE, JUDETUL IASI”;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/57683",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/57683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-5-2022",
+   "path": "local/iasi/sipote/2022/5",
+   "short": "HCL Șipote nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 5/2022 privind organizarea reţelei unităților de învățământ preuniversitar de pe raza comunei Şipote, judeţul Iaşi pentru anul şcolar 2022 – 2023 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49090",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-53-2022",
+   "path": "local/iasi/sipote/2022/53",
+   "short": "HCL Șipote nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 53/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/58666",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/58666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-54-2022",
+   "path": "local/iasi/sipote/2022/54",
+   "short": "HCL Șipote nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 54/2022 referitor la completarea Anexei la Hotărârea Consiliului Local Șipote nr 60 din 31 mai 2021 privind aprobarea Strategiei de Dezvoltare Locală a Comunei Șipote pentru perioada 2021- 2027;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/58667",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/58667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-56-2022",
+   "path": "local/iasi/sipote/2022/56",
+   "short": "HCL Șipote nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 56/2022 privind aprobarea documentatiei de dezmembrare a unui imobil,proprietatea publică a comunei Șipote ,cu numar cadastral 61315 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/58669",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/58669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-57-2022",
+   "path": "local/iasi/sipote/2022/57",
+   "short": "HCL Șipote nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 57/2022 privind alocarea unei sume pentru sarbatorirea Zilei de 1 Iunie 2022 – Ziua internațională a Copilului",
+   "url": "https://emol.ro/sipote-is/registru-hcl/60502",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/60502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-58-2022",
+   "path": "local/iasi/sipote/2022/58",
+   "short": "HCL Șipote nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 58/2022 privind aprobarea ordinii de zi a ședinței „ extraordinară ” din data de 16 mai 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/60503",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/60503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-59-2022",
+   "path": "local/iasi/sipote/2022/59",
+   "short": "HCL Șipote nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 59/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data de 28 aprilie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/60504",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/60504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-6-2022",
+   "path": "local/iasi/sipote/2022/6",
+   "short": "HCL Șipote nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 6/2022 privind aprobarea Planului de lucrări ce urmează a fi executate în anul 2022 de către beneficiarii de ajutor social ,conform Legii nr.416/2001 privind venitul minim garantat ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49091",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-60-2022",
+   "path": "local/iasi/sipote/2022/60",
+   "short": "HCL Șipote nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 60/2022 privind aprobarea proiectului, a cheltuielilor aferente proiectului și a depunerii proiectului ”Achizitia unui sistem de monitorizare si siguranta a spatiului public in Comuna Șipote, judetul Iași,în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 10 - Fondul local;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/60505",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/60505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-61-2022",
+   "path": "local/iasi/sipote/2022/61",
+   "short": "HCL Șipote nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 61/2022 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 30 mai 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/61891",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/61891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-62-2022",
+   "path": "local/iasi/sipote/2022/62",
+   "short": "HCL Șipote nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 62/2022 privind aprobarea procesului verbal al ședinței ” extraordinare ” din data 16 mai 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/61892",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/61892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-63-2022",
+   "path": "local/iasi/sipote/2022/63",
+   "short": "HCL Șipote nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 63/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/61893",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/61893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-64-2022",
+   "path": "local/iasi/sipote/2022/64",
+   "short": "HCL Șipote nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 64/2022 privind aprobarea impozitelor si taxelor locale pentru anul fiscal 2023 la nivel de comuna Sipote , judetul Iasi;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/61894",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/61894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-66-2022",
+   "path": "local/iasi/sipote/2022/66",
+   "short": "HCL Șipote nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 66/2022 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor /acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului pentru anul școlar 2022-2023;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/61896",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/61896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-67-2022",
+   "path": "local/iasi/sipote/2022/67",
+   "short": "HCL Șipote nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 67/2022 privind aprobarea ordinii de zi a ședinței „ extraordinară ” din data de 15 iunie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/63338",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/63338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-68-2022",
+   "path": "local/iasi/sipote/2022/68",
+   "short": "HCL Șipote nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 68/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data de 30 mai 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/63339",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/63339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-69-2022",
+   "path": "local/iasi/sipote/2022/69",
+   "short": "HCL Șipote nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 69/2022 privind aprobarea proiectului, a cheltuielilor aferente proiectului și a depunerii proiectului ”Reabilitarea moderată a Școlii Gimnaziale Șipote, Comuna Șipote, judetul Iasi” în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 10 - Fondul local",
+   "url": "https://emol.ro/sipote-is/registru-hcl/63340",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/63340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-7-2022",
+   "path": "local/iasi/sipote/2022/7",
+   "short": "HCL Șipote nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 7/2022 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav și a numărului de îndemnizații pentru anul 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49092",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-70-2022",
+   "path": "local/iasi/sipote/2022/70",
+   "short": "HCL Șipote nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 70/2022 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 29 iunie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65222",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-71-2022",
+   "path": "local/iasi/sipote/2022/71",
+   "short": "HCL Șipote nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 71/2022 privind aprobarea procesului verbal al ședinței ” extraordinare ” din data 15 iunie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65223",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-72-2022",
+   "path": "local/iasi/sipote/2022/72",
+   "short": "HCL Șipote nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 72/2022 privind alegerea preşedintelui de şedinţă pentru lunile iulie 2022, august 2022, septembrie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65224",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-73-2022",
+   "path": "local/iasi/sipote/2022/73",
+   "short": "HCL Șipote nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 73/2022 privind aprobarea Graficului de ședințe pe trimestrul III 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65225",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-74-2022",
+   "path": "local/iasi/sipote/2022/74",
+   "short": "HCL Șipote nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 74/2022 privind rectificarea nr 2 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65226",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-75-2022",
+   "path": "local/iasi/sipote/2022/75",
+   "short": "HCL Șipote nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 75/2022 privind trecerea din domeniul public al Comunei Șipote în domeniul privat al Comunei Șipote a imobilului Atelier Școală Chișcăreni și a suprafaței de 6403 mp,situată în intravilanul satului Chișcăreni ,comuna Șipote , județul Iași, amplasată în T 16, Parcela 413,414,415,416 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65227",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-76-2022",
+   "path": "local/iasi/sipote/2022/76",
+   "short": "HCL Șipote nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 76/2022 privind trecerea din domeniul public al Comunei Șipote in domeniul privat al Comunei Șipote a imobilului Școala Iazu Nou cu clasele I-VIII si a suprafetei de 25.128 mp., situata in intravilanul satului Iazu Nou, comuna Sipote, jud. Iasi, amplasată in T 33, P 958, 959, 960 961;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65228",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-77-2022",
+   "path": "local/iasi/sipote/2022/77",
+   "short": "HCL Șipote nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 77/2022 privind trecerea din domeniul privat al Comunei Șipote in domeniul public al Comunei Șipote a imobilului teren in suprafata de 484 mp. situat in intravilanul satului Chiscareni, comuna Sipote, județul Iasi, amplasat in T 19, P 599, identificat cu numar cadastral 61407, inscris in cartea funciară 61407 a Comunei Sipote;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65229",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-79-2022",
+   "path": "local/iasi/sipote/2022/79",
+   "short": "HCL Șipote nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 79/2022 privind aprobarea achiziționării directă de pietriș,nisip,piatră concasată și agregate ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65231",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-8-2022",
+   "path": "local/iasi/sipote/2022/8",
+   "short": "HCL Șipote nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 8/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49093",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-80-2022",
+   "path": "local/iasi/sipote/2022/80",
+   "short": "HCL Șipote nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 80/2022 privind referitor la completarea Anexei la Hotărârea Consiliului Local Șipote nr 60 din 31 mai 2021 privind aprobarea Strategiei de Dezvoltare Locală a Comunei Șipote pentru perioada 2021- 2027;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65232",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-81-2022",
+   "path": "local/iasi/sipote/2022/81",
+   "short": "HCL Șipote nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 81/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65233",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-82-2022",
+   "path": "local/iasi/sipote/2022/82",
+   "short": "HCL Șipote nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 82/2022 privind validarea Dispozitiei primarului comunei numărul 121 din 17 iunie 2022 privind rectificarea bugetului local pe anul 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65234",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-84-2022",
+   "path": "local/iasi/sipote/2022/84",
+   "short": "HCL Șipote nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 84/2022 privind aprobarea „Planului de actiune pentru protecția apelor impotriva poluarii cu nitrați proveniți din surse agricole” și protejorea zonelor vulnerabile”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65236",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-85-2022",
+   "path": "local/iasi/sipote/2022/85",
+   "short": "HCL Șipote nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 85/2022 privind Luare act de Raportul de audit financiar nr 3132 din data de 06 mai 2022 și respectiv Decizia Nr. 91/2022 , ale Curții de Conturi a României - Camera de Conturi Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65237",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-86-2022",
+   "path": "local/iasi/sipote/2022/86",
+   "short": "HCL Șipote nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 86/2022 privind aprobarea ordinii de zi a ședinței „ extraordinară ” din data de 06 iulie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65518",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-87-2022",
+   "path": "local/iasi/sipote/2022/87",
+   "short": "HCL Șipote nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 87/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data de 29 iunie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65519",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-88-2022",
+   "path": "local/iasi/sipote/2022/88",
+   "short": "HCL Șipote nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 88/2022 privind rectificarea nr 3 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65520",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-9-2022",
+   "path": "local/iasi/sipote/2022/9",
+   "short": "HCL Șipote nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 9/2022 privind actualizarea inventarului bunurilor mobile care alcătuiesc domeniul privat al comunei Șipote , județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/49094",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/49094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-90-2022",
+   "path": "local/iasi/sipote/2022/90",
+   "short": "HCL Șipote nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 90/2022 privind aprobarea procesului verbal al ședinței ” extraordinare ” din data 06 iulie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/67246",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/67246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-91-2022",
+   "path": "local/iasi/sipote/2022/91",
+   "short": "HCL Șipote nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 91/2022 privind rectificarea nr 4 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/67247",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/67247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-93-2022",
+   "path": "local/iasi/sipote/2022/93",
+   "short": "HCL Șipote nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 93/2022 privind trecerea din domeniul public al Comunei Șipote in domeniul privat al Comunei Șipote a suprafetei de 9.177 mp., situată in intravilanul satului Mitoc , comuna Sipote, jud. Iasi, amplasată in T 14, P A 348, CC 349, L 350, in vederea inceperii demersurilor pentru dezlipirea imobilului si darea în folosință gratuită către Parohia Mitoc a terenului arabil aferent construcției cu destinația locuință Casă Parohială ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/67249",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/67249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-94-2022",
+   "path": "local/iasi/sipote/2022/94",
+   "short": "HCL Șipote nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 94/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/67250",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/67250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-95-2022",
+   "path": "local/iasi/sipote/2022/95",
+   "short": "HCL Șipote nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 95/2022 privind dizolvarea voluntară și radierea societății ” SC LOCAL SERVICII ȘIPOTE SRL ”,in care UAT- comuna Șipote , este asociat unic.;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/67251",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/67251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-96-2022",
+   "path": "local/iasi/sipote/2022/96",
+   "short": "HCL Șipote nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 96/2022 privind privind aprobarea demolării imobilului Școala cu clasele I-IV Chișcăreni, in suprafață de 210 mp, imobil aflat în domeniul privat al Comunei Șipote , județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/67252",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/67252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-97-2022",
+   "path": "local/iasi/sipote/2022/97",
+   "short": "HCL Șipote nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 97/2022 privind privind aprobarea ordinii de zi pentru ședința „ extraordinară ” convocată de îndată a Consiliului Local al comunei Șipote din data de 17 august 2022 , ora 830;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/68948",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/68948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-98-2022",
+   "path": "local/iasi/sipote/2022/98",
+   "short": "HCL Șipote nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 98/2022 privind aprobarea procesului verbal al ședinței ” ordinare ” din data de 28 iulie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/68949",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/68949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-99-2022",
+   "path": "local/iasi/sipote/2022/99",
+   "short": "HCL Șipote nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 99/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/68950",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/68950",
      "sha256": null
     }
    ]

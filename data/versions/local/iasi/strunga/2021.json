@@ -3,6 +3,21 @@
  "shard": "local/iasi/strunga/2021",
  "acts": [
   {
+   "slug": "hcl-iasi--strunga-11-2021",
+   "path": "local/iasi/strunga/2021/11",
+   "short": "HCL Strunga nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 11/2021 privind aprobarea modificării unor poziții din inventarul domeniului public al comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23583",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23583",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-12-2021",
    "path": "local/iasi/strunga/2021/12",
    "short": "HCL Strunga nr. 12/2021",
@@ -273,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-3-2021",
+   "path": "local/iasi/strunga/2021/3",
+   "short": "HCL Strunga nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 3/2021 privind organizarea rețelei școlare a unităților de învățământ de pe raza comunei Strunga, județul Iași, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23575",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23575",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-30-2021",
    "path": "local/iasi/strunga/2021/30",
    "short": "HCL Strunga nr. 30/2021",
@@ -298,6 +328,96 @@
      "from": "2021-05-28",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/26571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-4-2021",
+   "path": "local/iasi/strunga/2021/4",
+   "short": "HCL Strunga nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 4/2021 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap de pe raza comunei Strunga, județul Iași, pentru anul 2021",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23576",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-5-2021",
+   "path": "local/iasi/strunga/2021/5",
+   "short": "HCL Strunga nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 5/2021 privind aprobarea înregistrării audio-video a ședințelor Consiliului local al comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23577",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-6-2021",
+   "path": "local/iasi/strunga/2021/6",
+   "short": "HCL Strunga nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 6/2021 privind aprobarea Programului anual al achizițiilor publice al comunei strunga, județul Iași, pe anul 2021",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23578",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-7-2021",
+   "path": "local/iasi/strunga/2021/7",
+   "short": "HCL Strunga nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 7/2021 privind stabilirea datelor necesare întocmirii Noului program de transport public județean de persoane prin curse regulate",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23579",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-8-2021",
+   "path": "local/iasi/strunga/2021/8",
+   "short": "HCL Strunga nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 8/2021 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2021",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23580",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-9-2021",
+   "path": "local/iasi/strunga/2021/9",
+   "short": "HCL Strunga nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 9/2021 privind aprobarea normativelor proprii pentru consumul lunar de carburanți necesar autovehiculelor și utilajelor aflate în dotarea Primărei comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23581",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23581",
      "sha256": null
     }
    ]

@@ -3,6 +3,66 @@
  "shard": "local/iasi/plugari/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--plugari-24-2024",
+   "path": "local/iasi/plugari/2024/24",
+   "short": "HCL Plugari nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 24/2024 privind aprobarea participării UAT comuna Plugari în cadrul Programului vizând sisteme de alimentare cu apă, canalizare şi epurare a apelor uzate, aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții intitulat ”Înființare rețea de canalizare in sat Plugari, comuna Plugari”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/161463",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/161463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-29-2024",
+   "path": "local/iasi/plugari/2024/29",
+   "short": "HCL Plugari nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 29/2024 privind actualizarea Serviciului Voluntar pentru Situatii de Urgenta al comunei Plugari, judetul Iasi",
+   "url": "https://emol.ro/plugari-is/registru-hcl/161786",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/161786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-30-2024",
+   "path": "local/iasi/plugari/2024/30",
+   "short": "HCL Plugari nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 30/2024 privind actualizarea traseelor si statiilor de imbarcare/debarcare a calatorilor pentru transportul public judetean de persoane",
+   "url": "https://emol.ro/plugari-is/registru-hcl/161787",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/161787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-46-2024",
+   "path": "local/iasi/plugari/2024/46",
+   "short": "HCL Plugari nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 46/2024 privind trecerea din domeniul privat al comunei Plugari, in domeniul public al comunei Plugari, a terenului in suprafata de 9.770 mp situat T45 ,P374/1/3, obiectul trecerii fiind de ,,utilitate publica “",
+   "url": "https://emol.ro/plugari-is/registru-hcl/165280",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/165280",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--plugari-58-2024",
    "path": "local/iasi/plugari/2024/58",
    "short": "HCL Plugari nr. 58/2024",

@@ -3,6 +3,96 @@
  "shard": "local/iasi/popesti/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--popesti-1-2024",
+   "path": "local/iasi/popesti/2024/1",
+   "short": "HCL Popești nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 1/2024 privind validarea dispoziției nr. 6/05.01.2024 privind acoperirea definitivă din excedentul bugetului local al anilor precedenți a deficitului secțiunii de dezvoltare în sumă de 2,394.398,32 Iei, potrivit art. 58 alin. l lit. c din Legea 27312006 privind finan{ele publice locale",
+   "url": "https://emol.ro/popesti-is/registru-hcl/146238",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/146238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-12-2024",
+   "path": "local/iasi/popesti/2024/12",
+   "short": "HCL Popești nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 12/2024",
+   "url": "https://emol.ro/popesti-is/registru-hcl/146263",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/146263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-2-2024",
+   "path": "local/iasi/popesti/2024/2",
+   "short": "HCL Popești nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 2/2024 privind aprobarea utilizării excedentului bugetar, al comunei Popești, Jud. Iași din anii anteriori și anul 2023, în anul 2024 în sumă de 6.226.327,67 lei",
+   "url": "https://emol.ro/popesti-is/registru-hcl/146239",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/146239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-21-2024",
+   "path": "local/iasi/popesti/2024/21",
+   "short": "HCL Popești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 21/2024 privind stabilirea criteriilor și a metodologiei de acordare a ajutoarelor de urgență în baza prevederilor Legii nr. 196/2016 privind venitul minim de incluziune , cu modificările și completările ulterioare, pentru familiile singure și familiile defavorizate, aflate în situații de necesitate",
+   "url": "https://emol.ro/popesti-is/registru-hcl/149956",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/149956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-48-2024",
+   "path": "local/iasi/popesti/2024/48",
+   "short": "HCL Popești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 48/2024 privind aprobarea Regulamentului de organizare și funcționare, a Regulamentului privind închirierea spațiilor/obiectelor de inventar din incinta Așezământului Cultural POPEȘTI, judeţul IAȘI și taxa pentru închirierea spațiilor/obiectelor de inventar care aparțin Așezământului Cultural POPEȘTI-Iași",
+   "url": "https://emol.ro/popesti-is/registru-hcl/170824",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/170824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popesti-51-2024",
+   "path": "local/iasi/popesti/2024/51",
+   "short": "HCL Popești nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 51/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Popești",
+   "url": "https://emol.ro/popesti-is/registru-hcl/173730",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popesti-is/registru-hcl/173730",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popesti-57-2024",
    "path": "local/iasi/popesti/2024/57",
    "short": "HCL Popești nr. 57/2024",

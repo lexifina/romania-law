@@ -3,6 +3,606 @@
  "shard": "local/iasi/movileni/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--movileni-1-2022",
+   "path": "local/iasi/movileni/2022/1",
+   "short": "HCL Movileni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 1/2022 privind aprobarea achizitionarii contractului serviciilor de consultanţă juridică /asistenta şi de reprezentare a intereselor comunei Movileni , judeţul Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/47317",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/47317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-100-2022",
+   "path": "local/iasi/movileni/2022/100",
+   "short": "HCL Movileni nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 100/2022 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Iunie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/67418",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/67418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-101-2022",
+   "path": "local/iasi/movileni/2022/101",
+   "short": "HCL Movileni nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 101/2022 privind aprobarea alocării sumei de10.000 lei de la bugetul local, Scolii Gimnaziale Larga-Jijia, pentru efectuarea unei excursii cu elevii",
+   "url": "https://emol.ro/movileni-is/registru-hcl/67419",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/67419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-102-2022",
+   "path": "local/iasi/movileni/2022/102",
+   "short": "HCL Movileni nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 102/2022 privind alocarea sumelor necesare pentru organizarea zilei Comunei Movileni, Judetul Iasi , in anul 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/67420",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/67420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-103-2022",
+   "path": "local/iasi/movileni/2022/103",
+   "short": "HCL Movileni nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 103/2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/67421",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/67421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-104-2022",
+   "path": "local/iasi/movileni/2022/104",
+   "short": "HCL Movileni nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 104/2022 privind aprobarea participarii la „Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public” si a devizului general pentru proiectul “Modernizare sistem de iluminat public in comuna MOVILENI, judetul Iasi”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/67422",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/67422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-106-2022",
+   "path": "local/iasi/movileni/2022/106",
+   "short": "HCL Movileni nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 106/2022 privind rectificarea bugetului de venituri și cheltuieli aferentă anului 2022 ,al comunei Movileni ,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/67424",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/67424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-107-2022",
+   "path": "local/iasi/movileni/2022/107",
+   "short": "HCL Movileni nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 107/2022 privind aprobarea indicatorilor tehnico-economici actualizați și asigurarea cofinanțării de la bugetul local pentru categoriile de cheltuieli care nu se finantează de la bugetul de stat pentru obiectivul de investiție ,,Construire dispensar medical în localitatea Movileni,",
+   "url": "https://emol.ro/movileni-is/registru-hcl/67425",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/67425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-108-2022",
+   "path": "local/iasi/movileni/2022/108",
+   "short": "HCL Movileni nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 108/2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/68188",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/68188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-109-2022",
+   "path": "local/iasi/movileni/2022/109",
+   "short": "HCL Movileni nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 109/2022 privind transformarea functiei publice de execuție de vacantă de consilier,I, grad profesional superior-cu atributii achiziții publice, din cadrul Compartimentului Buget,finanțe,Impozite și taxe locale contabilitate , în funcția publică de execuție de consilier,clasa I,grad profesional debutant -cu atributii achiziții publice",
+   "url": "https://emol.ro/movileni-is/registru-hcl/68456",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/68456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-110-2022",
+   "path": "local/iasi/movileni/2022/110",
+   "short": "HCL Movileni nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 110/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/68457",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/68457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-111-2022",
+   "path": "local/iasi/movileni/2022/111",
+   "short": "HCL Movileni nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 111/2022 privind confirmarea apartenenței la domeniul public a unor drumuri din Inventarul bunurilor care alcătuiesc domeniul public al comunei Movileni ,județul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/68458",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/68458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-112-2022",
+   "path": "local/iasi/movileni/2022/112",
+   "short": "HCL Movileni nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 112/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție ,, Amenajare trotuare în comuna Movileni, județul Iași”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/69556",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/69556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-113-2022",
+   "path": "local/iasi/movileni/2022/113",
+   "short": "HCL Movileni nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 113/2022 privind încetarea Contractului de concesiune nr. 7508 /27.08.2019",
+   "url": "https://emol.ro/movileni-is/registru-hcl/69557",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/69557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-114-2022",
+   "path": "local/iasi/movileni/2022/114",
+   "short": "HCL Movileni nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 114/2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/69558",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/69558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-115-2022",
+   "path": "local/iasi/movileni/2022/115",
+   "short": "HCL Movileni nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 115/2022 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Iulie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/69559",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/69559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-116-2022",
+   "path": "local/iasi/movileni/2022/116",
+   "short": "HCL Movileni nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 116/2022 privind actualizarea Listei obiectivelor de investiții aferentă anului 2022 ,al comunei Movileni ,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/70838",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/70838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-117-2022",
+   "path": "local/iasi/movileni/2022/117",
+   "short": "HCL Movileni nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 117/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiție ,, ,,Construire trotuare în satele Movileni și Larga-Jijia ,comuna Movileni ,județul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/70839",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/70839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-118-2022",
+   "path": "local/iasi/movileni/2022/118",
+   "short": "HCL Movileni nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 118/2022 privind transformarea functiei publice de execuție de vacantă de inspector,I, grad profesional superior-cu atributii cadastru și fond funciar , din cadrul Compartimentului administrație publică locală ,secretariat administrativ ,Registratură și relații cu publicul , în funcția publică de execuție de inspector,clasa I,grad profesional debutant -cu atributii cadastru și fond funciar",
+   "url": "https://emol.ro/movileni-is/registru-hcl/70840",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/70840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-119-2022",
+   "path": "local/iasi/movileni/2022/119",
+   "short": "HCL Movileni nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 119/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/70841",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/70841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-12-2022",
+   "path": "local/iasi/movileni/2022/12",
+   "short": "HCL Movileni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 12/2022 privind elaborarea și actualizarea Planului Urbanistic General ,inclusiv a documentației pentru obținerea avizelor și obținerea acestora",
+   "url": "https://emol.ro/movileni-is/registru-hcl/48651",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/48651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-120-2022",
+   "path": "local/iasi/movileni/2022/120",
+   "short": "HCL Movileni nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 120/2022 privind modificarea si completarea HCL nr. 50/07.04.2022 cu privire la depunerea proiectului „AMENAJARE PISTE PENTRU BICICLETE ÎN COMUNA MOVILENI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/72697",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/72697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-121-2022",
+   "path": "local/iasi/movileni/2022/121",
+   "short": "HCL Movileni nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 121/2022 privind rectificarea bugetului de venituri și cheltuieli aferentă anului 2022 ,al comunei Movileni ,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/72698",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/72698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-125-2022",
+   "path": "local/iasi/movileni/2022/125",
+   "short": "HCL Movileni nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 125/2022 privind Graficul de sedințe al Consiliului local Movileni pe trim. IV– 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/73787",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/73787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-126-2022",
+   "path": "local/iasi/movileni/2022/126",
+   "short": "HCL Movileni nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 126/2022 privind actualizarea coeficienților de ierarhizare pentru stabilirea salariilor de baza aferente functiilor publice si contractuale din cadrul aparatului de specialitate al primarului comunei Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/73788",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/73788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-127-2022",
+   "path": "local/iasi/movileni/2022/127",
+   "short": "HCL Movileni nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 127/2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/73789",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/73789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-128-2022",
+   "path": "local/iasi/movileni/2022/128",
+   "short": "HCL Movileni nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 128/2022 privind inițierea obiectivului de investiție ,,Extindere rețea energie electrică ,comuna Movileni,,localitatea Iepureni,zona II ,DJ 282 ,județul Iași ,, și introducerea în lista obiectivelor de investiții a comunei Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/73790",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/73790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-129-2022",
+   "path": "local/iasi/movileni/2022/129",
+   "short": "HCL Movileni nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 129/2022 privind rectificarea bugetului de venituri și cheltuieli aferentă trim,III anului 2022 ,al comunei Movileni ,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/73791",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/73791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-13-2022",
+   "path": "local/iasi/movileni/2022/13",
+   "short": "HCL Movileni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 13/2022 privind cofinanțarea lucrărilor de înregistrare sistematică pe sectoare cadastrale în vederea înscrierii imobilelor în SISTEMUL INTEGRAT DE CADASTRU SI CARTE FUNCIARA ,APARTINÂND UAT MOVILENI,JUD. IASI",
+   "url": "https://emol.ro/movileni-is/registru-hcl/48652",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/48652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-130-2022",
+   "path": "local/iasi/movileni/2022/130",
+   "short": "HCL Movileni nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 130/2022 privind înființarea Serviciului social de asistență comunitară pentru persoanele vârstnice din comuna Movileni,județul Iași ,a Regulamentului de organizare şi funcţionare ale serviciilor publice de asistenţă socială al serviciului social, depunerii proiectului de solicitare a finanțarii în Programul de interes national derulat de Ministerul Muncii si solidarității sociale ,aprobarea bugetului proiectului și cofinanțării pentru perioada de derulare a proiectului",
+   "url": "https://emol.ro/movileni-is/registru-hcl/75323",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/75323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-131-2022",
+   "path": "local/iasi/movileni/2022/131",
+   "short": "HCL Movileni nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 131/2022 privind aprobarea depunerii proiectului “AMENAJARE PISTE PENTRU BICICLETE ÎN COMUNA MOVILENI, JUDEȚUL IAȘI – Etapa II”, şi a notei de fundamentare",
+   "url": "https://emol.ro/movileni-is/registru-hcl/75324",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/75324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-132-2022",
+   "path": "local/iasi/movileni/2022/132",
+   "short": "HCL Movileni nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 132/2022 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 2",
+   "url": "https://emol.ro/movileni-is/registru-hcl/78064",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/78064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-133-2022",
+   "path": "local/iasi/movileni/2022/133",
+   "short": "HCL Movileni nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 133/2022 privind rectificarea bugetului de venituri și cheltuieli aferentă anului 2022 și actualizarea Listei obiectivelor de investiții ,al comunei Movileni ,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/78065",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/78065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-134-2022",
+   "path": "local/iasi/movileni/2022/134",
+   "short": "HCL Movileni nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 134/2022 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiție ,, Construire trotuare în satele Movileni și Larga-Jijia ,comuna Movileni ,județul Iași,,",
+   "url": "https://emol.ro/movileni-is/registru-hcl/78066",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/78066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-135-2022",
+   "path": "local/iasi/movileni/2022/135",
+   "short": "HCL Movileni nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 135/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/78067",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/78067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-136-2022",
+   "path": "local/iasi/movileni/2022/136",
+   "short": "HCL Movileni nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 136/2022 privind inițierea lucrărilor de modernizare în vederea obținerii de autorizație de securitate la la incendiu pentru Grădinița cu program normal,sat Potângeni,comuna Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/78068",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/78068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-137-2022",
+   "path": "local/iasi/movileni/2022/137",
+   "short": "HCL Movileni nr. 137/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 137/2022 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Septembrie și Octombrie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/80804",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/80804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-138-2022",
+   "path": "local/iasi/movileni/2022/138",
+   "short": "HCL Movileni nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 138/2022 privind aprobarea prelungirii Contractului de concesiune nr.2049/23.04.2018",
+   "url": "https://emol.ro/movileni-is/registru-hcl/80805",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/80805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-139-2022",
+   "path": "local/iasi/movileni/2022/139",
+   "short": "HCL Movileni nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 139/2022 privind stabilirea Programului de audiențe a consilierilor locali ai Consiliului local Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/80806",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/80806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-14-2022",
+   "path": "local/iasi/movileni/2022/14",
+   "short": "HCL Movileni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 14/2022 privind participarea comunei Movileni ,județul Iasi , la proiectul de investiție ”Dezvoltarea rețelei de drumuri locale din Zona Metropolitană Iași pentru decongestionarea traficului”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/49757",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/49757",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-140-2022",
    "path": "local/iasi/movileni/2022/140",
    "short": "HCL Movileni nr. 140/2022",
@@ -153,6 +753,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--movileni-15-2022",
+   "path": "local/iasi/movileni/2022/15",
+   "short": "HCL Movileni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 15/2022 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunilor Noiembrie și Decembrie 2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/49758",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/49758",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--movileni-150-2022",
    "path": "local/iasi/movileni/2022/150",
    "short": "HCL Movileni nr. 150/2022",
@@ -298,6 +913,876 @@
      "from": "2023-01-05",
      "units": 1,
      "source_url": "https://emol.ro/movileni-is/registru-hcl/84567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-16-2022",
+   "path": "local/iasi/movileni/2022/16",
+   "short": "HCL Movileni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 16/2022 privind aprobarea contului anual de încheiere a exerciţiului bugetar și utilizarea excedentului bugetar pe anul 2021 al comunei Movileni ,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/50261",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/50261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-17-2022",
+   "path": "local/iasi/movileni/2022/17",
+   "short": "HCL Movileni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 17/2022 privind aprobarea bugetului local de venituri și cheltuieli și a Listei de investiții pe anul 2022 al comunei Movileni,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/50262",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/50262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-18-2022",
+   "path": "local/iasi/movileni/2022/18",
+   "short": "HCL Movileni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 18/2022 privind actualizarea devizului general pentru obiectivul de investitii„ MODERNIZARE DRUMURI COMUNALE COMUNA MOVILENI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/50263",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/50263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-19-2022",
+   "path": "local/iasi/movileni/2022/19",
+   "short": "HCL Movileni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 19/2022 privind actualizarea devizului general pentru obiectivul de investitii„ MODERNIZARE DRUMURI COMUNALE ÎN SATELE LARGA-JIJIA, POTÂNGENI ȘI IEPURENI DIN COMUNA MOVILENI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/50264",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/50264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-2-2022",
+   "path": "local/iasi/movileni/2022/2",
+   "short": "HCL Movileni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 2/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/47944",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/47944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-20-2022",
+   "path": "local/iasi/movileni/2022/20",
+   "short": "HCL Movileni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 20/2022 privind propunerea casării autoturismului Dacia logan IS-14-DFP și aprobarea demarării procedurii de casare",
+   "url": "https://emol.ro/movileni-is/registru-hcl/51131",
+   "versions": [
+    {
+     "from": "2022-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/51131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-21-2022",
+   "path": "local/iasi/movileni/2022/21",
+   "short": "HCL Movileni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 21/2022 privind însușirea Raportului anual privind starea economică, socială și de mediu a unității administrativ-teritoriale Movileni pentru anul 2021",
+   "url": "https://emol.ro/movileni-is/registru-hcl/52272",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/52272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-23-2022",
+   "path": "local/iasi/movileni/2022/23",
+   "short": "HCL Movileni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 23/2022 privind adoptarea Strategiei Anuală de Achiziţii Publice și a Planului anual de achiziții publice aferent anului 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/52274",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/52274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-24-2022",
+   "path": "local/iasi/movileni/2022/24",
+   "short": "HCL Movileni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 24/2022 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Ianuarie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/52275",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/52275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-25-2022",
+   "path": "local/iasi/movileni/2022/25",
+   "short": "HCL Movileni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 25/2022 privind completarea Hotărârii Consiliului local nr.17/09.02.2022 privind aprobarea bugetului local de venituri și cheltuieli pe anul 2022 al comunei Movileni,jud.Iasi și estimările pe anii 2023-2025",
+   "url": "https://emol.ro/movileni-is/registru-hcl/52276",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/52276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-26-2022",
+   "path": "local/iasi/movileni/2022/26",
+   "short": "HCL Movileni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 26/2022 privind rectificarea bugetară aferentă trimestrului I a anului bugetar 2022 si actualizarea și completarea Listei de investiții pe anul 2022 al comunei Movileni ,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/53410",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/53410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-27-2022",
+   "path": "local/iasi/movileni/2022/27",
+   "short": "HCL Movileni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 27/2022 privind aprobarea Temei de proiectare pentru realizarea obiectivului de investitie”Amenajare trotuare în comuna Movileni, județul Iași”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/53411",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/53411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-28-2022",
+   "path": "local/iasi/movileni/2022/28",
+   "short": "HCL Movileni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 28/2022 privind aprobarea Notei conceptuale aferentă obiectivului de investiții ”Construire Sala de Sport, Comuna Movileni, sat Larga Jijia, jud Iași”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/53412",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/53412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-3-2022",
+   "path": "local/iasi/movileni/2022/3",
+   "short": "HCL Movileni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 3/2022 privind externalizarea și achiziţionarea serviciilor de contabilitate din aparatul de specialitate al comunei Movileni , judeţul Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/47945",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/47945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-30-2022",
+   "path": "local/iasi/movileni/2022/30",
+   "short": "HCL Movileni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 30/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/53414",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/53414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-34-2022",
+   "path": "local/iasi/movileni/2022/34",
+   "short": "HCL Movileni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 34/2022 privind încheierea unui Acord de parteneriat între comunele Movileni,Românești și Rediu în vederea finanțării prin Programul Național de Investiții ,,Anghel Saligny”,conform Ordinului nr.268/167/2022,privind aprobarea Normelor metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 95/2021 pentru aprobarea Programului național de investiții „Anghel Saligny”, pentru categoria de investiții prevăzută la art. 4 alin. (1) lit. e) din Ordonanța de urgență a Guvernului nr. 95/2021-respectiv sisteme de distribuție a gazelor naturale, inclusiv a branșamentelor, precum și a racordului la sistemul de transport al gazelor naturale",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55678",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-37-2022",
+   "path": "local/iasi/movileni/2022/37",
+   "short": "HCL Movileni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 37/2022 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Februarie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55681",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-38-2022",
+   "path": "local/iasi/movileni/2022/38",
+   "short": "HCL Movileni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 38/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55682",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-4-2022",
+   "path": "local/iasi/movileni/2022/4",
+   "short": "HCL Movileni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 4/2022 privind externalizarea și achiziţionarea serviciilor de achiziție publică din aparatul de specialitate al comunei Movileni , judeţul Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/47946",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/47946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-40-2022",
+   "path": "local/iasi/movileni/2022/40",
+   "short": "HCL Movileni nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 40/2022 privind Graficul de sedințe ale Consiliului local Movileni pe trim. II– 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55684",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-41-2022",
+   "path": "local/iasi/movileni/2022/41",
+   "short": "HCL Movileni nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 41/2022 privind rectificarea bugetului de venituri și cheltuieli aferent trimestrului I al anului 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/55685",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/55685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-42-2022",
+   "path": "local/iasi/movileni/2022/42",
+   "short": "HCL Movileni nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 42/2022 privind aprobarea completării denumirii Compartimentului administrație publică locală și secretariat administrativ din cadrul Primăriei comunei Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56651",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-46-2022",
+   "path": "local/iasi/movileni/2022/46",
+   "short": "HCL Movileni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 46/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56655",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-47-2022",
+   "path": "local/iasi/movileni/2022/47",
+   "short": "HCL Movileni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 47/2022 privind încheierea unui contract de prestări servicii de pază și protecție pentru comuna Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56656",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-5-2022",
+   "path": "local/iasi/movileni/2022/5",
+   "short": "HCL Movileni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 5/2022 privind acoperirea definitivă a deficitului bugetar pe anul 2021, a sectiunii de dezvoltare, în sumă de 241.919,31 lei",
+   "url": "https://emol.ro/movileni-is/registru-hcl/47947",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/47947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-50-2022",
+   "path": "local/iasi/movileni/2022/50",
+   "short": "HCL Movileni nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 50/2022 privind privind inițierea și aprobarea indicatorilor tehnico-economici a proiectului de investiție ,,Amenajare piste de biciclete în comuna Movileni,județul Iași,, in vederea finanțării prin Planul Național de Redresare și Reziliență ,partea II ,Componenta 10-Fondul local",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56659",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-51-2022",
+   "path": "local/iasi/movileni/2022/51",
+   "short": "HCL Movileni nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 51/2022 privind rectificarea bugetului de venituri și cheltuieli aferent trimestrului II al anului 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/56660",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/56660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-52-2022",
+   "path": "local/iasi/movileni/2022/52",
+   "short": "HCL Movileni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 52/2022 privind completarea Listei de investiții pe anul 2022 al comunei Movileni,jud.Iasi cu obiectivul de investiție :„Infiintare sistem inteligent de distributie gaze naturale in comunele REDIU, MOVILENI, judetul IASI”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/57962",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/57962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-53-2022",
+   "path": "local/iasi/movileni/2022/53",
+   "short": "HCL Movileni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 53/2022 privind aprobarea incheierii Acordului de Parteneriat, pentru realizarea investitiei „Infiintare sistem inteligent de distributie gaze naturale in comunele REDIU, MOVILENI, judetul IASI”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/57963",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/57963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-54-2022",
+   "path": "local/iasi/movileni/2022/54",
+   "short": "HCL Movileni nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 54/2022 privind aprobarea implementarii obiectivului de investiții:„Infiintare sistem inteligent de distributie gaze naturale in comunele REDIU, MOVILENI, judetul IASI”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/57964",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/57964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-55-2022",
+   "path": "local/iasi/movileni/2022/55",
+   "short": "HCL Movileni nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 55/2022 privind încetarea Contractului de concesiune nr. 3057/2019",
+   "url": "https://emol.ro/movileni-is/registru-hcl/59028",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/59028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-56-2022",
+   "path": "local/iasi/movileni/2022/56",
+   "short": "HCL Movileni nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 56/2022 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Martie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/59029",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/59029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-57-2022",
+   "path": "local/iasi/movileni/2022/57",
+   "short": "HCL Movileni nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 57/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/59030",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/59030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-59-2022",
+   "path": "local/iasi/movileni/2022/59",
+   "short": "HCL Movileni nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 59/2022 privind rezilierea Contractului de lucrări nr. 2028/09.03.2020 încheiat cu SC MDV BUILD SRL pentru obiectivul de investitie ,,Construire dispensar medical în localitatea Movileni,, și reatribuirea contractului de lucrări",
+   "url": "https://emol.ro/movileni-is/registru-hcl/59032",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/59032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-6-2022",
+   "path": "local/iasi/movileni/2022/6",
+   "short": "HCL Movileni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 6/2022 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza Comunei Movileni, judetul Iași, care vor funcționa în anul școlar 2022-2023",
+   "url": "https://emol.ro/movileni-is/registru-hcl/47948",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/47948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-60-2022",
+   "path": "local/iasi/movileni/2022/60",
+   "short": "HCL Movileni nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 60/2022 privind actualizarea devizelor generale pentru obiectivele de investiții de pe raza comunei Movileni, județul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/59033",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/59033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-62-2022",
+   "path": "local/iasi/movileni/2022/62",
+   "short": "HCL Movileni nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 62/2022 privind asumarea/neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor /acordurilor-cadru pentru achizitia produselor aferente Programului pentru scoli al Romaniei",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61538",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-63-2022",
+   "path": "local/iasi/movileni/2022/63",
+   "short": "HCL Movileni nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 63/2022 privind transformarea funcției contractuale vacante de muncitor calificat în funcția contractuală de muncitor necalificat din cadrul Compartimentului de gospodărire comunală a Primăriei comunei Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61539",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-64-2022",
+   "path": "local/iasi/movileni/2022/64",
+   "short": "HCL Movileni nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 64/2022 privind actualizarea organigramei și a statului de funcții cuprinzând funcțiile publice și personalul contractual din cadrul aparatului de specialitate al primarului comunei Movileni, județului Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61540",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-65-2022",
+   "path": "local/iasi/movileni/2022/65",
+   "short": "HCL Movileni nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 65/2022 privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Aprilie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61541",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-66-2022",
+   "path": "local/iasi/movileni/2022/66",
+   "short": "HCL Movileni nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 66/2022 privind aprobarea Regulamentului privind organizarea și funcționarea Comisiei Locale de Fond Funciar Movileni pentru stabilirea dreptului de proprietate private asupra terenurilor și modul de lucru cu Comisia Judeteana Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61542",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-67-2022",
+   "path": "local/iasi/movileni/2022/67",
+   "short": "HCL Movileni nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 67/2022 privind aprobarea Strategiei de dezvoltare durabila 2022-2027 a comunei Movileni ,județul Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61543",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-68-2022",
+   "path": "local/iasi/movileni/2022/68",
+   "short": "HCL Movileni nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 68/2022 privind aprobarea Regulamentului de acordare a tichetelor de vacanță ,personalului din cadrul aparatului de specialitate al primarului comunei Movileni,judetul Iași",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61544",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-69-2022",
+   "path": "local/iasi/movileni/2022/69",
+   "short": "HCL Movileni nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 69/2022 privind rectificarea bugetului de venituri și cheltuieli și a listei de investiții aferent trimestrului II al anului 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61545",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-7-2022",
+   "path": "local/iasi/movileni/2022/7",
+   "short": "HCL Movileni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 7/2022 privind aprobarea Procesului verbal al Comisiei speciale pentru întocmirea Inventarului bunurilor care alcatuiesc domeniul public al comunei si Inventarului bunurilor care alcătuiesc domeniul privat al comunei Movileni",
+   "url": "https://emol.ro/movileni-is/registru-hcl/47949",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/47949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-70-2022",
+   "path": "local/iasi/movileni/2022/70",
+   "short": "HCL Movileni nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 70/2022 privind transformarea functiei publice de execuție vacantă de inspector,I, grad profesional asistent-cu atribuții proiecte si dezvoltare locală , din cadrul Compartimentului administrație publică locală, secretariat administrativ,Registratură si relații cu publicul, în funcția publică de execuție de inspector,clasa I,grad profesional principal",
+   "url": "https://emol.ro/movileni-is/registru-hcl/61546",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/61546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-87-2022",
+   "path": "local/iasi/movileni/2022/87",
+   "short": "HCL Movileni nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 87/2022 privind rectificarea bugetului de venituri și cheltuieli aferentă trimestrului II a anului 2022 ,al comunei Movileni ,jud.Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65895",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-88-2022",
+   "path": "local/iasi/movileni/2022/88",
+   "short": "HCL Movileni nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 88/2022 privind revocarea Hotărârii Consiliului local Movileni nr. 66 din data de 26.05.2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65896",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-89-2022",
+   "path": "local/iasi/movileni/2022/89",
+   "short": "HCL Movileni nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 89/2022 privind aprobarea Statutului unității administrativ-teritoriale Movileni ,județul Iasi",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65897",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-91-2022",
+   "path": "local/iasi/movileni/2022/91",
+   "short": "HCL Movileni nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 91/2022 privind alegerea președintelui de ședintă al Consiliului local Movileni, pentru perioada iulie,august și septembrie 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65899",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-92-2022",
+   "path": "local/iasi/movileni/2022/92",
+   "short": "HCL Movileni nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 92/2022 privind Graficul de sedințe al Consiliului local Movileni pe trim. III– 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65900",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-93-2022",
+   "path": "local/iasi/movileni/2022/93",
+   "short": "HCL Movileni nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 93/2022 privind privind aprobarea decontării cheltuielilor de transport pentru cadrele didactice din unitatea de învătământ Școala Gimnaziala Larga-Jijia, Comuna Movileni, județul Iași, aferente lunii Mai 2022",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65901",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-94-2022",
+   "path": "local/iasi/movileni/2022/94",
+   "short": "HCL Movileni nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 94/2022 privind actualizarea indicatorilor tehnico-economici și aprobarea Notei justificative pentru obiectivul de investiție ,, Reabilitare Școala cu clasele I-IV Potângeni, comuna Movileni ,județul Iași ,,",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65902",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-95-2022",
+   "path": "local/iasi/movileni/2022/95",
+   "short": "HCL Movileni nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 95/2022 privind actualizarea indicatorilor tehnico-economici și aprobării Notei justificative pentru obiectivul de investiție ,, Reabilitare și extindere Școala gimnazială Larga-Jijia,corp A și B ,comuna Movileni ,județul Iași,,",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65903",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-96-2022",
+   "path": "local/iasi/movileni/2022/96",
+   "short": "HCL Movileni nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 96/2022 privind actualizarea indicatorilor tehnico-economici și aprobarea Notei justificative pentru obiectivul de investiție ,, Reabilitare și modernizare Școala primară Iepureni ,corp A și B ,comuna Movileni ,județul Iași ,,",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65904",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-97-2022",
+   "path": "local/iasi/movileni/2022/97",
+   "short": "HCL Movileni nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 97/2022 privind aprobarea valorii actualizate a devizului general și asigurarea finanţării de la bugetul local pentru categoriile de cheltuieli, care nu se finanțează de la bugetul de stat prin PNDL pentru obiectivul de investiții pentru obiectivul de investiție „REABILITARE SCOALA CU CLASELE I-IV POTANGENI, COMUNA MOVILENI, JUDETUL IASI”",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65905",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-98-2022",
+   "path": "local/iasi/movileni/2022/98",
+   "short": "HCL Movileni nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 98/2022 privind aprobarea valorii actualizate a devizului general și asigurarea finanţării de la bugetul local pentru categoriile de cheltuieli, care nu se finanțează de la bugetul de stat prin PNDL pentru obiectivul de investiții pentru obiectivul de investiție ,, Reabilitare și extindere Școala gimnazială Larga-Jijia,corp A și B ,comuna Movileni ,județul Iași ,,",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65906",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--movileni-99-2022",
+   "path": "local/iasi/movileni/2022/99",
+   "short": "HCL Movileni nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Movileni nr. 99/2022 privind aprobarea valorii actualizate a devizului general și asigurarea finanţării de la bugetul local pentru categoriile de cheltuieli, care nu se finanțează de la bugetul de stat prin PNDL pentru obiectivul de investiții pentru obiectivul de investiție ,, Reabilitare și modernizare Școala primară Iepureni ,corp A și B ,comuna Movileni ,județul Iași ,,",
+   "url": "https://emol.ro/movileni-is/registru-hcl/65907",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/movileni-is/registru-hcl/65907",
      "sha256": null
     }
    ]

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Scânteia nr. 26/2020 privind indexarea impozitelor și taxelor locale, care constau într-o anumită sumă în lei sau care este stabilită pe baza unei anumite sume în lei, cu rata inflației de 3,8 % care se aplică începând cu anul fiscal 2021
+
+HCL Scânteia nr. 26/2020 · 1 versions, from 2020-03-26 (latest in force: 2020-03-26) · <https://emol.ro/scanteia-is/registru-hcl/2396>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-iasi--scanteia-26-2020` (tags `hcl-iasi--scanteia-26-2020/<day>`; `python tools/on.py <day> hcl-iasi--scanteia-26-2020`).
+
+## Decisions made by hand
+
+- HCL Scânteia nr. 26/2020: listed from Consiliul Local al Comunei Scânteia (emol.ro); metadata only for now: no document of it is held.
+- HCL Scânteia nr. 26/2020: dated from 26 March 2020, the day it was adopted (the register gives no later day of publication).
+- HCL Scânteia nr. 26/2020: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

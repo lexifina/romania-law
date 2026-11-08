@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/ghimbav/2008",
+ "acts": [
+  {
+   "slug": "hcl-brasov--ghimbav-58-2008",
+   "path": "local/brasov/ghimbav/2008/58",
+   "short": "HCL Ghimbav nr. 58/2008",
+   "title": "Hotărârea Consiliului Local al Orașului Ghimbav nr. 58/2008 pentru aprobarea Regulamentului privind organizarea si executarea serviciului de transport in regim de taxi si de transport in regim de inchiriere in Orasul Ghimbav Vizualizare",
+   "url": "https://primaria-ghimbav.ro/hotararile-consiliului-local/2016-registrul-pentru-evidenta-hotararilor-consiliului-local/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://primaria-ghimbav.ro/storage/formidable/85/2016-10-31-HCL-58.pdf",
+     "sha256": "8a0d1d042b5107f106926eccfd467de17bd0c02b6ac694d70d1d6acca1b73199"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,231 @@
  "shard": "local/iasi/plugari/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--plugari-11-2025",
+   "path": "local/iasi/plugari/2025/11",
+   "short": "HCL Plugari nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 11/2025 privind înființarea unui centru fix de colectare si asigurarea spațiilor necesare pentru colectarea separată a deșeurilor textile",
+   "url": "https://emol.ro/plugari-is/registru-hcl/195695",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/195695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-12-2025",
+   "path": "local/iasi/plugari/2025/12",
+   "short": "HCL Plugari nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 12/2025 privind aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru obiectivul de investiții :“Amenajare piata in comuna Plugari, judetul Iasi”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/195696",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/195696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-16-2025",
+   "path": "local/iasi/plugari/2025/16",
+   "short": "HCL Plugari nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 16/2025 privind aprobarea utilizarii excedentului bugetului local din anii precedenti, pentru finantarea cheltuielilor sectiunii de dezvoltare aferente bugetului local pentru anul 2025",
+   "url": "https://emol.ro/plugari-is/registru-hcl/204038",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/204038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-19-2025",
+   "path": "local/iasi/plugari/2025/19",
+   "short": "HCL Plugari nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 19/2025 privind aprobarea Listei obiectivelor de investitii pe anul 2025, cu finantare partiala sau integrala de la buget",
+   "url": "https://emol.ro/plugari-is/registru-hcl/204041",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/204041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-3-2025",
+   "path": "local/iasi/plugari/2025/3",
+   "short": "HCL Plugari nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 3/2025 privind aprobarea Programului de de măsuri pentru gospodărirea şi înfrumuseţarea comunei Plugari,judetul Iasi,pentru anul 2025",
+   "url": "https://emol.ro/plugari-is/registru-hcl/195420",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/195420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-37-2025",
+   "path": "local/iasi/plugari/2025/37",
+   "short": "HCL Plugari nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 37/2025 privind inregistrarea comunei Plugari,judetul Iasi în Sistemul Național Electronic de Plată (SNEP) online a taxelor și impozitelor utilizând cardul bancar, și implicit înrolarea în sistemul „Ghișeul.ro” și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/plugari-is/registru-hcl/216095",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/216095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-4-2025",
+   "path": "local/iasi/plugari/2025/4",
+   "short": "HCL Plugari nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 4/2025 privind modificarea si completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009 – consolidat 2021,cu modificarile si completarile ulterioare, prin Actul Aditional nr.8",
+   "url": "https://emol.ro/plugari-is/registru-hcl/195421",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/195421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-41-2025",
+   "path": "local/iasi/plugari/2025/41",
+   "short": "HCL Plugari nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 41/2025 privind aprobarea documentației tehnico-economice la faza Studiu de Fezabilitate, a indicatorilor tehnico-economici și a cheltuielilor proiectului pentru obiectivul de investiții „Construire teren de sport aferent Scolii Profesionale Plugari, Comuna Plugari, județul Iași” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/plugari-is/registru-hcl/216099",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/216099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-42-2025",
+   "path": "local/iasi/plugari/2025/42",
+   "short": "HCL Plugari nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 42/2025 privind aprobarea documentației tehnico-economice la faza Proiect Tehnic, a indicatorilor tehnico-economici și a cheltuielilor proiectului pentru obiectivul de investiții „Construire teren de sport aferent Scolii Profesionale Plugari, Comuna Plugari, județul Iași” propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/plugari-is/registru-hcl/216100",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/216100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-43-2025",
+   "path": "local/iasi/plugari/2025/43",
+   "short": "HCL Plugari nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 43/2025 privind aprobarea Planului de actiune pentru gestionarea cainilor fara stapan in comuna Plugari, judeţul Iași",
+   "url": "https://emol.ro/plugari-is/registru-hcl/216101",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/216101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-47-2025",
+   "path": "local/iasi/plugari/2025/47",
+   "short": "HCL Plugari nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 47/2025 privind însușirea Acordului de cooperare pentru asigurarea suportului IT în vederea dezvoltării și gestionării Registrului Spațiilor Verzi",
+   "url": "https://emol.ro/plugari-is/registru-hcl/220643",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/220643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-48-2025",
+   "path": "local/iasi/plugari/2025/48",
+   "short": "HCL Plugari nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 48/2025 privind actualizarea indicatorilor tehnico-economici aferenti obiectivului de investiții \"ÎNFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA PLUGARI DIN JUDEȚUL IAȘI SI COMUNA PRĂJENI DIN JUDEȚUL BOTOȘANI”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/220644",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/220644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-5-2025",
+   "path": "local/iasi/plugari/2025/5",
+   "short": "HCL Plugari nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 5/2025 privind aprobarea Raportului nr.5321 din 15.12.2022 si aprobarea schimbarii destinatiei obiectivului de investitie intitulat ,,Construire gradinita de copii,fosa septica vidanjabila,racord electric si apa”",
+   "url": "https://emol.ro/plugari-is/registru-hcl/195422",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/195422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-53-2025",
+   "path": "local/iasi/plugari/2025/53",
+   "short": "HCL Plugari nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 53/2025 privind aprobarea obligatiilor financiare rezultate din ,, Acordul de Cooperare nr.31 din 09.01.2012 încheiat cu Asociaţia Comunelor din România – Filiala Judeţeană Iaşi ’’",
+   "url": "https://emol.ro/plugari-is/registru-hcl/225591",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/225591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--plugari-61-2025",
+   "path": "local/iasi/plugari/2025/61",
+   "short": "HCL Plugari nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plugari nr. 61/2025 privind aprobarea realizari obiectivului de investitie:,,Achizitionarea unui microbuz destinat transportului scolar in comuna Plugari,judetul Iasi” și a cofinanțării Proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030",
+   "url": "https://emol.ro/plugari-is/registru-hcl/229339",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plugari-is/registru-hcl/229339",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--plugari-62-2025",
    "path": "local/iasi/plugari/2025/62",
    "short": "HCL Plugari nr. 62/2025",
