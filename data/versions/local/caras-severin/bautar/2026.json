@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-15-2026",
+   "path": "local/caras-severin/bautar/2026/15",
+   "short": "HCL Băuțar nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 15/2026 privind alegerea președintelui de ședință pentru o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/260456",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/260456",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-16-2026",
    "path": "local/caras-severin/bautar/2026/16",
    "short": "HCL Băuțar nr. 16/2026",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-18-2026",
+   "path": "local/caras-severin/bautar/2026/18",
+   "short": "HCL Băuțar nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 18/2026 privind înlocuirea persoanei desemnate ca reprezentant al Consiliului Local al comunei Băuțar care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Băuțar, în anul școlar 2025-2026",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/265578",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/265578",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-19-2026",
    "path": "local/caras-severin/bautar/2026/19",
    "short": "HCL Băuțar nr. 19/2026",
@@ -133,6 +163,21 @@
      "from": "2026-05-06",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/267804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-2-2026",
+   "path": "local/caras-severin/bautar/2026/2",
+   "short": "HCL Băuțar nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 2/2026 Pentru îndreptare eroare materială strecurată în Anexa parte integrantă a Hotărârii Consiliului Local al Comunei Băuțar nr. 50/23.12.2025 privind aprobarea impozitelor şi a taxelor locale la nivelul UAT comunei Băuțar pentru anul 2026",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/253337",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/253337",
      "sha256": null
     }
    ]
@@ -453,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-4-2026",
+   "path": "local/caras-severin/bautar/2026/4",
+   "short": "HCL Băuțar nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 4/2026 privind aprobarea documentației tehnico – economice si a indicatorilor tehnico-economici, faza S.F aferentă proiectului „Construire sala de sport la Scoala Gimnaziala Bautar”",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/253374",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/253374",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-40-2026",
    "path": "local/caras-severin/bautar/2026/40",
    "short": "HCL Băuțar nr. 40/2026",
@@ -558,6 +618,51 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-5-2026",
+   "path": "local/caras-severin/bautar/2026/5",
+   "short": "HCL Băuțar nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 5/2026 privind aprobarea Planului de lucrări de interes local ce se vor executa în anul 2026 cu persoanele majore apte de muncă din familiile beneficiare de ajutor social",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/253375",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/253375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-6-2026",
+   "path": "local/caras-severin/bautar/2026/6",
+   "short": "HCL Băuțar nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 6/2026 privind aprobarea, organizarea unor manifestări culturale, artistice, sportive şi educative la nivelul Comunei Băuțar",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/253376",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/253376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-7-2026",
+   "path": "local/caras-severin/bautar/2026/7",
+   "short": "HCL Băuțar nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 7/2026 Privind aprobarea dezmembrării imobilului situat în UAT comuna Băuțar, Nr. cadastral 32131, în suprafaţă de 1551 m.p. ,in Lotul 1 – 1366 m.p. , Lotul 2 - 185 m.p",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/253377",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/253377",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-8-2026",
    "path": "local/caras-severin/bautar/2026/8",
    "short": "HCL Băuțar nr. 8/2026",
@@ -568,6 +673,21 @@
      "from": "2026-02-26",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/257449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-9-2026",
+   "path": "local/caras-severin/bautar/2026/9",
+   "short": "HCL Băuțar nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 9/2026",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/257450",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/257450",
      "sha256": null
     }
    ]

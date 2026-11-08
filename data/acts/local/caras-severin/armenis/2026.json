@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/armenis/2026",
 "acts": [
 {
+"slug": "hcl-caras-severin--armenis-1-2026",
+"path": "local/caras-severin/armenis/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 1/2026 privind aprobarea documentatiei tehnice faza PT si DTAC,indicatorii tehnico-economici si a Devizului general aferente investitiei,,Sistem de monotorizare si siguranta spatiului public in Comuna Armenis,judetul Caras-Severin",
+"short": "HCL Armeniș nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-24",
+"latest": "2026-02-24",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/272247",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--armenis-2-2026",
 "path": "local/caras-severin/armenis/2026/2",
 "kind": "local",
@@ -22,6 +44,50 @@
 "council_name": "Consiliul Local al Comunei Armeniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--armenis-3-2026",
+"path": "local/caras-severin/armenis/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 3/2026 privind adoptarea Regulamentului local pentru organizarea,administrarea si exploatarea pajistilor apartinand domeniului public si privat al comunei Armenis",
+"short": "HCL Armeniș nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-24",
+"latest": "2026-02-24",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/272249",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--armenis-4-2026",
+"path": "local/caras-severin/armenis/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 4/2026 privind inventarierea terenurilor care se atribuie in anul 2026 crescatorilor de animale de pe raza comunei Armenis in conformitate cu prevederile OUG nr.34/2013",
+"short": "HCL Armeniș nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-24",
+"latest": "2026-02-24",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/272250",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +157,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--armenis-8-2026",
+"path": "local/caras-severin/armenis/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 8/2026",
+"short": "HCL Armeniș nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-24",
+"latest": "2026-02-24",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/272254",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--armenis-9-2026",
 "path": "local/caras-severin/armenis/2026/9",
 "kind": "local",
@@ -135,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--armenis-11-2026",
+"path": "local/caras-severin/armenis/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 11/2026 privind concesionarea prin licitatie publica a suprafetei de 762,48 hectare teren extravilan aflat in domeniul public al comunei Armenis in conformitate cu prevederile OUG nr.34/2013",
+"short": "HCL Armeniș nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/272990",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--armenis-12-2026",
 "path": "local/caras-severin/armenis/2026/12",
 "kind": "local",
@@ -176,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Armeniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--armenis-14-2026",
+"path": "local/caras-severin/armenis/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 14/2026 privind aprobarea asigurarii din bugetul local a contributiei de 20% din valoarea aferenta contributiei de la bugetul de stat prin Programul National de Investitii ,,Anghel Saligny pentru obiectivul de investitii ,,Modernizare sistem de alimentare cu apa comuna Armenis,localitati Armenis si Fenes,judetul Caras-Severin\"",
+"short": "HCL Armeniș nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-29",
+"latest": "2026-04-29",
+"portal": "https://emol.ro/armenis-cs/registru-hcl/272993",
+"council": "caras-severin/armenis",
+"council_name": "Consiliul Local al Comunei Armeniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

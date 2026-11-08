@@ -1,0 +1,60 @@
+{
+"country": "RO",
+"shard": "proiect/2019",
+"acts": [
+{
+"slug": "proiect-parlament-2019-l303-2019",
+"path": "proiect/parlament/2019/l303-2019",
+"kind": "proiect",
+"year": "2019",
+"number": "l303-2019",
+"withdrawn_by": null,
+"reason": null,
+"title": "Propunere legislativă pentru modificarea Ordonanţei de urgenţă a Guvernului nr.57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice",
+"short": "Propunere legislativă L303/2019",
+"code": null,
+"status": "draft, not law",
+"versions": 5,
+"from": "2019-04-09",
+"latest": "2019-10-08",
+"portal": "https://www.senat.ro/legis/lista.aspx?nr_cls=L303&an_cls=2019",
+"flags": {
+"text_missing": "no document of this draft is held as text"
+}
+},
+{
+"slug": "proiect-parlament-2019-l417-2019",
+"path": "proiect/parlament/2019/l417-2019",
+"kind": "proiect",
+"year": "2019",
+"number": "l417-2019",
+"withdrawn_by": null,
+"reason": null,
+"title": "Propunere legislativă pentru completarea Legii nr.196/2018 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari şi administrarea condominiilor",
+"short": "Propunere legislativă L417/2019",
+"code": null,
+"status": "draft, not law",
+"versions": 9,
+"from": "2019-06-06",
+"latest": "2025-11-05",
+"portal": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019"
+},
+{
+"slug": "proiect-parlament-2019-l575-2019",
+"path": "proiect/parlament/2019/l575-2019",
+"kind": "proiect",
+"year": "2019",
+"number": "l575-2019",
+"withdrawn_by": null,
+"reason": null,
+"title": "Propunere legislativă pentru modificarea și completarea Legii nr.196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor",
+"short": "Propunere legislativă L575/2019",
+"code": null,
+"status": "draft, not law",
+"versions": 7,
+"from": "2019-09-25",
+"latest": "2020-02-17",
+"portal": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019"
+}
+]
+}

@@ -1,0 +1,3201 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/anina/2017",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--anina-1-2017",
+   "path": "local/caras-severin/anina/2017/1",
+   "short": "HCL Anina nr. 1/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 1/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-05",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_1_05.01.2017.pdf",
+     "sha256": "bca71555150ed32f7ecc7899c3904476a10afeeb5b947d392180732e03f4531f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-10-2017",
+   "path": "local/caras-severin/anina/2017/10",
+   "short": "HCL Anina nr. 10/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 10/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_10_30.01.2017.pdf",
+     "sha256": "1d0fff23ec2ed007e156535eba9ad1dfc33960220e603cf90e84012acd73cf0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-100-2017",
+   "path": "local/caras-severin/anina/2017/100",
+   "short": "HCL Anina nr. 100/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 100/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_100_12.05.2017.pdf",
+     "sha256": "65ac1a437cd53134ccd201d6f989ff709c68217c73e522af63fcce8feda744f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-101-2017",
+   "path": "local/caras-severin/anina/2017/101",
+   "short": "HCL Anina nr. 101/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 101/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_101_12.05.2017.pdf",
+     "sha256": "58ae66aa5f6d8eaffab3436c8d6c0b36de17bbd1bddcd46e8e0a6d173be04195"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-102-2017",
+   "path": "local/caras-severin/anina/2017/102",
+   "short": "HCL Anina nr. 102/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 102/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_102_12.05.2017.pdf",
+     "sha256": "fcfca2fef1776caa3ec1568ecb3b60fe18dd31394b6cacac63c160f492b6c7f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-106-2017",
+   "path": "local/caras-severin/anina/2017/106",
+   "short": "HCL Anina nr. 106/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 106/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_106_12.05.2017.pdf",
+     "sha256": "cca5868fd5b6c78bda399c6c4873db78d37ef4f7bd9a8d1e71aa2f7ed20af9d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-107-2017",
+   "path": "local/caras-severin/anina/2017/107",
+   "short": "HCL Anina nr. 107/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 107/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_107_12.05.2017.pdf",
+     "sha256": "6cb0ecb0ce210033d2a747b16f465abb1a6a677e037a7b3751716e9eb3436033"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-108-2017",
+   "path": "local/caras-severin/anina/2017/108",
+   "short": "HCL Anina nr. 108/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 108/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_108_12.05.2017.pdf",
+     "sha256": "4b361f6a0b87711432836902260fa3e049b44d7640dec937c3bc324408bfdfea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-109-2017",
+   "path": "local/caras-severin/anina/2017/109",
+   "short": "HCL Anina nr. 109/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 109/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_109_12.05.2017.pdf",
+     "sha256": "e19ea9595b8bc51c5d13deeab89c4cca1b2e956f010f6e67a0ac7dce7404e287"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-11-2017",
+   "path": "local/caras-severin/anina/2017/11",
+   "short": "HCL Anina nr. 11/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 11/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_11_30.01.2017.pdf",
+     "sha256": "0dc0a3c1d896ff6db3d9c56652552692ad4d5f2c08f8611b49d03982a366f45e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-110-2017",
+   "path": "local/caras-severin/anina/2017/110",
+   "short": "HCL Anina nr. 110/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 110/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_110_12.05.2017.pdf",
+     "sha256": "ca200df6dc9d9b9faee6e8bff49d6e898c1f530b8713a1df6313072e015b11af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-111-2017",
+   "path": "local/caras-severin/anina/2017/111",
+   "short": "HCL Anina nr. 111/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 111/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_111_12.05.2017.pdf",
+     "sha256": "0b0f61cd143a7a7972adb97889ba94286e32729bf09e68a886f478db90d7deee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-112-2017",
+   "path": "local/caras-severin/anina/2017/112",
+   "short": "HCL Anina nr. 112/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 112/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_112_07.06.2017.pdf",
+     "sha256": "0c512a20a4f7dcac85372cd5a50e4943dd7c9a1a1fc2aaac46ab21a5e06f56b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-113-2017",
+   "path": "local/caras-severin/anina/2017/113",
+   "short": "HCL Anina nr. 113/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 113/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_113_07.06.2017.pdf",
+     "sha256": "884f2c186c17499c2bfedcb22bd3fd11fee99709b7b6696852fb53df87a794cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-114-2017",
+   "path": "local/caras-severin/anina/2017/114",
+   "short": "HCL Anina nr. 114/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 114/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_114_07.06.2017.pdf",
+     "sha256": "0e72964250ae2fca7dded8af0bf61d2068fa7f7d0f448c68c805532dec33ba46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-115-2017",
+   "path": "local/caras-severin/anina/2017/115",
+   "short": "HCL Anina nr. 115/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 115/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_115_07.06.2017.pdf",
+     "sha256": "7c4e43ad26355a3ce2c985ead7bd785c2179019cb5348f2fbd9d0b786e42265a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-116-2017",
+   "path": "local/caras-severin/anina/2017/116",
+   "short": "HCL Anina nr. 116/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 116/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_116_07.06.2017.pdf",
+     "sha256": "a908c512c0ba27575745f7c2c9c2d1e5e772295ebf56d7ad6078b3337f1c2efa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-117-2017",
+   "path": "local/caras-severin/anina/2017/117",
+   "short": "HCL Anina nr. 117/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 117/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_117_07.06.2017.pdf",
+     "sha256": "f4dce1b25b09b847177d45c8e999c70bdc4feeae283c9d04dd4ee918108fbc7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-118-2017",
+   "path": "local/caras-severin/anina/2017/118",
+   "short": "HCL Anina nr. 118/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 118/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_118_30.06.2017.pdf",
+     "sha256": "4b64e5db8a3b1312c50d28bd0f63209584e6dc21f5763ef95cb118a8db27a0a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-119-2017",
+   "path": "local/caras-severin/anina/2017/119",
+   "short": "HCL Anina nr. 119/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 119/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_119_30.06.2017.pdf",
+     "sha256": "755c356e481f5c9e60f526e92c99b7b796380822674c9eaf008b4a9426c86ec4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-12-2017",
+   "path": "local/caras-severin/anina/2017/12",
+   "short": "HCL Anina nr. 12/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 12/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_12_30.01.2017.pdf",
+     "sha256": "63e84193023251fc89d736415527be398a56c06d63a7962331ca65b5592166d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-120-2017",
+   "path": "local/caras-severin/anina/2017/120",
+   "short": "HCL Anina nr. 120/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 120/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_120_06.07.2017.pdf",
+     "sha256": "b50315d8511f1598224638a86ea6d4efd339fe5ad6e4b0195d8e34f42eb66a40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-121-2017",
+   "path": "local/caras-severin/anina/2017/121",
+   "short": "HCL Anina nr. 121/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 121/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_121_06.07.2017.pdf",
+     "sha256": "0c8f72f6997f47965d084990e83d56b89b4d4d12b73baf8696a4e16d03e57c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-122-2017",
+   "path": "local/caras-severin/anina/2017/122",
+   "short": "HCL Anina nr. 122/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 122/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_122_06.07.2017.pdf",
+     "sha256": "d5a62b783369bb5106308dcd486358407f18391bdddc3d0d7a8011598c3692b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-123-2017",
+   "path": "local/caras-severin/anina/2017/123",
+   "short": "HCL Anina nr. 123/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 123/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_123_06.07.2017.pdf",
+     "sha256": "bb00040e544624c8da0e3384747984beaca382b44eb61fb0ab3d09ddf70e7d62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-124-2017",
+   "path": "local/caras-severin/anina/2017/124",
+   "short": "HCL Anina nr. 124/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 124/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_124_06.07.2017.pdf",
+     "sha256": "e1df067425b366b85262a923d890dd7a42cfca8e73cb894dcff80b5bcad91718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-125-2017",
+   "path": "local/caras-severin/anina/2017/125",
+   "short": "HCL Anina nr. 125/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 125/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_125_06.07.2017.pdf",
+     "sha256": "9d5358281c281aafb1ce5fe39aa85a1e40f4864e2e5f13ba66e7155e29824870"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-126-2017",
+   "path": "local/caras-severin/anina/2017/126",
+   "short": "HCL Anina nr. 126/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 126/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_126_06.07.2017.pdf",
+     "sha256": "b6ade7eb19d503c08d69febce343db6b5099d70a60c88f0b6c7328adc966ded6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-127-2017",
+   "path": "local/caras-severin/anina/2017/127",
+   "short": "HCL Anina nr. 127/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 127/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_127_06.07.2017.pdf",
+     "sha256": "5e77d0c6703de4851048e5841d56db7a21bff001f848737a91a5b01cfb53e6c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-128-2017",
+   "path": "local/caras-severin/anina/2017/128",
+   "short": "HCL Anina nr. 128/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 128/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_128_06.07.2017.pdf",
+     "sha256": "3bc134fc798231118c9cc9b2888202f8bc6914b0088411da29f636f85082b072"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-129-2017",
+   "path": "local/caras-severin/anina/2017/129",
+   "short": "HCL Anina nr. 129/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 129/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_129_06.07.2017.pdf",
+     "sha256": "66c0615d5ad060975d45e51313001d5ab2a22adbdd32f2ebb66caa9aeb92bde3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-13-2017",
+   "path": "local/caras-severin/anina/2017/13",
+   "short": "HCL Anina nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 13/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_13_30.01.2017.pdf",
+     "sha256": "53c0f44fa3dadd0ce5a4f95c9a98a44ed73f5e43ef70432193ad02fd9069ae46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-130-2017",
+   "path": "local/caras-severin/anina/2017/130",
+   "short": "HCL Anina nr. 130/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 130/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_130_06.07.2017.pdf",
+     "sha256": "50f577d27b709822a7be462ab9868c67b3186f34085707ff24fe34578df94dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-131-2017",
+   "path": "local/caras-severin/anina/2017/131",
+   "short": "HCL Anina nr. 131/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 131/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_131_06.07.2017.pdf",
+     "sha256": "5462f240d86b6bd621a3403b09e4a2f80c848b9c68343b56b626d56d2bcda40d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-132-2017",
+   "path": "local/caras-severin/anina/2017/132",
+   "short": "HCL Anina nr. 132/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 132/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_132_06.07.2017.pdf",
+     "sha256": "6ab52f2eef928440edcc5e5a4ff2df06452eda50e2b07c8ee85e2f2c2e8afb48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-133-2017",
+   "path": "local/caras-severin/anina/2017/133",
+   "short": "HCL Anina nr. 133/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 133/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_133_06.07.2017.pdf",
+     "sha256": "f145fd92e06b7935f4abbb63b40b04c973a4623a870e05ef1ab80a4ead70acd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-134-2017",
+   "path": "local/caras-severin/anina/2017/134",
+   "short": "HCL Anina nr. 134/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 134/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_134_06.07.2017.pdf",
+     "sha256": "b69ee48a9ada5809725a396f6892ae7fc2b38a0f5f447897842ac138173d5b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-135-2017",
+   "path": "local/caras-severin/anina/2017/135",
+   "short": "HCL Anina nr. 135/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 135/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_135_06.07.2017.pdf",
+     "sha256": "1d95903db819c348a7335b825f645a20337eac76049529ecababf4bf06615258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-136-2017",
+   "path": "local/caras-severin/anina/2017/136",
+   "short": "HCL Anina nr. 136/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 136/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_136_06.07.2017.pdf",
+     "sha256": "8f114ac4bd1afcc2f0ef9a1ed4dd9f4c030fdac24aae47d4bb3ba6cf565f6f8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-137-2017",
+   "path": "local/caras-severin/anina/2017/137",
+   "short": "HCL Anina nr. 137/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 137/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_137_06.07.2017.pdf",
+     "sha256": "ff8c1d9dd5d584bc446efbb48726331f503ebfe9a14c143f3427644b26a1c7c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-138-2017",
+   "path": "local/caras-severin/anina/2017/138",
+   "short": "HCL Anina nr. 138/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 138/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-18",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_138_18.07.2017.pdf",
+     "sha256": "e911241af1778b2a90db52ac2345ce8b5f0b0c7bace6fd5ea287f8713da824ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-139-2017",
+   "path": "local/caras-severin/anina/2017/139",
+   "short": "HCL Anina nr. 139/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 139/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-18",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_139_18.07.2017.pdf",
+     "sha256": "17e0ac603976a599a33275688b03bf85d2429bd98989f80bcdb1a7cbf6838604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-14-2017",
+   "path": "local/caras-severin/anina/2017/14",
+   "short": "HCL Anina nr. 14/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 14/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_14_30.01.2017.pdf",
+     "sha256": "babdbc1de14f077de28277bb98f64f06653b05340d8517c321c166adadec2331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-140-2017",
+   "path": "local/caras-severin/anina/2017/140",
+   "short": "HCL Anina nr. 140/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 140/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-18",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_140_18.07.2017.pdf",
+     "sha256": "3a8f9dd961e1215925ffc9482bbc5d7a6447f35cb06f8c29016d0be94a6a870d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-141-2017",
+   "path": "local/caras-severin/anina/2017/141",
+   "short": "HCL Anina nr. 141/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 141/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-18",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_141_18.07.2017.pdf",
+     "sha256": "eafaccfa1f06fbf751d4b49a82d6d7307e3faf376a1f63e800a47d9d94e014a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-142-2017",
+   "path": "local/caras-severin/anina/2017/142",
+   "short": "HCL Anina nr. 142/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 142/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-18",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_142_18.07.2017.pdf",
+     "sha256": "128c6bdb5a07a1beb15bddb4177687bd144bac70539cc72f49732992d19059b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-143-2017",
+   "path": "local/caras-severin/anina/2017/143",
+   "short": "HCL Anina nr. 143/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 143/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-07-18",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_143_18.07.2017.pdf",
+     "sha256": "0a53afa3c4c8ff1274d80efd31288124c2241c904ef06bf04b488fe624aaa2fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-144-2017",
+   "path": "local/caras-severin/anina/2017/144",
+   "short": "HCL Anina nr. 144/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 144/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_144_24.08.2017.pdf",
+     "sha256": "20560892fea1f92989f241a1b87b7caf71ada84c9ac0e9fc69a2a45cce2a15a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-145-2017",
+   "path": "local/caras-severin/anina/2017/145",
+   "short": "HCL Anina nr. 145/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 145/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_145_24.08.2017.pdf",
+     "sha256": "600536543ea55da5f21c5efccf730f23680aa39c5407230135d31aa8fd77969f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-146-2017",
+   "path": "local/caras-severin/anina/2017/146",
+   "short": "HCL Anina nr. 146/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 146/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_146_24.08.2017.pdf",
+     "sha256": "6e8a1eb42048e8b039643963ad8609bde322d5b6160b66ef58d5a57f247e4a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-147-2017",
+   "path": "local/caras-severin/anina/2017/147",
+   "short": "HCL Anina nr. 147/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 147/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_147_24.08.2017.pdf",
+     "sha256": "8aa53d86c62f680b6bcc70295f959132fb8ca587314201728f8fdd1e4632e97b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-148-2017",
+   "path": "local/caras-severin/anina/2017/148",
+   "short": "HCL Anina nr. 148/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 148/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_148_24.08.2017.pdf",
+     "sha256": "266300d818a548ddbaa4a7b6d4ea160dc5d04917a7e211ffbffe203e65e61c50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-149-2017",
+   "path": "local/caras-severin/anina/2017/149",
+   "short": "HCL Anina nr. 149/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 149/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_149_24.08.2017.pdf",
+     "sha256": "6add053420b94e37cb6fde49eb753c6e73821c1b5989a5244b31294a9acf96e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-15-2017",
+   "path": "local/caras-severin/anina/2017/15",
+   "short": "HCL Anina nr. 15/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 15/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_15_30.01.2017.pdf",
+     "sha256": "22aaba3554191de23e50e62e6aea78adac59b9dc57c8880df737ad9738810f95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-150-2017",
+   "path": "local/caras-severin/anina/2017/150",
+   "short": "HCL Anina nr. 150/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 150/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_150_24.08.2017.pdf",
+     "sha256": "8a9ab76026ec9ace870554434aa9ac93c5c5dfaee94b645fc298b9e04c6e9202"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-151-2017",
+   "path": "local/caras-severin/anina/2017/151",
+   "short": "HCL Anina nr. 151/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 151/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_151_24.08.2017.pdf",
+     "sha256": "397fca52950058c272c7e4d50450708e93a2b43fd1b03045b9a5cc62ddb11208"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-152-2017",
+   "path": "local/caras-severin/anina/2017/152",
+   "short": "HCL Anina nr. 152/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 152/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_152_24.08.2017.pdf",
+     "sha256": "dd17e02fa92926a12e27d768c2596bd50dcb8f57e8fe332be5c8d8ed4a019c91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-153-2017",
+   "path": "local/caras-severin/anina/2017/153",
+   "short": "HCL Anina nr. 153/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 153/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_153_24.08.2017.pdf",
+     "sha256": "ddc47b032c4c6154001abcd6e7b3ab1395806b94bb9a67bad0bc8bbe154b85be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-154-2017",
+   "path": "local/caras-severin/anina/2017/154",
+   "short": "HCL Anina nr. 154/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 154/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_154_24.08.2017.pdf",
+     "sha256": "b25d0b931f01f4d00c505926d40bc993908d5bc2806983702ce3874d55661de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-155-2017",
+   "path": "local/caras-severin/anina/2017/155",
+   "short": "HCL Anina nr. 155/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 155/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_155_24.08.2017.pdf",
+     "sha256": "7695d4be2a38a04f455004a7ac7f4d46d9d13008ed09db9c9d3bbc4e3d820406"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-156-2017",
+   "path": "local/caras-severin/anina/2017/156",
+   "short": "HCL Anina nr. 156/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 156/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_156_24.08.2017.pdf",
+     "sha256": "920d7dd0b4819e888795aeb8d0d0c3b811c1eec610217563e36fe9eef60650f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-158-2017",
+   "path": "local/caras-severin/anina/2017/158",
+   "short": "HCL Anina nr. 158/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 158/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_158_24.08.2017.pdf",
+     "sha256": "1f23fb3042fe8bf0b41addabfab3fba1f26110c80baf9d1bb5b57e8d6677b340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-159-2017",
+   "path": "local/caras-severin/anina/2017/159",
+   "short": "HCL Anina nr. 159/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 159/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_159_24.08.2017.pdf",
+     "sha256": "6ea330772c177c7dc3a50e0179558f67fd0c282adf7500757dc43cc24200b9d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-16-2017",
+   "path": "local/caras-severin/anina/2017/16",
+   "short": "HCL Anina nr. 16/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 16/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_16_30.01.2017.pdf",
+     "sha256": "f35dec7f1da88fbe63390f91c3a2a2027a3b90689780354cf69266a1da427424"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-160-2017",
+   "path": "local/caras-severin/anina/2017/160",
+   "short": "HCL Anina nr. 160/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 160/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_160_24.08.2017.pdf",
+     "sha256": "d4159b78bc88e757d964bb42fb11adf9e668284ffe6f05f0888e5770a2bec59f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-161-2017",
+   "path": "local/caras-severin/anina/2017/161",
+   "short": "HCL Anina nr. 161/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 161/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_161_24.08.2017.pdf",
+     "sha256": "d3f464eacb5195de45f8e159f6d8aadb03e86ae3785c2f442e304720017f8e85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-162-2017",
+   "path": "local/caras-severin/anina/2017/162",
+   "short": "HCL Anina nr. 162/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 162/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_162_24.08.2017.pdf",
+     "sha256": "4024630afabb82a06de72b339b7f5e43d27442b4328746dfef03308272e091e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-163-2017",
+   "path": "local/caras-severin/anina/2017/163",
+   "short": "HCL Anina nr. 163/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 163/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_163_25.09.2017.pdf",
+     "sha256": "354402124567ac8d60236dd1608c08b8aa8a7e54c0e5456fd7318e163bed76a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-164-2017",
+   "path": "local/caras-severin/anina/2017/164",
+   "short": "HCL Anina nr. 164/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 164/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_164_25.09.2017.pdf",
+     "sha256": "cdf6868273d4e365a4bd18b8981ad0e52cb49ff9124247f4d0ba3b07325a31dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-165-2017",
+   "path": "local/caras-severin/anina/2017/165",
+   "short": "HCL Anina nr. 165/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 165/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_165_25.09.2017.pdf",
+     "sha256": "e8ca293848304620f4bf2f0aedfcec805419e3a87f3c8b0ff24c0a53dea9a296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-166-2017",
+   "path": "local/caras-severin/anina/2017/166",
+   "short": "HCL Anina nr. 166/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 166/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_166_25.09.2017.pdf",
+     "sha256": "db82626aa28fe2ddb4ec7e85627a1f787af5ec1b6612c66a11d9bc5eb935822f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-167-2017",
+   "path": "local/caras-severin/anina/2017/167",
+   "short": "HCL Anina nr. 167/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 167/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_167_25.09.2017.pdf",
+     "sha256": "39ed8da638d84aaeb2b2bc84421b6b71a0f6a089357a30dbd65c424174df1069"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-168-2017",
+   "path": "local/caras-severin/anina/2017/168",
+   "short": "HCL Anina nr. 168/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 168/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_168_25.09.2017.pdf",
+     "sha256": "af35fd171f3726bf6a7ba6bed311ce2ad2e2cefbe8812c3cd62cd3698af14e4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-169-2017",
+   "path": "local/caras-severin/anina/2017/169",
+   "short": "HCL Anina nr. 169/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 169/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_169_25.09.2017.pdf",
+     "sha256": "b80a09895df9fea349f82e031cb96178650d03229f389e2f2bd505e3afce80df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-17-2017",
+   "path": "local/caras-severin/anina/2017/17",
+   "short": "HCL Anina nr. 17/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 17/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_17_30.01.2017.pdf",
+     "sha256": "b513d7e57b83f33b3ffca0a7afdf7038d85a864d373a57351accfde33a687169"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-170-2017",
+   "path": "local/caras-severin/anina/2017/170",
+   "short": "HCL Anina nr. 170/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 170/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_170_25.09.2017.pdf",
+     "sha256": "78cfba9d2b4ed36afdfa837bec1266fa3027f05c3bf4d3ed91ac138fcf8f7161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-171-2017",
+   "path": "local/caras-severin/anina/2017/171",
+   "short": "HCL Anina nr. 171/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 171/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_171_25.09.2017.pdf",
+     "sha256": "c570f553f45a352264334b01af20a0893f13deb1686273cf8911c3f6bfaaa361"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-172-2017",
+   "path": "local/caras-severin/anina/2017/172",
+   "short": "HCL Anina nr. 172/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 172/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_172_25.09.2017.pdf",
+     "sha256": "7295a61ca6b8e3a7224cd5f37d7afe82ccf4ca2fb07e0537f499f76318a2c2dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-173-2017",
+   "path": "local/caras-severin/anina/2017/173",
+   "short": "HCL Anina nr. 173/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 173/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_173_25.09.2017.pdf",
+     "sha256": "934abd31bf50f3c05bc88f7985dcf367cb57728f21709f194fc35c6a53d607de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-174-2017",
+   "path": "local/caras-severin/anina/2017/174",
+   "short": "HCL Anina nr. 174/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 174/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_174_25.09.2017.pdf",
+     "sha256": "a4e0b0eb5086c78ee97af9da04f457d45232c5d79ad2c55d911f1e0a8cac3755"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-175-2017",
+   "path": "local/caras-severin/anina/2017/175",
+   "short": "HCL Anina nr. 175/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 175/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_175_25.09.2017.pdf",
+     "sha256": "0eedc311388e032af95ec37f440f8d9bf8a66cb18bd65b69b66810cc39cad279"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-176-2017",
+   "path": "local/caras-severin/anina/2017/176",
+   "short": "HCL Anina nr. 176/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 176/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_176_25.09.2017.pdf",
+     "sha256": "c06139b140973c566afdc70f934046de3139eab3b54795c464d80289a8cbee87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-177-2017",
+   "path": "local/caras-severin/anina/2017/177",
+   "short": "HCL Anina nr. 177/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 177/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_177_25.09.2017.pdf",
+     "sha256": "95907ca078f8f13bd12a897a70a38793c31b8357da9d9897bbb7bc500214feed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-178-2017",
+   "path": "local/caras-severin/anina/2017/178",
+   "short": "HCL Anina nr. 178/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 178/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_178_25.09.2017.pdf",
+     "sha256": "8a9b64226d250b7dc95b80747f65c0f673c39acc29632ffd46d531e8397c0ff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-179-2017",
+   "path": "local/caras-severin/anina/2017/179",
+   "short": "HCL Anina nr. 179/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 179/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_179_25.09.2017.pdf",
+     "sha256": "3cc0a09c1d3f45eaf9b8b2f1d0144e7299815fbd5c56151e3e5dce2e98efb84f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-18-2017",
+   "path": "local/caras-severin/anina/2017/18",
+   "short": "HCL Anina nr. 18/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 18/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_18_30.01.2017.pdf",
+     "sha256": "f1d4c3f86bc1e2c06eeff0ab3df3b38602bdb75e5f0f31c06161f02d76954b80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-180-2017",
+   "path": "local/caras-severin/anina/2017/180",
+   "short": "HCL Anina nr. 180/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 180/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_180_25.09.2017.pdf",
+     "sha256": "543ef99fb9a4c66e6a341e0d6782584d3b08a8407da4d265156316ba72010888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-181-2017",
+   "path": "local/caras-severin/anina/2017/181",
+   "short": "HCL Anina nr. 181/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 181/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_181_25.09.2017.pdf",
+     "sha256": "9f8bebb15399454d5eb3092c8aaa6b2ee5e2350356ec18c453d8259f967458ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-182-2017",
+   "path": "local/caras-severin/anina/2017/182",
+   "short": "HCL Anina nr. 182/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 182/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-09-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_182_25.09.2017.pdf",
+     "sha256": "4af4b951a53757169498d19f788cd19cd3550358aa9d2446594e061aa6d0ca26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-183-2017",
+   "path": "local/caras-severin/anina/2017/183",
+   "short": "HCL Anina nr. 183/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 183/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_183_05.10.2017.pdf",
+     "sha256": "5ccbda6c414dc6f91352c4e9a91cd0c61faa94bb08456da06fa212647a61ca3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-184-2017",
+   "path": "local/caras-severin/anina/2017/184",
+   "short": "HCL Anina nr. 184/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 184/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_184_05.10.2017.pdf",
+     "sha256": "f2c07b643f069d33dad1917477e92ffa3134eba0cb36e1df7850527e96c25f21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-185-2017",
+   "path": "local/caras-severin/anina/2017/185",
+   "short": "HCL Anina nr. 185/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 185/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_185_25.10.2017.pdf",
+     "sha256": "b59aba8fd7638ffd3f09a68d3abc39f644604b30da28a886dab10d0309b9340a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-186-2017",
+   "path": "local/caras-severin/anina/2017/186",
+   "short": "HCL Anina nr. 186/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 186/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_186_25.10.2017.pdf",
+     "sha256": "41c8b4f02897e959ec93d932645fa4ce98a701cecf3d2e47c98581349deb45a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-187-2017",
+   "path": "local/caras-severin/anina/2017/187",
+   "short": "HCL Anina nr. 187/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 187/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_187_25.10.2017.pdf",
+     "sha256": "9eae2e3f5c0602d87780296597e4d879973786794f8cf1a4d89b19e3df7b4f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-188-2017",
+   "path": "local/caras-severin/anina/2017/188",
+   "short": "HCL Anina nr. 188/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 188/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_188_25.10.2017.pdf",
+     "sha256": "aedff1662fae9005c54e94338bbc84c377fd2f620c09d322af984dd036094673"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-189-2017",
+   "path": "local/caras-severin/anina/2017/189",
+   "short": "HCL Anina nr. 189/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 189/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_189_25.10.2017.pdf",
+     "sha256": "db797f7aef471de228cca4c1a8d0d85bab4197f06ed18afdbdeebb5e1dcc7488"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-19-2017",
+   "path": "local/caras-severin/anina/2017/19",
+   "short": "HCL Anina nr. 19/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 19/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_19_30.01.2017.pdf",
+     "sha256": "17fe781862a3ea661b23551dd0dd2a03f2b14b83053cf06bf646a62d45f9c5ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-190-2017",
+   "path": "local/caras-severin/anina/2017/190",
+   "short": "HCL Anina nr. 190/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 190/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_190_25.10.2017.pdf",
+     "sha256": "bca42bba3ec81e4536d1d34216d4586fc1540070cca0ed18a831867cacc300a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-191-2017",
+   "path": "local/caras-severin/anina/2017/191",
+   "short": "HCL Anina nr. 191/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 191/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_191_25.10.2017.pdf",
+     "sha256": "44b8fe3e3967b0487d0192288c0a5a01925862da105f5b8c33dcb30e8e64ada1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-192-2017",
+   "path": "local/caras-severin/anina/2017/192",
+   "short": "HCL Anina nr. 192/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 192/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-10-25",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_192_25.10.2017.pdf",
+     "sha256": "7662dd896443e10318b65a0499c037d7486e2114768bdac65a860128955600cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-193-2017",
+   "path": "local/caras-severin/anina/2017/193",
+   "short": "HCL Anina nr. 193/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 193/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_193_29.11.2017.pdf",
+     "sha256": "7b9445bc9db664b670aae4036212b7d643c915c179a94cc22e8ac2f8c8637ade"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-194-2017",
+   "path": "local/caras-severin/anina/2017/194",
+   "short": "HCL Anina nr. 194/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 194/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_194_29.11.2017.pdf",
+     "sha256": "ed5f9b5b6c8954bb754b6bfbb32dff5451785903289c4deffc490ea3a2c20828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-195-2017",
+   "path": "local/caras-severin/anina/2017/195",
+   "short": "HCL Anina nr. 195/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 195/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_195_29.11.2017.pdf",
+     "sha256": "b4be64303c03c27642950dfbb5d36c431ca665380dac6681c123c380462fa09f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-196-2017",
+   "path": "local/caras-severin/anina/2017/196",
+   "short": "HCL Anina nr. 196/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 196/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_196_29.11.2017.pdf",
+     "sha256": "6b9c43cd4784cbfd54c169c0d1b425d942c8122f684f621a2f7187d02a0a5c49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-197-2017",
+   "path": "local/caras-severin/anina/2017/197",
+   "short": "HCL Anina nr. 197/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 197/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_197_29.11.2017.pdf",
+     "sha256": "751d0ad1d5bc47790f02628dd9cff5e9f56c3bdbc14ec20f4aed459379f5f56c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-198-2017",
+   "path": "local/caras-severin/anina/2017/198",
+   "short": "HCL Anina nr. 198/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 198/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_198_29.11.2017.pdf",
+     "sha256": "bee7d7d93830e27ef730c28cbaf07281c0c5259c3948bf8ff098f44824789f15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-199-2017",
+   "path": "local/caras-severin/anina/2017/199",
+   "short": "HCL Anina nr. 199/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 199/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_199_29.11.2017.pdf",
+     "sha256": "a5ec5daf0b8c1e983a87856450edcfad5867107e028d9825c316067187acb1e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-2-2017",
+   "path": "local/caras-severin/anina/2017/2",
+   "short": "HCL Anina nr. 2/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 2/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-05",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_2_05.01.2017.pdf",
+     "sha256": "0d883879b181816312a93fadec29127f364b56bc16aa6304df2d9cca80b3b6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-20-2017",
+   "path": "local/caras-severin/anina/2017/20",
+   "short": "HCL Anina nr. 20/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 20/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_20_30.01.2017.pdf",
+     "sha256": "9240136fabe7bf09d74fef1dfb9e58e65201bb7ba924df28bc9406017199bc1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-200-2017",
+   "path": "local/caras-severin/anina/2017/200",
+   "short": "HCL Anina nr. 200/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 200/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_200_29.11.2017.pdf",
+     "sha256": "8ec7a25cac55909d70f5bb3aee11321aa80e417c6be550fa1addff483bdee5ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-201-2017",
+   "path": "local/caras-severin/anina/2017/201",
+   "short": "HCL Anina nr. 201/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 201/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_201_29.11.2017.pdf",
+     "sha256": "803ee636b6e448a231e58c88d091ab894e76b4c4455eb2921042a65724c7921b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-202-2017",
+   "path": "local/caras-severin/anina/2017/202",
+   "short": "HCL Anina nr. 202/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 202/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_202_29.11.2017.pdf",
+     "sha256": "17cf7efc4f35a4e5700adc320981a80d50d8c20626381d979ed46143a9560f33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-203-2017",
+   "path": "local/caras-severin/anina/2017/203",
+   "short": "HCL Anina nr. 203/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 203/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_203_29.11.2017.pdf",
+     "sha256": "22c4b228ac6308032b126a01053a2d743d8516bde2bfeed285eec8838292f49d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-204-2017",
+   "path": "local/caras-severin/anina/2017/204",
+   "short": "HCL Anina nr. 204/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 204/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_204_29.11.2017.pdf",
+     "sha256": "558b58e846780403f4ac804bf3762e7e972b83eda738577e333e9bde3255fe44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-205-2017",
+   "path": "local/caras-severin/anina/2017/205",
+   "short": "HCL Anina nr. 205/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 205/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_205_29.11.2017.pdf",
+     "sha256": "b8eeeb9e43235aca5867d006c673111e2894c6a88d292cedd9f0540894919d12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-206-2017",
+   "path": "local/caras-severin/anina/2017/206",
+   "short": "HCL Anina nr. 206/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 206/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_206_29.11.2017.pdf",
+     "sha256": "b5ea54e0992d4925b80c9827b50409d1c73dadc58bbe3996f626d1a759a09c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-207-2017",
+   "path": "local/caras-severin/anina/2017/207",
+   "short": "HCL Anina nr. 207/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 207/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_207_29.11.2017.pdf",
+     "sha256": "44e2fd4d5247d7c55d7083a9413fff6a7e1e86627747ef6f044d5cbbcb86c0ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-208-2017",
+   "path": "local/caras-severin/anina/2017/208",
+   "short": "HCL Anina nr. 208/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 208/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_208_29.11.2017.pdf",
+     "sha256": "8aaf3688ddf36117d09141019436da4933387e1d5833331b22ebf46a9b7c76c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-209-2017",
+   "path": "local/caras-severin/anina/2017/209",
+   "short": "HCL Anina nr. 209/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 209/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_209_29.11.2017.pdf",
+     "sha256": "c34449ea9fc2efc69fdf7a4690b0ef7b04dc8636820288bbabb8d4439bdedbf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-21-2017",
+   "path": "local/caras-severin/anina/2017/21",
+   "short": "HCL Anina nr. 21/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 21/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_21_30.01.2017.pdf",
+     "sha256": "462a685230510c538bc66f120075ff22be067ee0e388b5c1f7a313348c295fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-210-2017",
+   "path": "local/caras-severin/anina/2017/210",
+   "short": "HCL Anina nr. 210/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 210/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_210_29.11.2017.pdf",
+     "sha256": "fef8518819714c0a9fc37faaa734c90591fa01ce9622a1b0912f093564ec6a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-211-2017",
+   "path": "local/caras-severin/anina/2017/211",
+   "short": "HCL Anina nr. 211/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 211/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_211_29.11.2017.pdf",
+     "sha256": "8e854004a083d5bba6c1852912a7c61d604392cb0ed2f5375d45df3eee96deb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-212-2017",
+   "path": "local/caras-severin/anina/2017/212",
+   "short": "HCL Anina nr. 212/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 212/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_212_29.11.2017.pdf",
+     "sha256": "4fe5ca1a9c2eddd8fd69a5f1bac275dd844c266cc4b9688a5587f825c073550e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-213-2017",
+   "path": "local/caras-severin/anina/2017/213",
+   "short": "HCL Anina nr. 213/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 213/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_213_21.12.2017.pdf",
+     "sha256": "c3ec0e4599d12450cfb38dbf580423cc43379d4f6491260bc7fd0b202f76f446"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-214-2017",
+   "path": "local/caras-severin/anina/2017/214",
+   "short": "HCL Anina nr. 214/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 214/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_214_21.12.2017.pdf",
+     "sha256": "d585a068441aa87eecf3b0cedcae08f2c8bbdc20bfe0809b73faa6ad8eacf7e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-215-2017",
+   "path": "local/caras-severin/anina/2017/215",
+   "short": "HCL Anina nr. 215/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 215/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_215_21.12.2017.pdf",
+     "sha256": "c88c112bb58c896c0b99a5461e23db6c2f679f24feaeb87bb13a310f9223626f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-216-2017",
+   "path": "local/caras-severin/anina/2017/216",
+   "short": "HCL Anina nr. 216/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 216/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_216_21.12.2017.pdf",
+     "sha256": "bda42a07824547d0a962a5f46e2e27ff01380bb1b9de46cf08f5f58b55cf3718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-217-2017",
+   "path": "local/caras-severin/anina/2017/217",
+   "short": "HCL Anina nr. 217/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 217/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_217_21.12.2017.pdf",
+     "sha256": "1ab00223e6c09a309053d021db6ec55d5cf9279a4f1bffadafc56b5e9e641642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-218-2017",
+   "path": "local/caras-severin/anina/2017/218",
+   "short": "HCL Anina nr. 218/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 218/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_218_21.12.2017.pdf",
+     "sha256": "532cfbdbfc23410c4ebb4b044afcfce5cfa8a048b5dfe84522e334e8b4502d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-219-2017",
+   "path": "local/caras-severin/anina/2017/219",
+   "short": "HCL Anina nr. 219/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 219/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_219_21.12.2017.pdf",
+     "sha256": "4f9de5b2ac230903ce85ebdd1ac5a8450004932470ff72659c21c7fdc92e7305"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-22-2017",
+   "path": "local/caras-severin/anina/2017/22",
+   "short": "HCL Anina nr. 22/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 22/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_22_30.01.2017.pdf",
+     "sha256": "869bbe2d27ad8188ad7dbd4fd2be2dcaf58829879eefb5b82d9fe3962924fcf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-220-2017",
+   "path": "local/caras-severin/anina/2017/220",
+   "short": "HCL Anina nr. 220/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 220/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_220_21.12.2017.pdf",
+     "sha256": "69bd0c30a9df4fb85816eb16ece501cb02713463ee13fc170abba8b9d3e6f4fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-221-2017",
+   "path": "local/caras-severin/anina/2017/221",
+   "short": "HCL Anina nr. 221/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 221/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_221_21.12.2017.pdf",
+     "sha256": "f3a973e500ba41121d2794868604498b6aa0973df51cbbcf014e2c22af128772"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-23-2017",
+   "path": "local/caras-severin/anina/2017/23",
+   "short": "HCL Anina nr. 23/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 23/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_23_30.01.2017.pdf",
+     "sha256": "897107500ccb85e0b7668bc45a3b99046d5a5c6e72510e461bd3fecafdea24f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-24-2017",
+   "path": "local/caras-severin/anina/2017/24",
+   "short": "HCL Anina nr. 24/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 24/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_24_30.01.2017.pdf",
+     "sha256": "f2a02567513ecfc27f517e6fd19b7bc1bc3687cbdf68676bc704fad2763d1738"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-25-2017",
+   "path": "local/caras-severin/anina/2017/25",
+   "short": "HCL Anina nr. 25/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 25/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_25_30.01.2017.pdf",
+     "sha256": "b7d78c454240992e8a05d142bfb307cf6ab8fcd0f5ffa3fb170ae2058b305106"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-26-2017",
+   "path": "local/caras-severin/anina/2017/26",
+   "short": "HCL Anina nr. 26/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 26/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_26_30.01.2017.pdf",
+     "sha256": "a709e5d736ff50c1063eb585fdd27f44029eadde7cec27efd4a3957782127c10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-27-2017",
+   "path": "local/caras-severin/anina/2017/27",
+   "short": "HCL Anina nr. 27/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 27/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_27_30.01.2017.pdf",
+     "sha256": "5f6e48c25e737035e9e91563b57d3aae0372516f00eb432f985b2f1fc5ffc4ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-28-2017",
+   "path": "local/caras-severin/anina/2017/28",
+   "short": "HCL Anina nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 28/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_28_30.01.2017.pdf",
+     "sha256": "d5e513825cde5e78a1d9bf93dec3fc53f04ac91b20dd40c3f9e0002a113e9260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-29-2017",
+   "path": "local/caras-severin/anina/2017/29",
+   "short": "HCL Anina nr. 29/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 29/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_29_30.01.2017.pdf",
+     "sha256": "97dad3ba4f937dc206b7faeb278f02c205dda260348d30fcf046120c70412497"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-3-2017",
+   "path": "local/caras-severin/anina/2017/3",
+   "short": "HCL Anina nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 3/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-05",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_3_05.01.2017.pdf",
+     "sha256": "b861f7f927b22208aa3ead47f5396ee6c3ae5661b256197b72a2eb89c069ffb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-30-2017",
+   "path": "local/caras-severin/anina/2017/30",
+   "short": "HCL Anina nr. 30/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 30/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_30_30.01.2017.pdf",
+     "sha256": "0e6b211ce201e451e3fdbb107de7764cec19a8c555fb8ccaa60d6980d5dbde1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-31-2017",
+   "path": "local/caras-severin/anina/2017/31",
+   "short": "HCL Anina nr. 31/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 31/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_31_23.02.2017.pdf",
+     "sha256": "cd7ec1c4148d2f17c5212df64ed651097000eb92ffdbd23def74211c359c71fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-32-2017",
+   "path": "local/caras-severin/anina/2017/32",
+   "short": "HCL Anina nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 32/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_32_23.02.2017.pdf",
+     "sha256": "c3f158b07d8df96ffbcae2e242a742b0cff158ececcbd76f82f8d192874becfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-33-2017",
+   "path": "local/caras-severin/anina/2017/33",
+   "short": "HCL Anina nr. 33/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 33/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_33_23.02.2017.pdf",
+     "sha256": "58e1e736dccc64e39cf0e682076b5495d558db6836408a67e69d6da0e7ba784a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-34-2017",
+   "path": "local/caras-severin/anina/2017/34",
+   "short": "HCL Anina nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 34/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_34_23.02.2017.pdf",
+     "sha256": "036bbd1017249b93365eba9356f91c50f736df7eaca2da70397ed5cd1cf2bb5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-35-2017",
+   "path": "local/caras-severin/anina/2017/35",
+   "short": "HCL Anina nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 35/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_35_23.02.2017.pdf",
+     "sha256": "fb50f4590a4f05fbade74850078c392d75093deb6cdf6dfe8a4dc84d3c69ae92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-36-2017",
+   "path": "local/caras-severin/anina/2017/36",
+   "short": "HCL Anina nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 36/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_36_23.02.2017.pdf",
+     "sha256": "e0f13d5b00548a5d39cd989bb1e040cd5f186ad33803cccd54b45d308eecf5e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-37-2017",
+   "path": "local/caras-severin/anina/2017/37",
+   "short": "HCL Anina nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 37/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_37_23.02.2017.pdf",
+     "sha256": "5cbe0ce625e7d2f82f2f3b162d1c02d9fcda1ea24a216cab3e3aa42d4f15e2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-38-2017",
+   "path": "local/caras-severin/anina/2017/38",
+   "short": "HCL Anina nr. 38/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 38/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_38_23.02.2017.pdf",
+     "sha256": "a0f7d9ad0dcfa58bbe2d13f14e710ed2ad421e2c8ee2fa166c3349e4dff81617"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-39-2017",
+   "path": "local/caras-severin/anina/2017/39",
+   "short": "HCL Anina nr. 39/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 39/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_39_23.02.2017.pdf",
+     "sha256": "c0edf489b7522919696772099ac8bba877fdfe38c64a57e9289f55d6c0c60673"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-4-2017",
+   "path": "local/caras-severin/anina/2017/4",
+   "short": "HCL Anina nr. 4/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 4/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_4_30.01.2017.pdf",
+     "sha256": "d457e6274b419ae42f04c82fae3519e9a5332a69f0a59828a58d0b9bed6e5961"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-40-2017",
+   "path": "local/caras-severin/anina/2017/40",
+   "short": "HCL Anina nr. 40/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 40/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_40_23.02.2017.pdf",
+     "sha256": "b0ca6f27fc855f39a62c415369042263ee89adf4e73f9ad701561207b59a628e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-41-2017",
+   "path": "local/caras-severin/anina/2017/41",
+   "short": "HCL Anina nr. 41/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 41/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_41_23.02.2017.pdf",
+     "sha256": "59fcb3ad244b497f67d744898fb4cfc3b1d8927341d3f09a4d5cf6119fcf4f57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-42-2017",
+   "path": "local/caras-severin/anina/2017/42",
+   "short": "HCL Anina nr. 42/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 42/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_42_23.02.2017.pdf",
+     "sha256": "0398ff947c6bbe2669e5fc27edf75074aee0fd7171b2c007ebaf0b91d815e842"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-43-2017",
+   "path": "local/caras-severin/anina/2017/43",
+   "short": "HCL Anina nr. 43/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 43/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_43_23.02.2017.pdf",
+     "sha256": "87d55dd4b8332578654d05704917f32432f3f5a7f6bea04542e41ca8f1b216be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-44-2017",
+   "path": "local/caras-severin/anina/2017/44",
+   "short": "HCL Anina nr. 44/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 44/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_44_23.02.2017.pdf",
+     "sha256": "b90ebea96e6a0194bedb7021dfccf18ead784d3b006e55897a1316a6844512c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-45-2017",
+   "path": "local/caras-severin/anina/2017/45",
+   "short": "HCL Anina nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 45/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_45_23.02.2017.pdf",
+     "sha256": "338b8aa16be5717043ff6464b848e6744e873ed9860e9e9433654f9fff1bbae5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-46-2017",
+   "path": "local/caras-severin/anina/2017/46",
+   "short": "HCL Anina nr. 46/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 46/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_46_23.02.2017.pdf",
+     "sha256": "2ca626523abe158b8073b9372da314d3eb085296c137cb21bd0afb7a396e6d4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-47-2017",
+   "path": "local/caras-severin/anina/2017/47",
+   "short": "HCL Anina nr. 47/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 47/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_47_23.02.2017.pdf",
+     "sha256": "51ed24c964c40545168d0e3d3c24c32ac3c2d89938407e32c91fe57512ff2d5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-5-2017",
+   "path": "local/caras-severin/anina/2017/5",
+   "short": "HCL Anina nr. 5/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 5/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_5_30.01.2017.pdf",
+     "sha256": "7454406e41935c4e46c1bd1d202b4095c86c982cfd66d54906306ccb630cb781"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-50-2017",
+   "path": "local/caras-severin/anina/2017/50",
+   "short": "HCL Anina nr. 50/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 50/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_50_23.02.2017.pdf",
+     "sha256": "3d4612a16bef1f042b896df9e9b00781bd3265e50b6f3b8661415af614555d97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-51-2017",
+   "path": "local/caras-severin/anina/2017/51",
+   "short": "HCL Anina nr. 51/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 51/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_51_23.02.2017.pdf",
+     "sha256": "50546b0d3ee18442baa82c43b524e5a756dba9d20688ba83afae554190bbefcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-52-2017",
+   "path": "local/caras-severin/anina/2017/52",
+   "short": "HCL Anina nr. 52/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 52/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_52_23.02.2017.pdf",
+     "sha256": "7c48a7dda23d434e9c07241636c6322b539a1c14c5030b1d11405096c7970b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-53-2017",
+   "path": "local/caras-severin/anina/2017/53",
+   "short": "HCL Anina nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 53/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_53_23.02.2017.pdf",
+     "sha256": "3724175defa3a14644d1a47db4c386708476a36668f21691aec494a083cb7b3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-54-2017",
+   "path": "local/caras-severin/anina/2017/54",
+   "short": "HCL Anina nr. 54/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 54/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_54_23.02.2017.pdf",
+     "sha256": "3afd59f36f680c54ee4fc68469f8a73c7ff1fcb96ee7f88c27d1f2104c08c01f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-55-2017",
+   "path": "local/caras-severin/anina/2017/55",
+   "short": "HCL Anina nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 55/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_55_23.02.2017.pdf",
+     "sha256": "b0118545661d9c5f94ac9c39e657e7168abe72a3f77a546c9744e9a028ad21e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-56-2017",
+   "path": "local/caras-severin/anina/2017/56",
+   "short": "HCL Anina nr. 56/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 56/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_56_23.02.2017.pdf",
+     "sha256": "9de2d6fad19ac9e24c6cd787aef4350b23a2ac3c8135dcbe39dedec0eea2c99b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-57-2017",
+   "path": "local/caras-severin/anina/2017/57",
+   "short": "HCL Anina nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 57/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_57_23.02.2017.pdf",
+     "sha256": "3631c3b3c0fc67912ec7c9bf0e3d94220f9f557d0d9174f2da23fcc0f0f476f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-6-2017",
+   "path": "local/caras-severin/anina/2017/6",
+   "short": "HCL Anina nr. 6/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 6/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_6_30.01.2017.pdf",
+     "sha256": "2e38d1e042306b3672b6082c50764baf16a7e71911b0775409f9b6f1e73d4e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-60-2017",
+   "path": "local/caras-severin/anina/2017/60",
+   "short": "HCL Anina nr. 60/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 60/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_60_23.02.2017.pdf",
+     "sha256": "f403556154102301a94d7149bd5f63b5059a8c6c0aef4669df37ef16e6c7ba2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-61-2017",
+   "path": "local/caras-severin/anina/2017/61",
+   "short": "HCL Anina nr. 61/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 61/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_61_23.02.2017.pdf",
+     "sha256": "ec06f7839da01f92601c19822e846fcc49a4f0d2095019d8b2466749496e60a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-62-2017",
+   "path": "local/caras-severin/anina/2017/62",
+   "short": "HCL Anina nr. 62/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 62/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_62_02.03.2017.pdf",
+     "sha256": "ae98e0e570f0fa3ddeba14776aa7263208c76790f0a318ff110520d4bae3ee16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-63-2017",
+   "path": "local/caras-severin/anina/2017/63",
+   "short": "HCL Anina nr. 63/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 63/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_63_28.03.2017.pdf",
+     "sha256": "022892a97b631cf759313900a51d0e56d4446d6afe481c2a1580790764b68e31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-64-2017",
+   "path": "local/caras-severin/anina/2017/64",
+   "short": "HCL Anina nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 64/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_64_28.03.2017.pdf",
+     "sha256": "99ec3c3f8eead6b29f9afe4a5d27293ef43c11f0b673c07ba51d622acfded529"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-65-2017",
+   "path": "local/caras-severin/anina/2017/65",
+   "short": "HCL Anina nr. 65/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 65/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_65_28.03.2017.pdf",
+     "sha256": "a8f5da103fb21b4c9ef5a1d0e876439bc7a3f0cdbee1edee95f1f9f24ffb5209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-66-2017",
+   "path": "local/caras-severin/anina/2017/66",
+   "short": "HCL Anina nr. 66/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 66/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_66_28.03.2017.pdf",
+     "sha256": "71684d7adf76cdb1053e85f5ebc52c9d2c85107c625aefe0274a77e69d552336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-67-2017",
+   "path": "local/caras-severin/anina/2017/67",
+   "short": "HCL Anina nr. 67/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 67/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_67_28.03.2017.pdf",
+     "sha256": "3673c1d2838b13b2648726bef578778323762c038b0cb5bc8b30bb53db1ee75c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-68-2017",
+   "path": "local/caras-severin/anina/2017/68",
+   "short": "HCL Anina nr. 68/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 68/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_68_28.03.2017.pdf",
+     "sha256": "bbff405810fb67f52908dba5cfac1744e53af5149a9b5c0a97865ff7bb095508"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-69-2017",
+   "path": "local/caras-severin/anina/2017/69",
+   "short": "HCL Anina nr. 69/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 69/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_69_28.03.2017.pdf",
+     "sha256": "0f1d2cb7552b6bde6ea46a1e5c6921659e099f9215b3b012c6f3862c206f1e26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-7-2017",
+   "path": "local/caras-severin/anina/2017/7",
+   "short": "HCL Anina nr. 7/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 7/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_7_30.01.2017.pdf",
+     "sha256": "85cb5d082d385130cd949e9e49cb5980e4365a14a7d5ad73e713e875c81fd229"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-70-2017",
+   "path": "local/caras-severin/anina/2017/70",
+   "short": "HCL Anina nr. 70/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 70/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_70_28.03.2017.pdf",
+     "sha256": "ffc82e74e1e4655adcd81cefdc02031225ab1af8d0e8080763e8b961a067b418"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-71-2017",
+   "path": "local/caras-severin/anina/2017/71",
+   "short": "HCL Anina nr. 71/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 71/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_71_28.03.2017.pdf",
+     "sha256": "c69692c8e1eed31b629983edc44b2117f946268d2567641e840371376e2a2329"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-72-2017",
+   "path": "local/caras-severin/anina/2017/72",
+   "short": "HCL Anina nr. 72/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 72/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_72_28.03.2017.pdf",
+     "sha256": "51be4c01e3dab0e728a95adb6c980a8bb7c7825dc16acea5c58151506941132b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-73-2017",
+   "path": "local/caras-severin/anina/2017/73",
+   "short": "HCL Anina nr. 73/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 73/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_73_28.03.2017.pdf",
+     "sha256": "f1ea6896861eca85588508ae91444e1c0986a1b0bfce87f61571c3887022857e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-74-2017",
+   "path": "local/caras-severin/anina/2017/74",
+   "short": "HCL Anina nr. 74/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 74/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_74_28.03.2017.pdf",
+     "sha256": "b9adac87a6fd3e23a609de8bb4084bed72218c36f3f0a4204ec690bfdc591ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-75-2017",
+   "path": "local/caras-severin/anina/2017/75",
+   "short": "HCL Anina nr. 75/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 75/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_75_28.03.2017.pdf",
+     "sha256": "28ae72fcc4a175acebedf7959cc911689e5aa4fe1051931fb3fe696891c31754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-76-2017",
+   "path": "local/caras-severin/anina/2017/76",
+   "short": "HCL Anina nr. 76/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 76/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_76_28.03.2017.pdf",
+     "sha256": "5f257bd834d93616a997cfdd94815b5d702d7d1d0630c7ab1808c295a6d0bd1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-77-2017",
+   "path": "local/caras-severin/anina/2017/77",
+   "short": "HCL Anina nr. 77/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 77/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_77_28.03.2017.pdf",
+     "sha256": "694baa8e23c6707ffcbcc27fe34fbb36234727562784e1aeba5b230e59869e51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-78-2017",
+   "path": "local/caras-severin/anina/2017/78",
+   "short": "HCL Anina nr. 78/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 78/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_78_28.03.2017.pdf",
+     "sha256": "df65f119435339e009aa9a9bcff9529d1652c4a7be91ff031db9ddcba709f10c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-79-2017",
+   "path": "local/caras-severin/anina/2017/79",
+   "short": "HCL Anina nr. 79/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 79/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_79_28.03.2017.pdf",
+     "sha256": "eb610238873c1063bb4b5a604d9361643861548db0a4c3078080a2e02db9c8c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-8-2017",
+   "path": "local/caras-severin/anina/2017/8",
+   "short": "HCL Anina nr. 8/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 8/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_8_30.01.2017.pdf",
+     "sha256": "c71bd372f48d2ef1da43dd96f3fcf72eaa6bd08267bc991bd59b98a0639bb341"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-80-2017",
+   "path": "local/caras-severin/anina/2017/80",
+   "short": "HCL Anina nr. 80/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 80/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_80_28.03.2017.pdf",
+     "sha256": "c03d769f032999703a186eee08e1bac7b1e80624b74b1429ed6e6b6037585a58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-81-2017",
+   "path": "local/caras-severin/anina/2017/81",
+   "short": "HCL Anina nr. 81/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 81/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_81_28.03.2017.pdf",
+     "sha256": "ca1726506c8b66dc00681ea568b4bd20441c41a91c60b04dcdaa6f55b660cff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-82-2017",
+   "path": "local/caras-severin/anina/2017/82",
+   "short": "HCL Anina nr. 82/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 82/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_82_28.03.2017.pdf",
+     "sha256": "ef305b922c13d5c4de44669b94547264c2c442b1f573ad3cc8d97751ff331470"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-83-2017",
+   "path": "local/caras-severin/anina/2017/83",
+   "short": "HCL Anina nr. 83/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 83/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_83_28.03.2017.pdf",
+     "sha256": "1cd6302a1e62e3241c63c4cac1f647bd0640586c55c87324dad303e056e3caba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-84-2017",
+   "path": "local/caras-severin/anina/2017/84",
+   "short": "HCL Anina nr. 84/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 84/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_84_28.03.2017.pdf",
+     "sha256": "515d5816a5d425faf15b7713e03f1fa56e75bb12c4c578be39eaf6f130e75806"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-85-2017",
+   "path": "local/caras-severin/anina/2017/85",
+   "short": "HCL Anina nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 85/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_85_28.03.2017.pdf",
+     "sha256": "3612bd677bef5727ec306a75fd63a02dbbc44a75fc51ced8613785430f4c90d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-86-2017",
+   "path": "local/caras-severin/anina/2017/86",
+   "short": "HCL Anina nr. 86/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 86/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_86_28.03.2017.pdf",
+     "sha256": "ebae7d7c7ece1a182ba18ebc50631d38b30e0aea8745057cd18a1f29f9850c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-87-2017",
+   "path": "local/caras-severin/anina/2017/87",
+   "short": "HCL Anina nr. 87/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 87/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_87_12.04.2017.pdf",
+     "sha256": "1a7206c5b4af9266ab5b613c613b3b32500ef50ace9fc9ef72a9640303b2cd17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-88-2017",
+   "path": "local/caras-severin/anina/2017/88",
+   "short": "HCL Anina nr. 88/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 88/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_88_12.04.2017.pdf",
+     "sha256": "2b9e3e70342b719a841993f0663e07a47e27bf7472085c38421f9ef1a9a6b056"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-89-2017",
+   "path": "local/caras-severin/anina/2017/89",
+   "short": "HCL Anina nr. 89/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 89/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_89_12.04.2017.pdf",
+     "sha256": "00790021e17bb38f5ac731d3d32e669b122a494d3db9ae8c9548d9dfce1abdb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-9-2017",
+   "path": "local/caras-severin/anina/2017/9",
+   "short": "HCL Anina nr. 9/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 9/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_9_30.01.2017.pdf",
+     "sha256": "b7fa43b455ce04fbf74d05e64b5d72a23b958dab0762bc55460f8eaf432f3fd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-90-2017",
+   "path": "local/caras-severin/anina/2017/90",
+   "short": "HCL Anina nr. 90/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 90/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_90_12.04.2017.pdf",
+     "sha256": "bfa97c42a184f7639a961766647741ae171763ec73be5576609f3ce07a02fa8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-91-2017",
+   "path": "local/caras-severin/anina/2017/91",
+   "short": "HCL Anina nr. 91/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 91/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_91_12.04.2017.pdf",
+     "sha256": "b03c037a7866d648ab4606b38d7b5c14ee95fe8981cbb4c1be8b488637f3ac21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-92-2017",
+   "path": "local/caras-severin/anina/2017/92",
+   "short": "HCL Anina nr. 92/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 92/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_92_12.04.2017.pdf",
+     "sha256": "5ce4c3a589d129b07bb1688e8ce3ccaade2f354eed8e2e412bedc7033a4f56d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-93-2017",
+   "path": "local/caras-severin/anina/2017/93",
+   "short": "HCL Anina nr. 93/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 93/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_93_12.04.2017.pdf",
+     "sha256": "7bf12c3ba0e4426cbd349129f01ca1500455d3be83ad9cb251645446c8afebd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-94-2017",
+   "path": "local/caras-severin/anina/2017/94",
+   "short": "HCL Anina nr. 94/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 94/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_94_12.05.2017.pdf",
+     "sha256": "f9afe2a3f6ffe2e7f6b3f40721785954744ac85335d91a548f2515a75d33fb04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-95-2017",
+   "path": "local/caras-severin/anina/2017/95",
+   "short": "HCL Anina nr. 95/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 95/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_95_12.05.2017.pdf",
+     "sha256": "fc3bbd7ace45080833d78a4f314fdf72c927e4b6649868c6d1190feef4c69c6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-96-2017",
+   "path": "local/caras-severin/anina/2017/96",
+   "short": "HCL Anina nr. 96/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 96/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_96_12.05.2017.pdf",
+     "sha256": "df8e3285bdb246d8c64a4568896d7159f524e8edd46d39b8d31814d5ac546195"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-97-2017",
+   "path": "local/caras-severin/anina/2017/97",
+   "short": "HCL Anina nr. 97/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 97/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_97_12.05.2017.pdf",
+     "sha256": "1008c69e480c7ca05b107cdc3277c7440ce77018658564f5f84242e2cb3148ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-98-2017",
+   "path": "local/caras-severin/anina/2017/98",
+   "short": "HCL Anina nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 98/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_98_12.05.2017.pdf",
+     "sha256": "1038e3b0d195af6579138d8b8b7161c1d49b53f4b4b378f98568030f568650b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-99-2017",
+   "path": "local/caras-severin/anina/2017/99",
+   "short": "HCL Anina nr. 99/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 99/2017",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_99_12.05.2017.pdf",
+     "sha256": "0234bac685e6e2bb46963cf440d0a092c2184c18e24b13b49ebfc50eb2073571"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "country": "RO",
+ "shard": "proiect/2023",
+ "acts": [
+  {
+   "slug": "proiect-ms-2023-proiectul-de-hotarare-a-guvernului-pentru-privin-75ed3c12",
+   "path": "proiect/ms/2023/proiectul-de-hotarare-a-guvernului-pentru-privin-75ed3c12",
+   "short": "Proiect de act normativ MS din 2023-07-25",
+   "title": "Proiectul de Hotărâre a Guvernului pentru privind înființarea Registrului Național de Cancer",
+   "url": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/proiectul-de-hot%C4%83r%C3%A2re-a-guvernului-pentru-privind-%C3%AEnfiin%C8%9Barea-registrului-na%C8%9Bional-de-cancer/",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 2,
+     "source_url": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/proiectul-de-hot%C4%83r%C3%A2re-a-guvernului-pentru-privind-%C3%AEnfiin%C8%9Barea-registrului-na%C8%9Bional-de-cancer/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2023-l11-2023",
+   "path": "proiect/parlament/2023/l11-2023",
+   "short": "Proiect de lege L11/2023",
+   "title": "Proiect de lege pentru modificarea şi completarea Legii nr.329/2003 privind exercitarea profesiei de detectiv particular",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-07",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-14",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-20",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-22",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-27",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-04",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-12",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-13",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L11&an_cls=2023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2023-l23-2023",
+   "path": "proiect/parlament/2023/l23-2023",
+   "short": "Proiect de lege L23/2023",
+   "title": "Proiect de lege privind aprobarea Ordonanţei Guvernului nr.11/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L23&an_cls=2023",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L23&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-14",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L23&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-15",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L23&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-21",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L23&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-15",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L23&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-20",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L23&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-27",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L23&an_cls=2023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2023-l490-2023",
+   "path": "proiect/parlament/2023/l490-2023",
+   "short": "Propunere legislativă L490/2023",
+   "title": "Propunere legislativă pentru modificarea Legii nr.227/2015 privind Codul Fiscal",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L490&an_cls=2023",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L490&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-06-20",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L490&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-09-20",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L490&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-10-11",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L490&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-10-18",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L490&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-10-23",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L490&an_cls=2023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2023-l597-2023",
+   "path": "proiect/parlament/2023/l597-2023",
+   "short": "Propunere legislativă L597/2023",
+   "title": "Propunere legislativă pentru modificarea şi completarea Legii 75/1994 privind arborarea drapelului naţional",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-09-26",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-07",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-20",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-12",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-18",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-23",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2024-01-08",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2024-01-09",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L597&an_cls=2023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2023-l619-2023",
+   "path": "proiect/parlament/2023/l619-2023",
+   "short": "Propunere legislativă L619/2023",
+   "title": "Propunere legislativă pentru modificarea alin.(4) art.18 din Legea nr.36/1995 a notarilor publici şi a activităţii notariale şi pentru completarea Legii nr.198/2008 privind serviciile consulare pentru care se percep taxe şi nivelul taxelor consulare la misiunile diplomatice şi oficiile consulare ale României în străinătate",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-10-03",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-14",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-16",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-11-21",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-18",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-27",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2025-10-08",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2025-10-13",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2025-10-18",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2025-11-05",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    },
+    {
+     "from": "2025-11-25",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

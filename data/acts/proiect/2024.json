@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "proiect/2024",
+"acts": [
+{
+"slug": "proiect-ms-2024-hotarare-a-guvernului-privind-completarea-anexei-fe9538e6",
+"path": "proiect/ms/2024/hotarare-a-guvernului-privind-completarea-anexei-fe9538e6",
+"kind": "proiect",
+"year": "2024",
+"number": "hotarare-a-guvernului-privind-completarea-anexei-fe9538e6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proiect: Hotărâre a Guvernului privind completarea Anexei la Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală",
+"short": "Proiect de HG MS din 2024-04-24",
+"code": null,
+"status": "draft, not law",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/hot%C4%83r%C3%A2re-a-guvernului-privind-completarea-anexei-la-hot%C4%83r%C3%A2rea-guvernului-nr-7202008-pentru-aprobarea-listei-cuprinz%C3%A2nd-denumirile-comune-interna%C5%A3ionale-corespunz%C4%83toare-medicamentelor-de-care-beneficiaz%C4%83-asigura%C5%A3ii-cu-sau-f%C4%83r%C4%83-contribu%C5%A3ie-personal%C4%83/"
+},
+{
+"slug": "proiect-ms-2024-ordonanta-a-guvernului-privind-modificarea-si-co-355354af",
+"path": "proiect/ms/2024/ordonanta-a-guvernului-privind-modificarea-si-co-355354af",
+"kind": "proiect",
+"year": "2024",
+"number": "ordonanta-a-guvernului-privind-modificarea-si-co-355354af",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proiect: Ordonanță a Guvernului privind modificarea și completarea unor acte normative și stabilirea unor măsuri în domeniul sănătății.",
+"short": "Proiect de ordonanță MS din 2024-08-26",
+"code": null,
+"status": "draft, not law",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/ordonan%C8%9B%C4%83-a-guvernului-privind-modificarea-%C8%99i-completarea-unor-acte-normative-%C8%99i-stabilirea-unor-m%C4%83suri-%C3%AEn-domeniul-s%C4%83n%C4%83t%C4%83%C8%9Bii26824/"
+},
+{
+"slug": "proiect-parlament-2024-l53-2024",
+"path": "proiect/parlament/2024/l53-2024",
+"kind": "proiect",
+"year": "2024",
+"number": "l53-2024",
+"withdrawn_by": null,
+"reason": null,
+"title": "Propunere legislativă privind completarea art.3 din Ordonanţa Guvernului nr.14/2007 pentru reglementarea modului şi condiţiilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului",
+"short": "Propunere legislativă L53/2024",
+"code": null,
+"status": "draft, not law",
+"versions": 7,
+"from": "2023-11-29",
+"latest": "2025-03-19",
+"portal": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024"
+}
+]
+}

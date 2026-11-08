@@ -1,0 +1,159 @@
+{
+ "country": "RO",
+ "shard": "proiect/2019",
+ "acts": [
+  {
+   "slug": "proiect-parlament-2019-l303-2019",
+   "path": "proiect/parlament/2019/l303-2019",
+   "short": "Propunere legislativă L303/2019",
+   "title": "Propunere legislativă pentru modificarea Ordonanţei de urgenţă a Guvernului nr.57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei şi faunei sălbatice",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L303&an_cls=2019",
+   "versions": [
+    {
+     "from": "2019-04-09",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L303&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L303&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L303&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-10-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L303&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-10-08",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L303&an_cls=2019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2019-l417-2019",
+   "path": "proiect/parlament/2019/l417-2019",
+   "short": "Propunere legislativă L417/2019",
+   "title": "Propunere legislativă pentru completarea Legii nr.196/2018 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari şi administrarea condominiilor",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-06-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-11",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-13",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-09-19",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-10-14",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-10-21",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-10-28",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2025-11-05",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L417&an_cls=2019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2019-l575-2019",
+   "path": "proiect/parlament/2019/l575-2019",
+   "short": "Propunere legislativă L575/2019",
+   "title": "Propunere legislativă pentru modificarea și completarea Legii nr.196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019",
+   "versions": [
+    {
+     "from": "2019-09-25",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-10-02",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-11-28",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-12-02",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-12-11",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2019-12-26",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019",
+     "sha256": null
+    },
+    {
+     "from": "2020-02-17",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L575&an_cls=2019",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

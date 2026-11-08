@@ -1,0 +1,222 @@
+{
+ "country": "RO",
+ "shard": "proiect/2025",
+ "acts": [
+  {
+   "slug": "proiect-parlament-2025-l159-2025",
+   "path": "proiect/parlament/2025/l159-2025",
+   "short": "Propunere legislativă L159/2025",
+   "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă 57/2019 privind Codul administrativ",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L159&an_cls=2025",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L159&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-06-30",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L159&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-09-01",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L159&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-02-12",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L159&an_cls=2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2025-l192-2025",
+   "path": "proiect/parlament/2025/l192-2025",
+   "short": "Propunere legislativă L192/2025",
+   "title": "Propunere legislativă pentru completarea art.3 din Ordonanța de urgență a Guvernului nr.75/1999, privind activitatea de audit financiar și art.62 din Legea nr.162/2017, privind auditul statutar al situațiilor financiare anuale și al situațiilor financiare anuale consolidate și de modificare a unor acte normative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L192&an_cls=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L192&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-06-10",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L192&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-08-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L192&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-09-16",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L192&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-09-22",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L192&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-09-24",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L192&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-02-11",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L192&an_cls=2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2025-l645-2025",
+   "path": "proiect/parlament/2025/l645-2025",
+   "short": "Proiect de lege L645/2025",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.89/2025 pentru modificarea și completarea Legii nr.227/2015 privind Codul fiscal, reglementarea unor măsuri fiscal-bugetare, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-01-26",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-01-27",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-01-29",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-02-02",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-02-03",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-02-04",
+     "units": 18,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2026-02-09",
+     "units": 18,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L645&an_cls=2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2025-l89-2025",
+   "path": "proiect/parlament/2025/l89-2025",
+   "short": "Proiect de lege L89/2025",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.23/2025 pentru modificarea și completarea unor acte normative",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-04-16",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-04-28",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-04-30",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-05-07",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-05-12",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-12-03",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-12-08",
+     "units": 15,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-12-10",
+     "units": 15,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-12-12",
+     "units": 17,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    },
+    {
+     "from": "2025-12-16",
+     "units": 17,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L89&an_cls=2025",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

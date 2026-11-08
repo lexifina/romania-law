@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/bautar/2021",
 "acts": [
 {
+"slug": "hcl-caras-severin--bautar-1-2021",
+"path": "local/caras-severin/bautar/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 1/2021 privind alegerea președintelui de sedință",
+"short": "HCL Băuțar nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/59873",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-2-2021",
 "path": "local/caras-severin/bautar/2021/2",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Băuțar",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-3-2021",
+"path": "local/caras-severin/bautar/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 3/2021 privind aprobarea scoaterii din evidențele contabile ale debitorilor decedați",
+"short": "HCL Băuțar nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/59875",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bautar-7-2021",
+"path": "local/caras-severin/bautar/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 7/2021 privind aprobarea rezilierii contractului cu BRAI CATA",
+"short": "HCL Băuțar nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/59889",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-8-2021",
 "path": "local/caras-severin/bautar/2021/8",
 "kind": "local",
@@ -135,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bautar-10-2021",
+"path": "local/caras-severin/bautar/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 10/2021 privind plafonare salarii",
+"short": "HCL Băuțar nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/59892",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-11-2021",
 "path": "local/caras-severin/bautar/2021/11",
 "kind": "local",
@@ -154,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Băuțar",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-12-2021",
+"path": "local/caras-severin/bautar/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 12/2021 privind desemnarea noului reprezentant legal",
+"short": "HCL Băuțar nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-24",
+"latest": "2021-02-24",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73011",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -311,6 +421,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bautar-20-2021",
+"path": "local/caras-severin/bautar/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 20/2021 privind alegere președinte se ședință",
+"short": "HCL Băuțar nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-16",
+"latest": "2021-04-16",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73019",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-21-2021",
 "path": "local/caras-severin/bautar/2021/21",
 "kind": "local",
@@ -352,6 +484,28 @@
 "council_name": "Consiliul Local al Comunei Băuțar",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-23-2021",
+"path": "local/caras-severin/bautar/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 23/2021 privind procedura prelabila vanzare Duster",
+"short": "HCL Băuțar nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73022",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -554,6 +708,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bautar-33-2021",
+"path": "local/caras-severin/bautar/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 33/2021 privind constatarea încetării de drept a unui mandat de consilier și vacantarea locului de consilier local",
+"short": "HCL Băuțar nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73032",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bautar-34-2021",
 "path": "local/caras-severin/bautar/2021/34",
 "kind": "local",
@@ -573,6 +749,50 @@
 "council_name": "Consiliul Local al Comunei Băuțar",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-35-2021",
+"path": "local/caras-severin/bautar/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 35/2021 privind modificarea componenței comisiei de specialitate numărul 3 a Consiliului Local al comunei Băuțar, județul Caraș-Severin",
+"short": "HCL Băuțar nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73034",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-36-2021",
+"path": "local/caras-severin/bautar/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 36/2021 privind modificarea HCL nr. 12/24.02.2021 privind desemnare a doi reprezentanți ai Consiliului Local al comunei Băuțar care să facă parte din Consiliul de Adminstrație al Școlii Gimnaziale Băuțar, în anul școlar 2020-2021",
+"short": "HCL Băuțar nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73035",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -617,6 +837,28 @@
 "council_name": "Consiliul Local al Comunei Băuțar",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bautar-39-2021",
+"path": "local/caras-severin/bautar/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 39/2021 privind alegerea președintelui de ședință pentru o perioadă de cel mult 3 luni",
+"short": "HCL Băuțar nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/bautar-cs/registru-hcl/73038",
+"council": "caras-severin/bautar",
+"council_name": "Consiliul Local al Comunei Băuțar",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

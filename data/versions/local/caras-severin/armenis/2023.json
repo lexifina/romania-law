@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--armenis-18-2023",
+   "path": "local/caras-severin/armenis/2023/18",
+   "short": "HCL Armeniș nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 18/2023 privind completarea Planului Anual al Achizitiilor Publice pe anul 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107762",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107762",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-19-2023",
    "path": "local/caras-severin/armenis/2023/19",
    "short": "HCL Armeniș nr. 19/2023",
@@ -163,6 +178,66 @@
      "from": "2023-01-06",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/99962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-20-2023",
+   "path": "local/caras-severin/armenis/2023/20",
+   "short": "HCL Armeniș nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 20/2023 privind aprobarea rezilierii contractului de comodat nr.4361/10.11.2021 incheiat intre Primaria comunei Armenis si Asociatia de Ajutor Mutual Slatina-Timis(ADAMS)",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107764",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-21-2023",
+   "path": "local/caras-severin/armenis/2023/21",
+   "short": "HCL Armeniș nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 21/2023 privind adoptarea bugetului SC AQUAPREST ARMENIS SRL PE ANUL 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107765",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-22-2023",
+   "path": "local/caras-severin/armenis/2023/22",
+   "short": "HCL Armeniș nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 22/2023 privind stabilirea taxelor si ipozitelor locale pe anul 2024",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107766",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-23-2023",
+   "path": "local/caras-severin/armenis/2023/23",
+   "short": "HCL Armeniș nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 23/2023 privind aprobarea rambursarii sumei de 109339,72 lei reprezentand avansuri acordate si nejustificate in cadrul contractului C0720RM00011551100109/22.12.2016",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/107767",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/107767",
      "sha256": null
     }
    ]
@@ -208,6 +283,36 @@
      "from": "2023-06-26",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/121990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-27-2023",
+   "path": "local/caras-severin/armenis/2023/27",
+   "short": "HCL Armeniș nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 27/2023 privind derularea procedurii de achizitie publica deservicii juridice in vederea asistarii si reprezentarii in instanta a Comunei Armenis in Dosar nr.1738/290/2023,in etapa procesuala a fondului",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/136297",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/136297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-28-2023",
+   "path": "local/caras-severin/armenis/2023/28",
+   "short": "HCL Armeniș nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 28/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/136298",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/136298",
      "sha256": null
     }
    ]

@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "proiect/2022",
+"acts": [
+{
+"slug": "proiect-parlament-2022-l366-2022",
+"path": "proiect/parlament/2022/l366-2022",
+"kind": "proiect",
+"year": "2022",
+"number": "l366-2022",
+"withdrawn_by": null,
+"reason": null,
+"title": "Propunere legislativă pentru modificarea art.20 alin.(5) din Legea nr.51/1995 pentru organizarea și exercitarea profesiei de avocat",
+"short": "Propunere legislativă L366/2022",
+"code": null,
+"status": "draft, not law; became Legea nr. 50/2023",
+"versions": 9,
+"from": "2022-04-26",
+"latest": "2023-03-06",
+"portal": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022"
+},
+{
+"slug": "proiect-parlament-2022-l5-2022",
+"path": "proiect/parlament/2022/l5-2022",
+"kind": "proiect",
+"year": "2022",
+"number": "l5-2022",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.138/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ",
+"short": "Proiect de lege L5/2022",
+"code": null,
+"status": "draft, not law; became Legea nr. 156/2022",
+"versions": 11,
+"from": "2021-12-29",
+"latest": "2022-05-25",
+"portal": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022"
+}
+]
+}

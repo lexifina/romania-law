@@ -1,6 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hcl-buzau--cislau-1-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/6208
 hcl-buzau--cislau-10-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9389
+hcl-buzau--cislau-11-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9390
 hcl-buzau--cislau-12-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9391
 hcl-buzau--cislau-13-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9392
 hcl-buzau--cislau-14-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9394
@@ -13,11 +14,16 @@ hcl-buzau--cislau-2-2020,current,2026-11-08,2026-12-08,register-read,,,,https://
 hcl-buzau--cislau-20-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9400
 hcl-buzau--cislau-21-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9401
 hcl-buzau--cislau-22-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9402
+hcl-buzau--cislau-23-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11796
 hcl-buzau--cislau-24-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11797
+hcl-buzau--cislau-25-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11798
 hcl-buzau--cislau-26-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11799
 hcl-buzau--cislau-27-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11800
 hcl-buzau--cislau-28-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11801
+hcl-buzau--cislau-29-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11802
 hcl-buzau--cislau-3-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/6210
+hcl-buzau--cislau-30-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11803
+hcl-buzau--cislau-31-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11804
 hcl-buzau--cislau-32-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11805
 hcl-buzau--cislau-33-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11806
 hcl-buzau--cislau-34-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/11807
@@ -45,3 +51,4 @@ hcl-buzau--cislau-53-2020,current,2026-11-08,2026-12-08,register-read,,,,https:/
 hcl-buzau--cislau-6-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/6213
 hcl-buzau--cislau-7-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/6816
 hcl-buzau--cislau-8-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/6817
+hcl-buzau--cislau-9-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/cislau-bz/registru-hcl/9388

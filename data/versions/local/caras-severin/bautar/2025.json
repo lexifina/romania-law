@@ -3,6 +3,366 @@
  "shard": "local/caras-severin/bautar/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--bautar-1-2025",
+   "path": "local/caras-severin/bautar/2025/1",
+   "short": "HCL Băuțar nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 1/2025 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/190119",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/190119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-10-2025",
+   "path": "local/caras-severin/bautar/2025/10",
+   "short": "HCL Băuțar nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 10/2025 privind aprobarea planului de acțiune pentru gestionarea câinilor fără stăpân",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/195086",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/195086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-11-2025",
+   "path": "local/caras-severin/bautar/2025/11",
+   "short": "HCL Băuțar nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 11/2025",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/195087",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/195087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-12-2025",
+   "path": "local/caras-severin/bautar/2025/12",
+   "short": "HCL Băuțar nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 12/2025 privind aprobarea PLANULUI DE DEZVOLTARE A SERVICIILOR SOCIALE FINANȚATE DIN BUGETUL LOCALPrimăria Băuțar, județul Caraș Severin privind aprobarea PLANULUI DE DEZVOLTARE A SERVICIILOR SOCIALE FINANȚATE DIN BUGETUL LOCALPrimăria Băuțar, județul Caraș Severin privind aprobarea PLANULUI DE DEZVOLTARE A SERVICIILOR SOCIALE FINANȚATE DIN BUGETUL LOCALPrimăria Băuțar, județul Caraș Severin",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/195088",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/195088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-13-2025",
+   "path": "local/caras-severin/bautar/2025/13",
+   "short": "HCL Băuțar nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 13/2025 privind aprobare contiuare amenajare teren sintetic de minifotbal în comuna Băuțar, sat Bucova",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/195089",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/195089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-14-2025",
+   "path": "local/caras-severin/bautar/2025/14",
+   "short": "HCL Băuțar nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 14/2025 privind actualizarea Nomenclatorului stradal existent la nivelul UAT comuna Băuțar, judetul Caraș-Severin",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/195090",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/195090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-15-2025",
+   "path": "local/caras-severin/bautar/2025/15",
+   "short": "HCL Băuțar nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 15/2025 privind aprobare realizare obiectiv de investiții „Reabilitare Cămin Cultural Bucova comuna Băuțar, sat Bucova”",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/195091",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/195091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-16-2025",
+   "path": "local/caras-severin/bautar/2025/16",
+   "short": "HCL Băuțar nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 16/2025 privind completarea HCL nr. 36/24.10.2023 referitoare la implementarea proiectului „SUNETUL CULTURII: PROIECT DE SONORIZARE PENTRU CĂMINUL CULTURAL",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/198667",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/198667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-17-2025",
+   "path": "local/caras-severin/bautar/2025/17",
+   "short": "HCL Băuțar nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 17/2025 privind APROBARE BUGET LOCAL al comunei Băuțar",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/199221",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/199221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-18-2025",
+   "path": "local/caras-severin/bautar/2025/18",
+   "short": "HCL Băuțar nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 18/2025 Privind aprobarea spre cheltuială a sumelor din excedentul bugetar local la 31.12.2024",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/199222",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/199222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-19-2025",
+   "path": "local/caras-severin/bautar/2025/19",
+   "short": "HCL Băuțar nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 19/2025 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/199223",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/199223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-2-2025",
+   "path": "local/caras-severin/bautar/2025/2",
+   "short": "HCL Băuțar nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 2/2025 privind încheierea exercițiului bugetar al anului 2024",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/190120",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/190120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-20-2025",
+   "path": "local/caras-severin/bautar/2025/20",
+   "short": "HCL Băuțar nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 20/2025 Privind participarea Comunei Băuțar la Programul privind acordarea de sprijin în vederea achiziționării de aparate Pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/201757",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/201757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-21-2025",
+   "path": "local/caras-severin/bautar/2025/21",
+   "short": "HCL Băuțar nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 21/2025 privind aprobarea condițiilor în care se realizează accesul furnizorilor de rețele de comunicații electronice pe proprietatea publică sau privată a UAT comuna Băuțar , în vederea construirii , instalării . întreținerii , înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură fizică necesare susținerii acestora",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/208278",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/208278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-22-2025",
+   "path": "local/caras-severin/bautar/2025/22",
+   "short": "HCL Băuțar nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 22/2025 privind rectificarea bugetului local",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/208279",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/208279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-23-2025",
+   "path": "local/caras-severin/bautar/2025/23",
+   "short": "HCL Băuțar nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 23/2025",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/208281",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/208281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-24-2025",
+   "path": "local/caras-severin/bautar/2025/24",
+   "short": "HCL Băuțar nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 24/2025 privind însușirea raportului de evaluare și achiziționarea pentru şi în numele comunei Băuțar a imobil identificat în CF nr.32742 în suprafață de 703 mp",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/208282",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/208282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-25-2025",
+   "path": "local/caras-severin/bautar/2025/25",
+   "short": "HCL Băuțar nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 25/2025 privind rectificarea bugetului local",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/208283",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/208283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-26-2025",
+   "path": "local/caras-severin/bautar/2025/26",
+   "short": "HCL Băuțar nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 26/2025",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/208284",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/208284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-27-2025",
+   "path": "local/caras-severin/bautar/2025/27",
+   "short": "HCL Băuțar nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 27/2025 rivind aprobarea Regulamentului referitor la promovarea acţiunilor având ca obiect transformarea amenzilor contravenţionale şi a celor stabilite printr-o hotărâre judecătorească definitivă în muncă neremunerată în folosul comunităţii",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/214531",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/214531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-28-2025",
+   "path": "local/caras-severin/bautar/2025/28",
+   "short": "HCL Băuțar nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 28/2025 privind aprobarea constituirii Comisiei pentru probleme de apărare a Comunei Băuțar privind aprobarea constituirii Comisiei pentru probleme de apărare a Comunei Băuțar",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/214532",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/214532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-29-2025",
+   "path": "local/caras-severin/bautar/2025/29",
+   "short": "HCL Băuțar nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 29/2025 privind alegere presedinte sedinta",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/214533",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/214533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-3-2025",
+   "path": "local/caras-severin/bautar/2025/3",
+   "short": "HCL Băuțar nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 3/2025 privind plan de lucrari",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/192677",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/192677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-30-2025",
+   "path": "local/caras-severin/bautar/2025/30",
+   "short": "HCL Băuțar nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 30/2025 privind rectificare buget",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/214534",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/214534",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-31-2025",
    "path": "local/caras-severin/bautar/2025/31",
    "short": "HCL Băuțar nr. 31/2025",
@@ -133,6 +493,21 @@
      "from": "2025-10-30",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/238382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-4-2025",
+   "path": "local/caras-severin/bautar/2025/4",
+   "short": "HCL Băuțar nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 4/2025",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/192678",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/192678",
      "sha256": null
     }
    ]
@@ -288,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-5-2025",
+   "path": "local/caras-severin/bautar/2025/5",
+   "short": "HCL Băuțar nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 5/2025 privind aprobare servicii pentru conservarea, publicitatea și promovare socio-culturală tradițională a comunei Băuțar",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/192679",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/192679",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-50-2025",
    "path": "local/caras-severin/bautar/2025/50",
    "short": "HCL Băuțar nr. 50/2025",
@@ -303,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-6-2025",
+   "path": "local/caras-severin/bautar/2025/6",
+   "short": "HCL Băuțar nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 6/2025",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/192680",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/192680",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-7-2025",
    "path": "local/caras-severin/bautar/2025/7",
    "short": "HCL Băuțar nr. 7/2025",
@@ -313,6 +718,36 @@
      "from": "2025-02-27",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/195083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-8-2025",
+   "path": "local/caras-severin/bautar/2025/8",
+   "short": "HCL Băuțar nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 8/2025 privind aprobarea indicatorilor tehnico-economici actualizati și a devizului general actualizat pentru obiectivul de investitii ”MODERNIZARE STRĂZI ÎN COMUNA BĂUȚAR-ETAPA A II-A, COMUNA BĂUȚAR, JUDEȚUL CARAȘ-SEVERIN”. Aprobat pentru finantare prin Programul national de investitii ,,Anghel Saligny”, precum și a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/195084",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/195084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-9-2025",
+   "path": "local/caras-severin/bautar/2025/9",
+   "short": "HCL Băuțar nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 9/2025 Privind prelungirea termenului de valabilitate a Planului Urbanistic General al comunei Băuțar, județul Caraș-Severin",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/195085",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/195085",
      "sha256": null
     }
    ]

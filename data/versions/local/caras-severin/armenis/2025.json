@@ -3,6 +3,111 @@
  "shard": "local/caras-severin/armenis/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--armenis-1-2025",
+   "path": "local/caras-severin/armenis/2025/1",
+   "short": "HCL Armeniș nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 1/2025 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunii dezvoltare ,surse A",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/195326",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/195326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-10-2025",
+   "path": "local/caras-severin/armenis/2025/10",
+   "short": "HCL Armeniș nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 10/2025 privind aprobarea folosirii sumei de 55000 lei de la cap 67 ,, Cultura,recreere si religie\" pentru organizarea evenimentului cultural ,, Zilele satului Armenis\" ,organizat in data de 30.05.2025, cu ocazia sarbatorii zilelor satului Armenis",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/212031",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/212031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-11-2025",
+   "path": "local/caras-severin/armenis/2025/11",
+   "short": "HCL Armeniș nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 11/2025 privind adoptarea bugetului SC AQUAPREST ARMENIS SRL pe anul 2025",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/212032",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/212032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-12-2025",
+   "path": "local/caras-severin/armenis/2025/12",
+   "short": "HCL Armeniș nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 12/2025",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/216542",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/216542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-13-2025",
+   "path": "local/caras-severin/armenis/2025/13",
+   "short": "HCL Armeniș nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 13/2025 privind aprobarea participarii Comunei Armenis in cadrul Programului privind cresterea eficientei energetice a infrastructurii de iluminat public,aprobarea demararii procedurii de achizitie a serviciilor de proiectare la faza Studiului de fezabilitate-D.A.L.I,proiect tehnic si asistenta tehnica in valoare de 45.000 lei fara T.V.A",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/216543",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/216543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-14-2025",
+   "path": "local/caras-severin/armenis/2025/14",
+   "short": "HCL Armeniș nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 14/2025 privind aprobarea folosirii sumei de 2000 lei de la cap 67 ,,Cultura,recreere si religie\" pentru premierea elevilor cu rezultate bune la invatatura in anul 2024-2025",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/216544",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/216544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-15-2025",
+   "path": "local/caras-severin/armenis/2025/15",
+   "short": "HCL Armeniș nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 15/2025 privind aprobarea actualizata a caracteristicilor principale si a indicatorilor tehnico -economici precum si a devizului general al obiectivului de investitie:,,Modernizare sistem de alimentare cu apa comuna Armenis,localitati Armenis si Fenes,judetul Caras-Severin",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/216545",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/216545",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-16-2025",
    "path": "local/caras-severin/armenis/2025/16",
    "short": "HCL Armeniș nr. 16/2025",
@@ -58,6 +163,21 @@
      "from": "2025-09-11",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/240223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-2-2025",
+   "path": "local/caras-severin/armenis/2025/2",
+   "short": "HCL Armeniș nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 2/2025 privind aprobarea Planului Anual al Achizitiilor Publice",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/195327",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/195327",
      "sha256": null
     }
    ]
@@ -213,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--armenis-3-2025",
+   "path": "local/caras-severin/armenis/2025/3",
+   "short": "HCL Armeniș nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 3/2025",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/206161",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/206161",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-30-2025",
    "path": "local/caras-severin/armenis/2025/30",
    "short": "HCL Armeniș nr. 30/2025",
@@ -298,6 +433,96 @@
      "from": "2025-12-18",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/252129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-4-2025",
+   "path": "local/caras-severin/armenis/2025/4",
+   "short": "HCL Armeniș nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 4/2025 privind aprobarea taxei pentru viza anuala a autorizațiilor de functionare emise de Comuna Armenis,agentilor economici care desfasoara activitatea comerciala pe raza UAT Comuna Armenis",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/206162",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/206162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-5-2025",
+   "path": "local/caras-severin/armenis/2025/5",
+   "short": "HCL Armeniș nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 5/2025 privind aprobarea solicitării prelungirii Scrisorii de garantie nr.360/25.07.2018 de la FNGCIMM SA IFN in valoare de 375.000,00 lei în vederea garantării obligațiilor de plata a avansului de 375.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat-,,REABILITAREA,MODERNIZARE ȘI DOTARE CĂMIN CULTURAL DIN LOCALITATEA SAT BĂTRÂN,COMUNA ARMENIȘ,JUDEȚUL CARAS-SEVERIN",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/212024",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/212024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-6-2025",
+   "path": "local/caras-severin/armenis/2025/6",
+   "short": "HCL Armeniș nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 6/2025 privind participarea Comunei Armeniș la Programul privind acordarea de sprijin în vederea achizitionarii de aparate pentru incalzirea locuintelor,pentru localitatile din zona montana",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/212025",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/212025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-7-2025",
+   "path": "local/caras-severin/armenis/2025/7",
+   "short": "HCL Armeniș nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 7/2025 privind aprobarea bugetului de venituri si cheltuieli al comunei Armenis pe anul 2025",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/212026",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/212026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-8-2025",
+   "path": "local/caras-severin/armenis/2025/8",
+   "short": "HCL Armeniș nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 8/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/212029",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/212029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-9-2025",
+   "path": "local/caras-severin/armenis/2025/9",
+   "short": "HCL Armeniș nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 9/2025 privind aprobarea taxelor la AJF Caras-Severin-LIGA -IV -a,cheltuielilor de transport, a arbitrajului si cumparare echipament pentru echipa de fotbal Asociatia Club Sportiv Viitorul Armeniș 2023,ediția 2024-2025,returul campionatului",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/212030",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/212030",
      "sha256": null
     }
    ]

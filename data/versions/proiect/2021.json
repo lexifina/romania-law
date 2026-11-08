@@ -1,0 +1,360 @@
+{
+ "country": "RO",
+ "shard": "proiect/2021",
+ "acts": [
+  {
+   "slug": "proiect-parlament-2021-l235-2021",
+   "path": "proiect/parlament/2021/l235-2021",
+   "short": "Proiect de lege L235/2021",
+   "title": "Proiect de lege pentru modificarea Ordonanţei Guvernului nr.63/2001 privind înfiinţarea Inspectoratului de Stat în Construcţii - I.S.C.",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-14",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-16",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-17",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-25",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-28",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-29",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-01",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-10",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-19",
+     "units": 14,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L235&an_cls=2021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2021-l386-2021",
+   "path": "proiect/parlament/2021/l386-2021",
+   "short": "Proiect de lege L386/2021",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.96/2021 privind acordarea de sprijin și asistență de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-09-22",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-09-27",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-10-04",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-02",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-07",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-09",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-22",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L386&an_cls=2021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2021-l46-2021",
+   "path": "proiect/parlament/2021/l46-2021",
+   "short": "Proiect de lege L46/2021",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.14/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.194/2002 privind regimul străinilor în România",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-03-16",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-03-18",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-03-22",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-03-24",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-30",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-02",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-20",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-22",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L46&an_cls=2021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2021-l509-2021",
+   "path": "proiect/parlament/2021/l509-2021",
+   "short": "Propunere legislativă L509/2021",
+   "title": "Propunere legislativă pentru modificarea și completarea-Legii-nr.121/2014 privind eficiența energetică",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L509&an_cls=2021",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L509&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-11-15",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L509&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-12-15",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L509&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-12-22",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L509&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-02",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L509&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-07",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L509&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-20",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L509&an_cls=2021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2021-l547-2021",
+   "path": "proiect/parlament/2021/l547-2021",
+   "short": "Proiect de lege L547/2021",
+   "title": "Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.129/2021 privind implementarea formularului digital de intrare în România",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-25",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-10",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-21",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2023-06-13",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2023-06-19",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2023-06-21",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2023-07-05",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2023-07-06",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L547&an_cls=2021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2021-l91-2021",
+   "path": "proiect/parlament/2021/l91-2021",
+   "short": "Propunere legislativă L91/2021",
+   "title": "Propunere legislativă pentru completarea art.3 din Legea nr.227/2015 privind Codul fiscal și modificarea art.13 din Legea nr.207/2015 privind Codul de procedură fiscală",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L91&an_cls=2021",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L91&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-03-02",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L91&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-04-15",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L91&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-04-21",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L91&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-04-27",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L91&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2021-05-04",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L91&an_cls=2021",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-11",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L91&an_cls=2021",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

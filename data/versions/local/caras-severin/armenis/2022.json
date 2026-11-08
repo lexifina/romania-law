@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--armenis-11-2022",
+   "path": "local/caras-severin/armenis/2022/11",
+   "short": "HCL Armeniș nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 11/2022 privind inchirierea unui spatiu comercial in suprafata de 26,66 mp,situat in localitatea Armenis,nr.367,judetul Caras-Severin,in cadrul ,,Dispensarului Medical\",identificat in Extrasul de Carte Funciara nr.30289/Armenis,nr.cad.30289-C1",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64337",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64337",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-12-2022",
    "path": "local/caras-severin/armenis/2022/12",
    "short": "HCL Armeniș nr. 12/2022",
@@ -58,6 +73,21 @@
      "from": "2022-03-29",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/64339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-14-2022",
+   "path": "local/caras-severin/armenis/2022/14",
+   "short": "HCL Armeniș nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 14/2022 privind schimbarea denumirii imobilului aflat in proprietatea comuna Armenis Judetul Caras-Severin din ,,Centru Local de Informare Turistica si Marketingul Serviciilor Legate de Turismul Rural in Comuna Armenis in ,,cladire parter\" si initierea procedurilor de inchiriere dupa schimbarea denumirii",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64340",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64340",
      "sha256": null
     }
    ]
@@ -348,6 +378,51 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--armenis-32-2022",
+   "path": "local/caras-severin/armenis/2022/32",
+   "short": "HCL Armeniș nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 32/2022 privind inchirierea unui imobil in suprafața de 32 mp,situat in loc.Armeniș,nr.367,jud.Caras-Severin,identificat in Extrasul de Carte Funciara nr.30289/Armenis,nr.cad.30289-C2 ,,ANEXA\",pentru cabinet medical veterinar,proprietate privata Comuna Armeniș",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82376",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-33-2022",
+   "path": "local/caras-severin/armenis/2022/33",
+   "short": "HCL Armeniș nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 33/2022 privind inchirierea unui imobil compus din teren intravilan in suprafața de 1.000 mp și ,,cladire parter'',in suprafață construită de 97 mp,situat in localitatea Armeniș,nr.416,jud.Caraș-Severin,identificat în Extrasul de Carte Funciară nr.30575/Armeniș,nr.cad. 30575-C1,destinat pentru activitati profesionale-spatiu birou,proprietate publica comuna Armenis",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82377",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-34-2022",
+   "path": "local/caras-severin/armenis/2022/34",
+   "short": "HCL Armeniș nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 34/2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82378",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--armenis-35-2022",
    "path": "local/caras-severin/armenis/2022/35",
    "short": "HCL Armeniș nr. 35/2022",
@@ -433,6 +508,21 @@
      "from": "2022-02-11",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/64020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-40-2022",
+   "path": "local/caras-severin/armenis/2022/40",
+   "short": "HCL Armeniș nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 40/2022 privind valorificarea cantitatii de 1187,06 mc masa lemnoasa din fondul forestier al comunei Armenis,prin vanzarea catre populatie",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/82450",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/82450",
      "sha256": null
     }
    ]
@@ -943,6 +1033,21 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": "https://emol.ro/armenis-cs/registru-hcl/99944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--armenis-8-2022",
+   "path": "local/caras-severin/armenis/2022/8",
+   "short": "HCL Armeniș nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Armeniș nr. 8/2022",
+   "url": "https://emol.ro/armenis-cs/registru-hcl/64024",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/armenis-cs/registru-hcl/64024",
      "sha256": null
     }
    ]

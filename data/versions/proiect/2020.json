@@ -1,0 +1,75 @@
+{
+ "country": "RO",
+ "shard": "proiect/2020",
+ "acts": [
+  {
+   "slug": "proiect-parlament-2020-l666-2020",
+   "path": "proiect/parlament/2020/l666-2020",
+   "short": "Proiect de lege L666/2020",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.187/2020 pentru modificarea Ordonanței de urgență a Guvernului nr.144/2020 privind unele măsuri pentru alocarea de fonduri externe nerambursabile necesare desfăşurării în condiţiile de prevenţie a activităţilor didactice aferente anului școlar/universitar 2020/2021 în contextul riscului de infecție cu coronavirus SARS-CoV-2",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2020-11-13",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2020-11-16",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2020-11-17",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2020-11-28",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2021-02-01",
+     "units": 11,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2021-06-29",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-01",
+     "units": 13,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-19",
+     "units": 16,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    },
+    {
+     "from": "2021-07-20",
+     "units": 16,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L666&an_cls=2020",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

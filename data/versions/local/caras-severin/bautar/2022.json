@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-12-2022",
+   "path": "local/caras-severin/bautar/2022/12",
+   "short": "HCL Băuțar nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 12/2022",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73975",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73975",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-13-2022",
    "path": "local/caras-severin/bautar/2022/13",
    "short": "HCL Băuțar nr. 13/2022",
@@ -138,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-19-2022",
+   "path": "local/caras-severin/bautar/2022/19",
+   "short": "HCL Băuțar nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 19/2022 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74021",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-2-2022",
+   "path": "local/caras-severin/bautar/2022/2",
+   "short": "HCL Băuțar nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 2/2022 privind alegerea președintelui de ședință pentru o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/73867",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/73867",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-20-2022",
    "path": "local/caras-severin/bautar/2022/20",
    "short": "HCL Băuțar nr. 20/2022",
@@ -178,6 +223,21 @@
      "from": "2022-09-30",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/74024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-23-2022",
+   "path": "local/caras-severin/bautar/2022/23",
+   "short": "HCL Băuțar nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 23/2022 privind premierea elevilor școlii generale din comuna Băuțar care au obținut rezultate deosebite la olimpiadă faza județeană anul școlar 2021-2022, cu suma de 750/500 de lei pentru fiecare elev premiat",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/74026",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/74026",
      "sha256": null
     }
    ]

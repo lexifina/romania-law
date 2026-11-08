@@ -3,6 +3,21 @@
  "shard": "cnsc/2022",
  "acts": [
   {
+   "slug": "cnsc-decizie-2022-1364",
+   "path": "cnsc/decizie/2022/1364",
+   "short": "Decizia CNSC nr. 1364/C10/1431 din 16.06.2022",
+   "title": "Decizia CNSC nr. 1364/C10/1431 din 16.06.2022: contestația VERTISA ENVIROMENTAL SRL în contradictoriu cu SPITALUL CLINIC DE PNEUMOFTIZIOLOGIE LEON DANIELLO",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTkxMjhkYzMtMGMwNy00M2Q0LWI0ODEtMWYzMDRjYmMxNjVk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzY0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=OTkxMjhkYzMtMGMwNy00M2Q0LWI0ODEtMWYzMDRjYmMxNjVk&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMzY0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "65661461cf37f863797fbfc5cbadcc37bf5561c24c92c28c8d4dd0b7f3e476e7"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2022-2824",
    "path": "cnsc/decizie/2022/2824",
    "short": "Decizia CNSC nr. 2824/C10/3037 din 28.11.2022",

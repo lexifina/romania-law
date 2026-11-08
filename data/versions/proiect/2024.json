@@ -1,0 +1,87 @@
+{
+ "country": "RO",
+ "shard": "proiect/2024",
+ "acts": [
+  {
+   "slug": "proiect-ms-2024-hotarare-a-guvernului-privind-completarea-anexei-fe9538e6",
+   "path": "proiect/ms/2024/hotarare-a-guvernului-privind-completarea-anexei-fe9538e6",
+   "short": "Proiect de HG MS din 2024-04-24",
+   "title": "Proiect: Hotărâre a Guvernului privind completarea Anexei la Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală",
+   "url": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/hot%C4%83r%C3%A2re-a-guvernului-privind-completarea-anexei-la-hot%C4%83r%C3%A2rea-guvernului-nr-7202008-pentru-aprobarea-listei-cuprinz%C3%A2nd-denumirile-comune-interna%C5%A3ionale-corespunz%C4%83toare-medicamentelor-de-care-beneficiaz%C4%83-asigura%C5%A3ii-cu-sau-f%C4%83r%C4%83-contribu%C5%A3ie-personal%C4%83/",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 3,
+     "source_url": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/hot%C4%83r%C3%A2re-a-guvernului-privind-completarea-anexei-la-hot%C4%83r%C3%A2rea-guvernului-nr-7202008-pentru-aprobarea-listei-cuprinz%C3%A2nd-denumirile-comune-interna%C5%A3ionale-corespunz%C4%83toare-medicamentelor-de-care-beneficiaz%C4%83-asigura%C5%A3ii-cu-sau-f%C4%83r%C4%83-contribu%C5%A3ie-personal%C4%83/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-ms-2024-ordonanta-a-guvernului-privind-modificarea-si-co-355354af",
+   "path": "proiect/ms/2024/ordonanta-a-guvernului-privind-modificarea-si-co-355354af",
+   "short": "Proiect de ordonanță MS din 2024-08-26",
+   "title": "Proiect: Ordonanță a Guvernului privind modificarea și completarea unor acte normative și stabilirea unor măsuri în domeniul sănătății.",
+   "url": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/ordonan%C8%9B%C4%83-a-guvernului-privind-modificarea-%C8%99i-completarea-unor-acte-normative-%C8%99i-stabilirea-unor-m%C4%83suri-%C3%AEn-domeniul-s%C4%83n%C4%83t%C4%83%C8%9Bii26824/",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 2,
+     "source_url": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/ordonan%C8%9B%C4%83-a-guvernului-privind-modificarea-%C8%99i-completarea-unor-acte-normative-%C8%99i-stabilirea-unor-m%C4%83suri-%C3%AEn-domeniul-s%C4%83n%C4%83t%C4%83%C8%9Bii26824/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2024-l53-2024",
+   "path": "proiect/parlament/2024/l53-2024",
+   "short": "Propunere legislativă L53/2024",
+   "title": "Propunere legislativă privind completarea art.3 din Ordonanţa Guvernului nr.14/2007 pentru reglementarea modului şi condiţiilor de valorificare a bunurilor intrate, potrivit legii, în proprietatea privată a statului",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024",
+     "sha256": null
+    },
+    {
+     "from": "2023-12-05",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024",
+     "sha256": null
+    },
+    {
+     "from": "2024-02-13",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024",
+     "sha256": null
+    },
+    {
+     "from": "2024-02-26",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-04",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024",
+     "sha256": null
+    },
+    {
+     "from": "2024-03-11",
+     "units": 5,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024",
+     "sha256": null
+    },
+    {
+     "from": "2025-03-19",
+     "units": 6,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L53&an_cls=2024",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

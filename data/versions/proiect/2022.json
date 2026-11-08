@@ -1,0 +1,144 @@
+{
+ "country": "RO",
+ "shard": "proiect/2022",
+ "acts": [
+  {
+   "slug": "proiect-parlament-2022-l366-2022",
+   "path": "proiect/parlament/2022/l366-2022",
+   "short": "Propunere legislativă L366/2022",
+   "title": "Propunere legislativă pentru modificarea art.20 alin.(5) din Legea nr.51/1995 pentru organizarea și exercitarea profesiei de avocat",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 2,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-03",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-08-31",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-09-01",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-09-06",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-15",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-02-20",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-03",
+     "units": 3,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2023-03-06",
+     "units": 4,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L366&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "proiect-parlament-2022-l5-2022",
+   "path": "proiect/parlament/2022/l5-2022",
+   "short": "Proiect de lege L5/2022",
+   "title": "Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.138/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ",
+   "url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 7,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-01-26",
+     "units": 8,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-04",
+     "units": 9,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-17",
+     "units": 10,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-21",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-02-28",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-04-27",
+     "units": 12,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-03",
+     "units": 14,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-05",
+     "units": 14,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-24",
+     "units": 14,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    },
+    {
+     "from": "2022-05-25",
+     "units": 14,
+     "source_url": "https://www.senat.ro/legis/lista.aspx?nr_cls=L5&an_cls=2022",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
