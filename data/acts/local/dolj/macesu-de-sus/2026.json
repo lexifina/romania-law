@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-4-2026",
+"path": "local/dolj/macesu-de-sus/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 4/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local al Comunei Măceșu de Sus, pentru perioada februarie - aprilie 2026",
+"short": "HCL Măceșu de Sus nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/255926",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-5-2026",
 "path": "local/dolj/macesu-de-sus/2026/5",
 "kind": "local",
@@ -396,6 +418,272 @@
 "council_name": "Consiliul Local al Comunei Măceșu de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-20-2026",
+"path": "local/dolj/macesu-de-sus/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 20/2026 privind aprobarea ordinii de zi a ședinței ordinare, a Consiliului Local al Comunei Măceșu de Sus județul Dolj, din data de 30.04.2026",
+"short": "HCL Măceșu de Sus nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272382",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-21-2026",
+"path": "local/dolj/macesu-de-sus/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 21/2026 privind desemnarea preşedintelui de şedinţă al Consiliului Local al Comunei Măceșu de Sus, pentru perioada mai - iulie 2026",
+"short": "HCL Măceșu de Sus nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272383",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-22-2026",
+"path": "local/dolj/macesu-de-sus/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 22/2026 privind prelungirea contractului de închiriere nr.CR 4770/SA 03.04.2007, încheiat între UAT Comuna Măceșu de Sus şi TELEKOM ROMANIA MOBILE COMMUNICATIONS S.A",
+"short": "HCL Măceșu de Sus nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272384",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-23-2026",
+"path": "local/dolj/macesu-de-sus/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 23/2026",
+"short": "HCL Măceșu de Sus nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272385",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-24-2026",
+"path": "local/dolj/macesu-de-sus/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 24/2026 privind modificarea Hotărârii Consiliului Local al Comunei Măceșu de Sus nr.17/15.04.2026",
+"short": "HCL Măceșu de Sus nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272386",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-25-2026",
+"path": "local/dolj/macesu-de-sus/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 25/2026 privind aprobarea bugetului local de venituri și cheltuieli al UAT Comuna Măceșu de Sus pe anul 2026",
+"short": "HCL Măceșu de Sus nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272387",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-26-2026",
+"path": "local/dolj/macesu-de-sus/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 26/2026 privind aprobarea ordinii de zi a ședinței extraordinare, convocată de îndată, a Consiliului Local al Comunei Măceșu de Sus, județul Dolj, din data de 11.05.2026",
+"short": "HCL Măceșu de Sus nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272388",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-27-2026",
+"path": "local/dolj/macesu-de-sus/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 27/2026 privind aprobarea ordinii de zi a ședinței ordinare, a Consiliului Local al Comunei Măceșu de Sus județul Dolj, din data de 22.05.2026",
+"short": "HCL Măceșu de Sus nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272390",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-28-2026",
+"path": "local/dolj/macesu-de-sus/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 28/2026 privind aprobarea execuției bugetului de venituri și cheltuieli al Comunei Măceșu de Sus aferentă trimestrului I al anului 2026",
+"short": "HCL Măceșu de Sus nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272391",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-29-2026",
+"path": "local/dolj/macesu-de-sus/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 29/2026",
+"short": "HCL Măceșu de Sus nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272392",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-30-2026",
+"path": "local/dolj/macesu-de-sus/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 30/2026 privind modificarea Hotărârii Consiliului Local Măceșu de Sus nr.23/30.04.2026",
+"short": "HCL Măceșu de Sus nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272393",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-31-2026",
+"path": "local/dolj/macesu-de-sus/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 31/2026 privind modificarea și completarea Hotărării Consiliului Local Măceșu de Sus nr.26/11.05.2026",
+"short": "HCL Măceșu de Sus nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-04",
+"latest": "2026-06-04",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/272394",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

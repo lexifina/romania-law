@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-28-2022",
+"path": "local/dolj/pielesti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 28/2022 privind ,, Desemnarea președintelui de ședință din cadrul Consiliului Local Pielești pentru lunile mai,iunie și iulie 2022,,",
+"short": "HCL Pielești nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/57954",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-29-2022",
 "path": "local/dolj/pielesti/2022/29",
 "kind": "local",
@@ -220,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-37-2022",
+"path": "local/dolj/pielesti/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 37/2022 privind ,, Demararea procedurii de concesionare a suprafețelor de teren - drumuri de exploatare , reprezentate de căi de acces la sondele de gaz, situate pe raza Comunei Pielești",
+"short": "HCL Pielești nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/62362",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -511,6 +555,50 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-51-2022",
+"path": "local/dolj/pielesti/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 51/2022 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna iulie 2022,,",
+"short": "HCL Pielești nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/66475",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-52-2022",
+"path": "local/dolj/pielesti/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 52/2022 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Comunei Pielești, pentru luna iulie 2022,,",
+"short": "HCL Pielești nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/66476",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-53-2022",
 "path": "local/dolj/pielesti/2022/53",
 "kind": "local",
@@ -732,6 +820,94 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-63-2022",
+"path": "local/dolj/pielesti/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 63/2022 privind ,, Aprobarea Planului de muncă la buldoescavatoristului pentru luna august 2022,,",
+"short": "HCL Pielești nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/68286",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-64-2022",
+"path": "local/dolj/pielesti/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 64/2022 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul pentru luna august 2022,,",
+"short": "HCL Pielești nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/68287",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-65-2022",
+"path": "local/dolj/pielesti/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 65/2022 privind ,, Desemnarea președindelui de ședință pentru lunile august, septembrie și octombrie 2022,,",
+"short": "HCL Pielești nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/68288",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-66-2022",
+"path": "local/dolj/pielesti/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 66/2022 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ce își desfășoară activitatea în cadrul Școlii Gimnaziale Pielești, pentru luna mai 2022,,",
+"short": "HCL Pielești nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/68289",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-67-2022",
 "path": "local/dolj/pielesti/2022/67",
 "kind": "local",
@@ -821,6 +997,29 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-71-2022",
+"path": "local/dolj/pielesti/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 71/2022",
+"short": "HCL Pielești nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/70659",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-72-2022",
 "path": "local/dolj/pielesti/2022/72",
 "kind": "local",
@@ -862,6 +1061,72 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-74-2022",
+"path": "local/dolj/pielesti/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 74/2022 privind ... Desemnarea reprezentantului Consiliului Local Pielești în cadrul Consiliului de Administrație al Școlii Gimnaziale Pielești pentru anul școlar 2022-2023,,",
+"short": "HCL Pielești nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/70662",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-75-2022",
+"path": "local/dolj/pielesti/2022/75",
+"kind": "local",
+"year": "2022",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 75/2022 privind ... Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei Antibullyng la Școala Gimnazială Pielești pentru anul școlar 2022-2023,,",
+"short": "HCL Pielești nr. 75/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/70663",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-76-2022",
+"path": "local/dolj/pielesti/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 76/2022 privind ...Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei de Evaluare și Asigurare a Calității (CEAC) a Școlii Gimnaziale Pielești în anul școlar 2022-2023,,",
+"short": "HCL Pielești nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/70664",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -954,6 +1219,29 @@
 }
 },
 {
+"slug": "hcl-dolj--pielesti-81-2022",
+"path": "local/dolj/pielesti/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 81/2022",
+"short": "HCL Pielești nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/73093",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--pielesti-82-2022",
 "path": "local/dolj/pielesti/2022/82",
 "kind": "local",
@@ -995,6 +1283,29 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-84-2022",
+"path": "local/dolj/pielesti/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 84/2022",
+"short": "HCL Pielești nr. 84/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/73096",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1305,6 +1616,28 @@
 "council_name": "Consiliul Local al Comunei Pielești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--pielesti-99-2022",
+"path": "local/dolj/pielesti/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pielești nr. 99/2022 privind ... Desemnarea președintelui de ședință pentru lunile noiembrie și decembrie 2022 precum și pentru luna ianuarie 2023,,",
+"short": "HCL Pielești nr. 99/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://emol.ro/pielesti-dj/registru-hcl/78395",
+"council": "dolj/pielesti",
+"council_name": "Consiliul Local al Comunei Pielești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

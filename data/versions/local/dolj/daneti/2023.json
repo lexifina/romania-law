@@ -3,6 +3,81 @@
  "shard": "local/dolj/daneti/2023",
  "acts": [
   {
+   "slug": "hcl-dolj--daneti-100-2023",
+   "path": "local/dolj/daneti/2023/100",
+   "short": "HCL Daneți nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 100/2023 privind modificarea Listei Obiectivelor de Investitii si Programului Anual de Achizitii Publice al comunei Daneti , judetul Dolj, pe anul 2023",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/HCL-nr-100-2023.pdf",
+     "sha256": "eae3e107902b8a879298ce6ccdabb004d4a4434a9679a6f49ec02c0f398d1c31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-101-2023",
+   "path": "local/dolj/daneti/2023/101",
+   "short": "HCL Daneți nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 101/2023",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/HCL-nr-101-2023.pdf",
+     "sha256": "61e7314ade8813c18f930a00c827267fe2ac9bbd5c77d48c91653a2d7d8fbd25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-102-2023",
+   "path": "local/dolj/daneti/2023/102",
+   "short": "HCL Daneți nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 102/2023 privind aprobare efectuare STUDIU DE OPORTUNITATE SI RAPORT DE EVALUARE in vederea vanzarii prin licitaţie publică a unor terenuri apartinand domeniului privat al comunei DANETI",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/HCL-nr-102-2023.pdf",
+     "sha256": "b6110eb8eec0232626ebc5757d217edbf0ad75b4d8eaa9ffbb9daadcb6f027fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-103-2023",
+   "path": "local/dolj/daneti/2023/103",
+   "short": "HCL Daneți nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 103/2023 privind aprobarea numărului de posturi pentru asistenţii personali ai persoanelor cu handicap grav pentru anul 2024",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/HCL-nr-103-2023.pdf",
+     "sha256": "b6e5b7779ddcaa1396ad86d0102a03de9e6b9b5ee84102de32f9908945c65054"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--daneti-104-2023",
+   "path": "local/dolj/daneti/2023/104",
+   "short": "HCL Daneți nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Daneți nr. 104/2023 privind achiziţionarea unor servicii juridice pentru apărarea intereselor comunei DANETI în justiţie , pentru diverse litigii",
+   "url": "http://www.primariadaneti.ro/hotarari",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariadaneti.ro/imagini/HCL-nr-104-2023.pdf",
+     "sha256": "1d3ec1ebacdf93e4b31e23b176cb22ccfa2f2e855ec50e0248b1cf2ebe00a2c8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--daneti-105-2023",
    "path": "local/dolj/daneti/2023/105",
    "short": "HCL Daneți nr. 105/2023",

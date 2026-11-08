@@ -3,6 +3,28 @@
 "shard": "local/dolj/cioroiasi/2024",
 "acts": [
 {
+"slug": "hcl-dolj--cioroiasi-1-2024",
+"path": "local/dolj/cioroiasi/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 1/2024 privind utilizarea excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar pe anul 2023",
+"short": "HCL Cioroiași nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144489",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--cioroiasi-2-2024",
 "path": "local/dolj/cioroiasi/2024/2",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dolj--cioroiasi-4-2024",
+"path": "local/dolj/cioroiasi/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 4/2024 privind constatarea majorării indemnizațiilor pentru funcțiile de demnitate publică - Primar și Viceprimar al comunei Cioroiași, județul Dolj și aprobarea salariilor de baza pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Cioroiași, județul Dolj",
+"short": "HCL Cioroiași nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144521",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--cioroiasi-5-2024",
 "path": "local/dolj/cioroiasi/2024/5",
 "kind": "local",
@@ -66,6 +110,73 @@
 "council_name": "Consiliul Local al Comunei Cioroiași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-6-2024",
+"path": "local/dolj/cioroiasi/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 6/2024 privind aprobarea numărului estimativ de beneficiari ai tichetelor sociale",
+"short": "HCL Cioroiași nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144523",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-7-2024",
+"path": "local/dolj/cioroiasi/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 7/2024",
+"short": "HCL Cioroiași nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144524",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-8-2024",
+"path": "local/dolj/cioroiasi/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 8/2024 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+"short": "HCL Cioroiași nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144525",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +221,271 @@
 "council_name": "Consiliul Local al Comunei Cioroiași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-11-2024",
+"path": "local/dolj/cioroiasi/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 11/2024 privind aprobarea Programului anual de achiziții publice a comunei Cioroiași pentru anul 2024",
+"short": "HCL Cioroiași nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/155437",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-12-2024",
+"path": "local/dolj/cioroiasi/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 12/2024 privind aprobarea susținerii financiare a Asociația Clubul Sportiv Cioroiași",
+"short": "HCL Cioroiași nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/155438",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-13-2024",
+"path": "local/dolj/cioroiasi/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 13/2024 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Cioroiași, județul Dolj pentru anul 2024",
+"short": "HCL Cioroiași nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/155439",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-14-2024",
+"path": "local/dolj/cioroiasi/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 14/2024 privind actualizarea componentei Serviciului Voluntar pentru Situații de Urgență al UAT Cioroiași, județul Dolj",
+"short": "HCL Cioroiași nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164291",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-15-2024",
+"path": "local/dolj/cioroiasi/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 15/2024 privind aprobarea Devizului și indicatorilor tehnico-economici actualizați în urma finalizării achizițiilor și Proiectului tehnic pentru obiectivul de investiții „ASFALTARE DRUMURI DE INTERES LOCAL ÎN COMUNA CIOROIAȘI, SAT CIOROIU NOU, JUDEȚUL DOLJ”",
+"short": "HCL Cioroiași nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164292",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-16-2024",
+"path": "local/dolj/cioroiasi/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 16/2024 privind stabilirea unei suprafețe deteren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții și demolări de pe raza comunei Cioroiași, județul Cluj",
+"short": "HCL Cioroiași nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164293",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-17-2024",
+"path": "local/dolj/cioroiasi/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 17/2024",
+"short": "HCL Cioroiași nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164294",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-18-2024",
+"path": "local/dolj/cioroiasi/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 18/2024 privind aprobarea alocării unui sprijin financiar pentru Parohia Trochesti Biserica Adormirea Maicii Domnului",
+"short": "HCL Cioroiași nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164295",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-19-2024",
+"path": "local/dolj/cioroiasi/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 19/2024 privind alegerea președintelui de ședință pentru o perioada de trei luni",
+"short": "HCL Cioroiași nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164296",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-20-2024",
+"path": "local/dolj/cioroiasi/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 20/2024 privind aprobarea Regulamentului de aplicare a normelor de gospodărire comunală și ordine publică pe teritoriul comunei Cioroiași, județul Dolj, precum și constatarea faptelor ce constituie contravenții",
+"short": "HCL Cioroiași nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164301",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-21-2024",
+"path": "local/dolj/cioroiasi/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 21/2024 privind aprobarea continuării activității Serviciului Public de Apă și Canalizare Cioroiași și Serviciul Public Comunitar Local de Evidență a Persoanelor Cioroiași, județul Dolj",
+"short": "HCL Cioroiași nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164302",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-22-2024",
+"path": "local/dolj/cioroiasi/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 22/2024 privind modificarea statului de funcții al aparatului de specialitate al primarului comunei Cioroiași, județul Dolj și organigrama pentru anul 2024",
+"short": "HCL Cioroiași nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-31",
+"latest": "2024-07-31",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/164303",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

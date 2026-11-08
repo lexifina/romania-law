@@ -3,6 +3,21 @@
  "shard": "local/dambovita/vulcana-bai/2022",
  "acts": [
   {
+   "slug": "hcl-dambovita--vulcana-bai-1-2022",
+   "path": "local/dambovita/vulcana-bai/2022/1",
+   "short": "HCL Vulcana-Băi nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 1/2022 privind aprobarea utilizării excedentului bugetar rezultat la încheierea exercițiului bugetar al anului 2021, în anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/48565",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/48565",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-10-2022",
    "path": "local/dambovita/vulcana-bai/2022/10",
    "short": "HCL Vulcana-Băi nr. 10/2022",
@@ -48,6 +63,111 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-11-2022",
+   "path": "local/dambovita/vulcana-bai/2022/11",
+   "short": "HCL Vulcana-Băi nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 11/2022 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Comunei Vulcana-Băi",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/52974",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/52974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-12-2022",
+   "path": "local/dambovita/vulcana-bai/2022/12",
+   "short": "HCL Vulcana-Băi nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 12/2022 pentru adoptarea Declarației privind asumarea agendei de integritate organizațională",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/52975",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/52975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-13-2022",
+   "path": "local/dambovita/vulcana-bai/2022/13",
+   "short": "HCL Vulcana-Băi nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 13/2022 privind aprobarea contractului de novație, la contractul de închiriere nr. 8357 din 6 noiembrie 2012, chiriaș inițial Societatea FARMACEUTICA REMEDIA SA, noul chiriaș FARMACIA KOGĂLNICEANU SRL",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/52976",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/52976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-14-2022",
+   "path": "local/dambovita/vulcana-bai/2022/14",
+   "short": "HCL Vulcana-Băi nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 14/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/52977",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/52977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-15-2022",
+   "path": "local/dambovita/vulcana-bai/2022/15",
+   "short": "HCL Vulcana-Băi nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 15/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/52978",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/52978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-16-2022",
+   "path": "local/dambovita/vulcana-bai/2022/16",
+   "short": "HCL Vulcana-Băi nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 16/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/52979",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/52979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-17-2022",
+   "path": "local/dambovita/vulcana-bai/2022/17",
+   "short": "HCL Vulcana-Băi nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 17/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/52980",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/52980",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-18-2022",
    "path": "local/dambovita/vulcana-bai/2022/18",
    "short": "HCL Vulcana-Băi nr. 18/2022",
@@ -58,6 +178,51 @@
      "from": "2022-05-16",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/57801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-19-2022",
+   "path": "local/dambovita/vulcana-bai/2022/19",
+   "short": "HCL Vulcana-Băi nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 19/2022 privind aprobarea Planului de ordine și siguranță publică al poliției locale a comunei Vulcana-Băi, pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/57802",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/57802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-2-2022",
+   "path": "local/dambovita/vulcana-bai/2022/2",
+   "short": "HCL Vulcana-Băi nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 2/2022 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/50284",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/50284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-20-2022",
+   "path": "local/dambovita/vulcana-bai/2022/20",
+   "short": "HCL Vulcana-Băi nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 20/2022 privind aprobarea cooperării comunei Vulcana-Băi cu Filiala Județeană Dâmbovița a Societății Naționale de Cruce Roșie din România",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/57803",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/57803",
      "sha256": null
     }
    ]
@@ -93,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-23-2022",
+   "path": "local/dambovita/vulcana-bai/2022/23",
+   "short": "HCL Vulcana-Băi nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 23/2022 pentru validarea Dispoziției primarului nr. 87 din 4 martie 2022 privind rectificarea bugetului local pe anul 2022, Dispoziției primarului nr. 193 din 14 martie 2022 privind rectificarea bugetului local pe anul 2022 și Dispoziției primarului nr. 230 din 28 martie 2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/57806",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/57806",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-24-2022",
    "path": "local/dambovita/vulcana-bai/2022/24",
    "short": "HCL Vulcana-Băi nr. 24/2022",
@@ -123,6 +303,81 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-26-2022",
+   "path": "local/dambovita/vulcana-bai/2022/26",
+   "short": "HCL Vulcana-Băi nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 26/2022 privind modificarea Hotărârii Consiliului Local nr. 48 din 22 iulie 2021 privind stabilirea terenurilor proprietate publică/privată ale comunei Vulcana-Băi, asupra cărora Societatea SOCERAM CÂMPINA SA exercită, prin efectul legii, dreptul de uz și servitute, la obiectivul de utilitate publică „Alimentarea cu gaze naturale din sistemul național de transport la fabricile din comuna Doicești, județul Dâmbovița”",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/57809",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/57809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-27-2022",
+   "path": "local/dambovita/vulcana-bai/2022/27",
+   "short": "HCL Vulcana-Băi nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 27/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/57810",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/57810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-28-2022",
+   "path": "local/dambovita/vulcana-bai/2022/28",
+   "short": "HCL Vulcana-Băi nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 28/2022 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/59698",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/59698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-29-2022",
+   "path": "local/dambovita/vulcana-bai/2022/29",
+   "short": "HCL Vulcana-Băi nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 29/2022 pentru validarea Dispoziției primarului nr. 250 din 12 aprilie 2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/59699",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/59699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-3-2022",
+   "path": "local/dambovita/vulcana-bai/2022/3",
+   "short": "HCL Vulcana-Băi nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 3/2022 privind actualizarea Planului de analiză și acoperire a riscurilor generatoare de situații de urgență, la nivelul comunei Vulcana-Băi pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/50285",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/50285",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-30-2022",
    "path": "local/dambovita/vulcana-bai/2022/30",
    "short": "HCL Vulcana-Băi nr. 30/2022",
@@ -138,6 +393,246 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-31-2022",
+   "path": "local/dambovita/vulcana-bai/2022/31",
+   "short": "HCL Vulcana-Băi nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 31/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/59701",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/59701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-32-2022",
+   "path": "local/dambovita/vulcana-bai/2022/32",
+   "short": "HCL Vulcana-Băi nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 32/2022 privind aprobarea/respingerea închirierii prin licitație publică a imobilului proprietatea comunei, situat pe strada Vlad ȚEPEȘ, nr. 1",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/60410",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/60410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-33-2022",
+   "path": "local/dambovita/vulcana-bai/2022/33",
+   "short": "HCL Vulcana-Băi nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 33/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/60411",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/60411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-34-2022",
+   "path": "local/dambovita/vulcana-bai/2022/34",
+   "short": "HCL Vulcana-Băi nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 34/2022 privind stabilirea de măsuri privind comercializarea produselor agroalimentare la nivelul comunei",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/60412",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/60412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-35-2022",
+   "path": "local/dambovita/vulcana-bai/2022/35",
+   "short": "HCL Vulcana-Băi nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 35/2022 privind aprobarea depunerii proiectului „Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei Vulcana-Băi” în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2 - Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/61532",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/61532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-36-2022",
+   "path": "local/dambovita/vulcana-bai/2022/36",
+   "short": "HCL Vulcana-Băi nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 36/2022 privind aprobarea documentației de atribuire a contractului de închiriere prin licitație publică a imobilului proprietatea comunei, situat pe strada Vlad ȚEPEȘ, nr. 1",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/62574",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/62574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-37-2022",
+   "path": "local/dambovita/vulcana-bai/2022/37",
+   "short": "HCL Vulcana-Băi nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 37/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/62576",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/62576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-38-2022",
+   "path": "local/dambovita/vulcana-bai/2022/38",
+   "short": "HCL Vulcana-Băi nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 38/2022 pentru modificarea și completarea organigramei comunei Vulcana-Băi prin înființarea a două posturi de asistent medical comunitar",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/62577",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/62577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-39-2022",
+   "path": "local/dambovita/vulcana-bai/2022/39",
+   "short": "HCL Vulcana-Băi nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 39/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/62578",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/62578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-4-2022",
+   "path": "local/dambovita/vulcana-bai/2022/4",
+   "short": "HCL Vulcana-Băi nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 4/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/50286",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/50286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-40-2022",
+   "path": "local/dambovita/vulcana-bai/2022/40",
+   "short": "HCL Vulcana-Băi nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 40/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/62579",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/62579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-41-2022",
+   "path": "local/dambovita/vulcana-bai/2022/41",
+   "short": "HCL Vulcana-Băi nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 41/2022 pentru validarea unor dispoziției ale primarului comunei privind rectificarea bugetului local pe anul 2022, emise prin autorizarea dată de Consiliul Local cu Hotărârea nr. 7 din 31 ianuarie 2022 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/65687",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/65687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-42-2022",
+   "path": "local/dambovita/vulcana-bai/2022/42",
+   "short": "HCL Vulcana-Băi nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 42/2022 pentru modificarea și completarea art. 2 din Hotărârea Consiliului Local nr. 22 din 19 iunie 1998 privind instituirea „PREMIULUI «profesor Virgiliu MAREŞ» pentru învăţătură şi bună purtare”",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/65688",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/65688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-43-2022",
+   "path": "local/dambovita/vulcana-bai/2022/43",
+   "short": "HCL Vulcana-Băi nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 43/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/65689",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/65689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-44-2022",
+   "path": "local/dambovita/vulcana-bai/2022/44",
+   "short": "HCL Vulcana-Băi nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 44/2022 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/67939",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-45-2022",
+   "path": "local/dambovita/vulcana-bai/2022/45",
+   "short": "HCL Vulcana-Băi nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 45/2022 pentru validarea unor dispoziției ale primarului comunei privind rectificarea bugetului local pe anul 2022, emise prin autorizarea dată de Consiliul Local cu Hotărârea nr. 7 din 31 ianuarie 2022 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/67940",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67940",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-46-2022",
    "path": "local/dambovita/vulcana-bai/2022/46",
    "short": "HCL Vulcana-Băi nr. 46/2022",
@@ -148,6 +643,201 @@
      "from": "2022-08-05",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-47-2022",
+   "path": "local/dambovita/vulcana-bai/2022/47",
+   "short": "HCL Vulcana-Băi nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 47/2022 privind stabilirea perioadei în care se efectuează inventarierea domeniului public și privat al comunei, precum și data până la care se face publicarea acestuia pe pagina de internet a comunei",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/67942",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-48-2022",
+   "path": "local/dambovita/vulcana-bai/2022/48",
+   "short": "HCL Vulcana-Băi nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 48/2022 privind punerea la dispoziție a terenurilor din cadrul „Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată în județul Dâmbovița, in perioada 2014-2020”",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/67943",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-49-2022",
+   "path": "local/dambovita/vulcana-bai/2022/49",
+   "short": "HCL Vulcana-Băi nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 49/2022 privind aprobarea cooperării/colaborării comunei Vulcana-Băi cu Asociația Județeană a Vânătorilor și Pescarilor Sportivi Dâmbovița, gestionarul fondului cinegetic nr. 12 Vulcana",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/67944",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-5-2022",
+   "path": "local/dambovita/vulcana-bai/2022/5",
+   "short": "HCL Vulcana-Băi nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 5/2022 privind nominalizarea a doi consilierilor locali pentru a fi desemnați în comisia de evaluare a performanțelor profesionale individuale ale secretarului general al comunei pe anul 2021",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/50287",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/50287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-50-2022",
+   "path": "local/dambovita/vulcana-bai/2022/50",
+   "short": "HCL Vulcana-Băi nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 50/2022 privind aprobarea modificării nivelului penalităților de întârziere, în contractul de închiriere nr. 2158 din 03 aprilie 2014, dintre Comuna Vulcana-Băi și Asociația producătorilor agricoli – Agrovet Vulcana-Băi",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/67945",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-51-2022",
+   "path": "local/dambovita/vulcana-bai/2022/51",
+   "short": "HCL Vulcana-Băi nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 51/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/67946",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-52-2022",
+   "path": "local/dambovita/vulcana-bai/2022/52",
+   "short": "HCL Vulcana-Băi nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 52/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/67947",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/67947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-53-2022",
+   "path": "local/dambovita/vulcana-bai/2022/53",
+   "short": "HCL Vulcana-Băi nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 53/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71231",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-54-2022",
+   "path": "local/dambovita/vulcana-bai/2022/54",
+   "short": "HCL Vulcana-Băi nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 54/2022 privind aprobarea proiectului rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Vulcana-Băi pe anul școlar 2023-2024, în vederea emiterii avizului conform de către Inspectoratul Școlar Județean Dâmbovița",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71232",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-55-2022",
+   "path": "local/dambovita/vulcana-bai/2022/55",
+   "short": "HCL Vulcana-Băi nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 55/2022 pentru validarea unor dispoziției ale primarului comunei privind rectificarea bugetului local pe anul 2022, emise prin autorizarea dată de Consiliul Local cu Hotărârea nr. 7 din 31 ianuarie 2022 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71233",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-56-2022",
+   "path": "local/dambovita/vulcana-bai/2022/56",
+   "short": "HCL Vulcana-Băi nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 56/2022 pentru modificarea și completarea Hotărârii nr. 37*) din 20 mai 2021 privind aprobarea organigramei, a statului de funcții și a numărului de personal, de la nivelul comunei Vulcana-Băi, ca instituție publică locală, reformulată*), componenta de asistență socială, în vederea acreditării ca structură specializată în furnizarea de servicii sociale",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71234",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-57-2022",
+   "path": "local/dambovita/vulcana-bai/2022/57",
+   "short": "HCL Vulcana-Băi nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 57/2022 privind acceptarea ofertei de donație a imobilului, situat pe raza comunei Vulcana-Băi, strada Spătărești, nr. 53, având număr cadastral și cartea funciară 10",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71235",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-58-2022",
+   "path": "local/dambovita/vulcana-bai/2022/58",
+   "short": "HCL Vulcana-Băi nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 58/2022 privind atribuirea denumirii „strada Spătărești-Cucuteni”, drumului aflat, în domeniul public al comunei, identificat prin cartea funciară nr. 3052 și 6749 a Comunei Vulcana-Băi, în vederea analizei și avizării de către Comisia de atribuire de denumiri județeană Dâmbovița",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71236",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71236",
      "sha256": null
     }
    ]
@@ -183,6 +873,81 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-60-2022",
+   "path": "local/dambovita/vulcana-bai/2022/60",
+   "short": "HCL Vulcana-Băi nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 60/2022 privind aprobarea dării în folosință gratuită a Salonului cetățeanului de onoare, parte integrantă a clădirii Primăria Comunei Vulcana-Băi, Asociației de interes general STABILITATE, ARMONIE și TRADIȚII - SAT",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71238",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-61-2022",
+   "path": "local/dambovita/vulcana-bai/2022/61",
+   "short": "HCL Vulcana-Băi nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 61/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71239",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-62-2022",
+   "path": "local/dambovita/vulcana-bai/2022/62",
+   "short": "HCL Vulcana-Băi nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 62/2022 privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Vulcana-Băi, județul Dâmbovița",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/71896",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/71896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-63-2022",
+   "path": "local/dambovita/vulcana-bai/2022/63",
+   "short": "HCL Vulcana-Băi nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 63/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/74137",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/74137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-64-2022",
+   "path": "local/dambovita/vulcana-bai/2022/64",
+   "short": "HCL Vulcana-Băi nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 64/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/74138",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/74138",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-65-2022",
    "path": "local/dambovita/vulcana-bai/2022/65",
    "short": "HCL Vulcana-Băi nr. 65/2022",
@@ -193,6 +958,21 @@
      "from": "2022-10-06",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/74139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-66-2022",
+   "path": "local/dambovita/vulcana-bai/2022/66",
+   "short": "HCL Vulcana-Băi nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 66/2022 pentru validarea unor dispoziției ale primarului comunei privind rectificarea bugetului local pe anul 2022, emise prin autorizarea dată de Consiliul Local cu Hotărârea nr. 7 din 31 ianuarie 2022 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/74140",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/74140",
      "sha256": null
     }
    ]
@@ -213,6 +993,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-68-2022",
+   "path": "local/dambovita/vulcana-bai/2022/68",
+   "short": "HCL Vulcana-Băi nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 68/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/74142",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/74142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-69-2022",
+   "path": "local/dambovita/vulcana-bai/2022/69",
+   "short": "HCL Vulcana-Băi nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 69/2022 privind constatarea încadrării, prin efectul legii, ca obiectiv de interes local și de utilitate publică a lucrărilor în cadrul proiectului „Stabilizarea unor alunecări de teren și betonarea străzilor, precum și a șanțurilor aferente, afectate de calamități naturale în luna iulie 2021, în comuna Vulcana-Băi, județul Dâmbovița”, care cuprinde și amplasamentele de la persoanele fizice, intabulate în cartea funciară 1284 și cartea funciară 2390",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/74326",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/74326",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-7-2022",
    "path": "local/dambovita/vulcana-bai/2022/7",
    "short": "HCL Vulcana-Băi nr. 7/2022",
@@ -228,6 +1038,96 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-70-2022",
+   "path": "local/dambovita/vulcana-bai/2022/70",
+   "short": "HCL Vulcana-Băi nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 70/2022 privind atestarea inventarului unor bunuri care aparțin domeniului public al comunei Vulcana-Băi, județul Dâmbovița",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/74327",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/74327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-71-2022",
+   "path": "local/dambovita/vulcana-bai/2022/71",
+   "short": "HCL Vulcana-Băi nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 71/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/74328",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/74328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-72-2022",
+   "path": "local/dambovita/vulcana-bai/2022/72",
+   "short": "HCL Vulcana-Băi nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 72/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/76166",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/76166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-73-2022",
+   "path": "local/dambovita/vulcana-bai/2022/73",
+   "short": "HCL Vulcana-Băi nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 73/2022 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/78461",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-74-2022",
+   "path": "local/dambovita/vulcana-bai/2022/74",
+   "short": "HCL Vulcana-Băi nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 74/2022 privind atribuirea denumirii „strada Spătărești-Cucuteni”, drumului aflat, în domeniul public al comunei, identificat prin cartea funciară nr. 3052 și 6749 a Comunei Vulcana-Băi",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/78462",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-75-2022",
+   "path": "local/dambovita/vulcana-bai/2022/75",
+   "short": "HCL Vulcana-Băi nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 75/2022 pentru validarea unor dispoziției ale primarului comunei privind rectificarea bugetului local pe anul 2022, emise prin autorizarea dată de Consiliul Local cu Hotărârea nr. 7 din 31 ianuarie 2022 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/78463",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78463",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-76-2022",
    "path": "local/dambovita/vulcana-bai/2022/76",
    "short": "HCL Vulcana-Băi nr. 76/2022",
@@ -238,6 +1138,96 @@
      "from": "2022-11-04",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-77-2022",
+   "path": "local/dambovita/vulcana-bai/2022/77",
+   "short": "HCL Vulcana-Băi nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 77/2022 privind aprobarea cuantumului burselor lunare de performanţă, de merit, de studiu şi de ajutor social pentru elevii din învăţământul preuniversitar cu frecvenţă, care se acordă în anul şcolar 2022-2023",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/78465",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-78-2022",
+   "path": "local/dambovita/vulcana-bai/2022/78",
+   "short": "HCL Vulcana-Băi nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 78/2022 privind aprobarea dării în folosință gratuită a unui agregat frigorific mortuar, Parohiei Vulcana-Băi",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/78466",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-79-2022",
+   "path": "local/dambovita/vulcana-bai/2022/79",
+   "short": "HCL Vulcana-Băi nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 79/2022 privind aprobarea dării în folosință gratuită a unui agregat frigorific mortuar, Parohiei Vulcana de Sus",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/78467",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-8-2022",
+   "path": "local/dambovita/vulcana-bai/2022/8",
+   "short": "HCL Vulcana-Băi nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 8/2022 pentru modificarea nr. crt. 31 din anexa nr. 2 la Hotărârea nr. 37 din 20 mai 2021 privind aprobarea organigramei, a statului de funcții și a numărului de personal, de la nivelul comunei Vulcana-Băi, ca instituție publică locală, reformulată",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/50290",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/50290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-80-2022",
+   "path": "local/dambovita/vulcana-bai/2022/80",
+   "short": "HCL Vulcana-Băi nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 80/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/78468",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-81-2022",
+   "path": "local/dambovita/vulcana-bai/2022/81",
+   "short": "HCL Vulcana-Băi nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 81/2022",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/78469",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/78469",
      "sha256": null
     }
    ]
@@ -358,6 +1348,21 @@
      "from": "2022-12-13",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/81515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-9-2022",
+   "path": "local/dambovita/vulcana-bai/2022/9",
+   "short": "HCL Vulcana-Băi nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 9/2022 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/50291",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/50291",
      "sha256": null
     }
    ]

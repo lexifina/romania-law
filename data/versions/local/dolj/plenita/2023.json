@@ -3,6 +3,66 @@
  "shard": "local/dolj/plenita/2023",
  "acts": [
   {
+   "slug": "hcl-dolj--plenita-1-2023",
+   "path": "local/dolj/plenita/2023/1",
+   "short": "HCL Plenița nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 1/2023 privind desemnarea presedintelui de sedinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103343",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-10-2023",
+   "path": "local/dolj/plenita/2023/10",
+   "short": "HCL Plenița nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 10/2023 privind aprobarea modificarii contractului de concesiune nr. 2832 din 10.05.2006",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103352",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-11-2023",
+   "path": "local/dolj/plenita/2023/11",
+   "short": "HCL Plenița nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 11/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103354",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-12-2023",
+   "path": "local/dolj/plenita/2023/12",
+   "short": "HCL Plenița nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 12/2023 privind inchirierea unui teren in suprafata de 12,00 mp din totalul de 1700 mp, situati in comuna Plenita, satul Plenita, str. Pietei, nr. 2A, judetul Dolj ,T 117, parcela 2071, nr. cadastral 30116, proprietate publica a comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103355",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103355",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-13-2023",
    "path": "local/dolj/plenita/2023/13",
    "short": "HCL Plenița nr. 13/2023",
@@ -13,6 +73,36 @@
      "from": "2023-09-14",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/103356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-14-2023",
+   "path": "local/dolj/plenita/2023/14",
+   "short": "HCL Plenița nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 14/2023 privind aprobarea unei dezmembrari",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103379",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-15-2023",
+   "path": "local/dolj/plenita/2023/15",
+   "short": "HCL Plenița nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 15/2023 privind aprobarea indexarii cu rata inflatiei de 13,8 % a impozitelor si taxelor locale pe anul 2024",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103380",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103380",
      "sha256": null
     }
    ]
@@ -33,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-17-2023",
+   "path": "local/dolj/plenita/2023/17",
+   "short": "HCL Plenița nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 17/2023 privind aprobarea calității de membru a Comunei Plenita în parteneriatul public-privat al Grupului de Acţiune Locală (GAL) „Calafat”",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103382",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-18-2023",
+   "path": "local/dolj/plenita/2023/18",
+   "short": "HCL Plenița nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 18/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/119922",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/119922",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-19-2023",
    "path": "local/dolj/plenita/2023/19",
    "short": "HCL Plenița nr. 19/2023",
@@ -43,6 +163,21 @@
      "from": "2023-09-14",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/119924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-2-2023",
+   "path": "local/dolj/plenita/2023/2",
+   "short": "HCL Plenița nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 2/2023 privind aprobarea Protocoalelor de protocolului de colaborare interinstituționala a MMSS cu UAT Comuna Plenita, în cadrul proiectului ,,HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103344",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103344",
      "sha256": null
     }
    ]
@@ -78,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-22-2023",
+   "path": "local/dolj/plenita/2023/22",
+   "short": "HCL Plenița nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 22/2023 privind inchirierea a doua terenuri în suprafață totala de 38 mp parte din totalul de 1700 mp, situati in comuna Plenita, satul Plenita, proprietate publica a comunei Plenița",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/119929",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/119929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-23-2023",
+   "path": "local/dolj/plenita/2023/23",
+   "short": "HCL Plenița nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 23/2023 privind Actul Adițional nr. 7 la Contractul nr. 370/22.05.2018 ”Delegarea prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în judetul Dolj și operarea stației de sortare și transfer Goicea” și Actul Adițional nr. 1 la Contractul nr. 1818/30.06.2022 ”Delegarea prin concesionare a operării instalațiilor de gestionare a deșeurilor municipale realizate în cadrul proiectului Sistem de Management Integrat al Deșeurilor în Județul Dolj”",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/119930",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/119930",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-24-2023",
    "path": "local/dolj/plenita/2023/24",
    "short": "HCL Plenița nr. 24/2023",
@@ -88,6 +253,21 @@
      "from": "2024-01-25",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/119931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-25-2023",
+   "path": "local/dolj/plenita/2023/25",
+   "short": "HCL Plenița nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 25/2023 privind desemnarea presedintelui de sedință",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/119932",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/119932",
      "sha256": null
     }
    ]
@@ -148,6 +328,21 @@
      "from": "2023-09-14",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/119946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-3-2023",
+   "path": "local/dolj/plenita/2023/3",
+   "short": "HCL Plenița nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 3/2023 privind organizarea retelei scolare la nivelul u.a.t.Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103345",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103345",
      "sha256": null
     }
    ]
@@ -298,6 +493,21 @@
      "from": "2024-01-17",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/137743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-4-2023",
+   "path": "local/dolj/plenita/2023/4",
+   "short": "HCL Plenița nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 4/2023 privind bugetul local pe anul 2023",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103346",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103346",
      "sha256": null
     }
    ]
@@ -628,6 +838,51 @@
      "from": "2023-09-14",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/103348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-7-2023",
+   "path": "local/dolj/plenita/2023/7",
+   "short": "HCL Plenița nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 7/2023 privind aprobarea Programului Anual al achizitiilor publice pe anul 2023",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103349",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-8-2023",
+   "path": "local/dolj/plenita/2023/8",
+   "short": "HCL Plenița nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 8/2023 privind aprobarea Planului de actiuni/lucrari ce se vor desfasura in anul 2023 cu persoanele beneficiare de prevederile Legii nr.416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103350",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-9-2023",
+   "path": "local/dolj/plenita/2023/9",
+   "short": "HCL Plenița nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 9/2023",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/103351",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/103351",
      "sha256": null
     }
    ]

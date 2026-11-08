@@ -3,6 +3,117 @@
 "shard": "local/dambovita/vulcana-pandele/2023",
 "acts": [
 {
+"slug": "hcl-dambovita--vulcana-pandele-2-2023",
+"path": "local/dambovita/vulcana-pandele/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 2/2023 pentru aprobarea Planului de actiuni sau de lucrari de interes local, ce urmeaza a se realiza cu persoanele apte de munca din familiile beneficiare de venit minim garantat, in anul 2023",
+"short": "HCL Vulcana-Pandele nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#40264",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-3-2023",
+"path": "local/dambovita/vulcana-pandele/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 3/2023 privind aprobarea Planului anual de actiune privind serviciile sociale administrate si finantate din bugetul consiliului local al comunei Vulcana-Pandele pentru anul 2023",
+"short": "HCL Vulcana-Pandele nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#40273",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-4-2023",
+"path": "local/dambovita/vulcana-pandele/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 4/2023 privind modificarea Statului de functii al aparatului de specialitate al Primarului comunei Vulcana-Pandele, judetul Dambovita",
+"short": "HCL Vulcana-Pandele nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#40275",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-5-2023",
+"path": "local/dambovita/vulcana-pandele/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 5/2023",
+"short": "HCL Vulcana-Pandele nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": null,
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-6-2023",
+"path": "local/dambovita/vulcana-pandele/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 6/2023 privind aprobarea validarii Dispozitiei primarului nr. 1/04.01.2023 privind acoperirea definitive a deficitului sectiunii de dezvoltare al anului 2022",
+"short": "HCL Vulcana-Pandele nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#40309",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-7-2023",
 "path": "local/dambovita/vulcana-pandele/2023/7",
 "kind": "local",

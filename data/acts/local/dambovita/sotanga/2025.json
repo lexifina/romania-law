@@ -3,6 +3,28 @@
 "shard": "local/dambovita/sotanga/2025",
 "acts": [
 {
+"slug": "hcl-dambovita--sotanga-1-2025",
+"path": "local/dambovita/sotanga/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 1/2025 privind completarea Hotărârii Consiliului Local Șotânga nr. 155 din data de 17.12.2024 pentru aprobarea numărului de posturi de asistent personal al persoanelor cu handicap pentru anul 2025",
+"short": "HCL Șotânga nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/188283",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-2-2025",
 "path": "local/dambovita/sotanga/2025/2",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-3-2025",
+"path": "local/dambovita/sotanga/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 3/2025 privind privind aprobarea contului anual de execuție a bugetului local și bugetului împrumuturilor interne al UAT comuna Șotânga pe anul 2024",
+"short": "HCL Șotânga nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/188285",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +91,160 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-5-2025",
+"path": "local/dambovita/sotanga/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 5/2025 privind reorganizarea aparatului de specialitate al Primarului comunei Șotânga și aprobarea organigramei și a statului de funcții",
+"short": "HCL Șotânga nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/188287",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-6-2025",
+"path": "local/dambovita/sotanga/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 6/2025 privind aprobarea scoaterii din evidența fiscală curentă a creanțelor fiscale datorate de debitorii aflați în stare de insolvabilitate",
+"short": "HCL Șotânga nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/188288",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-7-2025",
+"path": "local/dambovita/sotanga/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 7/2025 privind însușirea rezultatelor inventarierii generale pentru anul 2024 a elementelor de natura activelor, datoriilor și capitalurilor proprii deținute de comuna Șotânga",
+"short": "HCL Șotânga nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/188289",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-8-2025",
+"path": "local/dambovita/sotanga/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 8/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/188290",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-9-2025",
+"path": "local/dambovita/sotanga/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 9/2025 privind alegerea președintelui de ședință pentru ședința ordinară a Consiliului Local al comunei Șotânga din data de 23 ianuarie 2025",
+"short": "HCL Șotânga nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/188291",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-10-2025",
+"path": "local/dambovita/sotanga/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 10/2025 privind abrogarea Hotărârii Consiliului Local nr.173/23.12.2024 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Șotânga",
+"short": "HCL Șotânga nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-14",
+"latest": "2025-02-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/192351",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-11-2025",
+"path": "local/dambovita/sotanga/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 11/2025 privind aprobarea notei conceptuale și a temei de proiectare la obiectivul de investiții ”Șotânga verde – parcuri, grădini, piste de biciclete” comuna Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-14",
+"latest": "2025-02-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/192352",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-12-2025",
 "path": "local/dambovita/sotanga/2025/12",
 "kind": "local",
@@ -67,6 +265,315 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-13-2025",
+"path": "local/dambovita/sotanga/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 13/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Șotânga nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/197043",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-14-2025",
+"path": "local/dambovita/sotanga/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 14/2025 privind însușirea listei mijloacelor fixe și obiectelor de inventar casate pentru anul 2024",
+"short": "HCL Șotânga nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/197044",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-15-2025",
+"path": "local/dambovita/sotanga/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 15/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/197045",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-16-2025",
+"path": "local/dambovita/sotanga/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 16/2025 privind scăderea sumelor aferente taxei de habitat pentru contribuabilii cărora li s-a menținut facilitatea de scutire/reducere în baza cererii inițiale",
+"short": "HCL Șotânga nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/197046",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-17-2025",
+"path": "local/dambovita/sotanga/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 17/2025 privind aprobarea indicatorilor tehnico-economici finali și a devizului general pentru obiectivul de investiție „Rețea edilitară(centrală electrică fotovoltaică 199 KWp) aferentă zonei funcționale instituții publice și servicii de interes general 19-Sală de sport, 20-Complex sportiv, 21-Parc comunal și alte obiective, comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/197047",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-18-2025",
+"path": "local/dambovita/sotanga/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 18/2025 privind aprobarea indicatorilor tehnico-economici finali și a devizului general pentru obiectivul de investiție „Amplasare stații de încărcare electrică în comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/197048",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-19-2025",
+"path": "local/dambovita/sotanga/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 19/2025 privind aprobarea indicatorilor tehnico-economici, a devizului general și al documentației tehnico-economice pentru obiectivul de investiție ”Extindere rețele apă și rețele canalizare în comuna Șotânga, județul Dâmbovița” – lucrări de intervenție în primă urgență – traversări la DJ712 și la drumuri locale și asigurarea funcționalității tronsonului de canalizare între S.P.01 și S.P.06",
+"short": "HCL Șotânga nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/197049",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-20-2025",
+"path": "local/dambovita/sotanga/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 20/2025 privind aprobarea notei conceptuale și a temei de proiectare la obiectivul de investiții “Șotânga SMART - Valorificarea avantajelor digitalizării în beneficiul cetățenilor prin investiții în dezvoltarea infrastructurii serviciilor și echipamentelor IT” comuna Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-14",
+"latest": "2025-03-14",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/197050",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-21-2025",
+"path": "local/dambovita/sotanga/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 21/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ” Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Șotânga nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/200097",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-22-2025",
+"path": "local/dambovita/sotanga/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 22/2025 privind aprobarea Planului de Analiză și Acoperire a Riscurilor (PAAR) al comunei Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/200098",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-23-2025",
+"path": "local/dambovita/sotanga/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 23/2025",
+"short": "HCL Șotânga nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/200099",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-24-2025",
+"path": "local/dambovita/sotanga/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 24/2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico economici pentru obiectivul de investiții “Șotânga SMART - Valorificarea avantajelor digitalizării în beneficiul cetățenilor prin investiții în dezvoltarea infrastructurii serviciilor și echipamentelor IT” comuna Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/200100",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-25-2025",
+"path": "local/dambovita/sotanga/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 25/2025 privind alegerea președintelui de ședință pentru perioada aprilie 2025 - iunie 2025",
+"short": "HCL Șotânga nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/200101",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-26-2025",
+"path": "local/dambovita/sotanga/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 26/2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții “Șotânga SMART - Valorificarea avantajelor digitalizării în beneficiul cetățenilor prin investiții în dezvoltarea infrastructurii serviciilor și echipamentelor IT” comuna Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/203785",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -114,6 +621,72 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-29-2025",
+"path": "local/dambovita/sotanga/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 29/2025 privind execuția bugetului local al comunei Șotânga pe cele două secțiuni, la data de 31.03.2025",
+"short": "HCL Șotânga nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205312",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-30-2025",
+"path": "local/dambovita/sotanga/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 30/2025 privind trecerea unui bun din domeniul public în domeniul privat al comunei Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205313",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-31-2025",
+"path": "local/dambovita/sotanga/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 31/2025 privind trecerea unui bun din domeniul privat în domeniul public al comunei Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205314",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-32-2025",
 "path": "local/dambovita/sotanga/2025/32",
 "kind": "local",
@@ -133,6 +706,116 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-33-2025",
+"path": "local/dambovita/sotanga/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 33/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Șotânga nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205316",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-34-2025",
+"path": "local/dambovita/sotanga/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 34/2025 privind scăderea sumelor aferente taxei de habitat pentru contribuabilii cărora li s-a menținut facilitatea de scutire/reducere în baza cererii inițiale",
+"short": "HCL Șotânga nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205317",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-35-2025",
+"path": "local/dambovita/sotanga/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 35/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205318",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-36-2025",
+"path": "local/dambovita/sotanga/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 36/2025 privind completarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205319",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-37-2025",
+"path": "local/dambovita/sotanga/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 37/2025 privind aprobarea Studiului de oportunitate, a Caietului de sarcini şi a documentaţiei de atribuire pentru delegarea serviciului de întreţinere şi reparații rețele de iluminat public în comuna Şotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205320",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +863,72 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-40-2025",
+"path": "local/dambovita/sotanga/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 40/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiţii „Modernizare drumuri de interes local în comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205323",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-41-2025",
+"path": "local/dambovita/sotanga/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 41/2025 privind aprobarea notei de fundamentare și a listei dotărilor independente necesare Serviciului Voluntar pentru Situații de Urgență și pentru asigurarea conectării obiectivelor noi de investiții recepționate la sistemul video al comunei Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205324",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-42-2025",
+"path": "local/dambovita/sotanga/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 42/2025 privind înființarea Centrului de zi pentru copii, comuna Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205325",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-43-2025",
 "path": "local/dambovita/sotanga/2025/43",
 "kind": "local",
@@ -199,6 +948,117 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-44-2025",
+"path": "local/dambovita/sotanga/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 44/2025 privind depunerea proiectului ” Achiziționarea dotărilor independente necesare Serviciului Voluntar pentru Situații de Urgență și pentru asigurarea conectării obiectivelor noi de investiții recepționate la sistemul video al comunei Șotânga, județ Dâmbovița” spre finanțare în cadrul Programului Județean de Dezvoltare Locală Dâmbovița în perioada 2021-31.12.2028, precum și aprobarea cotei de cofinanțare a comunei Șotânga",
+"short": "HCL Șotânga nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/205327",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-45-2025",
+"path": "local/dambovita/sotanga/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 45/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210401",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-46-2025",
+"path": "local/dambovita/sotanga/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 46/2025",
+"short": "HCL Șotânga nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210402",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-47-2025",
+"path": "local/dambovita/sotanga/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 47/2025 privind igienizarea islazurilor comunale prin contribuție voluntară în natură a cetățenilor din comuna Șotânga, deținători de utilaje agricole și încheierea protocolului/protocoalelor având ca obiect igienizarea islazurilor comunale prin contribuție voluntară în natură",
+"short": "HCL Șotânga nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210403",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-48-2025",
+"path": "local/dambovita/sotanga/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 48/2025 privind completarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210404",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +1084,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-50-2025",
+"path": "local/dambovita/sotanga/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 50/2025 privind încadrarea în categoria funcțională a drumurilor de interes local a unor drumuri de exploatare agricolă situate în comuna Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210406",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-51-2025",
 "path": "local/dambovita/sotanga/2025/51",
 "kind": "local",
@@ -243,6 +1125,205 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-52-2025",
+"path": "local/dambovita/sotanga/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 52/2025 privind includerea în evidența patrimonială a comunei Șotânga a bunurilor realizate în cadrul obiectivului de investiții ” Rețea edilitară(centrală electrică fotovoltaică 199 KWp) aferentă zonei funcționale instituții publice și servicii de interes general 19-Sală de sport, 20-Complex sportiv, 21-Parc comunal și alte obiective, comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210408",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-53-2025",
+"path": "local/dambovita/sotanga/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 53/2025 privind includerea în evidența patrimonială a comunei Șotânga a bunurilor realizate în cadrul obiectivului de investiții „Amplasare Stații de reîncărcare autovehicule electrice în comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210409",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-54-2025",
+"path": "local/dambovita/sotanga/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 54/2025 privind includerea în evidența patrimonială a Comunei Șotânga a bunurilor ce alcătuiesc obiectivul de investiții „Extindere pe verticală structură ușoară, centru de zi, pentru copii, comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210410",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-55-2025",
+"path": "local/dambovita/sotanga/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 55/2025 privind includerea în evidența patrimonială a Comunei Șotânga a bunurilor ce alcătuiesc obiectivul de investiții ”Minerul din Șotânga”",
+"short": "HCL Șotânga nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210411",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-56-2025",
+"path": "local/dambovita/sotanga/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 56/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Șotânga nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/210412",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-57-2025",
+"path": "local/dambovita/sotanga/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 57/2025 privind alegerea președintelui de ședință pentru perioada iulie 2025 - septembrie 2025",
+"short": "HCL Șotânga nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214803",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-58-2025",
+"path": "local/dambovita/sotanga/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 58/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214804",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-59-2025",
+"path": "local/dambovita/sotanga/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 59/2025 privind includerea în evidența patrimonială a comunei Șotânga a bunurilor realizate în cadrul obiectivului de investiții ”Realizare poduri, podețe și pasaj suprateran în comuna Șotânga, jud. Dâmbovița”",
+"short": "HCL Șotânga nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214805",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-60-2025",
+"path": "local/dambovita/sotanga/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 60/2025",
+"short": "HCL Șotânga nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214806",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -268,6 +1349,249 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-62-2025",
+"path": "local/dambovita/sotanga/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 62/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Șotânga nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214808",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-63-2025",
+"path": "local/dambovita/sotanga/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 63/2025 privind aprobarea documentației tehnico-economice faza Studiu de fezabilitate pentru obiectivul de investiții „Șotânga verde – parcuri, grădini, piste de biciclete” în comuna Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214809",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-64-2025",
+"path": "local/dambovita/sotanga/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 64/2025 privind aprobarea indicatorilor tehnico-economici finali și al devizului general final pentru obiectivul de investiţii: „Extindere pe verticală – structură ușoară centru de zi pentru copii, comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214810",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-65-2025",
+"path": "local/dambovita/sotanga/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 65/2025 privind aprobarea Studiului de oportunitate, al Caietului de sarcini, al specificațiilor tehnice și a valorii contribuției proprii pentru proiectul ”Achiziționarea unui sistem informatic de arhivare electronica a documentelor si echipamente hardware” comuna Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214811",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-66-2025",
+"path": "local/dambovita/sotanga/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 66/2025 privind declararea obiectivului de investiții „Șotânga verde – parcuri, grădini, piste de biciclete” în comuna Șotânga, județ Dâmbovița ca lucrare de utilitate publică de interes local",
+"short": "HCL Șotânga nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214812",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-67-2025",
+"path": "local/dambovita/sotanga/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 67/2025 privind aprobarea Registrului local al spațiilor verzi din intravilanul comunei Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214813",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-68-2025",
+"path": "local/dambovita/sotanga/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 68/2025",
+"short": "HCL Șotânga nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214814",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-69-2025",
+"path": "local/dambovita/sotanga/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 69/2025 privind aprobarea documentațiilor tehnico-economice pentru obiectivul ”Reparații generale – reparații capitale - învelitoare și reparații interioare la Școala Gimnazială „Teiul Doamnei”, sat Teiș, comuna Șotânga” și pentru obiectivul ”Reparații generale – reparații capitale - învelitoare și reparații interioare la Grădinița cu program normal, satul Teiș, comuna Șotânga”",
+"short": "HCL Șotânga nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/214815",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-70-2025",
+"path": "local/dambovita/sotanga/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 70/2025 privind aprobarea indicatorilor tehnico-economici și al devizului general pentru obiectivul de investiții „Șotânga verde – parcuri, grădini, piste de biciclete” în comuna Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/216085",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-71-2025",
+"path": "local/dambovita/sotanga/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 71/2025 privind aprobarea proiectului și a cheltuielilor legate de implementarea proiectului pentru obiectivul de investiţii: ”ȘOTÂNGA VERDE – PARCURI, GRĂDINI,PISTE DE BICICLETE” în comuna Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/216086",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-72-2025",
+"path": "local/dambovita/sotanga/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 72/2025 privind aprobarea Acordului de asociere între Județul Dâmbovița, prin Consiliul Județean Dâmbovița și Unitatea administrativ teritorială Comuna Șotânga, prin Consiliul Local al comunei Șotânga, în vederea implementării obiectivului „Dezvoltarea infrastructurii rutiere pentru valorificarea potențialului turistic pe traseul Valea Ialomiței – ,,Centrul de Agrement Stejarul” Mărgineanca – Valea Dâmboviței, pe raza unităților administrativ teritoriale Șotânga și Tătărani”",
+"short": "HCL Șotânga nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/216087",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-73-2025",
 "path": "local/dambovita/sotanga/2025/73",
 "kind": "local",
@@ -287,6 +1611,227 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-74-2025",
+"path": "local/dambovita/sotanga/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 74/2025 privind aprobarea alipirii imobilului în suprafață de 564 mp aflat în domeniul public al comunei Șotânga, înscris în Cartea Funciară nr. 77266, cu imobilul în suprafață de 372 mp aflat în domeniul public al comunei Șotânga, înscris în Cartea Funciară nr. 80771",
+"short": "HCL Șotânga nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/216089",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-75-2025",
+"path": "local/dambovita/sotanga/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 75/2025 privind aprobarea dezlipirii imobilului teren intravilan, aflat în domeniul public al comunei Șotânga, categoria de folosință „curți-construcții”, în suprafață de 5.227 mp, înscris în cartea funciară nr. 80264",
+"short": "HCL Șotânga nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/216090",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-76-2025",
+"path": "local/dambovita/sotanga/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 76/2025 privind aprobarea dezlipirii imobilului teren intravilan, aflat în domeniul public al comunei Șotânga, categoria de folosință „curți-construcții”, în suprafață de 4.460 mp, înscris în cartea funciară nr. 81310",
+"short": "HCL Șotânga nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/216091",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-77-2025",
+"path": "local/dambovita/sotanga/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 77/2025 privind acordarea Diplomei de onoare și premiului pentru aniversarea a 50 de ani de căsătorie, familiilor din comuna Șotânga",
+"short": "HCL Șotânga nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218941",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-78-2025",
+"path": "local/dambovita/sotanga/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 78/2025 privind aprobarea premierii unor sportivi din comuna Șotânga, județ Dâmbovița pentru performanţe deosebite obținute ca urmare a participării la acţiuni sportive naţionale oficiale de ciclism",
+"short": "HCL Șotânga nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218942",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-79-2025",
+"path": "local/dambovita/sotanga/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 79/2025",
+"short": "HCL Șotânga nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218943",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-80-2025",
+"path": "local/dambovita/sotanga/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 80/2025 privind aprobarea documentației tehnico-economice și a devizului general pentru obiectivul de investiții “Modernizare drumuri de interes local în comuna Șotânga, judetul Dâmbovița – lucrări de reparații în primă urgență pe toată zona afectată de alunecarea taluzului pentru strada Rovină (fost DE 294)”",
+"short": "HCL Șotânga nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218944",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-81-2025",
+"path": "local/dambovita/sotanga/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 81/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Șotânga nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218945",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-82-2025",
+"path": "local/dambovita/sotanga/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 82/2025 privind desemnarea reprezentantului unității administrativ teritoriale Comuna Șotânga în cadrul Asociației de dezvoltare intercomunitară ”CIVITAS TÂRGOVIȘTE”",
+"short": "HCL Șotânga nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218946",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-83-2025",
+"path": "local/dambovita/sotanga/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 83/2025 privind aprobarea constituirii Asociatiei Club Sportiv ”MINERVA” Șotânga",
+"short": "HCL Șotânga nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218947",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +1857,272 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-85-2025",
+"path": "local/dambovita/sotanga/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 85/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218949",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-86-2025",
+"path": "local/dambovita/sotanga/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 86/2025",
+"short": "HCL Șotânga nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218950",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-87-2025",
+"path": "local/dambovita/sotanga/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 87/2025 privind aprobarea Convenției încheiată între Unitatea administrativ teritorială Comuna Șotânga, prin Consiliul Local al comunei Șotânga și Administrația Bazinală Apele Române, Administrația Bazinală de Apa Buzău- Ialomița, Sistemul de Gospodărire a Apelor Dâmbovița, având ca obiect, lucrări de refacere si consolidare mal râu Ialomița în punctul Pocșa, sat Teiș, Comuna Șotânga, Județul Dâmbovița",
+"short": "HCL Șotânga nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218951",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-88-2025",
+"path": "local/dambovita/sotanga/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 88/2025 privind aprobarea Strategiei locale de dezvoltare a serviciilor sociale la nivelul comunei Șotânga pentru perioada 2025 - 2030 și a Planului de acțiune pe anul 2025",
+"short": "HCL Șotânga nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218952",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-89-2025",
+"path": "local/dambovita/sotanga/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 89/2025 privind trecerea unui bun din domeniul public în domeniul privat al comunei Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218953",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-90-2025",
+"path": "local/dambovita/sotanga/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 90/2025",
+"short": "HCL Șotânga nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218954",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-91-2025",
+"path": "local/dambovita/sotanga/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 91/2025 privind aprobarea proiectului \"SISTEM DE MANAGEMENT INTEGRAT AL DEȘEURILOR DIN JUDEȚUL DÂMBOVIȚA – OBIECTIV – INSTALAȚIE DE TRATARE DEȘEURI COLECTATE SEPARAT ȘI CENTRU DE APORT VOLUNTAR ȘOTÂNGA\"",
+"short": "HCL Șotânga nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218955",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-92-2025",
+"path": "local/dambovita/sotanga/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 92/2025 privind acceptarea unei sponsorizări din partea NOVA PS 170 SRL București",
+"short": "HCL Șotânga nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-30",
+"latest": "2025-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/218956",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-93-2025",
+"path": "local/dambovita/sotanga/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 93/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222903",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-94-2025",
+"path": "local/dambovita/sotanga/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 94/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Șotânga nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222904",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-95-2025",
+"path": "local/dambovita/sotanga/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 95/2025 privind aprobarea alipirii imobilului în suprafață de 752 mp aflat în domeniul public al comunei Șotânga, înscris în Cartea Funciară nr. 81411, cu imobilul în suprafață de 1952 mp aflat în domeniul public al comunei Șotânga, înscris în Cartea Funciară nr. 81416",
+"short": "HCL Șotânga nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222905",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-96-2025",
+"path": "local/dambovita/sotanga/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 96/2025 privind aprobarea alipirii imobilului în suprafață de 3581 mp aflat în domeniul public al comunei Șotânga, înscris în Cartea Funciară nr. 81412, cu imobilul în suprafață de 3275 mp aflat în domeniul public al comunei Șotânga, înscris în Cartea Funciară nr. 81415",
+"short": "HCL Șotânga nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222906",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-97-2025",
 "path": "local/dambovita/sotanga/2025/97",
 "kind": "local",
@@ -331,6 +2142,116 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-98-2025",
+"path": "local/dambovita/sotanga/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 98/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiție „Construire bază operațională situații de urgență și gospodărire comunală, comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 98/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222908",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-99-2025",
+"path": "local/dambovita/sotanga/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 99/2025 privind aprobarea indicatorilor tehnico-economici finali și a devizului general final pentru obiectivul de investiție „Realizare piață publică și piață comercială tradițională în comuna Șotânga, județ Dâmbovița” – etapa II, sistematizare Centru Civic",
+"short": "HCL Șotânga nr. 99/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222909",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-100-2025",
+"path": "local/dambovita/sotanga/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 100/2025 privind includerea în evidența patrimonială a comunei Șotânga a bunurilor realizate în cadrul obiectivului de investiții „Realizare piață publică și piață comercială tradițională în comuna Șotânga, județ Dâmbovița” – etapa II, sistematizare Centru Civic",
+"short": "HCL Șotânga nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222910",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-101-2025",
+"path": "local/dambovita/sotanga/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 101/2025 privind completarea Inventarului bunurilor care alcătuiesc domeniul privat al comunei Șotânga, județul Dâmbovița",
+"short": "HCL Șotânga nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222911",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-102-2025",
+"path": "local/dambovita/sotanga/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 102/2025 privind aprobarea rectificării limitelor imobilului înscris în CF 75451 în suprafață de 827 mp aparținând domeniului privat al comunei Șotânga",
+"short": "HCL Șotânga nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222912",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -356,6 +2277,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-104-2025",
+"path": "local/dambovita/sotanga/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 104/2025 privind aprobarea sprijinului financiar de la bugetul local al comunei Șotânga pentru Parohia Teiș și a Protocolului de finanțare încheiat între comuna Șotânga și Parohia Teiș",
+"short": "HCL Șotânga nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222914",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-105-2025",
+"path": "local/dambovita/sotanga/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 105/2025",
+"short": "HCL Șotânga nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-10",
+"latest": "2025-09-10",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/222915",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-106-2025",
 "path": "local/dambovita/sotanga/2025/106",
 "kind": "local",
@@ -378,6 +2344,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-107-2025",
+"path": "local/dambovita/sotanga/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 107/2025",
+"short": "HCL Șotânga nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/223766",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-108-2025",
+"path": "local/dambovita/sotanga/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 108/2025 privind alegerea președintelui de ședință pentru perioada octombrie 2025 - decembrie 2025",
+"short": "HCL Șotânga nr. 108/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227364",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-109-2025",
 "path": "local/dambovita/sotanga/2025/109",
 "kind": "local",
@@ -397,6 +2408,274 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-110-2025",
+"path": "local/dambovita/sotanga/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 110/2025 privind actualizarea Programului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Șotânga nr. 110/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227366",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-111-2025",
+"path": "local/dambovita/sotanga/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 111/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiție ”Înființare Centru de colectare prin aport voluntar, comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 111/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227367",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-112-2025",
+"path": "local/dambovita/sotanga/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 112/2025",
+"short": "HCL Șotânga nr. 112/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227368",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-113-2025",
+"path": "local/dambovita/sotanga/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 113/2025",
+"short": "HCL Șotânga nr. 113/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227369",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-114-2025",
+"path": "local/dambovita/sotanga/2025/114",
+"kind": "local",
+"year": "2025",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 114/2025",
+"short": "HCL Șotânga nr. 114/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227370",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-115-2025",
+"path": "local/dambovita/sotanga/2025/115",
+"kind": "local",
+"year": "2025",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 115/2025",
+"short": "HCL Șotânga nr. 115/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227371",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-116-2025",
+"path": "local/dambovita/sotanga/2025/116",
+"kind": "local",
+"year": "2025",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 116/2025 privind aprobarea notei conceptuale și a temei de proiectare la obiectivul de investiții “Instalare sisteme fotovoltaice și stocare a energiei electrice pentru consumul clădirilor publice în comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 116/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227372",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-117-2025",
+"path": "local/dambovita/sotanga/2025/117",
+"kind": "local",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 117/2025 privind aprobarea notei conceptuale și a temei de proiectare la obiectivul de investiții “Capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 117/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/227373",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-118-2025",
+"path": "local/dambovita/sotanga/2025/118",
+"kind": "local",
+"year": "2025",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 118/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 118/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/229867",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-119-2025",
+"path": "local/dambovita/sotanga/2025/119",
+"kind": "local",
+"year": "2025",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 119/2025 privind aprobarea documentației tehnico-economice faza Studiu de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Șotânga verde – parcuri, grădini, piste de biciclete” în comuna Șotânga, județ Dâmbovița - piste de biciclete",
+"short": "HCL Șotânga nr. 119/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/229868",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-120-2025",
+"path": "local/dambovita/sotanga/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 120/2025 privind aprobarea documentației tehnico-economice faza Studiu de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Șotânga verde – parcuri, grădini, piste de biciclete” în comuna Șotânga, județ Dâmbovița - Bazin Plopiș",
+"short": "HCL Șotânga nr. 120/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/229869",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-121-2025",
+"path": "local/dambovita/sotanga/2025/121",
+"kind": "local",
+"year": "2025",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 121/2025 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Reabilitare și modernizare străzi în comuna Șotânga, județ Dâmbovița – Etapa II”",
+"short": "HCL Șotânga nr. 121/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/229870",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -441,6 +2720,50 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-124-2025",
+"path": "local/dambovita/sotanga/2025/124",
+"kind": "local",
+"year": "2025",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 124/2025 privind aprobarea documentației tehnice, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții “Instalare sisteme fotovoltaice și stocare a energiei electrice pentru consumul clădirilor publice în comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 124/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/229873",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-125-2025",
+"path": "local/dambovita/sotanga/2025/125",
+"kind": "local",
+"year": "2025",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 125/2025 privind implementarea proiectului “Instalare sisteme fotovoltaice și stocare a energiei electrice pentru consumul clădirilor publice în comuna Șotânga, județul Dâmbovița”",
+"short": "HCL Șotânga nr. 125/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/229874",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -532,6 +2855,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-130-2025",
+"path": "local/dambovita/sotanga/2025/130",
+"kind": "local",
+"year": "2025",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 130/2025 privind aprobarea actualizării indicatorilor tehnico-economici, a devizului general și al documentației tehnico-economice pentru obiectivul de investiție ”Extindere rețele apă și rețele canalizare în comuna Șotânga, județul Dâmbovița” – lucrări de intervenție în primă urgență – traversări la DJ712 și la drumuri locale și asigurarea funcționalității tronsonului de canalizare între S.P.01 și S.P.06",
+"short": "HCL Șotânga nr. 130/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/232702",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-131-2025",
 "path": "local/dambovita/sotanga/2025/131",
 "kind": "local",
@@ -554,6 +2899,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-132-2025",
+"path": "local/dambovita/sotanga/2025/132",
+"kind": "local",
+"year": "2025",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 132/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 132/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/235300",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-133-2025",
 "path": "local/dambovita/sotanga/2025/133",
 "kind": "local",
@@ -573,6 +2940,94 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-134-2025",
+"path": "local/dambovita/sotanga/2025/134",
+"kind": "local",
+"year": "2025",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 134/2025 privind acceptarea unei sponsorizări din partea ASOCIAȚIEI CLUBUL ROTARY Târgoviște având ca obiect puieți forestieri",
+"short": "HCL Șotânga nr. 134/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/235302",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-135-2025",
+"path": "local/dambovita/sotanga/2025/135",
+"kind": "local",
+"year": "2025",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 135/2025 privind aprobarea documentației tehnice, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Șotânga verde – parcuri, grădini, piste de biciclete” în comuna Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 135/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/235303",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-136-2025",
+"path": "local/dambovita/sotanga/2025/136",
+"kind": "local",
+"year": "2025",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 136/2025 privind aprobarea proiectului și a cheltuielilor legate de implementarea proiectului pentru obiectivul de investiții „Șotânga verde – parcuri, grădini, piste de biciclete” în comuna Șotânga, județ Dâmbovița",
+"short": "HCL Șotânga nr. 136/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/235304",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-137-2025",
+"path": "local/dambovita/sotanga/2025/137",
+"kind": "local",
+"year": "2025",
+"number": "137",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 137/2025 privind implementarea proiectului „Sprijin pentru bunicii din Com. Șotânga, jud. Dâmbovița”, cod SMIS 353836, în cadrul Programului Incluziune și Demnitate Socială 2021 — 2027 (PIDS), Actiunea 6.1. Servicii de ingrijire la domiciliu pentru persoanele varstnice și însușirea Acordului de parteneriat încheiat între Comuna Șotânga și Asociația Basarabii Roșiori de Vede",
+"short": "HCL Șotânga nr. 137/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/235305",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -620,6 +3075,138 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-140-2025",
+"path": "local/dambovita/sotanga/2025/140",
+"kind": "local",
+"year": "2025",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 140/2025 privind aprobarea a indicatorilor tehnico-economici finali și a devizului general final pentru obiectivul de investiții „Modernizarea și extinderea sistemului de iluminat public în comuna Șotânga, județ Dâmbovița”",
+"short": "HCL Șotânga nr. 140/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/237673",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-141-2025",
+"path": "local/dambovita/sotanga/2025/141",
+"kind": "local",
+"year": "2025",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 141/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general, faza Documentația de Avizare a Lucrărilor de Intervenție pentru obiectivul de investiție ”Schimbare destinație construcție C2 – anexă în spații administrative, modernizare, recompartimentare și amenajare spații în pod existent”",
+"short": "HCL Șotânga nr. 141/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/237674",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-142-2025",
+"path": "local/dambovita/sotanga/2025/142",
+"kind": "local",
+"year": "2025",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 142/2025 privind aderarea Comunei Șotânga la sistemul prin cooperare pentru organizarea și exercitarea activității de urbanism și amenajare teritorială la nivelul Filialei Județene Dâmbovița a Asociației Comunelor din România",
+"short": "HCL Șotânga nr. 142/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/237675",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-143-2025",
+"path": "local/dambovita/sotanga/2025/143",
+"kind": "local",
+"year": "2025",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 143/2025 privind aprobarea cheltuielilor necesare pentru achiziționarea de pachete de sărbători",
+"short": "HCL Șotânga nr. 143/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/237676",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-144-2025",
+"path": "local/dambovita/sotanga/2025/144",
+"kind": "local",
+"year": "2025",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 144/2025 privind aprobarea acordării cu titlu gratuit de către DIRECȚIA SILVICĂ DÂMBOVIȚA a 1500 bucăți de puieți de arțar american",
+"short": "HCL Șotânga nr. 144/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/237677",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-145-2025",
+"path": "local/dambovita/sotanga/2025/145",
+"kind": "local",
+"year": "2025",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 145/2025 privind scutirea/reducerea taxei de habitat a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 145/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/237678",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-146-2025",
 "path": "local/dambovita/sotanga/2025/146",
 "kind": "local",
@@ -639,6 +3226,116 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-147-2025",
+"path": "local/dambovita/sotanga/2025/147",
+"kind": "local",
+"year": "2025",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 147/2025 privind aprobarea cotizației datorate de către comuna Șotânga ca membru al Asociației de Dezvoltare Intercomunitară „CIVITAS\" Târgoviște, pentru anul 2026",
+"short": "HCL Șotânga nr. 147/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/242301",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-148-2025",
+"path": "local/dambovita/sotanga/2025/148",
+"kind": "local",
+"year": "2025",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 148/2025 privind aprobarea cotizației datorată de către comuna Șotânga ca membru al Asociației de Dezvoltare Intercomunitară \"APA DÂMBOVIȚA\", pentru anul 2026",
+"short": "HCL Șotânga nr. 148/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/242302",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-149-2025",
+"path": "local/dambovita/sotanga/2025/149",
+"kind": "local",
+"year": "2025",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 149/2025 privind aprobarea obligației financiare a comunei Șotânga în calitate de semnatară a Acordului de cooperare privind organizarea și exercitarea activității de audit public intern, pentru anul 2026",
+"short": "HCL Șotânga nr. 149/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/242303",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-150-2025",
+"path": "local/dambovita/sotanga/2025/150",
+"kind": "local",
+"year": "2025",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 150/2025 privind aprobarea cotizației datorate de către comuna Șotânga în calitate de membru al Asociației Comunelor din România, pentru anul 2026",
+"short": "HCL Șotânga nr. 150/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/242304",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-151-2025",
+"path": "local/dambovita/sotanga/2025/151",
+"kind": "local",
+"year": "2025",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 151/2025 privind aprobarea cotizaţiei datorată de către comuna Şotânga în calitate de membru al Asociației GRUPUL DE ACȚIUNE LOCALĂ „VALEA IALOMIȚEI”, pentru anul 2026",
+"short": "HCL Șotânga nr. 151/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/242305",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

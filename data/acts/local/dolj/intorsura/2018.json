@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dolj/intorsura/2018",
+"acts": [
+{
+"slug": "hcl-dolj--intorsura-16-2018",
+"path": "local/dolj/intorsura/2018/16",
+"kind": "local",
+"year": "2018",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 16/2018 privind administratia publica locala, cu modificarile si completarile ulterioare; In temeiul art.45 din Legea nr.215/2001, republicata, privind administratia publica locala HOTARASTE: Art.1",
+"short": "HCL Întorsura nr. 16/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-14",
+"latest": "2018-03-14",
+"portal": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+"council": "dolj/intorsura",
+"council_name": "Consiliul Local al Comunei Întorsura",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

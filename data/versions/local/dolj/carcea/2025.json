@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-10-2025",
+   "path": "local/dolj/carcea/2025/10",
+   "short": "HCL Cârcea nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 10/2025 pentru completarea HCL nr.16/2024 privind decontarea contravalorii cheltuielilor de transport între localitatea de domiciliu/reşedinţă și Primăria comunei Cârcea, pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al Primarului comunei Cârcea",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/189808",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/189808",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-100-2025",
    "path": "local/dolj/carcea/2025/100",
    "short": "HCL Cârcea nr. 100/2025",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-11-2025",
+   "path": "local/dolj/carcea/2025/11",
+   "short": "HCL Cârcea nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 11/2025 privind mandatarea reprezentantului Comunei Cârcea să voteze, în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară Oltenia, ordinea de zi",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/189809",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/189809",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-12-2025",
    "path": "local/dolj/carcea/2025/12",
    "short": "HCL Cârcea nr. 12/2025",
@@ -103,6 +133,36 @@
      "from": "2025-02-11",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/189810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-13-2025",
+   "path": "local/dolj/carcea/2025/13",
+   "short": "HCL Cârcea nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 13/2025 privind închirierea prin licitație publică a unui spatiu, situat în cadrul Dispensarului Uman si Farmacie din strada Aeroportului, nr.124, comuna Cârcea, avand destinaţia de cabinet medical",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/189811",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/189811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-14-2025",
+   "path": "local/dolj/carcea/2025/14",
+   "short": "HCL Cârcea nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 14/2025 privind avizarea Planului de urgenta pentru Centrul Rezidential Flora Senior",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/189812",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/189812",
      "sha256": null
     }
    ]
@@ -168,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-19-2025",
+   "path": "local/dolj/carcea/2025/19",
+   "short": "HCL Cârcea nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 19/2025 privind mandatarea reprezentantului Comunei Cârcea să voteze, în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară Oltenia, ordinea de zi",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/194964",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/194964",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-2-2025",
    "path": "local/dolj/carcea/2025/2",
    "short": "HCL Cârcea nr. 2/2025",
@@ -178,6 +253,36 @@
      "from": "2025-02-11",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/189800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-20-2025",
+   "path": "local/dolj/carcea/2025/20",
+   "short": "HCL Cârcea nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 20/2025 privind acordarea unui ajutor financiar din bugetul local al comunei Cârcea, pentru cheltuielile de înmormântare ocazionate de decesul unei persoane beneficiare a venitului minim de incluziune",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/194965",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/194965",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-21-2025",
+   "path": "local/dolj/carcea/2025/21",
+   "short": "HCL Cârcea nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 21/2025 privind scăderea din evidența fiscală a Primăriei comunei Cârcea a unor debite înregistrat de persoane juridice, ca urmare a radierii/dizolvării acestora din registrul comertului",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/194966",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/194966",
      "sha256": null
     }
    ]
@@ -198,6 +303,171 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-23-2025",
+   "path": "local/dolj/carcea/2025/23",
+   "short": "HCL Cârcea nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 23/2025 privind aprobarea DALI și devizul aferent pentru investitia ’’Reabilitare, consolidare, extindere, modificări interioare și de fațade a corpului C3-P+1, schimbare de destinație din internat în grădiniță cu program prelungit si cresa, supraetajare de la P+1 la P+1+M, amenajare incintă”",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/194968",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/194968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-24-2025",
+   "path": "local/dolj/carcea/2025/24",
+   "short": "HCL Cârcea nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 24/2025 privind aprobarea participării UAT Cârcea la Programul național multianual privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale ale localităților și a regulamentelor locale de urbanism",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/195955",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/195955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-25-2025",
+   "path": "local/dolj/carcea/2025/25",
+   "short": "HCL Cârcea nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 25/2025 privind aprobarea bugetului general consolidat al comunei Cârcea pe anul 2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/198574",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/198574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-26-2025",
+   "path": "local/dolj/carcea/2025/26",
+   "short": "HCL Cârcea nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 26/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Cârcea pe anul 2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/198575",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/198575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-27-2025",
+   "path": "local/dolj/carcea/2025/27",
+   "short": "HCL Cârcea nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 27/2025 privind aprobarea bugetului de venituri si cheltuieli al Clubului Sportiv Cârcea",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/198576",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/198576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-28-2025",
+   "path": "local/dolj/carcea/2025/28",
+   "short": "HCL Cârcea nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 28/2025 privind aprobarea incheierii Acordului de uzitare a drumului DE 532 situat pe raza Comunei Cârcea cu SC TIMSORT SRL cu sediul în Comuna Scoarța, Judeţul Gorj",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/198577",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/198577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-29-2025",
+   "path": "local/dolj/carcea/2025/29",
+   "short": "HCL Cârcea nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 29/2025 privind alegerea preşedintelui cu atribuţii de conducere a şedinţelor Consiliului Local al Comunei Cârcea în perioada APRILIE - IUNIE 2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/198578",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/198578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-3-2025",
+   "path": "local/dolj/carcea/2025/3",
+   "short": "HCL Cârcea nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 3/2025 privind aprobarea contului de execuție al bugetului local al comunei Cârcea pe anul 2024",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/189801",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/189801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-30-2025",
+   "path": "local/dolj/carcea/2025/30",
+   "short": "HCL Cârcea nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 30/2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/198579",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/198579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-31-2025",
+   "path": "local/dolj/carcea/2025/31",
+   "short": "HCL Cârcea nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 31/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ”Furnizare de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/198580",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/198580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-32-2025",
+   "path": "local/dolj/carcea/2025/32",
+   "short": "HCL Cârcea nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 32/2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/198581",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/198581",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-33-2025",
    "path": "local/dolj/carcea/2025/33",
    "short": "HCL Cârcea nr. 33/2025",
@@ -208,6 +478,21 @@
      "from": "2025-06-03",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/202876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-34-2025",
+   "path": "local/dolj/carcea/2025/34",
+   "short": "HCL Cârcea nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 34/2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/204764",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/204764",
      "sha256": null
     }
    ]
@@ -268,6 +553,21 @@
      "from": "2025-06-03",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/204768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-39-2025",
+   "path": "local/dolj/carcea/2025/39",
+   "short": "HCL Cârcea nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 39/2025 privind închirierea prin licitație publică a unui spaţiu, având destinația de cabinet, situat în cadrul Dispensarului Uman si Farmacie din strada Aeroportului, nr.124, comuna Cârcea",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/204769",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/204769",
      "sha256": null
     }
    ]
@@ -363,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-45-2025",
+   "path": "local/dolj/carcea/2025/45",
+   "short": "HCL Cârcea nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 45/2025 privind aprobarea contului de execuție al bugetului local al comunei Cârcea pe anul 2025, trimestrul I",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/209736",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/209736",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-46-2025",
    "path": "local/dolj/carcea/2025/46",
    "short": "HCL Cârcea nr. 46/2025",
@@ -373,6 +688,21 @@
      "from": "2025-06-12",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/209737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-47-2025",
+   "path": "local/dolj/carcea/2025/47",
+   "short": "HCL Cârcea nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 47/2025 privind aprobarea participării comunei Cârcea, judeţul Dolj, la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2025-2030",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/209738",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/209738",
      "sha256": null
     }
    ]
@@ -408,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-5-2025",
+   "path": "local/dolj/carcea/2025/5",
+   "short": "HCL Cârcea nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 5/2025 privind aprobarea Raportului asupra activităţii desfaşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul II al anului 2024",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/189803",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/189803",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-50-2025",
    "path": "local/dolj/carcea/2025/50",
    "short": "HCL Cârcea nr. 50/2025",
@@ -438,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-52-2025",
+   "path": "local/dolj/carcea/2025/52",
+   "short": "HCL Cârcea nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 52/2025 privind modificarea HCL nr. 23 / 2025 pentru aprobarea DALI și devizul aferent pentru investitia ’’Reabilitare, consolidare, extindere, modificări interioare și de fațade a corpului C3-P+1, schimbare de destinație din internat în grădiniță cu program prelungit si cresa, supraetajare de la P+1 la P+1+M, amenajare incintă”",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/214694",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/214694",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-53-2025",
    "path": "local/dolj/carcea/2025/53",
    "short": "HCL Cârcea nr. 53/2025",
@@ -448,6 +808,51 @@
      "from": "2025-07-10",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/214695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-54-2025",
+   "path": "local/dolj/carcea/2025/54",
+   "short": "HCL Cârcea nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 54/2025 privind aprobarea completării și modificării Regulamentului de organizare și desfășurare a activităților comerciale și a serviciilor de piață în comuna Cârcea, județul Dolj aprobat prin HCL nr.21/2024",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/214696",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/214696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-55-2025",
+   "path": "local/dolj/carcea/2025/55",
+   "short": "HCL Cârcea nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 55/2025 privind alegerea preşedintelui cu atribuţii de conducere a şedinţelor Consiliului Local al Comunei Cârcea în perioada IULIE - SEPTEMBRIE 2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/214697",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/214697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-56-2025",
+   "path": "local/dolj/carcea/2025/56",
+   "short": "HCL Cârcea nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 56/2025 privind suplimentarea bugetului de venituri si cheltuieli al Clubului Sportiv Cârcea",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/214698",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/214698",
      "sha256": null
     }
    ]
@@ -483,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-59-2025",
+   "path": "local/dolj/carcea/2025/59",
+   "short": "HCL Cârcea nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 59/2025 privind aprobarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Cârcea, județul Dolj",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/218128",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/218128",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-6-2025",
    "path": "local/dolj/carcea/2025/6",
    "short": "HCL Cârcea nr. 6/2025",
@@ -498,6 +918,66 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-60-2025",
+   "path": "local/dolj/carcea/2025/60",
+   "short": "HCL Cârcea nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 60/2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/218129",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/218129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-61-2025",
+   "path": "local/dolj/carcea/2025/61",
+   "short": "HCL Cârcea nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 61/2025 privind aprobarea Raportului asupra activităţii desfăşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul I al anului 2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/218130",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/218130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-62-2025",
+   "path": "local/dolj/carcea/2025/62",
+   "short": "HCL Cârcea nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 62/2025 privind aprobarea contului de execuție al bugetului local al comunei Cârcea pe anul 2025, trimestrul al II-lea",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/218131",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/218131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-63-2025",
+   "path": "local/dolj/carcea/2025/63",
+   "short": "HCL Cârcea nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 63/2025 privind includerea în domeniul public al comunei Cârcea, ca urmare a recepției, a investiţiei „Extindere reţea de alimentare cu apă potabilă şi sistem de canalizare, cămine de racord şi branşamente apă Zona Pepinieră, comuna Cârcea, Judeţul Dolj ”",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/222537",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/222537",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-64-2025",
    "path": "local/dolj/carcea/2025/64",
    "short": "HCL Cârcea nr. 64/2025",
@@ -508,6 +988,81 @@
      "from": "2026-08-04",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/222538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-65-2025",
+   "path": "local/dolj/carcea/2025/65",
+   "short": "HCL Cârcea nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 65/2025 privind rectificarea bugetului de venituri si cheltuieli al comunei Cârcea, pe anul 2025-trimestrul al -III-lea",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/222539",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/222539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-66-2025",
+   "path": "local/dolj/carcea/2025/66",
+   "short": "HCL Cârcea nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 66/2025 privind aprobarea Regulamentului privind procedura de înregistrare și evidență a vehiculelor care nu sunt supuse înmatriculării",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/222540",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/222540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-67-2025",
+   "path": "local/dolj/carcea/2025/67",
+   "short": "HCL Cârcea nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 67/2025 privind modificarea Contractului de delegare a Gestiunii Serviciului de Transport Public Local pe raza de competență a unităților administrativ-teritoriale membre în Asociația de Dezvoltare Intercomunitară ”Asociația Metropolitană de Transport Public Craiova” în vederea ajustării tarifelor pentru titlurile de călătorie pe mijloacele de transport în comun (bilete și abonamente) în comuna Cârcea",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/222541",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/222541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-68-2025",
+   "path": "local/dolj/carcea/2025/68",
+   "short": "HCL Cârcea nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 68/2025 pentru modificarea HCL nr. 46/2022 privind aprobarea Regulamentului privind stabilirea unor măsuri pentru gospodărirea comunei Cârcea, precum și stabilirea, constatarea și sancționarea faptelor ce constituie contravenții",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/222542",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/222542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-69-2025",
+   "path": "local/dolj/carcea/2025/69",
+   "short": "HCL Cârcea nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 69/2025 privind modificarea HCL nr.34 din 24.03.2025 pentru aprobarea colaborării interinstituționale din cadrul proiectului ”Furnizare de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/222543",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/222543",
      "sha256": null
     }
    ]
@@ -543,6 +1098,96 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-71-2025",
+   "path": "local/dolj/carcea/2025/71",
+   "short": "HCL Cârcea nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 71/2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/228059",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/228059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-72-2025",
+   "path": "local/dolj/carcea/2025/72",
+   "short": "HCL Cârcea nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 72/2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/228060",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/228060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-73-2025",
+   "path": "local/dolj/carcea/2025/73",
+   "short": "HCL Cârcea nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 73/2025 privind desemnarea reprezentantului Consiliului local Cârcea în Comisia pentru Evaluare și Asigurare a Calității (CEAC) din cadrul Grădiniței cu Program Prelungit RAYKIDS, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/228061",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/228061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-74-2025",
+   "path": "local/dolj/carcea/2025/74",
+   "short": "HCL Cârcea nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 74/2025 privind desemnarea reprezentantului Consiliului Local Cârcea în Consiliul de Administraţie al Grădiniței cu Program Prelungit \"RayKids\", pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/228062",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/228062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-75-2025",
+   "path": "local/dolj/carcea/2025/75",
+   "short": "HCL Cârcea nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 75/2025 privind desemnarea reprezentantului Consiliului Local Cârcea în Consiliul de Administraţie al Gradiniței \"Tora Kids\", pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/228063",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/228063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-76-2025",
+   "path": "local/dolj/carcea/2025/76",
+   "short": "HCL Cârcea nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 76/2025 privind desemnarea reprezentantului Consiliului local Cârcea în Comisia pentru Evaluare și Asigurare a Calității (CEAC) din cadrul Grădiniței ''Tora Kids'', pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/228064",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/228064",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-77-2025",
    "path": "local/dolj/carcea/2025/77",
    "short": "HCL Cârcea nr. 77/2025",
@@ -553,6 +1198,36 @@
      "from": "2026-08-04",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/228065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-78-2025",
+   "path": "local/dolj/carcea/2025/78",
+   "short": "HCL Cârcea nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 78/2025 privind alegerea preşedintelui cu atribuţii de conducere a şedinţelor Consiliului Local al Comunei Cârcea în perioada OCTOMBRIE - DECEMBRIE 2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/228066",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/228066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-79-2025",
+   "path": "local/dolj/carcea/2025/79",
+   "short": "HCL Cârcea nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 79/2025 privind aprobarea prelungirii contractului de comodat între Comuna Cârcea și SC SERVICII PUBLICE CÂRCEA SRL cu asociat unic Consiliul Local al Comunei Cârcea",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/228067",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/228067",
      "sha256": null
     }
    ]
@@ -588,6 +1263,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--carcea-81-2025",
+   "path": "local/dolj/carcea/2025/81",
+   "short": "HCL Cârcea nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 81/2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/231356",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/231356",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--carcea-82-2025",
    "path": "local/dolj/carcea/2025/82",
    "short": "HCL Cârcea nr. 82/2025",
@@ -598,6 +1288,21 @@
      "from": "2026-08-04",
      "units": 1,
      "source_url": "https://emol.ro/carcea-dj/registru-hcl/231357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--carcea-83-2025",
+   "path": "local/dolj/carcea/2025/83",
+   "short": "HCL Cârcea nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cârcea nr. 83/2025",
+   "url": "https://emol.ro/carcea-dj/registru-hcl/231358",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/carcea-dj/registru-hcl/231358",
      "sha256": null
     }
    ]

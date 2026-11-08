@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-dolj--cioroiasi-3-2026",
+"path": "local/dolj/cioroiasi/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 3/2026",
+"short": "HCL Cioroiași nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/254984",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--cioroiasi-4-2026",
 "path": "local/dolj/cioroiasi/2026/4",
 "kind": "local",

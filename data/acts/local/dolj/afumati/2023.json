@@ -3,6 +3,51 @@
 "shard": "local/dolj/afumati/2023",
 "acts": [
 {
+"slug": "hcl-dolj--afumati-1-2023",
+"path": "local/dolj/afumati/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 1/2023 privind utilizarea excedentului bugetului local al anului 2022, în cursul anului 2023",
+"short": "HCL Afumați nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110203",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-2-2023",
+"path": "local/dolj/afumati/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 2/2023",
+"short": "HCL Afumați nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110354",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--afumati-3-2023",
 "path": "local/dolj/afumati/2023/3",
 "kind": "local",
@@ -25,6 +70,50 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-4-2023",
+"path": "local/dolj/afumati/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 4/2023 privind aprobarea Rezultatului Inventarierii bunurilor ce alcătuiesc domeniul public și privat al Comunei Afumați în anul 2022",
+"short": "HCL Afumați nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110356",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-5-2023",
+"path": "local/dolj/afumati/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 5/2023 privind aprobarea listei bunurilor ce aparțin patrimoniului Comunei Afumați propuse pentru casare",
+"short": "HCL Afumați nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110357",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--afumati-6-2023",
 "path": "local/dolj/afumati/2023/6",
 "kind": "local",
@@ -44,6 +133,425 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-7-2023",
+"path": "local/dolj/afumati/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 7/2023 privind aprobarea modului de completare a Registrului Agricol pentru perioada 2020-2024",
+"short": "HCL Afumați nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110359",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-8-2023",
+"path": "local/dolj/afumati/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 8/2023 privind aprobarea Protocolului de colaborare între UAT Comuna Afumați și Ministerul Muncii și Solidarității Sociale având ca obiect asigurarea colaborării interinstituționale a MMSS cu UAT Afumați în cadrul proiectului „HUB de Servicii MMSS-SII MMSS",
+"short": "HCL Afumați nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110360",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-9-2023",
+"path": "local/dolj/afumati/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 9/2023 privind aprobarea bugetului de venituri și cheltuieli al Comunei Afumați, județul Dolj, pentru anul 2023",
+"short": "HCL Afumați nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110361",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-10-2023",
+"path": "local/dolj/afumati/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 10/2023 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2022",
+"short": "HCL Afumați nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110369",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-11-2023",
+"path": "local/dolj/afumati/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 11/2023 privind aprobarea organizării rețelei școlare începând cu data de 01.09.2023 la nivelul comunei Afumați",
+"short": "HCL Afumați nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110370",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-12-2023",
+"path": "local/dolj/afumati/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 12/2023 privind studiul de înscriere a datelor în Registrul agricol al comunei Afumați, pentru anul 2022 și stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Afumați nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110371",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-13-2023",
+"path": "local/dolj/afumati/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 13/2023 privind aprobarea planului de formare profesională a funcționarilor publici din cadrul aparatului de specialitate al Primarului comunei Afumați pentru anul 2023",
+"short": "HCL Afumați nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110372",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-14-2023",
+"path": "local/dolj/afumati/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 14/2023 privind aprobarea documentației de atribuire aferentă Contractului de Delegare a Gestiunii Activității de Eliminare prin Depozitare a Deșeurilor la Depozitul Ecologic de Deșeuri Mofleni-Craiova",
+"short": "HCL Afumați nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110373",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-15-2023",
+"path": "local/dolj/afumati/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 15/2023 privind participarea Comunei Afumați la Parteneriatul LEADER cu denumirea „GAL Valea Dunării Sudolt”",
+"short": "HCL Afumați nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/110374",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-16-2023",
+"path": "local/dolj/afumati/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 16/2023 privind aprobarea implementării proiectului „Proiectul Dotarea cu mobilier, materiale didactice și echipamente a Școlii Gimnaziale Afumați, Județul Dolj”",
+"short": "HCL Afumați nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132335",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-17-2023",
+"path": "local/dolj/afumati/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 17/2023 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Afumați pentru activitatea desfășurată în anul 2022",
+"short": "HCL Afumați nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132336",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-18-2023",
+"path": "local/dolj/afumati/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 18/2023 privind încheierea contractului de mandat pentru administrarea SC UTILITĂȚI PUBLICE AFUMAȚI SRL",
+"short": "HCL Afumați nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132337",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-19-2023",
+"path": "local/dolj/afumati/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 19/2023 privind aprobarea execuției bugetului de venituri și cheltuieli pentru trimestrul IV al anului 2022",
+"short": "HCL Afumați nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132338",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-20-2023",
+"path": "local/dolj/afumati/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 20/2023 privind aprobarea documentației de atribuire aferenta Contractului de Delegare a Gestiunii Activității de Eliminare prin Depozitare a Deșeurilor la Depozitul Ecologic de Deșeuri Mofleni-Craiova",
+"short": "HCL Afumați nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132339",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-21-2023",
+"path": "local/dolj/afumati/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 21/2023 privind aprobarea organigramei și a statului de funcții ale SC UTILITĂȚI PUBLICE AFUMAȚI SRL",
+"short": "HCL Afumați nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132340",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-22-2023",
+"path": "local/dolj/afumati/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 22/2023 privind implementarea proiectului ''Achiziționare miniexcavator pentru dotarea Serviciului Voluntar pentru Situații de Urgență în Comuna Afumați, județul Dolj''",
+"short": "HCL Afumați nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132341",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-23-2023",
+"path": "local/dolj/afumati/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 23/2023 privind aprobarea memoriului justificativ și a indicatorilor tehnico-economici aferenți proiectului ''Achiziționare miniexcavator pentru dotarea Serviciului Voluntar pentru Situații de Urgență în Comuna Afumați, județul Dolj''",
+"short": "HCL Afumați nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132342",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-24-2023",
+"path": "local/dolj/afumati/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 24/2023",
+"short": "HCL Afumați nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132343",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--afumati-25-2023",
+"path": "local/dolj/afumati/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 25/2023 privind închirierea prin licitație publică, a imobilului ''Brutărie Afumați, situat în Comuna Afumați, Sat Afumați, județul Dolj''",
+"short": "HCL Afumați nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132344",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +618,50 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-29-2023",
+"path": "local/dolj/afumati/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 29/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici aferenți proiectului ''Reabilitare termoenergetică clădire parter/Corp C1-Muzeu'' în comuna Afumați, sat Afumați, str. Principală, nr. 60, județul Dolj",
+"short": "HCL Afumați nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132348",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-30-2023",
+"path": "local/dolj/afumati/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 30/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici aferenți proiectului ''Renovare energetică moderată la Clădirea C1 - Consiliul Local P+1, situată în comuna Afumați, sat Afumați, str. Principală, nr. 37",
+"short": "HCL Afumați nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132349",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

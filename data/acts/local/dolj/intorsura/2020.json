@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dolj/intorsura/2020",
+"acts": [
+{
+"slug": "hcl-dolj--intorsura-2-2020",
+"path": "local/dolj/intorsura/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 2/2020 Privind neasumarea responsabilitatii UAT Comuna Întorsura, a organizarii si derularii procedurilor de atribuire a contractelor / acordurilor -cadru pentru achizitia produselor de panificațielaptelui și a produselor lactateși fructelor sau legumelor, precum si a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea masurilor educative, aferente Programului pentru scoli al Romani",
+"short": "HCL Întorsura nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-13",
+"latest": "2020-01-13",
+"portal": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+"council": "dolj/intorsura",
+"council_name": "Consiliul Local al Comunei Întorsura",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

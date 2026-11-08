@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dobresti/2018",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dobresti-29-2018",
+   "path": "local/dolj/dobresti/2018/29",
+   "short": "HCL Dobrești nr. 29/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 29/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h29.pdf",
+     "sha256": "5d885d796fc1448b5d01bead06ddc28d3ef47e41ef5260fd6e067ccea0c9670c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-30-2018",
+   "path": "local/dolj/dobresti/2018/30",
+   "short": "HCL Dobrești nr. 30/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 30/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h30.pdf",
+     "sha256": "88d788620336c182b1a8a282fa248737d99353f0ce8f018a5d1813b49b7a6516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-31-2018",
+   "path": "local/dolj/dobresti/2018/31",
+   "short": "HCL Dobrești nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 31/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h31.pdf",
+     "sha256": "a8a358f947acb47010f8820d898b1416d5a3a6f306f261c9f30be2c0bc77dcd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-32-2018",
+   "path": "local/dolj/dobresti/2018/32",
+   "short": "HCL Dobrești nr. 32/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 32/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h32.pdf",
+     "sha256": "de3d4add97e334130a388ad87345e5e162826ab2cc5b9c595098ec7d4d4a94c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-33-2018",
+   "path": "local/dolj/dobresti/2018/33",
+   "short": "HCL Dobrești nr. 33/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 33/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h33.pdf",
+     "sha256": "9848fcbe92fe10fc9364a24005c77b7bc32b05959694f0788175dc5e3ab50168"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-34-2018",
+   "path": "local/dolj/dobresti/2018/34",
+   "short": "HCL Dobrești nr. 34/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 34/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h34.pdf",
+     "sha256": "6320ffe6cce3532bfef1f11b8cef3a7e22f244cb658282fd84f8577adbe16c27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-35-2018",
+   "path": "local/dolj/dobresti/2018/35",
+   "short": "HCL Dobrești nr. 35/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 35/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-10-29",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h35.pdf",
+     "sha256": "973fff39809b834a4fc428b376e3e886fb98dc462111f8ca1ecda59473572483"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-36-2018",
+   "path": "local/dolj/dobresti/2018/36",
+   "short": "HCL Dobrești nr. 36/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 36/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-10-29",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h36.pdf",
+     "sha256": "434026f7c6ce3b49ef9f71664011ebe3b3a2ccfad4d07c70e1e8788b6c94dc5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-37-2018",
+   "path": "local/dolj/dobresti/2018/37",
+   "short": "HCL Dobrești nr. 37/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 37/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-10-29",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h37.pdf",
+     "sha256": "bbdd162ca4a89a92a611fe1ba103c0e4058912710556c3d61301fcc4cf565440"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-38-2018",
+   "path": "local/dolj/dobresti/2018/38",
+   "short": "HCL Dobrești nr. 38/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 38/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-10-29",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h38.pdf",
+     "sha256": "2a6a9ff89500eab45faed56dd64dace4e1d64c21d92f979f622f1355b5f5782d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-39-2018",
+   "path": "local/dolj/dobresti/2018/39",
+   "short": "HCL Dobrești nr. 39/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 39/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h39.pdf",
+     "sha256": "da52007d51a9af6b9b61f820612649826ea429f0f527d0fcca2c1eb71bf2548f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-40-2018",
+   "path": "local/dolj/dobresti/2018/40",
+   "short": "HCL Dobrești nr. 40/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 40/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h40.pdf",
+     "sha256": "d4fe5866ee369d94f09dc2a6c6664d4709512ada50fd9dc802ca014285f9423d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-41-2018",
+   "path": "local/dolj/dobresti/2018/41",
+   "short": "HCL Dobrești nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 41/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h41.pdf",
+     "sha256": "6c7071a122e79a11878df66cedfa9764b2af2e531fc89a98c671c0d3e9f9658c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-42-2018",
+   "path": "local/dolj/dobresti/2018/42",
+   "short": "HCL Dobrești nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 42/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h42.pdf",
+     "sha256": "dc58394e4b1ece59f21af45bfa2d90b853cb7c71f6329e3c7467106207918aba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-43-2018",
+   "path": "local/dolj/dobresti/2018/43",
+   "short": "HCL Dobrești nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 43/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h43.pdf",
+     "sha256": "6b171d39effc8e37f4bbcad88a3862a9be750582da3d0a15e327ad8bc5cbcac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-44-2018",
+   "path": "local/dolj/dobresti/2018/44",
+   "short": "HCL Dobrești nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 44/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h44.pdf",
+     "sha256": "2d2690f02c2b70a9798601b61f1a70a7185ce6c71c36d8969c0562a653962a0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-45-2018",
+   "path": "local/dolj/dobresti/2018/45",
+   "short": "HCL Dobrești nr. 45/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 45/2018",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2018/h45.pdf",
+     "sha256": "8b0d4cfbc75ea0436159f4747edd83cd7383621b8a0ffc4ed63b14fb52dc96af"
+    }
+   ]
+  }
+ ]
+}

@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-17-2021",
+   "path": "local/dolj/afumati/2021/17",
+   "short": "HCL Afumați nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 17/2021",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49576",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49576",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-18-2021",
    "path": "local/dolj/afumati/2021/18",
    "short": "HCL Afumați nr. 18/2021",
@@ -153,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-2-2021",
+   "path": "local/dolj/afumati/2021/2",
+   "short": "HCL Afumați nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 2/2021",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49537",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-20-2021",
+   "path": "local/dolj/afumati/2021/20",
+   "short": "HCL Afumați nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 20/2021 privind închirierea, prin licitație publică, a imobilului „Brutărie Afumați” situat în comuna Afumați, sat Afumați, județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49593",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49593",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-21-2021",
    "path": "local/dolj/afumati/2021/21",
    "short": "HCL Afumați nr. 21/2021",
@@ -163,6 +208,21 @@
      "from": "2021-04-19",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/49594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-22-2021",
+   "path": "local/dolj/afumati/2021/22",
+   "short": "HCL Afumați nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 22/2021",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49605",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49605",
      "sha256": null
     }
    ]
@@ -303,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-31-2021",
+   "path": "local/dolj/afumati/2021/31",
+   "short": "HCL Afumați nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 31/2021 privind închirierea prin licitație publică, a suprafeței de 36mp din imobilul „Dispensaruman Boureni” situat în comuna Afumați, localitatea Boureni, județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49618",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49618",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-32-2021",
    "path": "local/dolj/afumati/2021/32",
    "short": "HCL Afumați nr. 32/2021",
@@ -328,6 +403,21 @@
      "from": "2021-07-21",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/49620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-34-2021",
+   "path": "local/dolj/afumati/2021/34",
+   "short": "HCL Afumați nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 34/2021",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49621",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49621",
      "sha256": null
     }
    ]
@@ -423,6 +513,66 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-40-2021",
+   "path": "local/dolj/afumati/2021/40",
+   "short": "HCL Afumați nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 40/2021 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul I al anului 2021",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49627",
+   "versions": [
+    {
+     "from": "2021-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-41-2021",
+   "path": "local/dolj/afumati/2021/41",
+   "short": "HCL Afumați nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 41/2021 privind alocarea sumei de 3.500 lei din bugetul de venituri și cheltuieli al comunei Afumați pentru achiziționarea unui ghiozdan cu rechizite-cadou, elevilor din clasa 0 și clasa I ai Școlii Gimnaziale Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49630",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-42-2021",
+   "path": "local/dolj/afumati/2021/42",
+   "short": "HCL Afumați nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 42/2021 privind aprobarea traseului și stațiilor de îmbarcare-debarcare pentru microbuzul de transport al elevilor Școlii Gimnaziale Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49631",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-43-2021",
+   "path": "local/dolj/afumati/2021/43",
+   "short": "HCL Afumați nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 43/2021 privind desemnarea reprezentantului Consiliului Local Afumați în Consiliul de Administrație al Școlii Gimnaziale Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49632",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49632",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-44-2021",
    "path": "local/dolj/afumati/2021/44",
    "short": "HCL Afumați nr. 44/2021",
@@ -508,6 +658,21 @@
      "from": "2021-10-21",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/49638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-5-2021",
+   "path": "local/dolj/afumati/2021/5",
+   "short": "HCL Afumați nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 5/2021 privind actualizarea componenței Comisiei de specialitate nr. 5 - Comisia pentru învățământ, sănătate, sport și tineret din cadrul Consiliului Local Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49562",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49562",
      "sha256": null
     }
    ]
@@ -823,6 +988,36 @@
      "from": "2021-12-20",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/132207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-7-2021",
+   "path": "local/dolj/afumati/2021/7",
+   "short": "HCL Afumați nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 7/2021 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2020",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49564",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-8-2021",
+   "path": "local/dolj/afumati/2021/8",
+   "short": "HCL Afumați nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 8/2021 privind aprobarea Actului Adițional nr. 2 la Contractul nr. 370/22.05.2018 „Delegarea prin concesionre a gestiunii unor activități componente ale serviciului de salubrizare, respectivcolectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în județul Dolj și operarea stației de sortare și transfer Goicea”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/49565",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/49565",
      "sha256": null
     }
    ]

@@ -3,6 +3,50 @@
 "shard": "local/dolj/ostroveni/2025",
 "acts": [
 {
+"slug": "hcl-dolj--ostroveni-1-2025",
+"path": "local/dolj/ostroveni/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 1/2025 privind aprobarea acoperirii definitive a deficitului sectiunii de dezvoltare(sursa A) pe anul 2024 din excedentul bugetului local de venituri si cheltuieli al comunei Ostroveni,judetul Dolj",
+"short": "HCL Ostroveni nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-12",
+"latest": "2025-02-12",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/186093",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-2-2025",
+"path": "local/dolj/ostroveni/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 2/2025 privind aprobarea excedentului bugetului local de venituri si cheltuieli al comunei Ostroveni,judetul Dolj pe anul 2024 si a modului de folosire a acestuia",
+"short": "HCL Ostroveni nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-12",
+"latest": "2025-02-12",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/186094",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-3-2025",
 "path": "local/dolj/ostroveni/2025/3",
 "kind": "local",
@@ -91,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-7-2025",
+"path": "local/dolj/ostroveni/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 7/2025 privind închirierea pajiștilor în suprafață de 61,8063 hectare, aflate în proprietatea privată a comunei Ostroveni, județul Dolj",
+"short": "HCL Ostroveni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/194845",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-8-2025",
 "path": "local/dolj/ostroveni/2025/8",
 "kind": "local",
@@ -176,6 +242,29 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-12-2025",
+"path": "local/dolj/ostroveni/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 12/2025",
+"short": "HCL Ostroveni nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/194850",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -422,6 +511,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-24-2025",
+"path": "local/dolj/ostroveni/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 24/2025 privind aprobarea actului adițional nr. 3 la acordul de parteneriat nr. 34729/09.12.2022 încheiat între Unitatea Administrativ-Teritorială Județul Dolj, în calitate de lider de parteneriat, Unitatea Administrativ-Teritorială Județul Mehedinți, Unitatea Administrativ-Teritorială Județul Olt și unitățile administrativ-teritoriale din județele Dolj, Olt și Mehedinți, în vederea implementării proiectului ”Traseu Eurovelo 6 Mehedinți – Dolj – Olt” în cadrul apelului de proiecte PNRR/2022/C11/I.4, Componenta 11-Turism și cultură",
+"short": "HCL Ostroveni nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/214567",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-25-2025",
 "path": "local/dolj/ostroveni/2025/25",
 "kind": "local",
@@ -617,6 +728,28 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-34-2025",
+"path": "local/dolj/ostroveni/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 34/2025 privind desemnarea a doi reprezentanti ai Consiliului Local Ostroveni in Consiliul de Administratie al Scolii Gimnaziale Ostroveni",
+"short": "HCL Ostroveni nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/228462",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

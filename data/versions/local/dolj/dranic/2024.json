@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dranic/2024",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dranic-12-2024",
+   "path": "local/dolj/dranic/2024/12",
+   "short": "HCL Drănic nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 12/2024 privind oproburea Planului de ac\\iuni sau luctdri de interes local, pentru anul 2024, pentru beneficiarii Legii nn 196/2016 privind venitul minim de incluziune' cu modificdrile qi completiitile ulteriosre Consiliul Local Dranic, intrunit in sedinta ordinal'a in data de \\ 4.03 .2024 la convocarea Primarului comunei Dranic",
+   "url": "https://primariadranic.ro/wp-content/uploads/2024/03/HCL-12.pdf",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2024/03/HCL-12.pdf",
+     "sha256": "02ba158e68bdab1421d10e72eea4da8c847bf43ede1a2a1fd0f97671cf2257ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-25-2024",
+   "path": "local/dolj/dranic/2024/25",
+   "short": "HCL Drănic nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 25/2024",
+   "url": "https://primariadranic.ro/wp-content/uploads/2025/06/HCL-25.pdf",
+   "versions": [
+    {
+     "from": "2024-06-09",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2025/06/HCL-25.pdf",
+     "sha256": "2966907ca233c143103bb2c94a07578f10ffc7ac75a1d9ba57cc34661ed19925"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-34-2024",
+   "path": "local/dolj/dranic/2024/34",
+   "short": "HCL Drănic nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 34/2024",
+   "url": "https://primariadranic.ro/wp-content/uploads/2024/12/HCL-34.pdf",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2024/12/HCL-34.pdf",
+     "sha256": "b9566fdd86acb40838000766ad65e03f05c4e07c976b2146f3ea29a2360393ae"
+    }
+   ]
+  }
+ ]
+}

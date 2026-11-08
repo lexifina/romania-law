@@ -25,6 +25,118 @@
 }
 },
 {
+"slug": "hcl-dolj--cioroiasi-2-2025",
+"path": "local/dolj/cioroiasi/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 2/2025 privind aprobarea taxei de salubrizare",
+"short": "HCL Cioroiași nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/196376",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-3-2025",
+"path": "local/dolj/cioroiasi/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 3/2025",
+"short": "HCL Cioroiași nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/196377",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-4-2025",
+"path": "local/dolj/cioroiasi/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 4/2025",
+"short": "HCL Cioroiași nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/196409",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-5-2025",
+"path": "local/dolj/cioroiasi/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 5/2025 privind aprobarea regulamentului privind acordarea sub formă de tichete sociale a stimulentului educațional și modalității de identificare a beneficiarilor de stimulent educațional pentru copii proveniti din familii defavorizate și a numărului estimativ de beneficiari ai tichetelor sociale",
+"short": "HCL Cioroiași nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/196410",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-6-2025",
+"path": "local/dolj/cioroiasi/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 6/2025 privind aprobarea Planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă efectuate de beneficiarii de venit minim de incluziune în anul 2025 și Lista bunurilor ce conduc la excluderea acordării venitului minim de incluziune",
+"short": "HCL Cioroiași nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/196411",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--cioroiasi-7-2025",
 "path": "local/dolj/cioroiasi/2025/7",
 "kind": "local",
@@ -137,6 +249,28 @@
 }
 },
 {
+"slug": "hcl-dolj--cioroiasi-12-2025",
+"path": "local/dolj/cioroiasi/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 12/2025 privind aprobarea dtrepturilor acordate în anul 2025 funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al Primarului comunei Cioroiași și Serviciilor publice de interes local",
+"short": "HCL Cioroiași nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/202300",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--cioroiasi-13-2025",
 "path": "local/dolj/cioroiasi/2025/13",
 "kind": "local",
@@ -156,6 +290,28 @@
 "council_name": "Consiliul Local al Comunei Cioroiași",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-14-2025",
+"path": "local/dolj/cioroiasi/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 14/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+"short": "HCL Cioroiași nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-26",
+"latest": "2025-05-26",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/202302",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

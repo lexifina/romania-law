@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-5-2025",
+"path": "local/dolj/afumati/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 5/2025 privind desemnarea reprezentantului Consiliului Local Ąfumati în Consiliul de Administratie al Scolii Gimnaziale Afumati",
+"short": "HCL Afumați nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293219",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--afumati-6-2025",
 "path": "local/dolj/afumati/2025/6",
 "kind": "local",
@@ -132,6 +154,29 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--afumati-8-2025",
+"path": "local/dolj/afumati/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 8/2025",
+"short": "HCL Afumați nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293222",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -381,6 +426,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--afumati-20-2025",
+"path": "local/dolj/afumati/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 20/2025 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Afumați pentru activitatea desfășurată în anul 2024",
+"short": "HCL Afumați nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293234",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -958,6 +1025,29 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-47-2025",
+"path": "local/dolj/afumati/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 47/2025",
+"short": "HCL Afumați nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293346",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--afumati-48-2025",
 "path": "local/dolj/afumati/2025/48",
 "kind": "local",
@@ -977,6 +1067,28 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-49-2025",
+"path": "local/dolj/afumati/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 49/2025 privind desemnarea reprezentantului Consiliului Local Ąfumati în Consiliul de Administratie al Scolii Gimnaziale Ąfumati",
+"short": "HCL Afumați nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293349",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

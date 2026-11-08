@@ -3,6 +3,141 @@
  "shard": "local/dolj/bradesti/2012",
  "acts": [
   {
+   "slug": "hcl-dolj--bradesti-1-2012",
+   "path": "local/dolj/bradesti/2012/1",
+   "short": "HCL Brădești nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 1/2012 privind excedentul inregistrat in anul 2011 la nivelul comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-01-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL01_2012.pdf",
+     "sha256": "6f2ce962e78a90618262df1b64cac062e8824d0fc69c96f24c84874224b20fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-10-2012",
+   "path": "local/dolj/bradesti/2012/10",
+   "short": "HCL Brădești nr. 10/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 10/2012 privind aprobarea planului de actiuni sau lucrari de interes local al unitatii administrativ-teritoriale a comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-02-14",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL10_2012.pdf",
+     "sha256": "2c13862fec2dc6b0a992d8b4b01dceddb978824df0a762d9fc5ad668f2a46abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-11-2012",
+   "path": "local/dolj/bradesti/2012/11",
+   "short": "HCL Brădești nr. 11/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 11/2012 privind aprobarea contractarii unor operatori de servicii de deszapezire) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-02-14",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL11_2012.pdf",
+     "sha256": "b827e2b943fe8e47f84b8f091aa7426fc908dae7c345297a8fb5118b4e2a76b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-12-2012",
+   "path": "local/dolj/bradesti/2012/12",
+   "short": "HCL Brădești nr. 12/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 12/2012 privind reorganizarea retelei scolare din comuna Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL12_2012.pdf",
+     "sha256": "1d52047b87993392635410ae8d7445139c80bef2e239479132608f370aa2c8f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-13-2012",
+   "path": "local/dolj/bradesti/2012/13",
+   "short": "HCL Brădești nr. 13/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 13/2012 privind aprobarea executiei bugetului de venituri si cheltuieli pa trim. IV al anului 2011) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL13_2012.pdf",
+     "sha256": "7fe3604ab0f568f9e02c88837e83f24a77990246c4c724f4d1e60c076be56d8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-14-2012",
+   "path": "local/dolj/bradesti/2012/14",
+   "short": "HCL Brădești nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 14/2012 privind aprobarea concesionarii unei suprafete de teren de 400 mp, din domeniul privat al comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-02-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL14_2012.pdf",
+     "sha256": "d5d674450e14a8a7b89eb22dea6a0ea8d144e8d4d007c1efd9afac29c067e6d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-15-2012",
+   "path": "local/dolj/bradesti/2012/15",
+   "short": "HCL Brădești nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 15/2012 privind rectificarea bugetului de venituri si cheltuieli al Consiliului Local Bradesti pentru inlaturarea efectelor ninsorilor abundente) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL15_2012.pdf",
+     "sha256": "052eb305ab3415537613bc23c64230da07faa0c1b42602269e070a8a076c96ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-16-2012",
+   "path": "local/dolj/bradesti/2012/16",
+   "short": "HCL Brădești nr. 16/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 16/2012 privind aprobarea Raportului de activitate al Primarului comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL16_2012.pdf",
+     "sha256": "d32aa5f48c91b2d2e464c7e90e5dd1132bc3463387da4e30c0a65b320aa1c82c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-17-2012",
+   "path": "local/dolj/bradesti/2012/17",
+   "short": "HCL Brădești nr. 17/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 17/2012 privind conditiile de participare la programul Biblionet, runda a IV-a, in cadrul Bibliotecii Judetene “Alexandru si Aristita Aman” ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL17_2012.pdf",
+     "sha256": "178c6795efb89b6db1d8c444d7a115d927d21096534fc0ac8e69367e097d961d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-18-2012",
    "path": "local/dolj/bradesti/2012/18",
    "short": "HCL Brădești nr. 18/2012",
@@ -14,6 +149,21 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL18_2012.pdf",
      "sha256": "7beb1494962a382b9229c11b9cf1c73e661522a81db0d0535d10a1bf9d4f1804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-19-2012",
+   "path": "local/dolj/bradesti/2012/19",
+   "short": "HCL Brădești nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 19/2012 privind aprobarea participarii comunei Bradesti la constituirea parteneriatului Gal Amaradia Jiu) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL19_2012.pdf",
+     "sha256": "5d7881b60368b9f069ae629830f5af4b75646df572d14cbec47ffed4be373069"
     }
    ]
   },
@@ -33,6 +183,66 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-20-2012",
+   "path": "local/dolj/bradesti/2012/20",
+   "short": "HCL Brădești nr. 20/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 20/2012 privind preluarea in administrare de catre Muzeul Olteniei a rezervatiei arheologice Castrul Roman, Racarii de Jos) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL20_2012.pdf",
+     "sha256": "f12b8f142deff3344759f7829e02803ee789d9dcfcdbd8c4bae0b67dd9850d98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-21-2012",
+   "path": "local/dolj/bradesti/2012/21",
+   "short": "HCL Brădești nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 21/2012 privind aprobarea acordarii de ajutor social de urgenta unei persoane, in vederea inmormantarii sotului) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL21_2012.pdf",
+     "sha256": "2d651ec1f8c89f3ce1b00cecdf4dff1695e796956951e58c9859b22ea8c418b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-22-2012",
+   "path": "local/dolj/bradesti/2012/22",
+   "short": "HCL Brădești nr. 22/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 22/2012 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pe anul 2012, trim. II) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL22_2012.pdf",
+     "sha256": "5385035b6f44f2a6193362aae7598871ed3b8be4db43f736cc9c0977ab018874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-23-2012",
+   "path": "local/dolj/bradesti/2012/23",
+   "short": "HCL Brădești nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 23/2012 privind aprobarea inchirierii unei suprafete de 4.890 mp din domeniul public, pentru realizarea proiectului “Montare conducta injectie Parc 2″) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL23_2012.pdf",
+     "sha256": "37e950cd03b349e6d0a3345df5a06ff4f29351332bce559444d42ec6196364ea"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-24-2012",
    "path": "local/dolj/bradesti/2012/24",
    "short": "HCL Brădești nr. 24/2012",
@@ -48,6 +258,156 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-25-2012",
+   "path": "local/dolj/bradesti/2012/25",
+   "short": "HCL Brădești nr. 25/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 25/2012 privind acordarea titlului de “Cetatean de Onoare” al comunei Bradesti, unui nr. de 32 de persoane) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-30",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL25_2012.pdf",
+     "sha256": "356aabf8a3df05c8985ea6c2b4c75b1bb9fa39db107f328c8c9442f1ec5ca711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-26-2012",
+   "path": "local/dolj/bradesti/2012/26",
+   "short": "HCL Brădești nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 26/2012 privind rectificarea bugetului local pe anul 2012, din alocatii bugetare, pentru “Subprogramul privind alimentarea cu apa a satelor”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-30",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL26_2012.pdf",
+     "sha256": "7759f77bf653ddc55544d8b4b20bfe94acb43877e86afd22b68c61799576be80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-27-2012",
+   "path": "local/dolj/bradesti/2012/27",
+   "short": "HCL Brădești nr. 27/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 27/2012 privind aprobarea acordarii de ajutor social de urgenta unei persoane, in vederea inmormantarii fratelui ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-30",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL27_2012.pdf",
+     "sha256": "d16f1388023733b9a7451b67f5e7831a01b3dd484ff39bc2c4d38515289bcb92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-28-2012",
+   "path": "local/dolj/bradesti/2012/28",
+   "short": "HCL Brădești nr. 28/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 28/2012 privind aprobarea acordarii indemnizatiei de handicap, unei persoane) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-04-30",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL28_2012.pdf",
+     "sha256": "9dcfc84048108ed60c2c7ad460c7b81f9b9c53cab1945469a5d6b52840b10798"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-29-2012",
+   "path": "local/dolj/bradesti/2012/29",
+   "short": "HCL Brădești nr. 29/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 29/2012 privind aprobarea Regulamentului de Organizare si functionare a S.V.S.U.) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-05-17",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL29_2012.pdf",
+     "sha256": "35d5aba4ae09b8d6c6c22f274c2b52fad696a08f5db03f385618fda32cd5eb89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-3-2012",
+   "path": "local/dolj/bradesti/2012/3",
+   "short": "HCL Brădești nr. 3/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 3/2012 privind activitatea asociata de evidenta a persoanelor din localitatile Bradesti, Cotofenii din Fata si Scaiesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL03_2012.pdf",
+     "sha256": "3583a9f5436ffba29dbf8211df85008bf699c17e89138788716c120ac5e3e77c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-30-2012",
+   "path": "local/dolj/bradesti/2012/30",
+   "short": "HCL Brădești nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 30/2012 privind aprobarea inchirierii unei suprafete de 5.635 mp din domeniul privat, pentru obiectivul “Montare conducta injectie Parc 5″ ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-05-17",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL30_2012.pdf",
+     "sha256": "3ebff9d19565d968cba27e0fd9839340feb93659306ee3f6f9f6ca8430cd5a6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-31-2012",
+   "path": "local/dolj/bradesti/2012/31",
+   "short": "HCL Brădești nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 31/2012 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2012) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-05-30",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL31_2012.pdf",
+     "sha256": "6d0e034087b7b6c902b022cf50760a3d63260026272f54039188ce820b092bf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-32-2012",
+   "path": "local/dolj/bradesti/2012/32",
+   "short": "HCL Brădești nr. 32/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 32/2012 privind aprobarea rectificarii bugetului local pe anul 2012, al Primariei comunei Bradesti ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL32_2012_.pdf",
+     "sha256": "8c506b2575e824f272957d112088cf12528a84d1d28b508112ea9d63268831d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-33-2012",
+   "path": "local/dolj/bradesti/2012/33",
+   "short": "HCL Brădești nr. 33/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 33/2012",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL33_2012_.pdf",
+     "sha256": "3840164dda479f30a93615d4fc8cae8d086ef818ed122c0369f107e8c9583726"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-34-2012",
    "path": "local/dolj/bradesti/2012/34",
    "short": "HCL Brădești nr. 34/2012",
@@ -59,6 +419,96 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL34_2012_.pdf",
      "sha256": "2419741cdc34df4f04b4d8617cb2d76bdac0a5e944b034ad8a8a86e00af53f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-4-2012",
+   "path": "local/dolj/bradesti/2012/4",
+   "short": "HCL Brădești nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 4/2012 privind aprobarea noii organigrame si a statului de functii din aparatul de specialitate al primarului) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL04_2012.pdf",
+     "sha256": "7449ba1523f1563a2d9af2ac4d83b4ee72ddfb896f98958329389e59f6226f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-5-2012",
+   "path": "local/dolj/bradesti/2012/5",
+   "short": "HCL Brădești nr. 5/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 5/2012",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL05_2012.pdf",
+     "sha256": "cccbef4380202de93693e70d660c75b9caa19c8c6331307c917ec642c38bc695"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-6-2012",
+   "path": "local/dolj/bradesti/2012/6",
+   "short": "HCL Brădești nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 6/2012 privind aprobarea preluarii, fara plata, a unei autospeciale de stins incendii) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL06_2012.pdf",
+     "sha256": "b21643e560c9ec1db2ad538956b769309c29c43b61ee814adb6e142a177a123d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-7-2012",
+   "path": "local/dolj/bradesti/2012/7",
+   "short": "HCL Brădești nr. 7/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 7/2012 privind aprobarea participarii comunei Bradesti la programele PNDR, prin accesarea masurii 313 “Incurajarea activitatii turistice”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL07_2012.pdf",
+     "sha256": "e05b5149b6f6fe7e77d7be19126f1d93d0c70e54000907dfdb0a7107e26a928b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-8-2012",
+   "path": "local/dolj/bradesti/2012/8",
+   "short": "HCL Brădești nr. 8/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 8/2012 privind aprobarea bugetului consolidat de venituri si cheltuieli pe anul 2012, al Consiliului Local Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-02-14",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL08_2012.pdf",
+     "sha256": "5212ea413cb47b9caab08e21c18dfdd2e4e4e6536929c719dfc55748f04a183b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-9-2012",
+   "path": "local/dolj/bradesti/2012/9",
+   "short": "HCL Brădești nr. 9/2012",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 9/2012 privind aprobarea listei obiectivelor de investitii propuse pentru bugetul initial pe anul 2012) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2012/",
+   "versions": [
+    {
+     "from": "2012-02-14",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/01/HCL09_2012.pdf",
+     "sha256": "2654d29047af2ceaf6f8065edcb4325ba0b16bb60f6a876f6e29c813be0ea399"
     }
    ]
   }

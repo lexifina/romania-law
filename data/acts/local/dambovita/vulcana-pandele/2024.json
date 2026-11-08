@@ -3,6 +3,138 @@
 "shard": "local/dambovita/vulcana-pandele/2024",
 "acts": [
 {
+"slug": "hcl-dambovita--vulcana-pandele-1-2024",
+"path": "local/dambovita/vulcana-pandele/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 1/2024 privind aprobarea validarii Dispozitiei primarului nr. 1/03.01.2024 privind acoperirea definitiva a deficitului sectiunii de dezvoltare al anului 2023",
+"short": "HCL Vulcana-Pandele nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#68835",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-2-2024",
+"path": "local/dambovita/vulcana-pandele/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 2/2024 privind trecerea imobilului - Teren în suprafață de 350 mp, având număr cadastral 70876, înscris în cartea funciară nr. 70876 si Teren in suprafata de 191 mp, avand numar cadastral 72011, inscris in cartea funciara nr. 72011, situat în com. Vulcana Pandele, str. Restaurantului, nr. 59 – pct. dispensar veterinar din domeniul public in domeniul privat al comunei Vulcana-Pandele, in vederea transmiterii cu titlu gratuit din proprietatea comunei Vulcana-Pandele în proprietatea Parohiei Gura Vulcanii",
+"short": "HCL Vulcana-Pandele nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#68836",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-3-2024",
+"path": "local/dambovita/vulcana-pandele/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 3/2024 privind majorarea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Vulcana-Pandele, judeţul Dâmboviţa, începând cu 1 ianuarie 2024",
+"short": "HCL Vulcana-Pandele nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#68837",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-4-2024",
+"path": "local/dambovita/vulcana-pandele/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 4/2024 privind aprobarea decontarii contravalorii cheltuielilor de transport efectuate de functionarii publici/personalul contractual din cadrul aparatului de specialitate al primarului pentru deplasarea intre localitatea de domiciliu/resedinta si localitatea Vulcana-Pandele, acolo unde au locul de munca",
+"short": "HCL Vulcana-Pandele nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#68847",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-5-2024",
+"path": "local/dambovita/vulcana-pandele/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 5/2024 privind stabilirea compensatiilor in bani pentru timpul efectiv de lucru la interventii si la celelalte activitati prestate de membrii Serviciului Voluntar pentru Situatii de Urgenta al comunei Vulcana Pandele",
+"short": "HCL Vulcana-Pandele nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#68848",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-6-2024",
+"path": "local/dambovita/vulcana-pandele/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 6/2024 privind aprobarea Planului anual de actiune privind serviciile sociale administrate si finantate din bugetul consiliului local al comunei Vulcana-Pandele pentru anul 2024",
+"short": "HCL Vulcana-Pandele nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#68849",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-7-2024",
 "path": "local/dambovita/vulcana-pandele/2024/7",
 "kind": "local",

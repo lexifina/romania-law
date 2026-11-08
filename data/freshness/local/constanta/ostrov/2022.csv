@@ -1,4 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hcl-constanta--ostrov-1-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54454
 hcl-constanta--ostrov-10-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54463
 hcl-constanta--ostrov-11-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54464
 hcl-constanta--ostrov-12-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54465
@@ -7,7 +8,9 @@ hcl-constanta--ostrov-14-2022,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-constanta--ostrov-15-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54672
 hcl-constanta--ostrov-17-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54674
 hcl-constanta--ostrov-18-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54675
+hcl-constanta--ostrov-19-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54676
 hcl-constanta--ostrov-2-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54455
+hcl-constanta--ostrov-20-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54677
 hcl-constanta--ostrov-21-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54678
 hcl-constanta--ostrov-22-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54679
 hcl-constanta--ostrov-23-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54680
@@ -25,17 +28,25 @@ hcl-constanta--ostrov-33-2022,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-constanta--ostrov-34-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/65255
 hcl-constanta--ostrov-35-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/65256
 hcl-constanta--ostrov-36-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/65257
+hcl-constanta--ostrov-37-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/65258
+hcl-constanta--ostrov-38-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/65259
 hcl-constanta--ostrov-39-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/66429
 hcl-constanta--ostrov-4-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54457
 hcl-constanta--ostrov-40-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/66430
+hcl-constanta--ostrov-41-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69474
 hcl-constanta--ostrov-42-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69475
 hcl-constanta--ostrov-43-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69476
 hcl-constanta--ostrov-44-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69477
 hcl-constanta--ostrov-45-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69478
+hcl-constanta--ostrov-46-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69479
 hcl-constanta--ostrov-47-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69480
 hcl-constanta--ostrov-48-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69481
 hcl-constanta--ostrov-49-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69482
 hcl-constanta--ostrov-5-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54458
+hcl-constanta--ostrov-50-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69483
+hcl-constanta--ostrov-51-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69484
+hcl-constanta--ostrov-52-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69485
+hcl-constanta--ostrov-53-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69486
 hcl-constanta--ostrov-54-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69487
 hcl-constanta--ostrov-55-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69488
 hcl-constanta--ostrov-56-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/69489
@@ -59,3 +70,4 @@ hcl-constanta--ostrov-71-2022,current,2026-11-08,2026-12-08,register-read,,,,htt
 hcl-constanta--ostrov-72-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/83842
 hcl-constanta--ostrov-73-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/83843
 hcl-constanta--ostrov-8-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54461
+hcl-constanta--ostrov-9-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/ostrov-ct/registru-hcl/54462

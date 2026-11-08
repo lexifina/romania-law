@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-10-2024",
+   "path": "local/dolj/pielesti/2024/10",
+   "short": "HCL Pielești nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 10/2024 privind ,, Însușirea propunerii de concesionare a suprafețelor de teren aferente căilor de acces la sondele de gaz proprietatea SNGN Romgaz , situate pe raza Comunei Pielești.,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/142876",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/142876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-100-2024",
+   "path": "local/dolj/pielesti/2024/100",
+   "short": "HCL Pielești nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 100/2024 privind ,,Desemnarea președintelui de ședință pentru lunile noiembrie 2024- ianuarie 2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/175378",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/175378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-101-2024",
    "path": "local/dolj/pielesti/2024/101",
    "short": "HCL Pielești nr. 101/2024",
@@ -178,6 +208,66 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/180314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-111-2024",
+   "path": "local/dolj/pielesti/2024/111",
+   "short": "HCL Pielești nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 111/2024 privind ... Desemnarea reprezentantului Consiliului Local Pielești în cadrul Consiliului de Administrație al Școlii Gimnaziale Pielești pentru anul școlar 2024-2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/180315",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/180315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-112-2024",
+   "path": "local/dolj/pielesti/2024/112",
+   "short": "HCL Pielești nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 112/2024 privind ...Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei de Evaluare și Asigurare a Calității (CEAC) a Școlii Gimnaziale Pielești în anul școlar 2024-2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/180316",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/180316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-113-2024",
+   "path": "local/dolj/pielesti/2024/113",
+   "short": "HCL Pielești nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 113/2024 privind ... Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei Antibullyng la Școala Gimnazială Pielești pentru anul școlar 2024-2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/180317",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/180317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-114-2024",
+   "path": "local/dolj/pielesti/2024/114",
+   "short": "HCL Pielești nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 114/2024 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru lunile mai-octombrie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/180318",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/180318",
      "sha256": null
     }
    ]
@@ -408,6 +498,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-129-2024",
+   "path": "local/dolj/pielesti/2024/129",
+   "short": "HCL Pielești nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 129/2024",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/180333",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/180333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-13-2024",
+   "path": "local/dolj/pielesti/2024/13",
+   "short": "HCL Pielești nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 13/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna martie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/142879",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/142879",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-130-2024",
    "path": "local/dolj/pielesti/2024/130",
    "short": "HCL Pielești nr. 130/2024",
@@ -553,6 +673,21 @@
      "from": "2025-01-03",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/183834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-14-2024",
+   "path": "local/dolj/pielesti/2024/14",
+   "short": "HCL Pielești nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 14/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna martie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/142880",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/142880",
      "sha256": null
     }
    ]
@@ -798,6 +933,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-20-2024",
+   "path": "local/dolj/pielesti/2024/20",
+   "short": "HCL Pielești nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 20/2024 privind ,,Darea în folosință gratuită către Distribuție Energie Oltenia SA a unui teren în suprafață de 18,49 mp, situat în Comuna Pielești T 71 P 21, aflat în domeniul privat al UAT Comuna Pielești, având Cf 48351 Pielești",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/150593",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/150593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-21-2024",
+   "path": "local/dolj/pielesti/2024/21",
+   "short": "HCL Pielești nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 21/2024 privind ,,Aprobarea rezilierii înainte de termen a contractului de închiriere nr 22072/7.08.2019 intervenit între Comuna Pielești și SC Dent Romee Estet SRL",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/150594",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/150594",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-22-2024",
    "path": "local/dolj/pielesti/2024/22",
    "short": "HCL Pielești nr. 22/2024",
@@ -888,6 +1053,96 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-28-2024",
+   "path": "local/dolj/pielesti/2024/28",
+   "short": "HCL Pielești nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 28/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna aprilie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/150601",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/150601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-29-2024",
+   "path": "local/dolj/pielesti/2024/29",
+   "short": "HCL Pielești nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 29/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna aprilie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/150602",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/150602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-3-2024",
+   "path": "local/dolj/pielesti/2024/3",
+   "short": "HCL Pielești nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 3/2024 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru luna decembrie 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/138044",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/138044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-30-2024",
+   "path": "local/dolj/pielesti/2024/30",
+   "short": "HCL Pielești nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 30/2024",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/150603",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/150603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-31-2024",
+   "path": "local/dolj/pielesti/2024/31",
+   "short": "HCL Pielești nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 31/2024",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/150604",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/150604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-32-2024",
+   "path": "local/dolj/pielesti/2024/32",
+   "short": "HCL Pielești nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 32/2024",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/150605",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/150605",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-33-2024",
    "path": "local/dolj/pielesti/2024/33",
    "short": "HCL Pielești nr. 33/2024",
@@ -963,6 +1218,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-38-2024",
+   "path": "local/dolj/pielesti/2024/38",
+   "short": "HCL Pielești nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 38/2024 privind ,, Desemnarea președintelui de ședință pentru perioada aferentă lunilor mai, iunie și iulie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/156500",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/156500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-39-2024",
+   "path": "local/dolj/pielesti/2024/39",
+   "short": "HCL Pielești nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 39/2024 privind ,, Aprobarea studiului de oportunitate și a raportului de evaluare a terenului privind concesionarea bunului imobil - teren intravilan în suprafață de 1988 mp, din totalul de 12336 mp, Canal colector HC 352/1 , având CF 42789 Pielești - domeniul public,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/156501",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/156501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-4-2024",
+   "path": "local/dolj/pielesti/2024/4",
+   "short": "HCL Pielești nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 4/2024 privind ,, Desemnarea președintelui de ședință pentru perioada aferentă lunilor februarie, martie și aprilie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/138045",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/138045",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-40-2024",
    "path": "local/dolj/pielesti/2024/40",
    "short": "HCL Pielești nr. 40/2024",
@@ -973,6 +1273,36 @@
      "from": "2024-04-25",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/156502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-41-2024",
+   "path": "local/dolj/pielesti/2024/41",
+   "short": "HCL Pielești nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 41/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna mai 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/156503",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/156503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-42-2024",
+   "path": "local/dolj/pielesti/2024/42",
+   "short": "HCL Pielești nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 42/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna mai 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/156504",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/156504",
      "sha256": null
     }
    ]
@@ -1018,6 +1348,66 @@
      "from": "2024-05-30",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/158585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-46-2024",
+   "path": "local/dolj/pielesti/2024/46",
+   "short": "HCL Pielești nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 46/2024 privind ,,Aprobarea cantității de combustibil pentru perioada iunie-decembrie 2024, destinată alimentării mijloacelor de transport și a altor consumatori de conbustibil, aflate în dotarea Primăriei Comunei Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/158586",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/158586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-47-2024",
+   "path": "local/dolj/pielesti/2024/47",
+   "short": "HCL Pielești nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 47/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna iunie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/158587",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/158587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-48-2024",
+   "path": "local/dolj/pielesti/2024/48",
+   "short": "HCL Pielești nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 48/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna iunie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/158588",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/158588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-49-2024",
+   "path": "local/dolj/pielesti/2024/49",
+   "short": "HCL Pielești nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 49/2024 privind ,, Decontarea cheltuielilor cu naveta a cadrelor didactice și auxiliar didactice ale Școlii Gimnaziale Pielești pentru lunile ianuarie- aprilie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/158589",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/158589",
      "sha256": null
     }
    ]
@@ -1083,6 +1473,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-53-2024",
+   "path": "local/dolj/pielesti/2024/53",
+   "short": "HCL Pielești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 53/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna iulie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/161882",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/161882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-54-2024",
+   "path": "local/dolj/pielesti/2024/54",
+   "short": "HCL Pielești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 54/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna iulie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/161883",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/161883",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-55-2024",
    "path": "local/dolj/pielesti/2024/55",
    "short": "HCL Pielești nr. 55/2024",
@@ -1123,6 +1543,51 @@
      "from": "2024-07-09",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/162108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-58-2024",
+   "path": "local/dolj/pielesti/2024/58",
+   "short": "HCL Pielești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 58/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna august 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/162109",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/162109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-59-2024",
+   "path": "local/dolj/pielesti/2024/59",
+   "short": "HCL Pielești nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 59/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna august 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/162110",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/162110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-6-2024",
+   "path": "local/dolj/pielesti/2024/6",
+   "short": "HCL Pielești nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 6/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna februarie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/138047",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/138047",
      "sha256": null
     }
    ]
@@ -1188,6 +1653,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-64-2024",
+   "path": "local/dolj/pielesti/2024/64",
+   "short": "HCL Pielești nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 64/2024 privind ,,Desemnarea președintelui de ședință pentru lunile august, septembrie și octombrie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/165568",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/165568",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-65-2024",
    "path": "local/dolj/pielesti/2024/65",
    "short": "HCL Pielești nr. 65/2024",
@@ -1198,6 +1678,21 @@
      "from": "2024-08-22",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/165569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-66-2024",
+   "path": "local/dolj/pielesti/2024/66",
+   "short": "HCL Pielești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 66/2024 privind,, Aprobarea documentației de atribuire și a caietului de sarcini privind ,, Concesionarea prin licitație publică a terenului intravilan în suprafață de 1988 mp - având categoria de folosință curți construcții - reprezentat de canal HC 352/1 amplasat pe raza administrativă a Comunei Pielești, din suprafața totală de 12336 mp, având CF 42789 Pielești",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/165570",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/165570",
      "sha256": null
     }
    ]
@@ -1228,6 +1723,66 @@
      "from": "2024-08-22",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/165572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-69-2024",
+   "path": "local/dolj/pielesti/2024/69",
+   "short": "HCL Pielești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 69/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna septembrie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/165573",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/165573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-7-2024",
+   "path": "local/dolj/pielesti/2024/7",
+   "short": "HCL Pielești nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 7/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna februarie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/138048",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/138048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-70-2024",
+   "path": "local/dolj/pielesti/2024/70",
+   "short": "HCL Pielești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 70/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna septembrie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/165574",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/165574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-71-2024",
+   "path": "local/dolj/pielesti/2024/71",
+   "short": "HCL Pielești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 71/2024 privind ,, Desemnarea noului administrator la Sc Apă Canal Pielești SRL",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/166505",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/166505",
      "sha256": null
     }
    ]
@@ -1308,6 +1863,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-77-2024",
+   "path": "local/dolj/pielesti/2024/77",
+   "short": "HCL Pielești nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 77/2024 privind ,, Stabilirea cuantumului salariului brut lunar acordat noului administrator la SC Apă Canal Pielești SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/171800",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/171800",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-78-2024",
    "path": "local/dolj/pielesti/2024/78",
    "short": "HCL Pielești nr. 78/2024",
@@ -1338,6 +1908,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-8-2024",
+   "path": "local/dolj/pielesti/2024/8",
+   "short": "HCL Pielești nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 8/2024 privind ,, Însușirea propunerii de concesionare a suprafeței de teren de 1988 mp din canalul colector CN 35, 352 și 352/1 , având Carte Funciară nr 42789 Pielești, imobil aflat în inventarul domeniului public al UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/142874",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/142874",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-80-2024",
    "path": "local/dolj/pielesti/2024/80",
    "short": "HCL Pielești nr. 80/2024",
@@ -1353,6 +1938,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-81-2024",
+   "path": "local/dolj/pielesti/2024/81",
+   "short": "HCL Pielești nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 81/2024 privind ,,Aprobarea cotelor de carburant pentru perioada septembrie-decembrie 2024, destinată alimentării mijloacelor de transport și a altor consumatori de conbustibil, aflate în proprietatea Comunei Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/171804",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/171804",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-82-2024",
    "path": "local/dolj/pielesti/2024/82",
    "short": "HCL Pielești nr. 82/2024",
@@ -1363,6 +1963,36 @@
      "from": "2024-09-30",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/171805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-83-2024",
+   "path": "local/dolj/pielesti/2024/83",
+   "short": "HCL Pielești nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 83/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna octombrie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/171806",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/171806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-84-2024",
+   "path": "local/dolj/pielesti/2024/84",
+   "short": "HCL Pielești nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 84/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna octombrie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/171807",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/171807",
      "sha256": null
     }
    ]
@@ -1443,6 +2073,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-9-2024",
+   "path": "local/dolj/pielesti/2024/9",
+   "short": "HCL Pielești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 9/2024 privind ,, Stabilirea demersurilor legale privind suprafața ocupată în mod abuziv de către SC Raiman SRL, Abdul Salam și Abdul Baset, din terenul ce face obiectul contractului de concesiune nr 4945/2009",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/142875",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/142875",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-90-2024",
    "path": "local/dolj/pielesti/2024/90",
    "short": "HCL Pielești nr. 90/2024",
@@ -1458,6 +2103,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-91-2024",
+   "path": "local/dolj/pielesti/2024/91",
+   "short": "HCL Pielești nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 91/2024",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/173051",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/173051",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-92-2024",
    "path": "local/dolj/pielesti/2024/92",
    "short": "HCL Pielești nr. 92/2024",
@@ -1468,6 +2128,36 @@
      "from": "2024-10-30",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/173052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-93-2024",
+   "path": "local/dolj/pielesti/2024/93",
+   "short": "HCL Pielești nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 93/2024 privind ,, Aprobarea Planului de muncă al buldoescavatoristului pentru luna noiembrie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/173053",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/173053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-94-2024",
+   "path": "local/dolj/pielesti/2024/94",
+   "short": "HCL Pielești nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 94/2024 privind ,, Aprobarea Planului de muncă al șoferului ce deservește tractorul achiziționat de Primăria Pielești pentru luna noiembrie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/173054",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/173054",
      "sha256": null
     }
    ]

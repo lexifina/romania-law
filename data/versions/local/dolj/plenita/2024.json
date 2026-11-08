@@ -3,6 +3,21 @@
  "shard": "local/dolj/plenita/2024",
  "acts": [
   {
+   "slug": "hcl-dolj--plenita-1-2024",
+   "path": "local/dolj/plenita/2024/1",
+   "short": "HCL Plenița nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 1/2024 privind desemnarea presedintelui de sedintă",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/144906",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/144906",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-10-2024",
    "path": "local/dolj/plenita/2024/10",
    "short": "HCL Plenița nr. 10/2024",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-13-2024",
+   "path": "local/dolj/plenita/2024/13",
+   "short": "HCL Plenița nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 13/2024 privind inchirierea unui spatiu comercial in Piata agroalimentară saptamanală din Plenita, proprietate publica a comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156128",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156128",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-14-2024",
    "path": "local/dolj/plenita/2024/14",
    "short": "HCL Plenița nr. 14/2024",
@@ -58,6 +88,21 @@
      "from": "2024-05-14",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/156129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-15-2024",
+   "path": "local/dolj/plenita/2024/15",
+   "short": "HCL Plenița nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 15/2024 privind desemnarea presedintelui de sedinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156133",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156133",
      "sha256": null
     }
    ]
@@ -138,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-20-2024",
+   "path": "local/dolj/plenita/2024/20",
+   "short": "HCL Plenița nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 20/2024 privind aprobarea concesionarii unui teren intravilan, proprietate publica a comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/156138",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/156138",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-21-2024",
    "path": "local/dolj/plenita/2024/21",
    "short": "HCL Plenița nr. 21/2024",
@@ -178,6 +238,21 @@
      "from": "2024-06-04",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/157442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-24-2024",
+   "path": "local/dolj/plenita/2024/24",
+   "short": "HCL Plenița nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 24/2024 privind desemnare comisei atribuire contract de concesiune",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/157443",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/157443",
      "sha256": null
     }
    ]
@@ -238,6 +313,21 @@
      "from": "2024-11-01",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/174527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-29-2024",
+   "path": "local/dolj/plenita/2024/29",
+   "short": "HCL Plenița nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 29/2024 privind desemnarea presedintelui de sedinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/174530",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/174530",
      "sha256": null
     }
    ]

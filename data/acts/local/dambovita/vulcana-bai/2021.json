@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-bai-2-2021",
+"path": "local/dambovita/vulcana-bai/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 2/2021 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2020",
+"short": "HCL Vulcana-Băi nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23856",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-3-2021",
+"path": "local/dambovita/vulcana-bai/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 3/2021 privind modificarea Actului constitutiv și a Statutului Asociației de Dezvoltare Intercomunitară „Vulcana-Băi - Pietrari”",
+"short": "HCL Vulcana-Băi nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23857",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-bai-4-2021",
 "path": "local/dambovita/vulcana-bai/2021/4",
 "kind": "local",
@@ -47,6 +91,73 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-bai-5-2021",
+"path": "local/dambovita/vulcana-bai/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 5/2021 privind nominalizarea a doi consilierilor locali pentru a fi desemnați în comisia de evaluare a performanțelor profesionale individuale ale secretarului general al comunei, pe anul 2020",
+"short": "HCL Vulcana-Băi nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23859",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-6-2021",
+"path": "local/dambovita/vulcana-bai/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 6/2021",
+"short": "HCL Vulcana-Băi nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23860",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-7-2021",
+"path": "local/dambovita/vulcana-bai/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 7/2021 privind alegerea președintelui și a înlocuitorului potențial președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-26",
+"latest": "2021-01-26",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23861",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-bai-8-2021",
 "path": "local/dambovita/vulcana-bai/2021/8",
 "kind": "local",
@@ -66,6 +177,118 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Băi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-9-2021",
+"path": "local/dambovita/vulcana-bai/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 9/2021 pentru modificarea art. 2 din Hotărârea Consiliului Local nr. 1/2011 privind reorganizarea poliției comunitare ca structură de poliție locală la nivelul comunei Vulcana-Băi",
+"short": "HCL Vulcana-Băi nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23920",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-10-2021",
+"path": "local/dambovita/vulcana-bai/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 10/2021",
+"short": "HCL Vulcana-Băi nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23921",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-11-2021",
+"path": "local/dambovita/vulcana-bai/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 11/2021",
+"short": "HCL Vulcana-Băi nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23922",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-12-2021",
+"path": "local/dambovita/vulcana-bai/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 12/2021 privind nominalizarea consilierilor locali în comisia specială de analiză și verificare a propunerilor privind conferirea titlului de cetățean de onoare al comunei",
+"short": "HCL Vulcana-Băi nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23923",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-13-2021",
+"path": "local/dambovita/vulcana-bai/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 13/2021 pentru modificarea și completarea Hotărârii Consiliului Local nr. 51 din 12 octombrie 2020 privind aprobarea documentaţiei tehnico-economice a obiectivului de investiții „Modernizarea unor drumuri publice în comuna Vulcana-Băi”",
+"short": "HCL Vulcana-Băi nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23924",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +380,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-bai-18-2021",
+"path": "local/dambovita/vulcana-bai/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 18/2021 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-18",
+"latest": "2021-02-18",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23929",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-19-2021",
+"path": "local/dambovita/vulcana-bai/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 19/2021",
+"short": "HCL Vulcana-Băi nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23930",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-bai-20-2021",
 "path": "local/dambovita/vulcana-bai/2021/20",
 "kind": "local",
@@ -176,6 +444,28 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Băi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-21-2021",
+"path": "local/dambovita/vulcana-bai/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 21/2021 privind aprobarea Planului pentru asigurarea resurselor umane, materiale și financiare destinate prevenirii și gestionării situațiilor de urgență pe anul 2021",
+"short": "HCL Vulcana-Băi nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23932",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +491,250 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-bai-23-2021",
+"path": "local/dambovita/vulcana-bai/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 23/2021 privind stabilirea de măsuri pentru asigurarea gratuită, la nivelul comunei Vulcana-Băi, a unor servicii funerare",
+"short": "HCL Vulcana-Băi nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23934",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-24-2021",
+"path": "local/dambovita/vulcana-bai/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 24/2021 privind organizarea Comisiei mixte având ca obiectiv inventarierea materialelor de construcție rezultate din demolări de la clădirile publice și stabilirea destinației acestora",
+"short": "HCL Vulcana-Băi nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23935",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-25-2021",
+"path": "local/dambovita/vulcana-bai/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 25/2021 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23936",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-26-2021",
+"path": "local/dambovita/vulcana-bai/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 26/2021 privind aprobarea Statutului comunei Vulcana-Băi",
+"short": "HCL Vulcana-Băi nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/24317",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-27-2021",
+"path": "local/dambovita/vulcana-bai/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 27/2021",
+"short": "HCL Vulcana-Băi nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/24318",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-28-2021",
+"path": "local/dambovita/vulcana-bai/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 28/2021 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, în trimestrul I/2021",
+"short": "HCL Vulcana-Băi nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/24319",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-29-2021",
+"path": "local/dambovita/vulcana-bai/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 29/2021 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Vulcana-Băi nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/24320",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-30-2021",
+"path": "local/dambovita/vulcana-bai/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 30/2021 pentru validarea Dispoziției primarului comunei privind stabilirea numărului asistenților personali din structura Serviciului public pentru protecția specială a persoanelor cu handicap, înființată în baza Hotărârii Consiliului Local nr. 6/2000",
+"short": "HCL Vulcana-Băi nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/24321",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-31-2021",
+"path": "local/dambovita/vulcana-bai/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 31/2021",
+"short": "HCL Vulcana-Băi nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/24322",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-32-2021",
+"path": "local/dambovita/vulcana-bai/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 32/2021 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/24323",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-33-2021",
+"path": "local/dambovita/vulcana-bai/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 33/2021 privind aprobarea bugetului local al comunei Vulcana-Băi pe anul 2021",
+"short": "HCL Vulcana-Băi nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/24324",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-bai-34-2021",
 "path": "local/dambovita/vulcana-bai/2021/34",
 "kind": "local",
@@ -220,6 +754,29 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Băi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-35-2021",
+"path": "local/dambovita/vulcana-bai/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 35/2021",
+"short": "HCL Vulcana-Băi nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/25904",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -245,6 +802,274 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-bai-37-2021",
+"path": "local/dambovita/vulcana-bai/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 37/2021 privind modificarea și completarea organigramei, a statului de funcții și a numărului de personal, de la nivelul comunei Vulcana-Băi, ca instituție publică locală",
+"short": "HCL Vulcana-Băi nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/25906",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-38-2021",
+"path": "local/dambovita/vulcana-bai/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 38/2021",
+"short": "HCL Vulcana-Băi nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/25907",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-39-2021",
+"path": "local/dambovita/vulcana-bai/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 39/2021 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/25908",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-40-2021",
+"path": "local/dambovita/vulcana-bai/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 40/2021 privind predarea către Ministerul Dezvoltării, Lucrărilor Publice și Administrației, prin Compania Naţională de Investiţii „C.N.I.” – S.A, a amplasamentelor pentru lucrările de intervenție efectuate în vederea înlăturării efectelor produse de calamități naturale la nivelul comunei Vulcana-Băi",
+"short": "HCL Vulcana-Băi nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/28214",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-41-2021",
+"path": "local/dambovita/vulcana-bai/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 41/2021",
+"short": "HCL Vulcana-Băi nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/29536",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-42-2021",
+"path": "local/dambovita/vulcana-bai/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 42/2021 pentru aprobarea Regulamentului privind organizarea și funcționarea cimitirului administrat de către Consiliul local al comunei Vulcana-Băi",
+"short": "HCL Vulcana-Băi nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/29537",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-43-2021",
+"path": "local/dambovita/vulcana-bai/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 43/2021 privind desemnarea unui consilier local responsabil cu afacerile europene",
+"short": "HCL Vulcana-Băi nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/29538",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-44-2021",
+"path": "local/dambovita/vulcana-bai/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 44/2021 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/29539",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-45-2021",
+"path": "local/dambovita/vulcana-bai/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 45/2021",
+"short": "HCL Vulcana-Băi nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/29540",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-46-2021",
+"path": "local/dambovita/vulcana-bai/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 46/2021",
+"short": "HCL Vulcana-Băi nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-21",
+"latest": "2021-07-21",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/30659",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-47-2021",
+"path": "local/dambovita/vulcana-bai/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 47/2021 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Vulcana-Băi nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/32372",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-48-2021",
+"path": "local/dambovita/vulcana-bai/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 48/2021 privind stabilirea terenurilor proprietate publică/privată ale comunei Vulcana-Băi, asupra cărora Societatea SOCERAM CÂMPINA SA exercită, prin efectul legii, dreptul de uz și servitute, la obiectivul de utilitate publică „Alimentarea cu gaze naturale din sistemul național de transport la fabricile din comuna Doicești, județul Dâmbovița”",
+"short": "HCL Vulcana-Băi nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/32373",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-bai-49-2021",
 "path": "local/dambovita/vulcana-bai/2021/49",
 "kind": "local",
@@ -264,6 +1089,294 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Băi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-50-2021",
+"path": "local/dambovita/vulcana-bai/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 50/2021 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/32375",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-51-2021",
+"path": "local/dambovita/vulcana-bai/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 51/2021 privind aprobarea implementării proiectului „Achiziție utilaj operațional necesar Serviciului Voluntar pentru Situații de Urgență al comunei Vulcana-Băi”, în vederea depunerii lui spre finanţare externă nerambursabilă (FEADR), prin GRUPUL DE ACŢIUNE LOCALĂ „VALEA IALOMIŢEI\", măsura M7/DI6B – „Investiţii în infrastructura de bază şi îmbunătăţirea accesului la servicii pentru populaţie”",
+"short": "HCL Vulcana-Băi nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-06",
+"latest": "2021-08-06",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/32467",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-52-2021",
+"path": "local/dambovita/vulcana-bai/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 52/2021 privind exercitarea dreptului de acces pe proprietatea publică a comunei Vulcana-Băi, al furnizorului de rețele de comunicații electronice, Societatea RCS&RDS SA",
+"short": "HCL Vulcana-Băi nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-12",
+"latest": "2021-08-12",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/32469",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-53-2021",
+"path": "local/dambovita/vulcana-bai/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 53/2021",
+"short": "HCL Vulcana-Băi nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-12",
+"latest": "2021-08-12",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/32468",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-54-2021",
+"path": "local/dambovita/vulcana-bai/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 54/2021",
+"short": "HCL Vulcana-Băi nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/34403",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-55-2021",
+"path": "local/dambovita/vulcana-bai/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 55/2021 privind aprobarea proiectului rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Vulcana-Băi pe anul școlar 2022-2023, în vederea emiterii avizului conform de către Inspectoratul Școlar Județean Dâmbovița",
+"short": "HCL Vulcana-Băi nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/34404",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-56-2021",
+"path": "local/dambovita/vulcana-bai/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 56/2021 privind darea în folosință gratuită pe perioadă determinată Federației Române HAND TO HAND FIGHTING a unui spațiu pentru implementarea la nivel local a Proiectului național de dezvoltare a sportului de contact în comunele și orașele României",
+"short": "HCL Vulcana-Băi nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/34405",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-57-2021",
+"path": "local/dambovita/vulcana-bai/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 57/2021 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/34406",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-58-2021",
+"path": "local/dambovita/vulcana-bai/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 58/2021 pentru validarea Dispoziției primarului comunei nr. 317 din 15 septembrie 2021 privind rectificarea bugetului local pe anul 2021",
+"short": "HCL Vulcana-Băi nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/36809",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-59-2021",
+"path": "local/dambovita/vulcana-bai/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 59/2021 privind aprobarea concesionării, fără licitație publică, a spațiului cu destinația de cabinet medical, către Cabinetul Medical Individual dr. Țenea",
+"short": "HCL Vulcana-Băi nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/36810",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-60-2021",
+"path": "local/dambovita/vulcana-bai/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 60/2021 privind aprobarea cererii de finanțare și a devizului general estimativ, pentru obiectivul de investiții „Modernizarea unor drumuri publice din interiorul comunei Vulcana-Băi”, prin Programul Național de Investiții „Anghel Saligny”",
+"short": "HCL Vulcana-Băi nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/36811",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-61-2021",
+"path": "local/dambovita/vulcana-bai/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 61/2021 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședinței următoare",
+"short": "HCL Vulcana-Băi nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/36812",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-62-2021",
+"path": "local/dambovita/vulcana-bai/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 62/2021 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Vulcana-Băi nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/40498",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +1446,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--vulcana-bai-66-2021",
+"path": "local/dambovita/vulcana-bai/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 66/2021 privind modificarea art. 4 din Hotărârea Consiliului local nr. 18 din 26 martie 2018 pentru stabilirea de măsuri privind administrarea și exploatarea sistemului de iluminat public la nivelul comunei Vulcana-Băi",
+"short": "HCL Vulcana-Băi nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/40502",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-bai-67-2021",
 "path": "local/dambovita/vulcana-bai/2021/67",
 "kind": "local",
@@ -352,6 +1487,95 @@
 "council_name": "Consiliul Local al Comunei Vulcana-Băi",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-68-2021",
+"path": "local/dambovita/vulcana-bai/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 68/2021",
+"short": "HCL Vulcana-Băi nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/40504",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-69-2021",
+"path": "local/dambovita/vulcana-bai/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 69/2021 privind aprobarea închirierii prin exercitarea dreptului preempțiune a spațiului destinat activităților sanitar-veterinare la nivelul comunei Vulcana-Băi",
+"short": "HCL Vulcana-Băi nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/40505",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-70-2021",
+"path": "local/dambovita/vulcana-bai/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 70/2021 privind organizarea executării măsurilor de protecția socială pentru consumatorul vulnerabil de energie",
+"short": "HCL Vulcana-Băi nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/40506",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-71-2021",
+"path": "local/dambovita/vulcana-bai/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 71/2021 pentru modificarea Hotărârii nr. 37 din 20 mai 2021 privind modificarea și completarea organigramei, a statului de funcții și a numărului de personal, de la nivelul comunei Vulcana-Băi, ca instituție publică locală",
+"short": "HCL Vulcana-Băi nr. 71/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/40507",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--ostroveni-10-2026",
+   "path": "local/dolj/ostroveni/2026/10",
+   "short": "HCL Ostroveni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 10/2026 privind constatarea validarii mandatului supleantului ce va ocupa postul de consilier local al Consiliului Local Ostroveni declarat vacant pe lista PSD",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/256662",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/256662",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-11-2026",
    "path": "local/dolj/ostroveni/2026/11",
    "short": "HCL Ostroveni nr. 11/2026",
@@ -43,6 +58,36 @@
      "from": "2026-05-08",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/258344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-13-2026",
+   "path": "local/dolj/ostroveni/2026/13",
+   "short": "HCL Ostroveni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 13/2026 privind infiintarea Compartimentului Implementare proiecte din fonduri europene in aparatul de specialitate al primarului comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/262710",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/262710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-14-2026",
+   "path": "local/dolj/ostroveni/2026/14",
+   "short": "HCL Ostroveni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 14/2026 privind reorganizarea aparatului de specialitate al primarului unității administrativ-teritoriale com.Ostroveni si serviciilor din subordinea Consiliului Local Ostroveni ca urmare a aplicării Ordonanței de Urgență a Guvernului nr. 7/2026, precum și aprobarea organigramei și a statului de funcții",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/263022",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/263022",
      "sha256": null
     }
    ]
@@ -523,6 +568,51 @@
      "from": "2026-03-11",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/249819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-7-2026",
+   "path": "local/dolj/ostroveni/2026/7",
+   "short": "HCL Ostroveni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 7/2026",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/249820",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/249820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-8-2026",
+   "path": "local/dolj/ostroveni/2026/8",
+   "short": "HCL Ostroveni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 8/2026",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/249821",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/249821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-9-2026",
+   "path": "local/dolj/ostroveni/2026/9",
+   "short": "HCL Ostroveni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 9/2026 privind desemnarea unui consilier local pentru a face parte din Comitetul Local pentru Situatii de Urgenta Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/256661",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/256661",
      "sha256": null
     }
    ]

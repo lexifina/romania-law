@@ -3,6 +3,141 @@
  "shard": "local/dambovita/vulcana-bai/2026",
  "acts": [
   {
+   "slug": "hcl-dambovita--vulcana-bai-1-2026",
+   "path": "local/dambovita/vulcana-bai/2026/1",
+   "short": "HCL Vulcana-Băi nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 1/2026 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme, pe trimestrul IV al anului 2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/250356",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/250356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-10-2026",
+   "path": "local/dambovita/vulcana-bai/2026/10",
+   "short": "HCL Vulcana-Băi nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 10/2026 privind aprobarea Regulamentului privind utilizarea microbuzului destinat transportului elevilor din învățământul preuniversitar de stat de la nivelul comunei Vulcana-Băi, precum și stabilirea traseului și a stațiilor de îmbarcare-debarcare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/257566",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/257566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-11-2026",
+   "path": "local/dambovita/vulcana-bai/2026/11",
+   "short": "HCL Vulcana-Băi nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 11/2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/257567",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/257567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-12-2026",
+   "path": "local/dambovita/vulcana-bai/2026/12",
+   "short": "HCL Vulcana-Băi nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 12/2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/257568",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/257568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-13-2026",
+   "path": "local/dambovita/vulcana-bai/2026/13",
+   "short": "HCL Vulcana-Băi nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 13/2026 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din luna martie 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/257569",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/257569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-14-2026",
+   "path": "local/dambovita/vulcana-bai/2026/14",
+   "short": "HCL Vulcana-Băi nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 14/2026 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizarea unor drumuri publice din interiorul comunei Vulcana-Băi”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, cu aplicarea noii cote de TVA de 21% și a întocmirii dispoziției de șantier nr. 4",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/257579",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/257579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-15-2026",
+   "path": "local/dambovita/vulcana-bai/2026/15",
+   "short": "HCL Vulcana-Băi nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 15/2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/257580",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/257580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-16-2026",
+   "path": "local/dambovita/vulcana-bai/2026/16",
+   "short": "HCL Vulcana-Băi nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 16/2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/259549",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/259549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-17-2026",
+   "path": "local/dambovita/vulcana-bai/2026/17",
+   "short": "HCL Vulcana-Băi nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 17/2026 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din luna aprilie 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/260253",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/260253",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-18-2026",
    "path": "local/dambovita/vulcana-bai/2026/18",
    "short": "HCL Vulcana-Băi nr. 18/2026",
@@ -13,6 +148,111 @@
      "from": "2026-04-01",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/260254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-19-2026",
+   "path": "local/dambovita/vulcana-bai/2026/19",
+   "short": "HCL Vulcana-Băi nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 19/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 77/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici pe anul 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/260255",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/260255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-2-2026",
+   "path": "local/dambovita/vulcana-bai/2026/2",
+   "short": "HCL Vulcana-Băi nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 2/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii sau reducerii riscului de sărăcie și excluziune socială, la nivelul comunei Vulcana-Băi, pentru anul 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/250357",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/250357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-20-2026",
+   "path": "local/dambovita/vulcana-bai/2026/20",
+   "short": "HCL Vulcana-Băi nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 20/2026 privind stabilirea de măsuri pentru organizarea, coordonarea și sprijinirea activității echipei mobile la intervențiile de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/260256",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/260256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-21-2026",
+   "path": "local/dambovita/vulcana-bai/2026/21",
+   "short": "HCL Vulcana-Băi nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 21/2026 privind aprobarea Acordului de parteneriat între Comuna Vulcana-Băi și Filiala Județeană Dâmbovița a Asociației Naționale Cultul Eroilor „Regina Maria”, pentru anul 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/260257",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/260257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-22-2026",
+   "path": "local/dambovita/vulcana-bai/2026/22",
+   "short": "HCL Vulcana-Băi nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 22/2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/261065",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/261065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-23-2026",
+   "path": "local/dambovita/vulcana-bai/2026/23",
+   "short": "HCL Vulcana-Băi nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 23/2026 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din luna mai 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/263950",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/263950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-24-2026",
+   "path": "local/dambovita/vulcana-bai/2026/24",
+   "short": "HCL Vulcana-Băi nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 24/2026 privind stabilirea de măsuri pentru eficientizarea activității de înscriere a datelor în registrul agricol, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme, pe trimestrul I al anului 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/263951",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/263951",
      "sha256": null
     }
    ]
@@ -33,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-26-2026",
+   "path": "local/dambovita/vulcana-bai/2026/26",
+   "short": "HCL Vulcana-Băi nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 26/2026 privind aplicarea noului număr maxim de posturi, precum și reorganizarea aparatului de specialitate al primarului, potrivit prevederilor art. XL alin. (3), respectiv alin. (6) din Ordonanța de urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum, și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/263953",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/263953",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-27-2026",
    "path": "local/dambovita/vulcana-bai/2026/27",
    "short": "HCL Vulcana-Băi nr. 27/2026",
@@ -43,6 +298,141 @@
      "from": "2026-05-08",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/266886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-28-2026",
+   "path": "local/dambovita/vulcana-bai/2026/28",
+   "short": "HCL Vulcana-Băi nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 28/2026 privind aprobarea închirierii directe a unui spațiu, aparținând domeniului public al comunei Vulcana-Băi, destinat activităților sanitar-veterinare, situat pe strada Vlad Țepeș, nr. 21, corpul E",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/268635",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/268635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-29-2026",
+   "path": "local/dambovita/vulcana-bai/2026/29",
+   "short": "HCL Vulcana-Băi nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 29/2026 privind actualizarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general, pentru obiectivul de investiții „CONSTRUIRE SISTEME FOTOVOLTAICE ȘI STOCARE ENERGIE ELECTRICĂ PENTRU CLĂDIRI PUBLICE, ÎN COMUNA VULCANA-BĂI, JUDEȚUL DÂMBOVIȚA”",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/269010",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/269010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-3-2026",
+   "path": "local/dambovita/vulcana-bai/2026/3",
+   "short": "HCL Vulcana-Băi nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 3/2026 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, pe anul 2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/250358",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/250358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-30-2026",
+   "path": "local/dambovita/vulcana-bai/2026/30",
+   "short": "HCL Vulcana-Băi nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 30/2026 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din luna iunie 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/272406",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/272406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-31-2026",
+   "path": "local/dambovita/vulcana-bai/2026/31",
+   "short": "HCL Vulcana-Băi nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 31/2026 pentru stabilirea de măsuri privind manifestările dedicate sărbătoririi ZILEI COMUNEI VULCANA-BĂI din 28 - 29 iunie 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/272407",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/272407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-32-2026",
+   "path": "local/dambovita/vulcana-bai/2026/32",
+   "short": "HCL Vulcana-Băi nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 32/2026 privind interzicerea desfășurării activităților de jocuri de noroc în locații fizice pe teritoriul comunei Vulcana-Băi",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/272408",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/272408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-33-2026",
+   "path": "local/dambovita/vulcana-bai/2026/33",
+   "short": "HCL Vulcana-Băi nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 33/2026 privind aprobarea planului de situație aferent investiției „Extindere rețea energie electrică pe strada Viitorului”",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/272409",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/272409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-34-2026",
+   "path": "local/dambovita/vulcana-bai/2026/34",
+   "short": "HCL Vulcana-Băi nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 34/2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/272772",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/272772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-35-2026",
+   "path": "local/dambovita/vulcana-bai/2026/35",
+   "short": "HCL Vulcana-Băi nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 35/2026 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din luna iulie 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/277660",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/277660",
      "sha256": null
     }
    ]
@@ -103,6 +493,21 @@
      "from": "2026-08-24",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/283654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-4-2026",
+   "path": "local/dambovita/vulcana-bai/2026/4",
+   "short": "HCL Vulcana-Băi nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 4/2026 privind aderarea comunei Vulcana-Băi la Asociația de Dezvoltare Intercomunitară „CIVITAS” Târgoviște",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/250359",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/250359",
      "sha256": null
     }
    ]
@@ -258,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--vulcana-bai-5-2026",
+   "path": "local/dambovita/vulcana-bai/2026/5",
+   "short": "HCL Vulcana-Băi nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 5/2026 privind stabilirea de măsuri pentru exercitarea atribuției de reprezentare în justiție a comunei Vulcana-Băi",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/250360",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/250360",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--vulcana-bai-50-2026",
    "path": "local/dambovita/vulcana-bai/2026/50",
    "short": "HCL Vulcana-Băi nr. 50/2026",
@@ -343,6 +763,66 @@
      "from": "2026-10-16",
      "units": 1,
      "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/292679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-6-2026",
+   "path": "local/dambovita/vulcana-bai/2026/6",
+   "short": "HCL Vulcana-Băi nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 6/2026 privind alegerea președintelui și a potențialului președinte de ședință pentru durata ședințelor din luna februarie 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/250361",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/250361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-7-2026",
+   "path": "local/dambovita/vulcana-bai/2026/7",
+   "short": "HCL Vulcana-Băi nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 7/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții „ÎNFIINȚAREA CENTRULUI COMUNITAR INTEGRAT PENTRU SPORIREA ACCESULUI LA SERVICII MEDICALE DE CALITATE A POPULAȚIEI, ÎN SPECIAL A GRUPURILOR VULNERABILE DIN COMUNA VULCANA-BĂI”, cu aplicarea noii cote de TVA de 21% pentru restul lucrărilor/serviciilor ce urmează a fi executate/prestate, după finalizarea procedurilor de achiziții",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/252978",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/252978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-8-2026",
+   "path": "local/dambovita/vulcana-bai/2026/8",
+   "short": "HCL Vulcana-Băi nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 8/2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/257564",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/257564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-9-2026",
+   "path": "local/dambovita/vulcana-bai/2026/9",
+   "short": "HCL Vulcana-Băi nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 9/2026 privind actualizarea Planului de analiză și acoperire a riscurilor generatoare de situații de urgență, la nivelul comunei Vulcana-Băi pe anul 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/257565",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/257565",
      "sha256": null
     }
    ]

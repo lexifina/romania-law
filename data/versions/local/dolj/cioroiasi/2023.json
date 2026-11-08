@@ -3,6 +3,126 @@
  "shard": "local/dolj/cioroiasi/2023",
  "acts": [
   {
+   "slug": "hcl-dolj--cioroiasi-1-2023",
+   "path": "local/dolj/cioroiasi/2023/1",
+   "short": "HCL Cioroiași nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 1/2023 privind utilizarea excedentului anual al bugetului local rezultat la încheierea exercițiului bugetar pe anul 2022",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104706",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-10-2023",
+   "path": "local/dolj/cioroiasi/2023/10",
+   "short": "HCL Cioroiași nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 10/2023 privind aprobarea documentației de atribuire aferentă Contractului de Delegare a Gestiunii Activității de Eliminare prin Depozitare a Deșeurilor la Depozitului Ecologic de Deșeuri Mofleni-Craiova",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104717",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-11-2023",
+   "path": "local/dolj/cioroiasi/2023/11",
+   "short": "HCL Cioroiași nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 11/2023 privind modificarea Hotărârii Consiliului Local nr.54 din 04.11.2022 referitor la aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și devizului general actualizat pentru obiectivul de investiții „ASFALTARE DRUMURI DE INTERES LOCAL ÎN COMUNA CIOROIAȘI, SAT CIOROIU-NOU, JUDEȚUL DOLJ”",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104718",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-12-2023",
+   "path": "local/dolj/cioroiasi/2023/12",
+   "short": "HCL Cioroiași nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 12/2023 privind aprobarea Bugetului local pentru anul 2023",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104797",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-13-2023",
+   "path": "local/dolj/cioroiasi/2023/13",
+   "short": "HCL Cioroiași nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 13/2023 privind aprobarea Programului anual de achiziții publice a comunei Cioroiași pentru anul 2023",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104798",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-14-2023",
+   "path": "local/dolj/cioroiasi/2023/14",
+   "short": "HCL Cioroiași nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 14/2023 privind transformarea unor posturi de execuție și modificarea corespunzătoare a organigramei și statul de funcții pentru aparatul de specialitate al UAT Cioroiași, județul Dolj în anul 2023",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104799",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-15-2023",
+   "path": "local/dolj/cioroiasi/2023/15",
+   "short": "HCL Cioroiași nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 15/2023 privind aprobarea participării Comunei Cioroiași, județul DOLJ la Parteneriatul LEADER cu denumirea ”GAL Valea Dunării Sudolt”",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104800",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-16-2023",
+   "path": "local/dolj/cioroiasi/2023/16",
+   "short": "HCL Cioroiași nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 16/2023 privind aprobarea proiectului și a cheltuielilor legate de proiect: Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104803",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104803",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-17-2023",
    "path": "local/dolj/cioroiasi/2023/17",
    "short": "HCL Cioroiași nr. 17/2023",
@@ -28,6 +148,51 @@
      "from": "2023-06-28",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/110800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-19-2023",
+   "path": "local/dolj/cioroiasi/2023/19",
+   "short": "HCL Cioroiași nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 19/2023 privind aprobarea alocării unui sprijin finanaciar pentru Parohia Trochești-Biserica Adormirea Maicii Domnului",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/110801",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/110801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-2-2023",
+   "path": "local/dolj/cioroiasi/2023/2",
+   "short": "HCL Cioroiași nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 2/2023 privind aprobare a rețelei școlare pentru anul școlar 2023-2024 de la nivelul comunei Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104709",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-20-2023",
+   "path": "local/dolj/cioroiasi/2023/20",
+   "short": "HCL Cioroiași nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 20/2023 privind alegerea președintelui de ședință pentru perioada de trei luni",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/110802",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/110802",
      "sha256": null
     }
    ]
@@ -123,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-27-2023",
+   "path": "local/dolj/cioroiasi/2023/27",
+   "short": "HCL Cioroiași nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 27/2023",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/118502",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/118502",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-28-2023",
    "path": "local/dolj/cioroiasi/2023/28",
    "short": "HCL Cioroiași nr. 28/2023",
@@ -148,6 +328,21 @@
      "from": "2023-09-01",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/118504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-3-2023",
+   "path": "local/dolj/cioroiasi/2023/3",
+   "short": "HCL Cioroiași nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 3/2023 privind transformarea unor posturi de execuție și modificare a corespunzătoare a organigramei și statutul de funcții pentru aparatul de specialitate al UAT Cioroiași, județul Dolj în anul 2023",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104710",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104710",
      "sha256": null
     }
    ]
@@ -303,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-4-2023",
+   "path": "local/dolj/cioroiasi/2023/4",
+   "short": "HCL Cioroiași nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 4/2023 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului comunei Cioroiași precum și în cadrul serviciilor publice de interes local ale Comunei Cioroiași",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104711",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104711",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-40-2023",
    "path": "local/dolj/cioroiasi/2023/40",
    "short": "HCL Cioroiași nr. 40/2023",
@@ -453,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-5-2023",
+   "path": "local/dolj/cioroiasi/2023/5",
+   "short": "HCL Cioroiași nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 5/2023 privind aprobarea planului pentru beneficiarii Legii nr. 416/2001",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104712",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104712",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-50-2023",
    "path": "local/dolj/cioroiasi/2023/50",
    "short": "HCL Cioroiași nr. 50/2023",
@@ -463,6 +688,66 @@
      "from": "2024-02-23",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/144475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-6-2023",
+   "path": "local/dolj/cioroiasi/2023/6",
+   "short": "HCL Cioroiași nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 6/2023 privind aprobarea numărului estimativ de beneficiari ai tichetelor sociale",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104713",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-7-2023",
+   "path": "local/dolj/cioroiasi/2023/7",
+   "short": "HCL Cioroiași nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 7/2023 privind aprobarea protocolului de colaborare între Ministerul Muncii și solidarității Sociale (MMSS) și unitatea administrativ teritorială comuna Cioroiași, județul Dolj, având ca obiect asigurarea colaborării interinstituționale a MMSS cu UAT Cioroiași în cadrul proiectului ”HUB de Servicii MMSS - SII MMSS”,Cod MySmis 130963",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104714",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-8-2023",
+   "path": "local/dolj/cioroiasi/2023/8",
+   "short": "HCL Cioroiași nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 8/2023",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104715",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-9-2023",
+   "path": "local/dolj/cioroiasi/2023/9",
+   "short": "HCL Cioroiași nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 9/2023 privind alegerea președinte de ședința pentru perioada de trei luni",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/104716",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/104716",
      "sha256": null
     }
    ]

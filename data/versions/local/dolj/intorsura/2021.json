@@ -3,6 +3,96 @@
  "shard": "local/dolj/intorsura/2021",
  "acts": [
   {
+   "slug": "hcl-dolj--intorsura-10-2021",
+   "path": "local/dolj/intorsura/2021/10",
+   "short": "HCL Întorsura nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 10/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL-10-2021.pdf",
+     "sha256": "3554f0435488d7f638ac28bf6f20c402cdcddddafe6c7a9fb463f17fad12ffa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-11-2021",
+   "path": "local/dolj/intorsura/2021/11",
+   "short": "HCL Întorsura nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 11/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL-11-2021.pdf",
+     "sha256": "5905f20e746af0be4cdf2ab0e43c988d27703df58da9368fe372ecb12174f300"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-22-2021",
+   "path": "local/dolj/intorsura/2021/22",
+   "short": "HCL Întorsura nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 22/2021 privind stabilirea coeficientului de ierarhizare al contabilului, în funcție de complexitatea muncii pe care o desfășoară",
+   "url": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL_22-2021.pdf",
+     "sha256": "015de828fc62340f53611266436d788b23a400996df211893786e94845ecc256"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-24-2021",
+   "path": "local/dolj/intorsura/2021/24",
+   "short": "HCL Întorsura nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 24/2021 privind aprobarea rectificarii bugetului de venituri si cheltuieli prin includerea sumei de 1 mie lei la capitolul 11.02.06, la partea de venituri și includerea sumei de 1 mie lei la capitolul 65.02.75 burse, la partea de cheltuieli",
+   "url": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL_24-2021.pdf",
+     "sha256": "ae7e6b1f6c1af6d798dbae0e9950a115ba1de030e3c94b339ccad107bf6cb986"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-25-2021",
+   "path": "local/dolj/intorsura/2021/25",
+   "short": "HCL Întorsura nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 25/2021 privind aprobarea Proiectul “ALIMENTARE CU APA ÎN COMUNA ÎNTORSURA, SAT ÎNTORSURA, JUDEȚUL DOLJ” Consiliul Local Întorsura ,jud",
+   "url": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL_25-2021.pdf",
+     "sha256": "f25404bfaa40bb28c8e695841f4ad5ef3d6388c26b077a66887abc40678bfd64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--intorsura-29-2021",
+   "path": "local/dolj/intorsura/2021/29",
+   "short": "HCL Întorsura nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Întorsura nr. 29/2021 Privind includerea în domeniului public al comunei Întorsura, Judetul Dolj, teren extravilan „ape bălți„, cu suprafata de 25139 mp Consiliul Local al comunei Întorsura, având în vedere: - Referatul de aprobare al primarului comunei Întorsura, jud",
+   "url": "http://primariaintorsura.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.primariaintorsura.ro/wp-content/uploads/2024/03/HCL_29-2021.pdf",
+     "sha256": "8a5b15905d9a6e16bde247a90a092d5e6781fe672848cfae44011bb586e8c375"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--intorsura-40-2021",
    "path": "local/dolj/intorsura/2021/40",
    "short": "HCL Întorsura nr. 40/2021",

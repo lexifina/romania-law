@@ -3,6 +3,306 @@
  "shard": "local/dolj/afumati/2022",
  "acts": [
   {
+   "slug": "hcl-dolj--afumati-1-2022",
+   "path": "local/dolj/afumati/2022/1",
+   "short": "HCL Afumați nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 1/2022 privind utilizarea excedentului bugetului local al anului 2021, în cursul anului 2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110059",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-10-2022",
+   "path": "local/dolj/afumati/2022/10",
+   "short": "HCL Afumați nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 10/2022 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2021",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110110",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-11-2022",
+   "path": "local/dolj/afumati/2022/11",
+   "short": "HCL Afumați nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 11/2022 privind aprobarea organizării rețelei școlare începând cu data de 01.09.2022 la nivelul comunei Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110111",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-12-2022",
+   "path": "local/dolj/afumati/2022/12",
+   "short": "HCL Afumați nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 12/2022 privind revocarea HCL 61/2021 privind modificarea HCL 31/2021 privind închirierea, prin licitație publică, a suprafeței de 36 mp din imobilului „Dispensar uman Boureni” situat în Comuna Afumați localitatea Boureni, județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110112",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-13-2022",
+   "path": "local/dolj/afumati/2022/13",
+   "short": "HCL Afumați nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 13/2022 privind acordarea unui ajutor financiar pentru nou-născuți",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110113",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-14-2022",
+   "path": "local/dolj/afumati/2022/14",
+   "short": "HCL Afumați nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 14/2022 privind aprobarea solicitării de prelungire a Scrisorii de garanție de la FNGCIMM SA IFN pentru implementarea proiectului ”ÎNFIINTARE SISTEM PUBLIC DE ALIMENTARE CU APA ȘI CANALIZARE ÎN COMUNA AFUMAȚI, JUDEȚUL DOLJ”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110114",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-15-2022",
+   "path": "local/dolj/afumati/2022/15",
+   "short": "HCL Afumați nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 15/2022 privind aprobarea planului de formare profesională a funcționarilor publici din cadrul aparatului de specialitate al Primarului comunei Afumați pentru anul 2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110115",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-16-2022",
+   "path": "local/dolj/afumati/2022/16",
+   "short": "HCL Afumați nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 16/2022 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Afumați pentru activitatea desfășurată în anul 2021",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110116",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-17-2022",
+   "path": "local/dolj/afumati/2022/17",
+   "short": "HCL Afumați nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 17/2022 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de audit public intern",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110117",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-18-2022",
+   "path": "local/dolj/afumati/2022/18",
+   "short": "HCL Afumați nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 18/2022 privind aprobarea documentației în vederea participării Comunei Afumați la programul „Fondul Local” în cadrul Planului Național de Redresare și Reziliență-Componenta 10",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110118",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-19-2022",
+   "path": "local/dolj/afumati/2022/19",
+   "short": "HCL Afumați nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 19/2022 privind aprobarea documentației tehnico-economice și a devizului general aferenți investiției ”Reparații capitale Grădiniță Amzulești”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110119",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-2-2022",
+   "path": "local/dolj/afumati/2022/2",
+   "short": "HCL Afumați nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 2/2022 privind aprobarea Structurii organizatorice, a Statului de funcții și al numărului de personal al aparatului de specialitate al Primarului Comunei Afumați, Județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110060",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-20-2022",
+   "path": "local/dolj/afumati/2022/20",
+   "short": "HCL Afumați nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 20/2022 privind aprobarea cererii de finanțare și a devizului general estimativ pentru depunerea în cadrul Programului Național de Investiții ”Anghel Saligny” derulat de Ministerul Dezvoltării, Lucrărilor Publice și Administrației a obiectivului „ÎNFIINȚARE REȚEA DISTRIBUȚIE GAZE NATURALE ÎN COMUNA AFUMAȚI, JUDEȚUL DOLJ”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110120",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-21-2022",
+   "path": "local/dolj/afumati/2022/21",
+   "short": "HCL Afumați nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 21/2022 privind atribuirea și încheierea contractului „Delegarea prin concesionare a operării instalațiilor de gestionare a deșeurilor municipale realizate în cadrul proiectului Sistem de Management Integrat al Deșeurilor în Județul Dolj” și aprobarea tarifelor aferente",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110127",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-22-2022",
+   "path": "local/dolj/afumati/2022/22",
+   "short": "HCL Afumați nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 22/2022 privind aprobarea procedurii de acordare a unor înlesniri la plată, constând în scutirea de majorări de întârziere aferente obligațiilor fiscale principale cuvenite bugetului local de către persoanele fizice care au calitatea de contribuabili ai bugetului local al Comunei Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110128",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-23-2022",
+   "path": "local/dolj/afumati/2022/23",
+   "short": "HCL Afumați nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 23/2022 privind revocarea HCL nr. 8/28.02.2022 privind aprobarea închirierii prin atribuirea directă a suprafețelor de izlaz proprietatea privată a comunei Afumați, județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110129",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-24-2022",
+   "path": "local/dolj/afumati/2022/24",
+   "short": "HCL Afumați nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 24/2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110130",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-25-2022",
+   "path": "local/dolj/afumati/2022/25",
+   "short": "HCL Afumați nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 25/2022 privind organizarea unor manifestări în Comuna Afumați, Județul Dolj, cu ocazia zilei de 1 iunie-Ziua Copilului",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110131",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-26-2022",
+   "path": "local/dolj/afumati/2022/26",
+   "short": "HCL Afumați nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 26/2022 privind aprobarea documentației în vederea participării Comunei Afumați la programul ”Fondul Local” în cadrul Planului Național de Redresare și Reziliență-Componenta 10",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110132",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-27-2022",
+   "path": "local/dolj/afumati/2022/27",
+   "short": "HCL Afumați nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 27/2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110133",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110133",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-28-2022",
    "path": "local/dolj/afumati/2022/28",
    "short": "HCL Afumați nr. 28/2022",
@@ -13,6 +313,21 @@
      "from": "2023-06-26",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/110134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-29-2022",
+   "path": "local/dolj/afumati/2022/29",
+   "short": "HCL Afumați nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 29/2022 privind schimbarea denumirii și destinației clădirii ”Grădinița Amzulești” în „Clădire administrativă Amzulești” având destinația organizării evenimentelor culturale și sociale",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110135",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110135",
      "sha256": null
     }
    ]
@@ -33,6 +348,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-30-2022",
+   "path": "local/dolj/afumati/2022/30",
+   "short": "HCL Afumați nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 30/2022 privind rectificarea nr.1 a bugetului local al Comunei Afumați pentru anul 2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110136",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-31-2022",
+   "path": "local/dolj/afumati/2022/31",
+   "short": "HCL Afumați nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 31/2022 privind ajustarea prețului contractului de achiziție publică de Lucrări (proiectare+execuție) și aprobarea indicatorilor tehnico-economici actualizați pentru investiția „Modernizare drumuri de interes local în Comuna Afumați, satele Afumați, Boureni și Covei”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132219",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132219",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-32-2022",
    "path": "local/dolj/afumati/2022/32",
    "short": "HCL Afumați nr. 32/2022",
@@ -43,6 +388,21 @@
      "from": "2022-06-29",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/132220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-33-2022",
+   "path": "local/dolj/afumati/2022/33",
+   "short": "HCL Afumați nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 33/2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132221",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132221",
      "sha256": null
     }
    ]
@@ -78,6 +438,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-36-2022",
+   "path": "local/dolj/afumati/2022/36",
+   "short": "HCL Afumați nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 36/2022 privind rectificarea nr.2 a bugetului local al Comunei Afumați pentru anul 2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132224",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-37-2022",
+   "path": "local/dolj/afumati/2022/37",
+   "short": "HCL Afumați nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 37/2022 privind rectificarea nr. 3 a bugetului local al Comunei Afumați pentru anul 2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132225",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132225",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-38-2022",
    "path": "local/dolj/afumati/2022/38",
    "short": "HCL Afumați nr. 38/2022",
@@ -108,6 +498,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-4-2022",
+   "path": "local/dolj/afumati/2022/4",
+   "short": "HCL Afumați nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 4/2022 privind aprobarea Actului Adițional nr. 5 la Contractul nr. 370/22.05.2018 ”Delegarea prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în județul Dolj și operarea stației de sortare și transfer Goicea” și a tarifelor aferente",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110062",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-40-2022",
+   "path": "local/dolj/afumati/2022/40",
+   "short": "HCL Afumați nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 40/2022 privind încheierea unui acord cu Cabinetul Medical de Medicină de Familie Dr. Purneal Ligia în vederea modernizării cabinetului medical",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132228",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132228",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-41-2022",
    "path": "local/dolj/afumati/2022/41",
    "short": "HCL Afumați nr. 41/2022",
@@ -118,6 +538,51 @@
      "from": "2022-08-03",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/132229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-42-2022",
+   "path": "local/dolj/afumati/2022/42",
+   "short": "HCL Afumați nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 42/2022 privind aprobarea execuției bugetului de venituri și cheltuieli pentru trimestrul I și II al anului 20022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132230",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-43-2022",
+   "path": "local/dolj/afumati/2022/43",
+   "short": "HCL Afumați nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 43/2022 privind rectificarea nr.4 a bugetului local al Comunei Afumați pentru anul 2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132231",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-44-2022",
+   "path": "local/dolj/afumati/2022/44",
+   "short": "HCL Afumați nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 44/2022 privind emiterea unui acord către SNTGN Tansgaz SA cu privire la scoaterea temporară din circuitul agricol a unor terenuri",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132232",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132232",
      "sha256": null
     }
    ]
@@ -138,6 +603,96 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-46-2022",
+   "path": "local/dolj/afumati/2022/46",
+   "short": "HCL Afumați nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 46/2022 privind închirierea, prin licitație publică, a imobilului „Clădire administrativă Amzulești”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132234",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-47-2022",
+   "path": "local/dolj/afumati/2022/47",
+   "short": "HCL Afumați nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 47/2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132299",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-48-2022",
+   "path": "local/dolj/afumati/2022/48",
+   "short": "HCL Afumați nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 48/2022 privind rectificarea nr.5 a bugetului local al Comunei Afumați pentru anul 2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132300",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-49-2022",
+   "path": "local/dolj/afumati/2022/49",
+   "short": "HCL Afumați nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 49/2022 privind aprobarea documentației în vederea participării Comunei Afumați la programul „Fondul Local” în cadrul Planului Național de Redresare și Reziliență-Componenta 10",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132301",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-5-2022",
+   "path": "local/dolj/afumati/2022/5",
+   "short": "HCL Afumați nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 5/2022 privind darea în administrare temporară a serviciului de operare a instalațiilor de gestionare a deșeurilor municipale realizate în cadrul Proiectului ”Sistem de Management Integrat al Deșeurilor în Județul Dolj”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110063",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-50-2022",
+   "path": "local/dolj/afumati/2022/50",
+   "short": "HCL Afumați nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 50/2022 privind aprobarea depunerii proiectului „REABILITARE TERMOENERGETICĂ CLĂDIRE PARTER/CORP C1-MUZEU” în Comuna Afumați, sat Afumați, str. Principală, nr. 60, jud. Dolj în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență, Componenta C10-FONDUL LOCAL, subinvestiția (I3) Reabilitarea moderată a clădirilor publice pentru a îmbunătăți serviciile publice",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132302",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132302",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-51-2022",
    "path": "local/dolj/afumati/2022/51",
    "short": "HCL Afumați nr. 51/2022",
@@ -148,6 +703,21 @@
      "from": "2022-10-13",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/132303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-52-2022",
+   "path": "local/dolj/afumati/2022/52",
+   "short": "HCL Afumați nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 52/2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132304",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132304",
      "sha256": null
     }
    ]
@@ -423,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-7-2022",
+   "path": "local/dolj/afumati/2022/7",
+   "short": "HCL Afumați nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 7/2022 privind aprobarea bugetului de venituri și cheltuieli al Comunei Afumați, județul Dolj, pentru anul 2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110107",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110107",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-70-2022",
    "path": "local/dolj/afumati/2022/70",
    "short": "HCL Afumați nr. 70/2022",
@@ -463,6 +1048,36 @@
      "from": "2023-12-07",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/132331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-8-2022",
+   "path": "local/dolj/afumati/2022/8",
+   "short": "HCL Afumați nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 8/2022 privind aprobarea închirierii prin atribuirea directă a suprafețelor de izlaz proprietatea privată a comunei Afumați, județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110108",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-9-2022",
+   "path": "local/dolj/afumati/2022/9",
+   "short": "HCL Afumați nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 9/2022",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/110109",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/110109",
      "sha256": null
     }
    ]

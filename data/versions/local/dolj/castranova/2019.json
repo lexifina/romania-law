@@ -3,6 +3,66 @@
  "shard": "local/dolj/castranova/2019",
  "acts": [
   {
+   "slug": "hcl-dolj--castranova-10-2019",
+   "path": "local/dolj/castranova/2019/10",
+   "short": "HCL Castranova nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 10/2019 privind validarea mandatului de consilier local in cadrul Consiliului Local al comr.rrei Castrallova al dnei",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_10_din_2019.pdf",
+     "sha256": "46bcc93bd102f183e0c885b87040c82bf3264de49c2bfe989858e7721f79cf30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-12-2019",
+   "path": "local/dolj/castranova/2019/12",
+   "short": "HCL Castranova nr. 12/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 12/2019 privind aprobarea Planului de acliuni gi lucrdri de interes local pe anul 2019, ce vor fi executate de cdtre beneflcia i de ajutor social, conform Legii nr.4l6l2001, cu modificirile gi completirile ullenoate Consiliul Local al comunei Castranova , judetul Dolj, intrunit in sedinta ordinara din data de 28.02.2019",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_12_din_2019.pdf",
+     "sha256": "ef41d862cf620fc6c72087123dfa6fb613d3cca99ebc53bde26078a3347fd604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-16-2019",
+   "path": "local/dolj/castranova/2019/16",
+   "short": "HCL Castranova nr. 16/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 16/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_16_din_2019.pdf",
+     "sha256": "8d2d5b3d5aca025e3f660faa4b3c30985d5d9fd9a2381cedf92c25e193e62646"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-17-2019",
+   "path": "local/dolj/castranova/2019/17",
+   "short": "HCL Castranova nr. 17/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 17/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_17_din_2019.pdf",
+     "sha256": "50ad9823f962fa4f8e86a388b915c0d23c298b660ef49d67c130a812683d5ab4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--castranova-19-2019",
    "path": "local/dolj/castranova/2019/19",
    "short": "HCL Castranova nr. 19/2019",
@@ -18,6 +78,186 @@
    ]
   },
   {
+   "slug": "hcl-dolj--castranova-2-2019",
+   "path": "local/dolj/castranova/2019/2",
+   "short": "HCL Castranova nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 2/2019 privind proprurerea de acordare a calihcativului secretamlui comunei Castranova",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_02_din_2019.pdf",
+     "sha256": "eda68205c76c52ac1aaeef815e1ed67436b29b73a59a6d0158c8ac1b0fec7843"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-22-2019",
+   "path": "local/dolj/castranova/2019/22",
+   "short": "HCL Castranova nr. 22/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 22/2019 privind aprobarea listei de investitii aferenta programului de achizitii pentuu anul 2019 Consiliul Local al comunei Castuanova , judetul Dolj, intrunit in sedinta ordinara din data d,e 25 .04.2019",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_22_din_2019.pdf",
+     "sha256": "b29e4af4f03e7f78602a86e9091c6fcee4f7b16ca061f6d3ced16ef437db6291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-23-2019",
+   "path": "local/dolj/castranova/2019/23",
+   "short": "HCL Castranova nr. 23/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 23/2019 privind aprobarea majoririi capitalului social al SC SERVICIUL PUBLIC DE ALIMENTARE CU APA qI CANALIZARE CASTRANOVA SRL, cu asociat unic comuna Cashanova pdn Consiliul Local Castranova Consiliul Local al comunei Castranova; judetul Dolj, intrunit in sedinta ordinara din data do 25.04.2019",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_23_din_2019.pdf",
+     "sha256": "0ec0ee61e55e86fa9f39b572dbafafd9ba79a69292003ea9de153f4709c1af42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-25-2019",
+   "path": "local/dolj/castranova/2019/25",
+   "short": "HCL Castranova nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 25/2019 privind transformarea unei funclii publice de executie de ins?ector, clasa I, gad profesional debutant in functie publica de executie de inspector, clasa I, grad profesional asistent, Serviciul public Comunitar Local de Evidenga Persoanelor din cadrol aparatului de specialitate al primarului comunei Castmnova, ca umare a absolvirii perioadei de stasiu",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_25_din_2019.pdf",
+     "sha256": "d083dfbfa43550cbfe4dd249d2f5b01252982392ae19da0fe0d8f4e61c5b7c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-26-2019",
+   "path": "local/dolj/castranova/2019/26",
+   "short": "HCL Castranova nr. 26/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 26/2019 privind aprobarea investitiei pentru obiecti\\,'ul \"CONSTRUIRE SI DOTARE SEDru DE PRIMARIE IN SAT CASTRANOVA, CALEA A}ELE VII, NR.2, COM.CASTRANOVA, ruD.DOLJ\" finantat de cate Ministerul Dezvoltarii Regionale, Administatiei Publice si Fondudlor Europene prin Compada Natianala de Investitii Consiliul Iocal al comunei Castranova, judetul Dolj, intrunit in sedinta ordinara din data de 30.05.2019",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_26_din_2019.pdf",
+     "sha256": "162ea9fef9274df1cb42087c771bc6035b3d642ce4edf3a3088e51f399f7f889"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-29-2019",
+   "path": "local/dolj/castranova/2019/29",
+   "short": "HCL Castranova nr. 29/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 29/2019 privind alribuirea sau schimbarea de denumiri, cu modificirile qi complettuile ultedoare, apobate prin Legea n.4812003; - Aviarl Comisiei de Atribuire de Denumiri a Judetrului Dolj nr.9722l17.05.2019;' - ]lCL rt.22105.09.2001 privind aprobarea denumirii shizilor din cupdnsul satelor Castmnova Si Pufuri, precum qi numerotarea clddfuilor apa4indtoale acestora",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-06-21",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_29_din_2019.pdf",
+     "sha256": "b1e5bd94c3a141b181839d945a9fb59bfc1c686c0d0983c4478b9699300d8b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-4-2019",
+   "path": "local/dolj/castranova/2019/4",
+   "short": "HCL Castranova nr. 4/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 4/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_04_din_2019.pdf",
+     "sha256": "b17607f628c5404c022313472ee7f6c6be3fabf854536f68f5b52fd7418546d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-45-2019",
+   "path": "local/dolj/castranova/2019/45",
+   "short": "HCL Castranova nr. 45/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 45/2019 privind alegerea pregedintelui de qedinji al Consiliului Local al comunei Castranova penlru perioada octombrie - decembrie 2019 Consiliul Local al comunei Castranova, judetul Dolj, intrunit in sedinta ordinara din data de 27 .09 .2019 . - Avand in vedere: - Rapomrl prin care se propune desemnarea conducerii gedinlelor Consiliului Local al comunei Castranov4 penhu perioada octombde - decembrie 2019",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_45_din_2019.pdf",
+     "sha256": "1c0dd672b41654b41264509be4333736a1fcfb34ac090f16210b71b8270fb3a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-47-2019",
+   "path": "local/dolj/castranova/2019/47",
+   "short": "HCL Castranova nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 47/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-27",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_47_din_2019.pdf",
+     "sha256": "74b5868aedaa8bffd48808a5b9afe966f2f19bacd81d12c4308b93daad297dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-5-2019",
+   "path": "local/dolj/castranova/2019/5",
+   "short": "HCL Castranova nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 5/2019 privind Statutul alesilor locali,cu modificarile si completaile ultedoare; - Prevederile art.36 alin.1 din Legea tr. 215/2001 privind administratia publica locala, republicata cu modilicarile si completarile ulterioare; In temeiul prevederilor art.45 alin. 1 dn Legea 215/2001 privind administrastia publica Iocal4republicata, cu modificarile si completarile ulterioare, HOTARASTE: Art.1 Se ia act de",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_05_din_2019.pdf",
+     "sha256": "063d8189e6cea3d0bab842b53ea3ee1b795d65ee7aff2861273bd201d6933967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-51-2019",
+   "path": "local/dolj/castranova/2019/51",
+   "short": "HCL Castranova nr. 51/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 51/2019 privind rectificarea bugetului local pe anul 2019 cu suma totala de 341 mii lei Consiliul Local al comunei Castranova , judetul Dolj, intrunit in sedinta ordinara din data de 30.10.2019",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-10-30",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_51_2019.pdf",
+     "sha256": "1da8e5f531858e1f95aadc4c61436fefa5a3c3f25c9569e1191bb38d22e5af1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-53-2019",
+   "path": "local/dolj/castranova/2019/53",
+   "short": "HCL Castranova nr. 53/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 53/2019 privind aprobarea acodfuii unui ajutor financiar aa ajutor de urgentd dnei.Oprescu Cdstina- Madana Consiliul Local al comunei Cashanov4 judetul Dotj, intrunit in sedinta ordinara din data de 29 .11 .2019 . Av6nd in vedere: - referatul comun al Compadimentelor de specialitate din cadrul Pdmeriei comunei Castranov4 privind acordarea unui ajutor de ugenla in ouantum de 500 lei dnei.Oprescu Cristina-M",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_53_2019.pdf",
+     "sha256": "1105da5cdf0b958557d68ebeb7024c7652652ecc094ce0e9bcc0d609ae93bc7f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--castranova-55-2019",
    "path": "local/dolj/castranova/2019/55",
    "short": "HCL Castranova nr. 55/2019",
@@ -29,6 +269,21 @@
      "units": 3,
      "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_55_2019.pdf",
      "sha256": "54d0c845d36178f4fad3b689252ac8b6ec54876dd417071866e524d1a9ac0451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-59-2019",
+   "path": "local/dolj/castranova/2019/59",
+   "short": "HCL Castranova nr. 59/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 59/2019 privind transformarea unor firncjiilor publice ca urmaxe a promovirii in grad profesional Consiliul Local al comunei Castranova, iudetul Doli, inlrunit in sedinta ordinara din data de 18.12.2019. A-vArnedfeinravteudlerde:e aprobare al primarului comunei Castanov4 inregistrat sub t.2382/10 .12.2019; - rapotul nr.2383/10.12.2019 al Secretarului comunei Castratoval _ - prevederile aft.478 alin.l qi a",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_59_2019.pdf",
+     "sha256": "0421ae5f3228a283c0b6e30aebf3ea5872800cc0a47f1d63c5424c19d62add97"
     }
    ]
   },
@@ -59,6 +314,36 @@
      "units": 1,
      "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_62_2019.pdf",
      "sha256": "d3d8006320114a72e2e67b0f1f991c5d1afb395ca3c667530b00b456315109c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-63-2019",
+   "path": "local/dolj/castranova/2019/63",
+   "short": "HCL Castranova nr. 63/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 63/2019 privind rectificarea bugetului local pe anul 2019 cu suma totala de 450 mii lei Consiliul Local al comunei Castanova, judetul Dolj, intnmit de indata, in sedinta extaordinara din data d,e 23 .12.2019 . Av5nd in vedere: - mpoftul intocmit de dna.Stancu Augxtin4 inspector superior, Compartimentul Financiar Contabill - prevederile art.lg si axt.49 alir.4 din Legea m.273/2006 ptivind fimntele publice",
+   "url": "https://primariacastranova.ro/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_63_2019.pdf",
+     "sha256": "be23b7d299d454927e6d7abfd72f4b5e0d5928836def36450e1af7fdd70da9f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--castranova-8-2019",
+   "path": "local/dolj/castranova/2019/8",
+   "short": "HCL Castranova nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 8/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2025/01/HCL_08_din_2019.pdf",
+     "sha256": "f32d55e3018febbf26d5af9f96660ecedb068a3ad2f003d210bd5809965626ae"
     }
    ]
   }

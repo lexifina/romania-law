@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/dolj/dranic/2025",
+"acts": [
+{
+"slug": "hcl-dolj--dranic-28-2025",
+"path": "local/dolj/dranic/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Drănic nr. 28/2025 privind constatarea indeplinirii conditiilor legale de catre consilierul local supleant Dinu Cristiana Consiliul Local Dranic, intrunit in sedinta de ordinara in data de 17.07.2025 la convocarea primarului comunei Dranic",
+"short": "HCL Drănic nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://primariadranic.ro/wp-content/uploads/2025/07/HCL-28.pdf",
+"council": "dolj/dranic",
+"council_name": "Consiliul Local al Comunei Drănic",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/castranova/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--castranova-43-2023",
+   "path": "local/dolj/castranova/2023/43",
+   "short": "HCL Castranova nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Castranova nr. 43/2023 privind alegerea președintelui de ședință al Consiliului local Albești pentru ședințele din lunile,septembrie – noiembrie 2023",
+   "url": "https://primariacastranova.ro/wp-content/uploads/2023/11/1-HOTARARE-PRESEDINTE-SEDINTA-CL-DECEMBRIE.pdf",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://primariacastranova.ro/wp-content/uploads/2023/11/1-HOTARARE-PRESEDINTE-SEDINTA-CL-DECEMBRIE.pdf",
+     "sha256": "78685114b10ca947f784229da5f9974966d55e84b508e251fbfea8c97826f102"
+    }
+   ]
+  }
+ ]
+}

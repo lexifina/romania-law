@@ -3,6 +3,21 @@
  "shard": "local/dolj/goiesti/2015",
  "acts": [
   {
+   "slug": "hcl-dolj--goiesti-27-2015",
+   "path": "local/dolj/goiesti/2015/27",
+   "short": "HCL Goiești nr. 27/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 27/2015",
+   "url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.27_din_30.09.2015.pdf",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.27_din_30.09.2015.pdf",
+     "sha256": "1e62f1f3683a9c5bb8c38158d3a4e4b5cd937743eccf0041bb8435b7646ccc2d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--goiesti-32-2015",
    "path": "local/dolj/goiesti/2015/32",
    "short": "HCL Goiești nr. 32/2015",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.32_din_30.10.2015.pdf",
      "sha256": "f94788df479ea662f17e2a915a923e2ba7547c112b1e672b437b4025177977db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-33-2015",
+   "path": "local/dolj/goiesti/2015/33",
+   "short": "HCL Goiești nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 33/2015",
+   "url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.33_din_30.10.2015.pdf",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.33_din_30.10.2015.pdf",
+     "sha256": "c9e4e64e256c9e0c14515f9dbc8465431c0bc62c414a465e78456e1aa62d859a"
     }
    ]
   }

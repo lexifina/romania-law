@@ -311,6 +311,29 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-15-2023",
+"path": "local/dolj/ostroveni/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 15/2023",
+"short": "HCL Ostroveni nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/92503",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-16-2023",
 "path": "local/dolj/ostroveni/2023/16",
 "kind": "local",
@@ -598,6 +621,72 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-29-2023",
+"path": "local/dolj/ostroveni/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 29/2023 privind aprobarea modificarii si completarii HCL nr.50 din 29.07.2022 pentru proiectul cu titlul \"STATII DE REINCARCARE PENTRU VEHICULE ELECTRICE IN COMUNA OSTROVENI\" depus in cadrul Programului privind reducerea emisiilor de gaze cu efect de sera in transporturi, prin promovarea infrastructurii pentru vehicule de transport rutier nepoluant, din punct de vedere energetic: statii de reincarcare vehicule electrice in localitati",
+"short": "HCL Ostroveni nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/104172",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-30-2023",
+"path": "local/dolj/ostroveni/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 30/2023 privind implementarea proiectului Achizitionare UTV in cadrul Serviciului Voluntar pentru Situatii de Urgenta Ostroveni",
+"short": "HCL Ostroveni nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/104173",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-31-2023",
+"path": "local/dolj/ostroveni/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 31/2023 privind aprobarea cererii de finantare si a devizului general pentru Proiectul,,Bransamente la reteaua de apa in comuna Ostroveni, sat Ostroveni, judetul Dolj,,",
+"short": "HCL Ostroveni nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/104174",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-32-2023",
 "path": "local/dolj/ostroveni/2023/32",
 "kind": "local",
@@ -642,6 +731,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-34-2023",
+"path": "local/dolj/ostroveni/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 34/2023 privind aprobarea taxelor distincte și taxei de salubrizare",
+"short": "HCL Ostroveni nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/107939",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-35-2023",
 "path": "local/dolj/ostroveni/2023/35",
 "kind": "local",
@@ -661,6 +772,28 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-36-2023",
+"path": "local/dolj/ostroveni/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 36/2023 privind completarea HCL OSTROVENI nr.26/28.04.2023 privind atestarea unor imobile de uz public local",
+"short": "HCL Ostroveni nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/107941",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -686,6 +819,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-38-2023",
+"path": "local/dolj/ostroveni/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 38/2023 privind inchirierea prin licitatie publica a imobilului Dispensar -Centrul Multifunctional Listeava",
+"short": "HCL Ostroveni nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/110350",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-39-2023",
 "path": "local/dolj/ostroveni/2023/39",
 "kind": "local",
@@ -705,6 +860,28 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-40-2023",
+"path": "local/dolj/ostroveni/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 40/2023 privind acordarea unui sprijin financiar Parohiei Grindeni",
+"short": "HCL Ostroveni nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-04",
+"latest": "2023-12-04",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/115202",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -752,6 +929,51 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-43-2023",
+"path": "local/dolj/ostroveni/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 43/2023 privind modificarea Hotărârii nr. 24/20.04.2023 privind aprobarea proiectului ”Biblioteca - hub activ de învățare digitală pentru comunitatea județului Dolj,, din Planul Național de Redresare și Reziliență (PNRR), Pilonul II, Componenta 7 – Transformare digitală, Investiția I17, a cheltuielilor legate de proiect și a acordului de parteneriat",
+"short": "HCL Ostroveni nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-08",
+"latest": "2023-08-08",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/115793",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-44-2023",
+"path": "local/dolj/ostroveni/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 44/2023",
+"short": "HCL Ostroveni nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/117295",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-45-2023",
 "path": "local/dolj/ostroveni/2023/45",
 "kind": "local",
@@ -771,6 +993,72 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-46-2023",
+"path": "local/dolj/ostroveni/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 46/2023 privind aprobarea Regulamentului de stabilire a metodologiei de atribuire a terenurilor in baza Legii nr. 15/2003,republicata,privind spijinul acordat tinerilor pentru construirea unei locuinte proprietate personala",
+"short": "HCL Ostroveni nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/117297",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-47-2023",
+"path": "local/dolj/ostroveni/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 47/2023 privind aprobarea Devizului general si Proiectului tehnic ,,Extindere si modernizare sistem de supraveghere video,,in comuna Ostroveni ,judetul Dolj si executia lucrarilor",
+"short": "HCL Ostroveni nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/117298",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-48-2023",
+"path": "local/dolj/ostroveni/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 48/2023 privind aderarii comunei Ostroveni la teritoriul eligibil reprezentat de Asociatia Grup Local Pescaresc ,,Dunarea Dolj,,",
+"short": "HCL Ostroveni nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/117299",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -818,6 +1106,50 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-51-2023",
+"path": "local/dolj/ostroveni/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 51/2023 privind desemnarea a doi reprezentanti ai Consiliului Local Ostroveni in Consiliul de Administratie al Scolii Gimnaziale Ostroveni",
+"short": "HCL Ostroveni nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/126591",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-52-2023",
+"path": "local/dolj/ostroveni/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 52/2023 privind desemnarea unui reprezentant al Consiliului Local Ostroveni in Comisia de Evaluare si Asigurare a Calitatii a Scolii Gimnaziale Ostroveni",
+"short": "HCL Ostroveni nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/126592",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-53-2023",
 "path": "local/dolj/ostroveni/2023/53",
 "kind": "local",
@@ -837,6 +1169,50 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-54-2023",
+"path": "local/dolj/ostroveni/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 54/2023 privind aprobarea Organigramei si Statului de functii al aparatului de specialitate al primarului comunei Ostroveni si a serviciilor publice din subordinea Consiliului Local Ostroveni",
+"short": "HCL Ostroveni nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/126594",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-55-2023",
+"path": "local/dolj/ostroveni/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 55/2023 privind Actul Adițional nr. 2 la Contractul nr. 1818/30.06.2022 ”Delegarea prin concesionare a operării instalațiilor de gestionare a deșeurilor municipale realizate în cadrul proiectului Sistem de Management Integrat al Deșeurilor în Județul Dolj” și Actul Adițional nr. 1 la Contractul nr. 1188/11.05.2023 ”Delegarea gestiunii activității de eliminare prin depozitare a deșeurilor la Depozitul Ecologic de Deșeuri Mofleni-Craiova”",
+"short": "HCL Ostroveni nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-30",
+"latest": "2023-10-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/126595",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

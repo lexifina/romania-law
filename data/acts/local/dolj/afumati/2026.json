@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-2-2026",
+"path": "local/dolj/afumati/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 2/2026 privind aprobarea Raportului privind activitatea desfasurata de asistentii persoanli ai persoanelor cu handicap pentru semestrul II al anului 2025",
+"short": "HCL Afumați nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293428",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--afumati-3-2026",
 "path": "local/dolj/afumati/2026/3",
 "kind": "local",
@@ -113,6 +135,73 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-7-2026",
+"path": "local/dolj/afumati/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 7/2026 privind închirierea, prin licitație publică, a suprąfeței de 1500 mp, teren intravilan, situat în Comuna Afumați, Sat Boureni, Calea Băileștiului, nr.115 A, județul Dolj",
+"short": "HCL Afumați nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293433",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-8-2026",
+"path": "local/dolj/afumati/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 8/2026 privind desemnarea reprezentantului Consiliului Local Afumati în comisia de evaluare a ofertelor depuse pentru închirierea și concesionarea bunurilor proprietate publică/privată",
+"short": "HCL Afumați nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293439",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-9-2026",
+"path": "local/dolj/afumati/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 9/2026",
+"short": "HCL Afumați nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293444",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--afumati-10-2026",
 "path": "local/dolj/afumati/2026/10",
 "kind": "local",
@@ -132,6 +221,28 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-11-2026",
+"path": "local/dolj/afumati/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 11/2026 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Afumati pentru activitatea desfasurată în anul 2025",
+"short": "HCL Afumați nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-15",
+"latest": "2026-10-15",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/293446",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

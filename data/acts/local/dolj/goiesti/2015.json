@@ -3,6 +3,29 @@
 "shard": "local/dolj/goiesti/2015",
 "acts": [
 {
+"slug": "hcl-dolj--goiesti-27-2015",
+"path": "local/dolj/goiesti/2015/27",
+"kind": "local",
+"year": "2015",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Goiești nr. 27/2015",
+"short": "HCL Goiești nr. 27/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-09-30",
+"latest": "2015-09-30",
+"portal": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.27_din_30.09.2015.pdf",
+"council": "dolj/goiesti",
+"council_name": "Consiliul Local al Comunei Goiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--goiesti-32-2015",
 "path": "local/dolj/goiesti/2015/32",
 "kind": "local",
@@ -22,6 +45,29 @@
 "council_name": "Consiliul Local al Comunei Goiești",
 "flags": {
 "text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--goiesti-33-2015",
+"path": "local/dolj/goiesti/2015/33",
+"kind": "local",
+"year": "2015",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Goiești nr. 33/2015",
+"short": "HCL Goiești nr. 33/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-10-30",
+"latest": "2015-10-30",
+"portal": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.33_din_30.10.2015.pdf",
+"council": "dolj/goiesti",
+"council_name": "Consiliul Local al Comunei Goiești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 }

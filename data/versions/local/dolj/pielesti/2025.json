@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-11-2025",
+   "path": "local/dolj/pielesti/2025/11",
+   "short": "HCL Pielești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 11/2025 privind ,,Desemnarea președintelui de ședință pentru lunile februarie- aprilie 2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/189509",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/189509",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-110-2025",
    "path": "local/dolj/pielesti/2025/110",
    "short": "HCL Pielești nr. 110/2025",
@@ -193,6 +208,36 @@
      "from": "2026-08-25",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/225406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-111-2025",
+   "path": "local/dolj/pielesti/2025/111",
+   "short": "HCL Pielești nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 111/2025 privind ,, Aprobarea raportului de evaluare și a studiului de oportunitate privind concesionarea suprafeței de 200 mp, situați în T 14 P 69 având nr cadastral 51543 Pielești – domeniul privat al UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/226557",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/226557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-112-2025",
+   "path": "local/dolj/pielesti/2025/112",
+   "short": "HCL Pielești nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 112/2025 privind ,, Aprobarea raportului de evaluare și a studiului de oportunitate privind concesionarea suprafeței de 4659 mp, reprezentat de DE 294 având nr cadastral 44011 Pielești – domeniul public al UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/226558",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/226558",
      "sha256": null
     }
    ]
@@ -258,6 +303,111 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-117-2025",
+   "path": "local/dolj/pielesti/2025/117",
+   "short": "HCL Pielești nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 117/2025 privind ,,Desemnarea reprezentantului Consiliului Local Pielești în cadrul Grupului de acțiune antibullying al Școlii Gimnaziale Pielești, în anul școlar 2025/2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/226563",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/226563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-118-2025",
+   "path": "local/dolj/pielesti/2025/118",
+   "short": "HCL Pielești nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 118/2025 privind ,, Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei de Evaluare și Asigurare a Calității (CEAC) a Școlii Gimnaziale Pielești, în anul școlar 2025-2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/226564",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/226564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-119-2025",
+   "path": "local/dolj/pielesti/2025/119",
+   "short": "HCL Pielești nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 119/2025 privind ,,Desemnarea reprezentantului Consiliului Local Pielești în cadrul Consiliului de administrație al Școlii Gimnaziale Pielești, în anul școlar 2025/2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/226565",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/226565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-12-2025",
+   "path": "local/dolj/pielesti/2025/12",
+   "short": "HCL Pielești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 12/2025 privind ... Desemnarea reprezentantului Consiliului Local Pielești în cadrul Consiliului de Administrație al Grădiniței cu Program Prelungit ,, Sfântul Efrem cel Nou,, pentru anul școlar 2024-2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/189510",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/189510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-120-2025",
+   "path": "local/dolj/pielesti/2025/120",
+   "short": "HCL Pielești nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 120/2025 privind ,,Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei de Evaluare și Asigurare a Calității (CEAC) a Grădiniței cu Program Prelungit Sfântul Efrem cel Nou, în anul școlar 2025/2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/226566",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/226566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-121-2025",
+   "path": "local/dolj/pielesti/2025/121",
+   "short": "HCL Pielești nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 121/2025 privind ,,Desemnarea reprezentantului Consiliului Local Pielești în cadrul Consiliului de administrație al Grădiniței cu Program Prelungit Sfântul Efrem cel Nou, în anul școlar 2025/2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/226567",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/226567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-122-2025",
+   "path": "local/dolj/pielesti/2025/122",
+   "short": "HCL Pielești nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 122/2025 privind ,,Desemnarea reprezentantului Consiliului Local Pielești în cadrul Grupului de acțiune antibullying al a Grădiniței cu Program Prelungit Sfântul Efrem cel Nou, în anul școlar 2025/2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/226568",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/226568",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-123-2025",
    "path": "local/dolj/pielesti/2025/123",
    "short": "HCL Pielești nr. 123/2025",
@@ -318,6 +468,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-127-2025",
+   "path": "local/dolj/pielesti/2025/127",
+   "short": "HCL Pielești nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 127/2025 privind ,, Prelungirea mandatului administratorilor provizorii numiți la conducerea intreprinderii SPADIA Pielești SRL, pe o perioadă de 5 luni, perioadă necesară finalizării procedurii de selecție a administratorilor ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/231169",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/231169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-128-2025",
+   "path": "local/dolj/pielesti/2025/128",
+   "short": "HCL Pielești nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 128/2025 privind ,, Constatarea necesității declanșării procedurii de selecție și numire a administratorilor la intreprinderea SPADIA Pielești SRL și respectiv la SC Serviciu de Gospodărie Comunală Pielești SRL,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/231170",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/231170",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-129-2025",
    "path": "local/dolj/pielesti/2025/129",
    "short": "HCL Pielești nr. 129/2025",
@@ -328,6 +508,21 @@
      "from": "2026-08-25",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/232717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-13-2025",
+   "path": "local/dolj/pielesti/2025/13",
+   "short": "HCL Pielești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 13/2025 privind ,, Desemnarea reprezentantului Consiliului Local Pielești în cadrul Comisiei de Evaluare și Asigurare a Calității (CEAC) al Grădiniței cu Program Prelungit ,, Sfântul Efrem cel Nou,, în anul școlar 2024-2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/189511",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/189511",
      "sha256": null
     }
    ]
@@ -348,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-131-2025",
+   "path": "local/dolj/pielesti/2025/131",
+   "short": "HCL Pielești nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 131/2025",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/232719",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/232719",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-132-2025",
    "path": "local/dolj/pielesti/2025/132",
    "short": "HCL Pielești nr. 132/2025",
@@ -358,6 +568,21 @@
      "from": "2026-08-25",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/232720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-133-2025",
+   "path": "local/dolj/pielesti/2025/133",
+   "short": "HCL Pielești nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 133/2025 privind ,, Desemnarea președintelui de ședință al Consiliului Local Pielești aferent lunilor noiembrie-decembrie 2025 și respectiv în luna ianuarie 2026,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/232721",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/232721",
      "sha256": null
     }
    ]
@@ -723,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-156-2025",
+   "path": "local/dolj/pielesti/2025/156",
+   "short": "HCL Pielești nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 156/2025 privind ,, Prelungirea mandatului administratorului provizoriu al SC Serviciu de Gospodărire Comunală Pielești SRL, pe o perioadă de două luni, până la finalizarea procedurii de selecție,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/237664",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/237664",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-157-2025",
    "path": "local/dolj/pielesti/2025/157",
    "short": "HCL Pielești nr. 157/2025",
@@ -763,6 +1003,21 @@
      "from": "2025-12-23",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/237667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-16-2025",
+   "path": "local/dolj/pielesti/2025/16",
+   "short": "HCL Pielești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 16/2025 privind ,, Mandatarea primarului comunei Pielești, să aprobe si să voteze în Adunarea Generală a Asociaților Asociației Salubris Dolj modificarea Statutului Asociatiei Salubris Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/189514",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/189514",
      "sha256": null
     }
    ]
@@ -1158,6 +1413,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-24-2025",
+   "path": "local/dolj/pielesti/2025/24",
+   "short": "HCL Pielești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 24/2025 privind,, Mandatarea Primarului Comunei Pielești să voteze pe seama Consiliului Local Pielești acceptarea de noi membrii și modificarea Statutului Asociației de Dezvoltare Intercomunitară Oltenia,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/192939",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/192939",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-25-2025",
    "path": "local/dolj/pielesti/2025/25",
    "short": "HCL Pielești nr. 25/2025",
@@ -1228,6 +1498,21 @@
      "from": "2025-02-20",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/192944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-3-2025",
+   "path": "local/dolj/pielesti/2025/3",
+   "short": "HCL Pielești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 3/2025",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/185968",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/185968",
      "sha256": null
     }
    ]
@@ -1533,6 +1818,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-49-2025",
+   "path": "local/dolj/pielesti/2025/49",
+   "short": "HCL Pielești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 49/2025 privind ,,Desemnarea președintelui de ședință pentru lunile mai-iulie 2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/204336",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/204336",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-5-2025",
    "path": "local/dolj/pielesti/2025/5",
    "short": "HCL Pielești nr. 5/2025",
@@ -1678,6 +1978,21 @@
      "from": "2025-05-29",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/209823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-59-2025",
+   "path": "local/dolj/pielesti/2025/59",
+   "short": "HCL Pielești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 59/2025",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/209824",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/209824",
      "sha256": null
     }
    ]
@@ -1863,6 +2178,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-70-2025",
+   "path": "local/dolj/pielesti/2025/70",
+   "short": "HCL Pielești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 70/2025 privind ,, Însușirea propunerii de concesionare a terenului situat în zona Sondei nr 815 Ghercești în suprafață de 2051 mp, reprezentat de DE 294 Pielești, domeniul public al Comunei Pielești, având nr cadastral 44011 Pielești ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/214613",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/214613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-71-2025",
+   "path": "local/dolj/pielesti/2025/71",
+   "short": "HCL Pielești nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 71/2025 privind ,, Însușirea propunerii de concesionare a terenului situat în zona Sondei nr 805 Ghercești, în suprafață de 200 mp, reprezentat de terenul extravilan situat în T 14 P 69, domeniul privat al Comunei Pielești, având nr cadastral 51543 Pielești ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/214614",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/214614",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-72-2025",
    "path": "local/dolj/pielesti/2025/72",
    "short": "HCL Pielești nr. 72/2025",
@@ -1968,6 +2313,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-79-2025",
+   "path": "local/dolj/pielesti/2025/79",
+   "short": "HCL Pielești nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 79/2025 privind ,,Desemnarea președintelui de ședință pentru lunile august-octombrie 2025,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/217870",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/217870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-8-2025",
+   "path": "local/dolj/pielesti/2025/8",
+   "short": "HCL Pielești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 8/2025 privind ,, Desemnarea Primarului Comunei Pielești în calitate de reprezentant de drept al UAT Comuna Pielești în Adunarea Generala a Asociaților a Asociației Salubris Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/189506",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/189506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-80-2025",
+   "path": "local/dolj/pielesti/2025/80",
+   "short": "HCL Pielești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 80/2025 privind ,, Acordarea unui sprijin financiar în cuantum de 90.000lei Parohiei Pârșani din satul Pielești în vederea efectuării unor lucrări exterioare,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/217871",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/217871",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-81-2025",
    "path": "local/dolj/pielesti/2025/81",
    "short": "HCL Pielești nr. 81/2025",
@@ -2038,6 +2428,36 @@
      "from": "2025-08-14",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/220327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-86-2025",
+   "path": "local/dolj/pielesti/2025/86",
+   "short": "HCL Pielești nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 86/2025",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/220328",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/220328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-87-2025",
+   "path": "local/dolj/pielesti/2025/87",
+   "short": "HCL Pielești nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 87/2025",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/220329",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/220329",
      "sha256": null
     }
    ]
@@ -2163,6 +2583,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--pielesti-95-2025",
+   "path": "local/dolj/pielesti/2025/95",
+   "short": "HCL Pielești nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 95/2025 privind ,, Acordarea unui sprijin financiar în cuantum de 60.000lei Parohiei Nichitoaia din satul Pielești în vederea efectuării unei capele la biserica parohială,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/223294",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/223294",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--pielesti-96-2025",
    "path": "local/dolj/pielesti/2025/96",
    "short": "HCL Pielești nr. 96/2025",
@@ -2173,6 +2608,21 @@
      "from": "2026-08-25",
      "units": 1,
      "source_url": "https://emol.ro/pielesti-dj/registru-hcl/223295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-97-2025",
+   "path": "local/dolj/pielesti/2025/97",
+   "short": "HCL Pielești nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 97/2025",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/223296",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/223296",
      "sha256": null
     }
    ]

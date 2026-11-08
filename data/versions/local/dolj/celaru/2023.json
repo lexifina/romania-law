@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/celaru/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--celaru-19-2023",
+   "path": "local/dolj/celaru/2023/19",
+   "short": "HCL Celaru nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Celaru nr. 19/2023 Privind aprobarea un Protocolului de colaborare intre Prirndria comunei CELARU Ei SC Salubritate Craiova SRL (operatorul), cu sediul in Craiova, str",
+   "url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-19.pdf",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-19.pdf",
+     "sha256": "cfc793f38d3d53c60a1aa32b9d41fe0dec977eb4952e005e565e9a94b45a3902"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--celaru-21-2023",
+   "path": "local/dolj/celaru/2023/21",
+   "short": "HCL Celaru nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Celaru nr. 21/2023 Privind aprobarea incheierii unui contract de servicii de consultan[d, asistenld Ei reprezentare juridicd, a UAT CELARU, judelul Dolj, pentru demararea procedurilor juridice in vederea recuperSrii de la Ministerul Dezvoltdrii, LucrSrilor Publice qi Administratiei a sumelor de bani cheltuite de cdtre UAT Celaru I^n conformitate cu sentinla civild nr.188127.01.2020 pronunfatd in dosarul nr.3588/6312",
+   "url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-21.pdf",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-21.pdf",
+     "sha256": "7cbb365c63275ba5902d5fc74a0c336db62d09160eacb8fd24b81656a4e6a33b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--celaru-3-2023",
+   "path": "local/dolj/celaru/2023/3",
+   "short": "HCL Celaru nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Celaru nr. 3/2023 PRIVIND APROBAREA PROPTNERII DE RETEA $COLARA PENTRU ANUL $COLAR 2023 -2024, LA NIVELUL COMUNEI CELARU, JUDETUL DOLJ",
+   "url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-3.pdf",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-3.pdf",
+     "sha256": "42e9d02227c1d3d825869e11ab6edbb963ef5e78babf4c60f049e00defbca5c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--celaru-45-2023",
+   "path": "local/dolj/celaru/2023/45",
+   "short": "HCL Celaru nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Celaru nr. 45/2023 Privind acordarea unui stimurent ,nanciar pentru nou-nascutii din Comuna Celaru, judetul ilolj. consiliul Local al comunei CELARU , intrunit in gedinta oRDTNARA din data de 04.04.2023 Avand in vedere ; - Proiectului de Hotarare in conformitate cu preveclerile Legii nr. 52/2003 -privind transparenta clecizionala in aclrninistratia publica. repLrblicata. cu modiflcarile si completarile ulterioare Ra",
+   "url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-45.pdf",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-45.pdf",
+     "sha256": "43dfd493d1d705ccf3d43d922724b8b7f31639ebe2655733499a401d679d41df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--celaru-49-2023",
+   "path": "local/dolj/celaru/2023/49",
+   "short": "HCL Celaru nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Celaru nr. 49/2023 privind aprobarea incheierii unui contract de servicii de consultan[5, asisten[5 gi reprezentare juridicd, a UAT CELARU, Consiliul Local al comunei Celaru, Primiria comunei Celaru, Comisia Locali de Fond Funciar Celaru, jude[ul Dolj, in fala instanlelor de judecatd de pe teritoriul Rom6niei Consiliul Local aI comunei CELARII, intrunit in qedin{a EXTRAORDINARA din data de 19.05. 2023 Avand in veder",
+   "url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-49.pdf",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/01/HCL-nr.-49.pdf",
+     "sha256": "285ee0eb5fffe0b370e53ff9439a9a90ab2dd30c862f5c8bc61db06d7a41e10c"
+    }
+   ]
+  }
+ ]
+}

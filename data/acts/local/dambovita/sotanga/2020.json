@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-2-2020",
+"path": "local/dambovita/sotanga/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 2/2020 privind stabilirea salariilor de baza pentru salariații Primăriei comunei Șotânga",
+"short": "HCL Șotânga nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-09",
+"latest": "2020-01-09",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/1422",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-3-2020",
 "path": "local/dambovita/sotanga/2020/3",
 "kind": "local",
@@ -245,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-13-2020",
+"path": "local/dambovita/sotanga/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 13/2020 privind scutirea/reducerea taxei de habitat în anul fiscal 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/1448",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-14-2020",
 "path": "local/dambovita/sotanga/2020/14",
 "kind": "local",
@@ -333,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-18-2020",
+"path": "local/dambovita/sotanga/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 18/2020 privind propunerea calificativului la evaluarea performanțelor profesionale individuale ale secretarului general al comunei pentru anul 2019",
+"short": "HCL Șotânga nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/1453",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-19-2020",
 "path": "local/dambovita/sotanga/2020/19",
 "kind": "local",
@@ -396,6 +462,28 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-22-2020",
+"path": "local/dambovita/sotanga/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 22/2020 privind scutirea/reducerea taxei de habitat în anul fiscal 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/1457",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -487,6 +575,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-27-2020",
+"path": "local/dambovita/sotanga/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 27/2020 privind aprobarea documentației în vederea închirierii islazului comunal",
+"short": "HCL Șotânga nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/1467",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-28-2020",
 "path": "local/dambovita/sotanga/2020/28",
 "kind": "local",
@@ -550,6 +660,28 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-31-2020",
+"path": "local/dambovita/sotanga/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 31/2020 privind scutirea/reducerea taxei de habitat în anul fiscal 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/1471",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -708,6 +840,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-39-2020",
+"path": "local/dambovita/sotanga/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 39/2020 privind însușirea parteneriatului pentru vânzarea de lemn pentru foc, înregistrat sub nr. 3707/2020, dintre Ocolul Silvic Sturzeni și Primăria comunei Șotânga",
+"short": "HCL Șotânga nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/1479",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-40-2020",
 "path": "local/dambovita/sotanga/2020/40",
 "kind": "local",
@@ -863,6 +1017,94 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-47-2020",
+"path": "local/dambovita/sotanga/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 47/2020 privind validarea dispoziției primarului comunei Șotânga nr. 165/15.05.2020 privind rectificarea bugetului local al comunei Șotânga pe anul 2020",
+"short": "HCL Șotânga nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/3342",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-48-2020",
+"path": "local/dambovita/sotanga/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 48/2020 privind modificarea și completarea Programului anual al achizițiilor publice aferente anului 2020",
+"short": "HCL Șotânga nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/3343",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-49-2020",
+"path": "local/dambovita/sotanga/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 49/2020 privind aprobarea igienizării islazurilor comunale prin contribuție voluntară în natură",
+"short": "HCL Șotânga nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/3344",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-50-2020",
+"path": "local/dambovita/sotanga/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 50/2020 privind însușirea contractului de sponsorizare având ca obiect 500 buc măști de protecție",
+"short": "HCL Șotânga nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/3345",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-51-2020",
 "path": "local/dambovita/sotanga/2020/51",
 "kind": "local",
@@ -882,6 +1124,28 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-52-2020",
+"path": "local/dambovita/sotanga/2020/52",
+"kind": "local",
+"year": "2020",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 52/2020 privind scutirea/reducerea taxei de habitat pe anul 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 52/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/3347",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -951,6 +1215,28 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-56-2020",
+"path": "local/dambovita/sotanga/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 56/2020 privind privind scutirea/reducerea taxei de habitat in anul fiscal 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/5285",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-57-2020",
 "path": "local/dambovita/sotanga/2020/57",
 "kind": "local",
@@ -1015,6 +1301,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-60-2020",
+"path": "local/dambovita/sotanga/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 60/2020 de modificare a Hotărârii Consiliului Local Șotânga nr. 48/2019 privind aprobarea ofertei de cumpărare a imobilelor proprietatea Societății Naționale a Cărbunelui Ploiești prin lichidator judiciar Carduelis Consulting IPURL",
+"short": "HCL Șotânga nr. 60/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/5289",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1170,6 +1478,72 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-68-2020",
+"path": "local/dambovita/sotanga/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 68/2020 privind scutirea/reducerea taxei de habitat in anul fiscal 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 68/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/7004",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-69-2020",
+"path": "local/dambovita/sotanga/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 69/2020 privind modificarea organigramei Primăriei comunei Șotânga",
+"short": "HCL Șotânga nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/7005",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-70-2020",
+"path": "local/dambovita/sotanga/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 70/2020 privind actualizarea Regulamentului de Organizare şi Funcţionare al Primăriei comunei Şotânga",
+"short": "HCL Șotânga nr. 70/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/7006",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1372,6 +1746,50 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-80-2020",
+"path": "local/dambovita/sotanga/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 80/2020 privind aprobarea Protocolului de colaborare cu Asociația Club Off Road București, având ca obiect desfășurarea de evenimente sau competiții",
+"short": "HCL Șotânga nr. 80/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/8266",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-81-2020",
+"path": "local/dambovita/sotanga/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 81/2020 privind completarea Protocolului de predare-primire a imobilelor aflate în administrarea unităților școlare",
+"short": "HCL Șotânga nr. 81/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/8267",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-82-2020",
 "path": "local/dambovita/sotanga/2020/82",
 "kind": "local",
@@ -1416,6 +1834,73 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-84-2020",
+"path": "local/dambovita/sotanga/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 84/2020 privind scutire/reducerea taxei de habitat pe anul 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 84/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/8270",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-85-2020",
+"path": "local/dambovita/sotanga/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 85/2020",
+"short": "HCL Șotânga nr. 85/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/8271",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-86-2020",
+"path": "local/dambovita/sotanga/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 86/2020 privind aprobarea încheierii Protocolului de colaborare între Casa Județeană de Pensii Dâmbovița și autoritatea locală - Primar Comuna Șotânga",
+"short": "HCL Șotânga nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/8272",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-87-2020",
 "path": "local/dambovita/sotanga/2020/87",
 "kind": "local",
@@ -1435,6 +1920,73 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-88-2020",
+"path": "local/dambovita/sotanga/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 88/2020 privind modificarea și completarea Programului anual al achizițiilor publice pentru anul 2020",
+"short": "HCL Șotânga nr. 88/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/8796",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-89-2020",
+"path": "local/dambovita/sotanga/2020/89",
+"kind": "local",
+"year": "2020",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 89/2020",
+"short": "HCL Șotânga nr. 89/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/8797",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-90-2020",
+"path": "local/dambovita/sotanga/2020/90",
+"kind": "local",
+"year": "2020",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 90/2020 privind concesionarea terenurilor aflate în domeniul public și privat al comunei Șotânga în vederea transferului dreptului de proprietate a imobilelor aparținând Societății Naționale a Cărbunelui Ploiești prin contract de vânzare-cumpărare încheiat în formă autentică",
+"short": "HCL Șotânga nr. 90/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-11",
+"latest": "2020-09-11",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/8798",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1479,6 +2031,51 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-93-2020",
+"path": "local/dambovita/sotanga/2020/93",
+"kind": "local",
+"year": "2020",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 93/2020",
+"short": "HCL Șotânga nr. 93/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/9374",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-94-2020",
+"path": "local/dambovita/sotanga/2020/94",
+"kind": "local",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 94/2020 privind scutire/reducerea taxei de habitat pe anul 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 94/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/9375",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1527,6 +2124,51 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-97-2020",
+"path": "local/dambovita/sotanga/2020/97",
+"kind": "local",
+"year": "2020",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 97/2020",
+"short": "HCL Șotânga nr. 97/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-19",
+"latest": "2020-10-19",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/10080",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-98-2020",
+"path": "local/dambovita/sotanga/2020/98",
+"kind": "local",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 98/2020 privind aprobarea sprijinului financiar de la bugetul local al comunei Șotânga pentru Parohia Șotânga și a Protocolului de finanțare încheiat între comuna Șotânga și Parohia Șotânga",
+"short": "HCL Șotânga nr. 98/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-19",
+"latest": "2020-10-19",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/10081",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-99-2020",
 "path": "local/dambovita/sotanga/2020/99",
 "kind": "local",
@@ -1569,6 +2211,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-101-2020",
+"path": "local/dambovita/sotanga/2020/101",
+"kind": "local",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 101/2020 alegerea președintelui de ședință pentru perioada noiembrie 2020 - ianuarie 2021",
+"short": "HCL Șotânga nr. 101/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11530",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-102-2020",
+"path": "local/dambovita/sotanga/2020/102",
+"kind": "local",
+"year": "2020",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 102/2020 privind organizarea și aprobarea componenței comisiilor de specialitate ale consiliului Local al comunei Șotânga",
+"short": "HCL Șotânga nr. 102/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11531",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1616,6 +2302,72 @@
 }
 },
 {
+"slug": "hcl-dambovita--sotanga-105-2020",
+"path": "local/dambovita/sotanga/2020/105",
+"kind": "local",
+"year": "2020",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 105/2020 privind desemnarea reprezentantului unității administrativ-teritoriale comuna Șotânga în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,APA DÂMBOVIȚA”",
+"short": "HCL Șotânga nr. 105/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11594",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-106-2020",
+"path": "local/dambovita/sotanga/2020/106",
+"kind": "local",
+"year": "2020",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 106/2020 privind desemnarea reprezentantului unității administrativ-teritoriale comuna Șotânga în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,Reabilitarea colectării, transportului, depozitării, prelucrării deșeurilor solide în județul Dâmbovița”",
+"short": "HCL Șotânga nr. 106/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11595",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-107-2020",
+"path": "local/dambovita/sotanga/2020/107",
+"kind": "local",
+"year": "2020",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 107/2020 privind desemnarea reprezentantului unității administrativ-teritoriale comuna Șotânga în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,CIVITAS TÂRGOVIȘTE”",
+"short": "HCL Șotânga nr. 107/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11596",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--sotanga-108-2020",
 "path": "local/dambovita/sotanga/2020/108",
 "kind": "local",
@@ -1657,6 +2409,94 @@
 "council_name": "Consiliul Local al Comunei Șotânga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-110-2020",
+"path": "local/dambovita/sotanga/2020/110",
+"kind": "local",
+"year": "2020",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 110/2020 privind aprobarea suplimentarii sprijinului financiar de la bugetul local al comunei Șotânga pentru Parohia Șotânga și a Actului aditional la Protocolul de finanțare încheiat între comuna Șotânga și Parohia Șotânga",
+"short": "HCL Șotânga nr. 110/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11599",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-111-2020",
+"path": "local/dambovita/sotanga/2020/111",
+"kind": "local",
+"year": "2020",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 111/2020 privind aprobarea comisiei de analiză a cererilor adresate de către persoanele singure/familiile care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 111/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11600",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-112-2020",
+"path": "local/dambovita/sotanga/2020/112",
+"kind": "local",
+"year": "2020",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 112/2020 privind scutirea/reducerea taxei de habitat în anul fiscal 2020 a persoanelor singure/familiilor care s-au adresat cu cereri",
+"short": "HCL Șotânga nr. 112/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11601",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--sotanga-113-2020",
+"path": "local/dambovita/sotanga/2020/113",
+"kind": "local",
+"year": "2020",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 113/2020 privind desemnarea reprezentantului unității administrativ-teritoriale comuna Șotânga în Adunarea Generală a Asociației Comunelor din România",
+"short": "HCL Șotânga nr. 113/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-17",
+"latest": "2020-11-17",
+"portal": "https://emol.ro/sotanga-db/registru-hcl/11602",
+"council": "dambovita/sotanga",
+"council_name": "Consiliul Local al Comunei Șotânga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

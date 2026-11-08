@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-10-2013",
+   "path": "local/dolj/bradesti/2013/10",
+   "short": "HCL Brădești nr. 10/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 10/2013 privind pasunatul pe islazul si suprafetele de pajisti permanente ale comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL10_2013.pdf",
+     "sha256": "efd8b4994ba01a91a185fcf6e55eaf5e1e4743fb2ca400db7a698534a7289f50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-12-2013",
+   "path": "local/dolj/bradesti/2013/12",
+   "short": "HCL Brădești nr. 12/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 12/2013 privind aprobarea Planului pe anul 2013 pentru prestarea orelor de munca de beneficiarii de ajutor social) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL12_2013.pdf",
+     "sha256": "761ab835ea3e416302a1c63d58758837a7a25f3c0ca9a580c2085dfe05f14988"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-13-2013",
    "path": "local/dolj/bradesti/2013/13",
    "short": "HCL Brădești nr. 13/2013",
@@ -29,6 +59,66 @@
      "units": 3,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL13_2013.pdf",
      "sha256": "82156c83a3f7b13d3f7dfcc09f2867fa6356c3fe58f69d9ccdf1b928b6a34f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-14-2013",
+   "path": "local/dolj/bradesti/2013/14",
+   "short": "HCL Brădești nr. 14/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 14/2013 privind inchiderea contului de executie al bugetului local Bradesti pe anul 2012) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL14_2013.pdf",
+     "sha256": "e043c06c09913ff30206688b595ddf5f70e3c77e685941d38cc0ed5a59078baa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-16-2013",
+   "path": "local/dolj/bradesti/2013/16",
+   "short": "HCL Brădești nr. 16/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 16/2013 privind infiintarea Serviciului Public Comunitar al Persoanelor Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL16_2013.pdf",
+     "sha256": "5e61a2640c5e2da99b3b134c161f21a9c8d5d48ae00f356b73e938d205c880d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-18-2013",
+   "path": "local/dolj/bradesti/2013/18",
+   "short": "HCL Brădești nr. 18/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 18/2013 privind mandatarea Primarului com",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL18_2013.pdf",
+     "sha256": "671e92b390e4b589609646f4347d59c4a5c25a09fbb63c51a5b38fcd807c53e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-19-2013",
+   "path": "local/dolj/bradesti/2013/19",
+   "short": "HCL Brădești nr. 19/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 19/2013 privind delegarea gestiunii serviciului de alimentare cu apa catre SC “Companaia de apa Oltenia” SA) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL19_2013.pdf",
+     "sha256": "dab973f0ced459f15ee921775e188ae2d162bc8e191ead4133af1778a1ff08a8"
     }
    ]
   },
@@ -48,6 +138,81 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-20-2013",
+   "path": "local/dolj/bradesti/2013/20",
+   "short": "HCL Brădești nr. 20/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 20/2013 privind implementarea proiectului “Achizitie de utilaje performante pentru Serviciul Comunitar de Utilitati Publice” ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-03-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL20_2013.pdf",
+     "sha256": "f954ff5c7a52cfd5884ee4fcab0c7724d796115f62f6de55b427b07119c8baa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-21-2013",
+   "path": "local/dolj/bradesti/2013/21",
+   "short": "HCL Brădești nr. 21/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 21/2013 privind achitarea comisionului de garantare pentru emiterea scrisorii de garantie de catre FNGCIMM SA IFN) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL21_2013.pdf",
+     "sha256": "b6fd41ad70173e57d09f7ae301325e6e2b5b14a4952060915e4e55049e9ad3ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-22-2013",
+   "path": "local/dolj/bradesti/2013/22",
+   "short": "HCL Brădești nr. 22/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 22/2013 privind aprobarea valorii de investitie a Proiectului integrat “Drumuri de exploatatie…”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL22_2013.pdf",
+     "sha256": "bd3f4d57063236082162a85036ba2c923c7ed0146970ff26a2681916e608f33e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-23-2013",
+   "path": "local/dolj/bradesti/2013/23",
+   "short": "HCL Brădești nr. 23/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 23/2013 privind solicitarea unei scrisori de garantare de la FNGCIMM SA IFN ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL23_2013.pdf",
+     "sha256": "c372c87e9edb32742d572ffde95790d2e2c25e17ad423d98189e51c67e980c3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-24-2013",
+   "path": "local/dolj/bradesti/2013/24",
+   "short": "HCL Brădești nr. 24/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 24/2013 privind contractare firma intocmire documentatie achizitie utilaje pentru Serviciul Comunitare de Utilitati Publice ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL24_2013.pdf",
+     "sha256": "3e20d693ed024ed724e5120ddc1f53bc669c4ec483a024f328951160896a8704"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-25-2013",
    "path": "local/dolj/bradesti/2013/25",
    "short": "HCL Brădești nr. 25/2013",
@@ -59,6 +224,21 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL25_2013.pdf",
      "sha256": "07de729519f5a2b298a86079c071ee9ace656280b8ea030a8e9f6b3cf55f7f59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-26-2013",
+   "path": "local/dolj/bradesti/2013/26",
+   "short": "HCL Brădești nr. 26/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 26/2013 privind aprobarea Planului de paza la nivelul comunei Bradesti ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL26_2013.pdf",
+     "sha256": "92fd79c8282cb82b45941e923c9a5dc7aaa8ff38bd0495afc023d37edfedec87"
     }
    ]
   },
@@ -78,6 +258,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-28-2013",
+   "path": "local/dolj/bradesti/2013/28",
+   "short": "HCL Brădești nr. 28/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 28/2013",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL28_2013.pdf",
+     "sha256": "4c463c1f709a0482a4fbb97b090a6145433c5d1e642976c013509be65e8ec55a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-29-2013",
+   "path": "local/dolj/bradesti/2013/29",
+   "short": "HCL Brădești nr. 29/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 29/2013 privind aprobarea Organigramei si a Satului de functii din aparatul de specialitate al primarului, pe anul 2013 ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL29_2013.pdf",
+     "sha256": "d775fd8ef54dd30b1478ab4c1ff90f373cd0846d8d6c824c4dbc9931a2509e9a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-3-2013",
    "path": "local/dolj/bradesti/2013/3",
    "short": "HCL Brădești nr. 3/2013",
@@ -89,6 +299,81 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL03_2013.pdf",
      "sha256": "13cabd5258ceb23563bcd54fad4666002f6c2ef0d9a9bb698fa6de96f84bd090"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-30-2013",
+   "path": "local/dolj/bradesti/2013/30",
+   "short": "HCL Brădești nr. 30/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 30/2013 privind aprobarea bugetului consolidat de venituri si cheltuieli pe anul 2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL30_2013.pdf",
+     "sha256": "e0b24acb68af0e39741666b85829ed083a27f03228aa7fefaff8a0759ce57541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-31-2013",
+   "path": "local/dolj/bradesti/2013/31",
+   "short": "HCL Brădești nr. 31/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 31/2013 privind aprobarea listei de investitii propuse pentru anul 2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-11",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL31_2013.pdf",
+     "sha256": "4defb6e0532530199a6bb18d78ed951d53a846f544bdda9d69a8655c4299f50a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-32-2013",
+   "path": "local/dolj/bradesti/2013/32",
+   "short": "HCL Brădești nr. 32/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 32/2013 privind acordarea titlului de “Cetatean de onoare” al comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL32_2013.pdf",
+     "sha256": "b40049664e49c768a49ed777025be06838f955418b01611636c0b0c9826bb461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-33-2013",
+   "path": "local/dolj/bradesti/2013/33",
+   "short": "HCL Brădești nr. 33/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 33/2013",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL33_2013.pdf",
+     "sha256": "f605f2557c1c754f527e50b48a5e34ba02bf069c1b8618732372cc5dfd9a58dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-34-2013",
+   "path": "local/dolj/bradesti/2013/34",
+   "short": "HCL Brădești nr. 34/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 34/2013 privind aprobarea sumelor necesare pentru contributia la editarea monografiei comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-04-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL34_2013.pdf",
+     "sha256": "66bdb9b0fd1452df52bc92b46de92398f47f39c03824a96c7e593e5c2c2ea4c8"
     }
    ]
   },
@@ -108,6 +393,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-36-2013",
+   "path": "local/dolj/bradesti/2013/36",
+   "short": "HCL Brădești nr. 36/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 36/2013 privind rectificarea bugetului de venituri si cheltuieli pe anul 2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-05-23",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL36_2013.pdf",
+     "sha256": "4854116c322b496fc244758b34ea4fba72bbefce49e7b70167d68be4a0c07d4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-37-2013",
+   "path": "local/dolj/bradesti/2013/37",
+   "short": "HCL Brădești nr. 37/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 37/2013",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-05-23",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL37_2013.pdf",
+     "sha256": "1372bc6348b2702be3cf86aabe3f8d4edc5a7cdaeda208fe8fc44efdefdee442"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-39-2013",
+   "path": "local/dolj/bradesti/2013/39",
+   "short": "HCL Brădești nr. 39/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 39/2013 privind implementarea proiectului “The American Way – Calea Americana”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL39_2013.pdf",
+     "sha256": "4ff424aa4590226eca0af7d8fb2129e76b1e008410ff540d11e2d0eb480ccc59"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-4-2013",
    "path": "local/dolj/bradesti/2013/4",
    "short": "HCL Brădești nr. 4/2013",
@@ -119,6 +449,21 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL04_2013.pdf",
      "sha256": "084f5ff5a943e8c9874e4313f3a728d73c823dd1d007d14857f29511356224c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-40-2013",
+   "path": "local/dolj/bradesti/2013/40",
+   "short": "HCL Brădești nr. 40/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 40/2013 privind aprobarea contului de incheiere a exercitiului bugetar pe baza de bilant la 31.03.2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL40_2013.pdf",
+     "sha256": "09c348ea792a6d0e9580091287e7854f23727bd847d8e856b8ee304670ad3a4a"
     }
    ]
   },
@@ -138,6 +483,126 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-42-2013",
+   "path": "local/dolj/bradesti/2013/42",
+   "short": "HCL Brădești nr. 42/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 42/2013 privind infiintarea SC “Utilitati Publice Bradesti” SRL avand ca actionar Consiliu Local Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL42_2013.pdf",
+     "sha256": "1928b112766a9d245ceef54b584ee830474880c6759fedc315698e8e1910979f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-43-2013",
+   "path": "local/dolj/bradesti/2013/43",
+   "short": "HCL Brădești nr. 43/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 43/2013 privind acordarea indemnizatiei de handicap numitului Filipescu Luis-Gabriel) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/11/HCL43_2013.pdf",
+     "sha256": "bfbde7569c2008ec201de1a2c981c6d150991660a80fb1cc6eff41f288dce0e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-44-2013",
+   "path": "local/dolj/bradesti/2013/44",
+   "short": "HCL Brădești nr. 44/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 44/2013 privind aprobarea rectificarii organigramei si a Statului de functii din aparatul de specialitate al primarului) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL44_2013.pdf",
+     "sha256": "9155229595ec19bd799d1272192acac9a0109db7b69d8d53da8d6dff51fb5eb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-45-2013",
+   "path": "local/dolj/bradesti/2013/45",
+   "short": "HCL Brădești nr. 45/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 45/2013 privind aprobarea implementarii proiectului “Achizitionarea de mobilier scolar pentru dotarea Scolii Gimnaziale Bradesti “) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL45_2013.pdf",
+     "sha256": "a5c818e68c48a4a2591c72238f3c1f1bab7c636227d505ebf19e7cc9c72d4816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-46-2013",
+   "path": "local/dolj/bradesti/2013/46",
+   "short": "HCL Brădești nr. 46/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 46/2013 privind masurilor de organizare a sarbatorii satesti “Calusul” in Bradestii Batrani) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL46_2013.pdf",
+     "sha256": "5e8456571082d82e53e99cf9b66e75f10eaa32d915324611d2af9fda80381f0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-47-2013",
+   "path": "local/dolj/bradesti/2013/47",
+   "short": "HCL Brădești nr. 47/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 47/2013",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL47_2013.pdf",
+     "sha256": "95693ca66f36e3d4b43659a2ecf8b392bc213829ee06793509abfdc4a9658ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-48-2013",
+   "path": "local/dolj/bradesti/2013/48",
+   "short": "HCL Brădești nr. 48/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 48/2013 privind rectificarea bugetului local al Primariei comunei Bradesti, pe anul 2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-07-09",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL48_2013.pdf",
+     "sha256": "ea5e5fa57cca4f96d3fefa394344525d9ec74e06c285a8acae3dbea1d604cdf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-49-2013",
+   "path": "local/dolj/bradesti/2013/49",
+   "short": "HCL Brădești nr. 49/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 49/2013 privind modificarea programului de achizitii publice , pe anul 2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-07-09",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL49_2013.pdf",
+     "sha256": "f8287eac8e6a942e1e21da8df2e421d47c071edfb6b7744ba3b774fa0b7a2c1d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-5-2013",
    "path": "local/dolj/bradesti/2013/5",
    "short": "HCL Brădești nr. 5/2013",
@@ -149,6 +614,126 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL05_2013.pdf",
      "sha256": "facd15f30e5ff4d3a23efea8a3b893d4c1bcc9f5b3294b53bcadc60b8c4443b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-50-2013",
+   "path": "local/dolj/bradesti/2013/50",
+   "short": "HCL Brădești nr. 50/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 50/2013 privind imputernicirea Primarului com",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-07-09",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL50_2013.pdf",
+     "sha256": "13924e8d69a0b7c197b2c0dca152819d858eac32acb22162cd192eb0784d4cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-51-2013",
+   "path": "local/dolj/bradesti/2013/51",
+   "short": "HCL Brădești nr. 51/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 51/2013 privind aprobarea rectificarii bugetului local cu suma de 86 mii lei ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-07-15",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL51_2013.pdf",
+     "sha256": "0fe85215585fe1009808c74cda7e2d9e74761bb88561c0304896139e4f3d68c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-52-2013",
+   "path": "local/dolj/bradesti/2013/52",
+   "short": "HCL Brădești nr. 52/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 52/2013 privind organizarea retelei scolare la nivelul comunei Bradesti, Dolj) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL52_2013.pdf",
+     "sha256": "e66e7ec84433b1f20a3344865cb239a270e35f28fd8ee73ac5a38883d9f45f97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-53-2013",
+   "path": "local/dolj/bradesti/2013/53",
+   "short": "HCL Brădești nr. 53/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 53/2013 privind aprobarea rectificarii bugetului local cu suma de 90 mii lei) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL53_2013.pdf",
+     "sha256": "6a81ab80b02e228871202948c4dff199c2ce17f14e6b1aaa2152054ade51c5d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-54-2013",
+   "path": "local/dolj/bradesti/2013/54",
+   "short": "HCL Brădești nr. 54/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 54/2013 privind aprobarea modului de exercitare a dreptului de acces al furnizorilor de retele de comunicatii…) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL54_2013.pdf",
+     "sha256": "78e6ba01f03ba25ebb0a3e3c45ac6e0e6302a0803b154402c6a273264b9e2581"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-55-2013",
+   "path": "local/dolj/bradesti/2013/55",
+   "short": "HCL Brădești nr. 55/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 55/2013 privind aprobarea rectificarii bugetului local cu suma de 4.000 lei) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL55_2013.pdf",
+     "sha256": "8e3a6f9e60ca3d9a71de587770c07d8fa9adcc941078f1cdfa40eb1f8af8bab0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-56-2013",
+   "path": "local/dolj/bradesti/2013/56",
+   "short": "HCL Brădești nr. 56/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 56/2013 privind aprobarea rectificarii bugetului local prin virare de credite) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL56_2013.pdf",
+     "sha256": "50696082815c2ed92b6f7d27dbd83722b6481398eb2b20ff3a6fc4dd994ba034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-57-2013",
+   "path": "local/dolj/bradesti/2013/57",
+   "short": "HCL Brădești nr. 57/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 57/2013 privind inchirierea terenului in suprafata de 3.000 mp, de la SC Barbarosa SRL) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL57_2013.pdf",
+     "sha256": "d103cb65a9d1e422425ca557928ef37b8b6e6a95c5ef22d4a1e68e47630ab526"
     }
    ]
   },
@@ -168,6 +753,66 @@
    ]
   },
   {
+   "slug": "hcl-dolj--bradesti-59-2013",
+   "path": "local/dolj/bradesti/2013/59",
+   "short": "HCL Brădești nr. 59/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 59/2013 privind achizitionarea si instalarea sistemului de supraveghere video pentru cresterea sigurantei cetatenilor) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL59_2013.pdf",
+     "sha256": "d8a39e8acbee17d0f524730df15c80b0069628b628fc84b933d0db699b2cb6eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-6-2013",
+   "path": "local/dolj/bradesti/2013/6",
+   "short": "HCL Brădești nr. 6/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 6/2013 privind stbilirea redeventei pentru cabinetele medicale situate in comuna Bradesti, concesionate medicilor de familie) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL06_2013.pdf",
+     "sha256": "a12f609e61a371616e52a990a2bbeee6b70e0bceb5a0658cdef4fe192c631a27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-60-2013",
+   "path": "local/dolj/bradesti/2013/60",
+   "short": "HCL Brădești nr. 60/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 60/2013 privind aprobarea unui sprijin financiar parohiei Bradestii Batrani) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL60_2013.pdf",
+     "sha256": "6a4e7028ab599ce6440bf5705c6281e93d3342369924f1d519ba13d39873bd26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-61-2013",
+   "path": "local/dolj/bradesti/2013/61",
+   "short": "HCL Brădești nr. 61/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 61/2013 privind rectificarea bugetului local al comunei Bradesti pe anul 2013) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL61_2013.pdf",
+     "sha256": "9847000a1ace35e0908f239670a6c345fa49f7f521ba351227ff51f140386fb1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--bradesti-62-2013",
    "path": "local/dolj/bradesti/2013/62",
    "short": "HCL Brădești nr. 62/2013",
@@ -179,6 +824,351 @@
      "units": 1,
      "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL62_2013.pdf",
      "sha256": "22f80b84a81786578113126db0077e8abf71743fce04cf2ba32470e91377f7a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-64-2013",
+   "path": "local/dolj/bradesti/2013/64",
+   "short": "HCL Brădești nr. 64/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 64/2013 privind organizarea unui referendum local pentru schimbarea denumirii satului Racarii de Jos in Racari) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL64_2013.pdf",
+     "sha256": "f073adeb6dee32542d79921def3be28b712aba2462c4ab8ecadd6d9402373ebe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-65-2013",
+   "path": "local/dolj/bradesti/2013/65",
+   "short": "HCL Brădești nr. 65/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 65/2013 privind mandatarea Primarului comunei Bradesti in A.D.I “Oltenia”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL65_2013.pdf",
+     "sha256": "fc11c35ad129b9170b8a5efd466fb1c8ff3fc7d10e4638b8ffe4919cd91f0044"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-67-2013",
+   "path": "local/dolj/bradesti/2013/67",
+   "short": "HCL Brădești nr. 67/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 67/2013 privind modificarea bugetului local pe anul 2013 prin transfer din fondul de rulment catre Sectiunea Dezvoltare) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL67_2013.pdf",
+     "sha256": "028048d224a83047b6ecae15f3c1bce2d4b3ac01fd7c75751b97c3b859653c05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-68-2013",
+   "path": "local/dolj/bradesti/2013/68",
+   "short": "HCL Brădești nr. 68/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 68/2013 privind rectificarea bugetului local pe trim. IV al anului 2013, prin diminuare plafon cheltuieli de personal) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL68_2013.pdf",
+     "sha256": "a090fcdb29d07b83345124df9dc95b49015eb6e0ad540b9cf19605f4aaf92b5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-69-2013",
+   "path": "local/dolj/bradesti/2013/69",
+   "short": "HCL Brădești nr. 69/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 69/2013 privind aprobarea rectificarii bugetului local al comunei Bradesti, jud. Dolj) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-10-22",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/01/HCL69_2013.pdf",
+     "sha256": "d1ece8152d9316decd6063cc708fd1b2ff9750bb997db5f43aa7c0b72de88912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-7-2013",
+   "path": "local/dolj/bradesti/2013/7",
+   "short": "HCL Brădești nr. 7/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 7/2013 privind investitia “Sistem de canalizare si epurare a apelor uzate, comuna Bradesti, judetul Dolj”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL07_2013.pdf",
+     "sha256": "95936231ee8d9dc5c4fec05c2ab9ce4ac0d4877bf142b32fcf38ee3ed8107f83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-70-2013",
+   "path": "local/dolj/bradesti/2013/70",
+   "short": "HCL Brădești nr. 70/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 70/2013",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-10-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL70_2013.pdf",
+     "sha256": "9e172f6e2f804fdfabaca2f74c03d907a42d60af6dfe0c362794146b370f0cc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-71-2013",
+   "path": "local/dolj/bradesti/2013/71",
+   "short": "HCL Brădești nr. 71/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 71/2013 privind revocarea HCL nr. 64/2013 pentru organizarea unui referendum local) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-10-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL71_2013.pdf",
+     "sha256": "cb121f2ab00ae1d48e64b12cfaf1e317588a58e3e171343401ccd604f7ab2610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-72-2013",
+   "path": "local/dolj/bradesti/2013/72",
+   "short": "HCL Brădești nr. 72/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 72/2013 privind organizarea unui referendum local in satul Racarii de Jos) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-10-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL72_2013.pdf",
+     "sha256": "859bb87dd4a0344d78e590810d0a07d630a2ce53a7403baf28357f73871db837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-73-2013",
+   "path": "local/dolj/bradesti/2013/73",
+   "short": "HCL Brădești nr. 73/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 73/2013 privind aprobarea rectificarii bugetului local al comunei Bradesti, jud. Dolj) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-11-15",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL73_2013.pdf",
+     "sha256": "2574fd7b70051ff8ac766357eb6fd5ca1feaed211a05625caf1a349903cbd023"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-74-2013",
+   "path": "local/dolj/bradesti/2013/74",
+   "short": "HCL Brădești nr. 74/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 74/2013 privind aprobarea documentelor necesare indeplinirii conditiilor de eligibilitate pentru proiectul…) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-11-15",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL74_2013.pdf",
+     "sha256": "2342df1adac7b582047083a905facbaeca1f64148caea4550b9ead41b30b2195"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-75-2013",
+   "path": "local/dolj/bradesti/2013/75",
+   "short": "HCL Brădești nr. 75/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 75/2013 privind aprobarea rectificarii bugetului local al comunei Bradesti, jud. Dolj) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL75_2013.pdf",
+     "sha256": "544e28ee665ab9c4f3fb8b3a15a6a4e823844370301f10f231cfcd12443bd731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-76-2013",
+   "path": "local/dolj/bradesti/2013/76",
+   "short": "HCL Brădești nr. 76/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 76/2013 privind aprobarea achizitionarii de utilaje pentru functionarea compartimentului de utilitati tehnice…) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL76_2013.pdf",
+     "sha256": "aae3602eec3da5dbd59a89a1f203fd29b13f0a48e0eadcad7dec32b66138aa61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-77-2013",
+   "path": "local/dolj/bradesti/2013/77",
+   "short": "HCL Brădești nr. 77/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 77/2013 privind aprobarea contractarii unei firme specializate in deszapezire pe raza comunei Bradesti) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL77_2013.pdf",
+     "sha256": "02b8c3ce9b0a871ea480852c131af4477f19f1967cc2d0fb1550bd121899850f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-78-2013",
+   "path": "local/dolj/bradesti/2013/78",
+   "short": "HCL Brădești nr. 78/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 78/2013 privind aprobarea contractarii unei firme specializate pentru inventarierea si evaluarea patrimoniului comunei Bradesti ) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL78_2013.pdf",
+     "sha256": "fefa7169746591a69d419b7140ba326d16e0b25d809cf90e80700384dac90c7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-79-2013",
+   "path": "local/dolj/bradesti/2013/79",
+   "short": "HCL Brădești nr. 79/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 79/2013 privind aprobarea rectificarii bugetului local al comunei Bradesti, jud. Dolj) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-11-29",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL79_2013.pdf",
+     "sha256": "1649895545d49c331dd7d3de73e3a5c40770c9006d51640ef40235af47b7ff4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-8-2013",
+   "path": "local/dolj/bradesti/2013/8",
+   "short": "HCL Brădești nr. 8/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 8/2013 privind investitia “Modernizare drumuri de interes local in comuna Bradesti, judetul Dolj”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL08_2013.pdf",
+     "sha256": "c61cc3056742ca09b5e5573079602538f3d73d85dafdc3ddc252fab20caff4fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-80-2013",
+   "path": "local/dolj/bradesti/2013/80",
+   "short": "HCL Brădești nr. 80/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 80/2013 privind aprobarea rectificarii bugetului local al comunei Bradesti, jud. Dolj) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL80_2013.pdf",
+     "sha256": "9956d9caddb0b4864654234bc1acad33a5888afdf129327e180100f8b9756bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-81-2013",
+   "path": "local/dolj/bradesti/2013/81",
+   "short": "HCL Brădești nr. 81/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 81/2013 privind aprobarea rectificarii bugetului local al comunei Bradesti, jud. Dolj) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-12-16",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL81_2013.pdf",
+     "sha256": "44f500a037ecbf7127eaf46313899e1464f359a25447ec9cffb356fe38aa69a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-82-2013",
+   "path": "local/dolj/bradesti/2013/82",
+   "short": "HCL Brădești nr. 82/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 82/2013 privind aprobarea rectificarii bugetului local al comunei Bradesti, jud. Dolj) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL82_2013.pdf",
+     "sha256": "bbc93d900d15a7ffd6c4efc744c6cf6be2704e127b0636aaab21e867e6ae1f58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-83-2013",
+   "path": "local/dolj/bradesti/2013/83",
+   "short": "HCL Brădești nr. 83/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 83/2013 privind schimbarea denumirii strazii Vlad Tepes din satul Racarii de Jos, com. Bradesti, in strada Prof",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL83_2013.pdf",
+     "sha256": "bad50fb8d504cdd53351154eeadd10f2101b375909f3491e8d8acd0c857a9cfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-84-2013",
+   "path": "local/dolj/bradesti/2013/84",
+   "short": "HCL Brădești nr. 84/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 84/2013",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2014/02/HCL84_2013.pdf",
+     "sha256": "6ffc8b152aab30d8cfbafd4f9dfd2278c88fc0e354afecb2180a607713b8a11b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--bradesti-9-2013",
+   "path": "local/dolj/bradesti/2013/9",
+   "short": "HCL Brădești nr. 9/2013",
+   "title": "Hotărârea Consiliului Local al Comunei Brădești nr. 9/2013 privind achitarea cotizatiei anuale si a taxei e aplicant a comunei Bradesti, ca membru al parteneriatului “Gal Amaradia Jiu”) [ ... ]",
+   "url": "http://www.primariabradesti.ro/arhiva-2013/",
+   "versions": [
+    {
+     "from": "2013-02-13",
+     "units": 1,
+     "source_url": "http://www.primariabradesti.ro/wp-content/uploads/2013/09/HCL09_2013.pdf",
+     "sha256": "f5d341f91ab4f7dd8042a23c4c968a238b33c2b5b802cf94215b9feca60c9bee"
     }
    ]
   }

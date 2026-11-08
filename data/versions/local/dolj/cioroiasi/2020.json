@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-10-2020",
+   "path": "local/dolj/cioroiasi/2020/10",
+   "short": "HCL Cioroiași nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 10/2020 privind aprobarea numarului estimativ de beneficiari ai tichetelor sociale pentru anul 2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1986",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1986",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-11-2020",
    "path": "local/dolj/cioroiasi/2020/11",
    "short": "HCL Cioroiași nr. 11/2020",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--cioroiasi-14-2020",
+   "path": "local/dolj/cioroiasi/2020/14",
+   "short": "HCL Cioroiași nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 14/2020 privind alegerea presedintelui de sedinta pe o perioada de 3 luni incepand cu luna martie 2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1990",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1990",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--cioroiasi-15-2020",
    "path": "local/dolj/cioroiasi/2020/15",
    "short": "HCL Cioroiași nr. 15/2020",
@@ -73,6 +103,21 @@
      "from": "2020-03-18",
      "units": 1,
      "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--cioroiasi-16-2020",
+   "path": "local/dolj/cioroiasi/2020/16",
+   "short": "HCL Cioroiași nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 16/2020",
+   "url": "https://emol.ro/cioroiasi-dj/registru-hcl/1992",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cioroiasi-dj/registru-hcl/1992",
      "sha256": null
     }
    ]

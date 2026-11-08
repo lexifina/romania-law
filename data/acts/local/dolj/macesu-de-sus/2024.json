@@ -3,6 +3,95 @@
 "shard": "local/dolj/macesu-de-sus/2024",
 "acts": [
 {
+"slug": "hcl-dolj--macesu-de-sus-1-2024",
+"path": "local/dolj/macesu-de-sus/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 1/2024 privind privind aprobarea ordinii de zi a şedinţei extraordinare de lucru a Consiliului Local al Comunei Macesu de Sus , din 09.01.2024",
+"short": "HCL Măceșu de Sus nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/143670",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-2-2024",
+"path": "local/dolj/macesu-de-sus/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 2/2024",
+"short": "HCL Măceșu de Sus nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/143671",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-3-2024",
+"path": "local/dolj/macesu-de-sus/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 3/2024 privind organizarea retelei scolare pentru anul scolar 2024-2025",
+"short": "HCL Măceșu de Sus nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/143672",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-4-2024",
+"path": "local/dolj/macesu-de-sus/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 4/2024 privind aprobarea ordinii de zi a şedinţei ordinare de lucru a Consiliului Local al Comunei Macesu de Sus , din 30.01.2024",
+"short": "HCL Măceșu de Sus nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/143721",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-5-2024",
 "path": "local/dolj/macesu-de-sus/2024/5",
 "kind": "local",
@@ -157,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-12-2024",
+"path": "local/dolj/macesu-de-sus/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 12/2024 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Macesu de Sus , pentru perioada februarie – aprilie 2024",
+"short": "HCL Măceșu de Sus nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/143729",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-13-2024",
 "path": "local/dolj/macesu-de-sus/2024/13",
 "kind": "local",
@@ -176,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Măceșu de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-14-2024",
+"path": "local/dolj/macesu-de-sus/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 14/2024 privind aprobarea bugetului de venituri si cheltuieli pe anul 2024",
+"short": "HCL Măceșu de Sus nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/143742",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +466,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-22-2024",
+"path": "local/dolj/macesu-de-sus/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 22/2024 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Macesu de Sus",
+"short": "HCL Măceșu de Sus nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-09",
+"latest": "2024-10-09",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/171492",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-24-2024",
 "path": "local/dolj/macesu-de-sus/2024/24",
 "kind": "local",
@@ -462,6 +617,28 @@
 "council_name": "Consiliul Local al Comunei Măceșu de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-30-2024",
+"path": "local/dolj/macesu-de-sus/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 30/2024 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Macesu de Sus , pentru perioada iulie 2024 -septembrie 2024",
+"short": "HCL Măceșu de Sus nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-09",
+"latest": "2024-10-09",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/171516",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -751,6 +928,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-44-2024",
+"path": "local/dolj/macesu-de-sus/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 44/2024 privind desemnarea preşedintelui de şedinţă al Consiliului Local al comunei Macesu de Sus , pentru perioada octombrie – decembrie 2024",
+"short": "HCL Măceșu de Sus nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/180410",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-45-2024",
 "path": "local/dolj/macesu-de-sus/2024/45",
 "kind": "local",
@@ -902,6 +1101,28 @@
 "council_name": "Consiliul Local al Comunei Măceșu de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-52-2024",
+"path": "local/dolj/macesu-de-sus/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 52/2024 privind desemnarea presedintelui de sedinta pentru perioada noiembrie , decembrie 2024 respectiv ianuarie 2025",
+"short": "HCL Măceșu de Sus nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/187995",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

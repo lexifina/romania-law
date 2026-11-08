@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/goiesti/2016",
+ "acts": [
+  {
+   "slug": "hcl-dolj--goiesti-2-2016",
+   "path": "local/dolj/goiesti/2016/2",
+   "short": "HCL Goiești nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 2/2016",
+   "url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.2_din_29.01.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.2_din_29.01.2016.pdf",
+     "sha256": "9c4efb394c4e20cc39db0dbaa90dd7b48d582d3ac2a47ca5a9dab113cae07725"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-4-2016",
+   "path": "local/dolj/goiesti/2016/4",
+   "short": "HCL Goiești nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 4/2016 Privind aprobare program de achizi[ii publice pentru 2016 Consiliul Local Goiegti intrunit in gedin[a ordinare din data de 19.02.2016 Av6nd in vedere: -referatulintocmit de citre compartimentul intern de achizi[ii publce ,inregistrat sub nr.628 din 10.02.2015,prin care se propune spre aprobare Programulanualde achizitiipentru anul2016 -proiectul de hotdrAre iniliat de cdtre consilierii comisiei de",
+   "url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.4_din_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-02-19",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.4_din_2016.pdf",
+     "sha256": "00d20aba5f6308d2dd2909d0e3d24382e94de6d51eaefe5637de7180d3f9e49d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-5-2016",
+   "path": "local/dolj/goiesti/2016/5",
+   "short": "HCL Goiești nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 5/2016 privind administratia publlca ln conformitate cu-preveoerite art. 3g, arii. izt, literete \"f', locala; ln temeiulart.46, alin, (1)din Legea nr.215t2001, privind adminiskalia publicd localS: HOTARA$TE . dpdureonimmusideucrnsioeliiunn)lterrApareeRucsbtpTaled.iccae1tcaivcel os.pAontoesprrtrnaniot,urtbrnirdrueeu-sud,patliei;li;idciz;it;ranilevrapedstateut,alucailnpiocicn/dctesuaetsrdr,nusruuiterrrlira",
+   "url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.5_din_19.02.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-02-19",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.5_din_19.02.2016.pdf",
+     "sha256": "4c12fee22dce16ee58671bf695298526c7e7f5acfdf27777be626abb96e16c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--goiesti-6-2016",
+   "path": "local/dolj/goiesti/2016/6",
+   "short": "HCL Goiești nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 6/2016 privind reteaua $colare din comuna Goiegti Consiliul Local Goiegti intrunit in gedin[a ordinard din data de 19.02.2016 Avand in vedere: -adresa lnspectoratului $colar Judetean Dolj,inregistratd sub nr.3BB din 26,01 .2016,prin care se comunice avizul conform, privind organizarea re[elei gcolare incepAnd cu data de 01.09.2016 -proiectul de hotdrAre intocmit 9i avizat favorabil de cdtre comisia de sp",
+   "url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.6_din_19.02.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-02-19",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_nr.6_din_19.02.2016.pdf",
+     "sha256": "289872f3d2e7f5275ebc4104151b72c612d1d19bcd09887e2155e52965cc37f6"
+    }
+   ]
+  }
+ ]
+}

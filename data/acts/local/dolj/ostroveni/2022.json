@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-4-2022",
+"path": "local/dolj/ostroveni/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 4/2022 privind aprobarea Actului Adițional nr. 5 la Contractul nr. 370/22.05.2018 ”Delegarea prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în judetul Dolj și operarea stației de sortare și transfer Goicea” și a tarifelor aferente",
+"short": "HCL Ostroveni nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/49202",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-5-2022",
 "path": "local/dolj/ostroveni/2022/5",
 "kind": "local",
@@ -88,6 +110,72 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-6-2022",
+"path": "local/dolj/ostroveni/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 6/2022 privind actualizare numar de Carte Funciara inscrisa in HCL NR. 66/19.10.2021 privind concesionarea prin licitatie publica a imobiliului teren intravilan in suprafata de 5000 mp domeniul privat al com.Ostroveni,inscris in CF 30642, a localitatii Ostroveni,Lot 3",
+"short": "HCL Ostroveni nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/49204",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-7-2022",
+"path": "local/dolj/ostroveni/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 7/2022 privind actualizare numar de Carte Funciara inscrisa in HCL NR. 67/19.10.2021 privind concesionarea prin licitatie publica a imobiliului teren intravilan in suprafata de 5000 mp domeniul privat al com.Ostroveni,inscris in CF 30642, a localitatii Ostroveni,Lot 4",
+"short": "HCL Ostroveni nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/49205",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-8-2022",
+"path": "local/dolj/ostroveni/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 8/2022 privind actualizare numar de Carte Funciara inscrisa in HCL NR. 68/19.10.2021 privind concesionarea prin licitatie publica a imobiliului teren intravilan in suprafata de 4284 mp domeniul privat al com.Ostroveni,inscris in CF 30642, a localitatii Ostroveni,Lot 5",
+"short": "HCL Ostroveni nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/49206",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +308,29 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-15-2022",
+"path": "local/dolj/ostroveni/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 15/2022",
+"short": "HCL Ostroveni nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/52216",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1239,6 +1350,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-62-2022",
+"path": "local/dolj/ostroveni/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 62/2022 privind desemnarea a doi reprezentanti ai Consiliului Local Ostroveni in Consiliul de Administratie al Scolii Gimnaziale Ostroveni",
+"short": "HCL Ostroveni nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/74102",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-63-2022",
 "path": "local/dolj/ostroveni/2022/63",
 "kind": "local",
@@ -1347,6 +1480,28 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-68-2022",
+"path": "local/dolj/ostroveni/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 68/2022 privind aprobarea Actului Adițional nr. 6 la Contractul nr. 370/22.05.2018 ”Delegarea prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în judetul Dolj și operarea stației de sortare și transfer Goicea”",
+"short": "HCL Ostroveni nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/74108",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

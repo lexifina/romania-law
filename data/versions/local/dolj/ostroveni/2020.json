@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--ostroveni-31-2020",
+   "path": "local/dolj/ostroveni/2020/31",
+   "short": "HCL Ostroveni nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 31/2020 privind aprobarea Actului Adițional nr. 2 la Contractul nr. 370/22.05.2018 ”Delegarea prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în judetul Dolj și operarea stației de sortare și transfer Goicea” și a tarifelor aferente",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/8275",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/8275",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--ostroveni-32-2020",
    "path": "local/dolj/ostroveni/2020/32",
    "short": "HCL Ostroveni nr. 32/2020",
@@ -208,6 +223,36 @@
      "from": "2020-09-30",
      "units": 1,
      "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/9777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-35-2020",
+   "path": "local/dolj/ostroveni/2020/35",
+   "short": "HCL Ostroveni nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 35/2020 privind acordarea unui sprijin financiar Parohiei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/9778",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/9778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-36-2020",
+   "path": "local/dolj/ostroveni/2020/36",
+   "short": "HCL Ostroveni nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 36/2020 privind acordarea unui sprijin financiar Parohiei Grindeni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/9779",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/9779",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/dambovita/ulmi/2024",
  "acts": [
   {
+   "slug": "hcl-dambovita--ulmi-10-2024",
+   "path": "local/dambovita/ulmi/2024/10",
+   "short": "HCL Ulmi nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 10/2024 privind transmiterea gratuita a dreptului de folosinta si exploatare asupra retelei de distributie a gazelor naturale în satele Udresti, Nisipuri si Dimoiu, apartinând comunei Ulmi, judetul Dâmbovita”",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68421",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68421",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-100-2024",
    "path": "local/dambovita/ulmi/2024/100",
    "short": "HCL Ulmi nr. 100/2024",
@@ -148,6 +163,21 @@
      "from": "2024-07-31",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-11-2024",
+   "path": "local/dambovita/ulmi/2024/11",
+   "short": "HCL Ulmi nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 11/2024 pentru aprobarea Notei de Fundamentare privind elaborarea documentatiei urbanistice Plan Urbanistic Zonal - ’Înființarea și amenajarea unei zone de recreere și agrement în comuna Ulmi’ si declararea ca obiectiv de interes local",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68511",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68511",
      "sha256": null
     }
    ]
@@ -303,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-12-2024",
+   "path": "local/dambovita/ulmi/2024/12",
+   "short": "HCL Ulmi nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 12/2024 privind aprobarea notelor de fundamentare pentru obiectivele noi de investii, in vederea cuprinderii acestora in programul anual de investitii, anexa la bugetul local pe anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68586",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68586",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-120-2024",
    "path": "local/dambovita/ulmi/2024/120",
    "short": "HCL Ulmi nr. 120/2024",
@@ -453,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-13-2024",
+   "path": "local/dambovita/ulmi/2024/13",
+   "short": "HCL Ulmi nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 13/2024 privind aprobarea indicatorilor tehnico-economici si a devizului general la terminarea lucrarilor pentru obiectivul de investitii „Loc de recreere sat Viisoara , Comuna Ulmi ”",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68601",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68601",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-130-2024",
    "path": "local/dambovita/ulmi/2024/130",
    "short": "HCL Ulmi nr. 130/2024",
@@ -598,6 +658,21 @@
      "from": "2024-09-25",
      "units": 1,
      "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#82554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-14-2024",
+   "path": "local/dambovita/ulmi/2024/14",
+   "short": "HCL Ulmi nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 14/2024 aprobarea notei de fundamentare pentru un obiectiv nou de investii, in vederea cuprinderii acestuia in programul anual de investitii, anexa la bugetul local pe anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69637",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69637",
      "sha256": null
     }
    ]
@@ -903,6 +978,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-16-2024",
+   "path": "local/dambovita/ulmi/2024/16",
+   "short": "HCL Ulmi nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 16/2024 privind organizarea si sarbatorirea “ZILEI COMUNEI ULMI”, judetul Dambovita",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69193",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69193",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-160-2024",
    "path": "local/dambovita/ulmi/2024/160",
    "short": "HCL Ulmi nr. 160/2024",
@@ -1053,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-17-2024",
+   "path": "local/dambovita/ulmi/2024/17",
+   "short": "HCL Ulmi nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 17/2024 pentru aprobarea regulamentului privind decontarea cheltuielilor de transport pentru functionarii publici si personalul contractual din aparatul de specialitate al primarului comunei Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69320",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69320",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-170-2024",
    "path": "local/dambovita/ulmi/2024/170",
    "short": "HCL Ulmi nr. 170/2024",
@@ -1188,6 +1293,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-18-2024",
+   "path": "local/dambovita/ulmi/2024/18",
+   "short": "HCL Ulmi nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 18/2024 privind aprobarea situatiilor financiare asupra executiei bugetare la finele trim.IV al anului 2023",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69866",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69866",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-180-2024",
    "path": "local/dambovita/ulmi/2024/180",
    "short": "HCL Ulmi nr. 180/2024",
@@ -1318,6 +1438,21 @@
      "from": "2024-11-27",
      "units": 1,
      "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#87694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-19-2024",
+   "path": "local/dambovita/ulmi/2024/19",
+   "short": "HCL Ulmi nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 19/2024 pentru revocarea HCL nr.61/2019 si HCL nr.95/2020",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69867",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69867",
      "sha256": null
     }
    ]
@@ -1473,6 +1608,186 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-2-2024",
+   "path": "local/dambovita/ulmi/2024/2",
+   "short": "HCL Ulmi nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 2/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-20-2024",
+   "path": "local/dambovita/ulmi/2024/20",
+   "short": "HCL Ulmi nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 20/2024 privind completarea nomenclatorului stradal al comunei Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69975",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#69975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-21-2024",
+   "path": "local/dambovita/ulmi/2024/21",
+   "short": "HCL Ulmi nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 21/2024 scoaterea din functiune si casarea unor mijloace fixe si obiecte de inventar, aflate in patrimoniul U.A.T comuna Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#70438",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#70438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-22-2024",
+   "path": "local/dambovita/ulmi/2024/22",
+   "short": "HCL Ulmi nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 22/2024 privind aprobarea indicatorilor tehnico-economici si a Devizului general actualizat la finalizarea lucrărilor obiectivului de investițitii”Reabilitare si modernizare strazi in satele Matraca si Nisipurile, comuna Ulmi,judetul Dambovita”",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#70977",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#70977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-23-2024",
+   "path": "local/dambovita/ulmi/2024/23",
+   "short": "HCL Ulmi nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 23/2024 acordarea unui ajutor de urgenţă numitului Bobleac Petrus, din comuna Ulmi, sat Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#70581",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#70581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-24-2024",
+   "path": "local/dambovita/ulmi/2024/24",
+   "short": "HCL Ulmi nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 24/2024 privind transmiterea, cu titlu gratuit, în proprietatea Parohiei Viisoara a unui imobil teren aflat in proprietatea comunei Ulmi,",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71400",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-25-2024",
+   "path": "local/dambovita/ulmi/2024/25",
+   "short": "HCL Ulmi nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 25/2024 privind retragerea dreptului de folosinţă gratuită asupra terenului atribuit in conformitate cu prevederile Legii nr. 15/2003, republicată privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală numitei Done Alexandra-Florina",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71447",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-26-2024",
+   "path": "local/dambovita/ulmi/2024/26",
+   "short": "HCL Ulmi nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 26/2024 privind aprobarea acordarii unui sprijin financiar pentru Parohia Dumbrava",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71556",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-27-2024",
+   "path": "local/dambovita/ulmi/2024/27",
+   "short": "HCL Ulmi nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 27/2024 privind aprobarea Acordului de Asociere pentru actualizarea, implementarea și monitorizarea documentelor strategice Strategia Integrată de Dezvoltare Urbană a Municipiului Târgoviște 2021-2027 (SIDU) și Planul de Mobilitate Urbană Durabilă pentru Municipiului Târgoviște 2021-2030 (PMUD) elaborate la nivel de zonă urbană funcțională (ZUF)",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71574",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#71574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-28-2024",
+   "path": "local/dambovita/ulmi/2024/28",
+   "short": "HCL Ulmi nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 28/2024 pentru validarea dispozitiei primarului comunei Ulmi nr.78/2024 pentru aprobarea modificării bugetului local al comunei Ulmi pe anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#72292",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#72292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-29-2024",
+   "path": "local/dambovita/ulmi/2024/29",
+   "short": "HCL Ulmi nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 29/2024 privind aprobarea rectificarii bugetului local si modificarii programului de investitii pe anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#72570",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#72570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-3-2024",
+   "path": "local/dambovita/ulmi/2024/3",
+   "short": "HCL Ulmi nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 3/2024 privind aprobarea executiei bugetului local de venituri si cheltuieli la finele trimestrului IV anul 2023",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#66954",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#66954",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-34-2024",
    "path": "local/dambovita/ulmi/2024/34",
    "short": "HCL Ulmi nr. 34/2024",
@@ -1484,6 +1799,141 @@
      "units": 1,
      "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24i9unTmzk3AvO/bAEc2/jCeEehnHcJerPtL.W4xjcEI8UAqx.CY.hK/2348",
      "sha256": "4d3a1abd234dcce583ddfa5d47de75cc02e76500b2ef64784be44065cd6ea692"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-35-2024",
+   "path": "local/dambovita/ulmi/2024/35",
+   "short": "HCL Ulmi nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 35/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-36-2024",
+   "path": "local/dambovita/ulmi/2024/36",
+   "short": "HCL Ulmi nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 36/2024 privind aprobarea indicatorilor tehnico-economici si a documentatiei la faza DALI pt obiectivul de investitii Reabilitare retea iluminat public pe DJ711",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#72908",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#72908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-37-2024",
+   "path": "local/dambovita/ulmi/2024/37",
+   "short": "HCL Ulmi nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 37/2024 privind modificarea si completarea inventarului domeniului public al U.A.T Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73097",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-38-2024",
+   "path": "local/dambovita/ulmi/2024/38",
+   "short": "HCL Ulmi nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 38/2024 privind aprobarea indicatorilor tehnico-economici la terminarea lucrarilor pt obiectivul de investitii Reabilitare si modernizare cladire administrativa sat Matraca, com.Ulmi, jud.Dta",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73367",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-39-2024",
+   "path": "local/dambovita/ulmi/2024/39",
+   "short": "HCL Ulmi nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 39/2024 privind aprobarea indicatorilor tehnico -economici si a documentatiei la faza SF revizuit pt obiectivul de investitii Centru sportiv sat Dumbrava, com.Ulmi, jud.Dta",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73375",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-4-2024",
+   "path": "local/dambovita/ulmi/2024/4",
+   "short": "HCL Ulmi nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 4/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Ulmi pentru o perioadă de trei luni (februarie- aprilie 2024 )",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#67357",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#67357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-40-2024",
+   "path": "local/dambovita/ulmi/2024/40",
+   "short": "HCL Ulmi nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 40/2024 privind aprobarea indicatorilor tehnico-economici si a documentatiei pentru obiectivul de investitii “Conformare la foc în vederea autorizatiei la incendiu al grădinitei din sat Viisoara, comuna Ulmi”,",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73513",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-41-2024",
+   "path": "local/dambovita/ulmi/2024/41",
+   "short": "HCL Ulmi nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 41/2024 privind aprobarea participarii la ,, Programul vizând sisteme de alimentare cu apă, canalizare şi epurare a apelor uzate”, cu proiectul de investiție “Extindere și modernizare retele de alimentare cu apa si canalizare în comuna Ulmi,",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73017",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-42-2024",
+   "path": "local/dambovita/ulmi/2024/42",
+   "short": "HCL Ulmi nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 42/2024 privind rectificarea bugetului local al comunei Ulmi pe anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74008",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74008",
+     "sha256": null
     }
    ]
   },
@@ -1503,6 +1953,126 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-44-2024",
+   "path": "local/dambovita/ulmi/2024/44",
+   "short": "HCL Ulmi nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 44/2024 privind analiza stadiului de inscriere a datelor in registrul agricol pe trimestrul I al anului 2024 si aprobarea programului de masuri pentru eficientizarea inscrierii datelor in registrul agricol",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73816",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#73816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-45-2024",
+   "path": "local/dambovita/ulmi/2024/45",
+   "short": "HCL Ulmi nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 45/2024 privind aprobarea acordului de parteneriat cu Asociatia Nationala Cultul Eroilor „Regina Maria”- Filiala judeteana „Mihai Viteazul Dambovita”, pentru editarea revistei de cultura istorica si de cinstire a eroilor neamului Ëroica” si a altor materiale si pliante aniversare",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74013",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-46-2024",
+   "path": "local/dambovita/ulmi/2024/46",
+   "short": "HCL Ulmi nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 46/2024 privind aprobarea executiei bugetului local al comunei Ulmi la finele trimestrului I al anului 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74150",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-47-2024",
+   "path": "local/dambovita/ulmi/2024/47",
+   "short": "HCL Ulmi nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 47/2024 privind aprobarea indicatorilor tehnico economici si a documentatiei faza SF pentru obiectivul de investitii \" Amenajare loc de joaca strada Islazului, sat Viisoara",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74754",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-48-2024",
+   "path": "local/dambovita/ulmi/2024/48",
+   "short": "HCL Ulmi nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 48/2024 privind aprobarea indicatorilor tehnico economici revizuiti pentru obiectivul de investtii - Reabilitare si modernizare strazi in satele Dimoiu. Udresti și Dumbrava, comuna Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74756",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-49-2024",
+   "path": "local/dambovita/ulmi/2024/49",
+   "short": "HCL Ulmi nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 49/2024 privind aprobarea indicatorilor tehnico-economici ca urmare a finalizarii lucrarilor pentru obiectivul de investitii „Reabilitare si modernizare strazi in satele Matraca si Nisipuri, comuna Ulmi, judetul Dambovita”",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#75172",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#75172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-5-2024",
+   "path": "local/dambovita/ulmi/2024/5",
+   "short": "HCL Ulmi nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 5/2024 privind analiza stadiului de inscriere a datelor in registrul agricol pe trimestrrul IV al anului 2023 si aprobarea programului de masuri pentru eficientizarea inscrierii datelor in registrul agricol",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#67358",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#67358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-50-2024",
+   "path": "local/dambovita/ulmi/2024/50",
+   "short": "HCL Ulmi nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 50/2024 privind aprobarea rectificarii bugetului local al comunei Ulmi si modificării programului de investitii pe anul 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#75188",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#75188",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-52-2024",
    "path": "local/dambovita/ulmi/2024/52",
    "short": "HCL Ulmi nr. 52/2024",
@@ -1514,6 +2084,36 @@
      "units": 1,
      "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24RIatJwOXJUGi7ZpQmQlTT.NGaMtAq.cgXv7SAfmgRgA3.C96JpY5G/2348",
      "sha256": "53f054275611dc83474580bec569ed915fa28db0e447ec04d9366f89401a7511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-53-2024",
+   "path": "local/dambovita/ulmi/2024/53",
+   "short": "HCL Ulmi nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 53/2024 privind alegerea preşedintelui de şedinţă al Consiliului Local Ulmi pentru o perioadă de trei luni (mai-iulie 2024 )",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74149",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#74149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-54-2024",
+   "path": "local/dambovita/ulmi/2024/54",
+   "short": "HCL Ulmi nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 54/2024 privind aprobarea inventarului bunurilor care apartin domeniului privat al UAT Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#75171",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#75171",
+     "sha256": null
     }
    ]
   },
@@ -1533,6 +2133,36 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-56-2024",
+   "path": "local/dambovita/ulmi/2024/56",
+   "short": "HCL Ulmi nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 56/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-57-2024",
+   "path": "local/dambovita/ulmi/2024/57",
+   "short": "HCL Ulmi nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 57/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-58-2024",
    "path": "local/dambovita/ulmi/2024/58",
    "short": "HCL Ulmi nr. 58/2024",
@@ -1544,6 +2174,66 @@
      "units": 1,
      "source_url": "https://ulmi.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24qruJZ9FZL2RVmHb90XqzAecLmJJPQ7iV0/LWYL.T8bse9twRB05bO/2348",
      "sha256": "186c96925d3ad5843177758da8d98c3e358b3dbae6a40c3996f43bc42de6b6e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-6-2024",
+   "path": "local/dambovita/ulmi/2024/6",
+   "short": "HCL Ulmi nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 6/2024 pentru aprobarea solicitării numitei Antonescu Bianca-Elena privind atribuirea în folosinţă gratuită a unei suprafete de teren pentru construire locuinta proprietate personală în conformitate cu dispozitiile Legii nr. 15/2003, rerepublicată",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#67387",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#67387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-60-2024",
+   "path": "local/dambovita/ulmi/2024/60",
+   "short": "HCL Ulmi nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 60/2024 privind aprobarea inventarului terenurilor disponibile pentru punerea în aplicare a Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, republicată, cu modificările ulterioare, aflate în domeniul privat al comunei Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#76697",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#76697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-61-2024",
+   "path": "local/dambovita/ulmi/2024/61",
+   "short": "HCL Ulmi nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 61/2024 privind aprobarea schimbării denumirii gradinitei din” Gradinită cu program normal Viisoara” în „Grădinită cu program prelungit Viisoara",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#76371",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#76371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-62-2024",
+   "path": "local/dambovita/ulmi/2024/62",
+   "short": "HCL Ulmi nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 62/2024 privind modificarea inventarului domeniului public si inventarului domeniului privat al al UAT comuna Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77577",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77577",
+     "sha256": null
     }
    ]
   },
@@ -1563,6 +2253,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-64-2024",
+   "path": "local/dambovita/ulmi/2024/64",
+   "short": "HCL Ulmi nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 64/2024 privind alegerea preşedintelui de şedinţă a Consiliului Local al comunei ULMI, pentru ședința ordinară din data 25.06.2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#78338",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#78338",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-65-2024",
    "path": "local/dambovita/ulmi/2024/65",
    "short": "HCL Ulmi nr. 65/2024",
@@ -1578,10 +2283,100 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-67-2024",
+   "path": "local/dambovita/ulmi/2024/67",
+   "short": "HCL Ulmi nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 67/2024 privind aprobarea Programului de acțiune comunitară destinată prevenirii și combaterii riscului de sărăcie și excluziune socială, la nivelul comunei Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#76934",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#76934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-68-2024",
+   "path": "local/dambovita/ulmi/2024/68",
+   "short": "HCL Ulmi nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 68/2024 privind acceptarea ofertei de donatie a terenului în suprafata de 396 mp, identificat cu N.C75657, in vederea introducerii in domeniul public al comunei, cu destinatia de drum",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77456",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-69-2024",
+   "path": "local/dambovita/ulmi/2024/69",
+   "short": "HCL Ulmi nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 69/2024 privind aprobarea salariilor de bază pentru salariatii Primăriei comunei Ulmi, judetul Dâmbovita, începând cu luna iulie 2024",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77506",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-7-2024",
+   "path": "local/dambovita/ulmi/2024/7",
+   "short": "HCL Ulmi nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 7/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-70-2024",
    "path": "local/dambovita/ulmi/2024/70",
    "short": "HCL Ulmi nr. 70/2024",
    "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 70/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-71-2024",
+   "path": "local/dambovita/ulmi/2024/71",
+   "short": "HCL Ulmi nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 71/2024 privind reorganizarea aparatului de specialitate al primarului comunei Ulmi, judetul Dâmbovita, precum si aprobarea statului de functii si a organigramei în conformitate cu Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77816",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#77816",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-72-2024",
+   "path": "local/dambovita/ulmi/2024/72",
+   "short": "HCL Ulmi nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 72/2024",
    "url": null,
    "versions": [
     {
@@ -1693,6 +2488,21 @@
      "from": "2024-07-24",
      "units": 1,
      "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#79637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-8-2024",
+   "path": "local/dambovita/ulmi/2024/8",
+   "short": "HCL Ulmi nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 8/2024 privind completarea inventarului domeniului public al comunei Ulmi",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68354",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68354",
      "sha256": null
     }
    ]
@@ -1828,6 +2638,21 @@
      "from": "2024-07-31",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--ulmi-9-2024",
+   "path": "local/dambovita/ulmi/2024/9",
+   "short": "HCL Ulmi nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 9/2024 privind aprobarea indicatorilor tehnico-economici si a documentatiei la faza DALI pentru obiectivul de investitii Realizare si modernizare strazi in satele Dimoiu si Dumbrava, comuna Ulmi, judetul Dambovita",
+   "url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68371",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#68371",
      "sha256": null
     }
    ]

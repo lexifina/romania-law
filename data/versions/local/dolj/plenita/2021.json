@@ -3,6 +3,21 @@
  "shard": "local/dolj/plenita/2021",
  "acts": [
   {
+   "slug": "hcl-dolj--plenita-1-2021",
+   "path": "local/dolj/plenita/2021/1",
+   "short": "HCL Plenița nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 1/2021 privind desemnarea presedintelui de sedinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29697",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29697",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-10-2021",
    "path": "local/dolj/plenita/2021/10",
    "short": "HCL Plenița nr. 10/2021",
@@ -13,6 +28,36 @@
      "from": "2021-03-29",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/29720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-11-2021",
+   "path": "local/dolj/plenita/2021/11",
+   "short": "HCL Plenița nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 11/2021 privind aprobarea Procedurii de recrutare și selecție a personalului angajat în afara organigramei în cadrul proiectului POCU ”Operaționalizarea Centrului Social Multifuncțional din comuna Plenița”, Cod proiect:139913, derulat de către comuna Plenița",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29721",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-12-2021",
+   "path": "local/dolj/plenita/2021/12",
+   "short": "HCL Plenița nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 12/2021 privind desemnarea președintelui de ședință",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29722",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29722",
      "sha256": null
     }
    ]
@@ -123,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-2-2021",
+   "path": "local/dolj/plenita/2021/2",
+   "short": "HCL Plenița nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 2/2021 privind organizarea retelei scolare la nivelul u.a.t.Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29698",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29698",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-20-2021",
    "path": "local/dolj/plenita/2021/20",
    "short": "HCL Plenița nr. 20/2021",
@@ -168,6 +228,51 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-23-2021",
+   "path": "local/dolj/plenita/2021/23",
+   "short": "HCL Plenița nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 23/2021",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29737",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-24-2021",
+   "path": "local/dolj/plenita/2021/24",
+   "short": "HCL Plenița nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 24/2021 privind aprobarea concesionării prin licitație publică ”Teren în suprafața de 35 mp, situat în vecinătatea blocului de locuințe A9 din satul Plenița, str. Traian, nr. 46A, T 49, P 239, comuna Plenița, județul Dolj",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29738",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-25-2021",
+   "path": "local/dolj/plenita/2021/25",
+   "short": "HCL Plenița nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 25/2021 privind desemnarea presedintelui de sedinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/39306",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/39306",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-26-2021",
    "path": "local/dolj/plenita/2021/26",
    "short": "HCL Plenița nr. 26/2021",
@@ -183,6 +288,36 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-27-2021",
+   "path": "local/dolj/plenita/2021/27",
+   "short": "HCL Plenița nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 27/2021",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/39308",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/39308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-28-2021",
+   "path": "local/dolj/plenita/2021/28",
+   "short": "HCL Plenița nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 28/2021 privind incetarea contractului de concesiune nr. 10556 din 25.07.2013",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/39309",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/39309",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-29-2021",
    "path": "local/dolj/plenita/2021/29",
    "short": "HCL Plenița nr. 29/2021",
@@ -193,6 +328,36 @@
      "from": "2021-07-22",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/39310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-3-2021",
+   "path": "local/dolj/plenita/2021/3",
+   "short": "HCL Plenița nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 3/2021 privind reorganizarea organigramei si statului de functii al aparatului de specialitate al primarului si structurilor din subordinea consiliului local",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29699",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-30-2021",
+   "path": "local/dolj/plenita/2021/30",
+   "short": "HCL Plenița nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 30/2021",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/39311",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/39311",
      "sha256": null
     }
    ]
@@ -223,6 +388,36 @@
      "from": "2021-08-31",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/39325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-33-2021",
+   "path": "local/dolj/plenita/2021/33",
+   "short": "HCL Plenița nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 33/2021 privind inchirierea unui spatiu medical in suprafata utila de 13,32 mp situat in cadrul imobilului „Spital (sectie chirurgie si obstretica ginecologie )”, din comuna Plenita, satul Plenita, str. A.I.Cuza, nr. 37, etaj , judetul Dolj, proprietate publica a comunei Plenita",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/39326",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/39326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-34-2021",
+   "path": "local/dolj/plenita/2021/34",
+   "short": "HCL Plenița nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 34/2021 privind vanzarea unui teren proprietate privata",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/39327",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/39327",
      "sha256": null
     }
    ]
@@ -298,6 +493,21 @@
      "from": "2021-10-12",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/39354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-4-2021",
+   "path": "local/dolj/plenita/2021/4",
+   "short": "HCL Plenița nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 4/2021 privind vânzarea unui teren proprietate privată",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29700",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29700",
      "sha256": null
     }
    ]
@@ -453,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-5-2021",
+   "path": "local/dolj/plenita/2021/5",
+   "short": "HCL Plenița nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 5/2021 privind inchirierea unei suprafete de 4500 mp, din totalul suprafetei de 187.678 mp teren extravilan neproductiv– situat in extravilanul comunei Plenita, T 128, P 1037 , punctele cadastrale 18, 17 si 20 din anexa nr. 1 a Extasului de carte funciara nr. 30315, judetul Dolj – domeniul public al uat Plenita, pentru desfasurare de activitati industriale",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29703",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29703",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-50-2021",
    "path": "local/dolj/plenita/2021/50",
    "short": "HCL Plenița nr. 50/2021",
@@ -543,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-7-2021",
+   "path": "local/dolj/plenita/2021/7",
+   "short": "HCL Plenița nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 7/2021",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29705",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29705",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-8-2021",
    "path": "local/dolj/plenita/2021/8",
    "short": "HCL Plenița nr. 8/2021",
@@ -553,6 +793,21 @@
      "from": "2021-03-29",
      "units": 1,
      "source_url": "https://emol.ro/plenita-dj/registru-hcl/29718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--plenita-9-2021",
+   "path": "local/dolj/plenita/2021/9",
+   "short": "HCL Plenița nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 9/2021 privind completarea HCL Plenița nr.26 din 26.07.2017 privind aprobarea salariilor de bază/indemnizațiile lunare pentru personalul plătit din bugetul local al comunei Plenița modificată prin HCL nr.49 din 20.12.2017",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/29719",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/29719",
      "sha256": null
     }
    ]

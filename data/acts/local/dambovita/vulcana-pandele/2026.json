@@ -3,6 +3,116 @@
 "shard": "local/dambovita/vulcana-pandele/2026",
 "acts": [
 {
+"slug": "hcl-dambovita--vulcana-pandele-1-2026",
+"path": "local/dambovita/vulcana-pandele/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 1/2026 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Vulcana-Pandele pentru perioada ianuarie-martie 2026",
+"short": "HCL Vulcana-Pandele nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#114555",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-2-2026",
+"path": "local/dambovita/vulcana-pandele/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 2/2026 privind actualizarea indicatorilor tehnico-economici si a devizului general, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții ” Extindere retea distributie gaze naturale in comuna Vulcana Pandele, judetul Dambovita”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”",
+"short": "HCL Vulcana-Pandele nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-15",
+"latest": "2026-01-15",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#114556",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-3-2026",
+"path": "local/dambovita/vulcana-pandele/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 3/2026 privind aprobarea modificării statului de funcții al aparatului de specialitate al primarului comunei Vulcana-Pandele",
+"short": "HCL Vulcana-Pandele nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#114599",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-4-2026",
+"path": "local/dambovita/vulcana-pandele/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 4/2026 privind aprobarea Planului anual de actiune privind serviciile sociale administrate si finantate din bugetul consiliului local al comunei Vulcana-Pandele pentru anul 2026",
+"short": "HCL Vulcana-Pandele nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#114633",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-pandele-5-2026",
+"path": "local/dambovita/vulcana-pandele/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Pandele nr. 5/2026 privind aprobarea devizului general actualizat dupa receptia la terminarea lucrarilor pentru realizarea obiectivului de investiții ,,Modernizare străzi în comuna Vulcana-Pandele, județul Dâmbovița – strada Popii”",
+"short": "HCL Vulcana-Pandele nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-27",
+"latest": "2026-01-27",
+"portal": "https://vulcanapandele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2954#114634",
+"council": "dambovita/vulcana-pandele",
+"council_name": "Consiliul Local al Comunei Vulcana-Pandele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dambovita--vulcana-pandele-6-2026",
 "path": "local/dambovita/vulcana-pandele/2026/6",
 "kind": "local",

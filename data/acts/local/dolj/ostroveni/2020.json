@@ -245,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-31-2020",
+"path": "local/dolj/ostroveni/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 31/2020 privind aprobarea Actului Adițional nr. 2 la Contractul nr. 370/22.05.2018 ”Delegarea prin concesionare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în judetul Dolj și operarea stației de sortare și transfer Goicea” și a tarifelor aferente",
+"short": "HCL Ostroveni nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/8275",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-32-2020",
 "path": "local/dolj/ostroveni/2020/32",
 "kind": "local",
@@ -308,6 +330,50 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-35-2020",
+"path": "local/dolj/ostroveni/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 35/2020 privind acordarea unui sprijin financiar Parohiei Ostroveni",
+"short": "HCL Ostroveni nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-30",
+"latest": "2020-09-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/9778",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-36-2020",
+"path": "local/dolj/ostroveni/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 36/2020 privind acordarea unui sprijin financiar Parohiei Grindeni",
+"short": "HCL Ostroveni nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-30",
+"latest": "2020-09-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/9779",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

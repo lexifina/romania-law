@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dranic/2021",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dranic-27-2021",
+   "path": "local/dolj/dranic/2021/27",
+   "short": "HCL Drănic nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 27/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/08/HCL-nr.-27-din-30.07.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/08/HCL-nr.-27-din-30.07.2021.pdf",
+     "sha256": "99c3db0a0f21bd92cab154fc8df324e1352008c365cad82807a3aae5b97ad596"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-29-2021",
+   "path": "local/dolj/dranic/2021/29",
+   "short": "HCL Drănic nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 29/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/08/HCL-nr.-29-din-30.07.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/08/HCL-nr.-29-din-30.07.2021.pdf",
+     "sha256": "a2d101bb546c650bdf38fb1c085630a3d75ff21bcb1e39060574dcd777ae25f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-39-2021",
+   "path": "local/dolj/dranic/2021/39",
+   "short": "HCL Drănic nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 39/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/10/HCL-nr.-39-din-22.10.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/10/HCL-nr.-39-din-22.10.2021.pdf",
+     "sha256": "098493bfee7c7def24f601cdb884ca44695ca41b38a7a5a8726e4f96f7df96bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-40-2021",
+   "path": "local/dolj/dranic/2021/40",
+   "short": "HCL Drănic nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 40/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/10/HCL-nr.-40-din-22.10.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/10/HCL-nr.-40-din-22.10.2021.pdf",
+     "sha256": "f5ad99d996addb3dc7b6b5a38f261f3a098bff1e51af862eaa31f2f9c21b9b61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-41-2021",
+   "path": "local/dolj/dranic/2021/41",
+   "short": "HCL Drănic nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 41/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/10/HCL-nr.-41-din-22.10.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/10/HCL-nr.-41-din-22.10.2021.pdf",
+     "sha256": "328ba837c30310bcca1cfe03a1b9a2390e2175df963bb9316f898522b7db087b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-42-2021",
+   "path": "local/dolj/dranic/2021/42",
+   "short": "HCL Drănic nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 42/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/10/HCL-nr.-42-din-22.10.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-10-22",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/10/HCL-nr.-42-din-22.10.2021.pdf",
+     "sha256": "88bc41fa8083db6491b612f449e08ee694d9c95df4010f37a8ea82bf18717ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-43-2021",
+   "path": "local/dolj/dranic/2021/43",
+   "short": "HCL Drănic nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 43/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/11/HCL-nr.-43-din-02.11.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/11/HCL-nr.-43-din-02.11.2021.pdf",
+     "sha256": "5e144d330ec052a587cda4e7fcf9b08f2582bcf4c831c118e4c24b03c1b874a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-44-2021",
+   "path": "local/dolj/dranic/2021/44",
+   "short": "HCL Drănic nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 44/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/11/HCL-nr.-44-din-02.11.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/11/HCL-nr.-44-din-02.11.2021.pdf",
+     "sha256": "17c9da22c3461c156b46aa0d94dbe2a6bd8db38e32326b0cfa9f0592108c08b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-45-2021",
+   "path": "local/dolj/dranic/2021/45",
+   "short": "HCL Drănic nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 45/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/11/HCL-nr.-45-din-05.11.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/11/HCL-nr.-45-din-05.11.2021.pdf",
+     "sha256": "4ee3c6f5377b902e9a242be281be28d9b5500c61ee8ce7019c14b662c7cb1dbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-46-2021",
+   "path": "local/dolj/dranic/2021/46",
+   "short": "HCL Drănic nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 46/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-46-din-09.12.2021-rectificare-bugetara.pdf",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-46-din-09.12.2021-rectificare-bugetara.pdf",
+     "sha256": "9b315428ef8bb6756afe7cfd1877d59c24aac7d5c56bbf0e4a880d0fad671976"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-47-2021",
+   "path": "local/dolj/dranic/2021/47",
+   "short": "HCL Drănic nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 47/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-47-din-09.12.2021-prelungire-contract.pdf",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-47-din-09.12.2021-prelungire-contract.pdf",
+     "sha256": "e12b7a4d1d481e97981a390303d32cd79e37d54731da32b1e93a5c38bb523667"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-48-2021",
+   "path": "local/dolj/dranic/2021/48",
+   "short": "HCL Drănic nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 48/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-48-din-09.12.2021-act-aditional.pdf",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-48-din-09.12.2021-act-aditional.pdf",
+     "sha256": "bac9ace2d0357e4e66e87b61c02e6e1a27a06aa681759ca25e6d61c7cfc5e5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-49-2021",
+   "path": "local/dolj/dranic/2021/49",
+   "short": "HCL Drănic nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 49/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-49-din-09.12.2021-coeficienti-salariu.pdf",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-49-din-09.12.2021-coeficienti-salariu.pdf",
+     "sha256": "9ce006af250b23c527a6617bb048b1e5a569f11e1496a15cd3b4197e38b3164c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-50-2021",
+   "path": "local/dolj/dranic/2021/50",
+   "short": "HCL Drănic nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 50/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-50-din-09.12.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-09",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-50-din-09.12.2021.pdf",
+     "sha256": "60f35ea63b86b09fb34c20dbd21de642983cdc3c07f23e2649c1af9b1cd863ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-52-2021",
+   "path": "local/dolj/dranic/2021/52",
+   "short": "HCL Drănic nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 52/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-52-din-23.12.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-52-din-23.12.2021.pdf",
+     "sha256": "e08e86ab6c392f9daa0756dfc69d851597f3e15110f39dd175a603fca69037e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-53-2021",
+   "path": "local/dolj/dranic/2021/53",
+   "short": "HCL Drănic nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 53/2021",
+   "url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-53-din-23.12.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2021/12/HCL-nr.-53-din-23.12.2021.pdf",
+     "sha256": "a0838e454638800922e6d6207a3c43d2ca0e77f35e641982d8c14afa92d3e717"
+    }
+   ]
+  }
+ ]
+}

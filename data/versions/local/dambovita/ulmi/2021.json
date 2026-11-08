@@ -603,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-dambovita--ulmi-66-2021",
+   "path": "local/dambovita/ulmi/2021/66",
+   "short": "HCL Ulmi nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 66/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dambovita--ulmi-67-2021",
    "path": "local/dambovita/ulmi/2021/67",
    "short": "HCL Ulmi nr. 67/2021",

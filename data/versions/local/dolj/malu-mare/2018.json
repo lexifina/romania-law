@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/malu-mare/2018",
+ "acts": [
+  {
+   "slug": "hcl-dolj--malu-mare-1-2018",
+   "path": "local/dolj/malu-mare/2018/1",
+   "short": "HCL Malu Mare nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 1/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%201%20din%2026.01.2018.pdf",
+     "sha256": "b163012a71635c55c6c0f74184d0b8da7d725a559dbfe877d78f3a0d095f3ab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-10-2018",
+   "path": "local/dolj/malu-mare/2018/10",
+   "short": "HCL Malu Mare nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 10/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2010%20din%2026.01.2018.pdf",
+     "sha256": "71d5fde5fbd4c12519f406b833d8f7182eb673988f956789b7fd012ec19876dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-11-2018",
+   "path": "local/dolj/malu-mare/2018/11",
+   "short": "HCL Malu Mare nr. 11/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 11/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2011%20din%2026.01.2018.pdf",
+     "sha256": "dfdb9e7d9b01126f28a99f312a65e56c1ff75db725be16e5ba2f62e091c2b0ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-12-2018",
+   "path": "local/dolj/malu-mare/2018/12",
+   "short": "HCL Malu Mare nr. 12/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 12/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2012%20din%2019.02.2018.pdf",
+     "sha256": "745b0d7b96d5c806791552d43d15a9e7f23c5a986fec1a1c77456e784578e2c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-13-2018",
+   "path": "local/dolj/malu-mare/2018/13",
+   "short": "HCL Malu Mare nr. 13/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 13/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2013%20din%2019.02.2018.pdf",
+     "sha256": "18e8f958beaa66184a293b1bb79534223f21132f7a4e79b60c957067dfea5b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-14-2018",
+   "path": "local/dolj/malu-mare/2018/14",
+   "short": "HCL Malu Mare nr. 14/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 14/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2014%20din%2019.02.2018.pdf",
+     "sha256": "e327f159202a7e1dc7fcfcb439f58ec00b63038a419688b266444498ca2c3331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-15-2018",
+   "path": "local/dolj/malu-mare/2018/15",
+   "short": "HCL Malu Mare nr. 15/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 15/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2015%20din%2019.02.2018.pdf",
+     "sha256": "e23cfa11858ee0c2f7f5306f58d2f6a304c1ec8f0ffe8fff00bf67d10bf0d173"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-16-2018",
+   "path": "local/dolj/malu-mare/2018/16",
+   "short": "HCL Malu Mare nr. 16/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 16/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2016%20din%2019.02.2018.pdf",
+     "sha256": "037b9096e67f21809618c0ce596547afcd2e956811b9d3bd7c95d0b016d0c09e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-17-2018",
+   "path": "local/dolj/malu-mare/2018/17",
+   "short": "HCL Malu Mare nr. 17/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 17/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2017%20din%2019.02.2018.pdf",
+     "sha256": "c3270a94db41cbea515a2e60741776741caf4b924b29597e81fab6f913a17c48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-18-2018",
+   "path": "local/dolj/malu-mare/2018/18",
+   "short": "HCL Malu Mare nr. 18/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 18/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2018%20din%2019.02.2018.pdf",
+     "sha256": "57565124e6ec856291532fe28bf0d19afe3a18ac2ae8981b8c96f2807c0c8ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-19-2018",
+   "path": "local/dolj/malu-mare/2018/19",
+   "short": "HCL Malu Mare nr. 19/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 19/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2019%20din%2019.02.2018.pdf",
+     "sha256": "a5d0b928d21bc24582cc0d1e669a658e652e5607626bafc2ec0e1711781e95df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-2-2018",
+   "path": "local/dolj/malu-mare/2018/2",
+   "short": "HCL Malu Mare nr. 2/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 2/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%202%20din%2026.01.2018.pdf",
+     "sha256": "7b14fcff9303e999e97622a905b97b19d5bae831e949dcded52d82c587c3ecb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-20-2018",
+   "path": "local/dolj/malu-mare/2018/20",
+   "short": "HCL Malu Mare nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 20/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2020%20din%2019.02.2018.pdf",
+     "sha256": "f56af2b53e1e317191a1b681fbbc36e715265e2323263ce459be9cfa10100d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-21-2018",
+   "path": "local/dolj/malu-mare/2018/21",
+   "short": "HCL Malu Mare nr. 21/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 21/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2021%20din%2019.02.2018.pdf",
+     "sha256": "0292b491eef2b16aa1e9d4963021daba8050fd70e85d42e6fc7f07c25854833f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-22-2018",
+   "path": "local/dolj/malu-mare/2018/22",
+   "short": "HCL Malu Mare nr. 22/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 22/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2022%20din%2019.02.2018.pdf",
+     "sha256": "a231591f229b5f73408aef8ed1560c9d05d3085d5c639e787891482532c4cac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-3-2018",
+   "path": "local/dolj/malu-mare/2018/3",
+   "short": "HCL Malu Mare nr. 3/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 3/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%203%20din%2026.01.2018.pdf",
+     "sha256": "33489db289f17dbf4819e07b53d9df58e0a1c03ccd1e209bfc255465d4b94dd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-4-2018",
+   "path": "local/dolj/malu-mare/2018/4",
+   "short": "HCL Malu Mare nr. 4/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 4/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%204%20din%2026.01.2018.pdf",
+     "sha256": "5c8aa0cd6ca70e7a58c61e4b2ac97b983b1068b81a330ba737e76c8b4ebf0dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-5-2018",
+   "path": "local/dolj/malu-mare/2018/5",
+   "short": "HCL Malu Mare nr. 5/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 5/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%205%20din%2026.01.2018.pdf",
+     "sha256": "d1c144099b5c0d39eef6e4754d62d11c4d8c66ad1eb0b0892fd0e94fb9daee83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-6-2018",
+   "path": "local/dolj/malu-mare/2018/6",
+   "short": "HCL Malu Mare nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 6/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%206%20din%2026.01.2018.pdf",
+     "sha256": "bd6d6dcc007ee1be589ebbf0c6332d6ea9923366293a890cf8d8f358327bd0f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-7-2018",
+   "path": "local/dolj/malu-mare/2018/7",
+   "short": "HCL Malu Mare nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 7/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%207%20din%2026.01.2018.pdf",
+     "sha256": "765c1e5bbd7200a58df3420d2aa3f252ea521a2fe3f5c0934a6a43b2fafbe4e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-8-2018",
+   "path": "local/dolj/malu-mare/2018/8",
+   "short": "HCL Malu Mare nr. 8/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 8/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%208%20din%2026.01.2018.pdf",
+     "sha256": "f11b439db587f70313f9b9560a78af18a4320c01b4c199b2500ac8e6918e652f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-9-2018",
+   "path": "local/dolj/malu-mare/2018/9",
+   "short": "HCL Malu Mare nr. 9/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 9/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%209%20din%2026.01.2018.pdf",
+     "sha256": "5b9d644fa99461d5b9df9f91fc1967b3a8bc6f4d48fae6aecf7e6099bad66b33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-95-2018",
+   "path": "local/dolj/malu-mare/2018/95",
+   "short": "HCL Malu Mare nr. 95/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 95/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2095%20din%2030.08.2018.pdf",
+     "sha256": "96b941d0497394103ec50ed1e85d6f1553c441e020551f216a9df0337d4e203a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-96-2018",
+   "path": "local/dolj/malu-mare/2018/96",
+   "short": "HCL Malu Mare nr. 96/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 96/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2096%20din%2030.08.2018.pdf",
+     "sha256": "1c78c2e453d300e8be54fb165e56d300634105e53ac7157ecdbd44c65b691fa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-97-2018",
+   "path": "local/dolj/malu-mare/2018/97",
+   "short": "HCL Malu Mare nr. 97/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 97/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2097%20din%2030.08.2018.pdf",
+     "sha256": "b003a49d6309ee0f669de65ed4dd0ee66be274051cb66d920c0518c9d0046c77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-98-2018",
+   "path": "local/dolj/malu-mare/2018/98",
+   "short": "HCL Malu Mare nr. 98/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 98/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2098%20din%2030.08.2018.pdf",
+     "sha256": "b717f1c2f399d7ca6d6021bb32881f9fe4c2600b4806aeb2f9cb2180ea2e20df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--malu-mare-99-2018",
+   "path": "local/dolj/malu-mare/2018/99",
+   "short": "HCL Malu Mare nr. 99/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Malu Mare nr. 99/2018",
+   "url": "http://www.primariamalumare.ro/hotarari-consiliul-local",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "http://www.primariamalumare.ro/assets/uploads//Hotararea%20nr%2099%20din%2030%2008.2018.pdf",
+     "sha256": "147852b5fcffca41c90b427fa7eec5e796abc12fa169c13ae10dfa334544bd23"
+    }
+   ]
+  }
+ ]
+}

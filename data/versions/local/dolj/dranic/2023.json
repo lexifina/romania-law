@@ -3,6 +3,171 @@
  "shard": "local/dolj/dranic/2023",
  "acts": [
   {
+   "slug": "hcl-dolj--dranic-1-2023",
+   "path": "local/dolj/dranic/2023/1",
+   "short": "HCL Drănic nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 1/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/01/HCL-nr.-1-din-05.01.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/01/HCL-nr.-1-din-05.01.2023.pdf",
+     "sha256": "ddc783834f08cb2151ba8161c61f18754b06fd23fbc79e470d3e8d8be7dc68ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-10-2023",
+   "path": "local/dolj/dranic/2023/10",
+   "short": "HCL Drănic nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 10/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-10-din-15.02.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-10-din-15.02.2023.pdf",
+     "sha256": "23eae76fa951be635b83a612efcde4baffc0699a868040461f2cf969c7abf122"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-11-2023",
+   "path": "local/dolj/dranic/2023/11",
+   "short": "HCL Drănic nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 11/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/03/HCL-nr.-11-din-14.03.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/03/HCL-nr.-11-din-14.03.2023.pdf",
+     "sha256": "a7573e4ae99104c0981d328423111b645d91af8c021d3b729f47c0339edaae68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-12-2023",
+   "path": "local/dolj/dranic/2023/12",
+   "short": "HCL Drănic nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 12/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/03/HCL-nr.-12-din-14.03.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/03/HCL-nr.-12-din-14.03.2023.pdf",
+     "sha256": "74467d2a0a7d442661a9669e4bfcb0fa2f249f93f2d79ebe1cf49e36e16b08d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-13-2023",
+   "path": "local/dolj/dranic/2023/13",
+   "short": "HCL Drănic nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 13/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/03/HCL-nr.-13-din-14.03.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/03/HCL-nr.-13-din-14.03.2023.pdf",
+     "sha256": "b933733f4de4820dadd212b480ac5bf8c0171eafd389dbf12d37be6705f0ec73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-14-2023",
+   "path": "local/dolj/dranic/2023/14",
+   "short": "HCL Drănic nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 14/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/03/HCL-nr.-14-din-14.03.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/03/HCL-nr.-14-din-14.03.2023.pdf",
+     "sha256": "439bb2388337a5f605337ec17b1c44fbf3943d80bccf8c3ec5cf726fc71d2582"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-15-2023",
+   "path": "local/dolj/dranic/2023/15",
+   "short": "HCL Drănic nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 15/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/04/HCL-nr.-15-din-03.04.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/04/HCL-nr.-15-din-03.04.2023.pdf",
+     "sha256": "6731bb7ea8770fa827bc9bd08af26febba9a1d031db5c110104b949201a7a47f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-16-2023",
+   "path": "local/dolj/dranic/2023/16",
+   "short": "HCL Drănic nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 16/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/04/HCL-nr.-16-din-04.03.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/04/HCL-nr.-16-din-04.03.2023.pdf",
+     "sha256": "7a45203f7a98154c815c9ecaca918e809379b3fef697925edf37502ac22c6e0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-17-2023",
+   "path": "local/dolj/dranic/2023/17",
+   "short": "HCL Drănic nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 17/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/04/HCL-nr.-17-din-04.03.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/04/HCL-nr.-17-din-04.03.2023.pdf",
+     "sha256": "08b5489c560c065b4c4c768302fdaeb1929e54a630eb16108f8751011fd3e1be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-18-2023",
+   "path": "local/dolj/dranic/2023/18",
+   "short": "HCL Drănic nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 18/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/04/HCL-nr.-18-din-04.03.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/04/HCL-nr.-18-din-04.03.2023.pdf",
+     "sha256": "adf9b2add84919e29f700aca2ab30eb810541688bf5fe657c00f1c13444484bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-2-2023",
+   "path": "local/dolj/dranic/2023/2",
+   "short": "HCL Drănic nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 2/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/01/HCL-nr.-2-din-05.01.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/01/HCL-nr.-2-din-05.01.2023.pdf",
+     "sha256": "5f8cf815772acef2d9f915514b16cb5441b3357d51e76e9757aa8908bc6ad321"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--dranic-21-2023",
    "path": "local/dolj/dranic/2023/21",
    "short": "HCL Drănic nr. 21/2023",
@@ -14,6 +179,351 @@
      "units": 2,
      "source_url": "https://primariadranic.ro/wp-content/uploads/2023/05/HCL-nr.-21-din-26.05.2023.pdf",
      "sha256": "25416da2bfcbd9cd3da22aba5509a6421b46fc98afc20db7feee31f0c220ed0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-22-2023",
+   "path": "local/dolj/dranic/2023/22",
+   "short": "HCL Drănic nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 22/2023 privind finantele publice locale, cu rnoclificarile si co mp leLarilc ultet'ioare; - art. 129, alir.r.2, lit. b, alin.4, lit. a, afi., 139, alir.r.3, lit. a si art. 196, alin",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/05/HCL-nr.-22-din-26.05.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/05/HCL-nr.-22-din-26.05.2023.pdf",
+     "sha256": "79b29de9bfd98e673d563fa1c850a83afbe8c17d8621ea71693477257053dac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-23-2023",
+   "path": "local/dolj/dranic/2023/23",
+   "short": "HCL Drănic nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 23/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/07/HCL-nr.-23-din-29.06.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/07/HCL-nr.-23-din-29.06.2023.pdf",
+     "sha256": "927747576ae2d49b3bf9b8904d427299ce4f4fcd883e2e543a1e0d82fb8016a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-24-2023",
+   "path": "local/dolj/dranic/2023/24",
+   "short": "HCL Drănic nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 24/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/07/HCL-nr.-24-din-29.06.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/07/HCL-nr.-24-din-29.06.2023.pdf",
+     "sha256": "5cfba009df33b46493ce0d143977d51c94acfd740867898ca1507c86974f2ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-25-2023",
+   "path": "local/dolj/dranic/2023/25",
+   "short": "HCL Drănic nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 25/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/07/HCL-nr.-25-din-29.06.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/07/HCL-nr.-25-din-29.06.2023.pdf",
+     "sha256": "93af6a9f6b42188fa9b9180bd669f7955521326927cd2b82e04d535d11731e46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-26-2023",
+   "path": "local/dolj/dranic/2023/26",
+   "short": "HCL Drănic nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 26/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/07/HCL-nr.-26-din-29.06.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/07/HCL-nr.-26-din-29.06.2023.pdf",
+     "sha256": "c546283e24da2f8758afb51142d2bdcd89288cc9b6a35b6e4f7e70f252cf30a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-27-2023",
+   "path": "local/dolj/dranic/2023/27",
+   "short": "HCL Drănic nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 27/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "806d8499843164bfaaa04750620070770c18baf50101dc1e6868449d04dd3057"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-28-2023",
+   "path": "local/dolj/dranic/2023/28",
+   "short": "HCL Drănic nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 28/2023 privind reactualizarea Planului de analiza si acoperire a riscurilor teritoriale din comuna Dranic Consiliul Local Dranic, intrunit in sedinta ordinara in data de 31.07,2023 la convocarea primarului comunei Dranic",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/08/HCL-nr.-28-din-31.07.2023-reactualizare-Plan-de-analiza-si-acoperire-a-riscurilor.pdf",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/08/HCL-nr.-28-din-31.07.2023-reactualizare-Plan-de-analiza-si-acoperire-a-riscurilor.pdf",
+     "sha256": "cdd50147095b56673ddfa7c98820321edddf4b4668d41b9d12f751d1d38a9510"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-3-2023",
+   "path": "local/dolj/dranic/2023/3",
+   "short": "HCL Drănic nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 3/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-3-din-31.01.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-3-din-31.01.2023.pdf",
+     "sha256": "c0d82ee7eafe5279533b53b1d085a12ca493d932a3335c600dcbc0e7b6445054"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-31-2023",
+   "path": "local/dolj/dranic/2023/31",
+   "short": "HCL Drănic nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 31/2023 privind rectificarea bugetului local Consiliul Local Dranic, intrunit in sedinta ordinara in data de 30.08.2023 la convocarea primarului comunei Dranic",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/09/HCL-nr.-31-din-30.08.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/09/HCL-nr.-31-din-30.08.2023.pdf",
+     "sha256": "a93308194997eb9f3ecf0c5bd21bd10ac71cb551cc77a8ce474b1a59ad07d04b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-32-2023",
+   "path": "local/dolj/dranic/2023/32",
+   "short": "HCL Drănic nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 32/2023 privind rectificarea bugetului local Consiliul Local Dranic, intrunit in sedinta ordinara in data de 28.09.2023 la convocarea primarului comunei Dranic",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/09/HCL-nr.-32-din-28.09.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/09/HCL-nr.-32-din-28.09.2023.pdf",
+     "sha256": "44120b8154391c4d81f0fcd064c63493972ad47c502a03309fbcbb8b1d712f26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-34-2023",
+   "path": "local/dolj/dranic/2023/34",
+   "short": "HCL Drănic nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 34/2023 privind stabilirea locurilor special amenajate pentru depozitarea temporara a deseurilor provenite de la lucrari de constructii abandonate pe teritoriul U.A.T",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/09/HCL-nr.-34-din-28.09.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/09/HCL-nr.-34-din-28.09.2023.pdf",
+     "sha256": "e8f6cf615ec1e995ad16515f3e2cd4fcc92286124f5b955c81b4eee7db1ee4fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-35-2023",
+   "path": "local/dolj/dranic/2023/35",
+   "short": "HCL Drănic nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 35/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/11/HCL-nr.-35-din-31.10.2023-rectificare-buget.pdf",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/11/HCL-nr.-35-din-31.10.2023-rectificare-buget.pdf",
+     "sha256": "b6b7bcabfe47a8a630a46e846bbd5eea9629c6e267f8ece35bbf2d1be56df779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-36-2023",
+   "path": "local/dolj/dranic/2023/36",
+   "short": "HCL Drănic nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 36/2023 privind rectifi carea bugetului local Consiliul Local Dranic, intrunit in sedinta ordinara in data de 16,11.2023 la convocarea primarului comunei Dranic",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/11/HCL-nr.-36-din-16.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/11/HCL-nr.-36-din-16.11.2023.pdf",
+     "sha256": "723d9ee65aa696fcac27ec0acd310f5fd1395020a3187069a1a428f1d14458ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-37-2023",
+   "path": "local/dolj/dranic/2023/37",
+   "short": "HCL Drănic nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 37/2023 privind rectificarea bugetului local consiliul Local Dranic, intrunit in sedinta extraordinara in data de 24.11.2023 la convocarea primarului comunei Dranic. -Avand in vedere: motive a primarului comunei Dranic nr. expunerea de - 2902123.11,2023 si raportul de specialitate al inspectorului contabil; Legea nr. 273/2006 privind finantele publice locale, cu - modificarile si completarile nlterioar.e",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/11/HCL-nr.-37-din-24.11.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/11/HCL-nr.-37-din-24.11.2023.pdf",
+     "sha256": "57d6ca78845ad5252d2a5d7772fd22a5604cbb3b68730afcdb66281d23bb7f26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-38-2023",
+   "path": "local/dolj/dranic/2023/38",
+   "short": "HCL Drănic nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 38/2023 privind rectificarea bugetului local Consiliul Local Dranic, intrunit in sedinta ordinara in data de 15.122023 la convocarea Primarului comunei Dranic",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/12/HCL-nr.-38-din-15.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/12/HCL-nr.-38-din-15.12.2023.pdf",
+     "sha256": "22fbdd0b916f33053068efc249d6c6eeeb4da389187b422d2f3bc307ffe01cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-39-2023",
+   "path": "local/dolj/dranic/2023/39",
+   "short": "HCL Drănic nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 39/2023 privind modificarea organigramei si a statului de functii pentru aparatul propriu de specialitate al primarului Comunei Dianic Consiliul Local Dranic, intrunit in sedinta orciinara in data de I 5.12.2022, la convocarea Primaruiui comunei Dranic",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/12/HCL-nr.-39-din-15.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/12/HCL-nr.-39-din-15.12.2023.pdf",
+     "sha256": "bcd20b212bf5eac0db15f81e97dc9bb1a63b4cc8b67ad70c22f4d9469b6645bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-4-2023",
+   "path": "local/dolj/dranic/2023/4",
+   "short": "HCL Drănic nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 4/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-4-din-31.01.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-4-din-31.01.2023.pdf",
+     "sha256": "9c7585a8f71936135799a5f5c8f1e428a9de1056968b3215e221f39ce999e5cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-40-2023",
+   "path": "local/dolj/dranic/2023/40",
+   "short": "HCL Drănic nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 40/2023 privind majorarea capitalului social al ,,SC Serviciul public de apa si canalizare Dranic SRt\" - asociat unic Consiliul Local al comunei Dranic Consiliul Local Dranic, intrunit in sedinta extraordinara in data de 20.12.2023, la convocarea primarului comunei Dranic; Avand in vedere: - adresa nr.294118.12.2023 primita de la ,,SC Serviciul public de apa si canalizare Dranic SRL\" - asociat unic Consil",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/12/HCL-nr.-40-din-20.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/12/HCL-nr.-40-din-20.12.2023.pdf",
+     "sha256": "065fa60e2afb719d7f748c09e6537456dd5197a4abe5ecf4346b51b2b5edace4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-41-2023",
+   "path": "local/dolj/dranic/2023/41",
+   "short": "HCL Drănic nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 41/2023 privind rectificarea bugetului local Consiliul Local Dranic, intrunit in sedinta extraordinara in data de 20.12.2023 la convocarea Prirnarului comunei Dranic",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/12/HCL-nr.-41-din-20.12.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/12/HCL-nr.-41-din-20.12.2023.pdf",
+     "sha256": "9763346626834ea5b6233f5e7542823e3aa55c89c9b4d4052b93cfe45f69b927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-5-2023",
+   "path": "local/dolj/dranic/2023/5",
+   "short": "HCL Drănic nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 5/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-5-din-31.01.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-5-din-31.01.2023.pdf",
+     "sha256": "a638e0d9c1ed461ed2e6a3663b295997ee826bb77f82457804d77254c475862b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-6-2023",
+   "path": "local/dolj/dranic/2023/6",
+   "short": "HCL Drănic nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 6/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-6-din-31.01.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-6-din-31.01.2023.pdf",
+     "sha256": "3a55cd67c6d57eb8ffdb597e4ea854a09aa4e060b5f73a28ac38d5297706a2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-7-2023",
+   "path": "local/dolj/dranic/2023/7",
+   "short": "HCL Drănic nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 7/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-7-din-31.01.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-7-din-31.01.2023.pdf",
+     "sha256": "893d0e2336cf5c16613d5fd8e3906427c423dbf71a0b11068c50437648fa3667"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-9-2023",
+   "path": "local/dolj/dranic/2023/9",
+   "short": "HCL Drănic nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 9/2023",
+   "url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-09-din-15.02.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2023/02/HCL-nr.-09-din-15.02.2023.pdf",
+     "sha256": "427017765c1de72e968e272ed03711e3e270684be7d8770d3f5022be9f9dd4c9"
     }
    ]
   }

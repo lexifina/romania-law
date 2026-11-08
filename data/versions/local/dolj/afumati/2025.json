@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-20-2025",
+   "path": "local/dolj/afumati/2025/20",
+   "short": "HCL Afumați nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 20/2025 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al Comunei Afumați pentru activitatea desfășurată în anul 2024",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293234",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293234",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-21-2025",
    "path": "local/dolj/afumati/2025/21",
    "short": "HCL Afumați nr. 21/2025",
@@ -603,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--afumati-47-2025",
+   "path": "local/dolj/afumati/2025/47",
+   "short": "HCL Afumați nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 47/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293346",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293346",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--afumati-48-2025",
    "path": "local/dolj/afumati/2025/48",
    "short": "HCL Afumați nr. 48/2025",
@@ -613,6 +643,36 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/293348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-49-2025",
+   "path": "local/dolj/afumati/2025/49",
+   "short": "HCL Afumați nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 49/2025 privind desemnarea reprezentantului Consiliului Local Ąfumati în Consiliul de Administratie al Scolii Gimnaziale Ąfumati",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293349",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-5-2025",
+   "path": "local/dolj/afumati/2025/5",
+   "short": "HCL Afumați nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 5/2025 privind desemnarea reprezentantului Consiliului Local Ąfumati în Consiliul de Administratie al Scolii Gimnaziale Afumati",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293219",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293219",
      "sha256": null
     }
    ]
@@ -988,6 +1048,21 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/afumati-dj/registru-hcl/293383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-8-2025",
+   "path": "local/dolj/afumati/2025/8",
+   "short": "HCL Afumați nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 8/2025",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/293222",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/293222",
      "sha256": null
     }
    ]

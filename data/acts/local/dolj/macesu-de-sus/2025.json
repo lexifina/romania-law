@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-6-2025",
+"path": "local/dolj/macesu-de-sus/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 6/2025 privind desemnarea presedintelui de sedinta pentru lunile februarie , martie respectiv aprilie 2025",
+"short": "HCL Măceșu de Sus nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/202248",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-7-2025",
 "path": "local/dolj/macesu-de-sus/2025/7",
 "kind": "local",
@@ -199,6 +221,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-11-2025",
+"path": "local/dolj/macesu-de-sus/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 11/2025 privind desemnarea primarului comunei Macesu de Sus In calitate de reprezentant de drept al UAT comuna Macesu de Sus in Adunarea Generala a Asociatilor a Asociatiei Salubris Dolj",
+"short": "HCL Măceșu de Sus nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/202256",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -441,6 +485,28 @@
 "council_name": "Consiliul Local al Comunei Măceșu de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-23-2025",
+"path": "local/dolj/macesu-de-sus/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 23/2025 privind desemnarea presedintelui de sedinta pentru lunile mai , iunie respectiv iulie 2025",
+"short": "HCL Măceșu de Sus nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/221333",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -755,6 +821,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-38-2025",
+"path": "local/dolj/macesu-de-sus/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 38/2025 privind desemnarea presedintelui de sedinta pentru lunile august , septembrie respectiv octombrie 2025",
+"short": "HCL Măceșu de Sus nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/221371",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-39-2025",
 "path": "local/dolj/macesu-de-sus/2025/39",
 "kind": "local",
@@ -843,6 +931,94 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-43-2025",
+"path": "local/dolj/macesu-de-sus/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 43/2025 privind ordinii de zi a şedinţei ordinare de lucru a Consiliului Local al Comunei Macesu de Sus , din data de 27.08.2025",
+"short": "HCL Măceșu de Sus nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-27",
+"latest": "2025-08-27",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246226",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-44-2025",
+"path": "local/dolj/macesu-de-sus/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 44/2025 privind aprobarea ordinii de zi a şedinţei extraordinare a Consiliului Local al Comunei Macesu de Sus , din 24.09.2025",
+"short": "HCL Măceșu de Sus nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246227",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-45-2025",
+"path": "local/dolj/macesu-de-sus/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 45/2025 privind desemnarea reprezentantului Consiliului Local Macesu de Sus, in cadrul Consiliului de Administratie si CEAC al Scolii Gimnaziale”SF. DUMITRU ”Macesu de Sus pentru anul scolar 2025-2026",
+"short": "HCL Măceșu de Sus nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246228",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-46-2025",
+"path": "local/dolj/macesu-de-sus/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 46/2025 privind desemnarea președintelui de ședință pentru ședința extraordinară din 24.09.2025",
+"short": "HCL Măceșu de Sus nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-24",
+"latest": "2025-09-24",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246229",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-47-2025",
 "path": "local/dolj/macesu-de-sus/2025/47",
 "kind": "local",
@@ -885,6 +1061,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-49-2025",
+"path": "local/dolj/macesu-de-sus/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 49/2025 privind desemnarea presedintelui de sedinta pentru lunile noiembrie ,decembrie 2025 respectiv ianuarie 2026",
+"short": "HCL Măceșu de Sus nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246236",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -977,6 +1175,28 @@
 }
 },
 {
+"slug": "hcl-dolj--macesu-de-sus-54-2025",
+"path": "local/dolj/macesu-de-sus/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 54/2025 privind însușirea procesului-verbal de negociere în vederea cumpărării unei case de locuit și teren aferent în suprafată de 2114 mp, în vederea realizării obiectivului ,,Achiziționare teren intravilan în comuna Măceșu de Sus, județul Dolj",
+"short": "HCL Măceșu de Sus nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246241",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--macesu-de-sus-55-2025",
 "path": "local/dolj/macesu-de-sus/2025/55",
 "kind": "local",
@@ -1018,6 +1238,50 @@
 "council_name": "Consiliul Local al Comunei Măceșu de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-57-2025",
+"path": "local/dolj/macesu-de-sus/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 57/2025 privind modificarea art.2 și 4 la HCL 54/28.10.2025 La Proiectul de hotărâre privind însușirea procesului-verbal de negociere în vederea cumpărării unei case de locuit și teren aferent în suprafată de 2114 mp, în vederea realizării obiectivului ,,Achiziționare teren intravilan în comuna Măceșu de Sus, județul Dolj,,",
+"short": "HCL Măceșu de Sus nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246244",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--macesu-de-sus-58-2025",
+"path": "local/dolj/macesu-de-sus/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măceșu de Sus nr. 58/2025 privind aprobarea cumpărării în vederea cumpărării unui teren intravilan precum și a casei de locuit aflată pe acest teren în suprafață de 2114 mp, în vederea realizării obiectivului ,,Achiziționare teren intravilan în comuna Măceșu de Sus, județul Dolj,,",
+"short": "HCL Măceșu de Sus nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/macesudesus-dj/registru-hcl/246245",
+"council": "dolj/macesu-de-sus",
+"council_name": "Consiliul Local al Comunei Măceșu de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -113,6 +113,29 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-6-2021",
+"path": "local/dolj/ostroveni/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 6/2021",
+"short": "HCL Ostroveni nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/15634",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-7-2021",
 "path": "local/dolj/ostroveni/2021/7",
 "kind": "local",
@@ -180,6 +203,50 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-10-2021",
+"path": "local/dolj/ostroveni/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 10/2021 privind validarea terenurilor din intravilanul comunei Ostroveni ce pot fi atribuite in folosinta gratuita ,in baza legii nr. 15/2003",
+"short": "HCL Ostroveni nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/15638",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-11-2021",
+"path": "local/dolj/ostroveni/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 11/2021 privind constatarea validarii mandatului supleantului ce va ocupa postul de consilier local al Consiliului Local Ostroveni declarat vacant pe lista PSD",
+"short": "HCL Ostroveni nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/15639",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-12-2021",
 "path": "local/dolj/ostroveni/2021/12",
 "kind": "local",
@@ -199,6 +266,50 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-13-2021",
+"path": "local/dolj/ostroveni/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 13/2021 privind inchirierea prin licitatie publica suprefetei de 45 mp din imobilul Dispensar Uman Listeava, proprietate publica a comunei Ostroveni",
+"short": "HCL Ostroveni nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/15641",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-14-2021",
+"path": "local/dolj/ostroveni/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 14/2021 privind inchirierea prin licitatie publica suprafetei de 59,24 mp din imobilul Cladire de interes comunal (Scoala nr. 2 Ostroveni ), proprietate publica a comunei Ostroveni",
+"short": "HCL Ostroveni nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/15642",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +401,28 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-19-2021",
+"path": "local/dolj/ostroveni/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 19/2021 privind închirierea pajiștilor în suprafață de 400,34 hectare, aflate în proprietatea privată a comunei Ostroveni, județul Dolj",
+"short": "HCL Ostroveni nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-22",
+"latest": "2021-02-22",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/17787",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-20-2021",
 "path": "local/dolj/ostroveni/2021/20",
 "kind": "local",
@@ -331,6 +464,50 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-22-2021",
+"path": "local/dolj/ostroveni/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 22/2021 privind stabilirea incarcaturii de animale/ha la nivelul UAT Ostroveni in vederea inchirierii pasunilor permanente ale comunei Ostroveni",
+"short": "HCL Ostroveni nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-23",
+"latest": "2021-03-23",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/20754",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-23-2021",
+"path": "local/dolj/ostroveni/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 23/2021 privind concesionarea prin licitatie publica a imobiliului teren intravilan in suprafata de 5247 mp din totalul de 9600mp ,domeniul privat al com.Ostrovenii,inscris in CF 41092 a localitatiiOstroveni",
+"short": "HCL Ostroveni nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/21733",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -420,6 +597,29 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-28-2021",
+"path": "local/dolj/ostroveni/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 28/2021",
+"short": "HCL Ostroveni nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-28",
+"latest": "2021-04-28",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/23709",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -665,6 +865,51 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-40-2021",
+"path": "local/dolj/ostroveni/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 40/2021",
+"short": "HCL Ostroveni nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/26574",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-41-2021",
+"path": "local/dolj/ostroveni/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 41/2021 privind aprobarea Actului aditional nr. 1 la Contractul de inchiriere a pajistilor nr. 5/30.03.2021",
+"short": "HCL Ostroveni nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/26575",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-42-2021",
 "path": "local/dolj/ostroveni/2021/42",
 "kind": "local",
@@ -706,6 +951,29 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-44-2021",
+"path": "local/dolj/ostroveni/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 44/2021",
+"short": "HCL Ostroveni nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-15",
+"latest": "2021-07-15",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/30087",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -751,6 +1019,72 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-47-2021",
+"path": "local/dolj/ostroveni/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 47/2021 privind constatarea validarii mandatului supleantului ce va ocupa postul de consilier local al Consiliului Local Ostroveni declarat vacant pe lista PSD",
+"short": "HCL Ostroveni nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/31271",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-48-2021",
+"path": "local/dolj/ostroveni/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 48/2021 privind modificarea componentei comisiei de specialitate pentru programe de dezvoltare economico-socială, buget-finanţe, administrarea domeniului public şi privat,agricultură, gospodărire comunală, protecţia mediului, servicii, comerţ, urbanism şi amenajarea teritoriului",
+"short": "HCL Ostroveni nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/31272",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-49-2021",
+"path": "local/dolj/ostroveni/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 49/2021 privind alegerea viceprimarului comunei Ostroveni",
+"short": "HCL Ostroveni nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/31273",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -841,6 +1175,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-54-2021",
+"path": "local/dolj/ostroveni/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 54/2021 privind inchirierea prin licitatie publica a imobilului Teren intravilan in suprafata de 340 mp (in curtea Remiza PSI si una camera din Caminul Cultural cu aria de 12,40 mp, proprietate publica a comunei Ostroveni",
+"short": "HCL Ostroveni nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/34357",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -976,6 +1332,50 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-61-2021",
+"path": "local/dolj/ostroveni/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 61/2021 privind aprobarea numărului de burse si a cuntumului burselor pentru elevii inscrisi la Scoala Gimnaziala Ostroveni",
+"short": "HCL Ostroveni nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/36488",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-62-2021",
+"path": "local/dolj/ostroveni/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 62/2021 privind desemnarea a doi reprezentanti ai Consiliului Local Ostroveni in Consiliul de Administratie al Scolii Gimnaziale Ostroveni",
+"short": "HCL Ostroveni nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/36486",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-63-2021",
 "path": "local/dolj/ostroveni/2021/63",
 "kind": "local",
@@ -1017,6 +1417,138 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-65-2021",
+"path": "local/dolj/ostroveni/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 65/2021 privind modificarea componentei comisiilor de specialitate nr. 1 si 3 din cadrul Consiliului Local Ostroveni",
+"short": "HCL Ostroveni nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/36491",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-66-2021",
+"path": "local/dolj/ostroveni/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 66/2021 privind concesionarea prin licitatie publica a imobiliului teren intravilan in suprafata de 5000 mp domeniul privat al com.Ostroveni,inscris in CF 30642, a localitatii Ostroveni,Lot 3",
+"short": "HCL Ostroveni nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/38520",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-67-2021",
+"path": "local/dolj/ostroveni/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 67/2021 privind concesionarea prin licitatie publica a imobiliului teren intravilan in suprafata de 5000 mp domeniul privat al com.Ostroveni,inscris in CF 30642 a localitatii Ostroveni,Lotul 4",
+"short": "HCL Ostroveni nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/38521",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-68-2021",
+"path": "local/dolj/ostroveni/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 68/2021 privind concesionarea prin licitatie publica a imobiliului teren intravilan in suprafata de 4284 mp domeniul privat al com.Ostrovenii,inscris in CF 30642 a localitatii Ostroveni,Lot 5",
+"short": "HCL Ostroveni nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/38522",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-69-2021",
+"path": "local/dolj/ostroveni/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 69/2021 privind concesionarea prin licitatie publica a imobiliului teren intravilan in suprafata de 2500 mp domeniul public al com.Ostrovenii,inscris in CF 42053 a localitatii Ostroveni",
+"short": "HCL Ostroveni nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/38523",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-70-2021",
+"path": "local/dolj/ostroveni/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 70/2021 privind inchirierea prin licitatie publica a 900 mp din totalul de 1200 mp din imobilul Grajd 6 ,fosta Zootehnie Ostroveni,proprietate privata a comunei Ostroveni",
+"short": "HCL Ostroveni nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-19",
+"latest": "2021-10-19",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/38524",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,51 @@
  "shard": "local/dolj/celaru/2025",
  "acts": [
   {
+   "slug": "hcl-dolj--celaru-13-2025",
+   "path": "local/dolj/celaru/2025/13",
+   "short": "HCL Celaru nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Celaru nr. 13/2025 privind Codut adhinistraliv, cu modificldle si cohpleldrile ulr€dos€. A Legii - cadru nr, I 5 3DO I 7 privind salarizsea peBonalului pl dlit din tondui pub tice. cu modificnrile ti conlletdrileullerioeq r. Prevederil€ oUC s7l2019 lrivjnd Codut odninisrrarivr in confomjtE1e cu AnicolLrl 405 - Srabilirea strctuii de poslui -,,Strucru6 de posturi se stabilefle pe b&a rctivildtilor prevdmle la an.370",
+   "url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/04/HCL-13.pdf",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://www.primariacelarudolj.ro/wp-content/uploads/2025/04/HCL-13.pdf",
+     "sha256": "29bb3c927ff80a329a45506f0721b527a1292d022241fdfd721ea11c56d7c029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--celaru-16-2025",
+   "path": "local/dolj/celaru/2025/16",
+   "short": "HCL Celaru nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Celaru nr. 16/2025 Privind aprobarea bugetului de venituri qi cheltuieli pe anul 2025,a1 comunei Celaru, judelul Dolj",
+   "url": "https://www.primariacelarudolj.ro/wp-content/uploads/2026/01/HCL-16.pdf",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacelarudolj.ro/wp-content/uploads/2026/01/HCL-16.pdf",
+     "sha256": "b0a774cffc034d1420b26016657875679f22d81be6d8b1a4a1244907ecb08416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--celaru-18-2025",
+   "path": "local/dolj/celaru/2025/18",
+   "short": "HCL Celaru nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Celaru nr. 18/2025 Privind alegerea pregedintelui de qedin|I al Consiliului Local pentru perioada Mai - lulie 2025 Consiliul Local al comunei Celaru , judelul Dolj. t. Av6nd in vedere; a",
+   "url": "https://www.primariacelarudolj.ro/wp-content/uploads/2026/01/HCL-18.pdf",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primariacelarudolj.ro/wp-content/uploads/2026/01/HCL-18.pdf",
+     "sha256": "da54a6dd2f469d74d97a891a4c24f3c9d7d9cd49fe1367715f112691397d02f9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--celaru-35-2025",
    "path": "local/dolj/celaru/2025/35",
    "short": "HCL Celaru nr. 35/2025",

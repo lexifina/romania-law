@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-2-2021",
+"path": "local/dolj/afumati/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 2/2021",
+"short": "HCL Afumați nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49537",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--afumati-3-2021",
 "path": "local/dolj/afumati/2021/3",
 "kind": "local",
@@ -69,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-5-2021",
+"path": "local/dolj/afumati/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 5/2021 privind actualizarea componenței Comisiei de specialitate nr. 5 - Comisia pentru învățământ, sănătate, sport și tineret din cadrul Consiliului Local Afumați",
+"short": "HCL Afumați nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49562",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--afumati-6-2021",
 "path": "local/dolj/afumati/2021/6",
 "kind": "local",
@@ -88,6 +133,50 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-7-2021",
+"path": "local/dolj/afumati/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 7/2021 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2020",
+"short": "HCL Afumați nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49564",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-8-2021",
+"path": "local/dolj/afumati/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 8/2021 privind aprobarea Actului Adițional nr. 2 la Contractul nr. 370/22.05.2018 „Delegarea prin concesionre a gestiunii unor activități componente ale serviciului de salubrizare, respectivcolectarea și transportul deșeurilor municipale și a altor fluxuri de deșeuri în județul Dolj și operarea stației de sortare și transfer Goicea”",
+"short": "HCL Afumați nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49565",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +356,29 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-17-2021",
+"path": "local/dolj/afumati/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 17/2021",
+"short": "HCL Afumați nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-15",
+"latest": "2021-03-15",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49576",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-dolj--afumati-18-2021",
 "path": "local/dolj/afumati/2021/18",
 "kind": "local",
@@ -311,6 +423,28 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-20-2021",
+"path": "local/dolj/afumati/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 20/2021 privind închirierea, prin licitație publică, a imobilului „Brutărie Afumați” situat în comuna Afumați, sat Afumați, județul Dolj",
+"short": "HCL Afumați nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49593",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--afumati-21-2021",
 "path": "local/dolj/afumati/2021/21",
 "kind": "local",
@@ -330,6 +464,29 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-22-2021",
+"path": "local/dolj/afumati/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 22/2021",
+"short": "HCL Afumați nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-27",
+"latest": "2021-04-27",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49605",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -509,6 +666,28 @@
 }
 },
 {
+"slug": "hcl-dolj--afumati-31-2021",
+"path": "local/dolj/afumati/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 31/2021 privind închirierea prin licitație publică, a suprafeței de 36mp din imobilul „Dispensaruman Boureni” situat în comuna Afumați, localitatea Boureni, județul Dolj",
+"short": "HCL Afumați nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49618",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--afumati-32-2021",
 "path": "local/dolj/afumati/2021/32",
 "kind": "local",
@@ -550,6 +729,29 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-34-2021",
+"path": "local/dolj/afumati/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 34/2021",
+"short": "HCL Afumați nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-21",
+"latest": "2021-07-21",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49621",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -660,6 +862,94 @@
 "council_name": "Consiliul Local al Comunei Afumați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-40-2021",
+"path": "local/dolj/afumati/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 40/2021 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul I al anului 2021",
+"short": "HCL Afumați nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-13",
+"latest": "2021-08-13",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49627",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-41-2021",
+"path": "local/dolj/afumati/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 41/2021 privind alocarea sumei de 3.500 lei din bugetul de venituri și cheltuieli al comunei Afumați pentru achiziționarea unui ghiozdan cu rechizite-cadou, elevilor din clasa 0 și clasa I ai Școlii Gimnaziale Afumați",
+"short": "HCL Afumați nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-09",
+"latest": "2021-09-09",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49630",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-42-2021",
+"path": "local/dolj/afumati/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 42/2021 privind aprobarea traseului și stațiilor de îmbarcare-debarcare pentru microbuzul de transport al elevilor Școlii Gimnaziale Afumați",
+"short": "HCL Afumați nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-09",
+"latest": "2021-09-09",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49631",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--afumati-43-2021",
+"path": "local/dolj/afumati/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 43/2021 privind desemnarea reprezentantului Consiliului Local Afumați în Consiliul de Administrație al Școlii Gimnaziale Afumați",
+"short": "HCL Afumați nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-09",
+"latest": "2021-09-09",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/49632",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--plenita-2-2025",
+   "path": "local/dolj/plenita/2025/2",
+   "short": "HCL Plenița nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Plenița nr. 2/2025 privind desemnarea presedintelui de sedinta",
+   "url": "https://emol.ro/plenita-dj/registru-hcl/196189",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/plenita-dj/registru-hcl/196189",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--plenita-20-2025",
    "path": "local/dolj/plenita/2025/20",
    "short": "HCL Plenița nr. 20/2025",

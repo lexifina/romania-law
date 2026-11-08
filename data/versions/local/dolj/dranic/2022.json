@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dranic/2022",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dranic-1-2022",
+   "path": "local/dolj/dranic/2022/1",
+   "short": "HCL Drănic nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 1/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/01/HCL-nr.-1-din-05.01.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/01/HCL-nr.-1-din-05.01.2022.pdf",
+     "sha256": "bbaf147f5a6c972f6ba3d7f67ad7b0db7b7ec093badb64308a312551382c75d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-10-2022",
+   "path": "local/dolj/dranic/2022/10",
+   "short": "HCL Drănic nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 10/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-10-din-31.03.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-10-din-31.03.2022.pdf",
+     "sha256": "019eee21ac2869f4cd574cb329ed8ccf73525393200370d9731900856debbc49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-11-2022",
+   "path": "local/dolj/dranic/2022/11",
+   "short": "HCL Drănic nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 11/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-11-din-31.03.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-11-din-31.03.2022.pdf",
+     "sha256": "4613dac44ad86d7246272e391c3f2eb3c7cd09d689228dfe493d57dbd7220bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-12-2022",
+   "path": "local/dolj/dranic/2022/12",
+   "short": "HCL Drănic nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 12/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-12-din-31.03.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-12-din-31.03.2022.pdf",
+     "sha256": "b933328e5553ad481b1004f833ab81947086d6d6e98ffa66d2f655a4a2908a41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-13-2022",
+   "path": "local/dolj/dranic/2022/13",
+   "short": "HCL Drănic nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 13/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-13-din-28.04.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-13-din-28.04.2022.pdf",
+     "sha256": "0ca296c2714b5a35a0842dd79f30fb12fdebf5c5de92fc4dc606dcdf5b19729c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-14-2022",
+   "path": "local/dolj/dranic/2022/14",
+   "short": "HCL Drănic nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 14/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-14-din-28.04.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-14-din-28.04.2022.pdf",
+     "sha256": "d711c6c3109d699c864f61715cdc0a1d86bfe17d8bbfbda98e55855ff37135c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-19-2022",
+   "path": "local/dolj/dranic/2022/19",
+   "short": "HCL Drănic nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 19/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/06/HCL-nr.-19-din-08.06.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/06/HCL-nr.-19-din-08.06.2022.pdf",
+     "sha256": "d7cdf58719966384d29d824c8aa96415cf80795936bb668e1c363b5fdda336b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-2-2022",
+   "path": "local/dolj/dranic/2022/2",
+   "short": "HCL Drănic nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 2/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/01/HCL-nr.-2-din-05.01.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/01/HCL-nr.-2-din-05.01.2022.pdf",
+     "sha256": "57e1329e77b135c9703b2ec109a99c4f9f10ff17785acf20126d73d5ba7df7cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-20-2022",
+   "path": "local/dolj/dranic/2022/20",
+   "short": "HCL Drănic nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 20/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/07/HCL-nr.-20-din-15.07.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/07/HCL-nr.-20-din-15.07.2022.pdf",
+     "sha256": "03f6cce0cffd18955c15dcea7620038ce89749677522891389566249d14c5615"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-21-2022",
+   "path": "local/dolj/dranic/2022/21",
+   "short": "HCL Drănic nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 21/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/07/HCL-nr.-21-din-15.07.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/07/HCL-nr.-21-din-15.07.2022.pdf",
+     "sha256": "80be97e84f5c83821923afcafc1603609ebaf72bb63f30d72b8ea498a47cfd38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-22-2022",
+   "path": "local/dolj/dranic/2022/22",
+   "short": "HCL Drănic nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 22/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/07/HCL-nr.-22-din-15.07.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/07/HCL-nr.-22-din-15.07.2022.pdf",
+     "sha256": "ca0e17dcbf5a1022d9d3af43778a8e693c99fa7c78c3f62cfc8046e0f57ea54c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-23-2022",
+   "path": "local/dolj/dranic/2022/23",
+   "short": "HCL Drănic nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 23/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/08/HCL-nr.-23-din-27.07.2022-aprobare-indicatori.pdf",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/08/HCL-nr.-23-din-27.07.2022-aprobare-indicatori.pdf",
+     "sha256": "ff8808ab2387046cebd6c51beabb9ffdc236a55b29b80851da092a685cbbda07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-24-2022",
+   "path": "local/dolj/dranic/2022/24",
+   "short": "HCL Drănic nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 24/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/08/HCL-nr.-24-din-11.08.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/08/HCL-nr.-24-din-11.08.2022.pdf",
+     "sha256": "bfcb61b8291abb290bf2dfcca645bb39cd9ba0333a390dbb115dd33d3dbc13b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-25-2022",
+   "path": "local/dolj/dranic/2022/25",
+   "short": "HCL Drănic nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 25/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/08/HCL-nr.-25-din-11.08.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/08/HCL-nr.-25-din-11.08.2022.pdf",
+     "sha256": "6ad3c3e4f76cef8ee128e5ad663767c541082abd640d295031f03c8960e7c38e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-26-2022",
+   "path": "local/dolj/dranic/2022/26",
+   "short": "HCL Drănic nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 26/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/09/HCL-nr.-26-din-22.09.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/09/HCL-nr.-26-din-22.09.2022.pdf",
+     "sha256": "26d88080d566e868ca3402fcaace6c42094a7af86727d1f6dc2fb084fa282e82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-27-2022",
+   "path": "local/dolj/dranic/2022/27",
+   "short": "HCL Drănic nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 27/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/09/HCL-nr.-27-din-22.09.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/09/HCL-nr.-27-din-22.09.2022.pdf",
+     "sha256": "e9947d33ae746b5d24abaade6fb95472adfd8ae09725b3616e78df08d950d278"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-28-2022",
+   "path": "local/dolj/dranic/2022/28",
+   "short": "HCL Drănic nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 28/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/10/HCL-nr.-28-din-29.09.2022-rectificare-buget.pdf",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/10/HCL-nr.-28-din-29.09.2022-rectificare-buget.pdf",
+     "sha256": "228f8c2f7b0c5c06a34a177d21b7469c717a1a42967b892f65d9ac134b5773e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-29-2022",
+   "path": "local/dolj/dranic/2022/29",
+   "short": "HCL Drănic nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 29/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/11/HCL-nr.-29-din-26.10.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/11/HCL-nr.-29-din-26.10.2022.pdf",
+     "sha256": "4401db25f17f52753fecf703e8e7a2bf2987021cbcca75bb08b40839740b2ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-30-2022",
+   "path": "local/dolj/dranic/2022/30",
+   "short": "HCL Drănic nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 30/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/11/HCL-nr.-30-din-26.10.2022-rectificare-buget.pdf",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/11/HCL-nr.-30-din-26.10.2022-rectificare-buget.pdf",
+     "sha256": "cbfe30e299abc49c0f2d669b5cd1bb5bc3ad16cfe6ce33e6f346d5f0259d55c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-35-2022",
+   "path": "local/dolj/dranic/2022/35",
+   "short": "HCL Drănic nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 35/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/12/HCL-nr.-35-din-20.12.2022-rectificare-buget.pdf",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/12/HCL-nr.-35-din-20.12.2022-rectificare-buget.pdf",
+     "sha256": "4066b85b84e916fdc6e31e40230fb0365b9256a325dae0815e86daadb3664fd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-36-2022",
+   "path": "local/dolj/dranic/2022/36",
+   "short": "HCL Drănic nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 36/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/12/HCL-nr.-36-din-23.12.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/12/HCL-nr.-36-din-23.12.2022.pdf",
+     "sha256": "340faee0dbc44256ff6b72665fa4b339cb4b5f5b0848d4fe73f4fa99bb9e5261"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-4-2022",
+   "path": "local/dolj/dranic/2022/4",
+   "short": "HCL Drănic nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 4/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/02/HCL-nr.-4-din-11.02.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/02/HCL-nr.-4-din-11.02.2022.pdf",
+     "sha256": "bf8f97709bc418e113ac6191406c05119fa1abc9bed40629db9fb0476213620f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-5-2022",
+   "path": "local/dolj/dranic/2022/5",
+   "short": "HCL Drănic nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 5/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/02/HCL-nr.-5-din-11.02.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/02/HCL-nr.-5-din-11.02.2022.pdf",
+     "sha256": "502f1e8a539673747a34ae211ec54f1fa71f57832739b76c5524021a82bd2034"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-6-2022",
+   "path": "local/dolj/dranic/2022/6",
+   "short": "HCL Drănic nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 6/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/02/HCL-nr.-6-din-11.02.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/02/HCL-nr.-6-din-11.02.2022.pdf",
+     "sha256": "8ff84bf66a567b1ce86256d74089043873c9e6f46a13e75f3e998bf21fa32a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-7-2022",
+   "path": "local/dolj/dranic/2022/7",
+   "short": "HCL Drănic nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 7/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/02/HCL-nr.-7-din-11.02.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/02/HCL-nr.-7-din-11.02.2022.pdf",
+     "sha256": "71d59161cefde6b41bd55ec523869f9b7b5f6bf3dd08fd5a396c836bf3bc3640"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-8-2022",
+   "path": "local/dolj/dranic/2022/8",
+   "short": "HCL Drănic nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 8/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-8-din-31.03.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-8-din-31.03.2022.pdf",
+     "sha256": "1c9611192ba881d00592962e21af4b411ce87907367ef919146daa786a1fb03c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dranic-9-2022",
+   "path": "local/dolj/dranic/2022/9",
+   "short": "HCL Drănic nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Drănic nr. 9/2022",
+   "url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-9-din-31.03.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://primariadranic.ro/wp-content/uploads/2022/04/HCL-nr.-9-din-31.03.2022.pdf",
+     "sha256": "b054513fe267b64428b08f773a75abcb6dc9090833b38a69f9f290a65b69d9a7"
+    }
+   ]
+  }
+ ]
+}

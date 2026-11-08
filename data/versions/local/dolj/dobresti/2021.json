@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/dobresti/2021",
+ "acts": [
+  {
+   "slug": "hcl-dolj--dobresti-10-2021",
+   "path": "local/dolj/dobresti/2021/10",
+   "short": "HCL Dobrești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 10/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h10.pdf",
+     "sha256": "a75d99ebed1fe9c37f6dc889798e6a662834a5529eacc1fd33342c56a59567bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-11-2021",
+   "path": "local/dolj/dobresti/2021/11",
+   "short": "HCL Dobrești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 11/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h11.pdf",
+     "sha256": "ba63062b1c84fc84ee734494635a55b10bd2dc1e38f0f6052feaadcfdd4c77c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-12-2021",
+   "path": "local/dolj/dobresti/2021/12",
+   "short": "HCL Dobrești nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 12/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h12.pdf",
+     "sha256": "441c0a2b342eb26949de8dc84fdd1dfb4d771fae19d668026fa560fa97698933"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-13-2021",
+   "path": "local/dolj/dobresti/2021/13",
+   "short": "HCL Dobrești nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 13/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h13.pdf",
+     "sha256": "e2cf92a698f2032986a0531791027cda3cbd42f1ad337c430583fa339569eb5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-14-2021",
+   "path": "local/dolj/dobresti/2021/14",
+   "short": "HCL Dobrești nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 14/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h14.pdf",
+     "sha256": "035772ef3ed6b88fb32d9f2fcfa9a6f718a38c4bba146e833747facb5a1aa88d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-15-2021",
+   "path": "local/dolj/dobresti/2021/15",
+   "short": "HCL Dobrești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 15/2021 pentru anul 2021 va contine urmatoarele investitii : VALOAREA TOTALA A Denumirea investitiei ACHIZITIEI miiLEI Supraveghcre video a 45233140-2 localitatii Dobresti 't t322200-3 Asfaltare strazi sat Caciulatesti Ali-miiiire cu gaze natrrale",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h15.pdf",
+     "sha256": "9b76a7cd72f2e83fb2bc817d9ce8d3b015cf4ffe28b6da6a77d08b218264d0f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-16-2021",
+   "path": "local/dolj/dobresti/2021/16",
+   "short": "HCL Dobrești nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 16/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h16.pdf",
+     "sha256": "f05b8fc3f3a6fea291185f3c76ae683d66bfd80c8a8a67ee13524dd437498cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-19-2021",
+   "path": "local/dolj/dobresti/2021/19",
+   "short": "HCL Dobrești nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 19/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h19.pdf",
+     "sha256": "f486038219ef81f3ec0e524f7cca61df99a0d373aed5c88ff5c1d08d6802dba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-2-2021",
+   "path": "local/dolj/dobresti/2021/2",
+   "short": "HCL Dobrești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 2/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h2.pdf",
+     "sha256": "c08331433b9649e843013f5e433286cd6b7e2ccd7289fb7bf599aae5519bfebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-20-2021",
+   "path": "local/dolj/dobresti/2021/20",
+   "short": "HCL Dobrești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 20/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h20.pdf",
+     "sha256": "018e9ed7bba85468eb1f78565802c2d990fb59435df646c6f1afd6d3f3b46d09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-21-2021",
+   "path": "local/dolj/dobresti/2021/21",
+   "short": "HCL Dobrești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 21/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h21_bis.pdf",
+     "sha256": "9ac92c5ad6ade497f083aabf83e5efe91cdbe577944a755cace8690f3cb023a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-23-2021",
+   "path": "local/dolj/dobresti/2021/23",
+   "short": "HCL Dobrești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 23/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h23.pdf",
+     "sha256": "5af28cebb0aeabcf0835a829fbb932d4956591bd7fad2a42e2f99e08e0f1477a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-24-2021",
+   "path": "local/dolj/dobresti/2021/24",
+   "short": "HCL Dobrești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 24/2021 privind nprobarca incheierii cxctcltiului bug€tar la slirsitul trin.lll2o21'al BVC al comunei Dobresli,judetul Dolj' Cohsllnt Loctlol co,& elDohrusti,i .tut Dolj ,hthutu h, Nli tt onlltratu ii noh tu 20A7D021' oQl' 10'00' -R;Ie;olut h9I5/toA7/2021 n oc ta GtPAi DVRfIiLtO.tIiU'fttoUNLA6T\\C\"UcouMiltitet t4trlyl'ceotito?tknyacboa\\PnncenelhreelillltitotclttFcot thitnt or; h ,tt.\\taintt erlii,n ntt'o t",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h24.pdf",
+     "sha256": "71737d74a725228a5644e214e9e782b5c1fef3501570dd9595a7a151e6474411"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-25-2021",
+   "path": "local/dolj/dobresti/2021/25",
+   "short": "HCL Dobrești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 25/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h25.pdf",
+     "sha256": "596287e133012ef958672e5e46e3f98c5d1704908ea86a84f8f3e4ffc59688c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-26-2021",
+   "path": "local/dolj/dobresti/2021/26",
+   "short": "HCL Dobrești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 26/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h26.pdf",
+     "sha256": "15a97ace90fca5b360e3f097d8bfbf78ec65535700207afc783eb9b5fb708434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-27-2021",
+   "path": "local/dolj/dobresti/2021/27",
+   "short": "HCL Dobrești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 27/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h27.pdf",
+     "sha256": "93714e4b08f6facb03f4905f843fd8dbfd4a367c23ab98dc338b89999213d38d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-28-2021",
+   "path": "local/dolj/dobresti/2021/28",
+   "short": "HCL Dobrești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 28/2021 PENTRU FINANTAREA INVESTITIILOR RU]ULE - slFalRliN,ptinnr.6c3u5e/1s1e/1so0t/i2c0it1a8pttuehstDgtiorclaep2in1d3.l3n1l3a\\tea|l,dtewl9d/0e34/2r02g2u,anSftfciiisl ointiplreucgeahmt dnelie10d0e%lanFoNbGligCdItMiiloMr da '-ntt dnh d oransuhi de 213.313 lci tli\" fonttu.tle ,wmtbknablle pentu lnPlement$ea pruiectulul ureae spartu oncar'ttzaat rAac oE siPTiMiNl $t DoLiRI lN coMUNA co ?aca ui defttto larc n",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-09-02",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h28.pdf",
+     "sha256": "a6b3a9371d6bacbaec5295bcdf452d47c12017fae13f8ab19dad33393bd11e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-29-2021",
+   "path": "local/dolj/dobresti/2021/29",
+   "short": "HCL Dobrești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 29/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-09-02",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h29.pdf",
+     "sha256": "96de91a91153344ef6cb59dcb55ac4d4621be56b9158c8646f40fc998bd88dda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-30-2021",
+   "path": "local/dolj/dobresti/2021/30",
+   "short": "HCL Dobrești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 30/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h30.pdf",
+     "sha256": "519a8288793dd965d2cceb8b9f45f47e444e13a141bcf509720e1926c478ca5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-31-2021",
+   "path": "local/dolj/dobresti/2021/31",
+   "short": "HCL Dobrești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 31/2021 privind Aprobarea rectificirii BVC Dobre$ti ,la nivelul lunii septembrie 2021, Cailiul Local at eohmei Dobrcstijutetut Dotj ,t \\unit i,t sedhta ontnffa in data (te 30/09/2021, .d.10,00,in sola de sedinte a P maiei Dobresti, Avind in vedere : {eferatul nr. 1346/2710912021, intocmit de primarul comunei Dobresti, -sdresa CRRTRAZT 6980fi6/09 t2021-transmisa de ANAF_FINANTELb PUBLICE DOLJ, *eferatul nr",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h31.pdf",
+     "sha256": "5f09198232dee3f2af26a5712ec42b0ea011de7fec4646421069798a8e0e3dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-32-2021",
+   "path": "local/dolj/dobresti/2021/32",
+   "short": "HCL Dobrești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 32/2021 pentru hcltnoh(iflrc .te to 0 nlii tei ta s0,nii tei, dih citt: ,1l-J.,t.t.+,\"x\"t,i\"\\,i \"p-a\"t;lu;;t;i ,,;L:;,;,,D,Iia:iJ;.,:<i,nf,f,,r,r,,;-ift:),^,;,- ii..ii tzo .ap.61.02.r.t. .h .. t.ei. t.a 70 hii ki,aceastt esasi ta adic,tu. ,1tt \\La DE DL? ULt.1RL\\E-rttDtFtC-1L :..:i t a! tr :-: nit tei ta 622 hllt::NrTuRr,de ta 2s ,nii tei, ta 7s nii tei iar pattea i I .::-.'::: j:::_-..: j. :e--..1! e .td",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h32.pdf",
+     "sha256": "152ff0e7cdcfb125d0cfa478f228c9260f963c56e9a691f548ea9620e37c474c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-33-2021",
+   "path": "local/dolj/dobresti/2021/33",
+   "short": "HCL Dobrești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 33/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h33.pdf",
+     "sha256": "010c55b055adfb8abee9716d69c1201f9f12c59216872c1d7df4155b0daf213b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-34-2021",
+   "path": "local/dolj/dobresti/2021/34",
+   "short": "HCL Dobrești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 34/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h34.pdf",
+     "sha256": "786f05e4982ec3c68bdd812dd7e346fcf681efccf640a79df40bb9937d00cf45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-35-2021",
+   "path": "local/dolj/dobresti/2021/35",
+   "short": "HCL Dobrești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 35/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h35.pdf",
+     "sha256": "44df78be50db8306f38b974bde11b2d74f9d7afb5d633e12e5ae26ac81b3f33a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-36-2021",
+   "path": "local/dolj/dobresti/2021/36",
+   "short": "HCL Dobrești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 36/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h36.pdf",
+     "sha256": "931a34b70b8a1ff9289c3e1c9cdd2c62bba54e7197837cf2516f773d315b61f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-4-2021",
+   "path": "local/dolj/dobresti/2021/4",
+   "short": "HCL Dobrești nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 4/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h4.pdf",
+     "sha256": "72eca8bb91c5ce919440ff6ec2393d3c9c3defb7672d0f4a370870b9ae4ed773"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-40-2021",
+   "path": "local/dolj/dobresti/2021/40",
+   "short": "HCL Dobrești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 40/2021 pentru spatiul e isi desfasoara actiyitatea CABINET MEIC FAMILIE CIOVICa itional. iiOniCL,pri, u -. 2 Se q:obaprctu,,sifta contmctttat.te _,PINA LA_--_____ cokcesiuke ,pantru o pe onao,u -5--,qnr,@n I.J Salariatii.compartimenrelor achizitii pubtice si linanciar-contabil vor duce la indeplinire prevederi. ele Prezenta hotarire va fi comunicata ; ITUTIEI PREFECTULUI.JUDETULUI DOLJ, PARTIMENTULUI FI\\",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h40.pdf",
+     "sha256": "05e0ed4454d8582752c25f9e580ef6eabb3c1e3ec603ae92655f2a88c8642982"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-41-2021",
+   "path": "local/dolj/dobresti/2021/41",
+   "short": "HCL Dobrești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 41/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h41.pdf",
+     "sha256": "dbe12ebfc58c4d0d1b81bb355f45c19853100a910f9507ff3fedb24777b73118"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-43-2021",
+   "path": "local/dolj/dobresti/2021/43",
+   "short": "HCL Dobrești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 43/2021 pentru plata unor chcltuieii curenie si dc cHei_iuirI-i . :\\.. RILOR BUuETULT JLOCALCRF\\CDLt 14TqMII LLi ,LAl729MllLl]l ::5rt-..[,i.;it\"r^, rcH]LtBRAREA BUGETULUT r_ocAl- (11.02.06)cREsc DE LA toeJ CII E LTUIELILOR B UCETULUI LOCA L PE ANUI- 2O2I ,CRESC DE LA 4026 MITLEI LA, SUMA REPARI']ZATA IN VALOARE TOTALA DE 250 MII LEI INILUENTEAZA iRELE CAPIToI-E: 2.CULTUM ,RECREERE ,RELIGIE STJ MAJOREAZA C",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h43.pdf",
+     "sha256": "e232ebcf1dbd49c8cb608f1bf668eef0d37d597189a4d79a1207d5a9e19cd8e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-5-2021",
+   "path": "local/dolj/dobresti/2021/5",
+   "short": "HCL Dobrești nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 5/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h5.pdf",
+     "sha256": "0a53fcd4654cd49dad78da8bbb69384ff680f04ec779fb78e86ab6f7e4c9054b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-6-2021",
+   "path": "local/dolj/dobresti/2021/6",
+   "short": "HCL Dobrești nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 6/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h6.pdf",
+     "sha256": "40c4114f264e7c991ba409b0710da192044952e9c3fcc1916b5ca96a569e76b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-7-2021",
+   "path": "local/dolj/dobresti/2021/7",
+   "short": "HCL Dobrești nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 7/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h7.pdf",
+     "sha256": "231167ae32c4d1fd83cd38c921ac13a03cfb81a1a55917a4d59c13da190c17a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-8-2021",
+   "path": "local/dolj/dobresti/2021/8",
+   "short": "HCL Dobrești nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 8/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h8.pdf",
+     "sha256": "312c035cc8d47d0fea4b94d20dc2344fb09f1b2d2cfcb396c2268c047fd9df66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-9-2021",
+   "path": "local/dolj/dobresti/2021/9",
+   "short": "HCL Dobrești nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 9/2021",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2021/h9.pdf",
+     "sha256": "93cae34d1d9915acca5f5a7ff13dfc16c464e8940725abb1eb0e9291af40a67f"
+    }
+   ]
+  }
+ ]
+}

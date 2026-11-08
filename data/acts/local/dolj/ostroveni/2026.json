@@ -135,6 +135,96 @@
 }
 },
 {
+"slug": "hcl-dolj--ostroveni-7-2026",
+"path": "local/dolj/ostroveni/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 7/2026",
+"short": "HCL Ostroveni nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/249820",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-8-2026",
+"path": "local/dolj/ostroveni/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 8/2026",
+"short": "HCL Ostroveni nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-11",
+"latest": "2026-03-11",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/249821",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-9-2026",
+"path": "local/dolj/ostroveni/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 9/2026 privind desemnarea unui consilier local pentru a face parte din Comitetul Local pentru Situatii de Urgenta Ostroveni",
+"short": "HCL Ostroveni nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/256661",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-10-2026",
+"path": "local/dolj/ostroveni/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 10/2026 privind constatarea validarii mandatului supleantului ce va ocupa postul de consilier local al Consiliului Local Ostroveni declarat vacant pe lista PSD",
+"short": "HCL Ostroveni nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/256662",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--ostroveni-11-2026",
 "path": "local/dolj/ostroveni/2026/11",
 "kind": "local",
@@ -177,6 +267,50 @@
 "council_name": "Consiliul Local al Comunei Ostroveni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-13-2026",
+"path": "local/dolj/ostroveni/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 13/2026 privind infiintarea Compartimentului Implementare proiecte din fonduri europene in aparatul de specialitate al primarului comunei Ostroveni",
+"short": "HCL Ostroveni nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/262710",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-dolj--ostroveni-14-2026",
+"path": "local/dolj/ostroveni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 14/2026 privind reorganizarea aparatului de specialitate al primarului unității administrativ-teritoriale com.Ostroveni si serviciilor din subordinea Consiliului Local Ostroveni ca urmare a aplicării Ordonanței de Urgență a Guvernului nr. 7/2026, precum și aprobarea organigramei și a statului de funcții",
+"short": "HCL Ostroveni nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/ostroveni-dj/registru-hcl/263022",
+"council": "dolj/ostroveni",
+"council_name": "Consiliul Local al Comunei Ostroveni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

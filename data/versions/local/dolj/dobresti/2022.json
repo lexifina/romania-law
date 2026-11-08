@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--dobresti-2-2022",
+   "path": "local/dolj/dobresti/2022/2",
+   "short": "HCL Dobrești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 2/2022",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2022/h2.pdf",
+     "sha256": "bfbc59805449f5b89be2652484cc95dd914a0a77c89d6a3a6e74d42238f60258"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--dobresti-20-2022",
    "path": "local/dolj/dobresti/2022/20",
    "short": "HCL Dobrești nr. 20/2022",
@@ -168,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-dolj--dobresti-3-2022",
+   "path": "local/dolj/dobresti/2022/3",
+   "short": "HCL Dobrești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 3/2022",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2022/h3.pdf",
+     "sha256": "f3e0274214ef893f02bf072b625e41bdff71bd78a6a9b4e9a25cb70f1015c50d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--dobresti-35-2022",
    "path": "local/dolj/dobresti/2022/35",
    "short": "HCL Dobrești nr. 35/2022",
@@ -194,6 +224,66 @@
      "units": 1,
      "source_url": "http://www.primariadobresti.ro/hotarari/2022/h36.pdf",
      "sha256": "23f5c4f8c1690bb4c4382c1000c91a5a24b8d78ea3697d359db90eae45c17a7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-4-2022",
+   "path": "local/dolj/dobresti/2022/4",
+   "short": "HCL Dobrești nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 4/2022",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2022/h4.pdf",
+     "sha256": "566cd1706f8c9c6a1ff6f05be4f44e35fbcc07d1af95d340e73f7cd0ae3e6e59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-5-2022",
+   "path": "local/dolj/dobresti/2022/5",
+   "short": "HCL Dobrești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 5/2022",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2022/h5.pdf",
+     "sha256": "b6b547b77c879ccaafec2b9802c865b335f6eb1f2f859860e0a6b80e4cce8b5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-6-2022",
+   "path": "local/dolj/dobresti/2022/6",
+   "short": "HCL Dobrești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 6/2022",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2022/h6.pdf",
+     "sha256": "d00ad9a7b4be69ebefbb6bc22694b2f0a486445d4c6137d52ba0b2bc920ed205"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-7-2022",
+   "path": "local/dolj/dobresti/2022/7",
+   "short": "HCL Dobrești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 7/2022",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2022/h7.pdf",
+     "sha256": "f90bea05b3c1157e1eae3a3c9a8701da8b2c30c78a172d86e66f20eb4782f09c"
     }
    ]
   },

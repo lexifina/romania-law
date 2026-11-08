@@ -3,6 +3,321 @@
  "shard": "local/dolj/dobresti/2020",
  "acts": [
   {
+   "slug": "hcl-dolj--dobresti-1-2020",
+   "path": "local/dolj/dobresti/2020/1",
+   "short": "HCL Dobrești nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 1/2020 privind aprobarea acoperiririi definitive din excedentul bugetului local al anului 2019 (in valoare de r131ei)a deficitului la sectiunea de dezvoltare ,sursa A 'in suma de 475,637 279'948'03 lei ' XINSILTLLocALAL1ilMUNEIDTBRESTI,INTRI]NITINSEDINTA,RDINAMINDATADE0S/01/2020'oRELE IO,OO,TN LOCALI]L PNMANEI DOBRESTI ' IN BAZA: --FRo_TrENdalFAnrtEN5u7lIMT,5MAT8F,RU7p0-L1UnTsnNtI371N37AsRdBtt./In62L/0t0",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h1.pdf",
+     "sha256": "e42a93a26dd33e70a160d319b7d57d81b74f7d2bd708410c59947c53541463be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-15-2020",
+   "path": "local/dolj/dobresti/2020/15",
+   "short": "HCL Dobrești nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 15/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h15.pdf",
+     "sha256": "9f30fadd686a597012794d47e439a1e2ffc6c1369b5832e3279fd7557292c0b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-16-2020",
+   "path": "local/dolj/dobresti/2020/16",
+   "short": "HCL Dobrești nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 16/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h16.pdf",
+     "sha256": "f6e3aeb42fdd9a450e2667c2f391ba1caf181ebe1cb6033c562c3384531a48ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-17-2020",
+   "path": "local/dolj/dobresti/2020/17",
+   "short": "HCL Dobrești nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 17/2020 privind aprobarea reorgarizarii compartimerlului adminlstrativ-gospodarir€ din sh.uctura aparatului de speciilitate al prima.ului comunel Dobrestijudetul Dolj ,ln Serviut pubtic d€ Atimentrre cu Apa ,organtzat in subordinea Coisiliului Localsl coftutrei Dobrcsti,sub coordorarea PRIMARULUI COMUNEI DOBRESTI,JI]DETUL DOIJ, CONSILIAL LOCAL AL COMUNEI DOBRESTI , .N?:RUNIT IN SEDINTA ORDINAM lN DATA DE",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h17.pdf",
+     "sha256": "041c6498f60c24895cc5a342b33ccf426b140af722492844b024240881c57f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-18-2020",
+   "path": "local/dolj/dobresti/2020/18",
+   "short": "HCL Dobrești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 18/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h18.pdf",
+     "sha256": "cfb3635c2c2a38466774183471ad5ee8a1bd3fc03d36c342650189d55b5d7211"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-19-2020",
+   "path": "local/dolj/dobresti/2020/19",
+   "short": "HCL Dobrești nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 19/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h19.pdf",
+     "sha256": "1cd80c6a0d81f3fa07110c8074e0cb378483eac0ced2b7e51db39c9b27f576bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-21-2020",
+   "path": "local/dolj/dobresti/2020/21",
+   "short": "HCL Dobrești nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 21/2020 pentru realizalea obiectivului: ,,MODERNIZARE ILUMINAT PUBLIC PE DRUMURI STRADI ART.2 Se aproba Dodificxre' PLANULUI ANNUAL DE INVISTTIII AllT.2 Printsrul comutrei Dobrcstisi stl riatii cortrpnl1imcntului li nncirFcontabil vor duce h plcz.Dtele prevcderi . AII'1.3 Prezenta hotarire se vn comunica: \"PRIMARULUI COMUNEI DOBTttrS'I'I! DOLJ' .INSTITUTIEI PREIEC'TULUI'JUDETUT'UI .COMPARTIMENTULUI ['INAN",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h21.pdf",
+     "sha256": "b51316ff98b0c2531ec9a7ee2487b6ab0991e688cb73e8dc9bb14a0d3f0127f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-22-2020",
+   "path": "local/dolj/dobresti/2020/22",
+   "short": "HCL Dobrești nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 22/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h22.pdf",
+     "sha256": "6a91636c2807ae24020d17c7c55e9ca2c8e1f04268e083ceaf0025f64751bbfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-23-2020",
+   "path": "local/dolj/dobresti/2020/23",
+   "short": "HCL Dobrești nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 23/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h23.pdf",
+     "sha256": "9d159d5aa90c8acc1ada8a0c9a25b2e9567763d14c263fd2fff325a8e6894218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-24-2020",
+   "path": "local/dolj/dobresti/2020/24",
+   "short": "HCL Dobrești nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 24/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h24.pdf",
+     "sha256": "69cb6b49c483910bdc62adaf62ae55e79b3464f6691d7efffb439e681a6e5db6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-25-2020",
+   "path": "local/dolj/dobresti/2020/25",
+   "short": "HCL Dobrești nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 25/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h25.pdf",
+     "sha256": "0acf65b640033d1b11cfe3e86070b515f4e00f51c6dd437316d88df0e8e0e914"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-26-2020",
+   "path": "local/dolj/dobresti/2020/26",
+   "short": "HCL Dobrești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 26/2020 pentru echilibrarea bugetelor locale (11 02 06) de la 1 208 \"]':,i,-j.\"Hj,?;te bugetului local pe anul 2020' de la 3'738 mii lei la 3 e88 Suma de 250 mii lei influenteaza urmatorul capitol: sumei de 250 .mc,eaitomoro,eCd#aizfalracpa.c,uT,7Ji\"tu0t*uru.lls0X'2slItvI--A,-i!s-coot-.tCv*etI-ItIn^Ne'r;-tT't-rlE;a1n;ic.,1:ial\":r0Iel\":''\"li , #6--+ivihen$ituIr;i,3de',l#a 4f?0bmi-iillletif' l1ta?l8i'\"0um'i",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h26.pdf",
+     "sha256": "a85a020ed6ab634b56dee0cd58282b39dca0afc831edefc3ba718f12a191df1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-27-2020",
+   "path": "local/dolj/dobresti/2020/27",
+   "short": "HCL Dobrești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 27/2020 privind flprobnrea incheierii cxcrciliului bugetar la sfi'titnl tdm IIV2020,al BVC al comunei Dobresti,judetul Dolj, coEiliul Local atco heiDobrustii et l Dolj ,r,nuit i setli tno k.ra ,t l|to de 20/1q2020,ORELE 9'04' ''4i,tu.Ii ktocn deTe&Zorel-.o,sitiets petlattico qoni dtttlli n$io4oatnl'il {l r?n nnuideslectotitotealln' n'hti Dob,.$i -Tt0 LESCU Ml H,4IL-cNe oproba ncesiel.nt '1 : @ rbtd.rito",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h27.pdf",
+     "sha256": "1446b75cf8a3e755b84511047017150724b4837772e1bb9a661cfef931ea51c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-28-2020",
+   "path": "local/dolj/dobresti/2020/28",
+   "short": "HCL Dobrești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 28/2020 privind constatarca \" '-\"- iudetul DolJ - r^^.ri nrivind organlzarea c-o^m*i\"isiiiitl^orr drle ss1pecialitare f ln:#':ltH;i:*:fff,;\"-:m\"\"i?Ti\",1;\"'Dobres,i - .,,' .-'*',ln:li,l.,*',\"\"i.'r'ffair11-'aJrr:'ri2ilr-ia*r;ini;i(;Io!Xri1u,n],\"e;ii'lDll\"o\\l'biiJrie\"'s'ntui'1\"'\"'L'\"'rai1ir''n\"\"'\"'<\"1i'':'r ff.57/2019 Prtvrno \"c.oUm.pCletarileuherioare HorAnASrg: - lud.tul apreetsioe\"ao*u'\"e\"5n9eod\"iei',1.mt",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h28.pdf",
+     "sha256": "95023e8bdb5166c5b9ae3716d019e9d766e95c664c02c960895f63e272e07952"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-29-2020",
+   "path": "local/dolj/dobresti/2020/29",
+   "short": "HCL Dobrești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 29/2020 privind organiprao cotttisiilor dc slecin,i**ii irrriirii locq! al contuttai Dobrcsti judelut Dolj .ia Consiliul local al ai comunei Dobresti intrunit in sedinta orclinara data (le t6/tt/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h29.pdf",
+     "sha256": "133af80d170ddc185dcf398582a253fe2dae65cf00bd85efd6e74e77b6751c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-3-2020",
+   "path": "local/dolj/dobresti/2020/3",
+   "short": "HCL Dobrești nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 3/2020 privind aprobarea incheierii exercitiului bugetar la sfirsitul trim.IV/20l9,a1 BVC al comunei Dobrestijudetul Dolj, Consiliul Local al comunei Dobreslijudetd DoA ,inttunit ln sedinla ordinara in dan de 08/012020, orele10,00, Avlnd ln vedere: -Releralul nn 9/07/01/2020 -intocmil de fecu Zorel-consiller superior la compaflimentulJinanciar-contabll al aparatului de specialitate al prlmarului comunei",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h3.pdf",
+     "sha256": "e6399cacbc2f0977d0aff47db2b271a359f1838de664f42dafacdc393cc9dce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-30-2020",
+   "path": "local/dolj/dobresti/2020/30",
+   "short": "HCL Dobrești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 30/2020 privind aprobaren rectificarii rxrBREsrr. JUDETLL DoLJ _LA iB\\rvtrEcnLTLULLLUUl]r)nE,r-vNtroNltIrTuUeRdIeSt CHDLTUItrLI AL COMUNITT Cottsilhl Locol at conunci Dobrcsti,hdenlI Doti ,i,rttunit ih sedlnta oftltnara i ttittt te 1t/1 y2020, _d.t a,00, ,tt i,xl i yelek : *4.totul -ainpto,cun*it,.itie,i Tccu Zot.t_consitiet st atnt(n,t,,i ,te *nti,*\" ,;;,;;,:;';;;;:,:;;:;-ilp;;:;;!u\"tr;p;';f;:\"\"::;'l;i:",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h30.pdf",
+     "sha256": "268fbe2e2e62218495004aaf69712a1095bb0ebf2e3171b65b20eef374467288"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-32-2020",
+   "path": "local/dolj/dobresti/2020/32",
+   "short": "HCL Dobrești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 32/2020 privind .probarca -prerunsirii cont'acturui-de::T\"li9T:YXilXf Tifi i:I: S.*;;; il aitI!rlt\"Js*tbti\":lloui,TcTlral,lI:,ll'lc1crioau:,mr:\"'\"i(J:u;\"niirisl;eliriiif'\"uliDJJsJro.ii'\"b'lru:r,e'Jii;sJ';Jite\"ii''r,ot'io\"uuctiduliie;;ii'#tn;^u;rilci;tDdcuieiol\"rElr'jorttcr,!ocfi'T\"tr'cyl:ti,iin:Y',t\"t:trr:lro::i:,\"r:lil:iYincHr:'\"e-:\"\":p\":'*]:t\"1'c':1e:':\",:tp\"1'a:.:r::t1e,l'\"\"1d::i\":,n'i;:ndlT;ool:m::Dl",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h32.pdf",
+     "sha256": "d0c1dd3649ca5ab79d76714ca009345ab465103ffa380d1a3225f386e3160c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-35-2020",
+   "path": "local/dolj/dobresti/2020/35",
+   "short": "HCL Dobrești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 35/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h35.pdf",
+     "sha256": "1aeccf083848273058013938dafb99612b833640110f247ea658d7982cc5bf5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-36-2020",
+   "path": "local/dolj/dobresti/2020/36",
+   "short": "HCL Dobrești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 36/2020",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h36.pdf",
+     "sha256": "77d631bcad5b8d0ac1c0eb0a3f8ce2e6f02de20842dcda4b8b6e91029afe34a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-37-2020",
+   "path": "local/dolj/dobresti/2020/37",
+   "short": "HCL Dobrești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 37/2020 pentru rea cladtre, e;epLand mzulin ce..a preanlul inlu se prevede diferiL t)c o{ri orc {( rchrir urtrr.rurli cu pcrro0nr dc drcpl !trblh. j!: Ihpozntriprevazut La.liD (l), deiuoit in continuare iDpozit pe cl6diri, pr@um siIaxa pccladniprcvazuta laalln. (2)se dalored buge(ul locll ul comunci. al orasuluisau al municipiuluiin care este ahrlasohcladnea dr o tutrr,lr\\r t,.. prrclif' ri$ociltxrtdoirtu",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h37.pdf",
+     "sha256": "798d9263daefb9847300bfbea314bc9381a15bf4351f3b6c7dea76c2bef5919e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-dolj--dobresti-6-2020",
    "path": "local/dolj/dobresti/2020/6",
    "short": "HCL Dobrești nr. 6/2020",
@@ -14,6 +329,21 @@
      "units": 1,
      "source_url": "http://www.primariadobresti.ro/hotarari/2020/h6.pdf",
      "sha256": "f12466860c8604bee8537a990c4f11fc64d0cdb1a4cb994f417784dda9731c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--dobresti-7-2020",
+   "path": "local/dolj/dobresti/2020/7",
+   "short": "HCL Dobrești nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Dobrești nr. 7/2020 Privind aprobarea Actului Aditional nr.l la Contractul nr. 370D2I05(2018,,,DELEGAREA pRrN CONCESIONARE A GESTTI NII UNOR ACTIYITATI COMPOI\\TENTE ALE SERVICruLUI DE SALT'BRIZARE,RESPECTIV COLECTARE SI TRANSPORTUL DESEURILOR MTJIUCPALE SI A ALTOR F'LUXURI DE DESURI IN JUDETUL DOLJ SI OPERAREA STATIEI DE SORTARE, SI TRANST'ER GOICEA Consiliul Local al comunei Dobresti rintrunit in sedinta ordinara in",
+   "url": "http://www.primariadobresti.ro/consiliul/hotarari.php",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 1,
+     "source_url": "http://www.primariadobresti.ro/hotarari/2020/h7.pdf",
+     "sha256": "a7e1612512ec688f84b0b50a7bd938517558fe8bced164705a1790acad37132e"
     }
    ]
   }

@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/dolj/goiesti/2020",
+"acts": [
+{
+"slug": "hcl-dolj--goiesti-18-2020",
+"path": "local/dolj/goiesti/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Goiești nr. 18/2020",
+"short": "HCL Goiești nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_18_din_29.06.2015_aproba_SF_modernizare_drumuri.pdf",
+"council": "dolj/goiesti",
+"council_name": "Consiliul Local al Comunei Goiești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

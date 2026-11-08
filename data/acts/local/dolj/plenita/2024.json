@@ -3,6 +3,28 @@
 "shard": "local/dolj/plenita/2024",
 "acts": [
 {
+"slug": "hcl-dolj--plenita-1-2024",
+"path": "local/dolj/plenita/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 1/2024 privind desemnarea presedintelui de sedintă",
+"short": "HCL Plenița nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/144906",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--plenita-2-2024",
 "path": "local/dolj/plenita/2024/2",
 "kind": "local",
@@ -246,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-dolj--plenita-13-2024",
+"path": "local/dolj/plenita/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 13/2024 privind inchirierea unui spatiu comercial in Piata agroalimentară saptamanală din Plenita, proprietate publica a comunei Plenita",
+"short": "HCL Plenița nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/156128",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--plenita-14-2024",
 "path": "local/dolj/plenita/2024/14",
 "kind": "local",
@@ -265,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Plenița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-15-2024",
+"path": "local/dolj/plenita/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 15/2024 privind desemnarea presedintelui de sedinta",
+"short": "HCL Plenița nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/156133",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -356,6 +422,28 @@
 }
 },
 {
+"slug": "hcl-dolj--plenita-20-2024",
+"path": "local/dolj/plenita/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 20/2024 privind aprobarea concesionarii unui teren intravilan, proprietate publica a comunei Plenita",
+"short": "HCL Plenița nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/156138",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-dolj--plenita-21-2024",
 "path": "local/dolj/plenita/2024/21",
 "kind": "local",
@@ -419,6 +507,28 @@
 "council_name": "Consiliul Local al Comunei Plenița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-24-2024",
+"path": "local/dolj/plenita/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 24/2024 privind desemnare comisei atribuire contract de concesiune",
+"short": "HCL Plenița nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-04",
+"latest": "2024-06-04",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/157443",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -509,6 +619,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dolj--plenita-29-2024",
+"path": "local/dolj/plenita/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 29/2024 privind desemnarea presedintelui de sedinta",
+"short": "HCL Plenița nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-01",
+"latest": "2024-11-01",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/174530",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

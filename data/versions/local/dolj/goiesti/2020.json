@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/goiesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-dolj--goiesti-18-2020",
+   "path": "local/dolj/goiesti/2020/18",
+   "short": "HCL Goiești nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Goiești nr. 18/2020",
+   "url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_18_din_29.06.2015_aproba_SF_modernizare_drumuri.pdf",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://primariagoiesti.ro/wp-content/uploads/2018/02/HCL_18_din_29.06.2015_aproba_SF_modernizare_drumuri.pdf",
+     "sha256": "e9fccb8af956154bb0915eb3c0896ad889176028efc421e12d2ccc577754a2cf"
+    }
+   ]
+  }
+ ]
+}
