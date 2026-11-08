@@ -3,6 +3,50 @@
 "shard": "local/buzau/podgoria/2025",
 "acts": [
 {
+"slug": "hcl-buzau--podgoria-2-2025",
+"path": "local/buzau/podgoria/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 2/2025 privind aprobarea Planului de actiuni sau lucrari de interes local stabilit pentru anul 2025 pentru repartizarea orelor de munca prestate lunar de catre persoanele majore apte de muna din familia beneficiara de venit minim de incluziune, acordat in baza prevederilor Legii nr. 196/2016 privind venitul minim de incluziune, cu modificarile si completarile ulterioare Consiliul local al comunei Podgori",
+"short": "HCL Podgoria nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-3-2025",
+"path": "local/buzau/podgoria/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 3/2025 privind aprobarea inchiderii serviciului social \"Centrul de zi pentru copii\" - din cadrul Centrului Multifunctional Podgoria - implementat in cadrul proiectului de investitie: “COMUNITATEA SE DEZVOLTA - O SANSA PENTRU PODGORIA”- Cod MySMIS 114560 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA ; Avand in vedere: • referatul de aprobare al Primarului comunei Podgori",
+"short": "HCL Podgoria nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-31",
+"latest": "2025-01-31",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--podgoria-4-2025",
 "path": "local/buzau/podgoria/2025/4",
 "kind": "local",
@@ -25,6 +69,227 @@
 }
 },
 {
+"slug": "hcl-buzau--podgoria-9-2025",
+"path": "local/buzau/podgoria/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 9/2025 privind aprobarea Strategiei Integrate de Dezvoltare Urbană a Zonei Urbane Funcționale Râmnicu Sărat Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta de lucru extraordinara, convocata de indata, in data de 25.02.2025 ; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 788/24.02.2025 intocmit in conformitate cu prevederile art.136",
+"short": "HCL Podgoria nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-25",
+"latest": "2025-02-25",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-10-2025",
+"path": "local/buzau/podgoria/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 10/2025 Privind aprobarea înregistrării Primăriei Comunei Podgoria în Sistemului",
+"short": "HCL Podgoria nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-11-2025",
+"path": "local/buzau/podgoria/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 11/2025 Privind inchiderea exercitiului bugetar al anului 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA, pe data de 28.02.2025 ; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 680/12.02.2025 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a) din O.U.G nr.57/2019 privind Codul administrativ, in calitate de",
+"short": "HCL Podgoria nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-13-2025",
+"path": "local/buzau/podgoria/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 13/2025 Privind neasumarea responsabilitatii Unitatii administrativ teritoriale - comuna Podgoria organizarii si derularii procedurilor de atribuire a contractelor / acordurilor – cadru pentru achizitia produselor, precum si a contractelor / acordurilor - cadru de prestare a serviciilor pentru derularea masurilor educative, aferente Programului pentru scoli al Romaniei pentru anii scolari 2027-2028 si 202",
+"short": "HCL Podgoria nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-24",
+"latest": "2025-03-24",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-14-2025",
+"path": "local/buzau/podgoria/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 14/2025 privind aprobarea Programului de actiune comunitară destinat prevenirii si combaterii riscului de saracie si excluziune sociala in randul beneficiarilor de venit minim de incluziune, pentru anul 2025 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA ; Avand in vedere: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 579/5.02.2025 intocmit i",
+"short": "HCL Podgoria nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-15-2025",
+"path": "local/buzau/podgoria/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 15/2025 privind desemnarea a doi consilieri locali din cadrul Consiliul local al comunei Podgoria, care vor face parte din Comisia de evaluare a performantelor profesionale ale secretarului general al unitatii administrativ-teritoriale Consiliul local al Comunei Podgoria, județul Buzău, intrunit in sedinta ORDINARA pe luna MARTIE 2025, Având în vedere: • referatul de aprobare al Primarului comunei Podgori",
+"short": "HCL Podgoria nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-17-2025",
+"path": "local/buzau/podgoria/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 17/2025 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria, pe luna MARTIE 2025",
+"short": "HCL Podgoria nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-19-2025",
+"path": "local/buzau/podgoria/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 19/2025 privind modificarea contractului de delegare a gestiunii directe a serviciului de transport public local pe raza de competenta a Asociației de Dezvoltare Intercomunitară a Transportului Public din Ramnicu Sărat-ATRAS catre S.C",
+"short": "HCL Podgoria nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-20-2025",
+"path": "local/buzau/podgoria/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 20/2025 privind modificarea contractului de delegare a gestiunii directe a serviciului de transport public local pe raza de competenta a Asociației de Dezvoltare Intercomunitară a Transportului Public din Ramnicu Sărat-ATRAS catre S.C",
+"short": "HCL Podgoria nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-22-2025",
+"path": "local/buzau/podgoria/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 22/2025",
+"short": "HCL Podgoria nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": null,
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--podgoria-23-2025",
 "path": "local/buzau/podgoria/2025/23",
 "kind": "local",
@@ -44,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Podgoria",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--podgoria-24-2025",
+"path": "local/buzau/podgoria/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 24/2025 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria, pe luna MAI 2025",
+"short": "HCL Podgoria nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/podgoria",
+"council_name": "Consiliul Local al Comunei Podgoria",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/brasov/sinca/2024",
  "acts": [
   {
+   "slug": "hcl-brasov--sinca-24-2024",
+   "path": "local/brasov/sinca/2024/24",
+   "short": "HCL Șinca nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 24/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-24-din-26-aprilie-2024-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "e697607c600a595bbddd07d6cb1910b3b673e29375b7125e15879d1611bf1319"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--sinca-25-2024",
    "path": "local/brasov/sinca/2024/25",
    "short": "HCL Șinca nr. 25/2024",
@@ -14,6 +29,81 @@
      "units": 4,
      "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-25-din-26-aprilie-2024-privind-indexarea-impozitelor-si-taxelor-locale-pentru-anul-fiscal-2025-cu-rata-inflatiei-de-10.4.pdf",
      "sha256": "7cc63be13f599ad20760c2e24ff7ac0f60703ce97dfc5759bcc71aafb1560f48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-26-2024",
+   "path": "local/brasov/sinca/2024/26",
+   "short": "HCL Șinca nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 26/2024 privind aprobarea listei de preturi de pornire la licitatie de masa lemnoasa, pe picior, pe partizi, productia 2024",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-26-din-26-aprilie-2024-privind-aprobarea-listei-de-preturi-de-pornire-la-licitatie-de-masa-lemnoasa-pe-picior-pe-partizi-productia-.pdf",
+     "sha256": "ff83c85736a063e7dd5adbc9ea393c62bbf4e25871697a9d09e032fc29eefca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-27-2024",
+   "path": "local/brasov/sinca/2024/27",
+   "short": "HCL Șinca nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 27/2024 privind stabilirea modalitatilor de acordare a ajutoarelor de urgenta din bugetul local al comunei Sinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-27-din-26-aprilie-2024-privind-stabilirea-modalitatilor-de-acordare-a-ajutoarelor-de-urgenta-din-bugetul-local-al-comunei-Sinca.pdf",
+     "sha256": "0be7b472189ee1d13933bb9c88b6b1c4406a78aa71d299ead09439375d23c4a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-28-2024",
+   "path": "local/brasov/sinca/2024/28",
+   "short": "HCL Șinca nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 28/2024 privind modificarea HCL Sinca nr. 50 din 24.11.2023 privind aprobarea reorganizarii aparatului de specialitate al primarului comunei Sinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-28-din-26-aprilie-2024-privind-modificarea-HCL-Sinca-nr.-50-din-24.11.2023-privind-aprobarea-reorganizarii-aparatului-de-specialitate-.pdf",
+     "sha256": "418ac973d7763d4cbceb6f51e3edb36ff3d3330a064b40c2d179a8644f16c2b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-29-2024",
+   "path": "local/brasov/sinca/2024/29",
+   "short": "HCL Șinca nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 29/2024 privind recificarea bugetului local de venituri si cheltuieli pe anul 2024",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-29-din-26-aprilie-2024-privind-recificarea-bugetului-local-de-venituri-si-cheltuieli-pe-anul-2024.pdf",
+     "sha256": "d6ddfba6e1a574e235dc88dda781f3a8b15c62955b2f094fe835a575c69e3250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-30-2024",
+   "path": "local/brasov/sinca/2024/30",
+   "short": "HCL Șinca nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 30/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5f6905408e32242adc7da77c0bd660202d69f55d3a8af2042c826a751dc45d9f"
     }
    ]
   },
@@ -33,6 +123,201 @@
    ]
   },
   {
+   "slug": "hcl-brasov--sinca-32-2024",
+   "path": "local/brasov/sinca/2024/32",
+   "short": "HCL Șinca nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 32/2024 privind alegerea președintelui de ședință",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/06/Consiliul-local-al-Comunei-Sinca-HCL-nr.-32-din-31-mai-2024-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "31f1472ac7bcaf611a5c69eb4bb4bf25adfe262c6b59554deb44f11207716bce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-33-2024",
+   "path": "local/brasov/sinca/2024/33",
+   "short": "HCL Șinca nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 33/2024 privind aprobarea contului anual de execuție bugetară al anului 2023",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/06/Consiliul-local-al-Comunei-Sinca-HCL-nr.-33-din-31-mai-2024-privind-aprobarea-contului-anual-de-executie-bugetara-al-anului-2023.pdf",
+     "sha256": "18de0d6aedfd07552c10411b369e5e1184ee2de52fca68edded7d716c13f44a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-34-2024",
+   "path": "local/brasov/sinca/2024/34",
+   "short": "HCL Șinca nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 34/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/06/Consiliul-local-al-Comunei-Sinca-HCL-nr.-34-din-31-mai-2024-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-pe-anul-2024.pdf",
+     "sha256": "ed15f5998087dbd5bc2f265e1fc332501f7f1ef7297eb3d35145b95ded23acc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-35-2024",
+   "path": "local/brasov/sinca/2024/35",
+   "short": "HCL Șinca nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 35/2024 privind aprobarea contului anual de execuție bugetara al anului 2023 prezentat de catre R.P.L",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/06/Consiliul-local-al-Comunei-Sinca-HCL-nr.-35-din-31.05.2024-privind-aprobarea-executiei-bugetului-pe-anul-2023-al-R.P.L.pdf",
+     "sha256": "bd35942936c92114204e9313a2a40f721cc920679db372f8d39dd8866a8103c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-36-2024",
+   "path": "local/brasov/sinca/2024/36",
+   "short": "HCL Șinca nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 36/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/07/Consiliul-local-al-Comunei-Sinca-HCL-nr.-36-din-28-iunie-2024-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "875f81ad37720caaf9019989dab2b2e59eb8fe8296371572b8f7012497ffaa1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-37-2024",
+   "path": "local/brasov/sinca/2024/37",
+   "short": "HCL Șinca nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 37/2024 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din aparatul de specialitate al Primarului Comunei Sinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/07/Consiliul-local-al-Comunei-Sinca-HCL-nr.-37-din-28-iunie-2024-privind-stabilirea-salariilor-de-baza-pentru-functionarii-publici-si-personalul-contractual-din-aparatul.pdf",
+     "sha256": "c6a44d309fca1d25a120af9dfb4fdded440bef38ca8212a58f20de11ce8d3e3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-38-2024",
+   "path": "local/brasov/sinca/2024/38",
+   "short": "HCL Șinca nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 38/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/07/Consiliul-local-al-Comunei-Sinca-HCL-nr.-38-din-28-iunie-2024-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-pe-anul-2024.pdf",
+     "sha256": "9511a7a8cc6ae4b1c7266906f6fcef3b2a9b7a2ed41464d1305082d285be5f21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-39-2024",
+   "path": "local/brasov/sinca/2024/39",
+   "short": "HCL Șinca nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 39/2024 privind aprobarea listei de preturi de pornire la licitatie de masa lemnoasa pe picior, pe partizi, productia 2024",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/07/Consiliul-local-al-Comunei-Sinca-HCL-nr.-39-din-28.06.2024-privind-aprobarea-listei-de-preturi-de-pornire-la-licitatie-de-masa-lemnoasa-pe-picior-pe-partizi-productia-2024.pdf",
+     "sha256": "a7d241f3d2b5f5df4070b78895a73f58edf95cdff91c4cfdfc0d35ca0a4ef338"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-47-2024",
+   "path": "local/brasov/sinca/2024/47",
+   "short": "HCL Șinca nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 47/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/10/Consiliul-local-al-Comunei-Sinca-HCL-nr.-47-din-27-septembrie-2024-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "793f5e1e4f71160e50972765f96ca379a766ae1d8148b3138267b6e004939a26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-48-2024",
+   "path": "local/brasov/sinca/2024/48",
+   "short": "HCL Șinca nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 48/2024 privind atestarea apartenentei unui imobil la domeniul privat al comunei Sinca, judetul Brasov",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/10/Consiliul-local-al-Comunei-Sinca-HCL-nr.-48-din-27.09.2024-privind-atestarea-apartenentei-unui-imobil-la-domeniul-privat-al-comunei-Sinca-judetul-Brasov.pdf",
+     "sha256": "ab8e34ba04fc727fc979513f654b4d87a124dd2990b9999c2fa06c8837177c98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-49-2024",
+   "path": "local/brasov/sinca/2024/49",
+   "short": "HCL Șinca nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 49/2024 privind atestarea apartenentei unui imobil la domeniul privat al comunei Sinca, judetul Brasov",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/10/Consiliul-local-al-Comunei-Sinca-HCL-nr.-49-din-27.09.2024-privind-atestarea-apartenentei-unui-imobil-la-domeniul-privat-al-comunei-Sinca-judetul-Brasov.pdf",
+     "sha256": "27275ae560385d02e9a026fdc2245c877d9f6eccf9325ded41aa1883fb4d174a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-50-2024",
+   "path": "local/brasov/sinca/2024/50",
+   "short": "HCL Șinca nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 50/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/10/Consiliul-local-al-Comunei-Sinca-HCL-nr.-50-din-18-octombrie-2024-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "3eb401a786345da7078d88999a0de17e48ff37ba534909b48df576dcf4975c70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-51-2024",
+   "path": "local/brasov/sinca/2024/51",
+   "short": "HCL Șinca nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 51/2024 privind aprobarea instituirii facilitatii fiscale de anulare a accesoriilor aferente obligațiilor bugetare principale restante la da de 31.08.2024 inclusiv, datorate bugetului local al Comunei Sinca de catre contribuabilii persoane f",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/10/Consiliul-local-al-Comunei-Sinca-HCL-nr.-51-din-18-octombrie-2024-privind-aprobarea-instituirii-facilitatii-fiscale-de-anulare-a-accesoriilor.pdf",
+     "sha256": "c01d1121f3048414025a7aba94e5a978aed98270650fcf01a4051777d7042c78"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--sinca-52-2024",
    "path": "local/brasov/sinca/2024/52",
    "short": "HCL Șinca nr. 52/2024",
@@ -48,6 +333,216 @@
    ]
   },
   {
+   "slug": "hcl-brasov--sinca-53-2024",
+   "path": "local/brasov/sinca/2024/53",
+   "short": "HCL Șinca nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 53/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/10/Consiliul-local-al-Comunei-Sinca-HCL-nr.-53-din-18-octombrie-2024-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-pe-anul-2024.pdf",
+     "sha256": "dd07713150d509490d084220777a692df80207621793e48acc12e0672f5b4956"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-54-2024",
+   "path": "local/brasov/sinca/2024/54",
+   "short": "HCL Șinca nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 54/2024 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/11/Consiliul-local-al-Comunei-Sinca-HCL-nr.-54-din-05-noiembrie-2024-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "fa2309db101718208669a6b1862e6470e587a46d928bb173ad92a964012e673a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-55-2024",
+   "path": "local/brasov/sinca/2024/55",
+   "short": "HCL Șinca nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 55/2024 privind alegerea viceprimarului comunei Șinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/11/Consiliul-local-al-Comunei-Sinca-HCL-nr.-55-din-05-noiembrie-2024-privind-alegerea-viceprimarului-comunei-Sinca.pdf",
+     "sha256": "60334a7d23d58df0b4e3dd75773fcbce3b60c47e3564005f3fc37630e81b841e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-56-2024",
+   "path": "local/brasov/sinca/2024/56",
+   "short": "HCL Șinca nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 56/2024 privind constituirea comisiilor de specialitate pe domenii de activitate",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/11/Consiliul-local-al-Comunei-Sinca-HCL-nr.-56-din-05-noiembrie-2024-privind-constituirea-comisiilor-de-specialitate-pe-domenii-de-activitate.pdf",
+     "sha256": "41b3644051da892aac8fd2d817f72d50bb030c7307f878bd4df2bfd2bf1a0f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-58-2024",
+   "path": "local/brasov/sinca/2024/58",
+   "short": "HCL Șinca nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 58/2024 privind aprobarea bugetului necesar acordarii de cadouri copiilor din comuna Sinca, judetul Brasov",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/12/Consiliul-local-al-Comunei-Sinca-HCL-nr.-58-din-29-noiembrie-2024-privind-aprobarea-bugetului-necesar-acordarii-de-cadouri-copiilor-din-comuna-Sinca-judetul-Brasov.pdf",
+     "sha256": "6672942d2950c6a3e724506150f7516b35dd8c2ef361a408f8b8185de93bbca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-59-2024",
+   "path": "local/brasov/sinca/2024/59",
+   "short": "HCL Șinca nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 59/2024 privind desemnarea reprezentantilor C.L",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+     "sha256": "0526b0cfbf08df1a26359d1a4a6210fa32de1131378c491a28bde714788a007b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-60-2024",
+   "path": "local/brasov/sinca/2024/60",
+   "short": "HCL Șinca nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 60/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/12/Consiliul-local-al-Comunei-Sinca-HCL-nr.-60-din-29-noiembrie-2024-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-pe-anul-2024.pdf",
+     "sha256": "dcce0ac4ef8b9ae3881191c33136b2bc112fe711368333b79c0b8cdc024ace38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-61-2024",
+   "path": "local/brasov/sinca/2024/61",
+   "short": "HCL Șinca nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 61/2024 privind aderarea comunei Sinca la parteneriatul public-privat de tip Grup Pescaresc de Actiune Locala – FLAG, cu numele “Asociatia FLAG Rasaritul Tarii Fagarasului”, in vederea “Elaborarii Strategiei de Dezvoltare Locala integrata in",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/12/Consiliul-local-al-Comunei-Sinca-HCL-nr.-61-din-29-noiembrie-2024-privind-aderarea-comunei-Sinca-la-parteneriatul-public-privat-de-tip-Grup-Pescaresc.pdf",
+     "sha256": "53168925629898acda93ca1a1924fe0cac1737d877890d02df67008c2bd7eae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-62-2024",
+   "path": "local/brasov/sinca/2024/62",
+   "short": "HCL Șinca nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 62/2024 privind aprobarea numarului maxim de posturi pentru asistentii personali ai persoanelor cu handicap, pentru anul 2025",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-62-din-20-decembrie-2024-privind-aprobarea-numarului-maxim-de-posturi-pentru-asistentii-personali.pdf",
+     "sha256": "24a55e909102c08ca2a51565674a5390dca0b1674a58a7bc49be840abb7c7070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-63-2024",
+   "path": "local/brasov/sinca/2024/63",
+   "short": "HCL Șinca nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 63/2024 privind aprobarea planului de actiuni sau de lucrari de interes local pe anul 2025, pentru persoanele beneficiare de VMI, acordat in baza Lg. 196/2016 privind venitul minim de incluziune si de catre parintii apti de munca obligati la",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-63-din-20-decembrie-2024-privind-aprobarea-planului-de-actiuni-sau-de-lucrari-de-interes-local-pe-anul-2025-pentru-VMI.pdf",
+     "sha256": "9f7c3f3010a1221eea6b94748d0cfdff40c2bf1cb3e14d29544dfd065a826908"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-64-2024",
+   "path": "local/brasov/sinca/2024/64",
+   "short": "HCL Șinca nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 64/2024 privind stabilirea componentei echipei mobile pentru interventia de urgenta in cazurile de violenta domestica",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-64-din-20-decembrie-2024-privind-stabilirea-componentei-echipei-mobile-pentru-interventia-de-urgenta-in-cazurile-de-violenta-domestica.pdf",
+     "sha256": "3b048bfa7d62cfe38565840ff468cc18fa990f73e240afa6e647cd318a836047"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-65-2024",
+   "path": "local/brasov/sinca/2024/65",
+   "short": "HCL Șinca nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 65/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3146b61cd513955b90968d03d7d4ee7a83780db4358457d16817e9adb081cd26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-66-2024",
+   "path": "local/brasov/sinca/2024/66",
+   "short": "HCL Șinca nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 66/2024 privind aprobarea Programului de masuri ce vizeaza imbunatatirea activitatii de gospodarire si infrumusetare a Comunei Sinca, a obligatiilor si responsabilitatilor care revin institutiilor publice, agentilor economici, cetatenilor pe",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-66-din-20-decembrie-2024-privind-aprobarea-Programului-de-masuri-ce-vizeaza-imbunatatirea-activitatii-de-gospodarire-si-infrumusetare-.pdf",
+     "sha256": "ef738ce83672c074cfe615ae64d44c73f0bd4adafa37274ee4fd021ea56caf39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-68-2024",
+   "path": "local/brasov/sinca/2024/68",
+   "short": "HCL Șinca nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 68/2024",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-67-din-20-decembrie-2024-privind-aprobarea-programului-de-actiuni-comunitare-pentru-anul-2025.pdf",
+     "sha256": "a45e563355265591af7fb358d39ccdad3420bd6e949dc68b5ce51b5068b6395d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--sinca-69-2024",
    "path": "local/brasov/sinca/2024/69",
    "short": "HCL Șinca nr. 69/2024",
@@ -59,6 +554,21 @@
      "units": 1,
      "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-69-din-20-decembrie-2024-privind-aprobarea-volumului-de-masa-lemnoasa-care-se-exploateaza-anual-din-fondul-forestier-al-comunei-Sinca.pdf",
      "sha256": "14f78b76f3f9fe7886aa167451f5e5aed8a82636ee3b03fec5f46b69043a5248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-70-2024",
+   "path": "local/brasov/sinca/2024/70",
+   "short": "HCL Șinca nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 70/2024 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar de stat din Comuna Sinca, pentru anul scolar 2025-2026",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2024/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2025/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-70-din-20-decembrie-2024-privind-aprobarea-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-de-stat-din-Comuna-Sinca.pdf",
+     "sha256": "372f914295c1b45002fe56de9728b0522618999a8690049eae3c048ed616aaac"
     }
    ]
   },

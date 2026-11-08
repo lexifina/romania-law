@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/nehoiu/2011",
+"acts": [
+{
+"slug": "hcl-buzau--nehoiu-30-2011",
+"path": "local/buzau/nehoiu/2011/30",
+"kind": "local",
+"year": "2011",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 30/2011 privind aprobarea modificarii si completarii HCL nr. 30 din 30.06.2011 pentru aprobarea Nomenclatorului stradal al orasului Nehoiu",
+"short": "HCL Nehoiu nr. 30/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-06-30",
+"latest": "2011-06-30",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -179,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-buzau--cislau-9-2020",
+"path": "local/buzau/cislau/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 9/2020 privind alegerea președintelui de ședință pentru perioada aprilie-mai-iunie 2020",
+"short": "HCL Cislău nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/9388",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--cislau-10-2020",
 "path": "local/buzau/cislau/2020/10",
 "kind": "local",
@@ -198,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Cislău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-11-2020",
+"path": "local/buzau/cislau/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 11/2020 privind aprobarea vânzării terenului intravilan, proprietate privată a comunei Cislău, în suprafața de 662mp, înscris în CF 21292 a localității Cislău, nr. Cadastral 21292, sat Cislău, comuna Cislău, T136",
+"short": "HCL Cislău nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/9390",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -446,6 +490,28 @@
 }
 },
 {
+"slug": "hcl-buzau--cislau-23-2020",
+"path": "local/buzau/cislau/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 23/2020 privind alegerea președintelui de ședință",
+"short": "HCL Cislău nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/11796",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--cislau-24-2020",
 "path": "local/buzau/cislau/2020/24",
 "kind": "local",
@@ -465,6 +531,28 @@
 "council_name": "Consiliul Local al Comunei Cislău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-25-2020",
+"path": "local/buzau/cislau/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 25/2020 privind însușirea documentației cadastrale de dezmembrare a unui imobil aparținând domeniului public al comunei Cislău",
+"short": "HCL Cislău nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/11798",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -531,6 +619,73 @@
 "council_name": "Consiliul Local al Comunei Cislău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-29-2020",
+"path": "local/buzau/cislau/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 29/2020",
+"short": "HCL Cislău nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/11802",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--cislau-30-2020",
+"path": "local/buzau/cislau/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 30/2020 privind concesionarea prin licitație publică deschisă a terenului neproductiv aparținând domeniului privat al comunei Cislău în suprafață de 22.559 mp, situat în extravilanul localității Cislău, tarlaua T29, Comuna Cislău, având numărul cadastral 21666",
+"short": "HCL Cislău nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/11803",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-31-2020",
+"path": "local/buzau/cislau/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 31/2020 privind concesionarea prin licitație publică deschisă a terenului neproductiv aparținând domeniului privat al comunei Cislău în suprafață de 23.063 mp, situat în extravilanul localității Cislău, tarlaua T25, comuna Cislău, având numărul cadastral 21664",
+"short": "HCL Cislău nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-20",
+"latest": "2020-08-20",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/11804",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

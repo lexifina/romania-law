@@ -3,6 +3,28 @@
 "shard": "local/buzau/amaru/2024",
 "acts": [
 {
+"slug": "hcl-buzau--amaru-1-2024",
+"path": "local/buzau/amaru/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 1/2024 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat pentru anul școlar 2024-2025 de pe raza comunei Amaru, județul Buzău",
+"short": "HCL Amaru nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-19",
+"latest": "2024-04-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/144996",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-2-2024",
 "path": "local/buzau/amaru/2024/2",
 "kind": "local",
@@ -48,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-4-2024",
+"path": "local/buzau/amaru/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 4/2024 privind domeniile de activitate în care se poate presta muncă în folosul comunității de către contravenienți",
+"short": "HCL Amaru nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-19",
+"latest": "2024-04-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/144999",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-5-2024",
 "path": "local/buzau/amaru/2024/5",
 "kind": "local",
@@ -70,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-6-2024",
+"path": "local/buzau/amaru/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 6/2024 privind aprobarea bugetului local pe anul 2024",
+"short": "HCL Amaru nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-19",
+"latest": "2024-04-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/145001",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-7-2024",
 "path": "local/buzau/amaru/2024/7",
 "kind": "local",
@@ -89,6 +155,72 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-8-2024",
+"path": "local/buzau/amaru/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 8/2024 privind aprobarea planului de pază pe anul 2024, comuna Amaru, jud. Buzău",
+"short": "HCL Amaru nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-19",
+"latest": "2024-04-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/145003",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-9-2024",
+"path": "local/buzau/amaru/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 9/2024 privind majorării indemnizațiilor pentru demnitari precum și stabilirea salariilor de bază aferente funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Amaru, începând cu 1 ianuarie 2024",
+"short": "HCL Amaru nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-19",
+"latest": "2024-04-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/145004",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-10-2024",
+"path": "local/buzau/amaru/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 10/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+"short": "HCL Amaru nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-19",
+"latest": "2024-04-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/145005",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-14-2024",
+"path": "local/buzau/amaru/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 14/2024 privind alegerea președintelui de ședință",
+"short": "HCL Amaru nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-19",
+"latest": "2024-04-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/153129",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-15-2024",
 "path": "local/buzau/amaru/2024/15",
 "kind": "local",
@@ -224,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-18-2024",
+"path": "local/buzau/amaru/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 18/2024 privind aprobarea constituirii Consiliului Comunitar Consultativ, aprobarea Regulamentului de organizare și funcționare a acestuia precum și programul de acțiuni comunitare la nivelul comunei Amaru, județul Buzău",
+"short": "HCL Amaru nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/173518",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-19-2024",
 "path": "local/buzau/amaru/2024/19",
 "kind": "local",
@@ -268,6 +444,160 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-21-2024",
+"path": "local/buzau/amaru/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 21/2024 privind stabilirea unui mandat special reprezentantului comunei Amaru în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ''Eco Buzău 2009'' privind aprobarea condițiilor pentru acoperirea costurilor nete de gestionare a deșeurilor de ambalaje din deșeuri municipale, de către organizații care implementează obligațiile privind răspunderea extinsă a producătorului (OIREP)",
+"short": "HCL Amaru nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/173521",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-22-2024",
+"path": "local/buzau/amaru/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 22/2024 privind stabilirea unui mandat special reprezentantului comunei Amaru în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ''Eco Buzău 2009'' cu privire la contractele de delegare a gestiunii serviciului de salubrizare",
+"short": "HCL Amaru nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/173522",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-23-2024",
+"path": "local/buzau/amaru/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 23/2024 privind vânzarea fără licitație publică (directă) a unui teren proprietate privată a UAT Amaru, județul Buzău înscris în cartea funciară nr. 27261",
+"short": "HCL Amaru nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/175389",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-24-2024",
+"path": "local/buzau/amaru/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 24/2024 privind aprobarea modificării anexei nr. 1 la HCL Nr. 9/31.01.2024 privind modul de stabilire a salariilor de bază pentru funcțiile publice și funcțiile de specialitate din cadrul aparatului de specialitate al primarului comunei Amaru și a serviciilor publice din subordinea acestuia",
+"short": "HCL Amaru nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/175390",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-25-2024",
+"path": "local/buzau/amaru/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 25/2024 privind aprobarea majorării cu 10% a salariilor de bază față de nivelul acordat pentru luna decembrie 2023 pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Amaru, județul Buzău, precum și a serviciilor publice din subordinea acestuia",
+"short": "HCL Amaru nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/175391",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-26-2024",
+"path": "local/buzau/amaru/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 26/2024 privind organizarea și funcționarea serviciului de utilități publice - serviciul public de salubrizare - al comunei Amaru, județul Buzău",
+"short": "HCL Amaru nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/175392",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-27-2024",
+"path": "local/buzau/amaru/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 27/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+"short": "HCL Amaru nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/175393",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-28-2024",
 "path": "local/buzau/amaru/2024/28",
 "kind": "local",
@@ -287,6 +617,94 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-29-2024",
+"path": "local/buzau/amaru/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 29/2024 privind alegerea președintelui de ședința",
+"short": "HCL Amaru nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/175395",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-30-2024",
+"path": "local/buzau/amaru/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 30/2024 privind proiectul de hotărâre pentru stabilirea unor măsuri/demersuri privind activitatea Asociației de Dezvoltare Intercomunitară „Eco Buzău 2009” la care comuna Amaru este membru asociat",
+"short": "HCL Amaru nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/177841",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-31-2024",
+"path": "local/buzau/amaru/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 31/2024 privind aprobarea rectificării bugetului local pe anul 2024",
+"short": "HCL Amaru nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/177842",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-32-2024",
+"path": "local/buzau/amaru/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 32/2024 privind aprobarea indicatorilor tehnico-economici și a Studiu Fezabilitate pentru Proiect-Sprijinirea dezvoltării infrastructurii educaționale-învățământul preșcolar - Construire grădiniță program normal, Comuna Amaru, județul Buzău",
+"short": "HCL Amaru nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/177843",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

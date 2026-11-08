@@ -25,6 +25,94 @@
 }
 },
 {
+"slug": "hcl-buzau--parscov-2-2025",
+"path": "local/buzau/parscov/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 2/2025 privind desemnarea de către consiliul local al comunei Pârscov a doi consilieri locali în calitate de membri ai Comisiei de evaluare anuală a performanţelor profesionale ale Secretarului General al comunei Pârscov",
+"short": "HCL Pârscov nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/193780",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-3-2025",
+"path": "local/buzau/parscov/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 3/2025 privind neasumarea responsabilității UAT Comuna Pârscov pentru organizarea și derularea procedurilor de atribuire a contractelor / acordurilor –cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului pentru anii școlari 2027-2028 și 2028-2029",
+"short": "HCL Pârscov nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/193781",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-4-2025",
+"path": "local/buzau/parscov/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 4/2025 privind constituirea Consiliului Comunitar Consultativ al comunei Pârscov , județul Buzău",
+"short": "HCL Pârscov nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/193782",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-5-2025",
+"path": "local/buzau/parscov/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 5/2025 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Pârscov în trimestrul IV / 2024",
+"short": "HCL Pârscov nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-12",
+"latest": "2025-03-12",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/193783",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--parscov-6-2025",
 "path": "local/buzau/parscov/2025/6",
 "kind": "local",
@@ -66,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Pârscov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-8-2025",
+"path": "local/buzau/parscov/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 8/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov , judeţul Buzău",
+"short": "HCL Pârscov nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-22",
+"latest": "2025-04-22",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/201617",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +223,50 @@
 }
 },
 {
+"slug": "hcl-buzau--parscov-11-2025",
+"path": "local/buzau/parscov/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 11/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale pentru prevenirea separării copilului de familie pentru anul 2025",
+"short": "HCL Pârscov nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-22",
+"latest": "2025-04-22",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/201620",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-12-2025",
+"path": "local/buzau/parscov/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 12/2025 privind aprobarea Planului anual de achiziţii publice de la nivelul UAT Comuna Pârscov, pentru anul 2025",
+"short": "HCL Pârscov nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-22",
+"latest": "2025-04-22",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/201621",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--parscov-13-2025",
 "path": "local/buzau/parscov/2025/13",
 "kind": "local",
@@ -132,6 +286,116 @@
 "council_name": "Consiliul Local al Comunei Pârscov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-14-2025",
+"path": "local/buzau/parscov/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 14/2025 privind organizarea şi funcţionarea serviciului de utilităţi publice - serviciul public de alimentare cu apă - al comunei PÂRSCOV, judeţul BUZĂU",
+"short": "HCL Pârscov nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-22",
+"latest": "2025-04-22",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/201623",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-15-2025",
+"path": "local/buzau/parscov/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 15/2025 privind aprobarea unui împrumut temporar de la bugetul local al comunei Pârscov, județul Buzău, către serviciul “SERVICIUL APĂ CANALIZARE, ILUMINAT ŞI SALUBRIZARE– PÂRSCOV”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei PÂRSCOV, judeţul BUZĂU",
+"short": "HCL Pârscov nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-22",
+"latest": "2025-04-22",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/201624",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-16-2025",
+"path": "local/buzau/parscov/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 16/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente şi de calitate”",
+"short": "HCL Pârscov nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-22",
+"latest": "2025-04-22",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/201625",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-17-2025",
+"path": "local/buzau/parscov/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 17/2025 privind aprobarea primirii în calitate de membri asociați în cadrul Asociaţiei de Dezvoltare Intercomunitară „Ținutul Buzăului” a unităților administrativ – teritoriale comunele Cislău, Gura Teghii și Siriu, precum și a modificării Statutului acesteia, la care comuna Pârscov este membru fondator",
+"short": "HCL Pârscov nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/207325",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-18-2025",
+"path": "local/buzau/parscov/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 18/2025 privind aprobarea participării în anul 2025 a Unității Administrativ Teritoriale – Comuna Pârscov în cadrul Programului privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic 2025-2030",
+"short": "HCL Pârscov nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-27",
+"latest": "2025-05-27",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/207326",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +487,50 @@
 }
 },
 {
+"slug": "hcl-buzau--parscov-23-2025",
+"path": "local/buzau/parscov/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 23/2025 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Pârscov în trimestrul I / 2025",
+"short": "HCL Pârscov nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/213070",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-24-2025",
+"path": "local/buzau/parscov/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 24/2025 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov , judeţul Buzău",
+"short": "HCL Pârscov nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/213071",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--parscov-25-2025",
 "path": "local/buzau/parscov/2025/25",
 "kind": "local",
@@ -242,6 +550,28 @@
 "council_name": "Consiliul Local al Comunei Pârscov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-26-2025",
+"path": "local/buzau/parscov/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 26/2025 privind aprobarea primirii în calitate de membru asociat în cadrul Asociaţiei de Dezvoltare Intercomunitară „Ținutul Buzăului” a unității administrativ – teritoriale – Orașul Pătârlagele",
+"short": "HCL Pârscov nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/218601",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +682,138 @@
 "council_name": "Consiliul Local al Comunei Pârscov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--parscov-32-2025",
+"path": "local/buzau/parscov/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 32/2025 privind stabilirea salariilor de bază pentru personalul contractual din cadrul serviciului “SERVICIUL APĂ CANALIZARE, ILUMINAT ŞI SALUBRIZARE – PÂRSCOV”",
+"short": "HCL Pârscov nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/222225",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-33-2025",
+"path": "local/buzau/parscov/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 33/2025 privind rectificarea bugetului local de venituri și cheltuileli al comunei Pârscov, judeţul Buzău, pentru anul 2025",
+"short": "HCL Pârscov nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/222226",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-34-2025",
+"path": "local/buzau/parscov/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 34/2025 privind aprobarea unui împrumut temporar de la bugetul local al comunei Pârscov, județul Buzău, către serviciul “SERVICIUL APĂ CANALIZARE, ILUMINAT ŞI SALUBRIZARE– PÂRSCOV”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei PÂRSCOV, judeţul BUZĂU",
+"short": "HCL Pârscov nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/222227",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-35-2025",
+"path": "local/buzau/parscov/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 35/2025 privind aprobarea depunerii cererii de finanțare pentru proiectul „Aproape de ei”, în vederea finanțării acestuia prin Programul de Incluziune și Demnitate Socială, apelul de proiecte PIDS/632/PIDS_P6/OP4/ ESO4.11/PIDS_A26 - Servicii de îngrijire la domiciliu pentru persoanele vârstnice - Regiuni mai putin dezvoltate",
+"short": "HCL Pârscov nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-19",
+"latest": "2025-09-19",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/223921",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-36-2025",
+"path": "local/buzau/parscov/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 36/2025 privind aprobarea organizării concursului pentru ocuparea functiei contractuale de conducere vacantă de Șef Serviciu din cadrul serviciului public de interes local cu personalitate juridică “SERVICIUL APĂ CANALIZARE, ILUMINAT ŞI SALUBRIZARE– PÂRSCOV”, aflat în subordinea Consiliului Local al comunei PÂRSCOV, judeţul BUZĂU",
+"short": "HCL Pârscov nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-19",
+"latest": "2025-09-19",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/223922",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--parscov-37-2025",
+"path": "local/buzau/parscov/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 37/2025 privind aprobarea bugetului de venituri și cheltuieli pentru anul 2025 al Serviciului Apă Canalizare, Iluminat și Salubrizare Pârscov , sursa F, serviciu cu personalitate juridică înființat în subordinea Consiliului Local Pârscov",
+"short": "HCL Pârscov nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-06",
+"latest": "2025-10-06",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/225407",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

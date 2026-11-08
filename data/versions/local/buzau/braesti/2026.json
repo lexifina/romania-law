@@ -3,6 +3,126 @@
  "shard": "local/buzau/braesti/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--braesti-1-2026",
+   "path": "local/buzau/braesti/2026/1",
+   "short": "HCL Brăești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 1/2026 privind aprobarea Planului anual de actiuni sau lucrari de interes local pentru persoanele majore apte de munca beneficiare de ajutor de incluziune conform prevederilor Legii nr 196/2016 privind venitul minim de incluziune, pe anul 2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-1-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-1-din-29.01.2026.pdf",
+     "sha256": "d82e6311bab30dd0e9aa9b53ff2f9a236173778ea3721f7f08d0cd4203c8d487"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-10-2026",
+   "path": "local/buzau/braesti/2026/10",
+   "short": "HCL Brăești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 10/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-10-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-10-din-30.04.2026.pdf",
+     "sha256": "2b1cf10a05a5840dd3a72617d2ef0453f1c55fe76bf3adfb7ea331376a179f8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-11-2026",
+   "path": "local/buzau/braesti/2026/11",
+   "short": "HCL Brăești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 11/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-11-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-11-din-30.04.2026.pdf",
+     "sha256": "c39d305130b2c32cb52ec0c06597a78ee637b3cf861b04c079443bd418d6cd78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-12-2026",
+   "path": "local/buzau/braesti/2026/12",
+   "short": "HCL Brăești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 12/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-12-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-12-din-30.04.2026.pdf",
+     "sha256": "ac372b915b0a6cbf6b7e765ce96ad0e0a3e2022ec43fefaa6252f60975f19e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-14-2026",
+   "path": "local/buzau/braesti/2026/14",
+   "short": "HCL Brăești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 14/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-14-din-16.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-14-din-16.06.2026.pdf",
+     "sha256": "59505c5c095c18cb6149c19a534afd5269fa41bb45e9ed5b8308dc5224954b51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-15-2026",
+   "path": "local/buzau/braesti/2026/15",
+   "short": "HCL Brăești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 15/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-15-din-16.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-15-din-16.06.2026.pdf",
+     "sha256": "71db3c61b4020953a869e7de194cd11b46c41c7f6a898d4fdebf7358062bca57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-16-2026",
+   "path": "local/buzau/braesti/2026/16",
+   "short": "HCL Brăești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 16/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-16-din-16.06.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-16-din-16.06.2026-1.pdf",
+     "sha256": "376c017eae6357fad5c0c0ee49af6a5214d40f01805e0d590a27627245238759"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-17-2026",
+   "path": "local/buzau/braesti/2026/17",
+   "short": "HCL Brăești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 17/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-17-din-31.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-17-din-31.07.2026.pdf",
+     "sha256": "e488f448411e7c78f5a9d2ba1f34c2e982ba2621d2bc19f4abbd096f087f69da"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--braesti-18-2026",
    "path": "local/buzau/braesti/2026/18",
    "short": "HCL Brăești nr. 18/2026",
@@ -14,6 +134,36 @@
      "units": 1,
      "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-18-din-31.07.2026.pdf",
      "sha256": "6c0bd8b28833b939e889fc24586f7c66766504a4225b6e1cc8bbcf5126fd4f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-19-2026",
+   "path": "local/buzau/braesti/2026/19",
+   "short": "HCL Brăești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 19/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-19-din-31.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-19-din-31.07.2026.pdf",
+     "sha256": "5d25ca3cfab2ed02e69aceaaa896b33c3de0dd619f1a8bc8a6f04eeaab4464d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-2-2026",
+   "path": "local/buzau/braesti/2026/2",
+   "short": "HCL Brăești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 2/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-2-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-2-din-29.01.2026.pdf",
+     "sha256": "7750c5948ab6190962a11caf6ed130002cd279f7ef603f4b43b7ae31a427cd5b"
     }
    ]
   },
@@ -44,6 +194,111 @@
      "units": 1,
      "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-23-din-30.09.2026.pdf",
      "sha256": "86949090c65b9bed57d2cbf39e4ca951007d7fced445bdfbaa668f7d6233d221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-3-2026",
+   "path": "local/buzau/braesti/2026/3",
+   "short": "HCL Brăești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 3/2026 privind aprobarea planului de asistenta medicala-comunitara pentru anul 2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-3-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-3-din-29.01.2026.pdf",
+     "sha256": "71452ffd5a873087f479ca3b84ae08b70892127204a7db4632399774bf00a5da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-4-2026",
+   "path": "local/buzau/braesti/2026/4",
+   "short": "HCL Brăești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 4/2026 privind aprobarea Planului Local de Actiune pentru aplicarea HG nr 560/2022 privind aprobarea Srategiei Guvernului Romaniei de incluziune a cetatenilor romani apartinand minoritatii rome, pentru perioada 2026-2027",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-4-din-29.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-4-din-29.01.2026.pdf",
+     "sha256": "3a1d8d93b67aa93004930e41040b9639cbc37c50fb1426d561c8d6f8c1c08937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-5-2026",
+   "path": "local/buzau/braesti/2026/5",
+   "short": "HCL Brăești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 5/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-5-din-09.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-5-din-09.02.2026.pdf",
+     "sha256": "98098cc82f4321d27057baa3da58d7f3d237fbbcdd0605c25282bd28c9ac82c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-6-2026",
+   "path": "local/buzau/braesti/2026/6",
+   "short": "HCL Brăești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 6/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-6-din-25.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-6-din-25.02.2026.pdf",
+     "sha256": "1d27071603aed8c103717aaea06e96dea80503143eb12d9810fee6669b1ec9d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-7-2026",
+   "path": "local/buzau/braesti/2026/7",
+   "short": "HCL Brăești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 7/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-7-din-31.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-7-din-31.03.2026.pdf",
+     "sha256": "2ff7da8fb5d0e6fa4cc994adcb97364829e09ab69baa6ba1fe2e0efd5ce3f788"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-8-2026",
+   "path": "local/buzau/braesti/2026/8",
+   "short": "HCL Brăești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 8/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-8-din-14.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-8-din-14.04.2026.pdf",
+     "sha256": "4b4c20fbd867e6d63e61c775f93d0bc44a55e2aa05add97d7ddabbe4c6404c2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--braesti-9-2026",
+   "path": "local/buzau/braesti/2026/9",
+   "short": "HCL Brăești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brăești nr. 9/2026",
+   "url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-9-din-14.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-9-din-14.04.2026.pdf",
+     "sha256": "c63fe500b58cecd943099791a0f6db4db3d7320ef51148e5c6527151659289c1"
     }
    ]
   }

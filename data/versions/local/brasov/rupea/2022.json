@@ -3,6 +3,21 @@
  "shard": "local/brasov/rupea/2022",
  "acts": [
   {
+   "slug": "hcl-brasov--rupea-1-2022",
+   "path": "local/brasov/rupea/2022/1",
+   "short": "HCL Rupea nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 1/2022 privind alegerea preşedintelui de sedinţă",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/Hotararea-nr.-1-alegere-presedinte.pdf",
+     "sha256": "d5e47b68e7b2cfcd1eef4955ccfcff377dcb4e4f44767de07853d7598f84a968"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-10-2022",
    "path": "local/brasov/rupea/2022/10",
    "short": "HCL Rupea nr. 10/2022",
@@ -18,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-brasov--rupea-100-2022",
+   "path": "local/brasov/rupea/2022/100",
+   "short": "HCL Rupea nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 100/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli SC Serviciul Public Rupea SRL pe anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr-100-privind-aprobare-buget-Serviciul-Public-SRL.pdf",
+     "sha256": "33b17edc69e473d2eafdf34341636c0ffc7215b109389deb5398c4cfe13b173a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-101-2022",
+   "path": "local/brasov/rupea/2022/101",
+   "short": "HCL Rupea nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 101/2022 privind aprobarea rectificarii bugetului de venituri si cheltuieli al RPL Ocolul Silvic Padurea Bogatii RA pentru anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-101-rectificare-buget-Ocol-silvic-2022.pdf",
+     "sha256": "3ffa19a451586f1d7cb312f3d4bac47ae62db9f56ef6905e3b13b37df37dfe3d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-102-2022",
    "path": "local/brasov/rupea/2022/102",
    "short": "HCL Rupea nr. 102/2022",
@@ -29,6 +74,51 @@
      "units": 3,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-102-scutire-taxa-impozit-sala-plugarilor.pdf",
      "sha256": "6bc0c6b6e831a07ee34430e147c0b96788e3c7f9ba16353f66743a440b826ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-104-2022",
+   "path": "local/brasov/rupea/2022/104",
+   "short": "HCL Rupea nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 104/2022 Privind completarea/modificarea inventarului domeniului public al Orasului Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr-104-2022-buna.pdf",
+     "sha256": "ddb684617e85fcc43f935c1702ced840d1f057bd4e5e588bf35eee841de2c5bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-106-2022",
+   "path": "local/brasov/rupea/2022/106",
+   "short": "HCL Rupea nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 106/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "82805675050e98e99dce9f01a54ccf82ef47ab3122b6a4715c29b7a4f429221a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-108-2022",
+   "path": "local/brasov/rupea/2022/108",
+   "short": "HCL Rupea nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 108/2022 pentru aprobarea indicatorilor tehnico-economici ai obiectivului de investiții “Extindere și reabilitare canalizare Rupea-Gara, Oraș Rupea, județul Brașov”",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-108-ndicatoti-tehnico-economici-RUPEA.pdf",
+     "sha256": "7ce02fb1e8ec83c7c37fd57f9a9e4d53171a673deaea50e6022d747d91a8e897"
     }
    ]
   },
@@ -63,6 +153,321 @@
    ]
   },
   {
+   "slug": "hcl-brasov--rupea-15-2022",
+   "path": "local/brasov/rupea/2022/15",
+   "short": "HCL Rupea nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 15/2022 pentru anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-15-privind-aprobarea-strategiei-anuale-de-achizitii-publice-si-a-planului-de-achizitii-pentru-anul-2022.pdf",
+     "sha256": "0ac1dba840f1b7a9c5469b9dcf693d756ffaba0c38c2aac145f90926accce281"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-17-2022",
+   "path": "local/brasov/rupea/2022/17",
+   "short": "HCL Rupea nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 17/2022 privind aprobarea bugetului de venituri si cheltuieli al orasului Rupea pe anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-17-aprobare-BUGET.pdf",
+     "sha256": "ed0d7416ee31bd43de733277c887b1fc52752bc26cd121e585d172ac0b3b71e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-18-2022",
+   "path": "local/brasov/rupea/2022/18",
+   "short": "HCL Rupea nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 18/2022 privind aprobarea bugetului de venituri si cheltuieli al RPL Ocolul Silvic Padurea Bogatii RA pentru anul 2022 Hotărârea nr.20/21.03.2022 privind aprobarea STUDIULUI DE FEZABILITATE pentru Proiect regional de dezvoltare a infrastructurii de apă și apă uzată în județul Brașov/Regiunea Centru, în perioada 2014-2020*, a indicatorilor tehnico-economici ai proiectului, a părții cotei de co-finanțare a",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/anexa-nr.-1-HCL-nr.-18-PA.pdf",
+     "sha256": "28d3ec1f0a7ee2fc53d57a10d152ac6b28c5d021833914e762e8edbba16a1de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-19-2022",
+   "path": "local/brasov/rupea/2022/19",
+   "short": "HCL Rupea nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 19/2022 privind aprobarea Planului strategic de dezvoltare al Spitalului Orășenesc Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-19-privind-aprobarea-plan-strategic-Spital-orasenesc-Rupea.pdf",
+     "sha256": "5b2ea2d60992e37c16bdad213f67f959979b0f45b1c249aeba72068194b2acc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-21-2022",
+   "path": "local/brasov/rupea/2022/21",
+   "short": "HCL Rupea nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 21/2022 privind aprobarea bugetului de venituri si cheltuieli al RPL Ocolul Silvic Padurea Bogatii RA pentru anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-21-buget-Ocol-silvic-2022.pdf",
+     "sha256": "66ba3772c4130ceb029292f205b4b930728ec3117f25ea161b610238d921d6b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-22-2022",
+   "path": "local/brasov/rupea/2022/22",
+   "short": "HCL Rupea nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 22/2022 privind aprobarea vânzarea prin licitație publică cu strigare a masei lemnoase",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-22-valorificare-masa-lemnoasa-pret.pdf",
+     "sha256": "27f1f45c8a7d30abd2db38b94732b28f5e18f71a2af2ddd0d3f3035ae9ff3d38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-23-2022",
+   "path": "local/brasov/rupea/2022/23",
+   "short": "HCL Rupea nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 23/2022 privind desemnarea a doi consilieri locali pentru comisia de evaluare a perfomantelor profesionale ale Secretarului General UAT",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-23-desemnare-membri-comisie-evaluare-secretar.pdf",
+     "sha256": "8b4d4f28f04876f0c7a7cff8af44b3d0982d25b4b0c20df50908ca4e4cc0d820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-24-2022",
+   "path": "local/brasov/rupea/2022/24",
+   "short": "HCL Rupea nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 24/2022 privind aprobarea bugetului de venituri si cheltuieli SC Serviciul Public Rupea SRL pe anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr-24-privind-aprobare-buget-Serviciul-Public-SRL.pdf",
+     "sha256": "81a084e01959f3bd60aa8c00e5581f8845dced335883727ff9ddb1421ff6b675"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-25-2022",
+   "path": "local/brasov/rupea/2022/25",
+   "short": "HCL Rupea nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 25/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "08322a13f441de08abd01d61d1bdaca3295f489105ebe63b1a240beec107e83a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-26-2022",
+   "path": "local/brasov/rupea/2022/26",
+   "short": "HCL Rupea nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 26/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "2bf1780ac6b185cb3599388e2476050922abf4f7ca17f5763239443a7bdb5da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-28-2022",
+   "path": "local/brasov/rupea/2022/28",
+   "short": "HCL Rupea nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 28/2022 privind aprobarea închirierii prin licitație publică a unui spatiu comercial aflat în administrarea orasului Rupea, a Studiului de opurtunitate, a Regulamentului privind desfăşurarea licitaţiei de închiriere, şi a modelului cadru a Contractului de inchiriere",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.28-inchiriere-spatiu-comercial.pdf",
+     "sha256": "1f40a97f33062357790fd63557d6046128f866f337728447df06835d98f07251"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-30-2022",
+   "path": "local/brasov/rupea/2022/30",
+   "short": "HCL Rupea nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 30/2022 privind alegerea preşedintelui de sedinţă",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-30-privind-alegere-presedinte-pentru-o-sedinta.pdf",
+     "sha256": "3280e120cc299cd3f6a0e73226b7eb431e47425a6b733c7cf35f6fcd520351cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-33-2022",
+   "path": "local/brasov/rupea/2022/33",
+   "short": "HCL Rupea nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 33/2022 privind alegerea președintelui de ședință",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-33-privind-alegere-presedinte.pdf",
+     "sha256": "243d55669093600efd134af1517691201a843561a0b5d7afc094ffabc84dfe01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-34-2022",
+   "path": "local/brasov/rupea/2022/34",
+   "short": "HCL Rupea nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 34/2022 Pentru aprobarea declararii ca bun public de interes local a terenului inscris in CF nr. 106325 Hoghiz, teren arabil aflat in proprietatea privata a orasului Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-34-privind-moificare-HCL-nr.130-din-2021-aprobarea-declararii-unui-teren-ca-bun-de-interes-public-local.pdf",
+     "sha256": "9eec63023c90de768f55f24541f25c2ffb3601d9366cbc3e331629d8ed40461f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-35-2022",
+   "path": "local/brasov/rupea/2022/35",
+   "short": "HCL Rupea nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 35/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "a9cb9a70bc78b8f9fe40b4eacba136fa31879fa5216f6e4e69ffe4e6e8a5998b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-36-2022",
+   "path": "local/brasov/rupea/2022/36",
+   "short": "HCL Rupea nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 36/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "4ceb60246747fa4f466dd4d13b2635f4c24d62c505c6d19bd5d182ead597c9e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-37-2022",
+   "path": "local/brasov/rupea/2022/37",
+   "short": "HCL Rupea nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 37/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "b1245857b845aa50e23e50a07b348778db507802e38142269f788a0d066bee29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-39-2022",
+   "path": "local/brasov/rupea/2022/39",
+   "short": "HCL Rupea nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 39/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "5d0bc15c138c163f0472fb013df028ab8fa51b5210cc572ebd9aae1c470f75fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-4-2022",
+   "path": "local/brasov/rupea/2022/4",
+   "short": "HCL Rupea nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 4/2022 privind cuantumului burselor pentru semestrul II al anului scolar 2021-2022 pentru elevii din unitatile de invatamant preuniversitar din orasul Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-4-aprobare-cuantum-burse-scolare-sem.-II.pdf",
+     "sha256": "0c8ae168e7720992dc5282ed75db6b9bcbc739b77dbdfc146e63928b03b4ebd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-42-2022",
+   "path": "local/brasov/rupea/2022/42",
+   "short": "HCL Rupea nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 42/2022 privind aprobarea vânzarea prin licitație publică cu strigare a masei lemnoase",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr-42-valorificare-masa-lemnoasa.pdf",
+     "sha256": "b6724151e561b4c16d86d5b83c9f9c898b6b5c291fdb21fff44388879831e3e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-43-2022",
+   "path": "local/brasov/rupea/2022/43",
+   "short": "HCL Rupea nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 43/2022 privind aprobarea statului de functii al Spitalului orasenesc Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-43-privind-aprobare-stat-de-functii-spital.pdf",
+     "sha256": "e7e9cdf60f2d171bbb9432029a41922be3efea7ff8fdc7032c70b32839ac5cdd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-44-2022",
    "path": "local/brasov/rupea/2022/44",
    "short": "HCL Rupea nr. 44/2022",
@@ -74,6 +479,36 @@
      "units": 1,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-44-privind-modificare-impozite-si-taxe-locale-2022.pdf",
      "sha256": "742d1a31943fe7260b8eca04b551559c0f9b485adad47d149de193dc4af5dae4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-45-2022",
+   "path": "local/brasov/rupea/2022/45",
+   "short": "HCL Rupea nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 45/2022 pentru anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-45-privind-actualizare-plan-de-achizitii-pentru-anul-2022.pdf",
+     "sha256": "31d44c503ed3ebd94fabc2278a3b190fcf80d5417de490781521ef60afd337d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-46-2022",
+   "path": "local/brasov/rupea/2022/46",
+   "short": "HCL Rupea nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 46/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "0a9831f23897c34e54887083971712f5dc2e19ce6a691f2ec9b28e53b45f18e3"
     }
    ]
   },
@@ -93,6 +528,261 @@
    ]
   },
   {
+   "slug": "hcl-brasov--rupea-49-2022",
+   "path": "local/brasov/rupea/2022/49",
+   "short": "HCL Rupea nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 49/2022 pentru aprobarea Planului local de masuri privind incluziunea cetatenilor romani apartinand minoritatii rome in perioada 2022-2023 Hotărârea nr.51/21.07.2022 privind aprobarea actualizarii Strategiei de dezvoltare locală a orasului Rupea, pentru perioada 2018 – 2030 , aprobata prin HCL nr. 11/2018 Hotărârea nr.50/21.07.2022 privitor la “Planul Mobilitate Urbană Durabilă (PMUD) pentru perioada 2021",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-49-aprobare-Monografie-turistica.pdf",
+     "sha256": "f7f0abaddfcd5685b4d0d5f9cc0d1fefb24b20c8ac139ea2c948dd28f8344a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-5-2022",
+   "path": "local/brasov/rupea/2022/5",
+   "short": "HCL Rupea nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 5/2022 privind aprobarea volumului de masă lemnoasă exploatabil în 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-5-valorificare-masa-lemnoasa-2022.pdf",
+     "sha256": "0d9507270f1ee28de4c0f5d8af08b50826b58057338196fd947392fe77d0d3c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-50-2022",
+   "path": "local/brasov/rupea/2022/50",
+   "short": "HCL Rupea nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 50/2022 pentru perioada 2021- 2027",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/Hotarare-nr.-50-aprobare-PMUD.pdf",
+     "sha256": "bcc24e4dad67d5fab21aff7b1579580c191ba7fcaadd5a2d6e9f6e47986bd229"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-51-2022",
+   "path": "local/brasov/rupea/2022/51",
+   "short": "HCL Rupea nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 51/2022 privind aprobarea actualizarii Strategiei de dezvoltare locală a orasului Rupea, pentru perioada 2018 – 2030 , aprobata prin HCL nr. 11/2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HOTARARE-NR.-51-APROBARE-aprobare-strategie-actualizata.pdf",
+     "sha256": "23a7bb973046a46c70c93c4e8b8ace54c229aa02ca0d9b90fe9c03821ef70917"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-53-2022",
+   "path": "local/brasov/rupea/2022/53",
+   "short": "HCL Rupea nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 53/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "1632d1cfa74ffcbec0cc3c45de4d9ee4e355d9123221fe0d22a51908143fe0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-54-2022",
+   "path": "local/brasov/rupea/2022/54",
+   "short": "HCL Rupea nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 54/2022 privind darea în administrare prin gestiune directă a serviciului de iluminat public al orașului Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-54-HCL-54-ILUMINAT-PUBLIC.pdf",
+     "sha256": "af5e963b0025041e24a9aba9e9d168893a586b78dfd62ba9e0feb27379fad4c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-55-2022",
+   "path": "local/brasov/rupea/2022/55",
+   "short": "HCL Rupea nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 55/2022 privind aprobare bilanț contabil, contul de profit și pierdere, date informative, situația activelor imobilizate, notele explicative, raportul administratorului, declarația administratorului pentru exercițiul financiar al anului 2021 și balanța de verificare a societății S",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HOTARARE-nr.-55-bilant-contabil-profit-Serv.Public-Rupea.pdf",
+     "sha256": "9044a86e03c3b5cc8fc584073664b88fe66c0dc1f76f2ca74a6651069269c06c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-6-2022",
+   "path": "local/brasov/rupea/2022/6",
+   "short": "HCL Rupea nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 6/2022 pentru aprobarea planului de actiuni si lucrari de interes local",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-6-privind-aprobare-plan-de-actiuni-si-lucrari-de-interes-local.pdf",
+     "sha256": "bd33e92541bd5201ec1e765aadd374a173a3120c75cfa6c167506dd95e755329"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-61-2022",
+   "path": "local/brasov/rupea/2022/61",
+   "short": "HCL Rupea nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 61/2022 privind alegerea preşedintelui de sedinţă",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/Hotararea-nr.-61-alegere-presedinte-de-sedinta.pdf",
+     "sha256": "2d20aff2ba52b0d58c84819c1977fd0dc67b79ea55a44436ed173690292c85f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-63-2022",
+   "path": "local/brasov/rupea/2022/63",
+   "short": "HCL Rupea nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 63/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarea-nr.-63-asociere-cu-UAT-Homorod.pdf",
+     "sha256": "1b4cd923272c746ab1101e46eb33c1aeedc5113e328ca8c0de4c8f1f50c5406d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-64-2022",
+   "path": "local/brasov/rupea/2022/64",
+   "short": "HCL Rupea nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 64/2022 privind finanțele publice locale; -Legea nr.227/2015, TITLUL IX privind Codul fiscal cu completarile si modificarile ulteriare , analizând încadrarea imobilelor pe zone în Orasul Rupea aprobată prin Hotărârea Consiliului Local al Orasului Rupea - art. 491 si art. 489 alin. 1 si 2 din legea nr. 227/2015 Codul fiscal,cu modificarile si completarile ulterioare Din inițiativa d-lui Primar al Orasului",
+   "url": "https://www.primariarupea.ro/wp-content/uploads/Hotarare-nr.-64-privind-aprobare-impozite-si-taxe-locale-2023.pdf",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/Hotarare-nr.-64-privind-aprobare-impozite-si-taxe-locale-2023.pdf",
+     "sha256": "e1b8bf094e43746961dd7595cd28d466f5677731088a0000b4732aa27cff0549"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-65-2022",
+   "path": "local/brasov/rupea/2022/65",
+   "short": "HCL Rupea nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 65/2022 privind cuantumului burselor pentru anul scolar 2022-2023 pentru elevii din unitatile de invatamant preuniversitar din orasul Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/Hotararea-nr.-65-aprobare-cuantum-burse-scolare.pdf",
+     "sha256": "781710c7b6415d04f88cae3f0666dd7c9e38e71efd47e8fc0b37f8211fdefdf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-66-2022",
+   "path": "local/brasov/rupea/2022/66",
+   "short": "HCL Rupea nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 66/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "980a844229876d3972927efe5af97ef3c873da6dce33bd357d49b68ee465f071"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-67-2022",
+   "path": "local/brasov/rupea/2022/67",
+   "short": "HCL Rupea nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 67/2022 privind numirea în calitate de reprezentanţi ai Consiliului Local Rupea, cu atribuţiile aferente în consiliile de administraţie ale unităţilor de învăţământ din orasul Rupea, în anul şcolar 2022-2023",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-67-numire-reprezentanti-CA-scoli.pdf",
+     "sha256": "761c62547546feca2865f86a58eff6bb3ae2ff5f3b12c9a6840bbbec8c7811b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-68-2022",
+   "path": "local/brasov/rupea/2022/68",
+   "short": "HCL Rupea nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 68/2022 privind aprobarea unei documentatii tehnice cadastrale de dezmembrare a imobilul teren cu categoria de folosinta curti constructii avand numar cad 102842, inscris in CF 102842 Rupea, in suprafata totala de 26827 mp",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-68-privind-aprobare-dezmembrare-imobil.pdf",
+     "sha256": "d99661d215bb9272227c02f60f03b9eee2865fe0682bde0c1ee29640ab7dc8a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-7-2022",
+   "path": "local/brasov/rupea/2022/7",
+   "short": "HCL Rupea nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 7/2022 privind aprobarea retelei scolare a localitatii Rupea ce va functiona in anul scolar 2022-2023",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-7-privind-aprobare-retea-scolara.pdf",
+     "sha256": "5bfc05c61cf46d6e8c9309ec6b93c7f994e8c080595ecf94b8524d174a5f7e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-76-2022",
+   "path": "local/brasov/rupea/2022/76",
+   "short": "HCL Rupea nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 76/2022 privind aprobarea depunerii proiectului “Renovare energetică aprofundată blocuri Rupea lot 6”, a descrierii sumare a investiției propuse a fi realizată prin proiect și a cheltuielilor aferente acestuia Consiliul Local al Orașului Rupea, județul Brașov, întrunit în ședință extraordinară la data de 07.10.2022, conform art. 133 alin. (2) lit. a din Ordonanța de Urgență nr. 57/ 2019 privind codul Admi",
+   "url": "https://www.primariarupea.ro/wp-content/uploads/HCL-76-moderata-LOT-6.pdf",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-76-moderata-LOT-6.pdf",
+     "sha256": "289e98b382d2c719cafdc5762218deac7a26809cd50379e46fbbce2639a9d8b5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-8-2022",
    "path": "local/brasov/rupea/2022/8",
    "short": "HCL Rupea nr. 8/2022",
@@ -104,6 +794,186 @@
      "units": 5,
      "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.8-tarife-salubrizare.pdf",
      "sha256": "59a1218bb4a3989c3368cc07bcdab51ee342d8ac0d58f8a57eeba9dac95cea17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-82-2022",
+   "path": "local/brasov/rupea/2022/82",
+   "short": "HCL Rupea nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 82/2022 Pentru aprobarea declararii ca bun public de interes local a terenului inscris in CF nr. 106325 Hoghiz, teren arabil aflat in proprietatea privata a orasului Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-82-privind-modificare-HCL-nr.34-din-2022-aprobarea-declararii-unui-teren-ca-bun-de-interes-public-local.pdf",
+     "sha256": "269b8074f738257b0c146c474627dea90aaea20c776a6728bed483260ab0958f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-84-2022",
+   "path": "local/brasov/rupea/2022/84",
+   "short": "HCL Rupea nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 84/2022 privind aprobarea marcării de trasee turistice pentru drumeție și cicloturism de pe raza Orașului Rupea, ca parte a destinației Colinele Transilvaniei",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-84-privind-aprobare-trasee-turistice-Colinele-Transilvaniei.pdf",
+     "sha256": "a20a40f6cd2e7a1c8400ee0ae69dad5ff7aecd6587e5d6128e10fd8836643795"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-85-2022",
+   "path": "local/brasov/rupea/2022/85",
+   "short": "HCL Rupea nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 85/2022 privind constituirea dreptului de superficie, cu titlu gratuit în favoarea Sc Serviciul Public Rupea SRL, asupra terenului situat în Or. Rupea, înscris în CF nr.103305 Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-85-DREPT-SUPERFICIE-SERV.-PUBLIC.pdf",
+     "sha256": "17ade0145327e71e273fd38ac514a25821fcb3f7e0fa4f62d09caeb5ef2d4322"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-86-2022",
+   "path": "local/brasov/rupea/2022/86",
+   "short": "HCL Rupea nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 86/2022 privind aprobarea arondarii Cresei orasului Rupea la Gradinita cu Program Prelungit a orasului Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-86-privind-arondarea-Cresei-la-Gradinita.pdf",
+     "sha256": "52ec50ad2c4450e881f1a7e8bb8e82dadeb2dd3a641b85d76f65e5ab9fb7cde2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-87-2022",
+   "path": "local/brasov/rupea/2022/87",
+   "short": "HCL Rupea nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 87/2022 privind aprobarea acordare sprijin finaciar unitati de cult",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-87-privind-acordare-sprijin-financiar-Biserici.pdf",
+     "sha256": "2fc97eb92f008cec6030ac6d883a6db458fb629007323a327c521b0bd1209ae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-88-2022",
+   "path": "local/brasov/rupea/2022/88",
+   "short": "HCL Rupea nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 88/2022 privind administrația publică locală, republicată, cu modificările și completările ulterioare; coroborat cu prevederile art. 8 alin, (3), lit. a), d^1), d^2), i), j), k), art. 9 alin. (2) lit. g), art. 27, art. 29 alin (2) și art. 30 alin. (5) si cu art. 10 alin. (4), alin. (5) din Legea nr. 51/2006 a serviciilor comunitare de utilități publice și a Legii nr 101/2006 a serviciului de salubrizare a",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+     "sha256": "950d3444cde487aec220676775e1bf7826070e3a3a1418114db8ba6ae42f6fd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-89-2022",
+   "path": "local/brasov/rupea/2022/89",
+   "short": "HCL Rupea nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 89/2022 privind aprobarea acordului de parteneriat cu Asociatia Crestem România Împreună, in vederea plantării unui numar de 3500 puieti de salcâm",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-89-privind-aprobarea-unui-parteneriat.pdf",
+     "sha256": "a5e12d7c7d2948503cec14a6e40166d4366f852236ceadd9795cb7a50ae04cc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-9-2022",
+   "path": "local/brasov/rupea/2022/9",
+   "short": "HCL Rupea nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 9/2022 privind aprobarea Parteneriatului pentru vanzarea de lemn fasonat catre populatie in anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-9-privind-aprobarea-parteneriat-ocol-silvic.pdf",
+     "sha256": "d3f46895d2ca455a7cbdcf78eb3d6706726bb153d665188d5a5a1ba785f963af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-91-2022",
+   "path": "local/brasov/rupea/2022/91",
+   "short": "HCL Rupea nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 91/2022 privind codul Administrativ, Având în vedere: -Referatul de aprobare al primarului Orașului Rupea -Raportul compartimentului de resort din cadrul aparatului de specialitate a primarului Orașului Rupea, - Avizul comisiilor de specialitate ale Consiliului Local Rupea; În conformitate cu prevederile art.89, art,90, art,91, art. 92 din OUG 57/2019, privind Codul administrativ, cu modificarile si compl",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-91-asociere-UAT-Jibert-in-ECO-zona-Rupea.pdf",
+     "sha256": "2b9ee7415bd3524a3038459bfa22ba3bc7c51ec2d7e917b7d0bf0a1141640d93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-92-2022",
+   "path": "local/brasov/rupea/2022/92",
+   "short": "HCL Rupea nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 92/2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/HCL-nr.-92-Anexa-2-Plan-Situatie-Centre-de-Aport-Voluntar-Deseuri.pdf",
+     "sha256": "cbfc64ea091f152c7c2184f9f2379dacbbd575c1abb015b1b40d6ffac300947d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-97-2022",
+   "path": "local/brasov/rupea/2022/97",
+   "short": "HCL Rupea nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 97/2022 pentru anul 2022",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotarare-nr.-97-privind-actualizare-plan-de-achizitii-pentru-anul-2022.pdf",
+     "sha256": "20996f35367c19de0153f49aa3bf1b6b0e5ac11ad6583d2ff731a13e29eb37a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-99-2022",
+   "path": "local/brasov/rupea/2022/99",
+   "short": "HCL Rupea nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 99/2022 privind aprobarea draftului Actului adițional la Contractul de Delegare a Gestiunii Serviciilor Publice de alimentare cu apă și de canalizare din 24.09.2008",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/wp-content/uploads/hotararea-nr.-99-draft-contract-de-delegare-gestiune-servicii-publice-din-24.09.2008.pdf",
+     "sha256": "1bbd8ccc251b772815fe389088b0bf0962b2c44a959a84f2f520273ce4b9afa0"
     }
    ]
   }

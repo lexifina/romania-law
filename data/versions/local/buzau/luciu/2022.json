@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--luciu-13-2022",
+   "path": "local/buzau/luciu/2022/13",
+   "short": "HCL Luciu nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 13/2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94466",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94466",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-14-2022",
    "path": "local/buzau/luciu/2022/14",
    "short": "HCL Luciu nr. 14/2022",
@@ -73,6 +88,21 @@
      "from": "2023-03-14",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/94467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-15-2022",
+   "path": "local/buzau/luciu/2022/15",
+   "short": "HCL Luciu nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 15/2022 privind stabilirea numarului indemnizatiilor la persoanele cu handicap grav din comuna Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94468",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94468",
      "sha256": null
     }
    ]
@@ -118,6 +148,21 @@
      "from": "2023-03-14",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/94471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-19-2022",
+   "path": "local/buzau/luciu/2022/19",
+   "short": "HCL Luciu nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 19/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni ( aprilie, mai, iunie 2022)",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94472",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94472",
      "sha256": null
     }
    ]
@@ -258,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--luciu-28-2022",
+   "path": "local/buzau/luciu/2022/28",
+   "short": "HCL Luciu nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 28/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni ( iulie, august si septembrie 2022 )",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94481",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94481",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-29-2022",
    "path": "local/buzau/luciu/2022/29",
    "short": "HCL Luciu nr. 29/2022",
@@ -358,6 +418,36 @@
      "from": "2023-03-14",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/94487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-35-2022",
+   "path": "local/buzau/luciu/2022/35",
+   "short": "HCL Luciu nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 35/2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94488",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-36-2022",
+   "path": "local/buzau/luciu/2022/36",
+   "short": "HCL Luciu nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 36/2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/94489",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/94489",
      "sha256": null
     }
    ]

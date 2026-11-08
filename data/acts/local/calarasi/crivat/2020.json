@@ -3,6 +3,72 @@
 "shard": "local/calarasi/crivat/2020",
 "acts": [
 {
+"slug": "hcl-calarasi--crivat-1-2020",
+"path": "local/calarasi/crivat/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 1/2020 privind scoaterea la licitatie in vederea inchirierii unui spatiu in suprafata de 10,9 mp din imobilul Dispensar Uman, situat in comuna Crivat, pentru functionarea unui spatiu comercial",
+"short": "HCL Crivăț nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/288",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-2-2020",
+"path": "local/calarasi/crivat/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 2/2020 privind scoaterea la licitatie in vederea inchirierii unui spatiu in suprafata de 11,2 mp din imobilul Dispensar Uman, situat in comuna Crivat, pentru functionarea unui spatiu comercial",
+"short": "HCL Crivăț nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/289",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-3-2020",
+"path": "local/calarasi/crivat/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 3/2020 privind scoaterea la licitatie in vederea inchirierii unui spatiu in suprafata de 10,3 mp din imobilul Dispensar Uman, situat in comuna Crivat, pentru functionarea unui ghiseu postal",
+"short": "HCL Crivăț nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/290",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-4-2020",
 "path": "local/calarasi/crivat/2020/4",
 "kind": "local",
@@ -22,6 +88,51 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-5-2020",
+"path": "local/calarasi/crivat/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 5/2020",
+"short": "HCL Crivăț nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/292",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-6-2020",
+"path": "local/calarasi/crivat/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 6/2020 privind aprobarea planului de actiuni al persoanelor apte de munca beneficiare de ajutor social",
+"short": "HCL Crivăț nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/293",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +312,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-15-2020",
+"path": "local/calarasi/crivat/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 15/2020 aprobare modificare HCL nr.30 din 29.06.2019 privind salarizarea personalului platit din bugetul local al comunei Crivat",
+"short": "HCL Crivăț nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-06",
+"latest": "2020-03-06",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/841",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-16-2020",
 "path": "local/calarasi/crivat/2020/16",
 "kind": "local",
@@ -242,6 +375,29 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-18-2020",
+"path": "local/calarasi/crivat/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 18/2020",
+"short": "HCL Crivăț nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-06",
+"latest": "2020-03-06",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/844",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -466,6 +622,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-29-2020",
+"path": "local/calarasi/crivat/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 29/2020 privind scoaterea la licitatie in vederea inchirierii unui teren (baraj-dig de protective) cu suprafata de 445 mp,",
+"short": "HCL Crivăț nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/3884",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-30-2020",
 "path": "local/calarasi/crivat/2020/30",
 "kind": "local",
@@ -529,6 +707,28 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-33-2020",
+"path": "local/calarasi/crivat/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 33/2020 privind numirea unei persoane in functia de director al Clubului sportiv ,,FC 2006 Partizan Crivat”",
+"short": "HCL Crivăț nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/3888",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -639,6 +839,28 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-39-2020",
+"path": "local/calarasi/crivat/2020/39",
+"kind": "local",
+"year": "2020",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 39/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Crivăț nr. 39/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-29",
+"latest": "2020-06-29",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/5236",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1016,6 +1238,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-57-2020",
+"path": "local/calarasi/crivat/2020/57",
+"kind": "local",
+"year": "2020",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 57/2020 privind alegerea Presedintelui de sedinta",
+"short": "HCL Crivăț nr. 57/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-18",
+"latest": "2020-09-18",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/9030",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-58-2020",
 "path": "local/calarasi/crivat/2020/58",
 "kind": "local",
@@ -1079,6 +1323,29 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-61-2020",
+"path": "local/calarasi/crivat/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 61/2020",
+"short": "HCL Crivăț nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-24",
+"latest": "2020-09-24",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/9451",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,171 @@
  "shard": "local/brasov/vama-buzaului/2021",
  "acts": [
   {
+   "slug": "hcl-brasov--vama-buzaului-112-2021",
+   "path": "local/brasov/vama-buzaului/2021/112",
+   "short": "HCL Vama Buzăului nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 112/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-10-29-112.pdf",
+     "sha256": "f5646ef960b8f019a5821498dc3b16f66c27ba6c6003fe09d7ed85baac92f4f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-113-2021",
+   "path": "local/brasov/vama-buzaului/2021/113",
+   "short": "HCL Vama Buzăului nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 113/2021 privind aprobarea desemnării reprezentantului Consiliului Local al comunei Vama Buzăului în cadrul Comisiei de evaluare a probei interviu din cadrul Concursului pentru ocuparea funcțiilor de director/director adjunct al Școlii Gimnaziale Vama Buzăului Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară la data de 29.10.2021; Analizând proiectul de hotărâre inițiat de Primarul co",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-10-29-113.pdf",
+     "sha256": "264a344f75e5d015b7299363cf5e50599755e5ab7f3f7bc85d6974759441e208"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-114-2021",
+   "path": "local/brasov/vama-buzaului/2021/114",
+   "short": "HCL Vama Buzăului nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 114/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-114.pdf",
+     "sha256": "f9d0a8f0a0ef93e07a504949f08ab7a3926f705bd2943a48a1627160a83d219f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-115-2021",
+   "path": "local/brasov/vama-buzaului/2021/115",
+   "short": "HCL Vama Buzăului nr. 115/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 115/2021 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al comunei Vama Buzăului din data de 29.10.2021 Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară la data de 26.11.2021; Analizând proiectul de hotărâre inițiat de viceprimarul comunei Vama Buzăului, referatul de aprobare al acestui proiect de hotărâre și văzând raportul compartimentului de resort din",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-115.pdf",
+     "sha256": "5bd4428b0c38dd78f2feda22d634ddb8b1c32cd708c3c096ec52bc4db0112361"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-116-2021",
+   "path": "local/brasov/vama-buzaului/2021/116",
+   "short": "HCL Vama Buzăului nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 116/2021 privind aprobarea rectificării și modificării bugetului local de venituri și cheltuieli al Comunei Vama Buzăului pe anul 2021 –secțiunea de funcționare și secțiunea de dezvoltare, pe trimestrul IV Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară la data de 26.11.2021; Analizând proiectul de hotărâre inițiat de Viceprimarul comunei Vama Buzăului, referatul de aprobare al acest",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-116.pdf",
+     "sha256": "76a22f77bba8a55ff122ec53f6858cfead138158b90902785794a68f6f645a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-117-2021",
+   "path": "local/brasov/vama-buzaului/2021/117",
+   "short": "HCL Vama Buzăului nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 117/2021 privind aprobarea modificării indicatorilor tehnico - economici actualizați aferenți obiectivului de investiții ,,Înființare rețea de canalizare, racorduri, rigole, accese riverani și trotuare în satele Dălghiu, Vama Buzăului și Acriș, comuna Vama Buzăului, județul Brașov”, aprobați prin Hotărârea Consiliului Local al comunei Vama Buzăului nr. 87/30.09.2021 Consiliul local al comunei Vama Buzăului",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-117.pdf",
+     "sha256": "7f3564e7394ba9702d22aa040c00191d03514b3a3951ebdd0db34f3eae250ecf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-118-2021",
+   "path": "local/brasov/vama-buzaului/2021/118",
+   "short": "HCL Vama Buzăului nr. 118/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 118/2021 privind aprobarea modificării indicatorilor tehnico - economici actualizați aferenți obiectivului de investiții ,,Construire grădiniță în satul Acriș, comuna Vama Buzăului”, aprobați prin Hotărârea Consiliului Local al comunei Vama Buzăului nr. 99/30.09.2021 Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară la data de 26.11.2021; Analizând proiectul de hotărâre inițiat de Prim",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-118.pdf",
+     "sha256": "8f4b818dd180cde575b6de562c223a3ebaef9062724edac37b11b06e0523a839"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-119-2021",
+   "path": "local/brasov/vama-buzaului/2021/119",
+   "short": "HCL Vama Buzăului nr. 119/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 119/2021 privind aprobarea modificării indicatorilor tehnico - economici actualizați aferenți obiectivului de investiții ,,Reabilitare corpuri clădire Școala Gimnazială Vama Buzăului”, aprobați prin Hotărârea Consiliului Local al comunei Vama Buzăului nr. 90/30.09.2021 Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară la data de 26.11.2021; Analizând proiectul de hotărâre inițiat de Pr",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-119.pdf",
+     "sha256": "a8015e3903b3023bc4a1fff24c35dd1fb5c04a31e99a5864efce929b173c2bc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-120-2021",
+   "path": "local/brasov/vama-buzaului/2021/120",
+   "short": "HCL Vama Buzăului nr. 120/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 120/2021 privind aprobarea modificării art. 1 din Hotărârea Consiliului Local al comunei Vama Buzăului nr. 88/30.09.2021 privind aprobarea asigurării finanțării de la bugetul local al Comunei Vama Buzăului a unor categorii de cheltuieli, care nu se finanțează de la bugetul de stat prin Programul Național de Dezvoltare Locală (P.N.D.L.), pentru obiectivul de investiții ,,Înființare rețea de canalizare, raco",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-120.pdf",
+     "sha256": "819bf5b9b4d2e5c583961ab742e6ec4b30eae76d729b6a4410dd1e8bf54599ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-121-2021",
+   "path": "local/brasov/vama-buzaului/2021/121",
+   "short": "HCL Vama Buzăului nr. 121/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 121/2021 privind aprobarea modificării art. 1 din Hotărârea Consiliului Local al comunei Vama Buzăului nr. 100/30.09.2021 privind aprobarea asigurării finanțării de la bugetul local al Comunei Vama Buzăului a unor categorii de cheltuieli, care nu se finanțează de la bugetul de stat prin Programul Național de Dezvoltare Locală (P.N.D.L.), pentru obiectivul de investiții ,,Construire grădiniță în satul Acriș",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-121.pdf",
+     "sha256": "6fd81a8fd244f1fb90516a48b72dacc5c21d1e38bf34e2f0411bc2185069378a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-122-2021",
+   "path": "local/brasov/vama-buzaului/2021/122",
+   "short": "HCL Vama Buzăului nr. 122/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 122/2021 privind aprobarea modificării art. 1 din Hotărârea Consiliului Local al comunei Vama Buzăului nr. 91/30.09.2021 privind aprobarea asigurării finanțării de la bugetul local al Comunei Vama Buzăului a unor categorii de cheltuieli, care nu se finanțează de la bugetul de stat prin Programul Național de Dezvoltare Locală (P.N.D.L.), pentru obiectivul de investiții ,,Reabilitare corpuri clădire Școala G",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-122.pdf",
+     "sha256": "5cdc9ab81143d4589acb52987573369def7db888d84a27ee5e33eac2923884fe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--vama-buzaului-123-2021",
    "path": "local/brasov/vama-buzaului/2021/123",
    "short": "HCL Vama Buzăului nr. 123/2021",
@@ -18,6 +183,96 @@
    ]
   },
   {
+   "slug": "hcl-brasov--vama-buzaului-124-2021",
+   "path": "local/brasov/vama-buzaului/2021/124",
+   "short": "HCL Vama Buzăului nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 124/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-124.pdf",
+     "sha256": "77eb6e3d167ea62850da192b6e77a53962c8c50f26ddce0ca72e9d3f4e2ebb55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-125-2021",
+   "path": "local/brasov/vama-buzaului/2021/125",
+   "short": "HCL Vama Buzăului nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 125/2021 privind aprobarea prelungirii, prin act adițional, a contractului de comodat nr. 1405/07.06.2007 Consiliul local al comunei Vama Buzăului, Întrunit în ședință ordinară la data de 26.11.2021; Analizând proiectul de hotărâre inițiat de Viceprimarul comunei Vama Buzăului, referatul de aprobare al acestui proiect de hotărâre și văzând raportul întocmit de compartimentul de resort din cadrul aparatului",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-125.pdf",
+     "sha256": "0436e41b383309433d38444f31d005eaa19eac79cd1763117cbfd2f2c8eace2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-126-2021",
+   "path": "local/brasov/vama-buzaului/2021/126",
+   "short": "HCL Vama Buzăului nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 126/2021 privind aprobarea prelungirii, prin act adițional, a contractului de închiriere încheiat de Comuna Vama Buzăului cu S.C",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-126.pdf",
+     "sha256": "443df19251f90df76daca7714c63565cda6c678abc3ea56a6b30ae278313f3f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-127-2021",
+   "path": "local/brasov/vama-buzaului/2021/127",
+   "short": "HCL Vama Buzăului nr. 127/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 127/2021 privind aprobarea asigurării funcționalității specifice a Centrului Local de Informare și Promovare Turistică Vama Buzăului de către Asociația ,,Valea Zimbrilor – Vama Buzăului” Consiliul local al comunei Vama Buzăului, Întrunit în ședință ordinară la data de 26.11.2021; Analizând proiectul de hotărâre inițiat de Viceprimarul comunei Vama Buzăului, referatul de aprobare al acestui proiect de hotăr",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-11-26-127.pdf",
+     "sha256": "11f8c0a1ecac873771d1bbe4e7ed9e85d0f2523b0a191150eeb088dacca4875b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-128-2021",
+   "path": "local/brasov/vama-buzaului/2021/128",
+   "short": "HCL Vama Buzăului nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 128/2021 privind aprobarea procesului verbal al ședinței ordinare a Consiliului Local al comunei Vama Buzăului din data de 26.11.2021 Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară la data de 22.12.2021; Analizând proiectul de hotărâre inițiat de viceprimarul comunei Vama Buzăului, referatul de aprobare al acestui proiect de hotărâre și văzând raportul compartimentului de resort din",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-12-22-128.pdf",
+     "sha256": "e84f1763f1a569e68d816aab8a3b3f334f5e1a45b178e9fafc6526d97b0011ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-129-2021",
+   "path": "local/brasov/vama-buzaului/2021/129",
+   "short": "HCL Vama Buzăului nr. 129/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 129/2021 privind aprobarea rectificării și modificării bugetului local de venituri și cheltuieli al Comunei Vama Buzăului pe anul 2021 –secțiunea de funcționare, pe trimestrul IV Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară la data de 22.12.2021; Analizând proiectul de hotărâre inițiat de Viceprimarul comunei Vama Buzăului, referatul de aprobare al acestui proiect de hotărâre, rap",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-12-22-129.pdf",
+     "sha256": "d655a4917e1bbe53d03c7a934e39d33a1a644dbc56c1ddb807e9f35142398e5b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--vama-buzaului-130-2021",
    "path": "local/brasov/vama-buzaului/2021/130",
    "short": "HCL Vama Buzăului nr. 130/2021",
@@ -29,6 +284,51 @@
      "units": 7,
      "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-12-22-130.pdf",
      "sha256": "a21bf97bdabcfedbff116af682f29f3bb669aa59a9301f520bee8d6ca5a3d38b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-131-2021",
+   "path": "local/brasov/vama-buzaului/2021/131",
+   "short": "HCL Vama Buzăului nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 131/2021 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de executare silită Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară din data de 22.12.2021; Analizând proiectul de hotărâre inițiat de viceprimarul comunei Vama Buzăului și referatul de aprobare al acestui proiect de hotărâre, văzând raportul întocmit de compartimentul de resort din cadru",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-12-22-131.pdf",
+     "sha256": "a84eff689dbd18d5c12ca3db63481296605394bcfb78d81e0a679fc5b556b190"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-132-2021",
+   "path": "local/brasov/vama-buzaului/2021/132",
+   "short": "HCL Vama Buzăului nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 132/2021 pentru materialul lemnos din partizile nr. 704, 705, 715, 716, 733, 741, 742, 751, 764, 765, 769, și 770 Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară din data de 22.12.2021; Analizând proiectul de hotărâre inițiat de viceprimarul comunei Vama Buzăului și referatul de aprobare al acestui proiect de hotărâre, văzând raportul întocmit de compartimentul de resort din cadrul a",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-12-22-132.pdf",
+     "sha256": "0bfd9a6e5a45ac13bf6bd174c9ec12c7d5252911e2a61e5e598a32f9fff34126"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-133-2021",
+   "path": "local/brasov/vama-buzaului/2021/133",
+   "short": "HCL Vama Buzăului nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 133/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-12-22-133.pdf",
+     "sha256": "a457543d1967d016d08a4b168a4b50f87d19686c0e196887210ee2e273171f1a"
     }
    ]
   },
@@ -59,6 +359,21 @@
      "units": 1,
      "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-12-22-135.pdf",
      "sha256": "86a1dab66ed3b9299c750a16a3df5a91cfc4211366b9b08c815d8fc736667537"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--vama-buzaului-136-2021",
+   "path": "local/brasov/vama-buzaului/2021/136",
+   "short": "HCL Vama Buzăului nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vama Buzăului nr. 136/2021 pentru rețeaua școlară ce va funcționa la nivelul comunei Vama Buzăului în anul școlar 2022 – 2023, comunicat de către Inspectoratul Școlar al Județului Brașov prin adresa nr. 12468/13.12.2021 și înregistrată la Primăria comunei Vama Buzăului sub nr.6705/13.12.2021; În conformitate cu prevederile art. 19, alin. (4), art. 61 alin. (2) din Legea educației naționale nr. 1/2011 și ale art. 84, alin. (",
+   "url": "http://www.comunavamabuzaului.ro/documente-si-acte-administrative/hotarare-consiliu-local?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://d2f6zx354uwn5o.cloudfront.net/HCL-2021-12-22-136.pdf",
+     "sha256": "7fabdcef3eb67442bfd3b7c5cd7e20078cb9e4a72bc71df99c05979a429eb286"
     }
    ]
   }

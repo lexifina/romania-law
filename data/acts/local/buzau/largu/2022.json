@@ -179,6 +179,73 @@
 }
 },
 {
+"slug": "hcl-buzau--largu-9-2022",
+"path": "local/buzau/largu/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 9/2022 privind desemnarea unui reprezentant al Consiliului local al comunei Largu si a unui functionar din aparatul de specialitate al primarului în Consiliul de administrație al Școlii Gimnaziale Largu pentru anul școlar 2021-2022",
+"short": "HCL Largu nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/largu-bz/registru-hcl/71517",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-10-2022",
+"path": "local/buzau/largu/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 10/2022 privind stabilirea componenței echipei mobile, pentru intervenția de urgență în cazurile de violență domestică",
+"short": "HCL Largu nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/largu-bz/registru-hcl/71518",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-11-2022",
+"path": "local/buzau/largu/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 11/2022",
+"short": "HCL Largu nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/largu-bz/registru-hcl/71519",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--largu-12-2022",
 "path": "local/buzau/largu/2022/12",
 "kind": "local",
@@ -242,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Largu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-15-2022",
+"path": "local/buzau/largu/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 15/2022 pentru stabilirea unor mandate speciale reprezentantului comunei Largu în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Eco Buzău 2009”",
+"short": "HCL Largu nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-08",
+"latest": "2023-03-08",
+"portal": "https://emol.ro/largu-bz/registru-hcl/71523",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

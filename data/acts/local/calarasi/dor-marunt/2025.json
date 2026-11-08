@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-4-2025",
+"path": "local/calarasi/dor-marunt/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 4/2025 privind desemnarea consilierilor locali care să facă parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al Comunei Dor Mărunt",
+"short": "HCL Dor Mărunt nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/195527",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-5-2025",
 "path": "local/calarasi/dor-marunt/2025/5",
 "kind": "local",
@@ -374,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-19-2025",
+"path": "local/calarasi/dor-marunt/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 19/2025 privind aprobarea acordării unui sprijin financiar parohiei Dâlga Gară",
+"short": "HCL Dor Mărunt nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/212781",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -749,6 +793,28 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-37-2025",
+"path": "local/calarasi/dor-marunt/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 37/2025 privind desemnarea reprezentanților Consiliului local al comunei Dor Mărunt în Consiliul de Administrare al Școlii Gimnaziale nr. 1 Dor Mărunt, pentru anul școlar 2025 – 2026",
+"short": "HCL Dor Mărunt nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-16",
+"latest": "2025-10-16",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/229159",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

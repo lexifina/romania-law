@@ -3,6 +3,50 @@
 "shard": "local/brasov/ungra/2026",
 "acts": [
 {
+"slug": "hcl-brasov--ungra-7-2026",
+"path": "local/brasov/ungra/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungra nr. 7/2026",
+"short": "HCL Ungra nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://primariaungra.ro/wp-content/uploads/2026/02/HCL-nr.7-22-ianuarie-2026-ROF.pdf",
+"council": "brasov/ungra",
+"council_name": "Consiliul Local al Comunei Ungra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ungra-8-2026",
+"path": "local/brasov/ungra/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungra nr. 8/2026",
+"short": "HCL Ungra nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://primariaungra.ro/wp-content/uploads/2026/02/HCL-nr.-8-din-22-01-2026-regulament-intern-actualizat.pdf",
+"council": "brasov/ungra",
+"council_name": "Consiliul Local al Comunei Ungra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-brasov--ungra-13-2026",
 "path": "local/brasov/ungra/2026/13",
 "kind": "local",

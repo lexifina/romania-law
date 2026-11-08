@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--luciu-18-2021",
+   "path": "local/buzau/luciu/2021/18",
+   "short": "HCL Luciu nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 18/2021 privind aprobarea asistenților personali ai persoanelor cu handicap și a numărului de indemnizații",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/40573",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/40573",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--luciu-19-2021",
    "path": "local/buzau/luciu/2021/19",
    "short": "HCL Luciu nr. 19/2021",
@@ -238,6 +253,66 @@
      "from": "2021-07-23",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/40579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-25-2021",
+   "path": "local/buzau/luciu/2021/25",
+   "short": "HCL Luciu nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 25/2021 privind desemnarea reprezentanților Consiliului local al comunei Luciu în Consiliul de administrație al Școlii gimnaziale Luciu pentru anul 2021-2022",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/40580",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/40580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-26-2021",
+   "path": "local/buzau/luciu/2021/26",
+   "short": "HCL Luciu nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 26/2021 privind decontarea cheltuielilor mijloacelor de transport în comun personalului didactic de la Școala Luciu",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/40581",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/40581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-27-2021",
+   "path": "local/buzau/luciu/2021/27",
+   "short": "HCL Luciu nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 27/2021",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/40582",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/40582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-28-2021",
+   "path": "local/buzau/luciu/2021/28",
+   "short": "HCL Luciu nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 28/2021 privind aprobarea cumpărării de lămpi pentru iluminatul stradal în sat Luciu și sat Caragele",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/40583",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/40583",
      "sha256": null
     }
    ]
@@ -628,6 +703,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/luciu-bz/registru-hcl/40563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--luciu-9-2021",
+   "path": "local/buzau/luciu/2021/9",
+   "short": "HCL Luciu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luciu nr. 9/2021 privind alegerea președintelui de ședință pentru o perioadă de 3 luni (aprilie, mai și iunie)",
+   "url": "https://emol.ro/luciu-bz/registru-hcl/40564",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/luciu-bz/registru-hcl/40564",
      "sha256": null
     }
    ]

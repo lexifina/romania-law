@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/valea-salciei/2016",
+ "acts": [
+  {
+   "slug": "hcl-buzau--valea-salciei-37-2016",
+   "path": "local/buzau/valea-salciei/2016/37",
+   "short": "HCL Valea Salciei nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 37/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-37-din-30.06.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-37-din-30.06.2016.pdf",
+     "sha256": "bc093ad436c22e73527b1b87fd960641a04469710e0ccd4da0068b7872ab2960"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-38-2016",
+   "path": "local/buzau/valea-salciei/2016/38",
+   "short": "HCL Valea Salciei nr. 38/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 38/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-38-din-08.07.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-38-din-08.07.2016.pdf",
+     "sha256": "514eec03bc1ca1b3a673db5a23a5314443eb835043015f9aa21aaca189474f60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-39-2016",
+   "path": "local/buzau/valea-salciei/2016/39",
+   "short": "HCL Valea Salciei nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 39/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-39-din-08.07.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-39-din-08.07.2016.pdf",
+     "sha256": "4b3f1cb3306db237e069578d442fe57017fabed0465c1befd021327c4c1c2c3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-40-2016",
+   "path": "local/buzau/valea-salciei/2016/40",
+   "short": "HCL Valea Salciei nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 40/2016 privind închirierea prin licitație publică a unui spațiu din cadrul Dispensarului uman Valea Salciei,judetul Buzau cu destinatia farmacie umanã Consiliul Local al comunei Valea salciei,judetul Buzau, Avand in vedere: - expunerea de motive a Primarului comunei Valea Salciei,judetul Buzau nr. 580 din 0107.2016; - raportul Compartimentului Buget finante,impozite și taxe locale,contabilitate,salarizar",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-40-din-08.07.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-40-din-08.07.2016.pdf",
+     "sha256": "3999307f30f0c32b0cf48402062fb91e5622913d60066009c75dd8cd4693dcf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-41-2016",
+   "path": "local/buzau/valea-salciei/2016/41",
+   "short": "HCL Valea Salciei nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 41/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-41-din-08.07.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-41-din-08.07.2016.pdf",
+     "sha256": "88fd480815a5a0706132b43d31da60e5baa36e21301775d792f5cfd3c0107453"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-42-2016",
+   "path": "local/buzau/valea-salciei/2016/42",
+   "short": "HCL Valea Salciei nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 42/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-42-din-08.07.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-42-din-08.07.2016.pdf",
+     "sha256": "1d4487663c48e832dedbe7f07347c3917ca998bd4dd359d3060340cebe642028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-43-2016",
+   "path": "local/buzau/valea-salciei/2016/43",
+   "short": "HCL Valea Salciei nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 43/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-43-din-25.07.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-25",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-43-din-25.07.2016.pdf",
+     "sha256": "fd314054cceecae66e7101f73134a9d3e7c9d2acb843ab4956e91d19b4086d0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-44-2016",
+   "path": "local/buzau/valea-salciei/2016/44",
+   "short": "HCL Valea Salciei nr. 44/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 44/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-44-din-25.08.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-44-din-25.08.2016.pdf",
+     "sha256": "a4a4403a951ff7f656fa107cae18d6793ce0ac9ae7f235acfa80311e126023d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-46-2016",
+   "path": "local/buzau/valea-salciei/2016/46",
+   "short": "HCL Valea Salciei nr. 46/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 46/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-46-din-25.08.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-46-din-25.08.2016.pdf",
+     "sha256": "03b46150c795b5eb73ed7471eceef827458a4e7854412c3f8c0820cfca777926"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-47-2016",
+   "path": "local/buzau/valea-salciei/2016/47",
+   "short": "HCL Valea Salciei nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 47/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-47-din-25.08.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-47-din-25.08.2016.pdf",
+     "sha256": "8d81b6716e86816a4ea21dc1cfa90fb77107b9667126f1e7142b0d9eeb91df80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-50-2016",
+   "path": "local/buzau/valea-salciei/2016/50",
+   "short": "HCL Valea Salciei nr. 50/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 50/2016",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-50-din-04.10.2016.pdf",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-50-din-04.10.2016.pdf",
+     "sha256": "b5663f8afa5081202ebcf66ab70e29cef73c55599bb90a3f524aeeb57acacea4"
+    }
+   ]
+  }
+ ]
+}

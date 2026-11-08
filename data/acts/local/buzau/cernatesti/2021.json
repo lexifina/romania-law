@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-buzau--cernatesti-41-2021",
+"path": "local/buzau/cernatesti/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cernătești nr. 41/2021",
+"short": "HCL Cernătești nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://cernatesti.ro/hotararile-autoritatii-deliberative/",
+"council": "buzau/cernatesti",
+"council_name": "Consiliul Local al Comunei Cernătești",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

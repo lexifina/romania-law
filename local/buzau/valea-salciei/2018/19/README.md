@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Valea Salciei nr. 19/2018
+
+HCL Valea Salciei nr. 19/2018 · 1 versions, from 2018-07-30 (latest in force: 2018-07-30) · <https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-19-din-30.07.2018.pdf>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-buzau--valea-salciei-19-2018` (tags `hcl-buzau--valea-salciei-19-2018/<day>`; `python tools/on.py <day> hcl-buzau--valea-salciei-19-2018`).
+
+## Decisions made by hand
+
+- HCL Valea Salciei nr. 19/2018: listed from Consiliul Local al Comunei Valea Salciei (www.comuna-valeasalciei.ro); an individual decision: metadata only.
+- HCL Valea Salciei nr. 19/2018: dated from 30 July 2018, the day it was adopted (the register gives no later day of publication).
+- HCL Valea Salciei nr. 19/2018: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; the title is withheld.

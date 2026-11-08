@@ -267,6 +267,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-buzau--berca-86-2020",
+"path": "local/buzau/berca/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 86/2020",
+"short": "HCL Berca nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-09",
+"latest": "2020-11-09",
+"portal": "https://primariaberca.ro/wp-content/uploads/2020/11/CLSU_hotarareaCJSUBuzau_nr.86din09.11.20201.pdf",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

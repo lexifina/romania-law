@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/nehoiu/2020",
+"acts": [
+{
+"slug": "hcl-buzau--nehoiu-79-2020",
+"path": "local/buzau/nehoiu/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 79/2020 privind modificarea HCL nr 79 din 04.12.2020",
+"short": "HCL Nehoiu nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-04",
+"latest": "2020-12-04",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2022/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

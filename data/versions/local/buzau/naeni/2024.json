@@ -3,6 +3,21 @@
  "shard": "local/buzau/naeni/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--naeni-1-2024",
+   "path": "local/buzau/naeni/2024/1",
+   "short": "HCL Năeni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 1/2024",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/142605",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/142605",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--naeni-10-2024",
    "path": "local/buzau/naeni/2024/10",
    "short": "HCL Năeni nr. 10/2024",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--naeni-2-2024",
+   "path": "local/buzau/naeni/2024/2",
+   "short": "HCL Năeni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 2/2024 privind aprobarea reorganizării rețelei școlare din comuna Năeni pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/142610",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/142610",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--naeni-20-2024",
    "path": "local/buzau/naeni/2024/20",
    "short": "HCL Năeni nr. 20/2024",
@@ -208,6 +238,21 @@
      "from": "2024-07-23",
      "units": 1,
      "source_url": "https://emol.ro/naeni-bz/registru-hcl/162620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-3-2024",
+   "path": "local/buzau/naeni/2024/3",
+   "short": "HCL Năeni nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 3/2024 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Năeni, județul Buzău",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/142606",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/142606",
      "sha256": null
     }
    ]

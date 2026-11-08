@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/pogoanele/2020",
+ "acts": [
+  {
+   "slug": "hcl-buzau--pogoanele-86-2020",
+   "path": "local/buzau/pogoanele/2020/86",
+   "short": "HCL Pogoanele nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Pogoanele nr. 86/2020",
+   "url": "https://www.primariepogoanele.ro/wp-content/uploads/CLSU_hotarareaCJSUBuzau_nr.86din09.11.2020.pdf",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://www.primariepogoanele.ro/wp-content/uploads/CLSU_hotarareaCJSUBuzau_nr.86din09.11.2020.pdf",
+     "sha256": "8ce9b9b2e652d3d40eaffdc88bc99c25ed0d0df1db8fa7d53567989cdea3f021"
+    }
+   ]
+  }
+ ]
+}

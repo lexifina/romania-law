@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2022",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-11-2022",
+   "path": "local/buzau/nehoiu/2022/11",
+   "short": "HCL Nehoiu nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 11/2022 privind modificarea HCL nr. 11 din 11.02.2022",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2023/04/Hotararea-nr.-40-privind-modificarea-HCL-nr.-11-din-11.02.2022.pdf",
+     "sha256": "410c506674a3a91324286dfbd0972547d4f16d65482fbc97217b06b787e1a04f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-110-2022",
+   "path": "local/buzau/nehoiu/2022/110",
+   "short": "HCL Nehoiu nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 110/2022 privind aprobarea indreptarii unei erori materiale din Hotararea nr 110 din 23.12.2022 si din documentatia aferenta care a stat la baza adoptarii acesteia",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2023/11/Hotararea-nr.-102-privind-aprobarea-indreptarii-unei-erori-materiale-din-Hotararea-nr-110-din-23.12.2022-si-din-documentatia-aferenta-care-a-stat-la-baza-adoptarii-acesteia-1.pdf",
+     "sha256": "6412c41be972036920ef3a01e3a1ed2589f61c4faba2451917a0b4141b54d8d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-18-2022",
+   "path": "local/buzau/nehoiu/2022/18",
+   "short": "HCL Nehoiu nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 18/2022 privind aprobarea modificarii HCL nr. 18 din 11.02.2022 si a HCL nr. 25 din 08.03.2022",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2022/04/Hotararea-nr.-37-privind-aprobarea-modificarii-HCL-nr.-18-din-11.02.2022-si-a-HCL-nr.-25-din-08.03.2022.pdf",
+     "sha256": "d3c7f8346bf7adced480f7a0b944a191c17e9f6e15fdec911bf5252944c3f284"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-23-2022",
+   "path": "local/buzau/nehoiu/2022/23",
+   "short": "HCL Nehoiu nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 23/2022 privind modificarea HCL nr 23 din 22.02.2022",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2022/04/Hotararea-nr.-36-privind-modificarea-HCL-nr-23-din-22.02.2022.pdf",
+     "sha256": "89628e5bcf83c6d587f00ec3a62c58bf9fef4db1ad7d0a00e2d772762e6d2b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-39-2022",
+   "path": "local/buzau/nehoiu/2022/39",
+   "short": "HCL Nehoiu nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 39/2022 privind modificarea anexei I la HCL nr. 39 din 29.04.2022",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2022/",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2022/07/Hotararea-nr.-56-privind-modificarea-anexei-I-la-HCL-nr.-39-din-29.04.2022.pdf",
+     "sha256": "1c458e642aec8d06f28cbb23cdd5e4795ff075f3f580d04f76e78b20fafdebc7"
+    }
+   ]
+  }
+ ]
+}

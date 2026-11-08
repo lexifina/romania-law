@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/blajani/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--blajani-10-2026",
+   "path": "local/buzau/blajani/2026/10",
+   "short": "HCL Blăjani nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 10/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-10-din-16.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-10-din-16.04.2026.pdf",
+     "sha256": "18b70c017aee6b86af95f182814813b1970138742b1448f992dcadab82d3a578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-12-2026",
+   "path": "local/buzau/blajani/2026/12",
+   "short": "HCL Blăjani nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 12/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-12-din-12.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-12-din-12.05.2026.pdf",
+     "sha256": "34af21dd2da2301be1ac2f8af112d1c7dcb199162a857c35c5016440b58bda0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-13-2026",
+   "path": "local/buzau/blajani/2026/13",
+   "short": "HCL Blăjani nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 13/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-13-din-12.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-13-din-12.05.2026.pdf",
+     "sha256": "e910dce765cbd358faed72018737a266e6c2fb208136f58ae6081bd253f60eeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-14-2026",
+   "path": "local/buzau/blajani/2026/14",
+   "short": "HCL Blăjani nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 14/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-14-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-14-din-29.06.2026.pdf",
+     "sha256": "1f71c716d0ed1f803c2f7abbbaaf467584b17d89eff50e40e5bc62e137b7bd08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-15-2026",
+   "path": "local/buzau/blajani/2026/15",
+   "short": "HCL Blăjani nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 15/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-15-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-15-din-29.06.2026.pdf",
+     "sha256": "795c969f2d59891b8bb911097967876e8e08340297df0d5a8e4d3808ea5cde40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-16-2026",
+   "path": "local/buzau/blajani/2026/16",
+   "short": "HCL Blăjani nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 16/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-16-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-16-din-29.06.2026.pdf",
+     "sha256": "5553113be900fbb2090d2a927ac008ee79fa4e48e67adce92d14d823afe29276"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-17-2026",
+   "path": "local/buzau/blajani/2026/17",
+   "short": "HCL Blăjani nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 17/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-17-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-17-din-29.06.2026.pdf",
+     "sha256": "d7b3dcbca4b8fdc170e329bd4a0e86a6c06409aa3238c875eabf3fef78440c84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-18-2026",
+   "path": "local/buzau/blajani/2026/18",
+   "short": "HCL Blăjani nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 18/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-18-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-18-din-29.06.2026.pdf",
+     "sha256": "16fa1402b2d3fbc392ae42ec6d9752ecf057e305afa8141dc238b4948dcdc355"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-2-2026",
+   "path": "local/buzau/blajani/2026/2",
+   "short": "HCL Blăjani nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 2/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-2-din-20.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-2-din-20.02.2026.pdf",
+     "sha256": "da619b809dfc0404bd8c6a5d6922f9312a44952213493726fec04d9d796de6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-20-2026",
+   "path": "local/buzau/blajani/2026/20",
+   "short": "HCL Blăjani nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 20/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-20-din-28.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-20-din-28.07.2026.pdf",
+     "sha256": "873197302363005aa3fd25c18f905097b0ca9a7355958871a9e3cf5d06dfdc7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-21-2026",
+   "path": "local/buzau/blajani/2026/21",
+   "short": "HCL Blăjani nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 21/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-21-din-28.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-21-din-28.07.2026.pdf",
+     "sha256": "a3b333fd49e7beedfdc70aa6635db29d7c9e24d88561155b2b532e2f2f16d2d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-22-2026",
+   "path": "local/buzau/blajani/2026/22",
+   "short": "HCL Blăjani nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 22/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-22-din-28.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-22-din-28.07.2026.pdf",
+     "sha256": "9b41b095b09fa7efcb5c14de27b339afca1a89aa0cc4f1942531f53da96a1c73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-23-2026",
+   "path": "local/buzau/blajani/2026/23",
+   "short": "HCL Blăjani nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 23/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-23-din-28.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-23-din-28.07.2026.pdf",
+     "sha256": "c57447b063f9749784f082b544041c8fd08ee4726026da29ab5889d461cb1acf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-24-2026",
+   "path": "local/buzau/blajani/2026/24",
+   "short": "HCL Blăjani nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 24/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-24-din-31.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-24-din-31.08.2026.pdf",
+     "sha256": "dda8ba59ed8504b3846dd4f7e0580554ea3805ea6ab0449705f5b5d1d187c1a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-25-2026",
+   "path": "local/buzau/blajani/2026/25",
+   "short": "HCL Blăjani nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 25/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-25-din-31.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-25-din-31.08.2026.pdf",
+     "sha256": "92e9500bc221839c5f37e1a55582c494883e86bd99c0e19a0eb9d71eeeff44bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-26-2026",
+   "path": "local/buzau/blajani/2026/26",
+   "short": "HCL Blăjani nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 26/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-26-din-24.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-26-din-24.09.2026.pdf",
+     "sha256": "723fa20c8313477c1bcc28ec7a4236d4d8205804b4b2d4dec0321d3a5bca0865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-28-2026",
+   "path": "local/buzau/blajani/2026/28",
+   "short": "HCL Blăjani nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 28/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-28-din-24.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-28-din-24.09.2026.pdf",
+     "sha256": "965bac1e119ed92742db000db3a5e2a3ee63b6daf5c8253fc4b9187c76736642"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-29-2026",
+   "path": "local/buzau/blajani/2026/29",
+   "short": "HCL Blăjani nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 29/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-29-din-30.10.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-29-din-30.10.2026.pdf",
+     "sha256": "b45b1adb91376b5e7188cad5c2713e4a54bb4e9ba95b2e445d857248720f1f36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-3-2026",
+   "path": "local/buzau/blajani/2026/3",
+   "short": "HCL Blăjani nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 3/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-3-din-20.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-3-din-20.02.2026.pdf",
+     "sha256": "2d3e17675e121904ee81b69cbb56fb8c537f9e7c31671462727f1df9a496ada0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-5-2026",
+   "path": "local/buzau/blajani/2026/5",
+   "short": "HCL Blăjani nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 5/2026 privind aprobarea Strategia de dezvoltare a serviciilor sociale pentru perioada 2026-2030 la nivelul Comunei Blajani",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-5-din-20.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-5-din-20.02.2026.pdf",
+     "sha256": "302b76bfd48fd9fc6b80f621e91b751710c7bd07a32e2921ffc52b9e79a4df9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-6-2026",
+   "path": "local/buzau/blajani/2026/6",
+   "short": "HCL Blăjani nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 6/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-6-din-16.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-6-din-16.04.2026.pdf",
+     "sha256": "c52e041393ef6648a3f4585bc3890d0c4e645ed33dc767c49e5441403f02ca90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-8-2026",
+   "path": "local/buzau/blajani/2026/8",
+   "short": "HCL Blăjani nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 8/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-8-din-16.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-8-din-16.04.2026.pdf",
+     "sha256": "f255fdd9c51c2e9287410c62b468ba4268847cd043db073142d91f945cdad62c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-9-2026",
+   "path": "local/buzau/blajani/2026/9",
+   "short": "HCL Blăjani nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 9/2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-9-din-16.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-9-din-16.04.2026.pdf",
+     "sha256": "ca407fd3be19b70edcf86ef235804aab0c360b955c5c74b2e5cdb9f1b1d7f902"
+    }
+   ]
+  }
+ ]
+}

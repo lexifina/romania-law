@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/buzau/nehoiu/2019",
+"acts": [
+{
+"slug": "hcl-buzau--nehoiu-15-2019",
+"path": "local/buzau/nehoiu/2019/15",
+"kind": "local",
+"year": "2019",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 15/2019 pentru modificarea si completarea HCL nr. 15 din 28.02.2019 privind stabilirea componentei echipei mobile pentru interventia de urgenta in cazurile de violenta domestica",
+"short": "HCL Nehoiu nr. 15/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-02-28",
+"latest": "2019-02-28",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--nehoiu-22-2019",
+"path": "local/buzau/nehoiu/2019/22",
+"kind": "local",
+"year": "2019",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 22/2019 privind modificarea HCL nr. 22 din 27.03.2019 privind infiintarea serviciului public de transport in regim de taxi si transport in regim de inchiriere in orasul Nehoiu",
+"short": "HCL Nehoiu nr. 22/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-27",
+"latest": "2019-03-27",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2021/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--nehoiu-2584-2019",
+"path": "local/buzau/nehoiu/2019/2584",
+"kind": "local",
+"year": "2019",
+"number": "2584",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 2584/2019 privind rezilierea la cerere a contractului de inchiriere nr 2584 din 12.03.2019",
+"short": "HCL Nehoiu nr. 2584/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-03-12",
+"latest": "2019-03-12",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2020/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

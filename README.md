@@ -38,6 +38,7 @@ One of thirty charts drawn from this repository; see [visualisations/](visualisa
 | `local/` | local council decisions, by council and year |
 | `ue/`, `tratat/`, `anexa/`, `profesii/` | EU law in Romanian, treaties, official annexes, the legal professions' rules |
 | `jurisprudenta/` | court decisions: `ccr/`, `iccj/`, `cedo/`, `cjue/` |
+| `proiect/` | drafts and bills, **not law**: draft acts put to public consultation and bills in Parliament, by initiator and year |
 | `<act>/art-NNN.md` · `<act>/README.md` | one article per file (one paragraph per line) · the act's versions and notes |
 | [ACTS.md](ACTS.md) · `data/` · `tools/` | the act list · tables and indexes ([DATA.md](DATA.md)) · the tools below |
 
@@ -74,6 +75,7 @@ Checked against the official sources: 2026-11-08; 88% of acts verified in the la
 ## Dates, authors and limits
 
 - Each commit is dated on the day the change took effect; the author is the act that made it, the committer Lexifina.
+- Drafts and bills in `proiect/` are not law and were never in force unless and until adopted. Their commits are labelled `Kind: draft`, carry no `In-force:` trailer and are dated on the day each stage was published; the author is the initiator (a ministry, the Government, or the members of Parliament as a body). `tools/on.py` never returns them, and each draft's README links the act it became.
 - An act's latest version is the newest consolidated form held, so later amendments may be missing; acts marked `amended, not consolidated` hold the act as published and name the amending acts.
 - Only the Monitorul Oficial, Part I is authoritative (for EU acts, the Official Journal of the EU).
 - Not included: chapter and section headings, the portal's editorial notes, and annexes printed as facsimiles.

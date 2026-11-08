@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2016",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-42-2016",
+   "path": "local/buzau/nehoiu/2016/42",
+   "short": "HCL Nehoiu nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 42/2016 privind alegerea Comisiei de validare a mandatelor de consilier în Consiliul Local al orașului Nehoiu ale candidaților aleși la 5 iunie 2016",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-06-05",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2016/06/HCL-42.pdf",
+     "sha256": "0764350491bd8fcd60cc526022095909fcf316256b08c533f6a6925dea809229"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-79-2016",
+   "path": "local/buzau/nehoiu/2016/79",
+   "short": "HCL Nehoiu nr. 79/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 79/2016 privind modificarea anexei nr. 1 la HCL nr. 79 din 31.10.2016",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2019/03/Hotararea-nr.-24-privind-modificarea-anexei-nr.-1-la-HCL-nr.-79-din-31.10.2016.pdf",
+     "sha256": "e93d693ad0df108b33278e71eaa6e6dd93a2ffb4abf9f29889103e0c5ab0e8db"
+    }
+   ]
+  }
+ ]
+}

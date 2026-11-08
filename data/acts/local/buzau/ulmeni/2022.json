@@ -3,6 +3,28 @@
 "shard": "local/buzau/ulmeni/2022",
 "acts": [
 {
+"slug": "hcl-buzau--ulmeni-62-2022",
+"path": "local/buzau/ulmeni/2022/62",
+"kind": "local",
+"year": "2022",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 62/2022 pentru revocarea HCL nr.62 din 29.09.2022",
+"short": "HCL Ulmeni nr. 62/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://primariaulmenibuzau.ro/hotarari-ale-consiliului-local-2022-2/",
+"council": "buzau/ulmeni",
+"council_name": "Consiliul Local al Comunei Ulmeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--ulmeni-85-2022",
 "path": "local/buzau/ulmeni/2022/85",
 "kind": "local",

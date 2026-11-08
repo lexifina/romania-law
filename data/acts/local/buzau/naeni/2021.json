@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-2-2021",
+"path": "local/buzau/naeni/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 2/2021",
+"short": "HCL Năeni nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/20728",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--naeni-3-2021",
+"path": "local/buzau/naeni/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 3/2021 privind modificarea și completarea HCL nr. 40/21.12.2020 privind concesionarea prin licitație publică deschisă a terenului neproductiv aparținând domeniului public al comunei Năeni în suprafață de 10,00 ha, situat în extravilanul localității Năeni, comuna Năeni",
+"short": "HCL Năeni nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/20731",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-4-2021",
 "path": "local/buzau/naeni/2021/4",
 "kind": "local",
@@ -66,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-6-2021",
+"path": "local/buzau/naeni/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 6/2021 privind alegerea unui nou președinte de ședință al Consiliului local al comuni Năeni, județul Buzău",
+"short": "HCL Năeni nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/20730",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -575,6 +642,28 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-30-2021",
+"path": "local/buzau/naeni/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 30/2021 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+"short": "HCL Năeni nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/33863",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

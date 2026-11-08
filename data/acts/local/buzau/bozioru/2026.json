@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/bozioru/2026",
+"acts": [
+{
+"slug": "hcl-buzau--bozioru-7-2026",
+"path": "local/buzau/bozioru/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozioru nr. 7/2026 privind aprobarea dezlipirii imobilului teren extravilan, cu număr cadastral 20639, situat în Comuna Bozioru, T41, P1245, 1251, 1252, 1253, 1254, 1255, 1258, județul Buzău Consiliul local al comunei Bozioru, județul Buzău întrunit în ședință legal constituită; Având în vedere: ➢ referatul de aprobare prezentat de primarul comunei Bozioru, județul Buzău, înregistrat la nr.570/ 20.02.2026; ➢ raportu",
+"short": "HCL Bozioru nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://comunabozioru.ro/wp-content/uploads/HCL-nr.-7-din-27.02.2026.pdf",
+"council": "buzau/bozioru",
+"council_name": "Consiliul Local al Comunei Bozioru",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

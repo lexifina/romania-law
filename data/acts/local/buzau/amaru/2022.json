@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-2-2022",
+"path": "local/buzau/amaru/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 2/2022 privind alegerea președintelui de ședință",
+"short": "HCL Amaru nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/51172",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-3-2022",
 "path": "local/buzau/amaru/2022/3",
 "kind": "local",
@@ -110,6 +132,94 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-8-2022",
+"path": "local/buzau/amaru/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 8/2022 privind acordarea unui mandat special reprezentantului UAT AMARU în Adunarea Generală Asociației de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea retragerii comunei Cilibia din Asociație",
+"short": "HCL Amaru nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/57609",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-9-2022",
+"path": "local/buzau/amaru/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 9/2022 privind acordarea unui mandat special reprezentantului UAT Amaru în Adunarea Generală Asociației de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea primirii comunei Ghergheasa în Asociație",
+"short": "HCL Amaru nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/57610",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-10-2022",
+"path": "local/buzau/amaru/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 10/2022 privind acordarea unui mandat special reprezentantului UAT Amaru în Adunarea Generală Asociației de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea primirii comunei Mihailești în Asociație",
+"short": "HCL Amaru nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/57611",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--amaru-11-2022",
+"path": "local/buzau/amaru/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 11/2022 privind stabilirea unor mandate speciale reprezentantului comunei Amaru în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Eco Buzău 2009”",
+"short": "HCL Amaru nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/57612",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-17-2022",
+"path": "local/buzau/amaru/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 17/2022 privind închirierea pajiștilor prin atribuire directă aflate în proprietatea privată a Comunei Amaru, Județul Buzău și a Regulamentului organizării pășunatului pe teritoriul comunei Amaru, județul Buzău",
+"short": "HCL Amaru nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/57621",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-18-2022",
 "path": "local/buzau/amaru/2022/18",
 "kind": "local",
@@ -264,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-20-2022",
+"path": "local/buzau/amaru/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 20/2022 privind alegerea președintelui de ședință pe următoarele 3 luni începând cu luna mai",
+"short": "HCL Amaru nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/63663",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

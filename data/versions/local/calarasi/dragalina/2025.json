@@ -3,6 +3,96 @@
  "shard": "local/calarasi/dragalina/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--dragalina-1-2025",
+   "path": "local/calarasi/dragalina/2025/1",
+   "short": "HCL Dragalina nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 1/2025 privind acoperirea definitivă, din excedentul bugetului local al comunei Dragalina, a deficitului secțiunii de dezvoltare pe anul 2024, sursa A, cu suma de 4.467.400,47 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/186875",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/186875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-10-2025",
+   "path": "local/calarasi/dragalina/2025/10",
+   "short": "HCL Dragalina nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 10/2025 privind modificarea și completarea Anexei la Hotărârea Consiliului Local Dragalina numărul 141 din 29 noiembrie 2022, privind aprobarea Inventarului bunurilor care alcătuiesc domeniul privat al Comunei Dragalina , Județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/189589",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/189589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-100-2025",
+   "path": "local/calarasi/dragalina/2025/100",
+   "short": "HCL Dragalina nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 100/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al IV- lea, cu suma de 1.998.114 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/234541",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/234541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-101-2025",
+   "path": "local/calarasi/dragalina/2025/101",
+   "short": "HCL Dragalina nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 101/2025 privind utilizarea sumei de 47.000 lei din fondul de rezervă bugetară la dispoziția consiliului local pe anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/235079",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/235079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-102-2025",
+   "path": "local/calarasi/dragalina/2025/102",
+   "short": "HCL Dragalina nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 102/2025 privind aprobarea virărilor de credite din bugetul local al comunei Dragalina, sursa A, pe trimestrul al IV- lea , în suma de 323.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/235080",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/235080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-103-2025",
+   "path": "local/calarasi/dragalina/2025/103",
+   "short": "HCL Dragalina nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 103/2025 privind alocarea sumei de 60.000 lei din bugetul local, pentru organizarea ,,Serbărilor Crăciunului și sfârșitului de an 2025''",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/235081",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/235081",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dragalina-104-2025",
    "path": "local/calarasi/dragalina/2025/104",
    "short": "HCL Dragalina nr. 104/2025",
@@ -88,6 +178,21 @@
      "from": "2025-12-15",
      "units": 1,
      "source_url": "https://emol.ro/dragalina-cl/registru-hcl/238367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-11-2025",
+   "path": "local/calarasi/dragalina/2025/11",
+   "short": "HCL Dragalina nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 11/2025 privind aprobarea unui schimb de terenuri",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/189590",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/189590",
      "sha256": null
     }
    ]
@@ -243,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--dragalina-12-2025",
+   "path": "local/calarasi/dragalina/2025/12",
+   "short": "HCL Dragalina nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 12/2025 privind utilizarea excedentului din anii precedenți pe trimestrul I al anului 2025, în sumă de 88.000 lei, sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/192915",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/192915",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dragalina-120-2025",
    "path": "local/calarasi/dragalina/2025/120",
    "short": "HCL Dragalina nr. 120/2025",
@@ -303,6 +423,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--dragalina-13-2025",
+   "path": "local/calarasi/dragalina/2025/13",
+   "short": "HCL Dragalina nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 13/2025 privind actualizarea notei de fundamentare, a proiectului tehnic si a indicatorilor tehnico-economici aferenți proiectului „Sistem inteligent de management si retehnologizare, completare si înlocuire sistem video public stradal în comuna Dragalina, Județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/192916",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/192916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-14-2025",
+   "path": "local/calarasi/dragalina/2025/14",
+   "short": "HCL Dragalina nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 14/2025 pentru revocarea Hotărârii Consiliului Local numărul 11 din 30 ianuarie 2025 privind aprobarea unui schimb de terenuri",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/194940",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/194940",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dragalina-15-2025",
    "path": "local/calarasi/dragalina/2025/15",
    "short": "HCL Dragalina nr. 15/2025",
@@ -333,6 +483,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--dragalina-17-2025",
+   "path": "local/calarasi/dragalina/2025/17",
+   "short": "HCL Dragalina nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 17/2025 privind declanșarea procedurilor de expropriere a imobilului proprietate privată afectat de coridorul de expropriere al lucrării de utilitate publică de interes local „Sistem de eliminare a excesului de apă din Comuna Dragalina , Județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/194943",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/194943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-18-2025",
+   "path": "local/calarasi/dragalina/2025/18",
+   "short": "HCL Dragalina nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 18/2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/194944",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/194944",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dragalina-19-2025",
    "path": "local/calarasi/dragalina/2025/19",
    "short": "HCL Dragalina nr. 19/2025",
@@ -343,6 +523,96 @@
      "from": "2025-03-03",
      "units": 1,
      "source_url": "https://emol.ro/dragalina-cl/registru-hcl/194945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-2-2025",
+   "path": "local/calarasi/dragalina/2025/2",
+   "short": "HCL Dragalina nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 2/2025 privind utilizarea excedentului din anii precedenți pe trimestrul I al anului 2025, în sumă de 12.000 lei, sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/187758",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/187758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-20-2025",
+   "path": "local/calarasi/dragalina/2025/20",
+   "short": "HCL Dragalina nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 20/2025 privind aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune sociala in randul beneficiarilor de venit minim de incluziune, pentru anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/200242",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/200242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-21-2025",
+   "path": "local/calarasi/dragalina/2025/21",
+   "short": "HCL Dragalina nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 21/2025 privind aprobarea bugetului local de venituri și cheltuieli, al comunei Dragalina, pe anul 2025, sursa A, sursa E și sursa G",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/200243",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/200243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-22-2025",
+   "path": "local/calarasi/dragalina/2025/22",
+   "short": "HCL Dragalina nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 22/2025 privind aprobarea dizolvării, lichidării și radierii Societății Comerciale „ Societatea Management Servicii Publice Rurale Dragalina ” S.R.L",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/200244",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/200244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-23-2025",
+   "path": "local/calarasi/dragalina/2025/23",
+   "short": "HCL Dragalina nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 23/2025 privind rectificarea bugetului local al anului 2025, cu suma de 2.530.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/200245",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/200245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-24-2025",
+   "path": "local/calarasi/dragalina/2025/24",
+   "short": "HCL Dragalina nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 24/2025 privind modificarea și completarea Hotărârii Consiliului Local numărul 115 din 31 octombrie 2023 privind înființarea Serviciului Public de Alimentare cu Apă și Canalizare al comunei Dragalina",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/202942",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/202942",
      "sha256": null
     }
    ]
@@ -363,6 +633,681 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--dragalina-26-2025",
+   "path": "local/calarasi/dragalina/2025/26",
+   "short": "HCL Dragalina nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 26/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al II-lea, cu suma de 672.335 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/202944",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/202944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-27-2025",
+   "path": "local/calarasi/dragalina/2025/27",
+   "short": "HCL Dragalina nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 27/2025 privind utilizarea excedentului din anii precedenți pe trimestrul al II-lea, anul 2025, în sumă de 2.112.000 lei, Sursa A,",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/202945",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/202945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-28-2025",
+   "path": "local/calarasi/dragalina/2025/28",
+   "short": "HCL Dragalina nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 28/2025 privind aprobarea proiectului și a cheltuielilor legate de proiect, a studiului de fezabilitate și a proiectului tehnic TIC pentru obiectivul de investiție “Digitalizarea primăriei comunei Dragalina, Județul Călărași prin Investiții în dezvoltarea Infrastructurii, Serviciilor și Echipamentelor IT”, finanțat prin Programul Regional SUD – Muntenia 2021-2027",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/203582",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/203582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-29-2025",
+   "path": "local/calarasi/dragalina/2025/29",
+   "short": "HCL Dragalina nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 29/2025 privind virările de credite din bugetul local al anului 2025, pe sursa E, în sumă de 16.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/203857",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/203857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-3-2025",
+   "path": "local/calarasi/dragalina/2025/3",
+   "short": "HCL Dragalina nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 3/2025 privind utilizarea excedentului din anii precedenți pe trimestrul I al anului 2025, în sumă de 309.000 lei, Sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/188753",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/188753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-30-2025",
+   "path": "local/calarasi/dragalina/2025/30",
+   "short": "HCL Dragalina nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 30/2025 pentru revocarea Hotărârii Consiliului Local numărul 22 din 27 martie 2025 privind aprobarea dizolvării, lichidării și radierii Societății Comerciale „Societatea Management Servicii Publice Rurale Dragalina” S.R.L",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/203858",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/203858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-31-2025",
+   "path": "local/calarasi/dragalina/2025/31",
+   "short": "HCL Dragalina nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 31/2025 privind utilizarea excedentului din anii precedenți pe trimestrul al II-lea, anul 2025, în sumă de 56.000 lei, Sursa A,",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/204327",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/204327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-32-2025",
+   "path": "local/calarasi/dragalina/2025/32",
+   "short": "HCL Dragalina nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 32/2025 privind alegerea președintelui de ședință al Consiliului Local Dragalina pentru o perioadă de trei luni (Mai - Iulie 2025)",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/206880",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/206880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-33-2025",
+   "path": "local/calarasi/dragalina/2025/33",
+   "short": "HCL Dragalina nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 33/2025 privind aprobarea Programului anual al achizițiilor publice, anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/206881",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/206881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-34-2025",
+   "path": "local/calarasi/dragalina/2025/34",
+   "short": "HCL Dragalina nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 34/2025 privind preluarea din folosință gratuită a unor bunuri aparținând domeniului privat al comunei Dragalina, de la Societatea Management Servicii Publice Rurale Dragalina S.R.L",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/206882",
+   "versions": [
+    {
+     "from": "2025-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/206882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-35-2025",
+   "path": "local/calarasi/dragalina/2025/35",
+   "short": "HCL Dragalina nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 35/2025 privind concesionarea prin licitatie publica, in conditiile legii, a unui teren in suprafata de 790 mp proprietate privata a comunei Dragalina, judetul Calarasi",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/206883",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/206883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-36-2025",
+   "path": "local/calarasi/dragalina/2025/36",
+   "short": "HCL Dragalina nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 36/2025 privind actualizarea componentei Grupului de Lucru Local Dragalina,pentru incluziunea cetatenilor romani apartinand minoritatii rome",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/206884",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/206884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-37-2025",
+   "path": "local/calarasi/dragalina/2025/37",
+   "short": "HCL Dragalina nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 37/2025 privind utilizarea excedentului din anii precedenți pe trimestrul al II-lea, anul 2025, în sumă de 70.000 lei, Sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/206885",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/206885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-38-2025",
+   "path": "local/calarasi/dragalina/2025/38",
+   "short": "HCL Dragalina nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 38/2025 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice și a personalului didactic auxiliar din cadrul Liceului Tehnologic ,,Duiliu Zamfirescu''Dragalina, la și de la locul de muncă pentru lunile, Decembrie anul 2024, Ianuarie, Februarie, Martie anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/206886",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/206886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-39-2025",
+   "path": "local/calarasi/dragalina/2025/39",
+   "short": "HCL Dragalina nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 39/2025 privind aprobarea contului de execuție bugetară la data de 31.12.2024",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/206887",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/206887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-4-2025",
+   "path": "local/calarasi/dragalina/2025/4",
+   "short": "HCL Dragalina nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 4/2025 privind aprobarea Planului de actiuni si lucrari de interes local, pentru repartizarea orelor de munca persoanelor apte de munca din familiile beneficiare de venit minim de incluziune componenta - ajutor de incluziune, pentru anul 2025 si locurile in care contravenientii vor presta activitati in folosul comunitatii",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/189583",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/189583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-40-2025",
+   "path": "local/calarasi/dragalina/2025/40",
+   "short": "HCL Dragalina nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 40/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al II-lea, cu suma de 2.449.091 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/209545",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/209545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-41-2025",
+   "path": "local/calarasi/dragalina/2025/41",
+   "short": "HCL Dragalina nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 41/2025 privind aprobarea Programului de aprovizionare a populației cu produse agroalimentare raționalizate în caz de mobilizare sau război",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210782",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-42-2025",
+   "path": "local/calarasi/dragalina/2025/42",
+   "short": "HCL Dragalina nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 42/2025 privind aprobarea Planului de analiză și acoperire a riscurilor pentru anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210783",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-43-2025",
+   "path": "local/calarasi/dragalina/2025/43",
+   "short": "HCL Dragalina nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 43/2025 privind concesionarea prin licitatie publica, in conditiile legii, a unui teren in suprafata de 1395 mp proprietate privata a comunei Dragalina, judetul Calarasi",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210784",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-44-2025",
+   "path": "local/calarasi/dragalina/2025/44",
+   "short": "HCL Dragalina nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 44/2025 privind concesionarea prin licitatie publica, in conditiile legii, a unui teren in suprafata de 1000 mp proprietate privata a comunei Dragalina, judetul Calarasi",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210785",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-45-2025",
+   "path": "local/calarasi/dragalina/2025/45",
+   "short": "HCL Dragalina nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 45/2025 privind trecerea în domeniul privat al comunei Dragalina, județul Călărași a unui bun imobil -teren",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210786",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-46-2025",
+   "path": "local/calarasi/dragalina/2025/46",
+   "short": "HCL Dragalina nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 46/2025 privind utilizarea excedentului din anii precedenți pe trimestrul al II-lea, anul 2025, în sumă de 47.000 lei, Sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210787",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-47-2025",
+   "path": "local/calarasi/dragalina/2025/47",
+   "short": "HCL Dragalina nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 47/2025 privind aprobarea dezmembrării imobilului - teren in suprafață de de 20.418 m2 identificat cu numărul cadastral 37531 situat în intravilanul satului Dragalina, comuna Dragalina, județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210788",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-48-2025",
+   "path": "local/calarasi/dragalina/2025/48",
+   "short": "HCL Dragalina nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 48/2025 privind aprobarea reorganizării aparatului de specialitate al Primarului Comunei Dragalina, Județul Călărași , precum și pentru aprobarea organigramei și a ștatului de funcții",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210789",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-49-2025",
+   "path": "local/calarasi/dragalina/2025/49",
+   "short": "HCL Dragalina nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 49/2025 privind rectificarea bugetului local al comunei Dragalina, pe anul 2025, cu suma de 315.956 lei și virări de credite în sumă de 20.000 lei pe sursa A și 60.000 lei pe sursa G",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210790",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-5-2025",
+   "path": "local/calarasi/dragalina/2025/5",
+   "short": "HCL Dragalina nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 5/2025 privind aprobarea Planului anual de acţiune privind serviciile sociale acordate la nivelul comunei Dragalina, judeţul Calarasi, pentru anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/189584",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/189584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-50-2025",
+   "path": "local/calarasi/dragalina/2025/50",
+   "short": "HCL Dragalina nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 50/2025 privind modificarea și completarea Anexei la Hotărârea Consiliului Local Dragalina numărul 141 din 29 noiembrie 2022, privind aprobarea Inventarului bunurilor care alcătuiesc domeniul privat al Comunei Dragalina , Județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210791",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-51-2025",
+   "path": "local/calarasi/dragalina/2025/51",
+   "short": "HCL Dragalina nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 51/2025 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice și a personalului didactic auxiliar din cadrul Liceului Tehnologic ,,Duiliu Zamfirescu''Dragalina, la și de la locul de muncă pentru luna Aprilie anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/210792",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/210792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-52-2025",
+   "path": "local/calarasi/dragalina/2025/52",
+   "short": "HCL Dragalina nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 52/2025 privind aprobarea susținerii financiare a Asociației Sportive Unirea Dragalina pentru activitatea desfășurată de către echipa de fotbal în anul competițional 2024-2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/212199",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/212199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-53-2025",
+   "path": "local/calarasi/dragalina/2025/53",
+   "short": "HCL Dragalina nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 53/2025 privind trecerea unor imobile - terenuri in domeniul privat al comunei Dragalina, județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/215200",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/215200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-54-2025",
+   "path": "local/calarasi/dragalina/2025/54",
+   "short": "HCL Dragalina nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 54/2025 privind utilizarea excedentului din anii precedenți pe trimestrul al II-lea, anul 2025, în sumă de 159.000 lei, Sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/215201",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/215201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-55-2025",
+   "path": "local/calarasi/dragalina/2025/55",
+   "short": "HCL Dragalina nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 55/2025 privind darea în folosință gratuită a unor bunuri din proprietatea privată a Comunei Dragalina , Județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/215202",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/215202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-56-2025",
+   "path": "local/calarasi/dragalina/2025/56",
+   "short": "HCL Dragalina nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 56/2025 privind aprobarea modelului Contractului de furnizare/prestare a serviciului de alimentare cu apă și de canalizare",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/215203",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/215203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-57-2025",
+   "path": "local/calarasi/dragalina/2025/57",
+   "short": "HCL Dragalina nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 57/2025 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice și a personalului didactic auxiliar din cadrul Liceului Tehnologic ,,Duiliu Zamfirescu''Dragalina, la și de la locul de muncă pentru luna Mai anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/215204",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/215204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-58-2025",
+   "path": "local/calarasi/dragalina/2025/58",
+   "short": "HCL Dragalina nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 58/2025 privind aprobarea Acordului pentru Operarea stațiilor de reîncărcare a autovehiculelor electrice",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/215692",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/215692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-59-2025",
+   "path": "local/calarasi/dragalina/2025/59",
+   "short": "HCL Dragalina nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 59/2025 privind modificarea și abrogarea unor dispoziții ale art. 21 al Anexei nr. 1 la Hotărârea Consiliului Local nr. 114 din 19 decembrie 2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/216850",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/216850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-6-2025",
+   "path": "local/calarasi/dragalina/2025/6",
+   "short": "HCL Dragalina nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 6/2025 privind alegerea președintelui de ședință al Consiliului Local Dragalina pentru o perioadă de trei luni (Februarie - Aprilie 2025)",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/189585",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/189585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-60-2025",
+   "path": "local/calarasi/dragalina/2025/60",
+   "short": "HCL Dragalina nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 60/2025 privind aprobarea Registrului Local al Spațiilor Verzi din intravilanul comunei Dragalina, județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/216851",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/216851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-61-2025",
+   "path": "local/calarasi/dragalina/2025/61",
+   "short": "HCL Dragalina nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 61/2025 privind aprobarea Protocolului privind transferul dreptului de proprietate, cu titlu gratuit, al unui microbuz electric scolar achizitionat prin proiectul “Microbuze electrice pentru elevii din Judetul Calarasi”, finantat prin Planul National de Redresare si Reziliență – Componenta 15-Educație",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/216852",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/216852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-62-2025",
+   "path": "local/calarasi/dragalina/2025/62",
+   "short": "HCL Dragalina nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 62/2025 privind utilizarea excedentului din anii precedenți pe trimestrul al III-lea, anul 2025, în sumă de 71.000 lei, Sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/216853",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/216853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-63-2025",
+   "path": "local/calarasi/dragalina/2025/63",
+   "short": "HCL Dragalina nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 63/2025 privind utilizarea sumei de 57.000 lei din fondul de rezervă bugetară la dispoziția consiliului local pe anul 2025 și rectificarea acesteia în bugetul local, sursa A",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/216854",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/216854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-64-2025",
+   "path": "local/calarasi/dragalina/2025/64",
+   "short": "HCL Dragalina nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 64/2025 privind aprobarea devizului general actualizat si a indicatorilor tehnico-economici actualizați pentru obiectivul de investiție “Creșterea eficienței energetice și gestionarea inteligentă a energiei în hala tractoare (C23) din structura Liceului Tehnologic „Duiliu Zamfirescu” Dragalina”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/217149",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/217149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-65-2025",
+   "path": "local/calarasi/dragalina/2025/65",
+   "short": "HCL Dragalina nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 65/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al III-lea, cu suma de 20.500 lei și virări în sumă de 100.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/217150",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/217150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-66-2025",
+   "path": "local/calarasi/dragalina/2025/66",
+   "short": "HCL Dragalina nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 66/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al III-lea, cu suma de 641.034 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/218004",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/218004",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dragalina-67-2025",
    "path": "local/calarasi/dragalina/2025/67",
    "short": "HCL Dragalina nr. 67/2025",
@@ -373,6 +1318,531 @@
      "from": "2025-08-05",
      "units": 1,
      "source_url": "https://emol.ro/dragalina-cl/registru-hcl/220078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-68-2025",
+   "path": "local/calarasi/dragalina/2025/68",
+   "short": "HCL Dragalina nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 68/2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/220079",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/220079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-69-2025",
+   "path": "local/calarasi/dragalina/2025/69",
+   "short": "HCL Dragalina nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 69/2025 privind aprobarea devizului general actualizat după licitație, aferent proiectului “Realizare piste pentru biciclete în comuna Dragalina, Județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/220080",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/220080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-7-2025",
+   "path": "local/calarasi/dragalina/2025/7",
+   "short": "HCL Dragalina nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 7/2025 privind aprobarea încheierii unui contract de servicii de asistență juridică și de reprezentare în instanță cu un cabinet de avocatură/avocat specializat care să reprezinte interesele Comunei Dragalina în dosarele de executare nr.173/2024, 175/2024 și 203/2024",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/189586",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/189586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-70-2025",
+   "path": "local/calarasi/dragalina/2025/70",
+   "short": "HCL Dragalina nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 70/2025 privind alegerea președintelui de ședință al Consiliului Local Dragalina pentru o perioadă de trei luni (August - Octombrie 2025)",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/220081",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/220081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-71-2025",
+   "path": "local/calarasi/dragalina/2025/71",
+   "short": "HCL Dragalina nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 71/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al III- lea , cu suma de 317.895 lei și virări în sumă de 589.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/220082",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/220082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-72-2025",
+   "path": "local/calarasi/dragalina/2025/72",
+   "short": "HCL Dragalina nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 72/2025 privind aprobarea proiectului și a cheltuielilor legate de proiect, pentru obiectivul de investiție “Intensificarea acțiunilor de protecție și conservare a naturii, a biodiversității și a infrastructurii verzi, precum și reducerea normelor de poluare prin investiții în infrastructura verde-albastră, în comuna Dragalina, Județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/220083",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/220083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-73-2025",
+   "path": "local/calarasi/dragalina/2025/73",
+   "short": "HCL Dragalina nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 73/2025 privind abrogarea Hotărârii nr.72/31.07.2025 a Consiliului Local al comunei Dragalina privind aprobarea proiectului si a cheltuielilor legate de proiect , pentru obiectivul de investiție „ Intensificarea acțiunilor de protecție și conservare a naturii, a biodiversității și a infrastructurii verzi, precum și reducerea normelor de poluare prin investiții în infrastructura verde-albastră, în comuna Dragalina, Județul Călărași\"",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/221496",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/221496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-74-2025",
+   "path": "local/calarasi/dragalina/2025/74",
+   "short": "HCL Dragalina nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 74/2025 privind aprobarea proiectului si a cheltuielilor legate de proiect, pentru obiectivul de investiție “Intensificarea acțiunilor de protecție și conservare a naturii, a biodiversității și a infrastructurii verzi, precum și reducerea normelor de poluare prin investiții în infrastructura verde-albastră, în comuna Dragalina, Județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/221497",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/221497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-75-2025",
+   "path": "local/calarasi/dragalina/2025/75",
+   "short": "HCL Dragalina nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 75/2025 privind aprobarea virărilor de credite din bugetul local al comunei Dragalina, pe anul 2025, sursa G, în sumă de 45.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/221498",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/221498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-76-2025",
+   "path": "local/calarasi/dragalina/2025/76",
+   "short": "HCL Dragalina nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 76/2025 privind darea în administrare a serviciului public de alimentare cu apă și de canalizare către Serviciul Public de Alimentare cu Apă și Canalizare al comunei Dragalina, serviciu public de interes local, specializat, cu personalitate juridică , organizat în subordinea Consiliului local al comunei Dragalina , județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222650",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-77-2025",
+   "path": "local/calarasi/dragalina/2025/77",
+   "short": "HCL Dragalina nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 77/2025 privind aprobarea unor normative proprii de cheltuieli ale Comunei Dragalina, județul Călărași , precum și ale instituțiilor publice aflate în subordine",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222651",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-78-2025",
+   "path": "local/calarasi/dragalina/2025/78",
+   "short": "HCL Dragalina nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 78/2025 privind aprobarea protocolului de colaborare între Comuna Dragalina, județul Călărași și Direcția Municipală de Servicii Publice a Municipiului Călărași(DMSPMC) privind prestarea serviciului de capturare a câinilor fără stăpân și cazarea lor",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222652",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-79-2025",
+   "path": "local/calarasi/dragalina/2025/79",
+   "short": "HCL Dragalina nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 79/2025 privind acordarea cu titlu gratuit a dreptului de uz și servitute asupra unor terenuri proprietate publică către EE DRAGALINA INDUSTRIES SRL pentru realizarea lucrării \"AMPLASARE LINIE ELECTRICĂ SUBTERANĂ LES 110kV ȘI CABLU FIBRĂ OPTICĂ\"",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222653",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-8-2025",
+   "path": "local/calarasi/dragalina/2025/8",
+   "short": "HCL Dragalina nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 8/2025 privind aprobarea cheltuielilor neeligibile si aprobarea acordului de parteneriat pentru obiectivului de investiții „Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum în comuna Dragalina, județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/189587",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/189587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-80-2025",
+   "path": "local/calarasi/dragalina/2025/80",
+   "short": "HCL Dragalina nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 80/2025 privind aprobarea contului de execuție bugetară la data de 31.03.2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222654",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-81-2025",
+   "path": "local/calarasi/dragalina/2025/81",
+   "short": "HCL Dragalina nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 81/2025 privind utilizarea sumei de 23.000 lei din fondul de rezervă bugetară la dispoziția consiliului local pe anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222655",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-82-2025",
+   "path": "local/calarasi/dragalina/2025/82",
+   "short": "HCL Dragalina nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 82/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al III- lea , cu suma de 4.114.670 lei și virări în sumă de 710.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222656",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-83-2025",
+   "path": "local/calarasi/dragalina/2025/83",
+   "short": "HCL Dragalina nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 83/2025 privind aprobarea contului de execuție bugetară la data de 30.06.2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222657",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-84-2025",
+   "path": "local/calarasi/dragalina/2025/84",
+   "short": "HCL Dragalina nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 84/2025 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice și a personalului didactic auxiliar din cadrul Liceului Tehnologic ,,Duiliu Zamfirescu''Dragalina, la și de la locul de muncă pentru luna Iunie anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222658",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-85-2025",
+   "path": "local/calarasi/dragalina/2025/85",
+   "short": "HCL Dragalina nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 85/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Extinderea sistemului de distribuție a gazelor naturale în satul Constantin Brâncoveanu, aparținător comunei Dragalina, județul Călărași\"",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/222659",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/222659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-86-2025",
+   "path": "local/calarasi/dragalina/2025/86",
+   "short": "HCL Dragalina nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 86/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al III- lea , cu suma de 168.385 lei și virări în sumă de 118.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/224880",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/224880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-87-2025",
+   "path": "local/calarasi/dragalina/2025/87",
+   "short": "HCL Dragalina nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 87/2025 privind aprobarea transferului dreptului de proprietate, cu titlu gratuit a unui microbuz electric pentru elevi achiziționat prin proiectul “Microbuze electrice pentru elevii din Județul Călărași”, finanțat prin Planul National de Redresare și Reziliență – Componenta 15-Educație",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/225075",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/225075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-88-2025",
+   "path": "local/calarasi/dragalina/2025/88",
+   "short": "HCL Dragalina nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 88/2025 privind aprobarea accesului pe domeniul public si ocuparea temporara a unor suprafete de teren afectate de lucrarea\" EVACUAREA APELOR EPURATE DIN CADRUL SC EUROAVI SRL in cadrul canalului existent CP apartinand Agentiei Nationale de Imbunatatiri Funciare, cu numar de inventar 30001\"",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228126",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-89-2025",
+   "path": "local/calarasi/dragalina/2025/89",
+   "short": "HCL Dragalina nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 89/2025 privind aprobarea decontării cheltuielilor cu naveta cadrelor didactice și a personalului didactic auxiliar din cadrul Liceului Tehnologic ,,Duiliu Zamfirescu''Dragalina, la și de la locul de muncă pentru lunile Iulie, August anul 2025",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228127",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-9-2025",
+   "path": "local/calarasi/dragalina/2025/9",
+   "short": "HCL Dragalina nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 9/2025 privind îndreptarea erorii materiale strecurata in art.1 din Hotărârea nr.5/31.01.2018 privind aprobarea PUZ-CONSTRUIRE SPATII DE DEPOZITARE CEREALE LA SANAGRO SRL, Tarla 21/1,Lot 1, sat Constantin Brâncoveanu , comuna Dragalina, județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/189588",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/189588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-90-2025",
+   "path": "local/calarasi/dragalina/2025/90",
+   "short": "HCL Dragalina nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 90/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al III- lea , cu suma de 56.000 lei și virări în sumă de 100.000 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228128",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-91-2025",
+   "path": "local/calarasi/dragalina/2025/91",
+   "short": "HCL Dragalina nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 91/2025 privind retragerea dreptului de folosință asupra terenului atribuit conform Legii nr. 15/2003, persoanelor care nu au început construirea unei locuințe proprietate personală, în termenul stabilit de lege",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228129",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-92-2025",
+   "path": "local/calarasi/dragalina/2025/92",
+   "short": "HCL Dragalina nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 92/2025 privind aprobarea atribuirii unui număr de 26 (douăzeci și șase) loturi de teren, în suprafață totală de 21.370 m.p., teren intravilan aparținând domeniului privat al comunei Dragalina, județul Călărași, drept sprijin acordat tinerilor în vederea construirii unei locuințe proprietate personală conform Legii nr. 15/2003",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228130",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-93-2025",
+   "path": "local/calarasi/dragalina/2025/93",
+   "short": "HCL Dragalina nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 93/2025 privind aprobarea dezmembrării imobilului - teren in suprafață de de 12.056 mp identificat cu numărul cadastral 38945 situat în intravilanul satului Dragalina, comuna Dragalina, județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228131",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-94-2025",
+   "path": "local/calarasi/dragalina/2025/94",
+   "short": "HCL Dragalina nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 94/2025 privind aprobarea dezmembrării imobilului - teren in suprafață de de 7.176 mp identificat cu numărul cadastral 38947 situat în intravilanul satului Dragalina, comuna Dragalina, județul Călărași",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228132",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-95-2025",
+   "path": "local/calarasi/dragalina/2025/95",
+   "short": "HCL Dragalina nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 95/2025 privind aprobarea devizului general actualizat la cota TVA de 21%, pentru obiectivul de investiții „Înființare centru de colectare selectivă a deșeurilor, cu aport voluntar, în comuna Dragalina, județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228133",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-96-2025",
+   "path": "local/calarasi/dragalina/2025/96",
+   "short": "HCL Dragalina nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 96/2025 privind aprobarea Proiectului tehnic, a devizului general actualizat și a indicatorilor tehnico- economici actualizați, pentru obiectivul de investiții „Creșterea eficientei energetice și gestionarea inteligentă a energiei în hala de tractoare (C23) din structura liceului tehnologic „Duiliu Zamfirescu” Dragalina”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228134",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-97-2025",
+   "path": "local/calarasi/dragalina/2025/97",
+   "short": "HCL Dragalina nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 97/2025 privind aprobarea devizului general actualizat și a contribuției proprii aferente proiectului “Realizare piste pentru biciclete în comuna Dragalina, Județul Călărași”",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/228135",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/228135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-98-2025",
+   "path": "local/calarasi/dragalina/2025/98",
+   "short": "HCL Dragalina nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 98/2025 privind rectificarea bugetului local al comunei Dragalina, sursa A, pe trimestrul al IV- lea , cu suma de 557.000 lei si virari in suma de 233.100 lei",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/231703",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/231703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dragalina-99-2025",
+   "path": "local/calarasi/dragalina/2025/99",
+   "short": "HCL Dragalina nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dragalina nr. 99/2025 privind alegerea președintelui de ședință al Consiliului Local Dragalina pentru o perioadă de trei luni ( Noiembrie 2025 - Ianuarie 2026 )",
+   "url": "https://emol.ro/dragalina-cl/registru-hcl/231704",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/dragalina-cl/registru-hcl/231704",
      "sha256": null
     }
    ]

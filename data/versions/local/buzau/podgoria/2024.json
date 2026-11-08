@@ -3,6 +3,111 @@
  "shard": "local/buzau/podgoria/2024",
  "acts": [
   {
+   "slug": "hcl-buzau--podgoria-1-2024",
+   "path": "local/buzau/podgoria/2024/1",
+   "short": "HCL Podgoria nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 1/2024 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat din comuna",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/1HCL-nr.1-31012024-privind-aprobarea-organizarii-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-de-stat-din-comuna-.pdf",
+     "sha256": "714b5911b115e8b55c31b473c2f4a5c99d34ba41df7bfe60b067a092bfe9b9c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-10-2024",
+   "path": "local/buzau/podgoria/2024/10",
+   "short": "HCL Podgoria nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 10/2024 privind darea in folosinta cu titlu gratuit, pe perioada determinata, a autoturismului marca Wolksvagen, catre “CONSILIUL LOCAL PODGORIA - SERVICIUL APĂ CANALIZARE SALUBRIZARE”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei PODGORIA,județul Buzău Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/10HCL-nr.-10-29.02.2024-darea-in-folosinta-gratuita-a-auto-catre-Serviciul-de-apa-canalizare-salubrizare.pdf",
+     "sha256": "631b5383c8019e41c8af75aaa6b87e1274811a7e84459669031a3d95bfb87868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-11-2024",
+   "path": "local/buzau/podgoria/2024/11",
+   "short": "HCL Podgoria nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 11/2024 privind modificarea contractului de delegare a gestiunii directe a serviciului de transport public local pe raza de competenta a Asociației de Dezvoltare Intercomunitară a Transportului Public din Ramnicu Sărat-ATRAS catre S.C",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/11HCL-nr.-11-29.2.2024-act-aditional-4-modificare-contract-delegare-gestiune-directa-transport-public-ATRAS.pdf",
+     "sha256": "82c54a06f4dd717b3741e1d26d9f3bb2a4054b44d851011203c9b0364858d631"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-12-2024",
+   "path": "local/buzau/podgoria/2024/12",
+   "short": "HCL Podgoria nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 12/2024 Privind aprobarea Organigramei si a Statului de functii al Aparatului de specialitate al Primarului comunei Podgoria, judetul Buzau – forma actualizata Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA pe luna februarie 2024; Analizand: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 480/1.02.2024 (ca instrument de motivare si prezentare a",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/12HCL-nr.-12-29.02.2024-modificare-organigrama-si-stat-de-functii-forma-actualizata-2024.pdf",
+     "sha256": "b3530a9517061381506aed336d044911b24af7f748550aed49bcfc8cd4c9b75c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-13-2024",
+   "path": "local/buzau/podgoria/2024/13",
+   "short": "HCL Podgoria nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 13/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9f7a0d0c78d50366d200120e7c8253754a600b636f1f4f4c2072e5984a547c8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-14-2024",
+   "path": "local/buzau/podgoria/2024/14",
+   "short": "HCL Podgoria nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 14/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d6dc18858ef6326f751ba78c1ffc4093b75be984fcac9c3d2993de4b7ce2bd3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-15-2024",
+   "path": "local/buzau/podgoria/2024/15",
+   "short": "HCL Podgoria nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 15/2024 privind aprobarea vanzarii cu drept de preemtiune a terenului intravilan in suprafata de 250 mp categoria de folosinta curti- constructii, apartinand domeniului privat al comunei Podgoria, judetul Buzau, aferent imobilului constructii administrative si social culturale, aflat in proprietatea sotilor CRISTEA PAVEL si CRISTEA GETA, precum si aprobarea raportului de evaluare a terenului Consiliul loc",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/15HCL-nr.-15-29.03.2024-acordare-drept-drept-preemtiune-teren-CRISTEA-PAVEL-CRISTEA-GETA.pdf",
+     "sha256": "637df4f0d5c8aaae625f7d5b0f69db87d2392b4ed37358f2cee0c29a99bb86d2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-18-2024",
    "path": "local/buzau/podgoria/2024/18",
    "short": "HCL Podgoria nr. 18/2024",
@@ -18,6 +123,66 @@
    ]
   },
   {
+   "slug": "hcl-buzau--podgoria-19-2024",
+   "path": "local/buzau/podgoria/2024/19",
+   "short": "HCL Podgoria nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 19/2024 privind aprobarea modificării și actualizării Statutului Asociației de Dezvoltare Intercomunitară „Eco Buzău 2009” la care comuna PODGORIA este membru asociat Consiliul local al Comunei Podgoria, județul Buzău, intrunit in sedinta ORDINARA pe luna MARTIE 2024, Având în vedere: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 1366/18.03.2024 intocmit in conformitate cu pr",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+     "sha256": "431769ba2f7d7f9f5a52f752c77f655ed45c4e50fec72879fe89650807954559"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-20-2024",
+   "path": "local/buzau/podgoria/2024/20",
+   "short": "HCL Podgoria nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 20/2024 pentru obiectivul de investiții “Inființare sistem de alimentare cu apă în satul Plesesti, comuna Podgoria, județul Buzău”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRA",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/20HCL-nr.-20-12.04.2024-aprobarea-indicatorilor-tehnico-economici.pdf",
+     "sha256": "f36ff9bfaba1684d714aeb730dbff2810877706252d679f121d74b6e390cdfee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-21-2024",
+   "path": "local/buzau/podgoria/2024/21",
+   "short": "HCL Podgoria nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 21/2024 privind aprobarea continuării activității in actuala forma juridica a serviciului APA",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/21HCL-nr.-21-30.04.2024-privind-aprobarea-continuarii-activitatii-in-actuala-forma-juridica-a-serviciului-APA-.pdf",
+     "sha256": "1d8fa61a6355c67786598fd7a76622bd5e31c567fcce0a3c0e157f319610fa6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-22-2024",
+   "path": "local/buzau/podgoria/2024/22",
+   "short": "HCL Podgoria nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 22/2024 privind aprobarea utilizarii in anul 2024 a sumei de 265,00 mii lei din excedentul anual al bugetului local al Comunei Podgoria, rezultat la incheierea exercitiului bugetar la 31.12.2023, pentru sectiunea de dezvoltare Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA pe luna aprilie 2024; • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 17",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/22-HCL.nr_.22-30.04.2024-utilizare-excedent-bugetar-constituit-in-2023-pt-2024-reabilitare-dc-Podgoria.pdf",
+     "sha256": "748feb0a276895a491dab00f2a9192dc7b311a7442ee3fbf408dc6332c2db953"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-23-2024",
    "path": "local/buzau/podgoria/2024/23",
    "short": "HCL Podgoria nr. 23/2024",
@@ -29,6 +194,81 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/23HCL.nr_.-23-30042024-Privind-actualizarea-metodologiei-cuantumul-maxim-si-situatiile-deosebite-legea-196-2024.pdf",
      "sha256": "0a87e8655837927893451998c7ecb29f26828f2ae1e96bf8457436224998220f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-24-2024",
+   "path": "local/buzau/podgoria/2024/24",
+   "short": "HCL Podgoria nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 24/2024 privind constatarea incetarii calitatii de membru asociat al Asociatiei de Dezvoltare lntercomunitara a Transportului Public din Ramnicu Sarat­ ATRAS a unor unitati administrativ – teritoriale Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA pe luna aprilie 2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 1865/12.04",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/24HCL-nr.-24-30.04.2024-incetarea-calitate-de-membru-la-ATRAS-0-unele-UAT.pdf",
+     "sha256": "2b55d6cca2c6e07b0018d6c60d0e0128bb6c00d85707bc780ecd944048a9e950"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-27-2024",
+   "path": "local/buzau/podgoria/2024/27",
+   "short": "HCL Podgoria nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 27/2024 privind alegerea Presedintelui de sedinta al Consiliului Local al comunei Podgoria pentru perioada iunie – iulie -august 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA in data de 31.05.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 2450/21.05.2024 intocmit in conformitate cu prevederile art.136, alin.(8), l",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/27HCL-nr.-27-31052024-presedinte-de-sedinta-iunie-iulie-august-2024.pdf",
+     "sha256": "d199ad627807319858978717a7b47dc2db32803fd0a609aac37587152fad5c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-28-2024",
+   "path": "local/buzau/podgoria/2024/28",
+   "short": "HCL Podgoria nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 28/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "69fdb48cf45e4e64edd71b9bcf133aa384a151d8eaf36bc483474d05ff385861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-29-2024",
+   "path": "local/buzau/podgoria/2024/29",
+   "short": "HCL Podgoria nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 29/2024 Privind aprobarea documentatiei de dezmembrare a unui imobil – teren, apartinand domeniului privat al comunei Podgoria, judetul Buzau, avand numarul cadastral 20234 Consiliul local al comunei Podgoria, judetul Buzau; Având în vedere: - referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 2681 din 30.05.2024 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a) din",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/29HCL-nr.-29-31052024-dezmembrare-IMOBIL-TEREN-APARTINAND-DOMENIULUI-PRIVAT-AL-COMUNEI-N.C.-20234-.pdf",
+     "sha256": "ba04dd095c9b6b84802af51fc79cb31ccd8622af4227575978167914363794df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-3-2024",
+   "path": "local/buzau/podgoria/2024/3",
+   "short": "HCL Podgoria nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 3/2024 privind aprobarea Planului de actiuni sau lucrari de interes local stabilit pentru anul 2024 pentru repartizarea orelor de munca prestate lunar de catre persoanele majore apte de muna din familia beneficiara de venit minim de incluziune, acordat in baza prevederilor Legii nr. 196/2016 privind venitul minim de incluziune, cu modificarile si completarile ulterioare Consiliul local al comunei Podgori",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/3HCL-nr.3-31012024-aprobare-plan-de-actiuni-legea-195-2016.pdf",
+     "sha256": "6dc818b080b5bb2f38311234cad702f7c1176ed3ed9c723c546fd9edb12578aa"
     }
    ]
   },
@@ -63,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-buzau--podgoria-32-2024",
+   "path": "local/buzau/podgoria/2024/32",
+   "short": "HCL Podgoria nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 32/2024 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria, pe luna iulie 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA data de 31.07.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 3043/1.07.2024 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a) din O.U.G n",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/32.HCL_.nr_.-32-31.07.2024-rectificare-buget-luna-IULIE-2024.pdf",
+     "sha256": "e4d55891408a6164427fce9b9de0727ca81abd5e4bbc22867d2cdcc3b2ed7944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-34-2024",
+   "path": "local/buzau/podgoria/2024/34",
+   "short": "HCL Podgoria nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 34/2024 Privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul Primariei comunei Podgoria, precum si pentru personalul contractual din cadrul Serviciului cu personalitate juridica aflat in subordinea Consiliului local, majorate potrivit prevederilor art.I din Ordonanța de Urgență a Guvernului nr.53/2024 privind măsuri referitoare la salarizarea personalului",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/34HCL.-nr.34-31072024-stabilire-salarii-de-baza-cf.-oug-53-2024-MAJORARE-DE-10-PROCENTE.pdf",
+     "sha256": "976bd52f6d1de3f678dab6fe9f50afae5b586233bef93ec1e7fddec2b8466869"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-35-2024",
    "path": "local/buzau/podgoria/2024/35",
    "short": "HCL Podgoria nr. 35/2024",
@@ -78,6 +348,66 @@
    ]
   },
   {
+   "slug": "hcl-buzau--podgoria-36-2024",
+   "path": "local/buzau/podgoria/2024/36",
+   "short": "HCL Podgoria nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 36/2024 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria, pe luna AUGUST 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA data de 30.08.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 3412/1.08.2024 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a) din O.U.G",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/36.-HCL.nr_.-36-30.08.2024-rectificare-buget-luna-AUGUST-2024.pdf",
+     "sha256": "da6fdedf6e656ee7f183419e42f00110c1d1f659246dc77c44f4b13e4e019c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-37-2024",
+   "path": "local/buzau/podgoria/2024/37",
+   "short": "HCL Podgoria nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 37/2024 Privind aprobarea incheierii Actului aditional nr. 1 la Contractul de delegare – contract de achiziție publică de servicii – a gestiunii serviciului de salubrizare al comunei Podgoria pentru activitatea de colectarea separată și transportul separat al deșeurilor municipale și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/37-HCL.-37-30.08.2024-act-aditional-CONTRAT-SC-ACVATERM-august-2024.pdf",
+     "sha256": "e9df6fe0536a1240c6e84e7cd421ec9c612332461728a315994f9e331f9e6538"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-38-2024",
+   "path": "local/buzau/podgoria/2024/38",
+   "short": "HCL Podgoria nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 38/2024 privind alegerea Presedintelui de sedinta al Consiliului Local al comunei Podgoria pentru perioada SEPTEMBRIE-OCTOMBRIE-NOIEMBRIE 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA in data de 23.09.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 3395/3.09.2024 intocmit in conformitate cu prevederile art.136, ali",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/38HCL-nr.-38-23.09.2024-presedinte-de-sedinta-SEPTEMBRIE-OCTOMBRIE-NOIEMBRIE-2024.pdf",
+     "sha256": "ab42a17124907c0a27748fdb85b2724ac662978c2b6bee76b46b118e63a87fe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-39-2024",
+   "path": "local/buzau/podgoria/2024/39",
+   "short": "HCL Podgoria nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 39/2024 privind aprobarea încheierii unui acord de cooperare cu Filiala Județeană Buzau a Asociației Comunelor din România pentru organizarea și exercitarea activității de audit public intern Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA in data de 23.09.2024; Avand in vedere: • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 3469/10.09.2024, in",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/39-HCL-nr.39-23.09.2024-Acord-cooperare-cu-filiala-judeteana-ACOR-EXERCITAREA-ACTIVITATII-DE-AUDIT-PUBLIC-INTERN.pdf",
+     "sha256": "4c579fcd42b76b6845f078f8e8228a7e94e5ee270cc01872d9cb37e8242be9b0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-4-2024",
    "path": "local/buzau/podgoria/2024/4",
    "short": "HCL Podgoria nr. 4/2024",
@@ -89,6 +419,51 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/4HCL.-nr.-4-31012024-PRELUNGIRE-VALABILITATE-PUG-COMUNA-PODGORIA.pdf",
      "sha256": "d1b7683abadc44dd8c753a0b23b7b256890676019b180fb1c81a384be545f388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-40-2024",
+   "path": "local/buzau/podgoria/2024/40",
+   "short": "HCL Podgoria nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 40/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "91ad390b7b0215fd154a89924caa36cfcb8f72ea73e9ebba0acc6a18d007c836"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-41-2024",
+   "path": "local/buzau/podgoria/2024/41",
+   "short": "HCL Podgoria nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 41/2024 privind aprobarea primirii in calitate de membru asociat in cadrul Asociatiei de Dezvoltare lntercomunitara a Transportului Public din Ramnicu Sarat­ ATRAS a Comunei Racovițeni, judetul Buzau si modificarea Statutului acesteia, la care Comuna PODGORIA este membru asociat Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA in data de 23.09.2024; Având în vedere : • refe",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/41HCL-nr.-41-23.09.2024-primire-ca-membru-in-ATRAS-comuna-RACOVITENI.pdf",
+     "sha256": "fd636d976c80e7c8af7df0ff3c15562ab83e649e3b46702fe8eb59335a549f3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-42-2024",
+   "path": "local/buzau/podgoria/2024/42",
+   "short": "HCL Podgoria nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 42/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cd0aa11063266255241da432a5c46bc11b5d240aa7409cac556dd118de7a20b4"
     }
    ]
   },
@@ -258,6 +633,36 @@
    ]
   },
   {
+   "slug": "hcl-buzau--podgoria-6-2024",
+   "path": "local/buzau/podgoria/2024/6",
+   "short": "HCL Podgoria nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 6/2024 Privind acceparea Ofertei de donatie a terenului in suprafata de 400 mp (patrusute mp) categoria de folosinta arabil, situat in extravilanul comunei Podgoria, Tarlaua 1, Parcelele nr. 64 si 65, judetul Buzau, identificat cu numar cadastral nr. 22085, inscris in Cartea Funciara nr. 22085 a localitatii Podgoria (Lot 1 rezultat din dezlipire), precum si a cotei indivize de 1/8 (ooptime)-reprezentand",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/6HCL.-nr.6-31012024-acceptare-oferta-de-donatie-nr.-245-2024.pdf",
+     "sha256": "1bd74c2b4cfd49c5e7da8ff076502013cf8311090297fe342c2f9f665706cf9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-7-2024",
+   "path": "local/buzau/podgoria/2024/7",
+   "short": "HCL Podgoria nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 7/2024 privind aprobarea bugetului local de venituri si cheltuieli pe anul 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta EXTRAORDINARA ; • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 18/3.01.2024 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a) din O.U.G nr.57/2019 privind Codul administrativ, in calitate de initiator, corobora",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/7HCL.7-9.02.2024-APROBARE-BUGET-LOCAL-2024.pdf",
+     "sha256": "634f5b5463ffc2f4ad6b3c6f6b5fb83f61a3405f051fff8c602a0ef2229469ac"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-8-2024",
    "path": "local/buzau/podgoria/2024/8",
    "short": "HCL Podgoria nr. 8/2024",
@@ -269,6 +674,21 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/8HCL.-nr.8-9.02.2024-APROBAREA-PARTICIPARE-.pdf",
      "sha256": "9c0a4ce39887e53fd2c1c9e14e6a40b8855a2d7cafd9946005db999ac3e33182"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-9-2024",
+   "path": "local/buzau/podgoria/2024/9",
+   "short": "HCL Podgoria nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 9/2024 privind alegerea Presedintelui de sedinta al Consiliului Local al comunei Podgoria pentru perioada MARTIE – APRILIE - MAI 2024 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA in data de 29.02.2024; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 512 din 2.02.2024 intocmit in conformitate cu prevederile art.136, alin.(8)",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2025/07/9HCL-nr.-9-29.02.2024-presedinte-de-sedinta-MARTIE-APRILIE-MAI-2024-Iorga-Damian.pdf",
+     "sha256": "156b201ef5474567059667007c7e122e2f7646430febdc898892542053f44599"
     }
    ]
   }

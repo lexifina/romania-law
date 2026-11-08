@@ -3,6 +3,111 @@
  "shard": "local/buzau/beceni/2023",
  "acts": [
   {
+   "slug": "hcl-buzau--beceni-1-2023",
+   "path": "local/buzau/beceni/2023/1",
+   "short": "HCL Beceni nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 1/2023 privind aprobarea bugetului local al comunei Beceni pe anul 2023, a listei de investiţii pe anul 2023 și a utilizării în anul 2023 a excedentului rezultat la încheierea exerciţiului bugetar la 31 decembrie 2022 și din anii anteriori",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117047",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-10-2023",
+   "path": "local/buzau/beceni/2023/10",
+   "short": "HCL Beceni nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 10/2023 privind aprobarea achiziției publice de servicii juridice de consultanță, de asistență și de reprezentare a UAT comuna Beceni în litigiul privind sumele restante privind utilitatile rezultate din inchirierea unui apartament aflat în proprietatea privată a comunei Beceni, care a făcut obiectul contractului de închiriere nr. 13/5.05.2014",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117056",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-11-2023",
+   "path": "local/buzau/beceni/2023/11",
+   "short": "HCL Beceni nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 11/2023 privind alegerea preşedintelui de şedinţă pentru lunile februarie- aprilie 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117057",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-12-2023",
+   "path": "local/buzau/beceni/2023/12",
+   "short": "HCL Beceni nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 12/2023 privind aprobarea Strategiei anuale de achizitii publice a comunei Beceni pentru anul 2023 si a programului de achiziţii publice pentru anul 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117058",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-13-2023",
+   "path": "local/buzau/beceni/2023/13",
+   "short": "HCL Beceni nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 13/2023 privind aprobarea proiectului „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR SI A UNITĂTILOR CONEXE LICEUL TEHNOLOGIC COMUNA BECENI, JUDEȚUL BUZĂU”, a cheltuielilor legate de proiect şi depunerea acestuia în cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C15 – Educatie",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117059",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-14-2023",
+   "path": "local/buzau/beceni/2023/14",
+   "short": "HCL Beceni nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 14/2023 privind înfiinţarea Serviciului specializat pentru gestionarea câinilor fără stăpân la nivelul Comunei Beceni, județul Buzău",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117060",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-15-2023",
+   "path": "local/buzau/beceni/2023/15",
+   "short": "HCL Beceni nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 15/2023 privind aprobarea sustinerii financiare a Asociatiei Sportive de fotbal „Progresul Beceni” din comuna Beceni, judetul Buzau in anul 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117061",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117061",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--beceni-16-2023",
    "path": "local/buzau/beceni/2023/16",
    "short": "HCL Beceni nr. 16/2023",
@@ -13,6 +118,21 @@
      "from": "2023-08-24",
      "units": 1,
      "source_url": "https://emol.ro/beceni-bz/registru-hcl/117062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-17-2023",
+   "path": "local/buzau/beceni/2023/17",
+   "short": "HCL Beceni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 17/2023 privind aprobarea închirierii, prin atribuire directă, a unor suprafețe de pășune din proprietatea privată a comunei Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117063",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117063",
      "sha256": null
     }
    ]
@@ -33,6 +153,156 @@
    ]
   },
   {
+   "slug": "hcl-buzau--beceni-19-2023",
+   "path": "local/buzau/beceni/2023/19",
+   "short": "HCL Beceni nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 19/2023 privind aprobarea participării comunei Beceni la Programul privind casarea autovehiculelor uzate, derulat în cofinanțare cu Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117096",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-2-2023",
+   "path": "local/buzau/beceni/2023/2",
+   "short": "HCL Beceni nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 2/2023 privind aprobarea Planului de acţiuni sau de lucrări de interes local întocmit în conformitate cu prevederile Legii nr. 416/2001 pentru anul 2022",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117048",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-20-2023",
+   "path": "local/buzau/beceni/2023/20",
+   "short": "HCL Beceni nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 20/2023 privind indexarea impozitelor și taxelor locale pe anul 2024",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117128",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-21-2023",
+   "path": "local/buzau/beceni/2023/21",
+   "short": "HCL Beceni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 21/2023 privind desemnarea unui reprezentant al Consiliului local Beceni în Consiliul de Administrație al Liceului Tehnologic Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117129",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-22-2023",
+   "path": "local/buzau/beceni/2023/22",
+   "short": "HCL Beceni nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 22/2023 privind aprobarea contului de executie bugetara al comunei Beceni pentru trimestrul I al anului 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117130",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-23-2023",
+   "path": "local/buzau/beceni/2023/23",
+   "short": "HCL Beceni nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 23/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117131",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-24-2023",
+   "path": "local/buzau/beceni/2023/24",
+   "short": "HCL Beceni nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 24/2023 privind alegerea preşedintelui de şedinţă pentru lunile mai- iulie 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117132",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-25-2023",
+   "path": "local/buzau/beceni/2023/25",
+   "short": "HCL Beceni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 25/2023 privind aprobarea participării unității administrativ teritoriale Comuna Beceni în proiectul „Dotarea cu microbuze școlare verzi (electrice) pentru unități de învățământ preuniversitar din județul Buzău” în cadrul Programului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117136",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-26-2023",
+   "path": "local/buzau/beceni/2023/26",
+   "short": "HCL Beceni nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 26/2023 privind mentinerea aderarii ca “Membru Fondator” a comunei Beceni la Parteneriatul Public-Privat de Dezvoltare Regionala-Asociatia Grupul de Actiune Locala (GAL) Valea Slănicului Buzău",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117137",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-27-2023",
+   "path": "local/buzau/beceni/2023/27",
+   "short": "HCL Beceni nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 27/2023 privind darea în folosință gratuită, pe perioadă determinată, către Agenția de Plăți și Intervenție pentru Agricultură- Centrul Județean Buzău, a unui imobil cu destinația de birouri pentru desfășurarea activității Centrului local APIA Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117138",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117138",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--beceni-28-2023",
    "path": "local/buzau/beceni/2023/28",
    "short": "HCL Beceni nr. 28/2023",
@@ -43,6 +313,36 @@
      "from": "2023-08-25",
      "units": 1,
      "source_url": "https://emol.ro/beceni-bz/registru-hcl/117139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-29-2023",
+   "path": "local/buzau/beceni/2023/29",
+   "short": "HCL Beceni nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 29/2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117140",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-3-2023",
+   "path": "local/buzau/beceni/2023/3",
+   "short": "HCL Beceni nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 3/2023 privind aprobarea Planului anual de acţiune privind serviciile sociale și Planului anual de asistență medicală comunitară aferent comunei Beceni pentru anul 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117049",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117049",
      "sha256": null
     }
    ]
@@ -63,6 +363,246 @@
    ]
   },
   {
+   "slug": "hcl-buzau--beceni-31-2023",
+   "path": "local/buzau/beceni/2023/31",
+   "short": "HCL Beceni nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 31/2023 privind aprobarea aderării comunei BECENI la Asociatia pentru Supravegherea și Protectia Animalelor IVETS – ASPA IVETS, stabilirea împuternicitului în Adunarea Generala a asociatiei, precum și aprobarea cotizatiiilor",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117144",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-32-2023",
+   "path": "local/buzau/beceni/2023/32",
+   "short": "HCL Beceni nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 32/2023 privind aprobarea schimbării destinaţiei imobilului- Școala primară Dogari, comuna Beceni aflat în domeniul public al comunei Beceni, județul Buzău",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117145",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-33-2023",
+   "path": "local/buzau/beceni/2023/33",
+   "short": "HCL Beceni nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 33/2023 privind atestarea completării inventarului bunurilor care aparţin domeniului public al comunei Beceni, judeţul Buzău",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117146",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-34-2023",
+   "path": "local/buzau/beceni/2023/34",
+   "short": "HCL Beceni nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 34/2023 privind alegerea preşedintelui de şedinţă pentru lunile august-octombrie 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117600",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-35-2023",
+   "path": "local/buzau/beceni/2023/35",
+   "short": "HCL Beceni nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 35/2023 privind rectificarea bugetului local al comunei Beceni pe anul 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117601",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-36-2023",
+   "path": "local/buzau/beceni/2023/36",
+   "short": "HCL Beceni nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 36/2023 privind aprobarea contului de executie bugetara al comunei Beceni pentru trimestrul al II-lea al anului 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117602",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-37-2023",
+   "path": "local/buzau/beceni/2023/37",
+   "short": "HCL Beceni nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 37/2023 privind neasumarea responsabilitatii comunei Beceni cu privire la organizarea și derularea procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și pentru derularea măsurilor educative aferente Programului pentru școli al României, aferente programului pentru anii școlari 2023-2024, 2024-2025, 2025-2026 și 2026-2027 pentru unitătile de învățământ de pe raza comunei Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/120136",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/120136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-38-2023",
+   "path": "local/buzau/beceni/2023/38",
+   "short": "HCL Beceni nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 38/2023 privind rectificarea bugetului local al comunei Beceni pe anul 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/120137",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/120137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-39-2023",
+   "path": "local/buzau/beceni/2023/39",
+   "short": "HCL Beceni nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 39/2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/120138",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/120138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-4-2023",
+   "path": "local/buzau/beceni/2023/4",
+   "short": "HCL Beceni nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 4/2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117050",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-40-2023",
+   "path": "local/buzau/beceni/2023/40",
+   "short": "HCL Beceni nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 40/2023 privind înființarea unui cabinet medical școlar la Grădinița cu program prelungit Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/120139",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/120139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-41-2023",
+   "path": "local/buzau/beceni/2023/41",
+   "short": "HCL Beceni nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 41/2023 privind aprobarea reorganizării Reţelei şcolare a unităţilor de învăţământ din comuna Beceni pentru anul şcolar 2023-2024",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/120301",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/120301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-42-2023",
+   "path": "local/buzau/beceni/2023/42",
+   "short": "HCL Beceni nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 42/2023 privind aprobarea acordării unei subvenții de la bugetul local al comunei Beceni pentru finanțarea parțială a meselor acordate preșcolarilor înscriși la Grădinița cu program prelungit Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/120331",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/120331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-43-2023",
+   "path": "local/buzau/beceni/2023/43",
+   "short": "HCL Beceni nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 43/2023 privind rectificarea bugetului local al comunei Beceni pe anul 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/120332",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/120332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-44-2023",
+   "path": "local/buzau/beceni/2023/44",
+   "short": "HCL Beceni nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 44/2023 privind desemnarea reprezentanților Consiliului local Beceni în Consiliul de Administrație, în Comisia pentru asigurarea și evaluarea calității în unitățile de învățământ preuniversitar și în Grupul de acțiune antibullying ce se vor constitui la nivelul Liceului Tehnologic Beceni",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/121379",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/121379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-45-2023",
+   "path": "local/buzau/beceni/2023/45",
+   "short": "HCL Beceni nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 45/2023 privind reorganizarea Reţelei şcolare a unităţilor de învăţământ din comuna Beceni pentru anul şcolar 2023-2024",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/121380",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/121380",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--beceni-46-2023",
    "path": "local/buzau/beceni/2023/46",
    "short": "HCL Beceni nr. 46/2023",
@@ -78,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--beceni-47-2023",
+   "path": "local/buzau/beceni/2023/47",
+   "short": "HCL Beceni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 47/2023 privind aprobarea dezmembrării unui imobil apartinând domeniului privat al comunei Beceni, situat în intravilanul satului Gura Dimienii , T1, P 43, 49 și extravilan comuna Beceni, judetul Buzău",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/122497",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/122497",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--beceni-48-2023",
    "path": "local/buzau/beceni/2023/48",
    "short": "HCL Beceni nr. 48/2023",
@@ -88,6 +643,96 @@
      "from": "2023-11-09",
      "units": 1,
      "source_url": "https://emol.ro/beceni-bz/registru-hcl/125875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-49-2023",
+   "path": "local/buzau/beceni/2023/49",
+   "short": "HCL Beceni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 49/2023 privind aprobarea achiziției publice de servicii juridice de consultanță, de asistență și de reprezentare a comunei Beceni în litigiul având ca obiect reziliere contract de servicii furnizate de Telekom România Mobile Communication SA",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/125876",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/125876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-5-2023",
+   "path": "local/buzau/beceni/2023/5",
+   "short": "HCL Beceni nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 5/2023 privind trecerea din domeniul public în domeniul privat al comunei Beceni a unui imobil – construcţie în vederea scoaterii din funcţiune, casării şi demolării în condiţiile legii",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117051",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-50-2023",
+   "path": "local/buzau/beceni/2023/50",
+   "short": "HCL Beceni nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 50/2023 privind aprobarea dezmembrării imobilului situat în sat Florești, comuna Beceni, județul Buzău având numărul cadastral 21501",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/125877",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/125877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-51-2023",
+   "path": "local/buzau/beceni/2023/51",
+   "short": "HCL Beceni nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 51/2023 privind alegerea preşedintelui de şedinţă pentru lunile noiembrie 2023- ianuarie 2024",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/125878",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/125878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-52-2023",
+   "path": "local/buzau/beceni/2023/52",
+   "short": "HCL Beceni nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 52/2023 privind aprobarea contului de executie bugetara pentru trimestrul al treilea al anului 2023",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/125879",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/125879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-53-2023",
+   "path": "local/buzau/beceni/2023/53",
+   "short": "HCL Beceni nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 53/2023 privind darea în folosință gratuită către Parohia Gura Dimienii a terenului in suprafata de 5000 mp. situat în intravilanul satului Gura Dimienii, T1, P 43, 49 Comuna Beceni, judetul Buzău, în vederea amenajării unui cimitir",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/125880",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/125880",
      "sha256": null
     }
    ]
@@ -178,6 +823,21 @@
      "from": "2023-11-27",
      "units": 1,
      "source_url": "https://emol.ro/beceni-bz/registru-hcl/130410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-6-2023",
+   "path": "local/buzau/beceni/2023/6",
+   "short": "HCL Beceni nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 6/2023 privind aprobarea Reţelei şcolare a unităţilor de învăţământ din comuna Beceni pentru anul şcolar 2023-2024",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117052",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117052",
      "sha256": null
     }
    ]
@@ -333,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--beceni-7-2023",
+   "path": "local/buzau/beceni/2023/7",
+   "short": "HCL Beceni nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 7/2023 privind însuşirea documentaţiei tehnice „Amenajament silvic al fondului forestier proprietate privată aparținând comunei Beceni, judeţul Buzău”",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117053",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117053",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--beceni-70-2023",
    "path": "local/buzau/beceni/2023/70",
    "short": "HCL Beceni nr. 70/2023",
@@ -388,6 +1063,36 @@
      "from": "2024-01-18",
      "units": 1,
      "source_url": "https://emol.ro/beceni-bz/registru-hcl/135019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-8-2023",
+   "path": "local/buzau/beceni/2023/8",
+   "short": "HCL Beceni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 8/2023 privind aprobarea contului de execuţie bugetară al comunei Beceni și al Serviciului de salubrizare al comunei Beceni pe anul 2021",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117054",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--beceni-9-2023",
+   "path": "local/buzau/beceni/2023/9",
+   "short": "HCL Beceni nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Beceni nr. 9/2023 privind actualizarea inventarului bunurilor aparţinând domeniului privat al comunei Beceni, judeţul Buzău",
+   "url": "https://emol.ro/beceni-bz/registru-hcl/117055",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/beceni-bz/registru-hcl/117055",
      "sha256": null
     }
    ]

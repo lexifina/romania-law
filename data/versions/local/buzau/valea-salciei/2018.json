@@ -3,6 +3,51 @@
  "shard": "local/buzau/valea-salciei/2018",
  "acts": [
   {
+   "slug": "hcl-buzau--valea-salciei-1-2018",
+   "path": "local/buzau/valea-salciei/2018/1",
+   "short": "HCL Valea Salciei nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 1/2018",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-1-din-04.01.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-01-04",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-1-din-04.01.2018.pdf",
+     "sha256": "d4c1dc5c21ce620324477178649643343a37314da16592c69aaba8bb4a7e4ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-11-2018",
+   "path": "local/buzau/valea-salciei/2018/11",
+   "short": "HCL Valea Salciei nr. 11/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 11/2018",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-11-din-16.02.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-11-din-16.02.2018.pdf",
+     "sha256": "259f2bff2b7c52f1642c0a2dc24e865e2418ffdc1ffca59b6e8727e1ce604453"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-19-2018",
+   "path": "local/buzau/valea-salciei/2018/19",
+   "short": "HCL Valea Salciei nr. 19/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 19/2018",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-19-din-30.07.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-19-din-30.07.2018.pdf",
+     "sha256": "d9cf816fbee6f0096abbebb04886ec71ddfd58fdac54360d285e35503522c2df"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--valea-salciei-2-2018",
    "path": "local/buzau/valea-salciei/2018/2",
    "short": "HCL Valea Salciei nr. 2/2018",
@@ -14,6 +59,81 @@
      "units": 1,
      "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-2-din-04.01.2018.pdf",
      "sha256": "e19caff2a24c850d92324cfb70f3b87ba0b892d33316855e17680c4334daa8b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-21-2018",
+   "path": "local/buzau/valea-salciei/2018/21",
+   "short": "HCL Valea Salciei nr. 21/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 21/2018 privind alegerea președintelui de ședință Consiliul local al comunei Valea Salciei,județul Buzău, Având în vedere în vedere dispozițiile art.35,41 și ale art.45,alin.1 din Legea administrației publice locale nr.215/2001,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art.1.Se alege președintele de ședință al Consiliului local al comunei Valea Salciei,județul Buzău,în sarcina dom",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-21-din-03.09.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-21-din-03.09.2018.pdf",
+     "sha256": "724f8db45f48650f3381c8cd024326e8b022f0be72d1e57afac3d9e0cbfd935c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-22-2018",
+   "path": "local/buzau/valea-salciei/2018/22",
+   "short": "HCL Valea Salciei nr. 22/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 22/2018",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-22-din-03.09.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-03",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-22-din-03.09.2018.pdf",
+     "sha256": "0363e2e9bd56679cf0d1edec514a42ff62f6fcdcc86823e47531a51d8e551c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-23-2018",
+   "path": "local/buzau/valea-salciei/2018/23",
+   "short": "HCL Valea Salciei nr. 23/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 23/2018",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-23-din-21.09.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-23-din-21.09.2018.pdf",
+     "sha256": "c1b68d7dedf428a90b30eb75409cbd2016fd74021ccef82059c76466d16936a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-25-2018",
+   "path": "local/buzau/valea-salciei/2018/25",
+   "short": "HCL Valea Salciei nr. 25/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 25/2018",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-25-din-24.10.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-10-24",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-25-din-24.10.2018.pdf",
+     "sha256": "785d914886255474b73dd93cf7691d1fa76fcc6aa05e9d7cf2fe122660c47eb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-31-2018",
+   "path": "local/buzau/valea-salciei/2018/31",
+   "short": "HCL Valea Salciei nr. 31/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 31/2018",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-31-din-19.12.2018.pdf",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-31-din-19.12.2018.pdf",
+     "sha256": "faa76e99873e1e888598ad548c6c5f399436972169cb42360550efcfbf203f0a"
     }
    ]
   }

@@ -3,6 +3,111 @@
  "shard": "local/brasov/sinca/2026",
  "acts": [
   {
+   "slug": "hcl-brasov--sinca-1-2026",
+   "path": "local/brasov/sinca/2026/1",
+   "short": "HCL Șinca nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 1/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/01/Consiliul-local-al-Comunei-Sinca-HCL-nr.-1-din-09-ianuarie-2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "34c5c277ea526df957cf4d804167511714dab9944535eb655e807b0a47d6dfe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-10-2026",
+   "path": "local/brasov/sinca/2026/10",
+   "short": "HCL Șinca nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 10/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/04/Consiliul-local-al-Comunei-Sinca-HCL-nr.-10-din-27-martie-2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "5e78701720493995db011fbd9453d59283f9e6b38a3c41016b52fc31adfb43b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-11-2026",
+   "path": "local/brasov/sinca/2026/11",
+   "short": "HCL Șinca nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 11/2026 privind aprobarea tipului de suport alimentar acordat prescolarilor si elevilor Scolii Gimnaziale “Gheorghe Sincai”, Comuna Sinca, in cadrul Programului national “Masa sanatoasa”",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+     "sha256": "672221c05472130c8d6b47b775ebebce9a0e7ac4e68499386d1f010b53a833c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-12-2026",
+   "path": "local/brasov/sinca/2026/12",
+   "short": "HCL Șinca nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 12/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-12-din-22-aprilie-2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "5c827c1056d2a2bd4498ef897471b846d19876e8f35f6842970eaaff3a903df4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-13-2026",
+   "path": "local/brasov/sinca/2026/13",
+   "short": "HCL Șinca nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 13/2026 privind aprobarea indicatorilor tehnico-economici conform devizului general actualizat, a restului de executat si a categoriilor de cheltuieli ce se finanteaza de la bugetul local, conform Programului national multianual privind finant",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-13-din-22-aprilie-2026-privind-aprobarea-indicatorilor-tehnico-economici-conform-devizului-general-actualizat-PUG.pdf",
+     "sha256": "d1288a5a9d219c373de91a87c91281411614687814fac808dfb93adf19cf2c5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-14-2026",
+   "path": "local/brasov/sinca/2026/14",
+   "short": "HCL Șinca nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 14/2026 privind aprobarea darii in folosinta pentru utilitate publica a unui spatiu din imobilul situat in satul Sercaita, comuna Sinca, judetul Brasov, aflat in proprietatea publica a Comunei Sinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-14-din-24-aprilie-2026-privind-aprobarea-darii-in-folosinta-pentru-utilitate-publica-a-unui-spatiu-din-imobilul-situat.pdf",
+     "sha256": "25f609d83fe2563a6394a8e237f142e713c9331f0f9405c54103681c7f81bb97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-15-2026",
+   "path": "local/brasov/sinca/2026/15",
+   "short": "HCL Șinca nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 15/2026 privind atestarea apartenentei unui imobil la domeniul privat al comunei Sinca, judetul Brasov",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-15-din-24-aprilie-2026-privind-atestarea-apartenentei-unui-imobil-la-domeniul-privat-al-comunei-Sinca-judetul-Brasov.pdf",
+     "sha256": "daef6bab104585996679ac44a7778a82dde6555b9e16df208581229474418dea"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--sinca-16-2026",
    "path": "local/brasov/sinca/2026/16",
    "short": "HCL Șinca nr. 16/2026",
@@ -59,6 +164,21 @@
      "units": 1,
      "source_url": "https://comunasinca.ro/wp-content/uploads/2026/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-19-din-24-aprilie-2026-privind-atestarea-apartenentei-unui-imobil-la-domeniul-public-al-comunei-Sinca-judetul-Brasov.pdf",
      "sha256": "72cb22a747a5ad1b286e8908072d47e9ed98de1de313e2b5fc992daeef958233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-2-2026",
+   "path": "local/brasov/sinca/2026/2",
+   "short": "HCL Șinca nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 2/2026 privind acoperirea definitiva din excedentul bugetului local a deficitului sectiunii de dezvoltare al anului 2025",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/01/Consiliul-local-al-Comunei-Sinca-HCL-nr.-2-din-9-ianuarie-2026-privind-acoperirea-definitiva-din-excedentul-bugetului-local-1.pdf",
+     "sha256": "7848d7234e199abf2febeed0748999952704932f0e4ff3a68f49a2c65ee2617e"
     }
    ]
   },
@@ -209,6 +329,21 @@
      "units": 1,
      "source_url": "https://comunasinca.ro/wp-content/uploads/2026/07/Consiliul-local-al-Comunei-Sinca-HCL-nr.-29-din-26.06.2026-privind-reorganizarea-aparatului-de-specialitate-al-primarului-comunei-Sinca-jud.-Brasov.pdf",
      "sha256": "4c2482277209de59eb7254827b099be82d7339ad87d74b4dcf2b782eaa2e6a0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-3-2026",
+   "path": "local/brasov/sinca/2026/3",
+   "short": "HCL Șinca nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 3/2026 privind utilizarea in anul 2026 a sumei de 600.000,00 lei din excedentul bugetului local al anului 2025, pentru acoperirea temporara a golurilor de casa provenite din decalajele intre veniturile si cheltuielile sectiunii de functionare",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/01/Consiliul-local-al-Comunei-Sinca-HCL-nr.-3-din-9-ianuarie-2026-privind-utilizarea-in-anul-2026-a-sumei-de-600.00000-lei-din-excedentul-bugetului-local-al-anului-2025-1.pdf",
+     "sha256": "c759e9de16c71e30da52fe07513a045ab111f47da6340a9d2f4ec067553a8a48"
     }
    ]
   },
@@ -389,6 +524,81 @@
      "units": 1,
      "source_url": "https://comunasinca.ro/wp-content/uploads/2026/09/Consiliul-local-al-Comunei-Sinca-HCL-nr.-41-din-15-septembrie-2026-privind-desemnarea-reprezentantilor-C.L.-Sinca-in-C.A.-al-Scolii-Gimnaziale.pdf",
      "sha256": "f16103f81cb5d0e1f6705c62b6b936732b90c0b1ad1d8000320f5576c91f49c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-5-2026",
+   "path": "local/brasov/sinca/2026/5",
+   "short": "HCL Șinca nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 5/2026 privind atestarea apartenentei la domeniul public al Comunei Sinca, judetul Brasov a unor bunuri imobile si aprobarea inscrierii acestora in evidentele de publicitate imobiliara, in proprietatea comunei Sinca – domeniul public",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-5-din-30-ianuarie-2026-privind-atestarea-apartenentei-la-domeniul-public-al-Comunei-Sinca-judetul-Brasov-a-unor-bunuri-imobile.pdf",
+     "sha256": "d94bd3386d88c2ee45610ebdd90078e343a335e60a9a1d773244b591a3f0815d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-6-2026",
+   "path": "local/brasov/sinca/2026/6",
+   "short": "HCL Șinca nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 6/2026 privind reorganizarea aparatului de specialitate al primarului comunei Sinca si aprobarea organigramei, statului de functii",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-6-din-30-ianuarie-2026-privind-reorganizarea-aparatului-de-specialitate-al-primarului-comunei-Sinca-si-aprobarea-organigramei.pdf",
+     "sha256": "a25066b0b5270185918cb1c1c341ba980f731834b80c4f89db19d0ec40737a1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-7-2026",
+   "path": "local/brasov/sinca/2026/7",
+   "short": "HCL Șinca nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 7/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-7-din-05-februarie-2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "728bb8b523382a986599eb541e8697cd03f38128d21715eaebd66d8246aaa479"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-8-2026",
+   "path": "local/brasov/sinca/2026/8",
+   "short": "HCL Șinca nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 8/2026 privind utilizarea in anul 2026 a sumei de 593.531,00 lei din excedentul bugetului local al anului 2025, pentru acoperirea temporara a golurilor de casa provenite din decalajele intre veniturile si cheltuielile sectiunii de functionar",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/02/Consiliul-local-al-Comunei-Sinca-HCL-nr.-8-din-05-februarie-2026-privind-utilizarea-in-anul-2026-a-sumei-de-593.53100-lei-din-excedentul-bugetului-local-al-anului-2025.pdf",
+     "sha256": "2e09a4c382ef6a45cb3286234c7abcadb16b3f8ecbbb7bc7ef4dbd009e5c57c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-9-2026",
+   "path": "local/brasov/sinca/2026/9",
+   "short": "HCL Șinca nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 9/2026 privind aprobarea organigramei si statului de functii al aparatului de specialitate al primarului comunei Sinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2026/03/Consiliul-local-al-Comunei-Sinca-HCL-nr.-9-din-27-februarie-2026-privind-aprobarea-organigramei-si-statului-de-functii-al-aparatului-de-specialitate-al.pdf",
+     "sha256": "23fff8397b31ef9bbe544df5109bba194b37a87a3e103784d5224c0bff0dac28"
     }
    ]
   }

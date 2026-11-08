@@ -91,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-5-2025",
+"path": "local/buzau/amaru/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 5/2025",
+"short": "HCL Amaru nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/207384",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--amaru-6-2025",
 "path": "local/buzau/amaru/2025/6",
 "kind": "local",
@@ -223,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-12-2025",
+"path": "local/buzau/amaru/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 12/2025 privind aprobarea participării UAT comuna Amaru, la programul nașional multianual, privind finanțarea elaborării și/sau actualizării planurilor urbanistice generale, ale localităților și a regulamentelor locale de urbanism",
+"short": "HCL Amaru nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/207402",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-13-2025",
 "path": "local/buzau/amaru/2025/13",
 "kind": "local",
@@ -242,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Amaru",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--amaru-14-2025",
+"path": "local/buzau/amaru/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 14/2025 privind alegerea președintelui de ședință",
+"short": "HCL Amaru nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-14",
+"latest": "2025-05-14",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/207413",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -397,6 +464,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--amaru-22-2025",
+"path": "local/buzau/amaru/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 22/2025 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de muncitor în cadrul compartimentului administrativ Consiliul Local al comunei Amaru, județul Buzău",
+"short": "HCL Amaru nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-21",
+"latest": "2025-10-21",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/230674",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

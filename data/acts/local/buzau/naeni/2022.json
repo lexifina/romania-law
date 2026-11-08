@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-2-2022",
+"path": "local/buzau/naeni/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 2/2022",
+"short": "HCL Năeni nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94089",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--naeni-3-2022",
 "path": "local/buzau/naeni/2022/3",
 "kind": "local",
@@ -47,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-4-2022",
+"path": "local/buzau/naeni/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 4/2022 privind acordarea unui mandat special reprezentantului UAT în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea primirii comunei Mihailești în Asociație",
+"short": "HCL Năeni nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94091",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-5-2022",
 "path": "local/buzau/naeni/2022/5",
 "kind": "local",
@@ -66,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-6-2022",
+"path": "local/buzau/naeni/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 6/2022 privind alegerea unui nou președinte de ședință al Consiliului local al comunei Năeni, județul Buzău",
+"short": "HCL Năeni nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94093",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-10-2022",
+"path": "local/buzau/naeni/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 10/2022 privind acordarea unui mandat special reprezentantului UAT Năeni în Adunarea Generală Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” sa voteze aprobarea modificarii contractului de delegare a gestiunii serviciului de alimentare cu apă şi de canalizare",
+"short": "HCL Năeni nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94097",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-11-2022",
 "path": "local/buzau/naeni/2022/11",
 "kind": "local",
@@ -201,6 +290,29 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-14-2022",
+"path": "local/buzau/naeni/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 14/2022",
+"short": "HCL Năeni nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94101",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--naeni-15-2022",
 "path": "local/buzau/naeni/2022/15",
 "kind": "local",
@@ -220,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-16-2022",
+"path": "local/buzau/naeni/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 16/2022 privind acordarea unui mandat special reprezentantului UAT în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea primirii comunei Boldu în Asociație",
+"short": "HCL Năeni nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94103",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +401,28 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-19-2022",
+"path": "local/buzau/naeni/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 19/2022 privind aprobarea de principiu a închirierii/concesionării prin licitaţie publică a unor terenuri din extravilanul comunei Năeni, proprietatea privată a comunei Năeni",
+"short": "HCL Năeni nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94106",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-20-2022",
 "path": "local/buzau/naeni/2022/20",
 "kind": "local",
@@ -287,6 +443,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--naeni-21-2022",
+"path": "local/buzau/naeni/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 21/2022 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+"short": "HCL Năeni nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94108",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-22-2022",
+"path": "local/buzau/naeni/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 22/2022 privind acordarea unui mandat special reprezentantului UAT în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea primirii comunei Cochirleanca în Asociație",
+"short": "HCL Năeni nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/94109",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

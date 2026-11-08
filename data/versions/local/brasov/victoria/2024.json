@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/victoria/2024",
+ "acts": [
+  {
+   "slug": "hcl-brasov--victoria-28-2024",
+   "path": "local/brasov/victoria/2024/28",
+   "short": "HCL Victoria nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Victoria nr. 28/2024",
+   "url": "https://primariavictoria.ro/index.php/consiliul_local/hotarari/P72",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://www.primariavictoria.ro/images/uploads/documente/HOT-28.03.2024.pdf",
+     "sha256": "269929c8e7c676a319d949097ae774568defc50f872c589520c5cea2f67bdbfc"
+    }
+   ]
+  }
+ ]
+}

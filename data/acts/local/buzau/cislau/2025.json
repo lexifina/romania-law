@@ -3,6 +3,251 @@
 "shard": "local/buzau/cislau/2025",
 "acts": [
 {
+"slug": "hcl-buzau--cislau-1-2025",
+"path": "local/buzau/cislau/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 1/2025",
+"short": "HCL Cislău nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/190821",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--cislau-2-2025",
+"path": "local/buzau/cislau/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 2/2025 privind aprobarea rezultatului inventarierii patrimoniului Comunei Cislău și casarea unor obiecte de inventar realizat în perioada 20.11.2024-20.12.2024",
+"short": "HCL Cislău nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/190822",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-3-2025",
+"path": "local/buzau/cislau/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 3/2025 privind aprobarea modificării statului de funcții (funcții publice și contractuale) ale aparatului de specialitate al primarului comunei Cislău, județul Buzău",
+"short": "HCL Cislău nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/190823",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-4-2025",
+"path": "local/buzau/cislau/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 4/2025",
+"short": "HCL Cislău nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/190934",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--cislau-5-2025",
+"path": "local/buzau/cislau/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 5/2025 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru delurarea măsurilor educative aferente programului pentru anii școlari , 2027-2028 și 2028-2029 la nivelul comunei Cislău, județul Buzău",
+"short": "HCL Cislău nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/193765",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-6-2025",
+"path": "local/buzau/cislau/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 6/2025 privind aprobarea vânzării cu drept de preemțiune a unui teren proprietate privată a comunei Cislău, aferent imobilului – clădire situat în comuna Cislău, Sat. Gura Bîșcei, str. Calea Vălenii de Munte, Nr.46 A",
+"short": "HCL Cislău nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/193766",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-7-2025",
+"path": "local/buzau/cislau/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 7/2025",
+"short": "HCL Cislău nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/193767",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--cislau-8-2025",
+"path": "local/buzau/cislau/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 8/2025 privind aprobarea aprobarea achizitionării de servicii juridice de consultanță, asistență și de reprezentare a UAT comuna Cislău - în dosarul nr.270/277/2025",
+"short": "HCL Cislău nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/193768",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-9-2025",
+"path": "local/buzau/cislau/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 9/2025 privind aprobarea solicitării de aderare a comunei Cislău, prin Consiliul Local, în calitate de membru asociat la Asociaţia de Dezvoltare Intercomunitară „ȚINUTUL BUZĂULUI”",
+"short": "HCL Cislău nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/193769",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-10-2025",
+"path": "local/buzau/cislau/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 10/2025 privind aprobarea Bugetului local al comunei Cislău, a Listei de investiţii si Planului de achiziții pentru anul 2025",
+"short": "HCL Cislău nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/200042",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-11-2025",
+"path": "local/buzau/cislau/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 11/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni, începând cu luna APRILIE 2025",
+"short": "HCL Cislău nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/200044",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--cislau-12-2025",
 "path": "local/buzau/cislau/2025/12",
 "kind": "local",
@@ -89,6 +334,28 @@
 "council_name": "Consiliul Local al Comunei Cislău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-16-2025",
+"path": "local/buzau/cislau/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 16/2025 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical individual, situat în Dispensarul din Comuna Cislău, Str. Culturii, nr. 56",
+"short": "HCL Cislău nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/202414",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -313,6 +580,51 @@
 }
 },
 {
+"slug": "hcl-buzau--cislau-27-2025",
+"path": "local/buzau/cislau/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 27/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni, începând cu luna IULIE 2025",
+"short": "HCL Cislău nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/213974",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--cislau-28-2025",
+"path": "local/buzau/cislau/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 28/2025",
+"short": "HCL Cislău nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-20",
+"latest": "2025-06-20",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/214044",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--cislau-29-2025",
 "path": "local/buzau/cislau/2025/29",
 "kind": "local",
@@ -423,6 +735,29 @@
 }
 },
 {
+"slug": "hcl-buzau--cislau-34-2025",
+"path": "local/buzau/cislau/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 34/2025",
+"short": "HCL Cislău nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-02",
+"latest": "2025-07-02",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/215988",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--cislau-35-2025",
 "path": "local/buzau/cislau/2025/35",
 "kind": "local",
@@ -489,6 +824,29 @@
 }
 },
 {
+"slug": "hcl-buzau--cislau-38-2025",
+"path": "local/buzau/cislau/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 38/2025",
+"short": "HCL Cislău nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-03",
+"latest": "2025-09-03",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/223553",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--cislau-39-2025",
 "path": "local/buzau/cislau/2025/39",
 "kind": "local",
@@ -508,6 +866,28 @@
 "council_name": "Consiliul Local al Comunei Cislău",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--cislau-40-2025",
+"path": "local/buzau/cislau/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cislău nr. 40/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni, începând cu luna Octombrie 2025",
+"short": "HCL Cislău nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-06",
+"latest": "2025-11-06",
+"portal": "https://emol.ro/cislau-bz/registru-hcl/234457",
+"council": "buzau/cislau",
+"council_name": "Consiliul Local al Comunei Cislău",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

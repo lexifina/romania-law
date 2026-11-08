@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2019",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-15-2019",
+   "path": "local/buzau/nehoiu/2019/15",
+   "short": "HCL Nehoiu nr. 15/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 15/2019 pentru modificarea si completarea HCL nr. 15 din 28.02.2019 privind stabilirea componentei echipei mobile pentru interventia de urgenta in cazurile de violenta domestica",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2023/08/Hotararea-nr.-77-pentru-modificarea-si-completarea-HCL-nr.-15-din-28.02.2019-privind-stabilirea-componentei-echipei-mobile-pentru-interventia-de-urgenta-in-cazurile-de-violenta-domestica.pdf",
+     "sha256": "f83790866fbc6282fae394c683a09e7c987f0686d0e5b1ae53e4f15705450a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-22-2019",
+   "path": "local/buzau/nehoiu/2019/22",
+   "short": "HCL Nehoiu nr. 22/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 22/2019 privind modificarea HCL nr. 22 din 27.03.2019 privind infiintarea serviciului public de transport in regim de taxi si transport in regim de inchiriere in orasul Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2021/11/Hotararea-nr.-81-privind-modificarea-HCL-nr.-22-din-27.03.2019-privind-infiintarea-serviciului-public-de-transport-in-regim-de-taxi-si-transport-in-regim-de-inchiriere-in-orasul-Nehoiu.pdf",
+     "sha256": "922bf575771f1d44f46603c8a563d860f3b01fbb2d38ee09ac05291aedc469cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-2584-2019",
+   "path": "local/buzau/nehoiu/2019/2584",
+   "short": "HCL Nehoiu nr. 2584/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 2584/2019 privind rezilierea la cerere a contractului de inchiriere nr 2584 din 12.03.2019",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2020/02/Hotararea-nr.-18-privind-rezilierea-la-cerere-a-contractului-de-inchiriere-nr-2584-din-12.03.2019.pdf",
+     "sha256": "50e03262d2e02a910fe5934755c8108d9e1618171f99915719b27702a922bd6a"
+    }
+   ]
+  }
+ ]
+}

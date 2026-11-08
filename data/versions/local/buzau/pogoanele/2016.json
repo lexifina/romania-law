@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/pogoanele/2016",
+ "acts": [
+  {
+   "slug": "hcl-buzau--pogoanele-5-2016",
+   "path": "local/buzau/pogoanele/2016/5",
+   "short": "HCL Pogoanele nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Pogoanele nr. 5/2016",
+   "url": "https://www.primariepogoanele.ro/hotarari/hcl-5-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "http://www.primariepogoanele.ro/wp-content/uploads/HCL-nr.-5-din-28.01.2016.pdf",
+     "sha256": "c00e75aacde65ea4adbc2263e0e4280886354353a7979488db2db93c1384dd8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pogoanele-9-2016",
+   "path": "local/buzau/pogoanele/2016/9",
+   "short": "HCL Pogoanele nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Pogoanele nr. 9/2016",
+   "url": "https://www.primariepogoanele.ro/hotarari/hcl-9-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "http://www.primariepogoanele.ro/wp-content/uploads/HCL-nr.-9-din-29.02.2016.pdf",
+     "sha256": "511ea3555abac5f7271eb6ce3ea529fe39e334c14324e3b574caa862af0b5470"
+    }
+   ]
+  }
+ ]
+}

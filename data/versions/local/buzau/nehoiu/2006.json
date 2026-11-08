@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2006",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-167-2006",
+   "path": "local/buzau/nehoiu/2006/167",
+   "short": "HCL Nehoiu nr. 167/2006",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 167/2006 privind aprobarea incetarii suspendarii Contractului de comadat nr. 167 din 05.01.2006 si incetarea executarii Contractului de comodat nr. 8161 din 20.06.2023, prin acordul partilor, pentru Cabinet Medical Individual dr",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2006-01-05",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2024/06/Hotararea-nr.-43-privind-aprobarea-incetarii-suspendarii-Contractului-de-comadat-nr.-167-din-05.01.2006-si-incetarea-executarii-Contractului-de-comodat-nr.-8161-din-20.06.2023.pdf",
+     "sha256": "4ca6e1d24a68e00aa841bb5291295181719d8c417a7ef71fa49a466216107764"
+    }
+   ]
+  }
+ ]
+}

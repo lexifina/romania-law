@@ -3,6 +3,28 @@
 "shard": "local/buzau/largu/2024",
 "acts": [
 {
+"slug": "hcl-buzau--largu-1-2024",
+"path": "local/buzau/largu/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 1/2024 privind acoperirea definitivă din excedentul bugetului local al Comunei Largu a deficitului secțiunii de dezvoltare la data de 29.12.2023",
+"short": "HCL Largu nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/145394",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--largu-2-2024",
 "path": "local/buzau/largu/2024/2",
 "kind": "local",
@@ -25,6 +47,72 @@
 }
 },
 {
+"slug": "hcl-buzau--largu-3-2024",
+"path": "local/buzau/largu/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 3/2024 privind aprobarea Strategiei Anuale a Achizitiilor publice în anul 2024",
+"short": "HCL Largu nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146659",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-4-2024",
+"path": "local/buzau/largu/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 4/2024 privind stabilirea criteriilor si cuantumurilor pentru care se pot acorda ajutoare de urgență si ajutoare comunitare precum si ajutoare de inmormantare, conform Legii nr. 196/2016 privind Venitul minim de incluziune, cu modificările si completările ulterioare",
+"short": "HCL Largu nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146660",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-5-2024",
+"path": "local/buzau/largu/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 5/2024 privind aprobarea modificarii tarifelor pentru activitățile cuprinse in contractul de delegare nr 5168/16.05.2022 încheiat cu SC RER SUD S.A",
+"short": "HCL Largu nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146661",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--largu-6-2024",
 "path": "local/buzau/largu/2024/6",
 "kind": "local",
@@ -44,6 +132,116 @@
 "council_name": "Consiliul Local al Comunei Largu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-7-2024",
+"path": "local/buzau/largu/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 7/2024 privind desemnarea consilierilor locali în Comisia de evaluare a performanţelor profesionale individuale ale Secretarului general al comunei Largu, pentru activitatea desfăşurată în perioada 01.01.2023 – 31.12.2023",
+"short": "HCL Largu nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146663",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-8-2024",
+"path": "local/buzau/largu/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 8/2024 privind aprobarea regulamentului privind eliberarea avizului program si a a autorizatiei de functionare pentru desfasurarea activitatilor comerciale si de prestari servicii in comuna largu, judetul Buzau",
+"short": "HCL Largu nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146664",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-9-2024",
+"path": "local/buzau/largu/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 9/2024 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Largu pentru perioada februarie – aprilie 2024",
+"short": "HCL Largu nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146665",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-10-2024",
+"path": "local/buzau/largu/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 10/2024 privind insusirea raportului de activitate a ofiterului de stare civila delegat pentru anul 2023",
+"short": "HCL Largu nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146666",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-11-2024",
+"path": "local/buzau/largu/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 11/2024 privind insusirea raportului de activitate a asistentilor personali ai persoanelor cu handicap grav pentru anul 2023",
+"short": "HCL Largu nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146667",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +289,51 @@
 }
 },
 {
+"slug": "hcl-buzau--largu-14-2024",
+"path": "local/buzau/largu/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 14/2024 privind decontarea navetei cadrelor didactice ale Scolii Gimnaziale Largu pentru anul 2024",
+"short": "HCL Largu nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146670",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-15-2024",
+"path": "local/buzau/largu/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 15/2024",
+"short": "HCL Largu nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/largu-bz/registru-hcl/146671",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--largu-16-2024",
 "path": "local/buzau/largu/2024/16",
 "kind": "local",
@@ -132,6 +375,28 @@
 "council_name": "Consiliul Local al Comunei Largu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-25-2024",
+"path": "local/buzau/largu/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 25/2024 privind aprobarea modificării și actualizării Statutului Asociaţiei de Dezvoltare Intercomunitară „Eco Buzău 2009” la care comuna Largu este membru asociat",
+"short": "HCL Largu nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204551",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +444,72 @@
 }
 },
 {
+"slug": "hcl-buzau--largu-30-2024",
+"path": "local/buzau/largu/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 30/2024 privind modificarea anexei la HCL nr 64/27.11.2023 privind actualizarea si indexarea impozitelor si taxelor locale pentru anul 2024",
+"short": "HCL Largu nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204606",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-31-2024",
+"path": "local/buzau/largu/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 31/2024 privind majorarea salariului de bază cu până la 10% față de nivelul acordat pentru luna decembrie 2023 pentru funcţionarii publici şi personalul contractual din cadrul familiei ocupaţionale \"Administraţie\" din aparatul de specialitate al primarului comunei Largu, judetul Buzau",
+"short": "HCL Largu nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204834",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-32-2024",
+"path": "local/buzau/largu/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 32/2024 privind actualizarea Strategiei Anuale a Achizitiilor publice în anul 2024",
+"short": "HCL Largu nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204607",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--largu-33-2024",
 "path": "local/buzau/largu/2024/33",
 "kind": "local",
@@ -202,6 +533,50 @@
 }
 },
 {
+"slug": "hcl-buzau--largu-34-2024",
+"path": "local/buzau/largu/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 34/2024 privind alegerea preşedintelui de şedinţă al Consiliului local al comunei Largu pentru perioada iulie –septembrie 2024",
+"short": "HCL Largu nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204609",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-35-2024",
+"path": "local/buzau/largu/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 35/2024 privind rectificarea III a bugetului de venituri şi cheltuieli al comunei Largu, judeţul Buzău pentru anul 2024",
+"short": "HCL Largu nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204610",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--largu-36-2024",
 "path": "local/buzau/largu/2024/36",
 "kind": "local",
@@ -221,6 +596,50 @@
 "council_name": "Consiliul Local al Comunei Largu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--largu-37-2024",
+"path": "local/buzau/largu/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 37/2024 privind rectificarea IV a bugetului de venituri şi cheltuieli al comunei Largu, judeţul Buzău pentru anul 2024",
+"short": "HCL Largu nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204612",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--largu-38-2024",
+"path": "local/buzau/largu/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Largu nr. 38/2024 privind actualizarea Strategiei Anuale a Achizitiilor publice în anul 2024",
+"short": "HCL Largu nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://emol.ro/largu-bz/registru-hcl/204549",
+"council": "buzau/largu",
+"council_name": "Consiliul Local al Comunei Largu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

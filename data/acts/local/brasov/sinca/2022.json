@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/brasov/sinca/2022",
+"acts": [
+{
+"slug": "hcl-brasov--sinca-6-2022",
+"path": "local/brasov/sinca/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 6/2022",
+"short": "HCL Șinca nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": null,
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--sinca-7-2022",
+"path": "local/brasov/sinca/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 7/2022",
+"short": "HCL Șinca nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": null,
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-brasov--sinca-23-2022",
+"path": "local/brasov/sinca/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 23/2022 privind aprobarea listei de preţuri de pornire la licitație de masă lemnoasă",
+"short": "HCL Șinca nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2022/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--sinca-36-2022",
+"path": "local/brasov/sinca/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 36/2022 privind aprobarea actualizării Planului de Analiza si Acoperire a Riscurilor",
+"short": "HCL Șinca nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-26",
+"latest": "2022-08-26",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2022/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--sinca-55-2022",
+"path": "local/brasov/sinca/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șinca nr. 55/2022 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2022",
+"short": "HCL Șinca nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2022/",
+"council": "brasov/sinca",
+"council_name": "Consiliul Local al Comunei Șinca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

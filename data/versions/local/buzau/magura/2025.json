@@ -3,6 +3,231 @@
  "shard": "local/buzau/magura/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--magura-1-2025",
+   "path": "local/buzau/magura/2025/1",
+   "short": "HCL Măgura nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 1/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-1-din-28.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-1-din-28.01.2025.pdf",
+     "sha256": "c1dcdd2369fbb04bf9960f5133013e6391ee348f0211c059b308c6826d74dbc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-10-2025",
+   "path": "local/buzau/magura/2025/10",
+   "short": "HCL Măgura nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 10/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-10-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-10-din-21.03.2025.pdf",
+     "sha256": "bd0196808f48983a348dfa4d7d5562f216e2576520461bc58b42acd7ac664cf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-11-2025",
+   "path": "local/buzau/magura/2025/11",
+   "short": "HCL Măgura nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 11/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-11-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-11-din-21.03.2025.pdf",
+     "sha256": "7d5c922cc87874dcab284f3a8aae3e581fcc96b90f3c2fb599449d136e6bd9b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-12-2025",
+   "path": "local/buzau/magura/2025/12",
+   "short": "HCL Măgura nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 12/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-12-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-12-din-21.03.2025.pdf",
+     "sha256": "f21872e3c76190bb634b72972da74f7ea9a0871ecaf67d1c2b91e410c979430d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-13-2025",
+   "path": "local/buzau/magura/2025/13",
+   "short": "HCL Măgura nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 13/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-13-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-13-din-21.03.2025.pdf",
+     "sha256": "0eb5e82e3b30b6a01ec8534251e52b1212a23994cecf7cdc0f65f01b054d25a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-15-2025",
+   "path": "local/buzau/magura/2025/15",
+   "short": "HCL Măgura nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 15/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-15-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-15-din-21.03.2025.pdf",
+     "sha256": "06c08ff7597c263af2ff888e61bfc6f8a772083418b848231fdb3964ef18e5f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-16-2025",
+   "path": "local/buzau/magura/2025/16",
+   "short": "HCL Măgura nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 16/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-16-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-16-din-21.03.2025.pdf",
+     "sha256": "2a190aec87f106543e18bf45b67d59562712c27afef079420c793a94190cf37f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-17-2025",
+   "path": "local/buzau/magura/2025/17",
+   "short": "HCL Măgura nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 17/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-17-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-17-din-21.03.2025.pdf",
+     "sha256": "9bcfd33572d787f90dd26c3a29b11aef99df502695949c45666986deec5ee2e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-18-2025",
+   "path": "local/buzau/magura/2025/18",
+   "short": "HCL Măgura nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 18/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-18-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-18-din-21.03.2025.pdf",
+     "sha256": "5948a1bcb831aa2da432a3b759f10200952b28c1d1f02174c126eeb46d2ed1d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-19-2025",
+   "path": "local/buzau/magura/2025/19",
+   "short": "HCL Măgura nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 19/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-19-din-04.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-19-din-04.04.2025.pdf",
+     "sha256": "52409e30074ffb859755fc52c9145a4b83cdca12f81c7bda2de57383ccedc5c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-2-2025",
+   "path": "local/buzau/magura/2025/2",
+   "short": "HCL Măgura nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 2/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-2-din-28.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-2-din-28.01.2025.pdf",
+     "sha256": "2552fdd9f865e021d12188ef9a887eb2ea55cea8ca9f7bb3a70b4fdc982f4194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-20-2025",
+   "path": "local/buzau/magura/2025/20",
+   "short": "HCL Măgura nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 20/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-20-din-04.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-20-din-04.04.2025.pdf",
+     "sha256": "304119bc8c3660f85c98a5a3b49bbb279582553409fe1d31be44706c1e41b30c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-21-2025",
+   "path": "local/buzau/magura/2025/21",
+   "short": "HCL Măgura nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 21/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-21-din-04.04.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-21-din-04.04.2025.pdf",
+     "sha256": "9fad704d9482630bf2ddec7d30737387284f9097baf9385dea797f3027b5f8c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-25-2025",
+   "path": "local/buzau/magura/2025/25",
+   "short": "HCL Măgura nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 25/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-25-din-27.06.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-25-din-27.06.2025.pdf",
+     "sha256": "c9f452ddbf4187d519f2a43de451c0088359df7903d00ae38bce1d7cdf89ad00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-3-2025",
+   "path": "local/buzau/magura/2025/3",
+   "short": "HCL Măgura nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 3/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-3-din-28.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-3-din-28.01.2025.pdf",
+     "sha256": "c7a1c9222ad0adae8f9b9498385f864652ad63d34855315fe23c618e23bdd312"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--magura-33-2025",
    "path": "local/buzau/magura/2025/33",
    "short": "HCL Măgura nr. 33/2025",
@@ -14,6 +239,231 @@
      "units": 1,
      "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-33-din-30.09.2025-1.pdf",
      "sha256": "8b279cd799ec5009b35f3b72eef5e2059a891041beacdf1a42e048d22987d966"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-34-2025",
+   "path": "local/buzau/magura/2025/34",
+   "short": "HCL Măgura nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 34/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-34-din-30.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-34-din-30.09.2025.pdf",
+     "sha256": "25ef58f46a8e70e57fd7cf12a19eb3ee45ef073a9a25d9f6b803f481d4c8d875"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-35-2025",
+   "path": "local/buzau/magura/2025/35",
+   "short": "HCL Măgura nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 35/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-35-din-30.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-35-din-30.09.2025.pdf",
+     "sha256": "7b32695662de6d5582f3a62bdde917c598e84e7305b3011e010d5757321f75f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-36-2025",
+   "path": "local/buzau/magura/2025/36",
+   "short": "HCL Măgura nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 36/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-36-din-30.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-36-din-30.09.2025.pdf",
+     "sha256": "0046f72a8cd0f74cc63c121fe03245dd48322cbd9ee80aa2326bbe44dd3056eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-38-2025",
+   "path": "local/buzau/magura/2025/38",
+   "short": "HCL Măgura nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 38/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-38-din-14.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-38-din-14.11.2025.pdf",
+     "sha256": "55932f93ab4b91b6e2b8dc1ddd36d211b89c45863965930affd5ef710c0f5aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-39-2025",
+   "path": "local/buzau/magura/2025/39",
+   "short": "HCL Măgura nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 39/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-39-din-14.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-39-din-14.11.2025.pdf",
+     "sha256": "a9eb47059e28874fc8223b31d06e0cfa2c5aea31723a57162dc69d9804e5d348"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-4-2025",
+   "path": "local/buzau/magura/2025/4",
+   "short": "HCL Măgura nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 4/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-4-din-28.01.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-4-din-28.01.2025.pdf",
+     "sha256": "fd906f211d3eb0ad97acd6dc9cae2849bc49e5718a27d3c77082eccd648f09c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-41-2025",
+   "path": "local/buzau/magura/2025/41",
+   "short": "HCL Măgura nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 41/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-41-din-28.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-41-din-28.11.2025.pdf",
+     "sha256": "66759980c65b800ef4630a637555c7220c32d6095250408cd60eda4388ed795f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-42-2025",
+   "path": "local/buzau/magura/2025/42",
+   "short": "HCL Măgura nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 42/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-42-din-28.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-42-din-28.11.2025.pdf",
+     "sha256": "f763453594c32292d4e1dae391355b2cc6457ee743334cc658f73cd97aead66b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-43-2025",
+   "path": "local/buzau/magura/2025/43",
+   "short": "HCL Măgura nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 43/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-43-din-28.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-43-din-28.11.2025.pdf",
+     "sha256": "6f888fd655eb31a2a3b5b4120f1a14dedbf03590f6f8edd0274604033d2b2031"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-44-2025",
+   "path": "local/buzau/magura/2025/44",
+   "short": "HCL Măgura nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 44/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-44-din-12.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-44-din-12.12.2025.pdf",
+     "sha256": "620643dcfc9e10a71aecf71085c9410fdba583390197514289978ae4f629fb2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-45-2025",
+   "path": "local/buzau/magura/2025/45",
+   "short": "HCL Măgura nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 45/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-45-din-12.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-45-din-12.12.2025.pdf",
+     "sha256": "45978e725876745d3fbe6b84d968b5b4656cf4d53ab357221bd0e8b1ececc539"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-47-2025",
+   "path": "local/buzau/magura/2025/47",
+   "short": "HCL Măgura nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 47/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-47-din-12.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-47-din-12.12.2025.pdf",
+     "sha256": "4e474c4223f03a7fac9242625e07a23b6d86644820cd2073c9d9f535439dbc9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-48-2025",
+   "path": "local/buzau/magura/2025/48",
+   "short": "HCL Măgura nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 48/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-48-din-12.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-48-din-12.12.2025.pdf",
+     "sha256": "5fcbab842a56e305e83b5a4ad97d8dc6ae716ff3c3cc9b6ab118e7087fa36a81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-49-2025",
+   "path": "local/buzau/magura/2025/49",
+   "short": "HCL Măgura nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 49/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-49-din-12.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-49-din-12.12.2025.pdf",
+     "sha256": "b33c39f50e13c127b242de9e513300c9b06286bfc8e36161929fc04062b10274"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-5-2025",
+   "path": "local/buzau/magura/2025/5",
+   "short": "HCL Măgura nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 5/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-5-din-28.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-5-din-28.02.2025.pdf",
+     "sha256": "c014680cfd311d519b156ce4fc9df72b4eabc48b24d0bca1a57407e9ce94e822"
     }
    ]
   },
@@ -44,6 +494,66 @@
      "units": 1,
      "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-52-din-22.12.2025.pdf",
      "sha256": "c99abb5355a7f070152844091a1492a9c4ea23b1cc1467e3e59822b8ad837725"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-6-2025",
+   "path": "local/buzau/magura/2025/6",
+   "short": "HCL Măgura nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 6/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-6-din-28.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-6-din-28.02.2025.pdf",
+     "sha256": "8ce3cbacfa202d12e11a61d1d3adb0de35924d17ecde1acd0eac239f259cad3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-7-2025",
+   "path": "local/buzau/magura/2025/7",
+   "short": "HCL Măgura nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 7/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-7-din-28.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-7-din-28.02.2025.pdf",
+     "sha256": "89fdcf27e0c171ebbee6f80a8733ec8e8e4e66dfbb8dadd8e33e1db84e5a8aeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-8-2025",
+   "path": "local/buzau/magura/2025/8",
+   "short": "HCL Măgura nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 8/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-8-din-28.02.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-8-din-28.02.2025.pdf",
+     "sha256": "005f3eaa96372aea34de36c42f0fc01496e30588ce38ee7f8f90f7ee219dff7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--magura-9-2025",
+   "path": "local/buzau/magura/2025/9",
+   "short": "HCL Măgura nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 9/2025",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-9-din-21.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-9-din-21.03.2025.pdf",
+     "sha256": "ef10b87dd1cae8304587536430e0604538621854fe18b23f5f40e06778b4b7f6"
     }
    ]
   }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2013",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-2819-2013",
+   "path": "local/buzau/nehoiu/2013/2819",
+   "short": "HCL Nehoiu nr. 2819/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 2819/2013 privind rezilierea contractului de inchiriere nr. 2819 din 14.03.2013",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2021/04/Hotararea-nr.-21-privind-rezilierea-contractului-de-inchiriere-nr.-2819-din-14.03.2013.pdf",
+     "sha256": "a04bf4cfc39d77195d74e58ddfff80cf2dd8d7df7d412490853449eac2534ae2"
+    }
+   ]
+  }
+ ]
+}

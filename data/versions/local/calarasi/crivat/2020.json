@@ -3,6 +3,21 @@
  "shard": "local/calarasi/crivat/2020",
  "acts": [
   {
+   "slug": "hcl-calarasi--crivat-1-2020",
+   "path": "local/calarasi/crivat/2020/1",
+   "short": "HCL Crivăț nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 1/2020 privind scoaterea la licitatie in vederea inchirierii unui spatiu in suprafata de 10,9 mp din imobilul Dispensar Uman, situat in comuna Crivat, pentru functionarea unui spatiu comercial",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/288",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/288",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-10-2020",
    "path": "local/calarasi/crivat/2020/10",
    "short": "HCL Crivăț nr. 10/2020",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-15-2020",
+   "path": "local/calarasi/crivat/2020/15",
+   "short": "HCL Crivăț nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 15/2020 aprobare modificare HCL nr.30 din 29.06.2019 privind salarizarea personalului platit din bugetul local al comunei Crivat",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/841",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/841",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-16-2020",
    "path": "local/calarasi/crivat/2020/16",
    "short": "HCL Crivăț nr. 16/2020",
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-18-2020",
+   "path": "local/calarasi/crivat/2020/18",
+   "short": "HCL Crivăț nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 18/2020",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/844",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/844",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-19-2020",
    "path": "local/calarasi/crivat/2020/19",
    "short": "HCL Crivăț nr. 19/2020",
@@ -118,6 +163,21 @@
      "from": "2020-03-06",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-2-2020",
+   "path": "local/calarasi/crivat/2020/2",
+   "short": "HCL Crivăț nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 2/2020 privind scoaterea la licitatie in vederea inchirierii unui spatiu in suprafata de 11,2 mp din imobilul Dispensar Uman, situat in comuna Crivat, pentru functionarea unui spatiu comercial",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/289",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/289",
      "sha256": null
     }
    ]
@@ -258,6 +318,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-29-2020",
+   "path": "local/calarasi/crivat/2020/29",
+   "short": "HCL Crivăț nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 29/2020 privind scoaterea la licitatie in vederea inchirierii unui teren (baraj-dig de protective) cu suprafata de 445 mp,",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/3884",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/3884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-3-2020",
+   "path": "local/calarasi/crivat/2020/3",
+   "short": "HCL Crivăț nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 3/2020 privind scoaterea la licitatie in vederea inchirierii unui spatiu in suprafata de 10,3 mp din imobilul Dispensar Uman, situat in comuna Crivat, pentru functionarea unui ghiseu postal",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/290",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/290",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-30-2020",
    "path": "local/calarasi/crivat/2020/30",
    "short": "HCL Crivăț nr. 30/2020",
@@ -298,6 +388,21 @@
      "from": "2020-05-21",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/3887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-33-2020",
+   "path": "local/calarasi/crivat/2020/33",
+   "short": "HCL Crivăț nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 33/2020 privind numirea unei persoane in functia de director al Clubului sportiv ,,FC 2006 Partizan Crivat”",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/3888",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/3888",
      "sha256": null
     }
    ]
@@ -373,6 +478,21 @@
      "from": "2020-06-24",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/4826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-39-2020",
+   "path": "local/calarasi/crivat/2020/39",
+   "short": "HCL Crivăț nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 39/2020 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/5236",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/5236",
      "sha256": null
     }
    ]
@@ -543,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-5-2020",
+   "path": "local/calarasi/crivat/2020/5",
+   "short": "HCL Crivăț nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 5/2020",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/292",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/292",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-50-2020",
    "path": "local/calarasi/crivat/2020/50",
    "short": "HCL Crivăț nr. 50/2020",
@@ -648,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-57-2020",
+   "path": "local/calarasi/crivat/2020/57",
+   "short": "HCL Crivăț nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 57/2020 privind alegerea Presedintelui de sedinta",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/9030",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/9030",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-58-2020",
    "path": "local/calarasi/crivat/2020/58",
    "short": "HCL Crivăț nr. 58/2020",
@@ -678,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--crivat-6-2020",
+   "path": "local/calarasi/crivat/2020/6",
+   "short": "HCL Crivăț nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 6/2020 privind aprobarea planului de actiuni al persoanelor apte de munca beneficiare de ajutor social",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/293",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/293",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--crivat-60-2020",
    "path": "local/calarasi/crivat/2020/60",
    "short": "HCL Crivăț nr. 60/2020",
@@ -688,6 +853,21 @@
      "from": "2020-09-18",
      "units": 1,
      "source_url": "https://emol.ro/crivat-cl/registru-hcl/9031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--crivat-61-2020",
+   "path": "local/calarasi/crivat/2020/61",
+   "short": "HCL Crivăț nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 61/2020",
+   "url": "https://emol.ro/crivat-cl/registru-hcl/9451",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/crivat-cl/registru-hcl/9451",
      "sha256": null
     }
    ]

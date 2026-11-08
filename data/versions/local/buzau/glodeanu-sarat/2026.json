@@ -1,0 +1,576 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/glodeanu-sarat/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-10-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/10",
+   "short": "HCL Glodeanu Sărat nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 10/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-10-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-10-din-26.02.2026.pdf",
+     "sha256": "02ab89e91827926d5701a21a117ca50a93d7f87a1f7b808883cc9ce8ed2bec00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-11-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/11",
+   "short": "HCL Glodeanu Sărat nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 11/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-11-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-11-din-26.02.2026.pdf",
+     "sha256": "6ca5ad0e04becd54b731680d77600cd2c23a4cccf2723029618b29ecca13dd7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-12-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/12",
+   "short": "HCL Glodeanu Sărat nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 12/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-12-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-12-din-26.02.2026.pdf",
+     "sha256": "2f167915721c2578da792402793982095368ae0650cc5f838b6eed76e60c0845"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-14-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/14",
+   "short": "HCL Glodeanu Sărat nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 14/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-14-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-14-din-26.02.2026.pdf",
+     "sha256": "f749e89e046a681bcb0580f29d8598d9cc4bc7c9cde388498f1395a48b67fab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-15-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/15",
+   "short": "HCL Glodeanu Sărat nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 15/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-15-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-15-din-26.02.2026.pdf",
+     "sha256": "22570bda914ec8c7c661dba4048367292c3790f23589179543e99170e7bcda32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-16-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/16",
+   "short": "HCL Glodeanu Sărat nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 16/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-16-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-16-din-26.02.2026.pdf",
+     "sha256": "f08c9f4d44bd6d463dbb7367f6c50e4994a1300c0074fd5b59e83a9ae95024fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-17-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/17",
+   "short": "HCL Glodeanu Sărat nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 17/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-17-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-17-din-26.02.2026.pdf",
+     "sha256": "bba064933a66fa17f49c2c9450d68f80b3f879f0ffd8ae9554d014b1246d404b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-18-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/18",
+   "short": "HCL Glodeanu Sărat nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 18/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-18-din-10.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-18-din-10.03.2026.pdf",
+     "sha256": "2c979b70748e20f15892f2a87d337219453c4c7c6c56fc748fdab0f10a302305"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-19-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/19",
+   "short": "HCL Glodeanu Sărat nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 19/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-19-din-31.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-19-din-31.03.2026.pdf",
+     "sha256": "acf3311df57675c54d6f6e1e692c7f0e50a46cd118b63b22576911241b423134"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-2-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/2",
+   "short": "HCL Glodeanu Sărat nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 2/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-2-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-2-din-30.01.2026.pdf",
+     "sha256": "d5ac3e98fec96dd7282101ac9f2abc77f39f965c88ff0b00f7b0143c3de3df29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-20-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/20",
+   "short": "HCL Glodeanu Sărat nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 20/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-20-din-31.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-20-din-31.03.2026.pdf",
+     "sha256": "ca0aafdf8144ad35bd0bf72bf9dd8c44096a8f1b059503d10a12ff157ba49280"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-22-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/22",
+   "short": "HCL Glodeanu Sărat nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 22/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-22-din-15.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-22-din-15.04.2026.pdf",
+     "sha256": "d2e27eb04827880cda6ff72e67fab9b9b2197ed0cc464969cb0676f3072e80ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-25-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/25",
+   "short": "HCL Glodeanu Sărat nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 25/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-25-din-08.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-25-din-08.05.2026.pdf",
+     "sha256": "44c0cb4c7941bd39fc51b765c02c1ceb43f07d88d86553cc6d79ceeb6b3cdd39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-27-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/27",
+   "short": "HCL Glodeanu Sărat nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 27/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-27-din-08.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-27-din-08.05.2026.pdf",
+     "sha256": "aa30c951414d93560e2b8425c9d91488d081b3b50a2add759ef9b1c7655fdd55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-28-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/28",
+   "short": "HCL Glodeanu Sărat nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 28/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-28-din-08.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-28-din-08.05.2026.pdf",
+     "sha256": "9b8f5559853fb7ae68c2bcf302f1bba18347e55c3f9a9543c5025980002e9e05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-3-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/3",
+   "short": "HCL Glodeanu Sărat nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 3/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-3-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-3-din-30.01.2026.pdf",
+     "sha256": "3b113589f7de578ecc6b07e1e402e65ba741012d62a27043eb86d37ff9e53359"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-30-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/30",
+   "short": "HCL Glodeanu Sărat nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 30/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-30-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-30-din-29.06.2026.pdf",
+     "sha256": "4a5adc903a7485ff40553743b377c90c2fef7db60e60db877cb8553b365c4b03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-31-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/31",
+   "short": "HCL Glodeanu Sărat nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 31/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-31-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-31-din-29.06.2026.pdf",
+     "sha256": "632d0992ac39db7ab15e549e7db68b9c9eb304dd82164c0fa1982e53a7582ed2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-32-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/32",
+   "short": "HCL Glodeanu Sărat nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 32/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-32-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-32-din-29.06.2026.pdf",
+     "sha256": "4b69e44c36d657bc309f09fdd4c12e8f53164d2f94dbfcf3cb56f09dc02a000a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-33-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/33",
+   "short": "HCL Glodeanu Sărat nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 33/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-33-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-33-din-29.06.2026.pdf",
+     "sha256": "e0c21ed337c3e86896e11872036333de47f1fd7a75095896c15e73845897e139"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-34-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/34",
+   "short": "HCL Glodeanu Sărat nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 34/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-34-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-34-din-29.06.2026.pdf",
+     "sha256": "005369440563c6fd5571dbd084fe243af66e9a679b6c3fc9d31ed8648836e4ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-36-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/36",
+   "short": "HCL Glodeanu Sărat nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 36/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-36-din-29.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-36-din-29.06.2026.pdf",
+     "sha256": "41a814added8e3114727cf6cb222fe4cdf0ee3177f207d2a7362abce81c5fe80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-37-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/37",
+   "short": "HCL Glodeanu Sărat nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 37/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-37-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-37-din-30.07.2026.pdf",
+     "sha256": "2d8598747737fab8f6d14ca58504ffecbba7663a5ec59fb6ca747974409725d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-4-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/4",
+   "short": "HCL Glodeanu Sărat nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 4/2026 privind Aprobarea Planului de acțiuni și lucrări de interes local ce vor fi realizate în anul 2026 de către persoanele majore, apte de muncă din familiile beneficiare de venit minim de incluziune",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-4-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-4-din-30.01.2026.pdf",
+     "sha256": "27eb68cb00b3848484c0317c99693f325b59fe6fa1758483171c603fffcd700b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-40-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/40",
+   "short": "HCL Glodeanu Sărat nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 40/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-40-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-40-din-30.07.2026.pdf",
+     "sha256": "653c1f953ddbb11dbaec3d20bb212c5918d8062a3de3ae65040d3a5af2353f0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-41-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/41",
+   "short": "HCL Glodeanu Sărat nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 41/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-41-din-30.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-41-din-30.07.2026.pdf",
+     "sha256": "b794d64392c6acd441826fecfebbcbebf5006bc18037e1333b62d9443cd9d4ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-42-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/42",
+   "short": "HCL Glodeanu Sărat nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 42/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-42-din-26.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-42-din-26.08.2026.pdf",
+     "sha256": "c3988b6c963ddcef144f9b6e2fbe92cd4ad82024729a4f79729eeef2e932f681"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-44-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/44",
+   "short": "HCL Glodeanu Sărat nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 44/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-44-din-26.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-44-din-26.08.2026.pdf",
+     "sha256": "2c9d392743e436ce9a49462014c60636ec02c8e6dc3c78f7d2ffbc00c36fe8ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-45-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/45",
+   "short": "HCL Glodeanu Sărat nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 45/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-45-din-31.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-45-din-31.08.2026.pdf",
+     "sha256": "c256ce79cd825447a5e335d93d7485bd4305a420c6652e524a293c0c53e9857a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-46-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/46",
+   "short": "HCL Glodeanu Sărat nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 46/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-46-din-23.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-46-din-23.09.2026.pdf",
+     "sha256": "8e59e3c0be74911e899cab3458c25c23af69d9b94abe54cb8aeb4621d1a6b858"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-48-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/48",
+   "short": "HCL Glodeanu Sărat nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 48/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-48-din-23.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-48-din-23.09.2026.pdf",
+     "sha256": "19e9390841788841ce98ca4aebc5dbaa24e5c2285970f35d9db54d238cc4e309"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-49-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/49",
+   "short": "HCL Glodeanu Sărat nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 49/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-49-din-23.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-49-din-23.09.2026.pdf",
+     "sha256": "a999ff7dc10d9b092543d51195963dea2d475a8722feefbf9c6939da3d111a2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-5-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/5",
+   "short": "HCL Glodeanu Sărat nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 5/2026 privind Aprobarea Strategiei Locale de Dezvoltare a Serviciilor Sociale la nivelul comunei Glodeanu Sărat, județul Buzău, pentru perioada 2026 – 2027",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-5-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-5-din-30.01.2026.pdf",
+     "sha256": "edc6877c5d1856d346cd126d8185b7c1fdd4a5159783fd7bbf892b2f335ce593"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-50-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/50",
+   "short": "HCL Glodeanu Sărat nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 50/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-50-din-23.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-50-din-23.09.2026.pdf",
+     "sha256": "3aaccad56f5f7aaa7b6c112a6223d5aa80a2184a440122b0e5aea9a8b4a0404f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-6-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/6",
+   "short": "HCL Glodeanu Sărat nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 6/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-6-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-6-din-30.01.2026.pdf",
+     "sha256": "6887db51796123c4b7beabaa5ee1bc9c00d6533b6f2e719dc138581f29381cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-7-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/7",
+   "short": "HCL Glodeanu Sărat nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 7/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-7-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-7-din-30.01.2026.pdf",
+     "sha256": "1ffbb37b652a7ffb7aa20b4391d52faa50f1360849f93c2bff40032e5ce576d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-8-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/8",
+   "short": "HCL Glodeanu Sărat nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 8/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-8-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-8-din-30.01.2026.pdf",
+     "sha256": "f0741cadf8769d88be478f1c98abac193ad015ecc11c4d8ded7d2caad7e57443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--glodeanu-sarat-9-2026",
+   "path": "local/buzau/glodeanu-sarat/2026/9",
+   "short": "HCL Glodeanu Sărat nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Glodeanu Sărat nr. 9/2026",
+   "url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-9-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://primariaglodeanusarat.ro/wp-content/uploads/HCL-nr.-9-din-26.02.2026.pdf",
+     "sha256": "90f3f23cf00a9092812cd0cd1a8270f43e4aa94f1d78ecd28585fa7c88ddeb15"
+    }
+   ]
+  }
+ ]
+}

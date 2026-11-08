@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-5-2026",
+"path": "local/calarasi/dor-marunt/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 5/2026 privind desemnarea consilierilor locali care să facă parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al Comunei Dor Mărunt",
+"short": "HCL Dor Mărunt nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/254272",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-6-2026",
 "path": "local/calarasi/dor-marunt/2026/6",
 "kind": "local",
@@ -335,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-17-2026",
+"path": "local/calarasi/dor-marunt/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 17/2026 privind aprobarea acordării unui sprijin financiar Bisericii Ogoru, comuna Dor Mărunt",
+"short": "HCL Dor Mărunt nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/264943",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-18-2026",
 "path": "local/calarasi/dor-marunt/2026/18",
 "kind": "local",
@@ -354,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-19-2026",
+"path": "local/calarasi/dor-marunt/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 19/2026 privind aprobarea contractului de consultanță în domeniul bursier, a contractului de asociere bursieră pentru achiziționare de energie electrică în calitate de consumator eligibil, a caietului de sarcini și a modelului de contract pentru vânzare-cumpărare de energie electrică la clienții eligibili",
+"short": "HCL Dor Mărunt nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/264945",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

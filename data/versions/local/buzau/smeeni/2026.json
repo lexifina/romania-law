@@ -1,0 +1,756 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/smeeni/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--smeeni-10-2026",
+   "path": "local/buzau/smeeni/2026/10",
+   "short": "HCL Smeeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 10/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-10-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-10-din-26.02.2026.pdf",
+     "sha256": "d81b625825ba470625f9f0a3c227bf4c75d20fedf5dad5334d2d2c69626fe1a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-11-2026",
+   "path": "local/buzau/smeeni/2026/11",
+   "short": "HCL Smeeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 11/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-11-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-11-din-26.02.2026.pdf",
+     "sha256": "7091a0cd4d85d2f47d59bfe3993bb63d17cb0d864a7cef15069e0cca81b4cfa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-12-2026",
+   "path": "local/buzau/smeeni/2026/12",
+   "short": "HCL Smeeni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 12/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-12-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-12-din-26.02.2026.pdf",
+     "sha256": "f1a4a7626f0eefd304efbdd336f0027e59004c16ee57f5dc995ef72aa5cd256b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-13-2026",
+   "path": "local/buzau/smeeni/2026/13",
+   "short": "HCL Smeeni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 13/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-13-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-13-din-26.02.2026.pdf",
+     "sha256": "cf2d45ffa8327a63d5e511decdcfaf7c6ec6824d3ba78da70f06c42e0ee56559"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-14-2026",
+   "path": "local/buzau/smeeni/2026/14",
+   "short": "HCL Smeeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 14/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-14-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-14-din-26.02.2026.pdf",
+     "sha256": "01846565a3e962653308f55f4ebe2b4ddf076ac4def1906fae2e5b57ea17e0b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-15-2026",
+   "path": "local/buzau/smeeni/2026/15",
+   "short": "HCL Smeeni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 15/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-15-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-15-din-26.02.2026.pdf",
+     "sha256": "65bde595e1f380f1fab4da1e0c2509ab277d9d639c212e96fac3faf3c61cc5f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-16-2026",
+   "path": "local/buzau/smeeni/2026/16",
+   "short": "HCL Smeeni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 16/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-16-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-16-din-26.02.2026.pdf",
+     "sha256": "e82bb9b257c81282dfd0ad99b515d0f8e16ed30340f3f125a4f179510ba97af3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-19-2026",
+   "path": "local/buzau/smeeni/2026/19",
+   "short": "HCL Smeeni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 19/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-19-din-31.03.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-19-din-31.03.2026-1.pdf",
+     "sha256": "ed8dc3f4cfd4ad12c648b5255c87d427b814c8daa393fab4e8fd488006bdeed5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-20-2026",
+   "path": "local/buzau/smeeni/2026/20",
+   "short": "HCL Smeeni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 20/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-20-din-31.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-20-din-31.03.2026.pdf",
+     "sha256": "4514fcc12ff1d80b2eee277f4141dbf7bcebf9988877c61743e21f1579c5813b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-21-2026",
+   "path": "local/buzau/smeeni/2026/21",
+   "short": "HCL Smeeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 21/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-21-din-20.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-21-din-20.04.2026.pdf",
+     "sha256": "ab15897a5a742a373d44e60c9b16d8903e3da64f120f0d1b942cb02cefc8d9fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-22-2026",
+   "path": "local/buzau/smeeni/2026/22",
+   "short": "HCL Smeeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 22/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-22-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-22-din-30.04.2026.pdf",
+     "sha256": "779e25fef1b87e7119de67b7e1667ac85fee750af21f4ab131bec3e1c27e8c75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-24-2026",
+   "path": "local/buzau/smeeni/2026/24",
+   "short": "HCL Smeeni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 24/2026",
+   "url": "https://www.comunasmeeni.ro/monitorul-oficial-local/bugetul-local/bugetul-local-si-situatii-financiare-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-24-din-30.04.2026.pdf",
+     "sha256": "c6a069aae3dc2894c768e3e0f4c21452bab26b74fcd648c34523446efabc5796"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-25-2026",
+   "path": "local/buzau/smeeni/2026/25",
+   "short": "HCL Smeeni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 25/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-25-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-25-din-30.04.2026.pdf",
+     "sha256": "6db40c6fa333fdc4fdef7c9b4f18e4e1244ca887bc47e550399574285d74dcda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-26-2026",
+   "path": "local/buzau/smeeni/2026/26",
+   "short": "HCL Smeeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 26/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-26-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-26-din-30.04.2026.pdf",
+     "sha256": "ad3cd2b014c4e848ecabe328a5e7767bc6b25157172c53714cedf8ca45d0af51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-27-2026",
+   "path": "local/buzau/smeeni/2026/27",
+   "short": "HCL Smeeni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 27/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-27-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-27-din-30.04.2026.pdf",
+     "sha256": "9fa69744d5d524d4c9e541b76f32e1fdbe3110a95c9ce71a8521f69c019fb64c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-28-2026",
+   "path": "local/buzau/smeeni/2026/28",
+   "short": "HCL Smeeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 28/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-28-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-28-din-30.04.2026.pdf",
+     "sha256": "8b9efd58ab0f724cb0700e03baf53fc7bf99398b0df1ce75cb56b7830b006868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-29-2026",
+   "path": "local/buzau/smeeni/2026/29",
+   "short": "HCL Smeeni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 29/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-29-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-29-din-30.04.2026.pdf",
+     "sha256": "aa2a7add9943c7ff09fc03fc55646ed2bd4efffee43ac0642e127ab017fca843"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-30-2026",
+   "path": "local/buzau/smeeni/2026/30",
+   "short": "HCL Smeeni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 30/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-30-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-30-din-30.04.2026.pdf",
+     "sha256": "e491206dab4e41b09386971d7843ae82bd7099fce71d4d93890c38659e1f4599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-31-2026",
+   "path": "local/buzau/smeeni/2026/31",
+   "short": "HCL Smeeni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 31/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-31-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-31-din-30.04.2026.pdf",
+     "sha256": "68f699826f5f58d25de498d6db60eed2808ae7e103a95a2bc66ad6b809cf3ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-32-2026",
+   "path": "local/buzau/smeeni/2026/32",
+   "short": "HCL Smeeni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 32/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-32-din-25.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-32-din-25.05.2026.pdf",
+     "sha256": "0c5bd4592a7ef5510435cab326c27f873fab33e9938a64644b82a7a41d34ebc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-33-2026",
+   "path": "local/buzau/smeeni/2026/33",
+   "short": "HCL Smeeni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 33/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-33-din-29.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-33-din-29.05.2026.pdf",
+     "sha256": "7ea4e2ff303cfa5517469d592c9cf44f07ab99ab6280edc6a398fd4700af2e10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-34-2026",
+   "path": "local/buzau/smeeni/2026/34",
+   "short": "HCL Smeeni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 34/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-34-din-29.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-34-din-29.05.2026.pdf",
+     "sha256": "bc5aeadf12d44eb865310e22830e871da3a5c678a2bfc1aeb1d6ec3c24a433e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-35-2026",
+   "path": "local/buzau/smeeni/2026/35",
+   "short": "HCL Smeeni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 35/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-35-din-29.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-35-din-29.05.2026.pdf",
+     "sha256": "b0c4be2854a928935717a3817d6bb3405bef6b948f8b0e5f964bf87dc2494a61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-36-2026",
+   "path": "local/buzau/smeeni/2026/36",
+   "short": "HCL Smeeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 36/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-36-din-30.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-36-din-30.06.2026.pdf",
+     "sha256": "9a304e7394730b95c505cb880922173cb62ca002741345b4ac95a64a59972aca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-37-2026",
+   "path": "local/buzau/smeeni/2026/37",
+   "short": "HCL Smeeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 37/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-37-din-30.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-37-din-30.06.2026.pdf",
+     "sha256": "ef55778909fe47b29314fbdf19c1ed1d95d110466f90b54d5eaa29a8160f9763"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-38-2026",
+   "path": "local/buzau/smeeni/2026/38",
+   "short": "HCL Smeeni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 38/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-38-din-30.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-38-din-30.06.2026.pdf",
+     "sha256": "5e39ecabcba9c2bc7f498a11e002aaacc2fbc4457f37c2624d87b5437097861b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-4-2026",
+   "path": "local/buzau/smeeni/2026/4",
+   "short": "HCL Smeeni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 4/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-4-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-4-din-26.02.2026.pdf",
+     "sha256": "11f8e3827c3f40a3fb56dd0d99f4a1761387a88c8ba18c20d26db3e6cbc1465d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-40-2026",
+   "path": "local/buzau/smeeni/2026/40",
+   "short": "HCL Smeeni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 40/2026 pentru Situații de 4 posturi Compartiment Urgență” Urbanism și Cadastru Compartiment Compartiment Compartiment Registrul 4 posturi „Serviciul de Stare Civilă și 1 post Asistență 6 Resurse Umane 1 Agricol Comunitară” 2 posturi Compartiment 1 post Cultură/Biblioteca 6 posturi 1 post * Compartiment Compartiment Servicul social Compartiment Gospodărire Asistență Socială ”Casa Copiilor- Secretariat și",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-40-din-24.07.2026-.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-40-din-24.07.2026-.pdf",
+     "sha256": "860205c0cc8609613ede03ff455e045f7fef1b4fdce15e4cdc371df51fdc8002"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-41-2026",
+   "path": "local/buzau/smeeni/2026/41",
+   "short": "HCL Smeeni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 41/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-41-din-24.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-41-din-24.07.2026.pdf",
+     "sha256": "19b31fd1cf3d930480fc76976f5cf7031386a307f6aa1f7a58d8a3b5c85a17af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-42-2026",
+   "path": "local/buzau/smeeni/2026/42",
+   "short": "HCL Smeeni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 42/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-42-din-24.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-42-din-24.07.2026.pdf",
+     "sha256": "8862c24857cc70ee5eeff7790439e95479e755a281976c584bb5e4ca1a75cc22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-44-2026",
+   "path": "local/buzau/smeeni/2026/44",
+   "short": "HCL Smeeni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 44/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-44-din-24.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-44-din-24.08.2026.pdf",
+     "sha256": "b7bea2466be4f370c0c0476ec3556fd26b34d04959f459a4342ad2c2a7b43138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-45-2026",
+   "path": "local/buzau/smeeni/2026/45",
+   "short": "HCL Smeeni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 45/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-45-din-24.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-45-din-24.08.2026.pdf",
+     "sha256": "c213a96691514435dce6b83695e188f102dba3ef2367cbf42e02a15eacd11252"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-46-2026",
+   "path": "local/buzau/smeeni/2026/46",
+   "short": "HCL Smeeni nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 46/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-46-din-24.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-46-din-24.08.2026.pdf",
+     "sha256": "8d7ed60f2ac4034d66b4368d8d343b6f1098cf592b021c5b87a8e1130cfff7a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-48-2026",
+   "path": "local/buzau/smeeni/2026/48",
+   "short": "HCL Smeeni nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 48/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-48-din-24.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-48-din-24.08.2026.pdf",
+     "sha256": "ffb7230a441ca59727bcff8777dbebd45bb8ffb249a43d9c3452e6c64fb36365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-49-2026",
+   "path": "local/buzau/smeeni/2026/49",
+   "short": "HCL Smeeni nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 49/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-49-din-24.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-49-din-24.08.2026.pdf",
+     "sha256": "20cf29fd993c218916437e5ef9fcb624eb3c0079d07d4841c775708288c11748"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-5-2026",
+   "path": "local/buzau/smeeni/2026/5",
+   "short": "HCL Smeeni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 5/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-5-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-5-din-26.02.2026.pdf",
+     "sha256": "31dfc78120264f7376a5802ef2ecf5a11ce8ff0253053ecb4fcc3dafba6d34bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-50-2026",
+   "path": "local/buzau/smeeni/2026/50",
+   "short": "HCL Smeeni nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 50/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-50-din-24.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-50-din-24.08.2026.pdf",
+     "sha256": "63d0628207ed997586d4011e040219da9a9a7215a22e772e29092137f2203870"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-52-2026",
+   "path": "local/buzau/smeeni/2026/52",
+   "short": "HCL Smeeni nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 52/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-52-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-52-din-29.09.2026.pdf",
+     "sha256": "68f8304a27b125fbb934c410c57c14686374b65fdf9862724140402f9353dc15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-54-2026",
+   "path": "local/buzau/smeeni/2026/54",
+   "short": "HCL Smeeni nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 54/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-54-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-54-din-29.09.2026.pdf",
+     "sha256": "7725ebfbb39347e66d01865b6b7c2f3c848f0be456021f17b4b679279391bd7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-56-2026",
+   "path": "local/buzau/smeeni/2026/56",
+   "short": "HCL Smeeni nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 56/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-56-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-56-din-29.09.2026.pdf",
+     "sha256": "f06d85e06635e636435837876ae0027c6a6b744e00c940b8cec99f8c10f60719"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-57-2026",
+   "path": "local/buzau/smeeni/2026/57",
+   "short": "HCL Smeeni nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 57/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-57-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-57-din-29.09.2026.pdf",
+     "sha256": "97815a8abb61c6510b9533877e2a4bc3208f9b1cf611530f1fe7c00d360de964"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-59-2026",
+   "path": "local/buzau/smeeni/2026/59",
+   "short": "HCL Smeeni nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 59/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-59-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-59-din-29.09.2026.pdf",
+     "sha256": "9b545194fd8ac011cc5f49aea35d3f29c0d08b33addeed2353508f6aa70a2250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-6-2026",
+   "path": "local/buzau/smeeni/2026/6",
+   "short": "HCL Smeeni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 6/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-6-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-6-din-26.02.2026.pdf",
+     "sha256": "655157c86183a38483df7ebb2402cef6df5e6c43d9e78d3fc0ff28776e3acf64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-60-2026",
+   "path": "local/buzau/smeeni/2026/60",
+   "short": "HCL Smeeni nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 60/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-60-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-60-din-29.09.2026.pdf",
+     "sha256": "18fddbf1621603f9106dd2803c699db6535e728a30499d4bc918bd54e2e47c28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-61-2026",
+   "path": "local/buzau/smeeni/2026/61",
+   "short": "HCL Smeeni nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 61/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-61-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-61-din-29.09.2026.pdf",
+     "sha256": "c62efc342886f96301ab9fbda3380ecceac4be3a61514846aae05dbba779ce24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-62-2026",
+   "path": "local/buzau/smeeni/2026/62",
+   "short": "HCL Smeeni nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 62/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-62-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-62-din-29.09.2026.pdf",
+     "sha256": "76bc257887c21e3a3b00745ce6914c70d3c892a1106c3148e93a1c1e2141564f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-64-2026",
+   "path": "local/buzau/smeeni/2026/64",
+   "short": "HCL Smeeni nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 64/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-64-din-29.09.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-64-din-29.09.2026.pdf",
+     "sha256": "ab403df87be99df3990abaa4ce24443730a2ceb9f7729815ca1448734565a9fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-7-2026",
+   "path": "local/buzau/smeeni/2026/7",
+   "short": "HCL Smeeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 7/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-7-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-7-din-26.02.2026.pdf",
+     "sha256": "6b783bfc2d5ae187a8144ec7cde11f616aa8109b0955f13436d1231c07fa392f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-8-2026",
+   "path": "local/buzau/smeeni/2026/8",
+   "short": "HCL Smeeni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 8/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-8-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-8-din-26.02.2026.pdf",
+     "sha256": "a7dc23cfc4fe8fb40e7696fcdcfea8a5d24e3142b4aba68859e7881bf6d79ead"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--smeeni-9-2026",
+   "path": "local/buzau/smeeni/2026/9",
+   "short": "HCL Smeeni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Smeeni nr. 9/2026",
+   "url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-9-din-26.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.comunasmeeni.ro/wp-content/uploads/HCL-nr.-9-din-26.02.2026.pdf",
+     "sha256": "5c7032ad93c16e58c954b516da2b75272a564a1e4a0b633e83dc727b81f037db"
+    }
+   ]
+  }
+ ]
+}

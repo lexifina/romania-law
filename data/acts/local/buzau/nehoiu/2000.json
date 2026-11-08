@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/nehoiu/2000",
+"acts": [
+{
+"slug": "hcl-buzau--nehoiu-29-2000",
+"path": "local/buzau/nehoiu/2000/29",
+"kind": "local",
+"year": "2000",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 29/2000 privind acordul Consiliului Local al orașului Nehoiu pentru schimbarea destinației unui imobil, stabilită prin hotărârea Consiliului Local nr. 29 din 18.09.2000",
+"short": "HCL Nehoiu nr. 29/2000",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2000-09-18",
+"latest": "2000-09-18",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2018/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

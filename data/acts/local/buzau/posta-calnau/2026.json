@@ -3,6 +3,50 @@
 "shard": "local/buzau/posta-calnau/2026",
 "acts": [
 {
+"slug": "hcl-buzau--posta-calnau-46-2026",
+"path": "local/buzau/posta-calnau/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poșta Câlnău nr. 46/2026",
+"short": "HCL Poșta Câlnău nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://www.comunapostacilnau.ro/wp-content/uploads/HCL-nr.-46-din-10.09.2026.pdf",
+"council": "buzau/posta-calnau",
+"council_name": "Consiliul Local al Comunei Poșta Câlnău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--posta-calnau-47-2026",
+"path": "local/buzau/posta-calnau/2026/47",
+"kind": "local",
+"year": "2026",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poșta Câlnău nr. 47/2026",
+"short": "HCL Poșta Câlnău nr. 47/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://www.comunapostacilnau.ro/wp-content/uploads/HCL-nr.-47-din-10.09.2026.pdf",
+"council": "buzau/posta-calnau",
+"council_name": "Consiliul Local al Comunei Poșta Câlnău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--posta-calnau-55-2026",
 "path": "local/buzau/posta-calnau/2026/55",
 "kind": "local",

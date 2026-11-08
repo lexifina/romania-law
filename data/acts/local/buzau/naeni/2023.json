@@ -3,6 +3,28 @@
 "shard": "local/buzau/naeni/2023",
 "acts": [
 {
+"slug": "hcl-buzau--naeni-1-2023",
+"path": "local/buzau/naeni/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 1/2023 privind aprobarea planului anual de acţiuni pentru lucrările de interes local ce se vor efectua de beneficiarii ajutorului social in anul 2023",
+"short": "HCL Năeni nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/101160",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-2-2023",
 "path": "local/buzau/naeni/2023/2",
 "kind": "local",
@@ -45,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-4-2023",
+"path": "local/buzau/naeni/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 4/2023 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+"short": "HCL Năeni nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-21",
+"latest": "2023-04-21",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/101163",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

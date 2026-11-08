@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2023",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-109-2023",
+   "path": "local/buzau/nehoiu/2023/109",
+   "short": "HCL Nehoiu nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 109/2023",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+     "sha256": "2186aa6458e6beeb7df05ec542ce765cb0852fb5f8ed9f68ec7cc362ef227ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-115-2023",
+   "path": "local/buzau/nehoiu/2023/115",
+   "short": "HCL Nehoiu nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 115/2023 privind aprobarea actualizarii si completarii Anexei nr. 1 la HCL nr. 115 din 07.12.2023 privind aprobarea contractarii serviciilor juridice de consultanta",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2024/11/Hotararea-nr.-84-privind-aprobarea-actualizarii-si-completarii-Anexei-nr.-1-la-HCL-nr.-115-din-07.12.2023-privind-aprobarea-contractarii-serviciilor-juridice-de-consultanta.pdf",
+     "sha256": "a52fbd824c2d5eebc70acedbfa7983871971bafd5c9f9431874babc512efdd4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-117-2023",
+   "path": "local/buzau/nehoiu/2023/117",
+   "short": "HCL Nehoiu nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 117/2023",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+     "sha256": "366fbc1db9b1801e892845bad6dd3a4fe404c3b97dd4b9a9c5e9d47f82dc61ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-15-2023",
+   "path": "local/buzau/nehoiu/2023/15",
+   "short": "HCL Nehoiu nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 15/2023 privind modificarea anexei nr. 1 la HCL nr 15 din 02.02.2023",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2023/09/Hotararea-nr.-91-privind-modificarea-anexei-nr.-1-la-HCL-nr-15-din-02.02.2023.pdf",
+     "sha256": "caacd422cb4b6571a6596f7e271aa659569e201ba162145f675439e5bbd187c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-25-2023",
+   "path": "local/buzau/nehoiu/2023/25",
+   "short": "HCL Nehoiu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 25/2023 privind aprobarea dezmembrarii dezlipirii unui imobil-teren apartinand domeniului public al orasului Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-03-21",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2023/03/Hotararea-nr.-25-privind-aprobarea-dezmembrarii-dezlipirii-unui-imobil-teren-apartinand-domeniului-public-al-orasului-Nehoiu.pdf",
+     "sha256": "fea5f962b9d7b4f329bbb2560c7fc4b88e348caadee2a5d45ab9ca5f9a9903b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-2683-2023",
+   "path": "local/buzau/nehoiu/2023/2683",
+   "short": "HCL Nehoiu nr. 2683/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 2683/2023 privind aprobarea Raportului de evaluare nr.2683 din 06.03.2023 intocmit pentru imobilele teren cu nr cadastrale 24412 si 24414 apartinand domeniului privat al orasului Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2023/08/Hotararea-nr.-79-privind-aprobarea-Raportului-de-evaluare-nr.2683-din-06.03.2023-intocmit-pentru-imobilele-teren-cu-nr-cadastrale-24412-si-24414-apartinand-doemniului-privat-al-orasului-Nehoiu.pdf",
+     "sha256": "f30d42c6f4e9bc9c79c5963b143582a44557631a66fdc60b29f6d8e1d926a660"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-32-2023",
+   "path": "local/buzau/nehoiu/2023/32",
+   "short": "HCL Nehoiu nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 32/2023 privind revocarea Hotararii nr. 32 din 10.04.2023 a Consiliului Local al orasului Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2023/07/Hotararea-nr.-72-privind-revocarea-Hotararii-nr.-32-din-10.04.2023-a-Consiliului-Local-al-orasului-Nehoiu.pdf",
+     "sha256": "d8647850f452996def7ab7de90abf859a8f6696e0489f2d195c66376a9439f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-74-2023",
+   "path": "local/buzau/nehoiu/2023/74",
+   "short": "HCL Nehoiu nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 74/2023 privind rectificarea bugetului de venituri si cheltuieli al Clubului Sportiv Carpati Nehoiu pe anul 2023",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2023/08/Hotararea-nr.-74-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-Clubului-Sportiv-Carpati-Nehoiu-pe-anul-2023.pdf",
+     "sha256": "5e703b8079399516da1cf624d946752901971c6b3ca1e5fa020f7446ab6ac560"
+    }
+   ]
+  }
+ ]
+}

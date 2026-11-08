@@ -3,6 +3,51 @@
  "shard": "local/buzau/canesti/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--canesti-1-2025",
+   "path": "local/buzau/canesti/2025/1",
+   "short": "HCL Cănești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 1/2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/189208",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/189208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-10-2025",
+   "path": "local/buzau/canesti/2025/10",
+   "short": "HCL Cănești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 10/2025 privind organizarea pasunatului pe pasunea proprietate privata a comunei Căneşti , judeţul Buzău si masuri specifice pentru anul 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202351",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-11-2025",
+   "path": "local/buzau/canesti/2025/11",
+   "short": "HCL Cănești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 11/2025 privind aprobarea participării UAT – comuna Căneşti , judeţul Buzău la Programul național multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202352",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202352",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--canesti-12-2025",
    "path": "local/buzau/canesti/2025/12",
    "short": "HCL Cănești nr. 12/2025",
@@ -13,6 +58,246 @@
      "from": "2025-04-23",
      "units": 1,
      "source_url": "https://emol.ro/canesti-bz/registru-hcl/202556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-13-2025",
+   "path": "local/buzau/canesti/2025/13",
+   "short": "HCL Cănești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 13/2025 privind stabilirea consumului mediu de carburanți pentru autoturismele și utilajele aflate în patrimoniul comunei Căneşti , judeţul Buzău",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202557",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-14-2025",
+   "path": "local/buzau/canesti/2025/14",
+   "short": "HCL Cănești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 14/2025 privind paza obiectivelor , bunurilor , valorilor şi protecţia persoanelor la nivelul unitatii administrativ teritoriale a comunei Canesti , judetul Buzau pe anul 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202558",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-15-2025",
+   "path": "local/buzau/canesti/2025/15",
+   "short": "HCL Cănești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 15/2025 privind aprobarea Regulamentului pentru inregistrarea, evidenţa şi radierea vehiculelor de pe raza comunei Căneşti, judeţul Buzău care nu se supun inmatriculării",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202559",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-16-2025",
+   "path": "local/buzau/canesti/2025/16",
+   "short": "HCL Cănești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 16/2025 privind participarea comunei Căneşti, judeţul Buzău la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor, pentru localitățile din zona montană",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/204317",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/204317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-17-2025",
+   "path": "local/buzau/canesti/2025/17",
+   "short": "HCL Cănești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 17/2025 privind, aprobarea numărului maxim de posturi, organigramei si al statului de functii al aparatului de specialitate al Primarului comunei Căneşti , judetul Buzau, în vederea încadrării în prevederile Legii 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/205659",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/205659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-18-2025",
+   "path": "local/buzau/canesti/2025/18",
+   "short": "HCL Cănești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 18/2025 privind executia bugetului local pe sectiunea de functionare si sectiunea de dezvoltare , pentru Trimestrul I al anului 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/205660",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/205660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-19-2025",
+   "path": "local/buzau/canesti/2025/19",
+   "short": "HCL Cănești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 19/2025 privind aprobarea Programului anual al achizitiilor publice la nivelul Primariei comunei Canesti , judetul Buzau pentru anul 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/205661",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/205661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-2-2025",
+   "path": "local/buzau/canesti/2025/2",
+   "short": "HCL Cănești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 2/2025 privind aprobarea infiintarea serviciilor de educație timpurie complementare ca structură a unităților de învățământ cu personalitate juridică cu grupe de nivel preșcolar și/sau antepreșcolar in comuna Căneşti , judetul Buzău",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/189209",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/189209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-20-2025",
+   "path": "local/buzau/canesti/2025/20",
+   "short": "HCL Cănești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 20/2025 privind acordarea unui mandat special reprezentantului UAT Căneşti în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea revizuirii, modificării și actualizării Contractului de delegare a gestiunii serviciului de alimentare cu apă şi de canalizare, a Regulamentului serviciului și a Contractului de furnizare/prestare",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/205662",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/205662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-21-2025",
+   "path": "local/buzau/canesti/2025/21",
+   "short": "HCL Cănești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 21/2025 privind aprobarea primirii în calitate de membri asociați în cadrul Asociaţiei de Dezvoltare Intercomunitară „Ținutul Buzăului” a unităților administrativ – teritoriale comunele Cislău, Gura Teghii și Siriu, precum și a modificării Statutului acesteia, la care comuna Căneşti este membru fondator",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/205663",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/205663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-22-2025",
+   "path": "local/buzau/canesti/2025/22",
+   "short": "HCL Cănești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 22/2025 privind alegerea presedintelui de sedinta al Consiliului Local Canesti , comuna Canesti judetul Buzau , pentru sedintele din perioada : Mai - Iulie 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/205664",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/205664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-23-2025",
+   "path": "local/buzau/canesti/2025/23",
+   "short": "HCL Cănești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 23/2025 privind indexarea cu rata inflaţiei a impozitelor şi taxelor locale pentru anul fiscal 2026 la nivelul comunei Canesti, judetul Buzau",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/205665",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/205665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-24-2025",
+   "path": "local/buzau/canesti/2025/24",
+   "short": "HCL Cănești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 24/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/209613",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/209613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-25-2025",
+   "path": "local/buzau/canesti/2025/25",
+   "short": "HCL Cănești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 25/2025 privind aprobarea Regulamentului local de implicare a publicului în elaborarea sau revizuirea planurilor de urbanism și amenajare a teritoriului",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/209614",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/209614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-26-2025",
+   "path": "local/buzau/canesti/2025/26",
+   "short": "HCL Cănești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 26/2025 privind rectificarea 1 a bugetului de venituri şi cheltuieli al comunei Canesti, judeţul Buzău pe anul 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/221221",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/221221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-27-2025",
+   "path": "local/buzau/canesti/2025/27",
+   "short": "HCL Cănești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 27/2025 privind executia bugetului local pe sectiunea de functionare si sectiunea de dezvoltare , pentru Trimestrul II al anului 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/221222",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/221222",
      "sha256": null
     }
    ]
@@ -43,6 +328,21 @@
      "from": "2025-10-29",
      "units": 1,
      "source_url": "https://emol.ro/canesti-bz/registru-hcl/221224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-3-2025",
+   "path": "local/buzau/canesti/2025/3",
+   "short": "HCL Cănești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 3/2025 privind executia bugetului local pe sectiunea de functionare si sectiunea de dezvoltare , pentru Trimestrul IV al anului 2024",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/189210",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/189210",
      "sha256": null
     }
    ]
@@ -198,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--canesti-4-2025",
+   "path": "local/buzau/canesti/2025/4",
+   "short": "HCL Cănești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 4/2025 privind alegerea presedintelui de sedinta al Consiliului Local Canesti , comuna Canesti judetul Buzau , pentru sedintele din perioada : Februarie - Aprilie 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/189211",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/189211",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--canesti-40-2025",
    "path": "local/buzau/canesti/2025/40",
    "short": "HCL Cănești nr. 40/2025",
@@ -313,6 +628,81 @@
      "from": "2026-01-16",
      "units": 1,
      "source_url": "https://emol.ro/canesti-bz/registru-hcl/246979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-5-2025",
+   "path": "local/buzau/canesti/2025/5",
+   "short": "HCL Cănești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 5/2025 privind aprobarea programului de acţiune comunitară destinat prevenirii şi combaterii riscului de marginalizare şi excluziune socială in randul beneficiarilor venitului minim de incluziune , la nivelul comunei Căneşti , judeţul Buzău pentru anul 2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/189212",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/189212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-6-2025",
+   "path": "local/buzau/canesti/2025/6",
+   "short": "HCL Cănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 6/2025 privind neasumarea responsabilitatii u.a.t. Căneşti , a organizarii si derularii procedurilor de atribuire a contractelor/acordurilor – cadru pentru achizitia produselor, si a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea masurilor educative, aferente programului pentru anii şcolari 2027-2028 şi 2028-2029",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202347",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-7-2025",
+   "path": "local/buzau/canesti/2025/7",
+   "short": "HCL Cănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 7/2025 privind aprobarea STRATEGIEI DE DEZVOLTARE A SERVICIILOR SOCIALE la nivelul comunei Căneşti , judeţul Buzău pentru perioada 2025 – 2027",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202348",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-8-2025",
+   "path": "local/buzau/canesti/2025/8",
+   "short": "HCL Cănești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 8/2025",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202349",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--canesti-9-2025",
+   "path": "local/buzau/canesti/2025/9",
+   "short": "HCL Cănești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cănești nr. 9/2025 privind aprobarea modului de întocmire a registrului agricol pe perioada 2025 - 2029",
+   "url": "https://emol.ro/canesti-bz/registru-hcl/202350",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/canesti-bz/registru-hcl/202350",
      "sha256": null
     }
    ]

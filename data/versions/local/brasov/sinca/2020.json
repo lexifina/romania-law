@@ -3,6 +3,21 @@
  "shard": "local/brasov/sinca/2020",
  "acts": [
   {
+   "slug": "hcl-brasov--sinca-10-2020",
+   "path": "local/brasov/sinca/2020/10",
+   "short": "HCL Șinca nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 10/2020 privind aprobarea bugetului local pe anul 2020 si estimările pentru anii 2021-2023",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-10-din-28-februarie-2020-privind-aprobarea-bugetului-local-pe-anul-2020-si-estimarile-pentru-anii-2021-2023.pdf",
+     "sha256": "113817f5d2b4508f797a36162a23e872e27ded98e4632a78ce1f81e476806150"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--sinca-11-2020",
    "path": "local/brasov/sinca/2020/11",
    "short": "HCL Șinca nr. 11/2020",
@@ -14,6 +29,51 @@
      "units": 3,
      "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-11-din-28-februarie-2020-privind-aprobarea-ajustarii-tarifelor-pentru-serviciile-de-salubrizare-prestate.pdf",
      "sha256": "7ba8863d8b2f371e2a83c5ffce61193ecb5c280563504411e871352d8e54d7ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-14-2020",
+   "path": "local/brasov/sinca/2020/14",
+   "short": "HCL Șinca nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 14/2020 privind modificarea si completarea H.C.L",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-14-din-27-martie-2020.pdf",
+     "sha256": "c45059bda528c5b0d0a7873a1789d1ea035711899b2d11bcf441de31e80f140a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-19-2020",
+   "path": "local/brasov/sinca/2020/19",
+   "short": "HCL Șinca nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 19/2020 privind aprobarea bugetului de venituri si cheltuieli pe anul 2020, prezentat de catre R.P.L",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-19-din-30-aprilie-2020.pdf",
+     "sha256": "eff66f268cfcf4cd3c9c89e5e88250355428ee1113c299fe7d70c8f456a6a718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-40-2020",
+   "path": "local/brasov/sinca/2020/40",
+   "short": "HCL Șinca nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 40/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-40-din-28-august-2020.pdf",
+     "sha256": "7100e6ea63daa1f7d4835217edaa58837584d03482cb6e88aad1648a582ad69a"
     }
    ]
   },
@@ -44,6 +104,96 @@
      "units": 9,
      "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-50-din-27-noiembrie-2020-2.pdf",
      "sha256": "6eec88997ba4c5ce60dfaccee5ff3946c6c6b9d7cd92ab6c888304f39e99a7ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-54-2020",
+   "path": "local/brasov/sinca/2020/54",
+   "short": "HCL Șinca nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 54/2020 privind aprobarea actualizarii indicatorilor tehnico-economici si a cofinantarii de la bugetul local aferenti investitiei “Amenajare spatiu de recreere” in localitatea Sinca Veche",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-54-din-27-noiembrie-2020.pdf",
+     "sha256": "b1b52846b21881a0919310e511156cbd22dac10e7d6f4e360ae26300d462c235"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-6-2020",
+   "path": "local/brasov/sinca/2020/6",
+   "short": "HCL Șinca nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 6/2020 privind atestarea la domeniul public al comunei Şinca, judetul Brasov a fondului forestier",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-6-din-31-ianuarie-2020-privind-atestarea-la-domeniul-public-al-comunei-Sinca-judetul-Brasov.pdf",
+     "sha256": "e82dda120517547359ee7ef78dec9f9d7d716122b8eb92209fcbb0f3bbc99c38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-60-2020",
+   "path": "local/brasov/sinca/2020/60",
+   "short": "HCL Șinca nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 60/2020 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2020",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-60-din-18-decembrie-2020.pdf",
+     "sha256": "bdc4905e0c111fbc5dd592948ff5809d17fda61e00591bafb0a652ffa75237a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-7-2020",
+   "path": "local/brasov/sinca/2020/7",
+   "short": "HCL Șinca nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 7/2020 privind aprobarea depunerii de catre comuna Sinca, a unei cereri de sprijin pentru accesarea schemei de ajutor de stat “Servicii de silvomediu, servicii climatice si conservarea padurilor”, aferente Măsurii 15, Submasura 15.1 “Plati pe",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-7-din-31-ianuarie-2020-privind-Submasura-15.1-Plati-pentru-angajamente-de-Silvomediu.pdf",
+     "sha256": "fa6c81415eb0f37cb2c0a26739830a53557752d157efa7aadb16a3057fdc89c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-8-2020",
+   "path": "local/brasov/sinca/2020/8",
+   "short": "HCL Șinca nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 8/2020 privind alegerea presedintelui de sedinta",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-8-din-28-februarie-2020-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "9839bdaf2ea62482c998224b1c47ae0bd97776cca6fa328922e95bbf78c43ed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--sinca-9-2020",
+   "path": "local/brasov/sinca/2020/9",
+   "short": "HCL Șinca nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șinca nr. 9/2020 privind aprobarea Statutului comunei Sinca",
+   "url": "https://comunasinca.ro/consiliul-local/sedinte-consiliul-local/hotarari-consiliul-local/hotarari-consiliul-local-2020/",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 1,
+     "source_url": "https://comunasinca.ro/wp-content/uploads/2024/05/Consiliul-local-al-Comunei-Sinca-HCL-nr.-9-din-28-februarie-2020-privind-aprobarea-Statutului-comunei-Sinca.pdf",
+     "sha256": "8bd1aa555679fd88c1b6f0a84828676ec2319686d28a391054b2012280044a44"
     }
    ]
   }

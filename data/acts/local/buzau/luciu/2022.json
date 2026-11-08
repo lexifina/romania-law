@@ -267,6 +267,29 @@
 }
 },
 {
+"slug": "hcl-buzau--luciu-13-2022",
+"path": "local/buzau/luciu/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 13/2022",
+"short": "HCL Luciu nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/94466",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--luciu-14-2022",
 "path": "local/buzau/luciu/2022/14",
 "kind": "local",
@@ -286,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Luciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--luciu-15-2022",
+"path": "local/buzau/luciu/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 15/2022 privind stabilirea numarului indemnizatiilor la persoanele cu handicap grav din comuna Luciu",
+"short": "HCL Luciu nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/94468",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Luciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--luciu-19-2022",
+"path": "local/buzau/luciu/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 19/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni ( aprilie, mai, iunie 2022)",
+"short": "HCL Luciu nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/94472",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -532,6 +599,28 @@
 }
 },
 {
+"slug": "hcl-buzau--luciu-28-2022",
+"path": "local/buzau/luciu/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 28/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni ( iulie, august si septembrie 2022 )",
+"short": "HCL Luciu nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/94481",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--luciu-29-2022",
 "path": "local/buzau/luciu/2022/29",
 "kind": "local",
@@ -661,6 +750,52 @@
 "council_name": "Consiliul Local al Comunei Luciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--luciu-35-2022",
+"path": "local/buzau/luciu/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 35/2022",
+"short": "HCL Luciu nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/94488",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--luciu-36-2022",
+"path": "local/buzau/luciu/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luciu nr. 36/2022",
+"short": "HCL Luciu nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/luciu-bz/registru-hcl/94489",
+"council": "buzau/luciu",
+"council_name": "Consiliul Local al Comunei Luciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

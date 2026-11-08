@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-buzau--valcelele-2-2026",
+"path": "local/buzau/valcelele/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 2/2026 privind aprobarea actului adițional la Statutul Asociației de Dezvoltare Intercomunitară ”Eco Buzău 2009” și a Statutului actualizat",
+"short": "HCL Vâlcelele nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/252354",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--valcelele-3-2026",
+"path": "local/buzau/valcelele/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 3/2026 Privind aprobarea alegerii Președintelui de ședință al Consiliului Local al Comunei Vâlcelele pentru perioada FEBRUARIE-APRILIE 2026",
+"short": "HCL Vâlcelele nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/252355",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--valcelele-4-2026",
 "path": "local/buzau/valcelele/2026/4",
 "kind": "local",
@@ -110,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Vâlcelele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--valcelele-8-2026",
+"path": "local/buzau/valcelele/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 8/2026 privind trecerea în domeniul privat al UAT comuna Vâlcelele a unor terenuri din intravilanul localității Vâlcelele",
+"short": "HCL Vâlcelele nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/252360",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -466,6 +532,50 @@
 }
 },
 {
+"slug": "hcl-buzau--valcelele-25-2026",
+"path": "local/buzau/valcelele/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 25/2026 Privind aprobarea alegerii Președintelui de ședință al Consiliului Local al Comunei Vâlcelele pentru perioada MAI-IULIE 2026",
+"short": "HCL Vâlcelele nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/266460",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--valcelele-26-2026",
+"path": "local/buzau/valcelele/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 26/2026 pentru aprobarea primirii Unității Administrativ Teritoriale Municipiul Buzău, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară “Eco Buzău 2009”",
+"short": "HCL Vâlcelele nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/266461",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--valcelele-27-2026",
 "path": "local/buzau/valcelele/2026/27",
 "kind": "local",
@@ -551,6 +661,28 @@
 "council_name": "Consiliul Local al Comunei Vâlcelele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--valcelele-31-2026",
+"path": "local/buzau/valcelele/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 31/2026 pentru aprobarea primirii Unității Administrativ Teritoriale Comuna Gălbinași, în calitate de membru asociat la Asociația de Dezvoltare Intercomunitară “Eco Buzău 2009”",
+"short": "HCL Vâlcelele nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/270598",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

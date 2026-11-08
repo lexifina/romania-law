@@ -3,6 +3,81 @@
  "shard": "local/buzau/sahateni/2021",
  "acts": [
   {
+   "slug": "hcl-buzau--sahateni-2-2021",
+   "path": "local/buzau/sahateni/2021/2",
+   "short": "HCL Săhăteni nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 2/2021",
+   "url": "http://www.comunasahateni.ro/hotarari-ale-consiliului/99-hotarari-consiliul-local-sahateni-2021.html",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "http://www.comunasahateni.ro/images/2021/hotarari/30.pdf",
+     "sha256": "4247e5f332b75fe6b75c2eb89a6fc73f06ea760e3c539fb653df89433cdf1117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--sahateni-32-2021",
+   "path": "local/buzau/sahateni/2021/32",
+   "short": "HCL Săhăteni nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 32/2021 privind rectificarea Bugetului local de Venituri şi Cheltuieli al Comunei Săhăteni pe anul 2021",
+   "url": "http://www.comunasahateni.ro/hotarari-ale-consiliului/99-hotarari-consiliul-local-sahateni-2021.html",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "http://www.comunasahateni.ro/images/2021/hotarari/32.pdf",
+     "sha256": "2e53421613e7eba6bab6dfd97146ad0a49836f8474e8dfab3f8fc8e4556ae93d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--sahateni-34-2021",
+   "path": "local/buzau/sahateni/2021/34",
+   "short": "HCL Săhăteni nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 34/2021 privind acordarea unui mandat specia! reprezentantului in Adunarea Generala a Asociaţiei de Deţvoltare lntercomunitară „Buzău 2008\" sa voteze aprobarea retrageiii comunei Valcelele din Asociatie",
+   "url": "http://www.comunasahateni.ro/hotarari-ale-consiliului/99-hotarari-consiliul-local-sahateni-2021.html",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "http://www.comunasahateni.ro/images/2021/hotarari/34.pdf",
+     "sha256": "8d629ab01852b387d431be5c8001b1cfbb7ae6a2551721852b97605b4f81f9b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--sahateni-35-2021",
+   "path": "local/buzau/sahateni/2021/35",
+   "short": "HCL Săhăteni nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 35/2021 privind acordarea unui mandat special reprezentantului UAT in Adunarea Generala a Asociaţiei de Dezvoltare lntercomunitară „Buzău 2008\" sa voteze aprobarea primirii comunei Catina in Asociatie",
+   "url": "http://www.comunasahateni.ro/hotarari-ale-consiliului/99-hotarari-consiliul-local-sahateni-2021.html",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "http://www.comunasahateni.ro/images/2021/hotarari/35.pdf",
+     "sha256": "4cf39695aa6e347132b89332c296dadd13cc6f7ba291489d0367ce1893ad754e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--sahateni-41-2021",
+   "path": "local/buzau/sahateni/2021/41",
+   "short": "HCL Săhăteni nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săhăteni nr. 41/2021 privind aprobarea constituirii dreptului de acces pe proprietatea privata al comunei Sahateni, jud. Buzau, pentru RCS@RDS în vederea instalarii, intretinerii, înlocuirii sau mutarii retelelor de comunicatii electronice sau a elementelor de infrastructura necesare sustinerii acestora",
+   "url": "http://www.comunasahateni.ro/hotarari-ale-consiliului/99-hotarari-consiliul-local-sahateni-2021.html",
+   "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 1,
+     "source_url": "http://www.comunasahateni.ro/images/2021/hotarari/41.pdf",
+     "sha256": "4144b46a6e26d4c77aec5c88d2c895a10ad5b746cb03c44d32a28405b969a109"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--sahateni-9-2021",
    "path": "local/buzau/sahateni/2021/9",
    "short": "HCL Săhăteni nr. 9/2021",

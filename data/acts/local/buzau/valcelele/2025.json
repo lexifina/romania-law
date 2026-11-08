@@ -135,6 +135,29 @@
 }
 },
 {
+"slug": "hcl-buzau--valcelele-7-2025",
+"path": "local/buzau/valcelele/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 7/2025",
+"short": "HCL Vâlcelele nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/195895",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--valcelele-8-2025",
 "path": "local/buzau/valcelele/2025/8",
 "kind": "local",
@@ -355,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-buzau--valcelele-18-2025",
+"path": "local/buzau/valcelele/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 18/2025 privind aprobarea alegerii Președintelui de ședință al Consiliului Local al Comunei Vâlcelele pentru perioada MAI-IULIE 2025",
+"short": "HCL Vâlcelele nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/210177",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--valcelele-19-2025",
 "path": "local/buzau/valcelele/2025/19",
 "kind": "local",
@@ -487,6 +532,28 @@
 }
 },
 {
+"slug": "hcl-buzau--valcelele-25-2025",
+"path": "local/buzau/valcelele/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 25/2025 privind aprobarea studiului de fundamentare a deciziei de concesionare a serviciului public de alimentare și înființare distribuție inteligentă de gaze naturale în localitatea Vâlcelele, județul Buzău",
+"short": "HCL Vâlcelele nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/229439",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--valcelele-26-2025",
 "path": "local/buzau/valcelele/2025/26",
 "kind": "local",
@@ -553,6 +620,50 @@
 }
 },
 {
+"slug": "hcl-buzau--valcelele-29-2025",
+"path": "local/buzau/valcelele/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 29/2025 privind aprobarea Caietului de sarcini pentru concesionarea serviciului de utilitate publică de distribuție a gazelor naturale în comuna Vâlcelele, județul Buzău",
+"short": "HCL Vâlcelele nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/229500",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--valcelele-30-2025",
+"path": "local/buzau/valcelele/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 30/2025 privind aprobarea Documentației de atribuire pentru concesionarea serviciului de utilitate publică de distribuție a gazelor naturale în comuna Vâlcelele, județul Buzău",
+"short": "HCL Vâlcelele nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-10",
+"latest": "2025-10-10",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/229504",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--valcelele-31-2025",
 "path": "local/buzau/valcelele/2025/31",
 "kind": "local",
@@ -594,6 +705,28 @@
 "council_name": "Consiliul Local al Comunei Vâlcelele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--valcelele-33-2025",
+"path": "local/buzau/valcelele/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vâlcelele nr. 33/2025 privind punerea la dispoziția concesionarului, cu titlu gratuit, a terenurilor proprietate publică locală ocupate de obiectivele sistemului de distribuție a gazelor naturale precum și pentru realizarea lucrărilor de execuție, operare, întreținere, reparații - conform dispozițiilor art. 138, alin (2), lit. d, Legea nr. 123/2012 a energiei electrice și a gazelor naturale, pe toată durata concesiunii",
+"short": "HCL Vâlcelele nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/valcelele-bz/registru-hcl/229726",
+"council": "buzau/valcelele",
+"council_name": "Consiliul Local al Comunei Vâlcelele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

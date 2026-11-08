@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-buzau--amaru-7-2020",
+"path": "local/buzau/amaru/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Amaru nr. 7/2020 privind alegerea președintelui de ședință",
+"short": "HCL Amaru nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/amaru-bz/registru-hcl/1902",
+"council": "buzau/amaru",
+"council_name": "Consiliul Local al Comunei Amaru",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--amaru-8-2020",
 "path": "local/buzau/amaru/2020/8",
 "kind": "local",

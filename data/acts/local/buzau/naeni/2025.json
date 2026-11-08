@@ -3,6 +3,29 @@
 "shard": "local/buzau/naeni/2025",
 "acts": [
 {
+"slug": "hcl-buzau--naeni-1-2025",
+"path": "local/buzau/naeni/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 1/2025",
+"short": "HCL Năeni nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/212659",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--naeni-2-2025",
 "path": "local/buzau/naeni/2025/2",
 "kind": "local",
@@ -25,6 +48,29 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-3-2025",
+"path": "local/buzau/naeni/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 3/2025",
+"short": "HCL Năeni nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/212662",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--naeni-4-2025",
 "path": "local/buzau/naeni/2025/4",
 "kind": "local",
@@ -44,6 +90,28 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-5-2025",
+"path": "local/buzau/naeni/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 5/2025 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+"short": "HCL Năeni nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/212664",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -157,6 +225,28 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-11-2025",
+"path": "local/buzau/naeni/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 11/2025 privind alegerea Comisiei de validare și de numărare a voturilor privind alegerea viceprimarului comunei Năeni, judetul Buzău",
+"short": "HCL Năeni nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/212670",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-12-2025",
 "path": "local/buzau/naeni/2025/12",
 "kind": "local",
@@ -176,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-13-2025",
+"path": "local/buzau/naeni/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 13/2025 privind acordarea unui mandat special reprezentantului UAT NĂENI în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea revizuirii, modificării și actualizării Contractului de delegare a gestiunii serviciului de alimentare cu apă şi de canalizare, a Regulamentului serviciului și a Contractului de furnizare/prestare",
+"short": "HCL Năeni nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/212672",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +313,28 @@
 }
 },
 {
+"slug": "hcl-buzau--naeni-15-2025",
+"path": "local/buzau/naeni/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 15/2025 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+"short": "HCL Năeni nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/212674",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-16-2025",
 "path": "local/buzau/naeni/2025/16",
 "kind": "local",
@@ -220,6 +354,73 @@
 "council_name": "Consiliul Local al Comunei Năeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--naeni-17-2025",
+"path": "local/buzau/naeni/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 17/2025 privind modificarea componenței Comsiei nr. 1 a Consiliului Local Năeni - pentru programe de dezvoltare economico-socială, buget - finanțe, administrarea domeniului public și privat al comunei, agricultură, gospodărire comunală, urbanism, protectia mediului, servicii și comerț",
+"short": "HCL Năeni nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/227806",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-18-2025",
+"path": "local/buzau/naeni/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 18/2025",
+"short": "HCL Năeni nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/227807",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--naeni-19-2025",
+"path": "local/buzau/naeni/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 19/2025 privind alegerea unui președinte de ședință pentru a conduce ședința de consiliu local din luna iulie 2025",
+"short": "HCL Năeni nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/227808",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

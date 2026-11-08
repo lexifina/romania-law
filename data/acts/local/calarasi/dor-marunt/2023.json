@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-4-2023",
+"path": "local/calarasi/dor-marunt/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 4/2023",
+"short": "HCL Dor Mărunt nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/89748",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-5-2023",
 "path": "local/calarasi/dor-marunt/2023/5",
 "kind": "local",
@@ -91,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-6-2023",
+"path": "local/calarasi/dor-marunt/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 6/2023 privind aprobarea încheierii Acordului de Asociere între Comuna Dragoș Vodă, Comuna Vâlcelele și Comuna Dor Mărunt în scopul depunerii și implementării proiectului ”Construire și dotare Centru Comunitar Integrat pentru furnizarea serviciilor medico-sociale, sat Dragoș Vodă, comuna Dragoș Vodă, Judetul Călărași”",
+"short": "HCL Dor Mărunt nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/89750",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-7-2023",
 "path": "local/calarasi/dor-marunt/2023/7",
 "kind": "local",
@@ -110,6 +155,138 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-8-2023",
+"path": "local/calarasi/dor-marunt/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 8/2023 la proiectul de hotărâre privind alegerea preşedintelui de şedinţă",
+"short": "HCL Dor Mărunt nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/89752",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-9-2023",
+"path": "local/calarasi/dor-marunt/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 9/2023 privind aprobarea Acordului de parteneriat dintre Școala Gimnazială nr. 1 Dor Mărunt Sat și Liceul Danubius Călărași și asigurarea cofinanțării în cadrul proiectului ”Clopoțel - Crearea unor activități educative organizate prin programe outdoor de tranziție către educația non-formală cod SMIS 2014+:154087”",
+"short": "HCL Dor Mărunt nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/89753",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-10-2023",
+"path": "local/calarasi/dor-marunt/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 10/2023 privind stabilirea salariilor de baza functionarilor publici si personalului contractual din cadrul familiei ocupationale ,,Administratie” din cadrul aparatului de specialitate al Primarului comunei Dor Marunt pentru anul 2023",
+"short": "HCL Dor Mărunt nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/89754",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-11-2023",
+"path": "local/calarasi/dor-marunt/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 11/2023 privind aprobarea utilizării excedentului bugetar în vederea rectificării bugetului local pe anul 2023",
+"short": "HCL Dor Mărunt nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-16",
+"latest": "2023-02-16",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/89755",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-12-2023",
+"path": "local/calarasi/dor-marunt/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 12/2023 privind aprobarea decontării sumelor pentru deplasarea cadrelor didactice navetiste pe lunile octombrie, noiembrie și decembrie, anul 2022",
+"short": "HCL Dor Mărunt nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/93823",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-13-2023",
+"path": "local/calarasi/dor-marunt/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 13/2023 privind aprobarea încheierii unui contract de comodat între Comuna Dor Mărunt și Asociația Club Sportiv Borussia Dor Mărunt în vederea stabilirii sediului social al Asociației",
+"short": "HCL Dor Mărunt nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/93824",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -399,6 +576,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-27-2023",
+"path": "local/calarasi/dor-marunt/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 27/2023 la proiectul de hotărâre privind alegerea preşedintelui de şedinţă",
+"short": "HCL Dor Mărunt nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/101676",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-28-2023",
+"path": "local/calarasi/dor-marunt/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 28/2023 privind aprobarea decontării sumelor pentru deplasarea cadrelor didactice navetiste",
+"short": "HCL Dor Mărunt nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/101677",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-29-2023",
 "path": "local/calarasi/dor-marunt/2023/29",
 "kind": "local",
@@ -418,6 +639,28 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-30-2023",
+"path": "local/calarasi/dor-marunt/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 30/2023 privind aprobarea decontării sumelor pentru deplasarea cadrelor didactice navetiste",
+"short": "HCL Dor Mărunt nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/106601",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -465,6 +708,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-33-2023",
+"path": "local/calarasi/dor-marunt/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 33/2023 privind aprobarea acordării unui sprijin financiar Bisericii Ogoru, comuna Dor Mărunt",
+"short": "HCL Dor Mărunt nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/106604",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-34-2023",
 "path": "local/calarasi/dor-marunt/2023/34",
 "kind": "local",
@@ -484,6 +749,50 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-35-2023",
+"path": "local/calarasi/dor-marunt/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 35/2023 privind atribuirea în folosință gratuită a unor suprafețe de teren, în baza Legii 15 din 2003, în vederea construirii unei locuințe proprietate personală",
+"short": "HCL Dor Mărunt nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/106606",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-36-2023",
+"path": "local/calarasi/dor-marunt/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 36/2023 privind aprobarea plății unei sancțiuni contravenționale",
+"short": "HCL Dor Mărunt nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/106607",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -730,6 +1039,74 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-48-2023",
+"path": "local/calarasi/dor-marunt/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 48/2023",
+"short": "HCL Dor Mărunt nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-10",
+"latest": "2023-08-10",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/116670",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-49-2023",
+"path": "local/calarasi/dor-marunt/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 49/2023",
+"short": "HCL Dor Mărunt nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-10",
+"latest": "2023-08-10",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/116671",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-50-2023",
+"path": "local/calarasi/dor-marunt/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 50/2023 privind aprobarea decontării sumelor pentru deplasarea cadrelor didactice navetiste pe lunile aprilie - mai, anul 2023",
+"short": "HCL Dor Mărunt nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-10",
+"latest": "2023-08-10",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/116672",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-51-2023",
 "path": "local/calarasi/dor-marunt/2023/51",
 "kind": "local",
@@ -771,6 +1148,29 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-53-2023",
+"path": "local/calarasi/dor-marunt/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 53/2023",
+"short": "HCL Dor Mărunt nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-10",
+"latest": "2023-08-10",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/116675",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -818,6 +1218,96 @@
 }
 },
 {
+"slug": "hcl-calarasi--dor-marunt-56-2023",
+"path": "local/calarasi/dor-marunt/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 56/2023",
+"short": "HCL Dor Mărunt nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/119841",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-57-2023",
+"path": "local/calarasi/dor-marunt/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 57/2023",
+"short": "HCL Dor Mărunt nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/119842",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-58-2023",
+"path": "local/calarasi/dor-marunt/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 58/2023 privind aprobarea încheierii unui contract de comodat între Comuna Dor Mărunt și Asociația Club Sportiv Borussia Dor Mărunt în vederea stabilirii sediului social al Asociației",
+"short": "HCL Dor Mărunt nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/119843",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-59-2023",
+"path": "local/calarasi/dor-marunt/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 59/2023 privind aprobarea organigramei si a statului de functii pentru aparatul de specialitate al Primarului Comunei Dor Mărunt pentru anul 2023",
+"short": "HCL Dor Mărunt nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-07",
+"latest": "2023-09-07",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/119844",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--dor-marunt-60-2023",
 "path": "local/calarasi/dor-marunt/2023/60",
 "kind": "local",
@@ -859,6 +1349,50 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-62-2023",
+"path": "local/calarasi/dor-marunt/2023/62",
+"kind": "local",
+"year": "2023",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 62/2023 privind aprobarea deplasării în Italia, Provincia Matera, a Ansamblului de dansuri ”Dor de Dor”",
+"short": "HCL Dor Mărunt nr. 62/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/119847",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-63-2023",
+"path": "local/calarasi/dor-marunt/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 63/2023 privind aprobarea acordării unui sprijin financiar parohiei Dor Mărunt Gară",
+"short": "HCL Dor Mărunt nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-21",
+"latest": "2023-09-21",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/119848",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1057,6 +1591,28 @@
 "council_name": "Consiliul Local al Comunei Dor Mărunt",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--dor-marunt-73-2023",
+"path": "local/calarasi/dor-marunt/2023/73",
+"kind": "local",
+"year": "2023",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 73/2023 privind aprobarea acordării unui sprijin financiar parohiei Dâlga Gară",
+"short": "HCL Dor Mărunt nr. 73/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-15",
+"latest": "2023-11-15",
+"portal": "https://emol.ro/dormarunt-cl/registru-hcl/128034",
+"council": "calarasi/dor-marunt",
+"council_name": "Consiliul Local al Comunei Dor Mărunt",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

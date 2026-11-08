@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-3-2026",
+"path": "local/calarasi/crivat/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 3/2026 privind aprobarea încheierii protocolului privind darea in folosinta gratuita a unui imobil aflat in proprietatea Consiliului Local Crivat catre IPJ Calarasi",
+"short": "HCL Crivăț nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-10",
+"latest": "2026-02-10",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/247247",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-4-2026",
 "path": "local/calarasi/crivat/2026/4",
 "kind": "local",
@@ -91,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-6-2026",
+"path": "local/calarasi/crivat/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 6/2026 privind aprobarea incheierii unui contract de consultanta juridica si reprezentare in instanta",
+"short": "HCL Crivăț nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-19",
+"latest": "2026-03-19",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/251832",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-7-2026",
+"path": "local/calarasi/crivat/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 7/2026 privind insusirea Raportului privind informarea si consultarea populatiei in procesul de elaborare / actualizare a Planului Urbanistic General (PUG) al comunei Crivat, judetul Calarasi",
+"short": "HCL Crivăț nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-19",
+"latest": "2026-03-19",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/251833",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-8-2026",
 "path": "local/calarasi/crivat/2026/8",
 "kind": "local",
@@ -110,6 +176,50 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-9-2026",
+"path": "local/calarasi/crivat/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 9/2026 privind aprobarea documentatiei de atribuire a contractului de delegare a gestiunii activitatii de colectare si transport a deseurilor reziduale, reciclabile, verzi biodegradabile",
+"short": "HCL Crivăț nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-19",
+"latest": "2026-03-19",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/251835",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-10-2026",
+"path": "local/calarasi/crivat/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 10/2026 privind preluarea in proprietate, cu titlu gratuit, a bunurilor/dotarilor achizitionate prin proiectul \"Dotarea cu mobilier, materiale didactice si echipamente digitale a unitatilor de invatamant preuniversitar si a unitatilor conexe din judetul Calarasi\", finantat prin PNRR - Componenta 15 - Educatie",
+"short": "HCL Crivăț nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-19",
+"latest": "2026-03-19",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/257369",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -136,6 +246,72 @@
 }
 },
 {
+"slug": "hcl-calarasi--crivat-12-2026",
+"path": "local/calarasi/crivat/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 12/2026 privind înregistrarea UAT comuna Crivat în Sistemul National Electronic de Plată (SNEP) online a impozitelor și taxelor locale utilizând cardul bancar, și implicit înrolarea în sistemul „Ghișeul.ro”",
+"short": "HCL Crivăț nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/260034",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-13-2026",
+"path": "local/calarasi/crivat/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 13/2026 privind aprobarea modului de intocmire a registrului agricol in perioada 2025-2029",
+"short": "HCL Crivăț nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/260035",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-14-2026",
+"path": "local/calarasi/crivat/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 14/2026 privind darea in folosinta gratuita a unui imobil aflat in proprietatea Consiliului Local Crivat catre IPJ Calarasi",
+"short": "HCL Crivăț nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/260036",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--crivat-15-2026",
 "path": "local/calarasi/crivat/2026/15",
 "kind": "local",
@@ -155,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Crivăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--crivat-16-2026",
+"path": "local/calarasi/crivat/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Crivăț nr. 16/2026 privind aprobarea reorganizatii aparatului de specialitate al Primarului comunei Crivat, aprobarea organigramei si statului de functii",
+"short": "HCL Crivăț nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://emol.ro/crivat-cl/registru-hcl/262541",
+"council": "calarasi/crivat",
+"council_name": "Consiliul Local al Comunei Crivăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

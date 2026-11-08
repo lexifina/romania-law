@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--dor-marunt-19-2025",
+   "path": "local/calarasi/dor-marunt/2025/19",
+   "short": "HCL Dor Mărunt nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 19/2025 privind aprobarea acordării unui sprijin financiar parohiei Dâlga Gară",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/212781",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/212781",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dor-marunt-2-2025",
    "path": "local/calarasi/dor-marunt/2025/2",
    "short": "HCL Dor Mărunt nr. 2/2025",
@@ -438,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--dor-marunt-37-2025",
+   "path": "local/calarasi/dor-marunt/2025/37",
+   "short": "HCL Dor Mărunt nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 37/2025 privind desemnarea reprezentanților Consiliului local al comunei Dor Mărunt în Consiliul de Administrare al Școlii Gimnaziale nr. 1 Dor Mărunt, pentru anul școlar 2025 – 2026",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/229159",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/229159",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dor-marunt-38-2025",
    "path": "local/calarasi/dor-marunt/2025/38",
    "short": "HCL Dor Mărunt nr. 38/2025",
@@ -463,6 +493,21 @@
      "from": "2025-10-16",
      "units": 1,
      "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/229161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-4-2025",
+   "path": "local/calarasi/dor-marunt/2025/4",
+   "short": "HCL Dor Mărunt nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 4/2025 privind desemnarea consilierilor locali care să facă parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al Comunei Dor Mărunt",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/195527",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/195527",
      "sha256": null
     }
    ]

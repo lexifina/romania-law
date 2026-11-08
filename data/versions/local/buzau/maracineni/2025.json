@@ -3,6 +3,36 @@
  "shard": "local/buzau/maracineni/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--maracineni-34-2025",
+   "path": "local/buzau/maracineni/2025/34",
+   "short": "HCL Mărăcineni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 34/2025",
+   "url": "https://primariamaracineni.ro/wp-content/uploads/HCL-nr.-34-din-27.03.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://primariamaracineni.ro/wp-content/uploads/HCL-nr.-34-din-27.03.2025.pdf",
+     "sha256": "75c21d6e2210586329a2edb059522a2dd3f90df4e993af9ba6fc0ea793163595"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--maracineni-88-2025",
+   "path": "local/buzau/maracineni/2025/88",
+   "short": "HCL Mărăcineni nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 88/2025",
+   "url": "https://primariamaracineni.ro/wp-content/uploads/HCL-nr.-88-din-11.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://primariamaracineni.ro/wp-content/uploads/HCL-nr.-88-din-11.12.2025.pdf",
+     "sha256": "608dc644024f2281daf1677cfb82ce915e7b447f1f1619801a182d4208cc3306"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--maracineni-98-2025",
    "path": "local/buzau/maracineni/2025/98",
    "short": "HCL Mărăcineni nr. 98/2025",

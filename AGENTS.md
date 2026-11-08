@@ -30,7 +30,8 @@ The tools choose each version by the commit's `In-force:` trailer, never by comm
   - `Kind:`: `law` (a law), `decree` (an ordinance or Government decision), `court` (a change to an act's text made
     by a Constitutional Court decision: the article struck out or conditioned), `ruling` (a court decision itself,
     added under `jurisprudenta/`; it changes no act's text), `publisher` (a change no amendment note explains),
-    `layout` (the folder move) or `correction` (see below);
+    `layout` (the folder move), `correction` (see below) or `draft` (a stage of a draft or bill under `proiect/`:
+    not law, and with no `In-force:` trailer; see "Drafts and bills");
   - `Corrects:` and `Re-asserts:`, on a correction, the earlier commit it replaces for its day;
   - `Law:`, the act's key, as in `law/<key>` tags;
   - `Enacted:` and `Published:`;
@@ -49,6 +50,14 @@ The tools choose each version by the commit's `In-force:` trailer, never by comm
 - Commits of kind `ruling` carry `Law:`, `Kind: ruling`, `Court:` (`ccr`, `iccj`, `cedo`), `Ruling-kind:`, `Panel:`, `Outcome:`, `Enacted:` (the day of the decision), `Published:` (the Monitorul Oficial day), `In-force:` (the day it binds: the publication day, or the day of the judgment for the ECHR), `Monitorul-Oficial:`, `Rules-on:` (one per act ruled on), `Ceases-unless-amended:` (a Constitutional Court finding on a law or ordinance in force: publication plus 45 days, Constituția art. 147(1)), `Application:` (ECHR), `Source:` and `Text-sha256:`. The author is the court, at the decision's id (`Curtea Constituțională <dcc-623-2019@legislatie.invalid>`), dated on the publication day.
 - `tools/on.py` never reads a `ruling` commit: it takes an act's text only from commits that touch the act's folder. To see what a decision did to a text, follow its id: `git log --author=dcc-638-2018` lists the decision and the `court` commit that struck the words.
 - A finding of unconstitutionality is applied to the act's text only when the operative part strikes whole articles, paragraphs or letters of a law or ordinance in force (not an interpretation, a phrase or a "soluție legislativă", and not an a priori review of a bill): from publication plus 45 days the paragraph or letter reads `Încetat efecte juridice.`, unless the provision was brought into line within those 45 days. When the act already had later versions, the `court` commit carries the whole act as in force that day and is followed by `Kind: correction` commits that restate each later version with the provision still struck, until an amendment replaces those words.
+
+## Drafts and bills (proiect/): not law
+
+- `proiect/<initiator>/<year>/<id>/` holds a draft act put to public consultation (Legea nr. 52/2003; `<initiator>` is the ministry: `ms`, `mf`, `edu` ...) or a bill in Parliament (`proiect/parlament/<year>/l<nr>-<year>/`, the Senate's number). Id `proiect-<initiator>-<year>-<id>`. A draft is not law: its text was never in force unless and until adopted, and then the law is the adopted act, in its own folder, from its own in-force day.
+- Each published stage (posted for consultation, registered, adopted or rejected by a chamber, sent for promulgation, promulgated ...) is one commit with `Kind: draft`, `Draft:`, `Stage:`, `Stage-day:` (the day that stage was published), `Initiator:`, `Became:` (when the adopted act is known), `Act:`, `Provisions:` and `Source:`, and **no `In-force:` trailer**. It is authored by the initiator (the ministry, `Guvernul României`, or `Membri ai Parlamentului`: the members of Parliament as a body; never a private person) and dated on `Stage-day`.
+- Files: the official documents as published, one per file (`fg-<sha8>.md` the initiator's form, `em-…` the explanatory memorandum, `fs-…` the form adopted by the Senate, `lp-…` the form sent for promulgation …), and `procedura.md`, the stages and documents so far with each document's official link. Documents not held as text are listed there by link. Comments by private persons are not collected or published.
+- The README says first: "Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.", and links the adopted act when it is here. Rows are in `data/acts/proiect/<year>.json` with `kind` `proiect` and `status` `draft, not law` (`; became Legea nr. N/YYYY`); drafts have no rows in the laws lists or the freshness files.
+`tools/freshness.py` says a draft has no record. Tag `<draft id>/<stage day>` is the draft as it stood after that stage. Any other reader of `In-force:` should skip `Kind: draft` commits the same way.
 
 ## The layout move (November 2026)
 

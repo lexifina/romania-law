@@ -3,6 +3,73 @@
 "shard": "local/buzau/naeni/2024",
 "acts": [
 {
+"slug": "hcl-buzau--naeni-1-2024",
+"path": "local/buzau/naeni/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 1/2024",
+"short": "HCL Năeni nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/142605",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--naeni-2-2024",
+"path": "local/buzau/naeni/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 2/2024 privind aprobarea reorganizării rețelei școlare din comuna Năeni pentru anul școlar 2024-2025",
+"short": "HCL Năeni nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/142610",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--naeni-3-2024",
+"path": "local/buzau/naeni/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Năeni nr. 3/2024 privind completarea inventarului bunurilor care aparțin domeniului public al comunei Năeni, județul Buzău",
+"short": "HCL Năeni nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-13",
+"latest": "2024-02-13",
+"portal": "https://emol.ro/naeni-bz/registru-hcl/142606",
+"council": "buzau/naeni",
+"council_name": "Consiliul Local al Comunei Năeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--naeni-4-2024",
 "path": "local/buzau/naeni/2024/4",
 "kind": "local",

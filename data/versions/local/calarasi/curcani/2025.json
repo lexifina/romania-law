@@ -3,6 +3,621 @@
  "shard": "local/calarasi/curcani/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--curcani-28-2025",
+   "path": "local/calarasi/curcani/2025/28",
+   "short": "HCL Curcani nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 28/2025 privind aprobarea documentatiei cadastrale nr. 25412/11.06.2025 in vederea dezmembrarii-lotizarii teren aferent str.Argesului nr.cadastral 25349 in 2 loturi, lot 1 nr.32374 şi lot 2 nr.32375 pentru finalizarea proiectarii si amplasamentului SRMP aferent investitiei Infiintare retea inteligenta de distributie gaze naturale in comuna Curcani, judetul Calarasi”Finantare Programul National Anghel saligny”",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/212372",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/212372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-29-2025",
+   "path": "local/calarasi/curcani/2025/29",
+   "short": "HCL Curcani nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 29/2025 privind insusirea variantei finale a proiectului de stema a comunei Curcani",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/213953",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/213953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-30-2025",
+   "path": "local/calarasi/curcani/2025/30",
+   "short": "HCL Curcani nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 30/2025 privind atribuirea unor terenuri in folosinta gratuita pentru constructii de locuinta , conform Legii nr.15/2003",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/213954",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/213954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-31-2025",
+   "path": "local/calarasi/curcani/2025/31",
+   "short": "HCL Curcani nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 31/2025 privind aprobarea Regulamentului propriu privind măsurile metodologice, organizatorice, termenele şi circulaţia proiectelor de hotărâri care se înaintează Consiliului Local Curcani spre adoptare",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/213955",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/213955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-32-2025",
+   "path": "local/calarasi/curcani/2025/32",
+   "short": "HCL Curcani nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 32/2025",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/213956",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/213956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-33-2025",
+   "path": "local/calarasi/curcani/2025/33",
+   "short": "HCL Curcani nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 33/2025 privind aprobarea alocarii de la bugetul local a unui sprijin financiar Parohiei Curcani, judetul Calarasi, pentru achizitionarea unui clopot",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/213957",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/213957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-34-2025",
+   "path": "local/calarasi/curcani/2025/34",
+   "short": "HCL Curcani nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 34/2025",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/213958",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/213958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-35-2025",
+   "path": "local/calarasi/curcani/2025/35",
+   "short": "HCL Curcani nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 35/2025 privind alegerea presedintelui de sedinta pentru lunile iulie, august, septembrie 2025 pentru sedintele Consiliului Local Curcani",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/213959",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/213959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-36-2025",
+   "path": "local/calarasi/curcani/2025/36",
+   "short": "HCL Curcani nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 36/2025 privind privind aprobarea contului de incheiere a exercitiului bugetar al bugetului local pe anul 2025 (trimestrul II)",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/216651",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/216651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-37-2025",
+   "path": "local/calarasi/curcani/2025/37",
+   "short": "HCL Curcani nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 37/2025 privind aprobarea rectificarilor bugetului local pe anul 2025, al comunei Curcani, judetul Cǎlǎraşi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/216652",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/216652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-38-2025",
+   "path": "local/calarasi/curcani/2025/38",
+   "short": "HCL Curcani nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 38/2025 privind aprobarea consumului mrdiu de carburanti si stabilirea cotei lunare pentru autovehiculele si utilajele aflate in patrimoniul comunei Curcani",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/216653",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/216653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-39-2025",
+   "path": "local/calarasi/curcani/2025/39",
+   "short": "HCL Curcani nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 39/2025 privind modificare HCL 383/26.06.2025 si aprobarea proiectul de hotărâre privind achizitionarea din bugetul local, a unui clopot",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/216654",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/216654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-40-2025",
+   "path": "local/calarasi/curcani/2025/40",
+   "short": "HCL Curcani nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 40/2025 privind trecere din domeniul public in domeniul privat a drumului comunal str.Argesului, Lot 2, numar cadastral 32375 in suprafata de 1610,0 mp si schimbarea categoriei de folosinta din drum in curti constructii",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/216655",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/216655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-41-2025",
+   "path": "local/calarasi/curcani/2025/41",
+   "short": "HCL Curcani nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 41/2025 privind aprobarea Programului de Acţiune Comunitarǎ destinat prevenirii si combaterii riscului de sǎrǎcie şi excluziune socialǎ in rândul beneficiarilor de venit minim de incluziune, pentru anul 2025",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/218034",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/218034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-42-2025",
+   "path": "local/calarasi/curcani/2025/42",
+   "short": "HCL Curcani nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 42/2025 privind aprobarea organigramei si statului de functii ale aparatului de specialitate al Primarului comunei Curcani, ca urmare a reorganizarii activitatii, in conformitate cu Legea nr.269/2023 privind unele masuri fiscal-bugetare pentru asigurarea sustenabilitatii financiare pe termen lung",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/218035",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/218035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-43-2025",
+   "path": "local/calarasi/curcani/2025/43",
+   "short": "HCL Curcani nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 43/2025 privind aprobarea taxei de salubritate la nivelul Primariei comunei Curcani",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/218230",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/218230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-44-2025",
+   "path": "local/calarasi/curcani/2025/44",
+   "short": "HCL Curcani nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 44/2025 privind aprobarea dotarii sediului Primariei Curcani cu echipamente IT",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/218494",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/218494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-45-2025",
+   "path": "local/calarasi/curcani/2025/45",
+   "short": "HCL Curcani nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 45/2025 privind aprobarea rectificarii bugetului local pe anul 2025, al comunei curcani",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/220526",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/220526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-46-2025",
+   "path": "local/calarasi/curcani/2025/46",
+   "short": "HCL Curcani nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 46/2025 privind aprobarea modificarii devizului privind cheltuielie necesare realizarii investitiei dotarea sediului primariei Curcani, cu echipamente IT",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/220527",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/220527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-47-2025",
+   "path": "local/calarasi/curcani/2025/47",
+   "short": "HCL Curcani nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 47/2025 privind aprobarea Planului de pază al comunei Curcani, judetul Calarasi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/223074",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/223074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-48-2025",
+   "path": "local/calarasi/curcani/2025/48",
+   "short": "HCL Curcani nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 48/2025 privind aprobarea rectificarii bugetului local pe anul 2025,al comunei Curcani, judetul Cǎlǎraşi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/223075",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/223075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-49-2025",
+   "path": "local/calarasi/curcani/2025/49",
+   "short": "HCL Curcani nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 49/2025 privind punerea la dispozitia SC Transgaz Medias SA si darea in folosinta , a terenurilor necesare pentru realizarea obiectivelor aferente , sistemului de distributie a gazelor naturale pe teritoriul UAT Curcani, judetul Calarasi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/223621",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/223621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-50-2025",
+   "path": "local/calarasi/curcani/2025/50",
+   "short": "HCL Curcani nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 50/2025 privind modificarea anexei nr.2 la HCL nr.42 /24.07.2025 a Organigramei si Statului de functii ale aparatului de specialitate al Primarului comunei Curcani,",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/223761",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/223761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-51-2025",
+   "path": "local/calarasi/curcani/2025/51",
+   "short": "HCL Curcani nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 51/2025 privind desemnarea reprezentantilor Consiliului Local in Consliliul de administratie al Scolii gimnaziale nr.1 Curcani, judetul Calarasi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/225011",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/225011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-52-2025",
+   "path": "local/calarasi/curcani/2025/52",
+   "short": "HCL Curcani nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 52/2025 privind alegerea presedintelui de sedinta ale Consiliului Local pentru lunile octombrie, noiembrie, decembrie 2025",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/225012",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/225012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-53-2025",
+   "path": "local/calarasi/curcani/2025/53",
+   "short": "HCL Curcani nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 53/2025 privind preluarea in proprietate, cu titlu gratuit, a unui microbuz electric scolar achiziționat prin proiectul “Microbuze electrice pentru elevii din Județul Călărași” finantat prin Planul National de Redresare si Rezilienta - Componenta 15 - Educatie,",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/225013",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/225013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-54-2025",
+   "path": "local/calarasi/curcani/2025/54",
+   "short": "HCL Curcani nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 54/2025 privind aprobarea rectificarii bugetului local pe anul 2025 al comunei Curcani, judetul Calarsi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/225093",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/225093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-55-2025",
+   "path": "local/calarasi/curcani/2025/55",
+   "short": "HCL Curcani nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 55/2025 privind aprobarea infiintarii Serviciului pentru gestionarea cainilor fara stapan din comuna CUrcani, judetul Calarasi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/230113",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/230113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-56-2025",
+   "path": "local/calarasi/curcani/2025/56",
+   "short": "HCL Curcani nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 56/2025 privind înființarea SERVICIULUI PUBLIC DE ALIMENTARE CU APĂ ȘI DE CANALIZARE AL COMUNEI CURCANI, aprobarea Organigramei, Statului de functii si a Regulamentului de organizare si functionare",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/230114",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/230114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-57-2025",
+   "path": "local/calarasi/curcani/2025/57",
+   "short": "HCL Curcani nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 57/2025 privind aprobarea contului de incheiere aexercitiului bugetar, al bugetului local pe anul 2025 (trimestrul 3)",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/230115",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/230115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-58-2025",
+   "path": "local/calarasi/curcani/2025/58",
+   "short": "HCL Curcani nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 58/2025 privind necesitatea aprobarii alocarii unui teren apartinand domeniului privat al comunei Curcani, in vederea ingroparii si neutralizarii cadavrelor rezultate in cazul unei epizotii pe raza UAT Curcani, conform ordin ANSVSA/MMAP nr.23/7417/2023",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/230116",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/230116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-59-2025",
+   "path": "local/calarasi/curcani/2025/59",
+   "short": "HCL Curcani nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 59/2025 privind aprobarea rectificarii bugetului local pe anul 2025 al comunei Curcani, judetul Calarasi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/230117",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/230117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-60-2025",
+   "path": "local/calarasi/curcani/2025/60",
+   "short": "HCL Curcani nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 60/2025 privind aprobarea Planului de Analiza si Acoperire a Riscurilor al comunei Curcani",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/230118",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/230118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-61-2025",
+   "path": "local/calarasi/curcani/2025/61",
+   "short": "HCL Curcani nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 61/2025 privind infiintarea -ASOCIATIA CLUB SPORTIV AVANTUL CURCANI si aprobarea Regulamentului de organizare si functionare",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/230119",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/230119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-62-2025",
+   "path": "local/calarasi/curcani/2025/62",
+   "short": "HCL Curcani nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 62/2025 privind aprobarea încheierii unui protocol de asociere intre Primaria comunei Curcani si Asociatia Padurea Copiilor privind dezvoltarea infrastructurii verzi, educatie ecologica si partiiparea comunitatii in comuna Curcani",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/235431",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/235431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-63-2025",
+   "path": "local/calarasi/curcani/2025/63",
+   "short": "HCL Curcani nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 63/2025 privind aprobarea Manualului de proceduri interne și a Planului de dezvoltare a serviciilor sociale, precum și desemnarea persoanei responsabile cu ducerea la îndeplinire a obiectivelor Planului de dezvoltare a serviciilor sociale la nivelul comunei Curcani, Județul Călărași",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/235432",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/235432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-64-2025",
+   "path": "local/calarasi/curcani/2025/64",
+   "short": "HCL Curcani nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 64/2025",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/235433",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/235433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-65-2025",
+   "path": "local/calarasi/curcani/2025/65",
+   "short": "HCL Curcani nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 65/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/236065",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/236065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-66-2025",
+   "path": "local/calarasi/curcani/2025/66",
+   "short": "HCL Curcani nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 66/2025 privind aprobarea retelei scolare a unitatilor de invatamant preuniversitar in anul 2026-2027, in comuna Curcani , judetul Calarasi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/236759",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/236759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-67-2025",
+   "path": "local/calarasi/curcani/2025/67",
+   "short": "HCL Curcani nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 67/2025 privind aprobarea insusirii acordului de cooperare cu Filiala Județeană Calarasi a Asociației Comunelor din România pentru organizarea și exercitarea activității administrative",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/237804",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/237804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--curcani-68-2025",
+   "path": "local/calarasi/curcani/2025/68",
+   "short": "HCL Curcani nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Curcani nr. 68/2025 privind aprobarea rectificarii bugetului local pe anul 2025 al comunei Curcani, judetul Calarasi",
+   "url": "https://emol.ro/curcani-cl/registru-hcl/238590",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/curcani-cl/registru-hcl/238590",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--curcani-69-2025",
    "path": "local/calarasi/curcani/2025/69",
    "short": "HCL Curcani nr. 69/2025",

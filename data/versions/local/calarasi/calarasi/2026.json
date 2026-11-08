@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--calarasi-3-2026",
+   "path": "local/calarasi/calarasi/2026/3",
+   "short": "HCL Călărași nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 3/2026 privind modificarea Hotărârii Consiliului Local nr. 273/17.12.2024, privind aprobarea proiectului și a cheltuielilor legate de proiectul cu titlul \"Îmbunătățirea accesului la servicii favorabile incluziunii și de calitate în educație prin construirea și dotarea unui complex sportiv multidisciplinar în Municipiul Călărași\"",
+   "url": "https://primariacalarasi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://primariacalarasi.ro/storage/../../wp-content/tabele/hcl/HCL-95-3.pdf",
+     "sha256": "c156bc96b63a5f7cd03c24857c79e8829de23bb74fae10d697622d88da40ba30"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--calarasi-34-2026",
    "path": "local/calarasi/calarasi/2026/34",
    "short": "HCL Călărași nr. 34/2026",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://primariacalarasi.ro/storage/../../wp-content/tabele/hcl/HCL-38-3.pdf",
      "sha256": "0fa763e9891b4e554f1f836538e453192cff1009212eeea48ccc40412cdd650b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--calarasi-41-2026",
+   "path": "local/calarasi/calarasi/2026/41",
+   "short": "HCL Călărași nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Călărași nr. 41/2026",
+   "url": "https://primariacalarasi.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://primariacalarasi.ro/storage/../../wp-content/tabele/hcl/HCL-41-3.pdf",
+     "sha256": "43a17a46f7746ca96e5c61a4966bcb6dcbe2e959737fd2826ba10da1e60afbd8"
     }
    ]
   },

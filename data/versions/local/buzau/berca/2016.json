@@ -3,6 +3,756 @@
  "shard": "local/buzau/berca/2016",
  "acts": [
   {
+   "slug": "hcl-buzau--berca-10-2016",
+   "path": "local/buzau/berca/2016/10",
+   "short": "HCL Berca nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 10/2016 privind aprobarea bugetului de venituri si cheltuieli si Programul de investitii pentru anul 2016",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HOT-NR.-10_25.02.2016.pdf",
+     "sha256": "fb0ba2e8e0d782d72974b8f1c8880ff15eb8783cd10f126e4bc945bde48414bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-11-2016",
+   "path": "local/buzau/berca/2016/11",
+   "short": "HCL Berca nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 11/2016 privind aprobarea organigramei, a statutului de functii si a numarului de personal la SC APAPRIMA BERCA SRL",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HOT-NR.-11_25.02.2016.pdf",
+     "sha256": "28077a3cec81c84369dc42223cbb3286616c7b9761627b2c180f66cf490b817d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-12-2016",
+   "path": "local/buzau/berca/2016/12",
+   "short": "HCL Berca nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 12/2016 pentru aprobarea planului de actiuni privind prestarea de lucrari de interes public local , pe anul 2016",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HOT-NR-12_-25.02.2016.pdf",
+     "sha256": "7d03163e2679e178b76df28ca1d96f0f52cf6a953863b1dc20146d10f3c490f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-13-2016",
+   "path": "local/buzau/berca/2016/13",
+   "short": "HCL Berca nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 13/2016 privind extinderea spatiului comercial existent in incinta pietei publice Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/13_25.02.2016.pdf",
+     "sha256": "bbe3b30b3c06cc27ca20171ace48009f4fbd1b28212b3b83b4033797665b4d8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-14-2016",
+   "path": "local/buzau/berca/2016/14",
+   "short": "HCL Berca nr. 14/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 14/2016 pentru inchirierea prin licitatie publica a unui teren in suprafat de 50 m2, teren situat in intravilanul satului Satuc",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/14_25.02.2016.pdf",
+     "sha256": "3b878c77bafdf49d9785d3cca76d01dcfa8da61c778f066bb455473d0628bbec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-15-2016",
+   "path": "local/buzau/berca/2016/15",
+   "short": "HCL Berca nr. 15/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 15/2016 privind aprobarea organigramei si statutului de functii la cresa Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/15_25.02.2016.pdf",
+     "sha256": "56ecbca0190227aa9264be1cf0077bcf75c493e137cfc3873878bb81cdced492"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-16-2016",
+   "path": "local/buzau/berca/2016/16",
+   "short": "HCL Berca nr. 16/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 16/2016 privind rectificarea nr.1 a Bugetului Local pe anul 2016",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/16_21.03.2016.pdf",
+     "sha256": "d08ed233d14c39db5024ae19fcbcd1a2f57664ec9aaf2cdc7bf3195f99c385f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-17-2016",
+   "path": "local/buzau/berca/2016/17",
+   "short": "HCL Berca nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 17/2016 privind aprobarea unor facilitati fiscale, in sensul anularii majorarilor de intarziere in cota de 73 aferente obligatiilor de plata principale, restante la 30 septembrie 2015 inclusiv",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-03-21",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/17_21.03.2016.pdf",
+     "sha256": "4d5411ab12b75fee537d994dac98a7c49908d9660ce4e043d91f824e63b5c1ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-18-2016",
+   "path": "local/buzau/berca/2016/18",
+   "short": "HCL Berca nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 18/2016 privind aprobarea sumelor necesare decontarii cheltuielilor cu naveta cadrelor didactice, care isi desfasoara activitatea la gradinita cu program prelungit Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/18_31.03.2017.pdf",
+     "sha256": "c888ab13f8c1420699ffae337b874a63f49523b0ea90928e2afc71d17e0da04a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-19-2016",
+   "path": "local/buzau/berca/2016/19",
+   "short": "HCL Berca nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 19/2016 privind aprobarea studiului de oportunitate si a raportului de evaluare in vedrea concesionarii terenului in suprafata de 100 mp situat in incinta Pietei comunale Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/19_31.03.2016.pdf",
+     "sha256": "d8ac60e3c5cfa970d84e877d9d706616765ffc4b1b8d844973c3c25e603a13c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-20-2016",
+   "path": "local/buzau/berca/2016/20",
+   "short": "HCL Berca nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 20/2016 privind inchirierea, prin licitatie publica, a unui teren in suprafata de 555,30 mp situat in incinta Casei de Cultura",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/20_31.03.2017.pdf",
+     "sha256": "4c81cc39394e49db34ed7c2fef55c7df0802f45db590565ba2e0ca413d959862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-22-2016",
+   "path": "local/buzau/berca/2016/22",
+   "short": "HCL Berca nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 22/2016 privind atestarea la domeniul public al comunei a drumului de exploatare ” Plaiul soimului” in suprafata de 3633 mp, situat in extravilanul satului Ratesti",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/22_20.04.2016.pdf",
+     "sha256": "4e6b735fc2b820b665447aba6dc24406ef6c79fb2037110c01ca3bb6a53b3bb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-23-2016",
+   "path": "local/buzau/berca/2016/23",
+   "short": "HCL Berca nr. 23/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 23/2016 privind completarea Inventarului bunurilor care apartin domeniului public al comunei Berca, cu drumul de exploatarea „Plaiul Soimului”",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/23_20.04.2016.pdf",
+     "sha256": "7a0419c9a9408082ac8fd3150f6dc9ef28534e38dcf7285f3943b897de234d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-24-2016",
+   "path": "local/buzau/berca/2016/24",
+   "short": "HCL Berca nr. 24/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 24/2016 privind alocarea sumei de 30.000 de lei pentru procurarea de daruri-ajutoare materiale, cu ocazia sarbatorii pascale",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/24_20.04.2016.pdf",
+     "sha256": "3cfde43e92cc00d6c2a96aa2b32ae78466e4917bfc2ca0608ed4e503d1f7563a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-28-2016",
+   "path": "local/buzau/berca/2016/28",
+   "short": "HCL Berca nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 28/2016 privind alegerea comisiei de validare a mandatelor de consilier local in consiliul Local al comunei Berca, jud. Buzau, ale candidatilor alesi in data de 05 iunie 2016",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/28_22.06.2016.pdf",
+     "sha256": "aac60ca88dcbb81f6224b93a2e7fbd4ea39b1c0a49d605e1cd1429a5314f7b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-29-2016",
+   "path": "local/buzau/berca/2016/29",
+   "short": "HCL Berca nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 29/2016 privind constituirea Consiliului Local al comunei Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/29_22.06.2016.pdf",
+     "sha256": "a7af8d5b4bd99c4f1cf0ef7c00a787e7236becff5b757657bcaf1b4cac50b88c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-30-2016",
+   "path": "local/buzau/berca/2016/30",
+   "short": "HCL Berca nr. 30/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 30/2016 privind alegerea presedintelui de sedinta",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/30_22.06.2016.pdf",
+     "sha256": "69a6a1e05db4b798fd4768dbd18b6708f7cb76ce94bdba44a48b08bba628f9c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-31-2016",
+   "path": "local/buzau/berca/2016/31",
+   "short": "HCL Berca nr. 31/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 31/2016 privind alegerea viceprimarului comunei Berca, judetul Buzau",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/31_22.06.2016.pdf",
+     "sha256": "81a7ca0d9a0d4281f33dc7c00855091a942e06f3821d09916963b7703006958b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-32-2016",
+   "path": "local/buzau/berca/2016/32",
+   "short": "HCL Berca nr. 32/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 32/2016 privind stabilirea si organizarea Comisiilor de specialitate ale Consiliului Local Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/32_22.06.2016.pdf",
+     "sha256": "887fb09ffb6443fde2c83d9388b3712aac011b18cc52368a847c8d79a47de706"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-45-2016",
+   "path": "local/buzau/berca/2016/45",
+   "short": "HCL Berca nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 45/2016 privind alegerea presedintelui de sedinta",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/45_30.08.2015.pdf",
+     "sha256": "d7d53a2d89ee1558e0c45159345195d45ebe85c57861481cf38ed2324dd0c731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-46-2016",
+   "path": "local/buzau/berca/2016/46",
+   "short": "HCL Berca nr. 46/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 46/2016 privind aprobarea sumelor necesare pentru decontarea cheltuielilor cu naveta cadrelor didactice care isi desfasoara activitatea la Gradinita cu program prelungit Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/46_30.08.2016.pdf",
+     "sha256": "04dd55eb382dbd785718827bf33206a3d46969bc8fe3ca617ee4e1d3be112899"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-47-2016",
+   "path": "local/buzau/berca/2016/47",
+   "short": "HCL Berca nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 47/2016 privind inchirierea prin licitatie publica a unui teren, in suprafata de 91 mp, situat in incinta targului comunal saptamanal, sat Satuc, comuna Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/47_30.08.2016.pdf",
+     "sha256": "91717b5b0be74902047283e558945a9ff83e6e22958c17dc09c7d1509bc36a7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-48-2016",
+   "path": "local/buzau/berca/2016/48",
+   "short": "HCL Berca nr. 48/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 48/2016 privind aprobarea organigramei si statutului de functii ale SC AMENAJARE PEISAGISTICA BERCA SRL",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/48_30.08.2016.pdf",
+     "sha256": "88b578db237f6ac63b18e1bea260cbef2404477757144a104d56c28879266045"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-49-2016",
+   "path": "local/buzau/berca/2016/49",
+   "short": "HCL Berca nr. 49/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 49/2016 privind rectificarea nr. 2 a bugetului local pe anul 2016",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/49_30.08.2016.pdf",
+     "sha256": "4cea928f17216b1e2c68989c42659cf59d9a8abf5c8d7c72ea15b76fe1d42fe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-50-2016",
+   "path": "local/buzau/berca/2016/50",
+   "short": "HCL Berca nr. 50/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 50/2016 privind modificarea inventarului bunurilor care apartin domeniului public al comunei Berca, cu obiectivul de investitie „Reabilitare prin asfaltare carosabil strazi cartier Lunca -Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/50_19.09.2016.pdf",
+     "sha256": "9379d237cc075817f8da33615a44e981a1a2dbf80dec23f7d90d6325c02455a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-51-2016",
+   "path": "local/buzau/berca/2016/51",
+   "short": "HCL Berca nr. 51/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 51/2016 privind modificarea inventarului bunurilor care apartin domeniului public al comunei Berca, cu lucrarea ” Modernizare casa de Cultura din comuna Berca „",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/51_19.09.2016.pdf",
+     "sha256": "f6dcac4cb1994717a15e3233e30707487ffeb94ea465b76306cd87075e1a702a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-52-2016",
+   "path": "local/buzau/berca/2016/52",
+   "short": "HCL Berca nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 52/2016 privind rectificarea nr. 3 a bugeului local pe anul 2016",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/52_19.09.2016.pdf",
+     "sha256": "20bbee102cfc96d24d8e6602c52a2e3618d30979551e793c80c073deffd75e50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-53-2016",
+   "path": "local/buzau/berca/2016/53",
+   "short": "HCL Berca nr. 53/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 53/2016 privind aprobarea trecerii in conservare a forjelor de apa din satele Joseni si Ratesti",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/53_19.09.2016.pdf",
+     "sha256": "ae7084327875fc23517e8d708b76b0f1da61fd5ba038c53efce34339903ffafb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-55-2016",
+   "path": "local/buzau/berca/2016/55",
+   "short": "HCL Berca nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 55/2016 privind rezilierea contractului de concesiune nr. 400/20.07.2015",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/55_27.10.2016.pdf",
+     "sha256": "776f70418cfcae57626ca1e0632e083ee43146d95871790e954673ab112dac54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-56-2016",
+   "path": "local/buzau/berca/2016/56",
+   "short": "HCL Berca nr. 56/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 56/2016 privind rezilierea contractului de concesiune nr. 1/451/04.02.2013",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/56_27.10.2016.pdf",
+     "sha256": "d2919c26d83e8b4fd551b6adfc2075e1c5d7a71bf3be5926a3133c0dc53f3655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-57-2016",
+   "path": "local/buzau/berca/2016/57",
+   "short": "HCL Berca nr. 57/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 57/2016 privind aprobarea sumelor necesare pentru decontarea cheltuielilor cu naveta cadrelor didactice care isi desfasoara activitatea la Liceul Tehnologic Sfantul Mucenic Sava, aferente lunilor martie – iunie 2016",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/57_27.10.2016.pdf",
+     "sha256": "c54735ce18e0e38d2de500c26dd3b485686df03cde75e6bacbbed5a67556e93f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-58-2016",
+   "path": "local/buzau/berca/2016/58",
+   "short": "HCL Berca nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 58/2016 privind aprobarea Planului de ocupare a functiilor publice, din cadrul aparatului de specialitate al primarului comunei Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/58_27.10.2016.pdf",
+     "sha256": "c8a369b4f08a48dc6e385dba1dfe85d228e691b2c1cc1cd329e1008e53ea743f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-59-2016",
+   "path": "local/buzau/berca/2016/59",
+   "short": "HCL Berca nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 59/2016 privind aprobarea organigramei, a statutului de functii, si a nuamrului de personal din cadrul aparatului de specialitate al primarului comunei Berca, judetul Buzau",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/59_27.10.2016.pdf",
+     "sha256": "6857166fe2c55d2561f70f99f5fb3f731dda6fb26fe4b2ba9f0b323465ebb2be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-6-2016",
+   "path": "local/buzau/berca/2016/6",
+   "short": "HCL Berca nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 6/2016 privind alegerea președintelui de ședință, al Consiliului Local al comunei Berca, județul Buzău",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HOT-NR.-6_-25.02.2016.pdf",
+     "sha256": "4564306a8a9bb7a19c1a9206abfe73cf104798afb0552954818e85f211e33a09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-60-2016",
+   "path": "local/buzau/berca/2016/60",
+   "short": "HCL Berca nr. 60/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 60/2016 privind infiintarea ansamblului folcloric „Dragaicutele”",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/60_27.10.2016.pdf",
+     "sha256": "51f10fe6761c6a97cc18f12aff8817c3691ced317d992871f259c7f97297a631"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-61-2016",
+   "path": "local/buzau/berca/2016/61",
+   "short": "HCL Berca nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 61/2016 privind aprobarea inchieierii unui contract de acces si utilizare a zonei drumului comunal DC 108. aflat in administrarea Consiliului Local Berca",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/61_27.10.2016.pdf",
+     "sha256": "b992064388a14b9e5fe9ebd4ea0a4baa2f46433e25a67f9b974cd78fd07295e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-62-2016",
+   "path": "local/buzau/berca/2016/62",
+   "short": "HCL Berca nr. 62/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 62/2016 privind aprobarea solicitarii de prelungire a scrisorii de garantie din partea FNGCIMM",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/62_27.10.2017.pdf",
+     "sha256": "e09a2b4dec9d6bf93b4e8d90e280b8bdf37dc0477fe495b0df4d951e777732d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-63-2016",
+   "path": "local/buzau/berca/2016/63",
+   "short": "HCL Berca nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 63/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/63_29.11.2016.pdf",
+     "sha256": "25212bba41720874fd5aa9d3515d5d4a14a8a0bf377313189d06e4c944336c9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-64-2016",
+   "path": "local/buzau/berca/2016/64",
+   "short": "HCL Berca nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 64/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/64_29.11.2016.pdf",
+     "sha256": "0a4d0ff1a7812ad68734be800eeaa6c4b92dee73822b2aa48d58a71c1bdbf30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-65-2016",
+   "path": "local/buzau/berca/2016/65",
+   "short": "HCL Berca nr. 65/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 65/2016 privind alegerea presedintelui de sedinta",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/65_29.11.2016.pdf",
+     "sha256": "adece918ecf294c725c9153248703ea2b45d3b9cf9d71dd9c1b8e12b1d383a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-66-2016",
+   "path": "local/buzau/berca/2016/66",
+   "short": "HCL Berca nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 66/2016 privind aprobarea alocarii unei sume de la bugetul propriu al comunei Berca, in vederea organizarii si desfasurarii unor actiuni dedicate Zilei Nationale a Romaniei",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/66_29.11.2016.pdf",
+     "sha256": "4c79b531ada683705bb5fc664b143aa626f7bb455301baf4bf79f9942bd2375c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-67-2016",
+   "path": "local/buzau/berca/2016/67",
+   "short": "HCL Berca nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 67/2016 privind acordarea unei sume de 35.000 lei pentru procurarea de daruri- ajutoare materiale, cu ocazia Sarbatorilor de iarna",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/67_29.11.2016.pdf",
+     "sha256": "aec21b138916eb9c899eeb6f287c0ccf89dd8768fb6538ab029b318b73335e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-68-2016",
+   "path": "local/buzau/berca/2016/68",
+   "short": "HCL Berca nr. 68/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 68/2016 privind rezilierea constractului de concesiune nr. 5/5219/24.09.2015",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/68_29.11.2016.pdf",
+     "sha256": "63d4fe12984a037f93dc689965313a6d528b9b520a06780bf414d923e153f505"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-69-2016",
+   "path": "local/buzau/berca/2016/69",
+   "short": "HCL Berca nr. 69/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 69/2016 privind aprobarea unor masuri/demersuri cu prvire la Asociatia de Dezvoltare Intercomunitara”Eco Buzau 2009″",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/69_29.11.2016.pdf",
+     "sha256": "6c01bbb031ae65914a51ac4d0e140f0f0c2db103500abb4088c88908bd957611"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-7-2016",
+   "path": "local/buzau/berca/2016/7",
+   "short": "HCL Berca nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 7/2016 privind aprobarea sumelor necesare pentru decontarea cheltuielilor cu naveta cadrelor didactice care isi desfasoara activitatea la Liceul Tehnologic Sfantul Mucenic Sava",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HOT-NR-7_25.02.2016.pdf",
+     "sha256": "1938cf594947d743fc1a844c344b05410e8f95781a687cf8d5758d83dd27c942"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-70-2016",
+   "path": "local/buzau/berca/2016/70",
+   "short": "HCL Berca nr. 70/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 70/2016 privind aprobarea sumelor pentru decontarea cheltuielilor cu naveta cadrelor didactice care isi desfasoara activitatea la Gradinita cu Program prelungit Berca, aferente lunilor iunie, septembrie si octombrie 2016",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/70_29.11.2016.pdf",
+     "sha256": "f3b1e66be928282bf298b23982ec1f2e3c53f0bb66209e046bf09c1fecdb9385"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-71-2016",
+   "path": "local/buzau/berca/2016/71",
+   "short": "HCL Berca nr. 71/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 71/2016 privind aprobarea Acordului de cooperare privind organizarea si eercitarea activitatii de audit public intern",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/71_29.11.2016.pdf",
+     "sha256": "8927338ab78d1f5c696e3de33ccd41116be7b58f45d19a13bfec6e48bf57331a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-72-2016",
+   "path": "local/buzau/berca/2016/72",
+   "short": "HCL Berca nr. 72/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 72/2016 privind revocarea administratorului de la SC APAPRIMA BERCA SRL",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/72_29.11.2016.pdf",
+     "sha256": "b3db0c476372c2352160fa18011ef3c678652fdb7a6936ebf78caf30e771454a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-73-2016",
+   "path": "local/buzau/berca/2016/73",
+   "short": "HCL Berca nr. 73/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 73/2016 privind acordarea unei prestatii financiare exceptionale",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/73_29.11.2016.pdf",
+     "sha256": "3b1a57d98db0639ef5f59a74be5438f0fe72c30b812d44a03e4e2efe55cac4ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--berca-8-2016",
+   "path": "local/buzau/berca/2016/8",
+   "short": "HCL Berca nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Berca nr. 8/2016 privind completarea inventarului bunurilor care apartin domeniului public al comunei Berca, cu obiectivul de investitie: Gradinita Nitraria, situat in comuna Berca, jud. Buzau",
+   "url": "https://primariaberca.ro/hotarari-ale-consiliului",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://primariaberca.ro/wp-content/uploads/2017/09/HOT-NR-8_25.02.2016.pdf",
+     "sha256": "9458c4da8638e3f25a253f5f0ca3e7c184c267bf63c9e7d3dae9e151610d6e33"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--berca-9-2016",
    "path": "local/buzau/berca/2016/9",
    "short": "HCL Berca nr. 9/2016",

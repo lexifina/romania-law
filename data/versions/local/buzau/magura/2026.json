@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/magura/2026",
+ "acts": [
+  {
+   "slug": "hcl-buzau--magura-15-2026",
+   "path": "local/buzau/magura/2026/15",
+   "short": "HCL Măgura nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgura nr. 15/2026",
+   "url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-15-din-14.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://www.comunamagura.ro/wp-content/uploads/HCL-nr.-15-din-14.04.2026.pdf",
+     "sha256": "a9bd31cb5dc7f6cac6623d24cb95e694d0a63350203f810cc195d2ba27fe204e"
+    }
+   ]
+  }
+ ]
+}

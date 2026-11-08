@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2018",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-48-2018",
+   "path": "local/buzau/nehoiu/2018/48",
+   "short": "HCL Nehoiu nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 48/2018 privind aprobarea actualizării Strategiei anuale de achiziții publice a orașului Nehoiu în anul 2018",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2018/06/Hot%C4%83r%C3%A2rea-nr.-48-privind-aprobarea-actualiz%C4%83rii-Strategiei-anuale-de-achizi%C8%9Bii-publice-a-ora%C8%99ului-Nehoiu-%C3%AEn-anul-2018.pdf",
+     "sha256": "07178dba53ddee67934c22b2e85fd7eee3c0486a3696cec3ac8789885a8a6b88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-51-2018",
+   "path": "local/buzau/nehoiu/2018/51",
+   "short": "HCL Nehoiu nr. 51/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 51/2018 privind abrogarea HCL nr. 51 din 13.07.2018 adoptata de Consiliul Local al orasului Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2020/02/Hotararea-nr.-16-privind-abrogarea-HCL-nr.-51-din-13.07.2018-adoptata-de-Consiliul-Local-al-orasului-Nehoiu.pdf",
+     "sha256": "eb4805e307600034096b1a154fe7a7c2f51e366a51cca600a32526adec847791"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-57-2018",
+   "path": "local/buzau/nehoiu/2018/57",
+   "short": "HCL Nehoiu nr. 57/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 57/2018 privind abrogarea HCL nr 41, HCL nr 42, HCL nr 43, HCL nr 44 adoptate de Consiliul Local al orașului Nehoiu în ședința publică ordinară din data de 22.06.2018",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2018/",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2018/07/Hot%C4%83r%C3%A2rea-nr.-57-privind-abrogarea-HCL-nr-41-HCL-nr-42-HCL-nr-43-HCL-nr-44-adoptate-de-Consiliul-Local-al-ora%C8%99ului-Nehoiu-%C3%AEn-%C8%99edin%C8%9Ba-public%C4%83-ordinar%C4%83-din-data-de-22.06.2018.pdf",
+     "sha256": "42fa60b9c64de70245941db0e0a1d88f5e51c8a9fbb0bc832347a21ae7cf7531"
+    }
+   ]
+  }
+ ]
+}

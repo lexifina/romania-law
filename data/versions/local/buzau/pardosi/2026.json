@@ -3,6 +3,276 @@
  "shard": "local/buzau/pardosi/2026",
  "acts": [
   {
+   "slug": "hcl-buzau--pardosi-1-2026",
+   "path": "local/buzau/pardosi/2026/1",
+   "short": "HCL Pardoși nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 1/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-1-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-1-din-30.01.2026.pdf",
+     "sha256": "cab73af497843c33763c648668b75d3a5e4176ebd026d911c2b7560182058528"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-10-2026",
+   "path": "local/buzau/pardosi/2026/10",
+   "short": "HCL Pardoși nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 10/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-10-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-10-din-30.04.2026.pdf",
+     "sha256": "42c084bd8a3fff8e0c9c05629bda57a6463462415402a4410410787795fbcadd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-11-2026",
+   "path": "local/buzau/pardosi/2026/11",
+   "short": "HCL Pardoși nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 11/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-11-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-11-din-30.04.2026.pdf",
+     "sha256": "daa12637a1beb9577718e4e58b25d9989269e86b419798de6de743cfc5d09334"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-12-2026",
+   "path": "local/buzau/pardosi/2026/12",
+   "short": "HCL Pardoși nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 12/2026",
+   "url": "https://www.pardosi.ro/monitorul-oficial-local/bugetul-local/bugetul-local-si-situatii-financiare-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-12-din-30.04.2026.pdf",
+     "sha256": "75167c3d7ced440a7ded1bf2575417b279820f04dbbc5b285592a97ededfa443"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-14-2026",
+   "path": "local/buzau/pardosi/2026/14",
+   "short": "HCL Pardoși nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 14/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-14-din-30.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-14-din-30.04.2026.pdf",
+     "sha256": "bf5692322507c8be1eb532102186882a11de903e8ec0028f96ebb2fe679b1e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-15-2026",
+   "path": "local/buzau/pardosi/2026/15",
+   "short": "HCL Pardoși nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 15/2026 pentru trimestrul I al anului 2026 – Anexa la HCL nr. 15 din 29.05.2026",
+   "url": "https://www.pardosi.ro/monitorul-oficial-local/bugetul-local/bugetul-local-si-situatii-financiare-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-15-din-29.05.2026.pdf",
+     "sha256": "4274a9e98f4339d9c946555da70d080ab6e7b535ffd39eed3cec50b021ba0f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-16-2026",
+   "path": "local/buzau/pardosi/2026/16",
+   "short": "HCL Pardoși nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 16/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-16-din-29.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-16-din-29.05.2026.pdf",
+     "sha256": "207f7943679c3defda4d770ffe458ecbc12169a1bbe83a2609f4731ff94ad0f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-17-2026",
+   "path": "local/buzau/pardosi/2026/17",
+   "short": "HCL Pardoși nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 17/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-17-din-29.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-17-din-29.05.2026.pdf",
+     "sha256": "5bd73fd7c88eddf99f300611fc888c75f735b63b3e305773a986570e0f8b4bf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-18-2026",
+   "path": "local/buzau/pardosi/2026/18",
+   "short": "HCL Pardoși nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 18/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-18-din-29.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-18-din-29.05.2026.pdf",
+     "sha256": "5cf5f9a6ba9c28c017b015f0450c61fd2520079afc70461e7ecaca74cff64840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-19-2026",
+   "path": "local/buzau/pardosi/2026/19",
+   "short": "HCL Pardoși nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 19/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-19-din-29.05.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-19-din-29.05.2026.pdf",
+     "sha256": "2fe86ad557921452da5e4cdd2c41e04ce00e33fec0268f7cf5d4882756b61fc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-2-2026",
+   "path": "local/buzau/pardosi/2026/2",
+   "short": "HCL Pardoși nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 2/2026 privind aprobarea planului de actiuni sau lucrari de interes local ce se vor efectua cu beneficiarii de venit minim de incluziune conform Legii 196/2016",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-2-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-2-din-30.01.2026.pdf",
+     "sha256": "71f0b2ad52de70ea027d97b919c68fbdcba58cb17de488dddcc85326090e7bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-20-2026",
+   "path": "local/buzau/pardosi/2026/20",
+   "short": "HCL Pardoși nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 20/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-20-din-25.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-20-din-25.06.2026.pdf",
+     "sha256": "b6aa61eacbe66662587a51b3e28e94cbcbff93af3020222d4e52aeb21d397d09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-21-2026",
+   "path": "local/buzau/pardosi/2026/21",
+   "short": "HCL Pardoși nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 21/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-21-din-25.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-21-din-25.06.2026.pdf",
+     "sha256": "adcf508108638b8350299409fbc8bed58a7d8709dd85ed59abe7c70eafcbc727"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-22-2026",
+   "path": "local/buzau/pardosi/2026/22",
+   "short": "HCL Pardoși nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 22/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-22-din-25.06.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-22-din-25.06.2026.pdf",
+     "sha256": "afa2d0f24e7d45158b5d84ecc9432e6db0fde0b5bd4b031023b82447017e4523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-23-2026",
+   "path": "local/buzau/pardosi/2026/23",
+   "short": "HCL Pardoși nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 23/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-23-din-24.07.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-23-din-24.07.2026.pdf",
+     "sha256": "88f5a26e53d91d030273f22f6daefc6035489cc17187b09a2f54804c12ee49ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-24-2026",
+   "path": "local/buzau/pardosi/2026/24",
+   "short": "HCL Pardoși nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 24/2026",
+   "url": "https://www.pardosi.ro/monitorul-oficial-local/bugetul-local/bugetul-local-si-situatii-financiare-pe-anul-2026/",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-24-din-24.07.2026.pdf",
+     "sha256": "d3346db3837d3feccfd2f940343dc63cc84480cfcecb9df667ff4af349eb3df5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-26-2026",
+   "path": "local/buzau/pardosi/2026/26",
+   "short": "HCL Pardoși nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 26/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-26-din-26.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-26-din-26.08.2026.pdf",
+     "sha256": "acf39296bdb94220e4079dd412244b1a8abd8cc22250e02e2a8c3ccdb67a6f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-27-2026",
+   "path": "local/buzau/pardosi/2026/27",
+   "short": "HCL Pardoși nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 27/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-27-din-26.08.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-27-din-26.08.2026.pdf",
+     "sha256": "cff753fe4090d466916eefd0e1dc05244adf6c9d135f96bb47b9e25bd306b3e6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--pardosi-29-2026",
    "path": "local/buzau/pardosi/2026/29",
    "short": "HCL Pardoși nr. 29/2026",
@@ -14,6 +284,21 @@
      "units": 1,
      "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-29-din-27.09.2026.pdf",
      "sha256": "ff80258fd7c8d633e544e2b2e32d14d224dff5c4afa0b3c7640600d105dfc599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-3-2026",
+   "path": "local/buzau/pardosi/2026/3",
+   "short": "HCL Pardoși nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 3/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-3-din-30.01.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-3-din-30.01.2026.pdf",
+     "sha256": "2420b36a0d968dd4372b81094bf120d746115a124beb1ced5a3db4e2557b768a"
     }
    ]
   },
@@ -44,6 +329,96 @@
      "units": 1,
      "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-31-din-27.09.2026.pdf",
      "sha256": "49372ef9d7d24d484b4d23bb1d316291a98f86c6cd14f6c4fcbebc00394bb399"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-4-2026",
+   "path": "local/buzau/pardosi/2026/4",
+   "short": "HCL Pardoși nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 4/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-4-din-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-4-din-27.02.2026.pdf",
+     "sha256": "caf02f3b2c28db9ab8b60ad12b6ed18db748bd78e4e84fc1f8f243f5241ae9c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-5-2026",
+   "path": "local/buzau/pardosi/2026/5",
+   "short": "HCL Pardoși nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 5/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-5-din-27.02.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-5-din-27.02.2026.pdf",
+     "sha256": "c0e93bec3cc44bb8b64c2f70df2b8acad89879d1323c07bb4ae0fe6a367287a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-6-2026",
+   "path": "local/buzau/pardosi/2026/6",
+   "short": "HCL Pardoși nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 6/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-6-din-27.03.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-6-din-27.03.2026.pdf",
+     "sha256": "7e03413f987907b49f0cd015a041e636c2f05b38b065411fc4ece9efcd0941e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-7-2026",
+   "path": "local/buzau/pardosi/2026/7",
+   "short": "HCL Pardoși nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 7/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-7-din-21.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-7-din-21.04.2026.pdf",
+     "sha256": "9c3d1a9c018e6c7a199ecf1772c6c930f6bc0bd733a7d06510dea9deb2f5708a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-8-2026",
+   "path": "local/buzau/pardosi/2026/8",
+   "short": "HCL Pardoși nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 8/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-8-din-21.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-8-din-21.04.2026.pdf",
+     "sha256": "6d04ca627f183800b0468008f64a39bc6c3c79d76968fa10adc768f816c36cae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-9-2026",
+   "path": "local/buzau/pardosi/2026/9",
+   "short": "HCL Pardoși nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 9/2026",
+   "url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-9-din-21.04.2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-9-din-21.04.2026.pdf",
+     "sha256": "af7087ba6cc3adfc857ff917da45c1cd185086a9f2835363f55ce56b3540f0b8"
     }
    ]
   }

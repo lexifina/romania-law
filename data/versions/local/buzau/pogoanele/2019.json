@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/pogoanele/2019",
+ "acts": [
+  {
+   "slug": "hcl-buzau--pogoanele-24-2019",
+   "path": "local/buzau/pogoanele/2019/24",
+   "short": "HCL Pogoanele nr. 24/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Pogoanele nr. 24/2019",
+   "url": "https://www.primariepogoanele.ro/hotarari/hcl-24-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "http://www.primariepogoanele.ro/wp-content/uploads/HCL-nr.-24-din-24.04.2019.pdf",
+     "sha256": "508bcc35056fe765016ce073c7413a784b9199b38253035f22586b2715ea9888"
+    }
+   ]
+  }
+ ]
+}

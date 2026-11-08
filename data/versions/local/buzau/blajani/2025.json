@@ -3,6 +3,51 @@
  "shard": "local/buzau/blajani/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--blajani-38-2025",
+   "path": "local/buzau/blajani/2025/38",
+   "short": "HCL Blăjani nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 38/2025",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-38-din-28.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-38-din-28.11.2025.pdf",
+     "sha256": "766310509321adf819f4d1a943c92de4d8b84af3b52a4b2f5a1c0d3f7a7acda9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-41-2025",
+   "path": "local/buzau/blajani/2025/41",
+   "short": "HCL Blăjani nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 41/2025 privind privind aprobarea Programului de acțiune comunitara destinat prevenirii si combaterii riscului de sărăcie si excluziune sociala în rândul beneficiarilor de venit minim de incluziune pentru anul 2026",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-41-din-29.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-41-din-29.12.2025.pdf",
+     "sha256": "4bf5a63aefd49b46f8b7833e3c09c5318e9dfaf2d74e787df484dafd17abcd51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-42-2025",
+   "path": "local/buzau/blajani/2025/42",
+   "short": "HCL Blăjani nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 42/2025",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-42-din-29.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-42-din-29.12.2025.pdf",
+     "sha256": "853c53e51e6cfe00496f263b412c83c9cae111c38e36d92675ad83c0c07d0911"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--blajani-43-2025",
    "path": "local/buzau/blajani/2025/43",
    "short": "HCL Blăjani nr. 43/2025",
@@ -14,6 +59,21 @@
      "units": 1,
      "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-43-din-29.12.2025.pdf",
      "sha256": "78b6ed05a19a8e38fad1f95f0380964b3bbfc58f3f28630c3fc8bb0f9999d39e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--blajani-44-2025",
+   "path": "local/buzau/blajani/2025/44",
+   "short": "HCL Blăjani nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjani nr. 44/2025",
+   "url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-44-din-29.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.blajani.ro/wp-content/uploads/HCL-nr.-44-din-29.12.2025.pdf",
+     "sha256": "5fd30fd96fbd851429affb5dccd28a94bcc40a619336fd67337c46561c10f4e0"
     }
    ]
   }

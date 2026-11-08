@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/brasov/ungra/2024",
+"acts": [
+{
+"slug": "hcl-brasov--ungra-1-2024",
+"path": "local/brasov/ungra/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungra nr. 1/2024 privind constituirea și programul de funcționare al Biroului Electoral de circumscripție nr. 54 Comuna Ungra",
+"short": "HCL Ungra nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-17",
+"latest": "2024-04-17",
+"portal": "https://primariaungra.ro/wp-content/uploads/2024/04/Hotararea-nr.-1-din-17.04.2024-privind-constituirea-si-programul-de-functionare-al-Biroului-Electoral-de-circumscriptie-nr.-54-Comuna-Ungra.pdf",
+"council": "brasov/ungra",
+"council_name": "Consiliul Local al Comunei Ungra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ungra-2-2024",
+"path": "local/brasov/ungra/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungra nr. 2/2024 privind numărul de susținători necesar pentru depunerea candidaturilor partidelor politice și alianțelor",
+"short": "HCL Ungra nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-17",
+"latest": "2024-04-17",
+"portal": "https://primariaungra.ro/wp-content/uploads/2024/04/Hotararea-nr.-2-din-17.04.2024-privind-numarul-de-sustinatori-necesar-pentru-depunerea-candidaturilor-partidelor-politice-si-aliantelor.pdf",
+"council": "brasov/ungra",
+"council_name": "Consiliul Local al Comunei Ungra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ungra-25-2024",
+"path": "local/brasov/ungra/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungra nr. 25/2024 privind rectificarea bugetului local de venituri si cheltuieli al Comunei Ungra pe trim. II, anul 2024",
+"short": "HCL Ungra nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": "https://primariaungra.ro/wp-content/uploads/2024/09/HOTARAREA-NR.-25-din-24-aprilie-2024-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-Comunei-Ungra-pe-trim.-II-anul-2024-.pdf",
+"council": "brasov/ungra",
+"council_name": "Consiliul Local al Comunei Ungra",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-brasov--ungra-27-2024",
+"path": "local/brasov/ungra/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ungra nr. 27/2024 privind rectificarea bugetului local de venituri si cheltuieli al Comunei Ungra pe trim. III, anul 2024",
+"short": "HCL Ungra nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-15",
+"latest": "2024-07-15",
+"portal": "https://primariaungra.ro/wp-content/uploads/2024/09/HOTARAREA-NR.-27-din-15-iulie-2024-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-Comunei-Ungra-pe-trim.-III-anul-2024-.pdf",
+"council": "brasov/ungra",
+"council_name": "Consiliul Local al Comunei Ungra",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

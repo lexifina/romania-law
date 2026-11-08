@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/buzau/pardosi/2023",
+"acts": [
+{
+"slug": "hcl-buzau--pardosi-1-2023",
+"path": "local/buzau/pardosi/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 1/2023",
+"short": "HCL Pardoși nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://www.pardosi.ro/monitorul-oficial-local/bugetul-local/bugetul-local-si-situatii-financiare-pe-anul-2023/",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-3-2023",
+"path": "local/buzau/pardosi/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 3/2023 Privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul Aparatului propriu de specialitate al primarului comunei Pardosi,Consiliului local Pardosi-familia ocupationala „Administratie”",
+"short": "HCL Pardoși nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-3-din-26.01.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-4-2023",
+"path": "local/buzau/pardosi/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 4/2023",
+"short": "HCL Pardoși nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-4-din-28.02.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-5-2023",
+"path": "local/buzau/pardosi/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 5/2023",
+"short": "HCL Pardoși nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://www.pardosi.ro/monitorul-oficial-local/bugetul-local/bugetul-local-si-situatii-financiare-pe-anul-2023/",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-6-2023",
+"path": "local/buzau/pardosi/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 6/2023",
+"short": "HCL Pardoși nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-6-din-28.02.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-7-2023",
+"path": "local/buzau/pardosi/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 7/2023",
+"short": "HCL Pardoși nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-7-din-28.02.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-8-2023",
+"path": "local/buzau/pardosi/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 8/2023",
+"short": "HCL Pardoși nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-8-din-31.03.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-9-2023",
+"path": "local/buzau/pardosi/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 9/2023 Privind privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul Aparatului de specialitate/ propriu al Primariei comunei Pardosi, Consiliului Local Pardosi-familia ocupationala „Administratie",
+"short": "HCL Pardoși nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-9-din-31.03.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-10-2023",
+"path": "local/buzau/pardosi/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 10/2023",
+"short": "HCL Pardoși nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-31",
+"latest": "2023-03-31",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-10-din-31.03.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-11-2023",
+"path": "local/buzau/pardosi/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 11/2023",
+"short": "HCL Pardoși nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-11-din-28.04.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-12-2023",
+"path": "local/buzau/pardosi/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 12/2023",
+"short": "HCL Pardoși nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-12-din-28.04.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--pardosi-13-2023",
+"path": "local/buzau/pardosi/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 13/2023",
+"short": "HCL Pardoși nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://www.pardosi.ro/wp-content/uploads/HCL-nr.-13-din-10.05.2023.pdf",
+"council": "buzau/pardosi",
+"council_name": "Consiliul Local al Comunei Pardoși",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

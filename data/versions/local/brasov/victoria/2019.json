@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/victoria/2019",
+ "acts": [
+  {
+   "slug": "hcl-brasov--victoria-188-2019",
+   "path": "local/brasov/victoria/2019/188",
+   "short": "HCL Victoria nr. 188/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Victoria nr. 188/2019",
+   "url": "https://primariavictoria.ro/index.php/consiliul_local/hotarari/P180",
+   "versions": [
+    {
+     "from": "2019-12-10",
+     "units": 1,
+     "source_url": "https://www.primariavictoria.ro/images/uploads/documente/HOT-10.12.2019.pdf",
+     "sha256": "0c25a5d36e2c2bdff25e25ceb9adc91711579155dc6969e96814dfa661d9d146"
+    }
+   ]
+  }
+ ]
+}

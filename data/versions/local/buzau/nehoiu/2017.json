@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/nehoiu/2017",
+ "acts": [
+  {
+   "slug": "hcl-buzau--nehoiu-104-2017",
+   "path": "local/buzau/nehoiu/2017/104",
+   "short": "HCL Nehoiu nr. 104/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 104/2017 pentru completarea HCL nr. 104 din 22.12.2017 privind aprobarea darii in administrare a serviciului public de alimentare cu energie termica in orasul Nehoiu catre Societatea Termo Prest PON SRL Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2017-12-22",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2025/09/Hotararea-nr.-72-pentru-completarea-HCL-nr.-104-din-22.12.2017-privind-aprobarea-darii-in-administrare-a-serviciului-public-de-alimentare-cu-energie-termica-in-orasul-Nehoiu-catre.pdf",
+     "sha256": "673fbbbb89bd97768566445d432f45c31e74b1e8aff57273ea90ed13258d6e3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-32-2017",
+   "path": "local/buzau/nehoiu/2017/32",
+   "short": "HCL Nehoiu nr. 32/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 32/2017 pentru stabilirea și acordarea unor stimulente financiare lunare personalului medical – medici, nou angajați în anul 2017 la Spitalul orășenesc Nehoiu, județul Buzău",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2017/03/HCL-32.pdf",
+     "sha256": "f4fd64701c1144802b5af9cf9a28ebf2c0f7025d48947f95f305232366c869e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-37-2017",
+   "path": "local/buzau/nehoiu/2017/37",
+   "short": "HCL Nehoiu nr. 37/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 37/2017 privind darea în folosință gratuită, pe termen limitat a unor bunuri imobile proprietate publică a orașului Nehoiu",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2017/03/HCL-37.pdf",
+     "sha256": "bd718e2cc676dc83f77cbd125f2f6f1122cf898e7179b1b6b517b0e40f3074b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--nehoiu-64-2017",
+   "path": "local/buzau/nehoiu/2017/64",
+   "short": "HCL Nehoiu nr. 64/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 64/2017 privind modificarea și completarea Hotărârii nr. 41 adoptată de Consiliul Local al orașului Nehoiu în ședință publică ordinară din data de 27.04.2017",
+   "url": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.primaria-nehoiu.ro/wp-content/uploads/2017/07/HCL-nr-64-privind-modificarea-%C8%99i-completarea-Hot%C4%83r%C3%A2rii-nr.-41-adoptat%C4%83-de-Consiliul-Local-al-ora%C8%99ului-Nehoiu-%C3%AEn-%C8%99edin%C8%9B%C4%83-public%C4%83-ordinar%C4%83-din-data-de-27.04.2017.pdf",
+     "sha256": "5f53cd4cb881e9276b101557112d187927a8ceaea7a17356ade7bee9c845d5fc"
+    }
+   ]
+  }
+ ]
+}

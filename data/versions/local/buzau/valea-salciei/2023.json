@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/valea-salciei/2023",
+ "acts": [
+  {
+   "slug": "hcl-buzau--valea-salciei-28-2023",
+   "path": "local/buzau/valea-salciei/2023/28",
+   "short": "HCL Valea Salciei nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 28/2023",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-28-din-31.07.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-28-din-31.07.2023.pdf",
+     "sha256": "450311b2610e9279bde333e06c2c602b920b77c9ac68a1ec562304baf0bda353"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-29-2023",
+   "path": "local/buzau/valea-salciei/2023/29",
+   "short": "HCL Valea Salciei nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 29/2023",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-29-din-31.07.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-29-din-31.07.2023.pdf",
+     "sha256": "3b9ce6d712eaf05ddc0ff27c78d22d69849796f9164878a9af9b1f566263a199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--valea-salciei-30-2023",
+   "path": "local/buzau/valea-salciei/2023/30",
+   "short": "HCL Valea Salciei nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 30/2023",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-30-din-31.07.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-30-din-31.07.2023.pdf",
+     "sha256": "39b735b2f5f4653b62f2764e03e2c518b709d9b269cddf7fa8cfe608ba13490b"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,51 @@
  "shard": "local/brasov/rupea/2018",
  "acts": [
   {
+   "slug": "hcl-brasov--rupea-10-2018",
+   "path": "local/brasov/rupea/2018/10",
+   "short": "HCL Rupea nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 10/2018 privind aprobarea bugetului de venituri și cheltuieli al orașului Rupea, pe anul 2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-10-28-02-2018.pdf",
+     "sha256": "3b3aeef670863c78d4e7d0c5a35ca6a622be5e20b200b44e40f2d3848212b52c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-11-2018",
+   "path": "local/brasov/rupea/2018/11",
+   "short": "HCL Rupea nr. 11/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 11/2018 privind aprobarea Strategiei de dezvoltare locală a orașului Rupea pentru perioada 2018 – 2030",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-11-28-02-2018.pdf",
+     "sha256": "adefd67fc92b8db216928a540b95f87c4c4f07dadbe52ee7ee4d116b0099a6dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-12-2018",
+   "path": "local/brasov/rupea/2018/12",
+   "short": "HCL Rupea nr. 12/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 12/2018 privind aprobarea Regulamentului de organizare și funcționare a Primăriei orașului Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-12-28-02-2018.pdf",
+     "sha256": "e70da6122339390926503807817a869c7ca7e647e8880362267079594de8a3ae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-13-2018",
    "path": "local/brasov/rupea/2018/13",
    "short": "HCL Rupea nr. 13/2018",
@@ -18,6 +63,111 @@
    ]
   },
   {
+   "slug": "hcl-brasov--rupea-14-2018",
+   "path": "local/brasov/rupea/2018/14",
+   "short": "HCL Rupea nr. 14/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 14/2018 privind scoaterea din evidența fiscală a unor persoane juridice aflate în stare de insolvabilitate",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-14-28-02-2018.pdf",
+     "sha256": "dcead0a2bb88c57e75aff126f21ba1a32b9c943a406cca87a55d211f4c4a884f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-15-2018",
+   "path": "local/brasov/rupea/2018/15",
+   "short": "HCL Rupea nr. 15/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 15/2018 privind actualizarea programului de achiziții publice pentru anul 2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-15-28-02-2018.pdf",
+     "sha256": "57272f01a7def30213365bd35cd89fa16a4a78818964a62278df2a904cbc1237"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-16-2018",
+   "path": "local/brasov/rupea/2018/16",
+   "short": "HCL Rupea nr. 16/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 16/2018 pentru aprobarea planului de acțiuni și lucrări de interes local",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-16-28-02-2018.pdf",
+     "sha256": "d96eaf896c86b56351a3bf0dc40148160d81d04119aaa08e7b618201e47c1014"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-17-2018",
+   "path": "local/brasov/rupea/2018/17",
+   "short": "HCL Rupea nr. 17/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 17/2018 privind atribuirea în folosința gratuită către SDEE TRANSILVANIA SUD a terenului pentru 4 posturi de transformare, fiecare post necesitând o suprafață construită de 12 mp",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-17-28-02-2018.pdf",
+     "sha256": "b36d4c4a74803582015225d0c67a5c2c313061cebaf93a9f3e323be28067b9bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-19-2018",
+   "path": "local/brasov/rupea/2018/19",
+   "short": "HCL Rupea nr. 19/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 19/2018 cu privire la modificarea HCL nr. 1 din 2018 privind aprobarea utilizării excedentului bugetar al anului 2017, in anul 2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-19-26-03-2018.pdf",
+     "sha256": "641380470d23a3d15eca5870ab35838964544bc5c11e17e6192f06ed3fed195c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-20-2018",
+   "path": "local/brasov/rupea/2018/20",
+   "short": "HCL Rupea nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 20/2018 privind rectificarea bugetului de venituri și cheltuieli al orașului Rupea, pe anul 2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-20-26-03-2018.pdf",
+     "sha256": "2626721af139441a51009d31a5540c39c92cc1443f1f6bab92eea9279943e142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-21-2018",
+   "path": "local/brasov/rupea/2018/21",
+   "short": "HCL Rupea nr. 21/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 21/2018 privind aprobarea bugetului de venituri și cheltuieli al RPL Ocolul Silvic Pădurea Bogății RA pentru anul 2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-21-26-03-2018.pdf",
+     "sha256": "d56d24f4ba9b199c54c62888997dd340759b3f5d559196cc22602655a632906c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--rupea-23-2018",
    "path": "local/brasov/rupea/2018/23",
    "short": "HCL Rupea nr. 23/2018",
@@ -29,6 +179,66 @@
      "units": 1,
      "source_url": "https://www.primariarupea.ro/img/hcl-2018/hotararea-23-26-03-2018.pdf",
      "sha256": "c1feb219bc87d66f70cdd46d9210cd003a0240a8bc0fb3fd7c30ea75ff9e6a27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-3-2018",
+   "path": "local/brasov/rupea/2018/3",
+   "short": "HCL Rupea nr. 3/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 3/2018 privind aprobarea strategiei anuale de achizitii publice si a planului de achizitii pentru anul 2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/HCL-NR-3-2018.pdf",
+     "sha256": "b15b38d407b9e07385701ae4adfe214f0695a03ccea7212488e6600c2476b48a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-5-2018",
+   "path": "local/brasov/rupea/2018/5",
+   "short": "HCL Rupea nr. 5/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 5/2018 privind aprobarea volumului de masa lemnoasa exploatabil in 2018",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/HCL-NR-5-2018.pdf",
+     "sha256": "9021b4e745ea62ff52b5631bfaf8c364109fa8dff1c9a8c125d5c59be6b41e72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-6-2018",
+   "path": "local/brasov/rupea/2018/6",
+   "short": "HCL Rupea nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 6/2018 privind aprobarea pretului pentru lemnul de foc pentru populatie din fondul forestier al orasului Rupea",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/HCL-NR-6-2018.pdf",
+     "sha256": "7daf4ac1094f7dcf60348214241e9faa79060718077460046a207691178c1381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--rupea-7-2018",
+   "path": "local/brasov/rupea/2018/7",
+   "short": "HCL Rupea nr. 7/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Rupea nr. 7/2018 privind aprobarea retelei scolare a localitatii Rupea ce va functiona in anul scolar 2018-2019",
+   "url": "https://www.primariarupea.ro/hotarari-consiliu-local-2018/",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 1,
+     "source_url": "https://www.primariarupea.ro/img/hcl-2018/HCL-NR-7-2018.pdf",
+     "sha256": "8758e53dfc2b04924b8cbfd5f79054060e1f3a282bab005b05b8f8309e33de1c"
     }
    ]
   },

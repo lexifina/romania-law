@@ -3,6 +3,21 @@
  "shard": "local/buzau/ulmeni/2021",
  "acts": [
   {
+   "slug": "hcl-buzau--ulmeni-34-2021",
+   "path": "local/buzau/ulmeni/2021/34",
+   "short": "HCL Ulmeni nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmeni nr. 34/2021 privind modificarea HCL nr.34 din 29.07.2021",
+   "url": "https://primariaulmenibuzau.ro/hotarari-ale-consiliului-local-2022-2/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://primariaulmenibuzau.ro/wp-content/uploads/2023/05/HCL-nr.12-din-2023-privind-modificarea-HCL-nr.34-din-29.07.2021.pdf",
+     "sha256": "cf9e580708a0a29b81994c9363ddbd93cf72a564a4faf2a66c1533f2bb904db2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--ulmeni-8-2021",
    "path": "local/buzau/ulmeni/2021/8",
    "short": "HCL Ulmeni nr. 8/2021",

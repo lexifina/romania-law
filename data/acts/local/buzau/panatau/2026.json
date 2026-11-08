@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/buzau/panatau/2026",
+"acts": [
+{
+"slug": "hcl-buzau--panatau-1-2026",
+"path": "local/buzau/panatau/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pănătău nr. 1/2026",
+"short": "HCL Pănătău nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://panatau.ro/wp-content/uploads/HCL-nr.-1-din-12.01.2026.pdf",
+"council": "buzau/panatau",
+"council_name": "Consiliul Local al Comunei Pănătău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--panatau-3-2026",
+"path": "local/buzau/panatau/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pănătău nr. 3/2026",
+"short": "HCL Pănătău nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://panatau.ro/wp-content/uploads/HCL-nr.-3-din-12.01.2026.pdf",
+"council": "buzau/panatau",
+"council_name": "Consiliul Local al Comunei Pănătău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--panatau-4-2026",
+"path": "local/buzau/panatau/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pănătău nr. 4/2026",
+"short": "HCL Pănătău nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://panatau.ro/wp-content/uploads/HCL-nr.-4-din-12.01.2026.pdf",
+"council": "buzau/panatau",
+"council_name": "Consiliul Local al Comunei Pănătău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--panatau-19-2026",
+"path": "local/buzau/panatau/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pănătău nr. 19/2026",
+"short": "HCL Pănătău nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://panatau.ro/wp-content/uploads/HCL-nr.-19-din-07.05.2026.pdf",
+"council": "buzau/panatau",
+"council_name": "Consiliul Local al Comunei Pănătău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--panatau-20-2026",
+"path": "local/buzau/panatau/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pănătău nr. 20/2026",
+"short": "HCL Pănătău nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://panatau.ro/wp-content/uploads/HCL-nr.-20-din-07.05.2026.pdf",
+"council": "buzau/panatau",
+"council_name": "Consiliul Local al Comunei Pănătău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--panatau-21-2026",
+"path": "local/buzau/panatau/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pănătău nr. 21/2026",
+"short": "HCL Pănătău nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://panatau.ro/wp-content/uploads/HCL-nr.-21-din-07.05.2026.pdf",
+"council": "buzau/panatau",
+"council_name": "Consiliul Local al Comunei Pănătău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -25,6 +25,74 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-2-2025",
+"path": "local/calarasi/belciugatele/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 2/2025 privind aprobarea scutirii de la plata chiriei pe anul 2024, pentru suprafețele de pajiști aflate în domeniul privat al comunei Belciugatele, închiriate conform Contractului de închiriere nr. 3491/30.05.2024",
+"short": "HCL Belciugatele nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/186354",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-3-2025",
+"path": "local/calarasi/belciugatele/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 3/2025",
+"short": "HCL Belciugatele nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/188716",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-4-2025",
+"path": "local/calarasi/belciugatele/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 4/2025",
+"short": "HCL Belciugatele nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/188717",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-5-2025",
 "path": "local/calarasi/belciugatele/2025/5",
 "kind": "local",
@@ -69,6 +137,98 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-7-2025",
+"path": "local/calarasi/belciugatele/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 7/2025",
+"short": "HCL Belciugatele nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/188720",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-8-2025",
+"path": "local/calarasi/belciugatele/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 8/2025",
+"short": "HCL Belciugatele nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/188721",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-9-2025",
+"path": "local/calarasi/belciugatele/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 9/2025",
+"short": "HCL Belciugatele nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/188722",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-10-2025",
+"path": "local/calarasi/belciugatele/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 10/2025",
+"short": "HCL Belciugatele nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/188723",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-11-2025",
 "path": "local/calarasi/belciugatele/2025/11",
 "kind": "local",
@@ -88,6 +248,51 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-12-2025",
+"path": "local/calarasi/belciugatele/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 12/2025",
+"short": "HCL Belciugatele nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/188725",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-13-2025",
+"path": "local/calarasi/belciugatele/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 13/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+"short": "HCL Belciugatele nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/192563",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +406,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-19-2025",
+"path": "local/calarasi/belciugatele/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 19/2025 cu privire la aprobarea bugetului local de venituri și cheltuieli al comunei Belciugatele pe anul 2025",
+"short": "HCL Belciugatele nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/199615",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-20-2025",
 "path": "local/calarasi/belciugatele/2025/20",
 "kind": "local",
@@ -264,6 +491,50 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-23-2025",
+"path": "local/calarasi/belciugatele/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 23/2025 privind modificarea Hotărârii Consiliului Local Belciugatele nr. 50 din 28.08.2024, in sensul schimbării categoriei de folosință a unui imobil-teren în suprafață de 2402 m.p",
+"short": "HCL Belciugatele nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/199619",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-24-2025",
+"path": "local/calarasi/belciugatele/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 24/2025 privind atestarea apartenenței unor imobile-terenuri la domeniul privat al comunei Belciugatele, județul Călărași",
+"short": "HCL Belciugatele nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/199620",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -334,6 +605,118 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-28-2025",
+"path": "local/calarasi/belciugatele/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 28/2025 privind înființarea Clubului Sportiv Belciugatele",
+"short": "HCL Belciugatele nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/199624",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-29-2025",
+"path": "local/calarasi/belciugatele/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 29/2025",
+"short": "HCL Belciugatele nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/199625",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-30-2025",
+"path": "local/calarasi/belciugatele/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 30/2025",
+"short": "HCL Belciugatele nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-16",
+"latest": "2025-04-16",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/200609",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-31-2025",
+"path": "local/calarasi/belciugatele/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 31/2025 privind aprobarea modificării organigramei, a statului de funcții și a numărului de personal pentru aparatul propriu de specialitate al primarului comunei Belciugatele, județul Călărași",
+"short": "HCL Belciugatele nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-17",
+"latest": "2025-04-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/201815",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-32-2025",
+"path": "local/calarasi/belciugatele/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 32/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+"short": "HCL Belciugatele nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/208054",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-33-2025",
 "path": "local/calarasi/belciugatele/2025/33",
 "kind": "local",
@@ -378,6 +761,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-35-2025",
+"path": "local/calarasi/belciugatele/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 35/2025 pentru modificarea Hotararii Consiliului Local nr. 21/2020 privind numirea administratorului Societatii Belciugatele - Constructii Edilitare S.R.L",
+"short": "HCL Belciugatele nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/208057",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-36-2025",
 "path": "local/calarasi/belciugatele/2025/36",
 "kind": "local",
@@ -397,6 +802,28 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-37-2025",
+"path": "local/calarasi/belciugatele/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 37/2025 privind organizarea unei comisii speciale de analiză și verificare",
+"short": "HCL Belciugatele nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-20",
+"latest": "2025-05-20",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/208059",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -464,6 +891,28 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-41-2025",
+"path": "local/calarasi/belciugatele/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 41/2025 privind însușirea Acordului de cooperare cu Filiala Județeană Călărași a Asociației Comunelor din România privind organizarea și exercitarea activității de registru agricol",
+"short": "HCL Belciugatele nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/209218",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -797,6 +1246,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--belciugatele-57-2025",
+"path": "local/calarasi/belciugatele/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 57/2025 cu privire la aprobarea încheierii contractului de comodat între comuna Belciugatele, în calitate de comodant și Club Sportiv Belciugatele, în calitate de comodatar",
+"short": "HCL Belciugatele nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/220894",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-58-2025",
+"path": "local/calarasi/belciugatele/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 58/2025 privind aprobarea modificării Statutului Clubului Sportiv Belciugatele înființat prin Hotărârea Consiliului Local nr. 28/27.03.2025",
+"short": "HCL Belciugatele nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/220895",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--belciugatele-59-2025",
 "path": "local/calarasi/belciugatele/2025/59",
 "kind": "local",
@@ -816,6 +1309,28 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-60-2025",
+"path": "local/calarasi/belciugatele/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 60/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Belciugatele pentru o perioadă de trei luni",
+"short": "HCL Belciugatele nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/222936",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -948,6 +1463,186 @@
 "council_name": "Consiliul Local al Comunei Belciugatele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-67-2025",
+"path": "local/calarasi/belciugatele/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 67/2025 privind desemnarea unui reprezentant din partea Consiliului Local în Comisia pentru Evaluare și Asigurare a Calității în învățământ din cadrul Școlii Gimnaziale nr.1 Belciugatele",
+"short": "HCL Belciugatele nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/228237",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-68-2025",
+"path": "local/calarasi/belciugatele/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 68/2025 privind desemnarea reprezentantului Consiliului Local Belciugatele în Consiliul de administrație al Școlii Gimnaziale nr.1 Belciugatele",
+"short": "HCL Belciugatele nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/228238",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-69-2025",
+"path": "local/calarasi/belciugatele/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 69/2025",
+"short": "HCL Belciugatele nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/228239",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-70-2025",
+"path": "local/calarasi/belciugatele/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 70/2025",
+"short": "HCL Belciugatele nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/228240",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-71-2025",
+"path": "local/calarasi/belciugatele/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 71/2025",
+"short": "HCL Belciugatele nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/228241",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-72-2025",
+"path": "local/calarasi/belciugatele/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 72/2025",
+"short": "HCL Belciugatele nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/228242",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-73-2025",
+"path": "local/calarasi/belciugatele/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 73/2025 privind completarea Regulamentului de Organizare și Funcționare aferent aparatului de specialitate al primarului comunei Belciugatele, județ Călărași",
+"short": "HCL Belciugatele nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/228243",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--belciugatele-74-2025",
+"path": "local/calarasi/belciugatele/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Belciugatele nr. 74/2025 privind aprobarea organizării transportului școlar pentru elevii din comuna Belciugatele, județul Călărași",
+"short": "HCL Belciugatele nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/belciugatele-cl/registru-hcl/228244",
+"council": "calarasi/belciugatele",
+"council_name": "Consiliul Local al Comunei Belciugatele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

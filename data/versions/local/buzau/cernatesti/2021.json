@@ -3,6 +3,21 @@
  "shard": "local/buzau/cernatesti/2021",
  "acts": [
   {
+   "slug": "hcl-buzau--cernatesti-41-2021",
+   "path": "local/buzau/cernatesti/2021/41",
+   "short": "HCL Cernătești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cernătești nr. 41/2021",
+   "url": "https://cernatesti.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://cernatesti.ro/wp-content/uploads/2021/10/HCL-extraordinara-41-din-24-Septembrie-2021.pdf",
+     "sha256": "6dba9b522c047dc0ffbf9c15891cb149e772f010a18c055b1f2a1df6c9610ebc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cernatesti-5-2021",
    "path": "local/buzau/cernatesti/2021/5",
    "short": "HCL Cernătești nr. 5/2021",

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/buzau/rusetu/2026",
+"acts": [
+{
+"slug": "hcl-buzau--rusetu-28-2026",
+"path": "local/buzau/rusetu/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rușețu nr. 28/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Renovare Integrată Cămin Cultural Comuna Rușețu, Județul Buzău”, aprobat pentru finanțare prin Programul național de consolidare a clădirilor cu risc seismic ridicat – Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publică",
+"short": "HCL Rușețu nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primariarusetu.ro/wp-content/uploads/HCL-nr.-28-din-24.09.2026.pdf",
+"council": "buzau/rusetu",
+"council_name": "Consiliul Local al Comunei Rușețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--rusetu-30-2026",
+"path": "local/buzau/rusetu/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rușețu nr. 30/2026 privind atestarea unui bun la domeniul privat al comunei Rușețu, Secțiunea – ”Bunuri mobile” Consiliul Local al comunei Rușețu, județul Buzău; Având în vedere: - referatul de aprobare al primarului comunei Rușețu, înregistrat sub nr.5316/18.09.2026; - raportul compartimentului de specialitate, înregistrat sub nr. 5423/24.09.2026; - avizele comisiilor de specialitate ale Consiliului local al comune",
+"short": "HCL Rușețu nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primariarusetu.ro/wp-content/uploads/HCL-nr.-30-din-24.09.2026.pdf",
+"council": "buzau/rusetu",
+"council_name": "Consiliul Local al Comunei Rușețu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--rusetu-31-2026",
+"path": "local/buzau/rusetu/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rușețu nr. 31/2026 privind desemnarea reprezentului Consiliului local al comunei Rușețu în Comisia de evaluare a probei interviu organizată pentru ocuparea funcțiIor vacante de director și director adjunct din Liceului Tehnologic Rușețu Consiliul local al comunei Rușețu, județul Buzău, Având în vedere: - adresa Inspectoratului Școlar Județean Buzău nr.4871/07.09.2026 prin care se solicită desemnarea unui reprezentan",
+"short": "HCL Rușețu nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-24",
+"latest": "2026-09-24",
+"portal": "https://www.primariarusetu.ro/wp-content/uploads/HCL-nr.-31-din-24.09.2026.pdf",
+"council": "buzau/rusetu",
+"council_name": "Consiliul Local al Comunei Rușețu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

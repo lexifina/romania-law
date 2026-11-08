@@ -3,6 +3,50 @@
 "shard": "local/buzau/nehoiu/2024",
 "acts": [
 {
+"slug": "hcl-buzau--nehoiu-33-2024",
+"path": "local/buzau/nehoiu/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 33/2024 privind aprobarea modificarii si actualizarii Statutului Asociatiei de Dezvoltare Intercomunitara Eco Buzau 2009 la care orasul Nehoiu este membru asociat",
+"short": "HCL Nehoiu nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2024/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--nehoiu-80-2024",
+"path": "local/buzau/nehoiu/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 80/2024 privind acordarea unor facilitati fiscale urmare achitarii pana la data de 25.11.2024 a obligatiilor restante la data de 31.08.2024",
+"short": "HCL Nehoiu nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-25",
+"latest": "2024-11-25",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2024/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--nehoiu-85-2024",
 "path": "local/buzau/nehoiu/2024/85",
 "kind": "local",

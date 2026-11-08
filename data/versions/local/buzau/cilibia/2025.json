@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cilibia-11-2025",
+   "path": "local/buzau/cilibia/2025/11",
+   "short": "HCL Cilibia nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 11/2025 privind modificarea Hotărârii nr. 32 din 19 noiembrie 2024 privind stabilirea și organizarea comisiilor de specialitate ale Consiliului local al comunei Cilibia, județul Buzău, pe principalele domenii de activitate",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233674",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233674",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cilibia-12-2025",
    "path": "local/buzau/cilibia/2025/12",
    "short": "HCL Cilibia nr. 12/2025",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cilibia-25-2025",
+   "path": "local/buzau/cilibia/2025/25",
+   "short": "HCL Cilibia nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 25/2025 privind încheierea unui contract de asistență și reprezentare juridică",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233690",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233690",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cilibia-26-2025",
    "path": "local/buzau/cilibia/2025/26",
    "short": "HCL Cilibia nr. 26/2025",
@@ -273,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cilibia-28-2025",
+   "path": "local/buzau/cilibia/2025/28",
+   "short": "HCL Cilibia nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 28/2025 privind modificarea și completarea HCL nr. 12/26 martie 2025, privind aprobarea bugetului local pentru anul 2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233695",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-29-2025",
+   "path": "local/buzau/cilibia/2025/29",
+   "short": "HCL Cilibia nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 29/2025 privind rezilierea Contractului de prestări servicii nr. 42/22.05.2023 înheiat între Comuna Cilibia și SC Mox Project & Solutions SRL",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233696",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233696",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cilibia-3-2025",
    "path": "local/buzau/cilibia/2025/3",
    "short": "HCL Cilibia nr. 3/2025",
@@ -283,6 +343,51 @@
      "from": "2025-01-14",
      "units": 1,
      "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-30-2025",
+   "path": "local/buzau/cilibia/2025/30",
+   "short": "HCL Cilibia nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 30/2025 privind stabilirea organigramei și statului de funcții ale Serviciului public de Salubrizare Serviciu de interes local subordonat Consiliului Local",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233697",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-31-2025",
+   "path": "local/buzau/cilibia/2025/31",
+   "short": "HCL Cilibia nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 31/2025 privind modificarea pct. 9 din HCL 18/26.03.2025 privind consumului specific și a cotelor de carburanți pentru Autoturism Ford Eco Sport - autoturism de serviciu",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233698",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-32-2025",
+   "path": "local/buzau/cilibia/2025/32",
+   "short": "HCL Cilibia nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 32/2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233699",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233699",
      "sha256": null
     }
    ]
@@ -333,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cilibia-36-2025",
+   "path": "local/buzau/cilibia/2025/36",
+   "short": "HCL Cilibia nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 36/2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233742",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233742",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cilibia-37-2025",
    "path": "local/buzau/cilibia/2025/37",
    "short": "HCL Cilibia nr. 37/2025",
@@ -343,6 +463,36 @@
      "from": "2026-06-03",
      "units": 1,
      "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-38-2025",
+   "path": "local/buzau/cilibia/2025/38",
+   "short": "HCL Cilibia nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 38/2025 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de resurse umane, urbanism, agricultură și proceduri administrative",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233744",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-39-2025",
+   "path": "local/buzau/cilibia/2025/39",
+   "short": "HCL Cilibia nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 39/2025 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de operator rol, casierie și achiziții publice",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233745",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233745",
      "sha256": null
     }
    ]
@@ -363,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cilibia-40-2025",
+   "path": "local/buzau/cilibia/2025/40",
+   "short": "HCL Cilibia nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 40/2025 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de asistență socială",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233746",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233746",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cilibia-41-2025",
    "path": "local/buzau/cilibia/2025/41",
    "short": "HCL Cilibia nr. 41/2025",
@@ -378,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cilibia-42-2025",
+   "path": "local/buzau/cilibia/2025/42",
+   "short": "HCL Cilibia nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 42/2025 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul I al anului 2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/233748",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233748",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cilibia-43-2025",
    "path": "local/buzau/cilibia/2025/43",
    "short": "HCL Cilibia nr. 43/2025",
@@ -388,6 +568,51 @@
      "from": "2026-06-03",
      "units": 1,
      "source_url": "https://emol.ro/cilibia-bz/registru-hcl/233749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-44-2025",
+   "path": "local/buzau/cilibia/2025/44",
+   "short": "HCL Cilibia nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 44/2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/237845",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/237845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-45-2025",
+   "path": "local/buzau/cilibia/2025/45",
+   "short": "HCL Cilibia nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 45/2025 privind aprobarea rectificarii bugetului local de venituri si cheltuieli, precum si Lista de Investitii la comuna Cilibia jud. Buzau pe anul 2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/237846",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/237846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-46-2025",
+   "path": "local/buzau/cilibia/2025/46",
+   "short": "HCL Cilibia nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 46/2025 privind alegerea viceprimarului comunei Cilibia, județul Buzău",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/237870",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/237870",
      "sha256": null
     }
    ]
@@ -418,6 +643,21 @@
      "from": "2026-06-03",
      "units": 1,
      "source_url": "https://emol.ro/cilibia-bz/registru-hcl/237930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-49-2025",
+   "path": "local/buzau/cilibia/2025/49",
+   "short": "HCL Cilibia nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 49/2025 privind depunerea jurământului viceprimarului comunei viceprimarului comunei Cilibia, județul Buzău",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/237931",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/237931",
      "sha256": null
     }
    ]
@@ -463,6 +703,51 @@
      "from": "2026-06-21",
      "units": 1,
      "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-52-2025",
+   "path": "local/buzau/cilibia/2025/52",
+   "short": "HCL Cilibia nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 52/2025 privind modalitatea de încheiere a contractelor de arendă, concesiune și si de închiriere la nivel de u.a.t. precum și cele existente actualizate cu rata inflației pe raza comunei Cilibia județul Buzău",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273766",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-53-2025",
+   "path": "local/buzau/cilibia/2025/53",
+   "short": "HCL Cilibia nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 53/2025",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273767",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cilibia-54-2025",
+   "path": "local/buzau/cilibia/2025/54",
+   "short": "HCL Cilibia nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cilibia nr. 54/2025 privind aprobarea închirierii spațiului aflat în incinta Primăriei comunei Cilibia județul Buzău - parter, pentru funcționarea unui sediu de farmacie",
+   "url": "https://emol.ro/cilibia-bz/registru-hcl/273768",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cilibia-bz/registru-hcl/273768",
      "sha256": null
     }
    ]

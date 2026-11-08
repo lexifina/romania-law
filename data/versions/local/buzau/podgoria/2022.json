@@ -3,6 +3,186 @@
  "shard": "local/buzau/podgoria/2022",
  "acts": [
   {
+   "slug": "hcl-buzau--podgoria-11-2022",
+   "path": "local/buzau/podgoria/2022/11",
+   "short": "HCL Podgoria nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 11/2022 privind aprobarea contului de inchidere a exercitiului bugetar pe anul 2021_compressed",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-11-31.03.2022-privind-aprobarea-contului-de-inchidere-a-exercitiului-bugetar-pe-anul-2021_compressed.pdf",
+     "sha256": "1386d5bfe9cc87f24f70d484c3920cbb862eb5e25c74cb4a2e916f076ce6e602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-12-2022",
+   "path": "local/buzau/podgoria/2022/12",
+   "short": "HCL Podgoria nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 12/2022 privind modificarea contractului de delegare a gestiunii directe a serviciului de transport public local - act aditional nr 2-2022_compressed",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-12-31.03.2022-privind-modificarea-contractului-de-delegare-a-gestiunii-directe-a-serviciului-de-transport-public-local-act-aditional-nr-2-2022_compressed.pdf",
+     "sha256": "03894aa3cf729483c0598e8cbf45148770fcee555a6b9c854708db808ec7712c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-18-2022",
+   "path": "local/buzau/podgoria/2022/18",
+   "short": "HCL Podgoria nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 18/2022 privind aprobarea Regulamentului de organizare şi funcţionare_compressed",
+   "url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-18-31052022-privind-aprobarea-Regulamentului-de-organizare-si-functionare_compressed.pdf",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-18-31052022-privind-aprobarea-Regulamentului-de-organizare-si-functionare_compressed.pdf",
+     "sha256": "34e4aa1e99f36d26af6c69921d28d0bd154b210d8b97e82d381ec86e5e3afb31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-19-2022",
+   "path": "local/buzau/podgoria/2022/19",
+   "short": "HCL Podgoria nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 19/2022 privind alegerea Presedintelui de sedinta al Consiliului Local al comunei Podgoria pentru perioada IUNIE – IULIE- AUGUST 2022",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-19-privind-alegerea-Presedintelui-de-sedinta-al-Consiliului-Local-al-comunei-Podgoria-pentru-perioada-IUNIE-%E2%80%93-IULIE-AUGUST-2022_compressed.pdf",
+     "sha256": "8ac50360759d18e253042a814c6ee3e637b4dd8677d4e5ee89c69237f4a68462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-20-2022",
+   "path": "local/buzau/podgoria/2022/20",
+   "short": "HCL Podgoria nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 20/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d0b156958b16ff1975a7889a91add440f6ab2e8599995eef7879df0e4c39254d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-21-2022",
+   "path": "local/buzau/podgoria/2022/21",
+   "short": "HCL Podgoria nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 21/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0b565c4ce1c85244a9e5fffa9eac416b79cf6b511833059fef320d48490ae696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-22-2022",
+   "path": "local/buzau/podgoria/2022/22",
+   "short": "HCL Podgoria nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 22/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7637828d49e5d3a6ee9fdea1139a7261f76700a544f7cc1df2ad378335b5526c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-23-2022",
+   "path": "local/buzau/podgoria/2022/23",
+   "short": "HCL Podgoria nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 23/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2e180a90d26cf4c14f9b15ad8d3bf937fcc829329ce7e1ed78800fd9cf355328"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-25-2022",
+   "path": "local/buzau/podgoria/2022/25",
+   "short": "HCL Podgoria nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 25/2022 Privind transformarea unei functii publice de executie vacante de nivel superior in nivel inferior de la Compartimentul Achizitii Publice din cadrul Organigramei si Statului de functii",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-25-Privind-transformarea-unei-functii-publice-de-executie-vacante-de-nivel-superior-in-nivel-inferior-de-la-Compartimentul-Achizitii-Publice-din-cadrul-Organigramei-si-Statului-de-functii.pdf",
+     "sha256": "0f80bafab7cee9c44938eb28dacb6a70cab4c0eb74e6ed99a27fec8e78f18bab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-27-2022",
+   "path": "local/buzau/podgoria/2022/27",
+   "short": "HCL Podgoria nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 27/2022 Privind aprobarea actualizarii componentei Comisiei de specialitate pentru programe de dezvoltare economico-sociala, buget -finante, administrarea domeniului public si privat",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-27-Privind-aprobarea-actualizarii-componentei-Comisiei-de-specialitate-pentru-programe-de-dezvoltare-economico-sociala-buget-finante-administrarea-domeniului-public-si-privat.pdf",
+     "sha256": "115cb23c058a6942b25ed42c5c46072eb48354515b4f18b119bf0603be71a947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-28-2022",
+   "path": "local/buzau/podgoria/2022/28",
+   "short": "HCL Podgoria nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 28/2022 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria - luna august 2022 Consiliul local al comunei Podgoria, judetul Buzau, intrunit in sedinta ORDINARA - pe luna august 2022; Având în vedere : • referatul de aprobare al Primarului comunei Podgoria, inregistrat sub nr. 4165/10.08.2022 intocmit in conformitate cu prevederile art.136, alin.(8), lit.a) din O.U",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL.-nr.28-31082022-rectificarea-bugetului-local-de-venituri-si-cheltuieli-luuna-august-2022.pdf",
+     "sha256": "ec8b335604b030c52425d7f93fac09048097e58dcd46b23de6c95edcb837b7b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-29-2022",
+   "path": "local/buzau/podgoria/2022/29",
+   "short": "HCL Podgoria nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 29/2022 privind indreptarea erorilor materiale inscrise in cuprinsul Hotararii Consiliului local Podgoria nr. 10 din 28.02.2022 privind aprobarea numarului de burse scolare pentru elevii din institutiile de invatamant preuniversitar de pe raza comunei Podgoria, judetul Buzau, pentru anul scolar 2021-2022, semestrul II",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL.-nr.29-31082022-privind-indreptarea-erorilor-materiale-inscrise-in-cuprinsul-Hotararii-Consiliului-local-Podgoria-nr.-10-din-28.02.2022_compressed.pdf",
+     "sha256": "94b8cf4409eaf8da2469de4fc83da46d469ff016f4d80f75295f0eeaa63b9042"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-30-2022",
    "path": "local/buzau/podgoria/2022/30",
    "short": "HCL Podgoria nr. 30/2022",
@@ -18,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-buzau--podgoria-31-2022",
+   "path": "local/buzau/podgoria/2022/31",
+   "short": "HCL Podgoria nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 31/2022 privind punerea in aplicare a Deciziei Civile nr. 372/9.12.2021, ramasa definitiva, pronuntata de Curtea de Apel Ploiesti, in dosarul nr. 2417/121/2019 si a Sentintei Civile nr. 601/24.06.2021, pronuntata de Tribunalul Buzau in dosarul nr. 2417/121/2019",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-31-privind-punerea-in-aplicare-a-Deciziei-Civile-nr.-3729.12.2021-ramasa-definitiva-pronuntata-de-Curtea-de-Apel-Ploiesti-in-dosarul-nr.-24171212019-si-a-Sentintei-Civile-nr.-60124.06.2021.pdf",
+     "sha256": "54439427babc60b1268004cd1e86709e8d7fe92d8a2fab7efd248fd12e27e8e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-32-2022",
+   "path": "local/buzau/podgoria/2022/32",
+   "short": "HCL Podgoria nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 32/2022 privind alegerea Presedintelui de sedinta al Consiliului Local al comunei Podgoria pentru perioada SEPTEMBRIE- OCTOMBRIE – NOIEMBRIE 2022_compressed",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL.-nr.32-31082022-privind-alegerea-Presedintelui-de-sedinta-al-Consiliului-Local-al-comunei-Podgoria-pentru-perioada-SEPTEMBRIE-OCTOMBRIE-%E2%80%93-NOIEMBRIE-2022_compressed.pdf",
+     "sha256": "0269c0edfc8852560b5c2d4d3e1cda81c0a6f09369b6bbfaf0511ecab65c86b8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--podgoria-33-2022",
    "path": "local/buzau/podgoria/2022/33",
    "short": "HCL Podgoria nr. 33/2022",
@@ -29,6 +239,81 @@
      "units": 1,
      "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-NR.-33-privind-aprobarea-majorarii-tarifului-la-biletele-de-calatorie-si-abonamente-pentru-transportul-public-de-persoane-serviciu-delegat-operatorului-S.C.-Transport-Urban-d.pdf",
      "sha256": "efacb80365baa5551da9615b9a513f200e6d49cc75a0639211ee1d05ef2d326e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-34-2022",
+   "path": "local/buzau/podgoria/2022/34",
+   "short": "HCL Podgoria nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 34/2022 Privind modificarea si completarea Organigramei si a Statului de functii al Aparatului de specialitate al Primarului comunei Podgoria, judetul Buzau prin infiintarea unui post de sofer",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-34-Privind-modificarea-si-completarea-Organigramei-si-a-Statului-de-functii-al-Aparatului-de-specialitate-al-Primarului-comunei-Podgoria-judetul-Buzau-prin-infiintarea-unui-post-de-sofer.pdf",
+     "sha256": "e03d6d1cc91d2c0fc980f208cba359834553981f58642c74ea20dd1698171e28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-35-2022",
+   "path": "local/buzau/podgoria/2022/35",
+   "short": "HCL Podgoria nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 35/2022 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Podgoria - luna septembrie 2022_compressed",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-35-29092022-privind-aprobarea-rectificarii-bugetului-local-de-venituri-si-cheltuieli-al-comunei-Podgoria-luna-septembrie-2022_compressed.pdf",
+     "sha256": "62a028dc0e6e3691162ad8b67dbd82a200f36b2f1ff447d88d03531ab3a9375f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-36-2022",
+   "path": "local/buzau/podgoria/2022/36",
+   "short": "HCL Podgoria nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 36/2022 privind aprobarea utilizarii in anul 2022 a sumei de 145,00 mii lei din excedentul anual al bugetului local al Comunei Podgoria rezultat la incheierea exercitiului bugetar la 31.12.2021",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL.-36-privind-aprobarea-utilizarii-in-anul-2022-a-sumei-de-14500-mii-lei-din-excedentul-anual-al-bugetului-local-al-Comunei-Podgoria-rezultat-la-incheierea-exercitiului-bugetar-la-31.12.2021.pdf",
+     "sha256": "608c3e12f69d0a4937ee29f2770bbbd4dff3575c2a5b8da3d55a3c7cdc28bda1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-37-2022",
+   "path": "local/buzau/podgoria/2022/37",
+   "short": "HCL Podgoria nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 37/2022 Privind aprobarea activitatii desfasurate de asistentii personali ai persoanelor cu handicap grav, pe semestrul I -2022_compressed",
+   "url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-37-310102022-Privind-aprobarea-activitatii-desfasurate-de-asistentii-personali-ai-persoanelor-cu-handicap-grav-pe-semestrul-I-2022_compressed.pdf",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL-nr.-37-310102022-Privind-aprobarea-activitatii-desfasurate-de-asistentii-personali-ai-persoanelor-cu-handicap-grav-pe-semestrul-I-2022_compressed.pdf",
+     "sha256": "b826f6a5f231c19b119ae80a9ecc36ec6b8ea7091739c3ae6d27011d04237729"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--podgoria-41-2022",
+   "path": "local/buzau/podgoria/2022/41",
+   "short": "HCL Podgoria nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Podgoria nr. 41/2022 privind alegerea Presedintelui de sedinta al Consiliului Local al comunei Podgoria pentru perioada DECEMBRIE 2022 - IANUARIE- FEBRUARIE 2023_compressed",
+   "url": "https://comunapodgoria.ro/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://comunapodgoria.ro/wp-content/uploads/2023/04/HCL.-nr.41-28112022-privind-alegerea-Presedintelui-de-sedinta-al-Consiliului-Local-al-comunei-Podgoria-pentru-perioada-DECEMBRIE-2022-IANUARIE-FEBRUARIE-2023_compressed.pdf",
+     "sha256": "9e793b49b645d760fc42bb9e35fda26f1694ae2cca77e11d89e5cc97f1e50377"
     }
    ]
   },

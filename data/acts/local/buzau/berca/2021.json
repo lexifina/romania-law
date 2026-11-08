@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/buzau/berca/2021",
+"acts": [
+{
+"slug": "hcl-buzau--berca-17-2021",
+"path": "local/buzau/berca/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 17/2021",
+"short": "HCL Berca nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-21",
+"latest": "2021-01-21",
+"portal": "https://primariaberca.ro/wp-content/uploads/2021/01/17_CLSU_hotarareaCJSUBuzau_nr.17din21.01.2021.pdf",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-26-2021",
+"path": "local/buzau/berca/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 26/2021",
+"short": "HCL Berca nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-05",
+"latest": "2021-02-05",
+"portal": "https://primariaberca.ro/wp-content/uploads/2021/02/26_CLSU_hotarareaCJSUBuzau_nr.26din05.02.2021.pdf",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--berca-74-2021",
+"path": "local/buzau/berca/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berca nr. 74/2021",
+"short": "HCL Berca nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://primariaberca.ro/wp-content/uploads/2021/03/44_CLSU_hotararileCJSUBuzau_nr.74din26.03.2021.pdf",
+"council": "buzau/berca",
+"council_name": "Consiliul Local al Comunei Berca",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

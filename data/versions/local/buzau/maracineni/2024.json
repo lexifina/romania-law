@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/maracineni/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--maracineni-69-2024",
+   "path": "local/buzau/maracineni/2024/69",
+   "short": "HCL Mărăcineni nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 69/2024",
+   "url": "https://primariamaracineni.ro/wp-content/uploads/HCL-nr.-69-%E2%80%93-13.12.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://primariamaracineni.ro/wp-content/uploads/HCL-nr.-69-%E2%80%93-13.12.2024.pdf",
+     "sha256": "6f9e0d99f3942f9c5dc5b94767a7b1ab94a604610212b9d74d03fd62cea0f380"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/pogoanele/2021",
+ "acts": [
+  {
+   "slug": "hcl-buzau--pogoanele-47-2021",
+   "path": "local/buzau/pogoanele/2021/47",
+   "short": "HCL Pogoanele nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Pogoanele nr. 47/2021 Privind ĂƉƌŽďĂƌĞĂ\u0003ŠŶĨŝŝŶƜĉƌŝŝ\u0003ƵŶŽƌ\u0003ƌĂŵƉĞ\u0003ƉĞŶƚƌƵ\u0003ĚĞƉŽǌŝƚĂƌĞĂ\u0003ĚĞƕĞƵƌŝůŽƌ ďŝŽĚĞŐƌĂĚĂďŝůĞ\u0003ƕŝ\u0003Ă\u0003ĚĞƕĞƵƌŝůŽƌ\u0003ƌĞǌƵůƚĂƚĞ\u0003ĚŝŶ\u0003ĐŽŶƐƚƌƵĐƜŝŝ\u0003ƕŝ\u0003ĚĞŵŽůĉƌŝ \u0012ŽŶƐŝůŝƵů\u0003ůŽĐĂů\u0003Ăů\u0003ŽƌĂƕƵůƵŝ\u0003WŽŐŽĂŶĞůĞ͕\u0003ũƵĚĞƜƵů\u0003\u0011ƵǌĉƵ; Având în vedere. - ZĂƉŽƌƚƵů\u0003ĂĚŵŝŶŝƐƚƌĂƚŽƌƵůƵŝ\u0003ƉƵďůŝĐ\u0003Ăů\u0003ŽƌĂƕƵůƵŝ\u0003WŽŐŽĂŶĞůĞ͕\u0003ŠŶƌĞŐŝƐƚƌĂƚ\u0003ůĂ\u0003Ŷƌ͘\u0003 9301/22.09.2021. - Referatul de adŵŝƚĞƌĞ\u0003Ăů\u0003ƉƌŽŝĞĐƚƵůƵŝ\u0003ĚĞ\u0003ŚŽƚĉƌąƌĞ\u0003ĞŵŝƐ\u0003ĚĞ\u0003\u0003WƌŝŵĂƌƵůƵŝ\u0003ŽƌĂƕƵůƵŝ Pogoanele, în",
+   "url": "https://www.primariepogoanele.ro/wp-content/uploads/HCL-nr.-47-din-30.09.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://www.primariepogoanele.ro/wp-content/uploads/HCL-nr.-47-din-30.09.2021.pdf",
+     "sha256": "8e80584022a3356fe8594100d102bfdcd8cac88305fe670f308d39ee860bdf37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pogoanele-55-2021",
+   "path": "local/buzau/pogoanele/2021/55",
+   "short": "HCL Pogoanele nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Pogoanele nr. 55/2021",
+   "url": "https://www.primariepogoanele.ro/hotarari/hcl-55-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariepogoanele.ro/wp-content/uploads/HCL-nr.-55-din-28.10.2021.pdf",
+     "sha256": "519bdbe475c7530e80633d804c1fa6018af5508f166890a789a3e60d75fc633c"
+    }
+   ]
+  }
+ ]
+}

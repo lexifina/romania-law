@@ -228,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-buzau--cislau-23-2021",
+   "path": "local/buzau/cislau/2021/23",
+   "short": "HCL Cislău nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 23/2021 privind acordarea unui mandat special reprezentantului UAT în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ''Buzău 2008'' să voteze aprobarea primirii comunei Cătina în Asociație",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/33691",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/33691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--cislau-24-2021",
+   "path": "local/buzau/cislau/2021/24",
+   "short": "HCL Cislău nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cislău nr. 24/2021 privind acordarea unui mandat special reprezentantului în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ''Buzău 2008'' să voteze aprobarea retragerii comunei Vâlcelele din Asociație",
+   "url": "https://emol.ro/cislau-bz/registru-hcl/33692",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/cislau-bz/registru-hcl/33692",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--cislau-25-2021",
    "path": "local/buzau/cislau/2021/25",
    "short": "HCL Cislău nr. 25/2021",

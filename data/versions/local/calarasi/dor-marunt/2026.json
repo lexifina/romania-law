@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--dor-marunt-17-2026",
+   "path": "local/calarasi/dor-marunt/2026/17",
+   "short": "HCL Dor Mărunt nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 17/2026 privind aprobarea acordării unui sprijin financiar Bisericii Ogoru, comuna Dor Mărunt",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/264943",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/264943",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--dor-marunt-18-2026",
    "path": "local/calarasi/dor-marunt/2026/18",
    "short": "HCL Dor Mărunt nr. 18/2026",
@@ -133,6 +148,21 @@
      "from": "2026-05-21",
      "units": 1,
      "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/264944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-19-2026",
+   "path": "local/calarasi/dor-marunt/2026/19",
+   "short": "HCL Dor Mărunt nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 19/2026 privind aprobarea contractului de consultanță în domeniul bursier, a contractului de asociere bursieră pentru achiziționare de energie electrică în calitate de consumator eligibil, a caietului de sarcini și a modelului de contract pentru vânzare-cumpărare de energie electrică la clienții eligibili",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/264945",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/264945",
      "sha256": null
     }
    ]
@@ -628,6 +658,21 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/295438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--dor-marunt-5-2026",
+   "path": "local/calarasi/dor-marunt/2026/5",
+   "short": "HCL Dor Mărunt nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dor Mărunt nr. 5/2026 privind desemnarea consilierilor locali care să facă parte din Comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al Comunei Dor Mărunt",
+   "url": "https://emol.ro/dormarunt-cl/registru-hcl/254272",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dormarunt-cl/registru-hcl/254272",
      "sha256": null
     }
    ]

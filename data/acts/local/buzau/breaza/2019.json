@@ -158,6 +158,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-buzau--breaza-133-2019",
+"path": "local/buzau/breaza/2019/133",
+"kind": "local",
+"year": "2019",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Breaza nr. 133/2019 privind aprobarea executiei bugetare la 30.09.2019",
+"short": "HCL Breaza nr. 133/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-12-10",
+"latest": "2019-12-10",
+"portal": "https://www.primariabreazabz.ro/hotarari-consiliu-local-2019/",
+"council": "buzau/breaza",
+"council_name": "Consiliul Local al Comunei Breaza",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

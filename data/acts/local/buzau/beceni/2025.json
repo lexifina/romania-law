@@ -3,6 +3,184 @@
 "shard": "local/buzau/beceni/2025",
 "acts": [
 {
+"slug": "hcl-buzau--beceni-1-2025",
+"path": "local/buzau/beceni/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 1/2025",
+"short": "HCL Beceni nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/189378",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--beceni-2-2025",
+"path": "local/buzau/beceni/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 2/2025 privind darea în folosință gratuită a unui spațiu din incinta Dispensarului medical în vederea desfășurării activității de medicină de familie",
+"short": "HCL Beceni nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/189379",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-3-2025",
+"path": "local/buzau/beceni/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 3/2025 privind aprobarea Planului anual de acţiune privind serviciile sociale și Planului anual de asistență medicală comunitară aferent comunei Beceni pentru anul 2025",
+"short": "HCL Beceni nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/189380",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-4-2025",
+"path": "local/buzau/beceni/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 4/2025",
+"short": "HCL Beceni nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/189381",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--beceni-5-2025",
+"path": "local/buzau/beceni/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 5/2025 privind aprobarea documentației tehnico-economice faza Proiect Tehnic, a Devizului General si a Indicatorilor tehnico-economici pentru obiectivul de investiții: „Capacități de producere energie din surse regenerabile de energie, pentru consum propriu în comuna Beceni, județul Buzău”",
+"short": "HCL Beceni nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/189382",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-6-2025",
+"path": "local/buzau/beceni/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 6/2025 privind actualizarea datelor imobilelor înscrise în Cărțile funciare nr. 26616, comuna Beceni și nr. 26617 comuna Beceni",
+"short": "HCL Beceni nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-13",
+"latest": "2025-02-13",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/189383",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-7-2025",
+"path": "local/buzau/beceni/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 7/2025 privind aprobarea indicatorilor tehnico-economici actualizati aferenti obiectivului de investitii ,,Modernizare drumuri locale, Comuna Beceni, Județul Buzău\"",
+"short": "HCL Beceni nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/192246",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-8-2025",
+"path": "local/buzau/beceni/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 8/2025 privind neasumarea responsabilitatii comunei Beceni cu privire la organizarea și derularea procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și pentru derularea măsurilor educative aferente Programului pentru școli al României, aferente programului pentru anii școlari 2027-2028 și 2028-2029 pentru unitătile de învățământ de pe raza comunei Beceni",
+"short": "HCL Beceni nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/193636",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--beceni-9-2025",
 "path": "local/buzau/beceni/2025/9",
 "kind": "local",
@@ -22,6 +200,50 @@
 "council_name": "Consiliul Local al Comunei Beceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--beceni-10-2025",
+"path": "local/buzau/beceni/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 10/2025 privind scoaterea din evidenţa curentă și trecerea în evidență separată a persoanelor aflate în stare de insolvabilitate din comuna Beceni, județul Buzău",
+"short": "HCL Beceni nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/193638",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-11-2025",
+"path": "local/buzau/beceni/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 11/2025 privind aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru obiectivul de investitii cu titlul „REABILITARE IN VEDEREA CRESTERII EFICIENTEI ENERGETICE A CLADIRII CAMIN CULTURAL VALEA PARULUI”",
+"short": "HCL Beceni nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/193639",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -48,6 +270,72 @@
 }
 },
 {
+"slug": "hcl-buzau--beceni-13-2025",
+"path": "local/buzau/beceni/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 13/2025 privind aprobarea participării UAT – Comuna Beceni la Programul național multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+"short": "HCL Beceni nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/193641",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-14-2025",
+"path": "local/buzau/beceni/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 14/2025 privind aprobarea achiziției publice de servicii juridice de consultanță, de asistență și de reprezentare a comunei Beceni în litigiul privind dosarul nr. 13581/315/2024 aflat pe rolul Judecătoriei Târgoviște",
+"short": "HCL Beceni nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/196736",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-15-2025",
+"path": "local/buzau/beceni/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 15/2025 privind aprobarea indicatorilor tehnico-economici actualizati aferenti obiectivului de investitii ,,Modernizare drumuri locale, Comuna Beceni, Județul Buzău\"",
+"short": "HCL Beceni nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/196737",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--beceni-16-2025",
 "path": "local/buzau/beceni/2025/16",
 "kind": "local",
@@ -67,6 +355,138 @@
 "council_name": "Consiliul Local al Comunei Beceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--beceni-17-2025",
+"path": "local/buzau/beceni/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 17/2025 privind aprobarea închirierii, prin atribuire directă, a unor suprafețe de pășune din proprietatea privată a comunei Beceni",
+"short": "HCL Beceni nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/198967",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-18-2025",
+"path": "local/buzau/beceni/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 18/2025 privind actualizarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului comunei Beceni, județul Buzău",
+"short": "HCL Beceni nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/198968",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-19-2025",
+"path": "local/buzau/beceni/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 19/2025 privind aprobarea bugetului local al comunei Beceni pe anul 2025, a listei de investiţii pe anul 2025 și a utilizării în anul 2025 a excedentului rezultat la încheierea exerciţiului bugetar la 31 decembrie 2024 și din anii anteriori",
+"short": "HCL Beceni nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/198969",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-20-2025",
+"path": "local/buzau/beceni/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 20/2025 privind aprobarea contului de execuţie bugetară al comunei Beceni și al Serviciului de salubrizare al comunei Beceni pe anul 2024",
+"short": "HCL Beceni nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/198970",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-21-2025",
+"path": "local/buzau/beceni/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 21/2025 privind alegerea preşedintelui de şedinţă pentru lunile aprilie-iunie 2025",
+"short": "HCL Beceni nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/198971",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-22-2025",
+"path": "local/buzau/beceni/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 22/2025 privind aprobarea achiziției publice de servicii juridice de consultanță, de asistență și de reprezentare a comunei Beceni în litigiul privind dosarul nr. 47460/3/2024 aflat pe rolul Tribunalului București",
+"short": "HCL Beceni nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/198972",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +578,28 @@
 }
 },
 {
+"slug": "hcl-buzau--beceni-27-2025",
+"path": "local/buzau/beceni/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 27/2025 privind aprobarea Strategiei anuale de achizitii publice a comunei Beceni pentru anul 2025 si a programului de achiziţii publice pentru anul 2025",
+"short": "HCL Beceni nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-08",
+"latest": "2025-05-08",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/203968",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--beceni-28-2025",
 "path": "local/buzau/beceni/2025/28",
 "kind": "local",
@@ -224,6 +666,94 @@
 }
 },
 {
+"slug": "hcl-buzau--beceni-31-2025",
+"path": "local/buzau/beceni/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 31/2025 privind modificarea Anexei 3 la Hotărârea Consiliului Local al Comunei Beceni nr. 15 din 12.03.2025 pentru aprobarea indicatorilor tehnico-economici actualizati aferenti obiectivului de investitii „Modernizare drumuri locale, Comuna Beceni, Județul Buzău\"",
+"short": "HCL Beceni nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-08",
+"latest": "2025-05-08",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/203972",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-32-2025",
+"path": "local/buzau/beceni/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 32/2025 privind aprobarea indicatorilor tehnico-economici actualizati aferenti obiectivului de investitii ,,Modernizare drumuri locale, Comuna Beceni, Județul Buzău\"",
+"short": "HCL Beceni nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-15",
+"latest": "2025-05-15",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/206852",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-33-2025",
+"path": "local/buzau/beceni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 33/2025 privind acordarea unui mandat special reprezentantului UAT Beceni în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea revizuirii, modificării și actualizării Contractului de delegare a gestiunii serviciului de alimentare cu apă şi de canalizare, a Regulamentului serviciului și a Contractului de furnizare/prestare",
+"short": "HCL Beceni nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/209686",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-34-2025",
+"path": "local/buzau/beceni/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 34/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Beceni nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/209687",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--beceni-35-2025",
 "path": "local/buzau/beceni/2025/35",
 "kind": "local",
@@ -243,6 +773,138 @@
 "council_name": "Consiliul Local al Comunei Beceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--beceni-36-2025",
+"path": "local/buzau/beceni/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 36/2025 privind schimbarea destinaţieI unor clădiri din incinta Liceului Tehnologic Beceni în vederea demolării",
+"short": "HCL Beceni nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/213391",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-37-2025",
+"path": "local/buzau/beceni/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 37/2025 privind rectificarea bugetului local al comunei Beceni pe anul 2025",
+"short": "HCL Beceni nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/213392",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-38-2025",
+"path": "local/buzau/beceni/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 38/2025 privind aprobarea acordării finanțărilor nerambursabile pentru activități nonprofit de interes general din bugetul propriu al comunei Beceni pentru anul 2025",
+"short": "HCL Beceni nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/213393",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-39-2025",
+"path": "local/buzau/beceni/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 39/2025 privind alegerea preşedintelui de şedinţă pentru lunile iulie-septembrie 2025",
+"short": "HCL Beceni nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/213394",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-40-2025",
+"path": "local/buzau/beceni/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 40/2025 privind aprobarea achiziției unor servicii juridice de consultanță, de asistență și de reprezentare a comunei Beceni",
+"short": "HCL Beceni nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/218123",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-41-2025",
+"path": "local/buzau/beceni/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 41/2025 privind aprobarea contului de executie bugetara al comunei Beceni pentru trimestrul al doilea al anului 2025",
+"short": "HCL Beceni nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/218124",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -331,6 +993,117 @@
 "council_name": "Consiliul Local al Comunei Beceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-buzau--beceni-46-2025",
+"path": "local/buzau/beceni/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 46/2025",
+"short": "HCL Beceni nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/222200",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--beceni-47-2025",
+"path": "local/buzau/beceni/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 47/2025 privind rectificarea bugetului local al comunei Beceni pe anul 2025",
+"short": "HCL Beceni nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-09",
+"latest": "2025-09-09",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/222201",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-48-2025",
+"path": "local/buzau/beceni/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 48/2025 privind desemnarea reprezentanților Consiliului local Beceni în Consiliul de Administrație, în Comisia pentru asigurarea și evaluarea calității în unitățile de învățământ preuniversitar și în Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul Școlar și promovarea interculturalității, ce se vor constitui la nivelul Liceului Tehnologic Beceni",
+"short": "HCL Beceni nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/226382",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-49-2025",
+"path": "local/buzau/beceni/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 49/2025 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de muncitor necalificat în cadrul Serviciului de salubrizare al comunei Beceni",
+"short": "HCL Beceni nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/226383",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--beceni-50-2025",
+"path": "local/buzau/beceni/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Beceni nr. 50/2025 privind rectificarea bugetului local al comunei Beceni pe anul 2025",
+"short": "HCL Beceni nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/beceni-bz/registru-hcl/226384",
+"council": "buzau/beceni",
+"council_name": "Consiliul Local al Comunei Beceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

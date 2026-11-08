@@ -3,6 +3,201 @@
  "shard": "local/calarasi/cascioarele/2024",
  "acts": [
   {
+   "slug": "hcl-calarasi--cascioarele-1-2024",
+   "path": "local/calarasi/cascioarele/2024/1",
+   "short": "HCL Căscioarele nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 1/2024 modificarea Anexei la HCL ne.33/2020",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79183",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-14-2024",
+   "path": "local/calarasi/cascioarele/2024/14",
+   "short": "HCL Căscioarele nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 14/2024 privind aprobare tip suport alimentar pt prescolari si elevii din cadrul scolii Gimnaziale nr.1",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79267",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-15-2024",
+   "path": "local/calarasi/cascioarele/2024/15",
+   "short": "HCL Căscioarele nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 15/2024 privind modificarea Anexei 1 la HCL 33/2020",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79268",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-16-2024",
+   "path": "local/calarasi/cascioarele/2024/16",
+   "short": "HCL Căscioarele nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 16/2024 privind indreptare eroare materiala din HCL nr.54/2023",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79270",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-17-2024",
+   "path": "local/calarasi/cascioarele/2024/17",
+   "short": "HCL Căscioarele nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 17/2024 privind desemnare consilieri in comisia de evaluare a performan'elor profesionale individuale ale secretarului general al comunei",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79271",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-18-2024",
+   "path": "local/calarasi/cascioarele/2024/18",
+   "short": "HCL Căscioarele nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 18/2024 privind acordare stimulent financiar pentru nou nascuti",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79272",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-19-2024",
+   "path": "local/calarasi/cascioarele/2024/19",
+   "short": "HCL Căscioarele nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 19/2024 privind stabilire criterii si metodologie de acordare a ajutoarelor de urgenta in baza Legii196/2016",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79273",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-2-2024",
+   "path": "local/calarasi/cascioarele/2024/2",
+   "short": "HCL Căscioarele nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 2/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-22-2024",
+   "path": "local/calarasi/cascioarele/2024/22",
+   "short": "HCL Căscioarele nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 22/2024 privind inchiriere prin licitatie publica organizata in conditiile legii pentru 3 loturi de teren",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79277",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-24-2024",
+   "path": "local/calarasi/cascioarele/2024/24",
+   "short": "HCL Căscioarele nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 24/2024 privind aprobarea prelungirii prin act aditional a contractului de inchiriere pasune nr.1850/2021",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79279",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-25-2024",
+   "path": "local/calarasi/cascioarele/2024/25",
+   "short": "HCL Căscioarele nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 25/2024 privind rectificarea bugetului local",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79280",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-26-2024",
+   "path": "local/calarasi/cascioarele/2024/26",
+   "short": "HCL Căscioarele nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 26/2024 privind utilizare excedent, rectificare buget local si modificare lista de investitii",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79281",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-27-2024",
+   "path": "local/calarasi/cascioarele/2024/27",
+   "short": "HCL Căscioarele nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 27/2024 privind aprobare documentatie tehnico-economica pentrtu obiectivul de investitii Reparatii trotuare si accese la proprietati",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79282",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79282",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--cascioarele-28-2024",
    "path": "local/calarasi/cascioarele/2024/28",
    "short": "HCL Căscioarele nr. 28/2024",
@@ -28,6 +223,21 @@
      "from": "2024-05-31",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-3-2024",
+   "path": "local/calarasi/cascioarele/2024/3",
+   "short": "HCL Căscioarele nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 3/2024 privind numire administrator SC Gospodarire Comunală Cascioarele",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79186",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79186",
      "sha256": null
     }
    ]
@@ -168,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--cascioarele-4-2024",
+   "path": "local/calarasi/cascioarele/2024/4",
+   "short": "HCL Căscioarele nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 4/2024 privind modificare contract de inchiriere nr.290/2009 si cesiune contract",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79188",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79188",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--cascioarele-40-2024",
    "path": "local/calarasi/cascioarele/2024/40",
    "short": "HCL Căscioarele nr. 40/2024",
@@ -268,6 +493,21 @@
      "from": "2024-11-11",
      "units": 1,
      "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#85982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-9-2024",
+   "path": "local/calarasi/cascioarele/2024/9",
+   "short": "HCL Căscioarele nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 9/2024 privind alegere președinte de ședință",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79194",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#79194",
      "sha256": null
     }
    ]

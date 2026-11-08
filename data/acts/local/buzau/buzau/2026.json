@@ -45,6 +45,29 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-buzau--buzau-64-2026",
+"path": "local/buzau/buzau/2026/64",
+"kind": "local",
+"year": "2026",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 64/2026",
+"short": "HCL Buzău nr. 64/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": null,
+"council": "buzau/buzau",
+"council_name": "Consiliul Local al Municipiului Buzău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

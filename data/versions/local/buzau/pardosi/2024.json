@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/pardosi/2024",
+ "acts": [
+  {
+   "slug": "hcl-buzau--pardosi-2-2024",
+   "path": "local/buzau/pardosi/2024/2",
+   "short": "HCL Pardoși nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 2/2024",
+   "url": "https://www.pardosi.ro/wp-content/uploads/Hotararea-nr.-2-din-26.04.2024-%E2%80%93-BEC-nr.-54-Pardosi.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/Hotararea-nr.-2-din-26.04.2024-%E2%80%93-BEC-nr.-54-Pardosi.pdf",
+     "sha256": "9a755c63ca2a3e303fda00a39d29d14783ebfd21457b3b6af695684f6423298c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--pardosi-3-2024",
+   "path": "local/buzau/pardosi/2024/3",
+   "short": "HCL Pardoși nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Pardoși nr. 3/2024",
+   "url": "https://www.pardosi.ro/wp-content/uploads/Hotararea-nr.-3-din-26.04.2024-%E2%80%93-BEC-nr.-54-Pardosi.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.pardosi.ro/wp-content/uploads/Hotararea-nr.-3-din-26.04.2024-%E2%80%93-BEC-nr.-54-Pardosi.pdf",
+     "sha256": "3eb86439680b4ab3af18944e31ba07ae5d0bfd28ec1eb86aefbfbdcac5aad2b5"
+    }
+   ]
+  }
+ ]
+}

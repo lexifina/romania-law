@@ -11,6 +11,9 @@ it works offline and never connects anywhere: to check an act yourself, open the
 Statuses: current, pending-change, stale, unverified, source-unavailable (data/freshness.json explains each). The
 files give each act's status on the day they were written (`as_of`); this tool also reads each act's `check_due`
 against today (or --as-of), so an act whose check has fallen due since then shows as stale.
+
+Drafts and bills (proiect/, commits labelled `Kind: draft`) are not law: they have no freshness rows, and this tool
+says so when asked for one.
 """
 import argparse
 import csv
@@ -85,6 +88,12 @@ def find(root, target, index, paths):
             if row['act'] == act:
                 return row, folder, rel
     return None, folder, None
+
+
+def is_draft(target, paths):
+    """A draft act or bill (proiect/<initiator>/<year>/<id>, id proiect-...): not law, so never a freshness row."""
+    t = target.strip().strip('/')
+    return t.startswith(('proiect/', 'proiect-')) or str(paths.get(t, '')).startswith('proiect/')
 
 
 def describe(row, folder, rel, summary, today):
@@ -167,6 +176,9 @@ def main(argv=None):
     if a.summary:
         print_summary(summary, a.kind)
         return 0
+    if a.kind == 'proiect':
+        print('proiect: drafts and bills are not law and have no freshness records.', file=sys.stderr)
+        return 1
     if a.stale or a.status:
         want = 'stale' if a.stale else a.status
         n = 0
@@ -184,6 +196,10 @@ def main(argv=None):
         ap.print_help()
         return 2
     paths = load_json(root, 'data/paths.json').get('paths', {})
+    if is_draft(a.act, paths):
+        print(f'{a.act}: a draft (proiect), not law. It was never in force unless and until adopted, so it has no '
+              'freshness record; its README.md names the act it became, if any.', file=sys.stderr)
+        return 1
     row, folder, rel = find(root, a.act, index, paths)
     if not row:
         print(f'{a.act}: no freshness record' + (f' (folder {folder})' if folder else ' (unknown act id)'),

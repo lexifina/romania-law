@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--unguriu-2-2024",
+   "path": "local/buzau/unguriu/2024/2",
+   "short": "HCL Unguriu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 2/2024 privind alegerea, pentru o perioadă de 3 luni, a președintelui de ședință al Consiliului local Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/157816",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/157816",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--unguriu-20-2024",
    "path": "local/buzau/unguriu/2024/20",
    "short": "HCL Unguriu nr. 20/2024",
@@ -373,6 +388,21 @@
      "from": "2024-10-03",
      "units": 1,
      "source_url": "https://emol.ro/unguriu-bz/registru-hcl/157827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--unguriu-8-2024",
+   "path": "local/buzau/unguriu/2024/8",
+   "short": "HCL Unguriu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Unguriu nr. 8/2024 privind aprobarea regulamentului de acordare a ajutoarelor de urgență și ajutoarelor comunitare, aplicabil la nivelul comunei Unguriu, județul Buzău",
+   "url": "https://emol.ro/unguriu-bz/registru-hcl/171668",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/unguriu-bz/registru-hcl/171668",
      "sha256": null
     }
    ]

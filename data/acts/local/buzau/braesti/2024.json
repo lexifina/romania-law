@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/buzau/braesti/2024",
+"acts": [
+{
+"slug": "hcl-buzau--braesti-27-2024",
+"path": "local/buzau/braesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 27/2024",
+"short": "HCL Brăești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-27-din-30.08.2024.pdf",
+"council": "buzau/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--braesti-28-2024",
+"path": "local/buzau/braesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăești nr. 28/2024",
+"short": "HCL Brăești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://braesti-buzau.ro/wp-content/uploads/HCL-nr.-28-din-30.08.2024.pdf",
+"council": "buzau/braesti",
+"council_name": "Consiliul Local al Comunei Brăești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

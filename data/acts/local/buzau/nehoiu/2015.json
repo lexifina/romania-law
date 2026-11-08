@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/buzau/nehoiu/2015",
+"acts": [
+{
+"slug": "hcl-buzau--nehoiu-7-2015",
+"path": "local/buzau/nehoiu/2015/7",
+"kind": "local",
+"year": "2015",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 7/2015 privind aprobarea Programului anual al achizițiilor publice pe anul 2015",
+"short": "HCL Nehoiu nr. 7/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-02-19",
+"latest": "2015-02-19",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2015/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

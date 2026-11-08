@@ -3,6 +3,21 @@
  "shard": "local/buzau/naeni/2025",
  "acts": [
   {
+   "slug": "hcl-buzau--naeni-1-2025",
+   "path": "local/buzau/naeni/2025/1",
+   "short": "HCL Năeni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 1/2025",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/212659",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/212659",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--naeni-10-2025",
    "path": "local/buzau/naeni/2025/10",
    "short": "HCL Năeni nr. 10/2025",
@@ -13,6 +28,21 @@
      "from": "2025-06-17",
      "units": 1,
      "source_url": "https://emol.ro/naeni-bz/registru-hcl/212669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-11-2025",
+   "path": "local/buzau/naeni/2025/11",
+   "short": "HCL Năeni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 11/2025 privind alegerea Comisiei de validare și de numărare a voturilor privind alegerea viceprimarului comunei Năeni, judetul Buzău",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/212670",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/212670",
      "sha256": null
     }
    ]
@@ -33,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--naeni-13-2025",
+   "path": "local/buzau/naeni/2025/13",
+   "short": "HCL Năeni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 13/2025 privind acordarea unui mandat special reprezentantului UAT NĂENI în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară „Buzău 2008” să voteze aprobarea revizuirii, modificării și actualizării Contractului de delegare a gestiunii serviciului de alimentare cu apă şi de canalizare, a Regulamentului serviciului și a Contractului de furnizare/prestare",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/212672",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/212672",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--naeni-14-2025",
    "path": "local/buzau/naeni/2025/14",
    "short": "HCL Năeni nr. 14/2025",
@@ -48,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--naeni-15-2025",
+   "path": "local/buzau/naeni/2025/15",
+   "short": "HCL Năeni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 15/2025 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/212674",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/212674",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--naeni-16-2025",
    "path": "local/buzau/naeni/2025/16",
    "short": "HCL Năeni nr. 16/2025",
@@ -58,6 +118,51 @@
      "from": "2025-09-30",
      "units": 1,
      "source_url": "https://emol.ro/naeni-bz/registru-hcl/227805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-17-2025",
+   "path": "local/buzau/naeni/2025/17",
+   "short": "HCL Năeni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 17/2025 privind modificarea componenței Comsiei nr. 1 a Consiliului Local Năeni - pentru programe de dezvoltare economico-socială, buget - finanțe, administrarea domeniului public și privat al comunei, agricultură, gospodărire comunală, urbanism, protectia mediului, servicii și comerț",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/227806",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/227806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-18-2025",
+   "path": "local/buzau/naeni/2025/18",
+   "short": "HCL Năeni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 18/2025",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/227807",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/227807",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-19-2025",
+   "path": "local/buzau/naeni/2025/19",
+   "short": "HCL Năeni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 19/2025 privind alegerea unui președinte de ședință pentru a conduce ședința de consiliu local din luna iulie 2025",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/227808",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/227808",
      "sha256": null
     }
    ]
@@ -223,6 +328,21 @@
      "from": "2026-02-02",
      "units": 1,
      "source_url": "https://emol.ro/naeni-bz/registru-hcl/250582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-3-2025",
+   "path": "local/buzau/naeni/2025/3",
+   "short": "HCL Năeni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 3/2025",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/212662",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/212662",
      "sha256": null
     }
    ]
@@ -433,6 +553,21 @@
      "from": "2026-02-02",
      "units": 1,
      "source_url": "https://emol.ro/naeni-bz/registru-hcl/250671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--naeni-5-2025",
+   "path": "local/buzau/naeni/2025/5",
+   "short": "HCL Năeni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Năeni nr. 5/2025 privind alegerea unui nou preşedinte de şedinţă al Consiliului local al comunei Năeni, judeţul Buzău",
+   "url": "https://emol.ro/naeni-bz/registru-hcl/212664",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/naeni-bz/registru-hcl/212664",
      "sha256": null
     }
    ]

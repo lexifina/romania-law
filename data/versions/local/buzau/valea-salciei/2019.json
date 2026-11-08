@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/valea-salciei/2019",
+ "acts": [
+  {
+   "slug": "hcl-buzau--valea-salciei-17-2019",
+   "path": "local/buzau/valea-salciei/2019/17",
+   "short": "HCL Valea Salciei nr. 17/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 17/2019",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-17-din-15.04.2019.pdf",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-17-din-15.04.2019.pdf",
+     "sha256": "4be8fb61254cb4bcd828c14aba702b094d8b06718085affdcdec74e60d9798c8"
+    }
+   ]
+  }
+ ]
+}

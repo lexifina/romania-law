@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/cascioarele/2021",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--cascioarele-21-2021",
+   "path": "local/calarasi/cascioarele/2021/21",
+   "short": "HCL Căscioarele nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 21/2021 insusire raport de evaluare pentru imobil cladire Frizerie si Sifonorie precum și achizitionarea prin contract de vanzare cumparare",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#1391",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#1391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--cascioarele-5-2021",
+   "path": "local/calarasi/cascioarele/2021/5",
+   "short": "HCL Căscioarele nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Căscioarele nr. 5/2021 desemnnare consilieri locali in comisia de evaluare secretar",
+   "url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#1344",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#1344",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

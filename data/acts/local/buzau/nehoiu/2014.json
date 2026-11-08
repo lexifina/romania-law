@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/buzau/nehoiu/2014",
+"acts": [
+{
+"slug": "hcl-buzau--nehoiu-52-2014",
+"path": "local/buzau/nehoiu/2014/52",
+"kind": "local",
+"year": "2014",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 52/2014 privind aprobarea actelor de punere în valoare şi recoltarea unor cantităţi de masă lemnoasă de pe terenurile aflate în proprietatea privată a oraşului Nehoiu, acordarea unor ajutoare de urgenţă sub formă de lemn de foc persoanelor singure şi familiilor cu venituri reduse sau fară v",
+"short": "HCL Nehoiu nr. 52/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-24",
+"latest": "2014-10-24",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2014/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--nehoiu-65-2014",
+"path": "local/buzau/nehoiu/2014/65",
+"kind": "local",
+"year": "2014",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Nehoiu nr. 65/2014 privind modificarea si completarea art. 2 din HCL nr 65 din 24.10.2014 a Consiliului Local al orasului Nehoiu",
+"short": "HCL Nehoiu nr. 65/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-10-24",
+"latest": "2014-10-24",
+"portal": "https://www.primaria-nehoiu.ro/hotarari-de-consiliu/hotarari-2021/",
+"council": "buzau/nehoiu",
+"council_name": "Consiliul Local al Orașului Nehoiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

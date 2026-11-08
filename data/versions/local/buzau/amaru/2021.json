@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-10-2021",
+   "path": "local/buzau/amaru/2021/10",
+   "short": "HCL Amaru nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 10/2021 privind aprobarea prețului de închiriere a pajiștilor din comuna Amaru, jud. Buzău având în vedere prețul minim rezultat din formula de calcul stabilită prin Amenajamentul pastoral de 189 lei/ha pe an",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/23189",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/23189",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-11-2021",
    "path": "local/buzau/amaru/2021/11",
    "short": "HCL Amaru nr. 11/2021",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-14-2021",
+   "path": "local/buzau/amaru/2021/14",
+   "short": "HCL Amaru nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 14/2021",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/23215",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/23215",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-15-2021",
    "path": "local/buzau/amaru/2021/15",
    "short": "HCL Amaru nr. 15/2021",
@@ -103,6 +133,21 @@
      "from": "2021-04-21",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/34188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-18-2021",
+   "path": "local/buzau/amaru/2021/18",
+   "short": "HCL Amaru nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 18/2021 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/34189",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/34189",
      "sha256": null
     }
    ]
@@ -228,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-26-2021",
+   "path": "local/buzau/amaru/2021/26",
+   "short": "HCL Amaru nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 26/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/34201",
+   "versions": [
+    {
+     "from": "2021-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/34201",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-27-2021",
    "path": "local/buzau/amaru/2021/27",
    "short": "HCL Amaru nr. 27/2021",
@@ -238,6 +298,51 @@
      "from": "2021-08-20",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/34202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-28-2021",
+   "path": "local/buzau/amaru/2021/28",
+   "short": "HCL Amaru nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 28/2021 privind desemnarea reprezentantului Consiliului local în Consiliul de administrație al școlii Amaru",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/37558",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/37558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-29-2021",
+   "path": "local/buzau/amaru/2021/29",
+   "short": "HCL Amaru nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 29/2021 privind desemnarea unui reprezentant al Consiliului Local Amaru în ”Comisia de evaluare și asigurarea calității” (CEAC) în anul școlar 2021-2022",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/37559",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/37559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-3-2021",
+   "path": "local/buzau/amaru/2021/3",
+   "short": "HCL Amaru nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 3/2021 privind domeniile de activitate în care se poate presta munca în folosul comunității de către contravenienți",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/16618",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/16618",
      "sha256": null
     }
    ]
@@ -553,6 +658,21 @@
      "from": "2021-12-10",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/47729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-5-2021",
+   "path": "local/buzau/amaru/2021/5",
+   "short": "HCL Amaru nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 5/2021 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/16620",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/16620",
      "sha256": null
     }
    ]

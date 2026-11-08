@@ -3,6 +3,29 @@
 "shard": "local/buzau/valea-salciei/2018",
 "acts": [
 {
+"slug": "hcl-buzau--valea-salciei-1-2018",
+"path": "local/buzau/valea-salciei/2018/1",
+"kind": "local",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 1/2018",
+"short": "HCL Valea Salciei nr. 1/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-04",
+"latest": "2018-01-04",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-1-din-04.01.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-buzau--valea-salciei-2-2018",
 "path": "local/buzau/valea-salciei/2018/2",
 "kind": "local",
@@ -23,6 +46,162 @@
 "flags": {
 "text_withheld": "personal_data",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--valea-salciei-11-2018",
+"path": "local/buzau/valea-salciei/2018/11",
+"kind": "local",
+"year": "2018",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 11/2018",
+"short": "HCL Valea Salciei nr. 11/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-02-16",
+"latest": "2018-02-16",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-11-din-16.02.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--valea-salciei-19-2018",
+"path": "local/buzau/valea-salciei/2018/19",
+"kind": "local",
+"year": "2018",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 19/2018",
+"short": "HCL Valea Salciei nr. 19/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-07-30",
+"latest": "2018-07-30",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-19-din-30.07.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--valea-salciei-21-2018",
+"path": "local/buzau/valea-salciei/2018/21",
+"kind": "local",
+"year": "2018",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 21/2018 privind alegerea președintelui de ședință Consiliul local al comunei Valea Salciei,județul Buzău, Având în vedere în vedere dispozițiile art.35,41 și ale art.45,alin.1 din Legea administrației publice locale nr.215/2001,republicată,cu modificările și completările ulterioare, HOTĂRĂȘTE: Art.1.Se alege președintele de ședință al Consiliului local al comunei Valea Salciei,județul Buzău,în sarcina dom",
+"short": "HCL Valea Salciei nr. 21/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-03",
+"latest": "2018-09-03",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-21-din-03.09.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--valea-salciei-22-2018",
+"path": "local/buzau/valea-salciei/2018/22",
+"kind": "local",
+"year": "2018",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 22/2018",
+"short": "HCL Valea Salciei nr. 22/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-03",
+"latest": "2018-09-03",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-22-din-03.09.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-buzau--valea-salciei-23-2018",
+"path": "local/buzau/valea-salciei/2018/23",
+"kind": "local",
+"year": "2018",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 23/2018",
+"short": "HCL Valea Salciei nr. 23/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-09-21",
+"latest": "2018-09-21",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-23-din-21.09.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--valea-salciei-25-2018",
+"path": "local/buzau/valea-salciei/2018/25",
+"kind": "local",
+"year": "2018",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 25/2018",
+"short": "HCL Valea Salciei nr. 25/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-24",
+"latest": "2018-10-24",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-25-din-24.10.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-buzau--valea-salciei-31-2018",
+"path": "local/buzau/valea-salciei/2018/31",
+"kind": "local",
+"year": "2018",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 31/2018",
+"short": "HCL Valea Salciei nr. 31/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-19",
+"latest": "2018-12-19",
+"portal": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-31-din-19.12.2018.pdf",
+"council": "buzau/valea-salciei",
+"council_name": "Consiliul Local al Comunei Valea Salciei",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

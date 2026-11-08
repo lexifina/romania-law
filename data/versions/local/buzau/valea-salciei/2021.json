@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/valea-salciei/2021",
+ "acts": [
+  {
+   "slug": "hcl-buzau--valea-salciei-19-2021",
+   "path": "local/buzau/valea-salciei/2021/19",
+   "short": "HCL Valea Salciei nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 19/2021",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-19-din-12.04.2021.pdf",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-19-din-12.04.2021.pdf",
+     "sha256": "dc0d2e1c7ee233eef38006a368d7f77e23837265dae5f448df923917d990e8f6"
+    }
+   ]
+  }
+ ]
+}

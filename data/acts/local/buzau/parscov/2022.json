@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-buzau--parscov-25-2022",
+"path": "local/buzau/parscov/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pârscov nr. 25/2022 privind alegerea preşedintelui de şedinţă al Consiliului local Pârscov, judeţul Buzău",
+"short": "HCL Pârscov nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-09",
+"latest": "2022-09-09",
+"portal": "https://emol.ro/parscov-bz/registru-hcl/71074",
+"council": "buzau/parscov",
+"council_name": "Consiliul Local al Comunei Pârscov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-buzau--parscov-26-2022",
 "path": "local/buzau/parscov/2022/26",
 "kind": "local",

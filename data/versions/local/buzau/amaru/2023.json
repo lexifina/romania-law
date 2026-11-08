@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-buzau--amaru-19-2023",
+   "path": "local/buzau/amaru/2023/19",
+   "short": "HCL Amaru nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 19/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/109746",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/109746",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-buzau--amaru-2-2023",
    "path": "local/buzau/amaru/2023/2",
    "short": "HCL Amaru nr. 2/2023",
@@ -283,6 +298,21 @@
      "from": "2023-10-10",
      "units": 1,
      "source_url": "https://emol.ro/amaru-bz/registru-hcl/119855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-buzau--amaru-28-2023",
+   "path": "local/buzau/amaru/2023/28",
+   "short": "HCL Amaru nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Amaru nr. 28/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/amaru-bz/registru-hcl/119856",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/amaru-bz/registru-hcl/119856",
      "sha256": null
     }
    ]

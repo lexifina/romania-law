@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/victoria/2021",
+"acts": [
+{
+"slug": "hcl-brasov--victoria-253-2021",
+"path": "local/brasov/victoria/2021/253",
+"kind": "local",
+"year": "2021",
+"number": "253",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Victoria nr. 253/2021 privind codul ALdum6nindisitrnaticvo,ncsuidmeroadriefica5rvilieze9lei ccoommpriseitiblorirreduertesrpioeacriea;litate din cadrul Consiliului Local Victoria gi propunerile ficute in gedint5; In temeiul aft.139 alin.1 din OUG nr. 57120t9 privind Codul administrativ, cu modific5rile 9i complettrile ulterioare; xorARAsre: Aft.l",
+"short": "HCL Victoria nr. 253/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-10",
+"latest": "2021-12-10",
+"portal": "https://primariavictoria.ro/index.php/consiliul_local/hotarari/P120",
+"council": "brasov/victoria",
+"council_name": "Consiliul Local al Orașului Victoria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

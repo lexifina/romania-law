@@ -31,6 +31,21 @@
      "sha256": "21c5a02215832c2e75b5177fd10146fd9c43b25542d6790960e49a36674ac8af"
     }
    ]
+  },
+  {
+   "slug": "hcl-buzau--buzau-64-2026",
+   "path": "local/buzau/buzau/2026/64",
+   "short": "HCL Buzău nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 64/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8e907aa9e36ae99945ae4417e0cffe4d473b4e9b8292cad82aadc508031dd40c"
+    }
+   ]
   }
  ]
 }

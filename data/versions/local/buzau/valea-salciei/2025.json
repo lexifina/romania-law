@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/buzau/valea-salciei/2025",
+ "acts": [
+  {
+   "slug": "hcl-buzau--valea-salciei-55-2025",
+   "path": "local/buzau/valea-salciei/2025/55",
+   "short": "HCL Valea Salciei nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Salciei nr. 55/2025",
+   "url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-55-din-30.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://www.comuna-valeasalciei.ro/wp-content/uploads/HCL-nr.-55-din-30.12.2025.pdf",
+     "sha256": "0ceeeed7a09e1d8d2b97b14137438e18b85158c10e1a3cfcd570d01ab0ea7603"
+    }
+   ]
+  }
+ ]
+}
